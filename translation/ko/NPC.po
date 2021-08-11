@@ -1,0 +1,598 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "Kaseinax_Magister_Title"
+msgid "The Magister"
+msgstr ""
+
+msgctxt "MasterOfMagic_Title"
+msgid "Master of Magic"
+msgstr ""
+
+msgctxt "Merchant"
+msgid "Merchant"
+msgstr ""
+
+msgctxt "NPC_Adam_the_twelfth_Title"
+msgid "Adam the Twelfth"
+msgstr ""
+
+msgctxt "NPC_AkshaTitle"
+msgid "Aksha"
+msgstr ""
+
+msgctxt "NPC_AlenaSwiftTitle"
+msgid "Alena Swift"
+msgstr ""
+
+msgctxt "NPC_Angbi_Title"
+msgid "Angbi Kramsson"
+msgstr ""
+
+msgctxt "NPC_AnnieBagmordahTitle"
+msgid "Annie Bagmordah"
+msgstr ""
+
+msgctxt "NPC_ArwinMertonTitle"
+msgid "Arwin Merton"
+msgstr ""
+
+msgctxt "NPC_ArwinMertonUnknownTitle"
+msgid "Unknown Drunk"
+msgstr ""
+
+msgctxt "NPC_AtimaBladeburnTitle"
+msgid "Atima Bladeburn"
+msgstr ""
+
+msgctxt "NPC_BanditCrossbowDescription"
+msgid "This bandit stands back to shoot with a crossbow."
+msgstr ""
+
+msgctxt "NPC_BanditCrossbowTitle"
+msgid "Bandit Skirmisher"
+msgstr ""
+
+msgctxt "NPC_BanditDescription"
+msgid "A malevolent fighter using a scimitar."
+msgstr ""
+
+msgctxt "NPC_BanditDwarfDescription"
+msgid "Short and stout, this bandit wields a scimitar."
+msgstr ""
+
+msgctxt "NPC_BanditDwarfTitle"
+msgid "Dwarf Bandit"
+msgstr ""
+
+msgctxt "NPC_BanditHalflingDescription"
+msgid "Short and nimble, this bandit carries a crossbow."
+msgstr ""
+
+msgctxt "NPC_BanditHalflingTitle"
+msgid "Dwarf Bandit"
+msgstr ""
+
+msgctxt "NPC_BanditLoanSharkDescription"
+msgid "Loan Shark"
+msgstr ""
+
+msgctxt "NPC_BanditLoanSharkTitle"
+msgid "Loan Shark"
+msgstr ""
+
+msgctxt "NPC_BanditQuartermasterTitle"
+msgid "Bandit Quartermaster"
+msgstr ""
+
+msgctxt "NPC_BanditSwordsmanDescription"
+msgid "Tall and powerful, this bandit wields a greatsword."
+msgstr ""
+
+msgctxt "NPC_BanditSwordsmanTitle"
+msgid "Highwayman"
+msgstr ""
+
+msgctxt "NPC_BanditTitle"
+msgid "Bandit"
+msgstr ""
+
+msgctxt "NPC_BericSunblazeTitle"
+msgid "Marshal Beric Sunblaze"
+msgstr ""
+
+msgctxt "NPC_BerylStonebeardTitle"
+msgid "Beryl Stonebeard"
+msgstr ""
+
+msgctxt "NPC_BradfordRavensworthTitle"
+msgid "Bradford Ravensworth"
+msgstr ""
+
+msgctxt "NPC_CeiwadSilverflowerTitle"
+msgid "Princess Ceiwad Silverflower"
+msgstr ""
+
+msgctxt "NPC_CitizenTitle"
+msgid "Citizen"
+msgstr ""
+
+msgctxt "NPC_CityGuardTitle"
+msgid "City Guard"
+msgstr ""
+
+msgctxt "NPC_CoparannGuardTitle"
+msgid "Coparann Guard"
+msgstr ""
+
+msgctxt "NPC_DalonLarkTitle"
+msgid "Chaplain Dalon Lark"
+msgstr ""
+
+msgctxt "NPC_DarikSunbirdTitle"
+msgid "Daliat Sunbird"
+msgstr ""
+
+msgctxt "NPC_DekTitle"
+msgid "Dek"
+msgstr ""
+
+msgctxt "NPC_EdvanDanantarTitle"
+msgid "Grandmaster Edvan Danantar"
+msgstr ""
+
+msgctxt "NPC_Galar_Title"
+msgid "Galar Goldentongue"
+msgstr ""
+
+msgctxt "NPC_GorimIronsootTitle"
+msgid "Gorim Ironsoot"
+msgstr ""
+
+msgctxt "NPC_Gromnir_Title"
+msgid "Baron Gromnir Stonefist"
+msgstr ""
+
+msgctxt "NPC_HalmanGormsdottirTitle"
+msgid "Chancellor Hertha Gormsdottir"
+msgstr ""
+
+msgctxt "NPC_HalmanSummerTitle"
+msgid "Halman Summer"
+msgstr ""
+
+msgctxt "NPC_HeatherMerranTitle"
+msgid "Captain Heather Merran"
+msgstr ""
+
+msgctxt "NPC_HectorTitle"
+msgid "Hector"
+msgstr ""
+
+msgctxt "NPC_HeddlonSurespellTitle"
+msgid "Heddlon Surespell"
+msgstr ""
+
+msgctxt "NPC_Hieronymus"
+msgid "Unknown Hero"
+msgstr ""
+
+msgctxt "NPC_HugoRequerTitle"
+msgid "Hugo Requer"
+msgstr ""
+
+msgctxt "NPC_IdrielFairbrowTitle"
+msgid "Idriel Fairbrow"
+msgstr ""
+
+msgctxt "NPC_IlastarKeenmindAirgetineDescription"
+msgid ""
+"Ilastar is a member of the noble house Airgetine, whose forefathers were "
+"wizards of the Arcaneum. As with many Imperial families of that time, his "
+"family was originally a minor branch of the clan and began to rise to "
+"prominence after the Cataclysm, as it backed the first Emperor (\"The "
+"Wailing Emperor\") who took the rough decisions ultimately leading to the "
+"survival of Civilization and to the rise of the New Empire. More than "
+"anybody else of his generation, Ilastar is aware of what was lost and was a "
+"major proponent of participating to the Council, in the hope of gathering "
+"magical materials and writings expanding his knowledge of magic and thus "
+"giving the empire an edge in future conflicts. His main worry is that "
+"historical documents come to the fore, revealing some truths better left "
+"alone. "
+msgstr ""
+
+msgctxt "NPC_IlastarKeenmindAirgetineTitle"
+msgid "Master Ilastar Keenmind Airgetine"
+msgstr ""
+
+msgctxt "NPC_IolairFaisechTitle"
+msgid "Dean Iolair Faisech"
+msgstr ""
+
+msgctxt "NPC_JorielFoxeyeTitle"
+msgid "Joriel Foxeye"
+msgstr ""
+
+msgctxt "NPC_KarelMartelTitle"
+msgid "Karel Martel"
+msgstr ""
+
+msgctxt "NPC_Kiaradth_Bright_SparkTitle"
+msgid "Mayor Kiaradth Bright-Spark"
+msgstr ""
+
+msgctxt "NPC_Kythaela_Title"
+msgid "Kythaela"
+msgstr ""
+
+msgctxt "NPC_LeiraKeanDescription"
+msgid ""
+"Leira Kean was born and raised in Heart of Valor, the city built around the "
+"Einareum. She discovered Einar fairly early in her life and many thought she "
+"would make a fine priestess. Instead she chose the path of the paladin, "
+"pledging her life to protect Solasta from all Sorr-Akkath-related dangers. "
+"Leira is a dedicated paladin with seriousness etched in her face. She is "
+"well-versed in history and fluent in ancient Tirmarian. She is a good "
+"fighter but also a keen judge of character. She is just and she listens and "
+"decides based on facts, not on hearsay or rumor. Those traits led to her "
+"nomination on the Council as Oathkeeper. "
+msgstr ""
+
+msgctxt "NPC_LeiraKeanTitle"
+msgid "Protector Leira Kean"
+msgstr ""
+
+msgctxt "NPC_LenaTitle"
+msgid "Lena"
+msgstr ""
+
+msgctxt "NPC_LiamTitle"
+msgid "Liam"
+msgstr ""
+
+msgctxt "NPC_LisbathTownsendTitle"
+msgid "Lisbath Townsend"
+msgstr ""
+
+msgctxt "NPC_Lizzaria_Title"
+msgid "Lizzaria of Grimhold"
+msgstr ""
+
+msgctxt "NPC_LordCarranTitle"
+msgid "Lord Carran"
+msgstr ""
+
+msgctxt "NPC_MaddyGreenisleTitle"
+msgid "Maddy Greenisle"
+msgstr ""
+
+msgctxt "NPC_Mardracht_Title"
+msgid "Master Mardracht"
+msgstr ""
+
+msgctxt "NPC_MedwalStrongfireTitle"
+msgid "Medwal Strongfire"
+msgstr ""
+
+msgctxt "NPC_MordenKyreTitle"
+msgid "Morden Kyre"
+msgstr ""
+
+msgctxt "NPC_NecromancerAcolyteTitle"
+msgid "Necromancer Acolyte"
+msgstr ""
+
+msgctxt "NPC_NecromancerTitle"
+msgid "Necromancer"
+msgstr ""
+
+msgctxt "NPC_Nikannen_Title"
+msgid "Joris Nikannen"
+msgstr ""
+
+msgctxt "NPC_Priest_Of_ArunTitle"
+msgid "Priest of Arun"
+msgstr ""
+
+msgctxt "NPC_Priest_Of_EinarTitle"
+msgid "Priest of Einar"
+msgstr ""
+
+msgctxt "NPC_Priest_Of_MaraikeTitle"
+msgid "Priest of Maraike"
+msgstr ""
+
+msgctxt "NPC_Priest_Of_PakriTitle"
+msgid "Priestess of Pakri"
+msgstr ""
+
+msgctxt "NPC_RazanTitle"
+msgid "Razan"
+msgstr ""
+
+msgctxt "NPC_RobarSharpTitle"
+msgid "Robar Sharp"
+msgstr ""
+
+msgctxt "NPC_Talbut_Title"
+msgid "Talbut the Grey"
+msgstr ""
+
+msgctxt "NPC_TEMP_Quest_GiverTitle"
+msgid "TEMP_Quest_Giver"
+msgstr ""
+
+msgctxt "NPC_VerissaIronshellTitle"
+msgid "Captain Verissa Ironshell"
+msgstr ""
+
+msgctxt "NPC_Wilf_Title"
+msgid "Wilf Warmhearth"
+msgstr ""
+
+msgctxt "NPC_NecromancerBoneKeepTitle"
+msgid "Dark Apprentice"
+msgstr ""
+
+msgctxt "NPC_NecromancerBoneKeepDescription"
+msgid ""
+"A dangerous but not yet fully learned necromancer, probably a student of a "
+"more experienced master residing nearby."
+msgstr ""
+
+msgctxt "Milan_ScavengersTitle"
+msgid "Milan"
+msgstr ""
+
+msgctxt "NPC_Ceannard_Title"
+msgid "Ceannard"
+msgstr ""
+
+msgctxt "NPC_Kebra_Title"
+msgid "Kebra"
+msgstr ""
+
+msgctxt "NPC_Brok_Title"
+msgid "Brok"
+msgstr ""
+
+msgctxt "NPC_Arbal_Title"
+msgid "Arbal"
+msgstr ""
+
+msgctxt "NPC_Mildred_Title"
+msgid "Mildred Warmhearth"
+msgstr ""
+
+msgctxt "NPC_Maid_Title"
+msgid "Maid"
+msgstr ""
+
+msgctxt "NPC_CoparannGuardSorakAgentTitle"
+msgid "Corrupted Guard"
+msgstr ""
+
+msgctxt "NPC_Gromnir_SorakTitle"
+msgid "Sorak Infiltrator"
+msgstr ""
+
+msgctxt "NPC_Spectral_Servant_Title"
+msgid "Spectral Servant"
+msgstr ""
+
+msgctxt "NPC_Bitterroot_Title"
+msgid "Bitterroot"
+msgstr ""
+
+msgctxt "NPC_Dackin_Title"
+msgid "Master Dackin"
+msgstr ""
+
+msgctxt "NPC_Adria_Title"
+msgid "Adria"
+msgstr ""
+
+msgctxt "NPC_Lyria_Title"
+msgid "Lyria"
+msgstr ""
+
+msgctxt "NPC_Drew_Title"
+msgid "Drew"
+msgstr ""
+
+msgctxt "NPC_Notary_Title"
+msgid "Notary"
+msgstr ""
+
+msgctxt "NPC_MajorGateOfficer_Title"
+msgid "Major Gate Officer"
+msgstr ""
+
+msgctxt "NPC_MajorGateOfficer_Description"
+msgid "Interact to use the Major Gate."
+msgstr ""
+
+msgctxt "NPC_SpeakRavensworth_Description"
+msgid "Speak to enter the residence."
+msgstr ""
+
+msgctxt "NPC_Edrof_Title"
+msgid "Edrof"
+msgstr ""
+
+msgctxt "NPC_Radulf_Title"
+msgid "Radulf"
+msgstr ""
+
+msgctxt "NPC_Urka_Title"
+msgid "Urka"
+msgstr ""
+
+msgctxt "NPC_Galaefin"
+msgid "Master Galeafin"
+msgstr ""
+
+msgctxt "NPC_GalaefinsButler"
+msgid "Butler"
+msgstr ""
+
+msgctxt "NPC_Illoreth"
+msgid "Illoreth"
+msgstr ""
+
+msgctxt "NPC_Stig_Title"
+msgid "Stig"
+msgstr ""
+
+msgctxt "NPC_CaporalDan_Title"
+msgid "Corporal Dann"
+msgstr ""
+
+msgctxt "NPC_PrivateGarth_Title"
+msgid "Private Garth"
+msgstr ""
+
+msgctxt "NPC_ShieldguardTradtsson_Title"
+msgid "Shieldguard Tradtsson"
+msgstr ""
+
+msgctxt "NPC_PrivateRodric_Title"
+msgid "Rodric"
+msgstr ""
+
+msgctxt "NPC_Bertram"
+msgid "Bertram"
+msgstr ""
+
+msgctxt "NPC_CaerLemGarrison"
+msgid "Council Trooper"
+msgstr ""
+
+msgctxt "NPC_Priest_Of_MisayeTitle"
+msgid "Nel"
+msgstr ""
+
+msgctxt "NPC_Coparann_Archivist_Title"
+msgid "Archivist"
+msgstr ""
+
+msgctxt "NPC_Arrok_Title"
+msgid "Arrok"
+msgstr ""
+
+msgctxt "NPC_Joran_Title"
+msgid "Joran Crawley"
+msgstr ""
+
+msgctxt "NPC_GenericSorakInfiltrator_Title"
+msgid "Sorak Infiltrator"
+msgstr ""
+
+msgctxt "NPC_Belmont_Title"
+msgid "Lord Belmont"
+msgstr ""
+
+msgctxt "NPC_CityGuard_Embassy_Empire_Title"
+msgid "New Empire Embassy Guard"
+msgstr ""
+
+msgctxt "NPC_CityGuard_Embassy_Gallivan_Title"
+msgid "Gallivan Embassy Guard"
+msgstr ""
+
+msgctxt "NPC_Priest_Of_MisayeDescription"
+msgid "Priest of Misaye"
+msgstr ""
+
+msgctxt "NPC_Scavenger_TOM_Title"
+msgid "Ramin Blake"
+msgstr ""
+
+msgctxt "NPC_Council_Trooper_Title"
+msgid "Legacy Council Trooper"
+msgstr ""
+
+msgctxt "GunnarElderen_Title"
+msgid "Gunnar Elderen"
+msgstr ""
+
+msgctxt "NPC_Galaefin_Plaque_Title"
+msgid "Master Galeafin, philosopher and peer of the kingdom."
+msgstr ""
+
+msgctxt "AllanMiller_Title"
+msgid "Allan Miller"
+msgstr ""
+
+msgctxt "NPC_Backer_Ron_Title"
+msgid "Ron"
+msgstr ""
+
+msgctxt "NPC_Backer_Zhoron_Title"
+msgid "Zhoron"
+msgstr ""
+
+msgctxt "NPC_Estalla_Title"
+msgid "Estalla Mertvykh"
+msgstr ""
+
+msgctxt "NPC_Rogrok_Title"
+msgid "Rogrok"
+msgstr ""
+
+msgctxt "NPC_Rogrok_Description"
+msgid ""
+"A chieftain who decided to stop fighting with an axe to become a merchant."
+msgstr ""
+
+msgctxt "NPC_Circe_Title"
+msgid "Circe Gerardoirin"
+msgstr ""
+
+msgctxt "NPC_Circe_Description"
+msgid ""
+"This mischievous lady moved here to explore and find all the books she could."
+msgstr ""
+
+msgctxt "NPC_Mogo_Title"
+msgid "Mogo the Poor"
+msgstr ""
+
+msgctxt "NPC_Laethar_Title"
+msgid "Emperor Laethar"
+msgstr ""
+
+msgctxt "NPC_Magister_Title"
+msgid "Kaseinax"
+msgstr ""
+
+msgctxt "NPC_Adrasteia_Title"
+msgid "Adrasteia"
+msgstr ""
+
+msgctxt "NPC_Marches_01_Title"
+msgid "Lord Hammond"
+msgstr ""
+
+msgctxt "NPC_Marches_02_Title"
+msgid "Helia Fairblade"
+msgstr ""
+
+msgctxt "NPC_Marches_03_Title"
+msgid "Leyrin Catpaw"
+msgstr ""
+
+msgctxt "NPC_Marches_04_Title"
+msgid "Krim Sunsail"
+msgstr ""

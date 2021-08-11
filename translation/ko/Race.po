@@ -1,0 +1,901 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "DwarfDescription"
+msgid ""
+"One of the ancient dwellers of Solasta, dwarves are naturally skilled miners "
+"and craftsmen. Blocky and sturdy, they are fierce warriors and keepers of "
+"their ancestral culture and traditions."
+msgstr ""
+
+msgctxt "DwarfFemaleName1Title"
+msgid "Andrya"
+msgstr ""
+
+msgctxt "DwarfFemaleName2Title"
+msgid "Aellin"
+msgstr ""
+
+msgctxt "DwarfFemaleName3Title"
+msgid "Eurhild"
+msgstr ""
+
+msgctxt "DwarfFemaleName4Title"
+msgid "Bergit"
+msgstr ""
+
+msgctxt "DwarfFemaleName5Title"
+msgid "Gilda"
+msgstr ""
+
+msgctxt "DwarfFemaleName6Title"
+msgid "Gertrud"
+msgstr ""
+
+msgctxt "DwarfFemaleName7Title"
+msgid "Freya"
+msgstr ""
+
+msgctxt "DwarfHillDescription"
+msgid ""
+"<#B5D3DE>Hill dwarves</color> are naturally skilled miners and craftsmen, "
+"gifted with keen senses, deep intuition, and remarkable resilience. Blocky "
+"and sturdy, they are fierce warriors and keepers of their ancestral culture "
+"and traditions."
+msgstr ""
+
+msgctxt "DwarfHillTitle"
+msgid "Hill Dwarf"
+msgstr ""
+
+msgctxt "DwarfMaleName1Title"
+msgid "Erik"
+msgstr ""
+
+msgctxt "DwarfMaleName2Title"
+msgid "Aldrich"
+msgstr ""
+
+msgctxt "DwarfMaleName3Title"
+msgid "Bjorn"
+msgstr ""
+
+msgctxt "DwarfMaleName4Title"
+msgid "Berden"
+msgstr ""
+
+msgctxt "DwarfMaleName5Title"
+msgid "Fauffy"
+msgstr ""
+
+msgctxt "DwarfMaleName6Title"
+msgid "Znork"
+msgstr ""
+
+msgctxt "DwarfMaleName7Title"
+msgid "Jovelin"
+msgstr ""
+
+msgctxt "DwarfMaleName8Title"
+msgid "Dilligaff"
+msgstr ""
+
+msgctxt "DwarfSnowDescription"
+msgid ""
+"<#B5D3DE>Snow dwarves</color> are sturdy and adventurous, adapted to harsh "
+"terrain and low temperatures. Blocky, agile, and sturdy, they are fierce "
+"warriors and keepers of their ancestral culture and traditions."
+msgstr ""
+
+msgctxt "DwarfSnowTitle"
+msgid "Snow Dwarf"
+msgstr ""
+
+msgctxt "DwarfSurName1Title"
+msgid "Tallbarrel"
+msgstr ""
+
+msgctxt "DwarfSurName2Title"
+msgid "Stronghammer"
+msgstr ""
+
+msgctxt "DwarfSurName3Title"
+msgid "Redstone"
+msgstr ""
+
+msgctxt "DwarfSurName4Title"
+msgid "Blackshield"
+msgstr ""
+
+msgctxt "DwarfSurName5Title"
+msgid "Forgehand"
+msgstr ""
+
+msgctxt "DwarfSurName6Title"
+msgid "Baerleybrew"
+msgstr ""
+
+msgctxt "DwarfSurName7Title"
+msgid "Stoutshield"
+msgstr ""
+
+msgctxt "DwarfSurNameTitle"
+msgid "Clan"
+msgstr ""
+
+msgctxt "DwarfTitle"
+msgid "Dwarf"
+msgstr ""
+
+msgctxt "ElfDescription"
+msgid ""
+"Elves are some of the most ancient dwellers on Solasta, and used to rule a "
+"powerful empire before the Cataclysm. They are naturally gifted with magic, "
+"agile, and fast. They have innate resistances and keen senses."
+msgstr ""
+
+msgctxt "ElfFemaleName10Title"
+msgid "Keavith"
+msgstr ""
+
+msgctxt "ElfFemaleName11Title"
+msgid "Lianore"
+msgstr ""
+
+msgctxt "ElfFemaleName12Title"
+msgid "Beriiel"
+msgstr ""
+
+msgctxt "ElfFemaleName13Title"
+msgid "Phoebe"
+msgstr ""
+
+msgctxt "ElfFemaleName14Title"
+msgid "Synria"
+msgstr ""
+
+msgctxt "ElfFemaleName15Title"
+msgid "Sonea"
+msgstr ""
+
+msgctxt "ElfFemaleName16Title"
+msgid "Celeste"
+msgstr ""
+
+msgctxt "ElfFemaleName1Title"
+msgid "Allanagh"
+msgstr ""
+
+msgctxt "ElfFemaleName2Title"
+msgid "Hormath"
+msgstr ""
+
+msgctxt "ElfFemaleName3Title"
+msgid "Fiachnail"
+msgstr ""
+
+msgctxt "ElfFemaleName4Title"
+msgid "Emera"
+msgstr ""
+
+msgctxt "ElfFemaleName5Title"
+msgid "Kenndra"
+msgstr ""
+
+msgctxt "ElfFemaleName6Title"
+msgid "Liadainna"
+msgstr ""
+
+msgctxt "ElfFemaleName7Title"
+msgid "Nialla"
+msgstr ""
+
+msgctxt "ElfFemaleName8Title"
+msgid "Saorla"
+msgstr ""
+
+msgctxt "ElfFemaleName9Title"
+msgid "Teaghan"
+msgstr ""
+
+msgctxt "ElfHighDescription"
+msgid ""
+"<#B5D3DE>High elves</color> are the descendants of the people who ruled "
+"Solasta for centuries. They are trained to use magic very early, and have a "
+"gift for languages. They receive the traditional martial training of their "
+"people with swords and bows."
+msgstr ""
+
+msgctxt "ElfHighTitle"
+msgid "High Elf"
+msgstr ""
+
+msgctxt "ElfMaleName10Title"
+msgid "Ravoprax"
+msgstr ""
+
+msgctxt "ElfMaleName11Title"
+msgid "Kelos"
+msgstr ""
+
+msgctxt "ElfMaleName12Title"
+msgid "Eloann"
+msgstr ""
+
+msgctxt "ElfMaleName13Title"
+msgid "Gallian"
+msgstr ""
+
+msgctxt "ElfMaleName1Title"
+msgid "Ilastar"
+msgstr ""
+
+msgctxt "ElfMaleName2Title"
+msgid "Baran"
+msgstr ""
+
+msgctxt "ElfMaleName3Title"
+msgid "Caerwyn"
+msgstr ""
+
+msgctxt "ElfMaleName4Title"
+msgid "Daeg"
+msgstr ""
+
+msgctxt "ElfMaleName5Title"
+msgid "Keyne"
+msgstr ""
+
+msgctxt "ElfMaleName6Title"
+msgid "Lianean"
+msgstr ""
+
+msgctxt "ElfMaleName7Title"
+msgid "Orrindil"
+msgstr ""
+
+msgctxt "ElfMaleName8Title"
+msgid "Sharindill"
+msgstr ""
+
+msgctxt "ElfMaleName9Title"
+msgid "Finael"
+msgstr ""
+
+msgctxt "ElfSurName11Title"
+msgid "Sonata"
+msgstr ""
+
+msgctxt "ElfSurName10Title"
+msgid "Redmoon"
+msgstr ""
+
+msgctxt "ElfSurName1Title"
+msgid "Strongsteel"
+msgstr ""
+
+msgctxt "ElfSurName2Title"
+msgid "Fastmind"
+msgstr ""
+
+msgctxt "ElfSurName3Title"
+msgid "Wildwind"
+msgstr ""
+
+msgctxt "ElfSurName4Title"
+msgid "Silverlight"
+msgstr ""
+
+msgctxt "ElfSurName5Title"
+msgid "Keenmind"
+msgstr ""
+
+msgctxt "ElfSurName6Title"
+msgid "Redglow"
+msgstr ""
+
+msgctxt "ElfSurName7Title"
+msgid "Innerfire"
+msgstr ""
+
+msgctxt "ElfSurName8Title"
+msgid "Goldenfire"
+msgstr ""
+
+msgctxt "ElfSurName9Title"
+msgid "Silvereyes"
+msgstr ""
+
+msgctxt "ElfSurNameTitle"
+msgid "Family"
+msgstr ""
+
+msgctxt "ElfSylvanDescription"
+msgid ""
+"Born and raised in the eastern forests of Solasta, <#B5D3DE>sylvan elves</"
+"color> are trained to survive in the wilds and are particularly apt to "
+"survival. As their high elf cousins, they are trained to fight with swords "
+"and bows since childhood."
+msgstr ""
+
+msgctxt "ElfSylvanTitle"
+msgid "Sylvan Elf"
+msgstr ""
+
+msgctxt "ElfTitle"
+msgid "Elf"
+msgstr ""
+
+msgctxt "HalfElfDescription"
+msgid ""
+"Offspring of the human refugees from Tirmar and the Solastan elves, <#B5D3DE"
+">half-elves</color> have the strength of their parents. Versatile, "
+"charismatic, and gifted with Darkvision and fey ancestry, they are always "
+"torn between two cultures."
+msgstr ""
+
+msgctxt "HalfElfFemaleName1Title"
+msgid "Maiwen"
+msgstr ""
+
+msgctxt "HalfElfFemaleName2Title"
+msgid "Serenrae"
+msgstr ""
+
+msgctxt "HalfElfFemaleName3Title"
+msgid "Lila"
+msgstr ""
+
+msgctxt "HalfElfFemaleName4Title"
+msgid "Iela"
+msgstr ""
+
+msgctxt "HalfElfFemaleName5Title"
+msgid "Cami"
+msgstr ""
+
+msgctxt "HalfElfMaleName1Title"
+msgid "Volkus"
+msgstr ""
+
+msgctxt "HalfElfMaleName2Title"
+msgid "Scarsan"
+msgstr ""
+
+msgctxt "HalfElfMaleName3Title"
+msgid "Faolan"
+msgstr ""
+
+msgctxt "HalfElfMaleName4Title"
+msgid "Roy"
+msgstr ""
+
+msgctxt "HalfElfMaleName5Title"
+msgid "Kalan"
+msgstr ""
+
+msgctxt "HalfElfMaleName6Title"
+msgid "Corthyn"
+msgstr ""
+
+msgctxt "HalfElfSurName1Title"
+msgid "Reed"
+msgstr ""
+
+msgctxt "HalfElfSurName2Title"
+msgid "Olfborn"
+msgstr ""
+
+msgctxt "HalfElfSurName3Title"
+msgid "Leafheart"
+msgstr ""
+
+msgctxt "HalfElfSurName4Title"
+msgid "King"
+msgstr ""
+
+msgctxt "HalfElfSurName5Title"
+msgid "Towers"
+msgstr ""
+
+msgctxt "HalfElfSurName6Title"
+msgid "Rivers"
+msgstr ""
+
+msgctxt "HalfElfSurName7Title"
+msgid "Reed"
+msgstr ""
+
+msgctxt "HalfElfSurNameTitle"
+msgid "Family"
+msgstr ""
+
+msgctxt "HalfElfTitle"
+msgid "Half-Elf"
+msgstr ""
+
+msgctxt "HalflingDescription"
+msgid ""
+"The original halflings evolved in the marshes on the northeastern part of "
+"Solasta, before spreading south, following the river, and reaching the sea. "
+"They are short and nimble, and known for their bravery despite their size."
+msgstr ""
+
+msgctxt "HalflingFemaleName1Title"
+msgid "Annie"
+msgstr ""
+
+msgctxt "HalflingFemaleName2Title"
+msgid "Ellie"
+msgstr ""
+
+msgctxt "HalflingFemaleName3Title"
+msgid "Jenny"
+msgstr ""
+
+msgctxt "HalflingFemaleName4Title"
+msgid "Coralie"
+msgstr ""
+
+msgctxt "HalflingFemaleName5Title"
+msgid "Zoe"
+msgstr ""
+
+msgctxt "HalflingFemaleName6Title"
+msgid "Sable"
+msgstr ""
+
+msgctxt "HalflingIslandDescription"
+msgid ""
+"<#B5D3DE>Island halflings</color> are the children of adventurous halflings "
+"who left the Northern Marshes to venture south and settle in the sunny "
+"islands. Discreet and brave, they are inclined to be affable and get along "
+"well with others."
+msgstr ""
+
+msgctxt "HalflingIslandTitle"
+msgid "Island Halfling"
+msgstr ""
+
+msgctxt "HalflingMaleName1Title"
+msgid "Anton"
+msgstr ""
+
+msgctxt "HalflingMaleName2Title"
+msgid "Andre"
+msgstr ""
+
+msgctxt "HalflingMaleName3Title"
+msgid "Tombo"
+msgstr ""
+
+msgctxt "HalflingMaleName4Title"
+msgid "Green"
+msgstr ""
+
+msgctxt "HalflingMaleName5Title"
+msgid "Edmund"
+msgstr ""
+
+msgctxt "HalflingMarshDescription"
+msgid ""
+"<#B5D3DE>Marsh halflings</color> have lived in the tradition of their "
+"ancestors, who used to move, fight, and even sleep in swamp terrain. They "
+"are particularly sturdy compared to their island cousins, while being "
+"generally less likable and certainly no less courageous."
+msgstr ""
+
+msgctxt "HalflingMarshTitle"
+msgid "Marsh Halfling"
+msgstr ""
+
+msgctxt "HalflingSurName1Title"
+msgid "Marsh"
+msgstr ""
+
+msgctxt "HalflingSurName2Title"
+msgid "Wetfoot"
+msgstr ""
+
+msgctxt "HalflingSurName3Title"
+msgid "Whitesail"
+msgstr ""
+
+msgctxt "HalflingSurName4Title"
+msgid "Bentree"
+msgstr ""
+
+msgctxt "HalflingSurName5Title"
+msgid "Tupps"
+msgstr ""
+
+msgctxt "HalflingSurNameTitle"
+msgid "Family"
+msgstr ""
+
+msgctxt "HalflingTitle"
+msgid "Halfling"
+msgstr ""
+
+msgctxt "HumanDescription"
+msgid ""
+"Originally born on Tirmar and brought to Solasta before the Cataclysm, "
+"<#B5D3DE>humans</color> have adapted to their new world thanks to their "
+"unique talents. Able to live anywhere and take any job, they are versatile "
+"above all else."
+msgstr ""
+
+msgctxt "HumanFemaleName1Title"
+msgid "Jodie"
+msgstr ""
+
+msgctxt "HumanFemaleName2Title"
+msgid "Celia"
+msgstr ""
+
+msgctxt "HumanFemaleName3Title"
+msgid "Elisa"
+msgstr ""
+
+msgctxt "HumanFemaleName4Title"
+msgid "Natalie"
+msgstr ""
+
+msgctxt "HumanFemaleName5Title"
+msgid "Jane"
+msgstr ""
+
+msgctxt "HumanFemaleName6Title"
+msgid "Elanor"
+msgstr ""
+
+msgctxt "HumanFemaleName7Title"
+msgid "Agnes"
+msgstr ""
+
+msgctxt "HumanFemaleName8Title"
+msgid "Ophelie"
+msgstr ""
+
+msgctxt "HumanMaleName1Title"
+msgid "Angus"
+msgstr ""
+
+msgctxt "HumanMaleName2Title"
+msgid "Blain"
+msgstr ""
+
+msgctxt "HumanMaleName3Title"
+msgid "Jeff"
+msgstr ""
+
+msgctxt "HumanMaleName4Title"
+msgid "Dean"
+msgstr ""
+
+msgctxt "HumanSurName1Title"
+msgid "Jonn"
+msgstr ""
+
+msgctxt "HumanSurName2Title"
+msgid "Guert"
+msgstr ""
+
+msgctxt "HumanSurName3Title"
+msgid "Ros"
+msgstr ""
+
+msgctxt "HumanSurName4Title"
+msgid "Hasting"
+msgstr ""
+
+msgctxt "HumanSurName5Title"
+msgid "Esbery"
+msgstr ""
+
+msgctxt "HumanSurName6Title"
+msgid "Dudley"
+msgstr ""
+
+msgctxt "HumanSurName7Title"
+msgid "Burg"
+msgstr ""
+
+msgctxt "HumanSurName8Title"
+msgid "Dormer"
+msgstr ""
+
+msgctxt "HumanSurName9Title"
+msgid "Hawke"
+msgstr ""
+
+msgctxt "HumanSurNameTitle"
+msgid "Family"
+msgstr ""
+
+msgctxt "HumanTitle"
+msgid "Human"
+msgstr ""
+
+msgctxt "SylvanElfFemaleName10Title"
+msgid "Ryesen"
+msgstr ""
+
+msgctxt "SylvanElfFemaleName1Title"
+msgid "Ciarran"
+msgstr ""
+
+msgctxt "SylvanElfFemaleName2Title"
+msgid "Darra"
+msgstr ""
+
+msgctxt "SylvanElfFemaleName3Title"
+msgid "Kalan"
+msgstr ""
+
+msgctxt "SylvanElfFemaleName4Title"
+msgid "Kianna"
+msgstr ""
+
+msgctxt "SylvanElfFemaleName5Title"
+msgid "Marsaili"
+msgstr ""
+
+msgctxt "SylvanElfFemaleName6Title"
+msgid "Orlagh"
+msgstr ""
+
+msgctxt "SylvanElfFemaleName7Title"
+msgid "Siobhan"
+msgstr ""
+
+msgctxt "SylvanElfFemaleName8Title"
+msgid "Tara"
+msgstr ""
+
+msgctxt "SylvanElfFemaleName9Title"
+msgid "Seersha"
+msgstr ""
+
+msgctxt "SylvanElfMaleName10Title"
+msgid "Rhuad"
+msgstr ""
+
+msgctxt "SylvanElfMaleName1Title"
+msgid "Darroch"
+msgstr ""
+
+msgctxt "SylvanElfMaleName2Title"
+msgid "Darce"
+msgstr ""
+
+msgctxt "SylvanElfMaleName3Title"
+msgid "Curran"
+msgstr ""
+
+msgctxt "SylvanElfMaleName4Title"
+msgid "Kari"
+msgstr ""
+
+msgctxt "SylvanElfMaleName5Title"
+msgid "Kael"
+msgstr ""
+
+msgctxt "SylvanElfMaleName6Title"
+msgid "Erevyd"
+msgstr ""
+
+msgctxt "SylvanElfMaleName7Title"
+msgid "Naoise"
+msgstr ""
+
+msgctxt "SylvanElfMaleName8Title"
+msgid "Phelan"
+msgstr ""
+
+msgctxt "SylvanElfMaleName9Title"
+msgid "Sherrod"
+msgstr ""
+
+msgctxt "SylvanElfSurName10Title"
+msgid "Whiteleaf"
+msgstr ""
+
+msgctxt "SylvanElfSurName1Title"
+msgid "Sturdybranch"
+msgstr ""
+
+msgctxt "SylvanElfSurName2Title"
+msgid "Wilyfox"
+msgstr ""
+
+msgctxt "SylvanElfSurName3Title"
+msgid "Silentowl"
+msgstr ""
+
+msgctxt "SylvanElfSurName4Title"
+msgid "Fairdeer"
+msgstr ""
+
+msgctxt "SylvanElfSurName5Title"
+msgid "Redoak"
+msgstr ""
+
+msgctxt "SylvanElfSurName6Title"
+msgid "Faireagle"
+msgstr ""
+
+msgctxt "SylvanElfSurName7Title"
+msgid "Fastrain"
+msgstr ""
+
+msgctxt "SylvanElfSurName8Title"
+msgid "Strongwind"
+msgstr ""
+
+msgctxt "SylvanElfSurName9Title"
+msgid "Blueash"
+msgstr ""
+
+msgctxt "HalflingSurName6Title"
+msgid "Owen"
+msgstr ""
+
+msgctxt "HalflingSurName7Title"
+msgid "Woolley"
+msgstr ""
+
+msgctxt "HalflingSurName8Title"
+msgid "Luz"
+msgstr ""
+
+msgctxt "HalflingMaleName6Title"
+msgid "Dark"
+msgstr ""
+
+msgctxt "HalflingFemaleName7Title"
+msgid "Serenrae"
+msgstr ""
+
+msgctxt "DwarfFemaleName8Title"
+msgid "Yock"
+msgstr ""
+
+msgctxt "DwarfMaleName9Title"
+msgid "Kolgar"
+msgstr ""
+
+msgctxt "ElfSurName12Title"
+msgid "Ragthroknar"
+msgstr ""
+
+msgctxt "ElfSurName13Title"
+msgid "Boldeye"
+msgstr ""
+
+msgctxt "ElfSurName14Title"
+msgid "Niejnef"
+msgstr ""
+
+msgctxt "ElfSurName15Title"
+msgid "Anne"
+msgstr ""
+
+msgctxt "ElfSurName16Title"
+msgid "Norstern"
+msgstr ""
+
+msgctxt "ElfSurName17Title"
+msgid "Ashvale"
+msgstr ""
+
+msgctxt "HalfElfMaleName7Title"
+msgid "Allen"
+msgstr ""
+
+msgctxt "HalfElfMaleName8Title"
+msgid "Henry"
+msgstr ""
+
+msgctxt "HalfElfMaleName9Title"
+msgid "Ilofared"
+msgstr ""
+
+msgctxt "HalfElfMaleName10Title"
+msgid "Corthyn"
+msgstr ""
+
+msgctxt "HalfElfSurName8Title"
+msgid "Malmanche"
+msgstr ""
+
+msgctxt "HalfElfSurName9Title"
+msgid "Olfborn"
+msgstr ""
+
+msgctxt "HalfElfSurName10Title"
+msgid "Ferrum"
+msgstr ""
+
+msgctxt "HalfElfSurName11Title"
+msgid "Dosa"
+msgstr ""
+
+msgctxt "HalfElfSurName12Title"
+msgid "Leafheart"
+msgstr ""
+
+msgctxt "HalfElfSurName13Title"
+msgid "Tanael"
+msgstr ""
+
+msgctxt "HumanSurName10Title"
+msgid "Knightshield"
+msgstr ""
+
+msgctxt "HumanSurName11Title"
+msgid "Drayson"
+msgstr ""
+
+msgctxt "HumanSurName12Title"
+msgid "Storm"
+msgstr ""
+
+msgctxt "HumanSurName13Title"
+msgid "Marlon"
+msgstr ""
+
+msgctxt "HumanMaleName5Title"
+msgid "Wicking"
+msgstr ""
+
+msgctxt "HumanMaleName6Title"
+msgid "Bronlar"
+msgstr ""
+
+msgctxt "HumanMaleName7Title"
+msgid "Piotr"
+msgstr ""
+
+msgctxt "HumanMaleName8Title"
+msgid "Cressen"
+msgstr ""
+
+msgctxt "HumanMaleName9Title"
+msgid "Aryas"
+msgstr ""
+
+msgctxt "HumanMaleName10Title"
+msgid "Mason"
+msgstr ""
+
+msgctxt "HumanMaleName11Title"
+msgid "Frank"
+msgstr ""
+
+msgctxt "HumanMaleName12Title"
+msgid "Hunter"
+msgstr ""
+
+msgctxt "HumanMaleName13Title"
+msgid "Alderbranch"
+msgstr ""
+
+msgctxt "HumanSurName14Title"
+msgid "Hector"
+msgstr ""
+
+msgctxt "HalfOrcMaleName01"
+msgid "Guthrock"
+msgstr ""

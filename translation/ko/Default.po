@@ -1,0 +1,1686 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "holy axe"
+msgid "Note from Nikannen"
+msgstr ""
+
+msgctxt "Hairstyle_A"
+msgid "Pixie Cut"
+msgstr ""
+
+msgctxt "Hairstyle_B"
+msgid "Medium"
+msgstr ""
+
+msgctxt "Hairstyle_C"
+msgid "Short"
+msgstr ""
+
+msgctxt "Hairstyle_D"
+msgid "Bun"
+msgstr ""
+
+msgctxt "Hairstyle_E"
+msgid "Crown Braid"
+msgstr ""
+
+msgctxt "LongTimeFormat"
+msgid ""
+"[TEMP]Game time is {0} on the day of {1} {2} in the year {3} Post Cataclysm"
+msgstr ""
+
+msgctxt "SolastanCalendarDescription"
+msgid "The common calendar used in Solasta."
+msgstr ""
+
+msgctxt "SolastanCalendarTitle"
+msgid "Solastan Calendar"
+msgstr ""
+
+msgctxt "SolastanMonth10Title"
+msgid "Aearun"
+msgstr ""
+
+msgctxt "SolastanMonth11Title"
+msgid "Aeardwy"
+msgstr ""
+
+msgctxt "SolastanMonth12Title"
+msgid "Aeardair"
+msgstr ""
+
+msgctxt "SolastanMonth1Title"
+msgid "Aerun"
+msgstr ""
+
+msgctxt "SolastanMonth2Title"
+msgid "Aerdwy"
+msgstr ""
+
+msgctxt "SolastanMonth3Title"
+msgid "Aerdair"
+msgstr ""
+
+msgctxt "SolastanMonth4Title"
+msgid "Isgeun"
+msgstr ""
+
+msgctxt "SolastanMonth5Title"
+msgid "Isgedwy"
+msgstr ""
+
+msgctxt "SolastanMonth6Title"
+msgid "Isgedair"
+msgstr ""
+
+msgctxt "SolastanMonth7Title"
+msgid "Tanan"
+msgstr ""
+
+msgctxt "SolastanMonth8Title"
+msgid "Tanwyn"
+msgstr ""
+
+msgctxt "SolastanMonth9Title"
+msgid "Tandair"
+msgstr ""
+
+msgctxt "SolastanYearFormat"
+msgid "{0} P.C."
+msgstr ""
+
+msgctxt "ArunDescription"
+msgid ""
+"The primordial god of the elements and patron of adventurers, peasants, "
+"hermits, and all others who value nature above civilization.\n"
+"The oldest of the Tirmarian deities, Arun is the one to whom humanity first "
+"prayed while struggling to survive in a hostile environment. His spouse is "
+"Maraike, the goddess of life and death.\n"
+"His clergy is divided into three main branches, each attached to one of "
+"Arun's powers: fire, ice, and lightning."
+msgstr ""
+
+msgctxt "ArunTitle"
+msgid "Arun"
+msgstr ""
+
+msgctxt "EinarDescription"
+msgid ""
+"Einar is the god of valor and fidelity, and the patron of paladins, lawful "
+"warriors, and all those who bring light to darkness. The Church of Einar is "
+"organized into three Orders: \n"
+"The Blade is a militant order, a bulwark against chaos and evil.\n"
+"The Shield is an order of protectors, devoted to their flock.\n"
+"The Beacon is an order of itinerant preachers, helping the communities "
+"through which they travel with their strength at arms, their healing skills, "
+"and their knowledge of the law."
+msgstr ""
+
+msgctxt "EinarTitle"
+msgid "Einar"
+msgstr ""
+
+msgctxt "MaraikeDescription"
+msgid ""
+"The goddess of life and death, the patron of healers and embalmers, and the "
+"embodiment of universal duality. Traditionally, she is Arun's wife. Her cult "
+"consists of two orders:\n"
+"The Order of Life Regnant travels the land as healers and defenders. They "
+"worship the healing, motherly aspect of Maraike.\n"
+"The Order of Oblivion is an order of avengers and embalmers. Where evil "
+"tries to pervert the cycle of life and death, the Order ensures that the "
+"culprits are dealt with, and their undead victims returned to their rest. "
+msgstr ""
+
+msgctxt "MaraikeTitle"
+msgid "Maraike"
+msgstr ""
+
+msgctxt "MisayeDescription"
+msgid ""
+"The goddess of mischief, protector of rogues and swindlers, and patron of "
+"all those who chafe against rules and enjoy a little chaos. \n"
+"Priests of Misaye seldom live a relaxing life. Usually, they are one step "
+"ahead of the law - if they are lucky! Many lead a double life - normal "
+"citizens by day and priests of Misaye by night - because the cult of Misaye "
+"is outlawed in many nations and barely tolerated in most others."
+msgstr ""
+
+msgctxt "MisayeTitle"
+msgid "Misaye"
+msgstr ""
+
+msgctxt "PakriDescription"
+msgid ""
+"The goddess of law and knowledge and patron of judges and lawyers, teachers, "
+"librarians, and scholars.\n"
+"She gifted humans with the thirst for knowledge so they could learn and "
+"develop their society, and the law which preserves civilization. Her clergy "
+"is divided into two orders: The Order of the Book includes the most learned "
+"lawyer-priests in the world. The Order of the Owl sends its members across "
+"the land to help those in need of protection and justice."
+msgstr ""
+
+msgctxt "PakriTitle"
+msgid "Pakri"
+msgstr ""
+
+msgctxt "DieStyleEbonyTitle"
+msgid "Ebony"
+msgstr ""
+
+msgctxt "DieStyleGreenTitle"
+msgid "Green"
+msgstr ""
+
+msgctxt "DieStyleIvoryTitle"
+msgid "Ivory"
+msgstr ""
+
+msgctxt "DieStyleRubyTitle"
+msgid "Ruby"
+msgstr ""
+
+msgctxt "DieStyleStandardTitle"
+msgid "Standard"
+msgstr ""
+
+msgctxt "DieStyleYellowTitle"
+msgid "Yellow"
+msgstr ""
+
+msgctxt "DieStyleGoldSupporterTitle"
+msgid "Gold"
+msgstr ""
+
+msgctxt "DieStyleSilverSupporterTitle"
+msgid "Silver"
+msgstr ""
+
+msgctxt "DieStyleBronzeSupporterTitle"
+msgid "Bronze"
+msgstr ""
+
+msgctxt "DieStyleDiamondSupporterTitle"
+msgid "Diamond"
+msgstr ""
+
+msgctxt "ProxyDancingLightsDescription"
+msgid "Move the lights up to 12 cells"
+msgstr ""
+
+msgctxt "ProxyDancingLightsTitle"
+msgid "Dancing Lights"
+msgstr ""
+
+msgctxt "ProxyDarknessDescription"
+msgid "An area of magical darkness."
+msgstr ""
+
+msgctxt "ProxyDaylightTitle"
+msgid "Daylight"
+msgstr ""
+
+msgctxt "ProxyFlamingSphereDescription"
+msgid "Move the sphere up to 6 cells or slam it into an opponent"
+msgstr ""
+
+msgctxt "ProxyFlamingSphereTitle"
+msgid "Flaming Sphere"
+msgstr ""
+
+msgctxt "ProxyFogCloudDescription"
+msgid "A very thick fog."
+msgstr ""
+
+msgctxt "ProxyIndomitableLightTitle"
+msgid "Indomitable Light"
+msgstr ""
+
+msgctxt "ProxySleetStormDescription"
+msgid "Sleet Storm"
+msgstr ""
+
+msgctxt "ProxySpiritualWeaponDescription"
+msgid "Move the weapon up to 4 cells and strike an opponent"
+msgstr ""
+
+msgctxt "ProxySpiritualWeaponTitle"
+msgid "Spiritual Weapon"
+msgstr ""
+
+msgctxt "ProxyStinkingCloudDescription"
+msgid "A cloud of incapacitating, noxious gas."
+msgstr ""
+
+msgctxt "ProxyWallOfFireDescription"
+msgid "A burning wall that injures creatures in or next to it."
+msgstr ""
+
+msgctxt "ProxyWindWallDescription"
+msgid ""
+"A wall of wind that causes damage, pushes creatures and objects away, and "
+"disperses fogs and gases."
+msgstr ""
+
+msgctxt "ProxySilenceDescription"
+msgid "An area of complete silence."
+msgstr ""
+
+msgctxt "ProxyIceStormDescription"
+msgid "Ice Storm"
+msgstr ""
+
+msgctxt "ProxyGuardianOfFaithDescription"
+msgid "Guardian of Faith"
+msgstr ""
+
+msgctxt "ProxyCloudKillDescription"
+msgid "A thick and deadly poisonous fog."
+msgstr ""
+
+msgctxt "ProxyWallOfForceDescription"
+msgid "Conjures an invisible wall that blocks movement and attacks."
+msgstr ""
+
+msgctxt "ExplosiveRunesDescription"
+msgid ""
+"Explosive Runes are inscribed on objects and trigger a fiery blast when this "
+"object is interacted with."
+msgstr ""
+
+msgctxt "ExplosiveRunesTitle"
+msgid "Explosive Runes"
+msgstr ""
+
+msgctxt "PoisonNeedleDescription"
+msgid ""
+"A poisoned needle is hidden within a lock, or in something else that a "
+"creature might open. Opening the object without the proper key causes the "
+"needle to spring out, delivering a dose of poison."
+msgstr ""
+
+msgctxt "PoisonNeedleTitle"
+msgid "Poisoned Needle"
+msgstr ""
+
+msgctxt "LightningAreaNeedleTitle"
+msgid "Lightning Pillar"
+msgstr ""
+
+msgctxt "LightHypersensitivityTitle"
+msgid "Light Hypersensitivity"
+msgstr ""
+
+msgctxt "BoulderFallTitle"
+msgid "Boulder Fall"
+msgstr ""
+
+msgctxt "SpikesTitle"
+msgid "Spikes"
+msgstr ""
+
+msgctxt "ManaWindTitle"
+msgid "Mana Wind"
+msgstr ""
+
+msgctxt "LavaburstTitle"
+msgid "Lava Burst"
+msgstr ""
+
+msgctxt "PoisonbulbTitle"
+msgid "Poison Bulb"
+msgstr ""
+
+msgctxt "ChandelierfallTitle"
+msgid "Chandelier Fall"
+msgstr ""
+
+msgctxt "FireburstTitle"
+msgid "Fiery Explosion"
+msgstr ""
+
+msgctxt "ArcheryDescription"
+msgid "You gain a +2 bonus to attack rolls with ranged weapons."
+msgstr ""
+
+msgctxt "ArcheryTitle"
+msgid "Archery"
+msgstr ""
+
+msgctxt "DefenseDescription"
+msgid "While you are wearing armor, you gain a +1 bonus to AC."
+msgstr ""
+
+msgctxt "DefenseTitle"
+msgid "Defense"
+msgstr ""
+
+msgctxt "DuelingDescription"
+msgid ""
+"When you are wielding a melee weapon in one hand and no other weapons, you "
+"gain a +2 bonus to damage rolls with that weapon."
+msgstr ""
+
+msgctxt "DuelingTitle"
+msgid "Dueling"
+msgstr ""
+
+msgctxt "GreatWeaponDescription"
+msgid ""
+"When you roll a 1 or 2 on a damage die for an attack you make with a melee "
+"weapon that you are wielding with two hands, you can reroll the die. You "
+"must use the new roll, even if it is a 1 or a 2. The weapon must have the "
+"two-handed or versatile property for you to gain this benefit."
+msgstr ""
+
+msgctxt "GreatWeaponTitle"
+msgid "Great Weapon Fighting"
+msgstr ""
+
+msgctxt "ProtectionDescription"
+msgid ""
+"When a creature you can see attacks a target other than you that is within 5 "
+"feet of you, you can use your reaction to impose disadvantage on the attack "
+"roll. You must be wielding a shield."
+msgstr ""
+
+msgctxt "ProtectionTitle"
+msgid "Protection"
+msgstr ""
+
+msgctxt "TwoWeaponDescription"
+msgid ""
+"When you engage in two-weapon fighting, you can add your ability modifier to "
+"the damage of the second attack."
+msgstr ""
+
+msgctxt "TwoWeaponTitle"
+msgid "Two Weapon Fighting"
+msgstr ""
+
+msgctxt "LeftAlt"
+msgid "LeftAlt + "
+msgstr ""
+
+msgctxt "LeftControl"
+msgid "LeftCtrl + "
+msgstr ""
+
+msgctxt "LeftShift"
+msgid "LeftShift + "
+msgstr ""
+
+msgctxt "MainFormat"
+msgid "Shortcut: {0}"
+msgstr ""
+
+msgctxt "OrFormat"
+msgid "or "
+msgstr ""
+
+msgctxt "RightAlt"
+msgid "RightAlt + "
+msgstr ""
+
+msgctxt "RightControl"
+msgid "RightCtrl + "
+msgstr ""
+
+msgctxt "RightShift"
+msgid "RightShift + "
+msgstr ""
+
+msgctxt "KnownDescription"
+msgid "You know this creature well."
+msgstr ""
+
+msgctxt "KnownTitle"
+msgid "Known (3)"
+msgstr ""
+
+msgctxt "MasteredDescription"
+msgid "You know everything about this creature."
+msgstr ""
+
+msgctxt "MasteredTitle"
+msgid "Mastered (4)"
+msgstr ""
+
+msgctxt "ObservedDescription"
+msgid "You have observed this creature briefly."
+msgstr ""
+
+msgctxt "ObservedTitle"
+msgid "Observed (1)"
+msgstr ""
+
+msgctxt "StudiedDescription"
+msgid "You have studied this creature."
+msgstr ""
+
+msgctxt "StudiedTitle"
+msgid "Studied (2)"
+msgstr ""
+
+msgctxt "UnknownDescription"
+msgid "You have never encountered this creature."
+msgstr ""
+
+msgctxt "UnknownTitle"
+msgid "Unknown (0)"
+msgstr ""
+
+msgctxt "EnterLocationDescription"
+msgid "Have the party enter this location."
+msgstr ""
+
+msgctxt "EnterLocationTitle"
+msgid "Enter"
+msgstr ""
+
+msgctxt "TravelToLocationDescription"
+msgid "Prepare to travel to this location."
+msgstr ""
+
+msgctxt "TravelToLocationTitle"
+msgid "Travel"
+msgstr ""
+
+msgctxt "GdprDescription"
+msgid ""
+"In order to improve the quality of the game, we will collect gameplay data "
+"during your play session. Personal data will not be sent, only game session "
+"information."
+msgstr ""
+
+msgctxt "GdprTitle"
+msgid "General Data Protection Regulation"
+msgstr ""
+
+msgctxt "KickstarterDemoDisclaimerDescription"
+msgid ""
+"IMPORTANT DISCLAIMER: YOU are aware that what you intend to download and "
+"play is a very early PRE-ALPHA DEMO of the Solasta: Crown of the Magister "
+"video game which is still under development. Be sure that OUR team is "
+"currently working hard to bring the Solasta: Crown of the Magister video "
+"game to a whole new level. The PRE-ALPHA DEMO is made available for free for "
+"a limited period of time only. \n"
+"\n"
+"The PRE-ALPHA DEMO is hand-crafted to give YOU an early taste of the Solasta:"
+" Crown of the Magister video game; the PRE-ALPHA DEMO may contain bugs on "
+"rare occasions. YOU are more than welcome to share your feedback and report "
+"any problems or bugs on the Steam platform or directly on OUR website www."
+"solasta-game.com. WE need to hear from YOU in order to make a game that is "
+"representative of what our community wants.\n"
+"\n"
+"Some rules and features are missing or are not implemented in the PRE-ALPHA "
+"DEMO. For example, the surprise round is not implemented, readying an action "
+"is not yet possible, we are too liberal at swapping inventory items, and "
+"some spells and effects are missing. We will fix this and try our best to "
+"integrate as much content and as many rules as possible for the final game. "
+"Some of the game features are also not demonstrated at all in the PRE-ALPHA "
+"DEMO but will be part of the final game: creating and leveling up a full "
+"party with a wide range of options, playing through a campaign storyline, "
+"and much more."
+msgstr ""
+
+msgctxt "KickstarterDemoDisclaimerTitle"
+msgid "Demo Version"
+msgstr ""
+
+msgctxt "KickstarterDemoDisclaimerTitle2"
+msgid "DISCLAIMER PLACEHOLDER"
+msgstr ""
+
+msgctxt "KickstarterDemoDisclaimerDescription2"
+msgid "Text to be added"
+msgstr ""
+
+msgctxt "EarlyAccessDisclaimerDescription"
+msgid ""
+"Hey there folks! Welcome to Solasta - or more specifically, the Early Access "
+"of Solasta: Crown of the Magister. We really appreciate your support. You're "
+"all fantastic!\n"
+"\n"
+"Please bear in mind that you are playing an Early Access version of Solasta: "
+"Crown of the Magister which is still under development. This Early Access "
+"version contains around 10 hours of gameplay and gives you access to the "
+"full Character Creation Tool with all ancestries, classes, and archetypes "
+"unlocked, with a level cap at level 6. The full 1.0 release will see a price "
+"increase and will deliver the entire main campaign of Solasta: Crown of the "
+"Magister, as well as many side quests for you to discover. \n"
+"\n"
+"We have done our best to provide a strong and enjoyable experience. However, "
+"do note that the Early Access version may contain some occasional bugs. You "
+"are warmly invited to send us feedback, report any bugs and problems, or "
+"suggest improvements on our Discord server (https://discord.com/invite/"
+"uu8utaF) as well on our official forums (https://forums.solasta-game.com/). "
+"Our goal is to continue working hand in hand with our players to make a game "
+"that is representative of what our community wants. Be sure that our team is "
+"currently working hard to release the full version of the Solasta: Crown of "
+"the Magister video game that will include lots of additional features and "
+"content. \n"
+"\n"
+"Considering the fact that game development is a very iterative process, "
+"please understand that your save files on the Early Access version will "
+"likely be incompatible with larger updates and with the full game release. "
+"As such, if you are looking for the complete experience the full version of "
+"Solasta: Crown of the Magister can offer, we encourage you not to purchase "
+"this Early Access version, but to wait for the release of the full game. "
+"Alright, enough reading - go enjoy the game!"
+msgstr ""
+
+msgctxt "EarlyAccessDisclaimerTitle"
+msgid "Early Access Disclaimer"
+msgstr ""
+
+msgctxt "DisclaimerSteamFestivalDescription"
+msgid ""
+"You are aware that what you intend to play is a very early Alpha Demo of the "
+"Solasta: Crown of the Magister video game, which is still under development. "
+"Be sure that our team is currently working hard to bring Solasta: Crown of "
+"the Magister to a whole new level. We are also working on providing you with "
+"a fully working Character Creator, allowing you to create and level up a "
+"full party with an even wider range of options. The Early Alpha Demo is "
+"available for free for a limited period of time only. \n"
+"\n"
+"The Early Alpha Demo is hand-crafted to give you an early taste of the "
+"Solasta: Crown of the Magister video game, it may contain bugs on rare "
+"occasions. You are more than welcome to share your feedback and report any "
+"problems or bugs on the Steam platform or directly on our website www."
+"solasta-game.com. We need to hear from you in order to make a game that is "
+"representative of what our community wants.\n"
+"\n"
+"Some rules and features are missing or are not implemented in the Early "
+"Alpha Demo. For example, some spells and effects are missing. The Early "
+"Alpha Demo allows you to create a full party of characters using the "
+"Character Creator tool, but it will not breathe life into your heroes yet. "
+"We will of course fix this and try our best to integrate as much content and "
+"rules as possible for the final game. Some of the game features are also not "
+"demonstrated at all in the Early Alpha Demo, but will be part of the final "
+"game: leveling up a full party created with a wide range of options, playing "
+"through a campaign storyline, and much more.\n"
+msgstr ""
+
+msgctxt "DisclaimerSteamFestivalTitle"
+msgid "Important Disclaimer"
+msgstr ""
+
+msgctxt "JoinCommunityAddress"
+msgid "https://forums.solasta-game.com/"
+msgstr ""
+
+msgctxt "JoinCommunityTitle"
+msgid "Join Our Community"
+msgstr ""
+
+msgctxt "SteamWishlistAddress"
+msgid ""
+"https://store.steampowered.com/app/1096530/Solasta_Crown_of_the_Magister/"
+msgstr ""
+
+msgctxt "SteamWishlistTitle"
+msgid "Wishlist us on Steam"
+msgstr ""
+
+msgctxt "YoutubeAddress"
+msgid "https://www.youtube.com/tacticaladventures"
+msgstr ""
+
+msgctxt "YoutubeTitle"
+msgid "Subscribe on YouTube"
+msgstr ""
+
+msgctxt "CaerCyflen_Annie_Bagmordah_Store_ScavengersTitle"
+msgid "Scavengers' Headquarters"
+msgstr ""
+
+msgctxt "CaerCyflen_Dalon_Lark_Store_EinarTitle"
+msgid "Temple of Einar Contact"
+msgstr ""
+
+msgctxt "CaerCyflen_Gorim_Ironsoot_StoreTitle"
+msgid "General Store for Adventurers"
+msgstr ""
+
+msgctxt "CaerCyflen_Halman_Summer_Store_AntiquariansTitle"
+msgid "Antiquarians Contact"
+msgstr ""
+
+msgctxt "CaerCyflen_Heddlon_Surespell_Store_ArcaneumTitle"
+msgid "Arcaneum Contact"
+msgstr ""
+
+msgctxt "CaerCyflen_Hugo_Requer_StoreTitle"
+msgid "Magic and Curiosities"
+msgstr ""
+
+msgctxt "CaerCyflen_Joriel_Foxeye_Store_CircleOfDanantarTitle"
+msgid "Circle of Danantar Contact"
+msgstr ""
+
+msgctxt "CaerCyflen_Karel_Martel_Store_BartenderTitle"
+msgid "Inn Services"
+msgstr ""
+
+msgctxt "CaerCyflen_Maddy_Greenisle_Store_ToKTitle"
+msgid "Tower of Knowledge Contact"
+msgstr ""
+
+msgctxt "CaerCyflenWeaponsmith2Description"
+msgid "not use atm"
+msgstr ""
+
+msgctxt "CaerCyflenWeaponsmith2Title"
+msgid "Generic Weaponsmith"
+msgstr ""
+
+msgctxt "CaerCyflenWeaponsmithDescription"
+msgid "not use atm"
+msgstr ""
+
+msgctxt "CaerCyflenWeaponsmithTitle"
+msgid "Generic Weaponsmith"
+msgstr ""
+
+msgctxt "Telema_Merchant_Wanderer_TelemaTitle"
+msgid "Wandering Merchant"
+msgstr ""
+
+msgctxt "Coparann_Atima_StoreTitle"
+msgid "Local Cleric of Arun"
+msgstr ""
+
+msgctxt "CC_PriestessPakri"
+msgid "Priestess of Pakri"
+msgstr ""
+
+msgctxt "CC_PriestMaraike"
+msgid "Priest of Maraike"
+msgstr ""
+
+msgctxt "CC_PriestArun"
+msgid "Rogar Ardentfire"
+msgstr ""
+
+msgctxt "Circe_Title"
+msgid "Enchantment Manuals Merchant"
+msgstr ""
+
+msgctxt "AdventuringTitle"
+msgid "Adventuring Gear"
+msgstr ""
+
+msgctxt "AllTitle"
+msgid "All Items"
+msgstr ""
+
+msgctxt "ArmorTitle"
+msgid "Armor"
+msgstr ""
+
+msgctxt "CraftingTitle"
+msgid "Crafting"
+msgstr ""
+
+msgctxt "IngredientTitle"
+msgid "Ingredients"
+msgstr ""
+
+msgctxt "MagicDeviceTitle"
+msgid "Magic Devices"
+msgstr ""
+
+msgctxt "WeaponTitle"
+msgid "Weapons"
+msgstr ""
+
+msgctxt "LifeDrainTitle"
+msgid "Life Drain"
+msgstr ""
+
+msgctxt "AerElai_Title"
+msgid "THE AER-ELAI"
+msgstr ""
+
+msgctxt "BADLANDS_Title"
+msgid "THE BADLANDS"
+msgstr ""
+
+msgctxt "CopperheadRoad_Title"
+msgid ""
+"COPPERHEAD\\n"
+"ROAD"
+msgstr ""
+
+msgctxt "DUCHY_caercyflen_Title"
+msgid ""
+"Duchy of\\n"
+"Caer Cyflen"
+msgstr ""
+
+msgctxt "DUCHY_easternforests_Title"
+msgid ""
+"Duchy of\\n"
+"the Eastern Forests"
+msgstr ""
+
+msgctxt "DUCHY_northernhills_Title"
+msgid ""
+"Duchy of\\n"
+"the Northern Hills"
+msgstr ""
+
+msgctxt "DUCHY_northernplains_Title"
+msgid ""
+"Duchy of\\n"
+"the Northern Plains"
+msgstr ""
+
+msgctxt "DUCHY_southmarsh_Title"
+msgid ""
+"Duchy of\\n"
+"the South Marsh"
+msgstr ""
+
+msgctxt "DUCHY_westernfields_Title"
+msgid ""
+"Duchy of\\n"
+"the Western Fields"
+msgstr ""
+
+msgctxt "Einarium_Title"
+msgid "THE Einareum"
+msgstr ""
+
+msgctxt "GALLIVAN_Title"
+msgid ""
+"KINGDOM OF\\n"
+"GALLIVAN"
+msgstr ""
+
+msgctxt "Kaupaapunki_Title"
+msgid "KAUPAAPUNKI"
+msgstr ""
+
+msgctxt "MASGARTH_Title"
+msgid ""
+"PRINCIPALITY\\n"
+"OF MASGARTH"
+msgstr ""
+
+msgctxt "NEWEMPIRE_Title"
+msgid "THE NEW EMPIRE"
+msgstr ""
+
+msgctxt "Sandreed_Title"
+msgid "SANDREED"
+msgstr ""
+
+msgctxt "SNOWALLIANCE_Title"
+msgid "THE SNOW ALLIANCE"
+msgstr ""
+
+msgctxt "FactionRelationDecreaseDescription"
+msgid "Your relations with this faction have worsened."
+msgstr ""
+
+msgctxt "FactionRelationDecreaseTitle"
+msgid "Relations Worsened ({0})"
+msgstr ""
+
+msgctxt "FactionRelationIncreaseDescription"
+msgid "Your relations with this faction have improved."
+msgstr ""
+
+msgctxt "FactionRelationIncreaseTitle"
+msgid "Relation Improved ({0})"
+msgstr ""
+
+msgctxt "LocationRevealedDescription"
+msgid "A new destination is available."
+msgstr ""
+
+msgctxt "LocationRevealedTitle"
+msgid "New Location Revealed"
+msgstr ""
+
+msgctxt "MapWaypointRevealedDescription"
+msgid "Click to open the map."
+msgstr ""
+
+msgctxt "MapWaypointRevealedTitle"
+msgid "New Waypoint Added"
+msgstr ""
+
+msgctxt "MonsterInformationDescription"
+msgid "Your knowledge has increased."
+msgstr ""
+
+msgctxt "MonsterInformationTitle"
+msgid "Bestiary Updated"
+msgstr ""
+
+msgctxt "QuestStepAchievedDescription"
+msgid "You have successfully completed a quest objective."
+msgstr ""
+
+msgctxt "QuestStepAchievedTitle"
+msgid "Objective Completed"
+msgstr ""
+
+msgctxt "QuestStepFailedDescription"
+msgid "You have failed to complete a quest objective."
+msgstr ""
+
+msgctxt "QuestStepFailedTitle"
+msgid "Objective Failed"
+msgstr ""
+
+msgctxt "QuestStepStartedDescription"
+msgid "You have started a new objective for this quest."
+msgstr ""
+
+msgctxt "QuestStepStartedTitle"
+msgid "New Objective"
+msgstr ""
+
+msgctxt "RecipeLearnedDescription"
+msgid "Check your crafting options."
+msgstr ""
+
+msgctxt "RecipeLearnedTitle"
+msgid "New Crafting Option"
+msgstr ""
+
+msgctxt "HeaderQuestCompletedTitle"
+msgid "Quest Completed"
+msgstr ""
+
+msgctxt "HeaderQuestFailedTitle"
+msgid "Quest Failed!"
+msgstr ""
+
+msgctxt "HeaderQuestNewTitle"
+msgid "New Quest Started"
+msgstr ""
+
+msgctxt "ArcaneRecoveryDescription"
+msgid ""
+"Once per day when you complete a short rest, you can recover a number of "
+"expended spell slots (max 5th level) up to half of your wizard level, "
+"rounded up."
+msgstr ""
+
+msgctxt "ArcaneRecoveryTitle"
+msgid "Arcane Recovery"
+msgstr ""
+
+msgctxt "AttuneItemDescription"
+msgid "Attuning to an item accesses its advanced properties and functions."
+msgstr ""
+
+msgctxt "AttuneItemTitle"
+msgid "Attune Item"
+msgstr ""
+
+msgctxt "LevelUpDescription"
+msgid "Start the level up sequence for this character."
+msgstr ""
+
+msgctxt "LevelUpTitle"
+msgid "Level Up"
+msgstr ""
+
+msgctxt "PrepareSpellsDescription"
+msgid ""
+"You can change your list of prepared spells when you finish a long rest."
+msgstr ""
+
+msgctxt "PrepareSpellsTitle"
+msgid "Prepare Spells"
+msgstr ""
+
+msgctxt "ArcaneRecoveryExecutedDescription"
+msgid ""
+"Activating <b>Arcane Recovery</b> has allowed {0} to regain the following "
+"spell slots:"
+msgstr ""
+
+msgctxt "NaturalRecoveryTitle"
+msgid "Natural Recovery"
+msgstr ""
+
+msgctxt "NaturalRecoveryDescription"
+msgid ""
+"Once per day when you complete a short rest, you can recover a number of "
+"expended spell slots (max 5th level) up to half of your druid level, rounded "
+"up."
+msgstr ""
+
+msgctxt "AbjurationTitle"
+msgid "Abjuration"
+msgstr ""
+
+msgctxt "ConjurationTitle"
+msgid "Conjuration"
+msgstr ""
+
+msgctxt "DivinationTitle"
+msgid "Divination"
+msgstr ""
+
+msgctxt "EnchantmentTitle"
+msgid "Enchantment"
+msgstr ""
+
+msgctxt "EvocationTitle"
+msgid "Evocation"
+msgstr ""
+
+msgctxt "IllusionTitle"
+msgid "Illusion"
+msgstr ""
+
+msgctxt "NecromancyTitle"
+msgid "Necromancy"
+msgstr ""
+
+msgctxt "TransmutationTitle"
+msgid "Transmutation"
+msgstr ""
+
+msgctxt "GargantuanTitle"
+msgid "Gargantuan"
+msgstr ""
+
+msgctxt "HugeTitle"
+msgid "Huge"
+msgstr ""
+
+msgctxt "LargeTitle"
+msgid "Large"
+msgstr ""
+
+msgctxt "MediumTitle"
+msgid "Medium"
+msgstr ""
+
+msgctxt "SmallTitle"
+msgid "Small"
+msgstr ""
+
+msgctxt "TinyTitle"
+msgid "Tiny"
+msgstr ""
+
+msgctxt "SpellListClericTitle"
+msgid "Cleric Spells"
+msgstr ""
+
+msgctxt "SpellListPaladinTitle"
+msgid "Paladin Spells"
+msgstr ""
+
+msgctxt "SpellListRangerTitle"
+msgid "Ranger Spells"
+msgstr ""
+
+msgctxt "SpellListSpellbladeTitle"
+msgid "Spellblade Spells"
+msgstr ""
+
+msgctxt "SpellListWizardTitle"
+msgid "Wizard Spells"
+msgstr ""
+
+msgctxt "SpellListSorcererTitle"
+msgid "Sorcerer Spells"
+msgstr ""
+
+msgctxt "SpellListDruidTitle"
+msgid "Druid Spells"
+msgstr ""
+
+msgctxt "ConcentrationFormat"
+msgid "{0} is concentrating to maintain the spell \"{1}\"."
+msgstr ""
+
+msgctxt "ConcentrationStopDescription"
+msgid "Click to stop concentrating."
+msgstr ""
+
+msgctxt "HealthStatusFormat"
+msgid "Health: {0}"
+msgstr ""
+
+msgctxt "ReadiedCantripAttackFormat"
+msgid "{0} is ready to use a cantrip attack if the opportunity arises."
+msgstr ""
+
+msgctxt "ReadiedMeleeAttackFormat"
+msgid "{0} is ready to use a melee attack if the opportunity arises."
+msgstr ""
+
+msgctxt "ReadiedRangedAttackFormat"
+msgid "{0} is ready to use a ranged attack if the opportunity arises."
+msgstr ""
+
+msgctxt "ArcticDescription"
+msgid ""
+"Areas of snow or permafrost are considered arctic terrain. Beware, this "
+"Terrain Type is not used in the Crown of the Magister campaign."
+msgstr ""
+
+msgctxt "ArcticTitle"
+msgid "Arctic"
+msgstr ""
+
+msgctxt "BadlandsDescription"
+msgid ""
+"Most areas covering the former inner provinces of the Manacalon Empire, now "
+"a wild mix of various terrain types with chaotic manifestations of post-"
+"Cataclysm magic, are considered Badlands terrain."
+msgstr ""
+
+msgctxt "CoastDescription"
+msgid ""
+"Areas containing a coastline are considered coast terrain. Beware, this "
+"Terrain Type is not used in the Crown of the Magister campaign."
+msgstr ""
+
+msgctxt "CoastTitle"
+msgid "Coast"
+msgstr ""
+
+msgctxt "DablandsTitle"
+msgid "Badlands"
+msgstr ""
+
+msgctxt "DesertDescription"
+msgid ""
+"Arid areas with little or no rain and minimal vegetation are considered "
+"desert terrain."
+msgstr ""
+
+msgctxt "DesertTitle"
+msgid "Desert"
+msgstr ""
+
+msgctxt "ForestDescription"
+msgid ""
+"Areas with lush vegetation and large areas of woods are considered forest "
+"terrain."
+msgstr ""
+
+msgctxt "ForestTitle"
+msgid "Forest"
+msgstr ""
+
+msgctxt "GrasslandDescription"
+msgid ""
+"Areas with rare forests and vast areas of green plains are considered "
+"grassland terrain."
+msgstr ""
+
+msgctxt "GrasslandTitle"
+msgid "Grassland"
+msgstr ""
+
+msgctxt "MountainDescription"
+msgid ""
+"Areas with rocky ground, hills, and mountains are considered mountain "
+"terrain."
+msgstr ""
+
+msgctxt "MountainTitle"
+msgid "Mountain"
+msgstr ""
+
+msgctxt "SwampDescription"
+msgid ""
+"Areas with marshes and ponds and a humid atmosphere are considered swamp "
+"terrain."
+msgstr ""
+
+msgctxt "SwampTitle"
+msgid "Swamp"
+msgstr ""
+
+msgctxt "BasicsTitle"
+msgid "Basics"
+msgstr ""
+
+msgctxt "CombatTitle"
+msgid "Combat"
+msgstr ""
+
+msgctxt "ExplorationTitle"
+msgid "Exploration"
+msgstr ""
+
+msgctxt "InventoryTitle"
+msgid "Inventory"
+msgstr ""
+
+msgctxt "TravelTitle"
+msgid "Travel"
+msgstr ""
+
+msgctxt "Basics_CameraTitle"
+msgid "Camera"
+msgstr ""
+
+msgctxt "Basics_MovingTitle"
+msgid "Moving"
+msgstr ""
+
+msgctxt "Basics_PartyMngtTitle"
+msgid "Party Management"
+msgstr ""
+
+msgctxt "Basics_QuestTitle"
+msgid "Quest Log"
+msgstr ""
+
+msgctxt "CombatMovementTitle"
+msgid "Movement"
+msgstr ""
+
+msgctxt "CombatShoveTitle"
+msgid "Shove"
+msgstr ""
+
+msgctxt "Exploration_LocationMapTitle"
+msgid "Location Map"
+msgstr ""
+
+msgctxt "Exploration_MiscTitle"
+msgid "Miscellaneous"
+msgstr ""
+
+msgctxt "Exploration_PointsOfInterestTitle"
+msgid "Points of Interest"
+msgstr ""
+
+msgctxt "ExplorationJumpingClimbingTitle"
+msgid "Jumping and Climbing"
+msgstr ""
+
+msgctxt "Inventory_LootingTitle"
+msgid "Looting"
+msgstr ""
+
+msgctxt "Inventory_SpecialTitle"
+msgid "Special Slots"
+msgstr ""
+
+msgctxt "Exploration_MagicTitle"
+msgid "Magic"
+msgstr ""
+
+msgctxt "Factions_Title"
+msgid "Faction Relations"
+msgstr ""
+
+msgctxt "Factions_Description"
+msgid ""
+"The <b>five</b> Council factions have representatives in Caer Cyflen. They "
+"can sell you equipment, spells, and many other things. The better your "
+"relationship with a faction, the more they have to offer, and the lower "
+"their prices.\n"
+"However, these factions are in competition with each other, which means you "
+"can't please them all. Various sub-quests will give you opportunities to "
+"improve your relationship with one faction or another.\n"
+"Keep an eye on the Faction section of the <b>Journal</b>."
+msgstr ""
+
+msgctxt "LightAsAWeapon_Title"
+msgid "Turn on the Light!"
+msgstr ""
+
+msgctxt "PartyStash_Title"
+msgid "Party Stash"
+msgstr ""
+
+msgctxt "PartyStash_Description"
+msgid ""
+"This chest is yours to use. No one can loot it, you can stash up to 50 items "
+"inside it. Many adventurers use this Scavenger service to store some of "
+"their stuff."
+msgstr ""
+
+msgctxt "QuickShopping_Title"
+msgid "Quick Shopping"
+msgstr ""
+
+msgctxt "QuickShopping_Description"
+msgid ""
+"Near a merchant, you'll find a quick shopping interaction. This bypasses the "
+"discussion to instantly open the merchant interface. You can still talk to "
+"the NPC merchant if needed."
+msgstr ""
+
+msgctxt "LightAsAWeapon_Description"
+msgid ""
+"Don't forget that light is critical to fighting certain enemies in Solasta.\n"
+"Soraks, for instance, are more powerful in dim light, and even more so in "
+"complete darkness.\n"
+"This is critical for your survival. Use light spells and torches - check for "
+"torch holders to illuminate in the environment!"
+msgstr ""
+
+msgctxt "DiffSettings_Title"
+msgid "Difficulty Settings"
+msgstr ""
+
+msgctxt "DiffSettings_Description"
+msgid ""
+"You can change the difficulty settings of the game on the fly. Just open up "
+"the menu, change the settings, and return to play: the changes are applied.\n"
+"\n"
+"You can pick a difficulty preset or browse the detailed options for a more "
+"customized experience."
+msgstr ""
+
+msgctxt "Tutorial_Highlight_Title"
+msgid "Highlighting Interactable Objects"
+msgstr ""
+
+msgctxt "Tutorial_Highlight_Description"
+msgid ""
+"Press and hold the ALT key to highlight various interactable objects: doors, "
+"chests, etc."
+msgstr ""
+
+msgctxt "EgoPuzzle_Title"
+msgid "The Maddening Puzzle"
+msgstr ""
+
+msgctxt "EgoPuzzle_Description"
+msgid ""
+"This section of the level is for puzzle enthusiasts. Be warned! Take the "
+"shortcut on the right, and you will experience the adventure normally. If "
+"you're ready for a rotating, colorful, 3D challenge, go left after the loot "
+"of the Mind of the Master. If you change your mind, you'll have to reload. "
+"We just autosaved for you, by the way."
+msgstr ""
+
+msgctxt "Voice1Title"
+msgid "Voice 1"
+msgstr ""
+
+msgctxt "Voice2Title"
+msgid "Voice 2"
+msgstr ""
+
+msgctxt "Voice3Title"
+msgid "Voice 3"
+msgstr ""
+
+msgctxt "ChildOfDarkness_Title"
+msgid "Child of Darkness"
+msgstr ""
+
+msgctxt "ChildOfDarkness_Description"
+msgid "This Sorak is more powerful and regenerates in darkness."
+msgstr ""
+
+msgctxt "ChildOfDarkness_ACGain_Title"
+msgid "Soraks gain additional AC when in dim light or darkness."
+msgstr ""
+
+msgctxt "ChildOfDarkness_AdditionalDamage2_Title"
+msgid "This creature gains +2 damage when in dim light"
+msgstr ""
+
+msgctxt "ChildOfDarkness_AdditionalDamage3_Title"
+msgid "This creature gains +3 damage when in dim light"
+msgstr ""
+
+msgctxt "ChildOfDarkness2_Title"
+msgid "Apostle of Darkness"
+msgstr ""
+
+msgctxt "ChildOfDarkness2_Description"
+msgid ""
+"This Sorak is more powerful and regenerates in dim light, and even more so "
+"in darkness."
+msgstr ""
+
+msgctxt "ChildOfDarkness3_Title"
+msgid "Prophet of Darkness"
+msgstr ""
+
+msgctxt "ChildOfDarkness3_Description"
+msgid ""
+"This Sorak is more powerful and regenerates in dim light, and even more so "
+"in darkness."
+msgstr ""
+
+msgctxt "ChildOfDarkness0_Description"
+msgid "This Sorak is more powerful and regenerates in darkness."
+msgstr ""
+
+msgctxt "Lightfiller_01_Title"
+msgid "Wildspring Safe Key Code"
+msgstr ""
+
+msgctxt "Lightfiller_01_Content"
+msgid "Do not communicate outside the family"
+msgstr ""
+
+msgctxt "Lightfiller_02_Title"
+msgid "Guest Cell Key"
+msgstr ""
+
+msgctxt "Lightfiller_02_Content"
+msgid "Communicate at the discretion of the warden"
+msgstr ""
+
+msgctxt "ChineseCaracters"
+msgid "Not used"
+msgstr ""
+
+msgctxt "CatacombsTitle"
+msgid "Catacombs"
+msgstr ""
+
+msgctxt "CatacombsDescription"
+msgid "An underground network of tombs & crypts"
+msgstr ""
+
+msgctxt "NecropolisTitle"
+msgid "Necropolis"
+msgstr ""
+
+msgctxt "NecropolisDescription"
+msgid "An underground domain of the dead"
+msgstr ""
+
+msgctxt "SewersTitle"
+msgid "Sewers"
+msgstr ""
+
+msgctxt "SewersDescription"
+msgid "A collection of sewer tunnels & drainage"
+msgstr ""
+
+msgctxt "StrongholdTitle"
+msgid "Stronghold"
+msgstr ""
+
+msgctxt "StrongholdDescription"
+msgid "The interior of a stone castle"
+msgstr ""
+
+msgctxt "ElvenPalaceTitle"
+msgid "Elven Palace"
+msgstr ""
+
+msgctxt "ElvenPalaceDescription"
+msgid "A luxurious vestige of the realm of Manacalon"
+msgstr ""
+
+msgctxt "LavaCavesTitle"
+msgid "Lava Caves"
+msgstr ""
+
+msgctxt "LavaCavesDescription"
+msgid "An underground network of caves inhabited by tribal creatures"
+msgstr ""
+
+msgctxt "WoodlandTitle"
+msgid "Woodland"
+msgstr ""
+
+msgctxt "WoodlandDescription"
+msgid "Navigate through a series of clearings inside a temperate forest"
+msgstr ""
+
+msgctxt "CR0_Loot_PackTitle"
+msgid "CR0 Loot"
+msgstr ""
+
+msgctxt "CR1_Loot_PackTitle"
+msgid "CR1 Loot"
+msgstr ""
+
+msgctxt "CR2_Loot_PackTitle"
+msgid "CR2 Loot"
+msgstr ""
+
+msgctxt "CR3_Loot_PackTitle"
+msgid "CR3 Loot"
+msgstr ""
+
+msgctxt "CR4_Loot_PackTitle"
+msgid "CR4 Loot"
+msgstr ""
+
+msgctxt "CR5_Loot_PackTitle"
+msgid "CR5 Loot"
+msgstr ""
+
+msgctxt "NoneTitle"
+msgid "<None>"
+msgstr ""
+
+msgctxt "CaerLemTitle"
+msgid "Caer Lem"
+msgstr ""
+
+msgctxt "CaerCyflenTitle"
+msgid "Caer Cyflen"
+msgstr ""
+
+msgctxt "DarkCastleExteriorTitle"
+msgid "Dark Castle (Exterior)"
+msgstr ""
+
+msgctxt "CoparanTitle"
+msgid "Coparann"
+msgstr ""
+
+msgctxt "WizardsTowerTitle"
+msgid "Wizard's Tower"
+msgstr ""
+
+msgctxt "MastermindTitle"
+msgid "Mastermind"
+msgstr ""
+
+msgctxt "CradleOfFireTitle"
+msgid "Cradle of Fire"
+msgstr ""
+
+msgctxt "AerElaiTitle"
+msgid "Aer Elai"
+msgstr ""
+
+msgctxt "TheNecromancerTitle"
+msgid "The Necromancer"
+msgstr ""
+
+msgctxt "RuinsOfTelemaTitle"
+msgid "Ruins of Telema"
+msgstr ""
+
+msgctxt "PrisonEscapeTitle"
+msgid "Prison Escape"
+msgstr ""
+
+msgctxt "TheLightBringersTitle"
+msgid "The Lightbringers"
+msgstr ""
+
+msgctxt "ShadowsTitle"
+msgid "Shadows"
+msgstr ""
+
+msgctxt "CollapsingRoofTitle"
+msgid "Collapsing Roof"
+msgstr ""
+
+msgctxt "CollapsingRoofDescription"
+msgid "Several rocks and boulders fall to the ground"
+msgstr ""
+
+msgctxt "DisturbingRunesTitle"
+msgid "Disturbing Runes"
+msgstr ""
+
+msgctxt "DisturbingRunesDescription"
+msgid "Mind-affecting runes damage the soul and cause random behavior"
+msgstr ""
+
+msgctxt "DeathGlyphTitle"
+msgid "Death Glyph"
+msgstr ""
+
+msgctxt "DeathGlyphDescription"
+msgid "Stepping on this causes necrotic damage and terror"
+msgstr ""
+
+msgctxt "FireBurstTitle"
+msgid "Fire Burst"
+msgstr ""
+
+msgctxt "FireBurstDescription"
+msgid "An eruption causes fire damage"
+msgstr ""
+
+msgctxt "GroundSpikesTitle"
+msgid "Ground Spikes"
+msgstr ""
+
+msgctxt "GroundSpikesDescription"
+msgid "Spikes rise from the ground, causing piercing damage"
+msgstr ""
+
+msgctxt "LightningDischargeTitle"
+msgid "Lightning Discharge"
+msgstr ""
+
+msgctxt "LightningDischargeDescription"
+msgid "Discharges electricity in the vicinity, causing electrical damage"
+msgstr ""
+
+msgctxt "PoisonCloudTitle"
+msgid "Poison Cloud"
+msgstr ""
+
+msgctxt "PoisonCloudDescription"
+msgid "A noxious cloud inflicts poison damage and the poisoned condition"
+msgstr ""
+
+msgctxt "GemsTitle"
+msgid "Gems"
+msgstr ""
+
+msgctxt "ConsumablesTitle"
+msgid "Consumables"
+msgstr ""
+
+msgctxt "MagicWeapons_ArmorsTitle"
+msgid "Magic Weapons and Armor"
+msgstr ""
+
+msgctxt "Wondrous_ItemsTitle"
+msgid "Wondrous Items"
+msgstr ""
+
+msgctxt "IngredientsTitle"
+msgid "Ingredients"
+msgstr ""
+
+msgctxt "Mundane_GearTitle"
+msgid "Mundane Gear"
+msgstr ""
+
+msgctxt "25_GP_Art_ItemsTitle"
+msgid "25 gp Art Items"
+msgstr ""
+
+msgctxt "50_GP_Art_ItemsTitle"
+msgid "50 gp Art Items"
+msgstr ""
+
+msgctxt "BackerItemsTitle"
+msgid "Backer Item Pack"
+msgstr ""
+
+msgctxt "BackerItemsDescription"
+msgid ""
+"Unlocks the One Ring, Dwarven Bread, 6 League Boots, Spoon of Discord and "
+"Early Bird items. Can be found in a chest near the Monument next to the "
+"Council."
+msgstr ""
+
+msgctxt "DigitalBackerContentTitle"
+msgid "Digital Edition Pack"
+msgstr ""
+
+msgctxt "DigitalBackerContentDescription"
+msgid ""
+"Unlocks the Everlasting Torch item and special VFX versions of Burning Hands "
+"and Sacred Flame. Can be found in a chest near the Monument next to the "
+"Council."
+msgstr ""
+
+msgctxt "LoadedDiceTitle"
+msgid "Loaded Dice Pack"
+msgstr ""
+
+msgctxt "LoadedDiceDescription"
+msgid ""
+"Unlock the Loaded Dice item. Can be found near the Monument in a chest next "
+"to the Council."
+msgstr ""
+
+msgctxt "SorcererUpdateTitle"
+msgid "Sorcerer Update"
+msgstr ""
+
+msgctxt "SorcererUpdateDescription"
+msgid ""
+"Unlocks the Sorcerer class and its 3 subclasses, iron man mode and new "
+"Dungeon Maker content"
+msgstr ""
+
+msgctxt "SupporterPackTitle"
+msgid "Supporter Pack"
+msgstr ""
+
+msgctxt "SupporterPackDescription"
+msgid ""
+"Unlocks exclusive dice, a vast amount of high resolution Concept Art, and "
+"the eternal love of the Tactical Adventures team"
+msgstr ""
+
+msgctxt "PrimalPowerTitle"
+msgid "Primal Power"
+msgstr ""
+
+msgctxt "PrimalPowerDescription"
+msgid ""
+"Unlocks the Barbarian & Druid character classes, to play with any adventure "
+"of Solasta"
+msgstr ""
+
+msgctxt "RosLastName"
+msgid "Ros"
+msgstr ""

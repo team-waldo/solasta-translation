@@ -1,0 +1,121 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "BanditTrackDescription"
+msgid "Human tracks - probably bandits. They look quite fresh."
+msgstr ""
+
+msgctxt "DisarmTrapDescription"
+msgid "Click to try to disarm this trap."
+msgstr ""
+
+msgctxt "HardClimbDescription"
+msgid "Click to try to climb."
+msgstr ""
+
+msgctxt "LightDescription"
+msgid "Click to light this light."
+msgstr ""
+
+msgctxt "LockPickChestDescription"
+msgid "Click to try to pick the lock on this chest."
+msgstr ""
+
+msgctxt "LockPickDoorDescription"
+msgid "Click to try to pick this door's lock."
+msgstr ""
+
+msgctxt "LootContainerDescription"
+msgid "Click to loot this container."
+msgstr ""
+
+msgctxt "NpcInteractionDescription"
+msgid "Click to interact with this character."
+msgstr ""
+
+msgctxt "ObserveDescription"
+msgid "Click to examine this object."
+msgstr ""
+
+msgctxt "OpenCloseDoorDescription"
+msgid "Click to open/close this door."
+msgstr ""
+
+msgctxt "PushDescription"
+msgid "Click to push this object."
+msgstr ""
+
+msgctxt "StartLongRestDescription"
+msgid "Click to start a long rest for the party."
+msgstr ""
+
+msgctxt "TriggerTrapDescription"
+msgid "Trigger collapse."
+msgstr ""
+
+msgctxt "UseDescription"
+msgid "Click to use this object."
+msgstr ""
+
+msgctxt "GoblinTrackDescription"
+msgid "Footprints… Probably goblins'. They look quite fresh."
+msgstr ""
+
+msgctxt "UnknownTrackDescription"
+msgid "Fresh tracks, probably those of the fanatics."
+msgstr ""
+
+msgctxt "SorakTrackDescription"
+msgid "Reptilian tracks… Soraks, maybe?"
+msgstr ""
+
+msgctxt "QuickShoppingDescription"
+msgid "Click to open quick shopping."
+msgstr ""
+
+msgctxt "WaitDescription"
+msgid "Click to wait for the moon to rise."
+msgstr ""
+
+msgctxt "UseScavengersDescription"
+msgid "Click to use the Scavenger System"
+msgstr ""
+
+msgctxt "TakeScimitarDescription"
+msgid "Click to use the scimitar and the shield for this fight."
+msgstr ""
+
+msgctxt "TakeDaggersDescription"
+msgid "Click to use the daggers for this fight."
+msgstr ""
+
+msgctxt "TakeGreataxeDescription"
+msgid "Click to use the greataxe for this fight."
+msgstr ""
+
+msgctxt "LeaveArenaDescription"
+msgid "Click to leave the arena and forfeit the duel."
+msgstr ""
+
+msgctxt "PlantDocumentDescription"
+msgid "Plant Document"
+msgstr ""
+
+msgctxt "Unlock_Door_With_Key_Description"
+msgid "Use the adequate key to open the door."
+msgstr ""
+
+msgctxt "NpcInteractionEnlistDescription"
+msgid "Click to enlist this character as a companion"
+msgstr ""

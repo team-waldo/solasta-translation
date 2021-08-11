@@ -1,0 +1,102 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "AttackingDescription"
+msgid "The creature is attacking its target."
+msgstr ""
+
+msgctxt "AttackingTitle"
+msgid "Attacking"
+msgstr ""
+
+msgctxt "IdleDescription"
+msgid "The creature is not doing anything in particular."
+msgstr ""
+
+msgctxt "IdleTitle"
+msgid "Idle"
+msgstr ""
+
+msgctxt "InterceptingDescription"
+msgid "The creature has spotted a target and is moving towards it."
+msgstr ""
+
+msgctxt "InterceptingTitle"
+msgid "Intercepting"
+msgstr ""
+
+msgctxt "InvestigatingDescription"
+msgid "The creature is investigating a source of disturbance (noise, light)."
+msgstr ""
+
+msgctxt "InvestigatingTitle"
+msgid "Investigating"
+msgstr ""
+
+msgctxt "MovingDescription"
+msgid "The creature is going somewhere."
+msgstr ""
+
+msgctxt "MovingTitle"
+msgid "Moving"
+msgstr ""
+
+msgctxt "NoBehaviorDescription"
+msgid ""
+"The creature is doing nothing or its initial state has not been launched."
+msgstr ""
+
+msgctxt "NoBehaviorTitle"
+msgid "No Behavior"
+msgstr ""
+
+msgctxt "PlanningDescription"
+msgid "The creature is planning its next action."
+msgstr ""
+
+msgctxt "PlanningTitle"
+msgid "Planning"
+msgstr ""
+
+msgctxt "SneakingDescription"
+msgid "The character is trying to be stealthy."
+msgstr ""
+
+msgctxt "SneakingTitle"
+msgid "Sneaking"
+msgstr ""
+
+msgctxt "TalkingDescription"
+msgid "The creature is talking."
+msgstr ""
+
+msgctxt "TalkingTitle"
+msgid "Talking"
+msgstr ""
+
+msgctxt "WaitingDescription"
+msgid "The creature is waiting."
+msgstr ""
+
+msgctxt "WaitingTitle"
+msgid "Waiting"
+msgstr ""
+
+msgctxt "WatchingDescription"
+msgid "The creature is looking out for enemies."
+msgstr ""
+
+msgctxt "WatchingTitle"
+msgid "Watching"
+msgstr ""

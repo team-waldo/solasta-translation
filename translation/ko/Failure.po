@@ -1,0 +1,527 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "FailureFlagAlreadyWieldingLightSource"
+msgid "You are already holding a light source."
+msgstr ""
+
+msgctxt "FailureFlagAttributesAssigned"
+msgid "You have already assigned scores."
+msgstr ""
+
+msgctxt "FailureFlagBlockedMove"
+msgid "Path is blocked."
+msgstr ""
+
+msgctxt "FailureFlagCannotAfford"
+msgid "You cannot afford to spend that much."
+msgstr ""
+
+msgctxt "FailureFlagCannotAffordCosts"
+msgid "You cannot afford to spend {0}."
+msgstr ""
+
+msgctxt "FailureFlagCannotCastAnySpell"
+msgid "You cannot cast any spells at this time."
+msgstr ""
+
+msgctxt "FailureFlagCannotCastLightCantrip"
+msgid "You cannot cast the light cantrip."
+msgstr ""
+
+msgctxt "FailureFlagCannotRestTooOften"
+msgid "You cannot take a long rest twice in the same day."
+msgstr ""
+
+msgctxt "FailureFlagCannotScribeScrolls"
+msgid "This character cannot scribe scrolls into a spellbook."
+msgstr ""
+
+msgctxt "FailureFlagCannotUseAnyPower"
+msgid "You cannot use any powers at this time."
+msgstr ""
+
+msgctxt "FailureFlagConditionNotMatching"
+msgid "The target does not have the right condition."
+msgstr ""
+
+msgctxt "FailureFlagDeadTarget"
+msgid "You cannot target a dead character."
+msgstr ""
+
+msgctxt "FailureFlagDocumentUnknownLanguage"
+msgid "No one in the party is proficient with this language."
+msgstr ""
+
+msgctxt "FailureFlagFreeOnceActionSpent"
+msgid "You have already spent your free/inventory action this round."
+msgstr ""
+
+msgctxt "FailureFlagFreeOnceActionSpentNotOnBody"
+msgid ""
+"You have already spent your free/inventory action this round and this item "
+"is not carried on your person."
+msgstr ""
+
+msgctxt "FailureFlagFreeOnceActionUnavailable"
+msgid "Your free/inventory action is not available."
+msgstr ""
+
+msgctxt "FailureFlagFunctionDurationCooldown"
+msgid "You must wait {0} before you can use this function again."
+msgstr ""
+
+msgctxt "FailureFlagFunctionNotEnoughCharges"
+msgid "The item does not have enough charges to use this function."
+msgstr ""
+
+msgctxt "FailureFlagFunctionOutOfIterations"
+msgid "The item has run out of uses for this function."
+msgstr ""
+
+msgctxt "FailureFlagFunctionRequiresAttunement"
+msgid "You must be attuned to this item (short rest) to use this."
+msgstr ""
+
+msgctxt "FailureFlagHardLockedDoor"
+msgid "Door cannot be opened."
+msgstr ""
+
+msgctxt "FailureFlagHardLockedDoorNoLock"
+msgid "There is no visible lock. This door cannot be opened from here."
+msgstr ""
+
+msgctxt "FailureFlagHardLockedDoorTutorialOrcHideout"
+msgid "Must complete the quest objective before opening the door."
+msgstr ""
+
+msgctxt "FailureFlagItemTargetTooFarAway"
+msgid "Too far away to select an item."
+msgstr ""
+
+msgctxt "FailureFlagLockedCharacter"
+msgid "This character is locked and cannot be changed."
+msgstr ""
+
+msgctxt "FailureFlagLockedDoor"
+msgid "You need thieves' tools to pick a lock."
+msgstr ""
+
+msgctxt "FailureFlagMainActionUnavailable"
+msgid "You have spent your main action, or are not able to use it."
+msgstr ""
+
+msgctxt "FailureFlagMaximumPersonalityFlags"
+msgid "You have already selected the maximum number of personality flags."
+msgstr ""
+
+msgctxt "FailureFlagMissingConfigurationItem"
+msgid "You are missing one or more items from this configuration."
+msgstr ""
+
+msgctxt "FailureFlagNoCharacterCreated"
+msgid "You have not created a character."
+msgstr ""
+
+msgctxt "FailureFlagNoMainActionToExecute"
+msgid "You have spent your main action."
+msgstr ""
+
+msgctxt "FailureFlagNoPathToLocation"
+msgid "No path found to navigate to this location."
+msgstr ""
+
+msgctxt "FailureFlagNoPerceptionOfTargetDescription"
+msgid "You cannot see this target."
+msgstr ""
+
+msgctxt "FailureFlagNoReachForTargetDescription"
+msgid "You cannot reach the target."
+msgstr ""
+
+msgctxt "FailureFlagNoSavedGame"
+msgid "No valid saved game found on this computer."
+msgstr ""
+
+msgctxt "FailureFlagNoSuitableLightTarget"
+msgid "You are not carrying any item suitable for the light cantrip."
+msgstr ""
+
+msgctxt "FailureFlagNotEnoughFood"
+msgid "You are missing {0} unit(s) of food."
+msgstr ""
+
+msgctxt "FailureFlagNotEnoughMove"
+msgid "Not enough move."
+msgstr ""
+
+msgctxt "FailureFlagNotInBattle"
+msgid "Not in battle."
+msgstr ""
+
+msgctxt "FailureFlagNoTorchInInventory"
+msgid "You have no torches in your inventory."
+msgstr ""
+
+msgctxt "FailureFlagOncePerTurnOnly"
+msgid "Once per turn only."
+msgstr ""
+
+msgctxt "FailureFlagOnlyAfterALongRest"
+msgid "You can only do this after a long rest."
+msgstr ""
+
+msgctxt "FailureFlagPartyTooSpreadOut"
+msgid "You must gather your party together."
+msgstr ""
+
+msgctxt "FailureFlagProjectileBlocked"
+msgid "Projectile is blocked."
+msgstr ""
+
+msgctxt "FailureFlagProtectedCharacter"
+msgid "This character cannot be deleted."
+msgstr ""
+
+msgctxt "FailureFlagScrollNotInSpellList"
+msgid "The spell on this scroll is not on your spell list."
+msgstr ""
+
+msgctxt "FailureFlagScrollNotOnSpellList"
+msgid "This scroll is not compatible with this character's spell list."
+msgstr ""
+
+msgctxt "FailureFlagSpellLevelTooHigh"
+msgid "The spell level is too high."
+msgstr ""
+
+msgctxt "FailureFlagTargetAlreadySelected"
+msgid "Target is already selected."
+msgstr ""
+
+msgctxt "FailureFlagTargetIncorrectCreatureFamily"
+msgid "Target creature does not have the correct type."
+msgstr ""
+
+msgctxt "FailureFlagTargetIsAnEffectProxy"
+msgid "Target is a magical effect."
+msgstr ""
+
+msgctxt "FailureFlagTargetIsNotACreature"
+msgid "Target is not a creature."
+msgstr ""
+
+msgctxt "FailureFlagTargetIsNotAGadget"
+msgid "Target is not an object."
+msgstr ""
+
+msgctxt "FailureFlagTargetMustBeUnarmored"
+msgid "Target must be unarmored."
+msgstr ""
+
+msgctxt "FailureFlagTargetOutOfRange"
+msgid "Target is out of range."
+msgstr ""
+
+msgctxt "FailureFlagTargetTooFarFromOtherTargets"
+msgid "Target is too far from other targets."
+msgstr ""
+
+msgctxt "FailureFlagTransferCannotCarry"
+msgid "Out of space/too overloaded to carry this item."
+msgstr ""
+
+msgctxt "FailureFlagTransferTooFarAway"
+msgid "Too far away to transfer the item."
+msgstr ""
+
+msgctxt "FailureFlagTwoHandedWeaponEquiped"
+msgid "You are wielding a two-handed weapon."
+msgstr ""
+
+msgctxt "FailureFlagUnassignedCharacter"
+msgid "You must assign all characters before you can proceed."
+msgstr ""
+
+msgctxt "FailureFlagUnsafeRestLocation"
+msgid "It is not safe to rest here."
+msgstr ""
+
+msgctxt "FailureFlagUseItemActionUnavailable"
+msgid "You cannot use the \"Use an Item\" action."
+msgstr ""
+
+msgctxt "FailureFlagWrongLoadContextDescription"
+msgid "You cannot load a game at this time."
+msgstr ""
+
+msgctxt "FailureFlagWrongSaveContextDescription"
+msgid "You cannot save the game at this time."
+msgstr ""
+
+msgctxt "FeedbackText_OpenDoorLever"
+msgid "The door is opened by a lever."
+msgstr ""
+
+msgctxt "FailureFlagHardLockedDoorTOM"
+msgid "This door is designed to be opened remotely."
+msgstr ""
+
+msgctxt "FailureFlagRestNotPermitted"
+msgid "This type of rest is not authorized right now"
+msgstr ""
+
+msgctxt "FailureFlagOutOfPerceptionRange"
+msgid "This target is too far away to be perceived."
+msgstr ""
+
+msgctxt "FailureFlagPartyCannotCastSpell"
+msgid "No party member can cast this spell or has it prepared."
+msgstr ""
+
+msgctxt "FailureFlagProxyNeedsCasterVision"
+msgid "The caster needs to perceive the target."
+msgstr ""
+
+msgctxt "FailureFlagVerbalComponentCannotSpeak"
+msgid "Unable to speak and perform verbal spell components."
+msgstr ""
+
+msgctxt "FailureFlagSomaticComponentRestrained"
+msgid "Restrained and unable to perform somatic spell components."
+msgstr ""
+
+msgctxt "FailureFlagSomaticComponentHandsFull"
+msgid "No free hand to perform somatic spell components."
+msgstr ""
+
+msgctxt "FailureFlagMaterialComponentMissingFocus"
+msgid "Must wield/wear a Spell Focus or Component Pouch."
+msgstr ""
+
+msgctxt "FailureFlagMaterialComponentMissingSpecific"
+msgid "Missing a(n) \"{0}\" item with a value of at least {1}."
+msgstr ""
+
+msgctxt "FailureFlagFunctionRequiresIdentification"
+msgid "You must identify this item to use it."
+msgstr ""
+
+msgctxt "FailureFlagFunctionNotInCombat"
+msgid "Cannot use this function in combat."
+msgstr ""
+
+msgctxt "FailureFlagNoValidRemainingPages"
+msgid ""
+"None of this character's spellbooks has any room left for the {0} pages "
+"required for the {1} spell."
+msgstr ""
+
+msgctxt "FailureFlagAllSpellbooksAlreadyScribed"
+msgid ""
+"All the spellbooks carried by this character already contain the {0} spell."
+msgstr ""
+
+msgctxt "FailureFlagRecipeAlreadyKnown"
+msgid "You already know this crafting option."
+msgstr ""
+
+msgctxt "FailureFlagNoRecipeWithTool"
+msgid "You do not know any crafting options that use this tool."
+msgstr ""
+
+msgctxt "FailureTeleportNoPortalAtOrigin"
+msgid "The current party location does not have a Major Gate."
+msgstr ""
+
+msgctxt "FailureTeleportNoPortalAtDestination"
+msgid "The destination location has a Major Gate."
+msgstr ""
+
+msgctxt "FailureFlagDeityMarkAreadyPresent"
+msgid "The mark of this character's deity is only present on this item"
+msgstr ""
+
+msgctxt "FailureFlagHardLockedDoor_Key"
+msgid "You need the adequate key to open this door."
+msgstr ""
+
+msgctxt "FailureFlagInsufficientSorceryPoints"
+msgid "Not enough sorcery points"
+msgstr ""
+
+msgctxt "FailureFlagUnavailableSpellSlot"
+msgid "No spell slot of this level is available"
+msgstr ""
+
+msgctxt "FailureFlagNoSavingThrowAvailable"
+msgid "The spell does not provide a saving throw"
+msgstr ""
+
+msgctxt "FailureFlagInvalidSpellActionType"
+msgid "The spell does not the correct action type"
+msgstr ""
+
+msgctxt "FailureFlagCraftingItemTooHeavy"
+msgid ""
+"The crafted item is too heavy to fit into the crafting character's inventory"
+msgstr ""
+
+msgctxt "FailureFlagMissingUserLocation"
+msgid "You must select a user location"
+msgstr ""
+
+msgctxt "FailureLocationMustHaveEntrance"
+msgid "The location must have an entrance"
+msgstr ""
+
+msgctxt "FailureLocationMustContainOneRoom"
+msgid "The location must contain at least one room"
+msgstr ""
+
+msgctxt "FailureLocationInconsistentCharacterLevels"
+msgid "The min./max. character levels are inconsistent"
+msgstr ""
+
+msgctxt "FailureGadgetNotInRoom"
+msgid "The gadget must be placed inside an existing room"
+msgstr ""
+
+msgctxt "FailureGadgetOutOfRoomBounds"
+msgid "The gadget is outside the bounds of this room"
+msgstr ""
+
+msgctxt "FailureGadgetOverlapExisting"
+msgid "The gadget is overlapping another gadget or prop"
+msgstr ""
+
+msgctxt "FailurePropNotInRoom"
+msgid "The prop must be placed inside an existing room"
+msgstr ""
+
+msgctxt "FailurePropOutOfRoomBounds"
+msgid "The prop is outside the bounds of this room"
+msgstr ""
+
+msgctxt "FailurePropOverlapExisting"
+msgid "The prop is overlapping another gadget or prop"
+msgstr ""
+
+msgctxt "FailureInvalidPosition"
+msgid "Invalid Position"
+msgstr ""
+
+msgctxt "FailureGadgetInvalidParameters"
+msgid "Some of the parameters of this gadget are invalid"
+msgstr ""
+
+msgctxt "FailureRoomOverlapExisting"
+msgid "The room is overlapping another room"
+msgstr ""
+
+msgctxt "FailureRoomOutOfBounds"
+msgid "The room is outside the bounds of the location"
+msgstr ""
+
+msgctxt "FailureFlagCopyrightInfringementTitle"
+msgid "The title of the location uses the copyrighted term \"{0}\""
+msgstr ""
+
+msgctxt "FailureFlagCopyrightInfringementDescription"
+msgid "The description of the location uses the copyrighted term \"{0}\""
+msgstr ""
+
+msgctxt "FailureFlagCopyrightInfringementLoreGadget"
+msgid "The \"{0}\" gadget uses the copyrighted term \"{1}\""
+msgstr ""
+
+msgctxt "FailureFlagMustMoveToRotate"
+msgid "This object is not square. You must move it to rotate it"
+msgstr ""
+
+msgctxt "FailureFlagMustSaveToPlaytest"
+msgid "You must save your location before you can playtest it"
+msgstr ""
+
+msgctxt "EditorCannotSelectSourceGadget"
+msgid "Cannot select the source gadget"
+msgstr ""
+
+msgctxt "FailureFlagOnlyInBattle"
+msgid "Only in battle"
+msgstr ""
+
+msgctxt "FailureLocationMustHaveEntranceIndex0"
+msgid "The location must have one of its entrances with entrance index 0"
+msgstr ""
+
+msgctxt "FailureGadgetInvalidPlacement"
+msgid "The gadget placement is invalid"
+msgstr ""
+
+msgctxt "FailurePropInvalidPlacement"
+msgid "The prop placement is invalid"
+msgstr ""
+
+msgctxt "FailureEditorCannotSelectIncompatibleGadget"
+msgid "Cannot be activated"
+msgstr ""
+
+msgctxt "FailureEditorCannotSelectDuplicateGadget"
+msgid "Already activated by this gadget"
+msgstr ""
+
+msgctxt "FailureCampaignMustContainOneLocation"
+msgid "The campaign must have at least one location"
+msgstr ""
+
+msgctxt "FailureCampaignMustHaveStartLocation"
+msgid "The campaign must have a start location"
+msgstr ""
+
+msgctxt "FailureCampaignInconsistentCharacterLevels"
+msgid "Inconsistent min/max character levels"
+msgstr ""
+
+msgctxt "FailureCampaignEmptyTitle"
+msgid "Invalid Title"
+msgstr ""
+
+msgctxt "FailureCampaignDuplicateTitle"
+msgid "You must enter a valid title for your user campaign"
+msgstr ""
+
+msgctxt "FailureCampaignNothingModified"
+msgid "Duplicate Title"
+msgstr ""
+
+msgctxt "FailureFlagInvalidSingleTarget"
+msgid "The spell must have a single target"
+msgstr ""
+
+msgctxt "FailureFlagDurationInferiorTo1Min"
+msgid "The spell duration is less than 1 minute"
+msgstr ""
+
+msgctxt "FailureFlagSpellWithoutDamage"
+msgid "The spell does not cause any damage"
+msgstr ""
+
+msgctxt "FailureFlagSpellRangeCannotBeSelf"
+msgid "The spell range cannot be \"self\""
+msgstr ""
+
+msgctxt "FailureFlagUnavailableBonusAction"
+msgid "Unavailable bonus action"
+msgstr ""

@@ -1,0 +1,923 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 23:45+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "DwarfDescription"
+msgid ""
+"One of the ancient dwellers of Solasta, dwarves are naturally skilled miners "
+"and craftsmen. Blocky and sturdy, they are fierce warriors and keepers of "
+"their ancestral culture and traditions."
+msgstr ""
+"Solasta의 고대 거주자 중 하나인 드워프는 타고난 숙련된 광부이자 장인입니다. 덩어리지고 건장한 그들은 사나운 전사이자 조상의 "
+"문화와 전통을 수호합니다."
+
+msgctxt "DwarfFemaleName1Title"
+msgid "Andrya"
+msgstr "안드리아"
+
+msgctxt "DwarfFemaleName2Title"
+msgid "Aellin"
+msgstr "앨린"
+
+msgctxt "DwarfFemaleName3Title"
+msgid "Eurhild"
+msgstr "에울힐트"
+
+msgctxt "DwarfFemaleName4Title"
+msgid "Bergit"
+msgstr "베르짓"
+
+msgctxt "DwarfFemaleName5Title"
+msgid "Gilda"
+msgstr "길다"
+
+msgctxt "DwarfFemaleName6Title"
+msgid "Gertrud"
+msgstr "거트루드"
+
+msgctxt "DwarfFemaleName7Title"
+msgid "Freya"
+msgstr "프레야"
+
+msgctxt "DwarfHillDescription"
+msgid ""
+"<#B5D3DE>Hill dwarves</color> are naturally skilled miners and craftsmen, "
+"gifted with keen senses, deep intuition, and remarkable resilience. Blocky "
+"and sturdy, they are fierce warriors and keepers of their ancestral culture "
+"and traditions."
+msgstr ""
+"<#B5D3DE>힐 드워프</color>는 타고난 숙련된 광부이자 장인이며 예리한 감각, 깊은 직관력, 놀라운 회복력을 타고났습니다. "
+"덩어리지고 건장한 그들은 사나운 전사이자 조상의 문화와 전통을 수호합니다."
+
+msgctxt "DwarfHillTitle"
+msgid "Hill Dwarf"
+msgstr "힐 드워프"
+
+msgctxt "DwarfMaleName1Title"
+msgid "Erik"
+msgstr "에릭"
+
+msgctxt "DwarfMaleName2Title"
+msgid "Aldrich"
+msgstr "알드리치"
+
+msgctxt "DwarfMaleName3Title"
+msgid "Bjorn"
+msgstr "비욘"
+
+msgctxt "DwarfMaleName4Title"
+msgid "Berden"
+msgstr "베르덴"
+
+msgctxt "DwarfMaleName5Title"
+msgid "Fauffy"
+msgstr "파피"
+
+msgctxt "DwarfMaleName6Title"
+msgid "Znork"
+msgstr "즈노크"
+
+msgctxt "DwarfMaleName7Title"
+msgid "Jovelin"
+msgstr "조블린"
+
+msgctxt "DwarfMaleName8Title"
+msgid "Dilligaff"
+msgstr "딜리가프"
+
+msgctxt "DwarfSnowDescription"
+msgid ""
+"<#B5D3DE>Snow dwarves</color> are sturdy and adventurous, adapted to harsh "
+"terrain and low temperatures. Blocky, agile, and sturdy, they are fierce "
+"warriors and keepers of their ancestral culture and traditions."
+msgstr ""
+"<#B5D3DE>스노우 드워프</color>는 강인하고 모험심이 강하며 거친 지형과 낮은 온도에 적응합니다. 거칠고 민첩하며 건장한 "
+"그들은 사나운 전사이자 조상의 문화와 전통을 수호합니다."
+
+msgctxt "DwarfSnowTitle"
+msgid "Snow Dwarf"
+msgstr "눈 드워프"
+
+msgctxt "DwarfSurName1Title"
+msgid "Tallbarrel"
+msgstr "톨배럴"
+
+msgctxt "DwarfSurName2Title"
+msgid "Stronghammer"
+msgstr "스트롱해머"
+
+msgctxt "DwarfSurName3Title"
+msgid "Redstone"
+msgstr "붉은 색 돌"
+
+msgctxt "DwarfSurName4Title"
+msgid "Blackshield"
+msgstr "검은방패"
+
+msgctxt "DwarfSurName5Title"
+msgid "Forgehand"
+msgstr "포지핸드"
+
+msgctxt "DwarfSurName6Title"
+msgid "Baerleybrew"
+msgstr "베어리브루"
+
+msgctxt "DwarfSurName7Title"
+msgid "Stoutshield"
+msgstr "스타우트쉴드"
+
+msgctxt "DwarfSurNameTitle"
+msgid "Clan"
+msgstr "씨족"
+
+msgctxt "DwarfTitle"
+msgid "Dwarf"
+msgstr "난쟁이"
+
+msgctxt "ElfDescription"
+msgid ""
+"Elves are some of the most ancient dwellers on Solasta, and used to rule a "
+"powerful empire before the Cataclysm. They are naturally gifted with magic, "
+"agile, and fast. They have innate resistances and keen senses."
+msgstr ""
+"엘프는 솔라스타에서 가장 오래된 거주자 중 하나이며 대격변 이전에 강력한 제국을 통치하는 데 사용되었습니다. 그들은 천부적으로 마법, "
+"민첩성 및 빠른 재능을 타고났습니다. 그들은 타고난 저항과 예리한 감각을 가지고 있습니다."
+
+msgctxt "ElfFemaleName10Title"
+msgid "Keavith"
+msgstr "키비스"
+
+msgctxt "ElfFemaleName11Title"
+msgid "Lianore"
+msgstr "리아노어"
+
+msgctxt "ElfFemaleName12Title"
+msgid "Beriiel"
+msgstr "베리엘"
+
+msgctxt "ElfFemaleName13Title"
+msgid "Phoebe"
+msgstr "페베"
+
+msgctxt "ElfFemaleName14Title"
+msgid "Synria"
+msgstr "신리아"
+
+msgctxt "ElfFemaleName15Title"
+msgid "Sonea"
+msgstr "소네아"
+
+msgctxt "ElfFemaleName16Title"
+msgid "Celeste"
+msgstr "셀레스트"
+
+msgctxt "ElfFemaleName1Title"
+msgid "Allanagh"
+msgstr "알라나"
+
+msgctxt "ElfFemaleName2Title"
+msgid "Hormath"
+msgstr "호르마트"
+
+msgctxt "ElfFemaleName3Title"
+msgid "Fiachnail"
+msgstr "피치네일"
+
+msgctxt "ElfFemaleName4Title"
+msgid "Emera"
+msgstr "에메라"
+
+msgctxt "ElfFemaleName5Title"
+msgid "Kenndra"
+msgstr "켄드라"
+
+msgctxt "ElfFemaleName6Title"
+msgid "Liadainna"
+msgstr "리아다이나"
+
+msgctxt "ElfFemaleName7Title"
+msgid "Nialla"
+msgstr "니알라"
+
+msgctxt "ElfFemaleName8Title"
+msgid "Saorla"
+msgstr "사오를라"
+
+msgctxt "ElfFemaleName9Title"
+msgid "Teaghan"
+msgstr "티건"
+
+msgctxt "ElfHighDescription"
+msgid ""
+"<#B5D3DE>High elves</color> are the descendants of the people who ruled "
+"Solasta for centuries. They are trained to use magic very early, and have a "
+"gift for languages. They receive the traditional martial training of their "
+"people with swords and bows."
+msgstr ""
+"<#B5D3DE>하이 엘프</color>는 수세기 동안 솔라스타를 통치한 사람들의 후손입니다. 그들은 아주 일찍부터 마법을 사용하도록 "
+"훈련받았고 언어에 재능이 있습니다. 그들은 검과 활로 백성의 전통 무술 훈련을 받습니다."
+
+msgctxt "ElfHighTitle"
+msgid "High Elf"
+msgstr "하이 엘프"
+
+msgctxt "ElfMaleName10Title"
+msgid "Ravoprax"
+msgstr "라보프락스"
+
+msgctxt "ElfMaleName11Title"
+msgid "Kelos"
+msgstr "켈로스"
+
+msgctxt "ElfMaleName12Title"
+msgid "Eloann"
+msgstr "엘로안"
+
+msgctxt "ElfMaleName13Title"
+msgid "Gallian"
+msgstr "갈리아어"
+
+msgctxt "ElfMaleName1Title"
+msgid "Ilastar"
+msgstr "일라스타"
+
+msgctxt "ElfMaleName2Title"
+msgid "Baran"
+msgstr "바란"
+
+msgctxt "ElfMaleName3Title"
+msgid "Caerwyn"
+msgstr "캐어윈"
+
+msgctxt "ElfMaleName4Title"
+msgid "Daeg"
+msgstr "대그"
+
+msgctxt "ElfMaleName5Title"
+msgid "Keyne"
+msgstr "케인"
+
+msgctxt "ElfMaleName6Title"
+msgid "Lianean"
+msgstr "리안"
+
+msgctxt "ElfMaleName7Title"
+msgid "Orrindil"
+msgstr "오린딜"
+
+msgctxt "ElfMaleName8Title"
+msgid "Sharindill"
+msgstr "샤린딜"
+
+msgctxt "ElfMaleName9Title"
+msgid "Finael"
+msgstr "피나엘"
+
+msgctxt "ElfSurName11Title"
+msgid "Sonata"
+msgstr "소나타"
+
+msgctxt "ElfSurName10Title"
+msgid "Redmoon"
+msgstr "레드문"
+
+msgctxt "ElfSurName1Title"
+msgid "Strongsteel"
+msgstr "스트롱스틸"
+
+msgctxt "ElfSurName2Title"
+msgid "Fastmind"
+msgstr "패스트마인드"
+
+msgctxt "ElfSurName3Title"
+msgid "Wildwind"
+msgstr "강풍"
+
+msgctxt "ElfSurName4Title"
+msgid "Silverlight"
+msgstr "실버라이트"
+
+msgctxt "ElfSurName5Title"
+msgid "Keenmind"
+msgstr "킨마인드"
+
+msgctxt "ElfSurName6Title"
+msgid "Redglow"
+msgstr "레드글로우"
+
+msgctxt "ElfSurName7Title"
+msgid "Innerfire"
+msgstr "이너파이어"
+
+msgctxt "ElfSurName8Title"
+msgid "Goldenfire"
+msgstr "황금불"
+
+msgctxt "ElfSurName9Title"
+msgid "Silvereyes"
+msgstr "실버아이즈"
+
+msgctxt "ElfSurNameTitle"
+msgid "Family"
+msgstr "가족"
+
+msgctxt "ElfSylvanDescription"
+msgid ""
+"Born and raised in the eastern forests of Solasta, <#B5D3DE>sylvan elves</"
+"color> are trained to survive in the wilds and are particularly apt to "
+"survival. As their high elf cousins, they are trained to fight with swords "
+"and bows since childhood."
+msgstr ""
+"솔라스타의 동부 숲에서 태어나고 자란 <#B5D3DE>실반 엘프</color>는 야생에서 생존하도록 훈련되었으며 특히 생존에 능합니다. "
+"하이 엘프 사촌으로서 어린 시절부터 검과 활로 싸우도록 훈련받았습니다."
+
+msgctxt "ElfSylvanTitle"
+msgid "Sylvan Elf"
+msgstr "실반 엘프"
+
+msgctxt "ElfTitle"
+msgid "Elf"
+msgstr "꼬마 요정"
+
+msgctxt "HalfElfDescription"
+msgid ""
+"Offspring of the human refugees from Tirmar and the Solastan elves, <#B5D3DE"
+">half-elves</color> have the strength of their parents. Versatile, "
+"charismatic, and gifted with Darkvision and fey ancestry, they are always "
+"torn between two cultures."
+msgstr ""
+"티르마르와 솔라스탄 엘프에서 온 인간 난민의 자손인 <#B5D3DE>하프 엘프</color>는 부모의 힘을 가지고 있습니다. 다재다능하고 "
+"카리스마가 넘치며 다크비전과 혈통을 타고난 그들은 항상 두 문화 사이에서 갈팡질팡합니다."
+
+msgctxt "HalfElfFemaleName1Title"
+msgid "Maiwen"
+msgstr "마이웬"
+
+msgctxt "HalfElfFemaleName2Title"
+msgid "Serenrae"
+msgstr "세렌래"
+
+msgctxt "HalfElfFemaleName3Title"
+msgid "Lila"
+msgstr "라일라"
+
+msgctxt "HalfElfFemaleName4Title"
+msgid "Iela"
+msgstr "이엘라"
+
+msgctxt "HalfElfFemaleName5Title"
+msgid "Cami"
+msgstr "캐미"
+
+msgctxt "HalfElfMaleName1Title"
+msgid "Volkus"
+msgstr "볼쿠스"
+
+msgctxt "HalfElfMaleName2Title"
+msgid "Scarsan"
+msgstr "스카산"
+
+msgctxt "HalfElfMaleName3Title"
+msgid "Faolan"
+msgstr "파오란"
+
+msgctxt "HalfElfMaleName4Title"
+msgid "Roy"
+msgstr "로이"
+
+msgctxt "HalfElfMaleName5Title"
+msgid "Kalan"
+msgstr "칼란"
+
+msgctxt "HalfElfMaleName6Title"
+msgid "Corthyn"
+msgstr "코르틴"
+
+msgctxt "HalfElfSurName1Title"
+msgid "Reed"
+msgstr "갈대"
+
+msgctxt "HalfElfSurName2Title"
+msgid "Olfborn"
+msgstr "올본"
+
+msgctxt "HalfElfSurName3Title"
+msgid "Leafheart"
+msgstr "리프하트"
+
+msgctxt "HalfElfSurName4Title"
+msgid "King"
+msgstr "왕"
+
+msgctxt "HalfElfSurName5Title"
+msgid "Towers"
+msgstr "타워"
+
+msgctxt "HalfElfSurName6Title"
+msgid "Rivers"
+msgstr "강하"
+
+msgctxt "HalfElfSurName7Title"
+msgid "Reed"
+msgstr "갈대"
+
+msgctxt "HalfElfSurNameTitle"
+msgid "Family"
+msgstr "가족"
+
+msgctxt "HalfElfTitle"
+msgid "Half-Elf"
+msgstr "하프 엘프"
+
+msgctxt "HalflingDescription"
+msgid ""
+"The original halflings evolved in the marshes on the northeastern part of "
+"Solasta, before spreading south, following the river, and reaching the sea. "
+"They are short and nimble, and known for their bravery despite their size."
+msgstr ""
+"원래의 하플링은 솔라스타 북동부의 습지에서 진화하여 남쪽으로 퍼져 강을 따라 바다에 도달했습니다. 그들은 키가 작고 날렵하며, 크기에도 "
+"불구하고 용감한 것으로 유명합니다."
+
+msgctxt "HalflingFemaleName1Title"
+msgid "Annie"
+msgstr "애니"
+
+msgctxt "HalflingFemaleName2Title"
+msgid "Ellie"
+msgstr "엘리"
+
+msgctxt "HalflingFemaleName3Title"
+msgid "Jenny"
+msgstr "제니"
+
+msgctxt "HalflingFemaleName4Title"
+msgid "Coralie"
+msgstr "코랄리"
+
+msgctxt "HalflingFemaleName5Title"
+msgid "Zoe"
+msgstr "여자 이름"
+
+msgctxt "HalflingFemaleName6Title"
+msgid "Sable"
+msgstr "검정색"
+
+msgctxt "HalflingIslandDescription"
+msgid ""
+"<#B5D3DE>Island halflings</color> are the children of adventurous halflings "
+"who left the Northern Marshes to venture south and settle in the sunny "
+"islands. Discreet and brave, they are inclined to be affable and get along "
+"well with others."
+msgstr ""
+"<#B5D3DE>섬 하플링</color>은 북부 습지를 떠나 남쪽으로 모험을 떠나 햇볕이 잘 드는 섬에 정착한 모험심 넘치는 하플링의 "
+"자녀입니다. 신중하고 용감한 그들은 상냥하고 다른 사람들과 잘 어울리는 경향이 있습니다."
+
+msgctxt "HalflingIslandTitle"
+msgid "Island Halfling"
+msgstr "아일랜드 하플링"
+
+msgctxt "HalflingMaleName1Title"
+msgid "Anton"
+msgstr "안톤"
+
+msgctxt "HalflingMaleName2Title"
+msgid "Andre"
+msgstr "안드레"
+
+msgctxt "HalflingMaleName3Title"
+msgid "Tombo"
+msgstr "톰보"
+
+msgctxt "HalflingMaleName4Title"
+msgid "Green"
+msgstr "녹색"
+
+msgctxt "HalflingMaleName5Title"
+msgid "Edmund"
+msgstr "에드먼드"
+
+msgctxt "HalflingMarshDescription"
+msgid ""
+"<#B5D3DE>Marsh halflings</color> have lived in the tradition of their "
+"ancestors, who used to move, fight, and even sleep in swamp terrain. They "
+"are particularly sturdy compared to their island cousins, while being "
+"generally less likable and certainly no less courageous."
+msgstr ""
+"<#B5D3DE>늪지 하플링</color>은 늪지 지형에서 움직이고, 싸우고, 잠을 자던 조상의 전통에 따라 살았습니다. 그들은 섬의 "
+"사촌들에 비해 특히 튼튼하지만 일반적으로 덜 호감이 가고 확실히 덜 용감합니다."
+
+msgctxt "HalflingMarshTitle"
+msgid "Marsh Halfling"
+msgstr "습지 하플링"
+
+msgctxt "HalflingSurName1Title"
+msgid "Marsh"
+msgstr "습지"
+
+msgctxt "HalflingSurName2Title"
+msgid "Wetfoot"
+msgstr "젖은 발"
+
+msgctxt "HalflingSurName3Title"
+msgid "Whitesail"
+msgstr "화이트세일"
+
+msgctxt "HalflingSurName4Title"
+msgid "Bentree"
+msgstr "벤트리"
+
+msgctxt "HalflingSurName5Title"
+msgid "Tupps"
+msgstr "터프"
+
+msgctxt "HalflingSurNameTitle"
+msgid "Family"
+msgstr "가족"
+
+msgctxt "HalflingTitle"
+msgid "Halfling"
+msgstr "하플링"
+
+msgctxt "HumanDescription"
+msgid ""
+"Originally born on Tirmar and brought to Solasta before the Cataclysm, "
+"<#B5D3DE>humans</color> have adapted to their new world thanks to their "
+"unique talents. Able to live anywhere and take any job, they are versatile "
+"above all else."
+msgstr ""
+"원래 티르마르에서 태어나 대격변 전에 솔라스타로 데려온 <#B5D3DE>인간</color>은 독특한 재능 덕분에 새로운 세계에 "
+"적응했습니다. 어디에서나 살 수 있고 어떤 직업도 가질 수 있으며 무엇보다도 다재다능합니다."
+
+msgctxt "HumanFemaleName1Title"
+msgid "Jodie"
+msgstr "조디"
+
+msgctxt "HumanFemaleName2Title"
+msgid "Celia"
+msgstr "셀리아"
+
+msgctxt "HumanFemaleName3Title"
+msgid "Elisa"
+msgstr "엘리사"
+
+msgctxt "HumanFemaleName4Title"
+msgid "Natalie"
+msgstr "나탈리"
+
+msgctxt "HumanFemaleName5Title"
+msgid "Jane"
+msgstr "여자"
+
+msgctxt "HumanFemaleName6Title"
+msgid "Elanor"
+msgstr "엘라노르"
+
+msgctxt "HumanFemaleName7Title"
+msgid "Agnes"
+msgstr "아그네스"
+
+msgctxt "HumanFemaleName8Title"
+msgid "Ophelie"
+msgstr "오필리에"
+
+msgctxt "HumanMaleName1Title"
+msgid "Angus"
+msgstr "앵거스"
+
+msgctxt "HumanMaleName2Title"
+msgid "Blain"
+msgstr "농포"
+
+msgctxt "HumanMaleName3Title"
+msgid "Jeff"
+msgstr "제프"
+
+msgctxt "HumanMaleName4Title"
+msgid "Dean"
+msgstr "학장"
+
+msgctxt "HumanSurName1Title"
+msgid "Jonn"
+msgstr "존"
+
+msgctxt "HumanSurName2Title"
+msgid "Guert"
+msgstr "게르트"
+
+msgctxt "HumanSurName3Title"
+msgid "Ros"
+msgstr "로스"
+
+msgctxt "HumanSurName4Title"
+msgid "Hasting"
+msgstr "헤이스팅"
+
+msgctxt "HumanSurName5Title"
+msgid "Esbery"
+msgstr "에스베리"
+
+msgctxt "HumanSurName6Title"
+msgid "Dudley"
+msgstr "더들리"
+
+msgctxt "HumanSurName7Title"
+msgid "Burg"
+msgstr "성시"
+
+msgctxt "HumanSurName8Title"
+msgid "Dormer"
+msgstr "지붕창"
+
+msgctxt "HumanSurName9Title"
+msgid "Hawke"
+msgstr "호크"
+
+msgctxt "HumanSurNameTitle"
+msgid "Family"
+msgstr "가족"
+
+msgctxt "HumanTitle"
+msgid "Human"
+msgstr "인간"
+
+msgctxt "SylvanElfFemaleName10Title"
+msgid "Ryesen"
+msgstr "라이센"
+
+msgctxt "SylvanElfFemaleName1Title"
+msgid "Ciarran"
+msgstr "시아란"
+
+msgctxt "SylvanElfFemaleName2Title"
+msgid "Darra"
+msgstr "다라"
+
+msgctxt "SylvanElfFemaleName3Title"
+msgid "Kalan"
+msgstr "칼란"
+
+msgctxt "SylvanElfFemaleName4Title"
+msgid "Kianna"
+msgstr "키아나"
+
+msgctxt "SylvanElfFemaleName5Title"
+msgid "Marsaili"
+msgstr "마르사일리"
+
+msgctxt "SylvanElfFemaleName6Title"
+msgid "Orlagh"
+msgstr "올라그"
+
+msgctxt "SylvanElfFemaleName7Title"
+msgid "Siobhan"
+msgstr "시오반"
+
+msgctxt "SylvanElfFemaleName8Title"
+msgid "Tara"
+msgstr "타라"
+
+msgctxt "SylvanElfFemaleName9Title"
+msgid "Seersha"
+msgstr "시어샤"
+
+msgctxt "SylvanElfMaleName10Title"
+msgid "Rhuad"
+msgstr "루아드"
+
+msgctxt "SylvanElfMaleName1Title"
+msgid "Darroch"
+msgstr "대록"
+
+msgctxt "SylvanElfMaleName2Title"
+msgid "Darce"
+msgstr "다르스"
+
+msgctxt "SylvanElfMaleName3Title"
+msgid "Curran"
+msgstr "커란"
+
+msgctxt "SylvanElfMaleName4Title"
+msgid "Kari"
+msgstr "카리"
+
+msgctxt "SylvanElfMaleName5Title"
+msgid "Kael"
+msgstr "카엘"
+
+msgctxt "SylvanElfMaleName6Title"
+msgid "Erevyd"
+msgstr "에레비드"
+
+msgctxt "SylvanElfMaleName7Title"
+msgid "Naoise"
+msgstr "나오이즈"
+
+msgctxt "SylvanElfMaleName8Title"
+msgid "Phelan"
+msgstr "펠란"
+
+msgctxt "SylvanElfMaleName9Title"
+msgid "Sherrod"
+msgstr "셰로드"
+
+msgctxt "SylvanElfSurName10Title"
+msgid "Whiteleaf"
+msgstr "화이트리프"
+
+msgctxt "SylvanElfSurName1Title"
+msgid "Sturdybranch"
+msgstr "튼튼한 가지"
+
+msgctxt "SylvanElfSurName2Title"
+msgid "Wilyfox"
+msgstr "윌리폭스"
+
+msgctxt "SylvanElfSurName3Title"
+msgid "Silentowl"
+msgstr "사일런트"
+
+msgctxt "SylvanElfSurName4Title"
+msgid "Fairdeer"
+msgstr "페어디어"
+
+msgctxt "SylvanElfSurName5Title"
+msgid "Redoak"
+msgstr "붉은 오크 나무"
+
+msgctxt "SylvanElfSurName6Title"
+msgid "Faireagle"
+msgstr "페어리글"
+
+msgctxt "SylvanElfSurName7Title"
+msgid "Fastrain"
+msgstr "패스트레인"
+
+msgctxt "SylvanElfSurName8Title"
+msgid "Strongwind"
+msgstr "강풍"
+
+msgctxt "SylvanElfSurName9Title"
+msgid "Blueash"
+msgstr "블루애쉬"
+
+msgctxt "HalflingSurName6Title"
+msgid "Owen"
+msgstr "오웬"
+
+msgctxt "HalflingSurName7Title"
+msgid "Woolley"
+msgstr "울리"
+
+msgctxt "HalflingSurName8Title"
+msgid "Luz"
+msgstr "루즈"
+
+msgctxt "HalflingMaleName6Title"
+msgid "Dark"
+msgstr "어두운"
+
+msgctxt "HalflingFemaleName7Title"
+msgid "Serenrae"
+msgstr "세렌래"
+
+msgctxt "DwarfFemaleName8Title"
+msgid "Yock"
+msgstr "껄껄 웃음"
+
+msgctxt "DwarfMaleName9Title"
+msgid "Kolgar"
+msgstr "콜가"
+
+msgctxt "ElfSurName12Title"
+msgid "Ragthroknar"
+msgstr "라그스로크나르"
+
+msgctxt "ElfSurName13Title"
+msgid "Boldeye"
+msgstr "볼드아이"
+
+msgctxt "ElfSurName14Title"
+msgid "Niejnef"
+msgstr "니에이네프"
+
+msgctxt "ElfSurName15Title"
+msgid "Anne"
+msgstr "앤"
+
+msgctxt "ElfSurName16Title"
+msgid "Norstern"
+msgstr "노스턴"
+
+msgctxt "ElfSurName17Title"
+msgid "Ashvale"
+msgstr "애쉬베일"
+
+msgctxt "HalfElfMaleName7Title"
+msgid "Allen"
+msgstr "알렌"
+
+msgctxt "HalfElfMaleName8Title"
+msgid "Henry"
+msgstr "헨리"
+
+msgctxt "HalfElfMaleName9Title"
+msgid "Ilofared"
+msgstr "일로파레드"
+
+msgctxt "HalfElfMaleName10Title"
+msgid "Corthyn"
+msgstr "코르틴"
+
+msgctxt "HalfElfSurName8Title"
+msgid "Malmanche"
+msgstr "말만쉬"
+
+msgctxt "HalfElfSurName9Title"
+msgid "Olfborn"
+msgstr "올본"
+
+msgctxt "HalfElfSurName10Title"
+msgid "Ferrum"
+msgstr "페럼"
+
+msgctxt "HalfElfSurName11Title"
+msgid "Dosa"
+msgstr "도사"
+
+msgctxt "HalfElfSurName12Title"
+msgid "Leafheart"
+msgstr "리프하트"
+
+msgctxt "HalfElfSurName13Title"
+msgid "Tanael"
+msgstr "타나엘"
+
+msgctxt "HumanSurName10Title"
+msgid "Knightshield"
+msgstr "기사방패"
+
+msgctxt "HumanSurName11Title"
+msgid "Drayson"
+msgstr "드레이슨"
+
+msgctxt "HumanSurName12Title"
+msgid "Storm"
+msgstr "폭풍"
+
+msgctxt "HumanSurName13Title"
+msgid "Marlon"
+msgstr "말론"
+
+msgctxt "HumanMaleName5Title"
+msgid "Wicking"
+msgstr "위킹"
+
+msgctxt "HumanMaleName6Title"
+msgid "Bronlar"
+msgstr "브론라"
+
+msgctxt "HumanMaleName7Title"
+msgid "Piotr"
+msgstr "표트르"
+
+msgctxt "HumanMaleName8Title"
+msgid "Cressen"
+msgstr "크레센"
+
+msgctxt "HumanMaleName9Title"
+msgid "Aryas"
+msgstr "아리아스"
+
+msgctxt "HumanMaleName10Title"
+msgid "Mason"
+msgstr "석공"
+
+msgctxt "HumanMaleName11Title"
+msgid "Frank"
+msgstr "솔직한"
+
+msgctxt "HumanMaleName12Title"
+msgid "Hunter"
+msgstr "사냥꾼"
+
+msgctxt "HumanMaleName13Title"
+msgid "Alderbranch"
+msgstr "앨더브랜치"
+
+msgctxt "HumanSurName14Title"
+msgid "Hector"
+msgstr "헥토르"
+
+msgctxt "HalfOrcMaleName01"
+msgid "Guthrock"
+msgstr "거스록"

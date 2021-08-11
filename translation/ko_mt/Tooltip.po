@@ -1,0 +1,1090 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 23:46+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "ActiveQuestsAtLocationPluralFormat"
+msgid "{0} active quests: {1}"
+msgstr "{0} 활성 퀘스트: {1}"
+
+msgctxt "ActiveQuestsAtLocationSingleFormat"
+msgid "{0} active quest: {1}"
+msgstr "{0} 활성 퀘스트: {1}"
+
+msgctxt "AdvancementByAdditionalSlotMultipleFormat"
+msgid "Per {1} spell slots over {0}"
+msgstr "{0} 이상의 주문 슬롯 {1}개당"
+
+msgctxt "AdvancementByAdditionalSlotSingleFormat"
+msgid "Per spell slot over {0}"
+msgstr "{0} 이상의 주문 슬롯당"
+
+msgctxt "AdvancementByCasterLevelFormat"
+msgid "At caster levels 5, 11, and 17"
+msgstr "캐스터 레벨 5, 11 및 17에서"
+
+msgctxt "AdvancementDurationHours_1_8_24"
+msgid "Duration increases from 1 to 8, then 24 hours"
+msgstr "지속 시간이 1에서 8로 증가하고 이후 24시간"
+
+msgctxt "AdvancementDurationMinutes_1_10_480_144_Infinite"
+msgid ""
+"Duration increases from 1 minute to 10, to 8 hours, to 24 hours, to infinite"
+msgstr "지속 시간은 1분에서 10으로, 8시간에서 24시간으로, 무한대로 증가합니다."
+
+msgctxt "AdvancementGainAdditionalDiceMultipleFormat"
+msgid "{0} dice "
+msgstr "{0} 주사위"
+
+msgctxt "AdvancementGainAdditionalDiceSingleFormat"
+msgid "{0} die "
+msgstr "{0} 죽다"
+
+msgctxt "AdvancementGainAdditionalHPFormat"
+msgid "{0} max hit points"
+msgstr "{0} 최대 히트 포인트"
+
+msgctxt "AdvancementGainAdditionalItemBonusFormat"
+msgid "{0} item bonus (max {1})"
+msgstr "{0} 아이템 보너스(최대 {1})"
+
+msgctxt "AdvancementGainAdditionalSpellLevelMultipleFormat"
+msgid "{0} spell levels "
+msgstr "{0} 주문 레벨"
+
+msgctxt "AdvancementGainAdditionalSpellLevelSingleFormat"
+msgid "{0} spell level "
+msgstr "{0} 주문 수준"
+
+msgctxt "AdvancementGainAdditionalSummonMultipleFormat"
+msgid "{0} summoned creatures"
+msgstr "{0} 소환된 생물"
+
+msgctxt "AdvancementGainAdditionalSummonSingleFormat"
+msgid "{0} summoned creature"
+msgstr "{0} 소환된 생물"
+
+msgctxt "AdvancementGainAdditionalTargetMultipleFormat"
+msgid "{0} targets "
+msgstr "{0} 대상"
+
+msgctxt "AdvancementGainAdditionalTargetSingleFormat"
+msgid "{0} target "
+msgstr "{0} 대상"
+
+msgctxt "AdvancementGainAdditionalTempHPFormat"
+msgid "{0} temporary hit points"
+msgstr "{0} 임시 히트 포인트"
+
+msgctxt "AdvancementTitle"
+msgid "At Higher Levels"
+msgstr "더 높은 수준에서"
+
+msgctxt "AdvantageTrendsTitle"
+msgid "Advantage/Disadvantage"
+msgstr "장점/단점"
+
+msgctxt "AmmunitionEffectsTitle"
+msgid "Additional Damage/Effect"
+msgstr "추가 피해/효과"
+
+msgctxt "ArmorEffectsTitle"
+msgid "Armor Effects"
+msgstr "갑옷 효과"
+
+msgctxt "CantripSubtitleFormat"
+msgid "{0} Cantrip\n"
+msgstr "{0} 캔트립\n"
+
+msgctxt "ChallengeDifficultyTitle"
+msgid "Challenge Rating"
+msgstr "도전 등급"
+
+msgctxt "CompatibleProficienciesHeaderTitle"
+msgid "Compatible Proficiencies"
+msgstr "호환 가능한 능력"
+
+msgctxt "ContainerEmptyDescription"
+msgid "Empty"
+msgstr "비어있는"
+
+msgctxt "ContainerUnknownContentDescription"
+msgid "Unknown Content"
+msgstr "알 수 없는 콘텐츠"
+
+msgctxt "CoverHeaderTitle"
+msgid "Cover"
+msgstr "씌우다"
+
+msgctxt "CraftingDifficultyTitle"
+msgid "Crafting DC"
+msgstr "크래프팅 DC"
+
+msgctxt "CraftingDurationTitle"
+msgid "Duration"
+msgstr "지속"
+
+msgctxt "CurrentlyEquipedTitle"
+msgid "Currently Equipped"
+msgstr "현재 장착"
+
+msgctxt "DeviceChargesMaxPlural"
+msgid "{0} charges"
+msgstr "{0} 청구"
+
+msgctxt "DeviceChargesMaxSingle"
+msgid "{0} charge"
+msgstr "{0} 청구"
+
+msgctxt "DeviceFunctionRemainingCooldown"
+msgid "cooldown {0}"
+msgstr "재사용 대기시간 {0}"
+
+msgctxt "DeviceFunctionsTitle"
+msgid "Item Function(s)"
+msgstr "항목 기능"
+
+msgctxt "DeviceFunctionsUnknown"
+msgid "Unknown"
+msgstr "알려지지 않은"
+
+msgctxt "DeviceRechargeTitle"
+msgid "Recharge"
+msgstr "재충전"
+
+msgctxt "DeviceUsageTitle"
+msgid "Usage"
+msgstr "용법"
+
+msgctxt "DurationTitle"
+msgid "Duration"
+msgstr "지속"
+
+msgctxt "EffectDurationTitle"
+msgid "Duration"
+msgstr "지속"
+
+msgctxt "FeatPrerequisiteAbilityScoreFormat"
+msgid "Min {0} {1}"
+msgstr "최소 {0} {1}"
+
+msgctxt "FeatPrerequisiteCastSpellTitle"
+msgid "Ability to Cast Spells"
+msgstr "주문 시전 능력"
+
+msgctxt "FeatPrerequisiteClassesFormat"
+msgid ""
+"Compatible Classes:\n"
+"{0}"
+msgstr ""
+"호환되는 클래스:\n"
+"{0}"
+
+msgctxt "FeatPrerequisiteFeatsFormat"
+msgid ""
+"Required Feats:\n"
+"{0}"
+msgstr ""
+"필요한 재주:\n"
+"{0}"
+
+msgctxt "FeatPrerequisiteRacesFormat"
+msgid "Compatible Ancestries: {0}"
+msgstr "호환되는 조상: {0}"
+
+msgctxt "FeatPrerequisitesTitle"
+msgid "Prerequisites"
+msgstr "전제 조건"
+
+msgctxt "FeatRedundantDescription"
+msgid ""
+"You already possess some or all of the benefits of this Feat, making it a "
+"less useful choice."
+msgstr "당신은 이미 이 Feat의 일부 또는 모든 이점을 가지고 있으므로 덜 유용한 선택이 됩니다."
+
+msgctxt "FeatTitle"
+msgid "Feat"
+msgstr "위업"
+
+msgctxt "HoldForMoreInfoTitle"
+msgid "Hold <Alt> for more info"
+msgstr "자세한 내용을 보려면 <Alt> 키를 누르세요."
+
+msgctxt "IngredientsHeaderTitle"
+msgid "Required Ingredients"
+msgstr "필수 성분"
+
+msgctxt "LightingBrightFormat"
+msgid "In Bright Light"
+msgstr "밝은 빛에서"
+
+msgctxt "LightingDarknessFormat"
+msgid "In Darkness"
+msgstr "어둠 속에서"
+
+msgctxt "LightingDimFormat"
+msgid "In Dim Light"
+msgstr "희미한 빛에서"
+
+msgctxt "LightingTargetBrightFormat"
+msgid "{0} is in Bright Light"
+msgstr "{0}은(는) 밝은 빛에 있습니다."
+
+msgctxt "LightingTargetDarknessFormat"
+msgid "{0} is in Darkness"
+msgstr "{0}은(는) 어둠 속에 있습니다."
+
+msgctxt "LightingTargetDimFormat"
+msgid "{0} is in Dim Light"
+msgstr "{0}은(는) 희미한 빛에 있습니다."
+
+msgctxt "LightingTargetUnlitFormat"
+msgid "{0} is unlit."
+msgstr "{0}이(가) 꺼져 있습니다."
+
+msgctxt "LightingUnlitFormat"
+msgid "Unlit"
+msgstr "소등"
+
+msgctxt "LightSourceEffectsTitle"
+msgid "Lighting Effects"
+msgstr "조명 효과"
+
+msgctxt "NotProficientFormat"
+msgid "{0} is not proficient with this item and cannot equip it."
+msgstr "{0}은(는) 이 항목에 능숙하지 않아 장비할 수 없습니다."
+
+msgctxt "PowerActivationTimeTitle"
+msgid "Activation"
+msgstr "활성화"
+
+msgctxt "PowerEffectsTitle"
+msgid "Power Effects"
+msgstr "전원 효과"
+
+msgctxt "PowerRechargeTitle"
+msgid "Recharge"
+msgstr "재충전"
+
+msgctxt "PowerUsesTitle"
+msgid "Uses"
+msgstr "용도"
+
+msgctxt "PropertiesTitle"
+msgid "Properties"
+msgstr "속성"
+
+msgctxt "ProximityLongRangeTitle"
+msgid "Long Range Attack"
+msgstr "장거리 공격"
+
+msgctxt "ProximityRangeEnemyNearbyTitle"
+msgid "Ranged attack with Enemy Nearby"
+msgstr "주변의 적과의 원거리 공격"
+
+msgctxt "ProxyControlableTitle"
+msgid "Controllable Magical Effect"
+msgstr "제어 가능한 마법 효과"
+
+msgctxt "ProxyStaticTitle"
+msgid "Static Magic Effect"
+msgstr "정적 마법 효과"
+
+msgctxt "RecipeTitle"
+msgid "Crafting Option"
+msgstr "제작 옵션"
+
+msgctxt "RemainingDurationTitle"
+msgid "Remaining duration"
+msgstr "남은 기간"
+
+msgctxt "RequiredSpellHeaderTitle"
+msgid "Required Spell"
+msgstr "필수 주문"
+
+msgctxt "SavingThrowTitle"
+msgid "Saving Throw"
+msgstr "내성굴림"
+
+msgctxt "SourceHasFeatFormat"
+msgid "{0} has {1} Feat"
+msgstr "{0}에는 {1} 위업이 있습니다."
+
+msgctxt "SourceHasFightingStyleFormat"
+msgid "{0} has {1} Fighting Style"
+msgstr "{0}은(는) 격투 스타일이 {1}입니다."
+
+msgctxt "SourceHasFormat"
+msgid "{0} has {1}"
+msgstr "{0}에는 {1}이(가) 있습니다."
+
+msgctxt "SourceUsesItemFormat"
+msgid "{0} uses {1}"
+msgstr "{0}은(는) {1}을(를) 사용합니다."
+
+msgctxt "SpaceCapacityTitle"
+msgid "Storage Capacity"
+msgstr "저장 용량"
+
+msgctxt "SpaceTitle"
+msgid "Space"
+msgstr "우주"
+
+msgctxt "SpellbookContentTitle"
+msgid "Spellbook Contents"
+msgstr "마법서 내용"
+
+msgctxt "SpellCastingTimeTitle"
+msgid "Casting Time"
+msgstr "캐스팅 시간"
+
+msgctxt "SpellComponentsTitle"
+msgid "Components"
+msgstr "구성품"
+
+msgctxt "SpellEffectsTitle"
+msgid "Spell Effects"
+msgstr "주문 효과"
+
+msgctxt "SpellRangeTitle"
+msgid "Range"
+msgstr "범위"
+
+msgctxt "SpellSubtitleFormat"
+msgid "Level {0} {1}"
+msgstr "레벨 {0} {1}"
+
+msgctxt "SpellTargetTitle"
+msgid "Target"
+msgstr "표적"
+
+msgctxt "StackSizeTitle"
+msgid "Stack Size"
+msgstr "스택 크기"
+
+msgctxt "StarterPackContentTitle"
+msgid "Contents"
+msgstr "내용물"
+
+msgctxt "SubspellsEffectsTitle"
+msgid "Subspell Effects"
+msgstr "하위 주문 효과"
+
+msgctxt "TagAmmunitionTitle"
+msgid "Ammunition"
+msgstr "탄약"
+
+msgctxt "TagAreaOfEffectTitle"
+msgid "Area of Effect"
+msgstr "효과 범위"
+
+msgctxt "TagAttunementTitle"
+msgid "Attunement"
+msgstr "조율"
+
+msgctxt "TagBreakConcentrationTitle"
+msgid "Break Concentration"
+msgstr "집중 휴식"
+
+msgctxt "TagBuffTitle"
+msgid "Buff"
+msgstr "버프"
+
+msgctxt "TagCarryingCapacityTitle"
+msgid "Carrying Capacity"
+msgstr "운반 능력"
+
+msgctxt "TagChannelDivinityTitle"
+msgid "Channel Divinity"
+msgstr "채널 신성"
+
+msgctxt "TagComponentTitle"
+msgid "Component"
+msgstr "요소"
+
+msgctxt "TagConcentrationTitle"
+msgid "Concentration"
+msgstr "집중"
+
+msgctxt "TagConsumableTitle"
+msgid "Consumable"
+msgstr "소모품"
+
+msgctxt "TagControlTitle"
+msgid "Control"
+msgstr "제어"
+
+msgctxt "TagCounterTitle"
+msgid "Counter"
+msgstr "카운터"
+
+msgctxt "TagCurseTitle"
+msgid "Curse"
+msgstr "저주"
+
+msgctxt "TagDamageAcidTitle"
+msgid "Acid Damage"
+msgstr "산성 손상"
+
+msgctxt "TagDamageBludgeoningTitle"
+msgid "Bludgeoning Damage"
+msgstr "블러저닝 데미지"
+
+msgctxt "TagDamageColdTitle"
+msgid "Cold Damage"
+msgstr "냉기 피해"
+
+msgctxt "TagDamageFireTitle"
+msgid "Fire Damage"
+msgstr "화염 피해"
+
+msgctxt "TagDamageForceTitle"
+msgid "Force Damage"
+msgstr "포스 데미지"
+
+msgctxt "TagDamageLightningTitle"
+msgid "Lightning Damage"
+msgstr "번개 피해"
+
+msgctxt "TagDamageNecroticTitle"
+msgid "Necrotic Damage"
+msgstr "괴사 피해"
+
+msgctxt "TagDamagePiercingTitle"
+msgid "Piercing Damage"
+msgstr "피어싱 데미지"
+
+msgctxt "TagDamagePoisonTitle"
+msgid "Poison Damage"
+msgstr "독 피해"
+
+msgctxt "TagDamagePsychicTitle"
+msgid "Psychic Damage"
+msgstr "정신적 피해"
+
+msgctxt "TagDamageRadiantTitle"
+msgid "Radiant Damage"
+msgstr "방사 피해"
+
+msgctxt "TagDamageSlashingTitle"
+msgid "Slashing Damage"
+msgstr "슬래싱 데미지"
+
+msgctxt "TagDamageThunderTitle"
+msgid "Thunder Damage"
+msgstr "천둥 피해"
+
+msgctxt "TagDamageTitle"
+msgid "Damage"
+msgstr "피해를 주다"
+
+msgctxt "TagDisperseCloudTitle"
+msgid "Disperse Cloud"
+msgstr "분산 구름"
+
+msgctxt "TagDissipateSpellsTitle"
+msgid "End Spells"
+msgstr "끝 주문"
+
+msgctxt "TagDivinationTitle"
+msgid "Divination"
+msgstr "점"
+
+msgctxt "TagDocumentTitle"
+msgid "Document"
+msgstr "문서"
+
+msgctxt "TagExtinguishFireTitle"
+msgid "Extinguish"
+msgstr "끄다"
+
+msgctxt "TagExtinguishLightTitle"
+msgid "Dispel Light"
+msgstr "디스펠 라이트"
+
+msgctxt "TagFactionRelicTitle"
+msgid "Faction Relic"
+msgstr "진영 유물"
+
+msgctxt "TagFinesseTitle"
+msgid "Finesse"
+msgstr "피네스"
+
+msgctxt "TagFlamableTitle"
+msgid "Flammable"
+msgstr "가연성"
+
+msgctxt "TagFlamingTitle"
+msgid "Flaming"
+msgstr "불타는"
+
+msgctxt "TagFoodTitle"
+msgid "Food"
+msgstr "음식"
+
+msgctxt "TagGlassTitle"
+msgid "Glass"
+msgstr "유리"
+
+msgctxt "TagGoldTitle"
+msgid "Gold"
+msgstr "금"
+
+msgctxt "TagHealingTitle"
+msgid "Healing"
+msgstr "치유"
+
+msgctxt "TagHeavyTitle"
+msgid "Heavy"
+msgstr "무거운"
+
+msgctxt "TagIngredientTitle"
+msgid "Ingredient"
+msgstr "재료"
+
+msgctxt "TagItemPropertyTitle"
+msgid "Item Buff"
+msgstr "아이템 버프"
+
+msgctxt "TagLeatherTitle"
+msgid "Leather"
+msgstr "가죽"
+
+msgctxt "TagLightSourceTitle"
+msgid "Light Source"
+msgstr "광원"
+
+msgctxt "TagLightTitle"
+msgid "Light"
+msgstr "빛"
+
+msgctxt "TagLoadingTitle"
+msgid "Loading"
+msgstr "로딩 중"
+
+msgctxt "TagMagicalTitle"
+msgid "Magical"
+msgstr "마법 같은"
+
+msgctxt "TagMeleeTitle"
+msgid "Melee"
+msgstr "난투"
+
+msgctxt "TagMetalArmorTitle"
+msgid "Metal Armor"
+msgstr "금속 갑옷"
+
+msgctxt "TagMetalTitle"
+msgid "Metal"
+msgstr "금속"
+
+msgctxt "TagMotionTitle"
+msgid "Forced Move"
+msgstr "강제 이동"
+
+msgctxt "TagPaperTitle"
+msgid "Paper"
+msgstr "종이"
+
+msgctxt "TagPotionTitle"
+msgid "Potion"
+msgstr "물약"
+
+msgctxt "TagPowerTitle"
+msgid "Power"
+msgstr "힘"
+
+msgctxt "TagProtectionTitle"
+msgid "Protection"
+msgstr "보호"
+
+msgctxt "TagQuestTitle"
+msgid "Quest"
+msgstr "탐구"
+
+msgctxt "TagRangeTitle"
+msgid "Range"
+msgstr "범위"
+
+msgctxt "TagReachTitle"
+msgid "Reach"
+msgstr "도달하다"
+
+msgctxt "TagReactionTitle"
+msgid "Reaction"
+msgstr "반응"
+
+msgctxt "TagRemoveDarknessTitle"
+msgid "Remove Darkness"
+msgstr "어둠 제거"
+
+msgctxt "TagRevealTrapsTitle"
+msgid "Trap Detection"
+msgstr "트랩 감지"
+
+msgctxt "TagReviveTitle"
+msgid "Revive"
+msgstr "소생"
+
+msgctxt "TagRitualTitle"
+msgid "Ritual"
+msgstr "의례"
+
+msgctxt "TagScrollTitle"
+msgid "Scroll"
+msgstr "스크롤"
+
+msgctxt "TagShapechangerTitle"
+msgid "Shapechanger"
+msgstr "셰이프체인저"
+
+msgctxt "TagSightBlockerTitle"
+msgid "Sight Blocker"
+msgstr "시력 차단기"
+
+msgctxt "TagSilverTitle"
+msgid "Silver"
+msgstr "은"
+
+msgctxt "TagSpellFocusTitle"
+msgid "Spell Focus"
+msgstr "주문 집중"
+
+msgctxt "TagSpellSlotsTitle"
+msgid "Spell Slots"
+msgstr "주문 슬롯"
+
+msgctxt "TagSpellTitle"
+msgid "Spell"
+msgstr "주문"
+
+msgctxt "TagStandardTitle"
+msgid "Standard"
+msgstr "기준"
+
+msgctxt "TagStealthAdvantageTitle"
+msgid "Stealth Advantage"
+msgstr "스텔스 이점"
+
+msgctxt "TagStealthAutofailTitle"
+msgid "Stealth Autofail"
+msgstr "스텔스 자동 실패"
+
+msgctxt "TagStealthDisadvantageTitle"
+msgid "Stealth Disadvantage"
+msgstr "스텔스 단점"
+
+msgctxt "TagSummonTitle"
+msgid "Summoning"
+msgstr "소환"
+
+msgctxt "TagTeleportTitle"
+msgid "Teleportation"
+msgstr "순간 이동"
+
+msgctxt "TagTemporaryHitPointsTitle"
+msgid "Temporary Hit Points"
+msgstr "임시 히트 포인트"
+
+msgctxt "TagThrownTitle"
+msgid "Thrown"
+msgstr "던짐"
+
+msgctxt "TagTorchTitle"
+msgid "Torch"
+msgstr "토치"
+
+msgctxt "TagTwoHandedTitle"
+msgid "Two-Handed"
+msgstr "두 손으로"
+
+msgctxt "TagUnlockTitle"
+msgid "Unlock"
+msgstr "터놓다"
+
+msgctxt "TagVersatileTitle"
+msgid "Versatile"
+msgstr "변하기 쉬운"
+
+msgctxt "TagVerticalityTitle"
+msgid "Verticality"
+msgstr "수직성"
+
+msgctxt "TagWarListTitle"
+msgid "War List"
+msgstr "전쟁 목록"
+
+msgctxt "TagWoodTitle"
+msgid "Wood"
+msgstr "목재"
+
+msgctxt "TargetTagMetalArmorTitle"
+msgid "Target Wears Metal Armor"
+msgstr "대상은 금속 갑옷을 입습니다."
+
+msgctxt "ToolTypeTitle"
+msgid "Crafting Tool"
+msgstr "제작 도구"
+
+msgctxt "ValueNoneTitle"
+msgid "None"
+msgstr "없음"
+
+msgctxt "ValueTitle"
+msgid "Value"
+msgstr "값"
+
+msgctxt "WeaponEffectsTitle"
+msgid "Effects on Hit"
+msgstr "적중 시 효과"
+
+msgctxt "WeightCapacityMultiplierTitle"
+msgid "Carrying Capacity Multiplier"
+msgstr "운반 능력 승수"
+
+msgctxt "WeightTitle"
+msgid "Weight"
+msgstr "무게"
+
+msgctxt "TrendConditionIsFormat"
+msgid "{0} is {1}"
+msgstr "{0}은(는) {1}입니다."
+
+msgctxt "TrendConditionHasFormat"
+msgid "{0} has {1}"
+msgstr "{0}에는 {1}이(가) 있습니다."
+
+msgctxt "TagDiseasedTitle"
+msgid "Diseased"
+msgstr "병에 걸린"
+
+msgctxt "TagPoisonedTitle"
+msgid "Poisoned"
+msgstr "중독"
+
+msgctxt "ItemPropertiesTitle"
+msgid "Item Properties"
+msgstr "항목 속성"
+
+msgctxt "TagDebuffTitle"
+msgid "Debuff"
+msgstr "디버프"
+
+msgctxt "WeaponNotLightWarningDescription"
+msgid ""
+"This weapon is not Light, preventing the character from using a bonus attack "
+"with the off-hand weapon."
+msgstr "이 무기는 빛이 아니므로 캐릭터가 보조 무기로 추가 공격을 사용할 수 없습니다."
+
+msgctxt "AmmunitionSelectorPrimaryDescription"
+msgid ""
+"Your equipped ranged weapon will prioritize looking in this inventory slot "
+"for ammunition."
+msgstr "장착한 원거리 무기는 이 인벤토리 슬롯에서 탄약을 찾는 것을 우선으로 합니다."
+
+msgctxt "AmmunitionSelectorSecondaryDescription"
+msgid ""
+"Your equipped ranged weapon will look for ammunition in this inventory slot "
+"if the primary slot is empty. Click to define this slot as the new primary "
+"source."
+msgstr ""
+"기본 슬롯이 비어 있는 경우 장착한 원거리 무기는 이 인벤토리 슬롯에서 탄약을 찾습니다. 이 슬롯을 새 기본 소스로 정의하려면 "
+"클릭하십시오."
+
+msgctxt "StealthBreakerCharacterDescription"
+msgid ""
+"May detect a hidden character. A Dexterity (Stealth) check will be performed "
+"at the end of the hidden character's turn."
+msgstr "숨겨진 문자를 감지할 수 있습니다. 히든 캐릭터의 턴이 끝날 때 민첩성(스텔스) 체크가 수행됩니다."
+
+msgctxt "ItemDynamicPropertyFormat"
+msgid "{0}: {1}"
+msgstr "{0}: {1}"
+
+msgctxt "ItemDynamicPropertyRemainingUseAttackSingleFormat"
+msgid "Remaining uses: {0} attack"
+msgstr "남은 용도: {0} 공격"
+
+msgctxt "ItemDynamicPropertyRemainingUseAttackPluralFormat"
+msgid "Remaining uses: {0} attacks"
+msgstr "남은 용도: {0} 공격"
+
+msgctxt "ItemDynamicPropertyRemainingUseHitSingleFormat"
+msgid "Remaining uses: {0} hit"
+msgstr "남은 용도: {0} 적중"
+
+msgctxt "ItemDynamicPropertyRemainingUseHitPluralFormat"
+msgid "Remaining uses: {0} hits"
+msgstr "남은 사용: {0} 조회수"
+
+msgctxt "ItemPropertyFormUsesAttackSingleFormat"
+msgid "({0} attack)"
+msgstr "({0} 공격)"
+
+msgctxt "ItemPropertyFormUsesAttackPluralFormat"
+msgid "({0} attacks)"
+msgstr "({0} 공격)"
+
+msgctxt "ItemPropertyFormUsesHitSingleFormat"
+msgid "({0} hit)"
+msgstr "({0} 히트)"
+
+msgctxt "ItemPropertyFormUsesHitPluralFormat"
+msgid "({0} hits)"
+msgstr "({0} 조회수)"
+
+msgctxt "ItemRarityCommonTitle"
+msgid "Common"
+msgstr "흔한"
+
+msgctxt "ItemRarityUncommonTitle"
+msgid "Uncommon"
+msgstr "드문"
+
+msgctxt "ItemRarityRareTitle"
+msgid "Rare"
+msgstr "희귀 한"
+
+msgctxt "ItemRarityVeryRareTitle"
+msgid "Very Rare"
+msgstr "매우 희귀"
+
+msgctxt "ItemRarityLegendaryTitle"
+msgid "Legendary"
+msgstr "전설적인"
+
+msgctxt "OutOfDarkvisionRangeFormat"
+msgid "(Out of Darkvision range)"
+msgstr "(다크비전 범위를 벗어남)"
+
+msgctxt "TagPerishableTitle"
+msgid "Perishable"
+msgstr "부패하기 쉬운"
+
+msgctxt "TagAbilityScoreIncreaseTitle"
+msgid "Ability Increase"
+msgstr "능력치 증가"
+
+msgctxt "TrendMonsterAttackFormat"
+msgid "{0} attack"
+msgstr "{0} 공격"
+
+msgctxt "DamageBonusTrendTitle"
+msgid "Damage Bonus: {0}"
+msgstr "피해 보너스: {0}"
+
+msgctxt "TrendBaseTitle"
+msgid "Base"
+msgstr "베이스"
+
+msgctxt "AttackRollAdditiveTrendsFormat"
+msgid "Attack roll modifier: {0}"
+msgstr "공격 굴림 수정치: {0}"
+
+msgctxt "SavingThrowAdditiveTrendsFormat"
+msgid "Saving throw modifier: {0}"
+msgstr "throw 수정자 저장: {0}"
+
+msgctxt "AbilityCheckAdditiveTrendsFormat"
+msgid "Ability check modifier: {0}"
+msgstr "능력 확인 수정자: {0}"
+
+msgctxt "TrendCoverFormat"
+msgid "Cover"
+msgstr "씌우다"
+
+msgctxt "SaveVersionWarningDescription"
+msgid ""
+"This save is from an earlier version of the game and you may encounter "
+"compatibility issues."
+msgstr "이 저장은 이전 버전의 게임에서 가져온 것이며 호환성 문제가 발생할 수 있습니다."
+
+msgctxt "TrendKnownSpellFormat"
+msgid "{0} is a known spell."
+msgstr "{0}은(는) 알려진 주문입니다."
+
+msgctxt "InvalidComponentRequirementTitle"
+msgid "Missing Spell Components"
+msgstr "주문 구성 요소 누락"
+
+msgctxt "TagIvoryTitle"
+msgid "Ivory"
+msgstr "상아"
+
+msgctxt "TagPearlTitle"
+msgid "Pearl"
+msgstr "진주"
+
+msgctxt "TagGemTitle"
+msgid "Gem"
+msgstr "보석"
+
+msgctxt "TagDiamondTitle"
+msgid "Diamond"
+msgstr "다이아몬드"
+
+msgctxt "SpecificComponentConsumedFormat"
+msgid "{0}, at least {1} (consumed)"
+msgstr "{0}, 최소 {1}(소비됨)"
+
+msgctxt "SpecificComponentNotConsumedFormat"
+msgid "{0}, at least {1} (not consumed)"
+msgstr "{0}, 최소 {1}(소비되지 않음)"
+
+msgctxt "TagPoisonTitle"
+msgid "Poison"
+msgstr "독"
+
+msgctxt "PowerUsesAbilityScoreFormat"
+msgid "{0} bonus"
+msgstr "{0} 보너스"
+
+msgctxt "PowerUsesAbilityScorePlusFixedFormat"
+msgid "{0} bonus +{1}"
+msgstr "{0} 보너스 +{1}"
+
+msgctxt "PowerUsesProficiencyBonusTitle"
+msgid "Prof. Bonus"
+msgstr "교수 보너스"
+
+msgctxt "TrendDifficultyFormat"
+msgid "Difficulty Modifier"
+msgstr "난이도 수정"
+
+msgctxt "TagInDimLightOrDarknessTitle"
+msgid "Low Light"
+msgstr "저조도"
+
+msgctxt "RecurrentEffectTitle"
+msgid "Recurrent Effect:"
+msgstr "재발 효과:"
+
+msgctxt "FeatPrerequisiteArmorProficiencyFormat"
+msgid "Requires proficiency: {0}"
+msgstr "숙련도 필요: {0}"
+
+msgctxt "TagKillTitle"
+msgid "Instant Kill"
+msgstr "인스턴트 킬"
+
+msgctxt "TagLightUpTitle"
+msgid "Light Up"
+msgstr "라이트 업"
+
+msgctxt "CampaignNodePortalDescription"
+msgid "A Major Gate allows you to teleport to or from this location."
+msgstr "Major Gate를 사용하면 이 위치로 또는 이 위치에서 텔레포트할 수 있습니다."
+
+msgctxt "UnusedInSolastaDescription"
+msgid ""
+"Although part of the ruleset and valid for roleplaying purposes, this "
+"element is not used in the Crown of the Magister main campaign."
+msgstr "규칙 집합의 일부이고 롤플레잉 목적으로 유효하지만 이 요소는 왕관의 마법사 메인 캠페인에서 사용되지 않습니다."
+
+msgctxt "TagOrcTitle"
+msgid "Orc"
+msgstr "오크"
+
+msgctxt "PowerUsesAbilityScorePlusFixed"
+msgid "1 + CHA bonus"
+msgstr "1 + CHA 보너스"
+
+msgctxt "DeityMarkFormat"
+msgid "This item bears the symbol of {0}"
+msgstr "이 항목에는 {0} 기호가 있습니다."
+
+msgctxt "WeaponNoAmmunitionWarningDescription"
+msgid "No valid ammunition."
+msgstr "유효한 탄약이 없습니다."
+
+msgctxt "SorceryPointsDescription"
+msgid ""
+"The pool of sorcery points can be used to perform metamagic actions and "
+"alter spell effects"
+msgstr "마법 포인트 풀은 메타매직 액션을 수행하고 주문 효과를 변경하는 데 사용할 수 있습니다."
+
+msgctxt "TagBleedingTitle"
+msgid "Bleeding"
+msgstr "출혈"
+
+msgctxt "LootPackContentTitle"
+msgid "Loot Pack Content:"
+msgstr "전리품 팩 콘텐츠:"
+
+msgctxt "TrapEffectsTitle"
+msgid "Trap Effects"
+msgstr "함정 효과"
+
+msgctxt "EnvironmentEffectsTitle"
+msgid "Environment Effects"
+msgstr "환경 영향"
+
+msgctxt "RandomItemSingleTitle"
+msgid "Random Item - "
+msgstr "랜덤 아이템 -"
+
+msgctxt "RandomItemPluralTitle"
+msgid "Random Items - "
+msgstr "랜덤 아이템 -"
+
+msgctxt "EditorFilterLightsDescription"
+msgid "Show / hide light sources"
+msgstr "광원 표시/숨기기"
+
+msgctxt "EditorFilterActivatorLinksDescription"
+msgid "Show / hide activator links"
+msgstr "활성기 링크 표시/숨기기"
+
+msgctxt "EditorFilterShortcutsDescription"
+msgid "Show/hide keyboard shortcuts"
+msgstr "키보드 단축키 표시/숨기기"
+
+msgctxt "UserGadgetCanBeActivated"
+msgid "This gadget can be remotely triggered by an activator gadget"
+msgstr "이 가젯은 활성기 가젯에 의해 원격으로 실행될 수 있습니다."
+
+msgctxt "TrendMetamagicFormat"
+msgid "Metamagic: {0}"
+msgstr "메타매직: {0}"
+
+msgctxt "IronManModeDescription"
+msgid ""
+"In Iron Man mode only the latest save can be loaded and all saves are "
+"destroyed if the group is defeated.\n"
+"This option cannot be changed during the game."
+msgstr ""
+"아이언맨 모드에서는 최신 세이브만 불러올 수 있으며 그룹이 패배하면 모든 세이브가 파괴됩니다.\n"
+"이 옵션은 게임 중에 변경할 수 없습니다."
+
+msgctxt "AdvancementGainAdditionalSubtargetMultipleFormat"
+msgid "{0} subtargets "
+msgstr "{0} 하위 타겟"
+
+msgctxt "AdvancementGainAdditionalSubtargetSingleFormat"
+msgid "{0} subtarget "
+msgstr "{0} 하위 타겟"
+
+msgctxt "MetamagicVariableCostSpellLevelDescription"
+msgid "The cost depends on the spell level"
+msgstr "비용은 주문 레벨에 따라 다릅니다."
+
+msgctxt "TagArcaneFocusTitle"
+msgid "Arcane Focus"
+msgstr "비전 집중"
+
+msgctxt "TagDivineFocusTitle"
+msgid "Divine Focus"
+msgstr "신성한 초점"
+
+msgctxt "TagDruidicFocusTitle"
+msgid "Druidic Focus"
+msgstr "드루이드 집중"

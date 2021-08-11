@@ -1,0 +1,560 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 23:45+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "AbortCreationDescription"
+msgid "Do you want to cancel character creation?"
+msgstr "캐릭터 생성을 취소하시겠습니까?"
+
+msgctxt "AbortCreationTitle"
+msgid "Canceling Character Creation"
+msgstr "캐릭터 생성 취소"
+
+msgctxt "AbortLevelUpDescription"
+msgid "Are you sure you want to cancel the character level-up process?"
+msgstr "캐릭터 레벨업 프로세스를 취소하시겠습니까?"
+
+msgctxt "AbortLevelUpTitle"
+msgid "Canceling Character Level Up"
+msgstr "캐릭터 레벨업 취소"
+
+msgctxt "AttunementLostDescription"
+msgid "The item \"{0}\" is no longer attuned."
+msgstr "\"{0}\" 항목은 더 이상 조정되지 않습니다."
+
+msgctxt "AttunementLostTitle"
+msgid "Attunement Lost"
+msgstr "잃어버린 조율"
+
+msgctxt "AttunementRemovalDescription"
+msgid "Are you sure you want to remove attunement to this item?"
+msgstr "이 항목에 대한 조정을 제거하시겠습니까?"
+
+msgctxt "AttunementRemovalTitle"
+msgid "Removing Attunement"
+msgstr "조정 제거"
+
+msgctxt "AttunementReplacementDescription"
+msgid ""
+"This item is currently attuned to {0}. Are you sure you want to attune it to "
+"{1}?"
+msgstr "이 항목은 현재 {0}에 맞춰져 있습니다. {1}에 맞추시겠습니까?"
+
+msgctxt "AttunementReplacementTitle"
+msgid "Attunement Replacement"
+msgstr "튜닝 교체"
+
+msgctxt "CannotLoad"
+msgid "Cannot Load Now"
+msgstr "지금 로드할 수 없음"
+
+msgctxt "CannotSave"
+msgid "Cannot Save Now"
+msgstr "지금 저장할 수 없습니다"
+
+msgctxt "CharacterDeletionDescription"
+msgid ""
+"Are you sure you want to delete this character? This action cannot be undone."
+msgstr "이 캐릭터를 삭제하시겠습니까? 이 작업은 취소할 수 없습니다."
+
+msgctxt "CharacterDeletionTitle"
+msgid "Character Deletion"
+msgstr "문자 삭제"
+
+msgctxt "ConcentrationLossDescription"
+msgid ""
+"Casting the {0} spell will make you lose concentration on the {1} spell. Are "
+"you sure you want to proceed?"
+msgstr "{0} 주문을 시전하면 {1} 주문에 대한 집중을 잃게 됩니다. 계속하시겠습니까?"
+
+msgctxt "ConcentrationLossTitle"
+msgid "Concentration Loss"
+msgstr "집중력 상실"
+
+msgctxt "CraftingAbortDescription"
+msgid ""
+"Are you sure you want to abort this craft operation? All progress and spent "
+"ingredients will be lost."
+msgstr "이 크래프트 작업을 중단하시겠습니까? 모든 진행 상황과 소모된 재료가 손실됩니다."
+
+msgctxt "CraftingAbortTitle"
+msgid "Abort Crafting"
+msgstr "제작 중단"
+
+msgctxt "FastTravelConfirmationDescription"
+msgid ""
+"Are you sure you want to fast travel to this destination? (Time will be fast-"
+"forwarded accordingly.) "
+msgstr "이 목적지까지 빠르게 이동하시겠습니까? (시간은 그에 따라 빨리 감아질 것입니다.)"
+
+msgctxt "FastTravelConfirmationTitle"
+msgid "Fast Travel"
+msgstr "빠른 여행"
+
+msgctxt "FastTravelErrorPathNotFoundDescription"
+msgid "You cannot fast travel to this destination as the path is blocked."
+msgstr "경로가 차단되어 이 목적지까지 빠르게 이동할 수 없습니다."
+
+msgctxt "FastTravelErrorTitle"
+msgid "Fast Travel"
+msgstr "빠른 여행"
+
+msgctxt "FastTravelExitLocationDescription"
+msgid ""
+"Are you sure you wish to fast travel to this exit and leave the area? (Time "
+"will be fast-forwarded accordingly.) "
+msgstr "이 출구로 빠르게 이동하고 해당 지역을 떠나시겠습니까? (시간은 그에 따라 빨리 감아질 것입니다.)"
+
+msgctxt "FastTravelExitLocationTitle"
+msgid "Fast Travel and Leave Area"
+msgstr "빠른 이동 및 출발 지역"
+
+msgctxt "IdentificationCancelledTitle"
+msgid "The item identification has been canceled."
+msgstr "항목 식별이 취소되었습니다."
+
+msgctxt "IncompletePreparationDescription"
+msgid ""
+"You have not prepared all the spells you can. Are you sure you want to "
+"continue?"
+msgstr "당신은 당신이 할 수있는 모든 주문을 준비하지 않았습니다. 정말로 계속하기를 원하십니까?"
+
+msgctxt "IncompletePreparationTitle"
+msgid "Incomplete Spell Preparation"
+msgstr "불완전한 맞춤법 준비"
+
+msgctxt "ItemsOnGroundDescription"
+msgid ""
+"Items on the ground will be lost if you leave this screen. Are you sure you "
+"wish to proceed?"
+msgstr "이 화면을 벗어나면 지상에 있는 아이템이 사라집니다. 계속하시겠습니까?"
+
+msgctxt "ItemsOnGroundTitle"
+msgid "Losing Items"
+msgstr "분실물"
+
+msgctxt "LegalDisagreeAndQuitDescription"
+msgid ""
+"Since you have not agreed with these terms, the application will now quit."
+msgstr "이 조건에 동의하지 않았기 때문에 응용 프로그램이 종료됩니다."
+
+msgctxt "LegalDisagreeAndQuitTitle"
+msgid "Quitting the Game"
+msgstr "게임 종료"
+
+msgctxt "MessageCancelTitle"
+msgid "Cancel"
+msgstr "취소"
+
+msgctxt "MessageNoTitle"
+msgid "No"
+msgstr "아니요"
+
+msgctxt "MessageOkTitle"
+msgid "OK"
+msgstr "좋아요"
+
+msgctxt "MessageYesTitle"
+msgid "Yes"
+msgstr "예"
+
+msgctxt "PartyLosesGoldPieces"
+msgid "Party loses {0} gold pieces"
+msgstr "파티가 {0} 골드 조각을 잃습니다."
+
+msgctxt "QuitLocationDescription"
+msgid "You are about to leave the current area. Proceed?"
+msgstr "현재 지역을 떠나려고 합니다. 진행하다?"
+
+msgctxt "QuitLocationTitle"
+msgid "Leave Area"
+msgstr "지역을 떠나"
+
+msgctxt "ResumeCampDescription"
+msgid "Do you want to resume camping?"
+msgstr "캠핑을 재개하시겠습니까?"
+
+msgctxt "ResumeCampTitle"
+msgid "Resume Camping"
+msgstr "캠핑 재개"
+
+msgctxt "ResumeRestDescription"
+msgid "Do you want to continue your long rest?"
+msgstr "긴 휴식을 계속하시겠습니까?"
+
+msgctxt "ResumeRestTitle"
+msgid "Resume Long Rest"
+msgstr "장기 휴식 재개"
+
+msgctxt "SavedGameDeleteDescription"
+msgid "Are you sure you want to permanently delete saved game \"{0}\"?"
+msgstr "저장된 게임 \"{0}\"을(를) 완전히 삭제하시겠습니까?"
+
+msgctxt "SavedGameDeleteTitle"
+msgid "Delete Saved Game"
+msgstr "저장된 게임 삭제"
+
+msgctxt "SavedGameOverwriteDescription"
+msgid ""
+"Are you sure you want to overwrite saved game \"{0}\" with your current game "
+"status?"
+msgstr "저장된 게임 \"{0}\"을(를) 현재 게임 상태로 덮어쓰시겠습니까?"
+
+msgctxt "SavedGameOverwriteTitle"
+msgid "Overwrite Saved Game"
+msgstr "저장된 게임 덮어쓰기"
+
+msgctxt "ScrollScribeDestructionDescription"
+msgid ""
+"Scribing the spell into the selected spellbook will destroy the scroll. Are "
+"you sure you want to proceed?"
+msgstr "선택한 주문서에 주문을 새기면 두루마리가 파괴됩니다. 계속하시겠습니까?"
+
+msgctxt "ScrollScribeDestructionTitle"
+msgid "Scribe Scroll"
+msgstr "스크라이브 스크롤"
+
+msgctxt "SessionCancelDescription"
+msgid "Are you sure you want to leave the setup of this new adventure?"
+msgstr "이 새로운 모험의 설정을 종료하시겠습니까?"
+
+msgctxt "SessionCancelTitle"
+msgid "Cancel Adventure"
+msgstr "모험 취소"
+
+msgctxt "SettingConfirmSettingsDescription"
+msgid "Are you sure you want to keep the selected settings changes?"
+msgstr "선택한 설정 변경 사항을 유지하시겠습니까?"
+
+msgctxt "SettingConfirmSettingsTitle"
+msgid "Confirm Settings"
+msgstr "설정 확인"
+
+msgctxt "SettingExitWithoutApplyDescription"
+msgid ""
+"Are you sure you want to close this panel and discard all the changes you "
+"have made?"
+msgstr "이 패널을 닫고 모든 변경 사항을 취소하시겠습니까?"
+
+msgctxt "SettingExitWithoutApplyTitle"
+msgid "Discarding Changes"
+msgstr "변경 사항 취소"
+
+msgctxt "SkipLevelUpFormat"
+msgid ""
+"You have not completed the level up sequence for {0}. Are you sure you want "
+"to exit?"
+msgstr "{0}에 대한 레벨 업 시퀀스를 완료하지 않았습니다. 종료하시겠습니까?"
+
+msgctxt "SkipLevelUpTitle"
+msgid "Skipping Character Level Up"
+msgstr "캐릭터 레벨업 건너뛰기"
+
+msgctxt "WaitForLongRestDescription"
+msgid ""
+"You have already performed a long rest today. Would you like to wait until "
+"the start of a new day?"
+msgstr "오늘 이미 긴 휴식을 취하셨습니다. 새로운 하루가 시작될 때까지 기다리시겠습니까?"
+
+msgctxt "WaitForLongRestTitle"
+msgid "Waiting to Perform a Long Rest"
+msgstr "긴 휴식을 기다리는 중"
+
+msgctxt "EndEarlyAccessDescription"
+msgid ""
+"You have reached the end of the Early Access playable content. You will now "
+"return to the main menu."
+msgstr "앞서 해보기 플레이 가능한 콘텐츠의 끝에 도달했습니다. 이제 주 메뉴로 돌아갑니다."
+
+msgctxt "EndEarlyAccessTitle"
+msgid "End of Early Access"
+msgstr "앞서 해보기 종료"
+
+msgctxt "EndEarlyAccessMainMenuTitle"
+msgid "Main Menu"
+msgstr "메인 메뉴"
+
+msgctxt "EndEarlyAccessContinuePlayingTitle"
+msgid "Continue Playing"
+msgstr "계속 재생"
+
+msgctxt "MessageKeyAlreadyBoundTitle"
+msgid "Key Already Bound"
+msgstr "이미 바인딩된 키"
+
+msgctxt "MessageKeyAlreadyBoundDescription"
+msgid "The {0} key is already bound to the {1} command"
+msgstr "{0} 키는 이미 {1} 명령에 바인딩되어 있습니다."
+
+msgctxt "MessageOverrideTitle"
+msgid "Override"
+msgstr "우세하다"
+
+msgctxt "SettingDefaultSettingsDescription"
+msgid ""
+"Are you sure you want to reset to the default values for this category of "
+"settings?"
+msgstr "이 설정 범주의 기본값으로 재설정하시겠습니까?"
+
+msgctxt "SettingDefaultSettingsTitle"
+msgid "Resetting to Default Settings"
+msgstr "기본 설정으로 재설정"
+
+msgctxt "RestartRequiredDescription"
+msgid "You need to restart the application to apply this change"
+msgstr "이 변경 사항을 적용하려면 응용 프로그램을 다시 시작해야 합니다."
+
+msgctxt "RestartRequiredTitle"
+msgid "Restart Required"
+msgstr "재시작 필요"
+
+msgctxt "ScrollScribeAlreadyInSpellbookDescription"
+msgid "The {0} spell is already in this spellbook"
+msgstr "{0} 주문은 이미 이 맞춤법 책에 있습니다."
+
+msgctxt "ScrollScribeAlreadyInSpellbookTitle"
+msgid "Already in Spellbook"
+msgstr "이미 Spellbook에 있음"
+
+msgctxt "MandatoryDestinationFormat"
+msgid "You have to travel to \"{0}\""
+msgstr "\"{0}\"(으)로 이동해야 합니다."
+
+msgctxt "CharacterCannotMove"
+msgid "{0} cannot move at all."
+msgstr "{0}은(는) 전혀 움직일 수 없습니다."
+
+msgctxt "OverrideCustomDifficultyTitle"
+msgid "Override Custom Settings"
+msgstr "사용자 정의 설정 무시"
+
+msgctxt "OverrideCustomDifficultyDescription"
+msgid ""
+"This will revert all custom settings you may have tuned in the Game Settings "
+"menu. Do you wish to continue?"
+msgstr "이렇게 하면 게임 설정 메뉴에서 조정한 모든 사용자 지정 설정이 되돌려집니다. 계속하시겠습니까?"
+
+msgctxt "SteamInitFailedDescription"
+msgid ""
+"Could not connect to the Steam client. Please ensure that you launch the "
+"game via Steam. A Steam Client restart may be required. The game will now "
+"exit."
+msgstr ""
+"Steam 클라이언트에 연결할 수 없습니다. Steam을 통해 게임을 실행해야 합니다. Steam 클라이언트를 다시 시작해야 할 수 "
+"있습니다. 이제 게임이 종료됩니다."
+
+msgctxt "SteamInitFailedTitle"
+msgid "Steam Failed to Initialize"
+msgstr "Steam 초기화 실패"
+
+msgctxt "NativeCrashDetectedTitle"
+msgid "Game Not Exited Properly"
+msgstr "게임이 제대로 종료되지 않음"
+
+msgctxt "NativeCrashDetectedDescription"
+msgid ""
+"The game was not exited properly. If you are seeing this message for the "
+"first time, we recommend that you lower the graphics settings and report "
+"this to our team in the forum."
+msgstr ""
+"게임이 제대로 종료되지 않았습니다. 이 메시지를 처음 보는 경우 그래픽 설정을 낮추고 포럼에서 저희 팀에 보고하는 것이 좋습니다."
+
+msgctxt "EndEarlyAccessDescription2"
+msgid ""
+"You have reached the end of the Early Access. The main story cannot be "
+"played any further, but you can travel around, collect stuff, and complete "
+"optional quests."
+msgstr ""
+"얼리 액세스의 끝에 도달했습니다. 메인 스토리는 더 이상 플레이할 수 없지만, 주변을 여행하고, 아이템을 수집하고, 선택적 퀘스트를 "
+"완료할 수 있습니다."
+
+msgctxt "TravelAbortedDescription"
+msgid "Travel aborted. The party will stop at the next location."
+msgstr "여행이 중단되었습니다. 파티는 다음 장소에서 멈출 것입니다."
+
+msgctxt "CharactersNotUpdatedTitle"
+msgid "Update Character Files"
+msgstr "캐릭터 파일 업데이트"
+
+msgctxt "CharactersNotUpdatedDescription"
+msgid ""
+"Some character files have not been updated. Are you sure you wish to "
+"continue?"
+msgstr "일부 캐릭터 파일이 업데이트되지 않았습니다. 계속하시겠습니까?"
+
+msgctxt "GdkSignedOutTitle"
+msgid "Sign Out"
+msgstr "로그아웃"
+
+msgctxt "GdkSignedOutDescription"
+msgid ""
+"You have been signed out of Xbox Live. The game will now close. [Please "
+"reconnect to Xbox Live and start the game again.]"
+msgstr ""
+"Xbox Live에서 로그아웃되었습니다. 이제 게임이 종료됩니다. [Xbox Live에 다시 접속하여 게임을 다시 시작해 주세요.]"
+
+msgctxt "GdkCloudDataSavedFailedTitle"
+msgid "Cloud Save Failed"
+msgstr "클라우드 저장 실패"
+
+msgctxt "GdkCloudDataSavedFailedDescription"
+msgid ""
+"There was an error saving your content to the cloud servers. [Please try "
+"again later.]"
+msgstr "콘텐츠를 클라우드 서버에 저장하는 중에 오류가 발생했습니다. [나중에 다시 시도 해주십시오.]"
+
+msgctxt "GdkCloudDataDeletedTitle"
+msgid "Cloud Deletion Failed"
+msgstr "클라우드 삭제 실패"
+
+msgctxt "GdkCloudDataDeletedDescription"
+msgid ""
+"There was an error deleting your content from the cloud servers. [Please try "
+"again later.]"
+msgstr "클라우드 서버에서 콘텐츠를 삭제하는 중에 오류가 발생했습니다. [나중에 다시 시도 해주십시오.]"
+
+msgctxt "UserLocationDeleteConfirmationTitle"
+msgid "Location Deletion"
+msgstr "위치 삭제"
+
+msgctxt "UserLocationDeleteConfirmationDescription"
+msgid "Are you sure you want to delete this user location?"
+msgstr "이 사용자 위치를 삭제하시겠습니까?"
+
+msgctxt "UserLocationOverwriteConfirmationTitle"
+msgid "Location Overwrite"
+msgstr "위치 덮어쓰기"
+
+msgctxt "UserLocationOverwriteConfirmationDescription"
+msgid ""
+"Saving this location with this name will overwrite another location with the "
+"same name. Are you sure you want to proceed?"
+msgstr "이 위치를 이 이름으로 저장하면 같은 이름의 다른 위치를 덮어씁니다. 계속하시겠습니까?"
+
+msgctxt "EditorLeaveConfirmationTitle"
+msgid "Leaving Editor"
+msgstr "편집자 나가기"
+
+msgctxt "EditorLeaveConfirmationDescription"
+msgid "Are you sure you want to leave without saving your location?"
+msgstr "위치를 저장하지 않고 나가시겠습니까?"
+
+msgctxt "HiddenDoorTitle"
+msgid "Hidden Door!"
+msgstr "숨겨진 문!"
+
+msgctxt "UnknownUserLocationDescription"
+msgid "Unknown user location: {0}"
+msgstr "알 수 없는 사용자 위치: {0}"
+
+msgctxt "InvalidUserLocationEntranceIndexDescription"
+msgid "The target entrance index is invalid: {0}"
+msgstr "대상 입구 색인이 잘못되었습니다: {0}"
+
+msgctxt "UserLocationSizeReductionTitle"
+msgid "Size Reduction"
+msgstr "사이즈 축소"
+
+msgctxt "UserLocationSizeReductionDescription"
+msgid ""
+"Reducing the size of this location may destroy some rooms and props, "
+"starting from the top right. Are you sure you want to proceed?"
+msgstr "이 위치의 크기를 줄이면 오른쪽 상단부터 시작하여 일부 방과 소품이 파괴될 수 있습니다. 계속하시겠습니까?"
+
+msgctxt "UserLocationOutdatedTitle"
+msgid "Outdated Location"
+msgstr "오래된 위치"
+
+msgctxt "UserLocationOutdatedDescription"
+msgid ""
+"One or more locations has outdated content (room, gadget, prop) which has "
+"been removed"
+msgstr "하나 이상의 위치에 삭제된 오래된 콘텐츠(방, 가젯, 소품)가 있습니다."
+
+msgctxt "UserLocationEnvironmentChangeTitle"
+msgid "Environment Change"
+msgstr "환경 변화"
+
+msgctxt "UserLocationEnvironmentChangeDescription"
+msgid ""
+"Changing the location of this environment will remove some incompatible "
+"rooms, props, and/or gadgets. Are you sure you want to proceed?"
+msgstr "이 환경의 위치를 ​​변경하면 일부 호환되지 않는 방, 소품 및/또는 가젯이 제거됩니다. 계속하시겠습니까?"
+
+msgctxt "UserLocationEmptyTitleTitle"
+msgid "Invalid Title"
+msgstr "잘못된 제목"
+
+msgctxt "UserLocationEmptyTitleDescription"
+msgid "You must enter a valid title for your user location"
+msgstr "사용자 위치에 대한 유효한 제목을 입력해야 합니다."
+
+msgctxt "EditorLocationSwitchConfirmationTitle"
+msgid "User Location Switch"
+msgstr "사용자 위치 전환"
+
+msgctxt "EditorLocationSwitchConfirmationDescription"
+msgid ""
+"The location \"{0}\" has unsaved changes. Are you sure you want to open the "
+"location \"{1}\" and lose these changes?"
+msgstr "\"{0}\" 위치에 저장되지 않은 변경 사항이 있습니다. 위치 \"{1}\"을(를) 열고 이러한 변경 사항을 삭제하시겠습니까?"
+
+msgctxt "UserLocationDuplicateTitleTitle"
+msgid "Duplicate Title"
+msgstr "중복 제목"
+
+msgctxt "UserLocationDuplicateTitleDescription"
+msgid "A location bearing the same name already exists"
+msgstr "같은 이름의 위치가 이미 존재합니다."
+
+msgctxt "UserCampaignDeleteConfirmationTitle"
+msgid "Campaign Deletion"
+msgstr "캠페인 삭제"
+
+msgctxt "UserCampaignDeleteConfirmationDescription"
+msgid "Are you sure you want to delete this user campaign?"
+msgstr "이 사용자 캠페인을 삭제하시겠습니까?"
+
+msgctxt "UserCampaignOverwriteConfirmationTitle"
+msgid "Campaign Overwrite"
+msgstr "캠페인 덮어쓰기"
+
+msgctxt "UserCampaignOverwriteConfirmationDescription"
+msgid ""
+"Saving this campaign with this name will overwrite another campaign with the "
+"same name. Are you sure you want to proceed?"
+msgstr "이 캠페인을 이 이름으로 저장하면 같은 이름의 다른 캠페인을 덮어씁니다. 계속하시겠습니까?"
+
+msgctxt "UserCampaignLosingChangesTitle"
+msgid "Losing Changes"
+msgstr "변경 사항 손실"
+
+msgctxt "UserCampaignLosingChangesDescription"
+msgid ""
+"You are about to lose the changes to this campaign. Are you sure you want to "
+"proceed?"
+msgstr "이 캠페인의 변경사항을 잃게 됩니다. 계속하시겠습니까?"
+
+msgctxt "UnknownUserCampaignDescription"
+msgid "Unknown user campaign: {0}"
+msgstr "알 수 없는 사용자 캠페인: {0}"
+
+msgctxt "QuitWithoutSavingIronManTitle"
+msgid "Impossible to save"
+msgstr "저장 불가능"
+
+msgctxt "QuitWithoutSavingIronManDescription"
+msgid ""
+"The game cannot be saved at the moment and some progress may be lost. Quit "
+"anyway?"
+msgstr "현재 게임을 저장할 수 없으며 일부 진행 상황이 손실될 수 있습니다. 어쨌든 종료?"

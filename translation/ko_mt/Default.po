@@ -1,0 +1,1801 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 23:45+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "holy axe"
+msgid "Note from Nikannen"
+msgstr "니카넨의 메모"
+
+msgctxt "Hairstyle_A"
+msgid "Pixie Cut"
+msgstr "픽시컷"
+
+msgctxt "Hairstyle_B"
+msgid "Medium"
+msgstr "중간"
+
+msgctxt "Hairstyle_C"
+msgid "Short"
+msgstr "짧은"
+
+msgctxt "Hairstyle_D"
+msgid "Bun"
+msgstr "혈액 요소 질소"
+
+msgctxt "Hairstyle_E"
+msgid "Crown Braid"
+msgstr "크라운 브레이드"
+
+msgctxt "LongTimeFormat"
+msgid ""
+"[TEMP]Game time is {0} on the day of {1} {2} in the year {3} Post Cataclysm"
+msgstr "[TEMP]게임 시간은 {3} Post Cataclysm의 {1} {2}일 {0}입니다."
+
+msgctxt "SolastanCalendarDescription"
+msgid "The common calendar used in Solasta."
+msgstr "솔라스타에서 사용하는 일반적인 달력."
+
+msgctxt "SolastanCalendarTitle"
+msgid "Solastan Calendar"
+msgstr "솔라스탄 달력"
+
+msgctxt "SolastanMonth10Title"
+msgid "Aearun"
+msgstr "애런"
+
+msgctxt "SolastanMonth11Title"
+msgid "Aeardwy"
+msgstr "에어드위"
+
+msgctxt "SolastanMonth12Title"
+msgid "Aeardair"
+msgstr "에어데어"
+
+msgctxt "SolastanMonth1Title"
+msgid "Aerun"
+msgstr "애런"
+
+msgctxt "SolastanMonth2Title"
+msgid "Aerdwy"
+msgstr "에어드위"
+
+msgctxt "SolastanMonth3Title"
+msgid "Aerdair"
+msgstr "에어데어"
+
+msgctxt "SolastanMonth4Title"
+msgid "Isgeun"
+msgstr "이근"
+
+msgctxt "SolastanMonth5Title"
+msgid "Isgedwy"
+msgstr "이스게드위"
+
+msgctxt "SolastanMonth6Title"
+msgid "Isgedair"
+msgstr "이스게데어"
+
+msgctxt "SolastanMonth7Title"
+msgid "Tanan"
+msgstr "타난"
+
+msgctxt "SolastanMonth8Title"
+msgid "Tanwyn"
+msgstr "탄윈"
+
+msgctxt "SolastanMonth9Title"
+msgid "Tandair"
+msgstr "탠데어"
+
+msgctxt "SolastanYearFormat"
+msgid "{0} P.C."
+msgstr "{0} PC"
+
+msgctxt "ArunDescription"
+msgid ""
+"The primordial god of the elements and patron of adventurers, peasants, "
+"hermits, and all others who value nature above civilization.\n"
+"The oldest of the Tirmarian deities, Arun is the one to whom humanity first "
+"prayed while struggling to survive in a hostile environment. His spouse is "
+"Maraike, the goddess of life and death.\n"
+"His clergy is divided into three main branches, each attached to one of "
+"Arun's powers: fire, ice, and lightning."
+msgstr ""
+"모험가, 농민, 은둔자 등 문명보다 자연을 중시하는 모든 이들의 수호신이자 원소의 태초의 신.\n"
+"티르마리아 신들 중 가장 오래된 아룬은 적대적인 환경에서 살아남기 위해 고군분투하는 동안 인류가 처음으로 기도한 신입니다. 그의 배우자는 "
+"삶과 죽음의 여신인 마라이케입니다.\n"
+"그의 성직자는 Arun의 능력 중 하나인 불과 얼음과 번개에 연결된 세 가지 주요 부서로 나뉩니다."
+
+msgctxt "ArunTitle"
+msgid "Arun"
+msgstr "아룬"
+
+msgctxt "EinarDescription"
+msgid ""
+"Einar is the god of valor and fidelity, and the patron of paladins, lawful "
+"warriors, and all those who bring light to darkness. The Church of Einar is "
+"organized into three Orders: \n"
+"The Blade is a militant order, a bulwark against chaos and evil.\n"
+"The Shield is an order of protectors, devoted to their flock.\n"
+"The Beacon is an order of itinerant preachers, helping the communities "
+"through which they travel with their strength at arms, their healing skills, "
+"and their knowledge of the law."
+msgstr ""
+"에이나르는 용맹과 충성의 신이자 성기사, 합법적인 전사, 그리고 어둠에 빛을 가져다주는 모든 이들의 수호신입니다. 에이나르 교회는 3개의 "
+"교단으로 구성되어 있습니다.\n"
+"블레이드는 혼돈과 악에 대한 보루인 전투적인 조직입니다.\n"
+"방패는 무리를 돌보는 수호자 집단입니다.\n"
+"Beacon은 순회 설교자들의 집단으로, 팔을 든 힘, 치유 기술, 법에 대한 지식을 가지고 여행하는 지역 사회를 돕습니다."
+
+msgctxt "EinarTitle"
+msgid "Einar"
+msgstr "에이나르"
+
+msgctxt "MaraikeDescription"
+msgid ""
+"The goddess of life and death, the patron of healers and embalmers, and the "
+"embodiment of universal duality. Traditionally, she is Arun's wife. Her cult "
+"consists of two orders:\n"
+"The Order of Life Regnant travels the land as healers and defenders. They "
+"worship the healing, motherly aspect of Maraike.\n"
+"The Order of Oblivion is an order of avengers and embalmers. Where evil "
+"tries to pervert the cycle of life and death, the Order ensures that the "
+"culprits are dealt with, and their undead victims returned to their rest. "
+msgstr ""
+"삶과 죽음의 여신, 치료사와 방부제의 후원자, 보편적 이중성의 화신. 전통적으로 그녀는 Arun의 아내입니다. 그녀의 숭배는 두 가지 "
+"명령으로 구성됩니다.\n"
+"The Order of Life Regnant는 치유자와 수비수로서 땅을 여행합니다. 그들은 마라이케의 치유, 어머니적 측면을 숭배합니다."
+"\n"
+"오블리비언 오더 오브 오블리비언은 복수자와 방부제의 오더입니다. 악이 삶과 죽음의 순환을 왜곡시키려는 경우, 기사단은 범인을 처리하고 "
+"언데드 희생자가 안식처로 돌아오도록 합니다."
+
+msgctxt "MaraikeTitle"
+msgid "Maraike"
+msgstr "마라이케"
+
+msgctxt "MisayeDescription"
+msgid ""
+"The goddess of mischief, protector of rogues and swindlers, and patron of "
+"all those who chafe against rules and enjoy a little chaos. \n"
+"Priests of Misaye seldom live a relaxing life. Usually, they are one step "
+"ahead of the law - if they are lucky! Many lead a double life - normal "
+"citizens by day and priests of Misaye by night - because the cult of Misaye "
+"is outlawed in many nations and barely tolerated in most others."
+msgstr ""
+"장난의 여신, 도적과 사기꾼의 수호자, 규칙을 어기고 약간의 혼돈을 즐기는 모든 자의 수호자.\n"
+"미사예의 사제는 좀처럼 편안한 삶을 살지 않습니다. 일반적으로 그들은 법보다 한 발 앞서 있습니다. 운이 좋다면! 많은 사람들이 이중 "
+"생활을 합니다. 낮에는 일반 시민이고 밤에는 미사예의 사제입니다. 왜냐하면 미사예 숭배는 많은 국가에서 불법이며 대부분의 다른 국가에서는 "
+"거의 용인되지 않기 때문입니다."
+
+msgctxt "MisayeTitle"
+msgid "Misaye"
+msgstr "미사예"
+
+msgctxt "PakriDescription"
+msgid ""
+"The goddess of law and knowledge and patron of judges and lawyers, teachers, "
+"librarians, and scholars.\n"
+"She gifted humans with the thirst for knowledge so they could learn and "
+"develop their society, and the law which preserves civilization. Her clergy "
+"is divided into two orders: The Order of the Book includes the most learned "
+"lawyer-priests in the world. The Order of the Owl sends its members across "
+"the land to help those in need of protection and justice."
+msgstr ""
+"법과 지식의 여신이자 판사와 변호사, 교사, 사서, 학자의 수호신.\n"
+"그녀는 인간에게 지식에 대한 갈증을 주어 사회와 문명을 보존하는 법을 배우고 발전시킬 수 있도록 했습니다. 그녀의 성직자는 두 가지 "
+"명령으로 나뉩니다. The Order of the Book에는 세계에서 가장 학식 있는 변호사 겸 사제가 포함됩니다. 올빼미 기사단은 "
+"보호와 정의가 필요한 사람들을 돕기 위해 회원들을 전국으로 보냅니다."
+
+msgctxt "PakriTitle"
+msgid "Pakri"
+msgstr "파크리"
+
+msgctxt "DieStyleEbonyTitle"
+msgid "Ebony"
+msgstr "흑단"
+
+msgctxt "DieStyleGreenTitle"
+msgid "Green"
+msgstr "녹색"
+
+msgctxt "DieStyleIvoryTitle"
+msgid "Ivory"
+msgstr "상아"
+
+msgctxt "DieStyleRubyTitle"
+msgid "Ruby"
+msgstr "루비"
+
+msgctxt "DieStyleStandardTitle"
+msgid "Standard"
+msgstr "기준"
+
+msgctxt "DieStyleYellowTitle"
+msgid "Yellow"
+msgstr "노란색"
+
+msgctxt "DieStyleGoldSupporterTitle"
+msgid "Gold"
+msgstr "금"
+
+msgctxt "DieStyleSilverSupporterTitle"
+msgid "Silver"
+msgstr "은"
+
+msgctxt "DieStyleBronzeSupporterTitle"
+msgid "Bronze"
+msgstr "청동"
+
+msgctxt "DieStyleDiamondSupporterTitle"
+msgid "Diamond"
+msgstr "다이아몬드"
+
+msgctxt "ProxyDancingLightsDescription"
+msgid "Move the lights up to 12 cells"
+msgstr "조명을 12셀까지 이동"
+
+msgctxt "ProxyDancingLightsTitle"
+msgid "Dancing Lights"
+msgstr "춤추는 빛"
+
+msgctxt "ProxyDarknessDescription"
+msgid "An area of magical darkness."
+msgstr "마법 같은 어둠의 영역."
+
+msgctxt "ProxyDaylightTitle"
+msgid "Daylight"
+msgstr "일광"
+
+msgctxt "ProxyFlamingSphereDescription"
+msgid "Move the sphere up to 6 cells or slam it into an opponent"
+msgstr "구체를 최대 6칸까지 이동하거나 적에게 내리칩니다."
+
+msgctxt "ProxyFlamingSphereTitle"
+msgid "Flaming Sphere"
+msgstr "불타는 구체"
+
+msgctxt "ProxyFogCloudDescription"
+msgid "A very thick fog."
+msgstr "매우 짙은 안개."
+
+msgctxt "ProxyIndomitableLightTitle"
+msgid "Indomitable Light"
+msgstr "불굴의 빛"
+
+msgctxt "ProxySleetStormDescription"
+msgid "Sleet Storm"
+msgstr "진눈깨비"
+
+msgctxt "ProxySpiritualWeaponDescription"
+msgid "Move the weapon up to 4 cells and strike an opponent"
+msgstr "무기를 최대 4칸까지 이동하여 적을 공격"
+
+msgctxt "ProxySpiritualWeaponTitle"
+msgid "Spiritual Weapon"
+msgstr "영적 무기"
+
+msgctxt "ProxyStinkingCloudDescription"
+msgid "A cloud of incapacitating, noxious gas."
+msgstr "무력화시키는 유독 가스 구름."
+
+msgctxt "ProxyWallOfFireDescription"
+msgid "A burning wall that injures creatures in or next to it."
+msgstr "벽 안이나 옆에 있는 생물에게 피해를 주는 불타는 벽."
+
+msgctxt "ProxyWindWallDescription"
+msgid ""
+"A wall of wind that causes damage, pushes creatures and objects away, and "
+"disperses fogs and gases."
+msgstr "피해를 입히고 생물과 물체를 밀어내고 안개와 가스를 분산시키는 바람의 벽."
+
+msgctxt "ProxySilenceDescription"
+msgid "An area of complete silence."
+msgstr "완전한 침묵의 영역."
+
+msgctxt "ProxyIceStormDescription"
+msgid "Ice Storm"
+msgstr "얼음 폭풍"
+
+msgctxt "ProxyGuardianOfFaithDescription"
+msgid "Guardian of Faith"
+msgstr "믿음의 수호자"
+
+msgctxt "ProxyCloudKillDescription"
+msgid "A thick and deadly poisonous fog."
+msgstr "짙고 치명적인 유독 안개."
+
+msgctxt "ProxyWallOfForceDescription"
+msgid "Conjures an invisible wall that blocks movement and attacks."
+msgstr "이동과 공격을 막는 투명벽을 생성한다."
+
+msgctxt "ExplosiveRunesDescription"
+msgid ""
+"Explosive Runes are inscribed on objects and trigger a fiery blast when this "
+"object is interacted with."
+msgstr "폭발 룬은 물체에 새겨져 있으며 이 물체와 상호작용할 때 화염 폭발을 일으킵니다."
+
+msgctxt "ExplosiveRunesTitle"
+msgid "Explosive Runes"
+msgstr "폭발 룬"
+
+msgctxt "PoisonNeedleDescription"
+msgid ""
+"A poisoned needle is hidden within a lock, or in something else that a "
+"creature might open. Opening the object without the proper key causes the "
+"needle to spring out, delivering a dose of poison."
+msgstr ""
+"독이 든 바늘은 자물쇠나 생물이 열 수 있는 다른 곳에 숨겨져 있습니다. 적절한 열쇠 없이 물건을 열면 바늘이 튀어나와 독약을 퍼뜨립니다."
+
+msgctxt "PoisonNeedleTitle"
+msgid "Poisoned Needle"
+msgstr "독침"
+
+msgctxt "LightningAreaNeedleTitle"
+msgid "Lightning Pillar"
+msgstr "번개 기둥"
+
+msgctxt "LightHypersensitivityTitle"
+msgid "Light Hypersensitivity"
+msgstr "가벼운 과민증"
+
+msgctxt "BoulderFallTitle"
+msgid "Boulder Fall"
+msgstr "볼더 폴"
+
+msgctxt "SpikesTitle"
+msgid "Spikes"
+msgstr "스파이크"
+
+msgctxt "ManaWindTitle"
+msgid "Mana Wind"
+msgstr "마나 바람"
+
+msgctxt "LavaburstTitle"
+msgid "Lava Burst"
+msgstr "용암 폭발"
+
+msgctxt "PoisonbulbTitle"
+msgid "Poison Bulb"
+msgstr "독 전구"
+
+msgctxt "ChandelierfallTitle"
+msgid "Chandelier Fall"
+msgstr "샹들리에 가을"
+
+msgctxt "FireburstTitle"
+msgid "Fiery Explosion"
+msgstr "불타는 폭발"
+
+msgctxt "ArcheryDescription"
+msgid "You gain a +2 bonus to attack rolls with ranged weapons."
+msgstr "원거리 무기로 공격 굴림에 +2 보너스를 얻습니다."
+
+msgctxt "ArcheryTitle"
+msgid "Archery"
+msgstr "양궁"
+
+msgctxt "DefenseDescription"
+msgid "While you are wearing armor, you gain a +1 bonus to AC."
+msgstr "갑옷을 입고 있는 동안 AC에 +1 보너스를 얻습니다."
+
+msgctxt "DefenseTitle"
+msgid "Defense"
+msgstr "방어"
+
+msgctxt "DuelingDescription"
+msgid ""
+"When you are wielding a melee weapon in one hand and no other weapons, you "
+"gain a +2 bonus to damage rolls with that weapon."
+msgstr "한 손에 근접 무기를 사용하고 다른 무기는 사용하지 않을 때 해당 무기로 피해 굴림에 +2 보너스를 얻습니다."
+
+msgctxt "DuelingTitle"
+msgid "Dueling"
+msgstr "결투"
+
+msgctxt "GreatWeaponDescription"
+msgid ""
+"When you roll a 1 or 2 on a damage die for an attack you make with a melee "
+"weapon that you are wielding with two hands, you can reroll the die. You "
+"must use the new roll, even if it is a 1 or a 2. The weapon must have the "
+"two-handed or versatile property for you to gain this benefit."
+msgstr ""
+"두 손으로 휘두르는 근접 무기로 하는 공격에 대해 피해 주사위에서 1 또는 2를 굴릴 때 주사위를 다시 굴릴 수 있습니다. 1이나 "
+"2이더라도 새 주사위를 사용해야 합니다. 이 이점을 얻으려면 무기에 양손 또는 다용도 속성이 있어야 합니다."
+
+msgctxt "GreatWeaponTitle"
+msgid "Great Weapon Fighting"
+msgstr "그레이트 웨폰 파이팅"
+
+msgctxt "ProtectionDescription"
+msgid ""
+"When a creature you can see attacks a target other than you that is within 5 "
+"feet of you, you can use your reaction to impose disadvantage on the attack "
+"roll. You must be wielding a shield."
+msgstr ""
+"당신이 볼 수 있는 생물이 당신으로부터 5피트 이내에 있는 당신이 아닌 다른 목표를 공격할 때, 당신은 공격 굴림에 불리함을 부과하기 "
+"위해 당신의 반응을 사용할 수 있습니다. 방패를 들고 있어야 합니다."
+
+msgctxt "ProtectionTitle"
+msgid "Protection"
+msgstr "보호"
+
+msgctxt "TwoWeaponDescription"
+msgid ""
+"When you engage in two-weapon fighting, you can add your ability modifier to "
+"the damage of the second attack."
+msgstr "이중 무기 전투에 참여할 때 두 번째 공격의 피해에 능력 수정치를 추가할 수 있습니다."
+
+msgctxt "TwoWeaponTitle"
+msgid "Two Weapon Fighting"
+msgstr "두 무기 싸움"
+
+msgctxt "LeftAlt"
+msgid "LeftAlt + "
+msgstr "왼쪽Alt +"
+
+msgctxt "LeftControl"
+msgid "LeftCtrl + "
+msgstr "왼쪽Ctrl +"
+
+msgctxt "LeftShift"
+msgid "LeftShift + "
+msgstr "왼쪽Shift +"
+
+msgctxt "MainFormat"
+msgid "Shortcut: {0}"
+msgstr "바로가기: {0}"
+
+msgctxt "OrFormat"
+msgid "or "
+msgstr "또는"
+
+msgctxt "RightAlt"
+msgid "RightAlt + "
+msgstr "오른쪽Alt +"
+
+msgctxt "RightControl"
+msgid "RightCtrl + "
+msgstr "오른쪽Ctrl +"
+
+msgctxt "RightShift"
+msgid "RightShift + "
+msgstr "오른쪽Shift +"
+
+msgctxt "KnownDescription"
+msgid "You know this creature well."
+msgstr "당신은 이 생물을 잘 알고 있습니다."
+
+msgctxt "KnownTitle"
+msgid "Known (3)"
+msgstr "알려진 (3)"
+
+msgctxt "MasteredDescription"
+msgid "You know everything about this creature."
+msgstr "당신은 이 생물에 대한 모든 것을 알고 있습니다."
+
+msgctxt "MasteredTitle"
+msgid "Mastered (4)"
+msgstr "마스터 (4)"
+
+msgctxt "ObservedDescription"
+msgid "You have observed this creature briefly."
+msgstr "당신은 이 생물을 잠시 관찰했습니다."
+
+msgctxt "ObservedTitle"
+msgid "Observed (1)"
+msgstr "관찰 (1)"
+
+msgctxt "StudiedDescription"
+msgid "You have studied this creature."
+msgstr "당신은 이 생물을 연구했습니다."
+
+msgctxt "StudiedTitle"
+msgid "Studied (2)"
+msgstr "공부 (2)"
+
+msgctxt "UnknownDescription"
+msgid "You have never encountered this creature."
+msgstr "당신은 이 생물을 만난 적이 없습니다."
+
+msgctxt "UnknownTitle"
+msgid "Unknown (0)"
+msgstr "알 수 없음 (0)"
+
+msgctxt "EnterLocationDescription"
+msgid "Have the party enter this location."
+msgstr "파티원이 이 위치에 들어가게 합니다."
+
+msgctxt "EnterLocationTitle"
+msgid "Enter"
+msgstr "입력하다"
+
+msgctxt "TravelToLocationDescription"
+msgid "Prepare to travel to this location."
+msgstr "이 위치로 여행할 준비를 하십시오."
+
+msgctxt "TravelToLocationTitle"
+msgid "Travel"
+msgstr "여행하다"
+
+msgctxt "GdprDescription"
+msgid ""
+"In order to improve the quality of the game, we will collect gameplay data "
+"during your play session. Personal data will not be sent, only game session "
+"information."
+msgstr ""
+"게임의 품질을 향상시키기 위해 귀하의 플레이 세션 동안 게임 플레이 데이터를 수집합니다. 개인 데이터는 전송되지 않으며 게임 세션 정보만 "
+"전송됩니다."
+
+msgctxt "GdprTitle"
+msgid "General Data Protection Regulation"
+msgstr "일반 데이터 보호 규정"
+
+msgctxt "KickstarterDemoDisclaimerDescription"
+msgid ""
+"IMPORTANT DISCLAIMER: YOU are aware that what you intend to download and "
+"play is a very early PRE-ALPHA DEMO of the Solasta: Crown of the Magister "
+"video game which is still under development. Be sure that OUR team is "
+"currently working hard to bring the Solasta: Crown of the Magister video "
+"game to a whole new level. The PRE-ALPHA DEMO is made available for free for "
+"a limited period of time only. \n"
+"\n"
+"The PRE-ALPHA DEMO is hand-crafted to give YOU an early taste of the Solasta:"
+" Crown of the Magister video game; the PRE-ALPHA DEMO may contain bugs on "
+"rare occasions. YOU are more than welcome to share your feedback and report "
+"any problems or bugs on the Steam platform or directly on OUR website www."
+"solasta-game.com. WE need to hear from YOU in order to make a game that is "
+"representative of what our community wants.\n"
+"\n"
+"Some rules and features are missing or are not implemented in the PRE-ALPHA "
+"DEMO. For example, the surprise round is not implemented, readying an action "
+"is not yet possible, we are too liberal at swapping inventory items, and "
+"some spells and effects are missing. We will fix this and try our best to "
+"integrate as much content and as many rules as possible for the final game. "
+"Some of the game features are also not demonstrated at all in the PRE-ALPHA "
+"DEMO but will be part of the final game: creating and leveling up a full "
+"party with a wide range of options, playing through a campaign storyline, "
+"and much more."
+msgstr ""
+"중요 면책 조항: 귀하는 다운로드하여 플레이하려는 것이 아직 개발 중인 Solasta: Crown of the Magister 비디오 "
+"게임의 초기 알파 데모임을 알고 있습니다. 우리 팀이 현재 Solasta: Crown of the Magister 비디오 게임을 완전히 "
+"새로운 수준으로 끌어올리기 위해 열심히 노력하고 있는지 확인하십시오. PRE-ALPHA DEMO는 제한된 기간 동안만 무료로 제공됩니다."
+"\n"
+"\n"
+"PRE-ALPHA DEMO는 Solasta: Crown of the Magister 비디오 게임의 초기 맛을 제공하기 위해 손으로 "
+"제작되었습니다. PRE-ALPHA DEMO에는 드물게 버그가 포함될 수 있습니다. Steam 플랫폼이나 당사 웹사이트 www."
+"solasta-game.com에서 직접 피드백을 공유하고 문제나 버그를 보고할 수 있습니다. 우리 커뮤니티가 원하는 것을 대표하는 게임을 "
+"만들기 위해서는 여러분의 의견을 들어야 합니다.\n"
+"\n"
+"일부 규칙과 기능이 PRE-ALPHA DEMO에서 누락되었거나 구현되지 않았습니다. 예를 들어, 서프라이즈 라운드가 구현되지 않고, 행동 "
+"준비가 아직 가능하지 않으며, 인벤토리 항목을 교환하는 데 너무 관대하고, 일부 주문과 효과가 누락되었습니다. 우리는 이 문제를 수정하고 "
+"최종 게임을 위해 최대한 많은 콘텐츠와 규칙을 통합하기 위해 최선을 다할 것입니다. 일부 게임 기능은 PRE-ALPHA DEMO에서 전혀 "
+"시연되지 않지만 최종 게임의 일부가 될 것입니다. 다양한 옵션으로 전체 파티를 만들고 레벨을 올리며, 캠페인 스토리를 통해 플레이하는 등 "
+"다양한 기능이 있습니다."
+
+msgctxt "KickstarterDemoDisclaimerTitle"
+msgid "Demo Version"
+msgstr "데모 버전"
+
+msgctxt "KickstarterDemoDisclaimerTitle2"
+msgid "DISCLAIMER PLACEHOLDER"
+msgstr "면책 조항 자리 표시자"
+
+msgctxt "KickstarterDemoDisclaimerDescription2"
+msgid "Text to be added"
+msgstr "추가할 텍스트"
+
+msgctxt "EarlyAccessDisclaimerDescription"
+msgid ""
+"Hey there folks! Welcome to Solasta - or more specifically, the Early Access "
+"of Solasta: Crown of the Magister. We really appreciate your support. You're "
+"all fantastic!\n"
+"\n"
+"Please bear in mind that you are playing an Early Access version of Solasta: "
+"Crown of the Magister which is still under development. This Early Access "
+"version contains around 10 hours of gameplay and gives you access to the "
+"full Character Creation Tool with all ancestries, classes, and archetypes "
+"unlocked, with a level cap at level 6. The full 1.0 release will see a price "
+"increase and will deliver the entire main campaign of Solasta: Crown of the "
+"Magister, as well as many side quests for you to discover. \n"
+"\n"
+"We have done our best to provide a strong and enjoyable experience. However, "
+"do note that the Early Access version may contain some occasional bugs. You "
+"are warmly invited to send us feedback, report any bugs and problems, or "
+"suggest improvements on our Discord server (https://discord.com/invite/"
+"uu8utaF) as well on our official forums (https://forums.solasta-game.com/). "
+"Our goal is to continue working hand in hand with our players to make a game "
+"that is representative of what our community wants. Be sure that our team is "
+"currently working hard to release the full version of the Solasta: Crown of "
+"the Magister video game that will include lots of additional features and "
+"content. \n"
+"\n"
+"Considering the fact that game development is a very iterative process, "
+"please understand that your save files on the Early Access version will "
+"likely be incompatible with larger updates and with the full game release. "
+"As such, if you are looking for the complete experience the full version of "
+"Solasta: Crown of the Magister can offer, we encourage you not to purchase "
+"this Early Access version, but to wait for the release of the full game. "
+"Alright, enough reading - go enjoy the game!"
+msgstr ""
+"안녕하세요 여러분! Solasta에 오신 것을 환영합니다. 더 구체적으로 말하자면 Solasta의 Early Access: Crown "
+"of the Magister입니다. 귀하의 지원에 진심으로 감사드립니다. 당신은 모두 환상적입니다!\n"
+"\n"
+"아직 개발 중인 Solasta: Crown of the Magister의 앞서 해보기 버전을 플레이하고 있다는 점을 염두에 두십시오. 이 "
+"앞서 해보기 버전에는 약 10시간의 게임 플레이가 포함되어 있으며 모든 혈통, 클래스 및 전형이 잠금 해제된 전체 캐릭터 생성 도구에 "
+"액세스할 수 있으며 레벨 상한은 레벨 6입니다. 정식 1.0 릴리스에는 가격이 인상되어 제공될 것입니다. Solasta: Crown of "
+"the Magister의 전체 메인 캠페인과 발견할 수 있는 많은 사이드 퀘스트.\n"
+"\n"
+"우리는 강력하고 즐거운 경험을 제공하기 위해 최선을 다했습니다. 그러나 Early Access 버전에는 가끔 버그가 포함될 수 있습니다. "
+"공식 포럼(https://forums.solasta- game.com/). 우리의 목표는 우리 커뮤니티가 원하는 것을 대표하는 게임을 "
+"만들기 위해 플레이어와 계속 협력하는 것입니다. 우리 팀이 현재 많은 추가 기능과 콘텐츠를 포함할 Solasta: Crown of the "
+"Magister 비디오 게임의 정식 버전을 출시하기 위해 열심히 노력하고 있는지 확인하십시오.\n"
+"\n"
+"게임 개발이 매우 반복적인 프로세스라는 사실을 고려할 때 앞서 해보기 버전의 저장 파일은 대규모 업데이트 및 정식 게임 릴리스와 호환되지 "
+"않을 수 있음을 이해하십시오. 따라서 Solasta: Crown of the Magister의 정식 버전이 제공할 수 있는 완전한 경험을 "
+"찾고 있다면 이 앞서 해보기 버전을 구입하지 말고 정식 게임이 출시될 때까지 기다리는 것이 좋습니다. 자, 충분히 읽었습니다. 게임을 "
+"즐기러 가십시오!"
+
+msgctxt "EarlyAccessDisclaimerTitle"
+msgid "Early Access Disclaimer"
+msgstr "앞서 해보기 면책 조항"
+
+msgctxt "DisclaimerSteamFestivalDescription"
+msgid ""
+"You are aware that what you intend to play is a very early Alpha Demo of the "
+"Solasta: Crown of the Magister video game, which is still under development. "
+"Be sure that our team is currently working hard to bring Solasta: Crown of "
+"the Magister to a whole new level. We are also working on providing you with "
+"a fully working Character Creator, allowing you to create and level up a "
+"full party with an even wider range of options. The Early Alpha Demo is "
+"available for free for a limited period of time only. \n"
+"\n"
+"The Early Alpha Demo is hand-crafted to give you an early taste of the "
+"Solasta: Crown of the Magister video game, it may contain bugs on rare "
+"occasions. You are more than welcome to share your feedback and report any "
+"problems or bugs on the Steam platform or directly on our website www."
+"solasta-game.com. We need to hear from you in order to make a game that is "
+"representative of what our community wants.\n"
+"\n"
+"Some rules and features are missing or are not implemented in the Early "
+"Alpha Demo. For example, some spells and effects are missing. The Early "
+"Alpha Demo allows you to create a full party of characters using the "
+"Character Creator tool, but it will not breathe life into your heroes yet. "
+"We will of course fix this and try our best to integrate as much content and "
+"rules as possible for the final game. Some of the game features are also not "
+"demonstrated at all in the Early Alpha Demo, but will be part of the final "
+"game: leveling up a full party created with a wide range of options, playing "
+"through a campaign storyline, and much more.\n"
+msgstr ""
+"플레이하려는 것은 아직 개발 중인 비디오 게임인 Solasta: Crown of the Magister 비디오 게임의 초기 알파 데모라는 "
+"것을 알고 있습니다. 우리 팀이 현재 Solasta: Crown of the Magister를 완전히 새로운 수준으로 끌어올리기 위해 "
+"열심히 노력하고 있는지 확인하십시오. 우리는 또한 완벽하게 작동하는 캐릭터 생성기를 제공하기 위해 노력하고 있습니다. 이를 통해 더 넓은 "
+"범위의 옵션으로 전체 파티를 만들고 레벨을 올릴 수 있습니다. 초기 알파 데모는 제한된 기간 동안만 무료로 제공됩니다.\n"
+"\n"
+"Early Alpha Demo는 Solasta: Crown of the Magister 비디오 게임의 초기 맛을 볼 수 있도록 손으로 "
+"제작되었으며 드물게 버그가 포함될 수 있습니다. Steam 플랫폼이나 당사 웹사이트 www.solasta-game.com에서 직접 "
+"피드백을 공유하고 문제나 버그를 보고할 수 있습니다. 우리 커뮤니티가 원하는 것을 대표하는 게임을 만들기 위해서는 여러분의 의견을 들어야 "
+"합니다.\n"
+"\n"
+"초기 알파 데모에서 일부 규칙과 기능이 누락되었거나 구현되지 않았습니다. 예를 들어, 일부 주문과 효과가 누락되었습니다. 초기 알파 "
+"데모에서는 Character Creator 도구를 사용하여 전체 캐릭터 파티를 만들 수 있지만 아직 영웅에게 생기를 불어넣지는 못합니다. "
+"물론 이 문제를 수정하고 최종 게임을 위해 최대한 많은 콘텐츠와 규칙을 통합하기 위해 최선을 다할 것입니다. 일부 게임 기능은 초기 알파 "
+"데모에서 전혀 시연되지 않았지만 최종 게임의 일부가 될 것입니다. 즉, 다양한 옵션으로 생성된 전체 파티를 레벨업하고 캠페인 스토리를 "
+"통해 플레이하는 등의 일입니다.\n"
+
+msgctxt "DisclaimerSteamFestivalTitle"
+msgid "Important Disclaimer"
+msgstr "중요 면책 조항"
+
+msgctxt "JoinCommunityAddress"
+msgid "https://forums.solasta-game.com/"
+msgstr "https://forums.solasta-game.com/"
+
+msgctxt "JoinCommunityTitle"
+msgid "Join Our Community"
+msgstr "커뮤니티 가입"
+
+msgctxt "SteamWishlistAddress"
+msgid ""
+"https://store.steampowered.com/app/1096530/Solasta_Crown_of_the_Magister/"
+msgstr ""
+"https://store.steampowered.com/app/1096530/Solasta_Crown_of_the_Magister/"
+
+msgctxt "SteamWishlistTitle"
+msgid "Wishlist us on Steam"
+msgstr "Steam에 위시리스트에 추가"
+
+msgctxt "YoutubeAddress"
+msgid "https://www.youtube.com/tacticaladventures"
+msgstr "https://www.youtube.com/tacticaladventures"
+
+msgctxt "YoutubeTitle"
+msgid "Subscribe on YouTube"
+msgstr "YouTube에서 구독"
+
+msgctxt "CaerCyflen_Annie_Bagmordah_Store_ScavengersTitle"
+msgid "Scavengers' Headquarters"
+msgstr "청소부 본부"
+
+msgctxt "CaerCyflen_Dalon_Lark_Store_EinarTitle"
+msgid "Temple of Einar Contact"
+msgstr "에이나르 신전 접촉"
+
+msgctxt "CaerCyflen_Gorim_Ironsoot_StoreTitle"
+msgid "General Store for Adventurers"
+msgstr "모험가를 위한 잡화점"
+
+msgctxt "CaerCyflen_Halman_Summer_Store_AntiquariansTitle"
+msgid "Antiquarians Contact"
+msgstr "골동품점 연락처"
+
+msgctxt "CaerCyflen_Heddlon_Surespell_Store_ArcaneumTitle"
+msgid "Arcaneum Contact"
+msgstr "아케니움 컨택트"
+
+msgctxt "CaerCyflen_Hugo_Requer_StoreTitle"
+msgid "Magic and Curiosities"
+msgstr "마법과 호기심"
+
+msgctxt "CaerCyflen_Joriel_Foxeye_Store_CircleOfDanantarTitle"
+msgid "Circle of Danantar Contact"
+msgstr "다난타르 접점의 서클"
+
+msgctxt "CaerCyflen_Karel_Martel_Store_BartenderTitle"
+msgid "Inn Services"
+msgstr "인 서비스"
+
+msgctxt "CaerCyflen_Maddy_Greenisle_Store_ToKTitle"
+msgid "Tower of Knowledge Contact"
+msgstr "지식의 탑 연락처"
+
+msgctxt "CaerCyflenWeaponsmith2Description"
+msgid "not use atm"
+msgstr "ATM을 사용하지 않는다"
+
+msgctxt "CaerCyflenWeaponsmith2Title"
+msgid "Generic Weaponsmith"
+msgstr "일반 무기제작자"
+
+msgctxt "CaerCyflenWeaponsmithDescription"
+msgid "not use atm"
+msgstr "ATM을 사용하지 않는다"
+
+msgctxt "CaerCyflenWeaponsmithTitle"
+msgid "Generic Weaponsmith"
+msgstr "일반 무기제작자"
+
+msgctxt "Telema_Merchant_Wanderer_TelemaTitle"
+msgid "Wandering Merchant"
+msgstr "떠돌이 상인"
+
+msgctxt "Coparann_Atima_StoreTitle"
+msgid "Local Cleric of Arun"
+msgstr "아룬의 지역 성직자"
+
+msgctxt "CC_PriestessPakri"
+msgid "Priestess of Pakri"
+msgstr "파크리의 여사제"
+
+msgctxt "CC_PriestMaraike"
+msgid "Priest of Maraike"
+msgstr "마라이케의 사제"
+
+msgctxt "CC_PriestArun"
+msgid "Rogar Ardentfire"
+msgstr "로가 아덴파이어"
+
+msgctxt "Circe_Title"
+msgid "Enchantment Manuals Merchant"
+msgstr "인챈트 매뉴얼 상인"
+
+msgctxt "AdventuringTitle"
+msgid "Adventuring Gear"
+msgstr "모험 장비"
+
+msgctxt "AllTitle"
+msgid "All Items"
+msgstr "모든 아이템"
+
+msgctxt "ArmorTitle"
+msgid "Armor"
+msgstr "갑옷"
+
+msgctxt "CraftingTitle"
+msgid "Crafting"
+msgstr "제작"
+
+msgctxt "IngredientTitle"
+msgid "Ingredients"
+msgstr "재료"
+
+msgctxt "MagicDeviceTitle"
+msgid "Magic Devices"
+msgstr "마법의 장치"
+
+msgctxt "WeaponTitle"
+msgid "Weapons"
+msgstr "무기"
+
+msgctxt "LifeDrainTitle"
+msgid "Life Drain"
+msgstr "라이프 드레인"
+
+msgctxt "AerElai_Title"
+msgid "THE AER-ELAI"
+msgstr "에어엘라이"
+
+msgctxt "BADLANDS_Title"
+msgid "THE BADLANDS"
+msgstr "황무지"
+
+msgctxt "CopperheadRoad_Title"
+msgid ""
+"COPPERHEAD\\n"
+"ROAD"
+msgstr ""
+"COPPERHEAD\\n"
+"도로"
+
+msgctxt "DUCHY_caercyflen_Title"
+msgid ""
+"Duchy of\\n"
+"Caer Cyflen"
+msgstr "카에르 시플렌 공국\\n"
+
+msgctxt "DUCHY_easternforests_Title"
+msgid ""
+"Duchy of\\n"
+"the Eastern Forests"
+msgstr ""
+"동부 숲의\\n"
+"공국"
+
+msgctxt "DUCHY_northernhills_Title"
+msgid ""
+"Duchy of\\n"
+"the Northern Hills"
+msgstr ""
+"북부 언덕의\\n"
+"공국"
+
+msgctxt "DUCHY_northernplains_Title"
+msgid ""
+"Duchy of\\n"
+"the Northern Plains"
+msgstr ""
+"북부 평원의\\n"
+"공국"
+
+msgctxt "DUCHY_southmarsh_Title"
+msgid ""
+"Duchy of\\n"
+"the South Marsh"
+msgstr ""
+"남쪽 습지\\n"
+"공국"
+
+msgctxt "DUCHY_westernfields_Title"
+msgid ""
+"Duchy of\\n"
+"the Western Fields"
+msgstr ""
+"서부 들판\\n"
+"공국"
+
+msgctxt "Einarium_Title"
+msgid "THE Einareum"
+msgstr "더 아이나름"
+
+msgctxt "GALLIVAN_Title"
+msgid ""
+"KINGDOM OF\\n"
+"GALLIVAN"
+msgstr "갈리반 왕국\\n"
+
+msgctxt "Kaupaapunki_Title"
+msgid "KAUPAAPUNKI"
+msgstr "카우파푼키"
+
+msgctxt "MASGARTH_Title"
+msgid ""
+"PRINCIPALITY\\n"
+"OF MASGARTH"
+msgstr ""
+"원칙\\n"
+"마스가스"
+
+msgctxt "NEWEMPIRE_Title"
+msgid "THE NEW EMPIRE"
+msgstr "새로운 제국"
+
+msgctxt "Sandreed_Title"
+msgid "SANDREED"
+msgstr "산드리드"
+
+msgctxt "SNOWALLIANCE_Title"
+msgid "THE SNOW ALLIANCE"
+msgstr "눈 동맹"
+
+msgctxt "FactionRelationDecreaseDescription"
+msgid "Your relations with this faction have worsened."
+msgstr "이 진영과의 관계가 악화되었습니다."
+
+msgctxt "FactionRelationDecreaseTitle"
+msgid "Relations Worsened ({0})"
+msgstr "악화된 관계({0})"
+
+msgctxt "FactionRelationIncreaseDescription"
+msgid "Your relations with this faction have improved."
+msgstr "이 진영과의 관계가 개선되었습니다."
+
+msgctxt "FactionRelationIncreaseTitle"
+msgid "Relation Improved ({0})"
+msgstr "관계 개선({0})"
+
+msgctxt "LocationRevealedDescription"
+msgid "A new destination is available."
+msgstr "새로운 목적지를 사용할 수 있습니다."
+
+msgctxt "LocationRevealedTitle"
+msgid "New Location Revealed"
+msgstr "새로운 위치 공개"
+
+msgctxt "MapWaypointRevealedDescription"
+msgid "Click to open the map."
+msgstr "클릭하면 지도가 열립니다."
+
+msgctxt "MapWaypointRevealedTitle"
+msgid "New Waypoint Added"
+msgstr "새로운 웨이포인트가 추가됨"
+
+msgctxt "MonsterInformationDescription"
+msgid "Your knowledge has increased."
+msgstr "지식이 증가했습니다."
+
+msgctxt "MonsterInformationTitle"
+msgid "Bestiary Updated"
+msgstr "업데이트됨"
+
+msgctxt "QuestStepAchievedDescription"
+msgid "You have successfully completed a quest objective."
+msgstr "퀘스트 목표를 성공적으로 완료했습니다."
+
+msgctxt "QuestStepAchievedTitle"
+msgid "Objective Completed"
+msgstr "목표 완료"
+
+msgctxt "QuestStepFailedDescription"
+msgid "You have failed to complete a quest objective."
+msgstr "퀘스트 목표를 완료하지 못했습니다."
+
+msgctxt "QuestStepFailedTitle"
+msgid "Objective Failed"
+msgstr "목표 실패"
+
+msgctxt "QuestStepStartedDescription"
+msgid "You have started a new objective for this quest."
+msgstr "이 퀘스트의 새로운 목표를 시작했습니다."
+
+msgctxt "QuestStepStartedTitle"
+msgid "New Objective"
+msgstr "새로운 목표"
+
+msgctxt "RecipeLearnedDescription"
+msgid "Check your crafting options."
+msgstr "제작 옵션을 확인하세요."
+
+msgctxt "RecipeLearnedTitle"
+msgid "New Crafting Option"
+msgstr "새로운 제작 옵션"
+
+msgctxt "HeaderQuestCompletedTitle"
+msgid "Quest Completed"
+msgstr "퀘스트 완료"
+
+msgctxt "HeaderQuestFailedTitle"
+msgid "Quest Failed!"
+msgstr "퀘스트 실패!"
+
+msgctxt "HeaderQuestNewTitle"
+msgid "New Quest Started"
+msgstr "새로운 퀘스트가 시작되었습니다"
+
+msgctxt "ArcaneRecoveryDescription"
+msgid ""
+"Once per day when you complete a short rest, you can recover a number of "
+"expended spell slots (max 5th level) up to half of your wizard level, "
+"rounded up."
+msgstr "하루에 한 번 짧은 휴식을 완료하면 소모된 주문 슬롯(최대 5레벨)을 마법사 레벨의 절반(반올림)까지 복구할 수 있습니다."
+
+msgctxt "ArcaneRecoveryTitle"
+msgid "Arcane Recovery"
+msgstr "비전 회복"
+
+msgctxt "AttuneItemDescription"
+msgid "Attuning to an item accesses its advanced properties and functions."
+msgstr "항목을 조정하면 고급 속성 및 기능에 액세스할 수 있습니다."
+
+msgctxt "AttuneItemTitle"
+msgid "Attune Item"
+msgstr "어튠 아이템"
+
+msgctxt "LevelUpDescription"
+msgid "Start the level up sequence for this character."
+msgstr "이 캐릭터의 레벨 업 시퀀스를 시작합니다."
+
+msgctxt "LevelUpTitle"
+msgid "Level Up"
+msgstr "레벨 업"
+
+msgctxt "PrepareSpellsDescription"
+msgid ""
+"You can change your list of prepared spells when you finish a long rest."
+msgstr "긴 휴식을 마치면 준비된 주문 목록을 변경할 수 있습니다."
+
+msgctxt "PrepareSpellsTitle"
+msgid "Prepare Spells"
+msgstr "주문 준비"
+
+msgctxt "ArcaneRecoveryExecutedDescription"
+msgid ""
+"Activating <b>Arcane Recovery</b> has allowed {0} to regain the following "
+"spell slots:"
+msgstr "<b>비전 회복</b>을 활성화하면 {0}이(가) 다음 주문 슬롯을 되찾을 수 있습니다."
+
+msgctxt "NaturalRecoveryTitle"
+msgid "Natural Recovery"
+msgstr "자연 회복"
+
+msgctxt "NaturalRecoveryDescription"
+msgid ""
+"Once per day when you complete a short rest, you can recover a number of "
+"expended spell slots (max 5th level) up to half of your druid level, rounded "
+"up."
+msgstr "하루에 한 번 짧은 휴식을 완료하면 소모된 주문 슬롯(최대 5레벨)을 드루이드 레벨의 절반까지 회복할 수 있습니다."
+
+msgctxt "AbjurationTitle"
+msgid "Abjuration"
+msgstr "포기"
+
+msgctxt "ConjurationTitle"
+msgid "Conjuration"
+msgstr "주문"
+
+msgctxt "DivinationTitle"
+msgid "Divination"
+msgstr "점"
+
+msgctxt "EnchantmentTitle"
+msgid "Enchantment"
+msgstr "마법"
+
+msgctxt "EvocationTitle"
+msgid "Evocation"
+msgstr "환기"
+
+msgctxt "IllusionTitle"
+msgid "Illusion"
+msgstr "환각"
+
+msgctxt "NecromancyTitle"
+msgid "Necromancy"
+msgstr "점"
+
+msgctxt "TransmutationTitle"
+msgid "Transmutation"
+msgstr "변성"
+
+msgctxt "GargantuanTitle"
+msgid "Gargantuan"
+msgstr "거대한"
+
+msgctxt "HugeTitle"
+msgid "Huge"
+msgstr "거대한"
+
+msgctxt "LargeTitle"
+msgid "Large"
+msgstr "크기가 큰"
+
+msgctxt "MediumTitle"
+msgid "Medium"
+msgstr "중간"
+
+msgctxt "SmallTitle"
+msgid "Small"
+msgstr "작은"
+
+msgctxt "TinyTitle"
+msgid "Tiny"
+msgstr "매우 작은"
+
+msgctxt "SpellListClericTitle"
+msgid "Cleric Spells"
+msgstr "성직자 주문"
+
+msgctxt "SpellListPaladinTitle"
+msgid "Paladin Spells"
+msgstr "성기사 주문"
+
+msgctxt "SpellListRangerTitle"
+msgid "Ranger Spells"
+msgstr "레인저 주문"
+
+msgctxt "SpellListSpellbladeTitle"
+msgid "Spellblade Spells"
+msgstr "마법검 주문"
+
+msgctxt "SpellListWizardTitle"
+msgid "Wizard Spells"
+msgstr "마법사 주문"
+
+msgctxt "SpellListSorcererTitle"
+msgid "Sorcerer Spells"
+msgstr "마법사 주문"
+
+msgctxt "SpellListDruidTitle"
+msgid "Druid Spells"
+msgstr "드루이드 주문"
+
+msgctxt "ConcentrationFormat"
+msgid "{0} is concentrating to maintain the spell \"{1}\"."
+msgstr "{0}은(는) 주문 \"{1}\"을(를) 유지하기 위해 집중하고 있습니다."
+
+msgctxt "ConcentrationStopDescription"
+msgid "Click to stop concentrating."
+msgstr "집중을 중지하려면 클릭하세요."
+
+msgctxt "HealthStatusFormat"
+msgid "Health: {0}"
+msgstr "건강: {0}"
+
+msgctxt "ReadiedCantripAttackFormat"
+msgid "{0} is ready to use a cantrip attack if the opportunity arises."
+msgstr "{0}은(는) 기회가 생기면 캔트립 공격을 사용할 준비가 되어 있습니다."
+
+msgctxt "ReadiedMeleeAttackFormat"
+msgid "{0} is ready to use a melee attack if the opportunity arises."
+msgstr "{0}은(는) 기회가 생기면 근접 공격을 사용할 준비가 되어 있습니다."
+
+msgctxt "ReadiedRangedAttackFormat"
+msgid "{0} is ready to use a ranged attack if the opportunity arises."
+msgstr "{0}은(는) 기회가 생기면 원거리 공격을 사용할 준비가 되어 있습니다."
+
+msgctxt "ArcticDescription"
+msgid ""
+"Areas of snow or permafrost are considered arctic terrain. Beware, this "
+"Terrain Type is not used in the Crown of the Magister campaign."
+msgstr "눈 또는 영구 동토층이 있는 지역은 북극 지형으로 간주됩니다. 주의하십시오. 이 지형 유형은 왕관 캠페인에서 사용되지 않습니다."
+
+msgctxt "ArcticTitle"
+msgid "Arctic"
+msgstr "북극"
+
+msgctxt "BadlandsDescription"
+msgid ""
+"Most areas covering the former inner provinces of the Manacalon Empire, now "
+"a wild mix of various terrain types with chaotic manifestations of post-"
+"Cataclysm magic, are considered Badlands terrain."
+msgstr ""
+"마나칼론 제국의 이전 내주를 덮고 있는 대부분의 지역은 이제 다양한 지형 유형과 대격변 이후 마법의 혼란스러운 표현이 거칠게 혼합되어 "
+"황무지 지형으로 간주됩니다."
+
+msgctxt "CoastDescription"
+msgid ""
+"Areas containing a coastline are considered coast terrain. Beware, this "
+"Terrain Type is not used in the Crown of the Magister campaign."
+msgstr "해안선을 포함하는 지역은 해안 지형으로 간주됩니다. 주의하십시오. 이 지형 유형은 왕관 캠페인에서 사용되지 않습니다."
+
+msgctxt "CoastTitle"
+msgid "Coast"
+msgstr "해안"
+
+msgctxt "DablandsTitle"
+msgid "Badlands"
+msgstr "황무지"
+
+msgctxt "DesertDescription"
+msgid ""
+"Arid areas with little or no rain and minimal vegetation are considered "
+"desert terrain."
+msgstr "비가 거의 또는 전혀 없고 초목이 거의 없는 건조한 지역은 사막 지형으로 간주됩니다."
+
+msgctxt "DesertTitle"
+msgid "Desert"
+msgstr "사막"
+
+msgctxt "ForestDescription"
+msgid ""
+"Areas with lush vegetation and large areas of woods are considered forest "
+"terrain."
+msgstr "무성한 초목과 넓은 지역의 숲이 있는 지역은 산림 지형으로 간주됩니다."
+
+msgctxt "ForestTitle"
+msgid "Forest"
+msgstr "숲"
+
+msgctxt "GrasslandDescription"
+msgid ""
+"Areas with rare forests and vast areas of green plains are considered "
+"grassland terrain."
+msgstr "희귀한 숲이 있는 지역과 광대한 녹지가 있는 지역은 초원 지형으로 간주됩니다."
+
+msgctxt "GrasslandTitle"
+msgid "Grassland"
+msgstr "목초지"
+
+msgctxt "MountainDescription"
+msgid ""
+"Areas with rocky ground, hills, and mountains are considered mountain "
+"terrain."
+msgstr "바위가 많은 땅, 언덕 및 산이 있는 지역은 산악 지형으로 간주됩니다."
+
+msgctxt "MountainTitle"
+msgid "Mountain"
+msgstr "산"
+
+msgctxt "SwampDescription"
+msgid ""
+"Areas with marshes and ponds and a humid atmosphere are considered swamp "
+"terrain."
+msgstr "습지와 연못이 있고 습한 대기가 있는 지역은 늪지 지형으로 간주됩니다."
+
+msgctxt "SwampTitle"
+msgid "Swamp"
+msgstr "늪"
+
+msgctxt "BasicsTitle"
+msgid "Basics"
+msgstr "기초"
+
+msgctxt "CombatTitle"
+msgid "Combat"
+msgstr "전투"
+
+msgctxt "ExplorationTitle"
+msgid "Exploration"
+msgstr "탐구"
+
+msgctxt "InventoryTitle"
+msgid "Inventory"
+msgstr "목록"
+
+msgctxt "TravelTitle"
+msgid "Travel"
+msgstr "여행하다"
+
+msgctxt "Basics_CameraTitle"
+msgid "Camera"
+msgstr "카메라"
+
+msgctxt "Basics_MovingTitle"
+msgid "Moving"
+msgstr "움직이는"
+
+msgctxt "Basics_PartyMngtTitle"
+msgid "Party Management"
+msgstr "파티 관리"
+
+msgctxt "Basics_QuestTitle"
+msgid "Quest Log"
+msgstr "퀘스트 로그"
+
+msgctxt "CombatMovementTitle"
+msgid "Movement"
+msgstr "움직임"
+
+msgctxt "CombatShoveTitle"
+msgid "Shove"
+msgstr "지지"
+
+msgctxt "Exploration_LocationMapTitle"
+msgid "Location Map"
+msgstr "위치지도"
+
+msgctxt "Exploration_MiscTitle"
+msgid "Miscellaneous"
+msgstr "여러 가지 잡다한"
+
+msgctxt "Exploration_PointsOfInterestTitle"
+msgid "Points of Interest"
+msgstr "가볼만한 곳"
+
+msgctxt "ExplorationJumpingClimbingTitle"
+msgid "Jumping and Climbing"
+msgstr "점프 및 등반"
+
+msgctxt "Inventory_LootingTitle"
+msgid "Looting"
+msgstr "약탈"
+
+msgctxt "Inventory_SpecialTitle"
+msgid "Special Slots"
+msgstr "특수 슬롯"
+
+msgctxt "Exploration_MagicTitle"
+msgid "Magic"
+msgstr "마법"
+
+msgctxt "Factions_Title"
+msgid "Faction Relations"
+msgstr "파벌 관계"
+
+msgctxt "Factions_Description"
+msgid ""
+"The <b>five</b> Council factions have representatives in Caer Cyflen. They "
+"can sell you equipment, spells, and many other things. The better your "
+"relationship with a faction, the more they have to offer, and the lower "
+"their prices.\n"
+"However, these factions are in competition with each other, which means you "
+"can't please them all. Various sub-quests will give you opportunities to "
+"improve your relationship with one faction or another.\n"
+"Keep an eye on the Faction section of the <b>Journal</b>."
+msgstr ""
+"<b>5</b> 위원회 파벌에는 Caer Cyflen에 대표자가 있습니다. 그들은 당신에게 장비, 주문 및 기타 많은 것들을 판매할 수 "
+"있습니다. 파벌과의 관계가 좋을수록 더 많은 것을 제공해야 하며 가격은 낮아집니다.\n"
+"그러나 이 진영은 서로 경쟁 관계에 있으므로 모두를 만족시킬 수는 없습니다. 다양한 하위 퀘스트를 통해 한 진영 또는 다른 진영과의 "
+"관계를 개선할 수 있습니다.\n"
+"<b>저널</b>의 파벌 섹션을 주시하십시오."
+
+msgctxt "LightAsAWeapon_Title"
+msgid "Turn on the Light!"
+msgstr "불을 켜!"
+
+msgctxt "PartyStash_Title"
+msgid "Party Stash"
+msgstr "파티 보관함"
+
+msgctxt "PartyStash_Description"
+msgid ""
+"This chest is yours to use. No one can loot it, you can stash up to 50 items "
+"inside it. Many adventurers use this Scavenger service to store some of "
+"their stuff."
+msgstr ""
+"이 상자는 당신이 사용할 것입니다. 누구도 약탈할 수 없으며 최대 50개의 아이템을 그 안에 숨길 수 있습니다. 많은 모험가들이 이 "
+"Scavenger 서비스를 사용하여 물건을 보관합니다."
+
+msgctxt "QuickShopping_Title"
+msgid "Quick Shopping"
+msgstr "빠른 쇼핑"
+
+msgctxt "QuickShopping_Description"
+msgid ""
+"Near a merchant, you'll find a quick shopping interaction. This bypasses the "
+"discussion to instantly open the merchant interface. You can still talk to "
+"the NPC merchant if needed."
+msgstr ""
+"판매자 근처에서 빠른 쇼핑 상호 작용을 찾을 수 있습니다. 이것은 판매자 인터페이스를 즉시 열기 위해 토론을 우회합니다. 필요한 경우 "
+"NPC 상인과 계속 대화할 수 있습니다."
+
+msgctxt "LightAsAWeapon_Description"
+msgid ""
+"Don't forget that light is critical to fighting certain enemies in Solasta.\n"
+"Soraks, for instance, are more powerful in dim light, and even more so in "
+"complete darkness.\n"
+"This is critical for your survival. Use light spells and torches - check for "
+"torch holders to illuminate in the environment!"
+msgstr ""
+"빛은 Solasta에서 특정 적과 싸우는 데 매우 중요하다는 것을 잊지 마십시오.\n"
+"예를 들어, 소락은 희미한 빛에서 더 강력하고 완전한 어둠 속에서는 더욱 강력합니다.\n"
+"이것은 당신의 생존에 매우 중요합니다. 빛의 주문과 횃불을 사용하십시오 - 횃불 홀더가 환경을 비추는지 확인하십시오!"
+
+msgctxt "DiffSettings_Title"
+msgid "Difficulty Settings"
+msgstr "난이도 설정"
+
+msgctxt "DiffSettings_Description"
+msgid ""
+"You can change the difficulty settings of the game on the fly. Just open up "
+"the menu, change the settings, and return to play: the changes are applied.\n"
+"\n"
+"You can pick a difficulty preset or browse the detailed options for a more "
+"customized experience."
+msgstr ""
+"즉석에서 게임의 난이도 설정을 변경할 수 있습니다. 메뉴를 열고 설정을 변경한 다음 재생으로 돌아가기만 하면 변경 사항이 적용됩니다.\n"
+"\n"
+"난이도 사전 설정을 선택하거나 보다 맞춤화된 경험을 위해 세부 옵션을 탐색할 수 있습니다."
+
+msgctxt "Tutorial_Highlight_Title"
+msgid "Highlighting Interactable Objects"
+msgstr "상호 작용 가능한 개체 강조 표시"
+
+msgctxt "Tutorial_Highlight_Description"
+msgid ""
+"Press and hold the ALT key to highlight various interactable objects: doors, "
+"chests, etc."
+msgstr "ALT 키를 길게 눌러 다양한 상호 작용 가능한 개체(문, 상자 등)를 강조 표시합니다."
+
+msgctxt "EgoPuzzle_Title"
+msgid "The Maddening Puzzle"
+msgstr "미친 퍼즐"
+
+msgctxt "EgoPuzzle_Description"
+msgid ""
+"This section of the level is for puzzle enthusiasts. Be warned! Take the "
+"shortcut on the right, and you will experience the adventure normally. If "
+"you're ready for a rotating, colorful, 3D challenge, go left after the loot "
+"of the Mind of the Master. If you change your mind, you'll have to reload. "
+"We just autosaved for you, by the way."
+msgstr ""
+"레벨의 이 섹션은 퍼즐 애호가를 위한 것입니다. 경고 받다! 오른쪽에 있는 지름길로 이동하면 정상적으로 모험을 경험할 수 있습니다. "
+"회전하는 다채로운 3D 챌린지를 할 준비가 되었다면 Master of the Master의 전리품을 따라 왼쪽으로 가십시오. 마음이 "
+"바뀌면 새로고침해야 합니다. 그건 그렇고, 우리는 당신을 위해 자동 저장했습니다."
+
+msgctxt "Voice1Title"
+msgid "Voice 1"
+msgstr "보이스 1"
+
+msgctxt "Voice2Title"
+msgid "Voice 2"
+msgstr "보이스 2"
+
+msgctxt "Voice3Title"
+msgid "Voice 3"
+msgstr "보이스 3"
+
+msgctxt "ChildOfDarkness_Title"
+msgid "Child of Darkness"
+msgstr "어둠의 아이"
+
+msgctxt "ChildOfDarkness_Description"
+msgid "This Sorak is more powerful and regenerates in darkness."
+msgstr "이 설악은 더 강력하고 어둠 속에서 재생됩니다."
+
+msgctxt "ChildOfDarkness_ACGain_Title"
+msgid "Soraks gain additional AC when in dim light or darkness."
+msgstr "소락은 희미한 빛이나 어둠에 있을 때 추가 AC를 얻습니다."
+
+msgctxt "ChildOfDarkness_AdditionalDamage2_Title"
+msgid "This creature gains +2 damage when in dim light"
+msgstr "이 생물은 희미한 빛에 있을 때 +2 피해를 얻습니다."
+
+msgctxt "ChildOfDarkness_AdditionalDamage3_Title"
+msgid "This creature gains +3 damage when in dim light"
+msgstr "이 생물은 희미한 빛에 있을 때 +3 피해를 얻습니다."
+
+msgctxt "ChildOfDarkness2_Title"
+msgid "Apostle of Darkness"
+msgstr "어둠의 사도"
+
+msgctxt "ChildOfDarkness2_Description"
+msgid ""
+"This Sorak is more powerful and regenerates in dim light, and even more so "
+"in darkness."
+msgstr "이 설악은 어두운 곳에서 더욱 강력하고, 어둠 속에서 더욱 강력하게 재생됩니다."
+
+msgctxt "ChildOfDarkness3_Title"
+msgid "Prophet of Darkness"
+msgstr "어둠의 예언자"
+
+msgctxt "ChildOfDarkness3_Description"
+msgid ""
+"This Sorak is more powerful and regenerates in dim light, and even more so "
+"in darkness."
+msgstr "이 설악은 어두운 곳에서 더욱 강력하고, 어둠 속에서 더욱 강력하게 재생됩니다."
+
+msgctxt "ChildOfDarkness0_Description"
+msgid "This Sorak is more powerful and regenerates in darkness."
+msgstr "이 설악은 더 강력하고 어둠 속에서 재생됩니다."
+
+msgctxt "Lightfiller_01_Title"
+msgid "Wildspring Safe Key Code"
+msgstr "Wildspring 안전 키 코드"
+
+msgctxt "Lightfiller_01_Content"
+msgid "Do not communicate outside the family"
+msgstr "가족 밖에서 의사 소통하지 마십시오"
+
+msgctxt "Lightfiller_02_Title"
+msgid "Guest Cell Key"
+msgstr "게스트 셀 키"
+
+msgctxt "Lightfiller_02_Content"
+msgid "Communicate at the discretion of the warden"
+msgstr "소장의 재량에 따라 의사 소통"
+
+msgctxt "ChineseCaracters"
+msgid "Not used"
+msgstr "사용하지 않음"
+
+msgctxt "CatacombsTitle"
+msgid "Catacombs"
+msgstr "지하 묘지"
+
+msgctxt "CatacombsDescription"
+msgid "An underground network of tombs & crypts"
+msgstr "무덤과 지하실의 지하 네트워크"
+
+msgctxt "NecropolisTitle"
+msgid "Necropolis"
+msgstr "대규모 묘지"
+
+msgctxt "NecropolisDescription"
+msgid "An underground domain of the dead"
+msgstr "죽은 자의 지하 영역"
+
+msgctxt "SewersTitle"
+msgid "Sewers"
+msgstr "하수도"
+
+msgctxt "SewersDescription"
+msgid "A collection of sewer tunnels & drainage"
+msgstr "하수 터널 및 배수 장치 모음"
+
+msgctxt "StrongholdTitle"
+msgid "Stronghold"
+msgstr "요새"
+
+msgctxt "StrongholdDescription"
+msgid "The interior of a stone castle"
+msgstr "석조 성 내부"
+
+msgctxt "ElvenPalaceTitle"
+msgid "Elven Palace"
+msgstr "엘프 궁전"
+
+msgctxt "ElvenPalaceDescription"
+msgid "A luxurious vestige of the realm of Manacalon"
+msgstr "마나칼론 왕국의 호화로운 흔적"
+
+msgctxt "LavaCavesTitle"
+msgid "Lava Caves"
+msgstr "용암 동굴"
+
+msgctxt "LavaCavesDescription"
+msgid "An underground network of caves inhabited by tribal creatures"
+msgstr "부족 생물이 서식하는 지하 동굴 네트워크"
+
+msgctxt "WoodlandTitle"
+msgid "Woodland"
+msgstr "삼림지"
+
+msgctxt "WoodlandDescription"
+msgid "Navigate through a series of clearings inside a temperate forest"
+msgstr "온화한 숲 안의 일련의 공터를 탐색하십시오."
+
+msgctxt "CR0_Loot_PackTitle"
+msgid "CR0 Loot"
+msgstr "CR0 전리품"
+
+msgctxt "CR1_Loot_PackTitle"
+msgid "CR1 Loot"
+msgstr "CR1 전리품"
+
+msgctxt "CR2_Loot_PackTitle"
+msgid "CR2 Loot"
+msgstr "CR2 전리품"
+
+msgctxt "CR3_Loot_PackTitle"
+msgid "CR3 Loot"
+msgstr "CR3 전리품"
+
+msgctxt "CR4_Loot_PackTitle"
+msgid "CR4 Loot"
+msgstr "CR4 전리품"
+
+msgctxt "CR5_Loot_PackTitle"
+msgid "CR5 Loot"
+msgstr "CR5 전리품"
+
+msgctxt "NoneTitle"
+msgid "<None>"
+msgstr "<없음>"
+
+msgctxt "CaerLemTitle"
+msgid "Caer Lem"
+msgstr "카에르 렘"
+
+msgctxt "CaerCyflenTitle"
+msgid "Caer Cyflen"
+msgstr "카레 시플렌"
+
+msgctxt "DarkCastleExteriorTitle"
+msgid "Dark Castle (Exterior)"
+msgstr "다크 캐슬(외부)"
+
+msgctxt "CoparanTitle"
+msgid "Coparann"
+msgstr "코파란"
+
+msgctxt "WizardsTowerTitle"
+msgid "Wizard's Tower"
+msgstr "마법사의 탑"
+
+msgctxt "MastermindTitle"
+msgid "Mastermind"
+msgstr "지도자"
+
+msgctxt "CradleOfFireTitle"
+msgid "Cradle of Fire"
+msgstr "불의 요람"
+
+msgctxt "AerElaiTitle"
+msgid "Aer Elai"
+msgstr "에어 엘라이"
+
+msgctxt "TheNecromancerTitle"
+msgid "The Necromancer"
+msgstr "네크로맨서"
+
+msgctxt "RuinsOfTelemaTitle"
+msgid "Ruins of Telema"
+msgstr "텔레마의 유적"
+
+msgctxt "PrisonEscapeTitle"
+msgid "Prison Escape"
+msgstr "감옥 탈출"
+
+msgctxt "TheLightBringersTitle"
+msgid "The Lightbringers"
+msgstr "빛의 수호자"
+
+msgctxt "ShadowsTitle"
+msgid "Shadows"
+msgstr "그림자"
+
+msgctxt "CollapsingRoofTitle"
+msgid "Collapsing Roof"
+msgstr "무너지는 지붕"
+
+msgctxt "CollapsingRoofDescription"
+msgid "Several rocks and boulders fall to the ground"
+msgstr "여러 개의 바위와 바위가 땅에 떨어집니다."
+
+msgctxt "DisturbingRunesTitle"
+msgid "Disturbing Runes"
+msgstr "혼란스러운 룬"
+
+msgctxt "DisturbingRunesDescription"
+msgid "Mind-affecting runes damage the soul and cause random behavior"
+msgstr "정신에 영향을 미치는 룬은 영혼을 손상시키고 무작위 행동을 유발합니다."
+
+msgctxt "DeathGlyphTitle"
+msgid "Death Glyph"
+msgstr "죽음의 문양"
+
+msgctxt "DeathGlyphDescription"
+msgid "Stepping on this causes necrotic damage and terror"
+msgstr "이를 밟으면 괴사 피해와 공포가 발생합니다."
+
+msgctxt "FireBurstTitle"
+msgid "Fire Burst"
+msgstr "파이어 버스트"
+
+msgctxt "FireBurstDescription"
+msgid "An eruption causes fire damage"
+msgstr "폭발로 인해 화재 피해가 발생합니다."
+
+msgctxt "GroundSpikesTitle"
+msgid "Ground Spikes"
+msgstr "그라운드 스파이크"
+
+msgctxt "GroundSpikesDescription"
+msgid "Spikes rise from the ground, causing piercing damage"
+msgstr "스파이크가 지면에서 솟아올라 관통 피해를 입힙니다."
+
+msgctxt "LightningDischargeTitle"
+msgid "Lightning Discharge"
+msgstr "번개 방전"
+
+msgctxt "LightningDischargeDescription"
+msgid "Discharges electricity in the vicinity, causing electrical damage"
+msgstr "주변에서 방전하여 전기적 손상을 일으킴"
+
+msgctxt "PoisonCloudTitle"
+msgid "Poison Cloud"
+msgstr "포이즌 클라우드"
+
+msgctxt "PoisonCloudDescription"
+msgid "A noxious cloud inflicts poison damage and the poisoned condition"
+msgstr "유독 구름이 독 피해를 입히고 중독 상태를 유발합니다."
+
+msgctxt "GemsTitle"
+msgid "Gems"
+msgstr "보석"
+
+msgctxt "ConsumablesTitle"
+msgid "Consumables"
+msgstr "소모품"
+
+msgctxt "MagicWeapons_ArmorsTitle"
+msgid "Magic Weapons and Armor"
+msgstr "마법의 무기와 갑옷"
+
+msgctxt "Wondrous_ItemsTitle"
+msgid "Wondrous Items"
+msgstr "멋진 아이템"
+
+msgctxt "IngredientsTitle"
+msgid "Ingredients"
+msgstr "재료"
+
+msgctxt "Mundane_GearTitle"
+msgid "Mundane Gear"
+msgstr "평범한 기어"
+
+msgctxt "25_GP_Art_ItemsTitle"
+msgid "25 gp Art Items"
+msgstr "25gp 아트 아이템"
+
+msgctxt "50_GP_Art_ItemsTitle"
+msgid "50 gp Art Items"
+msgstr "50gp 아트 아이템"
+
+msgctxt "BackerItemsTitle"
+msgid "Backer Item Pack"
+msgstr "후원자 아이템 팩"
+
+msgctxt "BackerItemsDescription"
+msgid ""
+"Unlocks the One Ring, Dwarven Bread, 6 League Boots, Spoon of Discord and "
+"Early Bird items. Can be found in a chest near the Monument next to the "
+"Council."
+msgstr ""
+"반지 1개, 드워프 빵, 6개의 리그 부츠, 스푼 오브 디스코드, 얼리 버드 아이템을 잠금 해제합니다. 의회 옆 기념물 근처 상자에서 "
+"찾을 수 있습니다."
+
+msgctxt "DigitalBackerContentTitle"
+msgid "Digital Edition Pack"
+msgstr "디지털 에디션 팩"
+
+msgctxt "DigitalBackerContentDescription"
+msgid ""
+"Unlocks the Everlasting Torch item and special VFX versions of Burning Hands "
+"and Sacred Flame. Can be found in a chest near the Monument next to the "
+"Council."
+msgstr ""
+"영원한 횃불 아이템과 불타는 손과 신성한 불꽃의 특별 VFX 버전을 잠금 해제합니다. 의회 옆 기념물 근처 상자에서 찾을 수 있습니다."
+
+msgctxt "LoadedDiceTitle"
+msgid "Loaded Dice Pack"
+msgstr "로드된 주사위 팩"
+
+msgctxt "LoadedDiceDescription"
+msgid ""
+"Unlock the Loaded Dice item. Can be found near the Monument in a chest next "
+"to the Council."
+msgstr "로드된 주사위 항목을 잠금 해제하십시오. 기념물 근처 의회 옆 상자에서 찾을 수 있습니다."
+
+msgctxt "SorcererUpdateTitle"
+msgid "Sorcerer Update"
+msgstr "소서러 업데이트"
+
+msgctxt "SorcererUpdateDescription"
+msgid ""
+"Unlocks the Sorcerer class and its 3 subclasses, iron man mode and new "
+"Dungeon Maker content"
+msgstr "Sorcerer 클래스와 3개의 하위 클래스, Iron Man 모드 및 새로운 Dungeon Maker 콘텐츠 잠금 해제"
+
+msgctxt "SupporterPackTitle"
+msgid "Supporter Pack"
+msgstr "서포터 팩"
+
+msgctxt "SupporterPackDescription"
+msgid ""
+"Unlocks exclusive dice, a vast amount of high resolution Concept Art, and "
+"the eternal love of the Tactical Adventures team"
+msgstr "독점적인 주사위, 방대한 양의 고해상도 컨셉 아트 및 Tactical Adventures 팀의 영원한 사랑을 잠금 해제합니다."
+
+msgctxt "PrimalPowerTitle"
+msgid "Primal Power"
+msgstr "원시의 힘"
+
+msgctxt "PrimalPowerDescription"
+msgid ""
+"Unlocks the Barbarian & Druid character classes, to play with any adventure "
+"of Solasta"
+msgstr "Barbarian & Druid 캐릭터 클래스를 잠금 해제하여 Solasta의 모든 모험과 함께 플레이"
+
+msgctxt "RosLastName"
+msgid "Ros"
+msgstr "로스"

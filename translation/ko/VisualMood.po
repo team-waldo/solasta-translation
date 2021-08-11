@@ -1,0 +1,117 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "CryptTitle"
+msgid "Crypt"
+msgstr ""
+
+msgctxt "InfernoTitle"
+msgid "Inferno"
+msgstr ""
+
+msgctxt "StrangeTitle"
+msgid "Strange"
+msgstr ""
+
+msgctxt "ClearOutdoorTitle"
+msgid "Clear Weather"
+msgstr ""
+
+msgctxt "AcidTitle"
+msgid "Acid"
+msgstr ""
+
+msgctxt "BluishTitle"
+msgid "Bluish"
+msgstr ""
+
+msgctxt "CalmTitle"
+msgid "Calm"
+msgstr ""
+
+msgctxt "ColdTitle"
+msgid "Cold"
+msgstr ""
+
+msgctxt "DevilishTitle"
+msgid "Devilish"
+msgstr ""
+
+msgctxt "DullTitle"
+msgid "Dull"
+msgstr ""
+
+msgctxt "GloomyTitle"
+msgid "Gloomy"
+msgstr ""
+
+msgctxt "GoldenTitle"
+msgid "Golden"
+msgstr ""
+
+msgctxt "GreenishTitle"
+msgid "Greenish"
+msgstr ""
+
+msgctxt "LovelyTitle"
+msgid "Lovely"
+msgstr ""
+
+msgctxt "MossyTitle"
+msgid "Mossy"
+msgstr ""
+
+msgctxt "MuddyTitle"
+msgid "Muddy"
+msgstr ""
+
+msgctxt "MysticTitle"
+msgid "Mystic"
+msgstr ""
+
+msgctxt "OcherTitle"
+msgid "Ocher"
+msgstr ""
+
+msgctxt "PastTitle"
+msgid "Ancient"
+msgstr ""
+
+msgctxt "PichBlackTitle"
+msgid "Pitch Black"
+msgstr ""
+
+msgctxt "PurplishTitle"
+msgid "Purple"
+msgstr ""
+
+msgctxt "RadiantTitle"
+msgid "Radiant"
+msgstr ""
+
+msgctxt "SpookyTitle"
+msgid "Spooky"
+msgstr ""
+
+msgctxt "StenchTitle"
+msgid "Stench"
+msgstr ""
+
+msgctxt "ToxicTitle"
+msgid "Toxic"
+msgstr ""
+
+msgctxt "WarmTitle"
+msgid "Warm"
+msgstr ""

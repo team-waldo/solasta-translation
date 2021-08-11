@@ -1,0 +1,634 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "ActionStatusAvailableDescription"
+msgid "This action is available to use during this character's turn."
+msgstr ""
+
+msgctxt "ActionStatusCannotPerformDescription"
+msgid "This creature cannot perform this kind of action."
+msgstr ""
+
+msgctxt "ActionStatusEngagedDescription"
+msgid ""
+"Action already in process. Actions of the same type (main, bonus, etc.) "
+"cannot be used until it has finished."
+msgstr ""
+
+msgctxt "ActionStatusIrrelevantDescription"
+msgid "Action irrelevant here. Try something else."
+msgstr ""
+
+msgctxt "ActionStatusNoLongerAvailableDescription"
+msgid ""
+"Action unavailable - an action of the same type (main, bonus, etc.) has been "
+"selected."
+msgstr ""
+
+msgctxt "ActionStatusOutOfUsesDescription"
+msgid "Action unavailable - out of uses/ammo."
+msgstr ""
+
+msgctxt "ActionStatusSpentDescription"
+msgid "Action already used this turn."
+msgstr ""
+
+msgctxt "ActionStatusUnavailableDescription"
+msgid "Action unavailable this turn."
+msgstr ""
+
+msgctxt "ActionTypeBonusAvailableMultipleDescription"
+msgid "This bonus action is available!"
+msgstr ""
+
+msgctxt "ActionTypeBonusAvailableSingleDescription"
+msgid "Your bonus action is available!"
+msgstr ""
+
+msgctxt "ActionTypeBonusDescription"
+msgid ""
+"A bonus action is granted by special powers and spells, or when equipping an "
+"off-hand weapon."
+msgstr ""
+
+msgctxt "ActionTypeBonusTitle"
+msgid "Bonus"
+msgstr ""
+
+msgctxt "ActionTypeBonusUnavailableMultipleDescription"
+msgid "You have used this bonus action."
+msgstr ""
+
+msgctxt "ActionTypeBonusUnavailableSingleDescription"
+msgid "You have used your bonus action."
+msgstr ""
+
+msgctxt "ActionTypeFreeOnceAvailableMultipleDescription"
+msgid "This free action is available!"
+msgstr ""
+
+msgctxt "ActionTypeFreeOnceAvailableSingleDescription"
+msgid "Your free action is available!"
+msgstr ""
+
+msgctxt "ActionTypeFreeOnceDescription"
+msgid ""
+"You can take certain free actions during your turn, such as sheathing a "
+"weapon or dropping an item."
+msgstr ""
+
+msgctxt "ActionTypeFreeOnceTitle"
+msgid "Free"
+msgstr ""
+
+msgctxt "ActionTypeFreeOnceUnavailableMultipleDescription"
+msgid "You have used this free action."
+msgstr ""
+
+msgctxt "ActionTypeFreeOnceUnavailableSingleDescription"
+msgid "You have used your free action."
+msgstr ""
+
+msgctxt "ActionTypeMainAvailableMultipleDescription"
+msgid "This main action is available!"
+msgstr ""
+
+msgctxt "ActionTypeMainAvailableSingleDescription"
+msgid "Your main action is available!"
+msgstr ""
+
+msgctxt "ActionTypeMainDescription"
+msgid ""
+"Your main action is the main thing you do during your turn, such as moving, "
+"attacking, casting a spell, or using an ability."
+msgstr ""
+
+msgctxt "ActionTypeMainTitle"
+msgid "Main Actions"
+msgstr ""
+
+msgctxt "ActionTypeMainUnavailableMultipleDescription"
+msgid "You have used this main action."
+msgstr ""
+
+msgctxt "ActionTypeMainUnavailableSingleDescription"
+msgid "You have used your main action."
+msgstr ""
+
+msgctxt "ActionTypeMoveDescription"
+msgid ""
+"The move action usually involves spending speed points to move. Jumping and "
+"climbing require ability checks."
+msgstr ""
+
+msgctxt "ActionTypeMoveTitle"
+msgid "Move"
+msgstr ""
+
+msgctxt "ActionTypeOtherDescription"
+msgid "Other actions can be performed freely or by spending move points."
+msgstr ""
+
+msgctxt "ActionTypeOtherTitle"
+msgid "Other"
+msgstr ""
+
+msgctxt "ActionTypeReactionAvailableMultipleDescription"
+msgid "This reaction is available!"
+msgstr ""
+
+msgctxt "ActionTypeReactionAvailableSingleDescription"
+msgid "Your reaction is available!"
+msgstr ""
+
+msgctxt "ActionTypeReactionDescription"
+msgid ""
+"Specific conditions can trigger a reaction, such as an opportunity attack."
+msgstr ""
+
+msgctxt "ActionTypeReactionTitle"
+msgid "Reaction"
+msgstr ""
+
+msgctxt "ActionTypeReactionUnavailableMultipleDescription"
+msgid "You have used this reaction."
+msgstr ""
+
+msgctxt "ActionTypeReactionUnavailableSingleDescription"
+msgid "You have used your reaction."
+msgstr ""
+
+msgctxt "AssignTargetDescription"
+msgid "You can select a new target for {0}."
+msgstr ""
+
+msgctxt "AssignTargetTitle"
+msgid "Target"
+msgstr ""
+
+msgctxt "AttackCoverFullDescription"
+msgid "The target has total cover behind an obstacle."
+msgstr ""
+
+msgctxt "AttackCoverHalfDescription"
+msgid "The target has half cover ({0} AC).\n"
+msgstr ""
+
+msgctxt "AttackCoverThreeQuartersDescription"
+msgid "The target has three-quarters cover ({0} AC).\n"
+msgstr ""
+
+msgctxt "AttackDescription"
+msgid ""
+"Attack an enemy target with this weapon: {0} ({1} to Hit)\n"
+"{2}"
+msgstr ""
+
+msgctxt "AttackExecuteAdvantageDescription"
+msgid "Click to attack the target with advantage!"
+msgstr ""
+
+msgctxt "AttackExecuteDescription"
+msgid "Click to attack the target!"
+msgstr ""
+
+msgctxt "AttackExecuteDisadvantageDescription"
+msgid "Click to attack the target with disadvantage."
+msgstr ""
+
+msgctxt "AttackIterativeDescription"
+msgid ""
+"You can attack {0} times during your turn, and intersperse your attacks "
+"between moves."
+msgstr ""
+
+msgctxt "AttackTitle"
+msgid "Attack"
+msgstr ""
+
+msgctxt "BlockAttackDescription"
+msgid "Impose disadvantage on an enemy attacking a nearby ally."
+msgstr ""
+
+msgctxt "BlockAttackTitle"
+msgid "Block attack"
+msgstr ""
+
+msgctxt "CastDescription"
+msgid "Select and cast a spell."
+msgstr ""
+
+msgctxt "CastRitualDescription"
+msgid "Cast spell as a ritual (takes 10 minutes, does not use a spell slot)."
+msgstr ""
+
+msgctxt "CastRitualTitle"
+msgid "Ritual"
+msgstr ""
+
+msgctxt "CastSpellHigherSlotAddDiceTile"
+msgid "Add {0} dice to the effect."
+msgstr ""
+
+msgctxt "CastSpellHigherSlotAddDieTile"
+msgid "Add {0} die to the effect."
+msgstr ""
+
+msgctxt "CastSpellHigherSlotAddHPTile"
+msgid "Add {0} more hit points."
+msgstr ""
+
+msgctxt "CastSpellHigherSlotAddItemBonusTile"
+msgid "Increase item bonus by {0}."
+msgstr ""
+
+msgctxt "CastSpellHigherSlotAddSpellLevelPluralTile"
+msgid "{0} additional spell levels."
+msgstr ""
+
+msgctxt "CastSpellHigherSlotAddSpellLevelSingleTile"
+msgid "{0} additional spell level."
+msgstr ""
+
+msgctxt "CastSpellHigherSlotAddSummonPluralTile"
+msgid "Conjure {0} additional creatures."
+msgstr ""
+
+msgctxt "CastSpellHigherSlotAddSummonSingleTile"
+msgid "Conjure {0} additional creature."
+msgstr ""
+
+msgctxt "CastSpellHigherSlotAddTargetCellsTile"
+msgid "Target {0} additional cells."
+msgstr ""
+
+msgctxt "CastSpellHigherSlotAddTargetPluralTile"
+msgid "Add {0} targets."
+msgstr ""
+
+msgctxt "CastSpellHigherSlotAddTargetSingleTile"
+msgid "Add {0} target."
+msgstr ""
+
+msgctxt "CastSpellHigherSlotAddTempHPTile"
+msgid "Add {0} temporary hit points."
+msgstr ""
+
+msgctxt "CastSpellHigherSlotTile"
+msgid "Cast spell using a level {0} slot."
+msgstr ""
+
+msgctxt "CastTitle"
+msgid "Cast Spell"
+msgstr ""
+
+msgctxt "CautiousDescription"
+msgid ""
+"Activate/deactivate cautious mode. A cautious character is stealthier and "
+"more aware of hidden objects and creatures."
+msgstr ""
+
+msgctxt "CautiousTitle"
+msgid "Cautious"
+msgstr ""
+
+msgctxt "ClimbDescription"
+msgid ""
+"Climb up or down surfaces. Climbing a slippery vertical surface also "
+"requires a successful Strength (Athletics) check."
+msgstr ""
+
+msgctxt "ClimbTitle"
+msgid "Climb"
+msgstr ""
+
+msgctxt "CunningActionDescription"
+msgid ""
+"Starting at 2nd level, your quick thinking and agility allow you to move and "
+"act quickly. You can take a bonus action on each of your turns in combat. "
+"This action can be used only to take the Dash or Disengage action."
+msgstr ""
+
+msgctxt "CunningActionTitle"
+msgid "Cunning Action"
+msgstr ""
+
+msgctxt "DashDescription"
+msgid ""
+"When you take the Dash action, you gain extra movement for your current "
+"turn. The increase equals your speed, after applying any modifiers."
+msgstr ""
+
+msgctxt "DashTitle"
+msgid "Dash"
+msgstr ""
+
+msgctxt "DisengageDescription"
+msgid ""
+"If you take the Disengage action, your movement doesn't provoke opportunity "
+"attacks for the rest of the turn."
+msgstr ""
+
+msgctxt "DisengageTitle"
+msgid "Disengage"
+msgstr ""
+
+msgctxt "DodgeDescription"
+msgid ""
+"When you take the Dodge action, you focus entirely on avoiding attacks. "
+"Until the start of your next turn, any attack roll made against you has "
+"disadvantage if you can see the attacker, and you make Dexterity saving "
+"throws with advantage."
+msgstr ""
+
+msgctxt "DodgeTitle"
+msgid "Dodge"
+msgstr ""
+
+msgctxt "DropProneDescription"
+msgid ""
+"You can drop prone without using any of your speed. To move while prone, you "
+"must crawl or use magic such as teleportation. The cost of moving while "
+"crawling is doubled. The cost of crawling in difficult terrain, therefore, "
+"is tripled. Dropping prone adds the Prone condition: melee attacks against "
+"you have advantage, ranged attacks against you have disadvantage, your own "
+"attacks have disadvantage."
+msgstr ""
+
+msgctxt "DropProneTitle"
+msgid "Drop"
+msgstr ""
+
+msgctxt "EnemyCreatureTitle"
+msgid "Enemy Creature"
+msgstr ""
+
+msgctxt "EnemyTargetHeaderTitle"
+msgid "{0} (Enemy)"
+msgstr ""
+
+msgctxt "EquipDescription"
+msgid "Equip or unequip an item."
+msgstr ""
+
+msgctxt "EquipTitle"
+msgid "Equip"
+msgstr ""
+
+msgctxt "ExtinguishDescription"
+msgid "Extinguish a fire that affects you."
+msgstr ""
+
+msgctxt "ExtinguishTitle"
+msgid "Extinguish"
+msgstr ""
+
+msgctxt "FriendlyCreatureTitle"
+msgid "Friendly Creature"
+msgstr ""
+
+msgctxt "FriendlyTargetHeaderTitle"
+msgid "{0} (Friendly)"
+msgstr ""
+
+msgctxt "HideDescription"
+msgid ""
+"When you take the Hide action, you make a Dexterity (Stealth) check in an "
+"attempt to hide, following the rules for hiding. If you succeed, any attack "
+"roll made against you has disadvantage and you have advantage on your "
+"attacks. This lasts while you remain undetected. You cannot try to hide if "
+"you are currently detected."
+msgstr ""
+
+msgctxt "HideTitle"
+msgid "Hide"
+msgstr ""
+
+msgctxt "InventoryDescription"
+msgid "Manage your character inventory."
+msgstr ""
+
+msgctxt "InventoryTitle"
+msgid "Inventory"
+msgstr ""
+
+msgctxt "JumpDescription"
+msgid "Make a short or long jump."
+msgstr ""
+
+msgctxt "JumpTitle"
+msgid "Jump"
+msgstr ""
+
+msgctxt "LevitateDescription"
+msgid "Move the affected character up and down."
+msgstr ""
+
+msgctxt "LevitateTitle"
+msgid "Levitate"
+msgstr ""
+
+msgctxt "MoveDescription"
+msgid ""
+"Move up to your speed toward the specified destination. You can break your "
+"movement up between other actions."
+msgstr ""
+
+msgctxt "MoveTitle"
+msgid "Move"
+msgstr ""
+
+msgctxt "NeutralCreatureTitle"
+msgid "Neutral Creature"
+msgstr ""
+
+msgctxt "NeutralTargetHeaderTitle"
+msgid "{0} (Neutral)"
+msgstr ""
+
+msgctxt "PickUpDescription"
+msgid "Pick up an item at the character's position."
+msgstr ""
+
+msgctxt "PickUpTitle"
+msgid "Pick Up"
+msgstr ""
+
+msgctxt "PowerDescription"
+msgid "Activate a power or special ability."
+msgstr ""
+
+msgctxt "PowerTitle"
+msgid "Use Power"
+msgstr ""
+
+msgctxt "ReadyDescription"
+msgid "Delay an attack until later in the turn."
+msgstr ""
+
+msgctxt "ReadyTitle"
+msgid "Ready"
+msgstr ""
+
+msgctxt "ShoveDescription"
+msgid ""
+"Use your Strength to push a creature one cell away from you or knock them "
+"down. The target must be no more than one size larger than you and must be "
+"within your reach."
+msgstr ""
+
+msgctxt "ShoveTitle"
+msgid "Shove"
+msgstr ""
+
+msgctxt "SpellCoverHalfDescription"
+msgid "The target has half cover ({0} saving throw).\n"
+msgstr ""
+
+msgctxt "SpellCoverThreeQuartersDescription"
+msgid "The target has three-quarters cover ({0} saving throw).\n"
+msgstr ""
+
+msgctxt "SpellExecuteDescription"
+msgid "Click to select this target for your spell."
+msgstr ""
+
+msgctxt "StandUpDescription"
+msgid ""
+"Standing up costs an amount of movement equal to half your speed. You can't "
+"stand up if you don't have enough movement left, or if your speed is 0."
+msgstr ""
+
+msgctxt "StandUpTitle"
+msgid "Stand"
+msgstr ""
+
+msgctxt "UseFunctionAdditionalChargePlural"
+msgid "Cast spell using {0} additional item charges."
+msgstr ""
+
+msgctxt "UseFunctionAdditionalChargeSingle"
+msgid "Cast spell using an additional item charge."
+msgstr ""
+
+msgctxt "UseItemDescription"
+msgid "Use the special functions of a device or magical item."
+msgstr ""
+
+msgctxt "UseItemTitle"
+msgid "Use Item"
+msgstr ""
+
+msgctxt "VampiricTouchDescription"
+msgid ""
+"Make a melee spell attack on the target for 3d6 necrotic damage and regain "
+"hit points equal to half the damage inflicted."
+msgstr ""
+
+msgctxt "VampiricTouchTitle"
+msgid "Vampiric Touch"
+msgstr ""
+
+msgctxt "ActionTeleportDescription"
+msgid "Teleport"
+msgstr ""
+
+msgctxt "UnhideTitle"
+msgid "Unhide"
+msgstr ""
+
+msgctxt "UnhideDescription"
+msgid "Unhiding is a free action."
+msgstr ""
+
+msgctxt "ActionStatusCannotPerformDetectedDescription"
+msgid ""
+"This action can only be performed if the character is not detected. Break "
+"the line of sight to proceed."
+msgstr ""
+
+msgctxt "BreakFreeTitle"
+msgid "Break Free"
+msgstr ""
+
+msgctxt "BreakFreeDescription"
+msgid "Spend your action breaking free, through might or agility."
+msgstr ""
+
+msgctxt "BreakEnchantmentTitle"
+msgid "Break Enchantment"
+msgstr ""
+
+msgctxt "BreakEnchantmentDescription"
+msgid ""
+"Touch a creature to remove a detrimental condition (charmed, frightened, "
+"possessed)."
+msgstr ""
+
+msgctxt "DismissalTitle"
+msgid "Dismissal"
+msgstr ""
+
+msgctxt "DismissalDescription"
+msgid ""
+"Execute a melee magical attack to send an extraplanar celestial, elemental, "
+"fey, fiend, or undead to its plane of existence."
+msgstr ""
+
+msgctxt "AttackToss_Title"
+msgid "Toss"
+msgstr ""
+
+msgctxt "SunbeamTitle"
+msgid "Sunbeam"
+msgstr ""
+
+msgctxt "SunbeamDescription"
+msgid ""
+"You can use your action each turn to target a creature with a sunbeam for "
+"6d8 radiant damage. Undead and oozes save with disadvantage"
+msgstr ""
+
+msgctxt "RageStartDescription"
+msgid ""
+"Grants you advantage on strength saves & checks, a bonus to melee attacks "
+"damage, and resistance to slashing, bludgeoning and piercing damage, for 1 "
+"minute. You must attack or be damaged each round or the rage ends early"
+msgstr ""
+
+msgctxt "RageStartTitle"
+msgid "Rage"
+msgstr ""
+
+msgctxt "RageStopDescription"
+msgid ""
+"Immediately stops your raging status, though still couting your used rage "
+"point"
+msgstr ""
+
+msgctxt "RageStopTitle"
+msgid "Stop Rage"
+msgstr ""
+
+msgctxt "RecklessAttackDescription"
+msgid ""
+"Before you make your first attack on your turn, you can decide to attack "
+"recklessly. Doing so gives you advantage on melee weapon attack rolls using "
+"Strength during this turn, but attack rolls against you have advantage until "
+"your next turn"
+msgstr ""
+
+msgctxt "RecklessAttackTitle"
+msgid "Reckless Attack"
+msgstr ""

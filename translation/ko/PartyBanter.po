@@ -1,0 +1,1261 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "Cynical1_Trap_Detected_Self"
+msgid "Wait! A trap!"
+msgstr ""
+
+msgctxt "Cynical2_Trap_Detected_Self"
+msgid "Hold it! A trap!"
+msgstr ""
+
+msgctxt "Cynical3_Trap_Detected_Self"
+msgid "I see a trap."
+msgstr ""
+
+msgctxt "Cynical1_Secret_door_Detected_Self"
+msgid "Look! A secret door!"
+msgstr ""
+
+msgctxt "Cynical2_Secret_door_Detected_Self"
+msgid "There's a door, here."
+msgstr ""
+
+msgctxt "Cynical3_Secret_door_Detected_Self"
+msgid "I see a hidden door."
+msgstr ""
+
+msgctxt "Cynical1_Trap_Trigerred_Self"
+msgid "How did I miss that?"
+msgstr ""
+
+msgctxt "Cynical2_Trap_Trigerred_Self"
+msgid "It was just waiting for me!"
+msgstr ""
+
+msgctxt "Cynical3_Trap_Trigerred_Self"
+msgid "I'm smarter than that!"
+msgstr ""
+
+msgctxt "Cynical1_Trap_Disarmed_Self"
+msgid "Too easy!"
+msgstr ""
+
+msgctxt "Cynical2_Trap_Disarmed_Self"
+msgid "I just needed one hand."
+msgstr ""
+
+msgctxt "Cynical3_Trap_Disarmed_Self"
+msgid "Piece of cake."
+msgstr ""
+
+msgctxt "Cynical1_Light_up_Self"
+msgid "Let there be light!"
+msgstr ""
+
+msgctxt "Cynical2_Light_up_Self"
+msgid "That's better."
+msgstr ""
+
+msgctxt "Cynical3_Light_up_Self"
+msgid "A bit of light won't hurt."
+msgstr ""
+
+msgctxt "Cynical1_Break_Stealth_Self"
+msgid "Damn it!"
+msgstr ""
+
+msgctxt "Cynical2_Break_Stealth_Self"
+msgid "That's on me."
+msgstr ""
+
+msgctxt "Cynical3_Break_Stealth_Self"
+msgid "What went wrong there?"
+msgstr ""
+
+msgctxt "Cynical1_Critical_Hit_Given_Self"
+msgid "How does that feel?"
+msgstr ""
+
+msgctxt "Cynical2_Critical_Hit_Given_Self"
+msgid "Well deserved!"
+msgstr ""
+
+msgctxt "Cynical3_Critical_Hit_Given_Self"
+msgid "Take that!"
+msgstr ""
+
+msgctxt "Cynical1_Normal_Hit_Given_Self"
+msgid "Got you!"
+msgstr ""
+
+msgctxt "Cynical2_Normal_Hit_Given_Self"
+msgid "You like it?"
+msgstr ""
+
+msgctxt "Cynical3_Normal_Hit_Given_Self"
+msgid "Too slow!"
+msgstr ""
+
+msgctxt "Cynical4_Normal_Hit_Given_Self"
+msgid "That must have hurt."
+msgstr ""
+
+msgctxt "Cynical5_Normal_Hit_Given_Self"
+msgid "Touché!"
+msgstr ""
+
+msgctxt "Cynical1_Missed_Attack_Self"
+msgid "Damn it!"
+msgstr ""
+
+msgctxt "Cynical2_Missed_Attack_Self"
+msgid "What?"
+msgstr ""
+
+msgctxt "Cynical3_Missed_Attack_Self"
+msgid "I was sure…"
+msgstr ""
+
+msgctxt "Cynical4_Missed_Attack_Self"
+msgid "How did I miss?"
+msgstr ""
+
+msgctxt "Cynical5_Missed_Attack_Self"
+msgid "You're just lucky!"
+msgstr ""
+
+msgctxt "Cynical1_Kill_Enemy_Self"
+msgid "And the winner is - me!"
+msgstr ""
+
+msgctxt "Cynical2_Kill_Enemy_Self"
+msgid "You lose!"
+msgstr ""
+
+msgctxt "Cynical3_Kill_Enemy_Self"
+msgid "Another victory!"
+msgstr ""
+
+msgctxt "Cynical4_Kill_Enemy_Self"
+msgid "You never stood a chance!"
+msgstr ""
+
+msgctxt "Cynical5_Kill_Enemy_Self"
+msgid "Another one bites the dust!"
+msgstr ""
+
+msgctxt "Cynical1_Healed_by_ally_Self"
+msgid "I owe you one!"
+msgstr ""
+
+msgctxt "Cynical2_Healed_by_ally_Self"
+msgid "I kind of liked that."
+msgstr ""
+
+msgctxt "Cynical3_Healed_by_ally_Self"
+msgid "Thanks, I feel better."
+msgstr ""
+
+msgctxt "Cynical1_Allied_KnockedDown_Self"
+msgid "No!"
+msgstr ""
+
+msgctxt "Cynical2_Allied_KnockedDown_Self"
+msgid "Hold on!"
+msgstr ""
+
+msgctxt "Cynical3_Allied_KnockedDown_Self"
+msgid "We need you!"
+msgstr ""
+
+msgctxt "Cynical1_Trap_Trigerred_Other"
+msgid "Looks like you found something."
+msgstr ""
+
+msgctxt "Cynical2_Trap_Trigerred_Other"
+msgid "Really? You didn't see that?"
+msgstr ""
+
+msgctxt "Cynical3_Trap_Trigerred_Other"
+msgid "Only a fool would… oh, wait."
+msgstr ""
+
+msgctxt "Cynical1_Trap_Disarmed_Other"
+msgid "This was clearly broken already."
+msgstr ""
+
+msgctxt "Cynical2_Trap_Disarmed_Other"
+msgid "Just lucky, I guess."
+msgstr ""
+
+msgctxt "Cynical3_Trap_Disarmed_Other"
+msgid "Well! You're not completely useless after all!"
+msgstr ""
+
+msgctxt "Cynical1_Long_Jump_Other"
+msgid "You're not too rusty."
+msgstr ""
+
+msgctxt "Cynical2_Long_Jump_Other"
+msgid "Easy on your ankles!"
+msgstr ""
+
+msgctxt "Cynical3_Long_Jump_Other"
+msgid "Artistic note - not great."
+msgstr ""
+
+msgctxt "Cynical1_High_Climb_Other"
+msgid "Nice little warm-up."
+msgstr ""
+
+msgctxt "Cynical2_High_Climb_Other"
+msgid "I know kids who'd do that faster."
+msgstr ""
+
+msgctxt "Cynical3_High_Climb_Other"
+msgid "A real little goblin."
+msgstr ""
+
+msgctxt "Cynical1_Break_Stealth_Other"
+msgid "Did we not say \"silent\"?"
+msgstr ""
+
+msgctxt "Cynical2_Break_Stealth_Other"
+msgid "I thought we said \"cautious.\""
+msgstr ""
+
+msgctxt "Cynical3_Break_Stealth_Other"
+msgid "Can't say I'm surprised."
+msgstr ""
+
+msgctxt "Cynical1_Pushing_Heavy_Other"
+msgid "Heave ho!"
+msgstr ""
+
+msgctxt "Cynical2_Pushing_Heavy_Other"
+msgid "Come on - push!"
+msgstr ""
+
+msgctxt "Cynical1_Crawling_Other"
+msgid "You don't mind being on your knees, do you?"
+msgstr ""
+
+msgctxt "Cynical2_Crawling_Other"
+msgid "Looks like you've been doing that all your life."
+msgstr ""
+
+msgctxt "Cynical1_Critical_Hit_Received_Other"
+msgid "Hold it!"
+msgstr ""
+
+msgctxt "Cynical2_Critical_Hit_Received_Other"
+msgid "Stay with us!"
+msgstr ""
+
+msgctxt "Cynical1_Normal_Hit_Received_Other"
+msgid "Are you okay?"
+msgstr ""
+
+msgctxt "Cynical2_Normal_Hit_Received_Other"
+msgid "You've seen worse!"
+msgstr ""
+
+msgctxt "Cynical1_Critical_Hit_Given_Other"
+msgid "That's the way!"
+msgstr ""
+
+msgctxt "Cynical2_Critical_Hit_Given_Other"
+msgid "Nice!"
+msgstr ""
+
+msgctxt "Cynical3_Critical_Hit_Given_Other"
+msgid "Impressive!"
+msgstr ""
+
+msgctxt "Cynical1_Normal_Hit_Given_Other"
+msgid "Nice move!"
+msgstr ""
+
+msgctxt "Cynical2_Normal_Hit_Given_Other"
+msgid "Again!"
+msgstr ""
+
+msgctxt "Cynical3_Normal_Hit_Given_Other"
+msgid "Good!"
+msgstr ""
+
+msgctxt "Cynical1_Missed_Attack_Other"
+msgid "Come on, you can do better!"
+msgstr ""
+
+msgctxt "Cynical2_Missed_Attack_Other"
+msgid "Try again!"
+msgstr ""
+
+msgctxt "Cynical3_Missed_Attack_Other"
+msgid "Another miss?"
+msgstr ""
+
+msgctxt "Cynical1_Kill_Enemy_Other"
+msgid "Hey! That was mine!"
+msgstr ""
+
+msgctxt "Cynical2_Kill_Enemy_Other"
+msgid "That one didn't even fight back."
+msgstr ""
+
+msgctxt "Cynical3_Kill_Enemy_Other"
+msgid "Not too bad."
+msgstr ""
+
+msgctxt "Serious1_Trap_Detected_Self"
+msgid "Damn! A trap!"
+msgstr ""
+
+msgctxt "Serious2_Trap_Detected_Self"
+msgid "Stop! A trap!"
+msgstr ""
+
+msgctxt "Serious3_Trap_Detected_Self"
+msgid "There's a trap!"
+msgstr ""
+
+msgctxt "Serious1_Secret_door_Detected_Self"
+msgid "Hey - a secret door!"
+msgstr ""
+
+msgctxt "Serious2_Secret_door_Detected_Self"
+msgid "Found a door, here!"
+msgstr ""
+
+msgctxt "Serious3_Secret_door_Detected_Self"
+msgid "We have a hidden door!"
+msgstr ""
+
+msgctxt "Serious1_Trap_Trigerred_Self"
+msgid "Crap!"
+msgstr ""
+
+msgctxt "Serious2_Trap_Trigerred_Self"
+msgid "Damn it!"
+msgstr ""
+
+msgctxt "Serious3_Trap_Trigerred_Self"
+msgid "I hate those!"
+msgstr ""
+
+msgctxt "Serious1_Trap_Disarmed_Self"
+msgid "Easy."
+msgstr ""
+
+msgctxt "Serious2_Trap_Disarmed_Self"
+msgid "Piece of junk."
+msgstr ""
+
+msgctxt "Serious3_Trap_Disarmed_Self"
+msgid "Done and done."
+msgstr ""
+
+msgctxt "Serious1_Light_up_Self"
+msgid "I needed that."
+msgstr ""
+
+msgctxt "Serious2_Light_up_Self"
+msgid "Light, at last."
+msgstr ""
+
+msgctxt "Serious3_Light_up_Self"
+msgid "Light, my friend."
+msgstr ""
+
+msgctxt "Serious1_Break_Stealth_Self"
+msgid "Damn!"
+msgstr ""
+
+msgctxt "Serious2_Break_Stealth_Self"
+msgid "No!"
+msgstr ""
+
+msgctxt "Serious3_Break_Stealth_Self"
+msgid "Clumsy idiot!"
+msgstr ""
+
+msgctxt "Serious1_Critical_Hit_Given_Self"
+msgid "Bleed!"
+msgstr ""
+
+msgctxt "Serious2_Critical_Hit_Given_Self"
+msgid "Die!"
+msgstr ""
+
+msgctxt "Serious3_Critical_Hit_Given_Self"
+msgid "You like that?"
+msgstr ""
+
+msgctxt "Serious1_Normal_Hit_Given_Self"
+msgid "Take that!"
+msgstr ""
+
+msgctxt "Serious2_Normal_Hit_Given_Self"
+msgid "Wait till the next one!"
+msgstr ""
+
+msgctxt "Serious3_Normal_Hit_Given_Self"
+msgid "More coming your way."
+msgstr ""
+
+msgctxt "Serious4_Normal_Hit_Given_Self"
+msgid "You'll die like the rest!"
+msgstr ""
+
+msgctxt "Serious5_Normal_Hit_Given_Self"
+msgid "No quarter given!"
+msgstr ""
+
+msgctxt "Serious1_Missed_Attack_Self"
+msgid "Damn!"
+msgstr ""
+
+msgctxt "Serious2_Missed_Attack_Self"
+msgid "No!"
+msgstr ""
+
+msgctxt "Serious3_Missed_Attack_Self"
+msgid "Come on!"
+msgstr ""
+
+msgctxt "Serious4_Missed_Attack_Self"
+msgid "I won't miss next time!"
+msgstr ""
+
+msgctxt "Serious5_Missed_Attack_Self"
+msgid "You'll die anyway!"
+msgstr ""
+
+msgctxt "Serious1_Kill_Enemy_Self"
+msgid "I win again."
+msgstr ""
+
+msgctxt "Serious2_Kill_Enemy_Self"
+msgid "You lose."
+msgstr ""
+
+msgctxt "Serious3_Kill_Enemy_Self"
+msgid "Go to hell!"
+msgstr ""
+
+msgctxt "Serious4_Kill_Enemy_Self"
+msgid "You're not coming back."
+msgstr ""
+
+msgctxt "Serious5_Kill_Enemy_Self"
+msgid "You didn't get me."
+msgstr ""
+
+msgctxt "Serious1_Healed_by_ally_Self"
+msgid "Thanks."
+msgstr ""
+
+msgctxt "Serious2_Healed_by_ally_Self"
+msgid "I'll remember."
+msgstr ""
+
+msgctxt "Serious3_Healed_by_ally_Self"
+msgid "I owe you one."
+msgstr ""
+
+msgctxt "Serious1_Allied_KnockedDown_Self"
+msgid "Come on! "
+msgstr ""
+
+msgctxt "Serious2_Allied_KnockedDown_Self"
+msgid "Don't let me down!"
+msgstr ""
+
+msgctxt "Serious3_Allied_KnockedDown_Self"
+msgid "No!"
+msgstr ""
+
+msgctxt "Serious1_Trap_Trigerred_Other"
+msgid "What an idiot!"
+msgstr ""
+
+msgctxt "Serious2_Trap_Trigerred_Other"
+msgid "Open your damn eyes!"
+msgstr ""
+
+msgctxt "Serious3_Trap_Trigerred_Other"
+msgid "Pay attention!"
+msgstr ""
+
+msgctxt "Serious1_Trap_Disarmed_Other"
+msgid "Well done!"
+msgstr ""
+
+msgctxt "Serious2_Trap_Disarmed_Other"
+msgid "One less problem."
+msgstr ""
+
+msgctxt "Serious3_Trap_Disarmed_Other"
+msgid "I hate those!"
+msgstr ""
+
+msgctxt "Serious1_Long_Jump_Other"
+msgid "That was something!"
+msgstr ""
+
+msgctxt "Serious2_Long_Jump_Other"
+msgid "Nice jump!"
+msgstr ""
+
+msgctxt "Serious3_Long_Jump_Other"
+msgid "Well done!"
+msgstr ""
+
+msgctxt "Serious1_High_Climb_Other"
+msgid "Good arms you got!"
+msgstr ""
+
+msgctxt "Serious2_High_Climb_Other"
+msgid "Didn't think you could do it!"
+msgstr ""
+
+msgctxt "Serious3_High_Climb_Other"
+msgid "Okay, you're tough."
+msgstr ""
+
+msgctxt "Serious1_Break_Stealth_Other"
+msgid "Clumsy!"
+msgstr ""
+
+msgctxt "Serious2_Break_Stealth_Other"
+msgid "I don't believe it!"
+msgstr ""
+
+msgctxt "Serious3_Break_Stealth_Other"
+msgid "You'll get us all killed!"
+msgstr ""
+
+msgctxt "Serious1_Pushing_Heavy_Other"
+msgid "Come on, harder!"
+msgstr ""
+
+msgctxt "Serious2_Pushing_Heavy_Other"
+msgid "Push!"
+msgstr ""
+
+msgctxt "Serious1_Crawling_Other"
+msgid "Dive in the dirt, now."
+msgstr ""
+
+msgctxt "Serious2_Crawling_Other"
+msgid "Crawling through dirt - nothing new here."
+msgstr ""
+
+msgctxt "Serious1_Critical_Hit_Received_Other"
+msgid "You'll get a nice scar!"
+msgstr ""
+
+msgctxt "Serious2_Critical_Hit_Received_Other"
+msgid "If it doesn't kill you…"
+msgstr ""
+
+msgctxt "Serious1_Normal_Hit_Received_Other"
+msgid "Walk it off!"
+msgstr ""
+
+msgctxt "Serious2_Normal_Hit_Received_Other"
+msgid "Deal with it!"
+msgstr ""
+
+msgctxt "Serious1_Critical_Hit_Given_Other"
+msgid "That's the way!"
+msgstr ""
+
+msgctxt "Serious2_Critical_Hit_Given_Other"
+msgid "Kill 'em all!"
+msgstr ""
+
+msgctxt "Serious3_Critical_Hit_Given_Other"
+msgid "Crush 'em!"
+msgstr ""
+
+msgctxt "Serious1_Normal_Hit_Given_Other"
+msgid "Again! Harder!"
+msgstr ""
+
+msgctxt "Serious2_Normal_Hit_Given_Other"
+msgid "More!"
+msgstr ""
+
+msgctxt "Serious3_Normal_Hit_Given_Other"
+msgid "That's battle!"
+msgstr ""
+
+msgctxt "Serious1_Missed_Attack_Other"
+msgid "You suck!"
+msgstr ""
+
+msgctxt "Serious2_Missed_Attack_Other"
+msgid "Stop that!"
+msgstr ""
+
+msgctxt "Serious3_Missed_Attack_Other"
+msgid "I thought you could fight!"
+msgstr ""
+
+msgctxt "Serious1_Kill_Enemy_Other"
+msgid "That, I like!"
+msgstr ""
+
+msgctxt "Serious2_Kill_Enemy_Other"
+msgid "Keep 'em coming!"
+msgstr ""
+
+msgctxt "Serious3_Kill_Enemy_Other"
+msgid "Good kill!"
+msgstr ""
+
+msgctxt "Heroic1_Trap_Detected_Self"
+msgid "Hold it - I see a trap!"
+msgstr ""
+
+msgctxt "Heroic2_Trap_Detected_Self"
+msgid "Everybody freeze!"
+msgstr ""
+
+msgctxt "Heroic3_Trap_Detected_Self"
+msgid "Wait! I see a trap."
+msgstr ""
+
+msgctxt "Heroic1_Secret_door_Detected_Self"
+msgid "Friends! There's a hidden door here!"
+msgstr ""
+
+msgctxt "Heroic2_Secret_door_Detected_Self"
+msgid "Look at that - a secret door!"
+msgstr ""
+
+msgctxt "Heroic3_Secret_door_Detected_Self"
+msgid "Thought I'd miss you, eh?"
+msgstr ""
+
+msgctxt "Heroic1_Trap_Trigerred_Self"
+msgid "No!"
+msgstr ""
+
+msgctxt "Heroic2_Trap_Trigerred_Self"
+msgid "Sorry for that!"
+msgstr ""
+
+msgctxt "Heroic3_Trap_Trigerred_Self"
+msgid "I'm such an idiot!"
+msgstr ""
+
+msgctxt "Heroic1_Trap_Disarmed_Self"
+msgid "That wasn't so bad."
+msgstr ""
+
+msgctxt "Heroic2_Trap_Disarmed_Self"
+msgid "I think I did it."
+msgstr ""
+
+msgctxt "Heroic3_Trap_Disarmed_Self"
+msgid "Mission accomplished."
+msgstr ""
+
+msgctxt "Heroic1_Light_up_Self"
+msgid "The Light is with us."
+msgstr ""
+
+msgctxt "Heroic2_Light_up_Self"
+msgid "The Light will guide us."
+msgstr ""
+
+msgctxt "Heroic3_Light_up_Self"
+msgid "We bring light in darkness!"
+msgstr ""
+
+msgctxt "Heroic1_Break_Stealth_Self"
+msgid "Oops!"
+msgstr ""
+
+msgctxt "Heroic2_Break_Stealth_Self"
+msgid "Sorry!"
+msgstr ""
+
+msgctxt "Heroic3_Break_Stealth_Self"
+msgid "I know, I know!"
+msgstr ""
+
+msgctxt "Heroic1_Critical_Hit_Given_Self"
+msgid "Surrender or die!"
+msgstr ""
+
+msgctxt "Heroic2_Critical_Hit_Given_Self"
+msgid "I take no prisoners!"
+msgstr ""
+
+msgctxt "Heroic3_Critical_Hit_Given_Self"
+msgid "I will kill you."
+msgstr ""
+
+msgctxt "Heroic1_Normal_Hit_Given_Self"
+msgid "Bend the knee or perish!"
+msgstr ""
+
+msgctxt "Heroic2_Normal_Hit_Given_Self"
+msgid "Run while you can!"
+msgstr ""
+
+msgctxt "Heroic3_Normal_Hit_Given_Self"
+msgid "You can't win!"
+msgstr ""
+
+msgctxt "Heroic4_Normal_Hit_Given_Self"
+msgid "I am unbeatable!"
+msgstr ""
+
+msgctxt "Heroic5_Normal_Hit_Given_Self"
+msgid "You cannot defeat me!"
+msgstr ""
+
+msgctxt "Heroic1_Missed_Attack_Self"
+msgid "Damn!"
+msgstr ""
+
+msgctxt "Heroic2_Missed_Attack_Self"
+msgid "Come on!"
+msgstr ""
+
+msgctxt "Heroic3_Missed_Attack_Self"
+msgid "I must do better!"
+msgstr ""
+
+msgctxt "Heroic4_Missed_Attack_Self"
+msgid "I'm getting the measure of this!"
+msgstr ""
+
+msgctxt "Heroic5_Missed_Attack_Self"
+msgid "Next time!"
+msgstr ""
+
+msgctxt "Heroic1_Kill_Enemy_Self"
+msgid "Once more, we prevail!"
+msgstr ""
+
+msgctxt "Heroic2_Kill_Enemy_Self"
+msgid "Another victory! This is destiny!"
+msgstr ""
+
+msgctxt "Heroic3_Kill_Enemy_Self"
+msgid "You were doomed."
+msgstr ""
+
+msgctxt "Heroic4_Kill_Enemy_Self"
+msgid "You should have fled."
+msgstr ""
+
+msgctxt "Heroic5_Kill_Enemy_Self"
+msgid "You should have yielded."
+msgstr ""
+
+msgctxt "Heroic1_Healed_by_ally_Self"
+msgid "I'm in your debt, my friend."
+msgstr ""
+
+msgctxt "Heroic2_Healed_by_ally_Self"
+msgid "I will not forget this."
+msgstr ""
+
+msgctxt "Heroic3_Healed_by_ally_Self"
+msgid "I owe you my life."
+msgstr ""
+
+msgctxt "Heroic1_Allied_KnockedDown_Self"
+msgid "Hold on to life, friend!"
+msgstr ""
+
+msgctxt "Heroic2_Allied_KnockedDown_Self"
+msgid "We won't let you die!"
+msgstr ""
+
+msgctxt "Heroic3_Allied_KnockedDown_Self"
+msgid "We leave no one behind!"
+msgstr ""
+
+msgctxt "Heroic1_Trap_Trigerred_Other"
+msgid "Closer attention required, friend!"
+msgstr ""
+
+msgctxt "Heroic2_Trap_Trigerred_Other"
+msgid "You're lacking focus."
+msgstr ""
+
+msgctxt "Heroic3_Trap_Trigerred_Other"
+msgid "A little bit of caution here, please?"
+msgstr ""
+
+msgctxt "Heroic1_Trap_Disarmed_Other"
+msgid "Good work!"
+msgstr ""
+
+msgctxt "Heroic2_Trap_Disarmed_Other"
+msgid "Well done, friend!"
+msgstr ""
+
+msgctxt "Heroic3_Trap_Disarmed_Other"
+msgid "Your skills are impressive!"
+msgstr ""
+
+msgctxt "Heroic1_Long_Jump_Other"
+msgid "What a fantastic leap!"
+msgstr ""
+
+msgctxt "Heroic2_Long_Jump_Other"
+msgid "You have trained well!"
+msgstr ""
+
+msgctxt "Heroic3_Long_Jump_Other"
+msgid "I'm impressed!"
+msgstr ""
+
+msgctxt "Heroic1_High_Climb_Other"
+msgid "That's impressive."
+msgstr ""
+
+msgctxt "Heroic2_High_Climb_Other"
+msgid "You're impressively fit."
+msgstr ""
+
+msgctxt "Heroic3_High_Climb_Other"
+msgid "I underestimated you. My apologies!"
+msgstr ""
+
+msgctxt "Heroic1_Break_Stealth_Other"
+msgid "That wasn't smart."
+msgstr ""
+
+msgctxt "Heroic2_Break_Stealth_Other"
+msgid "You'll need to do better than that!"
+msgstr ""
+
+msgctxt "Heroic3_Break_Stealth_Other"
+msgid "More caution next time!"
+msgstr ""
+
+msgctxt "Heroic1_Pushing_Heavy_Other"
+msgid "With all your might!"
+msgstr ""
+
+msgctxt "Heroic2_Pushing_Heavy_Other"
+msgid "You can do it!"
+msgstr ""
+
+msgctxt "Heroic1_Crawling_Other"
+msgid "Sometimes there is simply no choice."
+msgstr ""
+
+msgctxt "Heroic2_Crawling_Other"
+msgid "I don't like it either."
+msgstr ""
+
+msgctxt "Heroic1_Critical_Hit_Received_Other"
+msgid "Courage!"
+msgstr ""
+
+msgctxt "Heroic2_Critical_Hit_Received_Other"
+msgid "You're still standing!"
+msgstr ""
+
+msgctxt "Heroic1_Normal_Hit_Received_Other"
+msgid "You can take it!"
+msgstr ""
+
+msgctxt "Heroic2_Normal_Hit_Received_Other"
+msgid "Shake it off!"
+msgstr ""
+
+msgctxt "Heroic1_Critical_Hit_Given_Other"
+msgid "That's the way!"
+msgstr ""
+
+msgctxt "Heroic2_Critical_Hit_Given_Other"
+msgid "Masterful!"
+msgstr ""
+
+msgctxt "Heroic3_Critical_Hit_Given_Other"
+msgid "You'll surely prevail!"
+msgstr ""
+
+msgctxt "Heroic1_Normal_Hit_Given_Other"
+msgid "Well struck!"
+msgstr ""
+
+msgctxt "Heroic2_Normal_Hit_Given_Other"
+msgid "Perfect!"
+msgstr ""
+
+msgctxt "Heroic3_Normal_Hit_Given_Other"
+msgid "Go on!"
+msgstr ""
+
+msgctxt "Heroic1_Missed_Attack_Other"
+msgid "Better luck next time!"
+msgstr ""
+
+msgctxt "Heroic2_Missed_Attack_Other"
+msgid "Don't lose hope!"
+msgstr ""
+
+msgctxt "Heroic3_Missed_Attack_Other"
+msgid "Just bad luck!"
+msgstr ""
+
+msgctxt "Heroic1_Kill_Enemy_Other"
+msgid "Victory is yours!"
+msgstr ""
+
+msgctxt "Heroic2_Kill_Enemy_Other"
+msgid "Impressive move, my friend!"
+msgstr ""
+
+msgctxt "Heroic3_Kill_Enemy_Other"
+msgid "Nobody has your skills, bravo!"
+msgstr ""
+
+msgctxt "Formal1_Trap_Detected_Self"
+msgid "A crude trap."
+msgstr ""
+
+msgctxt "Formal2_Trap_Detected_Self"
+msgid "We won't be fooled so easily."
+msgstr ""
+
+msgctxt "Formal3_Trap_Detected_Self"
+msgid "I spotted a trap of sorts."
+msgstr ""
+
+msgctxt "Formal1_Secret_door_Detected_Self"
+msgid "I believe there is a hidden door."
+msgstr ""
+
+msgctxt "Formal2_Secret_door_Detected_Self"
+msgid "This has to be a secret passage."
+msgstr ""
+
+msgctxt "Formal3_Secret_door_Detected_Self"
+msgid "Interesting - a secret door."
+msgstr ""
+
+msgctxt "Formal1_Trap_Trigerred_Self"
+msgid "How foolish of me!"
+msgstr ""
+
+msgctxt "Formal2_Trap_Trigerred_Self"
+msgid "How could I miss it?"
+msgstr ""
+
+msgctxt "Formal3_Trap_Trigerred_Self"
+msgid "I really must be more careful."
+msgstr ""
+
+msgctxt "Formal1_Trap_Disarmed_Self"
+msgid "That was simplicity itself!"
+msgstr ""
+
+msgctxt "Formal2_Trap_Disarmed_Self"
+msgid "Not as taxing as I expected."
+msgstr ""
+
+msgctxt "Formal3_Trap_Disarmed_Self"
+msgid "Ingenious, but not unbeatable."
+msgstr ""
+
+msgctxt "Formal1_Light_up_Self"
+msgid "A little light is always welcome."
+msgstr ""
+
+msgctxt "Formal2_Light_up_Self"
+msgid "Let there be light!"
+msgstr ""
+
+msgctxt "Formal3_Light_up_Self"
+msgid "Blessed are the Lightbringers!"
+msgstr ""
+
+msgctxt "Formal1_Break_Stealth_Self"
+msgid "Curses! My fault."
+msgstr ""
+
+msgctxt "Formal2_Break_Stealth_Self"
+msgid "I really thought I… never mind."
+msgstr ""
+
+msgctxt "Formal3_Break_Stealth_Self"
+msgid "How tiresome."
+msgstr ""
+
+msgctxt "Formal1_Critical_Hit_Given_Self"
+msgid "Hah! Take that, you fiend!"
+msgstr ""
+
+msgctxt "Formal2_Critical_Hit_Given_Self"
+msgid "Just where it hurts most!"
+msgstr ""
+
+msgctxt "Formal3_Critical_Hit_Given_Self"
+msgid "Death reaches out for you!"
+msgstr ""
+
+msgctxt "Formal1_Normal_Hit_Given_Self"
+msgid "Not bad, eh?"
+msgstr ""
+
+msgctxt "Formal2_Normal_Hit_Given_Self"
+msgid "A modest success!"
+msgstr ""
+
+msgctxt "Formal3_Normal_Hit_Given_Self"
+msgid "A palpable hit!"
+msgstr ""
+
+msgctxt "Formal4_Normal_Hit_Given_Self"
+msgid "Lucky? Perhaps."
+msgstr ""
+
+msgctxt "Formal5_Normal_Hit_Given_Self"
+msgid "I trained hard for this!"
+msgstr ""
+
+msgctxt "Formal1_Missed_Attack_Self"
+msgid "Fortune is fickle!"
+msgstr ""
+
+msgctxt "Formal2_Missed_Attack_Self"
+msgid "Most unfortunate, that."
+msgstr ""
+
+msgctxt "Formal3_Missed_Attack_Self"
+msgid "Only the last blow matters!"
+msgstr ""
+
+msgctxt "Formal4_Missed_Attack_Self"
+msgid "Next time, I swear…"
+msgstr ""
+
+msgctxt "Formal5_Missed_Attack_Self"
+msgid "I'll get you yet!"
+msgstr ""
+
+msgctxt "Formal1_Kill_Enemy_Self"
+msgid "One foe down!"
+msgstr ""
+
+msgctxt "Formal2_Kill_Enemy_Self"
+msgid "Death claims you!"
+msgstr ""
+
+msgctxt "Formal3_Kill_Enemy_Self"
+msgid "Victory is mine!"
+msgstr ""
+
+msgctxt "Formal4_Kill_Enemy_Self"
+msgid "A victory fit for a song!"
+msgstr ""
+
+msgctxt "Formal5_Kill_Enemy_Self"
+msgid "Another victory!"
+msgstr ""
+
+msgctxt "Formal1_Healed_by_ally_Self"
+msgid "You are a true savior."
+msgstr ""
+
+msgctxt "Formal2_Healed_by_ally_Self"
+msgid "You are a valued comrade."
+msgstr ""
+
+msgctxt "Formal3_Healed_by_ally_Self"
+msgid "I am in your debt, my friend."
+msgstr ""
+
+msgctxt "Formal1_Allied_KnockedDown_Self"
+msgid "The fight is not yet over!"
+msgstr ""
+
+msgctxt "Formal2_Allied_KnockedDown_Self"
+msgid "Your comrades will save you!"
+msgstr ""
+
+msgctxt "Formal3_Allied_KnockedDown_Self"
+msgid "We are coming!"
+msgstr ""
+
+msgctxt "Formal1_Trap_Trigerred_Other"
+msgid "Tsk. An elementary mistake."
+msgstr ""
+
+msgctxt "Formal2_Trap_Trigerred_Other"
+msgid "Watch your step, friend!"
+msgstr ""
+
+msgctxt "Formal3_Trap_Trigerred_Other"
+msgid "A dangerous error."
+msgstr ""
+
+msgctxt "Formal1_Trap_Disarmed_Other"
+msgid "Perfectly executed!"
+msgstr ""
+
+msgctxt "Formal2_Trap_Disarmed_Other"
+msgid "My congratulations on a job well done."
+msgstr ""
+
+msgctxt "Formal3_Trap_Disarmed_Other"
+msgid "Your skill is impressive."
+msgstr ""
+
+msgctxt "Formal1_Long_Jump_Other"
+msgid "An extraordinary jump!"
+msgstr ""
+
+msgctxt "Formal2_Long_Jump_Other"
+msgid "Most impressive!"
+msgstr ""
+
+msgctxt "Formal3_Long_Jump_Other"
+msgid "Such athleticism!"
+msgstr ""
+
+msgctxt "Formal1_High_Climb_Other"
+msgid "What strength!"
+msgstr ""
+
+msgctxt "Formal2_High_Climb_Other"
+msgid "It seems effortless!"
+msgstr ""
+
+msgctxt "Formal3_High_Climb_Other"
+msgid "Clearly you have trained well."
+msgstr ""
+
+msgctxt "Formal1_Break_Stealth_Other"
+msgid "Even the dead could hear you!"
+msgstr ""
+
+msgctxt "Formal2_Break_Stealth_Other"
+msgid "Of course you've been detected!"
+msgstr ""
+
+msgctxt "Formal3_Break_Stealth_Other"
+msgid "Perhaps if you tried to be loud, instead?"
+msgstr ""
+
+msgctxt "Formal1_Pushing_Heavy_Other"
+msgid "You can do it!"
+msgstr ""
+
+msgctxt "Formal2_Pushing_Heavy_Other"
+msgid "Heave, now - all your strength!"
+msgstr ""
+
+msgctxt "Formal1_Crawling_Other"
+msgid "Undignified, but necessary."
+msgstr ""
+
+msgctxt "Formal2_Crawling_Other"
+msgid "Kneel now, rise later."
+msgstr ""
+
+msgctxt "Formal1_Critical_Hit_Received_Other"
+msgid "Are you still with us?"
+msgstr ""
+
+msgctxt "Formal2_Critical_Hit_Received_Other"
+msgid "That was a lucky hit!"
+msgstr ""
+
+msgctxt "Formal1_Normal_Hit_Received_Other"
+msgid "Hold firm - you've endured worse!"
+msgstr ""
+
+msgctxt "Formal2_Normal_Hit_Received_Other"
+msgid "You're still in the fight, my friend!"
+msgstr ""
+
+msgctxt "Formal1_Critical_Hit_Given_Other"
+msgid "A telling blow!"
+msgstr ""
+
+msgctxt "Formal2_Critical_Hit_Given_Other"
+msgid "A fine stroke!"
+msgstr ""
+
+msgctxt "Formal3_Critical_Hit_Given_Other"
+msgid "Truly formidable!"
+msgstr ""
+
+msgctxt "Formal1_Normal_Hit_Given_Other"
+msgid "Well struck!"
+msgstr ""
+
+msgctxt "Formal2_Normal_Hit_Given_Other"
+msgid "Well done!"
+msgstr ""
+
+msgctxt "Formal3_Normal_Hit_Given_Other"
+msgid "You have them now!"
+msgstr ""
+
+msgctxt "Formal1_Missed_Attack_Other"
+msgid "Oh! Bad luck!"
+msgstr ""
+
+msgctxt "Formal2_Missed_Attack_Other"
+msgid "Next time!"
+msgstr ""
+
+msgctxt "Formal3_Missed_Attack_Other"
+msgid "Try again!"
+msgstr ""
+
+msgctxt "Formal1_Kill_Enemy_Other"
+msgid "Bravo! Victory is yours!"
+msgstr ""
+
+msgctxt "Formal2_Kill_Enemy_Other"
+msgid "A good kill, as they say."
+msgstr ""
+
+msgctxt "Formal3_Kill_Enemy_Other"
+msgid "One less enemy!"
+msgstr ""
+
+msgctxt "None1_Thief_Detected_Self"
+msgid "Leave me be, you thief!"
+msgstr ""
+
+msgctxt "None2_Thief_Detected_Self"
+msgid "Damn thieves…"
+msgstr ""
+
+msgctxt "None3_Thief_Detected_Self"
+msgid "Hands off!"
+msgstr ""
+
+msgctxt "None4_Thief_Detected_Self"
+msgid "So this is who you are?"
+msgstr ""

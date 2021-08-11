@@ -1,0 +1,135 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "CurrentAndTemporaryHitPointsDescription"
+msgid ""
+"This creature's current hit points + temporary hit points. Temporary hit "
+"points are lost first.  "
+msgstr ""
+
+msgctxt "CurrentHitPointsDescription"
+msgid "This creature's current hit points."
+msgstr ""
+
+msgctxt "DifficultyEasyFormat"
+msgid "Easy"
+msgstr ""
+
+msgctxt "DifficultyHardFormat"
+msgid "Hard"
+msgstr ""
+
+msgctxt "DifficultyMediumFormat"
+msgid "Medium"
+msgstr ""
+
+msgctxt "DifficultyVeryHardFormat"
+msgid "Very Hard"
+msgstr ""
+
+msgctxt "HealthPlusTemporaryFormat"
+msgid "{0} + {1}"
+msgstr ""
+
+msgctxt "ItemIdentifiedTitle"
+msgid "The item has been identified: {0}"
+msgstr ""
+
+msgctxt "LevelAndClassAndSubclassFormat"
+msgid "lvl {0} {1} ({2})"
+msgstr ""
+
+msgctxt "LevelAndClassNoSubclassFormat"
+msgid "lvl {0} {1}"
+msgstr ""
+
+msgctxt "LevelAndExperienceFormat"
+msgid ""
+"Level {0}, Experience: {1}\n"
+"{2} more experience points required to reach level {3}"
+msgstr ""
+
+msgctxt "LevelAndExperienceMaxedFormat"
+msgid ""
+"Level {0}, Experience: {1}\n"
+"Max level reached."
+msgstr ""
+
+msgctxt "LevelFormat"
+msgid "Level {0}"
+msgstr ""
+
+msgctxt "MaxHealthFormat"
+msgid "of {0} HP"
+msgstr ""
+
+msgctxt "Rank1Title"
+msgid "1st"
+msgstr ""
+
+msgctxt "Rank2Title"
+msgid "2nd"
+msgstr ""
+
+msgctxt "Rank3Title"
+msgid "3rd"
+msgstr ""
+
+msgctxt "Rank4Title"
+msgid "4th"
+msgstr ""
+
+msgctxt "Rank5Title"
+msgid "5th"
+msgstr ""
+
+msgctxt "Rank6Title"
+msgid "6th"
+msgstr ""
+
+msgctxt "Rank7Title"
+msgid "7th"
+msgstr ""
+
+msgctxt "Rank8Title"
+msgid "8th"
+msgstr ""
+
+msgctxt "Rank9Title"
+msgid "9th"
+msgstr ""
+
+msgctxt "RevealedEvilTitle"
+msgid "Malign"
+msgstr ""
+
+msgctxt "RevealedGoodTitle"
+msgid "Benevolent"
+msgstr ""
+
+msgctxt "RevealedMagicalTitle"
+msgid "Magic Detected"
+msgstr ""
+
+msgctxt "RevealedPoisonTitle"
+msgid "Poisonous"
+msgstr ""
+
+msgctxt "WorldDistanceFormat"
+msgid "{0} Miles"
+msgstr ""
+
+msgctxt "ItemIdentifiedNothingNewTitle"
+msgid "Nothing more found on the {0} item"
+msgstr ""

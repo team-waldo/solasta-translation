@@ -1,0 +1,121 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "EyesBlackTitle"
+msgid "Black"
+msgstr ""
+
+msgctxt "EyesBlueTitle"
+msgid "Blue"
+msgstr ""
+
+msgctxt "EyesBrownTitle"
+msgid "Brown"
+msgstr ""
+
+msgctxt "EyesGoldenTitle"
+msgid "Golden"
+msgstr ""
+
+msgctxt "EyesGreenTitle"
+msgid "Green"
+msgstr ""
+
+msgctxt "EyesHazelTitle"
+msgid "Hazel"
+msgstr ""
+
+msgctxt "EyesLavenderTitle"
+msgid "Lavender"
+msgstr ""
+
+msgctxt "EyesRedTitle"
+msgid "Red"
+msgstr ""
+
+msgctxt "EyesSilverTitle"
+msgid "Silver"
+msgstr ""
+
+msgctxt "HairBlackTitle"
+msgid "Black"
+msgstr ""
+
+msgctxt "HairBlondTitle"
+msgid "Blond"
+msgstr ""
+
+msgctxt "HairBlueTitle"
+msgid "Blue"
+msgstr ""
+
+msgctxt "HairBrownTitle"
+msgid "Brown"
+msgstr ""
+
+msgctxt "HairCopperTitle"
+msgid "Copper"
+msgstr ""
+
+msgctxt "HairOliveTitle"
+msgid "Olive"
+msgstr ""
+
+msgctxt "HairRedTitle"
+msgid "Red"
+msgstr ""
+
+msgctxt "HairRoseTitle"
+msgid "Pink"
+msgstr ""
+
+msgctxt "HairSandyBrownTitle"
+msgid "Sandy Brown"
+msgstr ""
+
+msgctxt "HairSilverTitle"
+msgid "Silver"
+msgstr ""
+
+msgctxt "HairWhiteTitle"
+msgid "White"
+msgstr ""
+
+msgctxt "SkinAlabasterBlueTitle"
+msgid "Alabaster Blue"
+msgstr ""
+
+msgctxt "SkinBronzeTitle"
+msgid "Bronze"
+msgstr ""
+
+msgctxt "SkinCopperishTitle"
+msgid "Coppery"
+msgstr ""
+
+msgctxt "SkinFairTitle"
+msgid "Fair"
+msgstr ""
+
+msgctxt "SkinObsidianTitle"
+msgid "Obsidian"
+msgstr ""
+
+msgctxt "SkinPaleTitle"
+msgid "Pale"
+msgstr ""
+
+msgctxt "SkinTanTitle"
+msgid "Tan"
+msgstr ""

@@ -1,0 +1,418 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 23:46+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "FactionRelicInterestedFactionsTitle"
+msgid "Interested Factions"
+msgstr "관심 세력"
+
+msgctxt "FatigueExhaustedDescription"
+msgid "The party is completely exhausted and must rest."
+msgstr "파티는 완전히 지쳤고 쉬어야 합니다."
+
+msgctxt "FatigueExhaustedTitle"
+msgid "Exhausted"
+msgstr "탈진 한"
+
+msgctxt "FatigueFreshDescription"
+msgid "The party is fresh and can keep on traveling."
+msgstr "파티는 신선하고 여행을 계속할 수 있습니다."
+
+msgctxt "FatigueFreshTitle"
+msgid "Fresh"
+msgstr "신선한"
+
+msgctxt "FatigueImpededDescription"
+msgid "The party is slightly tired but can keep traveling."
+msgstr "파티는 약간 피곤하지만 여행을 계속할 수 있습니다."
+
+msgctxt "FatigueImpededTitle"
+msgid "Impeded"
+msgstr "방해"
+
+msgctxt "PaceFastDescription"
+msgid ""
+"The party travels quickly (36 miles per day), at the expense of stealth and "
+"perception."
+msgstr "파티는 은신과 지각을 희생하면서 빠르게(하루에 36마일) 이동합니다."
+
+msgctxt "PaceFastTitle"
+msgid "Fast"
+msgstr "빠른"
+
+msgctxt "PaceNormalDescription"
+msgid ""
+"The party travels at a normal pace (24 miles a day), striking a good balance "
+"between speed and awareness of its surroundings."
+msgstr "일행은 정상적인 속도로(하루 24마일) 이동하며 속도와 주변 환경에 대한 인식 사이의 균형을 잘 유지합니다."
+
+msgctxt "PaceNormalTitle"
+msgid "Normal"
+msgstr "정상"
+
+msgctxt "PaceSlowDescription"
+msgid ""
+"The party travels slowly (16 miles per day), paying more attention to the "
+"surroundings and being less noticeable."
+msgstr "파티는 천천히(하루에 16마일) 이동하여 주변 환경에 더 주의를 기울이고 눈에 띄지 않습니다."
+
+msgctxt "PaceSlowTitle"
+msgid "Slow"
+msgstr "느린"
+
+msgctxt "StandardCampActivity01Title"
+msgid "{0} does some weapons maintenance."
+msgstr "{0}은(는) 일부 무기 유지보수를 수행합니다."
+
+msgctxt "StandardCampActivity02Title"
+msgid "{0} performs armor maintenance."
+msgstr "{0}은 갑옷 유지 관리를 수행합니다."
+
+msgctxt "StandardCampActivity03Title"
+msgid "{0} cooks a nice meal for the party."
+msgstr "{0}은(는) 파티를 위해 멋진 식사를 준비합니다."
+
+msgctxt "StandardCampActivity04Title"
+msgid "{0} performs mental exercises."
+msgstr "{0}은 정신 운동을 수행합니다."
+
+msgctxt "StandardCampActivity05Title"
+msgid "{0} prays."
+msgstr "{0}은(는) 기도합니다."
+
+msgctxt "StandardCampActivity06Title"
+msgid "{0} tells old war stories."
+msgstr "{0}은(는) 오래된 전쟁 이야기를 들려줍니다."
+
+msgctxt "StandardCampActivity07Title"
+msgid ""
+"{0} starts a heated political discussion about the Principality of Masgarth."
+msgstr "{0}은(는) Masgarth 공국에 대한 열띤 정치적 토론을 시작합니다."
+
+msgctxt "StandardCampActivity08Title"
+msgid "{0} starts a discussion about deities and religions."
+msgstr "{0}은(는) 신과 종교에 대한 토론을 시작합니다."
+
+msgctxt "StandardCampActivity09Title"
+msgid "{0} starts a game of dice."
+msgstr "{0}은(는) 주사위 게임을 시작합니다."
+
+msgctxt "StandardCampActivity10Title"
+msgid "{0} starts singing an old song."
+msgstr "{0}은(는) 오래된 노래를 부르기 시작합니다."
+
+msgctxt "StandardCampActivity11Title"
+msgid "{0} starts a game of dice."
+msgstr "{0}은(는) 주사위 게임을 시작합니다."
+
+msgctxt "StandardCampActivity12Title"
+msgid "{0} starts a game of cards."
+msgstr "{0}은(는) 카드 게임을 시작합니다."
+
+msgctxt "StandardRandomEvents10Title"
+msgid "{0} stops near a shrine to pray."
+msgstr "{0}은(는) 기도하기 위해 신사 근처에 멈춥니다."
+
+msgctxt "StandardRandomEvents11Title"
+msgid "{0} works on martial arts training exercises."
+msgstr "{0}은(는) 무술 훈련 연습을 합니다."
+
+msgctxt "StandardRandomEvents1Title"
+msgid "The party comes across a band of mercenaries."
+msgstr "파티는 용병 무리를 만납니다."
+
+msgctxt "StandardRandomEvents2Title"
+msgid ""
+"The party passes an old Imperial marketplace, now used as a meeting point "
+"for Scavengers."
+msgstr "파티는 현재 Scavengers의 만남의 장소로 사용되는 오래된 제국 시장을 지나갑니다."
+
+msgctxt "StandardRandomEvents3Title"
+msgid ""
+"The party passes an ancient tree, old enough to have survived the Cataclysm."
+msgstr "일행은 대격변에서 살아남을 수 있을 만큼 오래된 고대 나무를 지나갑니다."
+
+msgctxt "StandardRandomEvents4Title"
+msgid "The party meets a wandering scholar from Gallivan."
+msgstr "일행은 갈리반에서 온 떠돌이 학자를 만난다."
+
+msgctxt "StandardRandomEvents5Title"
+msgid "The party meets a band of Pilgrims on their way to the Einareum."
+msgstr "일행은 에이나름으로 가는 길에 순례자 무리를 만난다."
+
+msgctxt "StandardRandomEvents6Title"
+msgid ""
+"The party comes across some wounded dwarf mercenaries and tends to their "
+"wounds."
+msgstr "일행은 부상당한 드워프 용병들을 만나 그들의 상처를 돌본다."
+
+msgctxt "StandardRandomEvents7Title"
+msgid ""
+"The party comes across a messenger whose horse has been spooked. {0} calms "
+"the animal and is gratefully thanked."
+msgstr "일행은 말이 겁에 질린 전령을 만난다. {0}은(는) 동물을 진정시키고 감사한 마음을 전합니다."
+
+msgctxt "StandardRandomEvents8Title"
+msgid "{0} plays a game of dice with a wandering scholar."
+msgstr "{0}은(는) 방황하는 학자와 주사위 게임을 합니다."
+
+msgctxt "StandardRandomEvents9Title"
+msgid "{0} plays a tune on the flute."
+msgstr "{0}은 플루트를 연주합니다."
+
+msgctxt "TravelActivityCampTitle"
+msgid "Camp"
+msgstr "캠프"
+
+msgctxt "TravelActivityExplorationTitle"
+msgid "Exploration"
+msgstr "탐구"
+
+msgctxt "TravelActivityLongRestTitle"
+msgid "Rest"
+msgstr "쉬다"
+
+msgctxt "TravelActivityNavigateTitle"
+msgid "Navigate"
+msgstr "탐색"
+
+msgctxt "TravelActivityStandByTitle"
+msgid "Standby"
+msgstr "대기"
+
+msgctxt "TravelEventCraftingProgressFailure1Title"
+msgid "{0} faces a setback while crafting the {1}: no progress."
+msgstr "{0}은(는) {1}을(를) 만드는 동안 차질에 직면했습니다. 진행 상황이 없습니다."
+
+msgctxt "TravelEventCraftingProgressFinishedTitle"
+msgid "{0} has finished crafting the {1}."
+msgstr "{0}이(가) {1} 제작을 완료했습니다."
+
+msgctxt "TravelEventCraftingProgressHalfwayTitle"
+msgid "{0} is halfway done crafting the {1}."
+msgstr "{0}은(는) {1} 제작을 절반 이상 완료했습니다."
+
+msgctxt "TravelEventCrownAttunedDescription"
+msgid "Our heroes take a well-deserved rest, but the mood is somber."
+msgstr "우리 영웅들은 충분한 휴식을 취하지만 분위기는 침울합니다."
+
+msgctxt "TravelEventCrownAttunedTitle"
+msgid "A Troubled Night"
+msgstr "곤란한 밤"
+
+msgctxt "TravelEventEncounterFailure1Title"
+msgid "The party fails to detect an approaching enemy group."
+msgstr "파티는 다가오는 적군을 감지하지 못합니다."
+
+msgctxt "TravelEventEncounterSuccess1Title"
+msgid "An encounter! {0} hears the enemy approaching."
+msgstr "만남! {0}은(는) 적이 접근하는 소리를 듣습니다."
+
+msgctxt "TravelEventEncounterSuccess2Title"
+msgid "An encounter! {0} spots the enemy before they see the party."
+msgstr "만남! {0}은(는) 파티를 보기 전에 적을 발견합니다."
+
+msgctxt "TravelEventFoodSearchFailure1Title"
+msgid "The party did not find any food."
+msgstr "파티는 음식을 찾지 못했습니다."
+
+msgctxt "TravelEventFoodSearchSuccess1Title"
+msgid "{0} finds some tasty mushrooms. The party gains {1} food ration(s)."
+msgstr "{0}이(가) 맛있는 버섯을 찾습니다. 파티는 {1} 식량 배급을 얻습니다."
+
+msgctxt "TravelEventFoodSearchSuccess2Title"
+msgid "{0} catches wild hares. The party gains {1} food ration(s)."
+msgstr "{0}은(는) 야생 토끼를 잡습니다. 파티는 {1} 식량 배급을 얻습니다."
+
+msgctxt "TravelEventFoodSearchSuccess3Title"
+msgid "{0} kills a boar. The party gains {1} food ration(s)."
+msgstr "{0}은(는) 멧돼지를 죽입니다. 파티는 {1} 식량 배급을 얻습니다."
+
+msgctxt "TravelEventFoodSearchSuccess4Title"
+msgid "{0} finds an apple tree. The party gains {1} food ration(s)."
+msgstr "{0}은 사과나무를 찾습니다. 파티는 식량 배급 {1}개를 얻습니다."
+
+msgctxt "TravelEventFoodSearchSuccess5Title"
+msgid ""
+"{0} finds a bird's nest and gathers some eggs. The party gains {1} food "
+"ration(s)."
+msgstr "{0}은(는) 새 둥지를 찾아 알을 모읍니다. 파티는 {1} 식량 배급을 얻습니다."
+
+msgctxt "TravelEventFoodSearchSuccess6Title"
+msgid "{0} kills a fallow deer. The party gains {1} food ration(s)."
+msgstr "{0}은(는) 휴경 중인 사슴을 죽입니다. 파티는 {1} 식량 배급을 얻습니다."
+
+msgctxt "TravelEventFoodSearchSuccess7Title"
+msgid "{0} kills a couple of partridges. The party gains {1} food ration(s)."
+msgstr "{0}은(는) 자고새 몇 마리를 죽입니다. 파티는 {1} 식량 배급을 얻습니다."
+
+msgctxt "TravelEventFoodSearchSuccess8Title"
+msgid "{0} finds a bunch of wild vegetables and gathers {1} food ration(s)."
+msgstr "{0}은(는) 야생 야채 무리를 찾아 {1} 식량 배급을 모읍니다."
+
+msgctxt "TravelEventIngredientGatheringFailure1Title"
+msgid "The party did not find any useful ingredients."
+msgstr "파티는 유용한 재료를 찾지 못했습니다."
+
+msgctxt "TravelEventIngredientGatheringSuccess1Title"
+msgid "{0} manages to collect crafting ingredients: {1}"
+msgstr "{0}은(는) 제작 재료를 수집합니다. {1}"
+
+msgctxt "TravelEventLongRestCompleteFailure1Title"
+msgid "The party has failed to complete its long rest"
+msgstr "파티는 긴 휴식을 완료하지 못했습니다"
+
+msgctxt "TravelEventLongRestCompleteSuccess1Title"
+msgid "The party has finished its long rest and consumed {0} unit(s) of food."
+msgstr "파티는 긴 휴식을 마치고 {0}단위의 음식을 소비했습니다."
+
+msgctxt "TravelEventLongRestStart1Title"
+msgid "The party starts to rest"
+msgstr "파티는 쉬기 시작한다"
+
+msgctxt "TravelEventNavigationStarts1Title"
+msgid "The party is on the move"
+msgstr "파티가 진행 중입니다"
+
+msgctxt "TravelEventNewDayTitle"
+msgid "Day {0}"
+msgstr "{0}일"
+
+msgctxt "TravelEventSetCamp1Title"
+msgid "The party sets camp"
+msgstr "파티 세트 캠프"
+
+msgctxt "TravelJourneyBeginsTitle"
+msgid "The journey begins!"
+msgstr "여행이 시작됩니다!"
+
+msgctxt "TravelJourneyEndsTitle"
+msgid "The party has arrived"
+msgstr "파티가 왔다"
+
+msgctxt "TravelEventExplorationEndsTitle"
+msgid "The party has found a way in."
+msgstr "파티에서 방법을 찾았습니다."
+
+msgctxt "TravelEventExplorationStartsTitle"
+msgid "The party starts looking for access to the location."
+msgstr "파티는 위치에 대한 액세스를 찾기 시작합니다."
+
+msgctxt "TravelEventCastFoodSpellTitle"
+msgid "{0} casts the {1} spell and provides food for the whole party."
+msgstr "{0}은 {1} 주문을 시전하고 전체 파티에 음식을 제공합니다."
+
+msgctxt "StandardRandomEvents12Title"
+msgid ""
+"The party comes across a Scavenger chariot filled with loot and says hello."
+msgstr "일행은 전리품으로 가득 찬 스캐빈저 마차를 만나 인사를 합니다."
+
+msgctxt "StandardRandomEvents13Title"
+msgid "The party passes by a mass grave and walks away with a somber look."
+msgstr "일행은 공동묘지를 지나 침울한 표정으로 걸어간다."
+
+msgctxt "StandardRandomEvents14Title"
+msgid ""
+"The party passes by a Manacalon statue representing yet another emperor."
+msgstr "일행은 또 다른 황제를 상징하는 마나칼론 동상을 지나갑니다."
+
+msgctxt "StandardRandomEvents15Title"
+msgid "The party passes by a broken statue of an elven woman with a slave."
+msgstr "일행은 노예와 함께 엘프 여자의 부서진 조각상 옆을 지나간다."
+
+msgctxt "StandardRandomEvents16Title"
+msgid ""
+"The party passes by a shrine to Arun and hears thunder rumbling in the "
+"distance."
+msgstr "일행은 아룬의 사당을 지나고 멀리서 천둥소리가 들린다."
+
+msgctxt "StandardRandomEvents17Title"
+msgid "The party passes by a shrine to Einar and sees a deer dash away."
+msgstr "일행은 에이나르의 사당을 지나다가 사슴이 달려가는 것을 봅니다."
+
+msgctxt "StandardRandomEvents18Title"
+msgid "The party passes by a shrine to Pakri and feels a cold breeze."
+msgstr "일행은 사당을 지나 파크리로 향하며 찬바람을 느낀다."
+
+msgctxt "StandardRandomEvents19Title"
+msgid "The party passes by a shrine to Maraike and hears a bird singing."
+msgstr "일행은 마라이케 신사를 지나 새가 지저귀는 소리를 듣습니다."
+
+msgctxt "StandardRandomEvents20Title"
+msgid "The party passes by a shrine to Misaye and hears someone laughing."
+msgstr "일행은 미사예에게 사당을 지나치는데 누군가 웃는 소리가 들린다."
+
+msgctxt "StandardRandomEvents21Title"
+msgid ""
+"The party passes by a ruined Imperial tollgate on which flowers have grown."
+msgstr "일행은 꽃이 만발한 폐허가 된 제국의 톨게이트를 지나간다."
+
+msgctxt "StandardRandomEvents22Title"
+msgid "The party passes by a fallen bridge and wades through a stream."
+msgstr "일행은 쓰러진 다리를 지나 개울을 건넌다."
+
+msgctxt "StandardRandomEvents23Title"
+msgid "The party walks in light rain for some time."
+msgstr "파티는 잠시 동안 가벼운 비를 걷습니다."
+
+msgctxt "StandardRandomEvents24Title"
+msgid "The party walks in heavy rain for a while."
+msgstr "파티는 한동안 폭우 속을 걷습니다."
+
+msgctxt "StandardRandomEvents25Title"
+msgid "The party walks in a powerful storm for a short time."
+msgstr "파티는 짧은 시간 동안 강력한 폭풍우 속을 걷습니다."
+
+msgctxt "StandardCampActivity13Title"
+msgid "{0} carves a statuette with a piece of wood."
+msgstr "{0}은 나무 조각으로 조각상을 조각합니다."
+
+msgctxt "StandardCampActivity14Title"
+msgid "{0} writes a letter to goodness knows who."
+msgstr "{0}은(는) 선의에게 편지를 씁니다."
+
+msgctxt "StandardCampActivity15Title"
+msgid "{0} writes a chapter in their personal journal."
+msgstr "{0}은(는) 개인 일지에 한 장을 씁니다."
+
+msgctxt "StandardCampActivity16Title"
+msgid "{0} reads a chapter of a book."
+msgstr "{0}은 책의 한 장을 읽습니다."
+
+msgctxt "StandardCampActivity17Title"
+msgid "{0} does some pushups and squats."
+msgstr "{0}은(는) 팔굽혀펴기와 스쿼트를 합니다."
+
+msgctxt "StandardCampActivity18Title"
+msgid "{0} cleans their shoes."
+msgstr "{0}은(는) 신발을 청소합니다."
+
+msgctxt "StandardCampActivity19Title"
+msgid "{0} takes a short time alone to think."
+msgstr "{0} 혼자 생각하는 데 시간이 조금 걸립니다."
+
+msgctxt "StandardCampActivity20Title"
+msgid "{0} plays a game of skill with stones."
+msgstr "{0}은(는) 돌로 기술 게임을 합니다."
+
+msgctxt "StandardCampActivity21Title"
+msgid "{0} unfolds a bedroll to set up a nice sleeping spot."
+msgstr "{0}은(는) 침대를 펼쳐서 좋은 잠자리를 마련합니다."
+
+msgctxt "TravelEventEncounterOther1Title"
+msgid "Weak monsters run away as they see the party approaching."
+msgstr "약한 몬스터들은 다가오는 파티를 보고 도망친다."
+
+msgctxt "TravelEventEncounterOther2Title"
+msgid "An encounter! The monsters are frightened by the party and scurry away."
+msgstr "만남! 몬스터들은 파티에 겁을 먹고 달아난다."

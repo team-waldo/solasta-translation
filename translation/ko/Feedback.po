@@ -1,0 +1,1189 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "AbilityCheckConsoleAnyAdvantageLine"
+msgid "{0} rolls a {1} ability check against DC {2}, rolls {3} {4}, {5}"
+msgstr ""
+
+msgctxt "AbilityCheckConsoleAnyAdvantageNoModifierLine"
+msgid "{0} rolls a {1} ability check against DC {2}, rolls {3} {4}"
+msgstr ""
+
+msgctxt "AbilityCheckConsoleLine"
+msgid "{0} rolls a {1} ability check against DC {2}, rolls {3} = {4}"
+msgstr ""
+
+msgctxt "AbilityCheckConsoleNoModifierLine"
+msgid "{0} rolls a {1} ability check against DC {2}, rolls {3} "
+msgstr ""
+
+msgctxt "AbilityCheckFailedFormat"
+msgid "Failed"
+msgstr ""
+
+msgctxt "AbilityCheckFailureNarrationLine"
+msgid "{0} check: Failure!"
+msgstr ""
+
+msgctxt "AbilityCheckFailureOutcome"
+msgid "{0} (Failure)"
+msgstr ""
+
+msgctxt "AbilityCheckSuccessNarrationLine"
+msgid "{0} check: Success!"
+msgstr ""
+
+msgctxt "AbilityCheckSuccessOutcome"
+msgid "{0} (Success)"
+msgstr ""
+
+msgctxt "ActivatePowerLine"
+msgid "{0} activates the {1} power"
+msgstr ""
+
+msgctxt "ActivatePowerWithChanelDivinityLine"
+msgid "{0} channels divinity to activate {1}"
+msgstr ""
+
+msgctxt "ActivatePowerWithSpellSlotLine"
+msgid "{0} activates {1} with a level {2} spell slot"
+msgstr ""
+
+msgctxt "AdditionalDamageArcaneFuryFormat"
+msgid "Arcane Fury!"
+msgstr ""
+
+msgctxt "AdditionalDamageArcaneFuryLine"
+msgid "{0} deals more damage to {1} from Arcane Furry (+{2})"
+msgstr ""
+
+msgctxt "AdditionalDamageBestowCurseFormat"
+msgid "Attack on Cursed!"
+msgstr ""
+
+msgctxt "AdditionalDamageBestowCurseLine"
+msgid "{0} deals more damage to cursed {1} (+{2})"
+msgstr ""
+
+msgctxt "AdditionalDamageBrandingSmiteFormat"
+msgid "Branding Smite!"
+msgstr ""
+
+msgctxt "AdditionalDamageBrandingSmiteLine"
+msgid "{0} deals more damage to {1} through a branding smite (+{2})"
+msgstr ""
+
+msgctxt "AdditionalDamageColossusSlayerFormat"
+msgid "Colossus Slayer!"
+msgstr ""
+
+msgctxt "AdditionalDamageColossusSlayerLine"
+msgid "{0} deals more damage to wounded {1} (+{2})"
+msgstr ""
+
+msgctxt "AdditionalDamageDarkSlayerFormat"
+msgid "Dark Slayer!"
+msgstr ""
+
+msgctxt "AdditionalDamageDarkSlayerLine"
+msgid "{0} deals more damage to creatures with superior darkvision {1} (+{2})"
+msgstr ""
+
+msgctxt "AdditionalDamageDecisiveStrikeFormat"
+msgid "Decisive Strike!"
+msgstr ""
+
+msgctxt "AdditionalDamageDecisiveStrikeLine"
+msgid "{0} strikes {1} (+{2})"
+msgstr ""
+
+msgctxt "AdditionalDamageDivineFavorFormat"
+msgid "Divine Favor!"
+msgstr ""
+
+msgctxt "AdditionalDamageDivineFavorLine"
+msgid "{0} deals more damage to {1} through divine favor (+{2})"
+msgstr ""
+
+msgctxt "AdditionalDamageDivineSmiteFormat"
+msgid "Smite!"
+msgstr ""
+
+msgctxt "AdditionalDamageDivineSmiteLine"
+msgid "{0} smites {1} (+{2})"
+msgstr ""
+
+msgctxt "AdditionalDamageFavoredEnemyFormat"
+msgid "Favored Enemy!"
+msgstr ""
+
+msgctxt "AdditionalDamageFavoredEnemyLine"
+msgid "{0} deals more damage to {1} as a favored enemy type (+{2})"
+msgstr ""
+
+msgctxt "AdditionalDamageHuntersMarkFormat"
+msgid "Hunter's Mark!"
+msgstr ""
+
+msgctxt "AdditionalDamageHuntersMarkLine"
+msgid "{0} deals more damage to {1} as a marked target (+{2})"
+msgstr ""
+
+msgctxt "AdditionalDamagePredatorFormat"
+msgid "Predator!"
+msgstr ""
+
+msgctxt "AdditionalDamagePredatorLine"
+msgid "{0} deals more damage to {1} from higher ground (+{2})"
+msgstr ""
+
+msgctxt "AdditionalDamageSmiteTheHiddenDarkvisionFormat"
+msgid "Smite the Hidden!"
+msgstr ""
+
+msgctxt "AdditionalDamageSmiteTheHiddenDarkvisionLine"
+msgid ""
+"{0} deals more damage to {1}, Scourge of the Hidden with Darkvision (+{2})"
+msgstr ""
+
+msgctxt "AdditionalDamageSmiteTheHiddenShapechangerFormat"
+msgid "Smite the Hidden!"
+msgstr ""
+
+msgctxt "AdditionalDamageSmiteTheHiddenShapechangerLine"
+msgid ""
+"{0} deals more damage to {1}, Scourge of the Hidden with shapechanger (+{2})"
+msgstr ""
+
+msgctxt "AdditionalDamageSneakAttackFormat"
+msgid "Sneak Attack!"
+msgstr ""
+
+msgctxt "AdditionalDamageSneakAttackLine"
+msgid "{0} performs a sneak attack on {1} (+{2})"
+msgstr ""
+
+msgctxt "AdditionalDamageStrikeOblivionFormat"
+msgid "Strike of Oblivion!"
+msgstr ""
+
+msgctxt "AdditionalDamageStrikeOblivionLine"
+msgid "{0} deals more damage to {1} with Strike of Oblivion (+{2})"
+msgstr ""
+
+msgctxt "AdvantageRollDescription"
+msgid ""
+"Rolling with advantage means you roll two d20s and keep the better result."
+msgstr ""
+
+msgctxt "AdvantageRollOutcome"
+msgid "with advantage"
+msgstr ""
+
+msgctxt "AlreadySuccessfulCaptionFormat"
+msgid "Already Successful"
+msgstr ""
+
+msgctxt "AttackConsoleLine"
+msgid "{0} attacks {1} with {2}, rolls {3} = {4}"
+msgstr ""
+
+msgctxt "AttackConsoleLineAnyAdvantage"
+msgid "{0} attacks {1} with {2}, rolls{3} {4} = {5}"
+msgstr ""
+
+msgctxt "AttackConsoleLineAnyAdvantageNoModifier"
+msgid "{0} attacks {1} with {2}, rolls{3} {4}"
+msgstr ""
+
+msgctxt "AttackConsoleLineAutomaticHit"
+msgid "{0} attacks {1} with {2} and automatically hits"
+msgstr ""
+
+msgctxt "AttackConsoleLineNoModifier"
+msgid "{0} attacks {1} with {2}, rolls {3}"
+msgstr ""
+
+msgctxt "AttackFailureFormat"
+msgid "Attack Miss ({0})"
+msgstr ""
+
+msgctxt "AttackFailureOutcome"
+msgid "{0} (Miss)"
+msgstr ""
+
+msgctxt "AttackOfOpportunityFormat"
+msgid "Opportunity Attack"
+msgstr ""
+
+msgctxt "AttackOfOpportunityLine"
+msgid "{0} performs an opportunity attack against {1}"
+msgstr ""
+
+msgctxt "AttackSuccessFormat"
+msgid "Attack Hit ({0})"
+msgstr ""
+
+msgctxt "AttackSuccessOutcome"
+msgid "{0} (Hit)"
+msgstr ""
+
+msgctxt "BrightLightCaption"
+msgid "Bright light"
+msgstr ""
+
+msgctxt "BrightLightDescription"
+msgid "The creature is in bright light."
+msgstr ""
+
+msgctxt "CannotHealFormat"
+msgid "Cannot Heal!"
+msgstr ""
+
+msgctxt "CannotReceiveAnyHealingLine"
+msgid "{0} cannot receive any healing"
+msgstr ""
+
+msgctxt "CheckFailureCaption"
+msgid "Failure"
+msgstr ""
+
+msgctxt "CheckSuccessCaption"
+msgid "Success"
+msgstr ""
+
+msgctxt "ConcentrationCheckRolledAnyAdvantageLine"
+msgid "{0} rolls to maintain concentration {1} versus DC {2}, rolls {3} = {4}"
+msgstr ""
+
+msgctxt "ConcentrationCheckRolledAnyAdvantageNoModifierLine"
+msgid "{0} rolls to maintain concentration {1} versus DC {2}, rolls {3}"
+msgstr ""
+
+msgctxt "ConcentrationCheckRolledLine"
+msgid "{0} rolls to maintain concentration versus DC {1}, rolls {2} = {3}"
+msgstr ""
+
+msgctxt "ConcentrationCheckRolledNoModifierLine"
+msgid "{0} rolls to maintain concentration versus DC {1}, rolls {2}"
+msgstr ""
+
+msgctxt "ConcentrationLostLine"
+msgid "{0} loses concentration on {1}"
+msgstr ""
+
+msgctxt "ConditionAddedHasLine"
+msgid "{0} now has {1}"
+msgstr ""
+
+msgctxt "ConditionAddedLine"
+msgid "{0} is now {1}"
+msgstr ""
+
+msgctxt "ConditionRemovedHasLine"
+msgid "{0} no longer has {1}"
+msgstr ""
+
+msgctxt "ConditionRemovedLine"
+msgid "{0} is no longer {1}"
+msgstr ""
+
+msgctxt "ContestCheckConsoleBothAdvantageLine"
+msgid "{0} contests {1}, {2} against {3}, rolls {4} {5} against {6} {7} {8}"
+msgstr ""
+
+msgctxt "ContestCheckConsoleLine"
+msgid "{0} contests {1}, {2} against {3}, rolls {4} against {5} {6}"
+msgstr ""
+
+msgctxt "ContestCheckConsoleMainAdvantageLine"
+msgid "{0} contests {1}, {2} against {3}, rolls {4} {5} against {6} {7}"
+msgstr ""
+
+msgctxt "ContestCheckConsoleOpponentAdvantageLine"
+msgid "{0} contests {1}, {2} against {3}, rolls {4} against {5} {6} {7}"
+msgstr ""
+
+msgctxt "ContestFailure"
+msgid "Failure"
+msgstr ""
+
+msgctxt "ContestSuccess"
+msgid "Success"
+msgstr ""
+
+msgctxt "ConversationClickTitle"
+msgid "Click to read"
+msgstr ""
+
+msgctxt "ConversationRecordedLine"
+msgid "Conversation Recorded {0} {1}"
+msgstr ""
+
+msgctxt "CoverFullCaption"
+msgid "out of sight"
+msgstr ""
+
+msgctxt "CoverHalfCaption"
+msgid "1/2 cover"
+msgstr ""
+
+msgctxt "CoverThreeQuarterCaption"
+msgid "3/4 cover"
+msgstr ""
+
+msgctxt "CriticalAbilityCheckFailureOutcome"
+msgid "{0} (CRITICAL FAILURE)"
+msgstr ""
+
+msgctxt "CriticalAbilityCheckOutcome"
+msgid "{0} (CRITICAL SUCCESS)"
+msgstr ""
+
+msgctxt "CriticalAttackFailureOutcome"
+msgid "{0} (CRITICAL MISS)"
+msgstr ""
+
+msgctxt "CriticalAttackFormat"
+msgid "Critical Attack!"
+msgstr ""
+
+msgctxt "CriticalAttackOutcome"
+msgid "{0} (CRITICAL HIT)"
+msgstr ""
+
+msgctxt "CriticalFailureFormat"
+msgid "Critical Failure!"
+msgstr ""
+
+msgctxt "DarknessCaption"
+msgid "Magical Darkness"
+msgstr ""
+
+msgctxt "DarknessDescription"
+msgid "The creature is in magical darkness."
+msgstr ""
+
+msgctxt "DeadlyFallLine"
+msgid "{0} fell to their death."
+msgstr ""
+
+msgctxt "DeathSaveAnyAdvantageConsoleLine"
+msgid "{0} rolls a death saving throw {1}: {2}"
+msgstr ""
+
+msgctxt "DeathSaveConsoleLine"
+msgid "{0} rolls a death saving throw: {1}"
+msgstr ""
+
+msgctxt "DeathSaveCriticalFailureFormat"
+msgid "{0} Critical Failure"
+msgstr ""
+
+msgctxt "DeathSaveCriticalFailureLine"
+msgid "{0} death save failures added to {1}"
+msgstr ""
+
+msgctxt "DeathSaveCriticalSuccessFormat"
+msgid "{0} Critical Success"
+msgstr ""
+
+msgctxt "DeathSaveCriticalSuccessLine"
+msgid "{0} regains 1 hit point and stabilizes."
+msgstr ""
+
+msgctxt "DeathSaveFailureFormat"
+msgid "{0} Failure"
+msgstr ""
+
+msgctxt "DeathSaveFailuresAddedLine"
+msgid "{0} death save failure added to {1}"
+msgstr ""
+
+msgctxt "DeathSaveRegainLifeLine"
+msgid "Thanks to {0}, {1} is brought back to {2} hit points"
+msgstr ""
+
+msgctxt "DeathSaveSuccessAddedLine"
+msgid "{0} death save success added to {1}"
+msgstr ""
+
+msgctxt "DeathSaveSuccessFormat"
+msgid "{0} Success"
+msgstr ""
+
+msgctxt "DetectedDefeatFormat"
+msgid "You have been detected! Use cautious mode next time."
+msgstr ""
+
+msgctxt "DeviceAutoIdentifiedLine"
+msgid ""
+"Thanks to a greater knowledge of this type of item, {0} has identified {1}"
+msgstr ""
+
+msgctxt "DimLightCaption"
+msgid "Dim light"
+msgstr ""
+
+msgctxt "DisadvantageRollDescription"
+msgid ""
+"Rolling with disadvantage means you roll two d20s and keep the worst result."
+msgstr ""
+
+msgctxt "DisadvantageRollOutcome"
+msgid "with disadvantage"
+msgstr ""
+
+msgctxt "ExperienceGainedFormat"
+msgid "+{0}XP"
+msgstr ""
+
+msgctxt "ExperienceGainedLine"
+msgid "{0} gains {1}XP"
+msgstr ""
+
+msgctxt "FragileGroundDetectedFormat"
+msgid "Fragile ground detected"
+msgstr ""
+
+msgctxt "FragileGroundTrigerredFormat"
+msgid "Fragile ground broken"
+msgstr ""
+
+msgctxt "GameAutoSavedLine"
+msgid "Game auto saved"
+msgstr ""
+
+msgctxt "GameQuickSavedLine"
+msgid "Game quick saved"
+msgstr ""
+
+msgctxt "GameSavedLine"
+msgid "Game saved"
+msgstr ""
+
+msgctxt "HiddenObjectRevealedFormat"
+msgid "Object Revealed"
+msgstr ""
+
+msgctxt "HiddenObjectRevealedLine"
+msgid "{0} has revealed a hidden object"
+msgstr ""
+
+msgctxt "ImmuneToConditionFormat"
+msgid "Immune"
+msgstr ""
+
+msgctxt "ImmuneToDamageFormat"
+msgid "Immune {0}"
+msgstr ""
+
+msgctxt "ImmuneToDamageLine"
+msgid "{0} is immune to {1} damage"
+msgstr ""
+
+msgctxt "ImmuneToSpellFormat"
+msgid "Immune {0}"
+msgstr ""
+
+msgctxt "ImmuneToSpellLine"
+msgid "{0} is immune to the {1} spell"
+msgstr ""
+
+msgctxt "InflictedDamageLine"
+msgid "{0} sustains damage: {1}"
+msgstr ""
+
+msgctxt "InitiativeCaption"
+msgid "Initiative"
+msgstr ""
+
+msgctxt "InitiativeConsoleLine"
+msgid "{0} rolls initiative: {1} = {2}"
+msgstr ""
+
+msgctxt "InitiativeConsoleLineAdvantage"
+msgid "{0} rolls initiative{1}: {2} = {3}"
+msgstr ""
+
+msgctxt "InitiativeFormat"
+msgid "Initiative {0}"
+msgstr ""
+
+msgctxt "InsightAutomaticFailureLine"
+msgid ""
+"{0} automatically fails an Insight (Wisdom) check: dialog success odds are "
+"hidden."
+msgstr ""
+
+msgctxt "InsightAutomaticSuccessLine"
+msgid ""
+"{0} automatically succeeds on an Insight (Wisdom) check: dialog success odds "
+"are revealed."
+msgstr ""
+
+msgctxt "InsightCriticalFailureLine"
+msgid ""
+"{0} critically fails an Insight (Wisdom) check: dialog success odds are "
+"hidden."
+msgstr ""
+
+msgctxt "InsightCriticalSuccessLine"
+msgid ""
+"{0} scores a critical success on an Insight (Wisdom) check: dialog success "
+"odds are revealed."
+msgstr ""
+
+msgctxt "InsightFailureLine"
+msgid "{0} fails an Insight (Wisdom) check: dialog success odds are hidden."
+msgstr ""
+
+msgctxt "InsightSuccessLine"
+msgid ""
+"{0} succeeds on an Insight (Wisdom) check: dialog success odds are revealed."
+msgstr ""
+
+msgctxt "ItemConsumedCaption"
+msgid "{0} consumed"
+msgstr ""
+
+msgctxt "ItemConsumedLine"
+msgid "{0} has fully consumed an item: {1}"
+msgstr ""
+
+msgctxt "ItemGainedLine"
+msgid "{0} gains an item: {1}"
+msgstr ""
+
+msgctxt "ItemSpellCastLine"
+msgid "and casts the {0} spell"
+msgstr ""
+
+msgctxt "ItemUsedLastChargeDestroyLine"
+msgid "Last charge spent: {0} is destroyed"
+msgstr ""
+
+msgctxt "ItemUsedLastChargeRollDestroyLine"
+msgid "Last charge spent and {1} is rolled on d20: {0} is destroyed"
+msgstr ""
+
+msgctxt "ItemUsedLastChargeRollNotDestroyLine"
+msgid "Last charge spent and {1} is rolled on d20: {0} is preserved"
+msgstr ""
+
+msgctxt "ItemUsedLine"
+msgid "{0} uses the {1} item"
+msgstr ""
+
+msgctxt "ItemUsedSpellCastLine"
+msgid "{0} uses the {1} item and casts the {2} spell"
+msgstr ""
+
+msgctxt "LongRestCompletedLine"
+msgid "Long rest completed. Units of food consumed: {0}"
+msgstr ""
+
+msgctxt "MagicalHitPointsPoolRolledLine"
+msgid "{0} rolls a pool of {1} hit points for {2}"
+msgstr ""
+
+msgctxt "NeedFlamingTagFormat"
+msgid "Need a flaming item"
+msgstr ""
+
+msgctxt "ObservationFailedFormat"
+msgid "Observation failed"
+msgstr ""
+
+msgctxt "ObservationSuccessfulFormat"
+msgid "Observation successful"
+msgstr ""
+
+msgctxt "OutOfAttackUsesLine"
+msgid "{0} has run out of ammo/uses for \"{1}\""
+msgstr ""
+
+msgctxt "OverConcentrationUsedLine"
+msgid ""
+"{0} sustains {1} damage, but does not roll for concentration because of {2}"
+msgstr ""
+
+msgctxt "PathFailedFormat"
+msgid "No path to destination!"
+msgstr ""
+
+msgctxt "PreventedFromActingCaption"
+msgid "Cannot Act!"
+msgstr ""
+
+msgctxt "PreventedFromActingHasLine"
+msgid "{0} has {1} and fails to act this turn"
+msgstr ""
+
+msgctxt "PreventedFromActingLine"
+msgid "{0} is {1} and fails to act this turn"
+msgstr ""
+
+msgctxt "ReadiedActionTriggeredCaptionFormat"
+msgid "Readied action triggered"
+msgstr ""
+
+msgctxt "ReceivedHealingFullLine"
+msgid "{0} is already at full health"
+msgstr ""
+
+msgctxt "ReceivedHealingFromInflictedDamageFullLine"
+msgid "{0} regains life from the inflicted damage"
+msgstr ""
+
+msgctxt "ReceivedHealingFromInflictedDamageHalfLine"
+msgid "{0} regains life from half the inflicted damage"
+msgstr ""
+
+msgctxt "ReceivedHealingLine"
+msgid "{0} is healed {1} hit point(s)"
+msgstr ""
+
+msgctxt "ReceivedTemporaryHitPointsFailureLine"
+msgid "{0} cannot receive any temporary hit points"
+msgstr ""
+
+msgctxt "ReceivedTemporaryHitPointsSuccessLine"
+msgid "{0} now has {1} temporary hit point(s)"
+msgstr ""
+
+msgctxt "RitualCastLine"
+msgid "{0} casts the {1} spell as a ritual"
+msgstr ""
+
+msgctxt "RollAttackCriticalFailureTitle"
+msgid "Critical Miss"
+msgstr ""
+
+msgctxt "RollAttackCriticalSuccessTitle"
+msgid "Critical Hit"
+msgstr ""
+
+msgctxt "RollAttackFailureTitle"
+msgid "Miss"
+msgstr ""
+
+msgctxt "RollAttackSuccessTitle"
+msgid "Hit"
+msgstr ""
+
+msgctxt "RollCheckCriticalFailureTitle"
+msgid "Critical Failure"
+msgstr ""
+
+msgctxt "RollCheckCriticalSuccessTitle"
+msgid "Critical Success"
+msgstr ""
+
+msgctxt "RollCheckFailureTitle"
+msgid "Failure"
+msgstr ""
+
+msgctxt "RollCheckSuccessTitle"
+msgid "Success"
+msgstr ""
+
+msgctxt "SaveCaptionFormat"
+msgid "{0} Save"
+msgstr ""
+
+msgctxt "SaveConsoleAnyAdvantageLine"
+msgid "{0} rolls a {1} save against {2} (DC{3}), rolls {4} {5} = {6}"
+msgstr ""
+
+msgctxt "SaveConsoleAnyAdvantageNoModifierLine"
+msgid "{0} rolls a {1} save against {2} (DC {3}), rolls {4} {5}"
+msgstr ""
+
+msgctxt "SaveConsoleLine"
+msgid "{0} rolls a {1} save against {2} (DC{3}), rolls {4} = {5}"
+msgstr ""
+
+msgctxt "SaveConsoleNoModifierLine"
+msgid "{0} rolls a {1} save against {2} (DC {3}), rolls {4} "
+msgstr ""
+
+msgctxt "SaveFailureOutcome"
+msgid "{0} Fails"
+msgstr ""
+
+msgctxt "SaveSuccessFormat"
+msgid "Saves"
+msgstr ""
+
+msgctxt "SaveSuccessOutcome"
+msgid "{0} (Success)"
+msgstr ""
+
+msgctxt "ShortRestCompletedLine"
+msgid "Short rest completed."
+msgstr ""
+
+msgctxt "SleightOfHandDetectedCaptionFormat"
+msgid "Detected!"
+msgstr ""
+
+msgctxt "SleightOfHandDetectedLine"
+msgid "{0} was detected by {1} while attempting to steal items"
+msgstr ""
+
+msgctxt "SleightOfHandNotEnoughRoomCaptionFormat"
+msgid "Inventory full."
+msgstr ""
+
+msgctxt "SleightOfHandNotEnoughRoomLine"
+msgid ""
+"{0} does not have enough room in their inventory to steal items from {1}"
+msgstr ""
+
+msgctxt "SleightOfHandNothingToStealCaptionFormat"
+msgid "Nothing to steal."
+msgstr ""
+
+msgctxt "SleightOfHandNothingToStealLine"
+msgid "{0} cannot steal anything more from {1}"
+msgstr ""
+
+msgctxt "SleightOfHandSuccessCaptionFormat"
+msgid "Success!"
+msgstr ""
+
+msgctxt "SleightOfHandSuccessLine"
+msgid "Challenge"
+msgstr ""
+
+msgctxt "SpellcastingFailedCaption"
+msgid "Cast Failed!"
+msgstr ""
+
+msgctxt "SpellcastingFailedLine"
+msgid "{0} fails to cast the {1} spell"
+msgstr ""
+
+msgctxt "SpellCastLine"
+msgid "{0} casts the {1} spell"
+msgstr ""
+
+msgctxt "SpellCastSuperiorSlotLine"
+msgid "{0} casts {1} with a level {2} slot"
+msgstr ""
+
+msgctxt "SpellCounteredFailLine"
+msgid "{0} fails to counter the {2} spell cast by {1}"
+msgstr ""
+
+msgctxt "SpellCounteredSuccessLine"
+msgid "{0} counters the {2} spell cast by {1}"
+msgstr ""
+
+msgctxt "SpellCounterFailFormat"
+msgid "Counter Fail!"
+msgstr ""
+
+msgctxt "SpellCounterSuccessFormat"
+msgid "Counter!"
+msgstr ""
+
+msgctxt "SpellDissipatedFailureLine"
+msgid "{0} fails to dispel the effect of the {1} spell on  "
+msgstr ""
+
+msgctxt "SpellDissipatedFormat"
+msgid "Dispelled!"
+msgstr ""
+
+msgctxt "SpellDissipatedOnTargetFailureLine"
+msgid "{0} fails to dispel the effect of the {1} spell on {2}"
+msgstr ""
+
+msgctxt "SpellDissipatedOnTargetSuccessLine"
+msgid "{0} dispels the effect of the {1} spell on {2}"
+msgstr ""
+
+msgctxt "SpellDissipatedSuccessLine"
+msgid "{0} dispels the effect of the {1} spell"
+msgstr ""
+
+msgctxt "SpellScribedLine"
+msgid "{0} tries to copy the {1} spell into a spellbook {2}"
+msgstr ""
+
+msgctxt "SpellSlotsRecoveredLine"
+msgid "{0} recovers spell slots: {1}"
+msgstr ""
+
+msgctxt "SuccessOddsLine"
+msgid "Success Odds: {0}"
+msgstr ""
+
+msgctxt "TrackDetectedFormat"
+msgid "Tracks spotted"
+msgstr ""
+
+msgctxt "TrapDetectedFormat"
+msgid "Trap detected"
+msgstr ""
+
+msgctxt "TrapDisarmedFormat"
+msgid "Trap disarmed"
+msgstr ""
+
+msgctxt "TrapDisarmFailedFormat"
+msgid "Disarm Failed"
+msgstr ""
+
+msgctxt "TrapTriggeredFormat"
+msgid "Trap triggered"
+msgstr ""
+
+msgctxt "CharmedEnemyRemovedFromArea"
+msgid "{0} left the area"
+msgstr ""
+
+msgctxt "UnlitCaption"
+msgid "No light"
+msgstr ""
+
+msgctxt "UnlitDescription"
+msgid ""
+"The creature is unlit. Attack rolls against it will be made with "
+"disadvantage."
+msgstr ""
+
+msgctxt "CraftingAttemptedLine"
+msgid "{0} is attempting to craft {1}"
+msgstr ""
+
+msgctxt "StealthBrokenByForce"
+msgid "{0} has been revealed and is no longer hidden."
+msgstr ""
+
+msgctxt "StealthBrokenByEnemy"
+msgid "{0} has been detected by {1} and is no longer hidden."
+msgstr ""
+
+msgctxt "StealthNotBroken"
+msgid "{0} managed to remain hidden."
+msgstr ""
+
+msgctxt "PartyMoneyGainedLine"
+msgid "The party gains {0}."
+msgstr ""
+
+msgctxt "FreeBrokFirst"
+msgid "You must free Brok before you can take a long rest."
+msgstr ""
+
+msgctxt "AdditionalDamagePoisonFormat"
+msgid "Poison!"
+msgstr ""
+
+msgctxt "AdditionalDamagePoisonLine"
+msgid "{0} deals additional poison damage to {1} (+{2})."
+msgstr ""
+
+msgctxt "RegenerationSuccessCaption"
+msgid "Regenerate"
+msgstr ""
+
+msgctxt "RegenerationSuccessLine"
+msgid "{0} regenerates hit points."
+msgstr ""
+
+msgctxt "RegenerationFailureLine"
+msgid "{0} cannot regenerate after having received {1} damage."
+msgstr ""
+
+msgctxt "DimLightDescription"
+msgid "The creature is in dim light."
+msgstr ""
+
+msgctxt "MajorGateDestinationUnlocked_Title"
+msgid ""
+"You have unlocked a new teleportation destination using the Major Gate "
+"network."
+msgstr ""
+
+msgctxt "AbilityScoreIncreasedValueAndMaxLine"
+msgid "{0} increases his/her {1} score by {2}, and its maximum value by {3}."
+msgstr ""
+
+msgctxt "AbilityScoreIncreasedValueLine"
+msgid "{0} increases his/her {1} score by {2}."
+msgstr ""
+
+msgctxt "AbilityScoreIncreasedMaxLine"
+msgid "{0} increases his/her {1} score maximum value by {2}."
+msgstr ""
+
+msgctxt "ResistantToDamageLine"
+msgid "{0} is resistant to {1} damage and only takes half damage."
+msgstr ""
+
+msgctxt "ResistantToDamageFormat"
+msgid "Resists {0}"
+msgstr ""
+
+msgctxt "DamageHalvedLine"
+msgid "{0} allows {1} to halve the damage."
+msgstr ""
+
+msgctxt "DamageReducedLine"
+msgid "{0} allows {1} to reduce the damage by {2} points."
+msgstr ""
+
+msgctxt "DamageValueLine"
+msgid "Nominal damage output: {0}"
+msgstr ""
+
+msgctxt "VulnerableToDamageLine"
+msgid "{0} is vulnerable to {1} damage and takes double damage"
+msgstr ""
+
+msgctxt "VulnerableToDamageFormat"
+msgid "Vulnerable {0}"
+msgstr ""
+
+msgctxt "RechargePowerLine"
+msgid "{0} recharges the power of {1}"
+msgstr ""
+
+msgctxt "SpellCastUnknownLine"
+msgid "{0} casts a spell"
+msgstr ""
+
+msgctxt "SpellIdentifiedLine"
+msgid "{0} has identified the spell as {1}"
+msgstr ""
+
+msgctxt "SpellCounteredSuccessUnknownLine"
+msgid "{0} counters the unknown spell cast by {1}."
+msgstr ""
+
+msgctxt "NoRoomToConjureCreatureDescription"
+msgid "No room to conjure the creature."
+msgstr ""
+
+msgctxt "AdditionalDamageBracersOfArcheryFormat"
+msgid "Bracers of Archery"
+msgstr ""
+
+msgctxt "AdditionalDamageBracersOfArcheryLine"
+msgid "{0} deals additional damage with Bracers of Archery."
+msgstr ""
+
+msgctxt "AdditionalDamageFinisherFormat"
+msgid "Finisher"
+msgstr ""
+
+msgctxt "AdditionalDamageFinisherLine"
+msgid "{0} deals an additional 1D6 damage to wounded creatures."
+msgstr ""
+
+msgctxt "SpellComponentConsumedLine"
+msgid "Casting the {0} spell consumes the {1} item."
+msgstr ""
+
+msgctxt "ReceivedHealingHalfFullLine"
+msgid "{0} is already at half health."
+msgstr ""
+
+msgctxt "AdditionalDamageDivineStrikeFormat"
+msgid "Divine Strike!"
+msgstr ""
+
+msgctxt "AdditionalDamageDivineStrikeLine"
+msgid "{0} deals more damage to {1} with Divine Strike (+{2})."
+msgstr ""
+
+msgctxt "DamageMultiplierLine"
+msgid "Difficulty multiplier: {0}"
+msgstr ""
+
+msgctxt "BreakFreeSuccessLine"
+msgid "{0} breaks free."
+msgstr ""
+
+msgctxt "BreakFreeFailureLine"
+msgid "{0} fails to break free."
+msgstr ""
+
+msgctxt "DamageRetaliateLine"
+msgid "{0} retaliates to {1} with the {2} effect."
+msgstr ""
+
+msgctxt "DamageRetaliateCaption"
+msgid "Retaliate!"
+msgstr ""
+
+msgctxt "KnockOutPreventedLine"
+msgid ""
+"{0} is prevented from being reduced to 0 hit points, thanks to the {1} "
+"effect."
+msgstr ""
+
+msgctxt "InstantDeathPreventedLine"
+msgid "{0} is prevented from being instantly killed, thanks to the {1} effect."
+msgstr ""
+
+msgctxt "RandomBehaviourRolledLine"
+msgid "{0} rolls a {1} to determine a behavior and rolls {2}: "
+msgstr ""
+
+msgctxt "LegendaryResistanceUsedLine"
+msgid "{0} uses Legendary Resistance and changes the outcome: {1}"
+msgstr ""
+
+msgctxt "LegendaryResistanceUsedCaption"
+msgid "Legendary Resistance!"
+msgstr ""
+
+msgctxt "LegendaryActionUsedLine"
+msgid "{0} uses the {1} Legendary Action."
+msgstr ""
+
+msgctxt "PartyMoneySpentLine"
+msgid "The party loses {0}."
+msgstr ""
+
+msgctxt "IndomitableResistanceUsedLine"
+msgid "{0} is Indomitable and attempts to reroll the failed saving throw."
+msgstr ""
+
+msgctxt "IndomitableResistanceUsedCaption"
+msgid "Indomitable!"
+msgstr ""
+
+msgctxt "PowerFailureCheckedLine"
+msgid "{0} as {1}% chance to activate {2} and rolls {3}: {4}"
+msgstr ""
+
+msgctxt "PowerFailureCheckedSuccessFormat"
+msgid "Success!"
+msgstr ""
+
+msgctxt "PowerFailureCheckedFailureFormat"
+msgid "Failure!"
+msgstr ""
+
+msgctxt "PowerFailureCheckedSuccessCaption"
+msgid "Intervention Granted!"
+msgstr ""
+
+msgctxt "PowerFailureCheckedFailureCaption"
+msgid "Intervention Denied"
+msgstr ""
+
+msgctxt "SpellCounterAttackLine"
+msgid "{0} uses {1} to counterattack the hostile spell."
+msgstr ""
+
+msgctxt "AdditionalDamagePoisonousFormat"
+msgid "Poisonous"
+msgstr ""
+
+msgctxt "AdditionalDamagePoisonousLine"
+msgid "{0} attemps to poison {1} (+{2})."
+msgstr ""
+
+msgctxt "SpellMissingComponentLine"
+msgid ""
+"{0} is missing one of the components (Verbal, Somatic, or Material) to cast "
+"{1}."
+msgstr ""
+
+msgctxt "GenericGadgetTitle"
+msgid "Object"
+msgstr ""
+
+msgctxt "Impossible_Title"
+msgid "Impossible to take this item"
+msgstr ""
+
+msgctxt "InGameDialogLine"
+msgid "{0}: {1}"
+msgstr ""
+
+msgctxt "Unlock_Door_With_Key"
+msgid "You unlocked the door with the adequate key."
+msgstr ""
+
+msgctxt "MetamagicActivatedLine"
+msgid "{0} activates the {1} metamagic on the {2} spell"
+msgstr ""
+
+msgctxt "AdditionalDamageElementalAffinityFormat"
+msgid "Elemental Affinity!"
+msgstr ""
+
+msgctxt "AdditionalDamageElementalAffinityLine"
+msgid "{0} inflicts more damage to {1} through Elemental Affinity (+{2})"
+msgstr ""
+
+msgctxt "ReplacedAbilityScoreForSaveFormat"
+msgid "{0}!"
+msgstr ""
+
+msgctxt "ReplacedAbilityScoreForSaveLine"
+msgid "{0} uses {1} to save with {3} instead of {2}"
+msgstr ""
+
+msgctxt "SpellSlotPreservedFormat"
+msgid "Slot Preserved!"
+msgstr ""
+
+msgctxt "SpellSlotPreservedLine"
+msgid "{0} rolls {1} with {2}, avoiding to spend a spell slot"
+msgstr ""
+
+msgctxt "AdditionalDamageImprovedDivineSmiteFormat"
+msgid "Improved Smite!"
+msgstr ""
+
+msgctxt "AdditionalDamageImprovedDivineSmiteLine"
+msgid "{0} inflicts more damage to {1} through Improved Divine Smite (+{2})"
+msgstr ""
+
+msgctxt "ImmuneToSpellLevelLine"
+msgid "{0} is immune to level {1} spells or below, and is unaffected by {2}"
+msgstr ""
+
+msgctxt "ImmuneToSpellLevelFormat"
+msgid "Immune Level {0} Spells"
+msgstr ""
+
+msgctxt "NewContenderConsoleLine"
+msgid "{0} enters the battle."
+msgstr ""
+
+msgctxt "AdditionalDamageRageFormat"
+msgid "Rage Damage!"
+msgstr ""
+
+msgctxt "AdditionalDamageRageLine"
+msgid "{0} is raging and deals more damage on {1} (+{2})"
+msgstr ""
+
+msgctxt "AdditionalDamageBrutalCriticalFormat"
+msgid "Brutal Critical!"
+msgstr ""
+
+msgctxt "AdditionalDamageBrutalCriticalLine"
+msgid "{0} inflict more damage with Brutal Critical on {1} (+{2})"
+msgstr ""

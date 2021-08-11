@@ -1,0 +1,1082 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "ActiveQuestsAtLocationPluralFormat"
+msgid "{0} active quests: {1}"
+msgstr ""
+
+msgctxt "ActiveQuestsAtLocationSingleFormat"
+msgid "{0} active quest: {1}"
+msgstr ""
+
+msgctxt "AdvancementByAdditionalSlotMultipleFormat"
+msgid "Per {1} spell slots over {0}"
+msgstr ""
+
+msgctxt "AdvancementByAdditionalSlotSingleFormat"
+msgid "Per spell slot over {0}"
+msgstr ""
+
+msgctxt "AdvancementByCasterLevelFormat"
+msgid "At caster levels 5, 11, and 17"
+msgstr ""
+
+msgctxt "AdvancementDurationHours_1_8_24"
+msgid "Duration increases from 1 to 8, then 24 hours"
+msgstr ""
+
+msgctxt "AdvancementDurationMinutes_1_10_480_144_Infinite"
+msgid ""
+"Duration increases from 1 minute to 10, to 8 hours, to 24 hours, to infinite"
+msgstr ""
+
+msgctxt "AdvancementGainAdditionalDiceMultipleFormat"
+msgid "{0} dice "
+msgstr ""
+
+msgctxt "AdvancementGainAdditionalDiceSingleFormat"
+msgid "{0} die "
+msgstr ""
+
+msgctxt "AdvancementGainAdditionalHPFormat"
+msgid "{0} max hit points"
+msgstr ""
+
+msgctxt "AdvancementGainAdditionalItemBonusFormat"
+msgid "{0} item bonus (max {1})"
+msgstr ""
+
+msgctxt "AdvancementGainAdditionalSpellLevelMultipleFormat"
+msgid "{0} spell levels "
+msgstr ""
+
+msgctxt "AdvancementGainAdditionalSpellLevelSingleFormat"
+msgid "{0} spell level "
+msgstr ""
+
+msgctxt "AdvancementGainAdditionalSummonMultipleFormat"
+msgid "{0} summoned creatures"
+msgstr ""
+
+msgctxt "AdvancementGainAdditionalSummonSingleFormat"
+msgid "{0} summoned creature"
+msgstr ""
+
+msgctxt "AdvancementGainAdditionalTargetMultipleFormat"
+msgid "{0} targets "
+msgstr ""
+
+msgctxt "AdvancementGainAdditionalTargetSingleFormat"
+msgid "{0} target "
+msgstr ""
+
+msgctxt "AdvancementGainAdditionalTempHPFormat"
+msgid "{0} temporary hit points"
+msgstr ""
+
+msgctxt "AdvancementTitle"
+msgid "At Higher Levels"
+msgstr ""
+
+msgctxt "AdvantageTrendsTitle"
+msgid "Advantage/Disadvantage"
+msgstr ""
+
+msgctxt "AmmunitionEffectsTitle"
+msgid "Additional Damage/Effect"
+msgstr ""
+
+msgctxt "ArmorEffectsTitle"
+msgid "Armor Effects"
+msgstr ""
+
+msgctxt "CantripSubtitleFormat"
+msgid "{0} Cantrip\n"
+msgstr ""
+
+msgctxt "ChallengeDifficultyTitle"
+msgid "Challenge Rating"
+msgstr ""
+
+msgctxt "CompatibleProficienciesHeaderTitle"
+msgid "Compatible Proficiencies"
+msgstr ""
+
+msgctxt "ContainerEmptyDescription"
+msgid "Empty"
+msgstr ""
+
+msgctxt "ContainerUnknownContentDescription"
+msgid "Unknown Content"
+msgstr ""
+
+msgctxt "CoverHeaderTitle"
+msgid "Cover"
+msgstr ""
+
+msgctxt "CraftingDifficultyTitle"
+msgid "Crafting DC"
+msgstr ""
+
+msgctxt "CraftingDurationTitle"
+msgid "Duration"
+msgstr ""
+
+msgctxt "CurrentlyEquipedTitle"
+msgid "Currently Equipped"
+msgstr ""
+
+msgctxt "DeviceChargesMaxPlural"
+msgid "{0} charges"
+msgstr ""
+
+msgctxt "DeviceChargesMaxSingle"
+msgid "{0} charge"
+msgstr ""
+
+msgctxt "DeviceFunctionRemainingCooldown"
+msgid "cooldown {0}"
+msgstr ""
+
+msgctxt "DeviceFunctionsTitle"
+msgid "Item Function(s)"
+msgstr ""
+
+msgctxt "DeviceFunctionsUnknown"
+msgid "Unknown"
+msgstr ""
+
+msgctxt "DeviceRechargeTitle"
+msgid "Recharge"
+msgstr ""
+
+msgctxt "DeviceUsageTitle"
+msgid "Usage"
+msgstr ""
+
+msgctxt "DurationTitle"
+msgid "Duration"
+msgstr ""
+
+msgctxt "EffectDurationTitle"
+msgid "Duration"
+msgstr ""
+
+msgctxt "FeatPrerequisiteAbilityScoreFormat"
+msgid "Min {0} {1}"
+msgstr ""
+
+msgctxt "FeatPrerequisiteCastSpellTitle"
+msgid "Ability to Cast Spells"
+msgstr ""
+
+msgctxt "FeatPrerequisiteClassesFormat"
+msgid ""
+"Compatible Classes:\n"
+"{0}"
+msgstr ""
+
+msgctxt "FeatPrerequisiteFeatsFormat"
+msgid ""
+"Required Feats:\n"
+"{0}"
+msgstr ""
+
+msgctxt "FeatPrerequisiteRacesFormat"
+msgid "Compatible Ancestries: {0}"
+msgstr ""
+
+msgctxt "FeatPrerequisitesTitle"
+msgid "Prerequisites"
+msgstr ""
+
+msgctxt "FeatRedundantDescription"
+msgid ""
+"You already possess some or all of the benefits of this Feat, making it a "
+"less useful choice."
+msgstr ""
+
+msgctxt "FeatTitle"
+msgid "Feat"
+msgstr ""
+
+msgctxt "HoldForMoreInfoTitle"
+msgid "Hold <Alt> for more info"
+msgstr ""
+
+msgctxt "IngredientsHeaderTitle"
+msgid "Required Ingredients"
+msgstr ""
+
+msgctxt "LightingBrightFormat"
+msgid "In Bright Light"
+msgstr ""
+
+msgctxt "LightingDarknessFormat"
+msgid "In Darkness"
+msgstr ""
+
+msgctxt "LightingDimFormat"
+msgid "In Dim Light"
+msgstr ""
+
+msgctxt "LightingTargetBrightFormat"
+msgid "{0} is in Bright Light"
+msgstr ""
+
+msgctxt "LightingTargetDarknessFormat"
+msgid "{0} is in Darkness"
+msgstr ""
+
+msgctxt "LightingTargetDimFormat"
+msgid "{0} is in Dim Light"
+msgstr ""
+
+msgctxt "LightingTargetUnlitFormat"
+msgid "{0} is unlit."
+msgstr ""
+
+msgctxt "LightingUnlitFormat"
+msgid "Unlit"
+msgstr ""
+
+msgctxt "LightSourceEffectsTitle"
+msgid "Lighting Effects"
+msgstr ""
+
+msgctxt "NotProficientFormat"
+msgid "{0} is not proficient with this item and cannot equip it."
+msgstr ""
+
+msgctxt "PowerActivationTimeTitle"
+msgid "Activation"
+msgstr ""
+
+msgctxt "PowerEffectsTitle"
+msgid "Power Effects"
+msgstr ""
+
+msgctxt "PowerRechargeTitle"
+msgid "Recharge"
+msgstr ""
+
+msgctxt "PowerUsesTitle"
+msgid "Uses"
+msgstr ""
+
+msgctxt "PropertiesTitle"
+msgid "Properties"
+msgstr ""
+
+msgctxt "ProximityLongRangeTitle"
+msgid "Long Range Attack"
+msgstr ""
+
+msgctxt "ProximityRangeEnemyNearbyTitle"
+msgid "Ranged attack with Enemy Nearby"
+msgstr ""
+
+msgctxt "ProxyControlableTitle"
+msgid "Controllable Magical Effect"
+msgstr ""
+
+msgctxt "ProxyStaticTitle"
+msgid "Static Magic Effect"
+msgstr ""
+
+msgctxt "RecipeTitle"
+msgid "Crafting Option"
+msgstr ""
+
+msgctxt "RemainingDurationTitle"
+msgid "Remaining duration"
+msgstr ""
+
+msgctxt "RequiredSpellHeaderTitle"
+msgid "Required Spell"
+msgstr ""
+
+msgctxt "SavingThrowTitle"
+msgid "Saving Throw"
+msgstr ""
+
+msgctxt "SourceHasFeatFormat"
+msgid "{0} has {1} Feat"
+msgstr ""
+
+msgctxt "SourceHasFightingStyleFormat"
+msgid "{0} has {1} Fighting Style"
+msgstr ""
+
+msgctxt "SourceHasFormat"
+msgid "{0} has {1}"
+msgstr ""
+
+msgctxt "SourceUsesItemFormat"
+msgid "{0} uses {1}"
+msgstr ""
+
+msgctxt "SpaceCapacityTitle"
+msgid "Storage Capacity"
+msgstr ""
+
+msgctxt "SpaceTitle"
+msgid "Space"
+msgstr ""
+
+msgctxt "SpellbookContentTitle"
+msgid "Spellbook Contents"
+msgstr ""
+
+msgctxt "SpellCastingTimeTitle"
+msgid "Casting Time"
+msgstr ""
+
+msgctxt "SpellComponentsTitle"
+msgid "Components"
+msgstr ""
+
+msgctxt "SpellEffectsTitle"
+msgid "Spell Effects"
+msgstr ""
+
+msgctxt "SpellRangeTitle"
+msgid "Range"
+msgstr ""
+
+msgctxt "SpellSubtitleFormat"
+msgid "Level {0} {1}"
+msgstr ""
+
+msgctxt "SpellTargetTitle"
+msgid "Target"
+msgstr ""
+
+msgctxt "StackSizeTitle"
+msgid "Stack Size"
+msgstr ""
+
+msgctxt "StarterPackContentTitle"
+msgid "Contents"
+msgstr ""
+
+msgctxt "SubspellsEffectsTitle"
+msgid "Subspell Effects"
+msgstr ""
+
+msgctxt "TagAmmunitionTitle"
+msgid "Ammunition"
+msgstr ""
+
+msgctxt "TagAreaOfEffectTitle"
+msgid "Area of Effect"
+msgstr ""
+
+msgctxt "TagAttunementTitle"
+msgid "Attunement"
+msgstr ""
+
+msgctxt "TagBreakConcentrationTitle"
+msgid "Break Concentration"
+msgstr ""
+
+msgctxt "TagBuffTitle"
+msgid "Buff"
+msgstr ""
+
+msgctxt "TagCarryingCapacityTitle"
+msgid "Carrying Capacity"
+msgstr ""
+
+msgctxt "TagChannelDivinityTitle"
+msgid "Channel Divinity"
+msgstr ""
+
+msgctxt "TagComponentTitle"
+msgid "Component"
+msgstr ""
+
+msgctxt "TagConcentrationTitle"
+msgid "Concentration"
+msgstr ""
+
+msgctxt "TagConsumableTitle"
+msgid "Consumable"
+msgstr ""
+
+msgctxt "TagControlTitle"
+msgid "Control"
+msgstr ""
+
+msgctxt "TagCounterTitle"
+msgid "Counter"
+msgstr ""
+
+msgctxt "TagCurseTitle"
+msgid "Curse"
+msgstr ""
+
+msgctxt "TagDamageAcidTitle"
+msgid "Acid Damage"
+msgstr ""
+
+msgctxt "TagDamageBludgeoningTitle"
+msgid "Bludgeoning Damage"
+msgstr ""
+
+msgctxt "TagDamageColdTitle"
+msgid "Cold Damage"
+msgstr ""
+
+msgctxt "TagDamageFireTitle"
+msgid "Fire Damage"
+msgstr ""
+
+msgctxt "TagDamageForceTitle"
+msgid "Force Damage"
+msgstr ""
+
+msgctxt "TagDamageLightningTitle"
+msgid "Lightning Damage"
+msgstr ""
+
+msgctxt "TagDamageNecroticTitle"
+msgid "Necrotic Damage"
+msgstr ""
+
+msgctxt "TagDamagePiercingTitle"
+msgid "Piercing Damage"
+msgstr ""
+
+msgctxt "TagDamagePoisonTitle"
+msgid "Poison Damage"
+msgstr ""
+
+msgctxt "TagDamagePsychicTitle"
+msgid "Psychic Damage"
+msgstr ""
+
+msgctxt "TagDamageRadiantTitle"
+msgid "Radiant Damage"
+msgstr ""
+
+msgctxt "TagDamageSlashingTitle"
+msgid "Slashing Damage"
+msgstr ""
+
+msgctxt "TagDamageThunderTitle"
+msgid "Thunder Damage"
+msgstr ""
+
+msgctxt "TagDamageTitle"
+msgid "Damage"
+msgstr ""
+
+msgctxt "TagDisperseCloudTitle"
+msgid "Disperse Cloud"
+msgstr ""
+
+msgctxt "TagDissipateSpellsTitle"
+msgid "End Spells"
+msgstr ""
+
+msgctxt "TagDivinationTitle"
+msgid "Divination"
+msgstr ""
+
+msgctxt "TagDocumentTitle"
+msgid "Document"
+msgstr ""
+
+msgctxt "TagExtinguishFireTitle"
+msgid "Extinguish"
+msgstr ""
+
+msgctxt "TagExtinguishLightTitle"
+msgid "Dispel Light"
+msgstr ""
+
+msgctxt "TagFactionRelicTitle"
+msgid "Faction Relic"
+msgstr ""
+
+msgctxt "TagFinesseTitle"
+msgid "Finesse"
+msgstr ""
+
+msgctxt "TagFlamableTitle"
+msgid "Flammable"
+msgstr ""
+
+msgctxt "TagFlamingTitle"
+msgid "Flaming"
+msgstr ""
+
+msgctxt "TagFoodTitle"
+msgid "Food"
+msgstr ""
+
+msgctxt "TagGlassTitle"
+msgid "Glass"
+msgstr ""
+
+msgctxt "TagGoldTitle"
+msgid "Gold"
+msgstr ""
+
+msgctxt "TagHealingTitle"
+msgid "Healing"
+msgstr ""
+
+msgctxt "TagHeavyTitle"
+msgid "Heavy"
+msgstr ""
+
+msgctxt "TagIngredientTitle"
+msgid "Ingredient"
+msgstr ""
+
+msgctxt "TagItemPropertyTitle"
+msgid "Item Buff"
+msgstr ""
+
+msgctxt "TagLeatherTitle"
+msgid "Leather"
+msgstr ""
+
+msgctxt "TagLightSourceTitle"
+msgid "Light Source"
+msgstr ""
+
+msgctxt "TagLightTitle"
+msgid "Light"
+msgstr ""
+
+msgctxt "TagLoadingTitle"
+msgid "Loading"
+msgstr ""
+
+msgctxt "TagMagicalTitle"
+msgid "Magical"
+msgstr ""
+
+msgctxt "TagMeleeTitle"
+msgid "Melee"
+msgstr ""
+
+msgctxt "TagMetalArmorTitle"
+msgid "Metal Armor"
+msgstr ""
+
+msgctxt "TagMetalTitle"
+msgid "Metal"
+msgstr ""
+
+msgctxt "TagMotionTitle"
+msgid "Forced Move"
+msgstr ""
+
+msgctxt "TagPaperTitle"
+msgid "Paper"
+msgstr ""
+
+msgctxt "TagPotionTitle"
+msgid "Potion"
+msgstr ""
+
+msgctxt "TagPowerTitle"
+msgid "Power"
+msgstr ""
+
+msgctxt "TagProtectionTitle"
+msgid "Protection"
+msgstr ""
+
+msgctxt "TagQuestTitle"
+msgid "Quest"
+msgstr ""
+
+msgctxt "TagRangeTitle"
+msgid "Range"
+msgstr ""
+
+msgctxt "TagReachTitle"
+msgid "Reach"
+msgstr ""
+
+msgctxt "TagReactionTitle"
+msgid "Reaction"
+msgstr ""
+
+msgctxt "TagRemoveDarknessTitle"
+msgid "Remove Darkness"
+msgstr ""
+
+msgctxt "TagRevealTrapsTitle"
+msgid "Trap Detection"
+msgstr ""
+
+msgctxt "TagReviveTitle"
+msgid "Revive"
+msgstr ""
+
+msgctxt "TagRitualTitle"
+msgid "Ritual"
+msgstr ""
+
+msgctxt "TagScrollTitle"
+msgid "Scroll"
+msgstr ""
+
+msgctxt "TagShapechangerTitle"
+msgid "Shapechanger"
+msgstr ""
+
+msgctxt "TagSightBlockerTitle"
+msgid "Sight Blocker"
+msgstr ""
+
+msgctxt "TagSilverTitle"
+msgid "Silver"
+msgstr ""
+
+msgctxt "TagSpellFocusTitle"
+msgid "Spell Focus"
+msgstr ""
+
+msgctxt "TagSpellSlotsTitle"
+msgid "Spell Slots"
+msgstr ""
+
+msgctxt "TagSpellTitle"
+msgid "Spell"
+msgstr ""
+
+msgctxt "TagStandardTitle"
+msgid "Standard"
+msgstr ""
+
+msgctxt "TagStealthAdvantageTitle"
+msgid "Stealth Advantage"
+msgstr ""
+
+msgctxt "TagStealthAutofailTitle"
+msgid "Stealth Autofail"
+msgstr ""
+
+msgctxt "TagStealthDisadvantageTitle"
+msgid "Stealth Disadvantage"
+msgstr ""
+
+msgctxt "TagSummonTitle"
+msgid "Summoning"
+msgstr ""
+
+msgctxt "TagTeleportTitle"
+msgid "Teleportation"
+msgstr ""
+
+msgctxt "TagTemporaryHitPointsTitle"
+msgid "Temporary Hit Points"
+msgstr ""
+
+msgctxt "TagThrownTitle"
+msgid "Thrown"
+msgstr ""
+
+msgctxt "TagTorchTitle"
+msgid "Torch"
+msgstr ""
+
+msgctxt "TagTwoHandedTitle"
+msgid "Two-Handed"
+msgstr ""
+
+msgctxt "TagUnlockTitle"
+msgid "Unlock"
+msgstr ""
+
+msgctxt "TagVersatileTitle"
+msgid "Versatile"
+msgstr ""
+
+msgctxt "TagVerticalityTitle"
+msgid "Verticality"
+msgstr ""
+
+msgctxt "TagWarListTitle"
+msgid "War List"
+msgstr ""
+
+msgctxt "TagWoodTitle"
+msgid "Wood"
+msgstr ""
+
+msgctxt "TargetTagMetalArmorTitle"
+msgid "Target Wears Metal Armor"
+msgstr ""
+
+msgctxt "ToolTypeTitle"
+msgid "Crafting Tool"
+msgstr ""
+
+msgctxt "ValueNoneTitle"
+msgid "None"
+msgstr ""
+
+msgctxt "ValueTitle"
+msgid "Value"
+msgstr ""
+
+msgctxt "WeaponEffectsTitle"
+msgid "Effects on Hit"
+msgstr ""
+
+msgctxt "WeightCapacityMultiplierTitle"
+msgid "Carrying Capacity Multiplier"
+msgstr ""
+
+msgctxt "WeightTitle"
+msgid "Weight"
+msgstr ""
+
+msgctxt "TrendConditionIsFormat"
+msgid "{0} is {1}"
+msgstr ""
+
+msgctxt "TrendConditionHasFormat"
+msgid "{0} has {1}"
+msgstr ""
+
+msgctxt "TagDiseasedTitle"
+msgid "Diseased"
+msgstr ""
+
+msgctxt "TagPoisonedTitle"
+msgid "Poisoned"
+msgstr ""
+
+msgctxt "ItemPropertiesTitle"
+msgid "Item Properties"
+msgstr ""
+
+msgctxt "TagDebuffTitle"
+msgid "Debuff"
+msgstr ""
+
+msgctxt "WeaponNotLightWarningDescription"
+msgid ""
+"This weapon is not Light, preventing the character from using a bonus attack "
+"with the off-hand weapon."
+msgstr ""
+
+msgctxt "AmmunitionSelectorPrimaryDescription"
+msgid ""
+"Your equipped ranged weapon will prioritize looking in this inventory slot "
+"for ammunition."
+msgstr ""
+
+msgctxt "AmmunitionSelectorSecondaryDescription"
+msgid ""
+"Your equipped ranged weapon will look for ammunition in this inventory slot "
+"if the primary slot is empty. Click to define this slot as the new primary "
+"source."
+msgstr ""
+
+msgctxt "StealthBreakerCharacterDescription"
+msgid ""
+"May detect a hidden character. A Dexterity (Stealth) check will be performed "
+"at the end of the hidden character's turn."
+msgstr ""
+
+msgctxt "ItemDynamicPropertyFormat"
+msgid "{0}: {1}"
+msgstr ""
+
+msgctxt "ItemDynamicPropertyRemainingUseAttackSingleFormat"
+msgid "Remaining uses: {0} attack"
+msgstr ""
+
+msgctxt "ItemDynamicPropertyRemainingUseAttackPluralFormat"
+msgid "Remaining uses: {0} attacks"
+msgstr ""
+
+msgctxt "ItemDynamicPropertyRemainingUseHitSingleFormat"
+msgid "Remaining uses: {0} hit"
+msgstr ""
+
+msgctxt "ItemDynamicPropertyRemainingUseHitPluralFormat"
+msgid "Remaining uses: {0} hits"
+msgstr ""
+
+msgctxt "ItemPropertyFormUsesAttackSingleFormat"
+msgid "({0} attack)"
+msgstr ""
+
+msgctxt "ItemPropertyFormUsesAttackPluralFormat"
+msgid "({0} attacks)"
+msgstr ""
+
+msgctxt "ItemPropertyFormUsesHitSingleFormat"
+msgid "({0} hit)"
+msgstr ""
+
+msgctxt "ItemPropertyFormUsesHitPluralFormat"
+msgid "({0} hits)"
+msgstr ""
+
+msgctxt "ItemRarityCommonTitle"
+msgid "Common"
+msgstr ""
+
+msgctxt "ItemRarityUncommonTitle"
+msgid "Uncommon"
+msgstr ""
+
+msgctxt "ItemRarityRareTitle"
+msgid "Rare"
+msgstr ""
+
+msgctxt "ItemRarityVeryRareTitle"
+msgid "Very Rare"
+msgstr ""
+
+msgctxt "ItemRarityLegendaryTitle"
+msgid "Legendary"
+msgstr ""
+
+msgctxt "OutOfDarkvisionRangeFormat"
+msgid "(Out of Darkvision range)"
+msgstr ""
+
+msgctxt "TagPerishableTitle"
+msgid "Perishable"
+msgstr ""
+
+msgctxt "TagAbilityScoreIncreaseTitle"
+msgid "Ability Increase"
+msgstr ""
+
+msgctxt "TrendMonsterAttackFormat"
+msgid "{0} attack"
+msgstr ""
+
+msgctxt "DamageBonusTrendTitle"
+msgid "Damage Bonus: {0}"
+msgstr ""
+
+msgctxt "TrendBaseTitle"
+msgid "Base"
+msgstr ""
+
+msgctxt "AttackRollAdditiveTrendsFormat"
+msgid "Attack roll modifier: {0}"
+msgstr ""
+
+msgctxt "SavingThrowAdditiveTrendsFormat"
+msgid "Saving throw modifier: {0}"
+msgstr ""
+
+msgctxt "AbilityCheckAdditiveTrendsFormat"
+msgid "Ability check modifier: {0}"
+msgstr ""
+
+msgctxt "TrendCoverFormat"
+msgid "Cover"
+msgstr ""
+
+msgctxt "SaveVersionWarningDescription"
+msgid ""
+"This save is from an earlier version of the game and you may encounter "
+"compatibility issues."
+msgstr ""
+
+msgctxt "TrendKnownSpellFormat"
+msgid "{0} is a known spell."
+msgstr ""
+
+msgctxt "InvalidComponentRequirementTitle"
+msgid "Missing Spell Components"
+msgstr ""
+
+msgctxt "TagIvoryTitle"
+msgid "Ivory"
+msgstr ""
+
+msgctxt "TagPearlTitle"
+msgid "Pearl"
+msgstr ""
+
+msgctxt "TagGemTitle"
+msgid "Gem"
+msgstr ""
+
+msgctxt "TagDiamondTitle"
+msgid "Diamond"
+msgstr ""
+
+msgctxt "SpecificComponentConsumedFormat"
+msgid "{0}, at least {1} (consumed)"
+msgstr ""
+
+msgctxt "SpecificComponentNotConsumedFormat"
+msgid "{0}, at least {1} (not consumed)"
+msgstr ""
+
+msgctxt "TagPoisonTitle"
+msgid "Poison"
+msgstr ""
+
+msgctxt "PowerUsesAbilityScoreFormat"
+msgid "{0} bonus"
+msgstr ""
+
+msgctxt "PowerUsesAbilityScorePlusFixedFormat"
+msgid "{0} bonus +{1}"
+msgstr ""
+
+msgctxt "PowerUsesProficiencyBonusTitle"
+msgid "Prof. Bonus"
+msgstr ""
+
+msgctxt "TrendDifficultyFormat"
+msgid "Difficulty Modifier"
+msgstr ""
+
+msgctxt "TagInDimLightOrDarknessTitle"
+msgid "Low Light"
+msgstr ""
+
+msgctxt "RecurrentEffectTitle"
+msgid "Recurrent Effect:"
+msgstr ""
+
+msgctxt "FeatPrerequisiteArmorProficiencyFormat"
+msgid "Requires proficiency: {0}"
+msgstr ""
+
+msgctxt "TagKillTitle"
+msgid "Instant Kill"
+msgstr ""
+
+msgctxt "TagLightUpTitle"
+msgid "Light Up"
+msgstr ""
+
+msgctxt "CampaignNodePortalDescription"
+msgid "A Major Gate allows you to teleport to or from this location."
+msgstr ""
+
+msgctxt "UnusedInSolastaDescription"
+msgid ""
+"Although part of the ruleset and valid for roleplaying purposes, this "
+"element is not used in the Crown of the Magister main campaign."
+msgstr ""
+
+msgctxt "TagOrcTitle"
+msgid "Orc"
+msgstr ""
+
+msgctxt "PowerUsesAbilityScorePlusFixed"
+msgid "1 + CHA bonus"
+msgstr ""
+
+msgctxt "DeityMarkFormat"
+msgid "This item bears the symbol of {0}"
+msgstr ""
+
+msgctxt "WeaponNoAmmunitionWarningDescription"
+msgid "No valid ammunition."
+msgstr ""
+
+msgctxt "SorceryPointsDescription"
+msgid ""
+"The pool of sorcery points can be used to perform metamagic actions and "
+"alter spell effects"
+msgstr ""
+
+msgctxt "TagBleedingTitle"
+msgid "Bleeding"
+msgstr ""
+
+msgctxt "LootPackContentTitle"
+msgid "Loot Pack Content:"
+msgstr ""
+
+msgctxt "TrapEffectsTitle"
+msgid "Trap Effects"
+msgstr ""
+
+msgctxt "EnvironmentEffectsTitle"
+msgid "Environment Effects"
+msgstr ""
+
+msgctxt "RandomItemSingleTitle"
+msgid "Random Item - "
+msgstr ""
+
+msgctxt "RandomItemPluralTitle"
+msgid "Random Items - "
+msgstr ""
+
+msgctxt "EditorFilterLightsDescription"
+msgid "Show / hide light sources"
+msgstr ""
+
+msgctxt "EditorFilterActivatorLinksDescription"
+msgid "Show / hide activator links"
+msgstr ""
+
+msgctxt "EditorFilterShortcutsDescription"
+msgid "Show/hide keyboard shortcuts"
+msgstr ""
+
+msgctxt "UserGadgetCanBeActivated"
+msgid "This gadget can be remotely triggered by an activator gadget"
+msgstr ""
+
+msgctxt "TrendMetamagicFormat"
+msgid "Metamagic: {0}"
+msgstr ""
+
+msgctxt "IronManModeDescription"
+msgid ""
+"In Iron Man mode only the latest save can be loaded and all saves are "
+"destroyed if the group is defeated.\n"
+"This option cannot be changed during the game."
+msgstr ""
+
+msgctxt "AdvancementGainAdditionalSubtargetMultipleFormat"
+msgid "{0} subtargets "
+msgstr ""
+
+msgctxt "AdvancementGainAdditionalSubtargetSingleFormat"
+msgid "{0} subtarget "
+msgstr ""
+
+msgctxt "MetamagicVariableCostSpellLevelDescription"
+msgid "The cost depends on the spell level"
+msgstr ""
+
+msgctxt "TagArcaneFocusTitle"
+msgid "Arcane Focus"
+msgstr ""
+
+msgctxt "TagDivineFocusTitle"
+msgid "Divine Focus"
+msgstr ""
+
+msgctxt "TagDruidicFocusTitle"
+msgid "Druidic Focus"
+msgstr ""

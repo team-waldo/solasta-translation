@@ -1,0 +1,119 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "CaveDescription"
+msgid ""
+"An underground structure which might hold unexpected riches and dangers."
+msgstr ""
+
+msgctxt "CaveTitle"
+msgid "Cave"
+msgstr ""
+
+msgctxt "Forest ruinDescription"
+msgid ""
+"In the middle of the forest, you come across a small ruin from ancient times."
+msgstr ""
+
+msgctxt "Forest ruinTitle"
+msgid "Forest Ruin"
+msgstr ""
+
+msgctxt "FortressDescription"
+msgid "A fortified structure built for defensive purposes."
+msgstr ""
+
+msgctxt "FortressTitle"
+msgid "Fortress"
+msgstr ""
+
+msgctxt "ManacalonOracleDescription"
+msgid ""
+"You come across an ancient oracle, a kind of temple where Manacalon "
+"plebeians worshipped the masters of magic."
+msgstr ""
+
+msgctxt "ManacalonOracleTitle"
+msgid "Manacalon Oracle"
+msgstr ""
+
+msgctxt "ManacalonPrisonDescription"
+msgid ""
+"You come across a ruined underground structure, a jail where the elves of "
+"the Manacalon Empire kept their prisoners."
+msgstr ""
+
+msgctxt "ManacalonPrisonTitle"
+msgid "Manacalon Prison"
+msgstr ""
+
+msgctxt "RuinDescription"
+msgid "The remnants of an ancient structure, full of mystery and opportunity."
+msgstr ""
+
+msgctxt "RuinTitle"
+msgid "Ruin"
+msgstr ""
+
+msgctxt "TownDescription"
+msgid "A well-settled place, offering basic services."
+msgstr ""
+
+msgctxt "TownTitle"
+msgid "Town"
+msgstr ""
+
+msgctxt "UnknownDescription"
+msgid "The type of this location is unknown."
+msgstr ""
+
+msgctxt "UnknownTitle"
+msgid "Unknown"
+msgstr ""
+
+msgctxt "ManacalonOracleKnownTitle"
+msgid "The Oracle"
+msgstr ""
+
+msgctxt "ManacalonOracleKnownDescription"
+msgid ""
+"On a riverside there is a ruined Manacalon building that Kythaela called the "
+"Oracle."
+msgstr ""
+
+msgctxt "ManacalonPrisonKnownTitle"
+msgid "The Dungeons"
+msgstr ""
+
+msgctxt "ManacalonPrisonKnownDescription"
+msgid ""
+"Apparently, this was an Imperial prison. Kythaela said it dated back to the "
+"Elven Wars."
+msgstr ""
+
+msgctxt "ForestTitle"
+msgid "Forest"
+msgstr ""
+
+msgctxt "ForestDescription"
+msgid "An outdoor area of woods and forests."
+msgstr ""
+
+msgctxt "SwampTitle"
+msgid "Swamp"
+msgstr ""
+
+msgctxt "SwampDescription"
+msgid "An outdoor area of marshes."
+msgstr ""

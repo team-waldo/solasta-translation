@@ -1,0 +1,323 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "JumpFromCaption"
+msgid "Select a spot to jump from."
+msgstr ""
+
+msgctxt "JumpToCaption"
+msgid "Select a spot to jump to."
+msgstr ""
+
+msgctxt "LandingPositionCaption"
+msgid "Select a place to climb to."
+msgstr ""
+
+msgctxt "LevitateDestinationCaption"
+msgid "Select a levitation destination for your target."
+msgstr ""
+
+msgctxt "OutOfRangeCaption"
+msgid "You are out of range!"
+msgstr ""
+
+msgctxt "ProxyActionTitle"
+msgid "Magical Effect Control"
+msgstr ""
+
+msgctxt "ProxyAttackCaption"
+msgid "Select a target to attack with the magic effect."
+msgstr ""
+
+msgctxt "ProxyMoveAndAttackCaption"
+msgid "Select destination to move the magical effect or a target to attack."
+msgstr ""
+
+msgctxt "ProxyMoveCaption"
+msgid "Select a destination to move the magic effect."
+msgstr ""
+
+msgctxt "SelectPositionMultipleCaption"
+msgid "Select {0} positions"
+msgstr ""
+
+msgctxt "SelectPositionSingleCaption"
+msgid "Select a position"
+msgstr ""
+
+msgctxt "ShapeConeDirectionCaption"
+msgid "Select a direction for the cone of effect."
+msgstr ""
+
+msgctxt "ShapeCubePositionCaption"
+msgid "Select a position for the cube of effect."
+msgstr ""
+
+msgctxt "ShapeCylinderPositionCaption"
+msgid "Select a position for the cylinder of effect."
+msgstr ""
+
+msgctxt "ShapeLineDirectionCaption"
+msgid "Select a direction for the line of effect."
+msgstr ""
+
+msgctxt "ShapeSpherePositionCaption"
+msgid "Select a position for the sphere of effect."
+msgstr ""
+
+msgctxt "ShapeWallLineExtremityCaption"
+msgid "Select an end for the wall effect."
+msgstr ""
+
+msgctxt "ShapeWallLineInvalid"
+msgid "The line of effect cannot be placed here."
+msgstr ""
+
+msgctxt "ShapeWallLineOriginCaption"
+msgid "Select an origin for the wall effect."
+msgstr ""
+
+msgctxt "ShapeWallLineOutOfLengthCaption"
+msgid "The line of effect is too long!"
+msgstr ""
+
+msgctxt "ShapeWallRingPositionCaption"
+msgid "Select a position for the circle of effect."
+msgstr ""
+
+msgctxt "ShoveSelectDestinationCaption"
+msgid "Push the creature back, or knock it down?"
+msgstr ""
+
+msgctxt "ShoveSelectTargetCaption"
+msgid "Select a target to shove."
+msgstr ""
+
+msgctxt "ShoveTargetCannotPushAwayCaption"
+msgid "No room to push the target away."
+msgstr ""
+
+msgctxt "ShoveTargetImmuneCaption"
+msgid "Target is immune to shoving."
+msgstr ""
+
+msgctxt "ShoveTargetOutOfReachCaption"
+msgid "Target is out of reach."
+msgstr ""
+
+msgctxt "ShoveTargetProneCaption"
+msgid "You cannot shove a prone target!"
+msgstr ""
+
+msgctxt "ShoveTargetTooBigCaption"
+msgid "Target is too big for this creature to shove"
+msgstr ""
+
+msgctxt "TargetAwakenDescription"
+msgid "Click to awaken this sleeping character."
+msgstr ""
+
+msgctxt "TargetFilteringAllyCreature"
+msgid "Ally Creature"
+msgstr ""
+
+msgctxt "TargetFilteringCreature"
+msgid "Creature"
+msgstr ""
+
+msgctxt "TargetFilteringEffectProxy"
+msgid "Magical Effect"
+msgstr ""
+
+msgctxt "TargetFilteringEnemyCreature"
+msgid "Enemy Creature"
+msgstr ""
+
+msgctxt "TargetFilteringGadget"
+msgid "Object"
+msgstr ""
+
+msgctxt "TargetMultipleCaption"
+msgid ""
+"Select {1} targets ({0}).\n"
+"\n"
+"<#B0B0B0>You can select each target multiple times.</color>"
+msgstr ""
+
+msgctxt "TargetMultipleUniqueCaption"
+msgid ""
+"Select {1} targets ({0}).\n"
+"<#B0B0B0>You can select each target only once.</color>"
+msgstr ""
+
+msgctxt "TargetProximityMultipleCaption"
+msgid "<#B0B0B0>Targets must be within {0} cells of each other.</color>"
+msgstr ""
+
+msgctxt "TargetProximitySingleCaption"
+msgid "<#B0B0B0>Targets must be next to each other.</color>"
+msgstr ""
+
+msgctxt "TargetRequiredConditionCaption"
+msgid "<#B0B0B0>The target must be \"{0}.\"</color>"
+msgstr ""
+
+msgctxt "TargetRequiredCreatureTypeCaption"
+msgid "<#B0B0B0>Targets must be {0}"
+msgstr ""
+
+msgctxt "TargetRequiredUnarmoredCaption"
+msgid "<#B0B0B0>Targets must be unarmored."
+msgstr ""
+
+msgctxt "TargetShareUniqueCaption"
+msgid ""
+"Select any number of targets ({0}) to share the effect ({1}).\n"
+"\n"
+"<#B0B0B0>You can select each target only once.</color>"
+msgstr ""
+
+msgctxt "TargetSingleCaption"
+msgid "Select a target ({0}).\n"
+msgstr ""
+
+msgctxt "TargetStabilizeDescription"
+msgid ""
+"Click to attempt to stabilize this dying character, with a WIS (Medicine) "
+"ability check."
+msgstr ""
+
+msgctxt "CannotBePlacedOnCharacterCaption"
+msgid "You cannot cast this spell directly on a character."
+msgstr ""
+
+msgctxt "TargetsMustPerceiveCasterCaption"
+msgid "Targets must perceive the source of the effect."
+msgstr ""
+
+msgctxt "PositionMustBePerceivedCaption"
+msgid "The position is not perceived."
+msgstr ""
+
+msgctxt "TargetRequiredSizeCaption"
+msgid "Target size must be: {0}"
+msgstr ""
+
+msgctxt "InviteOptionalAllyCaption"
+msgid "Touch an optional ally to bring along."
+msgstr ""
+
+msgctxt "TelekinesisSelectDirection"
+msgid "Select a direction in which to move this creature."
+msgstr ""
+
+msgctxt "EditorNewPropPlacementCaption"
+msgid ""
+"Select a valid position to place this new prop\n"
+"Hold \"Shift\" to place multiple props of this type"
+msgstr ""
+
+msgctxt "EditorExistingPropPlacementCaption"
+msgid "Select a new position for this prop"
+msgstr ""
+
+msgctxt "EditorNewGadgetPlacementCaption"
+msgid ""
+"Select a valid position to place this new gadget\n"
+"Hold \"Shift\" to place multiple gadgets of this type"
+msgstr ""
+
+msgctxt "EditorExistingGadgetPlacementCaption"
+msgid "Select a new position for this gadget"
+msgstr ""
+
+msgctxt "EditorSelectedRoomCaption"
+msgid "Selected Room: {0}"
+msgstr ""
+
+msgctxt "EditorSelectedPropCaption"
+msgid "Selected Prop: {0}"
+msgstr ""
+
+msgctxt "EditorSelectedGadgetCaption"
+msgid "Selected Gadget: {0}"
+msgstr ""
+
+msgctxt "GadgetParametersHeaderTitle"
+msgid "Gadget Parameters:"
+msgstr ""
+
+msgctxt "GadgetParametersSelectorTitle"
+msgid "Select"
+msgstr ""
+
+msgctxt "GadgetParametersSelectorDescription"
+msgid ""
+"Click to select a corresponding element (monster, item, loot pack) in the "
+"database"
+msgstr ""
+
+msgctxt "GadgetParametersAddTitle"
+msgid "Add Element"
+msgstr ""
+
+msgctxt "GadgetParametersAddDescription"
+msgid "Add a corresponding element (monster, item, loot pack) to the list"
+msgstr ""
+
+msgctxt "GadgetParametersRemoveDescription"
+msgid "Remove the selected element"
+msgstr ""
+
+msgctxt "GadgetParametersNoneTitle"
+msgid "<Empty>"
+msgstr ""
+
+msgctxt "EditorNewRoomPlacementCaption"
+msgid ""
+"Select a valid position to place this new room\n"
+"Hold \"Shift\" to place multiple rooms of this type"
+msgstr ""
+
+msgctxt "EditorExistingRoomPlacementCaption"
+msgid "Select a new position for this room"
+msgstr ""
+
+msgctxt "GadgetParametersLocationSelectorDescription"
+msgid "Click to select a destination location from a list"
+msgstr ""
+
+msgctxt "GadgetListAddTitle"
+msgid "Add Gadget"
+msgstr ""
+
+msgctxt "GadgetListAddDescription"
+msgid "Allows you to click and a select a target gadget"
+msgstr ""
+
+msgctxt "EditorSelectTargetGadgetDescription"
+msgid "Select a target gadget"
+msgstr ""
+
+msgctxt "TargetArcSubtargetSingleCaption"
+msgid ""
+"<#B0B0B0>The effect will arc to {0} additional subtarget within {1} "
+"cells.</color>"
+msgstr ""
+
+msgctxt "TargetArcSubtargetMultipleCaption"
+msgid ""
+"<#B0B0B0>The effect will arc to {0} additional subtargets within {1} "
+"cells.</color>"
+msgstr ""

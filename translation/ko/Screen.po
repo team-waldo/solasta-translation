@@ -1,0 +1,3363 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "AbilityScoreBonusDescription"
+msgid "The bonus to this ability score, based on your current choices."
+msgstr ""
+
+msgctxt "AbilityScoreBonusEditableDescription"
+msgid ""
+"The bonus to this ability score value, which you can adjust with your "
+"remaining points."
+msgstr ""
+
+msgctxt "AbilityScoresAssignTitle"
+msgid "Drag and drop your rolls onto ability score cells, or auto assign."
+msgstr ""
+
+msgctxt "AbilityScoresEditPointsTitle"
+msgid "Edit your rolls using your remaining points."
+msgstr ""
+
+msgctxt "AbilityScoresMethodTitle"
+msgid "Select Ability Score Generation Method"
+msgstr ""
+
+msgctxt "AbortCreationDescription"
+msgid "Cancels the character creation process."
+msgstr ""
+
+msgctxt "AbortLevelUpDescription"
+msgid "Cancels the character level up process."
+msgstr ""
+
+msgctxt "AbortTitle"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "ActiveQuestsFormatPlural"
+msgid "Your team has {0} active quests."
+msgstr ""
+
+msgctxt "ActiveQuestsFormatSingle"
+msgid "Your team has one active quest."
+msgstr ""
+
+msgctxt "AddCharacterDescription"
+msgid "Adds a character from your pool of local characters."
+msgstr ""
+
+msgctxt "AddCharacterTitle"
+msgid "Add Character"
+msgstr ""
+
+msgctxt "AddNewClassTitle"
+msgid "Add New Class"
+msgstr ""
+
+msgctxt "AnswerChoiceTitle"
+msgid "Select an Answer"
+msgstr ""
+
+msgctxt "AscendDescription"
+msgid "Elevate the horizontal plane by one cell."
+msgstr ""
+
+msgctxt "AttackDamageDescription"
+msgid "The damage this attack causes on a successful hit."
+msgstr ""
+
+msgctxt "AttackDamageTitle"
+msgid "dmg"
+msgstr ""
+
+msgctxt "AttackRollFooterTitle"
+msgid "Attack"
+msgstr ""
+
+msgctxt "AttackToHitDescription"
+msgid "The bonus added to d20 attack rolls with this attack."
+msgstr ""
+
+msgctxt "AttackToHitTitle"
+msgid "to Hit"
+msgstr ""
+
+msgctxt "AttunableItemsTitle"
+msgid "Items that can be attuned."
+msgstr ""
+
+msgctxt "AttunableItemsWarningFormat"
+msgid "{0} has reached the limit of {1} attunable items."
+msgstr ""
+
+msgctxt "AttunementExecutedWarningDescription"
+msgid "Remove attunement to this item in order to attune to a different item."
+msgstr ""
+
+msgctxt "AttunementExecutedWarningTitle"
+msgid "{0} has reached the attunement limit for this rest."
+msgstr ""
+
+msgctxt "AttunementRemoveTitle"
+msgid "Remove"
+msgstr ""
+
+msgctxt "AvailableSlotsDescription"
+msgid ""
+"The number of spells of this level that you can cast. You can use one of "
+"these slots to cast a lower level spell, which may increase its effect."
+msgstr ""
+
+msgctxt "AvailableSlotsTitle"
+msgid "Available Slots:"
+msgstr ""
+
+msgctxt "BackgroundFeaturesTitle"
+msgid "Background Features"
+msgstr ""
+
+msgctxt "BackgroundHeaderTitle"
+msgid "Background"
+msgstr ""
+
+msgctxt "BackTitle"
+msgid "Back"
+msgstr ""
+
+msgctxt "BattleIntroTitle"
+msgid "A Battle Starts!"
+msgstr ""
+
+msgctxt "BattleVictoryTitle"
+msgid "Victory!"
+msgstr ""
+
+msgctxt "BonusAttackTitle"
+msgid "Bonus Attack"
+msgstr ""
+
+msgctxt "CancelTitle"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "CaptionAbortDescription"
+msgid "Abort this action."
+msgstr ""
+
+msgctxt "CaptionAbortTitle"
+msgid "Abort"
+msgstr ""
+
+msgctxt "CaptionProceedDescription"
+msgid "Execute your action even though it is incomplete."
+msgstr ""
+
+msgctxt "CaptionProceedTitle"
+msgid "Proceed"
+msgstr ""
+
+msgctxt "CastLightButtonDescription"
+msgid "Click to cast a light cantrip on one of your hand-held items."
+msgstr ""
+
+msgctxt "ChanelDivinityRecoveredDescription"
+msgid "All uses of Channel Divinity are restored."
+msgstr ""
+
+msgctxt "CharacterInformationTitle"
+msgid "Character"
+msgstr ""
+
+msgctxt "CharacterInfoTitle"
+msgid "Character Info"
+msgstr ""
+
+msgctxt "CharacterInspectionModeBattleAvailableTitle"
+msgid "The character can perform one free/inventory action per combat round."
+msgstr ""
+
+msgctxt "CharacterInspectionModeBattleSpentTitle"
+msgid ""
+"The character has spent the free/inventory action for this combat round."
+msgstr ""
+
+msgctxt "CharacterInspectionModeSelectCarriedItemTitle"
+msgid "Select any item to apply this effect."
+msgstr ""
+
+msgctxt "CharacterInspectionModeSelectEquipedItemTitle"
+msgid "Select an equipped item to apply this effect."
+msgstr ""
+
+msgctxt "CharacterInspectionModeSelectMagicalUnidentifiedItemTitle"
+msgid "Select an unidentified magical item to identify."
+msgstr ""
+
+msgctxt "CharacterInspectionModeSelectSpellbookTitle"
+msgid "Select a spellbook with at least {0} blank page(s)."
+msgstr ""
+
+msgctxt "CharacterInspectionModeSelectWeaponNonMagicalTitle"
+msgid "Select a non-magical weapon to apply this effect."
+msgstr ""
+
+msgctxt "CharacterInspectionModeSelectWeaponTitle"
+msgid "Select a weapon to apply this effect."
+msgstr ""
+
+msgctxt "CharacterPersonalityDescriptionTitle"
+msgid ""
+"The personality of a character determines how he/she will behave during "
+"narrative sequences. Some narrative flags will provide variation to dialogs, "
+"while other will open different dialog branches and more generally have the "
+"character play a role fitting his/her personality."
+msgstr ""
+
+msgctxt "CharacterPersonalityBackgroundAlignementDescription"
+msgid ""
+"During character creation, the chosen background and alignment open the "
+"selection of specific personality flags, allowing you to customize the way "
+"your character behaves during narrative sequences."
+msgstr ""
+
+msgctxt "CharactersManagementTitle"
+msgid "Character Management"
+msgstr ""
+
+msgctxt "ChooseFeatureDescription"
+msgid "You must select an option."
+msgstr ""
+
+msgctxt "ChooseFeatureTitle"
+msgid "Choose:"
+msgstr ""
+
+msgctxt "ClassDeityDescription"
+msgid "The divinity that your character follows. Mandatory for some choices."
+msgstr ""
+
+msgctxt "ClassDeityTitle"
+msgid "Deity"
+msgstr ""
+
+msgctxt "ClassFeaturesTitle"
+msgid "Class Features"
+msgstr ""
+
+msgctxt "ClassHeaderTitle"
+msgid "Class"
+msgstr ""
+
+msgctxt "ClassHitDiceDescription"
+msgid ""
+"The dice cast at each level to determine your hit points, and also to "
+"recover lost hit points."
+msgstr ""
+
+msgctxt "ClassHitDiceTitle"
+msgid "Hit Dice"
+msgstr ""
+
+msgctxt "ClassOrMarkerTitle"
+msgid "OR"
+msgstr ""
+
+msgctxt "ClassSelectionTitle"
+msgid "Select a Class"
+msgstr ""
+
+msgctxt "ClearFiltersTitle"
+msgid "Clear Filters"
+msgstr ""
+
+msgctxt "CloseTitle"
+msgid "Close"
+msgstr ""
+
+msgctxt "CompletedQuestsListTitle"
+msgid "Completed Quests"
+msgstr ""
+
+msgctxt "ConfigurationHeaderTitle"
+msgid "Equipped Items Configuration"
+msgstr ""
+
+msgctxt "ContainerSpaceDescription"
+msgid ""
+"Items occupy an amount of space, and containers (backpacks, pouches) can "
+"only fit items up to a space limit."
+msgstr ""
+
+msgctxt "ContainerWeightDescription"
+msgid ""
+"Items all weigh something, and containers can only hold a certain weight."
+msgstr ""
+
+msgctxt "CraftingAbilityCheckTitle"
+msgid "Ability Check"
+msgstr ""
+
+msgctxt "CraftingAbortButtonDescription"
+msgid ""
+"Stops the crafting operation. All progress and spent ingredients are lost."
+msgstr ""
+
+msgctxt "CraftingAbortButtonTitle"
+msgid "Abort Crafting"
+msgstr ""
+
+msgctxt "CraftingBonusTitle"
+msgid "Crafting Bonus: {0}"
+msgstr ""
+
+msgctxt "CraftingDifficultyTitle"
+msgid "Crafting Difficulty"
+msgstr ""
+
+msgctxt "CraftingEstimatedHoursFormat"
+msgid "At least {0} hour(s) are required to craft this item."
+msgstr ""
+
+msgctxt "CraftingIngredientsDescription"
+msgid "The ingredients are consumed when crafting starts."
+msgstr ""
+
+msgctxt "CraftingIngredientsTitle"
+msgid "Ingredients"
+msgstr ""
+
+msgctxt "CraftingInProgressTitle"
+msgid "The type of ability check made by the character."
+msgstr ""
+
+msgctxt "CraftingItemEffectTitle"
+msgid "Item Effects"
+msgstr ""
+
+msgctxt "CraftingNoOptionSelectedTitle"
+msgid "You must select one of the crafting options."
+msgstr ""
+
+msgctxt "CraftingNoSuitableToolTypeDescription"
+msgid "No one in the party possesses {0} type tools."
+msgstr ""
+
+msgctxt "CraftingNoSuitableToolTypeTitle"
+msgid "Not in Inventory"
+msgstr ""
+
+msgctxt "CraftingNotProficientDescription"
+msgid "{0} is not proficient with any of the following: {1}."
+msgstr ""
+
+msgctxt "CraftingNotProficientTitle"
+msgid "Not Proficient"
+msgstr ""
+
+msgctxt "CraftingOptionsTitle"
+msgid "Crafting Options"
+msgstr ""
+
+msgctxt "CraftingRemainingHoursFormat"
+msgid ""
+"At least {0} more hour(s) are required to complete this crafting operation."
+msgstr ""
+
+msgctxt "CraftingRemainingSuccessesTitle"
+msgid "Remaining Ability Check Successes"
+msgstr ""
+
+msgctxt "CraftingRequiredSuccessesDescription"
+msgid ""
+"The actual crafting time depends on the crafting character's ability check "
+"successes. Checks are repeated every hour until crafting is complete."
+msgstr ""
+
+msgctxt "CraftingRequiredSuccessesTitle"
+msgid "Required Successes"
+msgstr ""
+
+msgctxt "CraftingStartButtonDescription"
+msgid "Starts the crafting operation and consumes the ingredients."
+msgstr ""
+
+msgctxt "CraftingStartButtonTitle"
+msgid "Start Crafting"
+msgstr ""
+
+msgctxt "CraftingTitle"
+msgid "Crafting"
+msgstr ""
+
+msgctxt "CraftingUnknownRecipeDescription"
+msgid "You have not learned this crafting option yet."
+msgstr ""
+
+msgctxt "CutscenePauseDescription"
+msgid "Pauses cutscene playback (shortcut: Return)."
+msgstr ""
+
+msgctxt "CutscenePlayDescription"
+msgid "Resumes cutscene playback (shortcut: Return)."
+msgstr ""
+
+msgctxt "CutsceneShutdownDescription"
+msgid "Closes this control panel and resumes playback."
+msgstr ""
+
+msgctxt "CutsceneStepbackDescription"
+msgid ""
+"Go back to the previous narrative state and pause the playback (shortcut: "
+"Backspace)."
+msgstr ""
+
+msgctxt "DeathSavesFailuresTitle"
+msgid "Failures"
+msgstr ""
+
+msgctxt "DeathSavesFormat"
+msgid "{0} is dying and must make a death saving throw."
+msgstr ""
+
+msgctxt "DeathSavesSuccessesTitle"
+msgid "Successes"
+msgstr ""
+
+msgctxt "DeathSavesTitle"
+msgid "Death Saving Throws"
+msgstr ""
+
+msgctxt "DeathTimerFormat"
+msgid "{0} has died, but may be revived by party members. "
+msgstr ""
+
+msgctxt "DeathTimerLargeExpirationNumberDescription"
+msgid "10+"
+msgstr ""
+
+msgctxt "DeathTimerReviveOptionsFormat"
+msgid "{0}'s revive options:"
+msgstr ""
+
+msgctxt "DeathTimerUnavailableDescription"
+msgid "(unavailable)"
+msgstr ""
+
+msgctxt "DeathTimerWithExpirationFormat"
+msgid ""
+"{0} has died, but may be revived by party members.\\n"
+"{1} expires in {2} rounds."
+msgstr ""
+
+msgctxt "DefaultSessionNameFormat"
+msgid "{0}'s game"
+msgstr ""
+
+msgctxt "DescendDescription"
+msgid "Lower the horizontal plane by one cell."
+msgstr ""
+
+msgctxt "DestinyQuestsListTitle"
+msgid "Destiny Quests"
+msgstr ""
+
+msgctxt "DestinyQuestTypeTitle"
+msgid "Destiny Quest"
+msgstr ""
+
+msgctxt "DeviceOverchargeDescription"
+msgid "Add more charges to this effect."
+msgstr ""
+
+msgctxt "DisabledSlotAutoConfigDescription"
+msgid "This slot is disabled as its content is determined automatically."
+msgstr ""
+
+msgctxt "DisabledSlotNoneDescription"
+msgid "This slot is disabled."
+msgstr ""
+
+msgctxt "DisabledSlotTwoHandedEquipedDescription"
+msgid ""
+"This slot is disabled because its paired slot is equipped with a two-handed "
+"item."
+msgstr ""
+
+msgctxt "DismissCharacterDescription"
+msgid "Remove this character from the team."
+msgstr ""
+
+msgctxt "DismissCharacterTitle"
+msgid "Dismiss"
+msgstr ""
+
+msgctxt "DomainSpellDescription"
+msgid ""
+"This domain spell is always considered prepared. \n"
+"It does not count towards your spell preparation limit. "
+msgstr ""
+
+msgctxt "DomainSpellTitle"
+msgid "Domain"
+msgstr ""
+
+msgctxt "DoneTitle"
+msgid "Done"
+msgstr ""
+
+msgctxt "DropItemDescription"
+msgid "Drop the item on the ground."
+msgstr ""
+
+msgctxt "DropItemTitle"
+msgid "Drop"
+msgstr ""
+
+msgctxt "DungeonMasterTitle"
+msgid "[ToRemove] Dungeon Master"
+msgstr ""
+
+msgctxt "EffectFormRollFooterDamageTitle"
+msgid "Damage"
+msgstr ""
+
+msgctxt "EffectFormRollFooterHealingTitle"
+msgid "Healing"
+msgstr ""
+
+msgctxt "EncounterAvoidButtonDescription"
+msgid "Avoid the battle altogether"
+msgstr ""
+
+msgctxt "EncounterAvoidButtonTitle"
+msgid "Hide"
+msgstr ""
+
+msgctxt "EncounterCombatAwareDescription"
+msgid ""
+"Hostile creatures are nearby, but {0} has managed to spot them. What will "
+"you do?"
+msgstr ""
+
+msgctxt "EncounterCombatSurprisedDescription"
+msgid "A group of hostile creatures has managed to surprise you!"
+msgstr ""
+
+msgctxt "EncounterCombatTitle"
+msgid "Combat Encounter"
+msgstr ""
+
+msgctxt "EncounterEventTitle"
+msgid "Game Event"
+msgstr ""
+
+msgctxt "EncounterFightButtonDescription"
+msgid "Starts the battle against the enemy group."
+msgstr ""
+
+msgctxt "EncounterFightButtonTitle"
+msgid "Start Battle"
+msgstr ""
+
+msgctxt "EncounterHeroStatusAsleepDescription"
+msgid "{0} is sleeping and will not act until awoken."
+msgstr ""
+
+msgctxt "EncounterHeroStatusAsleepTitle"
+msgid "Asleep"
+msgstr ""
+
+msgctxt "EncounterHeroStatusAwareDescription"
+msgid "{0} is aware of the approaching enemies."
+msgstr ""
+
+msgctxt "EncounterHeroStatusAwareTitle"
+msgid "Aware"
+msgstr ""
+
+msgctxt "EncounterHeroStatusDeadDescription"
+msgid "{0} was dead at the end of the battle."
+msgstr ""
+
+msgctxt "EncounterHeroStatusDeadTitle"
+msgid "Dead"
+msgstr ""
+
+msgctxt "EncounterHeroStatusHealthyDescription"
+msgid "{0} was healthy at the end of the battle."
+msgstr ""
+
+msgctxt "EncounterHeroStatusHealthyTitle"
+msgid "Healthy"
+msgstr ""
+
+msgctxt "EncounterHeroStatusSeverelyWoundedDescription"
+msgid "{0} was severely wounded at the end of the battle."
+msgstr ""
+
+msgctxt "EncounterHeroStatusSeverelyWoundedTitle"
+msgid "Severely Wounded"
+msgstr ""
+
+msgctxt "EncounterHeroStatusSpotterDescription"
+msgid "{0} has spotted the approaching enemies."
+msgstr ""
+
+msgctxt "EncounterHeroStatusSpotterTitle"
+msgid "Spotter"
+msgstr ""
+
+msgctxt "EncounterHeroStatusSurprisedDescription"
+msgid "{0} is surprised and will not act during the first round of the battle."
+msgstr ""
+
+msgctxt "EncounterHeroStatusSurprisedTitle"
+msgid "Surprised"
+msgstr ""
+
+msgctxt "EncounterHeroStatusUnconsciousDescription"
+msgid "{0} was unconscious at the end of the battle."
+msgstr ""
+
+msgctxt "EncounterHeroStatusUnconsciousTitle"
+msgid "Unconscious"
+msgstr ""
+
+msgctxt "EncounterHeroStatusWoundedDescription"
+msgid "{0} was wounded at the end of the battle."
+msgstr ""
+
+msgctxt "EncounterHeroStatusWoundedTitle"
+msgid "Wounded"
+msgstr ""
+
+msgctxt "EncounterProceedButtonDescription"
+msgid "Start the interaction."
+msgstr ""
+
+msgctxt "EncounterProceedButtonTitle"
+msgid "Proceed"
+msgstr ""
+
+msgctxt "EncounterSurpriseHeaderTitle"
+msgid "Surprise Roll Results"
+msgstr ""
+
+msgctxt "EncumbranceHeavyTitle"
+msgid "Heavy"
+msgstr ""
+
+msgctxt "EncumbranceLightTitle"
+msgid "Light"
+msgstr ""
+
+msgctxt "EncumbranceNoneTitle"
+msgid "None"
+msgstr ""
+
+msgctxt "EncumbranceTitle"
+msgid "Encumbrance"
+msgstr ""
+
+msgctxt "EndTurnDescription"
+msgid "End this character's turn and move on to the next creature to act."
+msgstr ""
+
+msgctxt "EndTurnTitle"
+msgid "End Turn"
+msgstr ""
+
+msgctxt "EquipmentConfigurationSetupTitle"
+msgid "Drag items below to change their configuration."
+msgstr ""
+
+msgctxt "EquipmentTitle"
+msgid "Equipment"
+msgstr ""
+
+msgctxt "EthnicGroupSelectionTitle"
+msgid "Select an origin."
+msgstr ""
+
+msgctxt "ExamineDocumentDescription"
+msgid "Read this document."
+msgstr ""
+
+msgctxt "ExamineDocumentTitle"
+msgid "Read"
+msgstr ""
+
+msgctxt "ExistingClassSelectionTitle"
+msgid "Select an existing class to level up."
+msgstr ""
+
+msgctxt "ExpertiseSuffix"
+msgid "(expert)"
+msgstr ""
+
+msgctxt "ExpertSkillTooltipSuffix"
+msgid "You are an expert at using this skill (add your proficiency bonus x 2)."
+msgstr ""
+
+msgctxt "ExpertToolTypeTooltipSuffix"
+msgid ""
+"You are an expert at using this type of tool (add your proficiency bonus x "
+"2)."
+msgstr ""
+
+msgctxt "ExplorationActionsTitle"
+msgid "Character Actions"
+msgstr ""
+
+msgctxt "FailedQuestsListTitle"
+msgid "Failed Quests"
+msgstr ""
+
+msgctxt "FeatAutoSelectButtonTitle"
+msgid "Auto Select"
+msgstr ""
+
+msgctxt "FeatBackButtonTitle"
+msgid "Back One Step"
+msgstr ""
+
+msgctxt "FeatureListingProficienciesTitle"
+msgid "Proficiencies"
+msgstr ""
+
+msgctxt "FocusCharacterDescription"
+msgid "Click to focus the view on this character."
+msgstr ""
+
+msgctxt "GameContentButtonDescription"
+msgid ""
+"Display the document that details which game content uses the SRD and which "
+"is original."
+msgstr ""
+
+msgctxt "GameContentButtonTitle"
+msgid "Game Content"
+msgstr ""
+
+msgctxt "GameMenuButtonDescription"
+msgid "Opens the game menu."
+msgstr ""
+
+msgctxt "GameMenuTitle"
+msgid "Menu"
+msgstr ""
+
+msgctxt "GamePausedTitle"
+msgid "Paused"
+msgstr ""
+
+msgctxt "HitDiceItemStatusDeadTitle"
+msgid "Dead"
+msgstr ""
+
+msgctxt "HitDiceItemStatusFullHPTitle"
+msgid "Full HP"
+msgstr ""
+
+msgctxt "HitDiceItemStatusOutofHDTitle"
+msgid "Empty"
+msgstr ""
+
+msgctxt "HitDiceItemStatusRollTitle"
+msgid "Roll"
+msgstr ""
+
+msgctxt "HitDiceItemStatusUnconsciousTitle"
+msgid "Unconscious"
+msgstr ""
+
+msgctxt "InBattleDescription"
+msgid "Your party is currently engaged in a turn-based battle."
+msgstr ""
+
+msgctxt "InBattleTitle"
+msgid "In Battle"
+msgstr ""
+
+msgctxt "InspectDescription"
+msgid ""
+"Opens the character view screen, from which you can access the inventory, "
+"character information, proficiencies, spells, and crafting options."
+msgstr ""
+
+msgctxt "InspectInventoryDescription"
+msgid "Open the character's inventory tab."
+msgstr ""
+
+msgctxt "InspectInventoryTitle"
+msgid "Inventory"
+msgstr ""
+
+msgctxt "InspectionGiveItemToCharacterDescription"
+msgid "Click to give this item to {0}."
+msgstr ""
+
+msgctxt "InspectionSelectCharacterDescription"
+msgid "Click to select this character."
+msgstr ""
+
+msgctxt "InspectTitle"
+msgid "Inspect"
+msgstr ""
+
+msgctxt "InventoryCannotDropQuestItemDescription"
+msgid "You cannot drop a quest item out of your party inventory."
+msgstr ""
+
+msgctxt "InventoryCannotLootAllDescription"
+msgid "Some item(s) do not fit in your inventory."
+msgstr ""
+
+msgctxt "InventoryCannotSellQuestItemDescription"
+msgid "You cannot sell a quest item."
+msgstr ""
+
+msgctxt "InventoryDescription"
+msgid ""
+"Opens the character inventory screen, from which you can also access "
+"character information, proficiencies, spells, and crafting options."
+msgstr ""
+
+msgctxt "InventoryForceEquipDescription"
+msgid "This item prevents any other item from being equipped."
+msgstr ""
+
+msgctxt "InventoryMaxWeightCapacityDescription"
+msgid "You cannot carry that much weight."
+msgstr ""
+
+msgctxt "InventorySlotAlwaysLockedDescription"
+msgid "This slot is locked and cannot be equipped/unequipped."
+msgstr ""
+
+msgctxt "InventorySlotLockedInBattleDescription"
+msgid "This slot is locked in battle."
+msgstr ""
+
+msgctxt "InventoryTitle"
+msgid "Inventory"
+msgstr ""
+
+msgctxt "JournalAdventureDescription"
+msgid ""
+"Display the adventure log, listing all the events that have taken place "
+"during the campaign."
+msgstr ""
+
+msgctxt "JournalAdventureTitle"
+msgid "<#F5B486>A</color>dventure <#F5B486>L</color>og"
+msgstr ""
+
+msgctxt "JournalBattleOutcomeTitle"
+msgid "Victory"
+msgstr ""
+
+msgctxt "JournalBattleTitle"
+msgid "Encounter"
+msgstr ""
+
+msgctxt "JournalBattleVersusTitle"
+msgid "VS"
+msgstr ""
+
+msgctxt "JournalBestiaryAttacksTitle"
+msgid "Attacks"
+msgstr ""
+
+msgctxt "JournalBestiaryBackToBestiaryTitle"
+msgid "Back to Bestiary"
+msgstr ""
+
+msgctxt "JournalBestiaryChallengeAndXPFormat"
+msgid "{0} ({1}XP)"
+msgstr ""
+
+msgctxt "JournalBestiaryChallengeDescription"
+msgid ""
+"The average party level needed to fight one of these creatures in a balanced "
+"challenge."
+msgstr ""
+
+msgctxt "JournalBestiaryDescription"
+msgid "Lists the foes you can face and the knowledge you have collected."
+msgstr ""
+
+msgctxt "JournalBestiaryDifficultyTitle"
+msgid "Difficulty"
+msgstr ""
+
+msgctxt "JournalBestiaryImmunitiesTitle"
+msgid "Immunities"
+msgstr ""
+
+msgctxt "JournalBestiaryKnowledgeTitle"
+msgid "Knowledge"
+msgstr ""
+
+msgctxt "JournalBestiaryLanguagesTitle"
+msgid "Languages"
+msgstr ""
+
+msgctxt "JournalBestiaryLootOptionsTitle"
+msgid "Treasure"
+msgstr ""
+
+msgctxt "JournalBestiaryMonsterIndexFormat"
+msgid "Creature {0} of {1}"
+msgstr ""
+
+msgctxt "JournalBestiaryNoneTitle"
+msgid "None"
+msgstr ""
+
+msgctxt "JournalBestiaryProficienciesTitle"
+msgid "Proficiencies"
+msgstr ""
+
+msgctxt "JournalBestiaryResistancesTitle"
+msgid "Resistances"
+msgstr ""
+
+msgctxt "JournalBestiarySavingThrowsTitle"
+msgid "Saving Throws"
+msgstr ""
+
+msgctxt "JournalBestiarySensesTitle"
+msgid "Senses"
+msgstr ""
+
+msgctxt "JournalBestiarySizeAndTypeFormat"
+msgid "{0} {1}"
+msgstr ""
+
+msgctxt "JournalBestiarySizeTitle"
+msgid "Size"
+msgstr ""
+
+msgctxt "JournalBestiarySortAlphabeticalTitle"
+msgid "Alphabetical"
+msgstr ""
+
+msgctxt "JournalBestiarySortChallengeRatingTitle"
+msgid "Challenge Rating"
+msgstr ""
+
+msgctxt "JournalBestiarySortKnowledgeLevelTitle"
+msgid "Knowledge Level"
+msgstr ""
+
+msgctxt "JournalBestiarySortOrderTitle"
+msgid "Sort Order"
+msgstr ""
+
+msgctxt "JournalBestiarySortSizeTitle"
+msgid "Size"
+msgstr ""
+
+msgctxt "JournalBestiarySortUpdateDateTitle"
+msgid "Last Update"
+msgstr ""
+
+msgctxt "JournalBestiaryStandardTitle"
+msgid "Standard"
+msgstr ""
+
+msgctxt "JournalBestiaryTitle"
+msgid "<#F5B486>B</color>estiary"
+msgstr ""
+
+msgctxt "JournalBestiaryTotalUnlockedTitle"
+msgid "Unlocked"
+msgstr ""
+
+msgctxt "JournalBestiaryUnknownDescription"
+msgid ""
+"Your knowledge level is insufficient to access this type of information."
+msgstr ""
+
+msgctxt "JournalBestiaryUnknownTitle"
+msgid "Unknown Creature"
+msgstr ""
+
+msgctxt "JournalBestiaryVulnerabilitiesTitle"
+msgid "Vulnerabilities"
+msgstr ""
+
+msgctxt "JournalCampaignStartTitle"
+msgid "The Adventure Begins!"
+msgstr ""
+
+msgctxt "JournalConversationTitle"
+msgid "Conversation:"
+msgstr ""
+
+msgctxt "JournalFactionIntroduction"
+msgid ""
+"During your adventures you will meet people from various factions. Good "
+"relations with a faction can bring many advantages. You improve your "
+"relations with a faction by doing jobs for them or promoting their interests."
+msgstr ""
+
+msgctxt "JournalFactionProminentMembersTitle"
+msgid "Prominent Members"
+msgstr ""
+
+msgctxt "JournalFactionStatusDescription"
+msgid ""
+"Displays the party's standing with the various factions on the Legacy "
+"Council."
+msgstr ""
+
+msgctxt "JournalFactionStatusTitle"
+msgid "<#F5B486>F</color>actions"
+msgstr ""
+
+msgctxt "JournalNewDayColorTitle"
+msgid "<#F5B486>D</color>ay"
+msgstr ""
+
+msgctxt "JournalNewDayTitle"
+msgid "Day"
+msgstr ""
+
+msgctxt "JournalQuestCompletedTitle"
+msgid "Quest Completed:"
+msgstr ""
+
+msgctxt "JournalQuestFailedTitle"
+msgid "Quest Failed:"
+msgstr ""
+
+msgctxt "JournalQuestLogDescription"
+msgid ""
+"Lists the active and completed quests, along with your current objectives."
+msgstr ""
+
+msgctxt "JournalQuestLogTitle"
+msgid "<#F5B486>Q</color>uest <#F5B486>L</color>og"
+msgstr ""
+
+msgctxt "JournalQuestStartedTitle"
+msgid "Quest Started:"
+msgstr ""
+
+msgctxt "JournalQuestUpdatedSummaryFormat"
+msgid "{0} (continued)"
+msgstr ""
+
+msgctxt "JournalQuestUpdatedTitle"
+msgid "Quest Updated:"
+msgstr ""
+
+msgctxt "JournalRelationDecreasedFormat"
+msgid "Relationship with {1} decreased to {0}. "
+msgstr ""
+
+msgctxt "JournalRelationDecreasedTitle"
+msgid "Relationship Decreased:"
+msgstr ""
+
+msgctxt "JournalRelationIncreasedFormat"
+msgid "Relationship with {1} increased to {0}. "
+msgstr ""
+
+msgctxt "JournalRelationIncreasedTitle"
+msgid "Relationship Increased:"
+msgstr ""
+
+msgctxt "JournalRelationStatusChangedFormat"
+msgid "Status is now {0}"
+msgstr ""
+
+msgctxt "JournalTimecodeDayFormat"
+msgid "Day {0}"
+msgstr ""
+
+msgctxt "JournalTimecodeHourMinute24Format"
+msgid "{0}:{1}"
+msgstr ""
+
+msgctxt "JournalTimecodeHourMinuteAMFormat"
+msgid "{0}:{1} AM"
+msgstr ""
+
+msgctxt "JournalTimecodeHourMinutePMFormat"
+msgid "{0}:{1} PM"
+msgstr ""
+
+msgctxt "JournalTitle"
+msgid "Party Journal"
+msgstr ""
+
+msgctxt "JournalTravelContinuedTitle"
+msgid "Travel (continued)"
+msgstr ""
+
+msgctxt "JournalTravelTitle"
+msgid "Travel"
+msgstr ""
+
+msgctxt "JournalTutorialDescription"
+msgid ""
+"Allows you to review tutorial information that was previously displayed in-"
+"game."
+msgstr ""
+
+msgctxt "JournalTutorialForumsAddress"
+msgid "https://forums.solasta-game.com/"
+msgstr ""
+
+msgctxt "JournalTutorialForumsDescription"
+msgid "Find out more about Solasta on our forums."
+msgstr ""
+
+msgctxt "JournalTutorialForumsTitle"
+msgid "Solasta Forums"
+msgstr ""
+
+msgctxt "JournalTutorialSRDAddress"
+msgid "https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf"
+msgstr ""
+
+msgctxt "JournalTutorialSRDDescription"
+msgid "Read about the rules system Solasta uses."
+msgstr ""
+
+msgctxt "JournalTutorialSRDTitle"
+msgid "System Reference Document"
+msgstr ""
+
+msgctxt "JournalTutorialTitle"
+msgid "<#F5B486>T</color>utorial"
+msgstr ""
+
+msgctxt "JournalTutorialWikiAddress"
+msgid "https://forums.solasta-game.com/"
+msgstr ""
+
+msgctxt "JournalTutorialWikiDescription"
+msgid ""
+"Find out more about the Solasta Universe and unique content on the online "
+"Wiki\n"
+"[Coming Soon]."
+msgstr ""
+
+msgctxt "JournalTutorialWikiTitle"
+msgid "Solasta Wiki"
+msgstr ""
+
+msgctxt "KnownCantripsTitle"
+msgid "Known Cantrips"
+msgstr ""
+
+msgctxt "KnownSpellDescription"
+msgid "This spell is known or written in a spellbook."
+msgstr ""
+
+msgctxt "KnownSpellTitle"
+msgid "Known"
+msgstr ""
+
+msgctxt "LegalAgreeDescription"
+msgid "By clicking the \"I Agree\" button, you accept the terms above."
+msgstr ""
+
+msgctxt "LegalAgreeTitle"
+msgid "I Agree"
+msgstr ""
+
+msgctxt "LegalDisagreeDescription"
+msgid ""
+"By clicking the \"I Do Not Agree\" button, you do not accept the terms "
+"above, which means you cannot play the game."
+msgstr ""
+
+msgctxt "LegalDisagreeTitle"
+msgid "I Do Not Agree"
+msgstr ""
+
+msgctxt "LegalProceedDescription"
+msgid "Move on to the next step"
+msgstr ""
+
+msgctxt "LegalProceedTitle"
+msgid "Proceed"
+msgstr ""
+
+msgctxt "LevelGainsTitle"
+msgid "Your Level Gains"
+msgstr ""
+
+msgctxt "LoadGameDescription"
+msgid "Select and load a saved game."
+msgstr ""
+
+msgctxt "LoadGameTitle"
+msgid "Load Game"
+msgstr ""
+
+msgctxt "LocationIntroductionActiveQuestsFormat"
+msgid "Active Quests: {0}"
+msgstr ""
+
+msgctxt "LocationIntroductionHeaderTitle"
+msgid "New Location"
+msgstr ""
+
+msgctxt "LongRestCompleteTitle"
+msgid "Long Rest Complete"
+msgstr ""
+
+msgctxt "LongRestDescription"
+msgid ""
+"Take at least eight hours to eat, drink, and sleep, and wake up ready for "
+"anything."
+msgstr ""
+
+msgctxt "LongRestTitle"
+msgid "Long Rest"
+msgstr ""
+
+msgctxt "LootAllDescription"
+msgid ""
+"Loots everything from this container that can fit in your inventory without "
+"increasing your encumbrance rating."
+msgstr ""
+
+msgctxt "LootAllTitle"
+msgid "Loot All"
+msgstr ""
+
+msgctxt "MagicalTagDescription"
+msgid ""
+"This attack is considered magical and can wound creatures that resist non-"
+"magical attacks."
+msgstr ""
+
+msgctxt "MagicRevealedPluralFormat"
+msgid "New items have been revealed as magical on {0}."
+msgstr ""
+
+msgctxt "MagicRevealedSingleFormat"
+msgid "A new item has been revealed as magical on {0}."
+msgstr ""
+
+msgctxt "MainAttackTitle"
+msgid "Main Attack"
+msgstr ""
+
+msgctxt "MainQuestsListTitle"
+msgid "Main Quests"
+msgstr ""
+
+msgctxt "MainQuestTypeTitle"
+msgid "Main Quest"
+msgstr ""
+
+msgctxt "MapToggleDescription"
+msgid "Open the map of the location."
+msgstr ""
+
+msgctxt "MerchantDetectMagicDescription"
+msgid ""
+"Detects magical auras on all items carried by party members, but does not "
+"reveal any item's function."
+msgstr ""
+
+msgctxt "MerchantDetectMagicTitle"
+msgid "Detect Magic"
+msgstr ""
+
+msgctxt "MerchantFactionRelationEffectDescription"
+msgid ""
+"Your party's standing with the merchant's faction affects rebates and "
+"overcharges."
+msgstr ""
+
+msgctxt "MerchantIdentifyDescription"
+msgid ""
+"Reveals everything about a selected item, including whether it is magical."
+msgstr ""
+
+msgctxt "MerchantIdentifyTitle"
+msgid "Identify"
+msgstr ""
+
+msgctxt "NewClassSelectionTitle"
+msgid "Or click to add a new class to this character."
+msgstr ""
+
+msgctxt "NewGameScreenTitle"
+msgid "New Game"
+msgstr ""
+
+msgctxt "NewRecipeTitle"
+msgid "New crafting option!"
+msgstr ""
+
+msgctxt "NextClassFeaturesTitle"
+msgid "Next Class Features"
+msgstr ""
+
+msgctxt "NextPageTitle"
+msgid "Next"
+msgstr ""
+
+msgctxt "NextTutorialStepDescription"
+msgid "Display the next step in the tutorial."
+msgstr ""
+
+msgctxt "NextTutorialStepTitle"
+msgid "Next"
+msgstr ""
+
+msgctxt "NoContainerTitle"
+msgid ""
+"This character is not equipped with any backpack or container item in the "
+"\"Back\" slot."
+msgstr ""
+
+msgctxt "NoCraftingOptionsTitle"
+msgid "Your party does not have any crafting options yet."
+msgstr ""
+
+msgctxt "OpenGamingLicenseButtonDescription"
+msgid "Display the full Open Game License and System Reference Document"
+msgstr ""
+
+msgctxt "OpenGamingLicenseButtonTitle"
+msgid "Open Game License"
+msgstr ""
+
+msgctxt "OpenGamingLicenseDescription"
+msgid ""
+"The following text is the property of Wizards of the Coast, Inc. and is "
+"Copyright 2000 Wizards of the Coast, Inc. (\"Wizards\"). All Rights "
+"Reserved. \n"
+"1. Definitions: \n"
+"(a) \"Contributors\" means the copyright and/or trademark owners who have "
+"contributed Open Game Content; \n"
+"(b) \"Derivative Material\" means copyrighted material including derivative "
+"works and translations (including into other computer languages), portation, "
+"modification, correction, addition, extension, upgrade, improvement, "
+"compilation, abridgment or other form in which an existing work may be "
+"recast, transformed or adapted; (c) \"Distribute\" means to reproduce, "
+"license, rent, lease, sell, broadcast, publicly display, transmit or "
+"otherwise distribute; (d) \"Open Game Content\" means the game mechanic and "
+"includes the methods, procedures, processes and routines to the extent such "
+"content does not embody the Product Identity and is an enhancement over the "
+"prior art and any additional content clearly identified as Open Game Content "
+"by the Contributor, and means any work covered by this License, including "
+"translations and derivative works under copyright law, but specifically "
+"excludes Product Identity; (e) \"Product Identity\" means product and "
+"product line names, logos and identifying marks including trade dress; "
+"artifacts; creatures characters; stories, storylines, plots, thematic "
+"elements, dialogue, incidents, language, artwork, symbols, designs, "
+"depictions, likenesses, formats, poses, concepts, themes and graphic, "
+"photographic and other visual or audio representations; names and "
+"descriptions of characters, spells, enchantments, personalities, teams, "
+"personas, likenesses and special abilities; places, locations, environments, "
+"creatures, equipment, magical or supernatural abilities or effects, logos, "
+"symbols, or graphic designs; and any other trademark or registered trademark "
+"clearly identified as Product identity by the owner of the Product Identity, "
+"and which specifically excludes the Open Game Content; (f) \"Trademark\" "
+"means the logos, names, mark, sign, motto, designs that are used by a "
+"Contributor to identify itself or its products or the associated products "
+"contributed to the Open Game License by the Contributor; (g) \"Use\", \"Used"
+"\" or \"Using\" means to use, Distribute, copy, edit, format, modify, "
+"translate and otherwise create Derivative Material of Open Game Content; (h) "
+"\"You\" or \"Your\" means the licensee in terms of this agreement. \n"
+"2. The License: This License applies to any Open Game Content that contains "
+"a notice indicating that the Open Game Content may only be Used under and in "
+"terms of this License. You must affix such a notice to any Open Game Content "
+"that you Use. No terms may be added to or subtracted from this License "
+"except as described by the License itself. No other terms or conditions may "
+"be applied to any Open Game Content distributed using this License. \n"
+"3. Offer and Acceptance: By Using the Open Game Content You indicate Your "
+"acceptance of the terms of this License. \n"
+"4. Grant and Consideration: In consideration for agreeing to use this "
+"License, the Contributors grant You a perpetual, worldwide, royalty-free, "
+"non-exclusive license with the exact terms of this License to Use, the Open "
+"Game Content. \n"
+"5. Representation of Authority to Contribute: If You are contributing "
+"original material as Open Game Content, You represent that Your "
+"Contributions are Your original creation and/or You have sufficient rights "
+"to grant the rights conveyed by this License. \n"
+"6. Notice of License Copyright: You must update the COPYRIGHT NOTICE portion "
+"of this License to include the exact text of the COPYRIGHT NOTICE of any "
+"Open Game Content You are copying, modifying or distributing, and You must "
+"add the title, the copyright date, and the copyright holder's name to the "
+"COPYRIGHT NOTICE of any original Open Game Content you Distribute. \n"
+"7. Use of Product Identity: You agree not to Use any Product Identity, "
+"including as an indication as to compatibility, except as expressly licensed "
+"in another, independent Agreement with the owner of each element of that "
+"Product Identity. You agree not to indicate compatibility or co-adaptability "
+"with any Trademark or Registered Trademark in conjunction with a work "
+"containing Open Game Content except as expressly licensed in another, "
+"independent Agreement with the owner of such Trademark or Registered "
+"Trademark. The use of any Product Identity in Open Game Content does not "
+"constitute a challenge to the ownership of that Product Identity. The owner "
+"of any Product Identity used in Open Game Content shall retain all rights, "
+"title and interest in and to that Product Identity. \n"
+"8. Identification: If you distribute Open Game Content You must clearly "
+"indicate which portions of the work that you are distributing are Open Game "
+"Content. \n"
+"9. Updating the License: Wizards or its designated Agents may publish "
+"updated versions of this License. You may use any authorized version of this "
+"License to copy, modify and distribute any Open Game Content originally "
+"distributed under any version of this License. \n"
+"10. Copy of this License: You MUST include a copy of this License with every "
+"copy of the Open Game Content You Distribute. \n"
+"11. Use of Contributor Credits: You may not market or advertise the Open "
+"Game Content using the name of any Contributor unless You have written "
+"permission from the Contributor to do so. \n"
+"12. Inability to Comply: If it is impossible for You to comply with any of "
+"the terms of this License with respect to some or all of the Open Game "
+"Content due to statute, judicial order, or governmental regulation then You "
+"may not Use any Open Game Material so affected. \n"
+"13. Termination: This License will terminate automatically if You fail to "
+"comply with all terms herein and fail to cure such breach within 30 days of "
+"becoming aware of the breach. All sublicenses shall survive the termination "
+"of this License. \n"
+"14. Reformation: If any provision of this License is held to be "
+"unenforceable, such provision shall be reformed only to the extent necessary "
+"to make it enforceable. \n"
+"15. COPYRIGHT NOTICE Open Game License v 1.0a Copyright 2000, Wizards of the "
+"Coast, LLC. System Reference Document 5.1 Copyright 2016, Wizards of the "
+"Coast, Inc.; Authors Mike Mearls, Jeremy Crawford, Chris Perkins, Rodney "
+"Thompson, Peter Lee, James Wyatt, Robert J. Schwalb, Bruce R. Cordell, Chris "
+"Sims, and Steve Townshend, based on original material by E. Gary Gygax and "
+"Dave Arneson. \n"
+"END OF LICENSE"
+msgstr ""
+
+msgctxt "OpenGamingLicenseTitle"
+msgid "OPEN GAME LICENSE Version 1.0a"
+msgstr ""
+
+msgctxt "OpentRestButtonDescription"
+msgid "Take a short rest."
+msgstr ""
+
+msgctxt "ParticipantNameFormat"
+msgid "Player: {0}"
+msgstr ""
+
+msgctxt "ParticipantsTitle"
+msgid "Participants"
+msgstr ""
+
+msgctxt "PartyJournalButtonDescription"
+msgid ""
+"Opens the journal screen to access your adventure log, quests, monster "
+"entries, faction relations, and more information about your party's progress."
+msgstr ""
+
+msgctxt "PartyJournalButtonTitle"
+msgid "Journal"
+msgstr ""
+
+msgctxt "PassTitle"
+msgid "Pass"
+msgstr ""
+
+msgctxt "PauseDescription"
+msgid "Pause the flow of time."
+msgstr ""
+
+msgctxt "PauseTitle"
+msgid "Pause"
+msgstr ""
+
+msgctxt "PersonalityHeaderTitle"
+msgid "Personality"
+msgstr ""
+
+msgctxt "PersonalityValueFormat"
+msgid "\"{0}\" personality score: {1}."
+msgstr ""
+
+msgctxt "PlanarToggleDescription"
+msgid "Toggle the horizontal plane on/off for movement destination selection."
+msgstr ""
+
+msgctxt "PlayDescription"
+msgid "Resume the flow of time."
+msgstr ""
+
+msgctxt "PlayTitle"
+msgid "Play"
+msgstr ""
+
+msgctxt "PoolPointsToSpendPluralTitle"
+msgid "{0}/{1} points to assign"
+msgstr ""
+
+msgctxt "PoolPointsToSpendSingleTitle"
+msgid "{0}/{1} point to assign"
+msgstr ""
+
+msgctxt "PowerRemainingHealingPoolDescription"
+msgid "Your remaining pool of healing points."
+msgstr ""
+
+msgctxt "PowerUsedAllDescription"
+msgid "You have no more uses of this power."
+msgstr ""
+
+msgctxt "PowerUsedNoneDescription"
+msgid "You have not used this power."
+msgstr ""
+
+msgctxt "PowerUsedSomeDescription"
+msgid "You have spent {0} use(s) of this power."
+msgstr ""
+
+msgctxt "PrepareAutoDescription"
+msgid "Automatically prepares spells based on their general relevance."
+msgstr ""
+
+msgctxt "PrepareAutoTitle"
+msgid "Auto Prepare"
+msgstr ""
+
+msgctxt "PrepareClearDescription"
+msgid "Clears all prepared spells."
+msgstr ""
+
+msgctxt "PrepareClearTitle"
+msgid "Clear"
+msgstr ""
+
+msgctxt "PreparedSpellDescription"
+msgid "This spell has been prepared and can be cast using spell slots."
+msgstr ""
+
+msgctxt "PreparedSpellTitle"
+msgid "Prepared"
+msgstr ""
+
+msgctxt "PreparePanelDescription"
+msgid "You can do this once per long rest."
+msgstr ""
+
+msgctxt "PreparePanelInstruction"
+msgid "Select {0} spells to prepare."
+msgstr ""
+
+msgctxt "PreparePanelTitle"
+msgid "Prepare Spells"
+msgstr ""
+
+msgctxt "PrepareRevertDescription"
+msgid "Revert to the spells that were prepared before opening this panel."
+msgstr ""
+
+msgctxt "PrepareRevertTitle"
+msgid "Revert"
+msgstr ""
+
+msgctxt "PrepareSpellsDescription"
+msgid "Select a different set of prepared spells."
+msgstr ""
+
+msgctxt "PrepareSpellsTitle"
+msgid "Prepare Spells"
+msgstr ""
+
+msgctxt "PrepareValidateDescription"
+msgid "Validate the prepared spells you have selected."
+msgstr ""
+
+msgctxt "PrepareValidateTitle"
+msgid "Validate"
+msgstr ""
+
+msgctxt "PreviousPageTitle"
+msgid "Previous"
+msgstr ""
+
+msgctxt "PreviousTutorialStepDescription"
+msgid "Display the previous tutorial instructions."
+msgstr ""
+
+msgctxt "PreviousTutorialStepTitle"
+msgid "Previous"
+msgstr ""
+
+msgctxt "ProficienciesTitle"
+msgid "Proficiencies"
+msgstr ""
+
+msgctxt "ProficiencyArmorCategoryDescription"
+msgid "You are proficient with this category of armor, and can wear it."
+msgstr ""
+
+msgctxt "ProficiencyArmorTypeDescription"
+msgid "You are proficient with this specific type of armor, and can wear it."
+msgstr ""
+
+msgctxt "ProficiencyBonusTitle"
+msgid ""
+"Proficiency \n"
+"Bonus"
+msgstr ""
+
+msgctxt "ProficiencyLanguageDescription"
+msgid "You are proficient at speaking this language."
+msgstr ""
+
+msgctxt "ProficiencyMarkerDoubleSkillDescription"
+msgid "You are an expert (double proficiency) with {0} ({1}) skill checks."
+msgstr ""
+
+msgctxt "ProficiencyMarkerDoubleToolDescription"
+msgid "You are an expert (double proficiency) at using this kind of tool."
+msgstr ""
+
+msgctxt "ProficiencyMarkerSavingThrowDescription"
+msgid "You are proficient with {0} saving throws."
+msgstr ""
+
+msgctxt "ProficiencyMarkerSingleSkillDescription"
+msgid "You are proficient with {0}({1}) skill checks."
+msgstr ""
+
+msgctxt "ProficiencyMarkerSingleToolDescription"
+msgid "You are proficient at using this kind of tool."
+msgstr ""
+
+msgctxt "ProficiencyToggleFeatTitle"
+msgid "Feats"
+msgstr ""
+
+msgctxt "ProficiencyToggleLanguageTitle"
+msgid "Languages"
+msgstr ""
+
+msgctxt "ProficiencyToggleSavingThrowTitle"
+msgid "Saving Throws"
+msgstr ""
+
+msgctxt "ProficiencyToggleSkillTitle"
+msgid "Skills"
+msgstr ""
+
+msgctxt "ProficiencyToggleToolTitle"
+msgid "Tools"
+msgstr ""
+
+msgctxt "ProficiencyToggleWeaponAndArmorTitle"
+msgid "Weapons and Armor"
+msgstr ""
+
+msgctxt "ProficiencyWeaponCategoryDescription"
+msgid ""
+"You are proficient with this category of weapon, adding your proficiency "
+"bonus to attack rolls."
+msgstr ""
+
+msgctxt "ProficiencyWeaponTypeDescription"
+msgid ""
+"You are proficient with this specific type of weapon, adding your "
+"proficiency bonus to attack rolls."
+msgstr ""
+
+msgctxt "PurchaseClearAllDescription"
+msgid "Click to clear all purchased items."
+msgstr ""
+
+msgctxt "PurchaseOrderTitle"
+msgid "You Purchase"
+msgstr ""
+
+msgctxt "QuestChoiceStatusTitle"
+msgid "Choice:"
+msgstr ""
+
+msgctxt "QuestCompletedDescription"
+msgid "Quest Completed"
+msgstr ""
+
+msgctxt "QuestFailedDescription"
+msgid "Quest Failed"
+msgstr ""
+
+msgctxt "QuestLogTitle"
+msgid "Quests"
+msgstr ""
+
+msgctxt "QuestObjectivesTitle"
+msgid "Objectives"
+msgstr ""
+
+msgctxt "QuestOptionalStatusTitle"
+msgid "(optional)"
+msgstr ""
+
+msgctxt "QuitGameDescription"
+msgid "Quit the current game and return to the main menu."
+msgstr ""
+
+msgctxt "QuitGameTitle"
+msgid "Quit Game"
+msgstr ""
+
+msgctxt "QuitLocationDescription"
+msgid "Quit the current location and return to the campaign screen."
+msgstr ""
+
+msgctxt "QuitLocationTitle"
+msgid "Quit Location"
+msgstr ""
+
+msgctxt "RaceHeaderTitle"
+msgid "Ancestry"
+msgstr ""
+
+msgctxt "RacialFeaturesTitle"
+msgid "Ancestry Features"
+msgstr ""
+
+msgctxt "ReadyCantripAttackDescription"
+msgid ""
+"Use an attack cantrip on the first enemy that moves into range. Attacks with "
+"disadvantage will not trigger this reaction."
+msgstr ""
+
+msgctxt "ReadyCantripAttackTitle"
+msgid "Cantrip Attack"
+msgstr ""
+
+msgctxt "ReadyMeleeAttackDescription"
+msgid ""
+"Use your currently equipped weapon to attack the first enemy that moves into "
+"melee range."
+msgstr ""
+
+msgctxt "ReadyMeleeAttackTitle"
+msgid "Melee Attack"
+msgstr ""
+
+msgctxt "ReadyOptionsTitle"
+msgid "Ready Options"
+msgstr ""
+
+msgctxt "ReadyRangedAttackDescription"
+msgid ""
+"Use your currently equipped weapon to attack the first enemy that moves into "
+"range. Attacks with disadvantage will not trigger this reaction."
+msgstr ""
+
+msgctxt "ReadyRangedAttackTitle"
+msgid "Ranged Attack"
+msgstr ""
+
+msgctxt "ReadyToLevelUpLongRestDescription"
+msgid ""
+"This character is ready to level up. Take a long rest to start the level up "
+"sequence."
+msgstr ""
+
+msgctxt "RemainingPointsFormat"
+msgid "{0} remaining points"
+msgstr ""
+
+msgctxt "RepertoireHeaderFormat"
+msgid "{0} Spells"
+msgstr ""
+
+msgctxt "RepertoirePreparedSpellsDescription"
+msgid "The number of spells that you have prepared from your allowance."
+msgstr ""
+
+msgctxt "RepertoirePreparedSpellsTitle"
+msgid "Prepared Spells"
+msgstr ""
+
+msgctxt "RepertoireSpellsTitle"
+msgid "Spells"
+msgstr ""
+
+msgctxt "RequiredFactionInvalidTitle"
+msgid "Faction Relation"
+msgstr ""
+
+msgctxt "RequiredFactionStatusFormat"
+msgid ""
+"Your status with the {0} faction is {1}. You need {2} to purchase this item."
+msgstr ""
+
+msgctxt "RequiresCharacterLevelDescription"
+msgid "Requires character level {0}"
+msgstr ""
+
+msgctxt "RequiresCharacterLevelTitle"
+msgid "({0})"
+msgstr ""
+
+msgctxt "RequiresClassLevelDescription"
+msgid "Requires class level {0}"
+msgstr ""
+
+msgctxt "RequiresClassLevelTitle"
+msgid "({0})"
+msgstr ""
+
+msgctxt "RestingTitle"
+msgid "Resting…"
+msgstr ""
+
+msgctxt "RestModuleHitDiceHeaderTitle"
+msgid "Hit Points Recovery"
+msgstr ""
+
+msgctxt "RestModuleHitDiceInstructionAfterRestLongRestTitle"
+msgid "You have recovered all hit points and half your hit dice maximum."
+msgstr ""
+
+msgctxt "RestModuleHitDiceInstructionAfterRestShortRestTitle"
+msgid "Spend hit dice to recover hit points."
+msgstr ""
+
+msgctxt "RestModuleHitDiceInstructionBeforeRestLongRestTitle"
+msgid ""
+"When the rest is complete, recover all hit points and half your hit dice "
+"maximum."
+msgstr ""
+
+msgctxt "RestModuleHitDiceInstructionBeforeRestShortRestTitle"
+msgid ""
+"When the rest is complete, spend hit dice to recover missing hit points."
+msgstr ""
+
+msgctxt "RestModulePostRestActivitiesAfterDescription"
+msgid "Select actions."
+msgstr ""
+
+msgctxt "RestModulePostRestActivitiesBeforeDescription"
+msgid "Your characters' actions after the rest is complete."
+msgstr ""
+
+msgctxt "RestModulePostRestActivitiesHeaderTitle"
+msgid "Post Rest Actions"
+msgstr ""
+
+msgctxt "RestModuleRecoveredFeaturesHeaderTitle"
+msgid "Feature and Ability Recovery"
+msgstr ""
+
+msgctxt "RestModuleRecoveredFeaturesInstructionAfterRestTitle"
+msgid "You have recovered the following features:"
+msgstr ""
+
+msgctxt "RestModuleRecoveredFeaturesInstructionBeforeRestTitle"
+msgid "Upon rest completion, you will recover these features:"
+msgstr ""
+
+msgctxt "RestModuleRecoveredFeaturesNoneTitle"
+msgid "None"
+msgstr ""
+
+msgctxt "ResumeDescription"
+msgid "Close this panel and resume the game."
+msgstr ""
+
+msgctxt "ResumeTitle"
+msgid "Resume"
+msgstr ""
+
+msgctxt "ReviveCastSpellFormat"
+msgid "Cast {0}"
+msgstr ""
+
+msgctxt "ReviveItemSpellSubtitlePluralFormat"
+msgid "({0}{1} slots remaining)"
+msgstr ""
+
+msgctxt "ReviveItemSpellSubtitleSingleFormat"
+msgid "({0}{1} slot remaining)"
+msgstr ""
+
+msgctxt "ReviveItemSubtitlePluralFormat"
+msgid "({0} uses remaining)"
+msgstr ""
+
+msgctxt "ReviveItemSubtitleSingleFormat"
+msgid "({0} use remaining)"
+msgstr ""
+
+msgctxt "ReviveUpcastSubtitleDescription"
+msgid "Upcast: "
+msgstr ""
+
+msgctxt "ReviveUsePowerFormat"
+msgid "Use {0}"
+msgstr ""
+
+msgctxt "RitualsListTitle"
+msgid "Rituals"
+msgstr ""
+
+msgctxt "RitualSpellDescription"
+msgid ""
+"This ritual spell can be cast without expending a spell slot, provided you "
+"spend 10 minutes to cast it."
+msgstr ""
+
+msgctxt "RollHitDiceButtonDescription"
+msgid ""
+"Rolls one hit die and increases your current hit points by the result plus "
+"your Constitution bonus."
+msgstr ""
+
+msgctxt "RollHitDiceButtonTitle"
+msgid "Roll"
+msgstr ""
+
+msgctxt "RotateCCWDescription"
+msgid "Rotate the view counterclockwise."
+msgstr ""
+
+msgctxt "RotateCWDescription"
+msgid "Rotate the view clockwise."
+msgstr ""
+
+msgctxt "RoundStartTitle"
+msgid "Round {0}"
+msgstr ""
+
+msgctxt "SaleClearAllDescription"
+msgid "Click to clear all sold items."
+msgstr ""
+
+msgctxt "SaleOrderTitle"
+msgid "You Sell"
+msgstr ""
+
+msgctxt "SaveGameDescription"
+msgid "Save the current game."
+msgstr ""
+
+msgctxt "SaveGameTitle"
+msgid "Save Game"
+msgstr ""
+
+msgctxt "ScoreAutoAssignButtonTitle"
+msgid "Auto Assign"
+msgstr ""
+
+msgctxt "ScoreMethodFreeEditionDescription"
+msgid ""
+"Use this option to recreate one of your favorite tabletop characters. No "
+"cheating, now!"
+msgstr ""
+
+msgctxt "ScoreMethodFreeEditionTitle"
+msgid "Free Choice"
+msgstr ""
+
+msgctxt "ScoreMethodPointSystemDescription"
+msgid ""
+"You define your abilities using a point system. Starting each ability score "
+"at 8, you increase by one point each ability up to 13, then it will cost you "
+"two more points to increase to 14 and two more points to increase to 15 "
+"(maximum)"
+msgstr ""
+
+msgctxt "ScoreMethodPointSystemTitle"
+msgid "Points System"
+msgstr ""
+
+msgctxt "ScoreMethodPredeterminedDescription"
+msgid ""
+"Your ability scores are a set of predetermined values: 15, 14, 13, 12, 10, 8"
+msgstr ""
+
+msgctxt "ScoreMethodPredeterminedTitle"
+msgid "Predetermined"
+msgstr ""
+
+msgctxt "ScoreMethodRoll4d6Description"
+msgid ""
+"For each of your six ability scores, roll 4d6 and add together the three "
+"best results."
+msgstr ""
+
+msgctxt "ScoreMethodRoll4d6Title"
+msgid "Roll 4d6"
+msgstr ""
+
+msgctxt "ScoreModifierDescription"
+msgid "The bonus applied to actions and effects based on this ability score."
+msgstr ""
+
+msgctxt "ScoreOptimizeForTitle"
+msgid "Optimize for:"
+msgstr ""
+
+msgctxt "ScoreOptimizeNoneDescription"
+msgid "You have not selected a class to optimize for."
+msgstr ""
+
+msgctxt "ScoreOptimizeNoneTitle"
+msgid "No Class Selected"
+msgstr ""
+
+msgctxt "ScoreRerollButtonTitle"
+msgid "Reroll"
+msgstr ""
+
+msgctxt "ScoreResetButtonTitle"
+msgid "Reset"
+msgstr ""
+
+msgctxt "ScribeScrollDescription"
+msgid "Copy the spell into one of your spellbooks."
+msgstr ""
+
+msgctxt "ScribeScrollTitle"
+msgid "Scribe"
+msgstr ""
+
+msgctxt "SearchByCastingTimeTitle"
+msgid "Casting Time"
+msgstr ""
+
+msgctxt "SearchByDamageTypeTitle"
+msgid "Damage Type"
+msgstr ""
+
+msgctxt "SearchByNameTitle"
+msgid "Search by Name"
+msgstr ""
+
+msgctxt "SearchBySchoolTitle"
+msgid "School"
+msgstr ""
+
+msgctxt "SearchByTagsTitle"
+msgid "Properties"
+msgstr ""
+
+msgctxt "SecondaryQuestsListTitle"
+msgid "Secondary Quests"
+msgstr ""
+
+msgctxt "SecondaryQuestTypeTitle"
+msgid "Secondary Quest"
+msgstr ""
+
+msgctxt "SelectAllCharactersDescription"
+msgid "Select all characters in the group."
+msgstr ""
+
+msgctxt "SelectionNoneTitle"
+msgid "All"
+msgstr ""
+
+msgctxt "SessionInviteDescription"
+msgid "Invite a member of your friends list to join this game."
+msgstr ""
+
+msgctxt "SessionInviteTitle"
+msgid "Invite Friend"
+msgstr ""
+
+msgctxt "SessionModePrivateDescription"
+msgid ""
+"This session is multiplayer, but is hidden from other players. You can "
+"invite friends, though."
+msgstr ""
+
+msgctxt "SessionModePrivateTitle"
+msgid "Private"
+msgstr ""
+
+msgctxt "SessionModePublicDescription"
+msgid "This session is multiplayer, and is visible to all players."
+msgstr ""
+
+msgctxt "SessionModePublicTitle"
+msgid "Public"
+msgstr ""
+
+msgctxt "SessionModeSingleDescription"
+msgid "Single player only."
+msgstr ""
+
+msgctxt "SessionModeSingleTitle"
+msgid "Single"
+msgstr ""
+
+msgctxt "SessionModeTitle"
+msgid "Mode"
+msgstr ""
+
+msgctxt "SessionNameTitle"
+msgid "Name"
+msgstr ""
+
+msgctxt "SessionTitle"
+msgid "Game Session"
+msgstr ""
+
+msgctxt "ShortRestCompleteTitle"
+msgid "Short Rest Complete"
+msgstr ""
+
+msgctxt "ShortRestDescription"
+msgid "Take a one hour break to recover some powers and hit points."
+msgstr ""
+
+msgctxt "ShortRestTitle"
+msgid "Short Rest"
+msgstr ""
+
+msgctxt "ShoveModeKnockProneDescription"
+msgid "Knock a creature prone."
+msgstr ""
+
+msgctxt "ShoveModeKnockProneTitle"
+msgid "Knock Prone"
+msgstr ""
+
+msgctxt "ShoveModePushAwayDescription"
+msgid "Push a creature in the direction you are facing."
+msgstr ""
+
+msgctxt "ShoveModePushAwayTitle"
+msgid "Push Away"
+msgstr ""
+
+msgctxt "ShoveOptionsTitle"
+msgid "Shove Options"
+msgstr ""
+
+msgctxt "SkipButtonDescription"
+msgid "Skip forward until next dialog choice, if any."
+msgstr ""
+
+msgctxt "SkipButtonTitle"
+msgid "Skip"
+msgstr ""
+
+msgctxt "SpellAdvancementCloseDescription"
+msgid "Close the spell advancement option."
+msgstr ""
+
+msgctxt "SpellAdvancementOpenDescription"
+msgid "Click to cast this spell with a higher level spell slot."
+msgstr ""
+
+msgctxt "SpellAttackBonusDescription"
+msgid "The bonus added to spells' attack rolls."
+msgstr ""
+
+msgctxt "SpellAttackBonusTitle"
+msgid "Spell Attack Bonus"
+msgstr ""
+
+msgctxt "SpellAutoSelectButtonTitle"
+msgid "Auto Select"
+msgstr ""
+
+msgctxt "SpellcastingAbilityDescription"
+msgid ""
+"The ability score used to cast your spells and determine their effectiveness."
+msgstr ""
+
+msgctxt "SpellcastingAbilityTitle"
+msgid "Spellcasting Ability"
+msgstr ""
+
+msgctxt "SpellcastingClassTitle"
+msgid "Spellcasting Class"
+msgstr ""
+
+msgctxt "SpellLevelCantripShortTitle"
+msgid "C"
+msgstr ""
+
+msgctxt "SpellResetButtonTitle"
+msgid "Reset"
+msgstr ""
+
+msgctxt "SpellSaveDCDescription"
+msgid ""
+"The difficulty class of your spells. The higher the DC, the tougher the "
+"target's saving throw will be."
+msgstr ""
+
+msgctxt "SpellSaveDCTitle"
+msgid "Spell Save DC"
+msgstr ""
+
+msgctxt "SpellsGroupCantripsTitle"
+msgid "At Will"
+msgstr ""
+
+msgctxt "SpellsGroupSlotsTitle"
+msgid "Slots"
+msgstr ""
+
+msgctxt "SpellSlotInfiniteDescription"
+msgid "This type of spell can be used indefinitely."
+msgstr ""
+
+msgctxt "SpellSlotsRecoveredDescription"
+msgid "All spells slots are recovered."
+msgstr ""
+
+msgctxt "SpellSlotsRecoveredTitle"
+msgid "Spell Slots"
+msgstr ""
+
+msgctxt "SpellSlotsUsedAllDescription"
+msgid "You have spent all spell slot(s) of this level."
+msgstr ""
+
+msgctxt "SpellSlotsUsedAllLevelsDescription"
+msgid "You have no available slots to cast this spell."
+msgstr ""
+
+msgctxt "SpellSlotsUsedNoneDescription"
+msgid "You have not spent any spell slot of this level."
+msgstr ""
+
+msgctxt "SpellSlotsUsedSomeDescription"
+msgid "You have expended {0} spell slot(s) of this level."
+msgstr ""
+
+msgctxt "StageFinishButtonCreationDescription"
+msgid "Finish the character creation process."
+msgstr ""
+
+msgctxt "StageFinishButtonLevelUpDescription"
+msgid "Finish the character level up process."
+msgstr ""
+
+msgctxt "StageFinishButtonTitle"
+msgid "Finish"
+msgstr ""
+
+msgctxt "StageNextButtonCreationDescription"
+msgid "Proceed to the next character creation step."
+msgstr ""
+
+msgctxt "StageNextButtonLevelUpDescription"
+msgid "Proceed to the next character level up step."
+msgstr ""
+
+msgctxt "StageNextButtonTitle"
+msgid "Next"
+msgstr ""
+
+msgctxt "StagePreviousButtonCreationDescription"
+msgid "Go back to the previous character creation step."
+msgstr ""
+
+msgctxt "StagePreviousButtonLevelUpDescription"
+msgid "Go back to the previous character level up step."
+msgstr ""
+
+msgctxt "StagePreviousButtonTitle"
+msgid "Previous"
+msgstr ""
+
+msgctxt "StartGameButtonDescription"
+msgid "Click to start the game with the selected options."
+msgstr ""
+
+msgctxt "StartGameButtonTitle"
+msgid "Start Game"
+msgstr ""
+
+msgctxt "StartLongRestTitle"
+msgid "Start Long Rest"
+msgstr ""
+
+msgctxt "StartShortRestTitle"
+msgid "Start Short Rest"
+msgstr ""
+
+msgctxt "SubclassFeaturesTitle"
+msgid "Features"
+msgstr ""
+
+msgctxt "SubclassPreviewFormat"
+msgid "Display the subclass choices granted at level {0}."
+msgstr ""
+
+msgctxt "SubclassPreviewHeaderFormat"
+msgid "These subclasses are granted at level {0}."
+msgstr ""
+
+msgctxt "SubRaceSelectionTitle"
+msgid "Select a Lineage"
+msgstr ""
+
+msgctxt "SubRacialFeaturesTitle"
+msgid "Lineage Features"
+msgstr ""
+
+msgctxt "SwitchConfiguration0Title"
+msgid "Primary"
+msgstr ""
+
+msgctxt "SwitchConfiguration1Title"
+msgid "Secondary"
+msgstr ""
+
+msgctxt "SwitchConfiguration2Title"
+msgid "Light Source"
+msgstr ""
+
+msgctxt "SwitchConfigurationDescription"
+msgid "Click to switch your equipped items to this configuration: {0}."
+msgstr ""
+
+msgctxt "SwitchConfigurationDualItemFormat"
+msgid "{0} + {1}"
+msgstr ""
+
+msgctxt "SwitchConfigurationNoItemFormat"
+msgid "no item held"
+msgstr ""
+
+msgctxt "ToolTypeInspectionTitle"
+msgid "Tools Mastery"
+msgstr ""
+
+msgctxt "ToolTypeSelectionTitle"
+msgid "Select Tools"
+msgstr ""
+
+msgctxt "TotalBalanceClearAllDescription"
+msgid "Clears the whole transaction."
+msgstr ""
+
+msgctxt "TotalBalanceClearAllTitle"
+msgid "Clear All"
+msgstr ""
+
+msgctxt "TotalBalanceConcludeDescription"
+msgid "Complete the transaction and pay/collect the appropriate amounts."
+msgstr ""
+
+msgctxt "TotalBalanceConcludeTitle"
+msgid "Conclude"
+msgstr ""
+
+msgctxt "TotalBalanceCostTitle"
+msgid "You Pay:"
+msgstr ""
+
+msgctxt "TotalBalanceGainTitle"
+msgid "You Gain:"
+msgstr ""
+
+msgctxt "TotalBalanceTitle"
+msgid "Total"
+msgstr ""
+
+msgctxt "TotalCostTitle"
+msgid "Total Cost"
+msgstr ""
+
+msgctxt "TotalRevenueTitle"
+msgid "Total Revenue"
+msgstr ""
+
+msgctxt "TrackedQuestDescription"
+msgid "This quest is currently tracked and displayed on the main game screen. "
+msgstr ""
+
+msgctxt "TrackQuestDescription"
+msgid ""
+"Click to start/stop tracking this quest and follow it on the main screen."
+msgstr ""
+
+msgctxt "TrackQuestTitle"
+msgid "Track Quest"
+msgstr ""
+
+msgctxt "TrainedSkillTooltipSuffix"
+msgid "You are trained at using this skill (add your proficiency bonus)."
+msgstr ""
+
+msgctxt "TrainedToolTypeTooltipSuffix"
+msgid ""
+"You are trained at using this type of tool (add your proficiency bonus)."
+msgstr ""
+
+msgctxt "TravelFatigueDescription"
+msgid ""
+"The party accumulates fatigue through navigating the world map. A long rest "
+"recovers fatigue points."
+msgstr ""
+
+msgctxt "TravelFatigueTitle"
+msgid "Fatigue"
+msgstr ""
+
+msgctxt "TravelFoodDescription"
+msgid ""
+"How much food your party carries. You need one unit per character per long "
+"rest."
+msgstr ""
+
+msgctxt "TravelFoodMultipleFormat"
+msgid "{0} units"
+msgstr ""
+
+msgctxt "TravelFoodSingleFormat"
+msgid "{0} unit"
+msgstr ""
+
+msgctxt "TravelFoodTitle"
+msgid "Food"
+msgstr ""
+
+msgctxt "TravelInterruptDescription"
+msgid "Interrupts the current journey."
+msgstr ""
+
+msgctxt "TravelInterruptTitle"
+msgid "Interrupt"
+msgstr ""
+
+msgctxt "TravelJournalDescription"
+msgid ""
+"Opens the travel journal to display the events that occurred on the journey."
+msgstr ""
+
+msgctxt "TravelJournalTitle"
+msgid "Travel Journal"
+msgstr ""
+
+msgctxt "TravelResumeDescription"
+msgid "Resumes the current journey."
+msgstr ""
+
+msgctxt "TravelResumeTitle"
+msgid "Resume"
+msgstr ""
+
+msgctxt "TreasuryTitle"
+msgid "Personal Wealth"
+msgstr ""
+
+msgctxt "TutorialTitleFormat"
+msgid "Tutorial: {0}"
+msgstr ""
+
+msgctxt "TutorialUnderstoodDescription"
+msgid "Close this panel if you have understood."
+msgstr ""
+
+msgctxt "TutorialUnderstoodTitle"
+msgid "Understood"
+msgstr ""
+
+msgctxt "UnlockedClassFeaturesTitle"
+msgid "Unlocked Class Features"
+msgstr ""
+
+msgctxt "UntrackQuestTitle"
+msgid "Untrack Quest"
+msgstr ""
+
+msgctxt "UsablePowerPermanentTitle"
+msgid "This power is always on."
+msgstr ""
+
+msgctxt "UsablePowerPermanentUnlessIncapacitatedTitle"
+msgid "This power is always on unless the creature is incapacitated."
+msgstr ""
+
+msgctxt "UsablePowersTitle"
+msgid ""
+"Usable \n"
+"Powers"
+msgstr ""
+
+msgctxt "WorldMapTitle"
+msgid "World Map"
+msgstr ""
+
+msgctxt "ReorderContainerButtonDescription"
+msgid "Reorder inventory content"
+msgstr ""
+
+msgctxt "FastTravelInterruptedDescription"
+msgid "Travel interrupted"
+msgstr ""
+
+msgctxt "DialogChoiceBackgroundDescription"
+msgid "The background of this character enables a specific answer"
+msgstr ""
+
+msgctxt "GamePausedTopTitle"
+msgid "Game Paused"
+msgstr ""
+
+msgctxt "GamePausedTopDescription"
+msgid "Press the \"Play\" button or space to unpause."
+msgstr ""
+
+msgctxt "GameSettingsTitle"
+msgid "Game Settings"
+msgstr ""
+
+msgctxt "GroupLeaderDescription"
+msgid "Not used anymore"
+msgstr ""
+
+msgctxt "JournalBestiaryChallengeTitle"
+msgid "Challenge"
+msgstr ""
+
+msgctxt "InventoryMagicalUnidentifiedDescription"
+msgid ""
+"This item has magical properties that require Identify (spell or merchant) "
+"to be fully revealed"
+msgstr ""
+
+msgctxt "MerchantDetectMagicNothingNewDescription"
+msgid "No new magical items have been detected"
+msgstr ""
+
+msgctxt "ReviewGameDescription"
+msgid ""
+"Thank you for playing Solasta! Click here to open the interface and leave us "
+"a review. Much love!"
+msgstr ""
+
+msgctxt "ReviewGameTitle"
+msgid "Review the Game"
+msgstr ""
+
+msgctxt "DashModeDescriptionMainLabelTitle"
+msgid ""
+"Your movement range is now increased, at the cost of your main action. "
+"Clicking inside your normal range will not use the dash and will preserve "
+"your main action."
+msgstr ""
+
+msgctxt "DashModeDescriptionBonusLabelTitle"
+msgid ""
+"Your movement range is now increased, at the cost of your bonus action. "
+"Clicking inside your normal range will not use the dash and preserve your "
+"bonus action."
+msgstr ""
+
+msgctxt "DashModeTitle"
+msgid "Dashing"
+msgstr ""
+
+msgctxt "DataCorruptionTitle"
+msgid "Error: Loading Failed"
+msgstr ""
+
+msgctxt "DataCorruptionDescription"
+msgid ""
+"The game could not load properly. Please verify the integrity of your game "
+"files.\n"
+"More information on our forums:"
+msgstr ""
+
+msgctxt "AutoLootInstructionDoubleClickDescription"
+msgid "Double-click an item to auto-loot."
+msgstr ""
+
+msgctxt "ProximityLootInstructionDescription"
+msgid "Click an item to loot it to the selected character inventory."
+msgstr ""
+
+msgctxt "SplitItemTitle"
+msgid "Split"
+msgstr ""
+
+msgctxt "SplitItemDescription"
+msgid "Select a number of units for this stack of items."
+msgstr ""
+
+msgctxt "PartyTreasuryTitle"
+msgid "Party Wealth"
+msgstr ""
+
+msgctxt "ProximityLootHeaderFormat"
+msgid "Looting ground items within {0} cells."
+msgstr ""
+
+msgctxt "ReorderContainerButtonTitle"
+msgid "Reorder"
+msgstr ""
+
+msgctxt "PartyTeleportationDescription"
+msgid "Select a destination to instantaneously teleport your party."
+msgstr ""
+
+msgctxt "PartyTeleportationTitle"
+msgid "Party Teleportation"
+msgstr ""
+
+msgctxt "TeleportTitle"
+msgid "Teleport"
+msgstr ""
+
+msgctxt "NoScavengerBusinessCurrentlyTitle"
+msgid "No ongoing business with the Scavengers."
+msgstr ""
+
+msgctxt "EnemyTurnTitle"
+msgid "Enemy Turn"
+msgstr ""
+
+msgctxt "BreakFreeModeChoiceTitle"
+msgid "Select How to Break Free:"
+msgstr ""
+
+msgctxt "BreakFreeModeAthleticsFormat"
+msgid "STR (Athletics) {0}"
+msgstr ""
+
+msgctxt "BreakFreeModeAthleticsDescription"
+msgid "Roll a STR (Athletics) ability check to break free."
+msgstr ""
+
+msgctxt "BreakFreeModeAcrobaticsFormat"
+msgid "DEX (Acrobatics) {0}"
+msgstr ""
+
+msgctxt "BreakFreeModeAcrobaticsDescription"
+msgid "Roll a DEX (Acrobatics) ability check to break free."
+msgstr ""
+
+msgctxt "ColorCalibrationInstructionsDescription"
+msgid ""
+"Adjust the brightness and contrast until both lines of the five sigils are "
+"visible, with the left-most sigil barely visible."
+msgstr ""
+
+msgctxt "LegendaryActionTitle"
+msgid "Legendary Action"
+msgstr ""
+
+msgctxt "EditorLocationVisualMoodTitle"
+msgid "Visual Mood"
+msgstr ""
+
+msgctxt "JournalBestiaryPowersTitle"
+msgid "Special Features"
+msgstr ""
+
+msgctxt "CraftDescription"
+msgid "Open the crafting interface."
+msgstr ""
+
+msgctxt "CraftTitle"
+msgid "Craft"
+msgstr ""
+
+msgctxt "AttunementRemoveDescription"
+msgid ""
+"Remove the attunement on this item so that the character can attune to other "
+"items."
+msgstr ""
+
+msgctxt "NewQuestContentDescription"
+msgid "The quest log has been updated"
+msgstr ""
+
+msgctxt "NewBestiaryContentDescription"
+msgid "The bestiary has been updated"
+msgstr ""
+
+msgctxt "InventoryCannotDropPersonalSpellbookDescription"
+msgid "You cannot drop a personal spellbook out of your party inventory."
+msgstr ""
+
+msgctxt "InventoryCannotTransferPersonalSpellbookDescription"
+msgid "You cannot transfer a personal spellbook to another character."
+msgstr ""
+
+msgctxt "InventoryCannotSellPersonalSpellbookDescription"
+msgid "You cannot sell your personal spellbook."
+msgstr ""
+
+msgctxt "PreferredCantripNoneTitle"
+msgid "None"
+msgstr ""
+
+msgctxt "PreferredCantripNoneDescription"
+msgid "No cantrip is selected, so the first valid attack cantrip will be used."
+msgstr ""
+
+msgctxt "PreferredCantripTitle"
+msgid "Preferred Cantrip"
+msgstr ""
+
+msgctxt "PreferredCantripDescription"
+msgid ""
+"Allows you to select your preferred attack cantrip for the Ready Cantrip "
+"action. If this cantrip is not usable when the readied action is triggered ("
+"out of range, for example), then another valid cantrip will be selected."
+msgstr ""
+
+msgctxt "AbortTravelButtonTitle"
+msgid "Abort Travel at Next Location"
+msgstr ""
+
+msgctxt "AbortTravelButtonDescription"
+msgid ""
+"Instead of traveling to the final destination, the party will stop at the "
+"next location so that you can plot an alternate route."
+msgstr ""
+
+msgctxt "MarkDeityTitle"
+msgid "Mark Deity"
+msgstr ""
+
+msgctxt "MarkDeityDescription"
+msgid ""
+"Paint or carve your deity symbol on this item, so that it can be used as a "
+"material component for spells, and even remove the free hand requirement for "
+"somatic spells with a material component."
+msgstr ""
+
+msgctxt "RepertoireKnownSpellsTitle"
+msgid "Known Spells"
+msgstr ""
+
+msgctxt "EditorSaveTitle"
+msgid "Save"
+msgstr ""
+
+msgctxt "EditorUndoTitle"
+msgid "Undo"
+msgstr ""
+
+msgctxt "EditorCategoryLocationTitle"
+msgid "Location"
+msgstr ""
+
+msgctxt "EditorCategoryRoomDescription"
+msgid "Available Room Blueprints"
+msgstr ""
+
+msgctxt "EditorCategoryPropDescription"
+msgid "Available Prop Blueprints"
+msgstr ""
+
+msgctxt "EditorCategoryGadgetDescription"
+msgid "Available Gadget Blueprints"
+msgstr ""
+
+msgctxt "EditorLocationTitleTitle"
+msgid "Title"
+msgstr ""
+
+msgctxt "EditorLocationDescriptionTitle"
+msgid "Description"
+msgstr ""
+
+msgctxt "EditorLocationAuthorTitle"
+msgid "Author"
+msgstr ""
+
+msgctxt "EditorLocationMinCharLevelTitle"
+msgid "Min. Character Level"
+msgstr ""
+
+msgctxt "EditorLocationMaxCharLevelTitle"
+msgid "Max. Character Level"
+msgstr ""
+
+msgctxt "EditorLocationEnvironmentTitle"
+msgid "Environment"
+msgstr ""
+
+msgctxt "EditorLocationSizeTitle"
+msgid "Size"
+msgstr ""
+
+msgctxt "EditorLocationSizeSmallTitle"
+msgid "Small"
+msgstr ""
+
+msgctxt "EditorLocationSizeMediumTitle"
+msgid "Medium"
+msgstr ""
+
+msgctxt "EditorLocationSizeLargeTitle"
+msgid "Large"
+msgstr ""
+
+msgctxt "EditorLocationMusicTitle"
+msgid "Ambient Music"
+msgstr ""
+
+msgctxt "EditorCaptionXTitle"
+msgid "X"
+msgstr ""
+
+msgctxt "EditorCaptionYTitle"
+msgid "Y"
+msgstr ""
+
+msgctxt "EditorCaptionOrientationTitle"
+msgid "Orientation"
+msgstr ""
+
+msgctxt "EditorCaptionCancelButtonTitle"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "EditorCaptionCancelButtonDescription"
+msgid "Cancels the selection of the current element"
+msgstr ""
+
+msgctxt "EditorCaptionMoveButtonTitle"
+msgid "Move"
+msgstr ""
+
+msgctxt "EditorCaptionMoveButtonDescription"
+msgid "Moves this element by dragging the mouse"
+msgstr ""
+
+msgctxt "EditorCaptionRotateButtonTitle"
+msgid "Rotate"
+msgstr ""
+
+msgctxt "EditorCaptionRotateButtonDescription"
+msgid "Rotates the selected element 90° clockwise"
+msgstr ""
+
+msgctxt "EditorCaptionDeleteButtonTitle"
+msgid "Delete"
+msgstr ""
+
+msgctxt "EditorCaptionDeleteButtonDescription"
+msgid "Deletes the selected element"
+msgstr ""
+
+msgctxt "MonsterSelectionTitle"
+msgid "Select a Creature"
+msgstr ""
+
+msgctxt "MonsterSortAlphabeticalTitle"
+msgid "Name"
+msgstr ""
+
+msgctxt "MonsterSortAlphabeticalDescription"
+msgid "Sort by monster name"
+msgstr ""
+
+msgctxt "MonsterSortCRTitle"
+msgid "Challenge"
+msgstr ""
+
+msgctxt "MonsterSortCRDescription"
+msgid "Sort by monster Challenge Rating"
+msgstr ""
+
+msgctxt "ItemSortAlphabeticalTitle"
+msgid "Name"
+msgstr ""
+
+msgctxt "ItemSortAlphabeticalDescription"
+msgid "Sort by item name"
+msgstr ""
+
+msgctxt "ItemSortValueTitle"
+msgid "Cost"
+msgstr ""
+
+msgctxt "ItemSortValueDescription"
+msgid "Sort by item cost"
+msgstr ""
+
+msgctxt "LootPackSelectionTitle"
+msgid "Select a Loot Pack"
+msgstr ""
+
+msgctxt "ItemSelectionTitle"
+msgid "Select an Item"
+msgstr ""
+
+msgctxt "TrapEffectSelectionTitle"
+msgid "Select a Trap Effect"
+msgstr ""
+
+msgctxt "LocationSavedDescription"
+msgid "Content saved"
+msgstr ""
+
+msgctxt "ClearElementTitle"
+msgid "Clear"
+msgstr ""
+
+msgctxt "ClearElementDescription"
+msgid "Clears the selected database entry"
+msgstr ""
+
+msgctxt "FeatureUnavailableTitle"
+msgid "Unavailable, coming soon"
+msgstr ""
+
+msgctxt "EditorSettingsTitle"
+msgid "Settings"
+msgstr ""
+
+msgctxt "EditorSettingsDescription"
+msgid "Edit the user location's settings (name, description, etc.)"
+msgstr ""
+
+msgctxt "EditorSaveDescription"
+msgid "Save this user location to disk ({0})"
+msgstr ""
+
+msgctxt "EditorUndoDescription"
+msgid "Undo the last modification ({0})"
+msgstr ""
+
+msgctxt "EditorPrevisTitle"
+msgid "Preview"
+msgstr ""
+
+msgctxt "EditorPrevisDescription"
+msgid "Previsualize the location rendering in a separate window (coming soon)"
+msgstr ""
+
+msgctxt "MoveShortcutFormat"
+msgid "Move ({0})"
+msgstr ""
+
+msgctxt "RotateShortcutFormat"
+msgid "Rotate ({0})"
+msgstr ""
+
+msgctxt "CopyShortcutFormat"
+msgid "Copy ({0})"
+msgstr ""
+
+msgctxt "DeleteShortcutFormat"
+msgid "Delete ({0})"
+msgstr ""
+
+msgctxt "EditorLibraryTitle"
+msgid "Library"
+msgstr ""
+
+msgctxt "EditorCategoryRoomTitle"
+msgid "Rooms"
+msgstr ""
+
+msgctxt "EditorCategoryPropTitle"
+msgid "Props"
+msgstr ""
+
+msgctxt "EditorCategoryGadgetTitle"
+msgid "Gadgets"
+msgstr ""
+
+msgctxt "EditorCaptionPositionTitle"
+msgid "Position"
+msgstr ""
+
+msgctxt "EditorCaptionCopyButtonTitle"
+msgid "Duplicate"
+msgstr ""
+
+msgctxt "EditorCaptionCopyButtonDescription"
+msgid "Duplicates the selected element"
+msgstr ""
+
+msgctxt "BackDungeonMakerTitle"
+msgid "Dungeon Maker"
+msgstr ""
+
+msgctxt "BackDungeonMakerDescription"
+msgid "Opens the Dungeon Maker to resume editing this location"
+msgstr ""
+
+msgctxt "EditorLocationSwitchDescription"
+msgid "Click to switch to this user location"
+msgstr ""
+
+msgctxt "EditorLocationAuthorVersionTitle"
+msgid "Version"
+msgstr ""
+
+msgctxt "UserLocationsPublishButtonDescription"
+msgid "Publish your location on Steam Workshop"
+msgstr ""
+
+msgctxt "UserLocationsPublishingWorshopLegalLabel"
+msgid "By submitting this item, you agree to the workshop terms of service."
+msgstr ""
+
+msgctxt "UserLocationsPublishingWorshopLegalLinkLabel"
+msgid "Read the terms of service here."
+msgstr ""
+
+msgctxt "UserLocationsPublishedItemLinkLabel"
+msgid "Browse the published item."
+msgstr ""
+
+msgctxt "UserLocationsPublishHeaderTitle"
+msgid "Publish Location"
+msgstr ""
+
+msgctxt "UserLocationsPublishingLabel"
+msgid "Location publishing started. Please wait."
+msgstr ""
+
+msgctxt "UserLocationsPublishWaitingLabel"
+msgid ""
+"New location will be published.\n"
+"\n"
+"Note: You can set a thumbnail by placing a PNG image of the same name in the "
+"same folder as the JSON file."
+msgstr ""
+
+msgctxt "UserLocationsUpdateWaitingLabel"
+msgid "Existing location will be updated."
+msgstr ""
+
+msgctxt "UserLocationsPublishingFailedLabel"
+msgid "Could not publish location."
+msgstr ""
+
+msgctxt "UserLocationsPublishingFailedReasonLabelFormat"
+msgid ""
+"Could not publish new location.\\n"
+"Error {0}."
+msgstr ""
+
+msgctxt "UserLocationsUpdatingFailedReasonLabelFormat"
+msgid ""
+"Could not update existing location's data.\\n"
+"Error {0}."
+msgstr ""
+
+msgctxt "UserLocationsItemPublishedLabelFormat"
+msgid ""
+"User location was created on the workshop. Updating location's content. "
+"Please wait."
+msgstr ""
+
+msgctxt "UserLocationsItemUpdatedLabelFormat"
+msgid "User location published properly. Congratulations!"
+msgstr ""
+
+msgctxt "CheatsButtonTitle"
+msgid "Cheats"
+msgstr ""
+
+msgctxt "CheatsButtonDescription"
+msgid "Opens the Dungeon Maker playtest cheats. {0}"
+msgstr ""
+
+msgctxt "EditorFoldAllButtonTitle"
+msgid "Fold All"
+msgstr ""
+
+msgctxt "EditorFoldAllButtonDescription"
+msgid "Collapse all folders of this library"
+msgstr ""
+
+msgctxt "EditorUnfoldAllButtonTitle"
+msgid "Unfold All"
+msgstr ""
+
+msgctxt "EditorUnfoldAllButtonDescription"
+msgid "Open all folders of this library"
+msgstr ""
+
+msgctxt "EditorCustomDimensionsTitle"
+msgid "Custom Dimensions"
+msgstr ""
+
+msgctxt "EditorCustomDimensionsDescription"
+msgid ""
+"This gadget can be set with custom dimensions. Select your preferred valued"
+msgstr ""
+
+msgctxt "EditorCustomDimensionsWidthTitle"
+msgid "Width"
+msgstr ""
+
+msgctxt "EditorCustomDimensionsHeightTitle"
+msgid "Height"
+msgstr ""
+
+msgctxt "KnudgeNorthShortcutFormat"
+msgid "Nudge North ({0})"
+msgstr ""
+
+msgctxt "KnudgeEastShortcutFormat"
+msgid "Nudge East ({0})"
+msgstr ""
+
+msgctxt "KnudgeSouthShortcutFormat"
+msgid "Nudge South ({0})"
+msgstr ""
+
+msgctxt "KnudgeWestShortcutFormat"
+msgid "Nudge West ({0})"
+msgstr ""
+
+msgctxt "EditorCaptionPositionFormat"
+msgid "X: {0}, Y: {1}"
+msgstr ""
+
+msgctxt "EditorPlacementInstructionDescription"
+msgid "This element can be placed on the following cell types: {0}"
+msgstr ""
+
+msgctxt "EditorPlacementWallTitle"
+msgid "Wall"
+msgstr ""
+
+msgctxt "EditorPlacementOpeningTitle"
+msgid "Opening"
+msgstr ""
+
+msgctxt "EditorPlacementGroundLowTitle"
+msgid "GroundLow"
+msgstr ""
+
+msgctxt "EditorPlacementGroundHighTitle"
+msgid "GroundHigh"
+msgstr ""
+
+msgctxt "EditorPlacementGroundTitle"
+msgid "Ground"
+msgstr ""
+
+msgctxt "EditorGroundLowSuffix"
+msgid " (low)"
+msgstr ""
+
+msgctxt "EditorGroundHighSuffix"
+msgid " (high)"
+msgstr ""
+
+msgctxt "ContentToggleLocationTitle"
+msgid "Locations"
+msgstr ""
+
+msgctxt "ContentToggleCampaignTitle"
+msgid "Campaigns"
+msgstr ""
+
+msgctxt "CampaignCreatorTitle"
+msgid "Campaign Creator"
+msgstr ""
+
+msgctxt "CampaignSettingsTitle"
+msgid "Campaign Settings"
+msgstr ""
+
+msgctxt "CampaignContentTitle"
+msgid "Embedded Content"
+msgstr ""
+
+msgctxt "CampaignContentDescrition"
+msgid "The following content is stored inside the user campaign file"
+msgstr ""
+
+msgctxt "CampaignEditorLocationHeaderTitle"
+msgid "Locations"
+msgstr ""
+
+msgctxt "CampaignEditorItemHeaderTitle"
+msgid "Custom Items"
+msgstr ""
+
+msgctxt "CampaignEditorMonsterHeaderTitle"
+msgid "Custom Monsters"
+msgstr ""
+
+msgctxt "CampaignEditorImportContentTitle"
+msgid "Import"
+msgstr ""
+
+msgctxt "CampaignEditorImportLocationDescrition"
+msgid ""
+"Import a location from your common pool of locations, to store it inside the "
+"JSON file of this campaign. The original location is preserved."
+msgstr ""
+
+msgctxt "CampaignEditorExportContentTitle"
+msgid "Export"
+msgstr ""
+
+msgctxt "CampaignEditorExportLocationDescrition"
+msgid ""
+"Export a location from this campaign file to your common pool of locations. "
+"Can override an existing location in the common pool. Default values will be "
+"assigned for the author / required levels."
+msgstr ""
+
+msgctxt "CampaignEditorUpTitle"
+msgid "Up"
+msgstr ""
+
+msgctxt "CampaignEditorUpDescrition"
+msgid "Move this content Up one line"
+msgstr ""
+
+msgctxt "CampaignEditorDownTitle"
+msgid "Down"
+msgstr ""
+
+msgctxt "CampaignEditorDownDescrition"
+msgid "Move this content Down one line"
+msgstr ""
+
+msgctxt "CampaignEditorSetStartTitle"
+msgid "Set Start"
+msgstr ""
+
+msgctxt "CampaignEditorSetStartDescrition"
+msgid ""
+"Click to set this location as the start location (entrance index 0) for the "
+"campaign"
+msgstr ""
+
+msgctxt "CampaignEditorCampaignStartTitle"
+msgid "Campaign Start"
+msgstr ""
+
+msgctxt "CampaignEditorCampaignStartDescrition"
+msgid "The campaign will start at this location"
+msgstr ""
+
+msgctxt "CampaignMustSaveDescription"
+msgid "You must save your campaign first"
+msgstr ""
+
+msgctxt "CampaignReferenceImageTitle"
+msgid "Reference Image"
+msgstr ""
+
+msgctxt "CampaignReferenceImageDescrition"
+msgid "The default background for this campaign when represented in game. "
+msgstr ""
+
+msgctxt "MetamagicOptionsTitle"
+msgid "Select a Metamagic Option"
+msgstr ""
+
+msgctxt "MetamagicIgnoreTitle"
+msgid "Ignore"
+msgstr ""
+
+msgctxt "MetamagicIgnoreDescription"
+msgid "Ignore the metamagic options and proceed with spellcasting"
+msgstr ""
+
+msgctxt "ProficiencyToggleMetamagicTitle"
+msgid "Metamagic"
+msgstr ""
+
+msgctxt "ProficiencyMetamagicDescription"
+msgid "Metamagic allows you to twist the spells you cast"
+msgstr ""
+
+msgctxt "OathSpellTitle"
+msgid "Oath"
+msgstr ""
+
+msgctxt "OathSpellDescription"
+msgid ""
+"This Oath spell is always considered prepared, and does not count towards "
+"your spell preparation limit."
+msgstr ""
+
+msgctxt "TraditionSpellTitle"
+msgid "Tradition"
+msgstr ""
+
+msgctxt "TraditionSpellDescription"
+msgid ""
+"This Tradition spell is always considered prepared, and does not count "
+"towards your spell preparation limit."
+msgstr ""
+
+msgctxt "OriginSpellTitle"
+msgid "Origin"
+msgstr ""
+
+msgctxt "OriginSpellDescription"
+msgid ""
+"This Origin spell is always considered known, and does not count towards "
+"your spell knowledge limit."
+msgstr ""
+
+msgctxt "IronManModeTitle"
+msgid "Iron Man Mode"
+msgstr ""
+
+msgctxt "IronManSaveCosmeticName"
+msgid "Iron Man Campaign"
+msgstr ""
+
+msgctxt "UnavailableContentPackDescription"
+msgid "You do not own this content. Click to access the store page"
+msgstr ""
+
+msgctxt "MetamagicSelectionDescription"
+msgid "You can spend sorcery points to alter this a metamagic option"
+msgstr ""
+
+msgctxt "ConvertTitle"
+msgid "Convert"
+msgstr ""
+
+msgctxt "ConvertCreateTitle"
+msgid "You create:"
+msgstr ""
+
+msgctxt "ConvertSpendTitle"
+msgid "You spend:"
+msgstr ""
+
+msgctxt "PowerRemainingSlotsDescription"
+msgid "Your remaining pool of spell slots"
+msgstr ""
+
+msgctxt "NewContendersTitle"
+msgid "New Contenders"
+msgstr ""
+
+msgctxt "CircleSpellTitle"
+msgid "Circle"
+msgstr ""
+
+msgctxt "CircleSpellDescription"
+msgid ""
+"This circle spell is always considered prepared. \n"
+"It does not count towards your spell preparation limit. "
+msgstr ""

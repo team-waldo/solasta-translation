@@ -1,0 +1,458 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "AlterAttackSpellDescription"
+msgid "{0} is attacking {1}! You can cast {2} to block the attack."
+msgstr ""
+
+msgctxt "AlterAttackSpellReactDescription"
+msgid "Click to cast {0} and block the attack."
+msgstr ""
+
+msgctxt "AlterAttackSpellReactTitle"
+msgid "Cast Spell"
+msgstr ""
+
+msgctxt "AlterAttackSpellTitle"
+msgid "Prevent incoming attack."
+msgstr ""
+
+msgctxt "BlockAttackDescription"
+msgid ""
+"{0} is attacking {1}! You can react to impose disadvantage upon the enemy."
+msgstr ""
+
+msgctxt "BlockAttackReactDescription"
+msgid ""
+"Click to block the attacking character and impose disadvantage. This uses "
+"your reaction until your next turn."
+msgstr ""
+
+msgctxt "BlockAttackReactTitle"
+msgid "Block"
+msgstr ""
+
+msgctxt "BlockAttackTitle"
+msgid "Attack on Ally"
+msgstr ""
+
+msgctxt "CastFallPreventionSpellDescriptionPlural"
+msgid ""
+"{0} are about to fall dangerously! You can cast {1} to prevent any damage."
+msgstr ""
+
+msgctxt "CastFallPreventionSpellDescriptionSingle"
+msgid ""
+"{0} is about to fall dangerously! You can cast {1} to prevent any damage."
+msgstr ""
+
+msgctxt "CastFallPreventionSpellReactDescription"
+msgid "Click to cast the {0} spell and prevent fall damage."
+msgstr ""
+
+msgctxt "CastFallPreventionSpellReactTitle"
+msgid "Cast Spell"
+msgstr ""
+
+msgctxt "CastFallPreventionSpellTitle"
+msgid "Hurtful Fall"
+msgstr ""
+
+msgctxt "CastImmunityToSpellDescription"
+msgid "{0} is casting {3} on {1}! You can cast {2} to counter the spell."
+msgstr ""
+
+msgctxt "CastImmunityToSpellReactDescription"
+msgid "Click to cast {0} and counter the spell attack."
+msgstr ""
+
+msgctxt "CastImmunityToSpellReactTitle"
+msgid "Cast Spell"
+msgstr ""
+
+msgctxt "CastImmunityToSpellTitle"
+msgid "Incoming Spell Attack"
+msgstr ""
+
+msgctxt "ChooseAReactionTitle"
+msgid "Choose a Reaction"
+msgstr ""
+
+msgctxt "ChooseAnOptionTitle"
+msgid "Choose an Option"
+msgstr ""
+
+msgctxt "CounterAttackWithPowerDescription"
+msgid "{0} has hit {1}! You can counterattack with {2}."
+msgstr ""
+
+msgctxt "CounterAttackWithPowerReactDescription"
+msgid "Click to use {0} and strike back."
+msgstr ""
+
+msgctxt "CounterAttackWithPowerReactTitle"
+msgid "Strike"
+msgstr ""
+
+msgctxt "CounterAttackWithPowerTitle"
+msgid "Enemy Attack"
+msgstr ""
+
+msgctxt "CounterSpellDescription"
+msgid "{0} is casting a spell! You can react to counter the spell."
+msgstr ""
+
+msgctxt "CounterSpellReactDescription"
+msgid "Click to cast counterspell and counter the enemy spell."
+msgstr ""
+
+msgctxt "CounterSpellReactTitle"
+msgid "Counter"
+msgstr ""
+
+msgctxt "CounterSpellTitle"
+msgid "Hostile Spellcasting"
+msgstr ""
+
+msgctxt "GiantKillerDescription"
+msgid ""
+"{0},a {2} creature, has attacked {1}, who can use a reaction to strike back"
+msgstr ""
+
+msgctxt "GiantKillerReactDescription"
+msgid "Click to counter-attack. This uses your reaction until your next turn."
+msgstr ""
+
+msgctxt "GiantKillerReactTitle"
+msgid "Attack"
+msgstr ""
+
+msgctxt "GiantKillerTitle"
+msgid "Giant Killer"
+msgstr ""
+
+msgctxt "MainTitle"
+msgid "Reacting to"
+msgstr ""
+
+msgctxt "OpportunityAttackDescription"
+msgid "{0} is leaving an area threatened by one or more characters."
+msgstr ""
+
+msgctxt "OpportunityAttackReactDescription"
+msgid ""
+"Click to attack the retreating character/creature. This uses your reaction "
+"until your next turn."
+msgstr ""
+
+msgctxt "OpportunityAttackReactTitle"
+msgid "Attack"
+msgstr ""
+
+msgctxt "OpportunityAttackTitle"
+msgid "Attack of Opportunity"
+msgstr ""
+
+msgctxt "PassDescription"
+msgid "You do not react to this event, saving your reaction for later."
+msgstr ""
+
+msgctxt "PassTitle"
+msgid "Pass"
+msgstr ""
+
+msgctxt "ReactionShotDescription"
+msgid ""
+"{0} has attacked {1}, who can use a reaction to strike back with a ranged "
+"attack."
+msgstr ""
+
+msgctxt "ReactionShotReactDescription"
+msgid "Click to counterattack. This uses your reaction until your next turn."
+msgstr ""
+
+msgctxt "ReactionShotReactTitle"
+msgid "Attack"
+msgstr ""
+
+msgctxt "ReactionShotTitle"
+msgid "Reaction Shot"
+msgstr ""
+
+msgctxt "SecondsTitle"
+msgid "sec"
+msgstr ""
+
+msgctxt "SpendPowerPowerDomainBattleDecisiveStrikeDescription"
+msgid "{0} can strike with additional damage by using Channel Divinity."
+msgstr ""
+
+msgctxt "SpendPowerPowerDomainBattleDecisiveStrikeReactDescription"
+msgid "Click to boost damage using Channel Divinity: Decisive Strike."
+msgstr ""
+
+msgctxt "SpendPowerPowerDomainBattleDecisiveStrikeReactTitle"
+msgid "Strike"
+msgstr ""
+
+msgctxt "SpendPowerPowerDomainBattleDecisiveStrikeTitle"
+msgid "Successful Attack"
+msgstr ""
+
+msgctxt "SpendPowerPowerTraditionGreenmageMagicalArrowDescription"
+msgid "{0} can try to entangle the target by spending a use of Magical Arrow."
+msgstr ""
+
+msgctxt "SpendPowerPowerTraditionGreenmageMagicalArrowReactDescription"
+msgid "Click to try to entangle the target."
+msgstr ""
+
+msgctxt "SpendPowerPowerTraditionGreenmageMagicalArrowReactTitle"
+msgid "Entangle"
+msgstr ""
+
+msgctxt "SpendPowerPowerTraditionGreenmageMagicalArrowTitle"
+msgid "Successful Attack"
+msgstr ""
+
+msgctxt "SpendSpellSlotDivineSmiteDescription"
+msgid ""
+"{0} can smite his target with additional damage by spending a spell slot."
+msgstr ""
+
+msgctxt "SpendSpellSlotDivineSmiteReactDescription"
+msgid "Click to spend a spell slot and increase damage to the target."
+msgstr ""
+
+msgctxt "SpendSpellSlotDivineSmiteReactTitle"
+msgid "Smite"
+msgstr ""
+
+msgctxt "SpendSpellSlotDivineSmiteTitle"
+msgid "Divine Smite"
+msgstr ""
+
+msgctxt "SubitemSelectCounterspellDescription"
+msgid "Select a slot level to spend to cast counterspell"
+msgstr ""
+
+msgctxt "SubitemSelectCounterspellTitle"
+msgid "Slot Level"
+msgstr ""
+
+msgctxt "SubitemSelectDivineSmiteDescription"
+msgid "Select a slot level to consume for your Divine Smite"
+msgstr ""
+
+msgctxt "SubitemSelectDivineSmiteTitle"
+msgid "Slot Level"
+msgstr ""
+
+msgctxt "SubitemSelectFeatherFallDescription"
+msgid "Select a slot level to spend to cast Feather Fall"
+msgstr ""
+
+msgctxt "SubitemSelectFeatherFallTitle"
+msgid "Slot Level"
+msgstr ""
+
+msgctxt "SubitemSelectShieldDescription"
+msgid "Select a slot level to spend to cast shield"
+msgstr ""
+
+msgctxt "SubitemSelectShieldTitle"
+msgid "Slot Level"
+msgstr ""
+
+msgctxt "UncannyDodgeDescription"
+msgid "{0} is attacking {1}, who can react to halve incoming damage."
+msgstr ""
+
+msgctxt "UncannyDodgeReactDescription"
+msgid "Click to use your reaction and halve the attack's damage."
+msgstr ""
+
+msgctxt "UncannyDodgeReactTitle"
+msgid "Halve"
+msgstr ""
+
+msgctxt "UncannyDodgeTitle"
+msgid "Uncanny Dodge"
+msgstr ""
+
+msgctxt "UsePowerDomainElementalDiscipleOfTheElementsColdDescription"
+msgid "{0} can become temporarily immune to cold, and recover some hit points."
+msgstr ""
+
+msgctxt "UsePowerDomainElementalDiscipleOfTheElementsColdReactDescription"
+msgid "Click to become immune to cold, and recover hit points."
+msgstr ""
+
+msgctxt "UsePowerDomainElementalDiscipleOfTheElementsColdReactTitle"
+msgid "Embrace"
+msgstr ""
+
+msgctxt "UsePowerDomainElementalDiscipleOfTheElementsColdTitle"
+msgid "Scholar of the Elements (Cold)"
+msgstr ""
+
+msgctxt "UsePowerDomainElementalDiscipleOfTheElementsFireDescription"
+msgid "{0} can become temporarily immune to fire, and recover some hit points."
+msgstr ""
+
+msgctxt "UsePowerDomainElementalDiscipleOfTheElementsFireReactDescription"
+msgid "Click to become immune to fire, and recover hit points."
+msgstr ""
+
+msgctxt "UsePowerDomainElementalDiscipleOfTheElementsFireReactTitle"
+msgid "Embrace"
+msgstr ""
+
+msgctxt "UsePowerDomainElementalDiscipleOfTheElementsFireTitle"
+msgid "Scholar of the Elements (Fire)"
+msgstr ""
+
+msgctxt "UsePowerDomainElementalDiscipleOfTheElementsLightningDescription"
+msgid ""
+"{0} can become temporarily immune to lightning, and recover some hit points."
+msgstr ""
+
+msgctxt "UsePowerDomainElementalDiscipleOfTheElementsLightningReactDescription"
+msgid "Click to become immune to lightning, and recover hit points."
+msgstr ""
+
+msgctxt "UsePowerDomainElementalDiscipleOfTheElementsLightningReactTitle"
+msgid "Embrace"
+msgstr ""
+
+msgctxt "UsePowerDomainElementalDiscipleOfTheElementsLightningTitle"
+msgid "Scholar of the Elements (Lightning)"
+msgstr ""
+
+msgctxt "DeflectMissileDescription"
+msgid ""
+"{0} is attacking {1}, who can react to reduce the incoming damage by 1D10 + "
+"DEX modifier."
+msgstr ""
+
+msgctxt "DeflectMissileReactDescription"
+msgid "Click to use your reaction and reduce the attack's damage."
+msgstr ""
+
+msgctxt "DeflectMissileReactTitle"
+msgid "Deflect"
+msgstr ""
+
+msgctxt "DeflectMissileTitle"
+msgid "Missile Attack"
+msgstr ""
+
+msgctxt "AlterAttackPowerDescription"
+msgid ""
+"{0} is attacking {1}! You can use {2} to increase the defender's armor class "
+"until the end of the attacker's turn."
+msgstr ""
+
+msgctxt "AlterAttackPowerReactDescription"
+msgid "Click to use {0} and block the attack."
+msgstr ""
+
+msgctxt "AlterAttackPowerReactTitle"
+msgid "Block"
+msgstr ""
+
+msgctxt "AlterAttackPowerTitle"
+msgid "Prevent incoming attack."
+msgstr ""
+
+msgctxt "IndomitableResistanceReactTitle"
+msgid "Reroll"
+msgstr ""
+
+msgctxt "IndomitableResistanceReactDescription"
+msgid "Reroll to try and succeed on the saving throw."
+msgstr ""
+
+msgctxt "IndomitableResistanceTitle"
+msgid "Indomitable"
+msgstr ""
+
+msgctxt "IndomitableResistanceDescription"
+msgid "{0} has failed a saving throw against {1} but can attempt to reroll it."
+msgstr ""
+
+msgctxt "ShadowRetributionReactTitle"
+msgid "Cast Cantrip"
+msgstr ""
+
+msgctxt "ShadowRetributionReactDescription"
+msgid "Cast the cantrip spell on the hostile spellcaster."
+msgstr ""
+
+msgctxt "ShadowRetributionDescription"
+msgid ""
+"{0} is targeted by a hostile spell of {1} and can counterattack with the {2} "
+"spell."
+msgstr ""
+
+msgctxt "SwiftRetaliationReactTitle"
+msgid "Attack"
+msgstr ""
+
+msgctxt "SwiftRetaliationReactDescription"
+msgid "Click to counter attack the attacker with a melee attack"
+msgstr ""
+
+msgctxt "SwiftRetaliationTitle"
+msgid "Swift Retaliation"
+msgstr ""
+
+msgctxt "SwiftRetaliationDescription"
+msgid ""
+"{0} has attacked {1}, who can use a reaction to strike back with a melee "
+"attack."
+msgstr ""
+
+msgctxt "RageVersusSurpriseDescription"
+msgid ""
+"{0} is surprised and cannot act this round unless you decide to trigger a "
+"Rage"
+msgstr ""
+
+msgctxt "RageVersusSurpriseReactDescription"
+msgid "Click to spend a rage (you have {0} remaining)."
+msgstr ""
+
+msgctxt "RageVersusSurpriseReactTitle"
+msgid "Rage ({0})"
+msgstr ""
+
+msgctxt "SpendPowerPowerBerserkerFrenzyDescription"
+msgid ""
+"As you enter you rage, you can enter a Frenzy which grants you a bonus "
+"attack with your melee weapon during the rage, at the cost of a level of "
+"exhaustion when the rage ends"
+msgstr ""
+
+msgctxt "SpendPowerPowerBerserkerFrenzyTitle"
+msgid "Frenzy"
+msgstr ""
+
+msgctxt "SpendPowerPowerBerserkerFrenzyReactDescription"
+msgid "Click to enter frenzy with your rage"
+msgstr ""
+
+msgctxt "SpendPowerPowerBerserkerFrenzyReactTitle"
+msgid "Frenzy"
+msgstr ""

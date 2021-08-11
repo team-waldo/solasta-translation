@@ -1,0 +1,1234 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 23:45+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_AfterTuto0"
+msgid "The Gravekeep's Cask"
+msgstr "묘지기의 술통"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_AfterTuto1"
+msgid "Waiting for Lord Carran"
+msgstr "캐런 경을 기다리며"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_AfterTuto2"
+msgid "Another Round"
+msgstr "또 다른 라운드"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_AfterTuto3"
+msgid "Still No Sign"
+msgstr "여전히 흔적 없음"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_AfterTuto4"
+msgid "Lord Carran Finally Arrives"
+msgstr "마침내 도착한 캐런 경"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Annie01"
+msgid "Famous Already"
+msgstr "이미 유명한"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Annie02"
+msgid "The Scavengers"
+msgstr "청소부"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerLem01"
+msgid "The Outpost"
+msgstr "전초기지"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerLem02"
+msgid "The Tower"
+msgstr "타워"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerLem03"
+msgid "The Survivors"
+msgstr "생존자들"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerLem04"
+msgid "Distrust"
+msgstr "불신"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerLem05"
+msgid "Inside at Last"
+msgstr "마침내 내부"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerLem06"
+msgid "The Scout"
+msgstr "스카우트"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerLem07"
+msgid "The Veteran"
+msgstr "베테랑"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerLem08"
+msgid "The Youngster"
+msgstr "젊은이"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerLem09"
+msgid "Discussing the Situation"
+msgstr "상황 논의"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerLem10"
+msgid "The Choice"
+msgstr "선택"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerLem11"
+msgid "The Escape"
+msgstr "탈출"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerLem12"
+msgid "Survivors"
+msgstr "생존자"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerLemGeneric"
+msgid "Inspection"
+msgstr "점검"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council0"
+msgid "The Oath"
+msgstr "선서"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Gorim"
+msgid "Gorim's Emporium"
+msgstr "고림의 가게"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Hugo"
+msgid "Hugo's Wonders"
+msgstr "휴고의 불가사의"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Karel"
+msgid "Karel's Welcome"
+msgstr "카렐의 환영"
+
+msgctxt "CrownOfTheMagister_JournalEntry01"
+msgid "Prison Break"
+msgstr "프리즌 브레이크"
+
+msgctxt "CrownOfTheMagister_JournalEntry02"
+msgid "Wild Encounter"
+msgstr "야생의 만남"
+
+msgctxt "CrownOfTheMagister_JournalEntry03"
+msgid "The Cave"
+msgstr "동굴"
+
+msgctxt "CrownOfTheMagister_JournalEntry04"
+msgid "Dirty Deeds"
+msgstr "더러운 행위"
+
+msgctxt "CrownOfTheMagisterDescription"
+msgid ""
+"The new realms of Solasta turn their eyes towards the Badlands and its "
+"treasures, but war isn't the only threat looming over the Principality of "
+"Masgarth."
+msgstr "솔라스타의 새로운 영역은 황무지와 그 보물에 눈을 돌리지만, 마스가르스 공국을 위협하는 것은 전쟁만이 아닙니다."
+
+msgctxt "CrownOfTheMagisterIntroduction1"
+msgid ""
+"It is the year 1024 after the Cataclysm. New states have arisen around the "
+"Badlands and crave its treasures."
+msgstr "대격변 후 1024년입니다. 황무지 주변에 새로운 국가가 생겨났고 그 보물을 갈망했습니다."
+
+msgctxt "CrownOfTheMagisterIntroduction2"
+msgid ""
+"A newly discovered road offers a safer route into the ruined heart of the "
+"Empire from the Principality of Masgarth, upsetting the balance of power."
+msgstr "새로 발견된 도로는 마스가르스 공국에서 제국의 폐허가 된 심장으로 가는 더 안전한 경로를 제공하여 세력의 균형을 깨뜨립니다."
+
+msgctxt "CrownOfTheMagisterIntroduction3"
+msgid ""
+"The Legacy Council is formed, to ensure that this knowledge is shared. It "
+"issues a call for agents to explore the Badlands in its name."
+msgstr "이러한 지식을 공유하기 위해 레거시 위원회가 구성됩니다. 에이전트가 자신의 이름으로 Badlands를 탐험할 것을 요청합니다."
+
+msgctxt "CrownOfTheMagisterIntroduction4"
+msgid ""
+"Adventurers flock to Caer Cyflen, the Principality's capital and the home of "
+"the Council. Four strangers meet in the Gravekeep's Cask, close to the "
+"Council chambers."
+msgstr ""
+"모험가들은 공국의 수도이자 의회의 본거지인 Caer Cyflen으로 모여듭니다. 4명의 낯선 사람들이 의회 방과 가까운 묘지 수호자의 "
+"술통에서 만납니다."
+
+msgctxt "CrownOfTheMagisterJournalStart"
+msgid ""
+"A group of adventurers gathers at the Gravekeep's Cask Inn, waiting for the "
+"instructions of the Legacy Council. The party has {0} members."
+msgstr ""
+"한 무리의 모험가들이 Gravekeep's Cask Inn에 모여 유산 위원회의 지시를 기다리고 있습니다. 파티원은 {0}명입니다."
+
+msgctxt "CrownOfTheMagisterTitle"
+msgid "Crown of the Magister"
+msgstr "마법사의 왕관"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_PriestOfArun"
+msgid "The Priest of Arun"
+msgstr "아룬의 사제"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_PriestOfPakri"
+msgid "The Priestess of Pakri"
+msgstr "파크리의 여사제"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_PriestOfMaraike"
+msgid "The Priest of Maraike"
+msgstr "마라이케의 사제"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_PriestOfEinar"
+msgid "The Priest of Einar"
+msgstr "에이나르의 사제"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_MeetHalmanSummer"
+msgid "Meeting Halman Summer"
+msgstr "할만 썸머를 만나다"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_VisitHalmanSummer"
+msgid "Visiting the Antiquarians"
+msgstr "골동품 방문"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_MeetMaddyGreenisle"
+msgid "Meeting Maddy Greenisle"
+msgstr "매디 그리니일을 만나다"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_VisitMaddyGreenisle"
+msgid "Visiting the Tower of Knowledge"
+msgstr "지식의 탑 방문"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_MeetHeddlonSurespell"
+msgid "Meeting Heddlon Surespell"
+msgstr "Heddlon Surespell을 만나다"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_VisitHeddlonSurespell"
+msgid "Visiting the Arcaneum"
+msgstr "아카네움 방문"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_MeetJorielFoxeye"
+msgid "Meeting Joriel Foxeye"
+msgstr "요리엘 폭스아이를 만나다"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_VisitJorielFoxeye"
+msgid "Visiting the Circle of Danantar"
+msgstr "다난타르 서클 방문"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerLem13"
+msgid "They're here!"
+msgstr "그들이 여기있다!"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerLem14"
+msgid "Alive!"
+msgstr "살아있는!"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council01_a"
+msgid "Back in Town"
+msgstr "다시 마을로"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council01_b"
+msgid "Bringers of Dark News"
+msgstr "암흑 소식을 전하는 자"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council01_c"
+msgid "A New Mission"
+msgstr "새로운 임무"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council02_a"
+msgid "You Were Right"
+msgstr "당신이 옳았"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council02_b"
+msgid "The Crown is Ours"
+msgstr "왕관은 우리 것이다"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council02_c"
+msgid "Attuned"
+msgstr "동조"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council02_d"
+msgid "Marshal Sunblaze"
+msgstr "원수 선블레이즈"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council02_e"
+msgid "The Lost Gem"
+msgstr "잃어버린 보석"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council02_f"
+msgid "The Quest"
+msgstr "퀘스트"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council03_a"
+msgid "The Crown of the Magister"
+msgstr "마법사의 왕관"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council03_b"
+msgid "Very Important Adventurers"
+msgstr "매우 중요한 모험가"
+
+msgctxt "CrownOfTheMagister_Journal_Mertonsquest_01"
+msgid "First Scavenger"
+msgstr "퍼스트 스캐빈저"
+
+msgctxt "CrownOfTheMagister_Journal_Coparann_Cleric"
+msgid "The Priestess of Arun"
+msgstr "아룬의 여사제"
+
+msgctxt "CrownOfTheMagister_Journal_Coparann_Scavengers"
+msgid "The Scavengers of Coparann"
+msgstr "코파란의 청소부"
+
+msgctxt "CrownOfTheMagister_Journal_TOM_0Beryl"
+msgid "Lady Stonebeard"
+msgstr "레이디 스톤비어드"
+
+msgctxt "CrownOfTheMagister_Journal_TOM_0Robar"
+msgid "The Idle Mercenary"
+msgstr "유휴 용병"
+
+msgctxt "CrownOfTheMagister_Journal_TOM_0Daliat"
+msgid "Daliat Sunbird, probably"
+msgstr "달리아트 썬버드, 아마도"
+
+msgctxt "CrownOfTheMagister_Journal_TOM_1_A"
+msgid "Fanatics!"
+msgstr "광신도!"
+
+msgctxt "CrownOfTheMagister_Journal_TOM_1_A_intro"
+msgid "Manacalon Ruin"
+msgstr "마나칼론 폐허"
+
+msgctxt "CrownOfTheMagister_Journal_TOM_1_B_LoneWorker"
+msgid "Doomed from the Start"
+msgstr "시작부터 운명"
+
+msgctxt "CrownOfTheMagister_Journal_TOM_1_C_FlyingRock"
+msgid "Chaotic Magic"
+msgstr "혼돈의 마법"
+
+msgctxt "CrownOfTheMagister_Journal_TOM_2_DoorOpened"
+msgid "Mystery Solved"
+msgstr "미스터리 해결"
+
+msgctxt "CrownOfTheMagister_Journal_TOM_2_RunePuzzle"
+msgid "The rune puzzle"
+msgstr "룬 퍼즐"
+
+msgctxt "CrownOfTheMagister_Journal_TOM_2_LockedDoor"
+msgid "Locked!"
+msgstr "잠겼다!"
+
+msgctxt "CrownOfTheMagister_Journal_TOM_3_Soraks"
+msgid "Here they are!"
+msgstr "여기 있습니다!"
+
+msgctxt "CrownOfTheMagister_Journal_TOM_3_SoraksDead"
+msgid "A Tough Fight"
+msgstr "힘든 싸움"
+
+msgctxt "CrownOfTheMagister_Journal_TOM_3_TheCrown"
+msgid "The Mysterious Crown"
+msgstr "신비한 왕관"
+
+msgctxt "CrownOfTheMagister_Journal_TOM_3_TheCurse"
+msgid "A Troubled Night"
+msgstr "곤란한 밤"
+
+msgctxt "CrownOfTheMagister_Journal_TOM_3_ReturnToCC"
+msgid "We Made It!"
+msgstr "우리는 그것을 만들었다!"
+
+msgctxt "CrownOfTheMagister_Journal_Necromancy_01"
+msgid "Of Wolves and…"
+msgstr "늑대와…"
+
+msgctxt "CrownOfTheMagister_Journal_Necromancy_02"
+msgid "A Strange Ghost"
+msgstr "이상한 유령"
+
+msgctxt "CrownOfTheMagister_Journal_Necromancy_03"
+msgid "A long-serving officer"
+msgstr "오래 근무한 장교"
+
+msgctxt "CrownOfTheMagister_Journal_Necromancy_04"
+msgid "The Master's Student"
+msgstr "석사 학생"
+
+msgctxt "CrownOfTheMagister_Journal_Necromancy_05"
+msgid "The Master's Guest"
+msgstr "마스터의 손님"
+
+msgctxt "CrownOfTheMagister_Journal_Necromancy_06"
+msgid "The Master of Necromancy"
+msgstr "강령술의 대가"
+
+msgctxt "CrownOfTheMagister_Journal_Necromancy_Obs_01"
+msgid "The Dark Castle"
+msgstr "다크 캐슬"
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_00"
+msgid "The Mausoleum"
+msgstr "영묘"
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_01"
+msgid "Sleeping Beauty"
+msgstr "잠자는 숲속의 미녀"
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_02"
+msgid "The caravan"
+msgstr "캐러밴"
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_03"
+msgid "Officer of the Day"
+msgstr "오늘의 장교"
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_04"
+msgid "The Ceannard of Coparann"
+msgstr "코파란의 세나드"
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_05"
+msgid "Eavesdropping : The Jeweler"
+msgstr "도청 : 보석상"
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_06"
+msgid "Eavesdropping : The Maid"
+msgstr "도청 : 메이드"
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_07"
+msgid "Eavesdropping: The Barkeep"
+msgstr "도청: The Barkeep"
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_08"
+msgid "Eavesdropping: The Gossip Lovers"
+msgstr "도청: 가십 애호가"
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_09"
+msgid "Wilf Warmhearth's Store"
+msgstr "윌프 웜하스 스토어"
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_10"
+msgid "The Investigation"
+msgstr "조사"
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_11"
+msgid "The Baron?"
+msgstr "남작?"
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_12"
+msgid "Something's Off"
+msgstr "뭔가 꺼져"
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_13"
+msgid "Showing the Badge"
+msgstr "배지 표시"
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_14"
+msgid "Treachery Revealed"
+msgstr "밝혀진 배신"
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_14_b"
+msgid "The Baron is safe!"
+msgstr "바론은 안전합니다!"
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_14_c"
+msgid "Kythaela's Heirlooms"
+msgstr "키타엘라의 가보"
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_14_d"
+msgid "The Major Gate"
+msgstr "메이저 게이트"
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_16"
+msgid "Official Thanks"
+msgstr "공식 감사"
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_17"
+msgid "The Master's Tower"
+msgstr "마스터의 탑"
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_18"
+msgid "The Brood"
+msgstr "무리"
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_19"
+msgid "Kythaela's Destiny"
+msgstr "키타엘라의 운명"
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_20"
+msgid "The Awakening"
+msgstr "각성"
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_21"
+msgid "The Oracle"
+msgstr "오라클"
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_22"
+msgid "Dungeons of Manacalon"
+msgstr "마나칼론의 던전"
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_23"
+msgid "Strike True Tavern"
+msgstr "스트라이크 트루 선술집"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council02_g"
+msgid "The Major Gate"
+msgstr "메이저 게이트"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Act3_AerElai_01"
+msgid "The Aer Elai"
+msgstr "에어 엘라이"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Act3_AerElai_02"
+msgid "Fire Spiders!"
+msgstr "파이어 스파이더!"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Act3_AerElai_03"
+msgid "They're Here"
+msgstr "그들이 여기있다"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Act3_AerElai_04"
+msgid "The Boneyard"
+msgstr "더 본야드"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Act3_AerElai_05"
+msgid "The Magister's Soul"
+msgstr "마법사의 영혼"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Act3_AerElai_06"
+msgid "Deeper into Chaos"
+msgstr "혼돈 속으로 더 깊이"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Act3_AerElai_07"
+msgid "This Place Doesn't Make Sense"
+msgstr "이 장소는 의미가 없습니다"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Act3_AerElai_08"
+msgid "This Is It"
+msgstr "이거 야"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Act3_AerElai_09"
+msgid "Enter the Dragons"
+msgstr "드래곤을 입력"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Act3_AerElai_10"
+msgid "The End"
+msgstr "끝"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Merton_02_AfterCouncil05"
+msgid "Deal or No Deal"
+msgstr "거래 또는 거래 없음"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Merton_03_MeetingBitterroot"
+msgid "A Strange Woman"
+msgstr "이상한 여자"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Merton_04_BringingSword"
+msgid "Old Memories"
+msgstr "오래된 기억"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Merton_05_LegendaryQuest01"
+msgid "Stuff of Legend"
+msgstr "전설의 물건"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Merton_05_LegendaryQuest02"
+msgid "To Caer Elis"
+msgstr "카엘 엘리스에게"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Merton_05_LegendaryQuest03"
+msgid "Like Old Times"
+msgstr "옛날처럼"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Merton_05_LegendaryQuest04"
+msgid "Through the Mist"
+msgstr "안개를 통해"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Merton_05_LegendaryQuest05"
+msgid "The Lost God"
+msgstr "잃어버린 신"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Merton_05_LegendaryQuest06"
+msgid "A Chapter Is Closed"
+msgstr "챕터가 닫혔습니다"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Academic_01"
+msgid "The Runaway Student"
+msgstr "가출 학생"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Academic_02"
+msgid "Back in the Place"
+msgstr "다시 제자리로"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Academic_03"
+msgid "Up There"
+msgstr "거기"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Academic_04"
+msgid "Like Another World"
+msgstr "다른 세계처럼"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Academic_05"
+msgid "A Treasure of Knowledge"
+msgstr "지식의 보물"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Academic_06"
+msgid "Alive!"
+msgstr "살아있는!"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Academic_07"
+msgid "Status Restored"
+msgstr "상태 복원됨"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Acolyte_01"
+msgid "Duty Calls"
+msgstr "듀티 콜"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Acolyte_02"
+msgid "Lost Souls"
+msgstr "잃어버린 영혼"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Acolyte_03"
+msgid "Roaming in the Afterlife"
+msgstr "사후세계에서의 로밍"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Acolyte_04"
+msgid "The Apostate"
+msgstr "배교자"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Acolyte_05"
+msgid "With Arun"
+msgstr "아룬과 함께"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Aristocrat_01"
+msgid "An Annoying Situation"
+msgstr "짜증나는 상황"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Aristocrat_02"
+msgid "The Prodigal Son"
+msgstr "방탕한 아들"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Aristocrat_03"
+msgid "The Wise Daughter"
+msgstr "현명한 딸"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Aristocrat_04"
+msgid "A Looming Threat"
+msgstr "다가오는 위협"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Aristocrat_05"
+msgid "Decisions, Decisions…"
+msgstr "결정, 결정…"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Aristocrat_06"
+msgid "The Mark of Arivad"
+msgstr "아리바드의 표식"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Aristocrat_07"
+msgid "The Ambitious One"
+msgstr "야심찬 자"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lawkeeper_01"
+msgid "A Few Good Men"
+msgstr "몇몇 좋은 사람들"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lawkeeper_02"
+msgid "Let's Do This"
+msgstr "해보자"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lawkeeper_03A"
+msgid "The Elusive Guard"
+msgstr "애매한 가드"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lawkeeper_03B"
+msgid "Are You Kidding?"
+msgstr "농담하는거야?"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lawkeeper_04A"
+msgid "Little Business"
+msgstr "리틀 비즈니스"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lawkeeper_04B"
+msgid "Imperial Stuff"
+msgstr "제국의 물건"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lawkeeper_05A"
+msgid "Not Welcome"
+msgstr "환영하지 않음"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lawkeeper_05B"
+msgid "Royal Flowers"
+msgstr "로얄 플라워"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lawkeeper_06A"
+msgid "Not Just a Guard"
+msgstr "단순한 경비원이 아니다."
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lawkeeper_06B"
+msgid "Proof"
+msgstr "증거"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lawkeeper_06C"
+msgid "Where in the World Is Rodric?"
+msgstr "로드릭은 도대체 어디에?"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lawkeeper_07"
+msgid "Not Just a Guard"
+msgstr "단순한 경비원이 아니다."
+
+msgctxt ""
+"CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lowlife_01_Merton"
+msgid "Side Job"
+msgstr "부업"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lowlife_03_Nel"
+msgid "Tracking the Thief"
+msgstr "도둑 추적"
+
+msgctxt ""
+"CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lowlife_04_Gorim"
+msgid "I Know a Guy"
+msgstr "나는 남자를 안다"
+
+msgctxt ""
+"CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lowlife_05_Karel"
+msgid "Ask the Bartender"
+msgstr "바텐더에게 물어보세요"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lowlife_06_Nel"
+msgid "It Was All a Joke"
+msgstr "농담이었어"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lowlife_07_Nel"
+msgid "Misaye's Laughing"
+msgstr "미소의 미사예"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Philosopher_01"
+msgid "The Philosopher"
+msgstr "철학자"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Philosopher_02"
+msgid "The Matter of Evil"
+msgstr "악의 문제"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Philosopher_04"
+msgid "Suffering"
+msgstr "고통"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Philosopher_05"
+msgid "Cruelty"
+msgstr "잔학"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Philosopher_06"
+msgid "Love"
+msgstr "사랑"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Philosopher_07"
+msgid "Wait for My Signal"
+msgstr "내 신호를 기다려"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Philosopher_08"
+msgid "Power to the One"
+msgstr "하나를 위한 힘"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Philosopher_09"
+msgid "Freedom"
+msgstr "자유"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Sellsword_01"
+msgid "Letter from a Friend"
+msgstr "친구의 편지"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Sellsword_02"
+msgid "A Forgotten Past"
+msgstr "잊혀진 과거"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Sellsword_03"
+msgid "It Is You!"
+msgstr "그건 너다!"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Sellsword_04"
+msgid "The Keys"
+msgstr "열쇠"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Sellsword_05"
+msgid "Childhood Memories"
+msgstr "어린 시절의 추억"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Sellsword_06A"
+msgid "What Does It Mean?"
+msgstr "무슨 뜻이에요?"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Sellsword_06B"
+msgid "It's a Sorak Plot!"
+msgstr "설악플롯입니다!"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Sellsword_07"
+msgid "We Have a Clue"
+msgstr "우리는 단서가 있습니다"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Sellsword_08"
+msgid "Betrayed by His Own Hand"
+msgstr "자신의 손에 배신당하다"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Sellsword_09"
+msgid "Restored Honor"
+msgstr "회복된 명예"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Spy_01"
+msgid "I Know You!"
+msgstr "나는 당신을 알고 있습니다!"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Spy_02"
+msgid "An Old Acquaintance"
+msgstr "오래된 지인"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Spy_03"
+msgid "Cutting Loose Ends"
+msgstr "느슨한 끝 절단"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Spy_04"
+msgid "What's the Plan?"
+msgstr "계획은 무엇입니까?"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Spy_05"
+msgid "Going Under"
+msgstr "아래로 가고"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Spy_06"
+msgid "Tradecraft"
+msgstr "무역"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Spy_07"
+msgid "It's Done"
+msgstr "끝났다"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Spy_08"
+msgid "Disgrace"
+msgstr "불명예"
+
+msgctxt ""
+"CrownOfTheMagister_Journal_DialogTitle_CaerCyflen_Act3_00_CannotFindGems"
+msgid "We Have a Problem"
+msgstr "문제가있다"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerCyflen_Act3_01_Return"
+msgid "Something's Wrong"
+msgstr "뭔가 잘못됐어"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerCyflen_Act3_02_Bartender"
+msgid "Conscription"
+msgstr "징병"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitleCaerCyflen_Act3_Beryl"
+msgid "Going Home"
+msgstr "집에 갈"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerCyflen_Act3_CovenOfArivad_01"
+msgid "Summer's Mansion"
+msgstr "여름의 맨션"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerCyflen_Act3_CovenOfArivad_02"
+msgid "Deep Cover"
+msgstr "딥커버"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerCyflen_Act3_CovenOfArivad_03"
+msgid "Infiltrated"
+msgstr "침투"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerCyflen_Act3_MeetingCarran_01"
+msgid "Tension Rises"
+msgstr "텐션 상승"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerCyflen_Act3_MeetingCarran_02"
+msgid "Unraveled"
+msgstr "풀리다"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerCyflen_Act3_Robar"
+msgid "Captain Sharp"
+msgstr "캡틴 샤프"
+
+msgctxt "CrownOfTheMagister_Journal_CaerCyflen_Act3_SummersHouse"
+msgid "The Silent Whisper"
+msgstr "고요한 속삭임"
+
+msgctxt "CrownOfTheMagister_Journal_CaerCyflen_Act3_TempleOfEinar_01"
+msgid "Beric"
+msgstr "베릭"
+
+msgctxt "CrownOfTheMagister_Journal_CaerCyflen_Act3_TempleOfEinar_02"
+msgid "Enemy at the Gates"
+msgstr "게이트의 적"
+
+msgctxt "CrownOfTheMagister_Journal_CaerCyflen_Act3_TempleOfEinar_03"
+msgid "The Crown is Gone!"
+msgstr "왕관이 사라졌다!"
+
+msgctxt "CrownOfTheMagister_Journal_CaerCyflen_Act3_TempleOfEinar_04"
+msgid "Protect the Gate!"
+msgstr "게이트를 지켜라!"
+
+msgctxt "CrownOfTheMagister_Journal_CaerCyflen_Act3_TempleOfEinar_05"
+msgid "The Princess"
+msgstr "공주"
+
+msgctxt "CrownOfTheMagister_Journal_CaerCyflen_Act3_TempleOfEinar_06"
+msgid "It's up to You Now"
+msgstr "이제 당신에게 달려 있습니다."
+
+msgctxt "CrownOfTheMagister_Journal_CaerCyflen_Act3_TempleOfEinar_07"
+msgid "Take a Deep Breath"
+msgstr "심호흡하기"
+
+msgctxt ""
+"CrownOfTheMagister_Journal_DialogTitle_FactionDialog_Scavengers_03_HenriksDea"
+"th"
+msgid "Dark News"
+msgstr "다크 뉴스"
+
+msgctxt ""
+"CrownOfTheMagister_Journal_DialogTitle_FactionDialog_Scavengers_04_ClaimCaerL"
+"em"
+msgid "Business Is On"
+msgstr "사업 진행 중"
+
+msgctxt ""
+"CrownOfTheMagister_Journal_DialogTitle_FactionDialog_Scavengers_05_WhosArwinM"
+"erton"
+msgid "Who's this guy again?"
+msgstr "이 사람은 또 누구야?"
+
+msgctxt ""
+"CrownOfTheMagister_Journal_DialogTitle_FactionDialog_Scavengers_06_StartAcade"
+"micQuest"
+msgid "Back to School"
+msgstr "학교로 돌아가다"
+
+msgctxt ""
+"CrownOfTheMagister_Journal_DialogTitle_FactionDialog_Scavengers_07_StartLowli"
+"feQuest"
+msgid "Stolen"
+msgstr "훔친"
+
+msgctxt ""
+"CrownOfTheMagister_Journal_DialogTitle_FactionDialog_Scavengers_08_EndLowlife"
+"Quest"
+msgid "The Right Owner"
+msgstr "올바른 소유자"
+
+msgctxt ""
+"CrownOfTheMagister_Journal_DialogTitle_FactionDialog_Scavengers_09_StartSells"
+"wordQuest"
+msgid "Letter from a Friend"
+msgstr "친구의 편지"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council_04_a"
+msgid "The Crown is ours."
+msgstr "크라운은 우리의 것입니다."
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council_04_b"
+msgid "A Strange Warning"
+msgstr "이상한 경고"
+
+msgctxt ""
+"CrownOfTheMagister_Journal_DialogTitle_Council_04_c_1_Attacked_In_Residency"
+msgid "He Knew!"
+msgstr "그는 알았다!"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council_04_d_Talking_To_Heddlon"
+msgid "The Elf Who Knew Too Much"
+msgstr "너무 많이 아는 엘프"
+
+msgctxt ""
+"CrownOfTheMagister_Journal_DialogTitle_Council_04_e_Ironshell_After_Attack"
+msgid "Ransacked!"
+msgstr "약탈!"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council_05_a"
+msgid "With or Without It"
+msgstr "그것의 유무에 관계없이"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council_05_b"
+msgid "The Informant"
+msgstr "정보원"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council_05_c"
+msgid "Keep It Safe"
+msgstr "안전을 유지해라"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Earcorn_01_Arriving"
+msgid "A Quiet Little Town"
+msgstr "조용한 작은 마을"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Earcorn_02_Footsteps"
+msgid "They Have Claws"
+msgstr "발톱이 있다"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Earcorn_03_AfterFight"
+msgid "It's a Trap!"
+msgstr "함정이다!"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_01_Entrance"
+msgid "Hacking"
+msgstr "해킹"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_02_Jungle"
+msgid "Chop, Don't Talk"
+msgstr "찹, 말하지마"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_03_Lava"
+msgid "Hot Stuff"
+msgstr "뜨거운 물건"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_04_GardenSheld"
+msgid "Soraks!"
+msgstr "설악!"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_05_SorakFight"
+msgid "The Sound of Killing"
+msgstr "살인의 소리"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_06_Interrogation"
+msgid "Inquisition"
+msgstr "조사"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_09_TreasureBeast"
+msgid "Temptation"
+msgstr "유혹"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_10_Beast"
+msgid "The Beast"
+msgstr "짐승"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_11_BeastEnding"
+msgid "Too Easy"
+msgstr "너무 쉽다"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_12_ShitfingMaze"
+msgid "The Maze"
+msgstr "미로"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_13_TeleportingCircle"
+msgid "Find a Way Out"
+msgstr "탈출구 찾기"
+
+msgctxt ""
+"CrownOfTheMagister_Journal_DialogTitle_Conjuration_13b_TeleportingCircle"
+msgid "Mind-Boggling"
+msgstr "놀라운"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_14_Coward"
+msgid "The Light Cube"
+msgstr "더 라이트 큐브"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_14b_Coward"
+msgid "The Coward"
+msgstr "겁쟁이"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_15_MansionArrival"
+msgid "House on the Hill"
+msgstr "언덕 위의 집"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_16_CastleEntrance"
+msgid "Good Manners"
+msgstr "좋은 매너"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_17_InvisibleServants"
+msgid "Slaves of the Empire"
+msgstr "제국의 노예"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_18_Master"
+msgid "A Broken Mind"
+msgstr "부서진 마음"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_01_Arriving"
+msgid "Stinks of Sulfur"
+msgstr "유황 냄새"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_02_FindingKebra"
+msgid "The Survivor"
+msgstr "생존자"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_02b_TalkToKebra"
+msgid "Orcish Wars"
+msgstr "오크 전쟁"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_03_EnterVolcano"
+msgid "Under the Mountain"
+msgstr "산 아래"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_04_TalkToArbal"
+msgid "The Warrior"
+msgstr "전사"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_05_Market"
+msgid "The Market"
+msgstr "시장"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_06_SavedBrok"
+msgid "Brok Is Free"
+msgstr "Brok는 무료입니다"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_07_Bloodspear"
+msgid "The Warmongers"
+msgstr "전쟁광"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_08_Bloodspear_Edrof"
+msgid "The Challenge"
+msgstr "도전"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_09_Bloodspear_Victory"
+msgid "Is there anyone else?"
+msgstr "다른 사람이 있습니까?"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_10_Bladefang"
+msgid "Tribe of the Faithful"
+msgstr "충실한 부족"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_11_Bladefang_Meeting"
+msgid "A Big Favor"
+msgstr "큰 부탁"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_12_Bladefangquest"
+msgid "Who's the Old Queen?"
+msgstr "늙은 여왕은 누구입니까?"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_13_OldQueen"
+msgid "Another Spider"
+msgstr "또 다른 거미"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_14_OldQueenFight"
+msgid "It Hates Light"
+msgstr "그것은 빛을 싫어한다"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_15_OldQueenBeaten"
+msgid "The Holy Axe"
+msgstr "신성한 도끼"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_16_ReturnHolyAxe"
+msgid "Give or Take"
+msgstr "주고 받기"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_17_Sandraven"
+msgid "The Orc Who Read Books"
+msgstr "책을 읽는 오크"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_18_Necropolis_Entrance"
+msgid "Necropolis"
+msgstr "대규모 묘지"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_19_Necropolis_Hall"
+msgid "Back in Time"
+msgstr "시간을 거슬러"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_20_Necropolis_Map"
+msgid "The Way It Used to Be"
+msgstr "예전 방식"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_21_Necropolis_Statue01"
+msgid "The Slaver Emperor"
+msgstr "노예 황제"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_22_Necropolis_Statue02"
+msgid "The Prince"
+msgstr "왕자"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_23_Necropolis_Statue03"
+msgid "The Wife"
+msgstr "아내"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_24_Necropolis_Emperor"
+msgid "Anger"
+msgstr "화"
+
+msgctxt ""
+"CrownOfTheMagister_Journal_DialogTitle_Evocation_26_Necropolis_GhostReturn"
+msgid "To Oblivion"
+msgstr "망각으로"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_27_UrkaReveals"
+msgid "Gaks!"
+msgstr "개크스!"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_28_UrkaKilled"
+msgid "They Are Everywhere"
+msgstr "그들은 어디에나있다"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_29_BackToBrok"
+msgid "The Alliance"
+msgstr "얼라이언스"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_30_NearRedScarGate"
+msgid "Redscar Gate"
+msgstr "레드스카 게이트"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_31_InsideCity"
+msgid "The Burned Throne"
+msgstr "불타는 왕좌"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_32_FacingArrok"
+msgid "Heart of Fire"
+msgstr "불의 심장"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_33_TribesUnite"
+msgid "All Against Tyranny"
+msgstr "폭정에 대한 모든 것"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_34_ArrokDefeated"
+msgid "Eruption"
+msgstr "분화"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_35_Ending"
+msgid "It's Over"
+msgstr "끝났어"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_16_CastleEntrance_b"
+msgid "Bad Manners"
+msgstr "나쁜 매너"
+
+msgctxt "UserCampaignTitle"
+msgid "User Campaign"
+msgstr "사용자 캠페인"
+
+msgctxt "UserCampaignDescription"
+msgid "Allows you to start an adventure in a user location"
+msgstr "사용자 위치에서 모험을 시작할 수 있습니다."
+
+msgctxt "DLC1_Introduction_1"
+msgid ""
+"While the Principality of Masgarth is preparing for war, business is "
+"thriving in the Marches."
+msgstr "Masgarth 공국이 전쟁을 준비하는 동안, 사업은 행진에서 번창합니다."
+
+msgctxt "DLC1_Introduction_2"
+msgid ""
+"Galar Goldentongue's travels and sales both increase, as more Legacy Council "
+"agents travel to Coparann."
+msgstr ""
+"더 많은 Legacy Council 요원이 Coparann을 방문함에 따라 Galar Goldentongue의 출장과 판매가 모두 "
+"증가합니다."
+
+msgctxt "DLC1_Introduction_3"
+msgid ""
+"The master merchant hired his own quatuor or adventurers to escort his "
+"caravan."
+msgstr "마스터 상인은 캐러밴을 호위하기 위해 자신의 quatuor 또는 모험가를 고용했습니다."
+
+msgctxt "DLC1_Journal_Start"
+msgid ""
+"One day, while camping in the mountains, they are joined by a band of "
+"wounded travellers…"
+msgstr "어느 날 산에서 캠핑을 하던 중 부상당한 여행자 무리와 합류하는데…"
+
+msgctxt "DLC1_Title"
+msgid "The Lost Valley"
+msgstr "잃어버린 계곡"
+
+msgctxt "DLC1_Description"
+msgid ""
+"While the Principality of Masgarth is preparing for war, adventurers still "
+"discover new places in the Badlands, that have not been visited for "
+"centuries."
+msgstr ""
+"Masgarth 공국이 전쟁을 준비하는 동안, 모험가들은 수세기 동안 방문하지 않은 Badlands의 새로운 장소를 여전히 발견합니다."

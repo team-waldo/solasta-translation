@@ -1,0 +1,163 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 23:45+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "AmmunitionSlotDescription"
+msgid "You can store ammunition for ranged weapons here."
+msgstr "여기에 원거리 무기용 탄약을 보관할 수 있습니다."
+
+msgctxt "AmmunitionSlotTitle"
+msgid "Ammunition"
+msgstr "탄약"
+
+msgctxt "BackSlotDescription"
+msgid "You can equip backpacks, shield, or strap large weapons here."
+msgstr "여기에 배낭, 방패 또는 스트랩 대형 무기를 장착할 수 있습니다."
+
+msgctxt "BackSlotTitle"
+msgid "Back"
+msgstr "뒤쪽에"
+
+msgctxt "BeltSlotDescription"
+msgid "You can equip belts or girdles here."
+msgstr "여기에서 벨트나 거들을 장비할 수 있습니다."
+
+msgctxt "BeltSlotTitle"
+msgid "Belt"
+msgstr "벨트"
+
+msgctxt "ContainerSlotDescription"
+msgid "You can store any object here."
+msgstr "여기에 모든 개체를 저장할 수 있습니다."
+
+msgctxt "ContainerSlotTitle"
+msgid "Container"
+msgstr "컨테이너"
+
+msgctxt "FeetSlotDescription"
+msgid "You can wear boots, slippers, or shoes in this slot."
+msgstr "이 슬롯에 부츠, 슬리퍼 또는 신발을 신을 수 있습니다."
+
+msgctxt "FeetSlotTitle"
+msgid "Feet"
+msgstr "피트"
+
+msgctxt "FingerSlotDescription"
+msgid "You can equip rings here."
+msgstr "여기서 반지를 장착할 수 있습니다."
+
+msgctxt "FingerSlotTitle"
+msgid "Finger"
+msgstr "손가락"
+
+msgctxt "GlovesSlotDescription"
+msgid "You can equip gloves or gauntlets here."
+msgstr "여기에서 장갑이나 건틀릿을 장비할 수 있습니다."
+
+msgctxt "GlovesSlotTitle"
+msgid "Hands"
+msgstr "소유"
+
+msgctxt "HeadSlotDescription"
+msgid "You can equip hats, helms, crowns, or diadems here."
+msgstr "여기에서 모자, 투구, 왕관 또는 왕관을 장비할 수 있습니다."
+
+msgctxt "HeadSlotTitle"
+msgid "Head"
+msgstr "머리"
+
+msgctxt "MainHandSlotDescription"
+msgid "You can equip main weapons here."
+msgstr "여기에서 주요 무기를 장비할 수 있습니다."
+
+msgctxt "MainHandSlotTitle"
+msgid "Main Hand"
+msgstr "주 손"
+
+msgctxt "NeckSlotDescription"
+msgid "You can equip necklaces and amulets here."
+msgstr "여기에서 목걸이와 부적을 장비할 수 있습니다."
+
+msgctxt "NeckSlotTitle"
+msgid "Neck"
+msgstr "목"
+
+msgctxt "OffHandSlotDescription"
+msgid ""
+"You can equip secondary weapons here. If the main hand is already equipped "
+"with a two-handed weapon, this slot is disabled."
+msgstr "여기에서 보조 무기를 장착할 수 있습니다. 주 손에 이미 양손 무기가 장착되어 있으면 이 슬롯이 비활성화됩니다."
+
+msgctxt "OffHandSlotTitle"
+msgid "Off Hand"
+msgstr "오프 핸드"
+
+msgctxt "PersonalStorageSlotDescription"
+msgid ""
+"You can store objects in your backpack, etc., as long as you do not exceed "
+"the maximum weight of the container."
+msgstr "컨테이너의 최대 무게를 초과하지 않는 한 배낭 등에 물건을 보관할 수 있습니다."
+
+msgctxt "PersonalStorageSlotTitle"
+msgid "Personal Storage"
+msgstr "개인용 스토리지"
+
+msgctxt "SmallContainerSlotDescription"
+msgid "You can store small objects here."
+msgstr "여기에 작은 물건을 보관할 수 있습니다."
+
+msgctxt "SmallContainerSlotTitle"
+msgid "Small Container"
+msgstr "소형 용기"
+
+msgctxt "TorchHolderSlotDescription"
+msgid "You can only place torches or equivalent items here."
+msgstr "여기에는 횃불 또는 이에 상응하는 항목만 놓을 수 있습니다."
+
+msgctxt "TorchHolderSlotTitle"
+msgid "Torch Holder"
+msgstr "토치 홀더"
+
+msgctxt "TorsoSlotDescription"
+msgid "You can equip suits of armor here."
+msgstr "여기에서 갑옷을 장비할 수 있습니다."
+
+msgctxt "TorsoSlotTitle"
+msgid "Torso"
+msgstr "몸통"
+
+msgctxt "UtilitySlotDescription"
+msgid ""
+"You can store utility items (potions, scrolls, spell focus, component pouch) "
+"here."
+msgstr "여기에 유틸리티 아이템(물약, 두루마리, 스펠 포커스, 구성품 파우치)을 보관할 수 있습니다."
+
+msgctxt "UtilitySlotTitle"
+msgid "Utility"
+msgstr "공익 사업"
+
+msgctxt "WristsSlotDescription"
+msgid "You can equip bracers here."
+msgstr "여기에서 팔보호구를 장착할 수 있습니다."
+
+msgctxt "WristsSlotTitle"
+msgid "Wrists"
+msgstr "손목"
+
+msgctxt "ShouldersSlotDescription"
+msgid "You can equip cloaks and pauldrons here."
+msgstr "여기에서 망토와 견갑을 장비할 수 있습니다."
+
+msgctxt "ShouldersSlotTitle"
+msgid "Shoulders"
+msgstr "어깨"

@@ -1,0 +1,97 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "AllianceDescription"
+msgid "The faction will actively help you."
+msgstr ""
+
+msgctxt "AllianceTitle"
+msgid "Alliance"
+msgstr ""
+
+msgctxt "AnimosityDescription"
+msgid "This faction will try to thwart you."
+msgstr ""
+
+msgctxt "AnimosityTitle"
+msgid "Animosity"
+msgstr ""
+
+msgctxt "AttacksOnSightDescription"
+msgid "Attacks on sight. "
+msgstr ""
+
+msgctxt "BrotherhoodDescription"
+msgid "You are important and influential in the faction."
+msgstr ""
+
+msgctxt "BrotherhoodTitle"
+msgid "Brotherhood"
+msgstr ""
+
+msgctxt "HatredDescription"
+msgid "The faction will try to kill you."
+msgstr ""
+
+msgctxt "HatredTitle"
+msgid "Hatred"
+msgstr ""
+
+msgctxt "IndifferenceDescription"
+msgid "The faction does not care about you."
+msgstr ""
+
+msgctxt "IndifferenceTitle"
+msgid "Indifference"
+msgstr ""
+
+msgctxt "JoinsAllyInBattleDescription"
+msgid "Joins you in battle. "
+msgstr ""
+
+msgctxt "JoinsEnemiesDescription"
+msgid "Joins your enemies in battle. "
+msgstr ""
+
+msgctxt "LivingLegendDescription"
+msgid "You are a key member of the faction, and a part of their history."
+msgstr ""
+
+msgctxt "LivingLegendTitle"
+msgid "Living Legend"
+msgstr ""
+
+msgctxt "MerchantOverchargeFormat"
+msgid "Merchant overcharge: {0}%."
+msgstr ""
+
+msgctxt "MerchantOverchargeFormatTrade"
+msgid "{0}: overcharge {1}%"
+msgstr ""
+
+msgctxt "MerchantRebateFormat"
+msgid "Merchant rebate: {0}%."
+msgstr ""
+
+msgctxt "MerchantRebateFormatTrade"
+msgid "{0}: rebate {1}%"
+msgstr ""
+
+msgctxt "SympathyDescription"
+msgid "The faction will show you favor."
+msgstr ""
+
+msgctxt "SympathyTitle"
+msgid "Sympathy"
+msgstr ""

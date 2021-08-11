@@ -1,0 +1,1236 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "Location_AbjurationRiverPass_Description"
+msgid ""
+"Following the steps of Kythaela, you came across a ruined keep beside a "
+"river. Apparently, a caravan has set up camp there - a rarity in these "
+"desolate lands."
+msgstr ""
+
+msgctxt "Location_AbjurationRiverPass_Title"
+msgid "River Pass"
+msgstr ""
+
+msgctxt "Location_AbjurationRiverPass_UnchartedDescription"
+msgid "Should not be displayed"
+msgstr ""
+
+msgctxt "Location_AbjurationRiverPass_UnchartedTitle"
+msgid "Should not be displayed"
+msgstr ""
+
+msgctxt "Location_AbjurationRiverPass_UnvisitedDescription"
+msgid ""
+"Following the steps of Kythaela, you came across a ruined keep beside a "
+"river. Apparently, a caravan has set up camp there - a rarity in these "
+"desolate lands."
+msgstr ""
+
+msgctxt "Location_AbjurationRiverPass_UnvisitedTitle"
+msgid "River Pass"
+msgstr ""
+
+msgctxt "Location_AbjurationRuinedKeep_Description"
+msgid ""
+"Near this ruined Tirmarian monastery, inside a Manacalon mausoleum, you "
+"found an elf wizard, seemingly kept in a trance ever since the Cataclysm."
+msgstr ""
+
+msgctxt "Location_AbjurationRuinedKeep_Title"
+msgid "Tirmarian Ruins"
+msgstr ""
+
+msgctxt "Location_AbjurationRuinedKeep_UnchartedDescription"
+msgid ""
+"The crownbearer saw an image of this place. It's possible the Crown sent a "
+"hint of where to look for one of its gems. Investigate this location."
+msgstr ""
+
+msgctxt "Location_AbjurationRuinedKeep_UnchartedTitle"
+msgid "Possible Gem Location"
+msgstr ""
+
+msgctxt "Location_AbjurationRuinedKeep_UnvisitedDescription"
+msgid ""
+"This dry river bed holds an old Tirmarian monastery and a Solastan building."
+msgstr ""
+
+msgctxt "Location_AbjurationRuinedKeep_UnvisitedTitle"
+msgid "Tirmarian Ruins"
+msgstr ""
+
+msgctxt "Location_AerElai_Description"
+msgid ""
+"Here, near the ancient Manacalon capital, the Rift that almost destroyed "
+"Solasta opened - and was eventually closed. The land bears the scars of the "
+"Cataclysm."
+msgstr ""
+
+msgctxt "Location_AerElai_Title"
+msgid "The Aer-Elai"
+msgstr ""
+
+msgctxt "Location_AerElai_UnchartedDescription"
+msgid "Should not be displayed"
+msgstr ""
+
+msgctxt "Location_AerElai_UnchartedTitle"
+msgid "Should not be displayed"
+msgstr ""
+
+msgctxt "Location_AerElai_UnvisitedDescription"
+msgid "Should not be displayed"
+msgstr ""
+
+msgctxt "Location_AerElai_UnvisitedTitle"
+msgid "Should not be displayed"
+msgstr ""
+
+msgctxt "Location_BoneKeep_Castle_Title"
+msgid "Keep Entrance"
+msgstr ""
+
+msgctxt "Location_BoneKeep_Cemetery_Title"
+msgid "Cemetery"
+msgstr ""
+
+msgctxt "Location_BoneKeep_Courtyard_Title"
+msgid "Courtyard"
+msgstr ""
+
+msgctxt "Location_BoneKeep_Description"
+msgid ""
+"The ancient Master of Necromancy was hiding with his gem in this massive and "
+"forbidding keep, surrounded by undead creatures and other dangers."
+msgstr ""
+
+msgctxt "Location_BoneKeep_DrainPipe_Title"
+msgid "Drains"
+msgstr ""
+
+msgctxt "Location_BoneKeep_DrainPipeCourtyard_Title"
+msgid "Drain Access from Courtyard"
+msgstr ""
+
+msgctxt "Location_BoneKeep_DrainPipeStoreHouse_Title"
+msgid "Drain Access from Storehouse"
+msgstr ""
+
+msgctxt "Location_BoneKeep_DrainPipeWell_Title"
+msgid "Drain Access from Well"
+msgstr ""
+
+msgctxt "Location_BoneKeep_Laboratory_Access_Title"
+msgid "Basement Entrance"
+msgstr ""
+
+msgctxt "Location_BoneKeep_Laboratory_Title"
+msgid "Laboratory"
+msgstr ""
+
+msgctxt "Location_BoneKeep_Lair_Title"
+msgid "Defiler's Lair"
+msgstr ""
+
+msgctxt "Location_BoneKeep_Pond_Title"
+msgid "Pond"
+msgstr ""
+
+msgctxt "Location_BoneKeep_Sewers_Title"
+msgid "Sewers"
+msgstr ""
+
+msgctxt "Location_BoneKeep_Solar_Access_Title"
+msgid "Second Floor Entrance"
+msgstr ""
+
+msgctxt "Location_BoneKeep_Solar_Title"
+msgid "The Solar"
+msgstr ""
+
+msgctxt "Location_BoneKeep_Solar_Tower_Title"
+msgid "Solar Tower"
+msgstr ""
+
+msgctxt "Location_BoneKeep_Title"
+msgid "Bone Keep"
+msgstr ""
+
+msgctxt "Location_BoneKeep_UnchartedDescription"
+msgid ""
+"The crownbearer saw an image of this place. It's possible the Crown sent a "
+"hint of where to look for one of its gems. Investigate this location."
+msgstr ""
+
+msgctxt "Location_BoneKeep_UnchartedTitle"
+msgid "Possible Gem Location"
+msgstr ""
+
+msgctxt "Location_BoneKeep_UnvisitedDescription"
+msgid ""
+"A gigantic keep rises out of the woods. One of the Crown's gems might be "
+"within."
+msgstr ""
+
+msgctxt "Location_BoneKeep_UnvisitedTitle"
+msgid "Dark Castle"
+msgstr ""
+
+msgctxt "Location_CaerLem_BridgeTitle"
+msgid "Rotating Bridge"
+msgstr ""
+
+msgctxt "Location_CaerLem_Exit_Title"
+msgid "Exit"
+msgstr ""
+
+msgctxt "Location_CaerLem_GoblinCave_Title"
+msgid "Goblin Cave"
+msgstr ""
+
+msgctxt "Location_CaerLem_InnerFort_Title"
+msgid "Inner Fort"
+msgstr ""
+
+msgctxt "Location_CaerLem_LibraryTitle"
+msgid "Ancient Library"
+msgstr ""
+
+msgctxt "Location_CaerLem_MushroomsTitle"
+msgid "Mushroom Cave"
+msgstr ""
+
+msgctxt "Location_CaerLem_SecretCavesTitle"
+msgid "Secret Caves"
+msgstr ""
+
+msgctxt "Location_CaerLem_SoraksCampTitle"
+msgid "Sorak Camp"
+msgstr ""
+
+msgctxt "Location_CaerLem_Tower_Title"
+msgid "Tower"
+msgstr ""
+
+msgctxt "Location_CaerLem_Title"
+msgid "Caer Lem Outpost"
+msgstr ""
+
+msgctxt "Location_CaerLem_Description"
+msgid ""
+"Captain Henrik's garrison was wiped out by the Soraks, and you barely "
+"escaped with a couple of survivors. The outpost might be reclaimed so the "
+"exploration of the Badlands can continue."
+msgstr ""
+
+msgctxt "Location_CaerLem_UnchartedDescription"
+msgid ""
+"This old Imperial fort was reoccupied by the Legacy Council's troops as a "
+"Badlands outpost, but the garrison's commander, Captain Henrik, has not sent "
+"any reports for some time."
+msgstr ""
+
+msgctxt "Location_CaerLem_UnchartedTitle"
+msgid "Caer Lem Outpost"
+msgstr ""
+
+msgctxt "Location_CaerLem_UnvisitedDescription"
+msgid ""
+"This old Imperial fort was reoccupied by the Legacy Council's troops as a "
+"Badlands outpost, but the garrison's commander, Captain Henrik, has not sent "
+"any reports for some time."
+msgstr ""
+
+msgctxt "Location_CaerLem_UnvisitedTitle"
+msgid "Caer Lem Outpost"
+msgstr ""
+
+msgctxt "Location_CapitalCity_Description"
+msgid ""
+"The magnificent capital of the Principality of Masgarth, Caer Cyflen was a "
+"major Imperial city and a strategic base for the Manacalon Empire long "
+"before the Cataclysm."
+msgstr ""
+
+msgctxt "Location_CapitalCity_Title"
+msgid "Caer Cyflen"
+msgstr ""
+
+msgctxt "Location_CapitalCity_UnchartedDescription"
+msgid "Should not be displayed"
+msgstr ""
+
+msgctxt "Location_CapitalCity_UnchartedTitle"
+msgid "Should not be displayed"
+msgstr ""
+
+msgctxt "Location_CapitalCity_UnvisitedDescription"
+msgid "Should not be displayed"
+msgstr ""
+
+msgctxt "Location_CapitalCity_UnvisitedTitle"
+msgid "Should not be displayed"
+msgstr ""
+
+msgctxt "Location_TowerOfMagic_Description"
+msgid ""
+"You have learned that this old tower was probably the home of a powerful "
+"Manacalon wizard… maybe even a Master of the Arcaneum. In a hidden room, you "
+"found a mysterious Crown guarded by a group of Soraks."
+msgstr ""
+
+msgctxt "Location_TowerOfMagic_Title"
+msgid "Manacalon Ruin"
+msgstr ""
+
+msgctxt "Location_TowerOfMagic_UnchartedDescription"
+msgid ""
+"According to the survivors at Caer Lem, this is where their scouts were "
+"exploring before the Soraks attacked. Perhaps you will find some trace here "
+"of these legendary Tirmarian monsters."
+msgstr ""
+
+msgctxt "Location_TowerOfMagic_UnchartedTitle"
+msgid "Possible Sorak Base"
+msgstr ""
+
+msgctxt "Location_TowerOfMagic_UnvisitedDescription"
+msgid "An ancient tower from Imperial times."
+msgstr ""
+
+msgctxt "Location_TowerOfMagic_UnvisitedTitle"
+msgid "Ruined Tower"
+msgstr ""
+
+msgctxt "Location_CCyflen_Council_Title"
+msgid "Legacy Council"
+msgstr ""
+
+msgctxt "Location_CCyflen_DeadEnd_Title"
+msgid "Lane Ends"
+msgstr ""
+
+msgctxt "Location_CCyflen_Exit_Title"
+msgid "High Town Exit"
+msgstr ""
+
+msgctxt "Location_CCyflen_MarketStreet_Title"
+msgid "Market Street"
+msgstr ""
+
+msgctxt "Location_CCyflen_Plaza_Title"
+msgid "Sunblaze Court"
+msgstr ""
+
+msgctxt "Location_CCyflen_Promontory_Title"
+msgid "Promontory"
+msgstr ""
+
+msgctxt "Location_CCyflen_SnowAllianceEmbassy_Title"
+msgid "Snow Alliance Embassy"
+msgstr ""
+
+msgctxt "Location_CCyflen_Tavern_Title"
+msgid "The Gravekeep's Cask"
+msgstr ""
+
+msgctxt "Location_CCyflen_TemplesQuarter_Title"
+msgid "Temple Quarter"
+msgstr ""
+
+msgctxt "Location_Coparann_Entrance_Title"
+msgid "Entrance"
+msgstr ""
+
+msgctxt "Location_Coparann_Keep_Title"
+msgid "Keep"
+msgstr ""
+
+msgctxt "Location_Coparann_MineEntrance_Title"
+msgid "Mine"
+msgstr ""
+
+msgctxt "Location_Coparann_Prison_Title"
+msgid "Prison"
+msgstr ""
+
+msgctxt "Location_Coparann_Tavern_Title"
+msgid "Tavern"
+msgstr ""
+
+msgctxt "Location_Coparann_Teleporter_Title"
+msgid "Major Gate"
+msgstr ""
+
+msgctxt "Location_Coparann_Description"
+msgid ""
+"This mining town in the Marches was infiltrated by Soraks, but is now free "
+"of their influence."
+msgstr ""
+
+msgctxt "Location_Coparann_Title"
+msgid "Coparann"
+msgstr ""
+
+msgctxt "Location_Coparann_UnchartedDescription"
+msgid "Should not be displayed"
+msgstr ""
+
+msgctxt "Location_Coparann_UnchartedTitle"
+msgid "Should not be displayed"
+msgstr ""
+
+msgctxt "Location_Coparann_UnvisitedDescription"
+msgid ""
+"Kythaela indicated that this mining town is important. You have no choice "
+"but to follow her, hoping to find one of the Crown's gems."
+msgstr ""
+
+msgctxt "Location_Coparann_UnvisitedTitle"
+msgid "Coparann"
+msgstr ""
+
+msgctxt "Location_CradleOfFire_Description"
+msgid ""
+"Feuding orc clans went to war deep within the volcano after a shaman found "
+"the Gem of Evocation in the ruins of an ancient Manacalon city buried by "
+"lava."
+msgstr ""
+
+msgctxt "Location_CradleOfFire_Title"
+msgid "Cradle of Fire"
+msgstr ""
+
+msgctxt "Location_CradleOfFire_UnchartedDescription"
+msgid ""
+"The crownbearer saw a vision of this place - possibly a hint from the Crown. "
+"Investigate this location."
+msgstr ""
+
+msgctxt "Location_CradleOfFire_UnchartedTitle"
+msgid "Possible Gem Location"
+msgstr ""
+
+msgctxt "Location_CradleOfFire_UnvisitedDescription"
+msgid ""
+"This great volcano is still active. One of the Crown's gems may be among the "
+"lava flows."
+msgstr ""
+
+msgctxt "Location_CradleOfFire_UnvisitedTitle"
+msgid "Volcano"
+msgstr ""
+
+msgctxt "Location_Generic_Door_Title"
+msgid "Locked Door"
+msgstr ""
+
+msgctxt "Location_Generic_Long_Rest_Area_Title"
+msgid "Long Rest Safe Area"
+msgstr ""
+
+msgctxt "Location_Generic_Trap_Title"
+msgid "Armed Trap"
+msgstr ""
+
+msgctxt "Location_Illusion_Description"
+msgid "The Master of Illusion has created himself an invisible shelter… TBC"
+msgstr ""
+
+msgctxt "Location_Illusion_Title"
+msgid "The Invisible Fortress"
+msgstr ""
+
+msgctxt "Location_Illusion_UnchartedDescription"
+msgid "The Crown is responding strongly. Perhaps one of its gems is nearby!"
+msgstr ""
+
+msgctxt "Location_Illusion_UnchartedTitle"
+msgid "Possible Gem Location"
+msgstr ""
+
+msgctxt "Location_Illusion_UnvisitedDescription"
+msgid "Should not be displayed"
+msgstr ""
+
+msgctxt "Location_Illusion_UnvisitedTitle"
+msgid "Should not be displayed"
+msgstr ""
+
+msgctxt "Location_Lair_Access_Title"
+msgid "Ground Floor Entrance"
+msgstr ""
+
+msgctxt "Location_Lair_AkshasRoom_Title"
+msgid "Aksha's Lair"
+msgstr ""
+
+msgctxt "Location_Monastery_Cliff_Title"
+msgid "Cliff"
+msgstr ""
+
+msgctxt "Location_Monastery_Mausoleum_Title"
+msgid "Mausoleum"
+msgstr ""
+
+msgctxt "Location_Telema_OrcCamp_Title"
+msgid "Orc Camp"
+msgstr ""
+
+msgctxt "Location_Telema_Outdoor_Title"
+msgid "Scavengers' Campsite"
+msgstr ""
+
+msgctxt "Location_Telema_SpiderNest_Title"
+msgid "Spider Nest"
+msgstr ""
+
+msgctxt "Location_TowerOfMagic_CrownRoom_Title"
+msgid "Crown Room"
+msgstr ""
+
+msgctxt "Location_TowerOfMagic_Excavation_Title"
+msgid "Excavation Site"
+msgstr ""
+
+msgctxt "Location_TowerOfMagic_Library_Title"
+msgid "Library"
+msgstr ""
+
+msgctxt "Location_WizardTower_Downhill_Title"
+msgid "Downhill"
+msgstr ""
+
+msgctxt "Location_WizardTower_MainAlley_Title"
+msgid "Main Alley"
+msgstr ""
+
+msgctxt "Location_BoneKeep_Teleporter_Title"
+msgid "Teleporter"
+msgstr ""
+
+msgctxt "Location_BoneKeep_Laboratory_ToLair"
+msgid "To Next level"
+msgstr ""
+
+msgctxt "Location_CradleOfFire_Outside"
+msgid "Volcano Exterior"
+msgstr ""
+
+msgctxt "Location_CradleOfFire_Entrance"
+msgid "Underground Entrance"
+msgstr ""
+
+msgctxt "Location_CradleOfFire_Market"
+msgid "Market"
+msgstr ""
+
+msgctxt "Location_WizardTower_Basement_Title"
+msgid "Tower Access"
+msgstr ""
+
+msgctxt "Location_WizardTower_Camp_Title"
+msgid "Camp"
+msgstr ""
+
+msgctxt "Location_WizardTower_Hall_Title"
+msgid "Hall"
+msgstr ""
+
+msgctxt "Location_WizardTower_MastersChamber_Title"
+msgid "Master's Chamber"
+msgstr ""
+
+msgctxt "Location_Generic_Mechanism_Title"
+msgid "Mechanism"
+msgstr ""
+
+msgctxt "Location_AbjurationWizardTower_Description"
+msgid ""
+"Kythaela finally led you to this place, a Manacalon wizard tower, apparently "
+"perfectly preserved and protected by magic, while its surroundings were "
+"ravaged by the Cataclysm."
+msgstr ""
+
+msgctxt "Location_AbjurationWizardTower_Title"
+msgid "Fortress of the Shield"
+msgstr ""
+
+msgctxt "Location_AbjurationWizardTower_UnchartedDescription"
+msgid "Should not be displayed"
+msgstr ""
+
+msgctxt "Location_AbjurationWizardTower_UnchartedTitle"
+msgid "Should not be displayed"
+msgstr ""
+
+msgctxt "Location_AbjurationWizardTower_UnvisitedDescription"
+msgid ""
+"Kythaela is now certain to know where the master is. Hopefully, this will "
+"lead you to another Crown gem."
+msgstr ""
+
+msgctxt "Location_AbjurationWizardTower_UnvisitedTitle"
+msgid "Master's Fortress"
+msgstr ""
+
+msgctxt "Location_WizardTower_LandingPad_Title"
+msgid "Platform"
+msgstr ""
+
+msgctxt "Location_LavaForest_Forest_Title"
+msgid "Forest"
+msgstr ""
+
+msgctxt "Location_LavaForest_Clearing_Title"
+msgid "Shed"
+msgstr ""
+
+msgctxt "Location_LavaForest_LavaRiver_Title"
+msgid "Lava River"
+msgstr ""
+
+msgctxt "Location_AbjurationWizardTower_Teleport_Title"
+msgid "Adrasteia's Tower"
+msgstr ""
+
+msgctxt "Location_VIPResidence_Description"
+msgid "A resting place for plenipotentiaries and hosts of the Crown."
+msgstr ""
+
+msgctxt "Location_VIPResidence_Title"
+msgid "Palace Residence"
+msgstr ""
+
+msgctxt "Location_NotaryMansion_Description"
+msgid "The mansion of the honorable Joan Tannerson."
+msgstr ""
+
+msgctxt "Location_NotaryMansion_Title"
+msgid "Tannerson Estate"
+msgstr ""
+
+msgctxt "Location_NotaryMansion_Known_Description"
+msgid ""
+"The mansion and its gardens are the main prize of Tannerson's heritage. The "
+"finalization of the will is going to take place there."
+msgstr ""
+
+msgctxt "Location_TheID_TheGate_Title"
+msgid "The Gate"
+msgstr ""
+
+msgctxt "Location_TheID_TheArena_Title"
+msgid "The Arena"
+msgstr ""
+
+msgctxt "Location_TheID_TheBeast_Title"
+msgid "The Beast"
+msgstr ""
+
+msgctxt "Location_CradleOfFire_Bladefang"
+msgid "Bladefang Tribe"
+msgstr ""
+
+msgctxt "Location_CradleOfFire_Bloodspear"
+msgid "Bloodspear Tribe"
+msgstr ""
+
+msgctxt "Location_CradleOfFire_SandRaven"
+msgid "Sandraven Tribe"
+msgstr ""
+
+msgctxt "Location_CradleOfFire_RedscarGate"
+msgid "Redscar Gate"
+msgstr ""
+
+msgctxt "Location_CradleOfFire_Crossroads"
+msgid "Crossroads"
+msgstr ""
+
+msgctxt "Location_CradleOfFire_Necropolis"
+msgid "Necropolis"
+msgstr ""
+
+msgctxt "Location_CradleOfFire_To_Crossroads"
+msgid "To the Crossroads"
+msgstr ""
+
+msgctxt "Location_CradleOfFire_Burrows"
+msgid "Burrows"
+msgstr ""
+
+msgctxt "Location_RodricHideout_Title"
+msgid "Hideout"
+msgstr ""
+
+msgctxt "Location_RodricHideout_Description"
+msgid ""
+"Rodric and his minions were hiding in this ancient section of Caer Cyflen's "
+"sewers."
+msgstr ""
+
+msgctxt "Location_TimarianTower_Title"
+msgid "Tirmarian Tower"
+msgstr ""
+
+msgctxt "Location_TimarianTower_Description"
+msgid "What a strange place."
+msgstr ""
+
+msgctxt "Location_Earcorn_Description"
+msgid "A small farming village not far from Caer Cyflen."
+msgstr ""
+
+msgctxt "Location_Earcorn_Title"
+msgid "Earcorn"
+msgstr ""
+
+msgctxt "Location_Earcorn_UnchartedDescription"
+msgid "SHOULD NOT BE DISPLAYED"
+msgstr ""
+
+msgctxt "Location_Earcorn_UnchartedTitle"
+msgid "SHOULD NOT BE DISPLAYED"
+msgstr ""
+
+msgctxt "Location_Earcorn_UnvisitedDescription"
+msgid ""
+"You've been sent here to investigate a possible group of Arivad cultists."
+msgstr ""
+
+msgctxt "Location_Earcorn_UnvisitedTitle"
+msgid "Earcorn"
+msgstr ""
+
+msgctxt "Location_MindOfTheMaster_Description"
+msgid ""
+"This place is a typical Badlands area, where the greenest nature neighbors "
+"rivers of lava and sulfur pits. It might shelter one of the Crown's gems."
+msgstr ""
+
+msgctxt "Location_MindOfTheMaster_Title"
+msgid "Lava Forest"
+msgstr ""
+
+msgctxt "Location_MindOfTheMaster_UnchartedDescription"
+msgid ""
+"This place is a typical Badlands area, where the greenest nature neighbors "
+"rivers of lava and sulfur pits."
+msgstr ""
+
+msgctxt "Location_MindOfTheMaster_UnchartedTitle"
+msgid "Lava Forest"
+msgstr ""
+
+msgctxt "Location_MindOfTheMaster_VisitedDescription"
+msgid ""
+"This was the hiding place of the Master of Conjuration, in a magical "
+"fortress built by his broken mind."
+msgstr ""
+
+msgctxt "Location_MindOfTheMaster_VisitedTitle"
+msgid "Lava Forest"
+msgstr ""
+
+msgctxt "Location_TheSuperEgo_TheBridge_Title"
+msgid "Bridge"
+msgstr ""
+
+msgctxt "Location_TheSuperEgo_TheHall_Title"
+msgid "Entrance"
+msgstr ""
+
+msgctxt "Location_TheSuperEgo_TheLandingPad_Title"
+msgid "Platform"
+msgstr ""
+
+msgctxt "Location_TheSuperEgo_TheMastersRoom_Title"
+msgid "Master's Room"
+msgstr ""
+
+msgctxt "Location_TempleOfMisaye_Title"
+msgid "Temple of Misaye"
+msgstr ""
+
+msgctxt "Location_CradleOfFire_RedscarGateHall"
+msgid "Redscar Gate Hall"
+msgstr ""
+
+msgctxt "Location_CradleOfFire_NecropolisHall"
+msgid "Necropolis Hall"
+msgstr ""
+
+msgctxt "Location_Farmhouse_Title"
+msgid "Farmhouse"
+msgstr ""
+
+msgctxt "Location_Farmhouse_Description"
+msgid "A farmhouse in the Vale of Coparann which belongs to your family."
+msgstr ""
+
+msgctxt "Location_ImperialOutpostDescription"
+msgid "You passed by these ruins when traveling to Coparann with Kythaela."
+msgstr ""
+
+msgctxt "Location_ImperialOutpostTitle"
+msgid "Imperial Outpost Ruins"
+msgstr ""
+
+msgctxt "Location_HalmanSummersHouse_Title"
+msgid "Halman Summer's House"
+msgstr ""
+
+msgctxt "Location_HalmanSummersHouse2_Title"
+msgid "Coven of Arivad"
+msgstr ""
+
+msgctxt "Location_AerElaiFinal_ImperialGate"
+msgid "Imperial Gate"
+msgstr ""
+
+msgctxt "Location_AerElaiFinal_BoneYard"
+msgid "Boneyard"
+msgstr ""
+
+msgctxt "Location_AerElaiFinal_AcidLake"
+msgid "The Lake of Acid"
+msgstr ""
+
+msgctxt "Location_AerElaiFinal_MistyPath"
+msgid "The Misty Path"
+msgstr ""
+
+msgctxt "Location_AerElaiFinal_BentPalace"
+msgid "The Bent Palace"
+msgstr ""
+
+msgctxt "Location_AerElaiFinal_TheRift"
+msgid "The Rift"
+msgstr ""
+
+msgctxt "Location_AerElaiFinal_LaveFall"
+msgid "Lava Falls"
+msgstr ""
+
+msgctxt "Location_TempleHospital_Title"
+msgid "Main Dispensary"
+msgstr ""
+
+msgctxt "Location_Temple_SafeRoom_Title"
+msgid "Safe Room"
+msgstr ""
+
+msgctxt "Location_CCyflen_Temple_Exit_Title"
+msgid "Exit to High Town"
+msgstr ""
+
+msgctxt "Location_CCyflen_Temple_Misaye_Title"
+msgid "Secret Temple of Misaye"
+msgstr ""
+
+msgctxt "Location_Spy_SmallFort_Title"
+msgid "Spy Outpost"
+msgstr ""
+
+msgctxt "Location_Spy_SmallFort_Description"
+msgid ""
+"Daliat indicated that this place was a fortified hideout where Silent "
+"Whisper traitors were hiding. "
+msgstr ""
+
+msgctxt "Location_ScavengerCamp_Title"
+msgid "Scavenger Camp"
+msgstr ""
+
+msgctxt "Location_CCyflen_PhilosopherHouse_Title"
+msgid "Galeafin's House"
+msgstr ""
+
+msgctxt "Location_Legendary_UnvisitedTitle"
+msgid "Caer Elis"
+msgstr ""
+
+msgctxt "Location_Legendary_UnvisitedDescription"
+msgid ""
+"This is where the temple of the Lost God is supposed to be, according to "
+"Arwin Merton, but only he knows the way through the mist."
+msgstr ""
+
+msgctxt "Location_Legendary_visitedDescription"
+msgid ""
+"This is where you found the temple of the Lost God and vanquished the "
+"Remorhaz that was guarding its secrets."
+msgstr ""
+
+msgctxt "Location_Legendary_Camp_Title"
+msgid "Caer Elis Camp"
+msgstr ""
+
+msgctxt "Location_Legendary_Temple_Title"
+msgid "Temple of the Lost God"
+msgstr ""
+
+msgctxt "Location_Legendary_CliffAccess_Title"
+msgid "Cliffs"
+msgstr ""
+
+msgctxt "Location_CovenOfArivad_Description"
+msgid ""
+"You followed Illoreth to this place, hoping to catch some Arivad cultists in "
+"the middle of their wrongdoings."
+msgstr ""
+
+msgctxt "Location_Gallivan_Embassy_Title"
+msgid "Gallivan Embassy"
+msgstr ""
+
+msgctxt "Location_Galaefin_House_Title"
+msgid "Master Galaefin's Office"
+msgstr ""
+
+msgctxt "Location_Canyon_Title"
+msgid "Canyon"
+msgstr ""
+
+msgctxt "Location_Canyon_Description"
+msgid "A sandy canyon in a desolate land."
+msgstr ""
+
+msgctxt "Location_Swamp_Title"
+msgid "Swamp"
+msgstr ""
+
+msgctxt "Location_Swamp_Description"
+msgid "A gloomy and stinky swamp in the middle of the Badlands."
+msgstr ""
+
+msgctxt "Location_ElvenRuins_Title"
+msgid "Elven Ruins"
+msgstr ""
+
+msgctxt "Location_ElvenRuins_Description"
+msgid "A ruined building that was part of an elven city."
+msgstr ""
+
+msgctxt "Location_Waterfall_Title"
+msgid "Waterfall"
+msgstr ""
+
+msgctxt "Location_Waterfall_Description"
+msgid "A refreshing landscape, a flowing river, and roaming monsters."
+msgstr ""
+
+msgctxt "Location_TempleOfEinar_Title"
+msgid "Temple of Einar"
+msgstr ""
+
+msgctxt "Location_Cemetery_Title"
+msgid "Cemetery"
+msgstr ""
+
+msgctxt "Location_Cemetery_Description"
+msgid "An old cemetery in the middle of the path… probably haunted."
+msgstr ""
+
+msgctxt "Location_TheMindoftheMaster_Ego_Title"
+msgid "The Ego"
+msgstr ""
+
+msgctxt "Location_TheMindoftheMaster_SuperEgo_Title"
+msgid "The Superego"
+msgstr ""
+
+msgctxt "Location_TheMindoftheMaster_ID_Title"
+msgid "The Id"
+msgstr ""
+
+msgctxt "Location_TheMindoftheMaster_Description"
+msgid "A mysterious place of magic and… irrationality!"
+msgstr ""
+
+msgctxt "Location_Desert_Title"
+msgid "Arid Hill"
+msgstr ""
+
+msgctxt "Location_Desert_Description"
+msgid "Another dead hill in the Badlands, scorched by an unforgiving sun."
+msgstr ""
+
+msgctxt "Location_Marsh_Title"
+msgid "Marsh"
+msgstr ""
+
+msgctxt "Location_Marsh_Description"
+msgid "A lonely hunting cabin in the middle of a grim marsh."
+msgstr ""
+
+msgctxt "Location_Uncharted_Title_Marches"
+msgid "Marches"
+msgstr ""
+
+msgctxt "Location_Uncharted_Description_Marches"
+msgid "A campsite in the Marches, on top of a mountain."
+msgstr ""
+
+msgctxt "Location_Known_Title_Marches"
+msgid "Merchant campsite"
+msgstr ""
+
+msgctxt "Location_Known_Description_Marches"
+msgid "A place that travelling merchants commonly use to stay for the night."
+msgstr ""
+
+msgctxt "Location_Explored_Title_Marches"
+msgid "Merchant campsite"
+msgstr ""
+
+msgctxt "Location_Explored_Description_Marches"
+msgid ""
+"A place that travelling merchants commonly use to stay for the night, "
+"especially Galar Goldentongue."
+msgstr ""
+
+msgctxt "Location_Presentation_Title_Marches"
+msgid "Marches"
+msgstr ""
+
+msgctxt "Location_Presentation_Description_Marches"
+msgid "A campsite in the Marches, on top of a mountain."
+msgstr ""
+
+msgctxt "Location_Uncharted_Title_City"
+msgid "City"
+msgstr ""
+
+msgctxt "Location_Uncharted_Description_City"
+msgid "A city on a plateau, in the middle of the jungle"
+msgstr ""
+
+msgctxt "Location_Known_Title_City"
+msgid "The City"
+msgstr ""
+
+msgctxt "Location_Known_Description_City"
+msgid "The heart of the valley"
+msgstr ""
+
+msgctxt "Location_Explored_Title_City"
+msgid "Known City name"
+msgstr ""
+
+msgctxt "Location_Explored_Description_City"
+msgid "You've explored the city"
+msgstr ""
+
+msgctxt "Location_Presentation_Title_City"
+msgid "City"
+msgstr ""
+
+msgctxt "Location_Presentation_Description_City"
+msgid "Presentation of the city"
+msgstr ""
+
+msgctxt "Waypoint_DLC1_Marches_Camp"
+msgid "Merchant campsite"
+msgstr ""
+
+msgctxt "Waypoint_DLC1_Marches_GrottoEntrance"
+msgid "Grotto entrance"
+msgstr ""
+
+msgctxt "Waypoint_DLC1_City_Entrance"
+msgid "City Entrance"
+msgstr ""
+
+msgctxt "Waypoint_DLC1_City_MiddleGate"
+msgid "Middle Gate"
+msgstr ""
+
+msgctxt "Waypoint_DLC1_City_MaskHQ_Low"
+msgid "Fairview"
+msgstr ""
+
+msgctxt "Waypoint_DLC1_City_ThePeople_Low"
+msgid "Market"
+msgstr ""
+
+msgctxt "Location_Uncharted_Title_Complex"
+msgid "Complex"
+msgstr ""
+
+msgctxt "Location_Uncharted_Description_Complex"
+msgid "TBD"
+msgstr ""
+
+msgctxt "Location_Known_Title_Complex"
+msgid "TBD"
+msgstr ""
+
+msgctxt "Location_Known_Description_Complex"
+msgid "TBD"
+msgstr ""
+
+msgctxt "Location_Explored_Title_Complex"
+msgid "TBD"
+msgstr ""
+
+msgctxt "Location_Explored_Description_Complex"
+msgid "TBD"
+msgstr ""
+
+msgctxt "Location_Presentation_Title_Complex"
+msgid "TBD"
+msgstr ""
+
+msgctxt "Location_Presentation_Description_Complex"
+msgid "TBD"
+msgstr ""
+
+msgctxt "Location_Uncharted_Title_Valley"
+msgid "Valley"
+msgstr ""
+
+msgctxt "Location_Uncharted_Description_Valley"
+msgid "TBD"
+msgstr ""
+
+msgctxt "Location_Known_Title_Valley"
+msgid "TBD"
+msgstr ""
+
+msgctxt "Location_Known_Description_Valley"
+msgid "TBD"
+msgstr ""
+
+msgctxt "Location_Explored_Title_Valley"
+msgid "TBD"
+msgstr ""
+
+msgctxt "Location_Explored_Description_Valley"
+msgid "TBD"
+msgstr ""
+
+msgctxt "Location_Presentation_Title_Valley"
+msgid "TBD"
+msgstr ""
+
+msgctxt "Location_Presentation_Description_Valley"
+msgid "TBD"
+msgstr ""
+
+msgctxt "Location_Uncharted_Title_Complex_Indoor"
+msgid "Complex Indoor"
+msgstr ""
+
+msgctxt "Location_Uncharted_Description_Complex_Indoor"
+msgid "TBD"
+msgstr ""
+
+msgctxt "Location_Known_Title_Complex_Indoor"
+msgid "TBD"
+msgstr ""
+
+msgctxt "Location_Known_Description_Complex_Indoor"
+msgid "TBD"
+msgstr ""
+
+msgctxt "Location_Explored_Title_Complex_Indoor"
+msgid "TBD"
+msgstr ""
+
+msgctxt "Location_Explored_Description_Complex_Indoor"
+msgid "TBD"
+msgstr ""
+
+msgctxt "Location_Presentation_Title_Complex_Indoor"
+msgid "TBD"
+msgstr ""
+
+msgctxt "Location_Presentation_Description_Complex_Indoor"
+msgid "TBD"
+msgstr ""
+
+msgctxt "Location_Uncharted_Title_Complex_Underground"
+msgid "Underground Facilities"
+msgstr ""
+
+msgctxt "Location_Uncharted_Description_Complex_Underground"
+msgid "TBD"
+msgstr ""
+
+msgctxt "Location_Known_Title_Complex_Underground"
+msgid "TBD"
+msgstr ""
+
+msgctxt "Location_Known_Description_Complex_Underground"
+msgid "TBD"
+msgstr ""
+
+msgctxt "Location_Explored_Title_Complex_Underground"
+msgid "TBD"
+msgstr ""
+
+msgctxt "Location_Explored_Description_Complex_Underground"
+msgid "TBD"
+msgstr ""
+
+msgctxt "Location_Presentation_Title_Complex_Underground"
+msgid "TBD"
+msgstr ""
+
+msgctxt "Location_Presentation_Description_Complex_Underground"
+msgid "TBD"
+msgstr ""
+
+msgctxt "Waypoint_DLC1_Marches_Vip_Camp"
+msgid "Abandoned campsite"
+msgstr ""
+
+msgctxt "Waypoint_DLC1_Marches_Nest"
+msgid "Redeemer nest"
+msgstr ""
+
+msgctxt "Waypoint_DLC1_Marches_MapExit"
+msgid "Exit to valley"
+msgstr ""
+
+msgctxt "Waypoint_DLC1_Marches_RuinEntrance"
+msgid "Ruin Entrance"
+msgstr ""
+
+msgctxt "Waypoint_DLC1_Marches_GrottoExit"
+msgid "Grotto exit"
+msgstr ""
+
+msgctxt "Waypoint_DLC1_Marches_NestExit"
+msgid "Nest Exit"
+msgstr ""
+
+msgctxt "Location_Presentation_Title_BuriedCity_Tomb"
+msgid "Marches"
+msgstr ""
+
+msgctxt "Location_Presentation_Description_BuriedCity_Tomb"
+msgid "A campsite in the Marches, on top of a mountain."
+msgstr ""
+
+msgctxt "Location_Presentation_Title_BuriedCity_Palace"
+msgid "Marches"
+msgstr ""
+
+msgctxt "Location_Presentation_Description_BuriedCity_Palace"
+msgid "A campsite in the Marches, on top of a mountain."
+msgstr ""

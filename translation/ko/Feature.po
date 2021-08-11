@@ -1,0 +1,3649 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "AbilityCheckAdvantageFormat"
+msgid "Advantage on {0} ability checks."
+msgstr ""
+
+msgctxt "AbilityCheckAutomaticallyFailedFormat"
+msgid "Automatically fails {0} ability checks"
+msgstr ""
+
+msgctxt "AbilityCheckBonusFormat"
+msgid "{0} on {1} ability checks."
+msgstr ""
+
+msgctxt "AbilityCheckBonusWithDiceFormat"
+msgid "{0}{1} on {2} ability checks."
+msgstr ""
+
+msgctxt "AbilityCheckDisadvantageFormat"
+msgid "Disadvantage on {0} ability checks."
+msgstr ""
+
+msgctxt "AbilityScoreChoiceDescription"
+msgid "Choose between increasing your ability scores or gaining a bonus feat."
+msgstr ""
+
+msgctxt "AbilityScoreChoiceTitle"
+msgid "Ability Score Choice"
+msgstr ""
+
+msgctxt "AbilityScoreImprovementDescription"
+msgid ""
+"Increase two ability scores of your choice by 1 point each, or a single "
+"score by 2 points."
+msgstr ""
+
+msgctxt "AbilityScoreImprovementTitle"
+msgid "Ability Score"
+msgstr ""
+
+msgctxt "AbilityScoreIncreaseAdvancedTitle"
+msgid "Ability score + Skill + Feat"
+msgstr ""
+
+msgctxt "AbilityScoreIncreaseTitle"
+msgid "Ability Score Increase"
+msgstr ""
+
+msgctxt "AcademicFeatureDescription"
+msgid ""
+"You still have ties to the Antiquarians and your relationship with them is "
+"already good."
+msgstr ""
+
+msgctxt "AcademicFeatureTitle"
+msgid "Runaway Antiquarian"
+msgstr ""
+
+msgctxt "AcademicSkillsDescription"
+msgid "Proficient in Arcana, Nature, and Insight."
+msgstr ""
+
+msgctxt "AcademicSkillsTitle"
+msgid "Bookworm"
+msgstr ""
+
+msgctxt "AcademicToolsDescription"
+msgid ""
+"Proficient with the Manacalon rosary, supposed to be useful to enchant items."
+msgstr ""
+
+msgctxt "AcademicToolsTitle"
+msgid "Enchanter"
+msgstr ""
+
+msgctxt "AcolyteFeatureDescription"
+msgid ""
+"You start with a good reputation with the clerics of your faith, and have "
+"discounts at the main temple in the Principality's capital city."
+msgstr ""
+
+msgctxt "AcolyteFeatureTitle"
+msgid "Shelter of the Faithful"
+msgstr ""
+
+msgctxt "AcolyteSkillsDescription"
+msgid "Proficient in Religion, Nature, and Insight."
+msgstr ""
+
+msgctxt "AcolyteSkillsTitle"
+msgid "Religious Training"
+msgstr ""
+
+msgctxt "AcolyteSkillsToolsDescription"
+msgid "Proficient with the herbalism kit."
+msgstr ""
+
+msgctxt "AcolyteSkillsToolsTitle"
+msgid "Potion Making"
+msgstr ""
+
+msgctxt "ActionAffinityHunterGiantKillerDescription"
+msgid ""
+"When a large or larger creature within one cell of you hits or misses you "
+"with an attack, you can use your reaction to attack that creature "
+"immediately after its attack, provided that you can see the creature."
+msgstr ""
+
+msgctxt "ActionAffinityHunterGiantKillerTitle"
+msgid "Giant Killer"
+msgstr ""
+
+msgctxt "ActionAffinityMarksmanReactionShotDescription"
+msgid ""
+"When a visible opponent 2 cells or more from you attacks you with a ranged "
+"weapon or a spell, you can use your reaction to take a shot after the "
+"triggering attack."
+msgstr ""
+
+msgctxt "ActionAffinityMarksmanReactionShotTitle"
+msgid "Reaction Shot"
+msgstr ""
+
+msgctxt "AdditionalActionHunterHordeBreakerDescription"
+msgid ""
+"Once on each of your turns when you down an opponent, you can make another "
+"attack with the same weapon against a different creature."
+msgstr ""
+
+msgctxt "AdditionalActionHunterHordeBreakerTitle"
+msgid "Horde Breaker"
+msgstr ""
+
+msgctxt "AdditionalDamageDomainOblivionStrikeOblivionDescription"
+msgid "+1d6 necrotic damage on your first attack of your turn."
+msgstr ""
+
+msgctxt "AdditionalDamageDomainOblivionStrikeOblivionTitle"
+msgid "Strike of Oblivion"
+msgstr ""
+
+msgctxt "AdditionalDamageHunterColossusSlayerDescription"
+msgid ""
+"Your tenacity can wear down the most potent of foes. When you hit a creature "
+"with a weapon attack, the creature takes an extra 1d8 damage if it's below "
+"its hit point maximum. You can deal this extra damage only once per turn."
+msgstr ""
+
+msgctxt "AdditionalDamageHunterColossusSlayerTitle"
+msgid "Colossus Slayer"
+msgstr ""
+
+msgctxt "AdditionalFallThreshold"
+msgid "Can fall without harm from {0} cells."
+msgstr ""
+
+msgctxt "AffectedSpellsFormat"
+msgid "Works on the following spells: {0}."
+msgstr ""
+
+msgctxt "AndLine"
+msgid "AND"
+msgstr ""
+
+msgctxt "AristocratFeatureDescription"
+msgid ""
+"People from the nobility recognize you as one of them, which can be helpful "
+"in some situations."
+msgstr ""
+
+msgctxt "AristocratFeatureTitle"
+msgid "Blue Blood"
+msgstr ""
+
+msgctxt "AristocratSkillsDescription"
+msgid "Proficient in History, Persuasion, and Intimidation"
+msgstr ""
+
+msgctxt "AristocratSkillsTitle"
+msgid "Higher Education"
+msgstr ""
+
+msgctxt "ArmorTrainingDescription"
+msgid "Proficient with {0}"
+msgstr ""
+
+msgctxt "ArmorTrainingShortDescription"
+msgid "{0}"
+msgstr ""
+
+msgctxt "AttackModifierAdditionalTagFormat"
+msgid "Attack is {0}"
+msgstr ""
+
+msgctxt "AttackModifierAttackRollFormat"
+msgid "{0} to attack rolls"
+msgstr ""
+
+msgctxt "AttackModifierDamageRollFormat"
+msgid "{0} to damage rolls"
+msgstr ""
+
+msgctxt "AttributeIncreaseAllDescription"
+msgid "+{0} to all ability scores"
+msgstr ""
+
+msgctxt "AttributeIncreaseAny1Description"
+msgid "Increase one ability score"
+msgstr ""
+
+msgctxt "AttributeIncreaseAnyNDescription"
+msgid "Increase {0} ability scores"
+msgstr ""
+
+msgctxt "AttributeIncreaseDescription"
+msgid "{0} + {1}"
+msgstr ""
+
+msgctxt "AttributeModifierAdditiveDescription"
+msgid "{0} + {1}"
+msgstr ""
+
+msgctxt "AttributeModifierMultiplicativeDescription"
+msgid "{0} x {1}"
+msgstr ""
+
+msgctxt "AttributeModifierSetDescription"
+msgid "{0} is set to {1}"
+msgstr ""
+
+msgctxt "AttributeSetDescription"
+msgid "{0} is set to {1}"
+msgstr ""
+
+msgctxt "AuraOfCourageDescription"
+msgid ""
+"You and allies within 10 feet cannot be frightened while you are conscious. "
+"At 18th level, the range becomes 30 feet."
+msgstr ""
+
+msgctxt "AuraOfCourageTitle"
+msgid "Aura of Courage"
+msgstr ""
+
+msgctxt "AuraOfProtectionDescription"
+msgid ""
+"Grants a saving throw bonus to your surrounding allies, equal to your CHA "
+"modifier (min 1)."
+msgstr ""
+
+msgctxt "AuraOfProtectionTitle"
+msgid "Aura of Protection"
+msgstr ""
+
+msgctxt "AutoPreparedSpellsFormat"
+msgid "Level {0}: {1}"
+msgstr ""
+
+msgctxt "AutoPreparedSpellsOathOfDevotionTitle"
+msgid "Oath of Devotion Spells"
+msgstr ""
+
+msgctxt "AutoPreparedSpellsOathOfMotherlandTitle"
+msgid "Oath of the Motherland Spells"
+msgstr ""
+
+msgctxt "AutoPreparedSpellsOathOfTirmarTitle"
+msgid "Oath of Tirmar Spells"
+msgstr ""
+
+msgctxt "Background01LanguagesTitle"
+msgid "Choose one additional language."
+msgstr ""
+
+msgctxt "Background02LanguagesTitle"
+msgid "Choose two additional languages."
+msgstr ""
+
+msgctxt "BackgroundLanguages"
+msgid "Additional languages"
+msgstr ""
+
+msgctxt "BonusFeatDescription"
+msgid "Select an additional feat for your character."
+msgstr ""
+
+msgctxt "BonusFeatTitle"
+msgid "Bonus Feat"
+msgstr ""
+
+msgctxt "CampAffinityElfTranceDescription"
+msgid "4 hours of meditation are sufficient to rest."
+msgstr ""
+
+msgctxt "CampAffinityElfTranceTitle"
+msgid "Trance"
+msgstr ""
+
+msgctxt "CantTakeActionFormat"
+msgid "Cannot take action: {0}"
+msgstr ""
+
+msgctxt "ClericArmorProficiencyTitle"
+msgid "Cleric Armor Proficiencies"
+msgstr ""
+
+msgctxt "ClericChannelDivinityAddDescription"
+msgid "+1 Channel Divinity use between rests."
+msgstr ""
+
+msgctxt "ClericChannelDivinityAddTitle"
+msgid "Channel Divinity (increased)"
+msgstr ""
+
+msgctxt "ClericChannelDivinityDescription"
+msgid "Can use Channel Divinity actions once between rests."
+msgstr ""
+
+msgctxt "ClericChannelDivinityTitle"
+msgid "Channel Divinity"
+msgstr ""
+
+msgctxt "ClericDivineDomainsDescription"
+msgid "Choose one of the divine domains granted by your deity."
+msgstr ""
+
+msgctxt "ClericDivineDomainsTitle"
+msgid "Divine Domains"
+msgstr ""
+
+msgctxt "ClericSkillPointsTitle"
+msgid "Cleric Skills"
+msgstr ""
+
+msgctxt "ClericSpellcastingTitle"
+msgid "Cleric Spellcasting"
+msgstr ""
+
+msgctxt "ClericToolsDescription"
+msgid "You have been trained to scribe magic scrolls."
+msgstr ""
+
+msgctxt "ClericToolsTitle"
+msgid "Scroll Scribing"
+msgstr ""
+
+msgctxt "ClericTurnUndeadShortTitle"
+msgid "Turn Undead"
+msgstr ""
+
+msgctxt "ClericTurnUndeadTitle"
+msgid "Channel Divinity: Turn Undead"
+msgstr ""
+
+msgctxt "ClericTurnUndeadDescription"
+msgid ""
+"Channel Divinity to force undead creatures within 6 cells who can see you to "
+"flee, unless they make a successful Wisdom saving throw."
+msgstr ""
+
+msgctxt "ClericWeaponProficiencyTitle"
+msgid "Cleric Weapon Proficiencies"
+msgstr ""
+
+msgctxt "ConditionAttackOfOpportunityImmunityTitle"
+msgid "Immune to opportunity attacks"
+msgstr ""
+
+msgctxt "ConditionAttackOnMeAdvantageTitle"
+msgid "Attack rolls against this creature have advantage"
+msgstr ""
+
+msgctxt "ConditionAttackOnMeDisadvantageTitle"
+msgid "Attack rolls against this creature have disadvantage"
+msgstr ""
+
+msgctxt "ConditionExpertClimberFormat"
+msgid "Difficult climb surfaces are considered normal for you"
+msgstr ""
+
+msgctxt "ConditionFastClimberFormat"
+msgid "Climbing does not cost you extra movement "
+msgstr ""
+
+msgctxt "ConditionImmunityFormat"
+msgid "Immunity to the \"{0}\" condition type"
+msgstr ""
+
+msgctxt "ConditionMovementAddBaseFormat"
+msgid "Double base speed"
+msgstr ""
+
+msgctxt "ConditionMovementAddBaseFormatSingle"
+msgid "Double base speed ({0})"
+msgstr ""
+
+msgctxt "ConditionMovementAdditiveModifierFormat"
+msgid "{0} to speed"
+msgstr ""
+
+msgctxt "ConditionMovementAdditiveModifierFormatSingle"
+msgid "{0} to speed ({1})"
+msgstr ""
+
+msgctxt "ConditionMovementCanMoveOnWallsFormat"
+msgid "Can move on walls"
+msgstr ""
+
+msgctxt "ConditionMovementEnhancedJumpFormat"
+msgid "Can jump at maximum distance without risk."
+msgstr ""
+
+msgctxt "ConditionMyAttackAddDiceFormat"
+msgid "+{0}{1} to attack rolls"
+msgstr ""
+
+msgctxt "ConditionMyAttackAddFormat"
+msgid "+{0} to attack rolls"
+msgstr ""
+
+msgctxt "ConditionMyAttackAdvantageTitle"
+msgid "This creature's attack rolls have advantage"
+msgstr ""
+
+msgctxt "ConditionMyAttackDisadvantageTitle"
+msgid "This creature's attack rolls have disadvantage"
+msgstr ""
+
+msgctxt "ConditionMyAttackSubstractDiceFormat"
+msgid "-{0}{1} to attack rolls"
+msgstr ""
+
+msgctxt "ConditionMyAttackSubstractFormat"
+msgid "-{0} to attack rolls"
+msgstr ""
+
+msgctxt "ConditionSavingThrowAdvantageFormat"
+msgid "Advantage on saving throws against being {0}"
+msgstr ""
+
+msgctxt "ConditionSavingThrowDisadvantageFormat"
+msgid "Disadvantage on saving throws against being {0}"
+msgstr ""
+
+msgctxt "DamageImmunityFormat"
+msgid "Immunity to {0}: all damage is canceled"
+msgstr ""
+
+msgctxt "DamageResistanceFormat"
+msgid "Resistance to {0}: damage is halved"
+msgstr ""
+
+msgctxt "DamageSavingThrowAdvantageFormat"
+msgid "Advantage on saving throws against {0}"
+msgstr ""
+
+msgctxt "DamageSavingThrowDisadvantageFormat"
+msgid "Disadvantage on saving throws against {0}"
+msgstr ""
+
+msgctxt "DamageTagsIgnoringFormat"
+msgid "except for {0} attacks"
+msgstr ""
+
+msgctxt "DamageVulnerabilityFormat"
+msgid "Vulnerability to {0}: damage is doubled"
+msgstr ""
+
+msgctxt "DiceGamerDescription"
+msgid "Proficient with the Gaming Set."
+msgstr ""
+
+msgctxt "DiceGamerTitle"
+msgid "Dice Gamer"
+msgstr ""
+
+msgctxt "DomainBattleBonusProficiencyDescription"
+msgid "Martial Weapons"
+msgstr ""
+
+msgctxt "DomainBattleBonusProficiencyTitle"
+msgid "Bonus Proficiency"
+msgstr ""
+
+msgctxt "DomainBattleDecisiveStrikeDescription"
+msgid ""
+"On a successful attack, Channel Divinity to add 1d6 to your damage and stun "
+"your target (save negates). Increases by 1d6 every 3 levels above level 2."
+msgstr ""
+
+msgctxt "DomainBattleDecisiveStrikeShortTitle"
+msgid "Decisive Strike"
+msgstr ""
+
+msgctxt "DomainBattleDecisiveStrikeTitle"
+msgid "Decisive Strike"
+msgstr ""
+
+msgctxt "DomainBattleDivineWrathDescription"
+msgid ""
+"As an action, gain 3 temporary HP per cleric level. Recovered after a long "
+"rest."
+msgstr ""
+
+msgctxt "DomainBattleDivineWrathTitle"
+msgid "Divine Fortitude"
+msgstr ""
+
+msgctxt "DomainBattleDomainSpellsTitle"
+msgid "Battle Domain Spells"
+msgstr ""
+
+msgctxt "DomainBattleHeraldOfBattleDescription"
+msgid ""
+"Allies in adjacent cells gain +1 on attack rolls, damage, AC, and saving "
+"throws."
+msgstr ""
+
+msgctxt "DomainBattleHeraldOfBattleTitle"
+msgid "Herald of Battle"
+msgstr ""
+
+msgctxt "DomainElementalBonusCantripDescriptionPlural"
+msgid "{0}"
+msgstr ""
+
+msgctxt "DomainElementalBonusCantripDescriptionSingle"
+msgid "{0}"
+msgstr ""
+
+msgctxt "DomainElementalColdBonusCantripTitle"
+msgid "Bonus Cantrip (Cold)"
+msgstr ""
+
+msgctxt "DomainElementalColdPrimalHarmonyTitle"
+msgid "Primal Harmony (Cold)"
+msgstr ""
+
+msgctxt "DomainElementalDiscipleOfTheElementsDescription"
+msgid ""
+"Use your reaction to become immune to your domain element so it heals you "
+"instead of wounding you."
+msgstr ""
+
+msgctxt "DomainElementalDiscipleOfTheElementsTitle"
+msgid "Scholar of the Elements"
+msgstr ""
+
+msgctxt "DomainElementalDomainSpellsTitle"
+msgid "Elemental Domain Spells"
+msgstr ""
+
+msgctxt "DomainElementalFireBonusCantripTitle"
+msgid "Bonus Cantrip (Fire)"
+msgstr ""
+
+msgctxt "DomainElementalFireBurstDescription"
+msgid ""
+"Channel Divinity to cause 3d8 fire damage to a target within 12 cells. A "
+"successful Dexterity save halves the damage."
+msgstr ""
+
+msgctxt "DomainElementalFireBurstShortTitle"
+msgid "Fire Burst"
+msgstr ""
+
+msgctxt "DomainElementalFireBurstTitle"
+msgid "Channel Divinity: Fire Burst"
+msgstr ""
+
+msgctxt "DomainElementalFirePrimalHarmonyTitle"
+msgid "Primal Harmony (Fire)"
+msgstr ""
+
+msgctxt "DomainElementalIceLanceDescription"
+msgid ""
+"Use Channel Divinity on a target within 12 cells. The target must make a "
+"Dexterity saving throw or be pushed away by 2 cells and suffer 2d8 cold "
+"damage."
+msgstr ""
+
+msgctxt "DomainElementalIceLanceShortTitle"
+msgid "Ice Lance"
+msgstr ""
+
+msgctxt "DomainElementalIceLanceTitle"
+msgid "Channel Divinity: Ice Lance"
+msgstr ""
+
+msgctxt "DomainElementalLightningBladeDescription"
+msgid ""
+"Channel Divinity to cause 1d8 lightning damage to a target within 12 cells. "
+"On a failed Dexterity save, the target is also stunned until the end of its "
+"next turn."
+msgstr ""
+
+msgctxt "DomainElementalLightningBladeShortTitle"
+msgid "Lightning Blade"
+msgstr ""
+
+msgctxt "DomainElementalLightningBladeTitle"
+msgid "Channel Divinity: Lightning Blade"
+msgstr ""
+
+msgctxt "DomainElementalLightningBonusCantripTitle"
+msgid "Bonus Cantrip (Lightning)"
+msgstr ""
+
+msgctxt "DomainElementalLightningPrimalHarmonyTitle"
+msgid "Primal Harmony (Lightning)"
+msgstr ""
+
+msgctxt "DomainInsightDivineEyeDescription"
+msgid "Advantage to detect traps, hidden doors, and objects"
+msgstr ""
+
+msgctxt "DomainInsightDivineEyeTitle"
+msgid "Divine Eye"
+msgstr ""
+
+msgctxt "DomainInsightDivineIntuitionDescription"
+msgid "Advantage on ability checks using Arcana, History, and Nature"
+msgstr ""
+
+msgctxt "DomainInsightDivineIntuitionTitle"
+msgid "Divine Intuition"
+msgstr ""
+
+msgctxt "DomainInsightForeknowledgeDescription"
+msgid ""
+"Channel Divinity to see the immediate future and dodge your enemy's attacks "
+"better. For 1 minute, the first attack (except shove) made against you after "
+"your turn suffers disadvantage."
+msgstr ""
+
+msgctxt "DomainInsightForeknowledgeShortTitle"
+msgid "Foreknowledge"
+msgstr ""
+
+msgctxt "DomainInsightForeknowledgeTitle"
+msgid "Channel Divinity: Foreknowledge"
+msgstr ""
+
+msgctxt "DomainInsightInspiredDiplomatDescription"
+msgid ""
+"You always know the odds when choosing between dialog choices that include "
+"an Ability Check (Persuasion, Deception, or Intimidation)."
+msgstr ""
+
+msgctxt "DomainInsightInspiredDiplomatTitle"
+msgid "Inspired Diplomat"
+msgstr ""
+
+msgctxt "DomainLawCommandingPresenceDescription"
+msgid ""
+"Proficient in Intimidation.\n"
+"Advantage on Intimidation checks"
+msgstr ""
+
+msgctxt "DomainLawCommandingPresenceTitle"
+msgid "Commanding Presence"
+msgstr ""
+
+msgctxt "DomainLawDomainSpellsTitle"
+msgid "Law Domain Spells"
+msgstr ""
+
+msgctxt "DomainLawForceOfLawDescription"
+msgid ""
+"Channel Divinity when casting an attack spell to impose disadvantage on your "
+"target's saving throw."
+msgstr ""
+
+msgctxt "DomainLawForceOfLawShortTitle"
+msgid "Force of Law"
+msgstr ""
+
+msgctxt "DomainLawForceOfLawTitle"
+msgid "Channel Divinity: Force of Law"
+msgstr ""
+
+msgctxt "DomainLawHolyRetributionDescription"
+msgid ""
+"When a melee attack damages you, you can use your reaction to Channel "
+"Divinity and strike back using a melee weapon, adding (2d6 + cleric level) "
+"psychic damage."
+msgstr ""
+
+msgctxt "DomainLawHolyRetributionShortTitle"
+msgid "Holy Retribution"
+msgstr ""
+
+msgctxt "DomainLawHolyRetributionTitle"
+msgid "Channel Divinity: Holy Retribution"
+msgstr ""
+
+msgctxt "DomainLawUnyieldingEnforcerDescription"
+msgid "Advantage on rolls to resist being shoved or moved by magical means"
+msgstr ""
+
+msgctxt "DomainLawUnyieldingEnforcerTitle"
+msgid "Unyielding Enforcer"
+msgstr ""
+
+msgctxt "DomainLawWordOfLawDescription"
+msgid "Break the spellcasting concentration of an enemy"
+msgstr ""
+
+msgctxt "DomainLawWordOfLawTitle"
+msgid "Word of the Law"
+msgstr ""
+
+msgctxt "DomainLifeBlessedHealerDescription"
+msgid ""
+"When you cast a spell of 1st level or higher that restores hit points to a "
+"creature other than yourself, you regain hit points equal to (2 x spell "
+"level)."
+msgstr ""
+
+msgctxt "DomainLifeBlessedHealerTitle"
+msgid "Blessed Healer"
+msgstr ""
+
+msgctxt "DomainLifeBonusProficiencyDescription"
+msgid "Proficient with Heavy Armor."
+msgstr ""
+
+msgctxt "DomainLifeBonusProficiencyTitle"
+msgid "Bonus Proficiency"
+msgstr ""
+
+msgctxt "DomainLifeDiscipleOfLifeDescription"
+msgid ""
+"When casting a healing spell, the target regains additional HP equal to (2 x "
+"spell level)."
+msgstr ""
+
+msgctxt "DomainLifeDiscipleOfLifeTitle"
+msgid "Disciple of Life"
+msgstr ""
+
+msgctxt "DomainLifeDomainSpellsTitle"
+msgid "Life Domain Spells"
+msgstr ""
+
+msgctxt "DomainLifePreserveLifeDescription"
+msgid ""
+"Restore hit points (5 x cleric level) to one or more allies within 6 cells, "
+"up to half their hit point maximum."
+msgstr ""
+
+msgctxt "DomainLifePreserveLifeShortTitle"
+msgid "Preserve Life"
+msgstr ""
+
+msgctxt "DomainLifePreserveLifeTitle"
+msgid "Channel Divinity: Preserve Life"
+msgstr ""
+
+msgctxt "DomainOblivionBonusCantripDescription"
+msgid "{0}"
+msgstr ""
+
+msgctxt "DomainOblivionBonusCantripTitle"
+msgid "Bonus Cantrip"
+msgstr ""
+
+msgctxt "DomainOblivionDomainSpellsTitle"
+msgid "Oblivion Domain Spells"
+msgstr ""
+
+msgctxt "DomainOblivionGateKeeperDescription"
+msgid ""
+"As long as you are conscious, you and your fellow party members within 6 "
+"cells have advantage on death saving throws."
+msgstr ""
+
+msgctxt "DomainOblivionGateKeeperTitle"
+msgid "Gate Keeper"
+msgstr ""
+
+msgctxt "DomainOblivionHeraldOfPainDescription"
+msgid ""
+"Channel Divinity to cause pain to enemies within 6 cells. Enemies failing a "
+"Wisdom save receive 1d8 necrotic damage and are poisoned."
+msgstr ""
+
+msgctxt "DomainOblivionHeraldOfPainShortTitle"
+msgid "Herald of Pain"
+msgstr ""
+
+msgctxt "DomainOblivionHeraldOfPainTitle"
+msgid "Channel Divinity: Herald of Pain"
+msgstr ""
+
+msgctxt "DomainOblivionPeacefulRestDescription"
+msgid ""
+"While camping, reduces the chances of being attacked and prevents from being "
+"surprised."
+msgstr ""
+
+msgctxt "DomainOblivionPeacefulRestTitle"
+msgid "Peaceful Rest"
+msgstr ""
+
+msgctxt "DomainSpellsDescription"
+msgid ""
+"In your list and always prepared: \n"
+"{0}"
+msgstr ""
+
+msgctxt "DomainSunBonusCantripDescription"
+msgid "Light"
+msgstr ""
+
+msgctxt "DomainSunBonusCantripTitle"
+msgid "Bonus Cantrip"
+msgstr ""
+
+msgctxt "DomainSunDomainSpellsTitle"
+msgid "Sun Domain Spells"
+msgstr ""
+
+msgctxt "DomainSunHeraldOfTheSunDescription"
+msgid ""
+"Channel Divinity to engulf a visible enemy within 6 cells with radiant "
+"light, causing 1d8 radiant damage + 2 per cleric level (half damage on a "
+"successful Constitution saving throw) and cause the blinded condition for 1 "
+"minute (negated if saving throw was successful)."
+msgstr ""
+
+msgctxt "DomainSunHeraldOfTheSunShortTitle"
+msgid "Herald of the Sun"
+msgstr ""
+
+msgctxt "DomainSunHeraldOfTheSunTitle"
+msgid "Channel Divinity: Herald of the Sun"
+msgstr ""
+
+msgctxt "DomainSunHolyRadianceDescription"
+msgid ""
+"When you cast Sacred Flame, your target has disadvantage on the saving throw."
+msgstr ""
+
+msgctxt "DomainSunHolyRadianceTitle"
+msgid "Holy Radiance"
+msgstr ""
+
+msgctxt "DomainSunIndomitableLightDescription"
+msgid ""
+"Channel divinity to summon a sphere of sunlight, which affects light "
+"sensitive creatures and negates areas of darkness."
+msgstr ""
+
+msgctxt "DomainSunIndomitableLightShortTitle"
+msgid "Indomitable Light"
+msgstr ""
+
+msgctxt "DomainSunIndomitableLightTitle"
+msgid "Channel Divinity: Indomitable Light"
+msgstr ""
+
+msgctxt "DomainSunSoothingHandDescription"
+msgid "Heal an ally and remove one detrimental condition."
+msgstr ""
+
+msgctxt "DomainSunSoothingHandTitle"
+msgid "Soothing Hand"
+msgstr ""
+
+msgctxt "DwarfHillToughnessDescription"
+msgid "+1 Hit Point per level"
+msgstr ""
+
+msgctxt "DwarfHillToughnessTitle"
+msgid "Dwarven Toughness"
+msgstr ""
+
+msgctxt "DwarfLanguagesDescription"
+msgid "Common, Dwarvish"
+msgstr ""
+
+msgctxt "DwarfLanguagesTitle"
+msgid "Languages"
+msgstr ""
+
+msgctxt "DwarfResilienceDescription"
+msgid ""
+"Saving throw advantage against poison\n"
+"Resistance to poison damage"
+msgstr ""
+
+msgctxt "DwarfResilienceTitle"
+msgid "Dwarven Resilience"
+msgstr ""
+
+msgctxt "DwarfSnowEnduranceDescription"
+msgid "+2 to Constitution saving throws."
+msgstr ""
+
+msgctxt "DwarfSnowEnduranceTitle"
+msgid "Snow Dwarf Endurance"
+msgstr ""
+
+msgctxt "DwarfSnowWeaponTrainingDescription"
+msgid "You are proficient with all types of crossbows."
+msgstr ""
+
+msgctxt "DwarfSnowWeaponTrainingTitle"
+msgid "Crossbow Expertise"
+msgstr ""
+
+msgctxt "DwarfWeaponTrainingTitle"
+msgid "Dwarven Combat Training"
+msgstr ""
+
+msgctxt "ElfFeyAncestryDescription"
+msgid ""
+"Saving throw advantage against Charm\n"
+"Immunity to magical sleep"
+msgstr ""
+
+msgctxt "ElfFeyAncestryTitle"
+msgid "Fey Ancestry"
+msgstr ""
+
+msgctxt "ElfHighCastSpellDescription"
+msgid ""
+"Choose one Wizard cantrip, using Intelligence as the spellcasting ability."
+msgstr ""
+
+msgctxt "ElfHighCastSpellTitle"
+msgid "High Elf Cantrip"
+msgstr ""
+
+msgctxt "ElfKeenSensesDescription"
+msgid "Proficient in the Perception skill."
+msgstr ""
+
+msgctxt "ElfKeenSensesTitle"
+msgid "Keen Senses"
+msgstr ""
+
+msgctxt "ElfSylvanLanguagesDescription"
+msgid "Common, Elvish, Dwarvish, and Halfling"
+msgstr ""
+
+msgctxt "ElfSylvanLanguagesTitle"
+msgid "Languages"
+msgstr ""
+
+msgctxt "ElfSylvanSurvivalDescription"
+msgid ""
+"Proficient in the Survival and Athletics skills.\n"
+"Advantage on Survival when hunting"
+msgstr ""
+
+msgctxt "ElfSylvanSurvivalTitle"
+msgid "Sylvan Adaptability"
+msgstr ""
+
+msgctxt "ElfWeaponTrainingTitle"
+msgid "Elf Weapon Training"
+msgstr ""
+
+msgctxt "EquipmentAffinityDoubleCarryingCapacity"
+msgid "Carrying capacity is doubled."
+msgstr ""
+
+msgctxt "FeatGainSingleDescription"
+msgid "Proficiency in one feat of your choice"
+msgstr ""
+
+msgctxt "FeatGainSingleTitle"
+msgid "Bonus Feat"
+msgstr ""
+
+msgctxt "FeatureSetHunterHuntersPreyDescription"
+msgid "Choose one of the following hunting specialties:"
+msgstr ""
+
+msgctxt "FeatureSetHunterHuntersPreyTitle"
+msgid "Hunter's Prey"
+msgstr ""
+
+msgctxt "FighterActionSurgeDescription"
+msgid ""
+"Regain a main action immediately. Take a short or long rest to recover this "
+"power."
+msgstr ""
+
+msgctxt "FighterActionSurgeTitle"
+msgid "Action Surge"
+msgstr ""
+
+msgctxt "FighterArmorProficiencyTitle"
+msgid "Fighter Armor Proficiencies"
+msgstr ""
+
+msgctxt "FighterExtraAttackDescription"
+msgid ""
+"You can attack one more time, per combat turn, when you use the attack or "
+"shove actions."
+msgstr ""
+
+msgctxt "FighterExtraAttackTitle"
+msgid "Extra Attack"
+msgstr ""
+
+msgctxt "FighterFightingStyleDescription"
+msgid "Choose a fighting style as a specialty."
+msgstr ""
+
+msgctxt "FighterFightingStyleTitle"
+msgid "Fighting Style"
+msgstr ""
+
+msgctxt "FighterMartialArchetypesDescription"
+msgid "Select a Martial Archetype."
+msgstr ""
+
+msgctxt "FighterMartialArchetypesTitle"
+msgid "Martial Archetypes"
+msgstr ""
+
+msgctxt "FighterSecondWindDescription"
+msgid "Regain (1d10 + level) HP as a bonus action."
+msgstr ""
+
+msgctxt "FighterSecondWindTitle"
+msgid "Second Wind"
+msgstr ""
+
+msgctxt "FighterSkillPointsTitle"
+msgid "Fighter Skills"
+msgstr ""
+
+msgctxt "FighterWeaponProficiencyTitle"
+msgid "Fighter Weapon Proficiencies"
+msgstr ""
+
+msgctxt "FightingStyleGreatWeaponRerollDescription"
+msgid ""
+"{0} uses his Great Weapons fighting style to reroll a {1} damage die from {2}"
+" to {3}."
+msgstr ""
+
+msgctxt "GenericCastSpellDescription"
+msgid "Can cast spells from the {0} list"
+msgstr ""
+
+msgctxt "GenericCastSpellTitle"
+msgid "Spellcasting"
+msgstr ""
+
+msgctxt "HalfElfAbilityScoreIncreaseDescription"
+msgid "Charisma +2, increase 2 other scores by 1 point each."
+msgstr ""
+
+msgctxt "HalfElfLanguagesDescription"
+msgid "Common, Elvish, and one language of your choice"
+msgstr ""
+
+msgctxt "HalfElfLanguagesTitle"
+msgid "Languages"
+msgstr ""
+
+msgctxt "HalflingBraveTitle"
+msgid "Brave"
+msgstr ""
+
+msgctxt "HalflingIslandLanguagesDescription"
+msgid "Common, Halfling, and one language of your choice"
+msgstr ""
+
+msgctxt "HalflingIslandLanguagesTitle"
+msgid "Languages"
+msgstr ""
+
+msgctxt "HalflingLuckyDescription"
+msgid ""
+"When you roll a 1 on an attack roll, ability check, or saving throw, reroll "
+"and use the new roll."
+msgstr ""
+
+msgctxt "HalflingLuckyRerollDescription"
+msgid "{0} is a lucky Halfling and rerolls an awful {1} roll from {2} to {3}."
+msgstr ""
+
+msgctxt "HalflingLuckyTitle"
+msgid "Lucky"
+msgstr ""
+
+msgctxt "HalflingMarshHidingTitle"
+msgid "Marsh Halfling Hiding"
+msgstr ""
+
+msgctxt "HalflingMarshLanguagesDescription"
+msgid "Common, Halfling"
+msgstr ""
+
+msgctxt "HalflingMarshLanguagesTitle"
+msgid "Languages"
+msgstr ""
+
+msgctxt "HalflingMarshTerrainDescription"
+msgid "You are adept at traveling in swamp terrain."
+msgstr ""
+
+msgctxt "HalflingMarshTerrainTitle"
+msgid "Marsh Native"
+msgstr ""
+
+msgctxt "HalflingNimblenessDescription"
+msgid ""
+"You can move through the space of any creature that is of a larger size than "
+"you."
+msgstr ""
+
+msgctxt "HalflingNimblenessTitle"
+msgid "Halfling Nimbleness"
+msgstr ""
+
+msgctxt "HalflingRopedancingDescription"
+msgid "Advantage on Dexterity checks (Acrobatics)"
+msgstr ""
+
+msgctxt "HalflingRopedancingTitle"
+msgid "Rope Dancing"
+msgstr ""
+
+msgctxt "HealBackFormat"
+msgid "All received \"{0}\" damage actually heals the creature."
+msgstr ""
+
+msgctxt "HealBackUpToFormat"
+msgid ""
+"All received \"{0}\" damage actually heals the creature up to {1} hit points."
+msgstr ""
+
+msgctxt "HealingModifierNotHitPointGainDescription"
+msgid "Cannot gain any hit points"
+msgstr ""
+
+msgctxt "HighElfLanguagesDescription"
+msgid "Common, Elvish, and one language of your choice"
+msgstr ""
+
+msgctxt "HighElfLanguagesTitle"
+msgid "Languages"
+msgstr ""
+
+msgctxt "HumanAbilityScoreChoiceDescription"
+msgid ""
+"You increase all your ability scores by 1 point, or increase 2 scores by 1 "
+"point each and gain a bonus skill and feat."
+msgstr ""
+
+msgctxt "HumanAbilityScoreChoiceTitle"
+msgid "Ability Score Increase Choice"
+msgstr ""
+
+msgctxt "HumanLanguagesDescription"
+msgid "Common and one language of your choice."
+msgstr ""
+
+msgctxt "HumanLanguagesTitle"
+msgid "Languages"
+msgstr ""
+
+msgctxt "ImmuneSpellsPluralFormat"
+msgid "Immune to spells: {0}"
+msgstr ""
+
+msgctxt "ImmuneSpellsSingleFormat"
+msgid "Immune to the {0} spell"
+msgstr ""
+
+msgctxt "LawkeeperFeatureDescription"
+msgid "You gain easier access to information and people in official positions."
+msgstr ""
+
+msgctxt "LawkeeperFeatureTitle"
+msgid "Shield of the Principality"
+msgstr ""
+
+msgctxt "LawkeeperSkillsDescription"
+msgid "Proficient in Perception and Intimidation."
+msgstr ""
+
+msgctxt "LawkeeperSkillsMartialDescription"
+msgid "Proficient with martial weapons."
+msgstr ""
+
+msgctxt "LawkeeperSkillsMartialTitle"
+msgid "Enforcer"
+msgstr ""
+
+msgctxt "LawkeeperSkillsTitle"
+msgid "Detective"
+msgstr ""
+
+msgctxt "ListSeparatorFinalOrTitle"
+msgid "or "
+msgstr ""
+
+msgctxt "ListSeparatorFinalTitle"
+msgid "and "
+msgstr ""
+
+msgctxt "ListSeparatorTitle"
+msgid ", "
+msgstr ""
+
+msgctxt "LowlifeFeatureDescription"
+msgid "You can hear about secondary quests that involve criminal activity."
+msgstr ""
+
+msgctxt "LowlifeFeatureTitle"
+msgid "Underground Network"
+msgstr ""
+
+msgctxt "LowlifeSkillsDescription"
+msgid "Proficient in Sleight of Hand, Stealth, and Deception."
+msgstr ""
+
+msgctxt "LowlifeSkillsTitle"
+msgid "Cutpurse"
+msgstr ""
+
+msgctxt "LowlifeSkillsToolsDescription"
+msgid "Proficient with thieves' tools."
+msgstr ""
+
+msgctxt "LowlifeSkillsToolsTitle"
+msgid "Burglary"
+msgstr ""
+
+msgctxt "MagicAffinityTraditionLoreMasterSpellAcademicDescription"
+msgid "You learn one additional spell each time you gain a level."
+msgstr ""
+
+msgctxt "MagicAffinityTraditionLoreMasterSpellAcademicTitle"
+msgid "Spell Academic"
+msgstr ""
+
+msgctxt "MagicWeapon2Description"
+msgid "Magical attack, +2 to attack and damage rolls"
+msgstr ""
+
+msgctxt "MagicWeapon3Description"
+msgid "Magical attack, +3 to attack and damage rolls"
+msgstr ""
+
+msgctxt "MagicWeaponDescription"
+msgid "Magical attack, +1 to attack and damage rolls"
+msgstr ""
+
+msgctxt "MartialChampionImprovedCriticalDescription"
+msgid "Your weapon attacks score a critical hit on a roll of 19 or 20."
+msgstr ""
+
+msgctxt "MartialChampionImprovedCriticalTitle"
+msgid "Improved Critical"
+msgstr ""
+
+msgctxt "MartialMountainerShieldBashDescription"
+msgid "Advantage on shove attempts when using a shield."
+msgstr ""
+
+msgctxt "MartialMountainerShieldBashTitle"
+msgid "Shield Swipe"
+msgstr ""
+
+msgctxt "MartialMountainerTunnelFighterDescription"
+msgid ""
+"While using a shield, gain +2 AC when you have a wall on one of your four "
+"sides (no diagonals)."
+msgstr ""
+
+msgctxt "MartialMountainerTunnelFighterTitle"
+msgid "Tunnel Fighter"
+msgstr ""
+
+msgctxt "MartialSpellBladeMagicWeaponDescription"
+msgid ""
+"Your weapon attacks count as magical against creatures that are resistant or "
+"immune to non-magical attacks."
+msgstr ""
+
+msgctxt "MartialSpellBladeMagicWeaponTitle"
+msgid "Magic Weapon"
+msgstr ""
+
+msgctxt "MartialSpellbladeSpellcastingDescription"
+msgid ""
+"Cast wizard spells and cantrips of the conjuration, evocation, "
+"transmutation, and enchantment schools."
+msgstr ""
+
+msgctxt "MartialSpellbladeSpellcastingTitle"
+msgid "Spellcasting"
+msgstr ""
+
+msgctxt "MoveBurrowDescription"
+msgid "Burrow {0}"
+msgstr ""
+
+msgctxt "MoveClimbDescription"
+msgid "Climb {0}"
+msgstr ""
+
+msgctxt "MoveDescription"
+msgid "Base walking speed in cells."
+msgstr ""
+
+msgctxt "MoveFlyDescription"
+msgid "Fly {0}"
+msgstr ""
+
+msgctxt "MoveIncorporealDescription"
+msgid "Incorporeal {0}"
+msgstr ""
+
+msgctxt "MoveSwimDescription"
+msgid "Swim {0}"
+msgstr ""
+
+msgctxt "MoveTitle"
+msgid "Move"
+msgstr ""
+
+msgctxt "MoveWalkDescription"
+msgid "{0}"
+msgstr ""
+
+msgctxt "MyselfFamilyRestrictionsFormat"
+msgid "If the creature is: {0}"
+msgstr ""
+
+msgctxt "NoContentTitle"
+msgid "None"
+msgstr ""
+
+msgctxt "NullifiedByFormat"
+msgid "Unless attacker has: {0}"
+msgstr ""
+
+msgctxt "PaladinArmorProficiencyTitle"
+msgid "Paladin Armor Proficiencies"
+msgstr ""
+
+msgctxt "PaladinCureDiseaseDescription"
+msgid "Spend 5 points from your healing pool to cure one disease."
+msgstr ""
+
+msgctxt "PaladinCureDiseaseTitle"
+msgid "Cure Disease"
+msgstr ""
+
+msgctxt "PaladinDivineSenseDescription"
+msgid "Reveals celestials, fiends, and undead."
+msgstr ""
+
+msgctxt "PaladinDivineSenseTitle"
+msgid "Divine Sense"
+msgstr ""
+
+msgctxt "PaladinDivineSmiteDescription"
+msgid ""
+"When you hit a creature with a melee weapon, you can spend one spell slot to "
+"deal 2d8 additional radiant damage. +1d8 per slot level above 1st, +1d8 when "
+"hitting an undead or a fiend."
+msgstr ""
+
+msgctxt "PaladinDivineSmiteTitle"
+msgid "Divine Smite"
+msgstr ""
+
+msgctxt "PaladinHealingPoolDescription"
+msgid "A pool of healing power - 5 points per paladin level."
+msgstr ""
+
+msgctxt "PaladinHealingPoolTitle"
+msgid "Healing Pool"
+msgstr ""
+
+msgctxt "PaladinLayonHandsDescription"
+msgid "Spend points from your healing pool to restore lost HP."
+msgstr ""
+
+msgctxt "PaladinLayonHandsHyeronimusDescription"
+msgid "Restores a large number of lost HP."
+msgstr ""
+
+msgctxt "PaladinLayonHandsTitle"
+msgid "Lay on Hands"
+msgstr ""
+
+msgctxt "PaladinNeutralizePoisonDescription"
+msgid ""
+"Spend 5 points from your Lay on Hands healing pool to neutralize one poison."
+msgstr ""
+
+msgctxt "PaladinNeutralizePoisonTitle"
+msgid "Neutralize Poison"
+msgstr ""
+
+msgctxt "PaladinSacredOathDescription"
+msgid "Select and swear the sacred oath that binds you as a paladin forever!"
+msgstr ""
+
+msgctxt "PaladinSacredOathTitle"
+msgid "Sacred Oaths"
+msgstr ""
+
+msgctxt "PaladinSkillsTitle"
+msgid "Paladin Skills"
+msgstr ""
+
+msgctxt "PaladinSpellcastingTitle"
+msgid "Paladin Spellcasting"
+msgstr ""
+
+msgctxt "PaladinWeaponProficiencyTitle"
+msgid "Paladin Weapon Proficiencies"
+msgstr ""
+
+msgctxt "PerceptionAffinityDivinelyRevealedDescription"
+msgid "This creature's type and position are revealed."
+msgstr ""
+
+msgctxt "PhilosopherFeatureDescription"
+msgid ""
+"You collect plants and craft potions faster than anyone who has not ventured "
+"outside a workshop."
+msgstr ""
+
+msgctxt "PhilosopherFeatureTitle"
+msgid "Herbalist"
+msgstr ""
+
+msgctxt "PhilosopherSkillsDescription"
+msgid "Proficient in Medicine and Persuasion."
+msgstr ""
+
+msgctxt "PhilosopherSkillsTitle"
+msgid "Physician"
+msgstr ""
+
+msgctxt "PhilosopherToolsDescription"
+msgid "Proficient with herbalism kit."
+msgstr ""
+
+msgctxt "PhilosopherToolsTitle"
+msgid "Alchemist"
+msgstr ""
+
+msgctxt "PowerChannelDivinitySubtitle"
+msgid "Channel Divinity"
+msgstr ""
+
+msgctxt "PowerOathOfDevotionSacredWeaponDescription"
+msgid ""
+"Channel Divinity to bless one weapon. For 1 minute, add your Charisma "
+"modifier to hit with that weapon (minimum +1). The weapon also emits bright "
+"light over 4 cells and dim light over 4 more cells, and its attacks count as "
+"magical."
+msgstr ""
+
+msgctxt "PowerOathOfDevotionSacredWeaponShortTitle"
+msgid "Sacred Weapon"
+msgstr ""
+
+msgctxt "PowerOathOfDevotionSacredWeaponTitle"
+msgid "Channel Divinity: Sacred Weapon"
+msgstr ""
+
+msgctxt "PowerOathOfDevotionTurnUnholyDescription"
+msgid ""
+"Channel Divinity to force fiends and undead within 6 cells who can see you "
+"to flee unless they make a successful Wisdom saving throw."
+msgstr ""
+
+msgctxt "PowerOathOfDevotionTurnUnholyShortTitle"
+msgid "Turn the Unholy"
+msgstr ""
+
+msgctxt "PowerOathOfDevotionTurnUnholyTitle"
+msgid "Channel Divinity: Turn the Unholy"
+msgstr ""
+
+msgctxt "PowerOathOfMotherlandFieryPresenceDescription"
+msgid ""
+"Channel Divinity to blind opponents within 12 cells who fail a Dexterity "
+"save. Creatures with darkvision or better sight in darkness have "
+"disadvantage. Blindness lasts 1d4 turns."
+msgstr ""
+
+msgctxt "PowerOathOfMotherlandFieryPresenceShortTitle"
+msgid "Fiery Presence"
+msgstr ""
+
+msgctxt "PowerOathOfMotherlandFieryPresenceTitle"
+msgid "Channel Divinity: Fiery Presence"
+msgstr ""
+
+msgctxt "PowerOathOfMotherlandFieryWrathDescription"
+msgid ""
+"Channel Divinity to target one creature within 12 cells, dealing (2d6 + "
+"paladin level) fire damage and setting the target on fire. It can make a DC "
+"10 Dexterity check to put out the fire, or sustain 1d6 more fire damage per "
+"turn for one minute."
+msgstr ""
+
+msgctxt "PowerOathOfMotherlandFieryWrathShortTitle"
+msgid "Fiery Wrath"
+msgstr ""
+
+msgctxt "PowerOathOfMotherlandFieryWrathTitle"
+msgid "Channel Divinity: Fiery Wrath"
+msgstr ""
+
+msgctxt "PowerOathOfTirmarGoldenSpeechDescription"
+msgid ""
+"Channel Divinity to gain advantage on Persuasion and Intimidation checks for "
+"one hour."
+msgstr ""
+
+msgctxt "PowerOathOfTirmarGoldenSpeechShortTitle"
+msgid "Golden Speech"
+msgstr ""
+
+msgctxt "PowerOathOfTirmarGoldenSpeechTitle"
+msgid "Channel Divinity: Golden Speech"
+msgstr ""
+
+msgctxt "PowerOathOfTirmarSmiteTheHiddenDescription"
+msgid ""
+"Channel Divinity to deal 1d6 additional radiant damage on attacks which hit "
+"opponents with either natural shapeshifting or Darkvision (2d6 if both). The "
+"effect lasts for 1 minutes."
+msgstr ""
+
+msgctxt "PowerOathOfTirmarSmiteTheHiddenShortTitle"
+msgid "Scourge of the Hidden"
+msgstr ""
+
+msgctxt "PowerOathOfTirmarSmiteTheHiddenTitle"
+msgid "Channel Divinity: Scourge of the Hidden"
+msgstr ""
+
+msgctxt "PowerReckless_Description"
+msgid ""
+"Advantage on melee attack rolls, but enemies also have advantage on attack "
+"rolls against a reckless creature."
+msgstr ""
+
+msgctxt "PowerReckless_Title"
+msgid "Reckless"
+msgstr ""
+
+msgctxt "PowerStandardSubtitle"
+msgid "Power"
+msgstr ""
+
+msgctxt "PowerTraditionGreenmageMagicalArrowDescription"
+msgid ""
+"Your arrow can transform into a vine on impact. The target must make a "
+"Strength saving throw or be restrained until the end of your next turn. You "
+"can use this feature a number of times equal to your Intelligence modifier ("
+"minimum 1). All uses recharge at the end of a long rest."
+msgstr ""
+
+msgctxt "PowerTraditionGreenmageMagicalArrowTitle"
+msgid "Entangling Shot"
+msgstr ""
+
+msgctxt "PowerTraditionShockArcanistArcaneFuryDescription"
+msgid ""
+"Add your proficiency bonus and INT bonus to your evocation spell damage for "
+"1 minute. Recharges after a long rest."
+msgstr ""
+
+msgctxt "PowerTraditionShockArcanistArcaneFuryTitle"
+msgid "Arcane Fury"
+msgstr ""
+
+msgctxt "ProficiencyMarksmanToolChoiceDescription"
+msgid "Herbalism kit or poisoner's kit."
+msgstr ""
+
+msgctxt "ProficiencyMarksmanToolChoiceTitle"
+msgid "Additional Proficiencies"
+msgstr ""
+
+msgctxt "ProficiencyOathOfTirmarBonusLanguageDescription"
+msgid "When you take the oath of Tirmar, you acquire the Tirmarian language."
+msgstr ""
+
+msgctxt "ProficiencyOathOfTirmarBonusLanguageTitle"
+msgid "Bonus Language"
+msgstr ""
+
+msgctxt "RangerArchetypeDescription"
+msgid "Select a Ranger Archetype that will guide you in your travels."
+msgstr ""
+
+msgctxt "RangerArchetypeTitle"
+msgid "Ranger Archetypes"
+msgstr ""
+
+msgctxt "RangerArmorProficiencyTitle"
+msgid "Ranger Armor Proficiencies"
+msgstr ""
+
+msgctxt "RangerFavoredEnemyDescription"
+msgid ""
+"Gain advantage on ability checks towards this creature type, and additional "
+"damage against it equal to your knowledge level."
+msgstr ""
+
+msgctxt "RangerFavoredEnemyTitle"
+msgid "Favored Enemy"
+msgstr ""
+
+msgctxt "RangerNaturalExplorerByTypeDescription"
+msgid ""
+"You are adept at living and traveling in a certain type of terrain: {0}."
+msgstr ""
+
+msgctxt "RangerNaturalExplorerByTypeTitle"
+msgid "Natural Explorer {0}"
+msgstr ""
+
+msgctxt "RangerNaturalExplorerDescription"
+msgid "You are adept at living and traveling in a certain type of terrain."
+msgstr ""
+
+msgctxt "RangerNaturalExplorerTitle"
+msgid "Natural Explorer"
+msgstr ""
+
+msgctxt "RangerPrimevalAwarenessDescription"
+msgid "Detects the presence of certain creature types in the location."
+msgstr ""
+
+msgctxt "RangerPrimevalAwarenessTitle"
+msgid "Primeval Awareness"
+msgstr ""
+
+msgctxt "RangerShadowTamerDarkSlayerDescription"
+msgid ""
+"When attacking a creature with superior darkvision with a weapon, you add "
+"your proficiency bonus to your damage."
+msgstr ""
+
+msgctxt "RangerShadowTamerDarkSlayerTitle"
+msgid "Dark Slayer"
+msgstr ""
+
+msgctxt "RangerShadowTamerTunnelWisdomDescription"
+msgid ""
+"When in dim light or darkness, you gain advantage on Dexterity saving throws."
+msgstr ""
+
+msgctxt "RangerShadowTamerTunnelWisdomTitle"
+msgid "Tunnel Wisdom"
+msgstr ""
+
+msgctxt "RangerSkillsTitle"
+msgid "Ranger Skills"
+msgstr ""
+
+msgctxt "RangerSpellcastingTitle"
+msgid "Ranger Spellcasting"
+msgstr ""
+
+msgctxt "RangerWeaponProficiencyTitle"
+msgid "Ranger Weapon Proficiencies"
+msgstr ""
+
+msgctxt "RitualCastingPreparedDescription"
+msgid ""
+"You can cast a spell as a ritual if that spell has the ritual tag and you "
+"have the spell prepared."
+msgstr ""
+
+msgctxt "RitualCastingPreparedTitle"
+msgid "Ritual Casting"
+msgstr ""
+
+msgctxt "RitualCastingSpellbookDescription"
+msgid ""
+"You can cast a spell as a ritual if the spell has the ritual tag and you "
+"have it in your spellbook. You don't need to have the spell prepared."
+msgstr ""
+
+msgctxt "RitualCastingSpellbookTitle"
+msgid "Ritual Casting"
+msgstr ""
+
+msgctxt "RogueArmorProficiencyTitle"
+msgid "Rogue Armor Proficiencies"
+msgstr ""
+
+msgctxt "RogueCunningActionDescription"
+msgid ""
+"You can take a bonus action on each of your turns in combat. This action can "
+"be used only to take the Dash, Disengage, or Hide action."
+msgstr ""
+
+msgctxt "RogueCunningActionTitle"
+msgid "Cunning Action"
+msgstr ""
+
+msgctxt "RogueEvasionTitle"
+msgid "Evasion"
+msgstr ""
+
+msgctxt "RogueExpertiseDescription"
+msgid "Select 2 proficient skills or tools to double their proficiency bonus."
+msgstr ""
+
+msgctxt "RogueExpertiseTitle"
+msgid "Expertise"
+msgstr ""
+
+msgctxt "RogueRoguishArchetypesDescription"
+msgid ""
+"Select a Roguish Archetype that will steer your talents in varying "
+"directions."
+msgstr ""
+
+msgctxt "RogueRoguishArchetypesTitle"
+msgid "Roguish Archetypes"
+msgstr ""
+
+msgctxt "RogueSkillPointsTitle"
+msgid "Rogue Skills"
+msgstr ""
+
+msgctxt "RogueSneakAttackDescription"
+msgid ""
+"1d6 extra damage (+1d6 every 2 levels) to one creature you hit with "
+"advantage using a finesse or ranged weapon, once per turn. No need for "
+"advantage if an active ally is next to the target."
+msgstr ""
+
+msgctxt "RogueSneakAttackTitle"
+msgid "Sneak Attack"
+msgstr ""
+
+msgctxt "RogueToolsTitle"
+msgid "Rogue Tools"
+msgstr ""
+
+msgctxt "RogueWeaponProficiencyTitle"
+msgid "Rogue Weapon Proficiencies"
+msgstr ""
+
+msgctxt "RoguishDarkweaverBonusProficiencyDescription"
+msgid "Proficient with the poisoner's kit."
+msgstr ""
+
+msgctxt "RoguishDarkweaverBonusProficiencyTitle"
+msgid "Bonus Proficiency"
+msgstr ""
+
+msgctxt "RoguishDarkweaverPredatorDescription"
+msgid ""
+"When hitting an enemy on lower ground with a ranged weapon, add your "
+"proficiency bonus to the damage."
+msgstr ""
+
+msgctxt "RoguishDarkweaverPredatorTitle"
+msgid "Predator"
+msgstr ""
+
+msgctxt "RoguishDarkweaverSpiderOnWallDescription"
+msgid ""
+"Climbing no longer costs you extra movement, and difficult climb surfaces "
+"are considered normal for you."
+msgstr ""
+
+msgctxt "RoguishDarkweaverSpiderOnWallTitle"
+msgid "Spider on Wall"
+msgstr ""
+
+msgctxt "RoguishShadowcasterShadowDodgeDescription"
+msgid ""
+"As a bonus action, teleport to a cell you can see within 5 cells. Recharges "
+"after a rest."
+msgstr ""
+
+msgctxt "RoguishShadowcasterShadowDodgeTitle"
+msgid "Shadow Dodge"
+msgstr ""
+
+msgctxt "RoguishShadowcasterSpellcastingDescription"
+msgid ""
+"Cast wizard spells and cantrips from the divination, illusion, necromancy, "
+"and abjuration schools."
+msgstr ""
+
+msgctxt "RoguishShadowcasterSpellcastingTitle"
+msgid "Spellcasting"
+msgstr ""
+
+msgctxt "RoguishThiefFastHandsDescription"
+msgid "Cunning Action allows you to take the Use an Object action."
+msgstr ""
+
+msgctxt "RoguishThiefFastHandsTitle"
+msgid "Fast Hands"
+msgstr ""
+
+msgctxt "RoguishThiefSecondStoryDescription"
+msgid ""
+"Climbing no longer costs you extra movement, difficult climb surfaces are "
+"considered normal for you, and you can jump longer distances."
+msgstr ""
+
+msgctxt "RoguishThiefSecondStoryTitle"
+msgid "Second-Story Work"
+msgstr ""
+
+msgctxt "SavingThrowAdvantageFormat"
+msgid "Advantage on {0} saving throws"
+msgstr ""
+
+msgctxt "SavingThrowAutomaticallyFailedFormat"
+msgid "Automatically fails {0} saving throws"
+msgstr ""
+
+msgctxt "SavingThrowBonusFormat"
+msgid "{0} on {1} saving throws"
+msgstr ""
+
+msgctxt "SavingThrowBonusWithDiceFormat"
+msgid "{0}{1} on {2} saving throws"
+msgstr ""
+
+msgctxt "SavingThrowDisadvantageFormat"
+msgid "Disadvantage on {0} saving throws"
+msgstr ""
+
+msgctxt "SavingThrowProficiencyDescription"
+msgid "{0}"
+msgstr ""
+
+msgctxt "SavingThrowProficiencyTitle"
+msgid "Saving Throw Proficiencies"
+msgstr ""
+
+msgctxt "SavingThrowSpecialHalfDamageFormat"
+msgid ""
+"When you have to make a {0} saving throw to take half damage from an effect, "
+"instead you take no damage if you succeed on the saving throw, and only half "
+"damage if you fail."
+msgstr ""
+
+msgctxt "SellswordFeatureDescription"
+msgid "Advantage when talking to guards, soldiers, and officers"
+msgstr ""
+
+msgctxt "SellswordFeatureTitle"
+msgid "Warrior"
+msgstr ""
+
+msgctxt "SellswordSkillsArmorDescription"
+msgid "Proficient with medium armor."
+msgstr ""
+
+msgctxt "SellswordSkillsArmorTitle"
+msgid "Armored"
+msgstr ""
+
+msgctxt "SellswordSkillsDescription"
+msgid "Proficient in Athletics and Intimidation."
+msgstr ""
+
+msgctxt "SellswordSkillsTitle"
+msgid "Soldiering"
+msgstr ""
+
+msgctxt "SkillGainChoicesPluralDescription"
+msgid "Choose {0} of these skills: {1}"
+msgstr ""
+
+msgctxt "SkillGainChoicesSingleDescription"
+msgid "Choose one of these skills: {0}"
+msgstr ""
+
+msgctxt "SkillGainDoubleDescription"
+msgid "Choose any 2 skills."
+msgstr ""
+
+msgctxt "SkillGainDoubleTitle"
+msgid "Bonus Skills"
+msgstr ""
+
+msgctxt "SkillGainSingleDescription"
+msgid "Choose any skill"
+msgstr ""
+
+msgctxt "SkillGainSingleTitle"
+msgid "Bonus Skill"
+msgstr ""
+
+msgctxt "SkillProficiencyPluralDescription"
+msgid "Proficient with these skills: {0}"
+msgstr ""
+
+msgctxt "SkillProficiencySingleDescription"
+msgid "Proficiency with this skill: {0}"
+msgstr ""
+
+msgctxt "SkillProficiencyTitle"
+msgid "Skills: {0}"
+msgstr ""
+
+msgctxt "SocialAffinityAdvantageFormat"
+msgid "Advantage on \"{0}\" checks towards \"{1}\" organizations"
+msgstr ""
+
+msgctxt "SocialAffinityDisadvantageFormat"
+msgid "Disadvantage on \"{0}\" checks towards \"{1}\" organizations"
+msgstr ""
+
+msgctxt "Sorak_Saboteur_Immunity_Description"
+msgid "This kind of Sorr-Akkath seems able to ignore its sensitivity to light."
+msgstr ""
+
+msgctxt "Sorak_Saboteur_Immunity_Title"
+msgid "Immune to Light Sensitivity"
+msgstr ""
+
+msgctxt "SorakCallOfTheNight_Description"
+msgid "Regain 2d8 hit points instantly"
+msgstr ""
+
+msgctxt "SorakCallOfTheNight_Title"
+msgid "Call of the Night"
+msgstr ""
+
+msgctxt "SorakCursedBreath_Description"
+msgid "Remove a beneficial condition from an enemy."
+msgstr ""
+
+msgctxt "SorakCursedBreath_Title"
+msgid "Cursed Breath"
+msgstr ""
+
+msgctxt "SorakDoomLaughter_Condition_Description"
+msgid ""
+"Vulnerable to poison and piercing damage until the end of the next turn."
+msgstr ""
+
+msgctxt "SorakDoomLaughter_Condition_Title"
+msgid "Doomed"
+msgstr ""
+
+msgctxt "SorakDoomLaughter_Description"
+msgid "Curse all enemies in neighboring cells to suffer more damage."
+msgstr ""
+
+msgctxt "SorakDoomLaughter_Title"
+msgid "Doom Laughter"
+msgstr ""
+
+msgctxt "SorakShadowEscape_Description"
+msgid "Teleport up to 5 cells away."
+msgstr ""
+
+msgctxt "SorakShadowEscape_Title"
+msgid "Shadow Escape"
+msgstr ""
+
+msgctxt "SorakShadowMurder_Condition_Description"
+msgid "Invisible and ready to perform a deadly attack."
+msgstr ""
+
+msgctxt "SorakShadowMurder_Condition_Title"
+msgid "Shadow Murder"
+msgstr ""
+
+msgctxt "SorakShadowMurder_Description"
+msgid "Use Shadow Murder."
+msgstr ""
+
+msgctxt "SorakShadowMurder_Title"
+msgid "Shadow Murder"
+msgstr ""
+
+msgctxt "SorakShriek_Description"
+msgid "A terrifying shriek that strikes fear into the hearts of men."
+msgstr ""
+
+msgctxt "SorakShriek_Title"
+msgid "Shriek"
+msgstr ""
+
+msgctxt "SorakTouchOfDarkness_Description"
+msgid "A touch of this Sorak causes necrotic damage!"
+msgstr ""
+
+msgctxt "SorakTouchOfDarkness_Title"
+msgid "Touch of Darkness"
+msgstr ""
+
+msgctxt "SorakTranceOfSorrtarr_Condition_Description"
+msgid "Immune to Light Sensitivity."
+msgstr ""
+
+msgctxt "SorakTranceOfSorrtarr_Condition_Title"
+msgid "Trance of Sorr-Tarr"
+msgstr ""
+
+msgctxt "SorakTranceOfSorrtarr_Description"
+msgid "Use Trance of Sorr-Tarr."
+msgstr ""
+
+msgctxt "SorakTranceOfSorrtarr_Title"
+msgid "Trance of Sorr-Tarr"
+msgstr ""
+
+msgctxt "SpellPowerDescription"
+msgid "Can cast the {0} spell {1}"
+msgstr ""
+
+msgctxt "SpyFeatureDescription"
+msgid ""
+"You've seen enough espionage to recognize a fellow spy when you see one.\n"
+"You can communicate secretly with other spies."
+msgstr ""
+
+msgctxt "SpyFeatureTitle"
+msgid "Tradecraft"
+msgstr ""
+
+msgctxt "SpyLanguageDescription"
+msgid ""
+"You learned a number of codes used by intelligence organizations in the "
+"Eastern Kingdoms, and are able to decipher most of them."
+msgstr ""
+
+msgctxt "SpyLanguageTitle"
+msgid "Spy Cypher"
+msgstr ""
+
+msgctxt "SpySkillsDescription"
+msgid "Proficient in Stealth and Deception."
+msgstr ""
+
+msgctxt "SpySkillsTitle"
+msgid "Spycraft"
+msgstr ""
+
+msgctxt "SpySkillsToolsDescription"
+msgid "Proficient with Nature and poisoner's kit."
+msgstr ""
+
+msgctxt "SpySkillsToolsTitle"
+msgid "Rough Diplomacy"
+msgstr ""
+
+msgctxt "SylvanMoveSpeedDescription"
+msgid "Your base walking speed is 7 cells."
+msgstr ""
+
+msgctxt "SylvanMoveSpeedTitle"
+msgid "Sylvan Swiftness"
+msgstr ""
+
+msgctxt "ToolProficiencyPluralDescription"
+msgid "Proficient with these tools: {0}"
+msgstr ""
+
+msgctxt "ToolProficiencyPluralShortDescription"
+msgid "{0}"
+msgstr ""
+
+msgctxt "ToolProficiencySingleDescription"
+msgid "Proficiency with this tool: {0}"
+msgstr ""
+
+msgctxt "ToolProficiencySingleShortDescription"
+msgid "{0}"
+msgstr ""
+
+msgctxt "ToolProficiencyTitle"
+msgid "Tools: {0}"
+msgstr ""
+
+msgctxt "TraditionGreenmageGreenMagicDescription"
+msgid ""
+"Spells from the Green Magic list are considered wizard spells for you: {0}"
+msgstr ""
+
+msgctxt "TraditionGreenmageGreenMagicTitle"
+msgid "Green Magic"
+msgstr ""
+
+msgctxt "TraditionGreenmageWardenOfTheForestDescription"
+msgid ""
+"Proficiency: Light armor\n"
+"\n"
+"Proficiency: Shortbow\n"
+"Fighting Style: Archery\n"
+"\n"
+"Natural Explorer: You benefit from the same advantages as Rangers when in a "
+"forest environment."
+msgstr ""
+
+msgctxt "TraditionGreenmageWardenOfTheForestTitle"
+msgid "Warden of the Forest"
+msgstr ""
+
+msgctxt "TraditionLoremasterKeenMindDescription"
+msgid ""
+"Advantage on Arcana, History, and Investigation ability checks\n"
+"Advantage to copy scrolls to your spellbook\n"
+"Scroll and potion crafting costs and times are halved"
+msgstr ""
+
+msgctxt "TraditionLoremasterKeenMindTitle"
+msgid "Keen Mind"
+msgstr ""
+
+msgctxt "TraditionSavantDescription"
+msgid ""
+"When you select this school at 2nd level, the gold and time required to copy "
+"a spell of the {0} school into your spellbook are halved. In addition, you "
+"spend half the normal time to craft potions, scrolls, or other items."
+msgstr ""
+
+msgctxt "TraditionSavantTitle"
+msgid "{0} Savant"
+msgstr ""
+
+msgctxt "TraditionSavantVoyelDescription"
+msgid ""
+"Beginning when you select this school at 2nd level, the gold and time you "
+"must spend to copy {0} spells into your spellbook is halved."
+msgstr ""
+
+msgctxt "TraditionShockArcanistArcaneWarfareDescription"
+msgid ""
+"When casting spells from the War list, they count as being cast at one slot "
+"level higher than the one you actually use: {0}."
+msgstr ""
+
+msgctxt "TraditionShockArcanistArcaneWarfareTitle"
+msgid "Arcane Warfare"
+msgstr ""
+
+msgctxt "UncannyDodgeDescription"
+msgid ""
+"When an attacker that you can see hits you with an attack, you can use your "
+"reaction to halve the attack's damage."
+msgstr ""
+
+msgctxt "UncannyDodgeTitle"
+msgid "Uncanny Dodge"
+msgstr ""
+
+msgctxt "VisionBlindsightDescription"
+msgid "TBD"
+msgstr ""
+
+msgctxt "VisionBlindsightTitle"
+msgid "Blindsight"
+msgstr ""
+
+msgctxt "VisionDarkvisionDescription"
+msgid "See normally in dim light, and in natural darkness as if in dim light."
+msgstr ""
+
+msgctxt "VisionDarkvisionTitle"
+msgid "Darkvision"
+msgstr ""
+
+msgctxt "VisionDetectInvisibilityDescription"
+msgid "The creature can see invisible creatures and objects."
+msgstr ""
+
+msgctxt "VisionDetectInvisibilityTitle"
+msgid "See Invisibility"
+msgstr ""
+
+msgctxt "VisionNormalVisionDescription"
+msgid "Vision is normal and subject to standard lighting conditions."
+msgstr ""
+
+msgctxt "VisionNormalVisionTitle"
+msgid "Normal Vision"
+msgstr ""
+
+msgctxt "VisionSuperiorDarkvisionDescription"
+msgid ""
+"Within the specified range, a creature with superior Darkvision can see "
+"perfectly in all lighting conditions."
+msgstr ""
+
+msgctxt "VisionSuperiorDarkvisionTitle"
+msgid "Superior Darkvision"
+msgstr ""
+
+msgctxt "VisionTremorsenseDescription"
+msgid "The creature can sense vibrations."
+msgstr ""
+
+msgctxt "VisionTremorsenseTitle"
+msgid "Tremorsense"
+msgstr ""
+
+msgctxt "VisionTruesightTitle"
+msgid "Truesight"
+msgstr ""
+
+msgctxt "WarListSpellFormat"
+msgid "War List: {0}"
+msgstr ""
+
+msgctxt "WeaponTrainingDescription"
+msgid "Proficient with {0}."
+msgstr ""
+
+msgctxt "WeaponTrainingShortDescription"
+msgid "{0}"
+msgstr ""
+
+msgctxt "WizardArcaneTraditionsDescription"
+msgid "Grants you specialization with a certain kind of magic."
+msgstr ""
+
+msgctxt "WizardArcaneTraditionsTitle"
+msgid "Arcane Traditions"
+msgstr ""
+
+msgctxt "WizardSkillPointsTitle"
+msgid "Wizard Skills"
+msgstr ""
+
+msgctxt "WizardSpellcastingTitle"
+msgid "Wizard Spellcasting"
+msgstr ""
+
+msgctxt "WizardToolsDescription"
+msgid ""
+"You have been trained to scribe magic scrolls and use enchanting equipment."
+msgstr ""
+
+msgctxt "WizardToolsTitle"
+msgid "Magical Crafting"
+msgstr ""
+
+msgctxt "WizardWeaponProficiencyTitle"
+msgid "Wizard Weapon Proficiencies"
+msgstr ""
+
+msgctxt "CombatAffinityPackTacticsTitle"
+msgid "Pack Tactics"
+msgstr ""
+
+msgctxt "CombatAffinityPackTacticsDescription"
+msgid ""
+"A creature with Pack Tactics has advantage on an attack roll against a "
+"creature if at least one ally is within 5 feet of the creature and the ally "
+"isn't incapacitated. "
+msgstr ""
+
+msgctxt "AttributeModifierACPlus1Description"
+msgid "+1 to AC."
+msgstr ""
+
+msgctxt "SavingThrowModifierRingOfProtectionPlusOneDescription"
+msgid "+1 to all saving throws."
+msgstr ""
+
+msgctxt "AdditionalDamagePoisonTitle"
+msgid "Poisoned"
+msgstr ""
+
+msgctxt "PowerFunctionApplyPoisonDescription"
+msgid "Apply this poison to a target weapon."
+msgstr ""
+
+msgctxt "PowerFunctionApplyPoisonTitle"
+msgid "Apply"
+msgstr ""
+
+msgctxt "RegenerationLapseFormat"
+msgid "Regenerate {0} hit points every {1}."
+msgstr ""
+
+msgctxt "RegenerationChildOfDarknessTitle"
+msgid "Regeneration"
+msgstr ""
+
+msgctxt "RegenerationChildOfDarknessDescription"
+msgid "Soraks regenerate life when in dim light or darkness."
+msgstr ""
+
+msgctxt "RegenerationDefilerTitle"
+msgid "Regeneration"
+msgstr ""
+
+msgctxt "RegenerationDefilerDescription"
+msgid "Defilers regenerate 10 HP per round when in full darkness."
+msgstr ""
+
+msgctxt "Cutthroat_Finisher_Title"
+msgid "Finisher"
+msgstr ""
+
+msgctxt "Cutthroat_Predator_Title"
+msgid "Predator"
+msgstr ""
+
+msgctxt "Cutthroat_Predator_Description"
+msgid ""
+"Cutthroats deal 2 mode damage when attacking ranged targets on lower ground."
+msgstr ""
+
+msgctxt "AttributeModifierBracersDefenseDescription"
+msgid "+2 to AC when not wearing armor or a shield."
+msgstr ""
+
+msgctxt "VisionTruesightDescription"
+msgid ""
+"This creature can see in normal and magical darkness, and can see through "
+"invisibility and illusions."
+msgstr ""
+
+msgctxt "PowerFunctionManualStudyTitle"
+msgid "Study"
+msgstr ""
+
+msgctxt "MinimalBaseSpeedFormat"
+msgid "Minimal Speed: {0}"
+msgstr ""
+
+msgctxt "MinimalBaseSpeedFormatSingle"
+msgid "Minimal Speed: {0} ({1})"
+msgstr ""
+
+msgctxt "EncumbranceImmunityFormat"
+msgid "Unaffected by encumbrance penalties."
+msgstr ""
+
+msgctxt "HeavyArmorImmunityFormat"
+msgid "Unaffected by heavy armor penalties."
+msgstr ""
+
+msgctxt "CharacterPresentationBeltOfDwarvenKindDescription"
+msgid "50% chance to grow a beard."
+msgstr ""
+
+msgctxt "AttributeModifierBeltOfDwarvenkindDescription"
+msgid "+2 to CON to a maximum of 20."
+msgstr ""
+
+msgctxt "ProficiencyBeltOfDwarvenKindDescription"
+msgid "Can speak, read, and write dwarvish."
+msgstr ""
+
+msgctxt "DeflectMissileDescription"
+msgid "Can use a reaction to reduce the damage of an incoming missile."
+msgstr ""
+
+msgctxt "DeflectMissileTitle"
+msgid "Deflect Missile"
+msgstr ""
+
+msgctxt "PowerFunctionDustDisappearanceTitle"
+msgid "Throw"
+msgstr ""
+
+msgctxt "PowerFunctionDustDisappearanceDescription"
+msgid ""
+"Throw the dust in the air to turn all creatures within 2 cells invisible for "
+"a few minutes."
+msgstr ""
+
+msgctxt "EscapingPerceptionSuffix"
+msgid "when spotting the bearer"
+msgstr ""
+
+msgctxt "ResistingShoveSuffix"
+msgid "when shoving the bearer"
+msgstr ""
+
+msgctxt "ConditionAffinityCloakOfArachnidaDescription"
+msgid "Cannot be restrained by webs."
+msgstr ""
+
+msgctxt "MovementAffinityCloakOfArachnidaDescription"
+msgid "Can move along walls."
+msgstr ""
+
+msgctxt "SavingThrowAffinityGemNecromancyTitle"
+msgid "+2 to saving throws against Necromancy spells"
+msgstr ""
+
+msgctxt "SavingThrowAffinityGemAbjurationTitle"
+msgid "+2 to saving throws against Abjuration spells"
+msgstr ""
+
+msgctxt "SavingThrowAffinityGemEvocationTitle"
+msgid "+2 to saving throws against Evocation spells"
+msgstr ""
+
+msgctxt "SavingThrowAffinityGemIllusionTitle"
+msgid "+2 to saving throws against Illusion spells"
+msgstr ""
+
+msgctxt "SavingThrowAffinityGemConjurationTitle"
+msgid "+2 to saving throws against Conjuration spells"
+msgstr ""
+
+msgctxt "SavingThrowAffinityGemEnchantmentTitle"
+msgid "+2 to saving throws against Enchantment spells"
+msgstr ""
+
+msgctxt "SavingThrowAffinityGemDivinationTitle"
+msgid "+2 to saving throws against Divination spells"
+msgstr ""
+
+msgctxt "SavingThrowAffinityGemTransmutationTitle"
+msgid "+2 to saving throws against Transmutation spells"
+msgstr ""
+
+msgctxt "SavingThrowAffinityCrownOfTheMagisterTitle"
+msgid "+1 to saving throws"
+msgstr ""
+
+msgctxt "AbilityCheckAffinityCrownOfTheMagisterTitle"
+msgid "+2 to Intimidation and Persuasion checks"
+msgstr ""
+
+msgctxt "StoneOfGoodLuckAbilityCheckAffinity_Description"
+msgid "+1 to ability checks."
+msgstr ""
+
+msgctxt "RingOfAllWordsDescription"
+msgid "Proficiency in all languages."
+msgstr ""
+
+msgctxt "AttributeModifierACPlus2Description"
+msgid "+2 to AC."
+msgstr ""
+
+msgctxt "PowerFunctionApplyOilOfSharpnessDescription"
+msgid "Apply this oil to a target weapon."
+msgstr ""
+
+msgctxt "MantleOfSpellResistance_Function_Description"
+msgid "Advantage on saving throws against spells"
+msgstr ""
+
+msgctxt "HalflingBraveDescription"
+msgid "Advantage on saving throws against being frightened"
+msgstr ""
+
+msgctxt "PowerWinterWolfBreathTitle"
+msgid "Cold Breath"
+msgstr ""
+
+msgctxt "PowerWinterWolfBreathDescription"
+msgid "A freezing wind blown by the Winter Wolf that deals cold damage."
+msgstr ""
+
+msgctxt "SavingThrowRestrictedSchoolFormat"
+msgid "{0} spells"
+msgstr ""
+
+msgctxt "Fire_Osprey_Blast_Title"
+msgid "Blast"
+msgstr ""
+
+msgctxt "Fire_Osprey_Blast_Description"
+msgid "The Fire Osprey emits a fire blast that damages all surrounding cells."
+msgstr ""
+
+msgctxt "AttributeModifierACPlus3Description"
+msgid "+3 to AC"
+msgstr ""
+
+msgctxt "MagicAffinityBattleMagicTitle"
+msgid "Battle Magic"
+msgstr ""
+
+msgctxt "MagicAffinityBattleMagicDescription"
+msgid ""
+"Can cast spells with a somatic component without a free hand, provided a "
+"weapon or shield is being wielded."
+msgstr ""
+
+msgctxt "Cutthroat_Finisher_Description"
+msgid ""
+"Once per turn, Cutthroats deal an additional 1D6 damage to already wounded "
+"opponents."
+msgstr ""
+
+msgctxt "AttackModifierAttackRollIncreasedDescription"
+msgid "Attack roll is increased."
+msgstr ""
+
+msgctxt "AttackModifierDamageRollIncreasedDescription"
+msgid "Damage roll is increased."
+msgstr ""
+
+msgctxt "ConditionAutoCriticalFormat"
+msgid "All attacks received are critical hits."
+msgstr ""
+
+msgctxt "SavingThrowByAbilityScoreBonus"
+msgid "[ability] on {0} saving throws"
+msgstr ""
+
+msgctxt "DomainBattleExtraAttackTitle"
+msgid "Scholar of Battle"
+msgstr ""
+
+msgctxt "AdditionalDamageDomainLifeDivineStrikeDescription"
+msgid "+1D8 radiant damage on weapon attacks, once per turn."
+msgstr ""
+
+msgctxt "AdditionalDamageDomainLifeDivineStrikeTitle"
+msgid "Divine Strike"
+msgstr ""
+
+msgctxt "DomainElementalHeraldOfTheElementsFireShortTitle"
+msgid "Call Upon Fire"
+msgstr ""
+
+msgctxt "DomainElementalHeraldOfTheElementsFireTitle"
+msgid ""
+"Herald of the Elements: \n"
+"Call Upon Fire"
+msgstr ""
+
+msgctxt "DomainElementalHeraldOfTheElementsColdDescription"
+msgid ""
+"The target suffers cold damage and must succeed with a STR save or become "
+"restrained until the end of its next turn. Can be used a number of times "
+"equal to your WIS bonus until a long rest."
+msgstr ""
+
+msgctxt "DomainElementalHeraldOfTheElementsColdShortTitle"
+msgid "Call Upon Cold"
+msgstr ""
+
+msgctxt "DomainElementalHeraldOfTheElementsColdTitle"
+msgid ""
+"Herald of the Elements: \n"
+"Call Upon Cold"
+msgstr ""
+
+msgctxt "DomainElementalHeraldOfTheElementsThunderDescription"
+msgid ""
+"The creature in the area must succeed with a CON save or suffer thunder "
+"damage and become restrained until the end of their next turn. Can be used a "
+"number of times equal to your WIS bonus until a long rest."
+msgstr ""
+
+msgctxt "DomainElementalHeraldOfTheElementsThunderShortTitle"
+msgid "Call Upon Thunder"
+msgstr ""
+
+msgctxt "DomainElementalHeraldOfTheElementsThunderTitle"
+msgid ""
+"Herald of the Elements: \n"
+"Call Upon Thunder"
+msgstr ""
+
+msgctxt "DomainInsightDivineLoreDescription"
+msgid ""
+"You know all languages, written and spoken. In addition, you can identify a "
+"magical item once per long rest."
+msgstr ""
+
+msgctxt "DomainInsightDivineLoreTitle"
+msgid "Divine Lore"
+msgstr ""
+
+msgctxt "DomainInsightDivineLoreIdentifyDescription"
+msgid "Reveals the magic properties and functions of an item."
+msgstr ""
+
+msgctxt "DomainInsightDivineLoreIdentifyTitle"
+msgid "Divine Identification"
+msgstr ""
+
+msgctxt "DomainInsightDomainSpellsTitle"
+msgid "Insight Domain Spells"
+msgstr ""
+
+msgctxt "DomainOblivionMarkOfFateDescription"
+msgid ""
+"Mark a creature you see so it receives additional damage from each attack."
+msgstr ""
+
+msgctxt "DomainOblivionMarkOfFateTitle"
+msgid "Mark of Fate"
+msgstr ""
+
+msgctxt "DomainLawAnathemaDescription"
+msgid ""
+"Restrains a creature and inflicts force damage every turn until it succeeds "
+"with a WIS save or 1 minute has passed."
+msgstr ""
+
+msgctxt "DomainLawAnathemaTitle"
+msgid "Anathema"
+msgstr ""
+
+msgctxt "PowerOathOfMotherlandVolcanicAuraDescription"
+msgid "Friendly creatures in the aura gain fire resistance and +1 to AC."
+msgstr ""
+
+msgctxt "PowerOathOfMotherlandVolcanicAuraTitle"
+msgid "Volcanic Aura"
+msgstr ""
+
+msgctxt "PowerOathOfDevotionAuraDevotionDescription"
+msgid ""
+"Friendly creatures in the aura cannot be charmed while you are conscious."
+msgstr ""
+
+msgctxt "PowerOathOfDevotionAuraDevotionTitle"
+msgid "Aura of Devotion"
+msgstr ""
+
+msgctxt "PowerOathOfTirmarAuraTruthDescription"
+msgid ""
+"Friendly creatures in the aura gain superior darkvision and +2 perception."
+msgstr ""
+
+msgctxt "PowerOathOfTirmarAuraTruthTitle"
+msgid "Aura of Truth"
+msgstr ""
+
+msgctxt "FeatureSetHunterDefensiveTacticsDescription"
+msgid "Choose one of the following options:"
+msgstr ""
+
+msgctxt "FeatureSetHunterDefensiveTacticsTitle"
+msgid "Defensive Tactics"
+msgstr ""
+
+msgctxt "HunterEscapeTheHordeDescription"
+msgid "Opportunity attacks against you are made with disadvantage."
+msgstr ""
+
+msgctxt "tHunterEscapeTheHordeTitle"
+msgid "Escape the Horde"
+msgstr ""
+
+msgctxt "HunterMultiattackDefenseDescription"
+msgid ""
+"When a creature hits you with an attack, you gain a +4 bonus to AC against "
+"all subsequent attacks made by that creature for the rest of the turn."
+msgstr ""
+
+msgctxt "HunterMultiattackDefenseTitle"
+msgid "Multiattack Defense"
+msgstr ""
+
+msgctxt "HunterSteelWillDescription"
+msgid "Advantage on saving throws against being frightened"
+msgstr ""
+
+msgctxt "HunterSteelWillTitle"
+msgid "Steel Will"
+msgstr ""
+
+msgctxt "ShadowTamerRopeGrappleDescription"
+msgid "Target a creature and attempt to pull it if it fails a STR contest."
+msgstr ""
+
+msgctxt "ShadowTamerRopeGrappleTitle"
+msgid "Rope Grapple"
+msgstr ""
+
+msgctxt "ShadowTamerKnowDarknessDescription"
+msgid ""
+"While in dim or no light, you have advantage on stealth, perception "
+"investigation checks, and gain tremorsense."
+msgstr ""
+
+msgctxt "ShadowTamerKnowDarknessTitle"
+msgid "Know the Darkness"
+msgstr ""
+
+msgctxt "MarksmanRecyclerDescription"
+msgid "You can craft arrows every time you take a short or long rest."
+msgstr ""
+
+msgctxt "MarksmanRecyclerTitle"
+msgid "Recycler"
+msgstr ""
+
+msgctxt "MarksmanStepbackDescription"
+msgid ""
+"When you are within melee range of an enemy creature, you can use your bonus "
+"action to move one cell without provoking opportunity attacks, and gain "
+"advantage on your next attack with a ranged weapon this turn."
+msgstr ""
+
+msgctxt "MarksmanStepbackTitle"
+msgid "Step Back"
+msgstr ""
+
+msgctxt "MoutaineerCloseQuartersDescription"
+msgid ""
+"As a bonus action, you can force a switch of positions with an enemy within "
+"melee range by performing a STR vs STR or DEX challenge, just like for "
+"shoving. You are not open to opportunity attacks by doing so. If successful, "
+"you have advantage to attack this creature until the end of your turn."
+msgstr ""
+
+msgctxt "MoutaineerCloseQuartersTitle"
+msgid "Close Quarters"
+msgstr ""
+
+msgctxt "ChampionRemarkableAthleteDescription"
+msgid ""
+"Add half of your proficiency bonus (round up) to any Strength, Dexterity, or "
+"Constitution check you make that doesn't already use your proficiency bonus. "
+"In addition, both your jumping distance and climbing abilities increase, too."
+msgstr ""
+
+msgctxt "ChampionRemarkableAthleteTitle"
+msgid "Remarkable Athlete"
+msgstr ""
+
+msgctxt "SpellbladeIntoTheFrayDescription"
+msgid ""
+"You can use any melee weapon you are proficient with as a spellcasting focus "
+"for your wizard spells, and can perform their somatic components with the "
+"weapon instead of your hand. Additionally, being next to a hostile creature "
+"doesn't impose disadvantage on your ranged spell attack rolls."
+msgstr ""
+
+msgctxt "SpellbladeIntoTheFrayTitle"
+msgid "Into the Fray"
+msgstr ""
+
+msgctxt "Smith_Title"
+msgid "Smithing"
+msgstr ""
+
+msgctxt "Smith_Description"
+msgid ""
+"You are trained to craft basic ammunition with smith's tools: arrows and "
+"bolts."
+msgstr ""
+
+msgctxt "PowerVeil_Title"
+msgid "Dark Veil"
+msgstr ""
+
+msgctxt "PowerVeil_Description"
+msgid ""
+"A veil of darkness and despair covers an area around the Defiler. All "
+"creatures except Defilers and their brood have disadvantage on attacks."
+msgstr ""
+
+msgctxt "Power_Grimblade_Soulscape_Title"
+msgid "Soulscape"
+msgstr ""
+
+msgctxt "DomainElementalHeraldOfTheElementsFireDescription"
+msgid ""
+"The target suffers fire damage and must succeed a STR save or be pushed. Can "
+"be used a number of times equal to your WIS bonus until a long rest."
+msgstr ""
+
+msgctxt "PowerBloodFealty_Title"
+msgid "Blood Fealty"
+msgstr ""
+
+msgctxt "PowerBloodFealty_Description"
+msgid "A Defiler can drain the life power of the brood it created."
+msgstr ""
+
+msgctxt "RogueEvasionDescription"
+msgid ""
+"When you are subjected to an area of effect that allows you to make a "
+"Dexterity saving throw to take only half damage, you instead take no damage "
+"if you succeed on the saving throw, and only half damage if you fail."
+msgstr ""
+
+msgctxt "SorakImmunity_MindEffects_Title"
+msgid "Mind of Darkness"
+msgstr ""
+
+msgctxt "SorakImmunity_MindEffects_Description"
+msgid ""
+"Sorr-Akkath have a mind of pure darkness. Protected by the gifts of their "
+"god, they are oblivious to attempts to charm and dominate."
+msgstr ""
+
+msgctxt "ShockArcanistWarcastingTitle"
+msgid "Warcasting"
+msgstr ""
+
+msgctxt "ShockArcanistWarcastingDescription"
+msgid ""
+"Having pushed yourself to cope with arcane shock backlash, you become "
+"proficient with Constitution saving throws."
+msgstr ""
+
+msgctxt "ShockArcanistArcaneShockTitle"
+msgid "Arcane Shock"
+msgstr ""
+
+msgctxt "ShockArcanistArcaneShockDescription"
+msgid ""
+"You overcharge your mana and become restrained until the end of your turn. "
+"However, when you cast an attack spell, your damage dice are always above "
+"average. In return, you make a CON saving throw DC 14 and take 2d6 psychic "
+"damage if you fail."
+msgstr ""
+
+msgctxt "GreenMageLeafScalesTitle"
+msgid "Leaf Scales"
+msgstr ""
+
+msgctxt "GreenMageLeafScalesDescription"
+msgid ""
+"When an attacker that you can see hits you with a ranged attack or spell, "
+"you can use your reaction to halve the attack's damage against you."
+msgstr ""
+
+msgctxt "LoreMasterArcaneLoreTitle"
+msgid "Arcane Lore"
+msgstr ""
+
+msgctxt "LoreMasterArcaneLoreDescription"
+msgid ""
+"You can add your Proficiency Bonus to the number of spells you can memorize. "
+"You also learn two additional cantrips from the Wizard's list."
+msgstr ""
+
+msgctxt "SpellBladeSpellTyrantTitle"
+msgid "Spell Tyrant"
+msgstr ""
+
+msgctxt "SpellBladeSpellTyrantDescription"
+msgid ""
+"Target a creature and move it one cell in any direction if it fails a STR "
+"save."
+msgstr ""
+
+msgctxt "ChampionAdditionalFightingStyleTitle"
+msgid "Additional Fighting Style"
+msgstr ""
+
+msgctxt "ChampionAdditionalFightingStyleDescription"
+msgid "Choose a new fighting style option."
+msgstr ""
+
+msgctxt "MountaineerShieldChargeTitle"
+msgid "Shield Push"
+msgstr ""
+
+msgctxt "MountaineerShieldChargeDescription"
+msgid ""
+"Provided you wield a shield, you can shove an opponent as a bonus action."
+msgstr ""
+
+msgctxt "IndomitableResistanceTitle"
+msgid "Indomitable"
+msgstr ""
+
+msgctxt "IndomitableResistanceDescription"
+msgid ""
+"You can reroll a saving throw that you fail. If you do so, you must use the "
+"new roll, and you can't use this feature again until you finish a long rest."
+msgstr ""
+
+msgctxt "PowerRangerHideInPlainSightTitle"
+msgid "Hide in Plain Sight"
+msgstr ""
+
+msgctxt "PowerRangerHideInPlainSightDescription"
+msgid ""
+"You can spend 1 minute creating camouflage for yourself. Once camouflaged, "
+"you gain +10 DEX (Stealth) while you are standing against a wall. You have "
+"to restart the camouflage every time you rest or move to another location."
+msgstr ""
+
+msgctxt "PowerClericDivineInterventionTitle"
+msgid "Divine Intervention"
+msgstr ""
+
+msgctxt "PowerClericDivineInterventionDescription"
+msgid ""
+"You attempt to request the help of your deity, with a success chance of 1% "
+"per cleric level."
+msgstr ""
+
+msgctxt "ThiefSupremeSneakTitle"
+msgid "Supreme Sneak"
+msgstr ""
+
+msgctxt "ThiefSupremeSneakDescription"
+msgid "You have advantage on DEX (Stealth) ability checks."
+msgstr ""
+
+msgctxt "ClericTurnUndeadAdvancedTitle"
+msgid "Turn Undead (Destroy)"
+msgstr ""
+
+msgctxt "ClericTurnUndeadAdvancedDescription"
+msgid ""
+"Channel Divinity to force undead creatures within 6 cells who can see you to "
+"flee, unless they make a successful Wisdom saving throw.\n"
+"Undead creatures with a challenge rating of {0} or lower that fail the "
+"saving throw are instead destroyed."
+msgstr ""
+
+msgctxt "ShadowRetributionTitle"
+msgid "Shadow Retribution"
+msgstr ""
+
+msgctxt "ShadowRetributionDescription"
+msgid ""
+"If you are targeted by a damaging spell, whether it damages you or not, you "
+"can cast a cantrip in reaction on the caster."
+msgstr ""
+
+msgctxt "DarkweaverPoisonousTitle"
+msgid "Poisonous"
+msgstr ""
+
+msgctxt "DarkweaverPoisonousDescription"
+msgid ""
+"When you hit with a melee weapon and deal at least 1 point of damage, your "
+"target must make a CON save DC 13 or they will be poisoned for one hour and "
+"take an additional 2d6 damage."
+msgstr ""
+
+msgctxt "PowerRemorazSwallowTitle"
+msgid "Swallow"
+msgstr ""
+
+msgctxt "PowerRemorazSwallowDescription"
+msgid ""
+"The Remorhaz can swallow a creature it has successfully grappled, and will "
+"inflict acid damage every turn, unless it receives enough damage to force it "
+"to regurgitate."
+msgstr ""
+
+msgctxt "PowerDragonBreath_Poison_Title"
+msgid "Poison Breath"
+msgstr ""
+
+msgctxt "PowerDragonBreath_Poison_Description"
+msgid "This dragon can breathe a devastating cone of poison."
+msgstr ""
+
+msgctxt "DragonFrightfulPresence_Title"
+msgid "Frightful Presence"
+msgstr ""
+
+msgctxt "DragonFrightfulPresence_Description"
+msgid ""
+"Dragons are so powerful that their very presence can terrorize those who "
+"lack courage."
+msgstr ""
+
+msgctxt "DragonWingAttack_Title"
+msgid "Wing Attack"
+msgstr ""
+
+msgctxt "DragonWingAttack_Description"
+msgid ""
+"Dragons can flap their wings to produce enough wind to propel most humanoids "
+"away and knock them prone."
+msgstr ""
+
+msgctxt "PowerDragonBreath_Fire_Title"
+msgid "Fire Breath"
+msgstr ""
+
+msgctxt "PowerDragonBreath_Fire_Description"
+msgid "This dragon can breathe a devastating cone of fire."
+msgstr ""
+
+msgctxt "PowerDragonBreath_Acid_Title"
+msgid "Acid Breath"
+msgstr ""
+
+msgctxt "PowerDragonBreath_Acid_Description"
+msgid "This dragon can breathe a devastating cone of acid."
+msgstr ""
+
+msgctxt "DefilerShadowEscape_Title"
+msgid "Misty Form"
+msgstr ""
+
+msgctxt "DefilerShadowEscape_Description"
+msgid "Defilers are able to turn into mist and teleport almost at will."
+msgstr ""
+
+msgctxt "HeartOfFireTitle"
+msgid "Heart of Fire"
+msgstr ""
+
+msgctxt "HeartOfDescriptionTitle"
+msgid ""
+"Arrok has become one with the volcano. Standing beside him deals Fire Damage."
+msgstr ""
+
+msgctxt "LaetharParalyzingGaze_Title"
+msgid "Paralyzing Gaze"
+msgstr ""
+
+msgctxt "LaetharParalyzingGaze_Description"
+msgid "The gaze of the emperor paralyzes the weak."
+msgstr ""
+
+msgctxt "LaetharShadowEscape_Title"
+msgid "Ghostly move"
+msgstr ""
+
+msgctxt "LaetharShadowEscape_Description"
+msgid "Laethar is able to turn into mist and teleport almost at will."
+msgstr ""
+
+msgctxt "SpiderQueenEatFriends_Title"
+msgid "Cannibalism"
+msgstr ""
+
+msgctxt "SpiderQueenEatFriends_Description"
+msgid "The spider queen eats one of her spiderlings to recover HP."
+msgstr ""
+
+msgctxt "SpiderQueenPoisonCloud_Title"
+msgid "Poison Cloud"
+msgstr ""
+
+msgctxt "SpiderQueenPoisonCloud_Description"
+msgid ""
+"The spider queen ejects a volley of small poisoned spikes all around her "
+"body."
+msgstr ""
+
+msgctxt "Power_Phase_Spider_Teleport_Title"
+msgid "Ethereal Jaunt"
+msgstr ""
+
+msgctxt "Power_Phase_Spider_Teleport_Description"
+msgid "Phase spiders can change planes at will."
+msgstr ""
+
+msgctxt "CriticalHitImmunityTitle"
+msgid "Critical Hit Immunity"
+msgstr ""
+
+msgctxt "CriticalHitImmunityDescription"
+msgid "Critical hits are considered normal hits for the creature."
+msgstr ""
+
+msgctxt "SavingThrowAffinityArmorOfSurvival"
+msgid "+2 to saving throws"
+msgstr ""
+
+msgctxt "SorcererWeaponProficiencyTitle"
+msgid "Sorcerer Weapon Proficiencies"
+msgstr ""
+
+msgctxt "SorcererSkillPointsTitle"
+msgid "Sorcerer Skills"
+msgstr ""
+
+msgctxt "SorcererSpellcastingTitle"
+msgid "Sorcerer Spellcasting"
+msgstr ""
+
+msgctxt "SorcererSorcerousOriginDescription"
+msgid "Different sorcerers claim different origins for their innate magic."
+msgstr ""
+
+msgctxt "SorcererSorcerousOriginTitle"
+msgid "Sorcerous Origin"
+msgstr ""
+
+msgctxt "SorcererToolsDescription"
+msgid ""
+"You have been trained to brew herbal remedies and use enchanting equipment."
+msgstr ""
+
+msgctxt "SorcererToolsTitle"
+msgid "Magical Crafting"
+msgstr ""
+
+msgctxt "PowerSorcererFlexibleCastingTitle"
+msgid "Flexible Casting"
+msgstr ""
+
+msgctxt "PowerSorcererFlexibleCastingDescription"
+msgid ""
+"Allows the conversion of spell slots into sorcery points and vice versa, as "
+"a bonus action."
+msgstr ""
+
+msgctxt "PowerSorcererFlexibleCastingCreateSpellSlotTitle"
+msgid "Create Spell Slot"
+msgstr ""
+
+msgctxt "PowerSorcererFlexibleCastingCreateSpellSlotDescription"
+msgid ""
+"Spend sorcery points to create a new spell slot, possibly higher than your "
+"maximum spell level"
+msgstr ""
+
+msgctxt "PowerSorcererFlexibleCastingCreateSorceryPointsTitle"
+msgid "Create Sorcery Points"
+msgstr ""
+
+msgctxt "PowerSorcererFlexibleCastingCreateSorceryPointsDescription"
+msgid "Spend a spell slot to generate a matching number of sorcery points"
+msgstr ""
+
+msgctxt "PointPoolSorcererMetamagicTitle"
+msgid "Metamagic"
+msgstr ""
+
+msgctxt "PointPoolSorcererMetamagicDescription"
+msgid ""
+"You gain the ability to twist your spells to suit your needs. You gain two "
+"Metamagic options of your choice"
+msgstr ""
+
+msgctxt "PointPoolSorcererAdditionalMetamagicTitle"
+msgid "Additional Metamagic"
+msgstr ""
+
+msgctxt "PointPoolSorcererAdditionalMetamagicDescription"
+msgid "Learn another metamagic option"
+msgstr ""
+
+msgctxt "MetamagicOptionEmpoweredSpellRerollDescription"
+msgid "{0} uses Empowered Spell to reroll a {1} damage die from {2} to {3}."
+msgstr ""
+
+msgctxt "FeatureSetSorcererDraconicChoiceTitle"
+msgid "Dragon Ancestor Choice"
+msgstr ""
+
+msgctxt "FeatureSetSorcererDraconicChoiceDescription"
+msgid "Select the type of dragon (and associated damage type) of your ancestor"
+msgstr ""
+
+msgctxt "AncestrySorcererDraconicBlackTitle"
+msgid "Black Ancestor - Acid"
+msgstr ""
+
+msgctxt "AncestrySorcererDraconicGoldTitle"
+msgid "Gold Ancestor - Fire"
+msgstr ""
+
+msgctxt "AncestrySorcererDraconicGreenTitle"
+msgid "Green Ancestor - Poison"
+msgstr ""
+
+msgctxt "AncestrySorcererDraconicSilverTitle"
+msgid "Silver Ancestor - Cold"
+msgstr ""
+
+msgctxt "AncestrySorcererDraconicDescription"
+msgid "Your dragonic ancestry grants you affinity to a specific damage type"
+msgstr ""
+
+msgctxt "FeatureSetSorcererDraconicResilienceTitle"
+msgid "Draconic Resilience"
+msgstr ""
+
+msgctxt "FeatureSetSorcererDraconicResilienceDescription"
+msgid ""
+"You gain one additional hit point per level and your armor class is 13 + "
+"dexterity bonus when you are not wearing armor"
+msgstr ""
+
+msgctxt "ProficiencySorcererDraconicKnowledgeTitle"
+msgid "Draconic Knowledge"
+msgstr ""
+
+msgctxt "ProficiencySorcererDraconicKnowledgeDescription"
+msgid "You speak draconic"
+msgstr ""
+
+msgctxt "AutoPreparedSpellsSorcererDraconicBloodlineTitle"
+msgid "Draconic Bloodline Origin Spells"
+msgstr ""
+
+msgctxt "AdditionalDamageSorcererDraconicElementalAffinityTitle"
+msgid "Elemental Affinity"
+msgstr ""
+
+msgctxt "AdditionalDamageSorcererDraconicElementalAffinityDescription"
+msgid ""
+"When dealing spell damage matching your draconic ancestor, you add your "
+"charisma modifier to the total"
+msgstr ""
+
+msgctxt "PowerSorcererDraconicElementalResistanceTitle"
+msgid "Draconic Resistance"
+msgstr ""
+
+msgctxt "PowerSorcererDraconicElementalResistanceDescription"
+msgid ""
+"You gain resistance to the damage type of your ancestor for an hour, at the "
+"cost of one sorcery point."
+msgstr ""
+
+msgctxt "AutoPreparedSpellsSorcererManaPainterTitle"
+msgid "Mana Painter Origin Spells"
+msgstr ""
+
+msgctxt "PowerSorcererManaPainterDrainTitle"
+msgid "Mana Drain"
+msgstr ""
+
+msgctxt "PowerSorcererManaPainterDrainDescription"
+msgid ""
+"Make a melee spell attack. On a successful hit, the target creature takes "
+"1D10+your charisma modifier Force Damage, and you regain 1 Sorcery Point. "
+"You need to take a Short Rest to recover this power."
+msgstr ""
+
+msgctxt "SavingThrowAffinityManaPainterAbsorbtionTitle"
+msgid "Mana Absorption"
+msgstr ""
+
+msgctxt "SavingThrowAffinityManaPainterAbsorbtionDescription"
+msgid ""
+"Your Charisma modifier is used (if higher) instead of other ability "
+"modifiers on your saving throws against spells and other magic effects."
+msgstr ""
+
+msgctxt "PowerSorcererManaPainterTapTitle"
+msgid "Mana Tap"
+msgstr ""
+
+msgctxt "PowerSorcererManaPainterTapDescription"
+msgid ""
+"When you finish a Short Rest, you can regain a number of Sorcery points "
+"equal to half your Sorcerer levels (rounded up). You must complete a long "
+"rest to use this ability again."
+msgstr ""
+
+msgctxt "AutoPreparedSpellsSorcererChildRiftTitle"
+msgid "Child of the Rift Origin Spells"
+msgstr ""
+
+msgctxt "MagicAffinitySorcererChildRiftMagicTitle"
+msgid "Rift Magic"
+msgstr ""
+
+msgctxt "MagicAffinitySorcererChildRiftMagicDescription"
+msgid ""
+"Immediately after you cast a sorcerer spell of level 1 to 5, roll 1d20. If "
+"you roll a 20, your spell slot is not spent"
+msgstr ""
+
+msgctxt "PowerSorcererChildRiftDeflectionTitle"
+msgid "Deflection"
+msgstr ""
+
+msgctxt "PowerSorcererChildRiftDeflectionDescription"
+msgid ""
+"You can use your Bonus Action to spend 1 sorcery point to become harder to "
+"hit and achieve better saving throws, until the start of your next turn"
+msgstr ""
+
+msgctxt "PowerSorcererChildRiftOfferingTitle"
+msgid "Offering to the Rift"
+msgstr ""
+
+msgctxt "PowerSorcererChildRiftOfferingDescription"
+msgid ""
+"You can use your Bonus Action to sacrifice 5 Hit Points, in order to regain "
+"immediately one sorcery point. The sacrificed Hit Points are recovered after "
+"a Long Rest."
+msgstr ""
+
+msgctxt "ConditionTrueSeeingTitle"
+msgid "True Seeing"
+msgstr ""
+
+msgctxt "ConditionTrueSeeingDescription"
+msgid "This creature can see in darkness and see invisible creatures."
+msgstr ""
+
+msgctxt "DieRollModifierRogueReliableTalentTitle"
+msgid "Reliable Talent"
+msgstr ""
+
+msgctxt "DieRollModifierRogueReliableTalentDescription"
+msgid ""
+"Whenever your make an ability check that lets you add your proficiency "
+"bonus, you can treat a d20 roll of 9 or lower as a 10."
+msgstr ""
+
+msgctxt "ActionAffinityShadowTamerSwiftRetaliationTitle"
+msgid "Swift Retaliation"
+msgstr ""
+
+msgctxt "ActionAffinityShadowTamerSwiftRetaliationDescription"
+msgid ""
+"Whenever an opponent attacks your from a nearby cell, you are granted an "
+"immediate melee attack against that opponent."
+msgstr ""
+
+msgctxt "PaladinImprovedDivineSmiteTitle"
+msgid "Improved Divine Smite"
+msgstr ""
+
+msgctxt "PaladinImprovedDivineSmiteDescription"
+msgid ""
+"Whenever you hit a creature with a melee weapon, the creature takes an extra "
+"1d8 radiant damage, whether you are spending a spell slot to smite or not"
+msgstr ""
+
+msgctxt "FeatureSetRangerHunterMultiattackChoiceTitle"
+msgid "Multiattack"
+msgstr ""
+
+msgctxt "FeatureSetRangerHunterMultiattackChoiceDescription"
+msgid "Select one of the multiattack options: Volley or Whirlwind Attack"
+msgstr ""
+
+msgctxt "ActionAffinityRangerHunterVolleyTitle"
+msgid "Volley"
+msgstr ""
+
+msgctxt "ActionAffinityRangerHunterVolleyDescription"
+msgid ""
+"You can use your action to make a ranged attack against any number of "
+"creatures within 10 feet of a point you can see within your weapon’s range. "
+"You must have ammunition for each target, as normal, and you make a separate "
+"attack roll for each target"
+msgstr ""
+
+msgctxt "ActionAffinityRangerHunterWhirlwindAttackTitle"
+msgid "Whirlwind Attack"
+msgstr ""
+
+msgctxt "ActionAffinityRangerHunterWhirlwindAttackDescription"
+msgid ""
+"You can use your action to make a melee attack against any number of "
+"creatures within 5 feet of you, with a separate attack roll for each target"
+msgstr ""
+
+msgctxt "ActionAffinityRangerMarksmanFastAimTitle"
+msgid "Fast Aim"
+msgstr ""
+
+msgctxt "ActionAffinityRangerMarksmanFastAimDescription"
+msgid ""
+"If you are using a ranged weapon against an enemy, your bonus action can be "
+"used to make an additional ranged attack on the same target"
+msgstr ""
+
+msgctxt "MovementAffinityHeavyArmorImmunityTitle"
+msgid "Heavy Armor Training"
+msgstr ""
+
+msgctxt "BarbarianWeaponProficiencyTitle"
+msgid "Barbarian Weapon Proficiencies"
+msgstr ""
+
+msgctxt "BarbarianArmorProficiencyTitle"
+msgid "Barbarian Armor Proficiencies"
+msgstr ""
+
+msgctxt "BarbarianSkillPointsTitle"
+msgid "Barbarian Skills"
+msgstr ""
+
+msgctxt "PrimalPathDescription"
+msgid "At 3rd level, you choose a path that shapes the nature of your rage."
+msgstr ""
+
+msgctxt "PrimalPathTitle"
+msgid "Primal Path"
+msgstr ""
+
+msgctxt "FeatureSetRageDescription"
+msgid ""
+"In battle, you fight with primal ferocity. On your turn, you can enter a "
+"rage as a bonus action. This grants you advantage on strength saves & "
+"checks, an initial +2 bonus to melee attacks damage, and resistance to "
+"slashing, bludgeoning and piercing damage, for 1 minute, or if you do not "
+"attack or suffer damage between your turns.\n"
+"You start with 2 rages between each long rest."
+msgstr ""
+
+msgctxt "FeatureSetRageTitle"
+msgid "Rage"
+msgstr ""
+
+msgctxt "AdditionalRageDamageDescription"
+msgid "Increase your rage damage by +1"
+msgstr ""
+
+msgctxt "AdditionalRageDamageTitle"
+msgid "Additional Rage Damage"
+msgstr ""
+
+msgctxt "AdditionalRageCountDescription"
+msgid "You can rage one additional time per long rest"
+msgstr ""
+
+msgctxt "AdditionalRageCountTitle"
+msgid "Additional Rage Use"
+msgstr ""
+
+msgctxt "UnarmoredDefenseDescription"
+msgid ""
+"While you are not wearing any armor, your Armor Class equals 10 + your "
+"Dexterity modifier + your Constitution modifier. You can use a shield and "
+"still gain this benefit"
+msgstr ""
+
+msgctxt "UnarmoredDefenseTitle"
+msgid "Unarmored Defense"
+msgstr ""
+
+msgctxt "DangerSenseDescription"
+msgid ""
+"You have advantage on DEX saving throw to effects and spells, as long as "
+"your are not blinded or incapacitated"
+msgstr ""
+
+msgctxt "DangerSenseTitle"
+msgid "Danger Sense"
+msgstr ""
+
+msgctxt "FastMovementDescription"
+msgid "Your speed increases by 10 feet while you aren’t wearing heavy armor"
+msgstr ""
+
+msgctxt "FastMovementTitle"
+msgid "Fast Movement"
+msgstr ""
+
+msgctxt "FeralInstinctDescription"
+msgid ""
+"Your instincts are so honed that you have advantage on initiative rolls. "
+"Additionally, if you are surprised at the beginning of combat and aren’t "
+"incapacitated, you can  act normally on your first turn, but only if you "
+"enter your rage before doing anything else on that turn"
+msgstr ""
+
+msgctxt "FeralInstinctTitle"
+msgid "Feral Instinct"
+msgstr ""
+
+msgctxt "BrutalCriticalDescription"
+msgid ""
+"You can roll one additional weapon damage die when determining the extra  "
+"damage for a critical hit with a melee attack."
+msgstr ""
+
+msgctxt "BrutalCriticalTitle"
+msgid "Brutal Critical"
+msgstr ""
+
+msgctxt "BrutalCriticalAdvancedDescription"
+msgid "Add another damage die to critical hits"
+msgstr ""
+
+msgctxt "BrutalCriticalAdvancedTitle"
+msgid "Brutal Critical (Advanced)"
+msgstr ""
+
+msgctxt "RelentlessRageDescription"
+msgid ""
+"If you drop to 0 hit points while you’re raging and don’t die outright, you "
+"can make a DC 10 Constitution saving throw. If you succeed, you drop to 1 "
+"hit point instead.  Each time you use this feature after the first, the DC "
+"increases by 5. When you  finish a short or long rest, the DC resets to 10"
+msgstr ""
+
+msgctxt "RelentlessRageTitle"
+msgid "Relentless Rage"
+msgstr ""
+
+msgctxt "PowerBerserkerFrenzyDescription"
+msgid ""
+"You can go into a frenzy when you rage. If you do so, for the duration of "
+"your rage you can make a single melee weapon attack as a bonus action on "
+"each of your  turns after this one. When your rage ends, you suffer one "
+"level of exhaustion."
+msgstr ""
+
+msgctxt "PowerBerserkerFrenzyTitle"
+msgid "Frenzy"
+msgstr ""
+
+msgctxt "ConditionBerserkerFrenzyDescription"
+msgid ""
+"As long as you rage, you can make a single melee weapon attack as a bonus "
+"action on each of your  turns after this one. When your rage ends, you "
+"suffer one level of exhaustion."
+msgstr ""
+
+msgctxt "ConditionBerserkerFrenzyTitle"
+msgid "Frenzied"
+msgstr ""
+
+msgctxt "PowerBerserkerMindlessRageDescription"
+msgid "You can't be charmed or frightened while raging."
+msgstr ""
+
+msgctxt "PowerBerserkerMindlessRageTitle"
+msgid "Mindless Rage"
+msgstr ""
+
+msgctxt "PowerBerserkerIntimidatingPresenceDescription"
+msgid ""
+"Frighten a creature until the end of your next turn if is fails a WIS saving "
+"throw against your CHA ability. "
+msgstr ""
+
+msgctxt "PowerBerserkerIntimidatingPresenceTitle"
+msgid "Intimidating Presence"
+msgstr ""
+
+msgctxt "WandererSkillsLoneWolfTitle"
+msgid "Lone Wolf"
+msgstr ""
+
+msgctxt "WandererSkillsLoneWolfDescription"
+msgid ""
+"Life in the Marches taught you everything you need to survive in hars "
+"environments."
+msgstr ""
+
+msgctxt "WandererSkillsCrafterTitle"
+msgid "Crafter"
+msgstr ""
+
+msgctxt "WandererSkillsCrafterDescription"
+msgid ""
+"When you own nothing, you need to make your own equipment. That's what you "
+"did."
+msgstr ""
+
+msgctxt "DruidWeaponProficiencyTitle"
+msgid "Druid  Weapon Proficiencies"
+msgstr ""
+
+msgctxt "DruidArmorProficiencyTitle"
+msgid "Druid  Armor Proficiencies"
+msgstr ""
+
+msgctxt "DruidSkillPointsTitle"
+msgid "Druid  Skills"
+msgstr ""
+
+msgctxt "DruidCircleDescription"
+msgid ""
+"At 2nd level, you choose a Druid Circle that further defines your "
+"relationship to Nature."
+msgstr ""
+
+msgctxt "DruidCircleTitle"
+msgid "Druid Circle"
+msgstr ""
+
+msgctxt "ForbiddenArmorFormat"
+msgid "You cannot wear any armor made of: {0}"
+msgstr ""
+
+msgctxt "LanguageProficiencyTitle"
+msgid "Druidic"
+msgstr ""
+
+msgctxt "LanguageProficiencyDescription"
+msgid "You know the druidic language"
+msgstr ""
+
+msgctxt "DruidSpellcastingTitle"
+msgid "Druid Spellcasting"
+msgstr ""
+
+msgctxt "PointPoolCircleLandBonusCantripTitle"
+msgid "Bonus Cantrip"
+msgstr ""
+
+msgctxt "PointPoolCircleLandBonusCantripDescription"
+msgid "Learn a druid cantrip of your choice"
+msgstr ""
+
+msgctxt "FeatureSetCircleLandCircleSpellsTitle"
+msgid "Circle Spells"
+msgstr ""
+
+msgctxt "FeatureSetCircleLandCircleSpellsDescription"
+msgid ""
+"Select a terrain to grant a range of spells which are always considered as "
+"prepared for you."
+msgstr ""
+
+msgctxt "FeatureSetCircleLandLandsStrideTitle"
+msgid "Land's Stride"
+msgstr ""
+
+msgctxt "FeatureSetCircleLandLandsStrideDescription"
+msgid ""
+"Moving through difficult terrain does not cost extra movement and you are "
+"immune to magical plant which impedede your movement, such as the Entangle "
+"or Spike Growth spells"
+msgstr ""
+
+msgctxt "FeatureSetCircleLandNaturesWardTitle"
+msgid "Nature's Ward"
+msgstr ""
+
+msgctxt "FeatureSetCircleLandNaturesWardDescription"
+msgid ""
+"You are immune to being charmed or frightened by elementals or fey, and you "
+"are immune to poison and disease"
+msgstr ""
+
+msgctxt "AncestrySorcererDraconicBlueTitle"
+msgid "Blue Ancestor - Lightning"
+msgstr ""

@@ -1,0 +1,720 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "CampfireTitle"
+msgid "Campfire"
+msgstr ""
+
+msgctxt "CampfireDescription"
+msgid "An interactive campfire used to start a long rest for the party"
+msgstr ""
+
+msgctxt "ChestTitle"
+msgid "Chest"
+msgstr ""
+
+msgctxt "ChestDescription"
+msgid "A container for loot"
+msgstr ""
+
+msgctxt "DoubleDoorTitle"
+msgid "Double Door"
+msgstr ""
+
+msgctxt "DoubleDoorDescription"
+msgid "A simple door to open"
+msgstr ""
+
+msgctxt "EntranceTitle"
+msgid "Entrance"
+msgstr ""
+
+msgctxt "EntranceDescription"
+msgid "The starting point for the party "
+msgstr ""
+
+msgctxt "ExitTitle"
+msgid "Exit"
+msgstr ""
+
+msgctxt "ExitDescription"
+msgid "An exit point for the party. Can lead to another user location"
+msgstr ""
+
+msgctxt "HiddenDoorTitle"
+msgid "Hidden Door"
+msgstr ""
+
+msgctxt "HiddenDoorDescription"
+msgid "A door which requires a perception check to be spotted"
+msgstr ""
+
+msgctxt "InteractiveTorchTitle"
+msgid "Interactive Torch"
+msgstr ""
+
+msgctxt "InteractiveTorchDescription"
+msgid "A wall torch which can be dynamically lit/unlit"
+msgstr ""
+
+msgctxt "LoreAreaTitle"
+msgid "Lore Area"
+msgstr ""
+
+msgctxt "LoreAreaDescription"
+msgid "Stepping into this area will display a text"
+msgstr ""
+
+msgctxt "MonsterMTitle"
+msgid "Monster M"
+msgstr ""
+
+msgctxt "MonsterMDescription"
+msgid "Generates one medium (or smaller) monster at the gadget position"
+msgstr ""
+
+msgctxt "MonsterLTitle"
+msgid "Monster L"
+msgstr ""
+
+msgctxt "MonsterLDescription"
+msgid "Generates one large monster at the gadget position"
+msgstr ""
+
+msgctxt "MonsterMMultipleTitle"
+msgid "Monster Multi M"
+msgstr ""
+
+msgctxt "MonsterMMultipleDescription"
+msgid ""
+"Generates a number of medium (or smaller) monsters at the gadget position"
+msgstr ""
+
+msgctxt "TrapTitle"
+msgid "Trap"
+msgstr ""
+
+msgctxt "TrapDescription"
+msgid "A trap that is activated by stepping on the surface it occupies"
+msgstr ""
+
+msgctxt "VirtualLoreTitle"
+msgid "Virtual Lore"
+msgstr ""
+
+msgctxt "VirtualLoreDescription"
+msgid "An interaction displaying a lore text, which can be placed on any prop"
+msgstr ""
+
+msgctxt "VirtualLootTitle"
+msgid "Virtual Loot"
+msgstr ""
+
+msgctxt "VirtualLootDescription"
+msgid ""
+"A generic purpose loot interaction, which can be placed on any prop to "
+"simulate a container"
+msgstr ""
+
+msgctxt "ParameterExplicitItemsTitle"
+msgid "Explicit Items"
+msgstr ""
+
+msgctxt "ParameterLootPackTitle"
+msgid "Loot Pack"
+msgstr ""
+
+msgctxt "ParameterItemListTitle"
+msgid "Items List"
+msgstr ""
+
+msgctxt "ParameterParam_LockedTitle"
+msgid "Locked"
+msgstr ""
+
+msgctxt "ParameterUnlock_DCTitle"
+msgid "Unlock DC"
+msgstr ""
+
+msgctxt "ParameterParam_TrappedTitle"
+msgid "Trapped"
+msgstr ""
+
+msgctxt "ParameterPerception_DCTitle"
+msgid "Perception DC"
+msgstr ""
+
+msgctxt "ParameterDisarm_DCTitle"
+msgid "Disarm DC"
+msgstr ""
+
+msgctxt "ParameterReveal_DCTitle"
+msgid "Reveal DC"
+msgstr ""
+
+msgctxt "ParameterTrapEffectTitle"
+msgid "Trap Effect"
+msgstr ""
+
+msgctxt "ParameterEntranceIndexTitle"
+msgid "Entrance Index"
+msgstr ""
+
+msgctxt "ParameterDestinationLocationTitle"
+msgid "Destination Location"
+msgstr ""
+
+msgctxt "ParameterCreatureTitle"
+msgid "Creature"
+msgstr ""
+
+msgctxt "ParameterQuantityTitle"
+msgid "Quantity"
+msgstr ""
+
+msgctxt "ParameterPerceptionDCTitle"
+msgid "Perception DC"
+msgstr ""
+
+msgctxt "ParameterSpeechTitle"
+msgid "Speech"
+msgstr ""
+
+msgctxt "ParameterEncounterGroupTitle"
+msgid "Encounter Group"
+msgstr ""
+
+msgctxt "ParameterGroupIndexTitle"
+msgid "Group Index"
+msgstr ""
+
+msgctxt "ParameterExplicitItemsDescription"
+msgid ""
+"Determines whether the content will be a predefined loot pack, or an "
+"explicit list of items"
+msgstr ""
+
+msgctxt "ParameterLootPackDescription"
+msgid "A predefined list of items, some of which will be rolled randomly"
+msgstr ""
+
+msgctxt "ParameterItemListDescription"
+msgid "Specify an explicit list of items that will be spawned in the container"
+msgstr ""
+
+msgctxt "ParameterParam_LockedDescription"
+msgid "Determines whether this gadget is locked"
+msgstr ""
+
+msgctxt "ParameterUnlock_DCDescription"
+msgid "The difficulty class to unlock this gadget"
+msgstr ""
+
+msgctxt "ParameterParam_TrappedDescription"
+msgid "Determines whether this gadget is trapped"
+msgstr ""
+
+msgctxt "ParameterPerception_DCDescription"
+msgid "The difficulty class to spot the trap on this gadget"
+msgstr ""
+
+msgctxt "ParameterDisarm_DCDescription"
+msgid "The difficulty class to disarm the trap on this gadget"
+msgstr ""
+
+msgctxt "ParameterReveal_DCDescription"
+msgid "The difficulty class to reveal this gadget"
+msgstr ""
+
+msgctxt "ParameterTrapEffectDescription"
+msgid ""
+"The type of effect that impacts the affected creatures when this trap is "
+"triggered"
+msgstr ""
+
+msgctxt "ParameterEntranceIndexDescription"
+msgid ""
+"A location can be entered from several entry points. This index is used to "
+"specify the entrance an exit gadget leads to"
+msgstr ""
+
+msgctxt "ParameterDestinationLocationDescription"
+msgid "Destination Location"
+msgstr ""
+
+msgctxt "ParameterCreatureDescription"
+msgid "The type of spawned creature"
+msgstr ""
+
+msgctxt "ParameterQuantityDescription"
+msgid "The number of creatures"
+msgstr ""
+
+msgctxt "ParameterSpeechDescription"
+msgid "The text that is displayed when interacting with this gadget"
+msgstr ""
+
+msgctxt "ParameterEncounterGroupDescription"
+msgid ""
+"Check this to make the spawned creature part of an encounter group, "
+"triggering battles together"
+msgstr ""
+
+msgctxt "ParameterGroupIndexDescription"
+msgid ""
+"Creatures with an identical group index (any number you chose) will belong "
+"to the same encounter group"
+msgstr ""
+
+msgctxt "ParameterSavingThrowDCTitle"
+msgid "Saving Throw DC"
+msgstr ""
+
+msgctxt "ParameterSavingThrowDCDescription"
+msgid "The difficulty class for the saving throw"
+msgstr ""
+
+msgctxt "ParameterAddDiceTitle"
+msgid "Additional Dice"
+msgstr ""
+
+msgctxt "ParameterAddDiceDescription"
+msgid "Increase the number of dice for this effect"
+msgstr ""
+
+msgctxt "FallingChandelierTitle"
+msgid "Falling Chandelier"
+msgstr ""
+
+msgctxt "FallingChandelierDescription"
+msgid "A hanging chandelier which can be damaged and cause fall damage"
+msgstr ""
+
+msgctxt "GrateTitle"
+msgid "Grate"
+msgstr ""
+
+msgctxt "GrateDescription"
+msgid "A metallic fence containing a collapsing metallic door"
+msgstr ""
+
+msgctxt "InvisiblePlateTitle"
+msgid "Invisible Plate"
+msgstr ""
+
+msgctxt "InvisiblePlateDescription"
+msgid "A visible plate which activates other gadgets when stepped on"
+msgstr ""
+
+msgctxt "LorePlaqueTitle"
+msgid "Lore Plaque"
+msgstr ""
+
+msgctxt "LorePlaqueDescription"
+msgid "A mural plaque used to provide lore to the player"
+msgstr ""
+
+msgctxt "ManaLampTitle"
+msgid "Mana Lamp"
+msgstr ""
+
+msgctxt "ManaLampDescription"
+msgid "An interactive lamp which becomes lit when targeted by magical spells"
+msgstr ""
+
+msgctxt "PrisonDoorTitle"
+msgid "Prison Door"
+msgstr ""
+
+msgctxt "PrisonDoorDescription"
+msgid "A metallic door closing/opening the access to a detention area"
+msgstr ""
+
+msgctxt "ActivatorButtonTitle"
+msgid "Button Activator"
+msgstr ""
+
+msgctxt "ActivatorButtonDescription"
+msgid "A button which can be used to activate other gadgets"
+msgstr ""
+
+msgctxt "ActivatorAreaTitle"
+msgid "Area Activator"
+msgstr ""
+
+msgctxt "ActivatorAreaDescription"
+msgid "Entering this area activates other gadgets"
+msgstr ""
+
+msgctxt "ActivatorPlateTitle"
+msgid "Plate Activator"
+msgstr ""
+
+msgctxt "ActivatorPlateDescription"
+msgid "A plate which activates other gadgets when stepped on"
+msgstr ""
+
+msgctxt "ActivatorTimedTitle"
+msgid "Timed Activator"
+msgstr ""
+
+msgctxt "ActivatorTimedDescription"
+msgid ""
+"An invisible gadget which activates other gadgets at regular timed intervals"
+msgstr ""
+
+msgctxt "WoodenDoorTitle"
+msgid "Wooden Door"
+msgstr ""
+
+msgctxt "WoodenDoorDescription"
+msgid "A plain door"
+msgstr ""
+
+msgctxt "ManaLampWallTitle"
+msgid "Mana Lamp (wall)"
+msgstr ""
+
+msgctxt "ParameterTargetGadgetsTitle"
+msgid "Target Gadgets"
+msgstr ""
+
+msgctxt "ParameterTargetGadgetsDescription"
+msgid ""
+"The gadgets which will be triggered by this gadget's activation / "
+"deactivation"
+msgstr ""
+
+msgctxt "ParameterSymetricalTitle"
+msgid "Symetrical"
+msgstr ""
+
+msgctxt "ParameterSymetricalDescription"
+msgid ""
+"Can the activator be played back and forth, for example to open / close a "
+"door?"
+msgstr ""
+
+msgctxt "ParameterOperationTitle"
+msgid "Operation"
+msgstr ""
+
+msgctxt "ParameterOperationDescription"
+msgid "The type of operation performed on the target gadgets"
+msgstr ""
+
+msgctxt "ParameterOperationActivateTitle"
+msgid "Activate"
+msgstr ""
+
+msgctxt "ParameterOperationActivateDescription"
+msgid "Activate other gadgets (example : open a door)"
+msgstr ""
+
+msgctxt "ParameterOperationDeactivateTitle"
+msgid "Deactivate"
+msgstr ""
+
+msgctxt "ParameterOperationDeactivateDescription"
+msgid "Deactivate other gadgets (example: close a door)"
+msgstr ""
+
+msgctxt "ParameterOperationActivateSymetricalTitle"
+msgid "Activate Symetrical"
+msgstr ""
+
+msgctxt "ParameterOperationActivateSymetricalDescription"
+msgid "Activate & deactivate back and forth (example: open & close a door)"
+msgstr ""
+
+msgctxt "ParameterOperationEnableTitle"
+msgid "Enable"
+msgstr ""
+
+msgctxt "ParameterOperationEnableDescription"
+msgid "Enabled an activator, so that it can activate other gadgets"
+msgstr ""
+
+msgctxt "ParameterOperationDisableTitle"
+msgid "Disable"
+msgstr ""
+
+msgctxt "ParameterOperationDisableDescription"
+msgid ""
+"Disables an activator which will no longer activate other gadgets (example: "
+"disable a timed activator)"
+msgstr ""
+
+msgctxt "ParameterOperationEnableSymetricalTitle"
+msgid "Enable Symetrical"
+msgstr ""
+
+msgctxt "ParameterOperationEnableSymetricalDescription"
+msgid ""
+"Enables & disables back and forth (example: a button could enable & disable "
+"a timed activator)"
+msgstr ""
+
+msgctxt "LavaBulbTitle"
+msgid "Lava Bulb"
+msgstr ""
+
+msgctxt "MechanismTitle"
+msgid "Mechanism"
+msgstr ""
+
+msgctxt "TorchPikeTitle"
+msgid "Torch Pike"
+msgstr ""
+
+msgctxt "ParameterParam_HardLockedTitle"
+msgid "Hard Locked"
+msgstr ""
+
+msgctxt "ParameterParam_HardLockedDescription"
+msgid ""
+"This gadget cannot be opened by normal means, an remote activator is "
+"required to open it"
+msgstr ""
+
+msgctxt "ParameterParam_DefaultAsLitTitle"
+msgid "Lit"
+msgstr ""
+
+msgctxt "ParameterParam_DefaultAsLitDescription"
+msgid ""
+"Determines if this gadget is lit by default or unlit if the option is "
+"checked off."
+msgstr ""
+
+msgctxt "ParameterParam_DefaultAsOpenedTitle"
+msgid "Opened"
+msgstr ""
+
+msgctxt "ParameterParam_DefaultAsOpenedDescription"
+msgid "Determines if this gadget is opened by default"
+msgstr ""
+
+msgctxt "MonsterHTitle"
+msgid "Monster H"
+msgstr ""
+
+msgctxt "MonsterHDescription"
+msgid "Generates one huge monster at the gadget position"
+msgstr ""
+
+msgctxt "MonsterGTitle"
+msgid "Monster G"
+msgstr ""
+
+msgctxt "MonsterGDescription"
+msgid "Generates one gargantuan monster at the gadget position"
+msgstr ""
+
+msgctxt "ParameterAutoSpawnTitle"
+msgid "Auto Spawn"
+msgstr ""
+
+msgctxt "ParameterAutoSpawnDescription"
+msgid ""
+"When this option is off, spawning the monster requires a remote activator, "
+"instead of the proximity of heroes"
+msgstr ""
+
+msgctxt "ParameterLoreFormatTitle"
+msgid "Lore Format"
+msgstr ""
+
+msgctxt "ParameterLoreFormatDescription"
+msgid "The form in which lore information is presented to the user"
+msgstr ""
+
+msgctxt "ParameterLoreFormatMainCharacterTitle"
+msgid "Main Character"
+msgstr ""
+
+msgctxt "ParameterLoreFormatMainCharacterDescription"
+msgid ""
+"The content is displayed as banter over the head of the first conscious "
+"character in the party"
+msgstr ""
+
+msgctxt "ParameterLoreFormatRandomCharacterTitle"
+msgid "Random Character"
+msgstr ""
+
+msgctxt "ParameterLoreFormatRandomCharacterDescription"
+msgid ""
+"The content is displayed as banter over the head of a random conscious party "
+"member and disappears after the duration"
+msgstr ""
+
+msgctxt "ParameterLoreFormatGadgetFeedbackTitle"
+msgid "Gadget Feedback"
+msgstr ""
+
+msgctxt "ParameterLoreFormatGadgetFeedbackDescription"
+msgid "The content is displayed at the triggering gadget's position"
+msgstr ""
+
+msgctxt "ParameterLoreFormatTopHeaderTitle"
+msgid "Top Header"
+msgstr ""
+
+msgctxt "ParameterLoreFormatTopHeaderDescription"
+msgid ""
+"The content appears at the top of the screen in large-character font and "
+"disappears after the duration"
+msgstr ""
+
+msgctxt "ParameterLoreFormatTimedPanelTitle"
+msgid "Timed Panel"
+msgstr ""
+
+msgctxt "ParameterLoreFormatTimedPanelDescription"
+msgid ""
+"The content is displayed on a panel at the bottom of the screen and "
+"disappears after the duration"
+msgstr ""
+
+msgctxt "ParameterLoreFormatModalPanelTitle"
+msgid "Modal Panel"
+msgstr ""
+
+msgctxt "ParameterLoreFormatModalPanelDescription"
+msgid ""
+"The content is displayed on a panel in the center of the screen, which "
+"remains visible until the user has acknowledged it"
+msgstr ""
+
+msgctxt "PushBlockTitle"
+msgid "Pushable Block"
+msgstr ""
+
+msgctxt "PushBlockDescription"
+msgid "A block that can be pushed one cell by a character"
+msgstr ""
+
+msgctxt "FallingStalactiteTitle"
+msgid "Falling Stalactite"
+msgstr ""
+
+msgctxt "FallingStalactiteDescription"
+msgid "A hanging stalactite that can be damaged and cause fall damage"
+msgstr ""
+
+msgctxt "ParameterParam_DisplayOnceTitle"
+msgid "Display Once"
+msgstr ""
+
+msgctxt "ParameterParam_DisplayOnceDescription"
+msgid ""
+"If this option is checked, the lore information is displayed only once when "
+"the gadget is triggered"
+msgstr ""
+
+msgctxt "ActivatorEntryTitle"
+msgid "Entry Activator"
+msgstr ""
+
+msgctxt "ActivatorEntryDescription"
+msgid ""
+"An activator that is triggered when the location is entered. Since this "
+"gadget does not react to character positions or interactions, it can be "
+"placed anywhere in a room"
+msgstr ""
+
+msgctxt "ParameterParam_EntryOnceTitle"
+msgid "Entry Once"
+msgstr ""
+
+msgctxt "ParameterParam_EntryOnceDescription"
+msgid ""
+"If this option is checked, the lore information is displayed only once when "
+"the gadget is triggered"
+msgstr ""
+
+msgctxt "LoreActivatedTitle"
+msgid "Activated Lore"
+msgstr ""
+
+msgctxt "LoreActivatedDescription"
+msgid ""
+"This gadget will display lore when triggered by an activator gadget (e.g. an "
+"Entry Activator). It can be placed in any free space as it is invisible and "
+"non-interactive"
+msgstr ""
+
+msgctxt "ParameterParam_DefaultAsActivatedTitle"
+msgid "Activated"
+msgstr ""
+
+msgctxt "ParameterParam_DefaultAsActivatedDescription"
+msgid "Determines if this activator is activated by default"
+msgstr ""
+
+msgctxt "ParameterKeyItemTitle"
+msgid "Key Item"
+msgstr ""
+
+msgctxt "ParameterKeyItemDescription"
+msgid "The object is opened automatically if the party is carrying this item"
+msgstr ""
+
+msgctxt "FoliageTitle"
+msgid "Foliage"
+msgstr ""
+
+msgctxt "FoliageDescription"
+msgid "A destructible foliage that blocks the way"
+msgstr ""
+
+msgctxt "FallingTrunkTitle"
+msgid "Falling Trunk"
+msgstr ""
+
+msgctxt "FallingTrunkDescription"
+msgid "A trunk of tree that can be pushed forward"
+msgstr ""
+
+msgctxt "PoisonBulbTitle"
+msgid "Poison Bulb"
+msgstr ""
+
+msgctxt "PoisonBulbDescription"
+msgid ""
+"A strange flower that will explode when damaged or when a player approach it."
+msgstr ""
+
+msgctxt "LavaBulbDescription"
+msgid ""
+"A strange flower that will explode in flames when damaged or when a player "
+"approach it."
+msgstr ""
+
+msgctxt "GrateDoorTitle"
+msgid "Metallic door"
+msgstr ""
+
+msgctxt "GrateDoorDescription"
+msgid "A simple metallic door"
+msgstr ""
+
+msgctxt "ParameterAdditionalLootTitle"
+msgid "Additional Loot"
+msgstr ""
+
+msgctxt "ParameterAdditionalLootDescription"
+msgid "A list of additional items dropped by the creature when it is killed"
+msgstr ""

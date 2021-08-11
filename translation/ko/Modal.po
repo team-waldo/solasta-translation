@@ -1,0 +1,721 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "AssertionFailedTtitle"
+msgid "Assertion Failed"
+msgstr ""
+
+msgctxt "CampaignSelectionButtonTitle"
+msgid "Select"
+msgstr ""
+
+msgctxt "CampaignSelectionTitle"
+msgid "Campaign"
+msgstr ""
+
+msgctxt "CampCaptionMultipleHoursFormat"
+msgid "The party is setting camp for {0} hours."
+msgstr ""
+
+msgctxt "CampCaptionSingleHourFormat"
+msgid "The party is setting camp for an hour."
+msgstr ""
+
+msgctxt "CancelButtonTitle"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "CancelPrepareDescription"
+msgid "Cancel any changes made in this panel."
+msgstr ""
+
+msgctxt "CancelPrepareTitle"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "CharacterReviveMessageCancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "CharacterReviveMessageContent"
+msgid ""
+"This option has a long activation time and may invalidate other time-based "
+"options. Do you want to continue?"
+msgstr ""
+
+msgctxt "CharacterReviveMessageTitle"
+msgid "Warning"
+msgstr ""
+
+msgctxt "CharacterReviveMessageValidate"
+msgid "Accept"
+msgstr ""
+
+msgctxt "CharacterReviveModalHeaderPluralTitle"
+msgid "Revive All Dead Characters"
+msgstr ""
+
+msgctxt "CharacterReviveModalHeaderSingularTitle"
+msgid "Revive Dead Character"
+msgstr ""
+
+msgctxt "CharacterReviveModalSubTitle"
+msgid ""
+"You cannot continue the adventure with one or more dead characters. Select "
+"an option."
+msgstr ""
+
+msgctxt "CharacterReviveModalTooLateFormat"
+msgid "It is too late to use this option on {0}."
+msgstr ""
+
+msgctxt "DefeatDescription"
+msgid ""
+"The party had no way to revive their dead - game over! Try giving Revivify "
+"scrolls to characters who can use them."
+msgstr ""
+
+msgctxt "DefeatTitle"
+msgid "Game Over"
+msgstr ""
+
+msgctxt "DeleteButtonTitle"
+msgid "Delete"
+msgstr ""
+
+msgctxt "EquipementSelectionDescription"
+msgid "Select your preferred equipment options."
+msgstr ""
+
+msgctxt "EquipementSelectionTitle"
+msgid "Equipment Choice"
+msgstr ""
+
+msgctxt "ErrorModalContinuePlayingTitle"
+msgid "Continue Playing"
+msgstr ""
+
+msgctxt "ErrorModalCopyToClipboardTitle"
+msgid "Copy to Clipboard"
+msgstr ""
+
+msgctxt "ErrorModalIgnoreErrorTitle"
+msgid "Ignore this Error"
+msgstr ""
+
+msgctxt "ErrorModalQuitTitle"
+msgid "Quit the Game"
+msgstr ""
+
+msgctxt "ErrorModalTitle"
+msgid "A serious error has occurred."
+msgstr ""
+
+msgctxt "ExceptionModalTitle"
+msgid "A critical exception has occurred."
+msgstr ""
+
+msgctxt "FactionRedeemCostDescription"
+msgid ""
+"Redeeming an item is often more profitable than selling it to a merchant"
+msgstr ""
+
+msgctxt "FactionRedeemInstructionsDescription"
+msgid ""
+"Redeeming items with the \"{0}\" faction will earn you money and improve "
+"your relations with this faction."
+msgstr ""
+
+msgctxt "FactionRedeemRelationDescription"
+msgid "Your relations with that faction improve"
+msgstr ""
+
+msgctxt "FactionRedeemRelationGainFormat"
+msgid "{0} Relation"
+msgstr ""
+
+msgctxt "FactionRedeemSelectTitle"
+msgid "Select an item to redeem"
+msgstr ""
+
+msgctxt "HigherLevelFeaturesTitle"
+msgid "Higher Level Features"
+msgstr ""
+
+msgctxt "InterruptCraftingCompleteTitle"
+msgid "Interrupt when an item has been crafted."
+msgstr ""
+
+msgctxt "InterruptLevelUpAvailableTitle"
+msgid "Interrupt when a character can level up."
+msgstr ""
+
+msgctxt "InterruptLongRestCompleteTitle"
+msgid "Interrupt when the long rest has been completed."
+msgstr ""
+
+msgctxt "LoadButtonTitle"
+msgid "Load"
+msgstr ""
+
+msgctxt "LoadGameHeader"
+msgid "Load"
+msgstr ""
+
+msgctxt "LoadGamePlaceholder"
+msgid "Select a saved game."
+msgstr ""
+
+msgctxt "LoadingProceedButtonTitle"
+msgid "Click or press any key to start."
+msgstr ""
+
+msgctxt "LoadingTitle"
+msgid "Loading… please wait"
+msgstr ""
+
+msgctxt "LoadLastSaveDescription"
+msgid "Resume playing from your last saved game"
+msgstr ""
+
+msgctxt "LoadLastSaveTitle"
+msgid "Restart From Last Save"
+msgstr ""
+
+msgctxt "MonsterListingCaption"
+msgid ""
+"{0} is concentrating to determine the presence of monsters in the area… "
+msgstr ""
+
+msgctxt "MonsterListingFavoredEnemyTitle"
+msgid "Favored Enemy"
+msgstr ""
+
+msgctxt "MonsterListingNotPerceivedTitle"
+msgid "None"
+msgstr ""
+
+msgctxt "MonsterListingPerceivedTitle"
+msgid "Present"
+msgstr ""
+
+msgctxt "NumberSelectionInstructionTitle"
+msgid "How Many Points?"
+msgstr ""
+
+msgctxt "NumberSelectionValidateTitle"
+msgid "Validate"
+msgstr ""
+
+msgctxt "PartyWaitMinutesPluralFormat"
+msgid "The party is waiting for {0} minutes."
+msgstr ""
+
+msgctxt "PartyWaitMinutesSingleFormat"
+msgid "The party is waiting for {0} minute."
+msgstr ""
+
+msgctxt "RequiredRestsMultipleFormat"
+msgid "{0} long rests"
+msgstr ""
+
+msgctxt "RequiredRestsNoneFormat"
+msgid "None"
+msgstr ""
+
+msgctxt "RequiredRestsSingleFormat"
+msgid "1 long rest"
+msgstr ""
+
+msgctxt "RequiredRestsTitle"
+msgid "Required Rests"
+msgstr ""
+
+msgctxt "ResetDefaultsDescription"
+msgid "Click to reset travel settings to default value."
+msgstr ""
+
+msgctxt "ResetDefaultsTitle"
+msgid "Reset Defaults"
+msgstr ""
+
+msgctxt "SaveButtonTitle"
+msgid "Save"
+msgstr ""
+
+msgctxt "SaveGameHeader"
+msgid "Save"
+msgstr ""
+
+msgctxt "SaveGamePlaceholder"
+msgid "Enter a filename or select a saved game."
+msgstr ""
+
+msgctxt "SelectCharacterMultipleTitle"
+msgid "Select one or more characters."
+msgstr ""
+
+msgctxt "SelectCharacterSingleTitle"
+msgid "Select a Character"
+msgstr ""
+
+msgctxt "SelectTitle"
+msgid "Select"
+msgstr ""
+
+msgctxt "StartTravelDescription"
+msgid "Initiates the travel to the selected location."
+msgstr ""
+
+msgctxt "StartTravelTitle"
+msgid "Start Traveling"
+msgstr ""
+
+msgctxt "TravelDurationLessThanADayFormat"
+msgid "Less than a day"
+msgstr ""
+
+msgctxt "TravelDurationMultipleFormat"
+msgid "{0} days"
+msgstr ""
+
+msgctxt "TravelDurationSingleFormat"
+msgid "1 day"
+msgstr ""
+
+msgctxt "TravelDurationTitle"
+msgid "Duration"
+msgstr ""
+
+msgctxt "TravelFromTitle"
+msgid "From"
+msgstr ""
+
+msgctxt "TravelPaceNormalTitle"
+msgid "Normal"
+msgstr ""
+
+msgctxt "TravelPaceTitle"
+msgid "Travel Pace"
+msgstr ""
+
+msgctxt "TravelSettingsButtonDescriptionTitle"
+msgid "Click to change the settings of traveling and resting."
+msgstr ""
+
+msgctxt "TravelSettingsCustomTitle"
+msgid "Custom"
+msgstr ""
+
+msgctxt "TravelSettingsDefaultTitle"
+msgid "Default"
+msgstr ""
+
+msgctxt "TravelSettingsTitle"
+msgid "Travel Settings"
+msgstr ""
+
+msgctxt "TravelToTitle"
+msgid "To"
+msgstr ""
+
+msgctxt "ValidateButtonTitle"
+msgid "Validate"
+msgstr ""
+
+msgctxt "LoadingShortTitle"
+msgid "Loading"
+msgstr ""
+
+msgctxt "LoadingTipTitle"
+msgid "Tip"
+msgstr ""
+
+msgctxt "UnitsSelectionInstructionTitle"
+msgid "Take how many units?"
+msgstr ""
+
+msgctxt "CastSpellBeforeLongRestTitle"
+msgid "Cast the {0} spell when the long rest starts."
+msgstr ""
+
+msgctxt "ScavengerMissionsModalTitle"
+msgid "Scavenger Expeditions"
+msgstr ""
+
+msgctxt "ScavengerMissionsModalDescription"
+msgid ""
+"Scavengers are heading to these locations to collect and bring back the loot "
+"left behind."
+msgstr ""
+
+msgctxt "ScavengerMissionLineEncounterTitle"
+msgid "Somewhere Along the Road"
+msgstr ""
+
+msgctxt "ScavengerMissionLineNewMissionFormat"
+msgid "New: {0} remaining"
+msgstr ""
+
+msgctxt "ScavengerMissionLineOngoingMissionFormat"
+msgid "Ongoing: {0} remaining"
+msgstr ""
+
+msgctxt "ScavengerMissionLineFinishedMissionDescription"
+msgid "Completed"
+msgstr ""
+
+msgctxt "ScavengerMissionModalToggleTitle"
+msgid "Show Encounter-related Expeditions"
+msgstr ""
+
+msgctxt "ScavengerLootModalTitle"
+msgid "Items Recovered During Expeditions"
+msgstr ""
+
+msgctxt "ScavengerLootModalInstructionsDescription"
+msgid "Click an item to recover instead of selling it."
+msgstr ""
+
+msgctxt "ScavengerLootModalSellAllButton"
+msgid "Sell All"
+msgstr ""
+
+msgctxt "ScavengerLootModalSellInstructionsDescription"
+msgid "You gain:"
+msgstr ""
+
+msgctxt "DefeatStealthDescription"
+msgid ""
+"You were detected during a critical stealth stage! Use cautious mode and "
+"move carefully."
+msgstr ""
+
+msgctxt "QuestBoardTitle"
+msgid "Available Missions"
+msgstr ""
+
+msgctxt "QuestBoardDescription"
+msgid "Select the mission you would like to accept and press Start."
+msgstr ""
+
+msgctxt "QuestBoardStartTitle"
+msgid "Start"
+msgstr ""
+
+msgctxt "QuestBoardStartDescription"
+msgid "Accept and start the selected mission."
+msgstr ""
+
+msgctxt "QuestInProgressTitle"
+msgid "In Progress"
+msgstr ""
+
+msgctxt "SolastaBackers"
+msgid "Solasta Backers"
+msgstr ""
+
+msgctxt "EternalHeroesTitle"
+msgid "To Our Eternal Heroes"
+msgstr ""
+
+msgctxt "TeleportButtonTitle"
+msgid "Teleport"
+msgstr ""
+
+msgctxt "TeleportButtonDescription"
+msgid ""
+"Instantly teleport the party inside the destination, near the Major Gate."
+msgstr ""
+
+msgctxt "VictoryTitle"
+msgid "The Party Is Victorious!"
+msgstr ""
+
+msgctxt "StatHitAccuracyTitle"
+msgid "Hit Accuracy:"
+msgstr ""
+
+msgctxt "StatHitAccuracyDescription"
+msgid "The percentage of successful weapon or magical attack rolls"
+msgstr ""
+
+msgctxt "StatCriticalHitsTitle"
+msgid "Critical Hits:"
+msgstr ""
+
+msgctxt "StatCriticalHitsDescription"
+msgid ""
+"The number of critical hits achieved by this character on attack rolls ("
+"weapon & magic)"
+msgstr ""
+
+msgctxt "StatCriticalFailuresTitle"
+msgid "Critical Failures:"
+msgstr ""
+
+msgctxt "StatCriticalFailuresDescription"
+msgid ""
+"The number of critical failures suffered by this character on attack rolls ("
+"weapon & magic)"
+msgstr ""
+
+msgctxt "StatInflictedDamageTitle"
+msgid "Inflicted Damage:"
+msgstr ""
+
+msgctxt "StatInflictedDamageDescription"
+msgid "The total number of damage points inflicted by characters"
+msgstr ""
+
+msgctxt "StatSlainEnemiesTitle"
+msgid "Slain Enemies:"
+msgstr ""
+
+msgctxt "StatSlainEnemiesDescription"
+msgid "The number of enemies for which this character delivered the final blow"
+msgstr ""
+
+msgctxt "StatSustainedInjuriesTitle"
+msgid "Sustained Injuries:"
+msgstr ""
+
+msgctxt "StatSustainedInjuriesDescription"
+msgid "The total number of hit points lost by this character"
+msgstr ""
+
+msgctxt "StatRestoredHealthTitle"
+msgid "Restored Health:"
+msgstr ""
+
+msgctxt "StatRestoredHealthDescription"
+msgid "The total number of hit points restored by this character"
+msgstr ""
+
+msgctxt "StatUsedMagicAndPowersTitle"
+msgid "Used Magic and Powers:"
+msgstr ""
+
+msgctxt "StatUsedMagicAndPowersDescription"
+msgid "The total number of spell slots and power charges used by the character"
+msgstr ""
+
+msgctxt "StatTravelledCellsTitle"
+msgid "Cells Traveled:"
+msgstr ""
+
+msgctxt "StatTravelledCellsDescription"
+msgid ""
+"The number of cells that the character has entered, in all 3 dimensions. It "
+"represents the \"mileage\" of the character"
+msgstr ""
+
+msgctxt "StatKnockOutsTitle"
+msgid "Knockouts:"
+msgstr ""
+
+msgctxt "StatKnockOutsDescription"
+msgid "The number of times the character has fallen unconscious or died"
+msgstr ""
+
+msgctxt "StatEarnedXPTitle"
+msgid "Earned XP:"
+msgstr ""
+
+msgctxt "StatEarnedXPDescription"
+msgid "The number of experience points gained by the character"
+msgstr ""
+
+msgctxt "StatGameTimeTitle"
+msgid "Game Time:"
+msgstr ""
+
+msgctxt "StatGameTimeDescription"
+msgid "The total time (including rests) that the party has spent in the game"
+msgstr ""
+
+msgctxt "StatShortRestsTitle"
+msgid "Short Rests:"
+msgstr ""
+
+msgctxt "StatShortRestsDescription"
+msgid "The number of short rests completed by the party"
+msgstr ""
+
+msgctxt "StatLongRestsTitle"
+msgid "Long Rests:"
+msgstr ""
+
+msgctxt "StatLongRestsDescription"
+msgid "The number of long rests completed by the party"
+msgstr ""
+
+msgctxt "StatGameTimeFormat"
+msgid "{0}d {1}h {2}m {3}s"
+msgstr ""
+
+msgctxt "UpdateFileTitle"
+msgid "Update File"
+msgstr ""
+
+msgctxt "UpdateFileDescription"
+msgid ""
+"Update the character file of this character, so that the progress and loot "
+"are saved for other adventures. Such characters will not be usable in the "
+"Solasta main campaign."
+msgstr ""
+
+msgctxt "PregenCharacterCannotUpdateTitle"
+msgid "Pregen Character"
+msgstr ""
+
+msgctxt "PregenCharacterCannotUpdateDescription"
+msgid "This character is pre-generated by the game and cannot be updated."
+msgstr ""
+
+msgctxt "ContinueTitle"
+msgid "Continue"
+msgstr ""
+
+msgctxt "ContinueDescription"
+msgid "Return to the main menu"
+msgstr ""
+
+msgctxt "CreateSpellSlotTitle"
+msgid "Spell Slot Creation"
+msgstr ""
+
+msgctxt "CreateSpellSlotDescription"
+msgid "Select a Spell Slot to create from sorcery points:"
+msgstr ""
+
+msgctxt "CreateSpellSlotCostTitle"
+msgid "Sorcery Points Cost"
+msgstr ""
+
+msgctxt "CreateSorceryPointsTitle"
+msgid "Sorcery Points Creation"
+msgstr ""
+
+msgctxt "CreateSorceryPointsDescription"
+msgid "Select a Spell Slot to spend and convert to Sorcery Points:"
+msgstr ""
+
+msgctxt "CreateSorceryPointsGainTitle"
+msgid "Gained Sorcery Points"
+msgstr ""
+
+msgctxt "SelectUserLocationTitle"
+msgid "Select a Location"
+msgstr ""
+
+msgctxt "UserLocationSettingsTitle"
+msgid "Location Settings"
+msgstr ""
+
+msgctxt "UserLocationSettingsApplyTitle"
+msgid "Apply"
+msgstr ""
+
+msgctxt "CheatsTitle"
+msgid "Playtest Cheats"
+msgstr ""
+
+msgctxt "IdleMonstersToggleTitle"
+msgid "Idle Monsters"
+msgstr ""
+
+msgctxt "IdleMonstersToggleDescription"
+msgid "Monsters do not engage a battle when spotting you. {0}"
+msgstr ""
+
+msgctxt "InviciblePartyToggleTitle"
+msgid "Invincible Party"
+msgstr ""
+
+msgctxt "InviciblePartyToggleDescription"
+msgid "The party characters are invicible in battle. {0}"
+msgstr ""
+
+msgctxt "RevealFogOfWarButtonTitle"
+msgid "Reveal Fog of War"
+msgstr ""
+
+msgctxt "RevealFogOfWarButtonDescription"
+msgid ""
+"Clears the fog of war in the whole location, so you can see inside every "
+"room. {0}"
+msgstr ""
+
+msgctxt "KIllBattleEnemiesButtonTitle"
+msgid "KIll Battle Enemies"
+msgstr ""
+
+msgctxt "KIllBattleEnemiesButtonDescription"
+msgid "KIll all enemies in battle. {0}"
+msgstr ""
+
+msgctxt "IdleMonstersOnDescription"
+msgid "The monster are now idle"
+msgstr ""
+
+msgctxt "IdleMonstersOffDescription"
+msgid "The monsters are active again"
+msgstr ""
+
+msgctxt "InviciblePartyOnDescription"
+msgid "The party is now invicible"
+msgstr ""
+
+msgctxt "InviciblePartyOffDescription"
+msgid "The party is no longer invicible"
+msgstr ""
+
+msgctxt "RevealFogOfWarOnDescription"
+msgid "The fog of war is now fully revealed"
+msgstr ""
+
+msgctxt "RevealFogOfWarOffDescription"
+msgid "The fog of war is active again"
+msgstr ""
+
+msgctxt "MonsterFilterAllTitle"
+msgid "All Monsters"
+msgstr ""
+
+msgctxt "FilterKeywordTitle"
+msgid "Filter"
+msgstr ""
+
+msgctxt "FilterKeywordDescription"
+msgid "Filter the list with elements that match the specified keyword"
+msgstr ""
+
+msgctxt "ClearKeywordDescription"
+msgid "Clears the selected keyword and cancels the filtering"
+msgstr ""
+
+msgctxt "InputKeywordTitle"
+msgid "Enter keyword:"
+msgstr ""
+
+msgctxt "DefeatIronManAdditionalDescription"
+msgid ""
+"Your adventure ends here. Gather your strength, and find the courage to "
+"brave the Iron Man Mode once more!"
+msgstr ""
+
+msgctxt "CharacterReviveModalDisintegratedFormat"
+msgid "This option cannot be used on {0} as he/she is disintegrated"
+msgstr ""

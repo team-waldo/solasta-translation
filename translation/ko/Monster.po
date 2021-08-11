@@ -1,0 +1,1095 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "Acolyte_Description"
+msgid "A wandering cleric seeking glory and battle."
+msgstr ""
+
+msgctxt "Acolyte_Title"
+msgid "Acolyte"
+msgstr ""
+
+msgctxt "Archmage_Description"
+msgid ""
+"An evil mage who has sought an isolated location to perform unspeakable "
+"experiments without interference."
+msgstr ""
+
+msgctxt "Archmage_Title"
+msgid "Archmage"
+msgstr ""
+
+msgctxt "Badlands Hunter_Description"
+msgid "A wandering ranger seeking glory and battle."
+msgstr ""
+
+msgctxt "Badlands Hunter_Title"
+msgid "Badlands Hunter"
+msgstr ""
+
+msgctxt "BanditCaptain_Description"
+msgid "An experienced bandit, much more skilled than his followers."
+msgstr ""
+
+msgctxt "BanditCaptain_Title"
+msgid "Bandit Captain"
+msgstr ""
+
+msgctxt "Berserker_Description"
+msgid ""
+"Hailing from barbaric lands, berserkers come together in war parties to seek "
+"battle."
+msgstr ""
+
+msgctxt "Berserker_Title"
+msgid "Berserker"
+msgstr ""
+
+msgctxt "BroodOfBloodDescription"
+msgid "Spawned by a Defiler, this is a bloodthirsty creature."
+msgstr ""
+
+msgctxt "BroodOfBloodTitle"
+msgid "Brood of Blood"
+msgstr ""
+
+msgctxt "BroodOfDreadDescription"
+msgid "Spawned by a Defiler, this is a bloodthirsty creature."
+msgstr ""
+
+msgctxt "BroodOfDreadTitle"
+msgid "Brood of Dread"
+msgstr ""
+
+msgctxt "BroodOfFleshDescription"
+msgid "Spawned by a Defiler, this is a bloodthirsty creature."
+msgstr ""
+
+msgctxt "BroodOfFleshTitle"
+msgid "Brood of Flesh"
+msgstr ""
+
+msgctxt "CultFanatic_Description"
+msgid ""
+"Part of a cult's leadership, these fanatics use their dogma and charisma to "
+"influence and prey on the weak-willed."
+msgstr ""
+
+msgctxt "CultFanatic_Title"
+msgid "Cult Fanatic"
+msgstr ""
+
+msgctxt "Darkweaver_Description"
+msgid "A wandering rogue seeking glory and battle."
+msgstr ""
+
+msgctxt "Darkweaver_Title"
+msgid "Darkweaver"
+msgstr ""
+
+msgctxt "DireWolf_Description"
+msgid "A particularly large wolf."
+msgstr ""
+
+msgctxt "DireWolf_Title"
+msgid "Dire Wolf"
+msgstr ""
+
+msgctxt "EagleMatriarchDescription"
+msgid "A very large eagle found in the Marches."
+msgstr ""
+
+msgctxt "EagleMatriarchTitle"
+msgid "Eagle Matriarch"
+msgstr ""
+
+msgctxt "FireSpider_Description"
+msgid ""
+"A giant spider fused with a small fire elemental by the weird magical "
+"influence of the Badlands."
+msgstr ""
+
+msgctxt "FireSpider_Title"
+msgid "Fire Spider"
+msgstr ""
+
+msgctxt "FlyingSnakeDescription"
+msgid "A winged snake found in the Badlands."
+msgstr ""
+
+msgctxt "FlyingSnakeTitle"
+msgid "Brimstone Viper"
+msgstr ""
+
+msgctxt "GargoyleDescription"
+msgid "[TEMP] TBD"
+msgstr ""
+
+msgctxt "GargoyleTitle"
+msgid "Gargoyle"
+msgstr ""
+
+msgctxt "Generic_ShockArcanist_Description"
+msgid "A powerful battle wizard looking for a challenge."
+msgstr ""
+
+msgctxt "Generic_ShockArcanist_Title"
+msgid "Shock Arcanist"
+msgstr ""
+
+msgctxt "Generic_Warlord_Description"
+msgid ""
+"A very experienced and powerful fighter who has gathered followers and won "
+"territories."
+msgstr ""
+
+msgctxt "Generic_Warlord_Title"
+msgid "Warlord"
+msgstr ""
+
+msgctxt "GhastDescription"
+msgid "A more powerful kind of ghoul, known for its terrible stench."
+msgstr ""
+
+msgctxt "GhastTitle"
+msgid "Badlands Ghast"
+msgstr ""
+
+msgctxt "Ghost_Description"
+msgid "A powerful, ethereal undead creature."
+msgstr ""
+
+msgctxt "Ghost_Title"
+msgid "Spectral Avenger"
+msgstr ""
+
+msgctxt "GhostWolf_Description"
+msgid "A dead wolf raised by necromantic power."
+msgstr ""
+
+msgctxt "GhostWolf_Title"
+msgid "Ghost Wolf"
+msgstr ""
+
+msgctxt "GhoulDescription"
+msgid "A ravenous undead creature, constantly searching for flesh to eat."
+msgstr ""
+
+msgctxt "GhoulTitle"
+msgid "Ghoul"
+msgstr ""
+
+msgctxt "GiantEagle_Description"
+msgid "A giant eagle, corrupted by the magical fluxes of the Badlands."
+msgstr ""
+
+msgctxt "GiantEagle_Title"
+msgid "Badlands Eagle"
+msgstr ""
+
+msgctxt "GiantSpiderDescription"
+msgid ""
+"Very large spiders, they live in the depths of the Badlands and are "
+"sensitive to light."
+msgstr ""
+
+msgctxt "GiantSpiderTitle"
+msgid "Deep Spider"
+msgstr ""
+
+msgctxt "GoblinDescription"
+msgid "A greenish, evil little creature."
+msgstr ""
+
+msgctxt "GoblinShaman_Description"
+msgid "A goblin with quasi-clerical powers."
+msgstr ""
+
+msgctxt "GoblinShamanTitle"
+msgid "Goblin Shaman"
+msgstr ""
+
+msgctxt "GoblinSkirmisherDescription"
+msgid "A goblin archer."
+msgstr ""
+
+msgctxt "GoblinSkirmisherTitle"
+msgid "Goblin Skirmisher"
+msgstr ""
+
+msgctxt "GoblinTitle"
+msgid "Goblin"
+msgstr ""
+
+msgctxt "Guard_Description"
+msgid "A low-ranking soldier, used to perform mundane security tasks."
+msgstr ""
+
+msgctxt "Guard_Title"
+msgid "Guard"
+msgstr ""
+
+msgctxt "Highpriest_Description"
+msgid ""
+"A powerful cleric wandering the land to spread his faith with soft words and "
+"hard deeds."
+msgstr ""
+
+msgctxt "Highpriest_Title"
+msgid "High Priest"
+msgstr ""
+
+msgctxt "MinotaurDescription"
+msgid "Minotaur Descrition TBC"
+msgstr ""
+
+msgctxt "MinotaurTitle"
+msgid "Minotaur"
+msgstr ""
+
+msgctxt "MummyDescription"
+msgid "A powerful undead creature, preserved for the afterlife."
+msgstr ""
+
+msgctxt "MummyTitle"
+msgid "Mummy"
+msgstr ""
+
+msgctxt "Necromancer_Description"
+msgid "An evil wizard specializing in necromancy."
+msgstr ""
+
+msgctxt "Necromancer_Title"
+msgid "Necromancer"
+msgstr ""
+
+msgctxt "OgreDescription"
+msgid ""
+"Ogres are huge and powerful, but stupid. They live for killing, scavenging, "
+"and simple pleasures."
+msgstr ""
+
+msgctxt "OgreTitle"
+msgid "Ogre"
+msgstr ""
+
+msgctxt "OgreZombie_Description"
+msgid "An ogre that has been raised by necromantic power."
+msgstr ""
+
+msgctxt "OgreZombie_Title"
+msgid "Ogre Zombie"
+msgstr ""
+
+msgctxt "OrcArcherDescription"
+msgid ""
+"Orcs have archers among their troops. Despite their effectiveness, they are "
+"perceived as cowards and are generally second rank warriors."
+msgstr ""
+
+msgctxt "OrcArcherTitle"
+msgid "Orc Archer"
+msgstr ""
+
+msgctxt "OrcBerserkerDescription"
+msgid ""
+"Berserkers are crazed warriors who ignore all danger while in their battle "
+"trance. Fast and violent, they don't feel pain or fear."
+msgstr ""
+
+msgctxt "OrcBerserkerTitle"
+msgid "Orc Berserker"
+msgstr ""
+
+msgctxt "OrcChieftainDescription"
+msgid ""
+"Chieftains are the stronger orcs who have survived battles and challenges "
+"from other orcs to seize a position of power."
+msgstr ""
+
+msgctxt "OrcChieftainTitle"
+msgid "Orc Chieftain"
+msgstr ""
+
+msgctxt "OrcDescription"
+msgid ""
+"Orcs are brutish, tribal warriors, known for their barbaric habits. They "
+"live by raiding and looting."
+msgstr ""
+
+msgctxt "OrcShaman_Description"
+msgid "The closest thing the orcs have to a cleric, with some mystical powers."
+msgstr ""
+
+msgctxt "OrcShaman_Title"
+msgid "Orc Shaman"
+msgstr ""
+
+msgctxt "OrcTitle"
+msgid "Orc"
+msgstr ""
+
+msgctxt "PhaseSpider_Description"
+msgid ""
+"A monstrous spider able to travel freely to and from the ethereal plane."
+msgstr ""
+
+msgctxt "PhaseSpider_Title"
+msgid "Phase Spider"
+msgstr ""
+
+msgctxt "PoisonousSnakeDescription"
+msgid "[TEMP] TBD"
+msgstr ""
+
+msgctxt "PoisonousSnakeTitle"
+msgid "Poisonous Snake"
+msgstr ""
+
+msgctxt "Priest_Description"
+msgid ""
+"An evil priest leads a religious sect conducting depraved rites in the "
+"shadows of respectable society."
+msgstr ""
+
+msgctxt "Priest_Title"
+msgid "Evil Priest"
+msgstr ""
+
+msgctxt "Scout_Description"
+msgid ""
+"Scouts are skilled hunters and trackers who offer their services for a fee."
+msgstr ""
+
+msgctxt "Scout_Title"
+msgid "Scout"
+msgstr ""
+
+msgctxt "SkeletonArcherDescription"
+msgid ""
+"Skeletons are animated by dark magic. They used to be living creatures but "
+"are now empty shells of hate, arisen from tombs or battlefields and craving "
+"for life… to kill."
+msgstr ""
+
+msgctxt "SkeletonArcherTitle"
+msgid "Skeleton Archer"
+msgstr ""
+
+msgctxt "SkeletonDescription"
+msgid ""
+"Skeletons are animated by dark magic. They used to be living creatures but "
+"are now empty shells of hate, arisen from tombs or battlefields and craving "
+"for life… to kill."
+msgstr ""
+
+msgctxt "SkeletonEnforcer_Description"
+msgid "A powerful undead creature armed with an axe and a shield."
+msgstr ""
+
+msgctxt "SkeletonEnforcer_Title"
+msgid "Skeletal Enforcer"
+msgstr ""
+
+msgctxt "SkeletonKnight_Description"
+msgid "A powerful undead creature, created by raising a dead knight."
+msgstr ""
+
+msgctxt "SkeletonKnight_Title"
+msgid "Skeletal Knight"
+msgstr ""
+
+msgctxt "SkeletonSorcerer_Description"
+msgid "A powerful undead creature with necromantic powers."
+msgstr ""
+
+msgctxt "SkeletonSorcerer_Title"
+msgid "Skeletal Sorcerer"
+msgstr ""
+
+msgctxt "SkeletonTitle"
+msgid "Skeleton"
+msgstr ""
+
+msgctxt "SorakAbominationDescription"
+msgid ""
+"A very large type of Sorr-Akkath, much stronger and deadlier than its "
+"smaller comrades, and apparently less intelligent."
+msgstr ""
+
+msgctxt "SorakAbominationTitle"
+msgid "Sorr-Akkath Abomination"
+msgstr ""
+
+msgctxt "SorakAcolyteOfSorr-TarrDescription"
+msgid "These spellcasters seem to be clerics of Sorr-Tarr."
+msgstr ""
+
+msgctxt "SorakAcolyteOfSorr-TarrTitle"
+msgid "Sorr-Akkath Acolyte of Sorr-Tarr"
+msgstr ""
+
+msgctxt "SorakAntipaladinDescription"
+msgid ""
+"A powerful armored fighter, with superior resistances and magical abilities."
+msgstr ""
+
+msgctxt "SorakAntipaladinTitle"
+msgid "Sorr-Akkath Shikkath"
+msgstr ""
+
+msgctxt "SorakAssassinDescription"
+msgid "A deadly killer who lurks in the shadows."
+msgstr ""
+
+msgctxt "SorakAssassinTitle"
+msgid "Sorr-Akkath Assassin"
+msgstr ""
+
+msgctxt "SorakGruntDescription"
+msgid "A basic Sorr-Akkath fighter, aggressive and ruthless."
+msgstr ""
+
+msgctxt "SorakGruntTitle"
+msgid "Sorr-Akkath Warrior"
+msgstr ""
+
+msgctxt "SorakSaboteurDescription"
+msgid "A support fighter, fast, cunning, and vicious."
+msgstr ""
+
+msgctxt "SorakSaboteurTitle"
+msgid "Sorr-Akkath Saboteur"
+msgstr ""
+
+msgctxt "SorakSkirmisherDescription"
+msgid "A Sorr-Akkath ranged fighter."
+msgstr ""
+
+msgctxt "SorakSkirmisherTitle"
+msgid "Sorr-Akkath Skirmisher"
+msgstr ""
+
+msgctxt "SpectralSpiderDescription"
+msgid "Dead Badlands spiders somehow transformed into undead."
+msgstr ""
+
+msgctxt "SpectralSpiderTitle"
+msgid "Spectral Spider"
+msgstr ""
+
+msgctxt "SpiderDescription"
+msgid "Larger than your usual house spider, this creature is quite dangerous."
+msgstr ""
+
+msgctxt "SpiderTitle"
+msgid "Badlands Spider"
+msgstr ""
+
+msgctxt "Spy_Description"
+msgid "A lawless rogue trained to spy and kill for wealthy masters."
+msgstr ""
+
+msgctxt "Spy_Title"
+msgid "Spy"
+msgstr ""
+
+msgctxt "Thug_Description"
+msgid ""
+"Thugs are ruthless enforcers skilled at intimidation and violence. They work "
+"for money and have few scruples."
+msgstr ""
+
+msgctxt "Thug_Title"
+msgid "Thug"
+msgstr ""
+
+msgctxt "TigerDrake_Description"
+msgid "A large flying snake with terrible poison in its fangs."
+msgstr ""
+
+msgctxt "TigerDrake_Title"
+msgid "Tiger Drake"
+msgstr ""
+
+msgctxt "TutoAlphaWolfDescription"
+msgid "An adult wolf, looking particularly aggressive."
+msgstr ""
+
+msgctxt "TutoAlphaWolfTitle"
+msgid "Grayback Wolf"
+msgstr ""
+
+msgctxt "TutoWolfDescription"
+msgid "A wandering wolf, looking skinny and weak, but famished."
+msgstr ""
+
+msgctxt "TutoWolfTitle"
+msgid "Starving Wolf"
+msgstr ""
+
+msgctxt "VeteranDescription"
+msgid ""
+"Veterans are professional fighters who take up arms for pay or in defense of "
+"something they value or believe in. They include retired soldiers as well as "
+"mercenaries who have never served anyone's interests but their own."
+msgstr ""
+
+msgctxt "VeteranTitle"
+msgid "Veteran"
+msgstr ""
+
+msgctxt "WightDescription"
+msgid "A Wight"
+msgstr ""
+
+msgctxt "WightTitle"
+msgid "Wight"
+msgstr ""
+
+msgctxt "WinterWolf_Description"
+msgid "A large arctic wolf with a cold breath attack."
+msgstr ""
+
+msgctxt "WinterWolf_Title"
+msgid "Winter Wolf"
+msgstr ""
+
+msgctxt "WolfDescription"
+msgid "A typical wild beast from Solasta's grasslands and forests."
+msgstr ""
+
+msgctxt "WolfTitle"
+msgid "Wolf"
+msgstr ""
+
+msgctxt "WorkerDescription"
+msgid "A human working in the Badlands, of unknown affiliation."
+msgstr ""
+
+msgctxt "WorkerTitle"
+msgid "Unknown Human"
+msgstr ""
+
+msgctxt "ZombieDescription"
+msgid "A ravenous undead creature, constantly searching for flesh to eat."
+msgstr ""
+
+msgctxt "ZombieTitle"
+msgid "Zombie"
+msgstr ""
+
+msgctxt "Werewolf_Title"
+msgid "Werewolf"
+msgstr ""
+
+msgctxt "Werewolf_Description"
+msgid ""
+"A shapechanger in human form, he retains some of his unnatural powers, "
+"including a fantastic resistance to non-silvered weapons."
+msgstr ""
+
+msgctxt "ConjuredBeast_Title"
+msgid "Conjured Beast"
+msgstr ""
+
+msgctxt "ConjuredBeast_Description"
+msgid "This creature has been conjured."
+msgstr ""
+
+msgctxt "Redscar_Orc_Grunt_Title"
+msgid "Redscar Orc"
+msgstr ""
+
+msgctxt "Redscar_Orc_Grunt_Description"
+msgid "One of Arrok's pawns, this orc has been blessed with the power of fire."
+msgstr ""
+
+msgctxt "Redscar_Orc_Beastmaster_Title"
+msgid "Orc Beastmaster"
+msgstr ""
+
+msgctxt "Redscar_Orc_Beastmaster_Description"
+msgid ""
+"An elusive orc, less confrontational than most, who uses his tamed beasts to "
+"fight for him."
+msgstr ""
+
+msgctxt "GoblinCutthroatTitle"
+msgid "Goblin Cutthroat"
+msgstr ""
+
+msgctxt "GoblinCutthroatDescription"
+msgid "A veteran goblin who became a skilled killer."
+msgstr ""
+
+msgctxt "Veteran_Agent_Description"
+msgid "This veteran mercenary seems inhabited by a fanatic fury."
+msgstr ""
+
+msgctxt "Veteran_Agent_Title"
+msgid "Mysterious Attacker"
+msgstr ""
+
+msgctxt "Darkweaver_Agent_Description"
+msgid "This Darkweaver seems inhabited by a fanatic fury."
+msgstr ""
+
+msgctxt "Darkweaver_Agent_Title"
+msgid "Mysterious Attacker"
+msgstr ""
+
+msgctxt "CaravanMerchant_Title"
+msgid "Traveling Merchant"
+msgstr ""
+
+msgctxt "SpiderQueenTitle"
+msgid "Spider Queen"
+msgstr ""
+
+msgctxt "SpiderQueenDescription"
+msgid "A gigantic spider that must have lived centuries in the dark."
+msgstr ""
+
+msgctxt "FireOsprey_Title"
+msgid "Fire Osprey"
+msgstr ""
+
+msgctxt "FireOsprey_Description"
+msgid ""
+"A bat-shaped fire elemental, only encountered in the depths of the Badlands."
+msgstr ""
+
+msgctxt "OrcMerchantTitle"
+msgid "Orc Merchant"
+msgstr ""
+
+msgctxt "FireElemental_Title"
+msgid "Fire Elemental"
+msgstr ""
+
+msgctxt "SkeletonMarksman_Title"
+msgid "Skeletal Marksman"
+msgstr ""
+
+msgctxt "SkeletonMarksman_Description"
+msgid ""
+"A powerful skeleton archer that shoots magical arrows imbued with necrotic "
+"magic."
+msgstr ""
+
+msgctxt "Wraith_Title"
+msgid "Badlands Wraith"
+msgstr ""
+
+msgctxt "Wraith_Description"
+msgid "An incorporeal undead that can drain your life and hates light."
+msgstr ""
+
+msgctxt "MinorFireElemental_Title"
+msgid "Fire Jester"
+msgstr ""
+
+msgctxt "MinorFireElemental_Description"
+msgid "A small fire elemental that likes to burn stuff."
+msgstr ""
+
+msgctxt "Orc_Grimblade_Title"
+msgid "Orc Grimblade"
+msgstr ""
+
+msgctxt "Orc_Grimblade_Description"
+msgid ""
+"A sneaky orc trained to use the shadows to stab its enemies in the back."
+msgstr ""
+
+msgctxt "CrimsonSpider_Title"
+msgid "Crimson Spider"
+msgstr ""
+
+msgctxt "CrimsonSpider_Description"
+msgid "A giant spider from the underground acid lakes of the Badlands."
+msgstr ""
+
+msgctxt "AirElemental_Title"
+msgid "Air Elemental"
+msgstr ""
+
+msgctxt "AirElemental_Description"
+msgid "A flying current of whirling air animated by magical elemental forces."
+msgstr ""
+
+msgctxt "FireElemental_Description"
+msgid "A creature of pure fire, animated by magical elemental forces."
+msgstr ""
+
+msgctxt "EarthElemental_Title"
+msgid "Earth Elemental"
+msgstr ""
+
+msgctxt "EarthElemental_Description"
+msgid "A bulky stone creature animated by magical elemental forces."
+msgstr ""
+
+msgctxt "WindSnake_Title"
+msgid "Wind Snake"
+msgstr ""
+
+msgctxt "WindSnake_Description"
+msgid "A small air elemental that can freeze you to death."
+msgstr ""
+
+msgctxt "SkarnGhoul_Title"
+msgid "Skarn Ghoul"
+msgstr ""
+
+msgctxt "SkarnGhoul_Description"
+msgid ""
+"A small earth elemental made of skarn rock that can slam your feet until "
+"they hurt."
+msgstr ""
+
+msgctxt "Redeemer_PilgrimTitle"
+msgid "Pilgrim"
+msgstr ""
+
+msgctxt "Redeemer_PilgrimDescription"
+msgid ""
+"A large insect that is a member of the Redeemer species, its bite is acidic "
+"and it can spray pheromones that trigger a frenzy among its ranks."
+msgstr ""
+
+msgctxt "Redeemer_ZealotTitle"
+msgid "Zealot"
+msgstr ""
+
+msgctxt "Redeemer_ZealotDescription"
+msgid ""
+"A very large insect that is a member of the Redeemer species, with a "
+"capacity to attack with electric shocks."
+msgstr ""
+
+msgctxt "Highpriest_Infiltrator_Title"
+msgid "Priest of Arivad"
+msgstr ""
+
+msgctxt "CubeOfLightTitle"
+msgid "Cube of Light"
+msgstr ""
+
+msgctxt "CubeOfLightDescription"
+msgid "A weird creature of light and magic of unknown origin."
+msgstr ""
+
+msgctxt "GreenDragon_Title"
+msgid "Green Dragon"
+msgstr ""
+
+msgctxt "GreenDragon_Description"
+msgid ""
+"This dragon seems to be the master of conjuration of the old Imperial "
+"Arcaneum!"
+msgstr ""
+
+msgctxt "Remorhaz_Title"
+msgid "Remorhaz"
+msgstr ""
+
+msgctxt "Remorhaz_Description"
+msgid "A monstrous insect capable of swallowing an adventurer whole!"
+msgstr ""
+
+msgctxt "Sorak_Tshar_Boss_Title"
+msgid "Sorr-Akkath Tshar"
+msgstr ""
+
+msgctxt "Sorak_Tshar_Boss_Description"
+msgid ""
+"The leader of the Soraks on Solasta, an ancient and powerful Acolyte of Sorr-"
+"Tarr."
+msgstr ""
+
+msgctxt "Divine_Avatar_01_Title"
+msgid "Divine Avatar"
+msgstr ""
+
+msgctxt "Divine_Avatar_01_Description"
+msgid "A powerful creature sent by a deity to support a believer in need."
+msgstr ""
+
+msgctxt "BlackDragon_Title"
+msgid "Black Dragon"
+msgstr ""
+
+msgctxt "BlackDragon_Description"
+msgid ""
+"It looks like this Black Dragon is actually Mardracht, the Master of "
+"Necromancy of the Manacalon Arcaneum!"
+msgstr ""
+
+msgctxt "Spiderling_Title"
+msgid "Spiderlings"
+msgstr ""
+
+msgctxt "Spiderling_Description"
+msgid ""
+"Offspring of the Old Queen. She loves them so much that she eats them once "
+"in a while."
+msgstr ""
+
+msgctxt "YoungRemorhaz_Title"
+msgid "Remorhaz Offspring"
+msgstr ""
+
+msgctxt "YoungRemorhaz_Description"
+msgid "The offspring of the apex predator are terrifying little monsters."
+msgstr ""
+
+msgctxt "BlackYoungDragon_Title"
+msgid "Young Black Dragon"
+msgstr ""
+
+msgctxt "BlackYoungDragon_Description"
+msgid "A smaller dragon, degenerated by the chaotic magic of the badlands."
+msgstr ""
+
+msgctxt "GreenYoungDragon_Title"
+msgid "Young Green Dragon"
+msgstr ""
+
+msgctxt "GreenYoungDragon_Description"
+msgid "A smaller dragon, degenerated by the chaotic magic of the badlands."
+msgstr ""
+
+msgctxt "GoldDragon_Title"
+msgid "Gold Dragon"
+msgstr ""
+
+msgctxt "GoldDragon_Description"
+msgid ""
+"It looks like this Gold Dragon is actually Adrasteia, the Master of "
+"Abjuration of the Manacalon Arcaneum!"
+msgstr ""
+
+msgctxt "BrownBear_Title"
+msgid "Brown Bear"
+msgstr ""
+
+msgctxt "BrownBear_Description"
+msgid "A savage beast, commonly met everywhere in the known world."
+msgstr ""
+
+msgctxt "BlackBear_Title"
+msgid "Black Bear"
+msgstr ""
+
+msgctxt "BlackBear_Description"
+msgid "A dangerous beast, commonly encounted in caves and forests."
+msgstr ""
+
+msgctxt "WereBear_Title"
+msgid "Werebear"
+msgstr ""
+
+msgctxt "WereBear_Description"
+msgid ""
+"A monstruous lycanthrope turned into a huge bear, almost impossible to hurt."
+msgstr ""
+
+msgctxt "BadlandsBear_Title"
+msgid "Badlands Bear"
+msgstr ""
+
+msgctxt "BadlandsBear_Description"
+msgid ""
+"Another beast that was horribly mutated by the magic of the Badlands over "
+"generations, and resulted in a monstrosity."
+msgstr ""
+
+msgctxt "MutatedBear_Title"
+msgid "Mutated Bear"
+msgstr ""
+
+msgctxt "MutatedBear_Description"
+msgid ""
+"This Badlands Bear has been intentionally modified with magic, making it "
+"more brutal and dangerous than it used to be."
+msgstr ""
+
+msgctxt "Oni_Title"
+msgid "Oni"
+msgstr ""
+
+msgctxt "BadlandsOni_Title"
+msgid "Badlands Oni"
+msgstr ""
+
+msgctxt "MutatedOni_Title"
+msgid "Mutated Oni"
+msgstr ""
+
+msgctxt "Ape_Title"
+msgid "Ape"
+msgstr ""
+
+msgctxt "Ape_Description"
+msgid "A large, powerful ape, typical of the jungles of the old Empire."
+msgstr ""
+
+msgctxt "GiantApe_Title"
+msgid "Giant Ape"
+msgstr ""
+
+msgctxt "MutatedGiantApe_Title"
+msgid "Mutated Giant Ape"
+msgstr ""
+
+msgctxt "Dryad_Title"
+msgid "Dryad"
+msgstr ""
+
+msgctxt "BadlandsDryad_Title"
+msgid "Badlands Dryad"
+msgstr ""
+
+msgctxt "MutatedDryad_Title"
+msgid "Mutated Dryad"
+msgstr ""
+
+msgctxt "StoneGolem_Title"
+msgid "Stone Golem"
+msgstr ""
+
+msgctxt "ClayGolem_Title"
+msgid "Clay Golem"
+msgstr ""
+
+msgctxt "IronGolem_Title"
+msgid "Iron Golem"
+msgstr ""
+
+msgctxt "Roc_Title"
+msgid "Roc"
+msgstr ""
+
+msgctxt "WightLord_Title"
+msgid "Wight Lord"
+msgstr ""
+
+msgctxt "MinotaurElite_Title"
+msgid "Minotaur Elite"
+msgstr ""
+
+msgctxt "MinotaurElite_Description"
+msgid ""
+"Among the powerful Minotaur, some arise as superior fighters and get extra "
+"training, enough to master deadly skills and even more strength and power "
+"than their brothers."
+msgstr ""
+
+msgctxt "SpectralMinotaur_Title"
+msgid "Spectral Minotaur"
+msgstr ""
+
+msgctxt "SpectralMinotaur_Description"
+msgid ""
+"Such dreadful creatures can only be created by twisted necromancers, who "
+"wish to prolong a Minotaur's slavery indefinitely, in death."
+msgstr ""
+
+msgctxt "FrostGiant_Title"
+msgid "Frost Giant"
+msgstr ""
+
+msgctxt "FrostGiant_Description"
+msgid ""
+"Made of ice and snow, their heart is also cold. These creatures live for "
+"battle and mayhem."
+msgstr ""
+
+msgctxt "FireGiant_Title"
+msgid "Fire Giant"
+msgstr ""
+
+msgctxt "FireGiant_Description"
+msgid ""
+"Born in the fires of the volcanos under the Badlands, trained to fight and "
+"forge, these huge creatures are alas generally hostile."
+msgstr ""
+
+msgctxt "StoneGiant_Title"
+msgid "Stone Giant"
+msgstr ""
+
+msgctxt "StoneGiant_Description"
+msgid ""
+"Immense creatures born of the very earth of Solasta, they dwell in gigantic "
+"caves and never feel at home under the sky."
+msgstr ""
+
+msgctxt "HillGiant_Title"
+msgid "Hill Giant"
+msgstr ""
+
+msgctxt "HillGiant_Description"
+msgid ""
+"Stupid and voracious, these creatures are in constant search of food, and "
+"that may very well mean you and your friends."
+msgstr ""
+
+msgctxt "Troll_Title"
+msgid "Troll"
+msgstr ""
+
+msgctxt "Troll_Description"
+msgid "Regeneration"
+msgstr ""
+
+msgctxt "Troll_Regeneration_Title"
+msgid "Trolls regenerate 10HP per round unless damage by acid."
+msgstr ""
+
+msgctxt "Troll_Regeneration_Description"
+msgid "Troll"
+msgstr ""
+
+msgctxt "Bulette_Title"
+msgid "Bulette"
+msgstr ""
+
+msgctxt "Mummy_Title"
+msgid "Mummy"
+msgstr ""
+
+msgctxt "MummyLord_Title"
+msgid "Mummy Lord"
+msgstr ""
+
+msgctxt "GiantBeetle_Title"
+msgid "Giant Beetle"
+msgstr ""
+
+msgctxt "GiantBeetle_Description"
+msgid ""
+"A huge insect from the Badlands. It might have been an ancestor of the "
+"dreadful Redeemers."
+msgstr ""
+
+msgctxt "MummyLordTitle"
+msgid "Mummy Lord"
+msgstr ""
+
+msgctxt "MummyLordDescription"
+msgid "TBC descripiton"
+msgstr ""

@@ -1,0 +1,2529 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 23:45+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "AbilityAndSkillFormat"
+msgid "{0} ({1})"
+msgstr "{0}({1})"
+
+msgctxt "AbilityCheckFormat"
+msgid "{0} d20{1}"
+msgstr "{0} d20{1}"
+
+msgctxt "AbilityCheckVersusDcFormat"
+msgid "{0} d20{1} vs DC {2}"
+msgstr "{0} d20{1} 대 DC {2}"
+
+msgctxt "AbilityScoreBonusFormat"
+msgid "+ Ability Bonus"
+msgstr "+ 능력 보너스"
+
+msgctxt "ActivationTypeActionTitle"
+msgid "Action"
+msgstr "행동"
+
+msgctxt "ActivationTypeBonusActionTitle"
+msgid "Bonus act."
+msgstr "보너스 행위."
+
+msgctxt "ActivationTypeHours1Title"
+msgid "1 hour"
+msgstr "1 시간"
+
+msgctxt "ActivationTypeHours24Title"
+msgid "24 hours"
+msgstr "24 시간"
+
+msgctxt "ActivationTypeMinute10Title"
+msgid "10 minutes"
+msgstr "10 분"
+
+msgctxt "ActivationTypeMinute1Title"
+msgid "1 minute"
+msgstr "1 분"
+
+msgctxt "ActivationTypeNoCostTitle"
+msgid "Free act."
+msgstr "자유로운 행동."
+
+msgctxt "ActivationTypeOnAttackHitTitle"
+msgid "On hit"
+msgstr "적중 시"
+
+msgctxt "ActivationTypeOnAttackHitWithBowTitle"
+msgid "On hit (bow)"
+msgstr "명중 시(활)"
+
+msgctxt "ActivationTypePermanentUnlessIncapacitatedTitle"
+msgid "Permanent"
+msgstr "영구적 인"
+
+msgctxt "ActivationTypeReactionTitle"
+msgid "Reaction"
+msgstr "반응"
+
+msgctxt "ActivationTypeRestDescription"
+msgid "This power can be activated during a rest"
+msgstr "이 힘은 휴식 중에 활성화될 수 있습니다."
+
+msgctxt "ActivationTypeRestTitle"
+msgid "Rest"
+msgstr "쉬다"
+
+msgctxt "AlignmentDescription"
+msgid ""
+"A typical creature in the game world has an alignment, which broadly "
+"describes its moral and personal attitudes. Alignment is a combination of "
+"two factors: one identifies morality (good, evil, or neutral), and the other "
+"describes attitudes toward society and order (lawful, chaotic, or neutral)."
+msgstr ""
+"게임 세계의 전형적인 생물은 도덕적이고 개인적인 태도를 광범위하게 설명하는 정렬을 가지고 있습니다. 정렬은 두 가지 요소의 조합입니다. "
+"하나는 도덕(선, 악 또는 중립)을 식별하고 다른 하나는 사회 및 질서에 대한 태도(합법, 혼돈 또는 중립)를 설명합니다."
+
+msgctxt "AlignmentTitle"
+msgid "Alignment"
+msgstr "조정"
+
+msgctxt "AlterationFormExtinguishFireFormat"
+msgid "Puts out fires"
+msgstr "불을 끈다"
+
+msgctxt "AlterationFormExtinguishLightFormat"
+msgid "Puts out lights"
+msgstr "불을 끈다"
+
+msgctxt "AlterationFormRemoveDarknessFormat"
+msgid "Removes Darkness"
+msgstr "어둠 제거"
+
+msgctxt "AlterationFormRevealTrapFormat"
+msgid "Reveals traps"
+msgstr "함정을 드러낸다"
+
+msgctxt "AlterationFormUnlockFormat"
+msgid "Unlocks a target object"
+msgstr "대상 개체의 잠금을 해제합니다."
+
+msgctxt "ChallengeDifficultyDeadlyTitle"
+msgid "Deadly"
+msgstr "치명적인"
+
+msgctxt "ChallengeDifficultyEasyTitle"
+msgid "Easy"
+msgstr "쉬운"
+
+msgctxt "ChallengeDifficultyHardTitle"
+msgid "Hard"
+msgstr "딱딱한"
+
+msgctxt "ChallengeDifficultyMediumTitle"
+msgid "Medium"
+msgstr "중간"
+
+msgctxt "ConditionAcidifiedDescription"
+msgid "Taking acid damage each turn until the effect ends."
+msgstr "효과가 끝날 때까지 매 턴마다 산성 피해를 입습니다."
+
+msgctxt "ConditionAcidifiedTitle"
+msgid "Acidified"
+msgstr "산성화"
+
+msgctxt "ConditionAidedDescription"
+msgid "Hit points (maximum/current) increased by 5 + advancement."
+msgstr "HP(최대/현재)가 5 + 전진으로 증가했습니다."
+
+msgctxt "ConditionAidedTitle"
+msgid "Aided"
+msgstr "지원"
+
+msgctxt "ConditionAntitoxin"
+msgid "Advantage on Constitution saving throws against poison."
+msgstr "헌법 내성의 이점은 독에 대한 던지기입니다."
+
+msgctxt "ConditionAsleepDescription"
+msgid "Unable to act until awoken"
+msgstr "깨어날 때까지 행동 불가"
+
+msgctxt "ConditionAsleepTitle"
+msgid "Asleep"
+msgstr "죽어"
+
+msgctxt "ConditionAuraOfCourageDescription"
+msgid "Immunity from being frightened."
+msgstr "겁에 질려 면역."
+
+msgctxt "ConditionAuraOfCourageTitle"
+msgid "Aura of Courage"
+msgstr "용기의 오라"
+
+msgctxt "ConditionAuraOfProtectionDescription"
+msgid "{0} bonus to saving throws."
+msgstr "내성 굴림에 {0} 보너스."
+
+msgctxt "ConditionAuraOfProtectionTitle"
+msgid "Aura of Protection"
+msgstr "보호의 오라"
+
+msgctxt "ConditionBackFromTheDead1Description"
+msgid ""
+"-1 penalty on attack rolls, saving throws and ability checks. Complete a "
+"long rest to reduce the penalty."
+msgstr "공격 굴림, 내성 굴림 및 능력 확인에 -1 페널티. 페널티를 줄이기 위해 긴 휴식을 완료하십시오."
+
+msgctxt "ConditionBackFromTheDead2Description"
+msgid ""
+"-2 penalty on attack rolls, saving throws and ability checks. Complete a "
+"long rest to reduce the penalty."
+msgstr "-2 공격 굴림, 내성 굴림 및 능력 확인에 패널티를 받습니다. 페널티를 줄이기 위해 긴 휴식을 완료하십시오."
+
+msgctxt "ConditionBackFromTheDead3Description"
+msgid ""
+"-3 penalty on attack rolls, saving throws and ability checks. Complete a "
+"long rest to reduce the penalty."
+msgstr "-3 공격 굴림, 내성 굴림 및 능력 검사에 대한 패널티. 페널티를 줄이기 위해 긴 휴식을 완료하십시오."
+
+msgctxt "ConditionBackFromTheDead4Description"
+msgid ""
+"-4 penalty on attack rolls, saving throws and ability checks. Complete a "
+"long rest to reduce the penalty."
+msgstr "-4 공격 굴림, 내성 굴림 및 능력 확인에 대한 패널티. 페널티를 줄이기 위해 긴 휴식을 완료하십시오."
+
+msgctxt "ConditionBackFromTheDeadTitle"
+msgid "Back from the Dead"
+msgstr "환생 하였다"
+
+msgctxt "ConditionBanedDescription"
+msgid "-1d4 to attacks, -1d4 to saving throws."
+msgstr "공격에 -1d4, 내성 굴림에 -1d4."
+
+msgctxt "ConditionBanedTitle"
+msgid "Banestruck"
+msgstr "베네스트트럭"
+
+msgctxt "ConditionBarkskinDescription"
+msgid "The creature's Armor Class becomes at least 16."
+msgstr "생물의 갑옷 등급은 최소 16이 됩니다."
+
+msgctxt "ConditionBarkskinTitle"
+msgid "Barkskin"
+msgstr "나무 껍질"
+
+msgctxt "ConditionBeaconOfHopeDescription"
+msgid ""
+"Advantage on Wisdom and death saving throws; healing restores maximum "
+"possible hit points."
+msgstr "지혜와 죽음 내성 굴림의 이점; 치유는 가능한 최대 HP를 회복합니다."
+
+msgctxt "ConditionBeaconOfHopeTitle"
+msgid "Beacon of Hope"
+msgstr "희망의 등대"
+
+msgctxt "ConditionBearsEnduranceDescription"
+msgid "Advantage on Constitution saving throws."
+msgstr "컨스티튜션 내성 굴림의 이점."
+
+msgctxt "ConditionBlessedDescription"
+msgid "+1d4 to attacks, +1d4 to saving throws."
+msgstr "공격에 +1d4, 내성 굴림에 +1d4."
+
+msgctxt "ConditionBlessedTitle"
+msgid "Blessed"
+msgstr "축복 받은"
+
+msgctxt "ConditionBlessingSorr-TarrTitle"
+msgid "Blessing of Sorr-Tarr"
+msgstr "소르타르의 축복"
+
+msgctxt "ConditionBlindedDescription"
+msgid ""
+"Cannot see anything; disadvantage on attacks; attacks against the creature "
+"have advantage."
+msgstr "아무것도 볼 수 없습니다. 공격에 대한 불이익; 생물에 대한 공격이 유리합니다."
+
+msgctxt "ConditionBlindedTitle"
+msgid "Blinded"
+msgstr "블라인드"
+
+msgctxt "ConditionBlurredDescription"
+msgid "Attacks on creature have disadvantage."
+msgstr "생물에 대한 공격에는 불이익이 있습니다."
+
+msgctxt "ConditionBlurredTitle"
+msgid "Blurred"
+msgstr "흐리게"
+
+msgctxt "ConditionBrandedDescription"
+msgid "Emits light; cannot become invisible."
+msgstr "빛을 방출합니다. 보이지 않게 될 수 없습니다."
+
+msgctxt "ConditionBrandedTitle"
+msgid "Branded"
+msgstr "브랜드"
+
+msgctxt "ConditionBullsStrengthDescription"
+msgid "Advantage on Strength saving throws."
+msgstr "스트렝스 내성굴림의 장점."
+
+msgctxt "ConditionCatsGraceDescription"
+msgid "Advantage on Dexterity saving throws and reduced falling damage."
+msgstr "민첩 내성 굴림 및 낙하 피해 감소에 이점이 있습니다."
+
+msgctxt "ConditionCharmedByHypnoticPatternDescription"
+msgid "Incapacitated and speed is 0, until wounded or awoken."
+msgstr "부상당하거나 깨어날 때까지 무력화되고 속도는 0입니다."
+
+msgctxt "ConditionCharmedByHypnoticPatternTitle"
+msgid "Charmed by Hypnosis"
+msgstr "최면에 매료되다"
+
+msgctxt "ConditionCharmedDescription"
+msgid "Considers the caster an ally."
+msgstr "시전자를 동료로 간주합니다."
+
+msgctxt "ConditionCharmedTitle"
+msgid "Charmed"
+msgstr "매혹"
+
+msgctxt "ConditionChilledDescription"
+msgid ""
+"Cannot gain hit points. If undead, disadvantage on attacking the caster."
+msgstr "체력을 얻을 수 없습니다. 언데드일 경우 시전자 공격에 불리하다."
+
+msgctxt "ConditionChilledTitle"
+msgid "Chilled"
+msgstr "냉장"
+
+msgctxt "ConditionCriticalCharacterDescription"
+msgid "If this character dies, the game is over."
+msgstr "이 캐릭터가 죽으면 게임이 종료됩니다."
+
+msgctxt "ConditionCriticalCharacterTitle"
+msgid "Critical Character"
+msgstr "크리티컬 캐릭터"
+
+msgctxt "ConditionCursedActionDescription"
+msgid "Must make a WIS saving throw to act."
+msgstr "행동하려면 WIS 내성 굴림을 해야 합니다."
+
+msgctxt "ConditionCursedActionTitle"
+msgid "Cursed (Action)"
+msgstr "저주(액션)"
+
+msgctxt "ConditionCursedAttackRollDescription"
+msgid "Disadvantage to attack roll against caster."
+msgstr "캐스터에 대한 공격 롤의 단점."
+
+msgctxt "ConditionCursedAttackRollTitle"
+msgid "Cursed (Attack Roll)"
+msgstr "저주(공격 굴림)"
+
+msgctxt "ConditionCursedCharismaDescription"
+msgid "Disadvantage on CHA saving throws and ability checks."
+msgstr "CHA 내성 굴림과 능력 검사의 단점."
+
+msgctxt "ConditionCursedCharismaTitle"
+msgid "Cursed (Charisma)"
+msgstr "저주(카리스마)"
+
+msgctxt "ConditionCursedConstitutionDescription"
+msgid "Disadvantage on CON saving throws and ability checks."
+msgstr "CON 내성 굴림과 능력 체크의 단점."
+
+msgctxt "ConditionCursedConstitutionTitle"
+msgid "Cursed (Constitution)"
+msgstr "저주받은(헌법)"
+
+msgctxt "ConditionCursedDamageDescription"
+msgid ""
+"Caster's attacks and spells against the target deal an extra 1d8 necrotic "
+"damage."
+msgstr "대상에 대한 시전자의 공격과 주문은 추가로 1d8의 괴사 피해를 입힙니다."
+
+msgctxt "ConditionCursedDamageTitle"
+msgid "Cursed (Damage)"
+msgstr "저주받은(데미지)"
+
+msgctxt "ConditionCursedDexterityDescription"
+msgid "Disadvantage on DEX saving throws and ability checks."
+msgstr "DEX 내성 굴림과 능력 체크의 단점."
+
+msgctxt "ConditionCursedDexterityTitle"
+msgid "Cursed (Dexterity)"
+msgstr "저주받은(손재주)"
+
+msgctxt "ConditionCursedIntelligenceDescription"
+msgid "Disadvantage on INT saving throws and ability checks."
+msgstr "INT 내성 굴림과 능력 체크의 단점."
+
+msgctxt "ConditionCursedIntelligenceTitle"
+msgid "Cursed (Intelligence)"
+msgstr "저주받은(지능)"
+
+msgctxt "ConditionCursedStrengthDescription"
+msgid "Disadvantage on STR saving throws and ability checks."
+msgstr "STR 내성 굴림과 능력 체크의 단점."
+
+msgctxt "ConditionCursedStrengthTitle"
+msgid "Cursed (Strength)"
+msgstr "저주받은(힘)"
+
+msgctxt "ConditionCursedTitle"
+msgid "Cursed"
+msgstr "저주 받은"
+
+msgctxt "ConditionCursedWisdomDescription"
+msgid "Disadvantage on WIS saving throws and ability checks."
+msgstr "WIS 내성 굴림과 능력 체크의 단점."
+
+msgctxt "ConditionCursedWisdomTitle"
+msgid "Cursed (Wisdom)"
+msgstr "저주받은(지혜)"
+
+msgctxt "ConditionDarkvisionDescription"
+msgid "See normally in dim light, and in natural darkness as if in dim light."
+msgstr "희미한 빛에서 정상적으로 볼 수 있으며 자연 어둠 속에서 마치 희미한 빛에 있는 것처럼 보입니다."
+
+msgctxt "ConditionDarkvisionTitle"
+msgid "Darkvision"
+msgstr "다크비전"
+
+msgctxt "ConditionDazzledDescription"
+msgid "Cannot take reactions and has -2 Armor Class penalty."
+msgstr "반응을 취할 수 없으며 -2 아머 클래스 페널티가 있습니다."
+
+msgctxt "ConditionDazzledTitle"
+msgid "Dazzled"
+msgstr "눈부신"
+
+msgctxt "ConditionDeadDescription"
+msgid "Cannot act until revived or resurrected."
+msgstr "부활하거나 부활할 때까지 행동할 수 없습니다."
+
+msgctxt "ConditionDeadTitle"
+msgid "Dead"
+msgstr "죽은"
+
+msgctxt "ConditionDeafenedDescription"
+msgid "Cannot hear anything."
+msgstr "아무것도들을 수 없습니다."
+
+msgctxt "ConditionDeafenedTitle"
+msgid "Deafened"
+msgstr "귀머거리"
+
+msgctxt "ConditionDetectEvilandGoodDescription"
+msgid "Detected as aberration, celestial, elemental, fey, fiend, or undead."
+msgstr "이상, 천공, 정령, 악령, 악마 또는 언데드로 감지됩니다."
+
+msgctxt "ConditionDetectEvilandGoodTitle"
+msgid "Detected as Evil/Good"
+msgstr "악/선으로 감지됨"
+
+msgctxt "ConditionDetectMagicDescription"
+msgid "Able to detect magic nearby."
+msgstr "근처의 마법을 감지할 수 있습니다."
+
+msgctxt "ConditionDetectMagicTitle"
+msgid "Detect Magic"
+msgstr "마법 감지"
+
+msgctxt "ConditionDiscipleImmuneColdDescription"
+msgid "Immune to cold damage and regain HP from cold."
+msgstr "냉기 피해에 면역이고 냉기에서 HP를 회복합니다."
+
+msgctxt "ConditionDiscipleImmuneColdTitle"
+msgid "Scholar of the Elements (Cold)"
+msgstr "원소의 학자(냉기)"
+
+msgctxt "ConditionDiscipleImmuneFireDescription"
+msgid "Immune to lightning damage and regain HP from lightning."
+msgstr "번개 피해에 면역이고 번개로부터 HP를 회복합니다."
+
+msgctxt "ConditionDiscipleImmuneFireTitle"
+msgid "Scholar of the Elements (Fire)"
+msgstr "원소의 학자(불)"
+
+msgctxt "ConditionDiscipleImmuneLightningDescription"
+msgid "Immune to fire damage and regain HP from fire."
+msgstr "화염 피해에 면역이 되고 화염 피해를 입으면 HP를 회복합니다."
+
+msgctxt "ConditionDiscipleImmuneLightningTitle"
+msgid "Scholar of the Elements (Lightning)"
+msgstr "원소의 학자(번개)"
+
+msgctxt "ConditionDiseasedDescription"
+msgid "The creature is afflicted with a disease."
+msgstr "생물은 질병에 시달리고 있습니다."
+
+msgctxt "ConditionDiseasedTitle"
+msgid "Diseased"
+msgstr "병에 걸린"
+
+msgctxt "ConditionDisengagingDescription"
+msgid "Unaffected by opportunity attacks."
+msgstr "기회 공격의 영향을 받지 않습니다."
+
+msgctxt "ConditionDisengagingTitle"
+msgid "Disengaging"
+msgstr "해제"
+
+msgctxt "ConditionDivineFavorDescription"
+msgid "Deals 1d4 additional radiant damage."
+msgstr "1d4의 추가 방사 피해를 입힙니다."
+
+msgctxt "ConditionDivineFavorTitle"
+msgid "Divine Favor"
+msgstr "신의 은총"
+
+msgctxt "ConditionDivinelyRevealedDescription"
+msgid ""
+"The creature's type and position are known to the caster of this effect."
+msgstr "이 효과의 시전자는 생물의 유형과 위치를 알 수 있습니다."
+
+msgctxt "ConditionDivinelyRevealedTitle"
+msgid "Divinely Revealed"
+msgstr "신성한 계시"
+
+msgctxt "ConditionDodgingDescription"
+msgid "Attacks on creature have disadvantage."
+msgstr "생물에 대한 공격에는 불이익이 있습니다."
+
+msgctxt "ConditionDodgingTitle"
+msgid "Dodging"
+msgstr "회피"
+
+msgctxt "ConditionDyingDescription"
+msgid "Will die soon unless stabilized."
+msgstr "안정되지 않으면 곧 죽을 것입니다."
+
+msgctxt "ConditionDyingTitle"
+msgid "Dying"
+msgstr "사망"
+
+msgctxt "ConditionEncumberedDescription"
+msgid "Speed is reduced by 2."
+msgstr "속도가 2 감소합니다."
+
+msgctxt "ConditionEncumberedTitle"
+msgid "Encumbered"
+msgstr "방해"
+
+msgctxt "ConditionEnfeebledDescription"
+msgid "Half damage on STR based attacks."
+msgstr "STR 기반 공격의 절반 피해."
+
+msgctxt "ConditionEnfeebledTitle"
+msgid "Weakened"
+msgstr "약화"
+
+msgctxt "ConditionEntangledTitle"
+msgid "Entangled"
+msgstr "빠뜨리는"
+
+msgctxt "ConditionExhaustedDescription"
+msgid "Weakened by exhaustion."
+msgstr "피로로 약해짐."
+
+msgctxt "ConditionExhaustedTitle"
+msgid "Exhausted"
+msgstr "탈진 한"
+
+msgctxt "ConditionExpeditiousRetreatDescription"
+msgid "Can dash as a bonus action."
+msgstr "보너스 액션으로 돌진할 수 있습니다."
+
+msgctxt "ConditionExpeditiousRetreatTitle"
+msgid "Expeditious Retreat"
+msgstr "긴급 후퇴"
+
+msgctxt "ConditionFalseLifeDescription"
+msgid "Additional temporary hit points."
+msgstr "추가 임시 히트 포인트."
+
+msgctxt "ConditionFalseLifeTitle"
+msgid "False Life"
+msgstr "거짓 생활"
+
+msgctxt "ConditionFeatherFallingDescription"
+msgid "Cannot be hurt by falls."
+msgstr "넘어져도 다치지 않습니다."
+
+msgctxt "ConditionFeatherFallingTitle"
+msgid "Feather Falling"
+msgstr "깃털 떨어지는"
+
+msgctxt "ConditionFlyingDescription"
+msgid "Target creature gains a flying speed of 12 cells per move action."
+msgstr "목표 생물은 이동 행동당 12셀의 비행 속도를 얻습니다."
+
+msgctxt "ConditionFlyingTitle"
+msgid "Flying"
+msgstr "나는"
+
+msgctxt "ConditionForceOfLawDescription"
+msgid "Impose disadvantage on the target's next saving throw."
+msgstr "대상의 다음 내성굴림에 불리함을 부과합니다."
+
+msgctxt "ConditionForceOfLawTitle"
+msgid "Force of Law"
+msgstr "법의 힘"
+
+msgctxt "ConditionFormAddBeneficialFormat"
+msgid "Grants: {0}"
+msgstr "교부금: {0}"
+
+msgctxt "ConditionFormAddDetrimentalFormat"
+msgid "Inflicts: {0}"
+msgstr "영향: {0}"
+
+msgctxt "ConditionFormAddNeutralFormat"
+msgid "Becomes: {0}"
+msgstr "다음이 됩니다: {0}"
+
+msgctxt "ConditionFormRemoveDetrimentalAllFormat"
+msgid "Removes all occurrences of these conditions: {0}."
+msgstr "다음 조건의 모든 발생을 제거합니다. {0}."
+
+msgctxt "ConditionFormRemoveDetrimentalRandomFormat"
+msgid "Removes one random occurrence of these conditions: {0}."
+msgstr "다음 조건 중 하나의 임의 발생을 제거합니다. {0}."
+
+msgctxt "ConditionFormRemoveFormat"
+msgid "Removes: {0}"
+msgstr "제거: {0}"
+
+msgctxt "ConditionFrightenedDescription"
+msgid ""
+"Unable to approach the source of fear, disadvantage on attack rolls and "
+"ability checks."
+msgstr "두려움의 근원에 접근할 수 없고, 공격 굴림과 능력 검사에 불리합니다."
+
+msgctxt "ConditionFrightenedFearDescription"
+msgid "Must run away from the source of fear."
+msgstr "두려움의 근원에서 도망쳐야 합니다."
+
+msgctxt "ConditionFrightenedFearTitle"
+msgid "Frightened (Fear)"
+msgstr "겁먹다(두려워)"
+
+msgctxt "ConditionFrightenedTitle"
+msgid "Frightened"
+msgstr "겁 먹은"
+
+msgctxt "ConditionGateKeeperDescription"
+msgid "Advantage to death saving throws."
+msgstr "죽음 내성 굴림의 이점."
+
+msgctxt "ConditionGateKeeperTitle"
+msgid "Gate Keeper"
+msgstr "게이트 키퍼"
+
+msgctxt "ConditionGiantStrengthCloudDescription"
+msgid "Strength becomes 27"
+msgstr "힘이 27이 된다"
+
+msgctxt "ConditionGiantStrengthCloudTitle"
+msgid "Giant Strength (Cloud)"
+msgstr "자이언트 스트렝스(클라우드)"
+
+msgctxt "ConditionGiantStrengthFireDescription"
+msgid "Strength becomes 25"
+msgstr "힘이 25가 된다"
+
+msgctxt "ConditionGiantStrengthFireTitle"
+msgid "Giant Strength (Fire)"
+msgstr "거인의 힘(화염)"
+
+msgctxt "ConditionGiantStrengthFrostDescription"
+msgid "Strength becomes 23"
+msgstr "힘이 23이 된다"
+
+msgctxt "ConditionGiantStrengthFrostTitle"
+msgid "Giant Strength (Frost)"
+msgstr "자이언트 스트렝스(프로스트)"
+
+msgctxt "ConditionGiantStrengthHillDescription"
+msgid "Strength becomes 21"
+msgstr "힘이 21이 된다"
+
+msgctxt "ConditionGiantStrengthHillTitle"
+msgid "Giant Strength (Hill)"
+msgstr "자이언트 스트렝스(언덕)"
+
+msgctxt "ConditionGrappledDescription"
+msgid "Cannot move."
+msgstr "이동할 수 없습니다."
+
+msgctxt "ConditionGrappledTitle"
+msgid "Grappled"
+msgstr "쟁쟁한"
+
+msgctxt "ConditionGuidedDescription"
+msgid "Add 1d4 to one ability check."
+msgstr "하나의 능력 검사에 1d4를 추가합니다."
+
+msgctxt "ConditionGuidedTitle"
+msgid "Guided"
+msgstr "안내"
+
+msgctxt "ConditionHastedDescription"
+msgid ""
+"Speed is doubled; +2 AC; Dexterity saving throws have advantage; able to "
+"take one more action per turn (Attack, Dash, Dodge, Disengage, Hide, Use "
+"Item)."
+msgstr ""
+"속도가 2배가 됩니다. +2 AC; 손재주 내성 굴림에는 이점이 있습니다. 한 턴에 한 번 더 행동할 수 있습니다(공격, 돌진, 회피, "
+"해제, 숨기기, 아이템 사용)."
+
+msgctxt "ConditionHastedTitle"
+msgid "Hasted"
+msgstr "서둘러"
+
+msgctxt "ConditionHealthyDescription"
+msgid "Not wounded."
+msgstr "다치지 않았습니다."
+
+msgctxt "ConditionHealthyTitle"
+msgid "Healthy"
+msgstr "건강한"
+
+msgctxt "ConditionHeavilyEncumberedDescription"
+msgid ""
+"Speed is reduced by 4.\n"
+"Disadvantage to attack rolls."
+msgstr ""
+"속도가 4 감소합니다.\n"
+"공격 롤의 단점."
+
+msgctxt "ConditionHeavilyEncumberedTitle"
+msgid "Heavily Encumbered"
+msgstr "심하게 방해"
+
+msgctxt "ConditionHeavilyObscuredTitle"
+msgid "Heavily Obscured"
+msgstr "심하게 가려져"
+
+msgctxt "ConditionHeraldOfBattleDescription"
+msgid "+1 to AC; +1 to attack and damage; +1 to all saving throws."
+msgstr "AC에 +1; +1 공격 및 피해 모든 내성 굴림에 +1."
+
+msgctxt "ConditionHeraldOfBattleTitle"
+msgid "Blessed by Herald of Battle"
+msgstr "축복받은 전투의 전령"
+
+msgctxt "ConditionHeroismTitle"
+msgid "Heroism"
+msgstr "영웅적 자질"
+
+msgctxt "ConditionHighlightedDescription"
+msgid "Creature cannot benefit from invisibility, attackers have advantage."
+msgstr "생물은 투명화의 이점을 얻을 수 없으며 공격자는 이점이 있습니다."
+
+msgctxt "ConditionHighlightedTitle"
+msgid "Highlighted"
+msgstr "하이라이트"
+
+msgctxt "ConditionHinderedDescription"
+msgid "Move speed -2."
+msgstr "이동 속도 -2."
+
+msgctxt "ConditionHinderedTitle"
+msgid "Hindered"
+msgstr "방해"
+
+msgctxt "ConditionIncapacitatedDescription"
+msgid "Unable to take actions or reactions."
+msgstr "행동이나 반응을 할 수 없습니다."
+
+msgctxt "ConditionIncapacitatedTitle"
+msgid "Incapacitated"
+msgstr "무력화"
+
+msgctxt "ConditionInStinkingCloudDescription"
+msgid ""
+"The creature has to make a successful CON saving to act on its turn.\n"
+"Vision is heavily obscured."
+msgstr ""
+"그 생물은 차례에 행동하기 위해 성공적인 CON 내성을 해야 합니다.\n"
+"시력이 심하게 흐려집니다."
+
+msgctxt "ConditionInStinkingCloudTitle"
+msgid "In Stinking Cloud"
+msgstr "스팅킹 클라우드에서"
+
+msgctxt "ConditionInvisibleDescription"
+msgid ""
+"Cannot be seen without magic; creature has advantage on attacks; attackers "
+"have disadvantage."
+msgstr "마법 없이는 볼 수 없습니다. 생물은 공격에 유리합니다. 공격자는 단점이 있습니다."
+
+msgctxt "ConditionInvisibleTitle"
+msgid "Invisible"
+msgstr "보이지 않는"
+
+msgctxt "ConditionJumpDescription"
+msgid "Jump distance increased."
+msgstr "점프 거리가 증가했습니다."
+
+msgctxt "ConditionJumpTitle"
+msgid "Jump"
+msgstr "도약"
+
+msgctxt "ConditionLethargicDescription"
+msgid "The creature cannot move or take any action until after its next turn."
+msgstr "생물은 다음 턴이 끝날 때까지 이동하거나 행동을 취할 수 없습니다."
+
+msgctxt "ConditionLethargicTitle"
+msgid "Lethargic"
+msgstr "무기력"
+
+msgctxt "ConditionLevitateDescription"
+msgid "The target creature hovers; caster can move it up or down."
+msgstr "목표 생물이 공중에 떠 있습니다. 캐스터는 위 또는 아래로 이동할 수 있습니다."
+
+msgctxt "ConditionLevitateTitle"
+msgid "Levitating"
+msgstr "공중부양"
+
+msgctxt "ConditionLifeDrainedDescription"
+msgid "Maximum hit points are reduced until a long rest is completed."
+msgstr "긴 휴식이 끝날 때까지 최대 체력이 감소합니다."
+
+msgctxt "ConditionLifeDrainedTitle"
+msgid "Drained"
+msgstr "배수"
+
+msgctxt "ConditionLightHypersensitiveDescription"
+msgid "Wounded by light."
+msgstr "빛에 의해 상처를 입었다."
+
+msgctxt "ConditionLightHypersensitiveTitle"
+msgid "Light Hypersensitive"
+msgstr "가벼운 과민성"
+
+msgctxt "ConditionLightSensitiveDescription"
+msgid "Disadvantaged by light."
+msgstr "빛에 약함."
+
+msgctxt "ConditionLightSensitiveTitle"
+msgid "Light Sensitive"
+msgstr "빛에 민감한"
+
+msgctxt "ConditionLongstriderDescription"
+msgid "Move speed increases by 2 cells."
+msgstr "이동 속도가 2셀 증가합니다."
+
+msgctxt "ConditionLongstriderTitle"
+msgid "Longstrider"
+msgstr "롱스트라이더"
+
+msgctxt "ConditionMagicallyArmoredDescription"
+msgid "Base Armor Class is set to 13."
+msgstr "기본 방어구 클래스는 13으로 설정됩니다."
+
+msgctxt "ConditionMagicallyArmoredTitle"
+msgid "Mage Armored"
+msgstr "마법사 갑옷"
+
+msgctxt "ConditionMagicallyAsleepDescription"
+msgid "Unable to act until awoken."
+msgstr "깨어날 때까지 행동할 수 없습니다."
+
+msgctxt "ConditionMagicallyAsleepTitle"
+msgid "Magically Asleep"
+msgstr "마법처럼 잠들다"
+
+msgctxt "ConditionMagicalWeaponDescription"
+msgid "Weapon can wound enemies that are immune to non-magical attacks."
+msgstr "무기는 마법이 아닌 공격에 면역인 적에게 상처를 줄 수 있습니다."
+
+msgctxt "ConditionMagicalWeaponTitle"
+msgid "Magical Weapon"
+msgstr "마법의 무기"
+
+msgctxt "ConditionMarkedByBrandingSmiteDescription"
+msgid "Emits light; cannot become invisible; revealed if invisible."
+msgstr "빛을 방출합니다. 보이지 않게 될 수 없습니다. 보이지 않는 경우 공개됩니다."
+
+msgctxt "ConditionMarkedByBrandingSmiteTitle"
+msgid "Branding Smite"
+msgstr "브랜딩 강타"
+
+msgctxt "ConditionMarkedByHunterDescription"
+msgid "Receives +1d6 damage when hit by the caster."
+msgstr "시전자에게 명중되면 +1d6의 피해를 받습니다."
+
+msgctxt "ConditionMarkedByHunterTitle"
+msgid "Hunter's Mark"
+msgstr "사냥꾼의 표식"
+
+msgctxt "ConditionMindControlledTitle"
+msgid "Mind Controlled"
+msgstr "마인드 컨트롤"
+
+msgctxt "ConditionOnFireDescription"
+msgid ""
+"Sustains continuous fire damage unless the fire is extinguished by an action."
+msgstr "행동으로 불이 꺼지지 않는 한 지속적인 화재 피해를 유지합니다."
+
+msgctxt "ConditionOnFireTitle"
+msgid "On Fire"
+msgstr "불에"
+
+msgctxt "ConditionParalyzedDescription"
+msgid ""
+"Unable to act; attacks against creature have advantage; automatic critical "
+"hit if attacked from a neighboring cell."
+msgstr "행동할 수 없음; 생물에 대한 공격이 유리합니다. 이웃 셀의 공격을 받으면 자동 치명타."
+
+msgctxt "ConditionParalyzedTitle"
+msgid "Paralyzed"
+msgstr "마비"
+
+msgctxt "ConditionPetrifiedDescription"
+msgid "Turned into stone; can hardly be hurt."
+msgstr "돌로 변했습니다. 거의 다칠 수 있습니다."
+
+msgctxt "ConditionPetrifiedTitle"
+msgid "Petrified"
+msgstr "석화"
+
+msgctxt "ConditionPoisonedDescription"
+msgid "Disadvantage on attacks and ability checks."
+msgstr "공격과 능력 체크에 불리하다."
+
+msgctxt "ConditionPoisonedTitle"
+msgid "Poisoned"
+msgstr "중독"
+
+msgctxt "ConditionPossessedDescription"
+msgid "Controlled by a supernatural being."
+msgstr "초자연적인 존재에 의해 통제됩니다."
+
+msgctxt "ConditionPossessedTitle"
+msgid "Possessed"
+msgstr "빙의"
+
+msgctxt "ConditionProneDescription"
+msgid "Can only move by crawling; vulnerable to close attacks."
+msgstr "크롤링으로만 이동할 수 있습니다. 근접 공격에 취약합니다."
+
+msgctxt "ConditionProneTitle"
+msgid "Prone"
+msgstr "경향"
+
+msgctxt "ConditionProtectedFromEvilTitle"
+msgid "Protected from Evil and Good"
+msgstr "악과 선으로부터 보호"
+
+msgctxt "ConditionResistingDescription"
+msgid "Add +1d4 to one saving throw."
+msgstr "내성 굴림 하나에 +1d4를 더합니다."
+
+msgctxt "ConditionResistingTitle"
+msgid "Resistant"
+msgstr "저항하는"
+
+msgctxt "ConditionRestrainedDescription"
+msgid ""
+"Unable to move; creature's attacks and Dexterity saving throws have "
+"disadvantage; attacks against creature have advantage."
+msgstr "움직일 수 없습니다. 생물의 공격과 민첩 내성 굴림에는 단점이 있습니다. 생물에 대한 공격이 유리합니다."
+
+msgctxt "ConditionRestrainedTitle"
+msgid "Restrained"
+msgstr "억제"
+
+msgctxt "ConditionSeeInvisibilityDescription"
+msgid "Can perceive invisible creatures."
+msgstr "보이지 않는 생물을 감지할 수 있습니다."
+
+msgctxt "ConditionSeeInvisibilityTitle"
+msgid "Invisibility Sight"
+msgstr "투명 시야"
+
+msgctxt "ConditionSeverelyWoundedDescription"
+msgid "Will soon die."
+msgstr "곧 죽을 것이다."
+
+msgctxt "ConditionSeverelyWoundedTitle"
+msgid "Severely Wounded"
+msgstr "중상"
+
+msgctxt "ConditionShieldedByFaithDescription"
+msgid "Armor Class +2."
+msgstr "방어구 클래스 +2."
+
+msgctxt "ConditionShieldedByFaithTitle"
+msgid "Shielded by Faith"
+msgstr "믿음으로 보호됨"
+
+msgctxt "ConditionShieldedDescription"
+msgid "Armor Class increases by +5 and immunity to magic missile."
+msgstr "아머 클래스가 +5 증가하고 마법 미사일에 대한 면역이 증가합니다."
+
+msgctxt "ConditionShieldedTitle"
+msgid "Shielded"
+msgstr "차폐"
+
+msgctxt "ConditionShockedDescription"
+msgid "Cannot use reactions."
+msgstr "반응을 사용할 수 없습니다."
+
+msgctxt "ConditionShockedTitle"
+msgid "Shocked"
+msgstr "충격"
+
+msgctxt "ConditionSleetStormDescription"
+msgid ""
+"Difficult terrain; can fall prone; heavily obscured; must roll concentration "
+"check."
+msgstr "어려운 지형; 넘어지기 쉽습니다. 심하게 가려져; 농도 확인을 해야 합니다."
+
+msgctxt "ConditionSleetStormTitle"
+msgid "In Sleet Storm"
+msgstr "진눈깨비에서"
+
+msgctxt "ConditionSlowedDescription"
+msgid ""
+"Speed halved; -2 to AC and DEX saves; max one action or bonus action; no "
+"reaction; max one attack per turn; spellcasting can fail."
+msgstr ""
+"속도가 절반으로 줄었습니다. -2 AC 및 DEX 저장 최대 하나의 액션 또는 보너스 액션; 반응 없음; 턴당 최대 한 번의 공격; "
+"맞춤법이 실패할 수 있습니다."
+
+msgctxt "ConditionSlowedTitle"
+msgid "Slowed"
+msgstr "느려짐"
+
+msgctxt "ConditionSpiderClimbDescription"
+msgid "Able to climb like a spider."
+msgstr "거미처럼 올라갈 수 있습니다."
+
+msgctxt "ConditionSpiderClimbTitle"
+msgid "Spider Climb"
+msgstr "스파이더 클라임"
+
+msgctxt "ConditionSpiritGuardiansDescription"
+msgid "Speed is halved; can sustain damage at the start of each turn."
+msgstr "속도가 절반으로 줄어듭니다. 각 턴이 시작될 때 피해를 입을 수 있습니다."
+
+msgctxt "ConditionSpiritGuardiansSelfDescription"
+msgid "The character is currently protected by Spirit Guardians."
+msgstr "캐릭터는 현재 Spirit Guardians의 보호를 받고 있습니다."
+
+msgctxt "ConditionSpiritGuardiansSelfTitle"
+msgid "Protected by Spirits."
+msgstr "영혼의 보호를 받습니다."
+
+msgctxt "ConditionSpiritGuardiansTitle"
+msgid "Targeted by Spirits"
+msgstr "영혼의 표적"
+
+msgctxt "ConditionStealthyDescription"
+msgid "Actively hiding."
+msgstr "적극적으로 숨어 있습니다."
+
+msgctxt "ConditionStealthyTitle"
+msgid "Stealthy"
+msgstr "은밀한"
+
+msgctxt "ConditionStunnedDescription"
+msgid ""
+"Unable to act or move; attacks against creatures have advantage; "
+"automatically fails Strength and Dexterity saving throws."
+msgstr "행동하거나 움직일 수 없습니다. 생물에 대한 공격이 유리합니다. 힘과 민첩 내성 굴림에 자동으로 실패합니다."
+
+msgctxt "ConditionStunnedTitle"
+msgid "Stunned"
+msgstr "기절"
+
+msgctxt "ConditionSurprisedDescription"
+msgid "Unable to act for one round."
+msgstr "한 라운드 동안 행동할 수 없습니다."
+
+msgctxt "ConditionSurprisedTitle"
+msgid "Surprised"
+msgstr "놀란"
+
+msgctxt "ConditionTargetedByGuidingBoltDescription"
+msgid "First attack against this creature has advantage."
+msgstr "이 생물에 대한 첫 번째 공격은 이점이 있습니다."
+
+msgctxt "ConditionTargetedByGuidingBoltTitle"
+msgid "Targeted by Guiding Bolt"
+msgstr "가이딩 볼트의 표적"
+
+msgctxt "ConditionTemporaryHitPointsDescription"
+msgid "The creature gains temporary hit points."
+msgstr "생물은 일시적인 체력을 얻습니다."
+
+msgctxt "ConditionTemporaryHitPointsTitle"
+msgid "Temporary HP"
+msgstr "임시 HP"
+
+msgctxt "ConditionTraditionShockArcanistArcaneFuryDescription"
+msgid ""
+"Damage of evocation spells increases by proficiency bonus and INT bonus."
+msgstr "소환 주문의 데미지는 숙련도 보너스와 INT 보너스로 증가합니다."
+
+msgctxt "ConditionTraditionShockArcanistArcaneFuryTitle"
+msgid "Arcane Fury"
+msgstr "신비한 분노"
+
+msgctxt "ConditionTrueStrikeDescription"
+msgid "Caster has advantage on his first attack against the spell's target."
+msgstr "캐스터는 주문의 대상에 대한 첫 번째 공격에 이점이 있습니다."
+
+msgctxt "ConditionTrueStrikeTitle"
+msgid "True Strike"
+msgstr "트루 스트라이크"
+
+msgctxt "ConditionTurnedDescription"
+msgid "Must move away from caster."
+msgstr "캐스터에서 멀리 이동해야 합니다."
+
+msgctxt "ConditionTurnedTitle"
+msgid "Turned"
+msgstr "돌린"
+
+msgctxt "ConditionTypeBeneficialFormat"
+msgid "Beneficial Condition"
+msgstr "유익한 조건"
+
+msgctxt "ConditionTypeDetrimentalFormat"
+msgid "Detrimental Condition"
+msgstr "해로운 상태"
+
+msgctxt "ConditionTypeNeutralFormat"
+msgid "Neutral Condition"
+msgstr "중립 조건"
+
+msgctxt "ConditionUnconsciousDescription"
+msgid "Unable to act until awoken."
+msgstr "깨어날 때까지 행동할 수 없습니다."
+
+msgctxt "ConditionUnconsciousTitle"
+msgid "Unconscious"
+msgstr "무의식"
+
+msgctxt "ConditionVampiricTouchDescription"
+msgid "Can perform a vampiric melee spell attack each turn."
+msgstr "매 턴마다 흡혈귀의 근접 주문 공격을 수행할 수 있습니다."
+
+msgctxt "ConditionVampiricTouchTitle"
+msgid "Vampiric Touch"
+msgstr "뱀파이어의 손길"
+
+msgctxt "ConditionWoundedDescription"
+msgid "Lost some hit points."
+msgstr "일부 히트 포인트를 잃었습니다."
+
+msgctxt "ConditionWoundedTitle"
+msgid "Wounded"
+msgstr "부상자"
+
+msgctxt "CostFormat"
+msgid "{0} {1}"
+msgstr "{0} {1}"
+
+msgctxt "CounterFormBreakConcentrationFormat"
+msgid "Provokes a concentration check."
+msgstr "집중 점검을 유발합니다."
+
+msgctxt "CounterFormDisperseCloudFormat"
+msgid "Disperses clouds in the area."
+msgstr "해당 지역에 구름을 분산시킵니다."
+
+msgctxt "CounterFormDissipateSpellsFormat"
+msgid ""
+"Spell up to level {0} automatically dispelled, DC {1}+ spell level otherwise."
+msgstr "레벨 {0}까지의 철자는 자동으로 무효화되고, 그렇지 않으면 DC {1}+ 철자 레벨입니다."
+
+msgctxt "CounterFormExtinguishLightFormat"
+msgid "Extinguishes light sources in the area."
+msgstr "해당 지역의 광원을 끕니다."
+
+msgctxt "CounterFormInterruptSpellcastingFormat"
+msgid ""
+"Spell up to level {0} automatically countered, DC {1}+ spell level otherwise."
+msgstr "레벨 {0}까지의 철자는 자동으로 무효화되고, 그렇지 않으면 DC {1}+ 철자 레벨입니다."
+
+msgctxt "CounterFormRemoveDarknessFormat"
+msgid "Removes areas of darkness."
+msgstr "어두운 영역을 제거합니다."
+
+msgctxt "DamageAcidDescription"
+msgid ""
+"The corrosive spray of a black dragon's breath and the dissolving enzymes "
+"secreted by a black pudding deal acid damage."
+msgstr "블랙 드래곤의 숨결의 부식성 스프레이와 블랙 푸딩이 분비하는 용해 효소가 산성 데미지를 입힌다."
+
+msgctxt "DamageAcidTitle"
+msgid "Acid"
+msgstr "산"
+
+msgctxt "DamageBludgeoningDescription"
+msgid ""
+"Blunt force attacks - hammers, falling, constriction, and the like - deal "
+"bludgeoning damage."
+msgstr "둔기 공격(망치, 낙하, 수축 등)은 두드리는 피해를 줍니다."
+
+msgctxt "DamageBludgeoningTitle"
+msgid "Bludgeoning"
+msgstr "덤벼들다"
+
+msgctxt "DamageColdDescription"
+msgid ""
+"The infernal chill radiating from an ice devil's spear and the frigid blast "
+"of a white dragon's breath deal cold damage."
+msgstr "얼음 악마의 창에서 방출되는 지옥의 냉기와 백룡의 숨결의 차가운 폭발이 냉기 피해를 줍니다."
+
+msgctxt "DamageColdTitle"
+msgid "Cold"
+msgstr "추운"
+
+msgctxt "DamageFireDescription"
+msgid ""
+"Red dragons breathe fire, and many spells conjure flames to deal fire damage."
+msgstr "레드 드래곤은 불을 내뿜으며 많은 주문이 화염을 일으켜 화염 피해를 입힙니다."
+
+msgctxt "DamageFireTitle"
+msgid "Fire"
+msgstr "불"
+
+msgctxt "DamageForceDescription"
+msgid ""
+"Force is pure magical energy focused into a damaging form. Most effects that "
+"deal force damage are spells, including magic missile and spiritual weapon."
+msgstr ""
+"포스는 손상을 입히는 형태로 집중된 순수한 마법 에너지입니다. 강제 피해를 주는 대부분의 효과는 마법 미사일과 영적 무기를 포함한 "
+"주문입니다."
+
+msgctxt "DamageForceTitle"
+msgid "Force"
+msgstr "힘"
+
+msgctxt "DamageFormFormat"
+msgid "{0}{1}{2}{3} damage {4}"
+msgstr "{0}{1}{2}{3} 피해 {4}"
+
+msgctxt "DamageFormTightFormat"
+msgid "{0}{1}{2}{3} dmg {4}"
+msgstr "{0}{1}{2}{3} 데미지 {4}"
+
+msgctxt "DamageLightningDescription"
+msgid ""
+"A lightning bolt spell and a blue dragon's breath deal lightning damage."
+msgstr "번개 화살 주문과 청룡의 숨결이 번개 피해를 줍니다."
+
+msgctxt "DamageLightningTitle"
+msgid "Lightning"
+msgstr "번개"
+
+msgctxt "DamageNecroticDescription"
+msgid ""
+"Necrotic damage, dealt by certain undead and spells such as chill touch, "
+"withers matter and even the soul."
+msgstr "특정 언데드와 오한과 같은 주문이 입히는 괴사 피해는 물질과 영혼을 시들게 합니다."
+
+msgctxt "DamageNecroticTitle"
+msgid "Necrotic"
+msgstr "괴사"
+
+msgctxt "DamagePiercingDescription"
+msgid ""
+"Puncturing and impaling attacks, including spears and monster bites, deal "
+"piercing damage."
+msgstr "창과 괴물 물기를 포함하여 구멍을 뚫고 꿰뚫는 공격은 관통 피해를 줍니다."
+
+msgctxt "DamagePiercingTitle"
+msgid "Piercing"
+msgstr "꿰뚫는"
+
+msgctxt "DamagePoisonDescription"
+msgid ""
+"Venomous stings and the toxic gas of a green dragon's breath deal poison "
+"damage."
+msgstr "독침과 그린 드래곤의 숨결의 유독 가스가 독 피해를 입힙니다."
+
+msgctxt "DamagePoisonTitle"
+msgid "Poison"
+msgstr "독"
+
+msgctxt "DamagePsychicDescription"
+msgid "Mental abilities deal psychic damage."
+msgstr "정신적 능력은 정신적 피해를 줍니다."
+
+msgctxt "DamagePsychicTitle"
+msgid "Psychic"
+msgstr "무당"
+
+msgctxt "DamageRadiantDescription"
+msgid ""
+"Radiant damage, dealt by a cleric's flame strike spell or an angel's smiting "
+"weapon, sears the flesh like fire and overloads the spirit with power."
+msgstr "성직자의 화염 공격 주문이나 천사의 강타 무기에 의해 입힌 광채 피해는 육체를 불처럼 그을리고 힘으로 영혼을 과부하시킵니다."
+
+msgctxt "DamageRadiantTitle"
+msgid "Radiant"
+msgstr "광점"
+
+msgctxt "DamageSlashingDescription"
+msgid "Swords, axes, and monsters' claws deal slashing damage."
+msgstr "검, 도끼, 몬스터의 발톱은 베는 피해를 줍니다."
+
+msgctxt "DamageSlashingTitle"
+msgid "Slashing"
+msgstr "날카로운"
+
+msgctxt "DamageThunderDescription"
+msgid ""
+"A concussive burst of sound, such as the effect of the thunderwave spell, "
+"deals thunder damage."
+msgstr "뇌파 주문의 효과와 같은 충격적인 폭발음은 천둥 피해를 입힙니다."
+
+msgctxt "DamageThunderTitle"
+msgid "Thunder"
+msgstr "우뢰"
+
+msgctxt "DamageTitle"
+msgid "Damage: "
+msgstr "피해를 주다:"
+
+msgctxt "DcFormat"
+msgid "DC {0}"
+msgstr "DC {0}"
+
+msgctxt "DieD10Title"
+msgid "d10"
+msgstr "d10"
+
+msgctxt "DieD12Title"
+msgid "d12"
+msgstr "d12"
+
+msgctxt "DieD1Title"
+msgid "d1"
+msgstr "d1"
+
+msgctxt "DieD20Title"
+msgid "d20"
+msgstr "d20"
+
+msgctxt "DieD2Title"
+msgid "d2"
+msgstr "d2"
+
+msgctxt "DieD3Title"
+msgid "d3"
+msgstr "d3"
+
+msgctxt "DieD4Title"
+msgid "d4"
+msgstr "d4"
+
+msgctxt "DieD6Title"
+msgid "d6"
+msgstr "d6"
+
+msgctxt "DieD8Title"
+msgid "d8"
+msgstr "d8"
+
+msgctxt "DivinationFormFormatIdentifyItem"
+msgid "Reveals all the properties of an item."
+msgstr "항목의 모든 속성을 표시합니다."
+
+msgctxt "DivinationFormFormatListCreatureFamilyInLocation"
+msgid "Senses the presence of creature types: {0}."
+msgstr "생물 유형의 존재 감지: {0}."
+
+msgctxt "DivinationFormFormatRevealEntitiesBearingTags"
+msgid "Reveals creatures or objects which are {0}."
+msgstr "{0}인 생물 또는 개체를 표시합니다."
+
+msgctxt "DurationAnyRestFormat"
+msgid "Until any rest"
+msgstr "쉬는 날까지"
+
+msgctxt "DurationDayPluralFormat"
+msgid "{0} days"
+msgstr "{0}일"
+
+msgctxt "DurationDaySingleFormat"
+msgid "{0} day"
+msgstr "{0}일"
+
+msgctxt "DurationHourPluralFormat"
+msgid "{0} hours "
+msgstr "{0}시간"
+
+msgctxt "DurationHourSingleFormat"
+msgid "{0} hour "
+msgstr "{0}시간"
+
+msgctxt "DurationInstantaneousFormat"
+msgid "Instant"
+msgstr "즉각적인"
+
+msgctxt "DurationLessMinuteFormat"
+msgid "<1 min"
+msgstr "<1분"
+
+msgctxt "DurationLongRestFormat"
+msgid "Until long rest"
+msgstr "긴 휴식까지"
+
+msgctxt "DurationMinutePluralFormat"
+msgid "{0} minutes "
+msgstr "{0}분"
+
+msgctxt "DurationMinuteSingleFormat"
+msgid "{0} minute "
+msgstr "{0}분"
+
+msgctxt "DurationNoneFormat"
+msgid "{0} round "
+msgstr "{0} 라운드"
+
+msgctxt "DurationPermanentFormat"
+msgid "Permanent"
+msgstr "영구적 인"
+
+msgctxt "DurationRoundPluralFormat"
+msgid "{0} rounds "
+msgstr "{0} 라운드"
+
+msgctxt "DurationRoundSingleFormat"
+msgid "{0} round "
+msgstr "{0} 라운드"
+
+msgctxt "DurationShortRestFormat"
+msgid "Until short rest"
+msgstr "짧은 휴식까지"
+
+msgctxt "DurationUntilEndOfSourceTurnFormat"
+msgid "Until the end of the source character's turn."
+msgstr "소스 캐릭터의 턴 종료 시까지."
+
+msgctxt "DurationUntilEndOfTargetTurnFormat"
+msgid "Until the end of this character's turn."
+msgstr "이 캐릭터의 턴이 끝날 때까지."
+
+msgctxt "DurationUntilStartOfSourceTurnFormat"
+msgid "Until the start of the source character's turn."
+msgstr "소스 캐릭터의 턴이 시작될 때까지."
+
+msgctxt "DurationUntilStartOfTargetTurnFormat"
+msgid "Until the start of this character's turn."
+msgstr "이 캐릭터의 턴이 시작될 때까지."
+
+msgctxt "EffectRangeDistanceTitle"
+msgid "{0}"
+msgstr "{0}"
+
+msgctxt "EffectRangeMeleeHitTitle"
+msgid "Melee Hit"
+msgstr "근접 공격"
+
+msgctxt "EffectRangeRangeHitTitle"
+msgid "Ranged Hit {0}"
+msgstr "원거리 적중 {0}"
+
+msgctxt "EffectRangeSelfTitle"
+msgid "Self"
+msgstr "본인"
+
+msgctxt "EffectRangeTouchTitle"
+msgid "Touch"
+msgstr "접촉"
+
+msgctxt "EffectTargetConeTitle"
+msgid "{0} {1}"
+msgstr "{0} {1}"
+
+msgctxt "EffectTargetCubeTitle"
+msgid "{0} {1}"
+msgstr "{0} {1}"
+
+msgctxt "EffectTargetCylinderTitle"
+msgid "{0} {1} x {2}"
+msgstr "{0} {1} x {2}"
+
+msgctxt "EffectTargetIndividualsTitle"
+msgid "{0}{1}"
+msgstr "{0}{1}"
+
+msgctxt "EffectTargetIndividualsUniqueTitle"
+msgid "{0}{1}"
+msgstr "{0}{1}"
+
+msgctxt "EffectTargetInLineOfSightWithinDistanceTitle"
+msgid "In Sight {0}"
+msgstr "시야에서 {0}"
+
+msgctxt "EffectTargetItemTitle"
+msgid "Item"
+msgstr "안건"
+
+msgctxt "EffectTargetLineTitle"
+msgid "{0} {1}"
+msgstr "{0} {1}"
+
+msgctxt "EffectTargetPerceivingWithinDistanceTitle"
+msgid "{0}{1}"
+msgstr "{0}{1}"
+
+msgctxt "EffectTargetPositionTitle"
+msgid "Ground"
+msgstr "지면"
+
+msgctxt "EffectTargetSelfTitle"
+msgid "Self"
+msgstr "본인"
+
+msgctxt "EffectTargetSharedAmongIndividualsTitle"
+msgid "{0} <> {1}"
+msgstr "{0} <> {1}"
+
+msgctxt "EffectTargetSphereTitle"
+msgid "{0} {1}"
+msgstr "{0} {1}"
+
+msgctxt "EffectTargetWallLineTitle"
+msgid "{0} {1} x {2}"
+msgstr "{0} {1} x {2}"
+
+msgctxt "EffectTargetWallRingTitle"
+msgid "{0} {1} x {2}"
+msgstr "{0} {1} x {2}"
+
+msgctxt "HealingFormFormat"
+msgid "{0}{1}{2} healing"
+msgstr "{0}{1}{2} 치유"
+
+msgctxt "HealingStabilize"
+msgid "Stabilizes a dying creature."
+msgstr "죽어가는 생물을 안정화시킵니다."
+
+msgctxt "HeightFormatFeet"
+msgid "{0}'"
+msgstr "{0}'"
+
+msgctxt "HeightFormatFeetInches"
+msgid "{0}'{1}\";{0}' {1}'';{0}'{1}\""
+msgstr "{0}'{1}\";{0}' {1}'';{0}'{1}\""
+
+msgctxt "ItemPropertyFormFormat"
+msgid ""
+"On target item: \n"
+"{0}"
+msgstr ""
+"대상 항목:\n"
+"{0}"
+
+msgctxt "LightSourceFormFormat"
+msgid "light source: {0} bright + {1} dim "
+msgstr "광원: {0} 밝음 + {1} 어두움"
+
+msgctxt "MaterialComponentTitle"
+msgid "M"
+msgstr "중"
+
+msgctxt "MotionFormLevitateFormat"
+msgid "Levitate {0}"
+msgstr "부상 {0}"
+
+msgctxt "MotionFormPullFormat"
+msgid "Pull in {0}"
+msgstr "{0}을(를) 당겨"
+
+msgctxt "MotionFormPushFormat"
+msgid "Push away {0}"
+msgstr "밀어내기 {0}"
+
+msgctxt "MotionFormTeleportFormat"
+msgid "Teleport {0}"
+msgstr "텔레포트 {0}"
+
+msgctxt "RateAtWillFormatTitle"
+msgid "at will"
+msgstr "마음대로"
+
+msgctxt "RateChannelDivinityFormatTitle"
+msgid "short rest"
+msgstr "짧은 휴식"
+
+msgctxt "Rated6FormatTitle"
+msgid "on 5 or 6 on 1d6"
+msgstr "1d6에서 5 또는 6에서"
+
+msgctxt "RateDawnFormatTitle"
+msgid "dawn"
+msgstr "새벽"
+
+msgctxt "RateHealingPoolFormatTitle"
+msgid "healing pool"
+msgstr "힐링 풀"
+
+msgctxt "RateLongRestFormatTitle"
+msgid "long rest"
+msgstr "긴 휴식"
+
+msgctxt "RateNoneFormatTitle"
+msgid "none"
+msgstr "없음"
+
+msgctxt "RateOneMinuteFormatTitle"
+msgid "every minute"
+msgstr "매 순간"
+
+msgctxt "RateShortRestFormatTitle"
+msgid "short rest"
+msgstr "짧은 휴식"
+
+msgctxt "RateSpellSlotFormatTitle"
+msgid "spell slots"
+msgstr "주문 슬롯"
+
+msgctxt "RecipeRequiredIngredientMultipleFormat"
+msgid "{0} x {1}"
+msgstr "{0} x {1}"
+
+msgctxt "RecipeRequiredIngredientSingleFormat"
+msgid "{0}"
+msgstr "{0}"
+
+msgctxt "RecipeRequiredSpellFormat"
+msgid "Ability to cast the {0} spell."
+msgstr "{0} 주문을 시전하는 능력."
+
+msgctxt "RecipeRequiredTooltypeFormat"
+msgid "Proficiency with {0}"
+msgstr "{0} 능숙도"
+
+msgctxt "SaveAffinityHalfDamageTitle"
+msgid "(save for {0})"
+msgstr "({0}에 저장)"
+
+msgctxt "SaveAffinityNegateAndCancelEachTurnTitle"
+msgid "(save each turn to cancel)"
+msgstr "(각 턴을 저장하여 취소)"
+
+msgctxt "SaveAffinityNegateTitle"
+msgid "(save to negate)"
+msgstr "(부정하기 위해 저장)"
+
+msgctxt "SituationalContextAttackerAwayFromTargetFormat"
+msgid "If attacker is away from the target:"
+msgstr "공격자가 대상에서 멀리 떨어져 있는 경우:"
+
+msgctxt "SituationalContextAttackerNextToTargetFormat"
+msgid "If attacker is next to the target:"
+msgstr "공격자가 대상 옆에 있는 경우:"
+
+msgctxt "SituationalContextAttackerOnHigherGroundThanTargetFormat"
+msgid "If attacker is on higher ground:"
+msgstr "공격자가 높은 위치에 있는 경우:"
+
+msgctxt "SituationalContextConsciousAllyNextToTargetFormat"
+msgid "if attacker has a conscious ally next to the target:"
+msgstr "공격자가 대상 옆에 의식적인 동맹이 있는 경우:"
+
+msgctxt "SituationalContextNextToWallFormat"
+msgid "if creature is next to a wall:"
+msgstr "생물이 벽 옆에 있는 경우:"
+
+msgctxt "SituationalContextTargetIsEffectSourceFormat"
+msgid "if creature is attacking the source of the effect:"
+msgstr "생물이 효과의 근원을 공격하는 경우:"
+
+msgctxt "SomaticComponentTitle"
+msgid "S"
+msgstr "NS"
+
+msgctxt "SpellLevel0FormatTitle"
+msgid "Cantrip"
+msgstr "주문"
+
+msgctxt "SpellLevel1FormatTitle"
+msgid "1st Level"
+msgstr "1층"
+
+msgctxt "SpellLevel2FormatTitle"
+msgid "2nd Level"
+msgstr "2단계"
+
+msgctxt "SpellLevel3FormatTitle"
+msgid "3rd Level"
+msgstr "3레벨"
+
+msgctxt "SpellLevel4FormatTitle"
+msgid "4th Level"
+msgstr "4레벨"
+
+msgctxt "SpellLevel5FormatTitle"
+msgid "5th Level"
+msgstr "5레벨"
+
+msgctxt "SpellLevel6FormatTitle"
+msgid "6th Level"
+msgstr "6레벨"
+
+msgctxt "SpellLevel7FormatTitle"
+msgid "7th Level"
+msgstr "7레벨"
+
+msgctxt "SpellLevel8FormatTitle"
+msgid "8th Level"
+msgstr "8레벨"
+
+msgctxt "SpellLevel9FormatTitle"
+msgid "9th Level"
+msgstr "9레벨"
+
+msgctxt "SpellSlotFormRecoverHalfLevelUpFormat"
+msgid ""
+"Recover half your class level (rounded up) of spells slots up to level {0}."
+msgstr "레벨 {0}까지 주문 슬롯의 클래스 레벨(반올림)의 절반을 회복합니다."
+
+msgctxt "SummonFormCreaturesMultipleFormat"
+msgid "Summon {0} (x {1})."
+msgstr "{0}(x {1})을(를) 소환합니다."
+
+msgctxt "SummonFormCreaturesSingleFormat"
+msgid "Summon {0}."
+msgstr "{0}을(를) 소환합니다."
+
+msgctxt "SummonFormEffectProxyFormat"
+msgid "Summon \"{0}\" for you to control "
+msgstr "당신이 제어할 \"{0}\" 소환"
+
+msgctxt "SummonFormInventoryItemsMultipleFormat"
+msgid "Summon {0} (x {1}) to the inventory"
+msgstr "인벤토리에 {0}(x {1}) 소환"
+
+msgctxt "SummonFormInventoryItemsSingleFormat"
+msgid "Summon {0} to the inventory"
+msgstr "인벤토리에 {0} 소환"
+
+msgctxt "TemporaryHitPointsFormFormat"
+msgid "{0}{1}{2} temporary hit points"
+msgstr "{0}{1}{2} 임시 히트 포인트"
+
+msgctxt "TopologyFormProjectileBlockerFormat"
+msgid "Blocks ordinary projectiles (arrows, bolts, etc.)"
+msgstr "일반 발사체(화살표, 볼트 등) 차단"
+
+msgctxt "TopologyFormSightBlockerFormat"
+msgid "Blocks line of sight"
+msgstr "시선 차단"
+
+msgctxt "TurnOccurenceEndOfTurnFormat"
+msgid "End of Round"
+msgstr "라운드 종료"
+
+msgctxt "TurnOccurenceEndOfTurnNoPerceptionOfSourceFormat"
+msgid "End of Turn"
+msgstr "턴 종료"
+
+msgctxt "TurnOccurenceStartOfTurnFormat"
+msgid "Start of Turn"
+msgstr "턴 시작"
+
+msgctxt "VerboseComponentTitle"
+msgid "V"
+msgstr "V"
+
+msgctxt "VersatileDamageFormFormat"
+msgid ""
+"\n"
+"Versatile: {0}{1}{2}{3}"
+msgstr ""
+"\n"
+"다목적: {0}{1}{2}{3}"
+
+msgctxt "VersatileTwoHandedTitle"
+msgid "Two-handed: "
+msgstr "두 손으로:"
+
+msgctxt "WeightFormat"
+msgid "{0} {1}"
+msgstr "{0} {1}"
+
+msgctxt "WeightRatioFormat"
+msgid "{0}/{1} {2}"
+msgstr "{0}/{1} {2}"
+
+msgctxt "TopologyFormDifficultThroughFormat"
+msgid "This area slows down those who walk through it."
+msgstr "이 지역은 통과하는 사람들의 속도를 늦춥니다."
+
+msgctxt "TopologyFormSightImpairedFormat"
+msgid "Creatures in this area cannot see anything."
+msgstr "이 지역의 생물은 아무것도 볼 수 없습니다."
+
+msgctxt "TopologyFormDangerousZoneFormat"
+msgid "This area hurts those who walk through it."
+msgstr "이 지역은 그것을 통과하는 사람들을 아프게합니다."
+
+msgctxt "EffectTargetCubeWithOffsetTitle"
+msgid "3-cell cube originating from you"
+msgstr "당신에게서 비롯된 3셀 큐브"
+
+msgctxt "ConditionBlessingSorrtarrTitle"
+msgid "Blessing of Sorr-Tarr"
+msgstr "소르타르의 축복"
+
+msgctxt "ConditionBlessingSorrtarrDescription"
+msgid "Appears to relieve the Soraks of their vulnerability to light."
+msgstr "빛에 대한 취약성을 소락에게 완화시키는 것으로 보입니다."
+
+msgctxt "ConditionAnnoyedByBeeTitle"
+msgid "Distracted by an Annoying Bee"
+msgstr "성가신 꿀벌에 의해 산만"
+
+msgctxt "ConditionAnnoyedByBeeDescription"
+msgid "Disadvantage on concentration until next turn."
+msgstr "다음 턴까지 집중에 불리하다."
+
+msgctxt "ConditionDetectPoisonAndDiseaseTitle"
+msgid "Detect Poison and Disease"
+msgstr "독과 질병 감지"
+
+msgctxt "ConditionDetectPoisonAndDiseaseDescription"
+msgid ""
+"For the duration of the spell, you can sense poisonous creatures and disease "
+"within 6 cells of you."
+msgstr "주문이 지속되는 동안 자신의 6칸 내에서 독성 생물과 질병을 감지할 수 있습니다."
+
+msgctxt "ConditionCharmedByAnimalFrienshipTitle"
+msgid "Charmed by Animal Friendship"
+msgstr "동물의 우정에 매료되다"
+
+msgctxt "ConditionCharmedByAnimalFrienshipDescription"
+msgid ""
+"This beast will be charmed for the spell's duration, or until you or one of "
+"your companions harms it."
+msgstr "이 야수는 주문의 지속 시간 동안 또는 당신이나 당신의 동료 중 한 명이 그것을 해칠 때까지 매혹됩니다."
+
+msgctxt "ConditionSanctuaryTitle"
+msgid "Sanctuary"
+msgstr "성역"
+
+msgctxt "ConditionSanctuaryDescription"
+msgid ""
+"You ward a creature within range against attack. Until the spell ends, any "
+"creature who targets the warded creature with an attack or harmful spell "
+"must make a Wisdom saving throw or choose another target."
+msgstr ""
+"당신은 공격으로부터 범위 내의 생물을 보호합니다. 주문이 끝날 때까지 공격이나 해로운 주문으로 보호받는 생물을 목표로 삼는 생물은 지혜 "
+"내성 굴림을 하거나 다른 목표를 선택해야 합니다."
+
+msgctxt "ConditionWardedBySanctuaryTitle"
+msgid "Shielded by Sanctuary"
+msgstr "성역으로 보호됨"
+
+msgctxt "ConditionWardedBySanctuaryDescription"
+msgid ""
+"You are warded until the spell ends or until you cast a spell or launch an "
+"attack."
+msgstr "주문이 끝날 때까지 또는 주문을 시전하거나 공격을 시작할 때까지 보호됩니다."
+
+msgctxt "ConditionProtectedFromEnergyAcidTitle"
+msgid "Protected from Acid"
+msgstr "산으로부터 보호"
+
+msgctxt "ConditionProtectedFromEnergyAcidDescription"
+msgid "Resistance to acid damage"
+msgstr "산성 손상에 대한 내성"
+
+msgctxt "ConditionProtectedFromEnergyColdTitle"
+msgid "Protected from Cold"
+msgstr "추위로부터 보호"
+
+msgctxt "ConditionProtectedFromEnergyColdDescription"
+msgid "Resistance to cold damage"
+msgstr "냉기 피해 저항"
+
+msgctxt "ConditionProtectedFromEnergyFireTitle"
+msgid "Protected from Fire"
+msgstr "화재로부터 보호"
+
+msgctxt "ConditionProtectedFromEnergyFireDescription"
+msgid "Resistance to fire damage"
+msgstr "화염 피해에 대한 저항"
+
+msgctxt "ConditionProtectedFromEnergyLightningTitle"
+msgid "Protected from Lightning"
+msgstr "번개로부터 보호"
+
+msgctxt "ConditionProtectedFromEnergyLightningDescription"
+msgid "Resistance to lightning damage"
+msgstr "번개 피해에 대한 내성"
+
+msgctxt "ConditionProtectedFromEnergyThunderTitle"
+msgid "Protected from Thunder"
+msgstr "천둥으로부터 보호"
+
+msgctxt "ConditionProtectedFromEnergyThunderDescription"
+msgid "Resistance to thunder damage"
+msgstr "천둥 피해에 대한 저항"
+
+msgctxt "AlterationFormDissipateSpellFormat"
+msgid "Dissipates spells on objects"
+msgstr "개체에 주문을 분산"
+
+msgctxt "ConditionMindControlledByConjureAnimalTitle"
+msgid "Conjured Animal"
+msgstr "창조된 동물"
+
+msgctxt "ConditionMindControlledByConjureAnimalDescription"
+msgid "This animal has been conjured by another creature."
+msgstr "이 동물은 다른 생물에 의해 소환되었습니다."
+
+msgctxt "ConditionSilencedTitle"
+msgid "Silenced"
+msgstr "침묵"
+
+msgctxt "ConditionWardedByWardingBondTitle"
+msgid "Warded by Warding Bond"
+msgstr "와드 본드에 의해 와드"
+
+msgctxt "ConditionWardedByWardingBondDescription"
+msgid "Temp"
+msgstr "온도"
+
+msgctxt "ConditionWaterWalkTitle"
+msgid "Water Walking"
+msgstr "워터 워킹"
+
+msgctxt "ConditionWaterWalkDescription"
+msgid "Temp"
+msgstr "온도"
+
+msgctxt "ConditionWaterBreathingTitle"
+msgid "Water Breathing"
+msgstr "물 호흡"
+
+msgctxt "ConditionWaterBreathingDescription"
+msgid "Temp"
+msgstr "온도"
+
+msgctxt "ConditionRestrictedInsideMagicCircleDescription"
+msgid "Temp"
+msgstr "온도"
+
+msgctxt "ConditionProtectedInsideMagicCircleDescription"
+msgid "Temp"
+msgstr "온도"
+
+msgctxt "ConditionComprehendLanguagesTitle"
+msgid "Comprehending Languages"
+msgstr "이해하는 언어"
+
+msgctxt "ConditionComprehendLanguagesDescription"
+msgid "Can read and speak any language."
+msgstr "모든 언어를 읽고 말할 수 있습니다."
+
+msgctxt "ConditionStaffOfMetisTitle"
+msgid "Elemental Resistance"
+msgstr "원소 저항"
+
+msgctxt "ConditionStaffOfMetisDescription"
+msgid "Resistance to Cold, Fire, and Lightning damage."
+msgstr "냉기, 화염 및 번개 피해에 대한 내성."
+
+msgctxt "ConditionFlying6Description"
+msgid "The target creature gains a flying speed of 6 cells per move action."
+msgstr "목표 생물은 이동 행동당 6칸의 비행 속도를 얻습니다."
+
+msgctxt "AlterationFormAbilityScoreIncreaseValueFormat"
+msgid "Increases {0} score by {1}."
+msgstr "{0} 점수를 {1} 증가시킵니다."
+
+msgctxt "AlterationFormAbilityScoreIncreaseMaximumFormat"
+msgid "Increases {0} maximum by {1}."
+msgstr "최대 {0}를 {1} 증가시킵니다."
+
+msgctxt "ConditionHeavyArmorOverloadDescription"
+msgid "Insufficient STR for this heavy armor. Speed is reduced by 2."
+msgstr "이 중장갑에는 STR이 충분하지 않습니다. 속도가 2 감소합니다."
+
+msgctxt "ConditionHeavyArmorOverloadTitle"
+msgid "Heavy Armor Overload"
+msgstr "중갑 과부하"
+
+msgctxt "MoveModeWalkTitle"
+msgid "Walk"
+msgstr "걷다"
+
+msgctxt "MoveModeClimbTitle"
+msgid "Climb"
+msgstr "오르다"
+
+msgctxt "MoveModeFlyTitle"
+msgid "Fly"
+msgstr "파리"
+
+msgctxt "MoveModeIncorporealTitle"
+msgid "Incorporeal"
+msgstr "무형"
+
+msgctxt "MoveModeSwimTitle"
+msgid "Swim"
+msgstr "수영"
+
+msgctxt "MoveModeBurrowTitle"
+msgid "Burrow"
+msgstr "굴"
+
+msgctxt "ConditionCloakOfDisplacementDescription"
+msgid ""
+"Attacks on this creature have disadvantage as long as it is conscious and "
+"able to move. Ceases to function until the next turn if damaged."
+msgstr "이 생물에 대한 공격은 의식이 있고 움직일 수 있는 한 불리합니다. 손상되면 다음 턴까지 작동을 멈춥니다."
+
+msgctxt "ConditionCloakOfDisplacementTitle"
+msgid "Displaced"
+msgstr "실향민"
+
+msgctxt "ConditionHeavilyObscuredDescription"
+msgid ""
+"Creature's vision is heavily obscured; disadvantage on attack rolls; attack "
+"rolls against creature have disadvantage."
+msgstr "크리처의 시야가 심하게 흐려집니다. 공격 굴림의 단점; 생물에 대한 공격 굴림에는 불이익이 있습니다."
+
+msgctxt "ConditionConjuredCreatureDescription"
+msgid "This creature has been conjured by a magical effect"
+msgstr "이 생물은 마법 효과에 의해 생성되었습니다."
+
+msgctxt "ConditionConjuredCreatureTitle"
+msgid "Conjured Creature"
+msgstr "창조된 생물"
+
+msgctxt "ConditionBleedingDescription"
+msgid "The creatures takes 1D6 necrotic damage at the beginning of its turn."
+msgstr "생물은 턴 시작 시 1D6 괴사 피해를 입습니다."
+
+msgctxt "ConditionBleedingTitle"
+msgid "Doomblade Cut"
+msgstr "둠블레이드 컷"
+
+msgctxt "ConditionSilencedDescription"
+msgid ""
+"The creature does not emit any sound and cannot speak or cast spells with a "
+"verbal component."
+msgstr "생물은 소리를 내지 않으며 언어 구성요소로 말하거나 주문을 시전할 수 없습니다."
+
+msgctxt "ConditionProtectedFromEvilDescription"
+msgid ""
+"Aberrations, celestials, elementals, feys, fiends, and undead have "
+"disadvantage to attack the target, and cannot charm, frighten, or possess "
+"it. If the target is already charmed, frightened, or possessed by such a "
+"creature, the target has advantage on any new saving throw against the "
+"relevant effect."
+msgstr ""
+"Aberrations, celestials, elementals, feys, fiends, undeads는 대상을 공격하는 데 불리한 "
+"점이 있으며, 대상을 매혹시키거나 겁주거나 소유할 수 없습니다. 목표가 이미 매혹되거나 겁에 질렸거나 그러한 생물에 사로잡혀 있다면 "
+"목표는 관련 효과에 대한 새로운 내성 굴림에 이점이 있습니다."
+
+msgctxt "ConditionMarkedByFateDescription"
+msgid "Receives additional damage when hit."
+msgstr "명중 시 추가 피해를 받습니다."
+
+msgctxt "ConditionMarkedByFateTitle"
+msgid "Mark of Fate"
+msgstr "운명의 표식"
+
+msgctxt "ConditionStepbackDescription"
+msgid "Advantage on the next attack with a bow this turn."
+msgstr "이번 턴에 활로 다음 공격에 유리합니다."
+
+msgctxt "ConditionStepbackTitle"
+msgid "Step Back Advantage"
+msgstr "뒤로 물러서기 이점"
+
+msgctxt "ConditionInvisibleGreaterDescription"
+msgid ""
+"Cannot be seen without magic; the creature has advantage on attacks; "
+"attackers have disadvantage. The creature remains invisible even when "
+"attacking and casting spells."
+msgstr ""
+"마법 없이는 볼 수 없습니다. 생물은 공격에 유리합니다. 공격자는 단점이 있습니다. 생물은 공격하고 주문을 시전할 때도 투명하게 "
+"유지됩니다."
+
+msgctxt "ConditionInvisibleGreaterTitle"
+msgid "Invisible (Greater)"
+msgstr "투명(상급)"
+
+msgctxt "ConditionStoneskinDescription"
+msgid "Resistance to non-magical bludgeoning, slashing, and piercing damage."
+msgstr "마법이 아닌 타격, 베기, 관통 피해에 대한 내성."
+
+msgctxt "ConditionStoneskinTitle"
+msgid "Stoneskin"
+msgstr "스톤스킨"
+
+msgctxt "ConditionFrightenedPhantasmalKillerDescription"
+msgid ""
+"The creature is frightened and receives psychic damage each turn until it "
+"succeeds on a saving throw."
+msgstr "그 생물은 겁에 질려 내성 굴림에 성공할 때까지 매 턴마다 사이킥 피해를 받습니다."
+
+msgctxt "ConditionFrightenedPhantasmalKillerTitle"
+msgid "Frightened by Phantasm"
+msgstr "환상에 겁먹다"
+
+msgctxt "ConditionFireShieldWarmDescription"
+msgid ""
+"Resistant to cold and retaliates with fire damage against melee attackers."
+msgstr "냉기에 강하고 근접 공격자에게 화염 피해로 반격합니다."
+
+msgctxt "ConditionFireShieldColdDescription"
+msgid ""
+"Resistant to fire and retaliates with cold damage against melee attackers."
+msgstr "화염에 강하고 근접 공격자에게 냉기 피해로 반격합니다."
+
+msgctxt "ConditionDeathWardedTitle"
+msgid "Death Warded"
+msgstr "죽음의 수호자"
+
+msgctxt "ConditionDeathWardedDescription"
+msgid ""
+"When reduced to 0 hit points, HP is set to 1 instead, preventing instant "
+"death from massive damage or effects."
+msgstr "HP가 0으로 감소하면 HP가 대신 1로 설정되어 막대한 피해나 효과로 인한 즉사를 방지합니다."
+
+msgctxt "ConditionConfusedTitle"
+msgid "Confused"
+msgstr "혼란스러운"
+
+msgctxt "ConditionConfusedDescription"
+msgid ""
+"At the start of this turn, the creature can move away, not act at all, melee "
+"attack a target within reach, or act normally."
+msgstr ""
+"이 턴이 시작될 때, 그 생물은 멀리 이동하거나 전혀 행동하지 않거나, 근접 공격 범위 내에서 목표물을 공격하거나, 정상적으로 행동할 수 "
+"있습니다."
+
+msgctxt "ConditionBanishedTitle"
+msgid "Banished"
+msgstr "추방"
+
+msgctxt "ConditionBanishedDescription"
+msgid ""
+"The creature is removed from the game for the duration of the spell, unless "
+"the spell is broken before then. If the spell remains unbroken for its "
+"entire duration, the creature is permanently banished if it is extraplanar ("
+"celestial, fiend, elemental)."
+msgstr ""
+"그 생물은 주문이 그 전에 깨지지 않는 한 주문이 지속되는 동안 게임에서 제거됩니다. 주문이 전체 지속 시간 동안 깨지지 않은 상태로 "
+"유지되는 경우 해당 생물은 평면 외(천공, 악마, 정령)인 경우 영구적으로 추방됩니다."
+
+msgctxt "SpecialBehaviourConditionDuringTurnFormat"
+msgid "{3} is affected during the turn."
+msgstr "{3}은(는) 턴 동안 영향을 받습니다."
+
+msgctxt "SpecialBehaviourNoneFormat"
+msgid "{3} acts normally."
+msgstr "{3}은(는) 정상적으로 작동합니다."
+
+msgctxt "ConditionConfusedAttackTitle"
+msgid "Randomly Attacking"
+msgstr "무작위 공격"
+
+msgctxt "ConditionConfusedAttackDescription"
+msgid ""
+"The creature must use its action to randomly attack a creature within its "
+"reach if possible."
+msgstr "생물은 가능한 경우 도달 범위 내에 있는 생물을 무작위로 공격하기 위해 행동을 사용해야 합니다."
+
+msgctxt "ConditionConfusedMoveTitle"
+msgid "Randomly Moving"
+msgstr "무작위로 이동"
+
+msgctxt "ConditionConfusedMoveDescription"
+msgid "The creature must move in a random direction."
+msgstr "생물은 무작위 방향으로 움직여야 합니다."
+
+msgctxt "ConditionConfusedIncapacitatedTitle"
+msgid "Incapacitated"
+msgstr "무력화"
+
+msgctxt "ConditionConfusedIncapacitatedDescription"
+msgid "The creature cannot do anything due to its confusion."
+msgstr "생물은 혼란으로 인해 아무 것도 할 수 없습니다."
+
+msgctxt "ConditionFeatRaiseShieldDescription"
+msgid "You get +3 AC until the end of the attacker's turn."
+msgstr "당신은 공격자의 턴이 끝날 때까지 +3 AC를 얻습니다."
+
+msgctxt "ConditionFeatRaiseShieldTitle"
+msgid "Raised Shield"
+msgstr "제기 방패"
+
+msgctxt "ConditionFeatTwinBladeDescription"
+msgid "You get +3 AC until the end of the attacker's turn."
+msgstr "당신은 공격자의 턴이 끝날 때까지 +3 AC를 얻습니다."
+
+msgctxt "ConditionFeatTwinBladeTitle"
+msgid "Twin Blade Block"
+msgstr "트윈 블레이드 블록"
+
+msgctxt "DurationTurnSingleFormat"
+msgid "{0} turn"
+msgstr "{0}턴"
+
+msgctxt "DurationTurnPluralFormat"
+msgid "{0} turns"
+msgstr "{0}턴"
+
+msgctxt "ConditionFeatTakeAimDescription"
+msgid ""
+"Your ranged weapon attacks have no disadvantage or advantage, no matter the "
+"conditions."
+msgstr "원거리 무기 공격은 조건에 관계없이 불리하거나 이점이 없습니다."
+
+msgctxt "ConditionFeatTakeAimTitle"
+msgid "Taking Aim"
+msgstr "조준"
+
+msgctxt "ConditionFeatRushToBattleDescription"
+msgid ""
+"Your movement speed is increased by 3 cells and your AC is reduced by 2 "
+"until the start of your turn. "
+msgstr "턴이 시작될 때까지 이동 속도가 3칸 증가하고 AC가 2칸 감소합니다."
+
+msgctxt "ConditionFeatRushToBattleTitle"
+msgid "Rushing to Battle"
+msgstr "전투에 돌진"
+
+msgctxt "ConditionDispellingEvilAndGoodTitle"
+msgid "Dispelling Evil and Good"
+msgstr "악과 선을 몰아내다"
+
+msgctxt "ConditionDispellingEvilAndGoodDescription"
+msgid ""
+"Celestial, elementals, feys, fiends, and undead have disadvantage on attacks "
+"against you. You can also cancel a hostile enchantment or dismiss an "
+"extraplanar creature hit by one of your attacks."
+msgstr ""
+"Celestial, elementals, feys, fiends, undead는 당신에 대한 공격에 불리합니다. 또한 적대적 마법을 "
+"취소하거나 공격 중 하나에 적중당한 차원 외 생물을 해산할 수 있습니다."
+
+msgctxt "ConditionMindControlledDescription"
+msgid "The creature is joining the controlling caster."
+msgstr "그 생물이 조종하는 시전자에 합류하고 있습니다."
+
+msgctxt "ConditionMindDominatedDescription"
+msgid "The creature's actions are totally controlled by the caster."
+msgstr "생물의 행동은 시전자가 완전히 제어합니다."
+
+msgctxt "ConditionMindDominatedTitle"
+msgid "Mind Dominated"
+msgstr "마음 지배"
+
+msgctxt "ConditionOnAcidTitle"
+msgid "Burned by Acid"
+msgstr "산에 의해 화상"
+
+msgctxt "ConditionPheromonedTitle"
+msgid "Pheromone Stink"
+msgstr "페로몬 악취"
+
+msgctxt "ConditionPheromonedDescription"
+msgid "-3 to Charisma ability checks."
+msgstr "-3 카리스마 능력 검사."
+
+msgctxt "ConditionOnAcidDescription"
+msgid "Take 1d3 acid damage at the end of your turn for 3 turns."
+msgstr "내 턴 종료 시 3턴 동안 1d3의 산성 피해를 받습니다."
+
+msgctxt "ActivationTypePermanentTitle"
+msgid "Permanent"
+msgstr "영구적 인"
+
+msgctxt "MonsterSpellcastingTitle"
+msgid "Spellcasting"
+msgstr "스펠캐스팅"
+
+msgctxt "MonsterSpellcastingDescription"
+msgid "The creature has the ability to cast spells."
+msgstr "생물은 주문을 시전할 수 있는 능력이 있습니다."
+
+msgctxt "ConditionCalmedByCalmEmotionsEnemyTitle"
+msgid "Calmed Enemy"
+msgstr "진정된 적"
+
+msgctxt "ConditionCalmedByCalmEmotionsEnemyDescription"
+msgid "The creature is indifferent towards enemies unless it is wounded."
+msgstr "생물은 부상당하지 않는 한 적에게 무관심합니다."
+
+msgctxt "ConditionCalmedByCalmEmotionsAllyTitle"
+msgid "Calmed Ally"
+msgstr "진정된 동맹"
+
+msgctxt "ConditionCalmedByCalmEmotionsAllyDescription"
+msgid "The creature cannot be charmed or frightened."
+msgstr "그 생물은 매혹되거나 겁먹을 수 없습니다."
+
+msgctxt "ConditionArcaneShockedTitle"
+msgid "Arcane Shocked"
+msgstr "아케인 쇼크"
+
+msgctxt "ConditionArcaneShockedDescription"
+msgid "Your attack spells dice deal at least average damage."
+msgstr "당신의 공격 주문 주사위는 최소한 평균 피해를 줍니다."
+
+msgctxt "ConditionHidingInPlainSightTitle"
+msgid "Hiding in Plain Sight"
+msgstr "잘 보이지 않는 곳에 숨어"
+
+msgctxt "ConditionHidingInPlainSightDescription"
+msgid "+10 DEX (Stealth) while you are standing against a wall."
+msgstr "벽에 기대어 서 있는 동안 +10 DEX(스텔스)."
+
+msgctxt "KillFormAlwaysFormat"
+msgid "Target creature is killed."
+msgstr "목표 생물이 죽습니다."
+
+msgctxt "KillFormUnderChallengeRatingFormat"
+msgid "Target creature is killed if its challenge rating is {0} or lower."
+msgstr "목표 생물은 도전 등급이 {0} 이하이면 죽습니다."
+
+msgctxt "KillFormUnderHitPointsFormat"
+msgid ""
+"Target creature is killed if its remaining hit points are equal to {0} or "
+"lower."
+msgstr "목표 생물의 남은 체력이 {0} 이하이면 대상 생물이 죽습니다."
+
+msgctxt "ConditionSwallowedTitle"
+msgid "Swallowed"
+msgstr "삼켰다"
+
+msgctxt "ConditionSwallowedRemorhazDescription"
+msgid ""
+"Cannot act and takes 6d6 acid damage each turn. A single attack of 30 damage "
+"can force the swallower to regurgitate."
+msgstr "행동할 수 없으며 매 턴마다 6d6의 산성 피해를 입습니다. 30 데미지의 단일 공격으로 삼키는 사람이 역류할 수 있습니다."
+
+msgctxt "AlterationFormLightUpFormat"
+msgid "Ignites light sources."
+msgstr "광원을 점화합니다."
+
+msgctxt "ReviveFormFormat"
+msgid "Revives a dead character"
+msgstr "죽은 캐릭터를 되살린다"
+
+msgctxt "ConditionHeroismDescription"
+msgid "Cannot be frightened and regains temporary hit points every turn"
+msgstr "겁먹지 않고 매 턴마다 일시적인 체력 회복"
+
+msgctxt "RateD6_56FormatTitle"
+msgid "on 5 or 6 on 1d6"
+msgstr "1d6에서 5 또는 6에서"
+
+msgctxt "SpellSlotFormCreateSpellSlotFormat"
+msgid "Create a spell slot"
+msgstr "주문 슬롯 생성"
+
+msgctxt "SpellSlotFormCreateSorceryPointFormat"
+msgid "Creates sorcery points"
+msgstr "마법 포인트 생성"
+
+msgctxt "MetamagicOptionCarefulSpellTitle"
+msgid "Careful Spell"
+msgstr "조심스러운 주문"
+
+msgctxt "MetamagicOptionCarefulSpellDescription"
+msgid ""
+"Allied creatures affected by the spell automatically succeed their saving "
+"throw"
+msgstr "주문의 영향을 받는 동맹 생물은 자동으로 내성 굴림을 성공합니다."
+
+msgctxt "MetamagicOptionDistantSpellTitle"
+msgid "Distant Spell"
+msgstr "원거리 주문"
+
+msgctxt "MetamagicOptionDistantSpellDescription"
+msgid ""
+"Doubles the range of a spell or change the range of a touch spell to 30 feet"
+msgstr "주문의 범위를 두 배로 늘리거나 터치 주문의 범위를 30피트로 변경"
+
+msgctxt "MetamagicOptionEmpoweredSpellTitle"
+msgid "Empowered Spell"
+msgstr "강화된 주문"
+
+msgctxt "MetamagicOptionEmpoweredSpellDescription"
+msgid "All damage dice rolls of 1 or 2 are rerolled, keeping the new result"
+msgstr "1 또는 2의 모든 피해 주사위를 다시 굴려 새로운 결과를 유지합니다."
+
+msgctxt "MetamagicOptionExtendedSpellTitle"
+msgid "Extended Spell"
+msgstr "확장된 주문"
+
+msgctxt "MetamagicOptionExtendedSpellDescription"
+msgid ""
+"Doubles the duration of spell lasting 1 minute or more, to a maximum of 24 "
+"hours"
+msgstr "1분 이상 지속되는 주문의 지속시간을 최대 24시간까지 두 배로 늘립니다."
+
+msgctxt "MetamagicOptionHeightenedSpellTitle"
+msgid "Heightened Spell"
+msgstr "강화된 주문"
+
+msgctxt "MetamagicOptionHeightenedSpellDescription"
+msgid "Can force a creature to roll the saving throw with disadvantage"
+msgstr "생물이 불리한 내성 굴림을 굴리도록 할 수 있습니다."
+
+msgctxt "MetamagicOptionQuickenedSpellTitle"
+msgid "Quickened Spell"
+msgstr "빠른 주문"
+
+msgctxt "MetamagicOptionQuickenedSpellDescription"
+msgid ""
+"Can cast a main action spell with a bonus action instead, though you can't "
+"cast another spell during the same turn, except for cantrips."
+msgstr "캔트립을 제외하고 같은 턴에 다른 주문을 발동할 수 없지만 대신에 보너스 행동으로 주 행동 주문을 발동할 수 있습니다."
+
+msgctxt "MetamagicOptionSubtleSpellTitle"
+msgid "Subtle Spell"
+msgstr "미묘한 주문"
+
+msgctxt "MetamagicOptionSubtleSpellDescription"
+msgid "Can cast a sepll without verbal or somatic component"
+msgstr "언어 또는 신체 구성 요소 없이 sepll을 캐스팅할 수 있습니다."
+
+msgctxt "MetamagicOptionTwinnedSpellTitle"
+msgid "Twinned Spell"
+msgstr "쌍둥이 주문"
+
+msgctxt "MetamagicOptionTwinnedSpellDescription"
+msgid "If the source spell targets one creature only, this adds another target"
+msgstr "소스 주문이 하나의 생물만을 목표로 한다면, 이것은 다른 목표를 추가합니다."
+
+msgctxt "ConditionOnFire_Elemental_Title"
+msgid "On Fire from Fire Elemental"
+msgstr "파이어 엘리멘탈의 온 파이어"
+
+msgctxt "ConditionOnFire_Spider_Title"
+msgid "On Fire from Fire Osprey"
+msgstr "파이어 오스프리의 온 파이어"
+
+msgctxt "ConditionOnFire_Osprey_Title"
+msgid "On Fire from Fire Spider"
+msgstr "파이어 스파이더의 온 파이어"
+
+msgctxt "OrientationNorthTitle"
+msgid "North"
+msgstr "북쪽"
+
+msgctxt "OrientationEastTitle"
+msgid "East"
+msgstr "동쪽"
+
+msgctxt "OrientationSouthTitle"
+msgid "South"
+msgstr "남쪽"
+
+msgctxt "OrientationWestTitle"
+msgid "West"
+msgstr "서쪽"
+
+msgctxt "RateSorceryPointsFormatTitle"
+msgid "sorcery points"
+msgstr "마법 포인트"
+
+msgctxt "SpellSlotFormRecoverSorceryHalfLevelUpFormat"
+msgid "Recover sorcery points up to half your sorcerer level, rounded up"
+msgstr "마법사 레벨의 절반까지 마법 점수를 반올림하여 회복합니다."
+
+msgctxt "ConditionSorcererChildRiftDeflectionTitle"
+msgid "Rift Deflection"
+msgstr "리프트 편향"
+
+msgctxt "ConditionSorcererChildRiftDeflectionDescription"
+msgid ""
+"Enemies have disadvantage on attack rolls made against you and you gain "
+"advantage on saving throws, until the beginning of your next turn"
+msgstr "적들은 당신에 대한 공격 굴림에 불이익을 받고 당신은 다음 턴이 시작될 때까지 내성 굴림에 이점을 얻습니다."
+
+msgctxt "RateHitPointsFormatTitle"
+msgid "sacrifice max hp"
+msgstr "최대 HP 희생"
+
+msgctxt "ConditionDisintegratedTitle"
+msgid "Disintegrated"
+msgstr "분해"
+
+msgctxt "ConditionDisintegratedDescription"
+msgid "The creature requires a Resurrection or similar effect to be revived"
+msgstr "생물을 되살리려면 부활 또는 이와 유사한 효과가 필요합니다."
+
+msgctxt "ConditionDiseasedHarmTitle"
+msgid "Harmed"
+msgstr "피해를 입다"
+
+msgctxt "ConditionDiseasedHarmDescription"
+msgid ""
+"Maximum hit points reduced for an hour or until an effect which cures "
+"diseases affects the target"
+msgstr "1시간 동안 또는 질병을 치료하는 효과가 대상에 영향을 미칠 때까지 최대 체력이 감소합니다."
+
+msgctxt "AlterationFormFeastFormatSingle"
+msgid "The party feasts for {0} hour"
+msgstr "{0}시간 동안의 파티 잔치"
+
+msgctxt "AlterationFormFeastFormatPlural"
+msgid "The party feasts for {0} hours"
+msgstr "{0}시간 동안의 파티 잔치"
+
+msgctxt "ConditionHeroesFeastTitle"
+msgid "Well Fed"
+msgstr "잘 먹다"
+
+msgctxt "ConditionHeroesFeastDescription"
+msgid ""
+"Immune to poison and being frightened, advantage to WIS saves and current "
+"and max hit points increased by 10"
+msgstr "독 및 겁에 면역, WIS 세이브에 유리하고 현재 및 최대 체력이 10 증가합니다."
+
+msgctxt "EffectTargetArcFromIndividualTitle"
+msgid "1{0}+ {1}{2}({3}{4})"
+msgstr "1{0}+ {1}{2}({3}{4})"
+
+msgctxt "ConditionEyebiteSickenedTitle"
+msgid "Sickened"
+msgstr "병들다"
+
+msgctxt "ConditionEyebiteSickenedDescription"
+msgid "Disadvantage to attack rolls and ability checks"
+msgstr "공격 굴림과 능력 검사의 단점"
+
+msgctxt "ConditionFrightenedEyebitePanickedTitle"
+msgid "Pannicked"
+msgstr "당황"
+
+msgctxt "ConditionFrightenedEyebitePanickedDescription"
+msgid "Must run away from the source of the effect"
+msgstr "효과의 근원에서 도망쳐야 한다"
+
+msgctxt "ConditionRagingTitle"
+msgid "Raging"
+msgstr "성난"
+
+msgctxt "RateRagePointsFormatTitle"
+msgid "rage points"
+msgstr "분노 포인트"

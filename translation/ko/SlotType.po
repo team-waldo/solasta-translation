@@ -1,0 +1,163 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "AmmunitionSlotDescription"
+msgid "You can store ammunition for ranged weapons here."
+msgstr ""
+
+msgctxt "AmmunitionSlotTitle"
+msgid "Ammunition"
+msgstr ""
+
+msgctxt "BackSlotDescription"
+msgid "You can equip backpacks, shield, or strap large weapons here."
+msgstr ""
+
+msgctxt "BackSlotTitle"
+msgid "Back"
+msgstr ""
+
+msgctxt "BeltSlotDescription"
+msgid "You can equip belts or girdles here."
+msgstr ""
+
+msgctxt "BeltSlotTitle"
+msgid "Belt"
+msgstr ""
+
+msgctxt "ContainerSlotDescription"
+msgid "You can store any object here."
+msgstr ""
+
+msgctxt "ContainerSlotTitle"
+msgid "Container"
+msgstr ""
+
+msgctxt "FeetSlotDescription"
+msgid "You can wear boots, slippers, or shoes in this slot."
+msgstr ""
+
+msgctxt "FeetSlotTitle"
+msgid "Feet"
+msgstr ""
+
+msgctxt "FingerSlotDescription"
+msgid "You can equip rings here."
+msgstr ""
+
+msgctxt "FingerSlotTitle"
+msgid "Finger"
+msgstr ""
+
+msgctxt "GlovesSlotDescription"
+msgid "You can equip gloves or gauntlets here."
+msgstr ""
+
+msgctxt "GlovesSlotTitle"
+msgid "Hands"
+msgstr ""
+
+msgctxt "HeadSlotDescription"
+msgid "You can equip hats, helms, crowns, or diadems here."
+msgstr ""
+
+msgctxt "HeadSlotTitle"
+msgid "Head"
+msgstr ""
+
+msgctxt "MainHandSlotDescription"
+msgid "You can equip main weapons here."
+msgstr ""
+
+msgctxt "MainHandSlotTitle"
+msgid "Main Hand"
+msgstr ""
+
+msgctxt "NeckSlotDescription"
+msgid "You can equip necklaces and amulets here."
+msgstr ""
+
+msgctxt "NeckSlotTitle"
+msgid "Neck"
+msgstr ""
+
+msgctxt "OffHandSlotDescription"
+msgid ""
+"You can equip secondary weapons here. If the main hand is already equipped "
+"with a two-handed weapon, this slot is disabled."
+msgstr ""
+
+msgctxt "OffHandSlotTitle"
+msgid "Off Hand"
+msgstr ""
+
+msgctxt "PersonalStorageSlotDescription"
+msgid ""
+"You can store objects in your backpack, etc., as long as you do not exceed "
+"the maximum weight of the container."
+msgstr ""
+
+msgctxt "PersonalStorageSlotTitle"
+msgid "Personal Storage"
+msgstr ""
+
+msgctxt "SmallContainerSlotDescription"
+msgid "You can store small objects here."
+msgstr ""
+
+msgctxt "SmallContainerSlotTitle"
+msgid "Small Container"
+msgstr ""
+
+msgctxt "TorchHolderSlotDescription"
+msgid "You can only place torches or equivalent items here."
+msgstr ""
+
+msgctxt "TorchHolderSlotTitle"
+msgid "Torch Holder"
+msgstr ""
+
+msgctxt "TorsoSlotDescription"
+msgid "You can equip suits of armor here."
+msgstr ""
+
+msgctxt "TorsoSlotTitle"
+msgid "Torso"
+msgstr ""
+
+msgctxt "UtilitySlotDescription"
+msgid ""
+"You can store utility items (potions, scrolls, spell focus, component pouch) "
+"here."
+msgstr ""
+
+msgctxt "UtilitySlotTitle"
+msgid "Utility"
+msgstr ""
+
+msgctxt "WristsSlotDescription"
+msgid "You can equip bracers here."
+msgstr ""
+
+msgctxt "WristsSlotTitle"
+msgid "Wrists"
+msgstr ""
+
+msgctxt "ShouldersSlotDescription"
+msgid "You can equip cloaks and pauldrons here."
+msgstr ""
+
+msgctxt "ShouldersSlotTitle"
+msgid "Shoulders"
+msgstr ""

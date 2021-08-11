@@ -1,0 +1,1228 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_AfterTuto0"
+msgid "The Gravekeep's Cask"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_AfterTuto1"
+msgid "Waiting for Lord Carran"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_AfterTuto2"
+msgid "Another Round"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_AfterTuto3"
+msgid "Still No Sign"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_AfterTuto4"
+msgid "Lord Carran Finally Arrives"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Annie01"
+msgid "Famous Already"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Annie02"
+msgid "The Scavengers"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerLem01"
+msgid "The Outpost"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerLem02"
+msgid "The Tower"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerLem03"
+msgid "The Survivors"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerLem04"
+msgid "Distrust"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerLem05"
+msgid "Inside at Last"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerLem06"
+msgid "The Scout"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerLem07"
+msgid "The Veteran"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerLem08"
+msgid "The Youngster"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerLem09"
+msgid "Discussing the Situation"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerLem10"
+msgid "The Choice"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerLem11"
+msgid "The Escape"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerLem12"
+msgid "Survivors"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerLemGeneric"
+msgid "Inspection"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council0"
+msgid "The Oath"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Gorim"
+msgid "Gorim's Emporium"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Hugo"
+msgid "Hugo's Wonders"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Karel"
+msgid "Karel's Welcome"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_JournalEntry01"
+msgid "Prison Break"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_JournalEntry02"
+msgid "Wild Encounter"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_JournalEntry03"
+msgid "The Cave"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_JournalEntry04"
+msgid "Dirty Deeds"
+msgstr ""
+
+msgctxt "CrownOfTheMagisterDescription"
+msgid ""
+"The new realms of Solasta turn their eyes towards the Badlands and its "
+"treasures, but war isn't the only threat looming over the Principality of "
+"Masgarth."
+msgstr ""
+
+msgctxt "CrownOfTheMagisterIntroduction1"
+msgid ""
+"It is the year 1024 after the Cataclysm. New states have arisen around the "
+"Badlands and crave its treasures."
+msgstr ""
+
+msgctxt "CrownOfTheMagisterIntroduction2"
+msgid ""
+"A newly discovered road offers a safer route into the ruined heart of the "
+"Empire from the Principality of Masgarth, upsetting the balance of power."
+msgstr ""
+
+msgctxt "CrownOfTheMagisterIntroduction3"
+msgid ""
+"The Legacy Council is formed, to ensure that this knowledge is shared. It "
+"issues a call for agents to explore the Badlands in its name."
+msgstr ""
+
+msgctxt "CrownOfTheMagisterIntroduction4"
+msgid ""
+"Adventurers flock to Caer Cyflen, the Principality's capital and the home of "
+"the Council. Four strangers meet in the Gravekeep's Cask, close to the "
+"Council chambers."
+msgstr ""
+
+msgctxt "CrownOfTheMagisterJournalStart"
+msgid ""
+"A group of adventurers gathers at the Gravekeep's Cask Inn, waiting for the "
+"instructions of the Legacy Council. The party has {0} members."
+msgstr ""
+
+msgctxt "CrownOfTheMagisterTitle"
+msgid "Crown of the Magister"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_PriestOfArun"
+msgid "The Priest of Arun"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_PriestOfPakri"
+msgid "The Priestess of Pakri"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_PriestOfMaraike"
+msgid "The Priest of Maraike"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_PriestOfEinar"
+msgid "The Priest of Einar"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_MeetHalmanSummer"
+msgid "Meeting Halman Summer"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_VisitHalmanSummer"
+msgid "Visiting the Antiquarians"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_MeetMaddyGreenisle"
+msgid "Meeting Maddy Greenisle"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_VisitMaddyGreenisle"
+msgid "Visiting the Tower of Knowledge"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_MeetHeddlonSurespell"
+msgid "Meeting Heddlon Surespell"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_VisitHeddlonSurespell"
+msgid "Visiting the Arcaneum"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_MeetJorielFoxeye"
+msgid "Meeting Joriel Foxeye"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_VisitJorielFoxeye"
+msgid "Visiting the Circle of Danantar"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerLem13"
+msgid "They're here!"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerLem14"
+msgid "Alive!"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council01_a"
+msgid "Back in Town"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council01_b"
+msgid "Bringers of Dark News"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council01_c"
+msgid "A New Mission"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council02_a"
+msgid "You Were Right"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council02_b"
+msgid "The Crown is Ours"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council02_c"
+msgid "Attuned"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council02_d"
+msgid "Marshal Sunblaze"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council02_e"
+msgid "The Lost Gem"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council02_f"
+msgid "The Quest"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council03_a"
+msgid "The Crown of the Magister"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council03_b"
+msgid "Very Important Adventurers"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Mertonsquest_01"
+msgid "First Scavenger"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Coparann_Cleric"
+msgid "The Priestess of Arun"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Coparann_Scavengers"
+msgid "The Scavengers of Coparann"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_TOM_0Beryl"
+msgid "Lady Stonebeard"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_TOM_0Robar"
+msgid "The Idle Mercenary"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_TOM_0Daliat"
+msgid "Daliat Sunbird, probably"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_TOM_1_A"
+msgid "Fanatics!"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_TOM_1_A_intro"
+msgid "Manacalon Ruin"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_TOM_1_B_LoneWorker"
+msgid "Doomed from the Start"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_TOM_1_C_FlyingRock"
+msgid "Chaotic Magic"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_TOM_2_DoorOpened"
+msgid "Mystery Solved"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_TOM_2_RunePuzzle"
+msgid "The rune puzzle"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_TOM_2_LockedDoor"
+msgid "Locked!"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_TOM_3_Soraks"
+msgid "Here they are!"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_TOM_3_SoraksDead"
+msgid "A Tough Fight"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_TOM_3_TheCrown"
+msgid "The Mysterious Crown"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_TOM_3_TheCurse"
+msgid "A Troubled Night"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_TOM_3_ReturnToCC"
+msgid "We Made It!"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Necromancy_01"
+msgid "Of Wolves and…"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Necromancy_02"
+msgid "A Strange Ghost"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Necromancy_03"
+msgid "A long-serving officer"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Necromancy_04"
+msgid "The Master's Student"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Necromancy_05"
+msgid "The Master's Guest"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Necromancy_06"
+msgid "The Master of Necromancy"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Necromancy_Obs_01"
+msgid "The Dark Castle"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_00"
+msgid "The Mausoleum"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_01"
+msgid "Sleeping Beauty"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_02"
+msgid "The caravan"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_03"
+msgid "Officer of the Day"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_04"
+msgid "The Ceannard of Coparann"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_05"
+msgid "Eavesdropping : The Jeweler"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_06"
+msgid "Eavesdropping : The Maid"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_07"
+msgid "Eavesdropping: The Barkeep"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_08"
+msgid "Eavesdropping: The Gossip Lovers"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_09"
+msgid "Wilf Warmhearth's Store"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_10"
+msgid "The Investigation"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_11"
+msgid "The Baron?"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_12"
+msgid "Something's Off"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_13"
+msgid "Showing the Badge"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_14"
+msgid "Treachery Revealed"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_14_b"
+msgid "The Baron is safe!"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_14_c"
+msgid "Kythaela's Heirlooms"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_14_d"
+msgid "The Major Gate"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_16"
+msgid "Official Thanks"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_17"
+msgid "The Master's Tower"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_18"
+msgid "The Brood"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_19"
+msgid "Kythaela's Destiny"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_20"
+msgid "The Awakening"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_21"
+msgid "The Oracle"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_22"
+msgid "Dungeons of Manacalon"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_Abjuration_23"
+msgid "Strike True Tavern"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council02_g"
+msgid "The Major Gate"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Act3_AerElai_01"
+msgid "The Aer Elai"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Act3_AerElai_02"
+msgid "Fire Spiders!"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Act3_AerElai_03"
+msgid "They're Here"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Act3_AerElai_04"
+msgid "The Boneyard"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Act3_AerElai_05"
+msgid "The Magister's Soul"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Act3_AerElai_06"
+msgid "Deeper into Chaos"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Act3_AerElai_07"
+msgid "This Place Doesn't Make Sense"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Act3_AerElai_08"
+msgid "This Is It"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Act3_AerElai_09"
+msgid "Enter the Dragons"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Act3_AerElai_10"
+msgid "The End"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Merton_02_AfterCouncil05"
+msgid "Deal or No Deal"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Merton_03_MeetingBitterroot"
+msgid "A Strange Woman"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Merton_04_BringingSword"
+msgid "Old Memories"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Merton_05_LegendaryQuest01"
+msgid "Stuff of Legend"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Merton_05_LegendaryQuest02"
+msgid "To Caer Elis"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Merton_05_LegendaryQuest03"
+msgid "Like Old Times"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Merton_05_LegendaryQuest04"
+msgid "Through the Mist"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Merton_05_LegendaryQuest05"
+msgid "The Lost God"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Merton_05_LegendaryQuest06"
+msgid "A Chapter Is Closed"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Academic_01"
+msgid "The Runaway Student"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Academic_02"
+msgid "Back in the Place"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Academic_03"
+msgid "Up There"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Academic_04"
+msgid "Like Another World"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Academic_05"
+msgid "A Treasure of Knowledge"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Academic_06"
+msgid "Alive!"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Academic_07"
+msgid "Status Restored"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Acolyte_01"
+msgid "Duty Calls"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Acolyte_02"
+msgid "Lost Souls"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Acolyte_03"
+msgid "Roaming in the Afterlife"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Acolyte_04"
+msgid "The Apostate"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Acolyte_05"
+msgid "With Arun"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Aristocrat_01"
+msgid "An Annoying Situation"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Aristocrat_02"
+msgid "The Prodigal Son"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Aristocrat_03"
+msgid "The Wise Daughter"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Aristocrat_04"
+msgid "A Looming Threat"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Aristocrat_05"
+msgid "Decisions, Decisions…"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Aristocrat_06"
+msgid "The Mark of Arivad"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Aristocrat_07"
+msgid "The Ambitious One"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lawkeeper_01"
+msgid "A Few Good Men"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lawkeeper_02"
+msgid "Let's Do This"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lawkeeper_03A"
+msgid "The Elusive Guard"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lawkeeper_03B"
+msgid "Are You Kidding?"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lawkeeper_04A"
+msgid "Little Business"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lawkeeper_04B"
+msgid "Imperial Stuff"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lawkeeper_05A"
+msgid "Not Welcome"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lawkeeper_05B"
+msgid "Royal Flowers"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lawkeeper_06A"
+msgid "Not Just a Guard"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lawkeeper_06B"
+msgid "Proof"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lawkeeper_06C"
+msgid "Where in the World Is Rodric?"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lawkeeper_07"
+msgid "Not Just a Guard"
+msgstr ""
+
+msgctxt ""
+"CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lowlife_01_Merton"
+msgid "Side Job"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lowlife_03_Nel"
+msgid "Tracking the Thief"
+msgstr ""
+
+msgctxt ""
+"CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lowlife_04_Gorim"
+msgid "I Know a Guy"
+msgstr ""
+
+msgctxt ""
+"CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lowlife_05_Karel"
+msgid "Ask the Bartender"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lowlife_06_Nel"
+msgid "It Was All a Joke"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Lowlife_07_Nel"
+msgid "Misaye's Laughing"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Philosopher_01"
+msgid "The Philosopher"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Philosopher_02"
+msgid "The Matter of Evil"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Philosopher_04"
+msgid "Suffering"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Philosopher_05"
+msgid "Cruelty"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Philosopher_06"
+msgid "Love"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Philosopher_07"
+msgid "Wait for My Signal"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Philosopher_08"
+msgid "Power to the One"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Philosopher_09"
+msgid "Freedom"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Sellsword_01"
+msgid "Letter from a Friend"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Sellsword_02"
+msgid "A Forgotten Past"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Sellsword_03"
+msgid "It Is You!"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Sellsword_04"
+msgid "The Keys"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Sellsword_05"
+msgid "Childhood Memories"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Sellsword_06A"
+msgid "What Does It Mean?"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Sellsword_06B"
+msgid "It's a Sorak Plot!"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Sellsword_07"
+msgid "We Have a Clue"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Sellsword_08"
+msgid "Betrayed by His Own Hand"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Sellsword_09"
+msgid "Restored Honor"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Spy_01"
+msgid "I Know You!"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Spy_02"
+msgid "An Old Acquaintance"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Spy_03"
+msgid "Cutting Loose Ends"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Spy_04"
+msgid "What's the Plan?"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Spy_05"
+msgid "Going Under"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Spy_06"
+msgid "Tradecraft"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Spy_07"
+msgid "It's Done"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Spy_08"
+msgid "Disgrace"
+msgstr ""
+
+msgctxt ""
+"CrownOfTheMagister_Journal_DialogTitle_CaerCyflen_Act3_00_CannotFindGems"
+msgid "We Have a Problem"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerCyflen_Act3_01_Return"
+msgid "Something's Wrong"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerCyflen_Act3_02_Bartender"
+msgid "Conscription"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitleCaerCyflen_Act3_Beryl"
+msgid "Going Home"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerCyflen_Act3_CovenOfArivad_01"
+msgid "Summer's Mansion"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerCyflen_Act3_CovenOfArivad_02"
+msgid "Deep Cover"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerCyflen_Act3_CovenOfArivad_03"
+msgid "Infiltrated"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerCyflen_Act3_MeetingCarran_01"
+msgid "Tension Rises"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerCyflen_Act3_MeetingCarran_02"
+msgid "Unraveled"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerCyflen_Act3_Robar"
+msgid "Captain Sharp"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_CaerCyflen_Act3_SummersHouse"
+msgid "The Silent Whisper"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_CaerCyflen_Act3_TempleOfEinar_01"
+msgid "Beric"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_CaerCyflen_Act3_TempleOfEinar_02"
+msgid "Enemy at the Gates"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_CaerCyflen_Act3_TempleOfEinar_03"
+msgid "The Crown is Gone!"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_CaerCyflen_Act3_TempleOfEinar_04"
+msgid "Protect the Gate!"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_CaerCyflen_Act3_TempleOfEinar_05"
+msgid "The Princess"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_CaerCyflen_Act3_TempleOfEinar_06"
+msgid "It's up to You Now"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_CaerCyflen_Act3_TempleOfEinar_07"
+msgid "Take a Deep Breath"
+msgstr ""
+
+msgctxt ""
+"CrownOfTheMagister_Journal_DialogTitle_FactionDialog_Scavengers_03_HenriksDea"
+"th"
+msgid "Dark News"
+msgstr ""
+
+msgctxt ""
+"CrownOfTheMagister_Journal_DialogTitle_FactionDialog_Scavengers_04_ClaimCaerL"
+"em"
+msgid "Business Is On"
+msgstr ""
+
+msgctxt ""
+"CrownOfTheMagister_Journal_DialogTitle_FactionDialog_Scavengers_05_WhosArwinM"
+"erton"
+msgid "Who's this guy again?"
+msgstr ""
+
+msgctxt ""
+"CrownOfTheMagister_Journal_DialogTitle_FactionDialog_Scavengers_06_StartAcade"
+"micQuest"
+msgid "Back to School"
+msgstr ""
+
+msgctxt ""
+"CrownOfTheMagister_Journal_DialogTitle_FactionDialog_Scavengers_07_StartLowli"
+"feQuest"
+msgid "Stolen"
+msgstr ""
+
+msgctxt ""
+"CrownOfTheMagister_Journal_DialogTitle_FactionDialog_Scavengers_08_EndLowlife"
+"Quest"
+msgid "The Right Owner"
+msgstr ""
+
+msgctxt ""
+"CrownOfTheMagister_Journal_DialogTitle_FactionDialog_Scavengers_09_StartSells"
+"wordQuest"
+msgid "Letter from a Friend"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council_04_a"
+msgid "The Crown is ours."
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council_04_b"
+msgid "A Strange Warning"
+msgstr ""
+
+msgctxt ""
+"CrownOfTheMagister_Journal_DialogTitle_Council_04_c_1_Attacked_In_Residency"
+msgid "He Knew!"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council_04_d_Talking_To_Heddlon"
+msgid "The Elf Who Knew Too Much"
+msgstr ""
+
+msgctxt ""
+"CrownOfTheMagister_Journal_DialogTitle_Council_04_e_Ironshell_After_Attack"
+msgid "Ransacked!"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council_05_a"
+msgid "With or Without It"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council_05_b"
+msgid "The Informant"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council_05_c"
+msgid "Keep It Safe"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Earcorn_01_Arriving"
+msgid "A Quiet Little Town"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Earcorn_02_Footsteps"
+msgid "They Have Claws"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Earcorn_03_AfterFight"
+msgid "It's a Trap!"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_01_Entrance"
+msgid "Hacking"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_02_Jungle"
+msgid "Chop, Don't Talk"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_03_Lava"
+msgid "Hot Stuff"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_04_GardenSheld"
+msgid "Soraks!"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_05_SorakFight"
+msgid "The Sound of Killing"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_06_Interrogation"
+msgid "Inquisition"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_09_TreasureBeast"
+msgid "Temptation"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_10_Beast"
+msgid "The Beast"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_11_BeastEnding"
+msgid "Too Easy"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_12_ShitfingMaze"
+msgid "The Maze"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_13_TeleportingCircle"
+msgid "Find a Way Out"
+msgstr ""
+
+msgctxt ""
+"CrownOfTheMagister_Journal_DialogTitle_Conjuration_13b_TeleportingCircle"
+msgid "Mind-Boggling"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_14_Coward"
+msgid "The Light Cube"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_14b_Coward"
+msgid "The Coward"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_15_MansionArrival"
+msgid "House on the Hill"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_16_CastleEntrance"
+msgid "Good Manners"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_17_InvisibleServants"
+msgid "Slaves of the Empire"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_18_Master"
+msgid "A Broken Mind"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_01_Arriving"
+msgid "Stinks of Sulfur"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_02_FindingKebra"
+msgid "The Survivor"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_02b_TalkToKebra"
+msgid "Orcish Wars"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_03_EnterVolcano"
+msgid "Under the Mountain"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_04_TalkToArbal"
+msgid "The Warrior"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_05_Market"
+msgid "The Market"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_06_SavedBrok"
+msgid "Brok Is Free"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_07_Bloodspear"
+msgid "The Warmongers"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_08_Bloodspear_Edrof"
+msgid "The Challenge"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_09_Bloodspear_Victory"
+msgid "Is there anyone else?"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_10_Bladefang"
+msgid "Tribe of the Faithful"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_11_Bladefang_Meeting"
+msgid "A Big Favor"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_12_Bladefangquest"
+msgid "Who's the Old Queen?"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_13_OldQueen"
+msgid "Another Spider"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_14_OldQueenFight"
+msgid "It Hates Light"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_15_OldQueenBeaten"
+msgid "The Holy Axe"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_16_ReturnHolyAxe"
+msgid "Give or Take"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_17_Sandraven"
+msgid "The Orc Who Read Books"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_18_Necropolis_Entrance"
+msgid "Necropolis"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_19_Necropolis_Hall"
+msgid "Back in Time"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_20_Necropolis_Map"
+msgid "The Way It Used to Be"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_21_Necropolis_Statue01"
+msgid "The Slaver Emperor"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_22_Necropolis_Statue02"
+msgid "The Prince"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_23_Necropolis_Statue03"
+msgid "The Wife"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_24_Necropolis_Emperor"
+msgid "Anger"
+msgstr ""
+
+msgctxt ""
+"CrownOfTheMagister_Journal_DialogTitle_Evocation_26_Necropolis_GhostReturn"
+msgid "To Oblivion"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_27_UrkaReveals"
+msgid "Gaks!"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_28_UrkaKilled"
+msgid "They Are Everywhere"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_29_BackToBrok"
+msgid "The Alliance"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_30_NearRedScarGate"
+msgid "Redscar Gate"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_31_InsideCity"
+msgid "The Burned Throne"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_32_FacingArrok"
+msgid "Heart of Fire"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_33_TribesUnite"
+msgid "All Against Tyranny"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_34_ArrokDefeated"
+msgid "Eruption"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_35_Ending"
+msgid "It's Over"
+msgstr ""
+
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_16_CastleEntrance_b"
+msgid "Bad Manners"
+msgstr ""
+
+msgctxt "UserCampaignTitle"
+msgid "User Campaign"
+msgstr ""
+
+msgctxt "UserCampaignDescription"
+msgid "Allows you to start an adventure in a user location"
+msgstr ""
+
+msgctxt "DLC1_Introduction_1"
+msgid ""
+"While the Principality of Masgarth is preparing for war, business is "
+"thriving in the Marches."
+msgstr ""
+
+msgctxt "DLC1_Introduction_2"
+msgid ""
+"Galar Goldentongue's travels and sales both increase, as more Legacy Council "
+"agents travel to Coparann."
+msgstr ""
+
+msgctxt "DLC1_Introduction_3"
+msgid ""
+"The master merchant hired his own quatuor or adventurers to escort his "
+"caravan."
+msgstr ""
+
+msgctxt "DLC1_Journal_Start"
+msgid ""
+"One day, while camping in the mountains, they are joined by a band of "
+"wounded travellers…"
+msgstr ""
+
+msgctxt "DLC1_Title"
+msgid "The Lost Valley"
+msgstr ""
+
+msgctxt "DLC1_Description"
+msgid ""
+"While the Principality of Masgarth is preparing for war, adventurers still "
+"discover new places in the Badlands, that have not been visited for "
+"centuries."
+msgstr ""

@@ -1,0 +1,1834 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "ApplyDescription"
+msgid "Apply the changes you have selected."
+msgstr ""
+
+msgctxt "ApplyNoChangeDescription"
+msgid "Settings have not changed."
+msgstr ""
+
+msgctxt "ApplyTitle"
+msgid "Apply"
+msgstr ""
+
+msgctxt "AutosaveCountDescription"
+msgid "The number of autosaves kept."
+msgstr ""
+
+msgctxt "AutosaveCountTitle"
+msgid "Autosave Count"
+msgstr ""
+
+msgctxt "CameraModeDescription"
+msgid "Select an exploration camera mode."
+msgstr ""
+
+msgctxt "CameraModeElasticDescription"
+msgid ""
+"The exploration camera can move away from your party but returns to follow "
+"mode automatically after a few seconds."
+msgstr ""
+
+msgctxt "CameraModeElasticTitle"
+msgid "Spring"
+msgstr ""
+
+msgctxt "CameraModeFollowDescription"
+msgid "The exploration camera is locked on your party."
+msgstr ""
+
+msgctxt "CameraModeFollowTitle"
+msgid "Follow"
+msgstr ""
+
+msgctxt "CameraModeFreeDescription"
+msgid "You can move the exploration camera at will, outside the fog."
+msgstr ""
+
+msgctxt "CameraModeFreeTitle"
+msgid "Free"
+msgstr ""
+
+msgctxt "CameraModeTitle"
+msgid "Camera Mode"
+msgstr ""
+
+msgctxt "ConfineCursorToWindowDescription"
+msgid ""
+"If enabled, the cursor cannot leave the game window unless another screen is "
+"selected."
+msgstr ""
+
+msgctxt "ConfineCursorToWindowTitle"
+msgid "Confine Cursor to Window"
+msgstr ""
+
+msgctxt "ContextualCameraFrequencyLevelDescription"
+msgid "Set how often the close-up camera focuses on important actions."
+msgstr ""
+
+msgctxt "ContextualCameraFrequencyLevelTitle"
+msgid "Contextual Camera Frequency"
+msgstr ""
+
+msgctxt "DamageAcidStyleDescription"
+msgid "Die style used for this type of damage."
+msgstr ""
+
+msgctxt "DamageAcidStyleTitle"
+msgid "Acid Damage Style"
+msgstr ""
+
+msgctxt "DamageBludgeoningStyleDescription"
+msgid "Die style used for this type of damage."
+msgstr ""
+
+msgctxt "DamageBludgeoningStyleTitle"
+msgid "Bludgeoning Damage Style"
+msgstr ""
+
+msgctxt "DamageColdStyleDescription"
+msgid "Die style used for this type of damage."
+msgstr ""
+
+msgctxt "DamageColdStyleTitle"
+msgid "Cold Damage Style"
+msgstr ""
+
+msgctxt "DamageFireStyleDescription"
+msgid "Die style used for this type of damage."
+msgstr ""
+
+msgctxt "DamageFireStyleTitle"
+msgid "Fire Damage Style"
+msgstr ""
+
+msgctxt "DamageForceStyleDescription"
+msgid "Die style used for this type of damage."
+msgstr ""
+
+msgctxt "DamageForceStyleTitle"
+msgid "Force Damage Style"
+msgstr ""
+
+msgctxt "DamageLightningStyleDescription"
+msgid "Die style used for this type of damage."
+msgstr ""
+
+msgctxt "DamageLightningStyleTitle"
+msgid "Lightning Damage Style"
+msgstr ""
+
+msgctxt "DamageNecroticStyleDescription"
+msgid "Die style used for this type of damage."
+msgstr ""
+
+msgctxt "DamageNecroticStyleTitle"
+msgid "Necrotic Damage Style"
+msgstr ""
+
+msgctxt "DamagePiercingStyleDescription"
+msgid "Die style used for this type of damage."
+msgstr ""
+
+msgctxt "DamagePiercingStyleTitle"
+msgid "Piercing Damage Style"
+msgstr ""
+
+msgctxt "DamagePoisonStyleDescription"
+msgid "Die style used for this type of damage."
+msgstr ""
+
+msgctxt "DamagePoisonStyleTitle"
+msgid "Poison Damage Style"
+msgstr ""
+
+msgctxt "DamagePsychicStyleDescription"
+msgid "Die style used for this type of damage."
+msgstr ""
+
+msgctxt "DamagePsychicStyleTitle"
+msgid "Psychic Damage Style"
+msgstr ""
+
+msgctxt "DamageRadiantStyleDescription"
+msgid "Die style used for this type of damage."
+msgstr ""
+
+msgctxt "DamageRadiantStyleTitle"
+msgid "Radiant Damage Style"
+msgstr ""
+
+msgctxt "DamageSlashingStyleDescription"
+msgid "Die style used for this type of damage."
+msgstr ""
+
+msgctxt "DamageSlashingStyleTitle"
+msgid "Slashing Damage Style"
+msgstr ""
+
+msgctxt "DamageThunderStyleDescription"
+msgid "Die style used for this type of damage."
+msgstr ""
+
+msgctxt "DamageThunderStyleTitle"
+msgid "Thunder Damage Style"
+msgstr ""
+
+msgctxt "DisplayBanterTextAboveCharactersDescription"
+msgid "Check this to show/hide the banter lines above characters in game."
+msgstr ""
+
+msgctxt "DisplayBanterTextAboveCharactersTitle"
+msgid "Display Banter Text Above Characters"
+msgstr ""
+
+msgctxt "DisplayTutorialDescription"
+msgid "Display or Hide tutorial panels during the game."
+msgstr ""
+
+msgctxt "DisplayTutorialTitle"
+msgid "Display Tutorial"
+msgstr ""
+
+msgctxt "EffectsVolumeDescription"
+msgid "Change sound effects volume."
+msgstr ""
+
+msgctxt "EffectsVolumeTitle"
+msgid "Effects Volume"
+msgstr ""
+
+msgctxt "FocusCameraOnBattleActionsDescription"
+msgid ""
+"When enabled, the camera will automatically focus on important battle "
+"actions such as attacks, spellcasting, and more."
+msgstr ""
+
+msgctxt "FocusCameraOnBattleActionsTitle"
+msgid "Focus Camera on Battle Actions"
+msgstr ""
+
+msgctxt "FramerateDescription"
+msgid "Game screen refresh frequency."
+msgstr ""
+
+msgctxt "FramerateTitle"
+msgid "Framerate"
+msgstr ""
+
+msgctxt "FullscreenDescription"
+msgid "Display the game in full screen or windowed mode."
+msgstr ""
+
+msgctxt "FullscreenTitle"
+msgid "Full Screen"
+msgstr ""
+
+msgctxt "GroupedMonsterInitiativesDescription"
+msgid ""
+"When rolling for initiative, all monsters of the same type have the same "
+"initiative."
+msgstr ""
+
+msgctxt "GroupedMonsterInitiativesTitle"
+msgid "Grouped Monster Initiatives"
+msgstr ""
+
+msgctxt "HealingStyleDescription"
+msgid "Die style used for healing effects."
+msgstr ""
+
+msgctxt "HealingStyleTitle"
+msgid "Healing Style"
+msgstr ""
+
+msgctxt "MainTitle"
+msgid "Settings"
+msgstr ""
+
+msgctxt "MasterEnabledDescription"
+msgid "All audio on/off."
+msgstr ""
+
+msgctxt "MasterEnabledTitle"
+msgid "Master Enabled"
+msgstr ""
+
+msgctxt "MasterVolumeDescription"
+msgid "Overall audio volume."
+msgstr ""
+
+msgctxt "MasterVolumeTitle"
+msgid "Master Volume"
+msgstr ""
+
+msgctxt "MoveWithRightClickDescription"
+msgid ""
+"Right-click to move characters, interact with an object, or attack an enemy."
+msgstr ""
+
+msgctxt "MoveWithRightClickTitle"
+msgid "Move/Contextual Action with Right-Click"
+msgstr ""
+
+msgctxt "MusicVolumeDescription"
+msgid "Adjust background music volume."
+msgstr ""
+
+msgctxt "MusicVolumeTitle"
+msgid "Music Volume"
+msgstr ""
+
+msgctxt "OnlyShowNPCIconOnHoverDescription"
+msgid ""
+"NPC type icons (merchant, quest giver, etc.) only display when the cursor is "
+"over the NPC."
+msgstr ""
+
+msgctxt "OnlyShowNPCIconOnHoverTitle"
+msgid "Only Show NPC Icon on Mouseover"
+msgstr ""
+
+msgctxt "OrbitalCameraCorrectionDescription"
+msgid "The camera moves up when entering level boundaries."
+msgstr ""
+
+msgctxt "OrbitalCameraCorrectionTitle"
+msgid "Orbital Camera Correction"
+msgstr ""
+
+msgctxt "PartyReactionTrapDetectedDescription"
+msgid "Set the party's reaction to a trap being detected."
+msgstr ""
+
+msgctxt "PartyReactionTrapDetectedNoReactionDescription"
+msgid "The party continues with its current actions."
+msgstr ""
+
+msgctxt "PartyReactionTrapDetectedNoReactionTitle"
+msgid "No Reaction"
+msgstr ""
+
+msgctxt "PartyReactionTrapDetectedStopMovementDescription"
+msgid "The party stops moving."
+msgstr ""
+
+msgctxt "PartyReactionTrapDetectedStopMovementTitle"
+msgid "Stop Movement"
+msgstr ""
+
+msgctxt "PartyReactionTrapDetectedTitle"
+msgid "Reaction on Trap Detection"
+msgstr ""
+
+msgctxt "PrepareSpellsLongRestDescription"
+msgid "Changing a character's prepared spells requires a long rest."
+msgstr ""
+
+msgctxt "PrepareSpellsLongRestTitle"
+msgid "Prepare Spells & Long Rest"
+msgstr ""
+
+msgctxt "QualityLevelDescription"
+msgid ""
+"Graphical quality. Hight quality requires a more powerful graphics card."
+msgstr ""
+
+msgctxt "QualityLevelHighDescription"
+msgid "Good for high-end systems"
+msgstr ""
+
+msgctxt "QualityLevelHighTitle"
+msgid "High"
+msgstr ""
+
+msgctxt "QualityLevelLowDescription"
+msgid "Good for low-end systems"
+msgstr ""
+
+msgctxt "QualityLevelLowTitle"
+msgid "Low"
+msgstr ""
+
+msgctxt "QualityLevelMediumDescription"
+msgid "Good for middle-range systems"
+msgstr ""
+
+msgctxt "QualityLevelMediumTitle"
+msgid "Medium"
+msgstr ""
+
+msgctxt "QualityLevelTitle"
+msgid "Quality Level"
+msgstr ""
+
+msgctxt "QualityLevelUltraDescription"
+msgid "Usable only with the most powerful systems"
+msgstr ""
+
+msgctxt "QualityLevelUltraTitle"
+msgid "Ultra"
+msgstr ""
+
+msgctxt "QualityLevelVery HighDescription"
+msgid "Good for powerful systems"
+msgstr ""
+
+msgctxt "QualityLevelVery HighTitle"
+msgid "Very High"
+msgstr ""
+
+msgctxt "QualityLevelVery LowDescription"
+msgid "Works with the weakest systems"
+msgstr ""
+
+msgctxt "QualityLevelVery LowTitle"
+msgid "Very Low"
+msgstr ""
+
+msgctxt "QuicksaveCountDescription"
+msgid "The number of quicksaves kept."
+msgstr ""
+
+msgctxt "QuicksaveCountTitle"
+msgid "Quicksave Count"
+msgstr ""
+
+msgctxt "ReactionTimerDescription"
+msgid ""
+"This option gives you a limited time to decide whether or not to use a "
+"reaction."
+msgstr ""
+
+msgctxt "ReactionTimerTitle"
+msgid "Reaction Timer"
+msgstr ""
+
+msgctxt "ResolutionDescription"
+msgid "The graphical resolution of the game screen."
+msgstr ""
+
+msgctxt "ResolutionTitle"
+msgid "Resolution"
+msgstr ""
+
+msgctxt "RollAbilityCheckDieDescription"
+msgid ""
+"Show/hide die when an ability check is rolled during exploration or combat."
+msgstr ""
+
+msgctxt "RollAbilityCheckDieTitle"
+msgid "Show Ability Check Die"
+msgstr ""
+
+msgctxt "RollAttackDieDescription"
+msgid "Show/hide die when the game rolls for an attack."
+msgstr ""
+
+msgctxt "RollAttackDieTitle"
+msgid "Show Attack Die"
+msgstr ""
+
+msgctxt "RollDamageDiceDescription"
+msgid "Show/hide die when an attack deals damage."
+msgstr ""
+
+msgctxt "RollDamageDiceTitle"
+msgid "Show Damage Dice"
+msgstr ""
+
+msgctxt "RollDialogsDieDescription"
+msgid "Show/hide die when rolling an ability check during a conversation."
+msgstr ""
+
+msgctxt "RollDialogsDieTitle"
+msgid "Show Dialog Die"
+msgstr ""
+
+msgctxt "RollDieAlwaysDescription"
+msgid "Always roll the die."
+msgstr ""
+
+msgctxt "RollDieAlwaysTitle"
+msgid "Always"
+msgstr ""
+
+msgctxt "RollDieHeroOnlyDescription"
+msgid "Roll the die for hero characters only."
+msgstr ""
+
+msgctxt "RollDieHeroOnlyTitle"
+msgid "Heroes Only"
+msgstr ""
+
+msgctxt "RollDieNeverDescription"
+msgid "Never roll the die."
+msgstr ""
+
+msgctxt "RollDieNeverTitle"
+msgid "Never"
+msgstr ""
+
+msgctxt "RollHealingDiceDescription"
+msgid "Show/hide die when a spell or power heals damage."
+msgstr ""
+
+msgctxt "RollHealingDiceTitle"
+msgid "Show Healing Dice"
+msgstr ""
+
+msgctxt "RollInitiativeDieDescription"
+msgid "Show/hide die when the game rolls for initiative."
+msgstr ""
+
+msgctxt "RollInitiativeDieTitle"
+msgid "Show Initiative Die"
+msgstr ""
+
+msgctxt "RollSavingThrowDieDescription"
+msgid "Show/hide die when a saving throw is rolled."
+msgstr ""
+
+msgctxt "RollSavingThrowDieTitle"
+msgid "Show Saving Throw Die"
+msgstr ""
+
+msgctxt "ShowHelmetInPortraitDescription"
+msgid "Check this to show/hide helmets in character portraits."
+msgstr ""
+
+msgctxt "ShowHelmetInPortraitTitle"
+msgid "Show Helmet in Portrait"
+msgstr ""
+
+msgctxt "TargetFramerateDescription"
+msgid ""
+"Allows you to limit the framerate to a given number of frames per second, "
+"limiting computation cost/overheating."
+msgstr ""
+
+msgctxt "TargetFramerateTitle"
+msgid "Target Framerate"
+msgstr ""
+
+msgctxt "TextLanguagedeDescription"
+msgid "Deutsch"
+msgstr ""
+
+msgctxt "TextLanguageDescription"
+msgid "The language used for in-game text."
+msgstr ""
+
+msgctxt "TextLanguagedeTitle"
+msgid "Deutsch"
+msgstr ""
+
+msgctxt "TextLanguageenDescription"
+msgid "English"
+msgstr ""
+
+msgctxt "TextLanguageenTitle"
+msgid "English"
+msgstr ""
+
+msgctxt "TextLanguagefrDescription"
+msgid "Français"
+msgstr ""
+
+msgctxt "TextLanguagefrTitle"
+msgid "Français"
+msgstr ""
+
+msgctxt "TextLanguageTitle"
+msgid "Texts Language"
+msgstr ""
+
+msgctxt "TextLanguagezh-CNDescription"
+msgid "简体中文"
+msgstr ""
+
+msgctxt "TextLanguagezh-CNTitle"
+msgid "简体中文"
+msgstr ""
+
+msgctxt "TimeDisplayMode24Description"
+msgid "Time display uses the 24 hour clock."
+msgstr ""
+
+msgctxt "TimeDisplayMode24Title"
+msgid "24 Hours"
+msgstr ""
+
+msgctxt "TimeDisplayModeAMPMDescription"
+msgid "Time display uses the AM/PM system."
+msgstr ""
+
+msgctxt "TimeDisplayModeAMPMTitle"
+msgid "AM/PM"
+msgstr ""
+
+msgctxt "TimeDisplayModeDescription"
+msgid "Toggles display mode for in-game time (AM-PM/24 hours)."
+msgstr ""
+
+msgctxt "TimeDisplayModeTitle"
+msgid "Time Display Mode"
+msgstr ""
+
+msgctxt "ToggleAudioDescription"
+msgid "Click this tab to change sound and music settings."
+msgstr ""
+
+msgctxt "ToggleAudioTitle"
+msgid "Audio"
+msgstr ""
+
+msgctxt "ToggleDiceDescription"
+msgid "Click this tab to change dice display settings."
+msgstr ""
+
+msgctxt "ToggleDiceTitle"
+msgid "Dice"
+msgstr ""
+
+msgctxt "ToggleGameDescription"
+msgid "Click this tab to change gameplay settings."
+msgstr ""
+
+msgctxt "ToggleGameTitle"
+msgid "Game"
+msgstr ""
+
+msgctxt "ToggleGraphicsDescription"
+msgid "Click this tab to change graphics and display settings."
+msgstr ""
+
+msgctxt "ToggleGraphicsTitle"
+msgid "Graphics"
+msgstr ""
+
+msgctxt "ToggleGuiDescription"
+msgid "Click this tab to change user interface settings."
+msgstr ""
+
+msgctxt "ToggleGuiTitle"
+msgid "GUI"
+msgstr ""
+
+msgctxt "VoicesVolumeDescription"
+msgid "Change of voice playback volume."
+msgstr ""
+
+msgctxt "VoicesVolumeTitle"
+msgid "Voice Volume"
+msgstr ""
+
+msgctxt "VSyncDescription"
+msgid "Sets vertical synchronization with screen display."
+msgstr ""
+
+msgctxt "VSyncDoubleDescription"
+msgid ""
+"Game rendering frequency is synchronized at half the screen frequency. "
+"Useful for high frequency (120Hz) monitors."
+msgstr ""
+
+msgctxt "VSyncDoubleTitle"
+msgid "Double"
+msgstr ""
+
+msgctxt "VSyncNoneDescription"
+msgid ""
+"Game rendering frequency is not synchronized with the screen display, "
+"allowing an unlimited frame rate."
+msgstr ""
+
+msgctxt "VSyncNoneTitle"
+msgid "None"
+msgstr ""
+
+msgctxt "VSyncSingleDescription"
+msgid ""
+"Game rendering frequency is synchronized with the screen frequency, or an "
+"integer divider (e.g. 30, 20, 15)."
+msgstr ""
+
+msgctxt "VSyncSingleTitle"
+msgid "Single"
+msgstr ""
+
+msgctxt "VSyncTitle"
+msgid "Vsync"
+msgstr ""
+
+msgctxt "FullScreenModeTitle"
+msgid "Fullscreen Mode"
+msgstr ""
+
+msgctxt "FullScreenModeDescription"
+msgid "Sets the application's window type."
+msgstr ""
+
+msgctxt "FullScreenModeExclusiveFullScreenTitle"
+msgid "Exclusive Fullscreen"
+msgstr ""
+
+msgctxt "FullScreenModeExclusiveFullScreenDescription"
+msgid ""
+"The application changes the monitor resolution and claims exclusive use of "
+"the target display."
+msgstr ""
+
+msgctxt "FullScreenModeFullScreenWindowTitle"
+msgid "Fullscreen Window"
+msgstr ""
+
+msgctxt "FullScreenModeFullScreenWindowDescription"
+msgid ""
+"In this mode, the application will be in a window that covers the whole "
+"screen. It runs at desktop resolution, and other requested resolutions are "
+"scaled to fit."
+msgstr ""
+
+msgctxt "FullScreenModeMaximizedWindowTitle"
+msgid "Maximized Window"
+msgstr ""
+
+msgctxt "FullScreenModeMaximizedWindowDescription"
+msgid "In this mode, the application creates a maximized window."
+msgstr ""
+
+msgctxt "FullScreenModeWindowedTitle"
+msgid "Windowed"
+msgstr ""
+
+msgctxt "FullScreenModeWindowedDescription"
+msgid "In this mode, Unity creates a standard, non-fullscreen window."
+msgstr ""
+
+msgctxt "CustomQualityTitle"
+msgid "Custom Quality"
+msgstr ""
+
+msgctxt "CustomQualityDescription"
+msgid "Allows you to override the default quality parameters."
+msgstr ""
+
+msgctxt "ShadowQualityTitle"
+msgid "Shadow Quality"
+msgstr ""
+
+msgctxt "ShadowQualityDescription"
+msgid ""
+"Choose a resolution for rendering shadows. The higher the resolution, the "
+"greater the processing overhead."
+msgstr ""
+
+msgctxt "ShadowQualityLowTitle"
+msgid "Low"
+msgstr ""
+
+msgctxt "ShadowQualityLowDescription"
+msgid "Low shadow map resolution."
+msgstr ""
+
+msgctxt "ShadowQualityMediumTitle"
+msgid "Medium"
+msgstr ""
+
+msgctxt "ShadowQualityMediumDescription"
+msgid "Medium shadow map resolution."
+msgstr ""
+
+msgctxt "ShadowQualityHighTitle"
+msgid "High"
+msgstr ""
+
+msgctxt "ShadowQualityHighDescription"
+msgid "High shadow map resolution."
+msgstr ""
+
+msgctxt "ShadowQualityVeryHighTitle"
+msgid "Very High"
+msgstr ""
+
+msgctxt "ShadowQualityVeryHighDescription"
+msgid "Very high shadow map resolution."
+msgstr ""
+
+msgctxt "ShadowDistanceTitle"
+msgid "Shadow Distance"
+msgstr ""
+
+msgctxt "ShadowDistanceDescription"
+msgid ""
+"Set the maximum distance from the camera at which shadows are visible. "
+"Shadows beyond this distance are not rendered."
+msgstr ""
+
+msgctxt "ShadowDistanceLowTitle"
+msgid "Low"
+msgstr ""
+
+msgctxt "ShadowDistanceLowDescription"
+msgid "Low shadow rendering distance."
+msgstr ""
+
+msgctxt "ShadowDistanceMediumTitle"
+msgid "Medium"
+msgstr ""
+
+msgctxt "ShadowDistanceMediumDescription"
+msgid "Medium shadow rendering distance."
+msgstr ""
+
+msgctxt "ShadowDistanceHighTitle"
+msgid "High"
+msgstr ""
+
+msgctxt "ShadowDistanceHighDescription"
+msgid "High shadow rendering distance."
+msgstr ""
+
+msgctxt "ShadowDistanceVeryHighTitle"
+msgid "Very High"
+msgstr ""
+
+msgctxt "ShadowDistanceVeryHighDescription"
+msgid "Very high shadow rendering distance."
+msgstr ""
+
+msgctxt "ShadowDistanceUltraTitle"
+msgid "Ultra"
+msgstr ""
+
+msgctxt "ShadowDistanceUltraDescription"
+msgid "Maximum shadow rendering distance."
+msgstr ""
+
+msgctxt "TextureQualityTitle"
+msgid "Texture Quality"
+msgstr ""
+
+msgctxt "TextureQualityDescription"
+msgid ""
+"Choose a resolution for displaying textures. A lower resolution has a "
+"smaller processing overhead."
+msgstr ""
+
+msgctxt "TextureQualityQuarterResTitle"
+msgid "Very Low Resolution"
+msgstr ""
+
+msgctxt "TextureQualityQuarterResDescription"
+msgid "Use very low resolution textures."
+msgstr ""
+
+msgctxt "TextureQualityHalfResTitle"
+msgid "Low Resolution"
+msgstr ""
+
+msgctxt "TextureQualityHalfResDescription"
+msgid "Use low resolution textures."
+msgstr ""
+
+msgctxt "TextureQualityFullResTitle"
+msgid "Original Resolution"
+msgstr ""
+
+msgctxt "TextureQualityFullResDescription"
+msgid "Use original resolution textures."
+msgstr ""
+
+msgctxt "VolumetricLightingQualityTitle"
+msgid "Volumetric Lighting Quality"
+msgstr ""
+
+msgctxt "VolumetricLightingQualityDescription"
+msgid ""
+"Choose a resolution for rendering volumetric lighting effects. You can also "
+"disable them. Note that some features are disabled at lower quality levels. "
+"A higher setting gives better rendering quality at the expense of processing "
+"overhead."
+msgstr ""
+
+msgctxt "VolumetricLightingQualityDisabledTitle"
+msgid "Disabled"
+msgstr ""
+
+msgctxt "VolumetricLightingQualityDisabledDescription"
+msgid "Disable volumetric lighting entirely."
+msgstr ""
+
+msgctxt "VolumetricLightingQualityLowTitle"
+msgid "Low"
+msgstr ""
+
+msgctxt "VolumetricLightingQualityLowDescription"
+msgid ""
+"Use a low resolution buffer and disable most volumetric lighting features."
+msgstr ""
+
+msgctxt "VolumetricLightingQualityMediumTitle"
+msgid "Medium"
+msgstr ""
+
+msgctxt "VolumetricLightingQualityMediumDescription"
+msgid ""
+"Use a medium resolution buffer and disable some volumetric lighting features."
+msgstr ""
+
+msgctxt "VolumetricLightingQualityHighTitle"
+msgid "High"
+msgstr ""
+
+msgctxt "VolumetricLightingQualityHighDescription"
+msgid ""
+"Use a high resolution buffer and enable all volumetric lighting features."
+msgstr ""
+
+msgctxt "ClothesSimulationQualityTitle"
+msgid "Clothes Simulation Quality"
+msgstr ""
+
+msgctxt "ClothesSimulationQualityDescription"
+msgid ""
+"Choose the physics simulation quality of characters' clothes. You can also "
+"disable this effect. A higher quality setting enables cloth simulation on "
+"more characters on screen at the expense of processing overhead."
+msgstr ""
+
+msgctxt "ClothesSimulationQualityDisabledTitle"
+msgid "Disabled"
+msgstr ""
+
+msgctxt "ClothesSimulationQualityDisabledDescription"
+msgid "Disable cloth simulation completely."
+msgstr ""
+
+msgctxt "ClothesSimulationQualityImportantTitle"
+msgid "Only Important Characters"
+msgstr ""
+
+msgctxt "ClothesSimulationQualityImportantDescription"
+msgid "Enable cloth simulation only for major characters."
+msgstr ""
+
+msgctxt "DepthOfFieldTitle"
+msgid "Depth of Field"
+msgstr ""
+
+msgctxt "DepthOfFieldDescription"
+msgid ""
+"Enable or disable the effect that simulates the focus properties of a camera "
+"lens."
+msgstr ""
+
+msgctxt "AmbientOcclusionTitle"
+msgid "Ambient Occlusion"
+msgstr ""
+
+msgctxt "AmbientOcclusionDescription"
+msgid ""
+"Enable or disable Ambient Occlusion as a full-screen post-processing effect. "
+"It darkens creases, holes, intersections, and surfaces that are close to "
+"each other."
+msgstr ""
+
+msgctxt "AntiAliasingTitle"
+msgid "Anti-Aliasing"
+msgstr ""
+
+msgctxt "AntiAliasingDescription"
+msgid ""
+"Choose the solution you want to use to prevent aliasing and give graphics a "
+"smoother appearance. You can also disable this effect."
+msgstr ""
+
+msgctxt "AntiAliasingNoneTitle"
+msgid "None"
+msgstr ""
+
+msgctxt "AntiAliasingNoneDescription"
+msgid "Disable the anti-aliasing effect entirely."
+msgstr ""
+
+msgctxt "AntiAliasingFastApproximateAntialiasingTitle"
+msgid "FXAA"
+msgstr ""
+
+msgctxt "AntiAliasingFastApproximateAntialiasingDescription"
+msgid ""
+"Fast Approximate Anti-Aliasing is the cheapest technique and is recommended "
+"for slower desktops."
+msgstr ""
+
+msgctxt "AntiAliasingTemporalAntialiasingTitle"
+msgid "TAA"
+msgstr ""
+
+msgctxt "AntiAliasingTemporalAntialiasingDescription"
+msgid ""
+"Temporal Anti-Aliasing is a more advanced anti-aliasing technique. It is "
+"substantially better at smoothing edges in motion, but has a higher "
+"processing overhead than FXAA."
+msgstr ""
+
+msgctxt "BrightnessTitle"
+msgid "Brightness"
+msgstr ""
+
+msgctxt "BrightnessDescription"
+msgid "Adjust the game's brightness for your display."
+msgstr ""
+
+msgctxt "ContrastTitle"
+msgid "Contrast"
+msgstr ""
+
+msgctxt "ContrastDescription"
+msgid "Adjust the game's contrast for your display."
+msgstr ""
+
+msgctxt "DiceVisibilityTitle"
+msgid "Dice Visibility"
+msgstr ""
+
+msgctxt "DiceStyleTitle"
+msgid "Dice Style"
+msgstr ""
+
+msgctxt "PartyD20StyleDescription"
+msgid "Die style for party d20 rolls"
+msgstr ""
+
+msgctxt "PartyD20StyleTitle"
+msgid "Party d20 Style"
+msgstr ""
+
+msgctxt "PartySecondaryD20StyleDescription"
+msgid ""
+"Die style for the party's second die when rolling with advantage or "
+"disadvantage"
+msgstr ""
+
+msgctxt "PartySecondaryD20StyleTitle"
+msgid "Party Adv./Disadv. d20 Style"
+msgstr ""
+
+msgctxt "EnemyD20StyleDescription"
+msgid "Die style for enemy d20 rolls"
+msgstr ""
+
+msgctxt "EnemyD20StyleTitle"
+msgid "Enemy d20 Style"
+msgstr ""
+
+msgctxt "EnemySecondaryD20StyleDescription"
+msgid ""
+"Die style for the enemy's second die when rolling with advantage or "
+"disadvantage"
+msgstr ""
+
+msgctxt "EnemySecondaryD20StyleTitle"
+msgid "Enemy Adv./Disadv. d20 Style"
+msgstr ""
+
+msgctxt "ToggleKeyboardDescription"
+msgid "Allows you to customize the keyboard mapping of game commands"
+msgstr ""
+
+msgctxt "ToggleKeyboardTitle"
+msgid "Keyboard"
+msgstr ""
+
+msgctxt "GeneralHeaderTitle"
+msgid "General"
+msgstr ""
+
+msgctxt "CancelTitle"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "PlayPauseTitle"
+msgid "Play/Pause/Speed Up Battle Turn"
+msgstr ""
+
+msgctxt "QuickSaveTitle"
+msgid "Quick Save"
+msgstr ""
+
+msgctxt "QuickLoadTitle"
+msgid "Quick Load"
+msgstr ""
+
+msgctxt "ToggleMapTitle"
+msgid "Toggle Map"
+msgstr ""
+
+msgctxt "PartyJournalTitle"
+msgid "Party Journal"
+msgstr ""
+
+msgctxt "BestiaryTitle"
+msgid "Bestiary"
+msgstr ""
+
+msgctxt "ShowDetailedInformationTitle"
+msgid "Highlight Interactive Elements"
+msgstr ""
+
+msgctxt "CharacterControlHeaderTitle"
+msgid "Character Control"
+msgstr ""
+
+msgctxt "InspectCharacterTitle"
+msgid "Inspect Character"
+msgstr ""
+
+msgctxt "CastSpellTitle"
+msgid "Cast Spell"
+msgstr ""
+
+msgctxt "EndTurnTitle"
+msgid "End Turn"
+msgstr ""
+
+msgctxt "SelectNextCharacterTitle"
+msgid "Select Next Character"
+msgstr ""
+
+msgctxt "SelectAllCharactersTitle"
+msgid "Select All Characters"
+msgstr ""
+
+msgctxt "SelectCharacter1Title"
+msgid "Select Character 1"
+msgstr ""
+
+msgctxt "SelectCharacter2Title"
+msgid "Select Character 2"
+msgstr ""
+
+msgctxt "SelectCharacter3Title"
+msgid "Select Character 3"
+msgstr ""
+
+msgctxt "SelectCharacter4Title"
+msgid "Select Character 4"
+msgstr ""
+
+msgctxt "EnablePlanarTargettingDescription"
+msgid ""
+"Allows you to confine destination/target selection to an horizontal plane, "
+"instead of full 3D."
+msgstr ""
+
+msgctxt "EnablePlanarTargettingTitle"
+msgid "Enable Planar Targeting"
+msgstr ""
+
+msgctxt "CameraControlHeaderTitle"
+msgid "Camera Control"
+msgstr ""
+
+msgctxt "LeftTitle"
+msgid "Move Left"
+msgstr ""
+
+msgctxt "RightTitle"
+msgid "Move Right"
+msgstr ""
+
+msgctxt "ForwardTitle"
+msgid "Move Forward"
+msgstr ""
+
+msgctxt "BackwardTitle"
+msgid "Move Backward"
+msgstr ""
+
+msgctxt "RotateCCWTitle"
+msgid "Rotate Counterclockwise"
+msgstr ""
+
+msgctxt "RotateCWTitle"
+msgid "Rotate Clockwise"
+msgstr ""
+
+msgctxt "HeldZoomTitle"
+msgid "Hold to Zoom to Character"
+msgstr ""
+
+msgctxt "ZoomInTitle"
+msgid "Zoom In"
+msgstr ""
+
+msgctxt "ZoomOutTitle"
+msgid "Zoom Out"
+msgstr ""
+
+msgctxt "KeyMappingUnboundTitle"
+msgid "Unbound"
+msgstr ""
+
+msgctxt "KeyMappingImmutableDescription"
+msgid "This keyboard mapping cannot be modified by the user."
+msgstr ""
+
+msgctxt "InputKeyTitle"
+msgid "Hit a Key"
+msgstr ""
+
+msgctxt "DefaultDescription"
+msgid "Resets to the default values for this category of settings"
+msgstr ""
+
+msgctxt "DefaultTitle"
+msgid "Default"
+msgstr ""
+
+msgctxt "PreserveRandomSeedDescription"
+msgid ""
+"Preserve the random number generation when loading a saved game in order to "
+"obtain the same combat results. The random generation is always recalculated "
+"for dialog rolls even when this option is on."
+msgstr ""
+
+msgctxt "PreserveRandomSeedTitle"
+msgid "Preserve Random Seed"
+msgstr ""
+
+msgctxt "ClothesSimulationQualityAlwaysTitle"
+msgid "TBC"
+msgstr ""
+
+msgctxt "RefreshRateDescription"
+msgid "The refresh frequency (Hz) of the selected resolution"
+msgstr ""
+
+msgctxt "RefreshRateTitle"
+msgid "Refresh Rate"
+msgstr ""
+
+msgctxt "DisplayHeaderTitle"
+msgid "Display"
+msgstr ""
+
+msgctxt "GameplayHeaderTitle"
+msgid "Gameplay"
+msgstr ""
+
+msgctxt "CameraHeaderTitle"
+msgid "Camera"
+msgstr ""
+
+msgctxt "SpellComponentsHeaderTitle"
+msgid "Spell Components"
+msgstr ""
+
+msgctxt "VerbalComponentDescription"
+msgid ""
+"Determines how you simulate the requirements for spells with a verbal "
+"component."
+msgstr ""
+
+msgctxt "VerbalComponentTitle"
+msgid "Verbal Components"
+msgstr ""
+
+msgctxt "VerbalComponentDisabledDescription"
+msgid ""
+"Heroes do not require the ability to speak to cast spells with a verbal "
+"component."
+msgstr ""
+
+msgctxt "VerbalComponentDisabledTitle"
+msgid "Disabled"
+msgstr ""
+
+msgctxt "VerbalComponentFullDescription"
+msgid "Heroes must be able to speak to cast spells with a verbal component."
+msgstr ""
+
+msgctxt "VerbalComponentFullTitle"
+msgid "Full"
+msgstr ""
+
+msgctxt "SomaticComponentDescription"
+msgid ""
+"Determines how you simulate the requirements for spells with a somatic "
+"component."
+msgstr ""
+
+msgctxt "SomaticComponentTitle"
+msgid "Somatic Components"
+msgstr ""
+
+msgctxt "SomaticComponentDisabledDescription"
+msgid ""
+"Heroes do not require a free hand to cast spells with a somatic component."
+msgstr ""
+
+msgctxt "SomaticComponentDisabledTitle"
+msgid "Disabled"
+msgstr ""
+
+msgctxt "SomaticComponentFullTitle"
+msgid "Full"
+msgstr ""
+
+msgctxt "MaterialComponentDescription"
+msgid ""
+"Determines how you simulate the requirements for spells with a material "
+"component."
+msgstr ""
+
+msgctxt "MaterialComponentTitle"
+msgid "Material Components"
+msgstr ""
+
+msgctxt "MaterialComponentDisabledDescription"
+msgid "No material components are required."
+msgstr ""
+
+msgctxt "MaterialComponentDisabledTitle"
+msgid "Disabled"
+msgstr ""
+
+msgctxt "MaterialComponentBasicDescription"
+msgid ""
+"Spells with a material component require a spell focus or component pouch."
+msgstr ""
+
+msgctxt "MaterialComponentBasicTitle"
+msgid "Basic"
+msgstr ""
+
+msgctxt "MaterialComponentFullDescription"
+msgid ""
+"Spells with a mundane material component require a spell focus or component "
+"pouch. Spells with a specific component require it."
+msgstr ""
+
+msgctxt "MaterialComponentFullTitle"
+msgid "Full"
+msgstr ""
+
+msgctxt "OtherHeaderTitle"
+msgid "Other"
+msgstr ""
+
+msgctxt "DifficultySettingsHeaderTitle"
+msgid "Difficulty Settings - can be changed during play"
+msgstr ""
+
+msgctxt "DifficultyPresetTitle"
+msgid "Difficulty"
+msgstr ""
+
+msgctxt "DifficultyPresetDescription"
+msgid "Choose from a list of difficulty presets."
+msgstr ""
+
+msgctxt "DifficultyPresetPreset1Title"
+msgid "Story Mode"
+msgstr ""
+
+msgctxt "DifficultyPresetPreset1Description"
+msgid ""
+"For players who prefer to focus on the story. Exploration and combat will be "
+"simplified. "
+msgstr ""
+
+msgctxt "DifficultyPresetPreset2Title"
+msgid "Explorer Mode"
+msgstr ""
+
+msgctxt "DifficultyPresetPreset2Description"
+msgid "For players unfamiliar with tactical RPGs or the ruleset."
+msgstr ""
+
+msgctxt "DifficultyPresetPreset3Title"
+msgid "Authentic Mode"
+msgstr ""
+
+msgctxt "DifficultyPresetPreset3Description"
+msgid "For players who want the authentic tabletop ruleset."
+msgstr ""
+
+msgctxt "DifficultyPresetPreset4Title"
+msgid "Scavenger Mode"
+msgstr ""
+
+msgctxt "DifficultyPresetPreset4Description"
+msgid "For players who are ready for a harder challenge."
+msgstr ""
+
+msgctxt "DifficultyPresetPreset5Title"
+msgid "Cataclysm Mode"
+msgstr ""
+
+msgctxt "DifficultyPresetPreset5Description"
+msgid "For players looking to defy the odds. You will suffer. A lot."
+msgstr ""
+
+msgctxt "CustomDifficultyTitle"
+msgid "Custom Difficulty"
+msgstr ""
+
+msgctxt "CustomDifficultyDescription"
+msgid "Allows you to pick and choose the settings you want."
+msgstr ""
+
+msgctxt "BattleSettingsHeaderTitle"
+msgid "Battle"
+msgstr ""
+
+msgctxt "DamageTakenAllyMultiplierTitle"
+msgid "Damage Taken"
+msgstr ""
+
+msgctxt "DamageTakenAllyMultiplierDescription"
+msgid "Modifies the damage taken by player characters and critical NPCs."
+msgstr ""
+
+msgctxt "DisableEnemyCritsTitle"
+msgid "Disable Enemy Critical Hits"
+msgstr ""
+
+msgctxt "DisableEnemyCritsDescription"
+msgid "Enemies' critical hits deal regular damage."
+msgstr ""
+
+msgctxt "AiUsesPowerfulMovesMoreOftenTitle"
+msgid "Deadlier AI"
+msgstr ""
+
+msgctxt "AiUsesPowerfulMovesMoreOftenDescription"
+msgid ""
+"Monsters will use powerful moves (such as AoE spells) more often, and will "
+"shove characters to their death."
+msgstr ""
+
+msgctxt "AiTargetsHelplessCharactersTitle"
+msgid "Merciless AI"
+msgstr ""
+
+msgctxt "AiTargetsHelplessCharactersDescription"
+msgid "Monsters will attack unconscious and dying characters to kill them."
+msgstr ""
+
+msgctxt "EnemyHpMultiplierTitle"
+msgid "Enemy Health Multiplier"
+msgstr ""
+
+msgctxt "EnemyHpMultiplierDescription"
+msgid "Modifies enemy health points by the selected value."
+msgstr ""
+
+msgctxt "SavingThrowAllyModifierTitle"
+msgid "Ally Saving Throw"
+msgstr ""
+
+msgctxt "SavingThrowAllyModifierDescription"
+msgid ""
+"All saving throws made by friendly characters will receive this modifier."
+msgstr ""
+
+msgctxt "SavingThrowEnemyModifierTitle"
+msgid "Enemy Saving Throw"
+msgstr ""
+
+msgctxt "SavingThrowEnemyModifierDescription"
+msgid "All saving throws made by enemy characters will receive this modifier."
+msgstr ""
+
+msgctxt "AttackRollAllyModifierTitle"
+msgid "Ally Attack Roll"
+msgstr ""
+
+msgctxt "AttackRollAllyModifierDescription"
+msgid ""
+"All attack rolls made by friendly characters will receive this modifier."
+msgstr ""
+
+msgctxt "AttackRollEnemyModifierTitle"
+msgid "Enemy Attack Roll"
+msgstr ""
+
+msgctxt "AttackRollEnemyModifierDescription"
+msgid "All attack rolls made by enemy characters will receive this modifier."
+msgstr ""
+
+msgctxt "AbilityCheckAllyModifierTitle"
+msgid "Ally Ability Check"
+msgstr ""
+
+msgctxt "AbilityCheckAllyModifierDescription"
+msgid ""
+"All ability checks made by friendly characters will receive this modifier."
+msgstr ""
+
+msgctxt "AbilityCheckEnemyModifierTitle"
+msgid "Enemy Ability Check"
+msgstr ""
+
+msgctxt "AbilityCheckEnemyModifierDescription"
+msgid "All ability checks made by enemy characters will receive this modifier."
+msgstr ""
+
+msgctxt "AutoreviveTitle"
+msgid "Auto-revive"
+msgstr ""
+
+msgctxt "AutoreviveDescription"
+msgid ""
+"Characters are automatically revived at the end of a battle as long as one "
+"survived."
+msgstr ""
+
+msgctxt "HeatlhAndRestSettingsHeaderTitle"
+msgid "Health and Rest"
+msgstr ""
+
+msgctxt "CompanionsRestTitle"
+msgid "Companions Rest"
+msgstr ""
+
+msgctxt "CompanionsRestDescription"
+msgid "Critical NPCs and companions fully recover during short rests."
+msgstr ""
+
+msgctxt "NoFoodNeededTitle"
+msgid "No Food Required"
+msgstr ""
+
+msgctxt "NoFoodNeededDescription"
+msgid "Characters can take a long rest even if they have no food."
+msgstr ""
+
+msgctxt "MaxHpOnHitDiceTitle"
+msgid "Max Health on Hit Dice"
+msgstr ""
+
+msgctxt "MaxHpOnHitDiceDescription"
+msgid ""
+"Using a hit die during a short rest grants the maximum amount of health back."
+msgstr ""
+
+msgctxt "MaxHpOnLevelUpTitle"
+msgid "Max Health on Level Up"
+msgstr ""
+
+msgctxt "MaxHpOnLevelUpDescription"
+msgid ""
+"Increase the health of a character by the maximum value upon leveling up."
+msgstr ""
+
+msgctxt "InventorySettingsHeaderTitle"
+msgid "Inventory"
+msgstr ""
+
+msgctxt "EncumbranceRuleTypeTitle"
+msgid "Encumbrance Rule"
+msgstr ""
+
+msgctxt "EncumbranceRuleTypeDescription"
+msgid "Choose which encumbrance rule to play with."
+msgstr ""
+
+msgctxt "EncumbranceRuleTypeDefaultTitle"
+msgid "Tabletop"
+msgstr ""
+
+msgctxt "EncumbranceRuleTypeDefaultDescription"
+msgid "Your characters can carry up to 15x STR."
+msgstr ""
+
+msgctxt "EncumbranceRuleTypeVariantTitle"
+msgid "Solasta (Variant)"
+msgstr ""
+
+msgctxt "EncumbranceRuleTypeVariantDescription"
+msgid ""
+"Your characters can carry up to 15x STR, but will be encumbered above 5x "
+"STR, and heavily encumbered above 10x STR."
+msgstr ""
+
+msgctxt "EncumbranceRuleTypeEasyTitle"
+msgid "Simplified"
+msgstr ""
+
+msgctxt "EncumbranceRuleTypeEasyDescription"
+msgid "Your characters can carry up to 150x STR."
+msgstr ""
+
+msgctxt "SpellcastingSettingsHeaderTitle"
+msgid "Spellcasting"
+msgstr ""
+
+msgctxt "NeverLoseConcentrationOnSpellsTitle"
+msgid "Never Lose Concentration"
+msgstr ""
+
+msgctxt "NeverLoseConcentrationOnSpellsDescription"
+msgid ""
+"A caster concentrating on a spell will not need a Constitution saving throw "
+"when damaged."
+msgstr ""
+
+msgctxt "ScrollsCanBeUsedByAnyCharacterTitle"
+msgid "Universal Scrolls"
+msgstr ""
+
+msgctxt "ScrollsCanBeUsedByAnyCharacterDescription"
+msgid ""
+"Any character can use a scroll, even though the spell is not on their spell "
+"list."
+msgstr ""
+
+msgctxt "RandomnessSettingsHeaderTitle"
+msgid "Dice Rolls"
+msgstr ""
+
+msgctxt "RandomnessModeTitle"
+msgid "Random Mode"
+msgstr ""
+
+msgctxt "RandomnessModeDescription"
+msgid "Choose the random mode used when rolling dice."
+msgstr ""
+
+msgctxt "RandomnessModeTrueRandomTitle"
+msgid "True Random"
+msgstr ""
+
+msgctxt "RandomnessModeTrueRandomDescription"
+msgid "Your luck will be left in the hands of the dice gods."
+msgstr ""
+
+msgctxt "RandomnessModeNiceDiceTitle"
+msgid "Karmic Dice"
+msgstr ""
+
+msgctxt "RandomnessModeNiceDiceDescription"
+msgid ""
+"Bad dice rolls will increase the player's chances of landing a good roll."
+msgstr ""
+
+msgctxt "ForceCritEveryFewRollsTitle"
+msgid "Guaranteed Critical"
+msgstr ""
+
+msgctxt "ForceCritEveryFewRollsDescription"
+msgid "Guarantees the player a critical hit at least once every 15 rolls."
+msgstr ""
+
+msgctxt "StorySettingsHeaderTitle"
+msgid "Story"
+msgstr ""
+
+msgctxt "ForceSuccessOnDialogRollsTitle"
+msgid "Force Dialog Roll Success"
+msgstr ""
+
+msgctxt "ForceSuccessOnDialogRollsDescription"
+msgid "Any skill check rolled during a dialog will succeed."
+msgstr ""
+
+msgctxt "AlwaysDisplayDialogChancesTitle"
+msgid "Always Display Dialog Chances"
+msgstr ""
+
+msgctxt "AlwaysDisplayDialogChancesDescription"
+msgid ""
+"Skill check success chance will always be displayed, instead of only upon "
+"insight check success."
+msgstr ""
+
+msgctxt "UnlockAllBestiaryContentTitle"
+msgid "Unlock All Bestiary"
+msgstr ""
+
+msgctxt "UnlockAllBestiaryContentDescription"
+msgid ""
+"All content in the bestiary is unlocked from the start; no survival checks "
+"needed to discover information on monsters."
+msgstr ""
+
+msgctxt "DisableRandomEncountersTitle"
+msgid "Disable Random Encounters"
+msgstr ""
+
+msgctxt "DisableRandomEncountersDescription"
+msgid ""
+"Removes all random encounters when traveling on the world map, except for "
+"scripted ones."
+msgstr ""
+
+msgctxt "ExplorationSettingsHeaderTitle"
+msgid "Exploration"
+msgstr ""
+
+msgctxt "AuthorizeRetryOnGadgetsTitle"
+msgid "Reroll Exploration Checks"
+msgstr ""
+
+msgctxt "AuthorizeRetryOnGadgetsDescription"
+msgid ""
+"Allows you to retry picking a lock or disarming a trap even if the character "
+"has previously failed."
+msgstr ""
+
+msgctxt "AutoDetectTrapsTitle"
+msgid "Autodetect Traps"
+msgstr ""
+
+msgctxt "AutoDetectTrapsDescription"
+msgid ""
+"Traps in the vicinity will automatically be detected even if they would "
+"normally require a skill check."
+msgstr ""
+
+msgctxt "ForceCraftingRollSuccessTitle"
+msgid "Force Crafting Roll Success"
+msgstr ""
+
+msgctxt "ForceCraftingRollSuccessDescription"
+msgid "Each crafting roll will succeed automatically."
+msgstr ""
+
+msgctxt "NoToolRequirementTitle"
+msgid "No Tool Required"
+msgstr ""
+
+msgctxt "NoToolRequirementDescription"
+msgid ""
+"Characters can craft and unlock chests or doors without the need for tools."
+msgstr ""
+
+msgctxt "SomaticComponentFullDescription"
+msgid "Characters must have a free hand."
+msgstr ""
+
+msgctxt "QualityHeaderTitle"
+msgid "Quality"
+msgstr ""
+
+msgctxt "ColorCalibrationHeaderTitle"
+msgid "Color Calibration"
+msgstr ""
+
+msgctxt "FasterTravelOnWorldMapTitle"
+msgid "Faster Travel on World Map"
+msgstr ""
+
+msgctxt "FasterTravelOnWorldMapDescription"
+msgid "Increase the travel speed when traveling on the World Map."
+msgstr ""
+
+msgctxt "ScrollSensitivityDescription"
+msgid "Sets the speed for scrolling areas with the mouse wheel."
+msgstr ""
+
+msgctxt "ScrollSensitivityTitle"
+msgid "Scroll Sensitivity"
+msgstr ""
+
+msgctxt "ShadowsTitle"
+msgid "Shadows"
+msgstr ""
+
+msgctxt "ShadowsDescription"
+msgid "Enable or disable shadows."
+msgstr ""
+
+msgctxt "SubtitlesHeaderTitle"
+msgid "Subtitles"
+msgstr ""
+
+msgctxt "SubtitlesEnabledDescription"
+msgid "Enable/disable subtitles during cutscenes."
+msgstr ""
+
+msgctxt "SubtitlesEnabledTitle"
+msgid "Enabled"
+msgstr ""
+
+msgctxt "SubtitlesDisplaySpeakerNameDescription"
+msgid "Display the name of the speaking character during cutscenes."
+msgstr ""
+
+msgctxt "SubtitlesDisplaySpeakerNameTitle"
+msgid "Display Speaker Name"
+msgstr ""
+
+msgctxt "SubtitlesBlackBackgroundDescription"
+msgid "Display a black background behind subtitles."
+msgstr ""
+
+msgctxt "SubtitlesBlackBackgroundTitle"
+msgid "Black Background"
+msgstr ""
+
+msgctxt "AllowAttuningUnknownItemsTitle"
+msgid "Allow Attuning Unknown Items"
+msgstr ""
+
+msgctxt "AllowAttuningUnknownItemsDescription"
+msgid ""
+"A character will be able to attune to a magic item even if its magical "
+"properties are unknown."
+msgstr ""
+
+msgctxt "MoveCameraWithScreenBordersTitle"
+msgid "Move Camera with Screen Borders"
+msgstr ""
+
+msgctxt "SpellbookPagesConstraintTitle"
+msgid "Spellbook Page Limitation"
+msgstr ""
+
+msgctxt "SpellbookPagesConstraintDescription"
+msgid ""
+"When the option is activated, spellbooks can only contain spells fitting "
+"their pages limit (usually 100 pages). Each scribed spell (either from level "
+"up or scroll) takes a number of pages equal to its level in the spellbook. A "
+"wizard may have to purchase another spellbook before the end of the Solasta "
+"campaign, or be prevented from leveling up."
+msgstr ""
+
+msgctxt "FadingFogOfWarTitle"
+msgid "Animated Fog of War"
+msgstr ""
+
+msgctxt "TextLanguageruTitle"
+msgid "Русский"
+msgstr ""
+
+msgctxt "TextLanguageruDescription"
+msgid "Русский"
+msgstr ""
+
+msgctxt "TextLanguagept-BRTitle"
+msgid "Português (Brasil)"
+msgstr ""
+
+msgctxt "TextLanguagept-BRDescription"
+msgid "Português (Brasil)"
+msgstr ""

@@ -1,0 +1,901 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "Abjuration_Caravan_EncounterDescription"
+msgid "You came across a caravan, a rare thing in these desolate lands."
+msgstr ""
+
+msgctxt "Abjuration_Caravan_EncounterTitle"
+msgid "Unexpected Encounter"
+msgstr ""
+
+msgctxt "Abjuration_Ruins01_EncounterDescription"
+msgid ""
+"As you traveled through the Badlands towards Coparann, Kythaela asked you to "
+"stop near an old ruin…"
+msgstr ""
+
+msgctxt "Abjuration_Ruins01_EncounterTitle"
+msgid "Ashes of Manacalon"
+msgstr ""
+
+msgctxt "Abjuration_Ruins02_EncounterDescription"
+msgid ""
+"Kythaela stopped again, and asked to enter what seems to be an old Imperial "
+"prison."
+msgstr ""
+
+msgctxt "Abjuration_Ruins02_EncounterTitle"
+msgid "Dungeons of Manacalon"
+msgstr ""
+
+msgctxt "BadlandsSpidersEncounterDescription"
+msgid ""
+"You must have roamed close to a nest: a handful of these little monsters "
+"wants you dead."
+msgstr ""
+
+msgctxt "BadlandsSpidersEncounterTitle"
+msgid "Badlands Spiders"
+msgstr ""
+
+msgctxt "BanditsEncounterDescription"
+msgid "Robbers in search of easy prey - preferably wealthy."
+msgstr ""
+
+msgctxt "BanditsEncounterTitle"
+msgid "Bandits"
+msgstr ""
+
+msgctxt "CrownAttunementEncounterDescription"
+msgid ""
+"Your party is forced to stop for an unplanned short rest. Something is wrong."
+msgstr ""
+
+msgctxt "CrownAttunementEncounterTitle"
+msgid "A Troubled Night"
+msgstr ""
+
+msgctxt "DeepSpidersEncounterTitle"
+msgid "Deep Spiders"
+msgstr ""
+
+msgctxt "EagleNestEncounterDescription"
+msgid ""
+"You've wandered too close to a nest! The eagles will fight to the death to "
+"protect their young!"
+msgstr ""
+
+msgctxt "EagleNestEncounterTitle"
+msgid "Eagle Nest"
+msgstr ""
+
+msgctxt "FlyingSnakesEncounterDescription"
+msgid "A bevy of flying snakes who want you away from their eggs."
+msgstr ""
+
+msgctxt "FlyingSnakesEncounterTitle"
+msgid "Brimstone Vipers"
+msgstr ""
+
+msgctxt "GoblinCrusadersDescription"
+msgid "A goblin shaman and his followers in search of glory."
+msgstr ""
+
+msgctxt "GoblinCrusadersTitle"
+msgid "Goblin Crusade"
+msgstr ""
+
+msgctxt "GoblinhuntingpartyEncounterDescription"
+msgid "Goblins on the hunt with their tame wolves."
+msgstr ""
+
+msgctxt "GoblinhuntingpartyEncounterTitle"
+msgid "Goblin Hunting Party"
+msgstr ""
+
+msgctxt "GoblinWarPartyDescription"
+msgid "A band of goblin skirmishers looking for trouble."
+msgstr ""
+
+msgctxt "GoblinWarPartyTitle"
+msgid "Goblin War Party"
+msgstr ""
+
+msgctxt "OrcMaraudersTitle"
+msgid "Orc Marauders"
+msgstr ""
+
+msgctxt "OrcRaidersDescription"
+msgid ""
+"An orc chieftain leading a band of warriors in search of scars and glory."
+msgstr ""
+
+msgctxt "OrcRaidersTitle"
+msgid "Orc Raiders"
+msgstr ""
+
+msgctxt "WinterWolfpackEncounterDescription"
+msgid "A terrible winter wolf, on the hunt with a few normal wolves."
+msgstr ""
+
+msgctxt "WinterWolfpackEncounterTitle"
+msgid "Winter Wolf and Pack"
+msgstr ""
+
+msgctxt "WolfpackEncounterDescription"
+msgid "A pack of ravenous wolves, desperate for a kill."
+msgstr ""
+
+msgctxt "WolfpackEncounterTitle"
+msgid "Wolf Pack"
+msgstr ""
+
+msgctxt "DeepSpidersEncounterDescription"
+msgid "A huge party of deep spiders looking to feed their spiderlings."
+msgstr ""
+
+msgctxt "DeathGangTitle"
+msgid "Death Gang"
+msgstr ""
+
+msgctxt "DeathGangDescription"
+msgid "Roaming skeletons, escaped from some desecrated tomb."
+msgstr ""
+
+msgctxt "DeathSquadTitle"
+msgid "Death Squad"
+msgstr ""
+
+msgctxt "RoamingFanaticsTitle"
+msgid "Roaming Fanatics"
+msgstr ""
+
+msgctxt "RoamingFanaticsDescription"
+msgid "A couple of acolytes led by a charismatic leader."
+msgstr ""
+
+msgctxt "ApprenticeNecromancerTitle"
+msgid "Apprentice Necromancer"
+msgstr ""
+
+msgctxt "ApprenticeNecromancerDescription"
+msgid "A student of magic with a bunch of his rotting creations."
+msgstr ""
+
+msgctxt "SpiesOnTheRunTitle"
+msgid "Spies on the Run"
+msgstr ""
+
+msgctxt "SpiesOnTheRunDescription"
+msgid "A couple of spies trying to escape enemy intelligence… at all costs."
+msgstr ""
+
+msgctxt "GlorySeekerTitle"
+msgid "Glory Seeker"
+msgstr ""
+
+msgctxt "GlorySeekerDescription"
+msgid ""
+"A veteran soldier roaming the roads in search for death on the battlefield."
+msgstr ""
+
+msgctxt "BerserkerBrothersTitle"
+msgid "Berserker Brothers"
+msgstr ""
+
+msgctxt "BerserkerBrothersDescription"
+msgid "Like-minded fighters in search for blood. Preferably yours."
+msgstr ""
+
+msgctxt "StainedHunterTitle"
+msgid "Stained Hunter"
+msgstr ""
+
+msgctxt "StainedHunterDescription"
+msgid ""
+"A lonely wanderer of the Badlands who's been corrupted by chaotic magic."
+msgstr ""
+
+msgctxt "HungryWolvesTitle"
+msgid "Hungry Wolves"
+msgstr ""
+
+msgctxt "HungryWolvesDescription"
+msgid "A small pack of wolves, famished and weakened."
+msgstr ""
+
+msgctxt "GoblinScoutsTitle"
+msgid "Goblin Scouts"
+msgstr ""
+
+msgctxt "GoblinScoutsDescription"
+msgid "A small group of goblins with their pet wolf."
+msgstr ""
+
+msgctxt "LoneOgreTitle"
+msgid "Lone Ogre"
+msgstr ""
+
+msgctxt "LoneOgreDescription"
+msgid ""
+"A wandering ogre, probably lost and definitely looking for something - or "
+"someone - to eat."
+msgstr ""
+
+msgctxt "OrcBandTitle"
+msgid "Orc Band"
+msgstr ""
+
+msgctxt "OrcBandDescription"
+msgid "A small bunch of orcs, looking for something to kill."
+msgstr ""
+
+msgctxt "RoamingUndeadsTitle"
+msgid "Roaming Undeads"
+msgstr ""
+
+msgctxt "RoamingUndeadsDescription"
+msgid "A group of undeads, wandering around and looking to end a few lives."
+msgstr ""
+
+msgctxt "EvilEvangelistsTitle"
+msgid "Evil Evangelists"
+msgstr ""
+
+msgctxt "EvilEvangelistsDescription"
+msgid "A cleric and his goons, roaming the land to spread their evil cult."
+msgstr ""
+
+msgctxt "GhoulCoupleTitle"
+msgid "Ghouls"
+msgstr ""
+
+msgctxt "GhoulCoupleDescription"
+msgid "A band of ghouls with wicked hunger."
+msgstr ""
+
+msgctxt "GiantEaglesTitle"
+msgid "Giant Eagles"
+msgstr ""
+
+msgctxt "GiantEaglesDescription"
+msgid "A couple of giant eagles that seem threatened by your presence."
+msgstr ""
+
+msgctxt "WolfSquadTitle"
+msgid "Goblin Wolfsquad"
+msgstr ""
+
+msgctxt "WolfSquadDescription"
+msgid "A group of goblins led by a beastmaster and his dire wolf."
+msgstr ""
+
+msgctxt "EscapedMinotaurTitle"
+msgid "Escaped Minotaur"
+msgstr ""
+
+msgctxt "EscapedMinotaurDescription"
+msgid ""
+"A rare creature on Solasta, this guardian aberration is on a killing spree."
+msgstr ""
+
+msgctxt "LoneWightTitle"
+msgid "Wight"
+msgstr ""
+
+msgctxt "LoneWightDescription"
+msgid "A lone wight wandering in search of someone to kill."
+msgstr ""
+
+msgctxt "ScoutingPartyTitle"
+msgid "Scout and Wolf"
+msgstr ""
+
+msgctxt "ScoutingPartyDescription"
+msgid "A sneaky scout and his wolf pet."
+msgstr ""
+
+msgctxt "DireWolfPackTitle"
+msgid "Dire Wolf Pack"
+msgstr ""
+
+msgctxt "DireWolfPackDescription"
+msgid "A Dire Wolf and his pack of regular hunters."
+msgstr ""
+
+msgctxt "DireWolfPack2Title"
+msgid "Dire Wolves"
+msgstr ""
+
+msgctxt "DireWolfPack2Description"
+msgid "A pack of dire wolves."
+msgstr ""
+
+msgctxt "FanaticDuoTitle"
+msgid "Fanatic Duo"
+msgstr ""
+
+msgctxt "FanaticDuoDescription"
+msgid "A couple of fanatics on their way to a brutal pilgrimage."
+msgstr ""
+
+msgctxt "MisayeEvangelistsTitle"
+msgid "Misaye Evangelists"
+msgstr ""
+
+msgctxt "MisayeEvangelistsDescription"
+msgid ""
+"A group of fanatic Misaye followers who have their own interpretations of "
+"their deity's creed."
+msgstr ""
+
+msgctxt "OgreZombiesTitle"
+msgid "Ogre Zombies"
+msgstr ""
+
+msgctxt "OgreZombiesDescription"
+msgid "A group of dead ogres made into worse versions of their former selves."
+msgstr ""
+
+msgctxt "OrcPartyTitle"
+msgid "Orc War Party"
+msgstr ""
+
+msgctxt "OrcPartyDescription"
+msgid "A bunch of orcs looking for scars and glory."
+msgstr ""
+
+msgctxt "WightEscortTitle"
+msgid "Wight Squad"
+msgstr ""
+
+msgctxt "WightEscortDescription"
+msgid "A wight and his soldiers on a hunt for the living."
+msgstr ""
+
+msgctxt "BeastmasterTitle"
+msgid "Ragged Beastmaster"
+msgstr ""
+
+msgctxt "BeastmasterDescription"
+msgid "A crazed man and his starving wolf companions."
+msgstr ""
+
+msgctxt "GhastsTitle"
+msgid "Ghasts"
+msgstr ""
+
+msgctxt "GhastsDescription"
+msgid "A band of ghasts looking for souls to reap and bodies to devour."
+msgstr ""
+
+msgctxt "GhoulPackTitle"
+msgid "Ghoul Pack"
+msgstr ""
+
+msgctxt "GhoulPackDescription"
+msgid "A ghast and his ghouls looking for souls to reap and bodies to devour."
+msgstr ""
+
+msgctxt "WolfShamanTitle"
+msgid "Wolf Shaman"
+msgstr ""
+
+msgctxt "WolfShamanDescription"
+msgid "A goblin shaman and his pet dire wolf."
+msgstr ""
+
+msgctxt "OgreBandTitle"
+msgid "Ogre Band"
+msgstr ""
+
+msgctxt "OgreBandDescription"
+msgid "A group of angry ogres."
+msgstr ""
+
+msgctxt "LeatherskinsTitle"
+msgid "Leatherskins"
+msgstr ""
+
+msgctxt "LeatherskinsDescription"
+msgid "A heteroclite party of goblins accompanied by a dire wolf and an ogre."
+msgstr ""
+
+msgctxt "CultFanaticsTitle"
+msgid "Cult Fanatics"
+msgstr ""
+
+msgctxt "CultFanaticsDescription"
+msgid ""
+"A band of crazed fanatics who believe in swords more than they believe in "
+"words."
+msgstr ""
+
+msgctxt "WinterWolfPackTitle"
+msgid "Winter Wolf pack"
+msgstr ""
+
+msgctxt "WinterWolfPackDescription"
+msgid "A pack led by a monstrous winter wolf."
+msgstr ""
+
+msgctxt "ZombiePartyTitle"
+msgid "Zombies"
+msgstr ""
+
+msgctxt "ZombiePartyDescription"
+msgid "Simply put, a band of wandering zombies in search of living flesh."
+msgstr ""
+
+msgctxt "SlaversTitle"
+msgid "Slavers"
+msgstr ""
+
+msgctxt "SlaversDescription"
+msgid "Fanatics looking for prey to enslave."
+msgstr ""
+
+msgctxt "NecromancerTitle"
+msgid "Necromancer Squad"
+msgstr ""
+
+msgctxt "NecromancerDescription"
+msgid "A necromancer and his creations on the warpath."
+msgstr ""
+
+msgctxt "Leatherskins2Title"
+msgid "Leatherskins"
+msgstr ""
+
+msgctxt "Leatherskins2Description"
+msgid "A band of orcs led by an ogre."
+msgstr ""
+
+msgctxt "FireNestTitle"
+msgid "Fire Nest"
+msgstr ""
+
+msgctxt "FireNestDescription"
+msgid "A bunch of fire spiders wandering out of their zone of comfort."
+msgstr ""
+
+msgctxt "WarlordTitle"
+msgid "Warlord"
+msgstr ""
+
+msgctxt "WarlordDescription"
+msgid "A powerful warlord and his chaplain in search for a glorious battle."
+msgstr ""
+
+msgctxt "ImperialsTitle"
+msgid "Imperial Outlaws"
+msgstr ""
+
+msgctxt "ImperialsDescription"
+msgid ""
+"New Empire combatants who decided to take it upon themselves to apply the "
+"law of the Old Empire."
+msgstr ""
+
+msgctxt "MinotaursTitle"
+msgid "Minotaurs"
+msgstr ""
+
+msgctxt "MinotaursDescription"
+msgid "Wandering minotaurs looking for freedom and bloodshed."
+msgstr ""
+
+msgctxt "ShadowPartyTitle"
+msgid "Shadow Party"
+msgstr ""
+
+msgctxt "ShadowPartyDescription"
+msgid "A group of sneaky individuals with great skills and sharp blades."
+msgstr ""
+
+msgctxt "FallenBeastmasterTitle"
+msgid "Stained Beastmaster"
+msgstr ""
+
+msgctxt "FallenBeastmasterDescription"
+msgid ""
+"A ranger who's spent too much time in the Badlands, and became one more "
+"monster."
+msgstr ""
+
+msgctxt "SharpshootersTitle"
+msgid "Sharpshooter Squad"
+msgstr ""
+
+msgctxt "SharpshootersDescription"
+msgid "A band of deadly archers looking to hone their skills on live targets."
+msgstr ""
+
+msgctxt "ApostatesTitle"
+msgid "Apostates"
+msgstr ""
+
+msgctxt "ApostatesDescription"
+msgid ""
+"A band of crusaders whose faith has been lost after theirs were corrupted by "
+"evil magic."
+msgstr ""
+
+msgctxt "OrcConquerorTitle"
+msgid "Orc Conquerors"
+msgstr ""
+
+msgctxt "OrcConquerorDescription"
+msgid "Another party of orc warchiefs trying to become kings of the Badlands."
+msgstr ""
+
+msgctxt "BattleMageTitle"
+msgid "Battle Mage"
+msgstr ""
+
+msgctxt "BattleMageDescription"
+msgid "A powerful wizard and his escort, looking for foes to burn to ashes."
+msgstr ""
+
+msgctxt "WarlordsTitle"
+msgid "Warmongers"
+msgstr ""
+
+msgctxt "WarlordsDescription"
+msgid ""
+"Powerful Fighters looking for anything to kill to become even more "
+"experienced."
+msgstr ""
+
+msgctxt "CultLeaderTitle"
+msgid "Cult Leader"
+msgstr ""
+
+msgctxt "CultLeaderDescription"
+msgid "A powerful cleric with his personal escort, on a murderous mission."
+msgstr ""
+
+msgctxt "SpectralSpidersTitle"
+msgid "Spectral Spiders"
+msgstr ""
+
+msgctxt "SpectralSpidersDescription"
+msgid "A group of undead giant spiders."
+msgstr ""
+
+msgctxt "PhaseSpiderTitle"
+msgid "Phase Spider"
+msgstr ""
+
+msgctxt "PhaseSpiderDescription"
+msgid "A huge, nasty, teleporting spider."
+msgstr ""
+
+msgctxt "PhaseSpidersTitle"
+msgid "Phase Spiders"
+msgstr ""
+
+msgctxt "PhaseSpidersDescription"
+msgid "A bunch of huge, nasty, teleporting spiders."
+msgstr ""
+
+msgctxt "SpectralHunterTitle"
+msgid "Spectral Hunter"
+msgstr ""
+
+msgctxt "SpectralHunterDescription"
+msgid "An undead hunter and his undead pet wolf."
+msgstr ""
+
+msgctxt "TigerDrakesTitle"
+msgid "Tiger Drakes"
+msgstr ""
+
+msgctxt "TigerDrakesDescription"
+msgid "Huge flying snakes resembling small dragons."
+msgstr ""
+
+msgctxt "CR10_YoungRemorhazes_Title"
+msgid "Remorhazes"
+msgstr ""
+
+msgctxt "CR12_Redeemers_x3_Title"
+msgid "Group of Redeemers"
+msgstr ""
+
+msgctxt "CR15_Redeemers_x1_x2_Title"
+msgid "Zealot and Pilgrims"
+msgstr ""
+
+msgctxt "CR9_Minor_Fire_Elementals_Title"
+msgid "Minor Fire Elementals"
+msgstr ""
+
+msgctxt "CR14_Fire_Elementals_Title"
+msgid "Fire Elementals"
+msgstr ""
+
+msgctxt "CR18_Major_Fire_Elementals_Title"
+msgid "Major Fire Elementals"
+msgstr ""
+
+msgctxt "CR6_Minor_Air_Elementals_Title"
+msgid "Minor Air Elementals"
+msgstr ""
+
+msgctxt "CR12_Air_Elementals_Title"
+msgid "Air Elementals"
+msgstr ""
+
+msgctxt "CR7_Young_Black_Dragon_Title"
+msgid "Young Black Dragon"
+msgstr ""
+
+msgctxt "CR10_PoisonousPests_Title"
+msgid "Poisonous Pests"
+msgstr ""
+
+msgctxt "CR20_CrimsonSpiders_x4_Title"
+msgid "Crimson Spiders"
+msgstr ""
+
+msgctxt "CR16_Major_Earth_Elementals_Title"
+msgid "Major Earth Elementals"
+msgstr ""
+
+msgctxt "CR15_Elementals_x3_Title"
+msgid "Elemental Trio"
+msgstr ""
+
+msgctxt "CR10_Skeleton_Enforcers_x2_x2_Title"
+msgid "Skeletal Enforcers"
+msgstr ""
+
+msgctxt "CR17_Skeleton_Sorcerer_x1_x2x_2_Title"
+msgid "Skeletal Sorcerer and Escort"
+msgstr ""
+
+msgctxt "CR22_Skeletal_Devastators_x1_x2_x3_Title"
+msgid "Skeletal Devastators"
+msgstr ""
+
+msgctxt "CR10_CrimsonSpiders_x2_Title"
+msgid "Crimson Spider Couple"
+msgstr ""
+
+msgctxt "CR5_Goblin_Cutthroats_Title"
+msgid "Goblin Cutthroats"
+msgstr ""
+
+msgctxt "CR8_Goblin_Ravagers_Title"
+msgid "Goblin Ravagers"
+msgstr ""
+
+msgctxt "CR11_OrcGrimblade_x1_x2_x1_Title"
+msgid "Orc Grimblade Raider"
+msgstr ""
+
+msgctxt "CR9_Orc_Hunters_Title"
+msgid "Orc Hunting Party"
+msgstr ""
+
+msgctxt "CR10_Wraiths_Title"
+msgid "Wandering Wraiths"
+msgstr ""
+
+msgctxt "CR12_Necromancer_Gang_Title"
+msgid "Necromancer Gang"
+msgstr ""
+
+msgctxt "CR13_Brood_Couple_Title"
+msgid "Wandering Brood Couple"
+msgstr ""
+
+msgctxt "CR21_Brood_Horde_Title"
+msgid "Wandering Brood Horde"
+msgstr ""
+
+msgctxt "CR10_YoungRemorhazes_Description"
+msgid "A couple of young remorhazes… still deadly!"
+msgstr ""
+
+msgctxt "CR12_Redeemers_x3_Description"
+msgid "A trio of deadly giant insects looking for their next meal."
+msgstr ""
+
+msgctxt "CR15_Redeemers_x1_x2_Description"
+msgid ""
+"A gigantic zealot and two lesser redeemers looking for magic to feed upon."
+msgstr ""
+
+msgctxt "CR9_Minor_Fire_Elementals_Description"
+msgid "Small fiery elementals born from some chaotic Badlands magic."
+msgstr ""
+
+msgctxt "CR14_Fire_Elementals_Description"
+msgid "Fiery elementals born from some chaotic Badlands magic."
+msgstr ""
+
+msgctxt "CR18_Major_Fire_Elementals_Description"
+msgid "Very powerful fiery elementals born from some chaotic Badlands magic."
+msgstr ""
+
+msgctxt "CR6_Minor_Air_Elementals_Description"
+msgid "Small air elementals born from some chaotic Badlands magic."
+msgstr ""
+
+msgctxt "CR12_Air_Elementals_Description"
+msgid "Air elementals born from some chaotic Badlands magic."
+msgstr ""
+
+msgctxt "CR7_Young_Black_Dragon_Description"
+msgid ""
+"This degenerate dragon was born in the Badlands. Now it's looking to kill "
+"something."
+msgstr ""
+
+msgctxt "CR10_PoisonousPests_Description"
+msgid "A group of venomous Badlands creatures."
+msgstr ""
+
+msgctxt "CR20_CrimsonSpiders_x4_Description"
+msgid ""
+"A group of giant spiders born in the acidic underground lakes of the "
+"Badlands."
+msgstr ""
+
+msgctxt "CR16_Major_Earth_Elementals_Description"
+msgid "Small elementals born underground in the chaotic Badlands."
+msgstr ""
+
+msgctxt "CR15_Elementals_x3_Description"
+msgid "Earth elementals born underground in the chaotic Badlands."
+msgstr ""
+
+msgctxt "CR10_Skeleton_Enforcers_x2_x2_Description"
+msgid "A group of powerful skeletons summoned by an experienced necromancer."
+msgstr ""
+
+msgctxt "CR5_Goblin_Cutthroats_Description"
+msgid "A band of goblin assassins with a hunger for blood."
+msgstr ""
+
+msgctxt "CR8_Goblin_Ravagers_Description"
+msgid "A large group of experienced goblins on a path for blood."
+msgstr ""
+
+msgctxt "CR11_OrcGrimblade_x1_x2_x1_Description"
+msgid "An orc raiding party led by a powerful orc grimblade."
+msgstr ""
+
+msgctxt "CR9_Orc_Hunters_Description"
+msgid "A couple of orc beastmasters and their pets looking for easy prey."
+msgstr ""
+
+msgctxt "CR10_Wraiths_Description"
+msgid ""
+"A band of deadly wandering Badlands wraiths looking for souls to torment."
+msgstr ""
+
+msgctxt "CR12_Necromancer_Gang_Description"
+msgid ""
+"A powerful necromancer and his summoned creatures, looking for a challenge."
+msgstr ""
+
+msgctxt "CR13_Brood_Couple_Description"
+msgid "Wandering broods in search of blood."
+msgstr ""
+
+msgctxt "CR14_Arctic_Monsters_x3x1_Title"
+msgid "Arctic Monsters"
+msgstr ""
+
+msgctxt "CR9_Arctic_Pack_x3_Title"
+msgid "Arctic Pack"
+msgstr ""
+
+msgctxt "CR6_Arctic_Duo_x2_Title"
+msgid "Arctic Duo"
+msgstr ""
+
+msgctxt "CR16_Undead_Pack_x4_Title"
+msgid "Undead Pack"
+msgstr ""
+
+msgctxt "CR6_Wraith_Master_x1x4_Title"
+msgid "Wraith Master"
+msgstr ""
+
+msgctxt "CR16_Wraith_Hunters_x3x2_Title"
+msgid "Wraith Hunters"
+msgstr ""
+
+msgctxt "CR4_Undead_Knight_x1x2x2_Title"
+msgid "Undead Knight"
+msgstr ""
+
+msgctxt "CR8_Undead_Knight_x1x1x4_Title"
+msgid "Undead Huntsman"
+msgstr ""
+
+msgctxt "CR8_Undead_hunt_pack_x3_Title"
+msgid "Undead Pack"
+msgstr ""
+
+msgctxt "CR2_Wind_Snakes_x4_Title"
+msgid "Wind Snakes"
+msgstr ""
+
+msgctxt "CR6_Flying_Snakes_x6_Title"
+msgid "Flying Snakes"
+msgstr ""
+
+msgctxt "CR4_Skarn_Ghouls_x2_Title"
+msgid "Snark Ghouls"
+msgstr ""
+
+msgctxt "CR7_Grimblade_Title"
+msgid "Grimblade"
+msgstr ""
+
+msgctxt "CR8_Tamed_Minotaur_Title"
+msgid "Tamed Minotaur"
+msgstr ""
+
+msgctxt "CR14_Arctic_Monsters_x3x1_Description"
+msgid ""
+"A terrifying young remorhaz with a bunch of arctic predators scavenging "
+"after him."
+msgstr ""
+
+msgctxt "CR9_Arctic_Pack_x3_Description"
+msgid "A small pack of winter wolves on the hunt."
+msgstr ""
+
+msgctxt "CR6_Arctic_Duo_x2_Description"
+msgid "A couple of Winter Wolves on the hunt."
+msgstr ""
+
+msgctxt "CR16_Undead_Pack_x4_Description"
+msgid "Undead wolves behaving like they're still alive and hunting."
+msgstr ""
+
+msgctxt "CR6_Wraith_Master_x1x4_Description"
+msgid "An undead hunter and his pet."
+msgstr ""
+
+msgctxt "CR16_Wraith_Hunters_x3x2_Description"
+msgid "A powerful band of undead warriors."
+msgstr ""
+
+msgctxt "CR2_Wind_Snakes_x4_Description"
+msgid "Small air elementals that like to kill."
+msgstr ""
+
+msgctxt "CR6_Flying_Snakes_x6_Description"
+msgid "Various flying and poisonous reptilians."
+msgstr ""
+
+msgctxt "CR4_Skarn_Ghouls_x2_Description"
+msgid "Small earth elementals in a bad mood."
+msgstr ""
+
+msgctxt "CR7_Grimblade_Description"
+msgid "A deadly orc assassin and his escort."
+msgstr ""
+
+msgctxt "CR8_Tamed_Minotaur_Description"
+msgid "A band of goblins who tamed a powerful minotaur."
+msgstr ""

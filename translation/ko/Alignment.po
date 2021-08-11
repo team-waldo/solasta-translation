@@ -1,0 +1,162 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "ChaoticEvilDescription"
+msgid ""
+"Chaotic evil (CE) creatures act with arbitrary violence, spurred by their "
+"greed, hatred, or bloodlust. Demons, red dragons, and orcs are chaotic evil."
+msgstr ""
+
+msgctxt "ChaoticEvilTitle"
+msgid "Chaotic Evil"
+msgstr ""
+
+msgctxt "ChaoticEvilTitleShort"
+msgid "CE"
+msgstr ""
+
+msgctxt "ChaoticGoodDescription"
+msgid ""
+"Chaotic good (CG) creatures act as their conscience directs, with little "
+"regard for what others expect. Copper dragons, many elves, and unicorns are "
+"chaotic good."
+msgstr ""
+
+msgctxt "ChaoticGoodTitle"
+msgid "Chaotic Good"
+msgstr ""
+
+msgctxt "ChaoticGoodTitleShort"
+msgid "CG"
+msgstr ""
+
+msgctxt "ChaoticNeutralDescription"
+msgid ""
+"Chaotic neutral (CN) creatures follow their whims, holding their personal "
+"freedom above all else. Many barbarians and rogues, and some bards, are "
+"chaotic neutral."
+msgstr ""
+
+msgctxt "ChaoticNeutralTitle"
+msgid "Chaotic Neutral"
+msgstr ""
+
+msgctxt "ChaoticNeutralTitleShort"
+msgid "CN"
+msgstr ""
+
+msgctxt "LawfulEvilDescription"
+msgid ""
+"Lawful evil (LE) creatures methodically take what they want, within the "
+"limits of a code of tradition, loyalty, or order. Devils, blue dragons, and "
+"hobgoblins are lawful evil."
+msgstr ""
+
+msgctxt "LawfulEvilTitle"
+msgid "Lawful Evil"
+msgstr ""
+
+msgctxt "LawfulEvilTitleShort"
+msgid "LE"
+msgstr ""
+
+msgctxt "LawfulGoodDescription"
+msgid ""
+"Lawful good (LG) creatures can be counted on to do the right thing as "
+"expected by society. Gold dragons, paladins, and most dwarves are lawful "
+"good."
+msgstr ""
+
+msgctxt "LawfulGoodTitle"
+msgid "Lawful Good"
+msgstr ""
+
+msgctxt "LawfulGoodTitleShort"
+msgid "LG"
+msgstr ""
+
+msgctxt "LawfulNeutralDescription"
+msgid ""
+"Lawful neutral (LN) individuals act in accordance with law, tradition, or "
+"personal codes. Many monks and some wizards are lawful neutral."
+msgstr ""
+
+msgctxt "LawfulNeutralTitle"
+msgid "Lawful Neutral"
+msgstr ""
+
+msgctxt "LawfulNeutralTitleShort"
+msgid "LN"
+msgstr ""
+
+msgctxt "NeutralDescription"
+msgid ""
+"Neutral (N) is the alignment of those who prefer to steer clear of moral "
+"questions and don't take sides, doing what seems best at the time. "
+"Lizardfolk, most druids, and many humans are neutral."
+msgstr ""
+
+msgctxt "NeutralEvilDescription"
+msgid ""
+"Neutral evil (NE) is the alignment of those who do whatever they can get "
+"away with, without compassion or qualms. Many drow, some cloud giants, and "
+"yugoloths are neutral evil."
+msgstr ""
+
+msgctxt "NeutralEvilTitle"
+msgid "Neutral Evil"
+msgstr ""
+
+msgctxt "NeutralEvilTitleShort"
+msgid "NE"
+msgstr ""
+
+msgctxt "NeutralGoodDescription"
+msgid ""
+"Neutral good (NG) folk do the best they can to help others according to "
+"their needs. Many celestials, some cloud giants, and most gnomes are neutral "
+"good"
+msgstr ""
+
+msgctxt "NeutralGoodTitle"
+msgid "Neutral Good"
+msgstr ""
+
+msgctxt "NeutralGoodTitleShort"
+msgid "NG"
+msgstr ""
+
+msgctxt "NeutralTitle"
+msgid "Neutral"
+msgstr ""
+
+msgctxt "NeutralTitleShort"
+msgid "N"
+msgstr ""
+
+msgctxt "UnalignedDescription"
+msgid ""
+"Most creatures that lack the capacity for rational thought do not have "
+"alignments… they are unaligned. Such a creature is incapable of making a "
+"moral or ethical choice and acts according to its bestial nature. Sharks are "
+"savage predators, for example, but they are not evil; they have no alignment."
+msgstr ""
+
+msgctxt "UnalignedTitle"
+msgid "Unaligned"
+msgstr ""
+
+msgctxt "UnalignedTitleShort"
+msgid "UN"
+msgstr ""

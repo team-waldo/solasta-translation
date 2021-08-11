@@ -1,0 +1,1960 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "AcidArrowDescription"
+msgid "Launch an acid arrow."
+msgstr ""
+
+msgctxt "AcidArrowTitle"
+msgid "Acid Arrow"
+msgstr ""
+
+msgctxt "AcidSplashDescription"
+msgid "Launch an acid bolt."
+msgstr ""
+
+msgctxt "AcidSplashTitle"
+msgid "Acid Splash"
+msgstr ""
+
+msgctxt "AidDescription"
+msgid "Temporarily increases hit points for up to three allies."
+msgstr ""
+
+msgctxt "AidTitle"
+msgid "Aid"
+msgstr ""
+
+msgctxt "AnimateDeadDescription"
+msgid "Create an undead servant."
+msgstr ""
+
+msgctxt "AnimateDeadTitle"
+msgid "Animate Dead"
+msgstr ""
+
+msgctxt "BaneDescription"
+msgid "Reduce your enemies' attack and saving throws for a limited time."
+msgstr ""
+
+msgctxt "BaneTitle"
+msgid "Bane"
+msgstr ""
+
+msgctxt "BarkskinDescription"
+msgid "Gives you or an ally you can touch an AC of at least 16."
+msgstr ""
+
+msgctxt "BarkskinTitle"
+msgid "Barkskin"
+msgstr ""
+
+msgctxt "BeaconOfHopeDescription"
+msgid "Raise hope and vitality."
+msgstr ""
+
+msgctxt "BeaconOfHopeTitle"
+msgid "Beacon of Hope"
+msgstr ""
+
+msgctxt "BestowCurseAbilityCharismaTitle"
+msgid "Bestow Curse (Charisma)"
+msgstr ""
+
+msgctxt "BestowCurseAbilityConstitutionTitle"
+msgid "Bestow Curse (Constitution)"
+msgstr ""
+
+msgctxt "BestowCurseAbilityDexterityTitle"
+msgid "Bestow Curse (Dexterity)"
+msgstr ""
+
+msgctxt "BestowCurseAbilityIntelligenceTitle"
+msgid "Bestow Curse (Intelligence)"
+msgstr ""
+
+msgctxt "BestowCurseAbilityStrengthTitle"
+msgid "Bestow Curse (Strength)"
+msgstr ""
+
+msgctxt "BestowCurseAbilityWisdomTitle"
+msgid "Bestow Curse (Wisdom)"
+msgstr ""
+
+msgctxt "BestowCurseDescription"
+msgid "Curses a creature you can touch."
+msgstr ""
+
+msgctxt "BestowCurseOnActionTurnTitle"
+msgid "Bestow Curse (Action)"
+msgstr ""
+
+msgctxt "BestowCurseOnAttackRollTitle"
+msgid "Bestow Curse (Attack)"
+msgstr ""
+
+msgctxt "BestowCurseOnDamageAddNecroticTitle"
+msgid "Bestow Curse (Damage)"
+msgstr ""
+
+msgctxt "BestowCurseTitle"
+msgid "Bestow Curse"
+msgstr ""
+
+msgctxt "BlessDescription"
+msgid ""
+"Increase your allies' saving throws and attack rolls for a limited time."
+msgstr ""
+
+msgctxt "BlessTitle"
+msgid "Bless"
+msgstr ""
+
+msgctxt "BlindnessDescription"
+msgid "Blind an enemy for one minute."
+msgstr ""
+
+msgctxt "BlindnessTitle"
+msgid "Blindness"
+msgstr ""
+
+msgctxt "BlurDescription"
+msgid "Makes you blurry and harder to hit for up to one minute."
+msgstr ""
+
+msgctxt "BlurTitle"
+msgid "Blur"
+msgstr ""
+
+msgctxt "BrandingSmiteDescription"
+msgid ""
+"Your next hit causes additional radiant damage and your target becomes "
+"luminous."
+msgstr ""
+
+msgctxt "BrandingSmiteTitle"
+msgid "Branding Smite"
+msgstr ""
+
+msgctxt "BurningHandsDescription"
+msgid "Spray a cone of fire in front of you."
+msgstr ""
+
+msgctxt "BurningHandsTitle"
+msgid "Burning Hands"
+msgstr ""
+
+msgctxt "CharmPersonDescription"
+msgid "Makes an ally of an enemy."
+msgstr ""
+
+msgctxt "CharmPersonTitle"
+msgid "Charm Person"
+msgstr ""
+
+msgctxt "ChillTouchDescription"
+msgid "Deal damage to one enemy and prevent healing for a limited time."
+msgstr ""
+
+msgctxt "ChillTouchTitle"
+msgid "Chill Touch"
+msgstr ""
+
+msgctxt "ColorSprayTitle"
+msgid "Color Spray"
+msgstr ""
+
+msgctxt "ConjureGoblinoidsDescription"
+msgid "Conjures 2 goblins who obey your orders unless you lose concentration."
+msgstr ""
+
+msgctxt "ConjureGoblinoidsTitle"
+msgid "Conjure Goblinoids"
+msgstr ""
+
+msgctxt "CounterspellDescription"
+msgid "Interrupt an enemy's spellcasting."
+msgstr ""
+
+msgctxt "CounterspellTitle"
+msgid "Counterspell"
+msgstr ""
+
+msgctxt "CreateFoodDescription"
+msgid "Conjure 15 units of food."
+msgstr ""
+
+msgctxt "CreateFoodTitle"
+msgid "Create Food"
+msgstr ""
+
+msgctxt "CureWoundsDescription"
+msgid "Heal an ally by touch."
+msgstr ""
+
+msgctxt "CureWoundsTitle"
+msgid "Cure Wounds"
+msgstr ""
+
+msgctxt "DancingLightsDescription"
+msgid "Create dancing lights that move at your command."
+msgstr ""
+
+msgctxt "DancingLightsTitle"
+msgid "Dancing Lights"
+msgstr ""
+
+msgctxt "DarknessDescription"
+msgid "Create an area of magical darkness."
+msgstr ""
+
+msgctxt "DarknessTitle"
+msgid "Darkness"
+msgstr ""
+
+msgctxt "DarkvisionDescription"
+msgid "Grant Darkvision to the target."
+msgstr ""
+
+msgctxt "DarkvisionTitle"
+msgid "Darkvision"
+msgstr ""
+
+msgctxt "DaylightDescription"
+msgid "Summon a globe of bright light."
+msgstr ""
+
+msgctxt "DaylightTitle"
+msgid "Daylight"
+msgstr ""
+
+msgctxt "DazzleDescription"
+msgid ""
+"Lower a target's AC and prevent reaction until the start of its next turn."
+msgstr ""
+
+msgctxt "DazzleTitle"
+msgid "Dazzle"
+msgstr ""
+
+msgctxt "DetectEvilAndGoodDescription"
+msgid "Detect nearby creatures of evil or good nature."
+msgstr ""
+
+msgctxt "DetectEvilAndGoodTitle"
+msgid "Detect Evil and Good"
+msgstr ""
+
+msgctxt "DetectMagicDescription"
+msgid "Detect nearby magic objects or creatures."
+msgstr ""
+
+msgctxt "DetectMagicTitle"
+msgid "Detect Magic"
+msgstr ""
+
+msgctxt "DispelMagicDescription"
+msgid "End active spells on a creature or object."
+msgstr ""
+
+msgctxt "DispelMagicTitle"
+msgid "Dispel Magic"
+msgstr ""
+
+msgctxt "DivineFavorDescription"
+msgid "Gain additional radiant damage for a limited time."
+msgstr ""
+
+msgctxt "DivineFavorTitle"
+msgid "Divine Favor"
+msgstr ""
+
+msgctxt "EnhanceAbilityBearsEnduranceDescription"
+msgid "Gain temporary hit points and advantage on Constitution checks."
+msgstr ""
+
+msgctxt "EnhanceAbilityBearsEnduranceTitle"
+msgid "Bear's Endurance"
+msgstr ""
+
+msgctxt "EnhanceAbilityBullsStrengthDescription"
+msgid "Increased carrying capacity and advantage on Strength checks."
+msgstr ""
+
+msgctxt "EnhanceAbilityBullsStrengthTitle"
+msgid "Bull's Strength"
+msgstr ""
+
+msgctxt "EnhanceAbilityCatsGraceDescription"
+msgid "Reduced falling damage and advantage on Dexterity checks."
+msgstr ""
+
+msgctxt "EnhanceAbilityCatsGraceTitle"
+msgid "Cat's Grace"
+msgstr ""
+
+msgctxt "EnhanceAbilityDescription"
+msgid "Grant temporary powers to an ally for up to one hour."
+msgstr ""
+
+msgctxt "EnhanceAbilityEaglesSplendorDescription"
+msgid "Advantage on Charisma checks."
+msgstr ""
+
+msgctxt "EnhanceAbilityEaglesSplendorTitle"
+msgid "Eagle's Splendor"
+msgstr ""
+
+msgctxt "EnhanceAbilityFoxsCunningDescription"
+msgid "Advantage on Intelligence checks."
+msgstr ""
+
+msgctxt "EnhanceAbilityFoxsCunningTitle"
+msgid "Fox's Cunning"
+msgstr ""
+
+msgctxt "EnhanceAbilityOwlsWisdomDescription"
+msgid "Advantage on Wisdom checks."
+msgstr ""
+
+msgctxt "EnhanceAbilityOwlsWisdomTitle"
+msgid "Owl's Wisdom"
+msgstr ""
+
+msgctxt "EnhanceAbilityTitle"
+msgid "Enhance Ability"
+msgstr ""
+
+msgctxt "ExpeditiousRetreatDescription"
+msgid ""
+"Gain movement points and become able to dash as a bonus action for a limited "
+"time."
+msgstr ""
+
+msgctxt "ExpeditiousRetreatTitle"
+msgid "Expeditious Retreat"
+msgstr ""
+
+msgctxt "FaerieFireDescription"
+msgid "Highlight creatures to give advantage to anyone attacking them."
+msgstr ""
+
+msgctxt "FaerieFireTitle"
+msgid "Faerie Fire"
+msgstr ""
+
+msgctxt "FalseLifeDescription"
+msgid "Gain a few temporary hit points for a limited time."
+msgstr ""
+
+msgctxt "FalseLifeTitle"
+msgid "False Life"
+msgstr ""
+
+msgctxt "FearDescription"
+msgid "Frighten creatures and force them to flee."
+msgstr ""
+
+msgctxt "FearTitle"
+msgid "Fear"
+msgstr ""
+
+msgctxt "FeatherFallDescription"
+msgid "Provide a safe landing when you or an ally falls."
+msgstr ""
+
+msgctxt "FeatherFallTitle"
+msgid "Feather Fall"
+msgstr ""
+
+msgctxt "FindTrapsDescription"
+msgid "Spot mechanical and magical traps, but not natural hazards."
+msgstr ""
+
+msgctxt "FindTrapsTitle"
+msgid "Find Traps"
+msgstr ""
+
+msgctxt "FireballDescription"
+msgid "Launch a fireball that explodes from a point of your choosing."
+msgstr ""
+
+msgctxt "FireballTitle"
+msgid "Fireball"
+msgstr ""
+
+msgctxt "FireBoltDescription"
+msgid "Launch a fire bolt."
+msgstr ""
+
+msgctxt "FireBoltTitle"
+msgid "Fire Bolt"
+msgstr ""
+
+msgctxt "FlamingSphereDescription"
+msgid "Summons a movable, burning sphere."
+msgstr ""
+
+msgctxt "FlamingSphereTitle"
+msgid "Flaming Sphere"
+msgstr ""
+
+msgctxt "FlyDescription"
+msgid "An ally you touch gains the ability to fly for a limited time."
+msgstr ""
+
+msgctxt "FlyTitle"
+msgid "Fly"
+msgstr ""
+
+msgctxt "FogCloudDescription"
+msgid ""
+"Generate a sphere of thick fog for a limited time. Creatures inside it "
+"cannot attack those on the outside."
+msgstr ""
+
+msgctxt "FogCloudTitle"
+msgid "Fog Cloud"
+msgstr ""
+
+msgctxt "GlyphOfWardingDescription"
+msgid "Creates a fixed magical trap."
+msgstr ""
+
+msgctxt "GlyphOfWardingTitle"
+msgid "Glyph of Warding"
+msgstr ""
+
+msgctxt "GuidanceDescription"
+msgid "Increase an ally's ability checks for a limited time."
+msgstr ""
+
+msgctxt "GuidanceTitle"
+msgid "Guidance"
+msgstr ""
+
+msgctxt "GuidingBoltDescription"
+msgid "Launch a radiant attack against an enemy and make them easy to hit."
+msgstr ""
+
+msgctxt "GuidingBoltTitle"
+msgid "Guiding Bolt"
+msgstr ""
+
+msgctxt "HasteDescription"
+msgid ""
+"Make an ally faster and more agile, and grant them an additional action for "
+"a limited time."
+msgstr ""
+
+msgctxt "HasteTitle"
+msgid "Haste"
+msgstr ""
+
+msgctxt "HealingWordDescription"
+msgid "Heal an ally you can see."
+msgstr ""
+
+msgctxt "HealingWordTitle"
+msgid "Healing Word"
+msgstr ""
+
+msgctxt "HeroismDescription"
+msgid ""
+"An ally gains temporary hit points and cannot be frightened for a limited "
+"time."
+msgstr ""
+
+msgctxt "HeroismTitle"
+msgid "Heroism"
+msgstr ""
+
+msgctxt "HideousLaughterDescription"
+msgid "Make an enemy helpless with irresistible laughter."
+msgstr ""
+
+msgctxt "HideousLaughterTitle"
+msgid "Hideous Laughter"
+msgstr ""
+
+msgctxt "HoldPersonDescription"
+msgid "Paralyze a humanoid you can see for a limited time."
+msgstr ""
+
+msgctxt "HoldPersonTitle"
+msgid "Hold Person"
+msgstr ""
+
+msgctxt "HuntersMarkDescription"
+msgid ""
+"An enemy gets additional damage from you, and you can easily detect it for a "
+"limited time."
+msgstr ""
+
+msgctxt "HuntersMarkTitle"
+msgid "Hunter's Mark"
+msgstr ""
+
+msgctxt "HypnoticPatternDescription"
+msgid "Charms enemies to make them harmless until attacked."
+msgstr ""
+
+msgctxt "HypnoticPatternTitle"
+msgid "Hypnotic Pattern"
+msgstr ""
+
+msgctxt "IdentifyDescription"
+msgid "Identify the hidden properties of an object."
+msgstr ""
+
+msgctxt "IdentifyTitle"
+msgid "Identify"
+msgstr ""
+
+msgctxt "InflictWoundsDescription"
+msgid "Deal necrotic damage to an enemy you hit."
+msgstr ""
+
+msgctxt "InflictWoundsTitle"
+msgid "Inflict Wounds"
+msgstr ""
+
+msgctxt "InvisibilityDescription"
+msgid "Make an ally invisible for a limited time."
+msgstr ""
+
+msgctxt "InvisibilityTitle"
+msgid "Invisibility"
+msgstr ""
+
+msgctxt "JumpDescription"
+msgid "Increase an ally's jumping distance."
+msgstr ""
+
+msgctxt "JumpTitle"
+msgid "Jump"
+msgstr ""
+
+msgctxt "KnockDescription"
+msgid "Magically open locked doors, chests, and the like."
+msgstr ""
+
+msgctxt "KnockTitle"
+msgid "Knock"
+msgstr ""
+
+msgctxt "LesserRestorationDescription"
+msgid "Remove a detrimental condition from an ally."
+msgstr ""
+
+msgctxt "LesserRestorationTitle"
+msgid "Lesser Restoration"
+msgstr ""
+
+msgctxt "LevitateTitle"
+msgid "Levitate"
+msgstr ""
+
+msgctxt "LightDescription"
+msgid "An object you can touch emits a powerful light for a limited time."
+msgstr ""
+
+msgctxt "LightningBoltDescription"
+msgid ""
+"Unleash a stroke of lightning in a direction of your choice, damaging "
+"everyone it touches."
+msgstr ""
+
+msgctxt "LightningBoltTitle"
+msgid "Lightning Bolt"
+msgstr ""
+
+msgctxt "LightTitle"
+msgid "Light"
+msgstr ""
+
+msgctxt "LongstriderDescription"
+msgid "Increases an ally's speed by two cells per turn."
+msgstr ""
+
+msgctxt "LongstriderTitle"
+msgid "Longstrider"
+msgstr ""
+
+msgctxt "MageArmorDescription"
+msgid "Provide magical armor to an ally who doesn't wear armor."
+msgstr ""
+
+msgctxt "MageArmorTitle"
+msgid "Mage Armor"
+msgstr ""
+
+msgctxt "MagicCircleDescription"
+msgid ""
+"Creates a magic circle which protects against attacks by celestials, "
+"elementals, feys, fiends, and undead, and restricts their movement."
+msgstr ""
+
+msgctxt "MagicCircleProtectOuterDescription"
+msgid ""
+"Celestials, elementals, feys, fiends, and undead attack creatures inside the "
+"circle with disadvantage, and cannot enter the circle."
+msgstr ""
+
+msgctxt "MagicCircleProtectOuterTitle"
+msgid "Magic Circle (protects from outer enemies)"
+msgstr ""
+
+msgctxt "MagicCircleRestrictInnerDescription"
+msgid ""
+"Celestials, elementals, feys, fiends, and undead attack creatures outside "
+"the circle with disadvantage, and cannot leave the circle."
+msgstr ""
+
+msgctxt "MagicCircleRestrictInnerTitle"
+msgid "Magic Circle (blocks enemies inside)"
+msgstr ""
+
+msgctxt "MagicCircleTitle"
+msgid "Magic Circle"
+msgstr ""
+
+msgctxt "MagicMissileDescription"
+msgid "Strike one or more enemies with projectiles that can't miss."
+msgstr ""
+
+msgctxt "MagicMissileTitle"
+msgid "Magic Missile"
+msgstr ""
+
+msgctxt "MagicWeaponDescription"
+msgid "A nonmagical weapon becomes a +1 weapon for up to one hour."
+msgstr ""
+
+msgctxt "MagicWeaponTitle"
+msgid "Magic Weapon"
+msgstr ""
+
+msgctxt "MassHealingWordDescription"
+msgid "Instantly heals up to six allies you can see."
+msgstr ""
+
+msgctxt "MassHealingWordTitle"
+msgid "Mass Healing Word"
+msgstr ""
+
+msgctxt "MistyStepDescription"
+msgid "Teleports you to a free cell you can see, no more than 6 cells away."
+msgstr ""
+
+msgctxt "MistyStepTitle"
+msgid "Misty Step"
+msgstr ""
+
+msgctxt "PassWithoutTraceDescription"
+msgid "Make yourself and up to 5 allies stealthier for one hour."
+msgstr ""
+
+msgctxt "PassWithoutTraceTitle"
+msgid "Pass Without Trace"
+msgstr ""
+
+msgctxt "PoisonSprayDescription"
+msgid "Fire a poison spray at an enemy you can see, within range."
+msgstr ""
+
+msgctxt "PoisonSprayTitle"
+msgid "Poison Spray"
+msgstr ""
+
+msgctxt "PrayerOfHealingDescription"
+msgid "Heal multiple allies at the same time."
+msgstr ""
+
+msgctxt "PrayerOfHealingTitle"
+msgid "Prayer of Healing"
+msgstr ""
+
+msgctxt "ProtectionFromEnergyAcidDescription"
+msgid "Touch one willing creature to give them resistance to this damage type."
+msgstr ""
+
+msgctxt "ProtectionFromEnergyAcidTitle"
+msgid "Protection from Acid"
+msgstr ""
+
+msgctxt "ProtectionFromEnergyColdDescription"
+msgid "Touch one willing creature to give them resistance to this damage type."
+msgstr ""
+
+msgctxt "ProtectionFromEnergyColdTitle"
+msgid "Protection from Cold"
+msgstr ""
+
+msgctxt "ProtectionFromEnergyDescription"
+msgid "Touch one willing creature to give them resistance to this damage type."
+msgstr ""
+
+msgctxt "ProtectionFromEnergyFireDescription"
+msgid "Touch one willing creature to give them resistance to this damage type."
+msgstr ""
+
+msgctxt "ProtectionFromEnergyFireTitle"
+msgid "Protection from Fire"
+msgstr ""
+
+msgctxt "ProtectionFromEnergyLightningDescription"
+msgid "Touch one willing creature to give them resistance to this damage type."
+msgstr ""
+
+msgctxt "ProtectionFromEnergyLightningTitle"
+msgid "Protection from Lightning"
+msgstr ""
+
+msgctxt "ProtectionFromEnergyThunderDescription"
+msgid "Touch one willing creature to give them resistance to this damage type."
+msgstr ""
+
+msgctxt "ProtectionFromEnergyThunderTitle"
+msgid "Protection from Thunder"
+msgstr ""
+
+msgctxt "ProtectionFromEnergyTitle"
+msgid "Protection from Energy"
+msgstr ""
+
+msgctxt "ProtectionFromEvilGoodDescription"
+msgid ""
+"Touch an ally to give them protection from evil or good creatures for a "
+"limited time."
+msgstr ""
+
+msgctxt "ProtectionFromEvilGoodTitle"
+msgid "Protect vs Evil & Good"
+msgstr ""
+
+msgctxt "ProtectionFromPoisonDescription"
+msgid "Cures and protects against poison."
+msgstr ""
+
+msgctxt "ProtectionFromPoisonTitle"
+msgid "Protection from Poison"
+msgstr ""
+
+msgctxt "RaiseDeadDescription"
+msgid "Brings one creature back to life, up to 10 days after death."
+msgstr ""
+
+msgctxt "RaiseDeadTitle"
+msgid "Raise Dead"
+msgstr ""
+
+msgctxt "RayOfEnfeeblementDescription"
+msgid "Weaken an enemy so they deal less damage for one minute."
+msgstr ""
+
+msgctxt "RayOfEnfeeblementTitle"
+msgid "Ray of Enfeeblement"
+msgstr ""
+
+msgctxt "RayOfFrostDescription"
+msgid "Launch a freezing ray at an enemy to damage and slow them."
+msgstr ""
+
+msgctxt "RayOfFrostTitle"
+msgid "Ray of Frost"
+msgstr ""
+
+msgctxt "RemoveCurseDescription"
+msgid "Removes all curses affecting the target."
+msgstr ""
+
+msgctxt "RemoveCurseTitle"
+msgid "Remove Curse"
+msgstr ""
+
+msgctxt "ResistanceDescription"
+msgid "Grant an ally a one-time bonus to saving throws."
+msgstr ""
+
+msgctxt "ResistanceTitle"
+msgid "Resistance"
+msgstr ""
+
+msgctxt "ResurrectionDescription"
+msgid "Brings one creature back to life, up to 100 years after death."
+msgstr ""
+
+msgctxt "ResurrectionTitle"
+msgid "Resurrection"
+msgstr ""
+
+msgctxt "RevivifyDescription"
+msgid "Brings one creature back to life, up to 1 minute after death."
+msgstr ""
+
+msgctxt "RevivifyTitle"
+msgid "Revivify"
+msgstr ""
+
+msgctxt "SacredFlameDescription"
+msgid "Strike an enemy with radiant damage."
+msgstr ""
+
+msgctxt "SacredFlameTitle"
+msgid "Sacred Flame"
+msgstr ""
+
+msgctxt "SanctuaryDescription"
+msgid "Temp"
+msgstr ""
+
+msgctxt "SanctuaryTitle"
+msgid "Sanctuary"
+msgstr ""
+
+msgctxt "ScorchingRayDescription"
+msgid "Fling rays of fire at one or more enemies."
+msgstr ""
+
+msgctxt "ScorchingRayTitle"
+msgid "Scorching Ray"
+msgstr ""
+
+msgctxt "SeeInvisibilityDescription"
+msgid "You can see invisible creatures."
+msgstr ""
+
+msgctxt "SeeInvisibilityTitle"
+msgid "See Invisibility"
+msgstr ""
+
+msgctxt "ShadowArmorDescription"
+msgid "Grants 3 temporary hit points for one minute."
+msgstr ""
+
+msgctxt "ShadowArmorTitle"
+msgid "Shadow Armor"
+msgstr ""
+
+msgctxt "ShadowDaggerDescription"
+msgid "Launches an illusionary dagger that causes psychic damage."
+msgstr ""
+
+msgctxt "ShadowDaggerTitle"
+msgid "Shadow Dagger"
+msgstr ""
+
+msgctxt "ShatterDescription"
+msgid "Triggers a sudden noise that causes Thunder Damage in a 2-cell radius."
+msgstr ""
+
+msgctxt "ShatterTitle"
+msgid "Shatter"
+msgstr ""
+
+msgctxt "ShieldDescription"
+msgid "Increase your AC by 5 just before you would take a hit."
+msgstr ""
+
+msgctxt "ShieldOfFaithDescription"
+msgid "Increase an ally's AC by 2 for a limited time."
+msgstr ""
+
+msgctxt "ShieldOfFaithTitle"
+msgid "Shield of Faith"
+msgstr ""
+
+msgctxt "ShieldTitle"
+msgid "Shield"
+msgstr ""
+
+msgctxt "ShockingGraspDescription"
+msgid "Damage and daze an enemy on a successful touch."
+msgstr ""
+
+msgctxt "ShockingGraspTitle"
+msgid "Shocking Grasp"
+msgstr ""
+
+msgctxt "SleepTitle"
+msgid "Sleep"
+msgstr ""
+
+msgctxt "SleetStormDescription"
+msgid ""
+"Creates an area where the ground is slippery, vision is obscured, and "
+"concentration is harder."
+msgstr ""
+
+msgctxt "SleetStormTitle"
+msgid "Sleet Storm"
+msgstr ""
+
+msgctxt "SlowDescription"
+msgid "Slows and impairs the actions of up to 6 creatures."
+msgstr ""
+
+msgctxt "SlowTitle"
+msgid "Slow"
+msgstr ""
+
+msgctxt "SpareTheDyingDescription"
+msgid "Touch a dying ally to stabilize them."
+msgstr ""
+
+msgctxt "SpareTheDyingTitle"
+msgid "Spare the Dying"
+msgstr ""
+
+msgctxt "SpiderClimbDescription"
+msgid ""
+"Touch an ally to allow them to climb walls like a spider for a limited time."
+msgstr ""
+
+msgctxt "SpiderClimbTitle"
+msgid "Spider Climb"
+msgstr ""
+
+msgctxt "SpiritGuardiansDescription"
+msgid "Call forth spirits to protect you."
+msgstr ""
+
+msgctxt "SpiritGuardiansTitle"
+msgid "Spirit Guardians"
+msgstr ""
+
+msgctxt "SpiritualWeaponDescription"
+msgid "Summon a weapon that fights for you."
+msgstr ""
+
+msgctxt "SpiritualWeaponTitle"
+msgid "Spiritual Weapon"
+msgstr ""
+
+msgctxt "StinkingCloudDescription"
+msgid "Create a cloud of incapacitating, noxious gas."
+msgstr ""
+
+msgctxt "StinkingCloudTitle"
+msgid "Stinking Cloud"
+msgstr ""
+
+msgctxt "ThunderwaveDescription"
+msgid ""
+"Emit a wave of force that causes damage and pushes creatures and objects "
+"away."
+msgstr ""
+
+msgctxt "ThunderwaveTitle"
+msgid "Thunderwave"
+msgstr ""
+
+msgctxt "TonguesDescription"
+msgid "Grants knowledge of all languages for one hour."
+msgstr ""
+
+msgctxt "TonguesTitle"
+msgid "Tongues"
+msgstr ""
+
+msgctxt "TrueStrikeDescription"
+msgid "Increases your chance to hit a target you can see, one time."
+msgstr ""
+
+msgctxt "TrueStrikeTitle"
+msgid "True Strike"
+msgstr ""
+
+msgctxt "VampiricTouchDescription"
+msgid "Grants you a life-draining melee attack for one minute."
+msgstr ""
+
+msgctxt "VampiricTouchTitle"
+msgid "Vampiric Touch"
+msgstr ""
+
+msgctxt "WallOfFireDescription"
+msgid "Create a burning wall that injures creatures in or next to it."
+msgstr ""
+
+msgctxt "WallOfFireLineTitle"
+msgid "Wall of Fire (line)"
+msgstr ""
+
+msgctxt "WallOfFireTitle"
+msgid "Wall of Fire"
+msgstr ""
+
+msgctxt "WaterBreathingDescription"
+msgid "Grants up to ten creatures the ability to breathe underwater."
+msgstr ""
+
+msgctxt "WaterBreathingTitle"
+msgid "Water Breathing"
+msgstr ""
+
+msgctxt "WaterWalkDescription"
+msgid "Grants you to ability to walk on liquid surfaces for one hour."
+msgstr ""
+
+msgctxt "WaterWalkTitle"
+msgid "Water Walk"
+msgstr ""
+
+msgctxt "WindWallDescription"
+msgid ""
+"Create a wall of wind that causes damage, pushes creatures and objects away, "
+"and disperses fogs and gases."
+msgstr ""
+
+msgctxt "WindWallTitle"
+msgid "Wind Wall"
+msgstr ""
+
+msgctxt "AnnoyingBeeTitle"
+msgid "Annoying Bee"
+msgstr ""
+
+msgctxt "AnnoyingBeeDescription"
+msgid ""
+"The target sees an illusional bee harassing them and has disadvantage on "
+"concentration checks until the start of their next turn."
+msgstr ""
+
+msgctxt "GreaseTitle"
+msgid "Grease"
+msgstr ""
+
+msgctxt "GreaseDescription"
+msgid ""
+"Cover an area of 2 x 2 cells with grease. Creatures trying to cross it may "
+"fall prone."
+msgstr ""
+
+msgctxt "GoodberryTitle"
+msgid "Goodberry"
+msgstr ""
+
+msgctxt "DetectPoisonAndDiseaseTitle"
+msgid "Detect Poison and Disease"
+msgstr ""
+
+msgctxt "DetectPoisonAndDiseaseDescription"
+msgid ""
+"You sense the presence and location of poisonous creatures and diseases "
+"within 6 cells of you."
+msgstr ""
+
+msgctxt "ComprehendLanguagesTitle"
+msgid "Comprehend Languages"
+msgstr ""
+
+msgctxt "ComprehendLanguagesDescription"
+msgid ""
+"For the duration of the spell, you understand the literal meaning of any "
+"spoken words that you hear."
+msgstr ""
+
+msgctxt "AnimalFriendshipTitle"
+msgid "Animal Friendship"
+msgstr ""
+
+msgctxt "AnimalFriendshipDescription"
+msgid ""
+"Choose a beast that you can see within the spell's range. The beast must "
+"make a Wisdom saving throw or be charmed for the spell's duration."
+msgstr ""
+
+msgctxt "PurifyFoodTitle"
+msgid "Purify Food"
+msgstr ""
+
+msgctxt "PurifyFoodDescription"
+msgid ""
+"All non-magical food within a sphere 5 feet in radius is purified and "
+"rendered free of poison and disease."
+msgstr ""
+
+msgctxt "EntangleTitle"
+msgid "Entangle"
+msgstr ""
+
+msgctxt "EntangleDescription"
+msgid ""
+"Enemies in a four-cell square area are restrained if they fail an STR saving "
+"throw"
+msgstr ""
+
+msgctxt "CommandTitle"
+msgid "Command"
+msgstr ""
+
+msgctxt "CommandTitleDescription"
+msgid "You speak one word to command a creature to perform a simple action"
+msgstr ""
+
+msgctxt "CommandApproachTitle"
+msgid "Approach"
+msgstr ""
+
+msgctxt "CommandApproachDescription"
+msgid "The target moves toward you by the shortest and most direct route"
+msgstr ""
+
+msgctxt "CommandDropTitle"
+msgid "Drop"
+msgstr ""
+
+msgctxt "CommandDropDescription"
+msgid "The target drops what it is holding and ends its turn"
+msgstr ""
+
+msgctxt "CommandFleeTitle"
+msgid "Flee"
+msgstr ""
+
+msgctxt "CommandFleeDescription"
+msgid "The target spends its turn running away"
+msgstr ""
+
+msgctxt "CommandGrovelTitle"
+msgid "Grovel"
+msgstr ""
+
+msgctxt "CommandGrovelDescription"
+msgid "The target falls prone and ends its turn"
+msgstr ""
+
+msgctxt "CommandHaltTitle"
+msgid "Halt"
+msgstr ""
+
+msgctxt "CommandHaltDescription"
+msgid "The target doesn't move and doesn't take actions"
+msgstr ""
+
+msgctxt "CalmEmotionsTitle"
+msgid "Calm Emotions"
+msgstr ""
+
+msgctxt "CalmEmotionsOnAllyTitle"
+msgid "Calm Ally"
+msgstr ""
+
+msgctxt "CalmEmotionsOnAllyDescription"
+msgid "Stops one or more creatures from being charmed or frightened."
+msgstr ""
+
+msgctxt "CalmEmotionsOnEnemyTitle"
+msgid "Calm Enemy"
+msgstr ""
+
+msgctxt "AlarmTitle"
+msgid "Alarm"
+msgstr ""
+
+msgctxt "AlarmDescription"
+msgid "Magically detects roaming monsters when camping on the road."
+msgstr ""
+
+msgctxt "Create or Destroy waterTitle"
+msgid "Create or Destroy Water"
+msgstr ""
+
+msgctxt "Create or Destroy waterDescription"
+msgid "Temp"
+msgstr ""
+
+msgctxt "CreateWaterTitle"
+msgid "Create Water"
+msgstr ""
+
+msgctxt "CreateWaterDescription"
+msgid "Temp"
+msgstr ""
+
+msgctxt "DestroyWaterTitle"
+msgid "Destroy Water"
+msgstr ""
+
+msgctxt "DestroyWaterDescription"
+msgid "Temp"
+msgstr ""
+
+msgctxt "Floating DiskTitle"
+msgid "Floating Disk"
+msgstr ""
+
+msgctxt "Floating DiskDescription"
+msgid "Temp"
+msgstr ""
+
+msgctxt "Purify FoodTitle"
+msgid "Purify Food"
+msgstr ""
+
+msgctxt "Purify FoodDescription"
+msgid "Temp"
+msgstr ""
+
+msgctxt "SilenceTitle"
+msgid "Silence"
+msgstr ""
+
+msgctxt "SilenceDescription"
+msgid ""
+"Creates a sphere four cells in radius, inside which sound cannot exist. "
+"Stops thunder damage and prevents spellcasting using verbal components."
+msgstr ""
+
+msgctxt "WardingBondTitle"
+msgid "Warding Bond"
+msgstr ""
+
+msgctxt "WardingBondDescription"
+msgid "Temp"
+msgstr ""
+
+msgctxt "ConditionRestrictedInsideMagicCircleTitle"
+msgid "Restricted Inside Magic Circle"
+msgstr ""
+
+msgctxt "ConditionProtectedInsideMagicCircleTitle"
+msgid "Protected Inside Magic Circle"
+msgstr ""
+
+msgctxt "Shine_Title"
+msgid "Shine"
+msgstr ""
+
+msgctxt "Shine_Description"
+msgid "An enemy you can see becomes luminous for a while."
+msgstr ""
+
+msgctxt "Sparkle_Title"
+msgid "Sparkle"
+msgstr ""
+
+msgctxt "Sparkle_Description"
+msgid ""
+"Target up to three objects that can be illuminated and light them up "
+"immediately."
+msgstr ""
+
+msgctxt "GoodberryDescription"
+msgid ""
+"Creates 10 berries infused with magic. Eating a berry restores 1 hit point "
+"and provides sustenance for a long rest. Berries vanish after a long rest."
+msgstr ""
+
+msgctxt "ColorSprayDescription"
+msgid "Spray a luminous crone that briefly blinds your enemies."
+msgstr ""
+
+msgctxt "ConjureAnimalsDescription"
+msgid "Summon spirits in the form of beasts to help you in battle"
+msgstr ""
+
+msgctxt "ConjureAnimalsFourBeastsDescription"
+msgid "4 medium beasts are conjured"
+msgstr ""
+
+msgctxt "ConjureAnimalsFourBeastsTitle"
+msgid "Conjure 4 Beasts"
+msgstr ""
+
+msgctxt "ConjureAnimalsOneBeastDescription"
+msgid "1 powerful beast is conjured"
+msgstr ""
+
+msgctxt "ConjureAnimalsOneBeastTitle"
+msgid "Conjure 1 Beast"
+msgstr ""
+
+msgctxt "ConjureAnimalsTitle"
+msgid "Conjure Animal"
+msgstr ""
+
+msgctxt "ConjureAnimalsTwoBeastsDescription"
+msgid "2 beasts are conjured"
+msgstr ""
+
+msgctxt "ConjureAnimalsTwoBeastslTitle"
+msgid "Conjure 2 Beasts"
+msgstr ""
+
+msgctxt "GustOfWindTitle"
+msgid "Gust of Wind"
+msgstr ""
+
+msgctxt "LevitateDescription"
+msgid ""
+"Allow a creature to levitate and gain control of its aerial movement for a "
+"limited time. Can affect enemies if their size is medium or smaller."
+msgstr ""
+
+msgctxt "IdentifyCreaturesTitle"
+msgid "Identify Creatures"
+msgstr ""
+
+msgctxt "IdentifyCreaturesDescription"
+msgid "Reveals full bestiary knowledge for the affected creatures."
+msgstr ""
+
+msgctxt "BanishmentTitle"
+msgid "Banishment"
+msgstr ""
+
+msgctxt "BanishmentDescription"
+msgid ""
+"Banishes a creature as long as you concentrate. The creature can be "
+"permanently banished if it is extraplanar."
+msgstr ""
+
+msgctxt "BlackTentaclesTitle"
+msgid "Black Tentacles"
+msgstr ""
+
+msgctxt "BlackTentaclesDescription"
+msgid ""
+"Conjures black tentacles that restrain and damage creatures within the area "
+"of effect."
+msgstr ""
+
+msgctxt "BlightTitle"
+msgid "Blight"
+msgstr ""
+
+msgctxt "BlightDescription"
+msgid "Drains life from a creature, causing massive necrotic damage."
+msgstr ""
+
+msgctxt "ConfusionTitle"
+msgid "Confusion"
+msgstr ""
+
+msgctxt "ConfusionDescription"
+msgid ""
+"Creates confusion and erratic behavior in a creature, possibly leading it to "
+"attack its allies."
+msgstr ""
+
+msgctxt "ConjureMinorElementalsTitle"
+msgid "Conjure Minor Elementals"
+msgstr ""
+
+msgctxt "ConjureMinorElementalsDescription"
+msgid ""
+"Conjure elemental creatures under your command, which are dismissed when the "
+"spell ends or is broken."
+msgstr ""
+
+msgctxt "ConjureMinorElementalsOneTitle"
+msgid "Conjure 1 Elemental"
+msgstr ""
+
+msgctxt "ConjureMinorElementalsOneDescription"
+msgid "1 elemental is conjured (CR 2)."
+msgstr ""
+
+msgctxt "ConjureMinorElementalsTwoTitle"
+msgid "Conjure 2 Elementals"
+msgstr ""
+
+msgctxt "ConjureMinorElementalsTwoDescription"
+msgid "2 elementals are conjured (CR 2)."
+msgstr ""
+
+msgctxt "ConjureMinorElementalsFourTitle"
+msgid "Conjure 4 Elementals"
+msgstr ""
+
+msgctxt "ConjureMinorElementalsFourDescription"
+msgid "4 elementals are conjured (CR 1/2)."
+msgstr ""
+
+msgctxt "DeathWardTitle"
+msgid "Death Ward"
+msgstr ""
+
+msgctxt "DeathWardDescription"
+msgid ""
+"Protects the creature once against instant death or being reduced to 0 hit "
+"points."
+msgstr ""
+
+msgctxt "DimensionDoorTitle"
+msgid "Dimension Door"
+msgstr ""
+
+msgctxt "DimensionDoorDescription"
+msgid ""
+"Transfers the caster and a friendly creature to a specified destination."
+msgstr ""
+
+msgctxt "FireShieldTitle"
+msgid "Fire Shield"
+msgstr ""
+
+msgctxt "FireShieldDescription"
+msgid ""
+"Grants resistance to fire or cold, and damages creatures attacking the "
+"caster with melee attacks."
+msgstr ""
+
+msgctxt "FireShieldWarmTitle"
+msgid "Warm Shield"
+msgstr ""
+
+msgctxt "FireShieldWarmDescription"
+msgid "Resistance to cold damage; attackers receive fire damage."
+msgstr ""
+
+msgctxt "FireShieldColdTitle"
+msgid "Cold Shield"
+msgstr ""
+
+msgctxt "FireShieldColdDescription"
+msgid "Resistance to fire damage; attackers receive cold damage."
+msgstr ""
+
+msgctxt "FreedomOfMovementTitle"
+msgid "Freedom of Movement"
+msgstr ""
+
+msgctxt "FreedomOfMovementDescription"
+msgid ""
+"Grants immunity to movement restrictions, as well as being paralyzed or "
+"restrained."
+msgstr ""
+
+msgctxt "GiantInsectTitle"
+msgid "Giant Insect"
+msgstr ""
+
+msgctxt "GiantInsectDescription"
+msgid "Conjures a giant version of a natural insect or arthropod."
+msgstr ""
+
+msgctxt "GreaterInvisibilityTitle"
+msgid "Greater Invisibility"
+msgstr ""
+
+msgctxt "GreaterInvisibilityDescription"
+msgid ""
+"Target becomes invisible for the duration, even when attacking or casting "
+"spells."
+msgstr ""
+
+msgctxt "GuardianOfFaithTitle"
+msgid "Guardian of Faith"
+msgstr ""
+
+msgctxt "GuardianOfFaithDescription"
+msgid "Conjures a large spectral guardian that damages approaching enemies."
+msgstr ""
+
+msgctxt "IceStormTitle"
+msgid "Ice Storm"
+msgstr ""
+
+msgctxt "IceStormDescription"
+msgid ""
+"Causes bludgeoning and cold damage in the area, and turns the ground into "
+"difficult terrain."
+msgstr ""
+
+msgctxt "PhantasmalKillerTitle"
+msgid "Phantasmal Killer"
+msgstr ""
+
+msgctxt "PhantasmalKillerDescription"
+msgid ""
+"Causes psychic damage to the target creature with each turn, unless a saving "
+"throw is successful or the effect ends."
+msgstr ""
+
+msgctxt "StoneskinTitle"
+msgid "Stoneskin"
+msgstr ""
+
+msgctxt "StoneskinDescription"
+msgid ""
+"Grants resistance to non-magical bludgeoning, slashing, and piercing damage."
+msgstr ""
+
+msgctxt "WallOfFireRingInnerTitle"
+msgid "Wall of Fire (Ring/Inner)"
+msgstr ""
+
+msgctxt "WallOfFireRingOuterTitle"
+msgid "Wall of Fire (Ring/Outer)"
+msgstr ""
+
+msgctxt "SleepDescription"
+msgid "Put a number of creatures to sleep for a limited time."
+msgstr ""
+
+msgctxt "CloudKillTitle"
+msgid "Cloudkill"
+msgstr ""
+
+msgctxt "CloudKillDescription"
+msgid "Creates an obscuring and poisonous cloud. The cloud moves every round."
+msgstr ""
+
+msgctxt "ConeOfColdTitle"
+msgid "Cone of Cold"
+msgstr ""
+
+msgctxt "ConeOfColdDescription"
+msgid "Inflicts massive cold damage in the cone of effect."
+msgstr ""
+
+msgctxt "ConjureElementalTitle"
+msgid "Conjure Elemental"
+msgstr ""
+
+msgctxt "ConjureElementalDescription"
+msgid ""
+"Conjures an elemental of the chosen element that fights alongside you. If "
+"you lose concentration, the elemental remains and becomes hostile."
+msgstr ""
+
+msgctxt "ConjureElementalAirTitle"
+msgid "Conjure Elemental (Air)"
+msgstr ""
+
+msgctxt "ConjureElementalEarthTitle"
+msgid "Conjure Elemental (Earth)"
+msgstr ""
+
+msgctxt "ConjureElementalFireTitle"
+msgid "Conjure Elemental (Fire)"
+msgstr ""
+
+msgctxt "ContagionTitle"
+msgid "Contagion"
+msgstr ""
+
+msgctxt "ContagionDescription"
+msgid "Hit a creature to inflict a disease from the options."
+msgstr ""
+
+msgctxt "ContagionBlindingSicknessTitle"
+msgid "Blinding Sickness"
+msgstr ""
+
+msgctxt "ContagionBlindingSicknessDescription"
+msgid ""
+"The creature has disadvantage on Wisdom checks and Wisdom saving throws, and "
+"is blinded."
+msgstr ""
+
+msgctxt "ContagionFilthFeverTitle"
+msgid "Filth Fever"
+msgstr ""
+
+msgctxt "ContagionFilthFeverDescription"
+msgid ""
+"The creature has disadvantage on Strength checks, Strength saving throws, "
+"and attack rolls that use Strength."
+msgstr ""
+
+msgctxt "ContagionFleshRotTitle"
+msgid "Flesh Rot"
+msgstr ""
+
+msgctxt "ContagionFleshRotDescription"
+msgid ""
+"The creature has disadvantage on Charisma checks and is vulnerable to all "
+"damage."
+msgstr ""
+
+msgctxt "ContagionMindfireTitle"
+msgid "Mindfire"
+msgstr ""
+
+msgctxt "ContagionMindfireDescription"
+msgid ""
+"The creature has disadvantage on Intelligence checks and Intelligence saving "
+"throws, and behaves as if under the effects of the confusion spell during "
+"combat."
+msgstr ""
+
+msgctxt "ContagionSeizureTitle"
+msgid "Seizure"
+msgstr ""
+
+msgctxt "ContagionSeizureDescription"
+msgid ""
+"The creature has disadvantage on Dexterity checks, Dexterity saving throws, "
+"and attack rolls that use Dexterity."
+msgstr ""
+
+msgctxt "ContagionSlimyDoomTitle"
+msgid "Slimy Doom"
+msgstr ""
+
+msgctxt "ContagionSlimyDoomDescription"
+msgid ""
+"The creature has disadvantage on Constitution checks and Constitution saving "
+"throws. In addition, whenever the creature takes damage, it is stunned until "
+"the end of its next turn."
+msgstr ""
+
+msgctxt "DispelEvilAndGoodTitle"
+msgid "Dispel Evil and Good"
+msgstr ""
+
+msgctxt "DispelEvilAndGoodDescription"
+msgid ""
+"Celestial, elementals, feys, fiends, and undead have disadvantage on attacks "
+"against you. This spell also allows you to cancel hostile enchantments or "
+"dismiss extraplanar creatures hit by your attacks once."
+msgstr ""
+
+msgctxt "DominatePersonTitle"
+msgid "Dominate Person"
+msgstr ""
+
+msgctxt "DominatePersonDescription"
+msgid "Grants you control over an enemy creature."
+msgstr ""
+
+msgctxt "FlameStrikeTitle"
+msgid "Flame Strike"
+msgstr ""
+
+msgctxt "FlameStrikeDescription"
+msgid ""
+"Conjures a burning column of fire and radiance affecting all creatures "
+"inside."
+msgstr ""
+
+msgctxt "GreaterRestorationTitle"
+msgid "Greater Restoration"
+msgstr ""
+
+msgctxt "GreaterRestorationDescription"
+msgid ""
+"Removes one detrimental condition, such as a charm or curse, or an effect "
+"that reduces an ability score or hit points."
+msgstr ""
+
+msgctxt "HoldMonsterTitle"
+msgid "Hold Monster"
+msgstr ""
+
+msgctxt "HoldMonsterDescription"
+msgid ""
+"Paralyzes a creature unless it succeeds a WIS saving throw. No effect on "
+"undead."
+msgstr ""
+
+msgctxt "InsectPlagueTitle"
+msgid "Insect Plague"
+msgstr ""
+
+msgctxt "InsectPlagueDescription"
+msgid "Summons a sphere of biting insects."
+msgstr ""
+
+msgctxt "MassCureWoundsTitle"
+msgid "Mass Cure Wounds"
+msgstr ""
+
+msgctxt "MassCureWoundsDescription"
+msgid "Heals up to 6 creatures."
+msgstr ""
+
+msgctxt "WallOfForceTitle"
+msgid "Wall of Force"
+msgstr ""
+
+msgctxt "WallOfForceDescription"
+msgid "Conjures an invisible wall that blocks movement and attacks."
+msgstr ""
+
+msgctxt "MindTwistTitle"
+msgid "Mind Twist"
+msgstr ""
+
+msgctxt "MindTwistDescription"
+msgid ""
+"Causes massive psychic damage to hostile creatures around you, and "
+"incapacitates them if they fail their INT saving throw."
+msgstr ""
+
+msgctxt "CalmEmotionsDescription"
+msgid ""
+"Stops allies from being charmed or frightened, or makes enemies indifferent."
+msgstr ""
+
+msgctxt "CalmEmotionsOnEnemyDescription"
+msgid "Makes enemies indifferent to your allies unless they are wounded."
+msgstr ""
+
+msgctxt "Spell_Flameblade_Title"
+msgid "Flame Blade"
+msgstr ""
+
+msgctxt "Spell_Flameblade_Description"
+msgid "Evokes a fiery blade for ten minutes that you can wield in battle."
+msgstr ""
+
+msgctxt "GustOfWindDescription"
+msgid ""
+"A line of strong wind blasts from you in the direction of your choice for "
+"the spell's duration."
+msgstr ""
+
+msgctxt "SacredFlameTitle_backer"
+msgid "Sacred Flame*"
+msgstr ""
+
+msgctxt "DominateBeastTitle"
+msgid "Dominate Beast"
+msgstr ""
+
+msgctxt "DominateBeastDescription"
+msgid "Grants you control over an enemy beast."
+msgstr ""
+
+msgctxt "CircleOfDeathTitle"
+msgid "Circle of Death"
+msgstr ""
+
+msgctxt "CircleOfDeathDescription"
+msgid ""
+"A sphere of negative energy causes Necrotic damage from a point you choose"
+msgstr ""
+
+msgctxt "FreezingSphereTitle"
+msgid "Freezing Sphere"
+msgstr ""
+
+msgctxt "FreezingSphereDescription"
+msgid "Toss a huge ball of cold energy that explodes on impact"
+msgstr ""
+
+msgctxt "TrueSeeingTitle"
+msgid "True Seeing"
+msgstr ""
+
+msgctxt "TrueSeeingDescription"
+msgid "A creature you touch gains True Sight for one hour"
+msgstr ""
+
+msgctxt "BladeBarrierTitle"
+msgid "Blade Barrier"
+msgstr ""
+
+msgctxt "BladeBarrierWallTitle"
+msgid "Blade Barrier (Wall)"
+msgstr ""
+
+msgctxt "BladeBarrierRingTitle"
+msgid "Blade Barrier (Ring)"
+msgstr ""
+
+msgctxt "BladeBarrierDescription"
+msgid ""
+"Conjures a wall of razor sharp blades which causes 6d10 slashing damage to "
+"anyone crossing it"
+msgstr ""
+
+msgctxt "ChainLightningTitle"
+msgid "Chain Lightning"
+msgstr ""
+
+msgctxt "ChainLightningDescription"
+msgid ""
+"Target a creature with lightning, which can arc to 3 other targets within 30 "
+"feet."
+msgstr ""
+
+msgctxt "DisintegrateTitle"
+msgid "Disintegrate"
+msgstr ""
+
+msgctxt "DisintegrateDescription"
+msgid ""
+"Causes massive force damage on the target, which can be disintegrated if "
+"reduced to 0 hit points"
+msgstr ""
+
+msgctxt "EyebiteTitle"
+msgid "Eyebite"
+msgstr ""
+
+msgctxt "EyebiteDescription"
+msgid ""
+"Your eyes gain a specific property which can target a creature each turn"
+msgstr ""
+
+msgctxt "EyebiteAsleepTitle"
+msgid "Eyebite (Asleep)"
+msgstr ""
+
+msgctxt "EyebiteAsleepDescription"
+msgid "The creature falls asleep unless shaken or hurt"
+msgstr ""
+
+msgctxt "EyebitePanickedTitle"
+msgid "Eyebite (Panicked)"
+msgstr ""
+
+msgctxt "EyebitePanickedDescription"
+msgid "The creature becomes frightened and must run away from you"
+msgstr ""
+
+msgctxt "EyebiteSickenedTitle"
+msgid "Eyebite (Sickened)"
+msgstr ""
+
+msgctxt "EyebiteSickenedDescription"
+msgid "The creature has disadvantage to attacks until a WIS save is succeeded"
+msgstr ""
+
+msgctxt "GlobeOfInvulnerabilityTitle"
+msgid "Globe Of Invulnerability"
+msgstr ""
+
+msgctxt "GlobeOfInvulnerabilityDescription"
+msgid ""
+"A sphere surrounding you prevents any spell up to 5th level to affect anyone "
+"inside it. "
+msgstr ""
+
+msgctxt "HarmTitle"
+msgid "Harm"
+msgstr ""
+
+msgctxt "HarmDescription"
+msgid ""
+"Inflicts devastating necrotic damage and reduces the maximum hit points "
+"accordingly. Cannot drop the target below 1 hit points"
+msgstr ""
+
+msgctxt "HealTitle"
+msgid "Heal"
+msgstr ""
+
+msgctxt "HealDescription"
+msgid "Heals 70 hit points and also removes blindness and diseases"
+msgstr ""
+
+msgctxt "HeroesFeastTitle"
+msgid "Heroes Feast"
+msgstr ""
+
+msgctxt "HeroesFeastDescription"
+msgid ""
+"Summons a feast which cures most ailments and grants immunity to poisonand "
+"being frightened, WIS save advantage, and increased maximum hitpoints"
+msgstr ""
+
+msgctxt "SunbeamTitle"
+msgid "Sunbeam"
+msgstr ""
+
+msgctxt "SunbeamDescription"
+msgid ""
+"You conjure a line of radiance which can burn and blind creatures in the "
+"line of effect; undead and oozes save with disadvantage. The beam can be "
+"retargeted each turn"
+msgstr ""
+
+msgctxt "ProduceFlameTitle"
+msgid "Produce Flame"
+msgstr ""
+
+msgctxt "ProduceFlameDescription"
+msgid ""
+"Conjures a flickering flame in your hand, which generates light or can be "
+"hurled to inflict fire damage"
+msgstr ""
+
+msgctxt "ShillelaghTitle"
+msgid "Shillelagh"
+msgstr ""
+
+msgctxt "ShillelaghDescription"
+msgid ""
+"Conjures a magical club which attacks are magical and use your spellcasting "
+"ability instead of strength"
+msgstr ""
+
+msgctxt "HeatMetalTitle"
+msgid "Heat Metal"
+msgstr ""
+
+msgctxt "HeatMetalDescription"
+msgid ""
+"Cause the metallic armor worn by a creature to glow red hot, causing fire "
+"damage and disadvantage to attack rolls and ability checks. The damage and "
+"effects can be repeated every turn with a bonus action."
+msgstr ""
+
+msgctxt "MoonBeamTitle"
+msgid "Moon Beam"
+msgstr ""
+
+msgctxt "MoonBeamDescription"
+msgid ""
+"Conjures a vertical column of moonlight which causes radiant damage. "
+"Shapechangers have disadvantage on hte save."
+msgstr ""
+
+msgctxt "SpikeGrowthTitle"
+msgid "Spike Growth"
+msgstr ""
+
+msgctxt "SpikeGrowthDescription"
+msgid ""
+"Grows spikes and thorns in the area, making the terrain difficult and "
+"causing damage for every moved cell"
+msgstr ""
+
+msgctxt "CallLightningTitle"
+msgid "Call Lightning"
+msgstr ""
+
+msgctxt "CallLightningDescription"
+msgid ""
+"Calls a vertical bolt of lightning to strike a target. The bolt can be "
+"repeated by an action every turn."
+msgstr ""
+
+msgctxt "ConjureFeyTitle"
+msgid "Conjure Fey"
+msgstr ""
+
+msgctxt "ConjureFeyDescription"
+msgid ""
+"Conjures a fey creature of challenge rating 6 that fights alongside you. If "
+"you lose concentration, the creature remains and becomes hostile."
+msgstr ""
+
+msgctxt "WallOfThornsTitle"
+msgid "Wall of Thorns"
+msgstr ""
+
+msgctxt "WallOfThornsDescription"
+msgid ""
+"Conjures a fey creature of challenge rating 6 that fights alongside you. If "
+"you lose concentration, the creature remains and becomes hostile."
+msgstr ""

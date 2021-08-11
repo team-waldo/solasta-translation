@@ -1,0 +1,170 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "Attack_Bite_Title"
+msgid "Bite"
+msgstr ""
+
+msgctxt "Attack_Claws_Title"
+msgid "Claws"
+msgstr ""
+
+msgctxt "Attack_DreadfulGlare_Title"
+msgid "Dreadful Glare"
+msgstr ""
+
+msgctxt "Attack_GhoulishClaw_Title"
+msgid "Ghoulish Claw"
+msgstr ""
+
+msgctxt "Attack_PoisonousBite_Title"
+msgid "Poisonous Bite"
+msgstr ""
+
+msgctxt "Attack_RottingFist_Title"
+msgid "Rotting Fist"
+msgstr ""
+
+msgctxt "Attack_Shrieker_Description"
+msgid ""
+"A cursed blade, forged by the ancient smiths of the Sorr-Akkath in the "
+"forges of Tirmar and blessed by Sorr-Tarr."
+msgstr ""
+
+msgctxt "Attack_Shrieker_Title"
+msgid "Nekkesh Blade"
+msgstr ""
+
+msgctxt "Attack_Spine_Title"
+msgid "Poisonous Spine"
+msgstr ""
+
+msgctxt "Attack_Spit_Title"
+msgid "Spit"
+msgstr ""
+
+msgctxt "Attack_Talons_Title"
+msgid "Talons"
+msgstr ""
+
+msgctxt "Attack_Web_Title"
+msgid "Poison Web"
+msgstr ""
+
+msgctxt "Attack_Slam_Title"
+msgid "Slam"
+msgstr ""
+
+msgctxt "Attack_Ghost_Blade_Title"
+msgid "Withering Blade"
+msgstr ""
+
+msgctxt "Attack_Ghost_Touch_Title"
+msgid "Withering Touch"
+msgstr ""
+
+msgctxt "Attack_Beak_Title"
+msgid "Beak"
+msgstr ""
+
+msgctxt "Attack_SkeletalMarksman_Bow"
+msgid "Necrotic Arrow"
+msgstr ""
+
+msgctxt "Attack_SkeletalMarksman_Sword"
+msgid "Rusty Shortsword"
+msgstr ""
+
+msgctxt "Attack_Fire_Touch"
+msgid "Burning Touch"
+msgstr ""
+
+msgctxt "Attack_Grimblade"
+msgid "Ice Blade"
+msgstr ""
+
+msgctxt "Attack_Grimblade_IceDagger"
+msgid "Ice Dagger"
+msgstr ""
+
+msgctxt "Attack_AcidSpit"
+msgid "Acid Spit"
+msgstr ""
+
+msgctxt "Attack_AcidBite"
+msgid "Acid Bite"
+msgstr ""
+
+msgctxt "Attack_Freeze_Title"
+msgid "Freeze"
+msgstr ""
+
+msgctxt "Attack_Fire_Title"
+msgid "Touch"
+msgstr ""
+
+msgctxt "Attack_ShockingAntenna_Title"
+msgid "Shocking Antenna"
+msgstr ""
+
+msgctxt "Attack_ShockingAntenna_Description"
+msgid ""
+"Zealots can transmit a powerful electrical discharge with their antennae."
+msgstr ""
+
+msgctxt "Attack_PheromoneSpray_Title"
+msgid "Pheromone Spray"
+msgstr ""
+
+msgctxt "Attack_PheromoneSpray_Description"
+msgid ""
+"Pilgrims can spray a target with a pheromone that burns the skin and makes "
+"its allies frenzied."
+msgstr ""
+
+msgctxt "Attack_Tail_Title"
+msgid "Tail"
+msgstr ""
+
+msgctxt "AttackNecroticBite_Title"
+msgid "Necrotic Bite"
+msgstr ""
+
+msgctxt "Attack_Charge_Title"
+msgid "Charge"
+msgstr ""
+
+msgctxt "Attack_Gore_Title"
+msgid "Gore"
+msgstr ""
+
+msgctxt "Attack_Necrotic_Axe_Title"
+msgid "Necrotic Greataxe"
+msgstr ""
+
+msgctxt "Attack_WightLordSword_Title"
+msgid "Necrotic Blade"
+msgstr ""
+
+msgctxt "Attack_Beetle_Spray_Title"
+msgid "Acid Spray"
+msgstr ""
+
+msgctxt "Attack_Beetle_Spray_Description"
+msgid "Giant beetles can spit a short cloud of acid with their mouth."
+msgstr ""
+
+msgctxt "Attack_TossRock_Title"
+msgid "Rock"
+msgstr ""

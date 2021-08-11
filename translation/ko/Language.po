@@ -1,0 +1,134 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "CommonDescription"
+msgid ""
+"The standard language spoken on Solasta is a debased form of Imperial High "
+"Elvish, infused with bits of Tirmarian language. It is a legacy of Solasta's "
+"history."
+msgstr ""
+
+msgctxt "CommonTitle"
+msgid "Common"
+msgstr ""
+
+msgctxt "DwarvishDescription"
+msgid ""
+"An old Solastan language, preserved by dwarves living outside the imperial "
+"dominion, it has survived the Cataclysm."
+msgstr ""
+
+msgctxt "DwarvishTitle"
+msgid "Dwarvish"
+msgstr ""
+
+msgctxt "ElvishDescription"
+msgid ""
+"An old Solastan language, shared by high elves and sylvan elves but mostly "
+"spoken by the latter."
+msgstr ""
+
+msgctxt "ElvishTitle"
+msgid "Elvish"
+msgstr ""
+
+msgctxt "GiantDescription"
+msgid ""
+"The language spoken by most large humanoids, such as true giants or lesser "
+"beings such as ogres."
+msgstr ""
+
+msgctxt "GiantTitle"
+msgid "Giant"
+msgstr ""
+
+msgctxt "GoblinDescription"
+msgid "The crude dialect of the goblins is even simpler than Orcish."
+msgstr ""
+
+msgctxt "GoblinTitle"
+msgid "Goblin"
+msgstr ""
+
+msgctxt "HalflingDescription"
+msgid ""
+"The old language of the Halflings, originating before the split between "
+"Marsh and Island people."
+msgstr ""
+
+msgctxt "HalflingTitle"
+msgid "Halfling"
+msgstr ""
+
+msgctxt "OrcDescription"
+msgid "The language spoken by orcs and their brethren."
+msgstr ""
+
+msgctxt "OrcTitle"
+msgid "Orcish"
+msgstr ""
+
+msgctxt "ReptilianDescription"
+msgid "The language spoken by the Sorr-Akkath and their brethren."
+msgstr ""
+
+msgctxt "ReptilianTitle"
+msgid "Reptilian"
+msgstr ""
+
+msgctxt "SpyCodeDescription"
+msgid ""
+"This book of various codes and cyphers allows you to read most encoded "
+"messages."
+msgstr ""
+
+msgctxt "SpyCodeTitle"
+msgid "Spy's Codebook"
+msgstr ""
+
+msgctxt "TerranDescription"
+msgid ""
+"A dialect of the Primordial language spoken by creatures from the Elemental "
+"Plane of Earth or those otherwise related to the earth in some way."
+msgstr ""
+
+msgctxt "TerranTitle"
+msgid "Terran"
+msgstr ""
+
+msgctxt "TirmarianDescription"
+msgid ""
+"An ancient language, originated from Tirmar, the lost world of humans. It "
+"has been protected and transmitted since the Cataclysm."
+msgstr ""
+
+msgctxt "TirmarianTitle"
+msgid "Old Tirmarian"
+msgstr ""
+
+msgctxt "DraconicTitle"
+msgid "Draconic"
+msgstr ""
+
+msgctxt "DraconicDescription"
+msgid "The language spoken by dragons and other reptilian creatures"
+msgstr ""
+
+msgctxt "DruidicTitle"
+msgid "Druidic"
+msgstr ""
+
+msgctxt "DruidicDescription"
+msgid "This is the secret language of the druids"
+msgstr ""

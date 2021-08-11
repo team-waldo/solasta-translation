@@ -1,0 +1,2500 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "AbilityAndSkillFormat"
+msgid "{0} ({1})"
+msgstr ""
+
+msgctxt "AbilityCheckFormat"
+msgid "{0} d20{1}"
+msgstr ""
+
+msgctxt "AbilityCheckVersusDcFormat"
+msgid "{0} d20{1} vs DC {2}"
+msgstr ""
+
+msgctxt "AbilityScoreBonusFormat"
+msgid "+ Ability Bonus"
+msgstr ""
+
+msgctxt "ActivationTypeActionTitle"
+msgid "Action"
+msgstr ""
+
+msgctxt "ActivationTypeBonusActionTitle"
+msgid "Bonus act."
+msgstr ""
+
+msgctxt "ActivationTypeHours1Title"
+msgid "1 hour"
+msgstr ""
+
+msgctxt "ActivationTypeHours24Title"
+msgid "24 hours"
+msgstr ""
+
+msgctxt "ActivationTypeMinute10Title"
+msgid "10 minutes"
+msgstr ""
+
+msgctxt "ActivationTypeMinute1Title"
+msgid "1 minute"
+msgstr ""
+
+msgctxt "ActivationTypeNoCostTitle"
+msgid "Free act."
+msgstr ""
+
+msgctxt "ActivationTypeOnAttackHitTitle"
+msgid "On hit"
+msgstr ""
+
+msgctxt "ActivationTypeOnAttackHitWithBowTitle"
+msgid "On hit (bow)"
+msgstr ""
+
+msgctxt "ActivationTypePermanentUnlessIncapacitatedTitle"
+msgid "Permanent"
+msgstr ""
+
+msgctxt "ActivationTypeReactionTitle"
+msgid "Reaction"
+msgstr ""
+
+msgctxt "ActivationTypeRestDescription"
+msgid "This power can be activated during a rest"
+msgstr ""
+
+msgctxt "ActivationTypeRestTitle"
+msgid "Rest"
+msgstr ""
+
+msgctxt "AlignmentDescription"
+msgid ""
+"A typical creature in the game world has an alignment, which broadly "
+"describes its moral and personal attitudes. Alignment is a combination of "
+"two factors: one identifies morality (good, evil, or neutral), and the other "
+"describes attitudes toward society and order (lawful, chaotic, or neutral)."
+msgstr ""
+
+msgctxt "AlignmentTitle"
+msgid "Alignment"
+msgstr ""
+
+msgctxt "AlterationFormExtinguishFireFormat"
+msgid "Puts out fires"
+msgstr ""
+
+msgctxt "AlterationFormExtinguishLightFormat"
+msgid "Puts out lights"
+msgstr ""
+
+msgctxt "AlterationFormRemoveDarknessFormat"
+msgid "Removes Darkness"
+msgstr ""
+
+msgctxt "AlterationFormRevealTrapFormat"
+msgid "Reveals traps"
+msgstr ""
+
+msgctxt "AlterationFormUnlockFormat"
+msgid "Unlocks a target object"
+msgstr ""
+
+msgctxt "ChallengeDifficultyDeadlyTitle"
+msgid "Deadly"
+msgstr ""
+
+msgctxt "ChallengeDifficultyEasyTitle"
+msgid "Easy"
+msgstr ""
+
+msgctxt "ChallengeDifficultyHardTitle"
+msgid "Hard"
+msgstr ""
+
+msgctxt "ChallengeDifficultyMediumTitle"
+msgid "Medium"
+msgstr ""
+
+msgctxt "ConditionAcidifiedDescription"
+msgid "Taking acid damage each turn until the effect ends."
+msgstr ""
+
+msgctxt "ConditionAcidifiedTitle"
+msgid "Acidified"
+msgstr ""
+
+msgctxt "ConditionAidedDescription"
+msgid "Hit points (maximum/current) increased by 5 + advancement."
+msgstr ""
+
+msgctxt "ConditionAidedTitle"
+msgid "Aided"
+msgstr ""
+
+msgctxt "ConditionAntitoxin"
+msgid "Advantage on Constitution saving throws against poison."
+msgstr ""
+
+msgctxt "ConditionAsleepDescription"
+msgid "Unable to act until awoken"
+msgstr ""
+
+msgctxt "ConditionAsleepTitle"
+msgid "Asleep"
+msgstr ""
+
+msgctxt "ConditionAuraOfCourageDescription"
+msgid "Immunity from being frightened."
+msgstr ""
+
+msgctxt "ConditionAuraOfCourageTitle"
+msgid "Aura of Courage"
+msgstr ""
+
+msgctxt "ConditionAuraOfProtectionDescription"
+msgid "{0} bonus to saving throws."
+msgstr ""
+
+msgctxt "ConditionAuraOfProtectionTitle"
+msgid "Aura of Protection"
+msgstr ""
+
+msgctxt "ConditionBackFromTheDead1Description"
+msgid ""
+"-1 penalty on attack rolls, saving throws and ability checks. Complete a "
+"long rest to reduce the penalty."
+msgstr ""
+
+msgctxt "ConditionBackFromTheDead2Description"
+msgid ""
+"-2 penalty on attack rolls, saving throws and ability checks. Complete a "
+"long rest to reduce the penalty."
+msgstr ""
+
+msgctxt "ConditionBackFromTheDead3Description"
+msgid ""
+"-3 penalty on attack rolls, saving throws and ability checks. Complete a "
+"long rest to reduce the penalty."
+msgstr ""
+
+msgctxt "ConditionBackFromTheDead4Description"
+msgid ""
+"-4 penalty on attack rolls, saving throws and ability checks. Complete a "
+"long rest to reduce the penalty."
+msgstr ""
+
+msgctxt "ConditionBackFromTheDeadTitle"
+msgid "Back from the Dead"
+msgstr ""
+
+msgctxt "ConditionBanedDescription"
+msgid "-1d4 to attacks, -1d4 to saving throws."
+msgstr ""
+
+msgctxt "ConditionBanedTitle"
+msgid "Banestruck"
+msgstr ""
+
+msgctxt "ConditionBarkskinDescription"
+msgid "The creature's Armor Class becomes at least 16."
+msgstr ""
+
+msgctxt "ConditionBarkskinTitle"
+msgid "Barkskin"
+msgstr ""
+
+msgctxt "ConditionBeaconOfHopeDescription"
+msgid ""
+"Advantage on Wisdom and death saving throws; healing restores maximum "
+"possible hit points."
+msgstr ""
+
+msgctxt "ConditionBeaconOfHopeTitle"
+msgid "Beacon of Hope"
+msgstr ""
+
+msgctxt "ConditionBearsEnduranceDescription"
+msgid "Advantage on Constitution saving throws."
+msgstr ""
+
+msgctxt "ConditionBlessedDescription"
+msgid "+1d4 to attacks, +1d4 to saving throws."
+msgstr ""
+
+msgctxt "ConditionBlessedTitle"
+msgid "Blessed"
+msgstr ""
+
+msgctxt "ConditionBlessingSorr-TarrTitle"
+msgid "Blessing of Sorr-Tarr"
+msgstr ""
+
+msgctxt "ConditionBlindedDescription"
+msgid ""
+"Cannot see anything; disadvantage on attacks; attacks against the creature "
+"have advantage."
+msgstr ""
+
+msgctxt "ConditionBlindedTitle"
+msgid "Blinded"
+msgstr ""
+
+msgctxt "ConditionBlurredDescription"
+msgid "Attacks on creature have disadvantage."
+msgstr ""
+
+msgctxt "ConditionBlurredTitle"
+msgid "Blurred"
+msgstr ""
+
+msgctxt "ConditionBrandedDescription"
+msgid "Emits light; cannot become invisible."
+msgstr ""
+
+msgctxt "ConditionBrandedTitle"
+msgid "Branded"
+msgstr ""
+
+msgctxt "ConditionBullsStrengthDescription"
+msgid "Advantage on Strength saving throws."
+msgstr ""
+
+msgctxt "ConditionCatsGraceDescription"
+msgid "Advantage on Dexterity saving throws and reduced falling damage."
+msgstr ""
+
+msgctxt "ConditionCharmedByHypnoticPatternDescription"
+msgid "Incapacitated and speed is 0, until wounded or awoken."
+msgstr ""
+
+msgctxt "ConditionCharmedByHypnoticPatternTitle"
+msgid "Charmed by Hypnosis"
+msgstr ""
+
+msgctxt "ConditionCharmedDescription"
+msgid "Considers the caster an ally."
+msgstr ""
+
+msgctxt "ConditionCharmedTitle"
+msgid "Charmed"
+msgstr ""
+
+msgctxt "ConditionChilledDescription"
+msgid ""
+"Cannot gain hit points. If undead, disadvantage on attacking the caster."
+msgstr ""
+
+msgctxt "ConditionChilledTitle"
+msgid "Chilled"
+msgstr ""
+
+msgctxt "ConditionCriticalCharacterDescription"
+msgid "If this character dies, the game is over."
+msgstr ""
+
+msgctxt "ConditionCriticalCharacterTitle"
+msgid "Critical Character"
+msgstr ""
+
+msgctxt "ConditionCursedActionDescription"
+msgid "Must make a WIS saving throw to act."
+msgstr ""
+
+msgctxt "ConditionCursedActionTitle"
+msgid "Cursed (Action)"
+msgstr ""
+
+msgctxt "ConditionCursedAttackRollDescription"
+msgid "Disadvantage to attack roll against caster."
+msgstr ""
+
+msgctxt "ConditionCursedAttackRollTitle"
+msgid "Cursed (Attack Roll)"
+msgstr ""
+
+msgctxt "ConditionCursedCharismaDescription"
+msgid "Disadvantage on CHA saving throws and ability checks."
+msgstr ""
+
+msgctxt "ConditionCursedCharismaTitle"
+msgid "Cursed (Charisma)"
+msgstr ""
+
+msgctxt "ConditionCursedConstitutionDescription"
+msgid "Disadvantage on CON saving throws and ability checks."
+msgstr ""
+
+msgctxt "ConditionCursedConstitutionTitle"
+msgid "Cursed (Constitution)"
+msgstr ""
+
+msgctxt "ConditionCursedDamageDescription"
+msgid ""
+"Caster's attacks and spells against the target deal an extra 1d8 necrotic "
+"damage."
+msgstr ""
+
+msgctxt "ConditionCursedDamageTitle"
+msgid "Cursed (Damage)"
+msgstr ""
+
+msgctxt "ConditionCursedDexterityDescription"
+msgid "Disadvantage on DEX saving throws and ability checks."
+msgstr ""
+
+msgctxt "ConditionCursedDexterityTitle"
+msgid "Cursed (Dexterity)"
+msgstr ""
+
+msgctxt "ConditionCursedIntelligenceDescription"
+msgid "Disadvantage on INT saving throws and ability checks."
+msgstr ""
+
+msgctxt "ConditionCursedIntelligenceTitle"
+msgid "Cursed (Intelligence)"
+msgstr ""
+
+msgctxt "ConditionCursedStrengthDescription"
+msgid "Disadvantage on STR saving throws and ability checks."
+msgstr ""
+
+msgctxt "ConditionCursedStrengthTitle"
+msgid "Cursed (Strength)"
+msgstr ""
+
+msgctxt "ConditionCursedTitle"
+msgid "Cursed"
+msgstr ""
+
+msgctxt "ConditionCursedWisdomDescription"
+msgid "Disadvantage on WIS saving throws and ability checks."
+msgstr ""
+
+msgctxt "ConditionCursedWisdomTitle"
+msgid "Cursed (Wisdom)"
+msgstr ""
+
+msgctxt "ConditionDarkvisionDescription"
+msgid "See normally in dim light, and in natural darkness as if in dim light."
+msgstr ""
+
+msgctxt "ConditionDarkvisionTitle"
+msgid "Darkvision"
+msgstr ""
+
+msgctxt "ConditionDazzledDescription"
+msgid "Cannot take reactions and has -2 Armor Class penalty."
+msgstr ""
+
+msgctxt "ConditionDazzledTitle"
+msgid "Dazzled"
+msgstr ""
+
+msgctxt "ConditionDeadDescription"
+msgid "Cannot act until revived or resurrected."
+msgstr ""
+
+msgctxt "ConditionDeadTitle"
+msgid "Dead"
+msgstr ""
+
+msgctxt "ConditionDeafenedDescription"
+msgid "Cannot hear anything."
+msgstr ""
+
+msgctxt "ConditionDeafenedTitle"
+msgid "Deafened"
+msgstr ""
+
+msgctxt "ConditionDetectEvilandGoodDescription"
+msgid "Detected as aberration, celestial, elemental, fey, fiend, or undead."
+msgstr ""
+
+msgctxt "ConditionDetectEvilandGoodTitle"
+msgid "Detected as Evil/Good"
+msgstr ""
+
+msgctxt "ConditionDetectMagicDescription"
+msgid "Able to detect magic nearby."
+msgstr ""
+
+msgctxt "ConditionDetectMagicTitle"
+msgid "Detect Magic"
+msgstr ""
+
+msgctxt "ConditionDiscipleImmuneColdDescription"
+msgid "Immune to cold damage and regain HP from cold."
+msgstr ""
+
+msgctxt "ConditionDiscipleImmuneColdTitle"
+msgid "Scholar of the Elements (Cold)"
+msgstr ""
+
+msgctxt "ConditionDiscipleImmuneFireDescription"
+msgid "Immune to lightning damage and regain HP from lightning."
+msgstr ""
+
+msgctxt "ConditionDiscipleImmuneFireTitle"
+msgid "Scholar of the Elements (Fire)"
+msgstr ""
+
+msgctxt "ConditionDiscipleImmuneLightningDescription"
+msgid "Immune to fire damage and regain HP from fire."
+msgstr ""
+
+msgctxt "ConditionDiscipleImmuneLightningTitle"
+msgid "Scholar of the Elements (Lightning)"
+msgstr ""
+
+msgctxt "ConditionDiseasedDescription"
+msgid "The creature is afflicted with a disease."
+msgstr ""
+
+msgctxt "ConditionDiseasedTitle"
+msgid "Diseased"
+msgstr ""
+
+msgctxt "ConditionDisengagingDescription"
+msgid "Unaffected by opportunity attacks."
+msgstr ""
+
+msgctxt "ConditionDisengagingTitle"
+msgid "Disengaging"
+msgstr ""
+
+msgctxt "ConditionDivineFavorDescription"
+msgid "Deals 1d4 additional radiant damage."
+msgstr ""
+
+msgctxt "ConditionDivineFavorTitle"
+msgid "Divine Favor"
+msgstr ""
+
+msgctxt "ConditionDivinelyRevealedDescription"
+msgid ""
+"The creature's type and position are known to the caster of this effect."
+msgstr ""
+
+msgctxt "ConditionDivinelyRevealedTitle"
+msgid "Divinely Revealed"
+msgstr ""
+
+msgctxt "ConditionDodgingDescription"
+msgid "Attacks on creature have disadvantage."
+msgstr ""
+
+msgctxt "ConditionDodgingTitle"
+msgid "Dodging"
+msgstr ""
+
+msgctxt "ConditionDyingDescription"
+msgid "Will die soon unless stabilized."
+msgstr ""
+
+msgctxt "ConditionDyingTitle"
+msgid "Dying"
+msgstr ""
+
+msgctxt "ConditionEncumberedDescription"
+msgid "Speed is reduced by 2."
+msgstr ""
+
+msgctxt "ConditionEncumberedTitle"
+msgid "Encumbered"
+msgstr ""
+
+msgctxt "ConditionEnfeebledDescription"
+msgid "Half damage on STR based attacks."
+msgstr ""
+
+msgctxt "ConditionEnfeebledTitle"
+msgid "Weakened"
+msgstr ""
+
+msgctxt "ConditionEntangledTitle"
+msgid "Entangled"
+msgstr ""
+
+msgctxt "ConditionExhaustedDescription"
+msgid "Weakened by exhaustion."
+msgstr ""
+
+msgctxt "ConditionExhaustedTitle"
+msgid "Exhausted"
+msgstr ""
+
+msgctxt "ConditionExpeditiousRetreatDescription"
+msgid "Can dash as a bonus action."
+msgstr ""
+
+msgctxt "ConditionExpeditiousRetreatTitle"
+msgid "Expeditious Retreat"
+msgstr ""
+
+msgctxt "ConditionFalseLifeDescription"
+msgid "Additional temporary hit points."
+msgstr ""
+
+msgctxt "ConditionFalseLifeTitle"
+msgid "False Life"
+msgstr ""
+
+msgctxt "ConditionFeatherFallingDescription"
+msgid "Cannot be hurt by falls."
+msgstr ""
+
+msgctxt "ConditionFeatherFallingTitle"
+msgid "Feather Falling"
+msgstr ""
+
+msgctxt "ConditionFlyingDescription"
+msgid "Target creature gains a flying speed of 12 cells per move action."
+msgstr ""
+
+msgctxt "ConditionFlyingTitle"
+msgid "Flying"
+msgstr ""
+
+msgctxt "ConditionForceOfLawDescription"
+msgid "Impose disadvantage on the target's next saving throw."
+msgstr ""
+
+msgctxt "ConditionForceOfLawTitle"
+msgid "Force of Law"
+msgstr ""
+
+msgctxt "ConditionFormAddBeneficialFormat"
+msgid "Grants: {0}"
+msgstr ""
+
+msgctxt "ConditionFormAddDetrimentalFormat"
+msgid "Inflicts: {0}"
+msgstr ""
+
+msgctxt "ConditionFormAddNeutralFormat"
+msgid "Becomes: {0}"
+msgstr ""
+
+msgctxt "ConditionFormRemoveDetrimentalAllFormat"
+msgid "Removes all occurrences of these conditions: {0}."
+msgstr ""
+
+msgctxt "ConditionFormRemoveDetrimentalRandomFormat"
+msgid "Removes one random occurrence of these conditions: {0}."
+msgstr ""
+
+msgctxt "ConditionFormRemoveFormat"
+msgid "Removes: {0}"
+msgstr ""
+
+msgctxt "ConditionFrightenedDescription"
+msgid ""
+"Unable to approach the source of fear, disadvantage on attack rolls and "
+"ability checks."
+msgstr ""
+
+msgctxt "ConditionFrightenedFearDescription"
+msgid "Must run away from the source of fear."
+msgstr ""
+
+msgctxt "ConditionFrightenedFearTitle"
+msgid "Frightened (Fear)"
+msgstr ""
+
+msgctxt "ConditionFrightenedTitle"
+msgid "Frightened"
+msgstr ""
+
+msgctxt "ConditionGateKeeperDescription"
+msgid "Advantage to death saving throws."
+msgstr ""
+
+msgctxt "ConditionGateKeeperTitle"
+msgid "Gate Keeper"
+msgstr ""
+
+msgctxt "ConditionGiantStrengthCloudDescription"
+msgid "Strength becomes 27"
+msgstr ""
+
+msgctxt "ConditionGiantStrengthCloudTitle"
+msgid "Giant Strength (Cloud)"
+msgstr ""
+
+msgctxt "ConditionGiantStrengthFireDescription"
+msgid "Strength becomes 25"
+msgstr ""
+
+msgctxt "ConditionGiantStrengthFireTitle"
+msgid "Giant Strength (Fire)"
+msgstr ""
+
+msgctxt "ConditionGiantStrengthFrostDescription"
+msgid "Strength becomes 23"
+msgstr ""
+
+msgctxt "ConditionGiantStrengthFrostTitle"
+msgid "Giant Strength (Frost)"
+msgstr ""
+
+msgctxt "ConditionGiantStrengthHillDescription"
+msgid "Strength becomes 21"
+msgstr ""
+
+msgctxt "ConditionGiantStrengthHillTitle"
+msgid "Giant Strength (Hill)"
+msgstr ""
+
+msgctxt "ConditionGrappledDescription"
+msgid "Cannot move."
+msgstr ""
+
+msgctxt "ConditionGrappledTitle"
+msgid "Grappled"
+msgstr ""
+
+msgctxt "ConditionGuidedDescription"
+msgid "Add 1d4 to one ability check."
+msgstr ""
+
+msgctxt "ConditionGuidedTitle"
+msgid "Guided"
+msgstr ""
+
+msgctxt "ConditionHastedDescription"
+msgid ""
+"Speed is doubled; +2 AC; Dexterity saving throws have advantage; able to "
+"take one more action per turn (Attack, Dash, Dodge, Disengage, Hide, Use "
+"Item)."
+msgstr ""
+
+msgctxt "ConditionHastedTitle"
+msgid "Hasted"
+msgstr ""
+
+msgctxt "ConditionHealthyDescription"
+msgid "Not wounded."
+msgstr ""
+
+msgctxt "ConditionHealthyTitle"
+msgid "Healthy"
+msgstr ""
+
+msgctxt "ConditionHeavilyEncumberedDescription"
+msgid ""
+"Speed is reduced by 4.\n"
+"Disadvantage to attack rolls."
+msgstr ""
+
+msgctxt "ConditionHeavilyEncumberedTitle"
+msgid "Heavily Encumbered"
+msgstr ""
+
+msgctxt "ConditionHeavilyObscuredTitle"
+msgid "Heavily Obscured"
+msgstr ""
+
+msgctxt "ConditionHeraldOfBattleDescription"
+msgid "+1 to AC; +1 to attack and damage; +1 to all saving throws."
+msgstr ""
+
+msgctxt "ConditionHeraldOfBattleTitle"
+msgid "Blessed by Herald of Battle"
+msgstr ""
+
+msgctxt "ConditionHeroismTitle"
+msgid "Heroism"
+msgstr ""
+
+msgctxt "ConditionHighlightedDescription"
+msgid "Creature cannot benefit from invisibility, attackers have advantage."
+msgstr ""
+
+msgctxt "ConditionHighlightedTitle"
+msgid "Highlighted"
+msgstr ""
+
+msgctxt "ConditionHinderedDescription"
+msgid "Move speed -2."
+msgstr ""
+
+msgctxt "ConditionHinderedTitle"
+msgid "Hindered"
+msgstr ""
+
+msgctxt "ConditionIncapacitatedDescription"
+msgid "Unable to take actions or reactions."
+msgstr ""
+
+msgctxt "ConditionIncapacitatedTitle"
+msgid "Incapacitated"
+msgstr ""
+
+msgctxt "ConditionInStinkingCloudDescription"
+msgid ""
+"The creature has to make a successful CON saving to act on its turn.\n"
+"Vision is heavily obscured."
+msgstr ""
+
+msgctxt "ConditionInStinkingCloudTitle"
+msgid "In Stinking Cloud"
+msgstr ""
+
+msgctxt "ConditionInvisibleDescription"
+msgid ""
+"Cannot be seen without magic; creature has advantage on attacks; attackers "
+"have disadvantage."
+msgstr ""
+
+msgctxt "ConditionInvisibleTitle"
+msgid "Invisible"
+msgstr ""
+
+msgctxt "ConditionJumpDescription"
+msgid "Jump distance increased."
+msgstr ""
+
+msgctxt "ConditionJumpTitle"
+msgid "Jump"
+msgstr ""
+
+msgctxt "ConditionLethargicDescription"
+msgid "The creature cannot move or take any action until after its next turn."
+msgstr ""
+
+msgctxt "ConditionLethargicTitle"
+msgid "Lethargic"
+msgstr ""
+
+msgctxt "ConditionLevitateDescription"
+msgid "The target creature hovers; caster can move it up or down."
+msgstr ""
+
+msgctxt "ConditionLevitateTitle"
+msgid "Levitating"
+msgstr ""
+
+msgctxt "ConditionLifeDrainedDescription"
+msgid "Maximum hit points are reduced until a long rest is completed."
+msgstr ""
+
+msgctxt "ConditionLifeDrainedTitle"
+msgid "Drained"
+msgstr ""
+
+msgctxt "ConditionLightHypersensitiveDescription"
+msgid "Wounded by light."
+msgstr ""
+
+msgctxt "ConditionLightHypersensitiveTitle"
+msgid "Light Hypersensitive"
+msgstr ""
+
+msgctxt "ConditionLightSensitiveDescription"
+msgid "Disadvantaged by light."
+msgstr ""
+
+msgctxt "ConditionLightSensitiveTitle"
+msgid "Light Sensitive"
+msgstr ""
+
+msgctxt "ConditionLongstriderDescription"
+msgid "Move speed increases by 2 cells."
+msgstr ""
+
+msgctxt "ConditionLongstriderTitle"
+msgid "Longstrider"
+msgstr ""
+
+msgctxt "ConditionMagicallyArmoredDescription"
+msgid "Base Armor Class is set to 13."
+msgstr ""
+
+msgctxt "ConditionMagicallyArmoredTitle"
+msgid "Mage Armored"
+msgstr ""
+
+msgctxt "ConditionMagicallyAsleepDescription"
+msgid "Unable to act until awoken."
+msgstr ""
+
+msgctxt "ConditionMagicallyAsleepTitle"
+msgid "Magically Asleep"
+msgstr ""
+
+msgctxt "ConditionMagicalWeaponDescription"
+msgid "Weapon can wound enemies that are immune to non-magical attacks."
+msgstr ""
+
+msgctxt "ConditionMagicalWeaponTitle"
+msgid "Magical Weapon"
+msgstr ""
+
+msgctxt "ConditionMarkedByBrandingSmiteDescription"
+msgid "Emits light; cannot become invisible; revealed if invisible."
+msgstr ""
+
+msgctxt "ConditionMarkedByBrandingSmiteTitle"
+msgid "Branding Smite"
+msgstr ""
+
+msgctxt "ConditionMarkedByHunterDescription"
+msgid "Receives +1d6 damage when hit by the caster."
+msgstr ""
+
+msgctxt "ConditionMarkedByHunterTitle"
+msgid "Hunter's Mark"
+msgstr ""
+
+msgctxt "ConditionMindControlledTitle"
+msgid "Mind Controlled"
+msgstr ""
+
+msgctxt "ConditionOnFireDescription"
+msgid ""
+"Sustains continuous fire damage unless the fire is extinguished by an action."
+msgstr ""
+
+msgctxt "ConditionOnFireTitle"
+msgid "On Fire"
+msgstr ""
+
+msgctxt "ConditionParalyzedDescription"
+msgid ""
+"Unable to act; attacks against creature have advantage; automatic critical "
+"hit if attacked from a neighboring cell."
+msgstr ""
+
+msgctxt "ConditionParalyzedTitle"
+msgid "Paralyzed"
+msgstr ""
+
+msgctxt "ConditionPetrifiedDescription"
+msgid "Turned into stone; can hardly be hurt."
+msgstr ""
+
+msgctxt "ConditionPetrifiedTitle"
+msgid "Petrified"
+msgstr ""
+
+msgctxt "ConditionPoisonedDescription"
+msgid "Disadvantage on attacks and ability checks."
+msgstr ""
+
+msgctxt "ConditionPoisonedTitle"
+msgid "Poisoned"
+msgstr ""
+
+msgctxt "ConditionPossessedDescription"
+msgid "Controlled by a supernatural being."
+msgstr ""
+
+msgctxt "ConditionPossessedTitle"
+msgid "Possessed"
+msgstr ""
+
+msgctxt "ConditionProneDescription"
+msgid "Can only move by crawling; vulnerable to close attacks."
+msgstr ""
+
+msgctxt "ConditionProneTitle"
+msgid "Prone"
+msgstr ""
+
+msgctxt "ConditionProtectedFromEvilTitle"
+msgid "Protected from Evil and Good"
+msgstr ""
+
+msgctxt "ConditionResistingDescription"
+msgid "Add +1d4 to one saving throw."
+msgstr ""
+
+msgctxt "ConditionResistingTitle"
+msgid "Resistant"
+msgstr ""
+
+msgctxt "ConditionRestrainedDescription"
+msgid ""
+"Unable to move; creature's attacks and Dexterity saving throws have "
+"disadvantage; attacks against creature have advantage."
+msgstr ""
+
+msgctxt "ConditionRestrainedTitle"
+msgid "Restrained"
+msgstr ""
+
+msgctxt "ConditionSeeInvisibilityDescription"
+msgid "Can perceive invisible creatures."
+msgstr ""
+
+msgctxt "ConditionSeeInvisibilityTitle"
+msgid "Invisibility Sight"
+msgstr ""
+
+msgctxt "ConditionSeverelyWoundedDescription"
+msgid "Will soon die."
+msgstr ""
+
+msgctxt "ConditionSeverelyWoundedTitle"
+msgid "Severely Wounded"
+msgstr ""
+
+msgctxt "ConditionShieldedByFaithDescription"
+msgid "Armor Class +2."
+msgstr ""
+
+msgctxt "ConditionShieldedByFaithTitle"
+msgid "Shielded by Faith"
+msgstr ""
+
+msgctxt "ConditionShieldedDescription"
+msgid "Armor Class increases by +5 and immunity to magic missile."
+msgstr ""
+
+msgctxt "ConditionShieldedTitle"
+msgid "Shielded"
+msgstr ""
+
+msgctxt "ConditionShockedDescription"
+msgid "Cannot use reactions."
+msgstr ""
+
+msgctxt "ConditionShockedTitle"
+msgid "Shocked"
+msgstr ""
+
+msgctxt "ConditionSleetStormDescription"
+msgid ""
+"Difficult terrain; can fall prone; heavily obscured; must roll concentration "
+"check."
+msgstr ""
+
+msgctxt "ConditionSleetStormTitle"
+msgid "In Sleet Storm"
+msgstr ""
+
+msgctxt "ConditionSlowedDescription"
+msgid ""
+"Speed halved; -2 to AC and DEX saves; max one action or bonus action; no "
+"reaction; max one attack per turn; spellcasting can fail."
+msgstr ""
+
+msgctxt "ConditionSlowedTitle"
+msgid "Slowed"
+msgstr ""
+
+msgctxt "ConditionSpiderClimbDescription"
+msgid "Able to climb like a spider."
+msgstr ""
+
+msgctxt "ConditionSpiderClimbTitle"
+msgid "Spider Climb"
+msgstr ""
+
+msgctxt "ConditionSpiritGuardiansDescription"
+msgid "Speed is halved; can sustain damage at the start of each turn."
+msgstr ""
+
+msgctxt "ConditionSpiritGuardiansSelfDescription"
+msgid "The character is currently protected by Spirit Guardians."
+msgstr ""
+
+msgctxt "ConditionSpiritGuardiansSelfTitle"
+msgid "Protected by Spirits."
+msgstr ""
+
+msgctxt "ConditionSpiritGuardiansTitle"
+msgid "Targeted by Spirits"
+msgstr ""
+
+msgctxt "ConditionStealthyDescription"
+msgid "Actively hiding."
+msgstr ""
+
+msgctxt "ConditionStealthyTitle"
+msgid "Stealthy"
+msgstr ""
+
+msgctxt "ConditionStunnedDescription"
+msgid ""
+"Unable to act or move; attacks against creatures have advantage; "
+"automatically fails Strength and Dexterity saving throws."
+msgstr ""
+
+msgctxt "ConditionStunnedTitle"
+msgid "Stunned"
+msgstr ""
+
+msgctxt "ConditionSurprisedDescription"
+msgid "Unable to act for one round."
+msgstr ""
+
+msgctxt "ConditionSurprisedTitle"
+msgid "Surprised"
+msgstr ""
+
+msgctxt "ConditionTargetedByGuidingBoltDescription"
+msgid "First attack against this creature has advantage."
+msgstr ""
+
+msgctxt "ConditionTargetedByGuidingBoltTitle"
+msgid "Targeted by Guiding Bolt"
+msgstr ""
+
+msgctxt "ConditionTemporaryHitPointsDescription"
+msgid "The creature gains temporary hit points."
+msgstr ""
+
+msgctxt "ConditionTemporaryHitPointsTitle"
+msgid "Temporary HP"
+msgstr ""
+
+msgctxt "ConditionTraditionShockArcanistArcaneFuryDescription"
+msgid ""
+"Damage of evocation spells increases by proficiency bonus and INT bonus."
+msgstr ""
+
+msgctxt "ConditionTraditionShockArcanistArcaneFuryTitle"
+msgid "Arcane Fury"
+msgstr ""
+
+msgctxt "ConditionTrueStrikeDescription"
+msgid "Caster has advantage on his first attack against the spell's target."
+msgstr ""
+
+msgctxt "ConditionTrueStrikeTitle"
+msgid "True Strike"
+msgstr ""
+
+msgctxt "ConditionTurnedDescription"
+msgid "Must move away from caster."
+msgstr ""
+
+msgctxt "ConditionTurnedTitle"
+msgid "Turned"
+msgstr ""
+
+msgctxt "ConditionTypeBeneficialFormat"
+msgid "Beneficial Condition"
+msgstr ""
+
+msgctxt "ConditionTypeDetrimentalFormat"
+msgid "Detrimental Condition"
+msgstr ""
+
+msgctxt "ConditionTypeNeutralFormat"
+msgid "Neutral Condition"
+msgstr ""
+
+msgctxt "ConditionUnconsciousDescription"
+msgid "Unable to act until awoken."
+msgstr ""
+
+msgctxt "ConditionUnconsciousTitle"
+msgid "Unconscious"
+msgstr ""
+
+msgctxt "ConditionVampiricTouchDescription"
+msgid "Can perform a vampiric melee spell attack each turn."
+msgstr ""
+
+msgctxt "ConditionVampiricTouchTitle"
+msgid "Vampiric Touch"
+msgstr ""
+
+msgctxt "ConditionWoundedDescription"
+msgid "Lost some hit points."
+msgstr ""
+
+msgctxt "ConditionWoundedTitle"
+msgid "Wounded"
+msgstr ""
+
+msgctxt "CostFormat"
+msgid "{0} {1}"
+msgstr ""
+
+msgctxt "CounterFormBreakConcentrationFormat"
+msgid "Provokes a concentration check."
+msgstr ""
+
+msgctxt "CounterFormDisperseCloudFormat"
+msgid "Disperses clouds in the area."
+msgstr ""
+
+msgctxt "CounterFormDissipateSpellsFormat"
+msgid ""
+"Spell up to level {0} automatically dispelled, DC {1}+ spell level otherwise."
+msgstr ""
+
+msgctxt "CounterFormExtinguishLightFormat"
+msgid "Extinguishes light sources in the area."
+msgstr ""
+
+msgctxt "CounterFormInterruptSpellcastingFormat"
+msgid ""
+"Spell up to level {0} automatically countered, DC {1}+ spell level otherwise."
+msgstr ""
+
+msgctxt "CounterFormRemoveDarknessFormat"
+msgid "Removes areas of darkness."
+msgstr ""
+
+msgctxt "DamageAcidDescription"
+msgid ""
+"The corrosive spray of a black dragon's breath and the dissolving enzymes "
+"secreted by a black pudding deal acid damage."
+msgstr ""
+
+msgctxt "DamageAcidTitle"
+msgid "Acid"
+msgstr ""
+
+msgctxt "DamageBludgeoningDescription"
+msgid ""
+"Blunt force attacks - hammers, falling, constriction, and the like - deal "
+"bludgeoning damage."
+msgstr ""
+
+msgctxt "DamageBludgeoningTitle"
+msgid "Bludgeoning"
+msgstr ""
+
+msgctxt "DamageColdDescription"
+msgid ""
+"The infernal chill radiating from an ice devil's spear and the frigid blast "
+"of a white dragon's breath deal cold damage."
+msgstr ""
+
+msgctxt "DamageColdTitle"
+msgid "Cold"
+msgstr ""
+
+msgctxt "DamageFireDescription"
+msgid ""
+"Red dragons breathe fire, and many spells conjure flames to deal fire damage."
+msgstr ""
+
+msgctxt "DamageFireTitle"
+msgid "Fire"
+msgstr ""
+
+msgctxt "DamageForceDescription"
+msgid ""
+"Force is pure magical energy focused into a damaging form. Most effects that "
+"deal force damage are spells, including magic missile and spiritual weapon."
+msgstr ""
+
+msgctxt "DamageForceTitle"
+msgid "Force"
+msgstr ""
+
+msgctxt "DamageFormFormat"
+msgid "{0}{1}{2}{3} damage {4}"
+msgstr ""
+
+msgctxt "DamageFormTightFormat"
+msgid "{0}{1}{2}{3} dmg {4}"
+msgstr ""
+
+msgctxt "DamageLightningDescription"
+msgid ""
+"A lightning bolt spell and a blue dragon's breath deal lightning damage."
+msgstr ""
+
+msgctxt "DamageLightningTitle"
+msgid "Lightning"
+msgstr ""
+
+msgctxt "DamageNecroticDescription"
+msgid ""
+"Necrotic damage, dealt by certain undead and spells such as chill touch, "
+"withers matter and even the soul."
+msgstr ""
+
+msgctxt "DamageNecroticTitle"
+msgid "Necrotic"
+msgstr ""
+
+msgctxt "DamagePiercingDescription"
+msgid ""
+"Puncturing and impaling attacks, including spears and monster bites, deal "
+"piercing damage."
+msgstr ""
+
+msgctxt "DamagePiercingTitle"
+msgid "Piercing"
+msgstr ""
+
+msgctxt "DamagePoisonDescription"
+msgid ""
+"Venomous stings and the toxic gas of a green dragon's breath deal poison "
+"damage."
+msgstr ""
+
+msgctxt "DamagePoisonTitle"
+msgid "Poison"
+msgstr ""
+
+msgctxt "DamagePsychicDescription"
+msgid "Mental abilities deal psychic damage."
+msgstr ""
+
+msgctxt "DamagePsychicTitle"
+msgid "Psychic"
+msgstr ""
+
+msgctxt "DamageRadiantDescription"
+msgid ""
+"Radiant damage, dealt by a cleric's flame strike spell or an angel's smiting "
+"weapon, sears the flesh like fire and overloads the spirit with power."
+msgstr ""
+
+msgctxt "DamageRadiantTitle"
+msgid "Radiant"
+msgstr ""
+
+msgctxt "DamageSlashingDescription"
+msgid "Swords, axes, and monsters' claws deal slashing damage."
+msgstr ""
+
+msgctxt "DamageSlashingTitle"
+msgid "Slashing"
+msgstr ""
+
+msgctxt "DamageThunderDescription"
+msgid ""
+"A concussive burst of sound, such as the effect of the thunderwave spell, "
+"deals thunder damage."
+msgstr ""
+
+msgctxt "DamageThunderTitle"
+msgid "Thunder"
+msgstr ""
+
+msgctxt "DamageTitle"
+msgid "Damage: "
+msgstr ""
+
+msgctxt "DcFormat"
+msgid "DC {0}"
+msgstr ""
+
+msgctxt "DieD10Title"
+msgid "d10"
+msgstr ""
+
+msgctxt "DieD12Title"
+msgid "d12"
+msgstr ""
+
+msgctxt "DieD1Title"
+msgid "d1"
+msgstr ""
+
+msgctxt "DieD20Title"
+msgid "d20"
+msgstr ""
+
+msgctxt "DieD2Title"
+msgid "d2"
+msgstr ""
+
+msgctxt "DieD3Title"
+msgid "d3"
+msgstr ""
+
+msgctxt "DieD4Title"
+msgid "d4"
+msgstr ""
+
+msgctxt "DieD6Title"
+msgid "d6"
+msgstr ""
+
+msgctxt "DieD8Title"
+msgid "d8"
+msgstr ""
+
+msgctxt "DivinationFormFormatIdentifyItem"
+msgid "Reveals all the properties of an item."
+msgstr ""
+
+msgctxt "DivinationFormFormatListCreatureFamilyInLocation"
+msgid "Senses the presence of creature types: {0}."
+msgstr ""
+
+msgctxt "DivinationFormFormatRevealEntitiesBearingTags"
+msgid "Reveals creatures or objects which are {0}."
+msgstr ""
+
+msgctxt "DurationAnyRestFormat"
+msgid "Until any rest"
+msgstr ""
+
+msgctxt "DurationDayPluralFormat"
+msgid "{0} days"
+msgstr ""
+
+msgctxt "DurationDaySingleFormat"
+msgid "{0} day"
+msgstr ""
+
+msgctxt "DurationHourPluralFormat"
+msgid "{0} hours "
+msgstr ""
+
+msgctxt "DurationHourSingleFormat"
+msgid "{0} hour "
+msgstr ""
+
+msgctxt "DurationInstantaneousFormat"
+msgid "Instant"
+msgstr ""
+
+msgctxt "DurationLessMinuteFormat"
+msgid "<1 min"
+msgstr ""
+
+msgctxt "DurationLongRestFormat"
+msgid "Until long rest"
+msgstr ""
+
+msgctxt "DurationMinutePluralFormat"
+msgid "{0} minutes "
+msgstr ""
+
+msgctxt "DurationMinuteSingleFormat"
+msgid "{0} minute "
+msgstr ""
+
+msgctxt "DurationNoneFormat"
+msgid "{0} round "
+msgstr ""
+
+msgctxt "DurationPermanentFormat"
+msgid "Permanent"
+msgstr ""
+
+msgctxt "DurationRoundPluralFormat"
+msgid "{0} rounds "
+msgstr ""
+
+msgctxt "DurationRoundSingleFormat"
+msgid "{0} round "
+msgstr ""
+
+msgctxt "DurationShortRestFormat"
+msgid "Until short rest"
+msgstr ""
+
+msgctxt "DurationUntilEndOfSourceTurnFormat"
+msgid "Until the end of the source character's turn."
+msgstr ""
+
+msgctxt "DurationUntilEndOfTargetTurnFormat"
+msgid "Until the end of this character's turn."
+msgstr ""
+
+msgctxt "DurationUntilStartOfSourceTurnFormat"
+msgid "Until the start of the source character's turn."
+msgstr ""
+
+msgctxt "DurationUntilStartOfTargetTurnFormat"
+msgid "Until the start of this character's turn."
+msgstr ""
+
+msgctxt "EffectRangeDistanceTitle"
+msgid "{0}"
+msgstr ""
+
+msgctxt "EffectRangeMeleeHitTitle"
+msgid "Melee Hit"
+msgstr ""
+
+msgctxt "EffectRangeRangeHitTitle"
+msgid "Ranged Hit {0}"
+msgstr ""
+
+msgctxt "EffectRangeSelfTitle"
+msgid "Self"
+msgstr ""
+
+msgctxt "EffectRangeTouchTitle"
+msgid "Touch"
+msgstr ""
+
+msgctxt "EffectTargetConeTitle"
+msgid "{0} {1}"
+msgstr ""
+
+msgctxt "EffectTargetCubeTitle"
+msgid "{0} {1}"
+msgstr ""
+
+msgctxt "EffectTargetCylinderTitle"
+msgid "{0} {1} x {2}"
+msgstr ""
+
+msgctxt "EffectTargetIndividualsTitle"
+msgid "{0}{1}"
+msgstr ""
+
+msgctxt "EffectTargetIndividualsUniqueTitle"
+msgid "{0}{1}"
+msgstr ""
+
+msgctxt "EffectTargetInLineOfSightWithinDistanceTitle"
+msgid "In Sight {0}"
+msgstr ""
+
+msgctxt "EffectTargetItemTitle"
+msgid "Item"
+msgstr ""
+
+msgctxt "EffectTargetLineTitle"
+msgid "{0} {1}"
+msgstr ""
+
+msgctxt "EffectTargetPerceivingWithinDistanceTitle"
+msgid "{0}{1}"
+msgstr ""
+
+msgctxt "EffectTargetPositionTitle"
+msgid "Ground"
+msgstr ""
+
+msgctxt "EffectTargetSelfTitle"
+msgid "Self"
+msgstr ""
+
+msgctxt "EffectTargetSharedAmongIndividualsTitle"
+msgid "{0} <> {1}"
+msgstr ""
+
+msgctxt "EffectTargetSphereTitle"
+msgid "{0} {1}"
+msgstr ""
+
+msgctxt "EffectTargetWallLineTitle"
+msgid "{0} {1} x {2}"
+msgstr ""
+
+msgctxt "EffectTargetWallRingTitle"
+msgid "{0} {1} x {2}"
+msgstr ""
+
+msgctxt "HealingFormFormat"
+msgid "{0}{1}{2} healing"
+msgstr ""
+
+msgctxt "HealingStabilize"
+msgid "Stabilizes a dying creature."
+msgstr ""
+
+msgctxt "HeightFormatFeet"
+msgid "{0}'"
+msgstr ""
+
+msgctxt "HeightFormatFeetInches"
+msgid "{0}'{1}\";{0}' {1}'';{0}'{1}\""
+msgstr ""
+
+msgctxt "ItemPropertyFormFormat"
+msgid ""
+"On target item: \n"
+"{0}"
+msgstr ""
+
+msgctxt "LightSourceFormFormat"
+msgid "light source: {0} bright + {1} dim "
+msgstr ""
+
+msgctxt "MaterialComponentTitle"
+msgid "M"
+msgstr ""
+
+msgctxt "MotionFormLevitateFormat"
+msgid "Levitate {0}"
+msgstr ""
+
+msgctxt "MotionFormPullFormat"
+msgid "Pull in {0}"
+msgstr ""
+
+msgctxt "MotionFormPushFormat"
+msgid "Push away {0}"
+msgstr ""
+
+msgctxt "MotionFormTeleportFormat"
+msgid "Teleport {0}"
+msgstr ""
+
+msgctxt "RateAtWillFormatTitle"
+msgid "at will"
+msgstr ""
+
+msgctxt "RateChannelDivinityFormatTitle"
+msgid "short rest"
+msgstr ""
+
+msgctxt "Rated6FormatTitle"
+msgid "on 5 or 6 on 1d6"
+msgstr ""
+
+msgctxt "RateDawnFormatTitle"
+msgid "dawn"
+msgstr ""
+
+msgctxt "RateHealingPoolFormatTitle"
+msgid "healing pool"
+msgstr ""
+
+msgctxt "RateLongRestFormatTitle"
+msgid "long rest"
+msgstr ""
+
+msgctxt "RateNoneFormatTitle"
+msgid "none"
+msgstr ""
+
+msgctxt "RateOneMinuteFormatTitle"
+msgid "every minute"
+msgstr ""
+
+msgctxt "RateShortRestFormatTitle"
+msgid "short rest"
+msgstr ""
+
+msgctxt "RateSpellSlotFormatTitle"
+msgid "spell slots"
+msgstr ""
+
+msgctxt "RecipeRequiredIngredientMultipleFormat"
+msgid "{0} x {1}"
+msgstr ""
+
+msgctxt "RecipeRequiredIngredientSingleFormat"
+msgid "{0}"
+msgstr ""
+
+msgctxt "RecipeRequiredSpellFormat"
+msgid "Ability to cast the {0} spell."
+msgstr ""
+
+msgctxt "RecipeRequiredTooltypeFormat"
+msgid "Proficiency with {0}"
+msgstr ""
+
+msgctxt "SaveAffinityHalfDamageTitle"
+msgid "(save for {0})"
+msgstr ""
+
+msgctxt "SaveAffinityNegateAndCancelEachTurnTitle"
+msgid "(save each turn to cancel)"
+msgstr ""
+
+msgctxt "SaveAffinityNegateTitle"
+msgid "(save to negate)"
+msgstr ""
+
+msgctxt "SituationalContextAttackerAwayFromTargetFormat"
+msgid "If attacker is away from the target:"
+msgstr ""
+
+msgctxt "SituationalContextAttackerNextToTargetFormat"
+msgid "If attacker is next to the target:"
+msgstr ""
+
+msgctxt "SituationalContextAttackerOnHigherGroundThanTargetFormat"
+msgid "If attacker is on higher ground:"
+msgstr ""
+
+msgctxt "SituationalContextConsciousAllyNextToTargetFormat"
+msgid "if attacker has a conscious ally next to the target:"
+msgstr ""
+
+msgctxt "SituationalContextNextToWallFormat"
+msgid "if creature is next to a wall:"
+msgstr ""
+
+msgctxt "SituationalContextTargetIsEffectSourceFormat"
+msgid "if creature is attacking the source of the effect:"
+msgstr ""
+
+msgctxt "SomaticComponentTitle"
+msgid "S"
+msgstr ""
+
+msgctxt "SpellLevel0FormatTitle"
+msgid "Cantrip"
+msgstr ""
+
+msgctxt "SpellLevel1FormatTitle"
+msgid "1st Level"
+msgstr ""
+
+msgctxt "SpellLevel2FormatTitle"
+msgid "2nd Level"
+msgstr ""
+
+msgctxt "SpellLevel3FormatTitle"
+msgid "3rd Level"
+msgstr ""
+
+msgctxt "SpellLevel4FormatTitle"
+msgid "4th Level"
+msgstr ""
+
+msgctxt "SpellLevel5FormatTitle"
+msgid "5th Level"
+msgstr ""
+
+msgctxt "SpellLevel6FormatTitle"
+msgid "6th Level"
+msgstr ""
+
+msgctxt "SpellLevel7FormatTitle"
+msgid "7th Level"
+msgstr ""
+
+msgctxt "SpellLevel8FormatTitle"
+msgid "8th Level"
+msgstr ""
+
+msgctxt "SpellLevel9FormatTitle"
+msgid "9th Level"
+msgstr ""
+
+msgctxt "SpellSlotFormRecoverHalfLevelUpFormat"
+msgid ""
+"Recover half your class level (rounded up) of spells slots up to level {0}."
+msgstr ""
+
+msgctxt "SummonFormCreaturesMultipleFormat"
+msgid "Summon {0} (x {1})."
+msgstr ""
+
+msgctxt "SummonFormCreaturesSingleFormat"
+msgid "Summon {0}."
+msgstr ""
+
+msgctxt "SummonFormEffectProxyFormat"
+msgid "Summon \"{0}\" for you to control "
+msgstr ""
+
+msgctxt "SummonFormInventoryItemsMultipleFormat"
+msgid "Summon {0} (x {1}) to the inventory"
+msgstr ""
+
+msgctxt "SummonFormInventoryItemsSingleFormat"
+msgid "Summon {0} to the inventory"
+msgstr ""
+
+msgctxt "TemporaryHitPointsFormFormat"
+msgid "{0}{1}{2} temporary hit points"
+msgstr ""
+
+msgctxt "TopologyFormProjectileBlockerFormat"
+msgid "Blocks ordinary projectiles (arrows, bolts, etc.)"
+msgstr ""
+
+msgctxt "TopologyFormSightBlockerFormat"
+msgid "Blocks line of sight"
+msgstr ""
+
+msgctxt "TurnOccurenceEndOfTurnFormat"
+msgid "End of Round"
+msgstr ""
+
+msgctxt "TurnOccurenceEndOfTurnNoPerceptionOfSourceFormat"
+msgid "End of Turn"
+msgstr ""
+
+msgctxt "TurnOccurenceStartOfTurnFormat"
+msgid "Start of Turn"
+msgstr ""
+
+msgctxt "VerboseComponentTitle"
+msgid "V"
+msgstr ""
+
+msgctxt "VersatileDamageFormFormat"
+msgid ""
+"\n"
+"Versatile: {0}{1}{2}{3}"
+msgstr ""
+
+msgctxt "VersatileTwoHandedTitle"
+msgid "Two-handed: "
+msgstr ""
+
+msgctxt "WeightFormat"
+msgid "{0} {1}"
+msgstr ""
+
+msgctxt "WeightRatioFormat"
+msgid "{0}/{1} {2}"
+msgstr ""
+
+msgctxt "TopologyFormDifficultThroughFormat"
+msgid "This area slows down those who walk through it."
+msgstr ""
+
+msgctxt "TopologyFormSightImpairedFormat"
+msgid "Creatures in this area cannot see anything."
+msgstr ""
+
+msgctxt "TopologyFormDangerousZoneFormat"
+msgid "This area hurts those who walk through it."
+msgstr ""
+
+msgctxt "EffectTargetCubeWithOffsetTitle"
+msgid "3-cell cube originating from you"
+msgstr ""
+
+msgctxt "ConditionBlessingSorrtarrTitle"
+msgid "Blessing of Sorr-Tarr"
+msgstr ""
+
+msgctxt "ConditionBlessingSorrtarrDescription"
+msgid "Appears to relieve the Soraks of their vulnerability to light."
+msgstr ""
+
+msgctxt "ConditionAnnoyedByBeeTitle"
+msgid "Distracted by an Annoying Bee"
+msgstr ""
+
+msgctxt "ConditionAnnoyedByBeeDescription"
+msgid "Disadvantage on concentration until next turn."
+msgstr ""
+
+msgctxt "ConditionDetectPoisonAndDiseaseTitle"
+msgid "Detect Poison and Disease"
+msgstr ""
+
+msgctxt "ConditionDetectPoisonAndDiseaseDescription"
+msgid ""
+"For the duration of the spell, you can sense poisonous creatures and disease "
+"within 6 cells of you."
+msgstr ""
+
+msgctxt "ConditionCharmedByAnimalFrienshipTitle"
+msgid "Charmed by Animal Friendship"
+msgstr ""
+
+msgctxt "ConditionCharmedByAnimalFrienshipDescription"
+msgid ""
+"This beast will be charmed for the spell's duration, or until you or one of "
+"your companions harms it."
+msgstr ""
+
+msgctxt "ConditionSanctuaryTitle"
+msgid "Sanctuary"
+msgstr ""
+
+msgctxt "ConditionSanctuaryDescription"
+msgid ""
+"You ward a creature within range against attack. Until the spell ends, any "
+"creature who targets the warded creature with an attack or harmful spell "
+"must make a Wisdom saving throw or choose another target."
+msgstr ""
+
+msgctxt "ConditionWardedBySanctuaryTitle"
+msgid "Shielded by Sanctuary"
+msgstr ""
+
+msgctxt "ConditionWardedBySanctuaryDescription"
+msgid ""
+"You are warded until the spell ends or until you cast a spell or launch an "
+"attack."
+msgstr ""
+
+msgctxt "ConditionProtectedFromEnergyAcidTitle"
+msgid "Protected from Acid"
+msgstr ""
+
+msgctxt "ConditionProtectedFromEnergyAcidDescription"
+msgid "Resistance to acid damage"
+msgstr ""
+
+msgctxt "ConditionProtectedFromEnergyColdTitle"
+msgid "Protected from Cold"
+msgstr ""
+
+msgctxt "ConditionProtectedFromEnergyColdDescription"
+msgid "Resistance to cold damage"
+msgstr ""
+
+msgctxt "ConditionProtectedFromEnergyFireTitle"
+msgid "Protected from Fire"
+msgstr ""
+
+msgctxt "ConditionProtectedFromEnergyFireDescription"
+msgid "Resistance to fire damage"
+msgstr ""
+
+msgctxt "ConditionProtectedFromEnergyLightningTitle"
+msgid "Protected from Lightning"
+msgstr ""
+
+msgctxt "ConditionProtectedFromEnergyLightningDescription"
+msgid "Resistance to lightning damage"
+msgstr ""
+
+msgctxt "ConditionProtectedFromEnergyThunderTitle"
+msgid "Protected from Thunder"
+msgstr ""
+
+msgctxt "ConditionProtectedFromEnergyThunderDescription"
+msgid "Resistance to thunder damage"
+msgstr ""
+
+msgctxt "AlterationFormDissipateSpellFormat"
+msgid "Dissipates spells on objects"
+msgstr ""
+
+msgctxt "ConditionMindControlledByConjureAnimalTitle"
+msgid "Conjured Animal"
+msgstr ""
+
+msgctxt "ConditionMindControlledByConjureAnimalDescription"
+msgid "This animal has been conjured by another creature."
+msgstr ""
+
+msgctxt "ConditionSilencedTitle"
+msgid "Silenced"
+msgstr ""
+
+msgctxt "ConditionWardedByWardingBondTitle"
+msgid "Warded by Warding Bond"
+msgstr ""
+
+msgctxt "ConditionWardedByWardingBondDescription"
+msgid "Temp"
+msgstr ""
+
+msgctxt "ConditionWaterWalkTitle"
+msgid "Water Walking"
+msgstr ""
+
+msgctxt "ConditionWaterWalkDescription"
+msgid "Temp"
+msgstr ""
+
+msgctxt "ConditionWaterBreathingTitle"
+msgid "Water Breathing"
+msgstr ""
+
+msgctxt "ConditionWaterBreathingDescription"
+msgid "Temp"
+msgstr ""
+
+msgctxt "ConditionRestrictedInsideMagicCircleDescription"
+msgid "Temp"
+msgstr ""
+
+msgctxt "ConditionProtectedInsideMagicCircleDescription"
+msgid "Temp"
+msgstr ""
+
+msgctxt "ConditionComprehendLanguagesTitle"
+msgid "Comprehending Languages"
+msgstr ""
+
+msgctxt "ConditionComprehendLanguagesDescription"
+msgid "Can read and speak any language."
+msgstr ""
+
+msgctxt "ConditionStaffOfMetisTitle"
+msgid "Elemental Resistance"
+msgstr ""
+
+msgctxt "ConditionStaffOfMetisDescription"
+msgid "Resistance to Cold, Fire, and Lightning damage."
+msgstr ""
+
+msgctxt "ConditionFlying6Description"
+msgid "The target creature gains a flying speed of 6 cells per move action."
+msgstr ""
+
+msgctxt "AlterationFormAbilityScoreIncreaseValueFormat"
+msgid "Increases {0} score by {1}."
+msgstr ""
+
+msgctxt "AlterationFormAbilityScoreIncreaseMaximumFormat"
+msgid "Increases {0} maximum by {1}."
+msgstr ""
+
+msgctxt "ConditionHeavyArmorOverloadDescription"
+msgid "Insufficient STR for this heavy armor. Speed is reduced by 2."
+msgstr ""
+
+msgctxt "ConditionHeavyArmorOverloadTitle"
+msgid "Heavy Armor Overload"
+msgstr ""
+
+msgctxt "MoveModeWalkTitle"
+msgid "Walk"
+msgstr ""
+
+msgctxt "MoveModeClimbTitle"
+msgid "Climb"
+msgstr ""
+
+msgctxt "MoveModeFlyTitle"
+msgid "Fly"
+msgstr ""
+
+msgctxt "MoveModeIncorporealTitle"
+msgid "Incorporeal"
+msgstr ""
+
+msgctxt "MoveModeSwimTitle"
+msgid "Swim"
+msgstr ""
+
+msgctxt "MoveModeBurrowTitle"
+msgid "Burrow"
+msgstr ""
+
+msgctxt "ConditionCloakOfDisplacementDescription"
+msgid ""
+"Attacks on this creature have disadvantage as long as it is conscious and "
+"able to move. Ceases to function until the next turn if damaged."
+msgstr ""
+
+msgctxt "ConditionCloakOfDisplacementTitle"
+msgid "Displaced"
+msgstr ""
+
+msgctxt "ConditionHeavilyObscuredDescription"
+msgid ""
+"Creature's vision is heavily obscured; disadvantage on attack rolls; attack "
+"rolls against creature have disadvantage."
+msgstr ""
+
+msgctxt "ConditionConjuredCreatureDescription"
+msgid "This creature has been conjured by a magical effect"
+msgstr ""
+
+msgctxt "ConditionConjuredCreatureTitle"
+msgid "Conjured Creature"
+msgstr ""
+
+msgctxt "ConditionBleedingDescription"
+msgid "The creatures takes 1D6 necrotic damage at the beginning of its turn."
+msgstr ""
+
+msgctxt "ConditionBleedingTitle"
+msgid "Doomblade Cut"
+msgstr ""
+
+msgctxt "ConditionSilencedDescription"
+msgid ""
+"The creature does not emit any sound and cannot speak or cast spells with a "
+"verbal component."
+msgstr ""
+
+msgctxt "ConditionProtectedFromEvilDescription"
+msgid ""
+"Aberrations, celestials, elementals, feys, fiends, and undead have "
+"disadvantage to attack the target, and cannot charm, frighten, or possess "
+"it. If the target is already charmed, frightened, or possessed by such a "
+"creature, the target has advantage on any new saving throw against the "
+"relevant effect."
+msgstr ""
+
+msgctxt "ConditionMarkedByFateDescription"
+msgid "Receives additional damage when hit."
+msgstr ""
+
+msgctxt "ConditionMarkedByFateTitle"
+msgid "Mark of Fate"
+msgstr ""
+
+msgctxt "ConditionStepbackDescription"
+msgid "Advantage on the next attack with a bow this turn."
+msgstr ""
+
+msgctxt "ConditionStepbackTitle"
+msgid "Step Back Advantage"
+msgstr ""
+
+msgctxt "ConditionInvisibleGreaterDescription"
+msgid ""
+"Cannot be seen without magic; the creature has advantage on attacks; "
+"attackers have disadvantage. The creature remains invisible even when "
+"attacking and casting spells."
+msgstr ""
+
+msgctxt "ConditionInvisibleGreaterTitle"
+msgid "Invisible (Greater)"
+msgstr ""
+
+msgctxt "ConditionStoneskinDescription"
+msgid "Resistance to non-magical bludgeoning, slashing, and piercing damage."
+msgstr ""
+
+msgctxt "ConditionStoneskinTitle"
+msgid "Stoneskin"
+msgstr ""
+
+msgctxt "ConditionFrightenedPhantasmalKillerDescription"
+msgid ""
+"The creature is frightened and receives psychic damage each turn until it "
+"succeeds on a saving throw."
+msgstr ""
+
+msgctxt "ConditionFrightenedPhantasmalKillerTitle"
+msgid "Frightened by Phantasm"
+msgstr ""
+
+msgctxt "ConditionFireShieldWarmDescription"
+msgid ""
+"Resistant to cold and retaliates with fire damage against melee attackers."
+msgstr ""
+
+msgctxt "ConditionFireShieldColdDescription"
+msgid ""
+"Resistant to fire and retaliates with cold damage against melee attackers."
+msgstr ""
+
+msgctxt "ConditionDeathWardedTitle"
+msgid "Death Warded"
+msgstr ""
+
+msgctxt "ConditionDeathWardedDescription"
+msgid ""
+"When reduced to 0 hit points, HP is set to 1 instead, preventing instant "
+"death from massive damage or effects."
+msgstr ""
+
+msgctxt "ConditionConfusedTitle"
+msgid "Confused"
+msgstr ""
+
+msgctxt "ConditionConfusedDescription"
+msgid ""
+"At the start of this turn, the creature can move away, not act at all, melee "
+"attack a target within reach, or act normally."
+msgstr ""
+
+msgctxt "ConditionBanishedTitle"
+msgid "Banished"
+msgstr ""
+
+msgctxt "ConditionBanishedDescription"
+msgid ""
+"The creature is removed from the game for the duration of the spell, unless "
+"the spell is broken before then. If the spell remains unbroken for its "
+"entire duration, the creature is permanently banished if it is extraplanar ("
+"celestial, fiend, elemental)."
+msgstr ""
+
+msgctxt "SpecialBehaviourConditionDuringTurnFormat"
+msgid "{3} is affected during the turn."
+msgstr ""
+
+msgctxt "SpecialBehaviourNoneFormat"
+msgid "{3} acts normally."
+msgstr ""
+
+msgctxt "ConditionConfusedAttackTitle"
+msgid "Randomly Attacking"
+msgstr ""
+
+msgctxt "ConditionConfusedAttackDescription"
+msgid ""
+"The creature must use its action to randomly attack a creature within its "
+"reach if possible."
+msgstr ""
+
+msgctxt "ConditionConfusedMoveTitle"
+msgid "Randomly Moving"
+msgstr ""
+
+msgctxt "ConditionConfusedMoveDescription"
+msgid "The creature must move in a random direction."
+msgstr ""
+
+msgctxt "ConditionConfusedIncapacitatedTitle"
+msgid "Incapacitated"
+msgstr ""
+
+msgctxt "ConditionConfusedIncapacitatedDescription"
+msgid "The creature cannot do anything due to its confusion."
+msgstr ""
+
+msgctxt "ConditionFeatRaiseShieldDescription"
+msgid "You get +3 AC until the end of the attacker's turn."
+msgstr ""
+
+msgctxt "ConditionFeatRaiseShieldTitle"
+msgid "Raised Shield"
+msgstr ""
+
+msgctxt "ConditionFeatTwinBladeDescription"
+msgid "You get +3 AC until the end of the attacker's turn."
+msgstr ""
+
+msgctxt "ConditionFeatTwinBladeTitle"
+msgid "Twin Blade Block"
+msgstr ""
+
+msgctxt "DurationTurnSingleFormat"
+msgid "{0} turn"
+msgstr ""
+
+msgctxt "DurationTurnPluralFormat"
+msgid "{0} turns"
+msgstr ""
+
+msgctxt "ConditionFeatTakeAimDescription"
+msgid ""
+"Your ranged weapon attacks have no disadvantage or advantage, no matter the "
+"conditions."
+msgstr ""
+
+msgctxt "ConditionFeatTakeAimTitle"
+msgid "Taking Aim"
+msgstr ""
+
+msgctxt "ConditionFeatRushToBattleDescription"
+msgid ""
+"Your movement speed is increased by 3 cells and your AC is reduced by 2 "
+"until the start of your turn. "
+msgstr ""
+
+msgctxt "ConditionFeatRushToBattleTitle"
+msgid "Rushing to Battle"
+msgstr ""
+
+msgctxt "ConditionDispellingEvilAndGoodTitle"
+msgid "Dispelling Evil and Good"
+msgstr ""
+
+msgctxt "ConditionDispellingEvilAndGoodDescription"
+msgid ""
+"Celestial, elementals, feys, fiends, and undead have disadvantage on attacks "
+"against you. You can also cancel a hostile enchantment or dismiss an "
+"extraplanar creature hit by one of your attacks."
+msgstr ""
+
+msgctxt "ConditionMindControlledDescription"
+msgid "The creature is joining the controlling caster."
+msgstr ""
+
+msgctxt "ConditionMindDominatedDescription"
+msgid "The creature's actions are totally controlled by the caster."
+msgstr ""
+
+msgctxt "ConditionMindDominatedTitle"
+msgid "Mind Dominated"
+msgstr ""
+
+msgctxt "ConditionOnAcidTitle"
+msgid "Burned by Acid"
+msgstr ""
+
+msgctxt "ConditionPheromonedTitle"
+msgid "Pheromone Stink"
+msgstr ""
+
+msgctxt "ConditionPheromonedDescription"
+msgid "-3 to Charisma ability checks."
+msgstr ""
+
+msgctxt "ConditionOnAcidDescription"
+msgid "Take 1d3 acid damage at the end of your turn for 3 turns."
+msgstr ""
+
+msgctxt "ActivationTypePermanentTitle"
+msgid "Permanent"
+msgstr ""
+
+msgctxt "MonsterSpellcastingTitle"
+msgid "Spellcasting"
+msgstr ""
+
+msgctxt "MonsterSpellcastingDescription"
+msgid "The creature has the ability to cast spells."
+msgstr ""
+
+msgctxt "ConditionCalmedByCalmEmotionsEnemyTitle"
+msgid "Calmed Enemy"
+msgstr ""
+
+msgctxt "ConditionCalmedByCalmEmotionsEnemyDescription"
+msgid "The creature is indifferent towards enemies unless it is wounded."
+msgstr ""
+
+msgctxt "ConditionCalmedByCalmEmotionsAllyTitle"
+msgid "Calmed Ally"
+msgstr ""
+
+msgctxt "ConditionCalmedByCalmEmotionsAllyDescription"
+msgid "The creature cannot be charmed or frightened."
+msgstr ""
+
+msgctxt "ConditionArcaneShockedTitle"
+msgid "Arcane Shocked"
+msgstr ""
+
+msgctxt "ConditionArcaneShockedDescription"
+msgid "Your attack spells dice deal at least average damage."
+msgstr ""
+
+msgctxt "ConditionHidingInPlainSightTitle"
+msgid "Hiding in Plain Sight"
+msgstr ""
+
+msgctxt "ConditionHidingInPlainSightDescription"
+msgid "+10 DEX (Stealth) while you are standing against a wall."
+msgstr ""
+
+msgctxt "KillFormAlwaysFormat"
+msgid "Target creature is killed."
+msgstr ""
+
+msgctxt "KillFormUnderChallengeRatingFormat"
+msgid "Target creature is killed if its challenge rating is {0} or lower."
+msgstr ""
+
+msgctxt "KillFormUnderHitPointsFormat"
+msgid ""
+"Target creature is killed if its remaining hit points are equal to {0} or "
+"lower."
+msgstr ""
+
+msgctxt "ConditionSwallowedTitle"
+msgid "Swallowed"
+msgstr ""
+
+msgctxt "ConditionSwallowedRemorhazDescription"
+msgid ""
+"Cannot act and takes 6d6 acid damage each turn. A single attack of 30 damage "
+"can force the swallower to regurgitate."
+msgstr ""
+
+msgctxt "AlterationFormLightUpFormat"
+msgid "Ignites light sources."
+msgstr ""
+
+msgctxt "ReviveFormFormat"
+msgid "Revives a dead character"
+msgstr ""
+
+msgctxt "ConditionHeroismDescription"
+msgid "Cannot be frightened and regains temporary hit points every turn"
+msgstr ""
+
+msgctxt "RateD6_56FormatTitle"
+msgid "on 5 or 6 on 1d6"
+msgstr ""
+
+msgctxt "SpellSlotFormCreateSpellSlotFormat"
+msgid "Create a spell slot"
+msgstr ""
+
+msgctxt "SpellSlotFormCreateSorceryPointFormat"
+msgid "Creates sorcery points"
+msgstr ""
+
+msgctxt "MetamagicOptionCarefulSpellTitle"
+msgid "Careful Spell"
+msgstr ""
+
+msgctxt "MetamagicOptionCarefulSpellDescription"
+msgid ""
+"Allied creatures affected by the spell automatically succeed their saving "
+"throw"
+msgstr ""
+
+msgctxt "MetamagicOptionDistantSpellTitle"
+msgid "Distant Spell"
+msgstr ""
+
+msgctxt "MetamagicOptionDistantSpellDescription"
+msgid ""
+"Doubles the range of a spell or change the range of a touch spell to 30 feet"
+msgstr ""
+
+msgctxt "MetamagicOptionEmpoweredSpellTitle"
+msgid "Empowered Spell"
+msgstr ""
+
+msgctxt "MetamagicOptionEmpoweredSpellDescription"
+msgid "All damage dice rolls of 1 or 2 are rerolled, keeping the new result"
+msgstr ""
+
+msgctxt "MetamagicOptionExtendedSpellTitle"
+msgid "Extended Spell"
+msgstr ""
+
+msgctxt "MetamagicOptionExtendedSpellDescription"
+msgid ""
+"Doubles the duration of spell lasting 1 minute or more, to a maximum of 24 "
+"hours"
+msgstr ""
+
+msgctxt "MetamagicOptionHeightenedSpellTitle"
+msgid "Heightened Spell"
+msgstr ""
+
+msgctxt "MetamagicOptionHeightenedSpellDescription"
+msgid "Can force a creature to roll the saving throw with disadvantage"
+msgstr ""
+
+msgctxt "MetamagicOptionQuickenedSpellTitle"
+msgid "Quickened Spell"
+msgstr ""
+
+msgctxt "MetamagicOptionQuickenedSpellDescription"
+msgid ""
+"Can cast a main action spell with a bonus action instead, though you can't "
+"cast another spell during the same turn, except for cantrips."
+msgstr ""
+
+msgctxt "MetamagicOptionSubtleSpellTitle"
+msgid "Subtle Spell"
+msgstr ""
+
+msgctxt "MetamagicOptionSubtleSpellDescription"
+msgid "Can cast a sepll without verbal or somatic component"
+msgstr ""
+
+msgctxt "MetamagicOptionTwinnedSpellTitle"
+msgid "Twinned Spell"
+msgstr ""
+
+msgctxt "MetamagicOptionTwinnedSpellDescription"
+msgid "If the source spell targets one creature only, this adds another target"
+msgstr ""
+
+msgctxt "ConditionOnFire_Elemental_Title"
+msgid "On Fire from Fire Elemental"
+msgstr ""
+
+msgctxt "ConditionOnFire_Spider_Title"
+msgid "On Fire from Fire Osprey"
+msgstr ""
+
+msgctxt "ConditionOnFire_Osprey_Title"
+msgid "On Fire from Fire Spider"
+msgstr ""
+
+msgctxt "OrientationNorthTitle"
+msgid "North"
+msgstr ""
+
+msgctxt "OrientationEastTitle"
+msgid "East"
+msgstr ""
+
+msgctxt "OrientationSouthTitle"
+msgid "South"
+msgstr ""
+
+msgctxt "OrientationWestTitle"
+msgid "West"
+msgstr ""
+
+msgctxt "RateSorceryPointsFormatTitle"
+msgid "sorcery points"
+msgstr ""
+
+msgctxt "SpellSlotFormRecoverSorceryHalfLevelUpFormat"
+msgid "Recover sorcery points up to half your sorcerer level, rounded up"
+msgstr ""
+
+msgctxt "ConditionSorcererChildRiftDeflectionTitle"
+msgid "Rift Deflection"
+msgstr ""
+
+msgctxt "ConditionSorcererChildRiftDeflectionDescription"
+msgid ""
+"Enemies have disadvantage on attack rolls made against you and you gain "
+"advantage on saving throws, until the beginning of your next turn"
+msgstr ""
+
+msgctxt "RateHitPointsFormatTitle"
+msgid "sacrifice max hp"
+msgstr ""
+
+msgctxt "ConditionDisintegratedTitle"
+msgid "Disintegrated"
+msgstr ""
+
+msgctxt "ConditionDisintegratedDescription"
+msgid "The creature requires a Resurrection or similar effect to be revived"
+msgstr ""
+
+msgctxt "ConditionDiseasedHarmTitle"
+msgid "Harmed"
+msgstr ""
+
+msgctxt "ConditionDiseasedHarmDescription"
+msgid ""
+"Maximum hit points reduced for an hour or until an effect which cures "
+"diseases affects the target"
+msgstr ""
+
+msgctxt "AlterationFormFeastFormatSingle"
+msgid "The party feasts for {0} hour"
+msgstr ""
+
+msgctxt "AlterationFormFeastFormatPlural"
+msgid "The party feasts for {0} hours"
+msgstr ""
+
+msgctxt "ConditionHeroesFeastTitle"
+msgid "Well Fed"
+msgstr ""
+
+msgctxt "ConditionHeroesFeastDescription"
+msgid ""
+"Immune to poison and being frightened, advantage to WIS saves and current "
+"and max hit points increased by 10"
+msgstr ""
+
+msgctxt "EffectTargetArcFromIndividualTitle"
+msgid "1{0}+ {1}{2}({3}{4})"
+msgstr ""
+
+msgctxt "ConditionEyebiteSickenedTitle"
+msgid "Sickened"
+msgstr ""
+
+msgctxt "ConditionEyebiteSickenedDescription"
+msgid "Disadvantage to attack rolls and ability checks"
+msgstr ""
+
+msgctxt "ConditionFrightenedEyebitePanickedTitle"
+msgid "Pannicked"
+msgstr ""
+
+msgctxt "ConditionFrightenedEyebitePanickedDescription"
+msgid "Must run away from the source of the effect"
+msgstr ""
+
+msgctxt "ConditionRagingTitle"
+msgid "Raging"
+msgstr ""
+
+msgctxt "RateRagePointsFormatTitle"
+msgid "rage points"
+msgstr ""

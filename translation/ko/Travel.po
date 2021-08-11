@@ -1,0 +1,418 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "FactionRelicInterestedFactionsTitle"
+msgid "Interested Factions"
+msgstr ""
+
+msgctxt "FatigueExhaustedDescription"
+msgid "The party is completely exhausted and must rest."
+msgstr ""
+
+msgctxt "FatigueExhaustedTitle"
+msgid "Exhausted"
+msgstr ""
+
+msgctxt "FatigueFreshDescription"
+msgid "The party is fresh and can keep on traveling."
+msgstr ""
+
+msgctxt "FatigueFreshTitle"
+msgid "Fresh"
+msgstr ""
+
+msgctxt "FatigueImpededDescription"
+msgid "The party is slightly tired but can keep traveling."
+msgstr ""
+
+msgctxt "FatigueImpededTitle"
+msgid "Impeded"
+msgstr ""
+
+msgctxt "PaceFastDescription"
+msgid ""
+"The party travels quickly (36 miles per day), at the expense of stealth and "
+"perception."
+msgstr ""
+
+msgctxt "PaceFastTitle"
+msgid "Fast"
+msgstr ""
+
+msgctxt "PaceNormalDescription"
+msgid ""
+"The party travels at a normal pace (24 miles a day), striking a good balance "
+"between speed and awareness of its surroundings."
+msgstr ""
+
+msgctxt "PaceNormalTitle"
+msgid "Normal"
+msgstr ""
+
+msgctxt "PaceSlowDescription"
+msgid ""
+"The party travels slowly (16 miles per day), paying more attention to the "
+"surroundings and being less noticeable."
+msgstr ""
+
+msgctxt "PaceSlowTitle"
+msgid "Slow"
+msgstr ""
+
+msgctxt "StandardCampActivity01Title"
+msgid "{0} does some weapons maintenance."
+msgstr ""
+
+msgctxt "StandardCampActivity02Title"
+msgid "{0} performs armor maintenance."
+msgstr ""
+
+msgctxt "StandardCampActivity03Title"
+msgid "{0} cooks a nice meal for the party."
+msgstr ""
+
+msgctxt "StandardCampActivity04Title"
+msgid "{0} performs mental exercises."
+msgstr ""
+
+msgctxt "StandardCampActivity05Title"
+msgid "{0} prays."
+msgstr ""
+
+msgctxt "StandardCampActivity06Title"
+msgid "{0} tells old war stories."
+msgstr ""
+
+msgctxt "StandardCampActivity07Title"
+msgid ""
+"{0} starts a heated political discussion about the Principality of Masgarth."
+msgstr ""
+
+msgctxt "StandardCampActivity08Title"
+msgid "{0} starts a discussion about deities and religions."
+msgstr ""
+
+msgctxt "StandardCampActivity09Title"
+msgid "{0} starts a game of dice."
+msgstr ""
+
+msgctxt "StandardCampActivity10Title"
+msgid "{0} starts singing an old song."
+msgstr ""
+
+msgctxt "StandardCampActivity11Title"
+msgid "{0} starts a game of dice."
+msgstr ""
+
+msgctxt "StandardCampActivity12Title"
+msgid "{0} starts a game of cards."
+msgstr ""
+
+msgctxt "StandardRandomEvents10Title"
+msgid "{0} stops near a shrine to pray."
+msgstr ""
+
+msgctxt "StandardRandomEvents11Title"
+msgid "{0} works on martial arts training exercises."
+msgstr ""
+
+msgctxt "StandardRandomEvents1Title"
+msgid "The party comes across a band of mercenaries."
+msgstr ""
+
+msgctxt "StandardRandomEvents2Title"
+msgid ""
+"The party passes an old Imperial marketplace, now used as a meeting point "
+"for Scavengers."
+msgstr ""
+
+msgctxt "StandardRandomEvents3Title"
+msgid ""
+"The party passes an ancient tree, old enough to have survived the Cataclysm."
+msgstr ""
+
+msgctxt "StandardRandomEvents4Title"
+msgid "The party meets a wandering scholar from Gallivan."
+msgstr ""
+
+msgctxt "StandardRandomEvents5Title"
+msgid "The party meets a band of Pilgrims on their way to the Einareum."
+msgstr ""
+
+msgctxt "StandardRandomEvents6Title"
+msgid ""
+"The party comes across some wounded dwarf mercenaries and tends to their "
+"wounds."
+msgstr ""
+
+msgctxt "StandardRandomEvents7Title"
+msgid ""
+"The party comes across a messenger whose horse has been spooked. {0} calms "
+"the animal and is gratefully thanked."
+msgstr ""
+
+msgctxt "StandardRandomEvents8Title"
+msgid "{0} plays a game of dice with a wandering scholar."
+msgstr ""
+
+msgctxt "StandardRandomEvents9Title"
+msgid "{0} plays a tune on the flute."
+msgstr ""
+
+msgctxt "TravelActivityCampTitle"
+msgid "Camp"
+msgstr ""
+
+msgctxt "TravelActivityExplorationTitle"
+msgid "Exploration"
+msgstr ""
+
+msgctxt "TravelActivityLongRestTitle"
+msgid "Rest"
+msgstr ""
+
+msgctxt "TravelActivityNavigateTitle"
+msgid "Navigate"
+msgstr ""
+
+msgctxt "TravelActivityStandByTitle"
+msgid "Standby"
+msgstr ""
+
+msgctxt "TravelEventCraftingProgressFailure1Title"
+msgid "{0} faces a setback while crafting the {1}: no progress."
+msgstr ""
+
+msgctxt "TravelEventCraftingProgressFinishedTitle"
+msgid "{0} has finished crafting the {1}."
+msgstr ""
+
+msgctxt "TravelEventCraftingProgressHalfwayTitle"
+msgid "{0} is halfway done crafting the {1}."
+msgstr ""
+
+msgctxt "TravelEventCrownAttunedDescription"
+msgid "Our heroes take a well-deserved rest, but the mood is somber."
+msgstr ""
+
+msgctxt "TravelEventCrownAttunedTitle"
+msgid "A Troubled Night"
+msgstr ""
+
+msgctxt "TravelEventEncounterFailure1Title"
+msgid "The party fails to detect an approaching enemy group."
+msgstr ""
+
+msgctxt "TravelEventEncounterSuccess1Title"
+msgid "An encounter! {0} hears the enemy approaching."
+msgstr ""
+
+msgctxt "TravelEventEncounterSuccess2Title"
+msgid "An encounter! {0} spots the enemy before they see the party."
+msgstr ""
+
+msgctxt "TravelEventFoodSearchFailure1Title"
+msgid "The party did not find any food."
+msgstr ""
+
+msgctxt "TravelEventFoodSearchSuccess1Title"
+msgid "{0} finds some tasty mushrooms. The party gains {1} food ration(s)."
+msgstr ""
+
+msgctxt "TravelEventFoodSearchSuccess2Title"
+msgid "{0} catches wild hares. The party gains {1} food ration(s)."
+msgstr ""
+
+msgctxt "TravelEventFoodSearchSuccess3Title"
+msgid "{0} kills a boar. The party gains {1} food ration(s)."
+msgstr ""
+
+msgctxt "TravelEventFoodSearchSuccess4Title"
+msgid "{0} finds an apple tree. The party gains {1} food ration(s)."
+msgstr ""
+
+msgctxt "TravelEventFoodSearchSuccess5Title"
+msgid ""
+"{0} finds a bird's nest and gathers some eggs. The party gains {1} food "
+"ration(s)."
+msgstr ""
+
+msgctxt "TravelEventFoodSearchSuccess6Title"
+msgid "{0} kills a fallow deer. The party gains {1} food ration(s)."
+msgstr ""
+
+msgctxt "TravelEventFoodSearchSuccess7Title"
+msgid "{0} kills a couple of partridges. The party gains {1} food ration(s)."
+msgstr ""
+
+msgctxt "TravelEventFoodSearchSuccess8Title"
+msgid "{0} finds a bunch of wild vegetables and gathers {1} food ration(s)."
+msgstr ""
+
+msgctxt "TravelEventIngredientGatheringFailure1Title"
+msgid "The party did not find any useful ingredients."
+msgstr ""
+
+msgctxt "TravelEventIngredientGatheringSuccess1Title"
+msgid "{0} manages to collect crafting ingredients: {1}"
+msgstr ""
+
+msgctxt "TravelEventLongRestCompleteFailure1Title"
+msgid "The party has failed to complete its long rest"
+msgstr ""
+
+msgctxt "TravelEventLongRestCompleteSuccess1Title"
+msgid "The party has finished its long rest and consumed {0} unit(s) of food."
+msgstr ""
+
+msgctxt "TravelEventLongRestStart1Title"
+msgid "The party starts to rest"
+msgstr ""
+
+msgctxt "TravelEventNavigationStarts1Title"
+msgid "The party is on the move"
+msgstr ""
+
+msgctxt "TravelEventNewDayTitle"
+msgid "Day {0}"
+msgstr ""
+
+msgctxt "TravelEventSetCamp1Title"
+msgid "The party sets camp"
+msgstr ""
+
+msgctxt "TravelJourneyBeginsTitle"
+msgid "The journey begins!"
+msgstr ""
+
+msgctxt "TravelJourneyEndsTitle"
+msgid "The party has arrived"
+msgstr ""
+
+msgctxt "TravelEventExplorationEndsTitle"
+msgid "The party has found a way in."
+msgstr ""
+
+msgctxt "TravelEventExplorationStartsTitle"
+msgid "The party starts looking for access to the location."
+msgstr ""
+
+msgctxt "TravelEventCastFoodSpellTitle"
+msgid "{0} casts the {1} spell and provides food for the whole party."
+msgstr ""
+
+msgctxt "StandardRandomEvents12Title"
+msgid ""
+"The party comes across a Scavenger chariot filled with loot and says hello."
+msgstr ""
+
+msgctxt "StandardRandomEvents13Title"
+msgid "The party passes by a mass grave and walks away with a somber look."
+msgstr ""
+
+msgctxt "StandardRandomEvents14Title"
+msgid ""
+"The party passes by a Manacalon statue representing yet another emperor."
+msgstr ""
+
+msgctxt "StandardRandomEvents15Title"
+msgid "The party passes by a broken statue of an elven woman with a slave."
+msgstr ""
+
+msgctxt "StandardRandomEvents16Title"
+msgid ""
+"The party passes by a shrine to Arun and hears thunder rumbling in the "
+"distance."
+msgstr ""
+
+msgctxt "StandardRandomEvents17Title"
+msgid "The party passes by a shrine to Einar and sees a deer dash away."
+msgstr ""
+
+msgctxt "StandardRandomEvents18Title"
+msgid "The party passes by a shrine to Pakri and feels a cold breeze."
+msgstr ""
+
+msgctxt "StandardRandomEvents19Title"
+msgid "The party passes by a shrine to Maraike and hears a bird singing."
+msgstr ""
+
+msgctxt "StandardRandomEvents20Title"
+msgid "The party passes by a shrine to Misaye and hears someone laughing."
+msgstr ""
+
+msgctxt "StandardRandomEvents21Title"
+msgid ""
+"The party passes by a ruined Imperial tollgate on which flowers have grown."
+msgstr ""
+
+msgctxt "StandardRandomEvents22Title"
+msgid "The party passes by a fallen bridge and wades through a stream."
+msgstr ""
+
+msgctxt "StandardRandomEvents23Title"
+msgid "The party walks in light rain for some time."
+msgstr ""
+
+msgctxt "StandardRandomEvents24Title"
+msgid "The party walks in heavy rain for a while."
+msgstr ""
+
+msgctxt "StandardRandomEvents25Title"
+msgid "The party walks in a powerful storm for a short time."
+msgstr ""
+
+msgctxt "StandardCampActivity13Title"
+msgid "{0} carves a statuette with a piece of wood."
+msgstr ""
+
+msgctxt "StandardCampActivity14Title"
+msgid "{0} writes a letter to goodness knows who."
+msgstr ""
+
+msgctxt "StandardCampActivity15Title"
+msgid "{0} writes a chapter in their personal journal."
+msgstr ""
+
+msgctxt "StandardCampActivity16Title"
+msgid "{0} reads a chapter of a book."
+msgstr ""
+
+msgctxt "StandardCampActivity17Title"
+msgid "{0} does some pushups and squats."
+msgstr ""
+
+msgctxt "StandardCampActivity18Title"
+msgid "{0} cleans their shoes."
+msgstr ""
+
+msgctxt "StandardCampActivity19Title"
+msgid "{0} takes a short time alone to think."
+msgstr ""
+
+msgctxt "StandardCampActivity20Title"
+msgid "{0} plays a game of skill with stones."
+msgstr ""
+
+msgctxt "StandardCampActivity21Title"
+msgid "{0} unfolds a bedroll to set up a nice sleeping spot."
+msgstr ""
+
+msgctxt "TravelEventEncounterOther1Title"
+msgid "Weak monsters run away as they see the party approaching."
+msgstr ""
+
+msgctxt "TravelEventEncounterOther2Title"
+msgid "An encounter! The monsters are frightened by the party and scurry away."
+msgstr ""

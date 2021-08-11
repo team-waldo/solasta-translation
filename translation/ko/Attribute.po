@@ -1,0 +1,431 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "ArmorClassDescription"
+msgid ""
+"Armor Class (AC) represents how well a creature avoids being hit in battle."
+msgstr ""
+
+msgctxt "ArmorClassTitle"
+msgid "AC"
+msgstr ""
+
+msgctxt "AttacksNumberDescription"
+msgid "The number of attacks the character can perform per turn."
+msgstr ""
+
+msgctxt "AttacksNumberTitle"
+msgid "Attacks"
+msgstr ""
+
+msgctxt "ChannelDivinityNumberDescription"
+msgid ""
+"The number of times you can use the Channel Divinity action between rests."
+msgstr ""
+
+msgctxt "ChannelDivinityNumberTitle"
+msgid "Channel Divinity Number"
+msgstr ""
+
+msgctxt "CharacterLevelDescription"
+msgid ""
+"The number of experience levels the character has attained, combining all "
+"class levels."
+msgstr ""
+
+msgctxt "CharacterLevelTitle"
+msgid "Character Level"
+msgstr ""
+
+msgctxt "CharismaDescription"
+msgid ""
+"Charisma measures your ability to interact effectively with others. It "
+"includes such factors as confidence and eloquence, and it can represent a "
+"charming or commanding personality.\n"
+"Important for: Paladin, Sorcerer."
+msgstr ""
+
+msgctxt "CharismaTitle"
+msgid "CHA"
+msgstr ""
+
+msgctxt "CharismaTitleLong"
+msgid "Charisma"
+msgstr ""
+
+msgctxt "ConstitutionDescription"
+msgid ""
+"Constitution measures health, stamina, and vital force.\n"
+"Important for: everyone."
+msgstr ""
+
+msgctxt "ConstitutionTitle"
+msgid "CON"
+msgstr ""
+
+msgctxt "ConstitutionTitleLong"
+msgid "Constitution"
+msgstr ""
+
+msgctxt "CriticalThresholdDescription"
+msgid "The lowest result on 1d20 that will score a critical hit."
+msgstr ""
+
+msgctxt "CriticalThresholdTitle"
+msgid "Critical Threshold"
+msgstr ""
+
+msgctxt "DexterityDescription"
+msgid ""
+"Dexterity measures agility, reflexes, and balance.\n"
+"Important for: Ranger, Rogue."
+msgstr ""
+
+msgctxt "DexterityTitle"
+msgid "DEX"
+msgstr ""
+
+msgctxt "DexterityTitleLong"
+msgid "Dexterity"
+msgstr ""
+
+msgctxt "ExperienceDescription"
+msgid ""
+"The character's current experience point total. Required for next level: "
+"{0}XP"
+msgstr ""
+
+msgctxt "ExperienceTitle"
+msgid "Experience"
+msgstr ""
+
+msgctxt "HealingPoolDescription"
+msgid "A pool of healing points used to cure wounds or remove afflictions."
+msgstr ""
+
+msgctxt "HealingPoolTitle"
+msgid "Healing Pool"
+msgstr ""
+
+msgctxt "HitDiceDescription"
+msgid ""
+"The number of hit dice the character has earned through class advancement, "
+"which can be used to recover health during rest time."
+msgstr ""
+
+msgctxt "HitDiceTitle"
+msgid "Hit Dice"
+msgstr ""
+
+msgctxt "HitPointBonusPerLevelDescription"
+msgid ""
+"The additional hit points that you gain each level in addition to your hit "
+"dice."
+msgstr ""
+
+msgctxt "HitPointBonusPerLevelTitle"
+msgid "Hit point bonus per level"
+msgstr ""
+
+msgctxt "HitPointsDescription"
+msgid ""
+"The maximum number of hit points a creature can sustain before falling "
+"unconscious or dead."
+msgstr ""
+
+msgctxt "HitPointsTitle"
+msgid "HP"
+msgstr ""
+
+msgctxt "InitiativeDescription"
+msgid "Initiative determines the order of creatures' turns during combat."
+msgstr ""
+
+msgctxt "InitiativeTitle"
+msgid "Init"
+msgstr ""
+
+msgctxt "IntelligenceDescription"
+msgid ""
+"Intelligence measures mental acuity, accuracy of recall, and the ability to "
+"reason.\n"
+"Important for: Wizard."
+msgstr ""
+
+msgctxt "IntelligenceTitle"
+msgid "INT"
+msgstr ""
+
+msgctxt "IntelligenceTitleLong"
+msgid "Intelligence"
+msgstr ""
+
+msgctxt "MovePointsCurrentFormat"
+msgid "{0}/{1}"
+msgstr ""
+
+msgctxt "MovePointsDescription"
+msgid "The number of cells a creature can move during a combat round."
+msgstr ""
+
+msgctxt "MovePointsEmptyFormat"
+msgid "0"
+msgstr ""
+
+msgctxt "MovePointsMaxFormat"
+msgid "of {0}"
+msgstr ""
+
+msgctxt "MovePointsTitle"
+msgid "Move"
+msgstr ""
+
+msgctxt "ProficiencyBonusDescription"
+msgid ""
+"The proficiency bonus is a character-wide bonus, added to rolls where you "
+"are proficient: attack rolls with proficient weapons, proficient skill or "
+"tool checks, proficient saving throws, and the attack bonus and save "
+"difficulty of your magical attacks. The proficiency bonus is incremented at "
+"levels 5, 9, 13, and 17, representing the growing expertise of your "
+"character in these attacks, skill/tool checks, saving throws, and magical "
+"abilities."
+msgstr ""
+
+msgctxt "ProficiencyBonusTitle"
+msgid "Prof."
+msgstr ""
+
+msgctxt "SpeedDescription"
+msgid "The number of cells the character can move during a turn."
+msgstr ""
+
+msgctxt "SpeedTitle"
+msgid "Speed"
+msgstr ""
+
+msgctxt "SpeedUnitBurrowFormat"
+msgid "burrow {0} {1}"
+msgstr ""
+
+msgctxt "SpeedUnitClimbFormat"
+msgid "climb {0} {1}"
+msgstr ""
+
+msgctxt "SpeedUnitEmptyFormat"
+msgid "{0}"
+msgstr ""
+
+msgctxt "SpeedUnitFlyFormat"
+msgid "fly {0} {1}"
+msgstr ""
+
+msgctxt "SpeedUnitIncorporealFormat"
+msgid "incorporeal {0} {1}"
+msgstr ""
+
+msgctxt "SpeedUnitSwimFormat"
+msgid "swim {0} {1}"
+msgstr ""
+
+msgctxt "SpeedUnitWalkFormat"
+msgid "{0} {1}"
+msgstr ""
+
+msgctxt "StrengthDescription"
+msgid ""
+"Strength measures bodily power, athletic training and the extent to which "
+"you can exert raw physical force.\n"
+"Important for: Fighter, Paladin."
+msgstr ""
+
+msgctxt "StrengthTitle"
+msgid "STR"
+msgstr ""
+
+msgctxt "StrengthTitleLong"
+msgid "Strength"
+msgstr ""
+
+msgctxt "TagBackgroundCantripTitle"
+msgid "Background Cantrip"
+msgstr ""
+
+msgctxt "TagBackgroundExpertiseTitle"
+msgid "Background Expertise"
+msgstr ""
+
+msgctxt "TagBackgroundFeatTitle"
+msgid "Background Feats"
+msgstr ""
+
+msgctxt "TagBackgroundLanguageTitle"
+msgid "Background Languages"
+msgstr ""
+
+msgctxt "TagBackgroundSkillTitle"
+msgid "Background Skills"
+msgstr ""
+
+msgctxt "TagBackgroundSpellTitle"
+msgid "Background Spells"
+msgstr ""
+
+msgctxt "TagBackgroundToolTypeTitle"
+msgid "Background Tools"
+msgstr ""
+
+msgctxt "TagClassCantripTitle"
+msgid "Class Cantrips"
+msgstr ""
+
+msgctxt "TagClassExpertiseTitle"
+msgid "Class Expertise"
+msgstr ""
+
+msgctxt "TagClassFeatTitle"
+msgid "Class Feats"
+msgstr ""
+
+msgctxt "TagClassLanguageTitle"
+msgid "Class Language"
+msgstr ""
+
+msgctxt "TagClassSkillTitle"
+msgid "Class Skills"
+msgstr ""
+
+msgctxt "TagClassSpellTitle"
+msgid "Class Spells"
+msgstr ""
+
+msgctxt "TagClassToolTypeTitle"
+msgid "Class Tools"
+msgstr ""
+
+msgctxt "TagRaceCantripTitle"
+msgid "Ancestry Cantrips"
+msgstr ""
+
+msgctxt "TagRaceExpertiseTitle"
+msgid "Ancestry Expertise"
+msgstr ""
+
+msgctxt "TagRaceFeatTitle"
+msgid "Ancestry Feats"
+msgstr ""
+
+msgctxt "TagRaceLanguageTitle"
+msgid "Ancestry Languages"
+msgstr ""
+
+msgctxt "TagRaceSkillTitle"
+msgid "Ancestry Skills"
+msgstr ""
+
+msgctxt "TagRaceSpellTitle"
+msgid "Ancestry Spells"
+msgstr ""
+
+msgctxt "TagRaceToolTypeTitle"
+msgid "Ancestry Tools"
+msgstr ""
+
+msgctxt "TagSubclassCantripTitle"
+msgid "Subclass Cantrips"
+msgstr ""
+
+msgctxt "TagSubclassExpertiseTitle"
+msgid "Subclass Expertise"
+msgstr ""
+
+msgctxt "TagSubclassFeatTitle"
+msgid "Subclass Feats"
+msgstr ""
+
+msgctxt "TagSubclassLanguageTitle"
+msgid "Subclass Language"
+msgstr ""
+
+msgctxt "TagSubclassSkillTitle"
+msgid "Subclass Skills"
+msgstr ""
+
+msgctxt "TagSubclassSpellTitle"
+msgid "Subclass Spells"
+msgstr ""
+
+msgctxt "TagSubclassToolTypeTitle"
+msgid "Subclass Tools"
+msgstr ""
+
+msgctxt "WisdomDescription"
+msgid ""
+"Wisdom reflects how attuned you are to the world around you and represents "
+"perceptiveness and intuition.\n"
+"Important for: Cleric, Ranger."
+msgstr ""
+
+msgctxt "WisdomTitle"
+msgid "WIS"
+msgstr ""
+
+msgctxt "WisdomTitleLong"
+msgid "Wisdom"
+msgstr ""
+
+msgctxt "SorceryPointsDescription"
+msgid ""
+"A pool of internal power which can be used to alter magic spells, 1 point "
+"per Sorcerer level. Restored at long rest."
+msgstr ""
+
+msgctxt "SorceryPointsTitle"
+msgid "Sorcery Points"
+msgstr ""
+
+msgctxt "TagUnlearnSpellTitle"
+msgid "Unlearn Spell"
+msgstr ""
+
+msgctxt "TagRaceMetamagicTitle"
+msgid "Ancestry Metamagic Options"
+msgstr ""
+
+msgctxt "TagClassMetamagicTitle"
+msgid "Class Metamagic Options"
+msgstr ""
+
+msgctxt "TagSubclassMetamagicTitle"
+msgid "Subclass Metamagic Options"
+msgstr ""
+
+msgctxt "TagBackgroundMetamagicTitle"
+msgid "Background Metamagic Options"
+msgstr ""
+
+msgctxt "RagePointsDescription"
+msgid "Determines how many times you can start raging"
+msgstr ""
+
+msgctxt "RagePointsTitle"
+msgid "Rage Points"
+msgstr ""
+
+msgctxt "RageDamageDescription"
+msgid "The additional damage your melee attacks inflict"
+msgstr ""
+
+msgctxt "RageDamageTitle"
+msgid "Rage Damage"
+msgstr ""

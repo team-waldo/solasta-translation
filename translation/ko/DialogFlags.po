@@ -1,0 +1,129 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "Authority_Description"
+msgid "A tendency to enforce rules and beliefs with authority and leadership."
+msgstr ""
+
+msgctxt "Authority_Title"
+msgid "Authority"
+msgstr ""
+
+msgctxt "Cynicism_Description"
+msgid "A tendency to scoff at principles and values."
+msgstr ""
+
+msgctxt "Cynicism_Title"
+msgid "Cynicism"
+msgstr ""
+
+msgctxt "Formal_Description"
+msgid ""
+"This character uses complete sentences, with technical or academic "
+"vocabulary."
+msgstr ""
+
+msgctxt "Formal_Title"
+msgid "Formal"
+msgstr ""
+
+msgctxt "Friendliness_Description"
+msgid ""
+"A tendency to care about others, preferring to make friends rather than "
+"enemies."
+msgstr ""
+
+msgctxt "Friendliness_Title"
+msgid "Kindness"
+msgstr ""
+
+msgctxt "Greed_Description"
+msgid "A tendency to value wealth and comfort above all else."
+msgstr ""
+
+msgctxt "Greed_Title"
+msgid "Greed"
+msgstr ""
+
+msgctxt "Helpfulness_Description"
+msgid "A tendency to always try to help those in need."
+msgstr ""
+
+msgctxt "Helpfulness_Title"
+msgid "Altruism"
+msgstr ""
+
+msgctxt "Lawfulness_Description"
+msgid "A tendency to follow rules, laws, and order rather than chaos."
+msgstr ""
+
+msgctxt "Lawfulness_Title"
+msgid "Lawfulness"
+msgstr ""
+
+msgctxt "Normal_Description"
+msgid ""
+"This character speaks like most folk do, neither overly formal nor overly "
+"colloquial."
+msgstr ""
+
+msgctxt "Normal_Title"
+msgid "Casual"
+msgstr ""
+
+msgctxt "Pragmatism_Description"
+msgid "A tendency to value practicality over principles."
+msgstr ""
+
+msgctxt "Pragmatism_Title"
+msgid "Pragmatism"
+msgstr ""
+
+msgctxt "Selfishness_Description"
+msgid ""
+"A tendency to put oneself, friends, and family first, at the expense of "
+"others."
+msgstr ""
+
+msgctxt "Selfishness_Title"
+msgid "Egoism"
+msgstr ""
+
+msgctxt "SelfPreservation_Description"
+msgid "A tendency to take care of one's own safety above all."
+msgstr ""
+
+msgctxt "SelfPreservation_Title"
+msgid "Caution"
+msgstr ""
+
+msgctxt "Slang_Description"
+msgid ""
+"This character uses slang extensively, including crude and vulgar language "
+"on occasion."
+msgstr ""
+
+msgctxt "Slang_Title"
+msgid "Slang"
+msgstr ""
+
+msgctxt "Violence_Description"
+msgid ""
+"A tendency to solve problems with violence, even when there are other "
+"options."
+msgstr ""
+
+msgctxt "Violence_Title"
+msgid "Violence"
+msgstr ""

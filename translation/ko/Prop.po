@@ -1,0 +1,680 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-11 20:48+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.6\n"
+
+msgctxt "CandelabraTitle"
+msgid "Candelabra"
+msgstr ""
+
+msgctxt "CandelabraDescription"
+msgid "A decorative candelabra"
+msgstr ""
+
+msgctxt "ColumnATitle"
+msgid "Column A"
+msgstr ""
+
+msgctxt "ColumnADescription"
+msgid "A decorative column"
+msgstr ""
+
+msgctxt "ColumnBTitle"
+msgid "Column B"
+msgstr ""
+
+msgctxt "ColumnBDescription"
+msgid "A decorative column"
+msgstr ""
+
+msgctxt "FireBasinTitle"
+msgid "Fire Basin"
+msgstr ""
+
+msgctxt "FireBasinDescription"
+msgid "A burning basin, illuminating its surroundings"
+msgstr ""
+
+msgctxt "BenchTitle"
+msgid "Bench"
+msgstr ""
+
+msgctxt "BenchDescription"
+msgid "A decorative bench"
+msgstr ""
+
+msgctxt "GuardrailsATitle"
+msgid "Guardrails"
+msgstr ""
+
+msgctxt "GuardrailsADescription"
+msgid "A low wall that can be used as a heavy cover"
+msgstr ""
+
+msgctxt "DebrisATitle"
+msgid "Debris"
+msgstr ""
+
+msgctxt "DebrisADescription"
+msgid "A heap of stone preventing movement"
+msgstr ""
+
+msgctxt "GuardrailsBrokenATitle"
+msgid "Broken Guardrail A"
+msgstr ""
+
+msgctxt "GuardrailsBrokenADescription"
+msgid "A short, broken, low wall that can be used as heavy cover"
+msgstr ""
+
+msgctxt "GuardrailsBrokenBTitle"
+msgid "Broken Guardrail B"
+msgstr ""
+
+msgctxt "GuardrailsBrokenBDescription"
+msgid "A long, broken, low wall that can be used as heavy cover"
+msgstr ""
+
+msgctxt "GuardrailsLinkTitle"
+msgid "Guardrail Link"
+msgstr ""
+
+msgctxt "GuardrailsLinkDescription"
+msgid "A low wall pillar"
+msgstr ""
+
+msgctxt "GuardrailsStraightATitle"
+msgid "Straight Guardrail A"
+msgstr ""
+
+msgctxt "GuardrailsStraightADescription"
+msgid "A short, low wall that can be used as heavy cover"
+msgstr ""
+
+msgctxt "GuardrailsStraightBTitle"
+msgid "Straight Guardrail B"
+msgstr ""
+
+msgctxt "GuardrailsStraightBDescription"
+msgid "A long, low wall that can be used as heavy cover"
+msgstr ""
+
+msgctxt "MausoleumTitle"
+msgid "Mausoleum"
+msgstr ""
+
+msgctxt "MausoleumDescription"
+msgid "An inaccessible funerary monument"
+msgstr ""
+
+msgctxt "StatueTitle"
+msgid "Statue"
+msgstr ""
+
+msgctxt "StatueDescription"
+msgid "A decorative statue"
+msgstr ""
+
+msgctxt "TombATitle"
+msgid "Tomb A"
+msgstr ""
+
+msgctxt "TombADescription"
+msgid "A tomb that can be entered"
+msgstr ""
+
+msgctxt "TombBTitle"
+msgid "Tomb B"
+msgstr ""
+
+msgctxt "TombBDescription"
+msgid "A decorative tomb blocking movement"
+msgstr ""
+
+msgctxt "TombCTitle"
+msgid "Tomb C"
+msgstr ""
+
+msgctxt "VaseTitle"
+msgid "Vase"
+msgstr ""
+
+msgctxt "VaseDescription"
+msgid "A decorative funeral vase"
+msgstr ""
+
+msgctxt "WallBlockerATitle"
+msgid "Wall Blocker"
+msgstr ""
+
+msgctxt "WallBlockerADescription"
+msgid "A wide wall to block a passage"
+msgstr ""
+
+msgctxt "WallBlockerBTitle"
+msgid "Wall Blocker"
+msgstr ""
+
+msgctxt "WallBlockerBDescription"
+msgid "A wide wall to block a passage"
+msgstr ""
+
+msgctxt "WallChainTitle"
+msgid "Chain"
+msgstr ""
+
+msgctxt "WallChainDescription"
+msgid "A piece of metal hung on the wall"
+msgstr ""
+
+msgctxt "WallCrawl"
+msgid "Wall with Crawl Hole"
+msgstr ""
+
+msgctxt "WallCrawlDescription"
+msgid "A wide wall with a hole to crawl through"
+msgstr ""
+
+msgctxt "WallTorchTitle"
+msgid "Wall Torch"
+msgstr ""
+
+msgctxt "WallTorchDescription"
+msgid "An ever-burning torch that can be placed on a wall"
+msgstr ""
+
+msgctxt "BlockTitle"
+msgid "Block"
+msgstr ""
+
+msgctxt "BlockDescription"
+msgid ""
+"A solid structure that can be used to divide a room into sub-compartments"
+msgstr ""
+
+msgctxt "AltarTitle"
+msgid "Altar"
+msgstr ""
+
+msgctxt "AltarDescription"
+msgid "A votive structure used to pray to a deity"
+msgstr ""
+
+msgctxt "AlchemyTableTitle"
+msgid "Alchemy Table"
+msgstr ""
+
+msgctxt "ArmorStandTitle"
+msgid "Armor Stand"
+msgstr ""
+
+msgctxt "BannerTitle"
+msgid "Banner"
+msgstr ""
+
+msgctxt "BarrelsTitle"
+msgid "Barrels"
+msgstr ""
+
+msgctxt "BarrelStackTitle"
+msgid "Barrel Stack"
+msgstr ""
+
+msgctxt "BedTitle"
+msgid "Bed"
+msgstr ""
+
+msgctxt "BirdCageTitle"
+msgid "Birdcage"
+msgstr ""
+
+msgctxt "BookShelfTitle"
+msgid "Bookshelf"
+msgstr ""
+
+msgctxt "BookStackTitle"
+msgid "Book Stack"
+msgstr ""
+
+msgctxt "CabinetTitle"
+msgid "Cabinet"
+msgstr ""
+
+msgctxt "CarpetTitle"
+msgid "Carpet"
+msgstr ""
+
+msgctxt "ChairTitle"
+msgid "Chair"
+msgstr ""
+
+msgctxt "CorpseTitle"
+msgid "Corpse"
+msgstr ""
+
+msgctxt "CouchTitle"
+msgid "Couch"
+msgstr ""
+
+msgctxt "CrateTitle"
+msgid "Crate"
+msgstr ""
+
+msgctxt "CrateStackTitle"
+msgid "Crate Stack"
+msgstr ""
+
+msgctxt "CushionsTitle"
+msgid "Cushions"
+msgstr ""
+
+msgctxt "FakeDoorTitle"
+msgid "Fake Door"
+msgstr ""
+
+msgctxt "FakeDoorDescription"
+msgid ""
+"A fake door used to represent a dungeon exit/entrance. For use in "
+"combination with an exit/entrance gadget"
+msgstr ""
+
+msgctxt "FakeStairsTitle"
+msgid "Fake Stairs"
+msgstr ""
+
+msgctxt "FakeStairsDescription"
+msgid ""
+"Fake stairs used to represent a dungeon exit/entrance. For use in "
+"combination with an exit/entrance gadget"
+msgstr ""
+
+msgctxt "FireplaceTitle"
+msgid "Fireplace"
+msgstr ""
+
+msgctxt "GlobeTitle"
+msgid "Globe"
+msgstr ""
+
+msgctxt "GreenHouseTitle"
+msgid "Greenhouse"
+msgstr ""
+
+msgctxt "HarpTitle"
+msgid "Harp"
+msgstr ""
+
+msgctxt "MirrorTitle"
+msgid "Mirror"
+msgstr ""
+
+msgctxt "PaintingTitle"
+msgid "Painting"
+msgstr ""
+
+msgctxt "PlantTitle"
+msgid "Plant"
+msgstr ""
+
+msgctxt "PrisonFenceTitle"
+msgid "Prison Fence"
+msgstr ""
+
+msgctxt "ShelvesTitle"
+msgid "Shelves"
+msgstr ""
+
+msgctxt "StillTitle"
+msgid "Still"
+msgstr ""
+
+msgctxt "StoolTitle"
+msgid "Stool"
+msgstr ""
+
+msgctxt "StoveTitle"
+msgid "Stove"
+msgstr ""
+
+msgctxt "TableTitle"
+msgid "Table"
+msgstr ""
+
+msgctxt "TelescopeTitle"
+msgid "Telescope"
+msgstr ""
+
+msgctxt "TreasurePedestalTitle"
+msgid "Treasure Pedestal"
+msgstr ""
+
+msgctxt "WindowTitle"
+msgid "Window"
+msgstr ""
+
+msgctxt "WorkTableTitle"
+msgid "Work Table"
+msgstr ""
+
+msgctxt "WallSimpleTitle"
+msgid "Free Wall"
+msgstr ""
+
+msgctxt "WallThinTitle"
+msgid "Thin Wall"
+msgstr ""
+
+msgctxt "ReadingDeskTitle"
+msgid "Reading Desk"
+msgstr ""
+
+msgctxt "SpinningWheelTitle"
+msgid "Spinning Wheel"
+msgstr ""
+
+msgctxt "DeskTitle"
+msgid "Desk"
+msgstr ""
+
+msgctxt "SpiderWebsTitle"
+msgid "Spider Webs"
+msgstr ""
+
+msgctxt "BasketTitle"
+msgid "Basket"
+msgstr ""
+
+msgctxt "BedrollTitle"
+msgid "Bedroll"
+msgstr ""
+
+msgctxt "BraseroTitle"
+msgid "Brazier"
+msgstr ""
+
+msgctxt "CageTitle"
+msgid "Cage"
+msgstr ""
+
+msgctxt "CartTitle"
+msgid "Cart"
+msgstr ""
+
+msgctxt "CocoonTitle"
+msgid "Cocoon"
+msgstr ""
+
+msgctxt "HutTitle"
+msgid "Hut"
+msgstr ""
+
+msgctxt "LavaBasinTitle"
+msgid "Lava Basin"
+msgstr ""
+
+msgctxt "MarketBoothTitle"
+msgid "Market Booth"
+msgstr ""
+
+msgctxt "MushroomsTitle"
+msgid "Mushrooms"
+msgstr ""
+
+msgctxt "RocksTitle"
+msgid "Rocks"
+msgstr ""
+
+msgctxt "SkinsTitle"
+msgid "Skins"
+msgstr ""
+
+msgctxt "SpiderEggsTitle"
+msgid "Spider Eggs"
+msgstr ""
+
+msgctxt "RockTitle"
+msgid "Rock"
+msgstr ""
+
+msgctxt "StalagmiteTitle"
+msgid "Stalagmite"
+msgstr ""
+
+msgctxt "StoneTitle"
+msgid "Stone"
+msgstr ""
+
+msgctxt "StrawTitle"
+msgid "Straw"
+msgstr ""
+
+msgctxt "StructureTitle"
+msgid "Structure"
+msgstr ""
+
+msgctxt "TotemTitle"
+msgid "Totem"
+msgstr ""
+
+msgctxt "WoodenPlatformTitle"
+msgid "Wooden Platform"
+msgstr ""
+
+msgctxt "FakeStairsUpTitle"
+msgid "Fake Stairs (up)"
+msgstr ""
+
+msgctxt "FakeStairsDownTitle"
+msgid "Fake Stairs (down)"
+msgstr ""
+
+msgctxt "MonumentTitle"
+msgid "Monument"
+msgstr ""
+
+msgctxt "ThicketTitle"
+msgid "Thicket"
+msgstr ""
+
+msgctxt "TentTitle"
+msgid "Tent"
+msgstr ""
+
+msgctxt "BushesTitle"
+msgid "Bushes"
+msgstr ""
+
+msgctxt "DoubleThinDoorTitle"
+msgid "Double thin door"
+msgstr ""
+
+msgctxt "DoubleThinDoorDescription"
+msgid "A double thin door to open"
+msgstr ""
+
+msgctxt "TombstoneTitle"
+msgid "Tombstone"
+msgstr ""
+
+msgctxt "TombstonePackTitle"
+msgid "Pack of tombstones"
+msgstr ""
+
+msgctxt "FieldTitle"
+msgid "Field"
+msgstr ""
+
+msgctxt "FieldBlockedDescription"
+msgid "Field with crops"
+msgstr ""
+
+msgctxt "FieldDifficultDescription"
+msgid "An open field with difficult terrain"
+msgstr ""
+
+msgctxt "HayStackTitle"
+msgid "Haystack"
+msgstr ""
+
+msgctxt "LogsTitle"
+msgid "Wood logs"
+msgstr ""
+
+msgctxt "CaveEntranceTitle"
+msgid "Cave entrance"
+msgstr ""
+
+msgctxt "DrainGrateTitle"
+msgid "Drain grate"
+msgstr ""
+
+msgctxt "Path_StraightTitle"
+msgid "Straight path"
+msgstr ""
+
+msgctxt "Path_TurnTitle"
+msgid "Curved path"
+msgstr ""
+
+msgctxt "Path_YjunctionTitle"
+msgid "Y-shaped crossroads"
+msgstr ""
+
+msgctxt "Path_SjunctionTitle"
+msgid "S-shaped crossroads"
+msgstr ""
+
+msgctxt "Path_EndTitle"
+msgid "Dead end"
+msgstr ""
+
+msgctxt "Path_CrossRoadTitle"
+msgid "X-shaped crossroads"
+msgstr ""
+
+msgctxt "PlanksTitle"
+msgid "Wood planks"
+msgstr ""
+
+msgctxt "StumpTitle"
+msgid "A dead tree stump"
+msgstr ""
+
+msgctxt "LadderTitle"
+msgid "Ladder"
+msgstr ""
+
+msgctxt "FakeLadderUpTitle"
+msgid "Fake Ladder"
+msgstr ""
+
+msgctxt "FakeLadderUpDescription"
+msgid ""
+"Fake ladder used to represent a dungeon exit/entrance. For use in "
+"combination with an exit/entrance gadget"
+msgstr ""
+
+msgctxt "ArchTitle"
+msgid "Arch"
+msgstr ""
+
+msgctxt "CellTitle"
+msgid "Cell"
+msgstr ""
+
+msgctxt "ColumnDestroyedTitle"
+msgid "Destroyed Column"
+msgstr ""
+
+msgctxt "ColumnLowgroundTitle"
+msgid "Lowground Column"
+msgstr ""
+
+msgctxt "ColumnLowgroundDescription"
+msgid "A decorative column placable only on lowground"
+msgstr ""
+
+msgctxt "CreeperTitle"
+msgid "Creeper/Ivy"
+msgstr ""
+
+msgctxt "RootTitle"
+msgid "Roots"
+msgstr ""
+
+msgctxt "ScaffoldingTitle"
+msgid "Scaffoldings"
+msgstr ""
+
+msgctxt "StairsTitle"
+msgid "Stairs"
+msgstr ""
+
+msgctxt "StairsDestoyedTitle"
+msgid "Destroyed Stairs"
+msgstr ""
+
+msgctxt "WallDestoyedTitle"
+msgid "Destroyed Wall"
+msgstr ""
+
+msgctxt "WallLinkTitle"
+msgid "Wall Link"
+msgstr ""
+
+msgctxt "SlopeTitle"
+msgid "Slope"
+msgstr ""
+
+msgctxt "TrunkTitle"
+msgid "Trunk"
+msgstr ""
+
+msgctxt "WoodLogTitle"
+msgid "Wood Log"
+msgstr ""
+
+msgctxt "CookingStuffTitle"
+msgid "Cooking pot"
+msgstr ""
+
+msgctxt "ArchEndTitle"
+msgid "Destroyed Arch"
+msgstr ""
+
+msgctxt "ColumnTitle"
+msgid "Column"
+msgstr ""
+
+msgctxt "RuinedKioskTitle"
+msgid "Ruined kiosk"
+msgstr ""
+
+msgctxt "RuinedWallTitle"
+msgid "Ruined wall"
+msgstr ""
+
+msgctxt "CaravanTitle"
+msgid "Caravan"
+msgstr ""
+
+msgctxt "BridgeTitle"
+msgid "Bridge"
+msgstr ""
+
+msgctxt "RitualStoneTitle"
+msgid "Ritual Stone"
+msgstr ""
+
+msgctxt "SkullPileTitle"
+msgid "Skull Pile"
+msgstr ""
