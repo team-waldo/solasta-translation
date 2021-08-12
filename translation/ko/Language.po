@@ -1,16 +1,18 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-08-12 12:58+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/language/"
+"ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.3.6\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "CommonDescription"
 msgid ""
@@ -21,7 +23,7 @@ msgstr ""
 
 msgctxt "CommonTitle"
 msgid "Common"
-msgstr ""
+msgstr "공용어"
 
 msgctxt "DwarvishDescription"
 msgid ""
@@ -31,7 +33,7 @@ msgstr ""
 
 msgctxt "DwarvishTitle"
 msgid "Dwarvish"
-msgstr ""
+msgstr "드워프어"
 
 msgctxt "ElvishDescription"
 msgid ""
@@ -41,7 +43,7 @@ msgstr ""
 
 msgctxt "ElvishTitle"
 msgid "Elvish"
-msgstr ""
+msgstr "엘프어"
 
 msgctxt "GiantDescription"
 msgid ""
@@ -51,7 +53,7 @@ msgstr ""
 
 msgctxt "GiantTitle"
 msgid "Giant"
-msgstr ""
+msgstr "거인어"
 
 msgctxt "GoblinDescription"
 msgid "The crude dialect of the goblins is even simpler than Orcish."
@@ -59,7 +61,7 @@ msgstr ""
 
 msgctxt "GoblinTitle"
 msgid "Goblin"
-msgstr ""
+msgstr "고블린어"
 
 msgctxt "HalflingDescription"
 msgid ""
@@ -69,7 +71,7 @@ msgstr ""
 
 msgctxt "HalflingTitle"
 msgid "Halfling"
-msgstr ""
+msgstr "하플링어"
 
 msgctxt "OrcDescription"
 msgid "The language spoken by orcs and their brethren."
@@ -77,7 +79,7 @@ msgstr ""
 
 msgctxt "OrcTitle"
 msgid "Orcish"
-msgstr ""
+msgstr "오크어"
 
 msgctxt "ReptilianDescription"
 msgid "The language spoken by the Sorr-Akkath and their brethren."
@@ -119,7 +121,7 @@ msgstr ""
 
 msgctxt "DraconicTitle"
 msgid "Draconic"
-msgstr ""
+msgstr "용언"
 
 msgctxt "DraconicDescription"
 msgid "The language spoken by dragons and other reptilian creatures"
