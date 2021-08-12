@@ -1,16 +1,18 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-08-12 12:58+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/alignment/"
+"ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.3.6\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "ChaoticEvilDescription"
 msgid ""
@@ -20,7 +22,7 @@ msgstr ""
 
 msgctxt "ChaoticEvilTitle"
 msgid "Chaotic Evil"
-msgstr ""
+msgstr "혼돈 악"
 
 msgctxt "ChaoticEvilTitleShort"
 msgid "CE"
@@ -35,7 +37,7 @@ msgstr ""
 
 msgctxt "ChaoticGoodTitle"
 msgid "Chaotic Good"
-msgstr ""
+msgstr "혼돈 선"
 
 msgctxt "ChaoticGoodTitleShort"
 msgid "CG"
@@ -50,7 +52,7 @@ msgstr ""
 
 msgctxt "ChaoticNeutralTitle"
 msgid "Chaotic Neutral"
-msgstr ""
+msgstr "혼돈 중립"
 
 msgctxt "ChaoticNeutralTitleShort"
 msgid "CN"
@@ -65,7 +67,7 @@ msgstr ""
 
 msgctxt "LawfulEvilTitle"
 msgid "Lawful Evil"
-msgstr ""
+msgstr "질서 악"
 
 msgctxt "LawfulEvilTitleShort"
 msgid "LE"
@@ -80,7 +82,7 @@ msgstr ""
 
 msgctxt "LawfulGoodTitle"
 msgid "Lawful Good"
-msgstr ""
+msgstr "질서 선"
 
 msgctxt "LawfulGoodTitleShort"
 msgid "LG"
@@ -94,7 +96,7 @@ msgstr ""
 
 msgctxt "LawfulNeutralTitle"
 msgid "Lawful Neutral"
-msgstr ""
+msgstr "질서 중립"
 
 msgctxt "LawfulNeutralTitleShort"
 msgid "LN"
@@ -116,7 +118,7 @@ msgstr ""
 
 msgctxt "NeutralEvilTitle"
 msgid "Neutral Evil"
-msgstr ""
+msgstr "중립 악"
 
 msgctxt "NeutralEvilTitleShort"
 msgid "NE"
@@ -131,7 +133,7 @@ msgstr ""
 
 msgctxt "NeutralGoodTitle"
 msgid "Neutral Good"
-msgstr ""
+msgstr "중립 선"
 
 msgctxt "NeutralGoodTitleShort"
 msgid "NG"
@@ -139,7 +141,7 @@ msgstr ""
 
 msgctxt "NeutralTitle"
 msgid "Neutral"
-msgstr ""
+msgstr "중립"
 
 msgctxt "NeutralTitleShort"
 msgid "N"
