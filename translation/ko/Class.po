@@ -1,20 +1,22 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-08-12 12:58+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/class/ko/>"
+"\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.3.6\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "CharacterClassSubTitle"
 msgid "Character Class"
-msgstr ""
+msgstr "캐릭터 클래스"
 
 msgctxt "CharacterRaceSubTitle"
 msgid "Character Ancestry"
@@ -30,7 +32,7 @@ msgstr ""
 
 msgctxt "ClericTitle"
 msgid "Cleric"
-msgstr ""
+msgstr "클레릭"
 
 msgctxt "FighterDescription"
 msgid ""
@@ -41,7 +43,7 @@ msgstr ""
 
 msgctxt "FighterTitle"
 msgid "Fighter"
-msgstr ""
+msgstr "파이터"
 
 msgctxt "PaladinDescription"
 msgid ""
@@ -52,7 +54,7 @@ msgstr ""
 
 msgctxt "PaladinTitle"
 msgid "Paladin"
-msgstr ""
+msgstr "팔라딘"
 
 msgctxt "RangerDescription"
 msgid ""
@@ -63,7 +65,7 @@ msgstr ""
 
 msgctxt "RangerTitle"
 msgid "Ranger"
-msgstr ""
+msgstr "레인저"
 
 msgctxt "RogueDescription"
 msgid ""
@@ -75,7 +77,7 @@ msgstr ""
 
 msgctxt "RogueTitle"
 msgid "Rogue"
-msgstr ""
+msgstr "로그"
 
 msgctxt "WizardDescription"
 msgid ""
@@ -86,7 +88,7 @@ msgstr ""
 
 msgctxt "WizardTitle"
 msgid "Wizard"
-msgstr ""
+msgstr "위자드"
 
 msgctxt "SorcererDescription"
 msgid ""
@@ -97,7 +99,7 @@ msgstr ""
 
 msgctxt "SorcererTitle"
 msgid "Sorcerer"
-msgstr ""
+msgstr "소서러"
 
 msgctxt "BarbarianDescription"
 msgid ""
@@ -107,14 +109,16 @@ msgstr ""
 
 msgctxt "BarbarianTitle"
 msgid "Barbarian"
-msgstr ""
+msgstr "바바리안"
 
+#, fuzzy
 msgctxt "DruidDescription"
 msgid ""
 "Druids are part of an ancient order dedicated to nature. Their powers and "
 "spells are attuned to animals, plants and the elementary forces."
 msgstr ""
+"드루이드는 자연을 떠받드는 고대 질서에 헌신하는 자들입니다. 드루이드는 동물과 식물 그리고 자연의 위대함에서 힘과 주문을 끌어냅니다."
 
 msgctxt "DruidTitle"
 msgid "Druid"
-msgstr ""
+msgstr "드루이드"
