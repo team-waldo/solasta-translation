@@ -1,28 +1,30 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-08-12 12:58+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/setting/ko/"
+">\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.3.6\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "ApplyDescription"
 msgid "Apply the changes you have selected."
-msgstr ""
+msgstr "선택한 변경 사항을 적용합니다."
 
 msgctxt "ApplyNoChangeDescription"
 msgid "Settings have not changed."
-msgstr ""
+msgstr "설정이 변경되지 않았습니다."
 
 msgctxt "ApplyTitle"
 msgid "Apply"
-msgstr ""
+msgstr "적용"
 
 msgctxt "AutosaveCountDescription"
 msgid "The number of autosaves kept."
@@ -86,7 +88,7 @@ msgstr ""
 
 msgctxt "DamageAcidStyleDescription"
 msgid "Die style used for this type of damage."
-msgstr ""
+msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니다."
 
 msgctxt "DamageAcidStyleTitle"
 msgid "Acid Damage Style"
@@ -94,7 +96,7 @@ msgstr ""
 
 msgctxt "DamageBludgeoningStyleDescription"
 msgid "Die style used for this type of damage."
-msgstr ""
+msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니다."
 
 msgctxt "DamageBludgeoningStyleTitle"
 msgid "Bludgeoning Damage Style"
@@ -102,7 +104,7 @@ msgstr ""
 
 msgctxt "DamageColdStyleDescription"
 msgid "Die style used for this type of damage."
-msgstr ""
+msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니다."
 
 msgctxt "DamageColdStyleTitle"
 msgid "Cold Damage Style"
@@ -110,7 +112,7 @@ msgstr ""
 
 msgctxt "DamageFireStyleDescription"
 msgid "Die style used for this type of damage."
-msgstr ""
+msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니다."
 
 msgctxt "DamageFireStyleTitle"
 msgid "Fire Damage Style"
@@ -118,7 +120,7 @@ msgstr ""
 
 msgctxt "DamageForceStyleDescription"
 msgid "Die style used for this type of damage."
-msgstr ""
+msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니다."
 
 msgctxt "DamageForceStyleTitle"
 msgid "Force Damage Style"
@@ -126,7 +128,7 @@ msgstr ""
 
 msgctxt "DamageLightningStyleDescription"
 msgid "Die style used for this type of damage."
-msgstr ""
+msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니다."
 
 msgctxt "DamageLightningStyleTitle"
 msgid "Lightning Damage Style"
@@ -134,7 +136,7 @@ msgstr ""
 
 msgctxt "DamageNecroticStyleDescription"
 msgid "Die style used for this type of damage."
-msgstr ""
+msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니다."
 
 msgctxt "DamageNecroticStyleTitle"
 msgid "Necrotic Damage Style"
@@ -142,7 +144,7 @@ msgstr ""
 
 msgctxt "DamagePiercingStyleDescription"
 msgid "Die style used for this type of damage."
-msgstr ""
+msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니다."
 
 msgctxt "DamagePiercingStyleTitle"
 msgid "Piercing Damage Style"
@@ -150,7 +152,7 @@ msgstr ""
 
 msgctxt "DamagePoisonStyleDescription"
 msgid "Die style used for this type of damage."
-msgstr ""
+msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니다."
 
 msgctxt "DamagePoisonStyleTitle"
 msgid "Poison Damage Style"
@@ -158,7 +160,7 @@ msgstr ""
 
 msgctxt "DamagePsychicStyleDescription"
 msgid "Die style used for this type of damage."
-msgstr ""
+msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니다."
 
 msgctxt "DamagePsychicStyleTitle"
 msgid "Psychic Damage Style"
@@ -166,7 +168,7 @@ msgstr ""
 
 msgctxt "DamageRadiantStyleDescription"
 msgid "Die style used for this type of damage."
-msgstr ""
+msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니다."
 
 msgctxt "DamageRadiantStyleTitle"
 msgid "Radiant Damage Style"
@@ -174,7 +176,7 @@ msgstr ""
 
 msgctxt "DamageSlashingStyleDescription"
 msgid "Die style used for this type of damage."
-msgstr ""
+msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니다."
 
 msgctxt "DamageSlashingStyleTitle"
 msgid "Slashing Damage Style"
@@ -182,7 +184,7 @@ msgstr ""
 
 msgctxt "DamageThunderStyleDescription"
 msgid "Die style used for this type of damage."
-msgstr ""
+msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니다."
 
 msgctxt "DamageThunderStyleTitle"
 msgid "Thunder Damage Style"
@@ -202,7 +204,7 @@ msgstr ""
 
 msgctxt "DisplayTutorialTitle"
 msgid "Display Tutorial"
-msgstr ""
+msgstr "튜토리얼 표시"
 
 msgctxt "EffectsVolumeDescription"
 msgid "Change sound effects volume."
@@ -232,11 +234,11 @@ msgstr ""
 
 msgctxt "FullscreenDescription"
 msgid "Display the game in full screen or windowed mode."
-msgstr ""
+msgstr "게임을 전체 화면 또는 창 모드로 표시합니다."
 
 msgctxt "FullscreenTitle"
 msgid "Full Screen"
-msgstr ""
+msgstr "전체 화면"
 
 msgctxt "GroupedMonsterInitiativesDescription"
 msgid ""
@@ -258,7 +260,7 @@ msgstr ""
 
 msgctxt "MainTitle"
 msgid "Settings"
-msgstr ""
+msgstr "설정"
 
 msgctxt "MasterEnabledDescription"
 msgid "All audio on/off."
@@ -346,7 +348,7 @@ msgstr ""
 msgctxt "QualityLevelDescription"
 msgid ""
 "Graphical quality. Hight quality requires a more powerful graphics card."
-msgstr ""
+msgstr "그래픽 품질. 높은 품질일수록 더 좋은 그래픽 카드가 필요합니다."
 
 msgctxt "QualityLevelHighDescription"
 msgid "Good for high-end systems"
@@ -354,7 +356,7 @@ msgstr ""
 
 msgctxt "QualityLevelHighTitle"
 msgid "High"
-msgstr ""
+msgstr "높음"
 
 msgctxt "QualityLevelLowDescription"
 msgid "Good for low-end systems"
@@ -362,7 +364,7 @@ msgstr ""
 
 msgctxt "QualityLevelLowTitle"
 msgid "Low"
-msgstr ""
+msgstr "낮음"
 
 msgctxt "QualityLevelMediumDescription"
 msgid "Good for middle-range systems"
@@ -370,7 +372,7 @@ msgstr ""
 
 msgctxt "QualityLevelMediumTitle"
 msgid "Medium"
-msgstr ""
+msgstr "중간"
 
 msgctxt "QualityLevelTitle"
 msgid "Quality Level"
@@ -382,7 +384,7 @@ msgstr ""
 
 msgctxt "QualityLevelUltraTitle"
 msgid "Ultra"
-msgstr ""
+msgstr "울트라"
 
 msgctxt "QualityLevelVery HighDescription"
 msgid "Good for powerful systems"
@@ -390,7 +392,7 @@ msgstr ""
 
 msgctxt "QualityLevelVery HighTitle"
 msgid "Very High"
-msgstr ""
+msgstr "매우 높음"
 
 msgctxt "QualityLevelVery LowDescription"
 msgid "Works with the weakest systems"
@@ -398,7 +400,7 @@ msgstr ""
 
 msgctxt "QualityLevelVery LowTitle"
 msgid "Very Low"
-msgstr ""
+msgstr "매우 낮음"
 
 msgctxt "QuicksaveCountDescription"
 msgid "The number of quicksaves kept."
@@ -424,7 +426,7 @@ msgstr ""
 
 msgctxt "ResolutionTitle"
 msgid "Resolution"
-msgstr ""
+msgstr "해상도"
 
 msgctxt "RollAbilityCheckDieDescription"
 msgid ""
@@ -513,7 +515,7 @@ msgstr ""
 
 msgctxt "ShowHelmetInPortraitTitle"
 msgid "Show Helmet in Portrait"
-msgstr ""
+msgstr "초상화에 머리 방어구 표시"
 
 msgctxt "TargetFramerateDescription"
 msgid ""
@@ -527,31 +529,31 @@ msgstr ""
 
 msgctxt "TextLanguagedeDescription"
 msgid "Deutsch"
-msgstr ""
+msgstr "독일어"
 
 msgctxt "TextLanguageDescription"
 msgid "The language used for in-game text."
-msgstr ""
+msgstr "게임에서 사용할 언어를 설정합니다."
 
 msgctxt "TextLanguagedeTitle"
 msgid "Deutsch"
-msgstr ""
+msgstr "독일어"
 
 msgctxt "TextLanguageenDescription"
 msgid "English"
-msgstr ""
+msgstr "영어"
 
 msgctxt "TextLanguageenTitle"
 msgid "English"
-msgstr ""
+msgstr "영어"
 
 msgctxt "TextLanguagefrDescription"
 msgid "Français"
-msgstr ""
+msgstr "프랑스어"
 
 msgctxt "TextLanguagefrTitle"
 msgid "Français"
-msgstr ""
+msgstr "프랑스어"
 
 msgctxt "TextLanguageTitle"
 msgid "Texts Language"
@@ -559,11 +561,11 @@ msgstr ""
 
 msgctxt "TextLanguagezh-CNDescription"
 msgid "简体中文"
-msgstr ""
+msgstr "중국어 간체"
 
 msgctxt "TextLanguagezh-CNTitle"
 msgid "简体中文"
-msgstr ""
+msgstr "중국어 간체"
 
 msgctxt "TimeDisplayMode24Description"
 msgid "Time display uses the 24 hour clock."
@@ -603,7 +605,7 @@ msgstr ""
 
 msgctxt "ToggleDiceTitle"
 msgid "Dice"
-msgstr ""
+msgstr "주사위"
 
 msgctxt "ToggleGameDescription"
 msgid "Click this tab to change gameplay settings."
@@ -611,7 +613,7 @@ msgstr ""
 
 msgctxt "ToggleGameTitle"
 msgid "Game"
-msgstr ""
+msgstr "게임"
 
 msgctxt "ToggleGraphicsDescription"
 msgid "Click this tab to change graphics and display settings."
@@ -619,7 +621,7 @@ msgstr ""
 
 msgctxt "ToggleGraphicsTitle"
 msgid "Graphics"
-msgstr ""
+msgstr "그래픽"
 
 msgctxt "ToggleGuiDescription"
 msgid "Click this tab to change user interface settings."
@@ -1054,7 +1056,7 @@ msgstr ""
 
 msgctxt "ToggleKeyboardTitle"
 msgid "Keyboard"
-msgstr ""
+msgstr "키보드"
 
 msgctxt "GeneralHeaderTitle"
 msgid "General"
@@ -1070,11 +1072,11 @@ msgstr ""
 
 msgctxt "QuickSaveTitle"
 msgid "Quick Save"
-msgstr ""
+msgstr "빠른 저장"
 
 msgctxt "QuickLoadTitle"
 msgid "Quick Load"
-msgstr ""
+msgstr "빠른 불러오기"
 
 msgctxt "ToggleMapTitle"
 msgid "Toggle Map"
@@ -1090,7 +1092,7 @@ msgstr ""
 
 msgctxt "ShowDetailedInformationTitle"
 msgid "Highlight Interactive Elements"
-msgstr ""
+msgstr "상호 작용 가능한 물체 강조"
 
 msgctxt "CharacterControlHeaderTitle"
 msgid "Character Control"
@@ -1106,31 +1108,31 @@ msgstr ""
 
 msgctxt "EndTurnTitle"
 msgid "End Turn"
-msgstr ""
+msgstr "턴 종료"
 
 msgctxt "SelectNextCharacterTitle"
 msgid "Select Next Character"
-msgstr ""
+msgstr "다음 캐릭터 선택"
 
 msgctxt "SelectAllCharactersTitle"
 msgid "Select All Characters"
-msgstr ""
+msgstr "모든 캐릭터 선택"
 
 msgctxt "SelectCharacter1Title"
 msgid "Select Character 1"
-msgstr ""
+msgstr "캐릭터 1 선택"
 
 msgctxt "SelectCharacter2Title"
 msgid "Select Character 2"
-msgstr ""
+msgstr "캐릭터 2 선택"
 
 msgctxt "SelectCharacter3Title"
 msgid "Select Character 3"
-msgstr ""
+msgstr "캐릭터 3 선택"
 
 msgctxt "SelectCharacter4Title"
 msgid "Select Character 4"
-msgstr ""
+msgstr "캐릭터 4 선택"
 
 msgctxt "EnablePlanarTargettingDescription"
 msgid ""
@@ -1148,27 +1150,27 @@ msgstr ""
 
 msgctxt "LeftTitle"
 msgid "Move Left"
-msgstr ""
+msgstr "왼쪽으로 이동"
 
 msgctxt "RightTitle"
 msgid "Move Right"
-msgstr ""
+msgstr "오른쪽으로 이동"
 
 msgctxt "ForwardTitle"
 msgid "Move Forward"
-msgstr ""
+msgstr "앞으로 이동"
 
 msgctxt "BackwardTitle"
 msgid "Move Backward"
-msgstr ""
+msgstr "뒤로 이동"
 
 msgctxt "RotateCCWTitle"
 msgid "Rotate Counterclockwise"
-msgstr ""
+msgstr "시계 반대 방향으로 회전"
 
 msgctxt "RotateCWTitle"
 msgid "Rotate Clockwise"
-msgstr ""
+msgstr "시계 방향으로 회전"
 
 msgctxt "HeldZoomTitle"
 msgid "Hold to Zoom to Character"
@@ -1176,19 +1178,19 @@ msgstr ""
 
 msgctxt "ZoomInTitle"
 msgid "Zoom In"
-msgstr ""
+msgstr "확대"
 
 msgctxt "ZoomOutTitle"
 msgid "Zoom Out"
-msgstr ""
+msgstr "축소"
 
 msgctxt "KeyMappingUnboundTitle"
 msgid "Unbound"
-msgstr ""
+msgstr "미지정됨"
 
 msgctxt "KeyMappingImmutableDescription"
 msgid "This keyboard mapping cannot be modified by the user."
-msgstr ""
+msgstr "이 키보드 설정은 수정이 불가능합니다."
 
 msgctxt "InputKeyTitle"
 msgid "Hit a Key"
@@ -1335,11 +1337,11 @@ msgstr ""
 
 msgctxt "DifficultySettingsHeaderTitle"
 msgid "Difficulty Settings - can be changed during play"
-msgstr ""
+msgstr "난이도 설정 - 게임 중에도 변경 가능"
 
 msgctxt "DifficultyPresetTitle"
 msgid "Difficulty"
-msgstr ""
+msgstr "난이도"
 
 msgctxt "DifficultyPresetDescription"
 msgid "Choose from a list of difficulty presets."
@@ -1347,7 +1349,7 @@ msgstr ""
 
 msgctxt "DifficultyPresetPreset1Title"
 msgid "Story Mode"
-msgstr ""
+msgstr "스토리 모드"
 
 msgctxt "DifficultyPresetPreset1Description"
 msgid ""
@@ -1357,7 +1359,7 @@ msgstr ""
 
 msgctxt "DifficultyPresetPreset2Title"
 msgid "Explorer Mode"
-msgstr ""
+msgstr "탐험가 모드"
 
 msgctxt "DifficultyPresetPreset2Description"
 msgid "For players unfamiliar with tactical RPGs or the ruleset."
@@ -1373,7 +1375,7 @@ msgstr ""
 
 msgctxt "DifficultyPresetPreset4Title"
 msgid "Scavenger Mode"
-msgstr ""
+msgstr "스캐빈저 모드"
 
 msgctxt "DifficultyPresetPreset4Description"
 msgid "For players who are ready for a harder challenge."
@@ -1381,7 +1383,7 @@ msgstr ""
 
 msgctxt "DifficultyPresetPreset5Title"
 msgid "Cataclysm Mode"
-msgstr ""
+msgstr "대격변 모드"
 
 msgctxt "DifficultyPresetPreset5Description"
 msgid "For players looking to defy the odds. You will suffer. A lot."
@@ -1389,7 +1391,7 @@ msgstr ""
 
 msgctxt "CustomDifficultyTitle"
 msgid "Custom Difficulty"
-msgstr ""
+msgstr "커스텀 난이도"
 
 msgctxt "CustomDifficultyDescription"
 msgid "Allows you to pick and choose the settings you want."
@@ -1744,23 +1746,23 @@ msgstr ""
 
 msgctxt "ScrollSensitivityDescription"
 msgid "Sets the speed for scrolling areas with the mouse wheel."
-msgstr ""
+msgstr "마우스 휠을 굴릴 때 스크롤이 움직이는 속도를 조절합니다."
 
 msgctxt "ScrollSensitivityTitle"
 msgid "Scroll Sensitivity"
-msgstr ""
+msgstr "스크롤 감도"
 
 msgctxt "ShadowsTitle"
 msgid "Shadows"
-msgstr ""
+msgstr "그림자"
 
 msgctxt "ShadowsDescription"
 msgid "Enable or disable shadows."
-msgstr ""
+msgstr "그림자를 켜거나 끕니다."
 
 msgctxt "SubtitlesHeaderTitle"
 msgid "Subtitles"
-msgstr ""
+msgstr "자막"
 
 msgctxt "SubtitlesEnabledDescription"
 msgid "Enable/disable subtitles during cutscenes."
@@ -1819,16 +1821,16 @@ msgstr ""
 
 msgctxt "TextLanguageruTitle"
 msgid "Русский"
-msgstr ""
+msgstr "러시아어"
 
 msgctxt "TextLanguageruDescription"
 msgid "Русский"
-msgstr ""
+msgstr "러시아어"
 
 msgctxt "TextLanguagept-BRTitle"
 msgid "Português (Brasil)"
-msgstr ""
+msgstr "포르투갈어"
 
 msgctxt "TextLanguagept-BRDescription"
 msgid "Português (Brasil)"
-msgstr ""
+msgstr "포르투갈어"
