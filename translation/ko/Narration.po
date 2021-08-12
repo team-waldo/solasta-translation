@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
 "PO-Revision-Date: 2021-08-13 03:57+0000\n"
-"Last-Translator: 김성진 <lull_@naver.com>\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
 "Language: ko\n"
@@ -2696,7 +2696,7 @@ msgstr ""
 
 msgctxt "Introduction_SpellcastingTuto_success_wisecracker"
 msgid "Orcs? Of course, that explains the smell… "
-msgstr ""
+msgstr "오크? 그래서 고약한 냄새가 나던 거였군... "
 
 msgctxt "Introduction_SpellcastingTuto_success_highclass"
 msgid "My word, this is an orc hideout! The malodor is unmistakable."
@@ -2737,11 +2737,11 @@ msgstr ""
 
 msgctxt "Introduction_SpellcastingTuto_SeeingOrcs"
 msgid "There they are… "
-msgstr ""
+msgstr "저기 있군... "
 
 msgctxt "Introduction_SpellcastingTuto_SeeingOrcs2_normal"
 msgid "…if they see me, I'm dead."
-msgstr ""
+msgstr "...마주치면 난 죽은 목숨이야."
 
 msgctxt "Introduction_SpellcastingTuto_SeeingOrcs2_formal"
 msgid "…discretion is clearly the better part of valor in this instance."
@@ -2749,7 +2749,7 @@ msgstr ""
 
 msgctxt "Introduction_SpellcastingTuto_SeeingOrcs2_slang"
 msgid "…head down, or I'm next on the menu."
-msgstr ""
+msgstr "...여기서 고개를 들면 나는 다음 식사거리가 되겠지."
 
 msgctxt "Introduction_SpellcastingTuto_SeeingOrcs3_normal"
 msgid "What's worse, it looks like this is the only way out."
@@ -2769,7 +2769,7 @@ msgstr ""
 
 msgctxt "Introduction_SpellcastingTuto_SeeingOrcs4_formal"
 msgid "Fine, then, I shall wait until they go. These creatures do hunt, right?"
-msgstr ""
+msgstr "그럼, 놈들이 나갈 때까지 기다려지. 저 녀석들도 사냥을 할테니까."
 
 msgctxt "Introduction_SpellcastingTuto_SeeingOrcs4_slang"
 msgid ""
@@ -2790,15 +2790,15 @@ msgstr ""
 
 msgctxt "Council_00_4_Any_Default"
 msgid "Look! Is that… "
-msgstr ""
+msgstr "저길 봐! 저 분이... "
 
 msgctxt "Council_00_5_Any_Default"
 msgid "The Princess!"
-msgstr ""
+msgstr "공주님이네!"
 
 msgctxt "Council_00_6_Any_Default"
 msgid "Wait… is she leaving?"
-msgstr ""
+msgstr "뭐야... 지금 떠나시는거야?"
 
 msgctxt "Council_00_7_joker_Default"
 msgid "Apparently so… "
@@ -2806,7 +2806,7 @@ msgstr ""
 
 msgctxt "Council_00_8_Any_Default"
 msgid "Then who will administer the oath?"
-msgstr ""
+msgstr "그럼 맹세는 누가 진행하는 거지?"
 
 msgctxt "Council_00_9_joker_Default_WRITTEN"
 msgid "The maid who empties her chamber pot?"
@@ -2814,7 +2814,7 @@ msgstr ""
 
 msgctxt "Council_00_9_mean_Default_WRITTEN"
 msgid "We're too low for her."
-msgstr ""
+msgstr "공주님을 뵙기에는 우리가 급이 낮나봐."
 
 msgctxt "Council_00_9_anyother_Default_WRITTEN"
 msgid "It's not her role."
@@ -2836,7 +2836,7 @@ msgstr ""
 
 msgctxt "Council_00_10_Carran_NPC"
 msgid "You thought it would be the Princess? "
-msgstr ""
+msgstr "공주님 소관인 줄 아셨나요? "
 
 msgctxt "Council_00_11_Any_Default_WRITTEN"
 msgid "She doesn't rule the Council?"
@@ -2880,7 +2880,7 @@ msgstr ""
 
 msgctxt "Council_00_19_Serious_Default"
 msgid "Very well. Pay attention. All of you."
-msgstr ""
+msgstr "좋아. 모두들 주목하십시오."
 
 msgctxt "Council_00_20_Serious_Slang"
 msgid "Pipe down. "
@@ -2888,7 +2888,7 @@ msgstr ""
 
 msgctxt "Council_00_20_Serious_Normal"
 msgid "Shhh, quiet everyone!"
-msgstr ""
+msgstr "쉿, 모두 조용히 해!"
 
 msgctxt "Council_00_21_Chamberlain_NPC"
 msgid "My name is Leira Kean, Oathkeeper of the Council."
@@ -2911,7 +2911,7 @@ msgstr ""
 
 msgctxt "Council_00_25_Chamberlain_NPC"
 msgid "Now, please, raise your right hands."
-msgstr ""
+msgstr "자, 오른손을 들어 올리십시오."
 
 msgctxt "Council_00_26_Chamberlain_NPC"
 msgid ""
@@ -2927,11 +2927,11 @@ msgstr ""
 
 msgctxt "Council_00_28_All_Default_WRITTEN"
 msgid "I swear."
-msgstr ""
+msgstr "맹세합니다."
 
 msgctxt "Council_00_28_All_Default"
 msgid "I swear."
-msgstr ""
+msgstr "맹세합니다."
 
 msgctxt "Council_00_29_Chamberlain_NPC"
 msgid ""
@@ -2945,11 +2945,11 @@ msgstr ""
 
 msgctxt "Council_00_31_Any_Default"
 msgid "Wait, that's it?"
-msgstr ""
+msgstr "잠깐, 그게 다야?"
 
 msgctxt "Council_00_32_Joke_WRITTEN"
 msgid "You were expecting a parade?"
-msgstr ""
+msgstr "축하 행진이라도 있을 줄 알았어?"
 
 msgctxt "Council_00_32_Longenough_WRITTEN"
 msgid "That was long enough."
@@ -2957,7 +2957,7 @@ msgstr ""
 
 msgctxt "Council_00_32_Exitline_WRITTEN"
 msgid "Let's focus on the mission."
-msgstr ""
+msgstr "임무에 집중하자."
 
 msgctxt "Council_00_32_joker_Default"
 msgid "What were you expecting? A parade? "
@@ -2965,7 +2965,7 @@ msgstr ""
 
 msgctxt "Council_00_32_joker_Slang"
 msgid "Were you hoping for a kiss from the Princess?"
-msgstr ""
+msgstr "공주님이 키스라도 해줄 줄 알았어?"
 
 msgctxt "Council_00_33_Any_Default"
 msgid "I suppose you imagined something more pompous."
@@ -3082,7 +3082,7 @@ msgstr ""
 
 msgctxt "Council_00_53_Carran_NPC"
 msgid "So gather what you need and go. Time is of the essence."
-msgstr ""
+msgstr "그러니 필요한 물자를 꾸려 출발하십시오. 시간이 촉박합니다."
 
 msgctxt "Council_00_60_Marches_Choice"
 msgid "Wait! These Marches - they're not in the Badlands, are they?"
@@ -3210,11 +3210,11 @@ msgstr ""
 
 msgctxt "Bartender_Dialog_01_4_Any_WRITTEN"
 msgid "Your beer tastes bad."
-msgstr ""
+msgstr "여기 맥주 맛이 별로에요."
 
 msgctxt "Bartender_Dialog_01_5_Any_WRITTEN"
 msgid "We need a room."
-msgstr ""
+msgstr "하루 묵을 방이 필요해요."
 
 msgctxt "Bartender_Dialog_01_5_1_Any_WRITTEN"
 msgid "Goodbye."
