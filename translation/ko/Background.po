@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-12 12:58+0000\n"
+"PO-Revision-Date: 2021-08-13 03:57+0000\n"
 "Last-Translator: 쏙독새 <ssokdoksae@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/background/"
 "ko/>\n"
@@ -39,6 +39,7 @@ msgstr ""
 "당신은 특정한 신이나 신들의 대신전을 섬기는 데 평생을 바쳤습니다. 당신은 신들의 세계와 필멸의 세계 사이의 중개자 역할을 하며, "
 "성스러운 의식을 행하고 제물을 바쳐 예배자들을 신 앞으로 인도합니다."
 
+#, fuzzy
 msgctxt "AcolyteTitle"
 msgid "Acolyte"
 msgstr "복사"
@@ -81,7 +82,7 @@ msgstr ""
 
 msgctxt "KS_GarradMilesBackground_Title"
 msgid "Sellsword"
-msgstr ""
+msgstr "용병"
 
 msgctxt "KS_RhuadSwiftHandBackground_Description"
 msgid ""
@@ -101,7 +102,7 @@ msgstr ""
 
 msgctxt "KS_RhuadSwiftHandBackground_Title"
 msgid "Spy"
-msgstr ""
+msgstr "첩자"
 
 msgctxt "KS_VigdisKaikonnenBackground_Description"
 msgid ""
@@ -131,7 +132,7 @@ msgstr ""
 
 msgctxt "KS_VigdisKaikonnenBackground_Title"
 msgid "Aristocrat"
-msgstr ""
+msgstr "귀족"
 
 msgctxt "KS_VioletGoodCheerBackground_Description"
 msgid ""
@@ -155,7 +156,7 @@ msgstr ""
 
 msgctxt "KS_VioletGoodCheerBackground_Title"
 msgid "Philosopher"
-msgstr ""
+msgstr "철학자"
 
 msgctxt "LawkeeperDescription"
 msgid ""
