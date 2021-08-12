@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
 "PO-Revision-Date: 2021-08-13 03:57+0000\n"
-"Last-Translator: 권민규 <mgk0127@gmail.com>\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/action/ko/>"
 "\n"
 "Language: ko\n"
@@ -308,7 +308,7 @@ msgstr "주의 모드를 활성화/비활성화합니다. 신중한 성격은 �
 
 msgctxt "CautiousTitle"
 msgid "Cautious"
-msgstr "신중한"
+msgstr "주의 모드"
 
 #, fuzzy
 msgctxt "ClimbDescription"
@@ -367,6 +367,7 @@ msgctxt "DodgeTitle"
 msgid "Dodge"
 msgstr "회피"
 
+#, fuzzy
 msgctxt "DropProneDescription"
 msgid ""
 "You can drop prone without using any of your speed. To move while prone, you "
@@ -376,14 +377,17 @@ msgid ""
 "you have advantage, ranged attacks against you have disadvantage, your own "
 "attacks have disadvantage."
 msgstr ""
+"속도를 사용하지 않고 포복할 수 있습니다. 엎드린 상태에서 이동하려면 기어가거나 순간이동과 같은 마법을 사용해야 합니다. 기어가는 동안 "
+"이동 비용이 2배가 됩니다. 따라서 험한 지형에서 기어가는 비용은 3배가 됩니다. 엎드린 자세에서는 포복 상태를 얻습니다. 적의 근접 "
+"공격은 유리하고, 원거리 공격은 불리하고, 자신의 공격은 불리합니다."
 
 msgctxt "DropProneTitle"
 msgid "Drop"
-msgstr ""
+msgstr "포복"
 
 msgctxt "EnemyCreatureTitle"
 msgid "Enemy Creature"
-msgstr "적대적 크리처"
+msgstr "적대적 크리쳐"
 
 msgctxt "EnemyTargetHeaderTitle"
 msgid "{0} (Enemy)"
@@ -407,7 +411,7 @@ msgstr "소화"
 
 msgctxt "FriendlyCreatureTitle"
 msgid "Friendly Creature"
-msgstr "우호적 크리처"
+msgstr "우호적 크리쳐"
 
 msgctxt "FriendlyTargetHeaderTitle"
 msgid "{0} (Friendly)"
@@ -450,7 +454,7 @@ msgstr "대상 캐릭터를 띄우거나 내립니다."
 
 msgctxt "LevitateTitle"
 msgid "Levitate"
-msgstr ""
+msgstr "공중 부양"
 
 msgctxt "MoveDescription"
 msgid ""
@@ -588,7 +592,7 @@ msgctxt "BreakEnchantmentDescription"
 msgid ""
 "Touch a creature to remove a detrimental condition (charmed, frightened, "
 "possessed)."
-msgstr ""
+msgstr "해로운 효과(매혹, 공포, 빙의)를 제거하기 위해 크리쳐를 터치하십시오."
 
 msgctxt "DismissalTitle"
 msgid "Dismissal"
@@ -645,4 +649,4 @@ msgstr ""
 
 msgctxt "RecklessAttackTitle"
 msgid "Reckless Attack"
-msgstr ""
+msgstr "무모한 공격"
