@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-12 12:58+0000\n"
+"PO-Revision-Date: 2021-08-13 03:57+0000\n"
 "Last-Translator: Akintos <akintos47@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/screen/ko/>"
 "\n"
@@ -94,7 +94,7 @@ msgstr ""
 
 msgctxt "AttackToHitTitle"
 msgid "to Hit"
-msgstr ""
+msgstr "명중"
 
 msgctxt "AttunableItemsTitle"
 msgid "Items that can be attuned."
@@ -252,7 +252,7 @@ msgstr ""
 
 msgctxt "ClassDeityTitle"
 msgid "Deity"
-msgstr ""
+msgstr "신앙"
 
 msgctxt "ClassFeaturesTitle"
 msgid "Class Features"
@@ -260,7 +260,7 @@ msgstr ""
 
 msgctxt "ClassHeaderTitle"
 msgid "Class"
-msgstr ""
+msgstr "클래스"
 
 msgctxt "ClassHitDiceDescription"
 msgid ""
@@ -659,23 +659,23 @@ msgstr ""
 
 msgctxt "EncumbranceHeavyTitle"
 msgid "Heavy"
-msgstr ""
+msgstr "무거움"
 
 msgctxt "EncumbranceLightTitle"
 msgid "Light"
-msgstr ""
+msgstr "가벼움"
 
 msgctxt "EncumbranceNoneTitle"
 msgid "None"
-msgstr ""
+msgstr "없음"
 
 msgctxt "EncumbranceTitle"
 msgid "Encumbrance"
-msgstr ""
+msgstr "하중"
 
 msgctxt "EndTurnDescription"
 msgid "End this character's turn and move on to the next creature to act."
-msgstr ""
+msgstr "이 캐릭터의 턴을 종료하고 다음 크리쳐의 행동으로 넘어갑니다."
 
 msgctxt "EndTurnTitle"
 msgid "End Turn"
@@ -687,7 +687,7 @@ msgstr ""
 
 msgctxt "EquipmentTitle"
 msgid "Equipment"
-msgstr ""
+msgstr "장비"
 
 msgctxt "EthnicGroupSelectionTitle"
 msgid "Select an origin."
@@ -699,7 +699,7 @@ msgstr ""
 
 msgctxt "ExamineDocumentTitle"
 msgid "Read"
-msgstr ""
+msgstr "읽기"
 
 msgctxt "ExistingClassSelectionTitle"
 msgid "Select an existing class to level up."
@@ -865,7 +865,7 @@ msgstr ""
 
 msgctxt "JournalAdventureTitle"
 msgid "<#F5B486>A</color>dventure <#F5B486>L</color>og"
-msgstr ""
+msgstr "모험 일지"
 
 msgctxt "JournalBattleOutcomeTitle"
 msgid "Victory"
@@ -1033,32 +1033,32 @@ msgstr ""
 
 msgctxt "JournalNewDayColorTitle"
 msgid "<#F5B486>D</color>ay"
-msgstr ""
+msgstr "<#F5B486>D</color>ay"
 
 msgctxt "JournalNewDayTitle"
 msgid "Day"
-msgstr ""
+msgstr "Day"
 
 msgctxt "JournalQuestCompletedTitle"
 msgid "Quest Completed:"
-msgstr ""
+msgstr "퀘스트 완료:"
 
 msgctxt "JournalQuestFailedTitle"
 msgid "Quest Failed:"
-msgstr ""
+msgstr "퀘스트 실패:"
 
 msgctxt "JournalQuestLogDescription"
 msgid ""
 "Lists the active and completed quests, along with your current objectives."
-msgstr ""
+msgstr "현재 활성화된 퀘스트와 완료한 퀘스트 목록과 현재 목표를 표시합니다."
 
 msgctxt "JournalQuestLogTitle"
 msgid "<#F5B486>Q</color>uest <#F5B486>L</color>og"
-msgstr ""
+msgstr "<#F5B486>퀘</color>스트 <#F5B486>일</color>지"
 
 msgctxt "JournalQuestStartedTitle"
 msgid "Quest Started:"
-msgstr ""
+msgstr "퀘스트 시작:"
 
 msgctxt "JournalQuestUpdatedSummaryFormat"
 msgid "{0} (continued)"
@@ -1070,7 +1070,7 @@ msgstr ""
 
 msgctxt "JournalRelationDecreasedFormat"
 msgid "Relationship with {1} decreased to {0}. "
-msgstr ""
+msgstr "{1}와(과)의 관계가 {0}(으)로 감소했습니다. "
 
 msgctxt "JournalRelationDecreasedTitle"
 msgid "Relationship Decreased:"
@@ -1090,7 +1090,7 @@ msgstr ""
 
 msgctxt "JournalTimecodeDayFormat"
 msgid "Day {0}"
-msgstr ""
+msgstr "{0}일차"
 
 msgctxt "JournalTimecodeHourMinute24Format"
 msgid "{0}:{1}"
@@ -1132,11 +1132,11 @@ msgstr ""
 
 msgctxt "JournalTutorialForumsTitle"
 msgid "Solasta Forums"
-msgstr ""
+msgstr "솔라스타 포럼"
 
 msgctxt "JournalTutorialSRDAddress"
 msgid "https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf"
-msgstr ""
+msgstr "https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf"
 
 msgctxt "JournalTutorialSRDDescription"
 msgid "Read about the rules system Solasta uses."
@@ -1148,11 +1148,11 @@ msgstr ""
 
 msgctxt "JournalTutorialTitle"
 msgid "<#F5B486>T</color>utorial"
-msgstr ""
+msgstr "<#F5B486>튜</color>토리얼"
 
 msgctxt "JournalTutorialWikiAddress"
 msgid "https://forums.solasta-game.com/"
-msgstr ""
+msgstr "https://forums.solasta-game.com/"
 
 msgctxt "JournalTutorialWikiDescription"
 msgid ""
@@ -1163,7 +1163,7 @@ msgstr ""
 
 msgctxt "JournalTutorialWikiTitle"
 msgid "Solasta Wiki"
-msgstr ""
+msgstr "솔라스타 위키"
 
 msgctxt "KnownCantripsTitle"
 msgid "Known Cantrips"
@@ -1732,7 +1732,7 @@ msgstr ""
 
 msgctxt "RaceHeaderTitle"
 msgid "Ancestry"
-msgstr ""
+msgstr "혈통"
 
 msgctxt "RacialFeaturesTitle"
 msgid "Ancestry Features"
@@ -1752,11 +1752,11 @@ msgctxt "ReadyMeleeAttackDescription"
 msgid ""
 "Use your currently equipped weapon to attack the first enemy that moves into "
 "melee range."
-msgstr ""
+msgstr "현재 착용 중인 무기를 사용해 근접 범위 안으로 들어오는 첫 번째 적을 공격합니다."
 
 msgctxt "ReadyMeleeAttackTitle"
 msgid "Melee Attack"
-msgstr ""
+msgstr "근접 공격"
 
 msgctxt "ReadyOptionsTitle"
 msgid "Ready Options"
@@ -1956,11 +1956,11 @@ msgstr ""
 
 msgctxt "SaveGameDescription"
 msgid "Save the current game."
-msgstr ""
+msgstr "현재 게임을 저장합니다."
 
 msgctxt "SaveGameTitle"
 msgid "Save Game"
-msgstr ""
+msgstr "게임 저장"
 
 msgctxt "ScoreAutoAssignButtonTitle"
 msgid "Auto Assign"
@@ -2135,23 +2135,23 @@ msgstr ""
 
 msgctxt "ShoveModeKnockProneDescription"
 msgid "Knock a creature prone."
-msgstr ""
+msgstr "크리쳐를 밀쳐 넘어트립니다."
 
 msgctxt "ShoveModeKnockProneTitle"
 msgid "Knock Prone"
-msgstr ""
+msgstr "쓰러트리기"
 
 msgctxt "ShoveModePushAwayDescription"
 msgid "Push a creature in the direction you are facing."
-msgstr ""
+msgstr "당신이 바라보고 있는 방향으로 크리쳐를 밀어냅니다."
 
 msgctxt "ShoveModePushAwayTitle"
 msgid "Push Away"
-msgstr ""
+msgstr "밀쳐내기"
 
 msgctxt "ShoveOptionsTitle"
 msgid "Shove Options"
-msgstr ""
+msgstr "밀치기 선택"
 
 msgctxt "SkipButtonDescription"
 msgid "Skip forward until next dialog choice, if any."
@@ -2330,7 +2330,7 @@ msgstr ""
 
 msgctxt "SwitchConfiguration2Title"
 msgid "Light Source"
-msgstr ""
+msgstr "조명"
 
 msgctxt "SwitchConfigurationDescription"
 msgid "Click to switch your equipped items to this configuration: {0}."
@@ -2551,11 +2551,11 @@ msgctxt "ReviewGameDescription"
 msgid ""
 "Thank you for playing Solasta! Click here to open the interface and leave us "
 "a review. Much love!"
-msgstr ""
+msgstr "솔라스타를 플레이해주셔서 감사합니다! 이 버튼을 클릭하면 리뷰 작성 페이지가 열립니다. 사랑합니다!"
 
 msgctxt "ReviewGameTitle"
 msgid "Review the Game"
-msgstr ""
+msgstr "리뷰 남기기"
 
 msgctxt "DashModeDescriptionMainLabelTitle"
 msgid ""
