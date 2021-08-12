@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-12 12:58+0000\n"
+"PO-Revision-Date: 2021-08-13 03:57+0000\n"
 "Last-Translator: Akintos <akintos47@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/setting/ko/"
 ">\n"
@@ -495,11 +495,11 @@ msgstr "치유 주사위 표시"
 
 msgctxt "RollInitiativeDieDescription"
 msgid "Show/hide die when the game rolls for initiative."
-msgstr "선제권 굴림 주사위를 표시하거나 숨깁니다."
+msgstr "우선권 굴림 주사위를 표시하거나 숨깁니다."
 
 msgctxt "RollInitiativeDieTitle"
 msgid "Show Initiative Die"
-msgstr "선제권 주사위 표시"
+msgstr "우선권 주사위 표시"
 
 msgctxt "RollSavingThrowDieDescription"
 msgid "Show/hide die when a saving throw is rolled."
@@ -1175,7 +1175,7 @@ msgstr "뒤로 이동"
 
 msgctxt "RotateCCWTitle"
 msgid "Rotate Counterclockwise"
-msgstr "시계 반대 방향으로 회전"
+msgstr "반시계 방향으로 회전"
 
 msgctxt "RotateCWTitle"
 msgid "Rotate Clockwise"
@@ -1195,7 +1195,7 @@ msgstr "축소"
 
 msgctxt "KeyMappingUnboundTitle"
 msgid "Unbound"
-msgstr "미지정됨"
+msgstr "미지정"
 
 msgctxt "KeyMappingImmutableDescription"
 msgid "This keyboard mapping cannot be modified by the user."
@@ -1207,11 +1207,11 @@ msgstr ""
 
 msgctxt "DefaultDescription"
 msgid "Resets to the default values for this category of settings"
-msgstr ""
+msgstr "현재 열린 탭의 설정을 기본값으로 초기화합니다"
 
 msgctxt "DefaultTitle"
 msgid "Default"
-msgstr "초기화"
+msgstr "기본값"
 
 msgctxt "PreserveRandomSeedDescription"
 msgid ""
@@ -1238,11 +1238,11 @@ msgstr ""
 
 msgctxt "DisplayHeaderTitle"
 msgid "Display"
-msgstr ""
+msgstr "화면"
 
 msgctxt "GameplayHeaderTitle"
 msgid "Gameplay"
-msgstr ""
+msgstr "게임플레이"
 
 msgctxt "CameraHeaderTitle"
 msgid "Camera"
@@ -1775,27 +1775,27 @@ msgstr "자막"
 
 msgctxt "SubtitlesEnabledDescription"
 msgid "Enable/disable subtitles during cutscenes."
-msgstr ""
+msgstr "컷신 중 자막을 표시합니다."
 
 msgctxt "SubtitlesEnabledTitle"
 msgid "Enabled"
-msgstr ""
+msgstr "자막 표시"
 
 msgctxt "SubtitlesDisplaySpeakerNameDescription"
 msgid "Display the name of the speaking character during cutscenes."
-msgstr ""
+msgstr "컷신 중 대사를 말하는 캐릭터의 이름을 표시합니다."
 
 msgctxt "SubtitlesDisplaySpeakerNameTitle"
 msgid "Display Speaker Name"
-msgstr ""
+msgstr "화자 이름 표시"
 
 msgctxt "SubtitlesBlackBackgroundDescription"
 msgid "Display a black background behind subtitles."
-msgstr ""
+msgstr "자막 뒤에 검은색 배경을 표시합니다."
 
 msgctxt "SubtitlesBlackBackgroundTitle"
 msgid "Black Background"
-msgstr ""
+msgstr "검은 배경"
 
 msgctxt "AllowAttuningUnknownItemsTitle"
 msgid "Allow Attuning Unknown Items"
