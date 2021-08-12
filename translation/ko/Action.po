@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
 "PO-Revision-Date: 2021-08-12 12:57+0000\n"
-"Last-Translator: seeu <avpow@naver.com>\n"
+"Last-Translator: 권민규 <mgk0127@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/action/ko/>"
 "\n"
 "Language: ko\n"
@@ -40,7 +40,7 @@ msgstr "액션 사용불가 - 같은 타입의 액션(메인, 보너스 등)이 
 
 msgctxt "ActionStatusOutOfUsesDescription"
 msgid "Action unavailable - out of uses/ammo."
-msgstr ""
+msgstr "액션 사용불가 - 소모품/탄약이 부족합니다."
 
 msgctxt "ActionStatusSpentDescription"
 msgid "Action already used this turn."
@@ -56,59 +56,60 @@ msgstr "이 보너스 액션을 사용할 수 있습니다!"
 
 msgctxt "ActionTypeBonusAvailableSingleDescription"
 msgid "Your bonus action is available!"
-msgstr ""
+msgstr "이 보너스 액션을 사용할 수 있습니다!"
 
+#, fuzzy
 msgctxt "ActionTypeBonusDescription"
 msgid ""
 "A bonus action is granted by special powers and spells, or when equipping an "
 "off-hand weapon."
-msgstr ""
+msgstr "보너스 액션은 특수능력과 주문 또는 보조 무기를 장착할 때 추가됩니다."
 
 msgctxt "ActionTypeBonusTitle"
 msgid "Bonus"
-msgstr ""
+msgstr "보너스"
 
 msgctxt "ActionTypeBonusUnavailableMultipleDescription"
 msgid "You have used this bonus action."
-msgstr ""
+msgstr "이 보너스 액션은 이미 사용했습니다."
 
 msgctxt "ActionTypeBonusUnavailableSingleDescription"
 msgid "You have used your bonus action."
-msgstr ""
+msgstr "보너스 액션을 이미 사용했습니다."
 
 msgctxt "ActionTypeFreeOnceAvailableMultipleDescription"
 msgid "This free action is available!"
-msgstr ""
+msgstr "이 자유 액션을 사용할 수 있습니다!"
 
 msgctxt "ActionTypeFreeOnceAvailableSingleDescription"
 msgid "Your free action is available!"
-msgstr ""
+msgstr "자유 액션을 사용할 수 있습니다!"
 
 msgctxt "ActionTypeFreeOnceDescription"
 msgid ""
 "You can take certain free actions during your turn, such as sheathing a "
 "weapon or dropping an item."
-msgstr ""
+msgstr "당신의 턴 동안 무기를 넣거나 아이템을 떨어뜨리는 것과 같은 자유 액션을 할 수 있습니다."
 
 msgctxt "ActionTypeFreeOnceTitle"
 msgid "Free"
-msgstr ""
+msgstr "무료"
 
 msgctxt "ActionTypeFreeOnceUnavailableMultipleDescription"
 msgid "You have used this free action."
-msgstr ""
+msgstr "이미 사용한 자유 액션입니다."
 
 msgctxt "ActionTypeFreeOnceUnavailableSingleDescription"
 msgid "You have used your free action."
-msgstr ""
+msgstr "자유 액션을 이미 사용했습니다."
 
 msgctxt "ActionTypeMainAvailableMultipleDescription"
 msgid "This main action is available!"
-msgstr ""
+msgstr "이 메인 액션을 사용할 수 있습니다!"
 
 msgctxt "ActionTypeMainAvailableSingleDescription"
 msgid "Your main action is available!"
-msgstr ""
+msgstr "메인 액션을 사용할 수 있습니다!"
 
 msgctxt "ActionTypeMainDescription"
 msgid ""
@@ -118,15 +119,15 @@ msgstr ""
 
 msgctxt "ActionTypeMainTitle"
 msgid "Main Actions"
-msgstr ""
+msgstr "메인 액션"
 
 msgctxt "ActionTypeMainUnavailableMultipleDescription"
 msgid "You have used this main action."
-msgstr ""
+msgstr "이 메인 액션은 이미 사용했습니다."
 
 msgctxt "ActionTypeMainUnavailableSingleDescription"
 msgid "You have used your main action."
-msgstr ""
+msgstr "메인 액션을 이미 사용했습니다."
 
 msgctxt "ActionTypeMoveDescription"
 msgid ""
@@ -136,7 +137,7 @@ msgstr ""
 
 msgctxt "ActionTypeMoveTitle"
 msgid "Move"
-msgstr ""
+msgstr "이동"
 
 msgctxt "ActionTypeOtherDescription"
 msgid "Other actions can be performed freely or by spending move points."
@@ -173,55 +174,59 @@ msgstr ""
 
 msgctxt "AssignTargetDescription"
 msgid "You can select a new target for {0}."
-msgstr ""
+msgstr "{0} 의 대상을 선택할 수 있습니다."
 
 msgctxt "AssignTargetTitle"
 msgid "Target"
-msgstr ""
+msgstr "목표물"
 
 msgctxt "AttackCoverFullDescription"
 msgid "The target has total cover behind an obstacle."
-msgstr ""
+msgstr "목표물이 장애물 뒤에 완전히 엄폐되어 있습니다."
 
 msgctxt "AttackCoverHalfDescription"
 msgid "The target has half cover ({0} AC).\n"
-msgstr ""
+msgstr "목표물이 반쯤 엄폐하고 있습니다 ({0} AC).\n"
 
 msgctxt "AttackCoverThreeQuartersDescription"
 msgid "The target has three-quarters cover ({0} AC).\n"
-msgstr ""
+msgstr "목표물이 몸을 3/4정도 엄폐하고 있습니다 ({0} AC).\n"
 
 msgctxt "AttackDescription"
 msgid ""
 "Attack an enemy target with this weapon: {0} ({1} to Hit)\n"
 "{2}"
 msgstr ""
+"이 무기로 대상 공격: {0} (히트 시 {1})\n"
+"{2}"
 
+#, fuzzy
 msgctxt "AttackExecuteAdvantageDescription"
 msgid "Click to attack the target with advantage!"
-msgstr ""
+msgstr "클릭하여 유리하게 대상을 공격하세요!"
 
 msgctxt "AttackExecuteDescription"
 msgid "Click to attack the target!"
-msgstr ""
+msgstr "클릭하여 대상을 공격하세요!"
 
+#, fuzzy
 msgctxt "AttackExecuteDisadvantageDescription"
 msgid "Click to attack the target with disadvantage."
-msgstr ""
+msgstr "클릭하여 불리하게 대상을 공격합니다."
 
 msgctxt "AttackIterativeDescription"
 msgid ""
 "You can attack {0} times during your turn, and intersperse your attacks "
 "between moves."
-msgstr ""
+msgstr "자신의 차례에 {0}번 공격할 수 있으며 이동하면서 공격을 분산할 수 있습니다."
 
 msgctxt "AttackTitle"
 msgid "Attack"
-msgstr ""
+msgstr "공격"
 
 msgctxt "BlockAttackDescription"
 msgid "Impose disadvantage on an enemy attacking a nearby ally."
-msgstr ""
+msgstr "적 근처의 아군에게 피해를 줄 수 있습니다."
 
 msgctxt "BlockAttackTitle"
 msgid "Block attack"
@@ -229,39 +234,39 @@ msgstr ""
 
 msgctxt "CastDescription"
 msgid "Select and cast a spell."
-msgstr ""
+msgstr "주문을 선택하고 시전합니다."
 
 msgctxt "CastRitualDescription"
 msgid "Cast spell as a ritual (takes 10 minutes, does not use a spell slot)."
-msgstr ""
+msgstr "주문을 의식으로 시전합니다 (10분 소요, 주문 슬롯을 사용하지 않음)."
 
 msgctxt "CastRitualTitle"
 msgid "Ritual"
-msgstr ""
+msgstr "의식"
 
 msgctxt "CastSpellHigherSlotAddDiceTile"
 msgid "Add {0} dice to the effect."
-msgstr ""
+msgstr "효과에 주사위 {0}개를 추가합니다."
 
 msgctxt "CastSpellHigherSlotAddDieTile"
 msgid "Add {0} die to the effect."
-msgstr ""
+msgstr "효과에 {0} 주사위를 추가합니다."
 
 msgctxt "CastSpellHigherSlotAddHPTile"
 msgid "Add {0} more hit points."
-msgstr ""
+msgstr "히트 포인트를 {0} 더 추가합니다."
 
 msgctxt "CastSpellHigherSlotAddItemBonusTile"
 msgid "Increase item bonus by {0}."
-msgstr ""
+msgstr "아이템 보너스를 {0} 증가시킵니다."
 
 msgctxt "CastSpellHigherSlotAddSpellLevelPluralTile"
 msgid "{0} additional spell levels."
-msgstr ""
+msgstr "{0} 주문 레벨 추가."
 
 msgctxt "CastSpellHigherSlotAddSpellLevelSingleTile"
 msgid "{0} additional spell level."
-msgstr ""
+msgstr "{0} 주문 레벨 추가."
 
 msgctxt "CastSpellHigherSlotAddSummonPluralTile"
 msgid "Conjure {0} additional creatures."
@@ -277,11 +282,11 @@ msgstr ""
 
 msgctxt "CastSpellHigherSlotAddTargetPluralTile"
 msgid "Add {0} targets."
-msgstr ""
+msgstr "대상을 {0} 추가합니다."
 
 msgctxt "CastSpellHigherSlotAddTargetSingleTile"
 msgid "Add {0} target."
-msgstr ""
+msgstr "대상을 {0} 추가합니다."
 
 msgctxt "CastSpellHigherSlotAddTempHPTile"
 msgid "Add {0} temporary hit points."
@@ -289,31 +294,32 @@ msgstr ""
 
 msgctxt "CastSpellHigherSlotTile"
 msgid "Cast spell using a level {0} slot."
-msgstr ""
+msgstr "레벨 {0} 슬롯을 사용하여 주문을 시전합니다."
 
 msgctxt "CastTitle"
 msgid "Cast Spell"
-msgstr ""
+msgstr "주문 시전"
 
 msgctxt "CautiousDescription"
 msgid ""
 "Activate/deactivate cautious mode. A cautious character is stealthier and "
 "more aware of hidden objects and creatures."
-msgstr ""
+msgstr "주의 모드를 활성화/비활성화합니다. 신중한 성격은 더 은밀하고 숨겨진 물건과 생물에 대해 더 잘 알고 있습니다."
 
 msgctxt "CautiousTitle"
 msgid "Cautious"
-msgstr ""
+msgstr "신중한"
 
+#, fuzzy
 msgctxt "ClimbDescription"
 msgid ""
 "Climb up or down surfaces. Climbing a slippery vertical surface also "
 "requires a successful Strength (Athletics) check."
-msgstr ""
+msgstr "벽을 오르내릴 수 있습니다. 경사지고 미끄러운 벽을 오르려면 근력(운동) 검사도 성공적으로 수행해야 합니다."
 
 msgctxt "ClimbTitle"
 msgid "Climb"
-msgstr ""
+msgstr "벽타기"
 
 msgctxt "CunningActionDescription"
 msgid ""
@@ -346,6 +352,7 @@ msgctxt "DisengageTitle"
 msgid "Disengage"
 msgstr ""
 
+#, fuzzy
 msgctxt "DodgeDescription"
 msgid ""
 "When you take the Dodge action, you focus entirely on avoiding attacks. "
@@ -353,10 +360,12 @@ msgid ""
 "disadvantage if you can see the attacker, and you make Dexterity saving "
 "throws with advantage."
 msgstr ""
+"회피 액션을 취하면 공격을 피하는데 집중합니다. 다음 턴까지 시야에 있는 적의 모든 공격 굴림이 불이익을 받습니다.  그리고나서 유리하게 "
+"민첩 내성 굴림을 합니다."
 
 msgctxt "DodgeTitle"
 msgid "Dodge"
-msgstr ""
+msgstr "회피"
 
 msgctxt "DropProneDescription"
 msgid ""
@@ -374,19 +383,19 @@ msgstr ""
 
 msgctxt "EnemyCreatureTitle"
 msgid "Enemy Creature"
-msgstr ""
+msgstr "적대적 크리처"
 
 msgctxt "EnemyTargetHeaderTitle"
 msgid "{0} (Enemy)"
-msgstr ""
+msgstr "{0} (적)"
 
 msgctxt "EquipDescription"
 msgid "Equip or unequip an item."
-msgstr ""
+msgstr "아이템을 장착하거나 해제합니다."
 
 msgctxt "EquipTitle"
 msgid "Equip"
-msgstr ""
+msgstr "장비"
 
 msgctxt "ExtinguishDescription"
 msgid "Extinguish a fire that affects you."
@@ -394,15 +403,15 @@ msgstr ""
 
 msgctxt "ExtinguishTitle"
 msgid "Extinguish"
-msgstr ""
+msgstr "소화"
 
 msgctxt "FriendlyCreatureTitle"
 msgid "Friendly Creature"
-msgstr ""
+msgstr "우호적 크리처"
 
 msgctxt "FriendlyTargetHeaderTitle"
 msgid "{0} (Friendly)"
-msgstr ""
+msgstr "{0} (우호적)"
 
 msgctxt "HideDescription"
 msgid ""
@@ -412,10 +421,12 @@ msgid ""
 "attacks. This lasts while you remain undetected. You cannot try to hide if "
 "you are currently detected."
 msgstr ""
+"숨기 액션을 하면 민첩(은신) 체크를 통해 숨을 수 있습니다. 성공하면 당신을 향한 공격 굴림이 불이익을 얻고 당신의 공격은 이점을 "
+"갖습니다. 숨기는 당신이 발각되기 전까지 지속됩니다. 발각된 상태라면 숨을 수 없습니다."
 
 msgctxt "HideTitle"
 msgid "Hide"
-msgstr ""
+msgstr "숨기"
 
 msgctxt "InventoryDescription"
 msgid "Manage your character inventory."
@@ -423,15 +434,15 @@ msgstr ""
 
 msgctxt "InventoryTitle"
 msgid "Inventory"
-msgstr ""
+msgstr "인벤토리"
 
 msgctxt "JumpDescription"
 msgid "Make a short or long jump."
-msgstr ""
+msgstr "짧게 혹은 멀리 뜁니다."
 
 msgctxt "JumpTitle"
 msgid "Jump"
-msgstr ""
+msgstr "점프"
 
 msgctxt "LevitateDescription"
 msgid "Move the affected character up and down."
