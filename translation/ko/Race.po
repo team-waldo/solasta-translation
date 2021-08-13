@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-13 03:57+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2021-08-13 12:38+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/race/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -133,7 +133,7 @@ msgstr ""
 
 msgctxt "DwarfSurNameTitle"
 msgid "Clan"
-msgstr "클란"
+msgstr "클랜"
 
 msgctxt "DwarfTitle"
 msgid "Dwarf"
@@ -208,7 +208,7 @@ msgstr ""
 
 msgctxt "ElfFemaleName9Title"
 msgid "Teaghan"
-msgstr ""
+msgstr "티건"
 
 msgctxt "ElfHighDescription"
 msgid ""
@@ -424,7 +424,7 @@ msgstr ""
 
 msgctxt "HalfElfTitle"
 msgid "Half-Elf"
-msgstr ""
+msgstr "하프 엘프"
 
 msgctxt "HalflingDescription"
 msgid ""
@@ -435,27 +435,27 @@ msgstr ""
 
 msgctxt "HalflingFemaleName1Title"
 msgid "Annie"
-msgstr ""
+msgstr "애니"
 
 msgctxt "HalflingFemaleName2Title"
 msgid "Ellie"
-msgstr ""
+msgstr "엘리"
 
 msgctxt "HalflingFemaleName3Title"
 msgid "Jenny"
-msgstr ""
+msgstr "제니"
 
 msgctxt "HalflingFemaleName4Title"
 msgid "Coralie"
-msgstr ""
+msgstr "코랄리"
 
 msgctxt "HalflingFemaleName5Title"
 msgid "Zoe"
-msgstr ""
+msgstr "조이"
 
 msgctxt "HalflingFemaleName6Title"
 msgid "Sable"
-msgstr ""
+msgstr "세이블"
 
 msgctxt "HalflingIslandDescription"
 msgid ""
@@ -471,23 +471,23 @@ msgstr ""
 
 msgctxt "HalflingMaleName1Title"
 msgid "Anton"
-msgstr ""
+msgstr "안톤"
 
 msgctxt "HalflingMaleName2Title"
 msgid "Andre"
-msgstr ""
+msgstr "안드레"
 
 msgctxt "HalflingMaleName3Title"
 msgid "Tombo"
-msgstr ""
+msgstr "톰보"
 
 msgctxt "HalflingMaleName4Title"
 msgid "Green"
-msgstr ""
+msgstr "그린"
 
 msgctxt "HalflingMaleName5Title"
 msgid "Edmund"
-msgstr ""
+msgstr "에드먼드"
 
 msgctxt "HalflingMarshDescription"
 msgid ""
@@ -539,55 +539,55 @@ msgstr ""
 
 msgctxt "HumanFemaleName1Title"
 msgid "Jodie"
-msgstr ""
+msgstr "조디"
 
 msgctxt "HumanFemaleName2Title"
 msgid "Celia"
-msgstr ""
+msgstr "셀리아"
 
 msgctxt "HumanFemaleName3Title"
 msgid "Elisa"
-msgstr ""
+msgstr "엘리사"
 
 msgctxt "HumanFemaleName4Title"
 msgid "Natalie"
-msgstr ""
+msgstr "나탈리"
 
 msgctxt "HumanFemaleName5Title"
 msgid "Jane"
-msgstr ""
+msgstr "제인"
 
 msgctxt "HumanFemaleName6Title"
 msgid "Elanor"
-msgstr ""
+msgstr "엘레노어"
 
 msgctxt "HumanFemaleName7Title"
 msgid "Agnes"
-msgstr ""
+msgstr "아그네스"
 
 msgctxt "HumanFemaleName8Title"
 msgid "Ophelie"
-msgstr ""
+msgstr "오필리에"
 
 msgctxt "HumanMaleName1Title"
 msgid "Angus"
-msgstr ""
+msgstr "앵거스"
 
 msgctxt "HumanMaleName2Title"
 msgid "Blain"
-msgstr ""
+msgstr "블레인"
 
 msgctxt "HumanMaleName3Title"
 msgid "Jeff"
-msgstr ""
+msgstr "제프"
 
 msgctxt "HumanMaleName4Title"
 msgid "Dean"
-msgstr ""
+msgstr "딘"
 
 msgctxt "HumanSurName1Title"
 msgid "Jonn"
-msgstr ""
+msgstr "존"
 
 msgctxt "HumanSurName2Title"
 msgid "Guert"
@@ -595,11 +595,11 @@ msgstr ""
 
 msgctxt "HumanSurName3Title"
 msgid "Ros"
-msgstr ""
+msgstr "로스"
 
 msgctxt "HumanSurName4Title"
 msgid "Hasting"
-msgstr ""
+msgstr "헤이스팅"
 
 msgctxt "HumanSurName5Title"
 msgid "Esbery"
@@ -607,7 +607,7 @@ msgstr ""
 
 msgctxt "HumanSurName6Title"
 msgid "Dudley"
-msgstr ""
+msgstr "더들리"
 
 msgctxt "HumanSurName7Title"
 msgid "Burg"
@@ -619,7 +619,7 @@ msgstr ""
 
 msgctxt "HumanSurName9Title"
 msgid "Hawke"
-msgstr ""
+msgstr "호크"
 
 msgctxt "HumanSurNameTitle"
 msgid "Family"
@@ -627,7 +627,7 @@ msgstr ""
 
 msgctxt "HumanTitle"
 msgid "Human"
-msgstr ""
+msgstr "인간"
 
 msgctxt "SylvanElfFemaleName10Title"
 msgid "Ryesen"
@@ -647,7 +647,7 @@ msgstr ""
 
 msgctxt "SylvanElfFemaleName4Title"
 msgid "Kianna"
-msgstr ""
+msgstr "키아나"
 
 msgctxt "SylvanElfFemaleName5Title"
 msgid "Marsaili"
@@ -663,7 +663,7 @@ msgstr ""
 
 msgctxt "SylvanElfFemaleName8Title"
 msgid "Tara"
-msgstr ""
+msgstr "타라"
 
 msgctxt "SylvanElfFemaleName9Title"
 msgid "Seersha"
@@ -687,11 +687,11 @@ msgstr ""
 
 msgctxt "SylvanElfMaleName4Title"
 msgid "Kari"
-msgstr ""
+msgstr "카리"
 
 msgctxt "SylvanElfMaleName5Title"
 msgid "Kael"
-msgstr ""
+msgstr "케일"
 
 msgctxt "SylvanElfMaleName6Title"
 msgid "Erevyd"
@@ -703,7 +703,7 @@ msgstr ""
 
 msgctxt "SylvanElfMaleName8Title"
 msgid "Phelan"
-msgstr ""
+msgstr "펠란"
 
 msgctxt "SylvanElfMaleName9Title"
 msgid "Sherrod"
@@ -711,7 +711,7 @@ msgstr ""
 
 msgctxt "SylvanElfSurName10Title"
 msgid "Whiteleaf"
-msgstr ""
+msgstr "화이트리프"
 
 msgctxt "SylvanElfSurName1Title"
 msgid "Sturdybranch"
@@ -739,7 +739,7 @@ msgstr ""
 
 msgctxt "SylvanElfSurName7Title"
 msgid "Fastrain"
-msgstr ""
+msgstr "패스트레인"
 
 msgctxt "SylvanElfSurName8Title"
 msgid "Strongwind"
