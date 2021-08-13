@@ -25,6 +25,9 @@ for row in data:
     else:
         category = CATEGORY_NAME_DEFAULT
     
+    if category == "Credits":
+        continue
+    
     source = row[1]
     category_dict[category].append((key, source))
 

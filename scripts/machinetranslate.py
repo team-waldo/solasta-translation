@@ -7,9 +7,8 @@ from translation import TranslationEntry, TranslationFile
 from tqdm import tqdm
 
 
-OUTPUT_FOLDER = "Translations-"
+SEPARATOR = "\r\n"
 CHARS_MAX = 4999
-SEPARATOR = "\x0D"
 
 
 class MachineTranslator:
@@ -17,8 +16,8 @@ class MachineTranslator:
         self.translator = GoogleTranslator(source="en", target=target)
 
     def translate_list(self, lst: list[TranslationEntry]):
-        joined = "\r\n".join(x.source for x in lst)
-        result = self.translator.translate(joined).split("\r\n")
+        joined = SEPARATOR.join(x.source for x in lst)
+        result = self.translator.translate(joined).split(SEPARATOR)
         for entry, tr in zip(lst, result):
             entry.target = tr
 
