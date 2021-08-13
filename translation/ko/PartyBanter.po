@@ -1,24 +1,26 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-08-13 12:38+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/"
+"partybanter/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.3.6\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "Cynical1_Trap_Detected_Self"
 msgid "Wait! A trap!"
-msgstr ""
+msgstr "기다려! 함정이야!"
 
 msgctxt "Cynical2_Trap_Detected_Self"
 msgid "Hold it! A trap!"
-msgstr ""
+msgstr "잠깐! 함정이야!"
 
 msgctxt "Cynical3_Trap_Detected_Self"
 msgid "I see a trap."
@@ -26,7 +28,7 @@ msgstr ""
 
 msgctxt "Cynical1_Secret_door_Detected_Self"
 msgid "Look! A secret door!"
-msgstr ""
+msgstr "비밀 문이야!"
 
 msgctxt "Cynical2_Secret_door_Detected_Self"
 msgid "There's a door, here."
@@ -34,7 +36,7 @@ msgstr ""
 
 msgctxt "Cynical3_Secret_door_Detected_Self"
 msgid "I see a hidden door."
-msgstr ""
+msgstr "숨겨진 문이 있네."
 
 msgctxt "Cynical1_Trap_Trigerred_Self"
 msgid "How did I miss that?"
@@ -74,7 +76,7 @@ msgstr ""
 
 msgctxt "Cynical1_Break_Stealth_Self"
 msgid "Damn it!"
-msgstr ""
+msgstr "젠장!"
 
 msgctxt "Cynical2_Break_Stealth_Self"
 msgid "That's on me."
@@ -140,9 +142,10 @@ msgctxt "Cynical1_Kill_Enemy_Self"
 msgid "And the winner is - me!"
 msgstr ""
 
+#, fuzzy
 msgctxt "Cynical2_Kill_Enemy_Self"
 msgid "You lose!"
-msgstr ""
+msgstr "너흰 졌어!"
 
 msgctxt "Cynical3_Kill_Enemy_Self"
 msgid "Another victory!"
