@@ -72,6 +72,8 @@ def main():
 
     locale = read_csv("locale/en.csv")
 
+    os.makedirs("output", exist_ok=True)
+
     translate_locale(locale, tr, f"output/{langcode}.txt")
     translate_locale(locale, mt, f"output/{langcode}{MACHINETRANSLATION_SUFFIX}.txt")
 
