@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-13 03:57+0000\n"
-"Last-Translator: 백정현 <bjhmsg@naver.com>\n"
+"PO-Revision-Date: 2021-08-13 12:38+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/behavior/"
 "ko/>\n"
 "Language: ko\n"
@@ -16,88 +16,90 @@ msgstr ""
 
 msgctxt "AttackingDescription"
 msgid "The creature is attacking its target."
-msgstr "크리처가 대상을 공격하고 있습니다."
+msgstr "크리쳐가 대상을 공격하고 있습니다."
 
 msgctxt "AttackingTitle"
 msgid "Attacking"
-msgstr "공격"
+msgstr "공격 중"
 
 msgctxt "IdleDescription"
 msgid "The creature is not doing anything in particular."
-msgstr "크리처는 명령을 기다리고 있습니다."
+msgstr "크리쳐가 딱히 어떤 행동을 하고 있지 않습니다."
 
+#, fuzzy
 msgctxt "IdleTitle"
 msgid "Idle"
-msgstr "게으른"
+msgstr "휴식 중"
 
 msgctxt "InterceptingDescription"
 msgid "The creature has spotted a target and is moving towards it."
-msgstr "크리처가 목표물을 확인하고 움직이고 있습니다."
+msgstr "크리쳐가 목표물을 확인하고 움직이고 있습니다."
 
 msgctxt "InterceptingTitle"
 msgid "Intercepting"
-msgstr "가로채기"
+msgstr "접근 중"
 
 msgctxt "InvestigatingDescription"
 msgid "The creature is investigating a source of disturbance (noise, light)."
-msgstr "크리처가 교란의 원인(소음, 빛)을 조사하고 있습니다."
+msgstr "크리쳐가 소란의 원인(소음, 빛)을 조사하고 있습니다."
 
 msgctxt "InvestigatingTitle"
 msgid "Investigating"
-msgstr "조사"
+msgstr "조사 중"
 
 msgctxt "MovingDescription"
 msgid "The creature is going somewhere."
-msgstr "크리처가 어딘가로 가고 있습니다."
+msgstr "크리쳐가 어딘가로 움직이고 있습니다."
 
 msgctxt "MovingTitle"
 msgid "Moving"
-msgstr "움직이는"
+msgstr "이동 중"
 
+#, fuzzy
 msgctxt "NoBehaviorDescription"
 msgid ""
 "The creature is doing nothing or its initial state has not been launched."
-msgstr ""
+msgstr "크리쳐가 아무것도 하지 않고 있거나 행동을 개시하지 않았습니다."
 
 msgctxt "NoBehaviorTitle"
 msgid "No Behavior"
-msgstr ""
+msgstr "행동 없음"
 
 msgctxt "PlanningDescription"
 msgid "The creature is planning its next action."
-msgstr "크리처가 다음 액션을 계획하고 있습니다."
+msgstr "크리쳐가 다음 액션을 계획하고 있습니다."
 
 msgctxt "PlanningTitle"
 msgid "Planning"
-msgstr "계획"
+msgstr "계획 중"
 
 msgctxt "SneakingDescription"
 msgid "The character is trying to be stealthy."
-msgstr "캐릭터가 은신하려고 합니다."
+msgstr "캐릭터가 발각되지 않으려고 은신했습니다."
 
 msgctxt "SneakingTitle"
 msgid "Sneaking"
-msgstr "은밀하게"
+msgstr "은신 중"
 
 msgctxt "TalkingDescription"
 msgid "The creature is talking."
-msgstr "크리처가 말하고 있습니다."
+msgstr "크리쳐가 말하고 있습니다."
 
 msgctxt "TalkingTitle"
 msgid "Talking"
-msgstr "말하는"
+msgstr "대화 중"
 
 msgctxt "WaitingDescription"
 msgid "The creature is waiting."
-msgstr "크리처가 기다리고 있습니다."
+msgstr "크리쳐가 기다리고 있습니다."
 
 msgctxt "WaitingTitle"
 msgid "Waiting"
-msgstr "대기"
+msgstr "대기 중"
 
 msgctxt "WatchingDescription"
 msgid "The creature is looking out for enemies."
-msgstr "크리처가 적을 찾고 있습니다."
+msgstr "크리쳐가 적을 찾고 있습니다."
 
 msgctxt "WatchingTitle"
 msgid "Watching"
