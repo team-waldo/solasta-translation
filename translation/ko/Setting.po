@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-13 03:57+0000\n"
+"PO-Revision-Date: 2021-08-14 11:58+0000\n"
 "Last-Translator: Akintos <akintos47@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/setting/ko/"
 ">\n"
@@ -1222,7 +1222,7 @@ msgstr ""
 
 msgctxt "PreserveRandomSeedTitle"
 msgid "Preserve Random Seed"
-msgstr ""
+msgstr "난수 시드 보존"
 
 msgctxt "ClothesSimulationQualityAlwaysTitle"
 msgid "TBC"
@@ -1230,11 +1230,11 @@ msgstr ""
 
 msgctxt "RefreshRateDescription"
 msgid "The refresh frequency (Hz) of the selected resolution"
-msgstr ""
+msgstr "선택한 해상도의 주사율 (Hz)"
 
 msgctxt "RefreshRateTitle"
 msgid "Refresh Rate"
-msgstr ""
+msgstr "주사율"
 
 msgctxt "DisplayHeaderTitle"
 msgid "Display"
@@ -1246,7 +1246,7 @@ msgstr "게임플레이"
 
 msgctxt "CameraHeaderTitle"
 msgid "Camera"
-msgstr ""
+msgstr "카메라"
 
 msgctxt "SpellComponentsHeaderTitle"
 msgid "Spell Components"
@@ -1408,19 +1408,19 @@ msgstr ""
 
 msgctxt "BattleSettingsHeaderTitle"
 msgid "Battle"
-msgstr ""
+msgstr "전투"
 
 msgctxt "DamageTakenAllyMultiplierTitle"
 msgid "Damage Taken"
-msgstr ""
+msgstr "받는 피해량"
 
 msgctxt "DamageTakenAllyMultiplierDescription"
 msgid "Modifies the damage taken by player characters and critical NPCs."
-msgstr ""
+msgstr "플레이어 캐릭터와 중요 NPC가 받는 피해를 조절합니다."
 
 msgctxt "DisableEnemyCritsTitle"
 msgid "Disable Enemy Critical Hits"
-msgstr ""
+msgstr "적 치명타 비활성화"
 
 msgctxt "DisableEnemyCritsDescription"
 msgid "Enemies' critical hits deal regular damage."
@@ -1428,84 +1428,84 @@ msgstr ""
 
 msgctxt "AiUsesPowerfulMovesMoreOftenTitle"
 msgid "Deadlier AI"
-msgstr ""
+msgstr "치명적인 AI"
 
 msgctxt "AiUsesPowerfulMovesMoreOftenDescription"
 msgid ""
 "Monsters will use powerful moves (such as AoE spells) more often, and will "
 "shove characters to their death."
-msgstr ""
+msgstr "몬스터들이 강력한 공격(범위 공격 주문 등)을 더 자주 사용하며, 기회가 있다면 캐릭터들을 밀쳐서 죽입니다."
 
 msgctxt "AiTargetsHelplessCharactersTitle"
 msgid "Merciless AI"
-msgstr ""
+msgstr "무자비한 AI"
 
 msgctxt "AiTargetsHelplessCharactersDescription"
 msgid "Monsters will attack unconscious and dying characters to kill them."
-msgstr ""
+msgstr "몬스터들이 의식이 없거나 빈사 상태인 캐릭터들을 공격해서 죽입니다."
 
 msgctxt "EnemyHpMultiplierTitle"
 msgid "Enemy Health Multiplier"
-msgstr ""
+msgstr "적 체력 계수"
 
 msgctxt "EnemyHpMultiplierDescription"
 msgid "Modifies enemy health points by the selected value."
-msgstr ""
+msgstr "적들의 체력을 선택한 배율로 조절합니다."
 
 msgctxt "SavingThrowAllyModifierTitle"
 msgid "Ally Saving Throw"
-msgstr ""
+msgstr "아군 내성 굴림"
 
 msgctxt "SavingThrowAllyModifierDescription"
 msgid ""
 "All saving throws made by friendly characters will receive this modifier."
-msgstr ""
+msgstr "모든 아군 캐릭터들의 내성 굴림에 이 값을 보정치로 적용합니다."
 
 msgctxt "SavingThrowEnemyModifierTitle"
 msgid "Enemy Saving Throw"
-msgstr ""
+msgstr "적 내성 굴림"
 
 msgctxt "SavingThrowEnemyModifierDescription"
 msgid "All saving throws made by enemy characters will receive this modifier."
-msgstr ""
+msgstr "모든 적 캐릭터들의 내성 굴림에 이 값을 보정치로 적용합니다."
 
 msgctxt "AttackRollAllyModifierTitle"
 msgid "Ally Attack Roll"
-msgstr ""
+msgstr "아군 공격 굴림"
 
 msgctxt "AttackRollAllyModifierDescription"
 msgid ""
 "All attack rolls made by friendly characters will receive this modifier."
-msgstr ""
+msgstr "모든 아군 캐릭터들의 공격 굴림에 이 값을 보정치로 적용합니다."
 
 msgctxt "AttackRollEnemyModifierTitle"
 msgid "Enemy Attack Roll"
-msgstr ""
+msgstr "적 공격 굴림"
 
 msgctxt "AttackRollEnemyModifierDescription"
 msgid "All attack rolls made by enemy characters will receive this modifier."
-msgstr ""
+msgstr "모든 적 캐릭터들의 공격 굴림에 이 값을 보정치로 적용합니다."
 
 msgctxt "AbilityCheckAllyModifierTitle"
 msgid "Ally Ability Check"
-msgstr ""
+msgstr "아군 능력치 판정"
 
 msgctxt "AbilityCheckAllyModifierDescription"
 msgid ""
 "All ability checks made by friendly characters will receive this modifier."
-msgstr ""
+msgstr "모든 아군 캐릭터들의 능력치 판정에 이 값을 보정치로 적용합니다."
 
 msgctxt "AbilityCheckEnemyModifierTitle"
 msgid "Enemy Ability Check"
-msgstr ""
+msgstr "적 능력치 판정"
 
 msgctxt "AbilityCheckEnemyModifierDescription"
 msgid "All ability checks made by enemy characters will receive this modifier."
-msgstr ""
+msgstr "모든 적 캐릭터들의 능력치 판정에 이 값을 보정치로 적용합니다."
 
 msgctxt "AutoreviveTitle"
 msgid "Auto-revive"
-msgstr ""
+msgstr "자동 소생"
 
 msgctxt "AutoreviveDescription"
 msgid ""
@@ -1515,23 +1515,23 @@ msgstr ""
 
 msgctxt "HeatlhAndRestSettingsHeaderTitle"
 msgid "Health and Rest"
-msgstr ""
+msgstr "체력과 휴식"
 
 msgctxt "CompanionsRestTitle"
 msgid "Companions Rest"
-msgstr ""
+msgstr "동료 휴식"
 
 msgctxt "CompanionsRestDescription"
 msgid "Critical NPCs and companions fully recover during short rests."
-msgstr ""
+msgstr "중요 NPC 와 동료들이 짧은 휴식으로 완전히 회복합니다."
 
 msgctxt "NoFoodNeededTitle"
 msgid "No Food Required"
-msgstr ""
+msgstr "식량 필요 없음"
 
 msgctxt "NoFoodNeededDescription"
 msgid "Characters can take a long rest even if they have no food."
-msgstr ""
+msgstr "식량이 없더라도 긴 휴식을 할 수 있습니다."
 
 msgctxt "MaxHpOnHitDiceTitle"
 msgid "Max Health on Hit Dice"
@@ -1544,7 +1544,7 @@ msgstr ""
 
 msgctxt "MaxHpOnLevelUpTitle"
 msgid "Max Health on Level Up"
-msgstr ""
+msgstr "레벨 업 시 완전 회복"
 
 msgctxt "MaxHpOnLevelUpDescription"
 msgid ""
@@ -1553,45 +1553,45 @@ msgstr ""
 
 msgctxt "InventorySettingsHeaderTitle"
 msgid "Inventory"
-msgstr ""
+msgstr "인벤토리"
 
 msgctxt "EncumbranceRuleTypeTitle"
 msgid "Encumbrance Rule"
-msgstr ""
+msgstr "하중 규칙"
 
 msgctxt "EncumbranceRuleTypeDescription"
 msgid "Choose which encumbrance rule to play with."
-msgstr ""
+msgstr "하중 규칙을 선택합니다."
 
 msgctxt "EncumbranceRuleTypeDefaultTitle"
 msgid "Tabletop"
-msgstr ""
+msgstr "테이블탑"
 
 msgctxt "EncumbranceRuleTypeDefaultDescription"
 msgid "Your characters can carry up to 15x STR."
-msgstr ""
+msgstr "짐을 힘의 15배까지 들 수 있습니다."
 
 msgctxt "EncumbranceRuleTypeVariantTitle"
 msgid "Solasta (Variant)"
-msgstr ""
+msgstr "솔라스타 (변형)"
 
 msgctxt "EncumbranceRuleTypeVariantDescription"
 msgid ""
 "Your characters can carry up to 15x STR, but will be encumbered above 5x "
 "STR, and heavily encumbered above 10x STR."
-msgstr ""
+msgstr "짐을 최대 힘의 15배까지 들 수 있지만, 5배 이상부터는 방해를 받으며, 10배 이상부터는 큰 방해를 받습니다."
 
 msgctxt "EncumbranceRuleTypeEasyTitle"
 msgid "Simplified"
-msgstr ""
+msgstr "단순화"
 
 msgctxt "EncumbranceRuleTypeEasyDescription"
 msgid "Your characters can carry up to 150x STR."
-msgstr ""
+msgstr "짐을 힘의 150배까지 들 수 있습니다."
 
 msgctxt "SpellcastingSettingsHeaderTitle"
 msgid "Spellcasting"
-msgstr ""
+msgstr "주문 시전"
 
 msgctxt "NeverLoseConcentrationOnSpellsTitle"
 msgid "Never Lose Concentration"
@@ -1605,7 +1605,7 @@ msgstr ""
 
 msgctxt "ScrollsCanBeUsedByAnyCharacterTitle"
 msgid "Universal Scrolls"
-msgstr ""
+msgstr "범용 스크롤"
 
 msgctxt "ScrollsCanBeUsedByAnyCharacterDescription"
 msgid ""
@@ -1615,23 +1615,23 @@ msgstr ""
 
 msgctxt "RandomnessSettingsHeaderTitle"
 msgid "Dice Rolls"
-msgstr ""
+msgstr "주사위 굴림"
 
 msgctxt "RandomnessModeTitle"
 msgid "Random Mode"
-msgstr ""
+msgstr "무작위 모드"
 
 msgctxt "RandomnessModeDescription"
 msgid "Choose the random mode used when rolling dice."
-msgstr ""
+msgstr "주사위를 굴릴 때 사용할 무작위 모드를 선택합니다."
 
 msgctxt "RandomnessModeTrueRandomTitle"
 msgid "True Random"
-msgstr ""
+msgstr "완전 무작위"
 
 msgctxt "RandomnessModeTrueRandomDescription"
 msgid "Your luck will be left in the hands of the dice gods."
-msgstr ""
+msgstr "주사위 신께 모든 것을 맡깁니다."
 
 msgctxt "RandomnessModeNiceDiceTitle"
 msgid "Karmic Dice"
@@ -1644,15 +1644,15 @@ msgstr ""
 
 msgctxt "ForceCritEveryFewRollsTitle"
 msgid "Guaranteed Critical"
-msgstr ""
+msgstr "대성공 보장"
 
 msgctxt "ForceCritEveryFewRollsDescription"
 msgid "Guarantees the player a critical hit at least once every 15 rolls."
-msgstr ""
+msgstr "적어도 15번에 한 번 이상 대성공을 굴립니다."
 
 msgctxt "StorySettingsHeaderTitle"
 msgid "Story"
-msgstr ""
+msgstr "이야기 모드"
 
 msgctxt "ForceSuccessOnDialogRollsTitle"
 msgid "Force Dialog Roll Success"
@@ -1739,7 +1739,7 @@ msgstr ""
 
 msgctxt "QualityHeaderTitle"
 msgid "Quality"
-msgstr ""
+msgstr "품질"
 
 msgctxt "ColorCalibrationHeaderTitle"
 msgid "Color Calibration"

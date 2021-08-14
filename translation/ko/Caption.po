@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-13 12:38+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2021-08-14 11:58+0000\n"
+"Last-Translator: 배정기 <wjdrl5195@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/caption/ko/"
 ">\n"
 "Language: ko\n"
@@ -26,9 +26,10 @@ msgctxt "LandingPositionCaption"
 msgid "Select a place to climb to."
 msgstr "올라갈 위치를 선택하세요."
 
+#, fuzzy
 msgctxt "LevitateDestinationCaption"
 msgid "Select a levitation destination for your target."
-msgstr ""
+msgstr "대상이 공중으로 이동할 곳을 선택하세요."
 
 msgctxt "OutOfRangeCaption"
 msgid "You are out of range!"
@@ -36,19 +37,19 @@ msgstr "범위를 벗어났습니다!"
 
 msgctxt "ProxyActionTitle"
 msgid "Magical Effect Control"
-msgstr ""
+msgstr "마법 효과 제어"
 
 msgctxt "ProxyAttackCaption"
 msgid "Select a target to attack with the magic effect."
-msgstr ""
+msgstr "마법 효과로 공격할 대상을 선택하세요."
 
 msgctxt "ProxyMoveAndAttackCaption"
 msgid "Select destination to move the magical effect or a target to attack."
-msgstr ""
+msgstr "마법 효과나 공격할 대상을 이동시킬 곳을 고르세요."
 
 msgctxt "ProxyMoveCaption"
 msgid "Select a destination to move the magic effect."
-msgstr ""
+msgstr "마법 효과를 이동시킬 곳을 고르세요."
 
 msgctxt "SelectPositionMultipleCaption"
 msgid "Select {0} positions"
@@ -58,25 +59,30 @@ msgctxt "SelectPositionSingleCaption"
 msgid "Select a position"
 msgstr ""
 
+#, fuzzy
 msgctxt "ShapeConeDirectionCaption"
 msgid "Select a direction for the cone of effect."
-msgstr ""
+msgstr "원뿔형 효과의 방향을 선택하세요."
 
+#, fuzzy
 msgctxt "ShapeCubePositionCaption"
 msgid "Select a position for the cube of effect."
-msgstr ""
+msgstr "육면체형 효과의 위치를 선택하세요."
 
+#, fuzzy
 msgctxt "ShapeCylinderPositionCaption"
 msgid "Select a position for the cylinder of effect."
-msgstr ""
+msgstr "원통형 효과의 위치를 선택하세요."
 
+#, fuzzy
 msgctxt "ShapeLineDirectionCaption"
 msgid "Select a direction for the line of effect."
-msgstr ""
+msgstr "선형 효과의 방향을 선택하세요."
 
+#, fuzzy
 msgctxt "ShapeSpherePositionCaption"
 msgid "Select a position for the sphere of effect."
-msgstr ""
+msgstr "구체형 효과의 위치를 선택하세요."
 
 msgctxt "ShapeWallLineExtremityCaption"
 msgid "Select an end for the wall effect."
@@ -86,17 +92,20 @@ msgctxt "ShapeWallLineInvalid"
 msgid "The line of effect cannot be placed here."
 msgstr ""
 
+#, fuzzy
 msgctxt "ShapeWallLineOriginCaption"
 msgid "Select an origin for the wall effect."
-msgstr ""
+msgstr "벽 효과의 시작지점을 선택하세요."
 
+#, fuzzy
 msgctxt "ShapeWallLineOutOfLengthCaption"
 msgid "The line of effect is too long!"
-msgstr ""
+msgstr "선형 효과가 너무 깁니다!"
 
+#, fuzzy
 msgctxt "ShapeWallRingPositionCaption"
 msgid "Select a position for the circle of effect."
-msgstr ""
+msgstr "원형 효과의 위치를 선택하세요."
 
 msgctxt "ShoveSelectDestinationCaption"
 msgid "Push the creature back, or knock it down?"
@@ -298,7 +307,7 @@ msgstr ""
 
 msgctxt "GadgetParametersLocationSelectorDescription"
 msgid "Click to select a destination location from a list"
-msgstr ""
+msgstr "클릭하여 목록에서 목적지 위치를 선택하세요."
 
 msgctxt "GadgetListAddTitle"
 msgid "Add Gadget"

@@ -1,16 +1,18 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-08-14 11:58+0000\n"
+"Last-Translator: Reze. <goldenweekmood@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/encounter/"
+"ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.3.6\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "Abjuration_Caravan_EncounterDescription"
 msgid "You came across a caravan, a rare thing in these desolate lands."
@@ -18,54 +20,56 @@ msgstr ""
 
 msgctxt "Abjuration_Caravan_EncounterTitle"
 msgid "Unexpected Encounter"
-msgstr ""
+msgstr "뜻밖의 만남"
 
 msgctxt "Abjuration_Ruins01_EncounterDescription"
 msgid ""
 "As you traveled through the Badlands towards Coparann, Kythaela asked you to "
 "stop near an old ruin…"
-msgstr ""
+msgstr "황무지를 지나 코파란을 향해 여행하던 도중, 키타엘라가 오래된 폐허 근처에 잠시 멈추자고 요청했습니다…"
 
 msgctxt "Abjuration_Ruins01_EncounterTitle"
 msgid "Ashes of Manacalon"
-msgstr ""
+msgstr "마나칼론의 폐허"
 
 msgctxt "Abjuration_Ruins02_EncounterDescription"
 msgid ""
 "Kythaela stopped again, and asked to enter what seems to be an old Imperial "
 "prison."
-msgstr ""
+msgstr "키타엘라가 또다시 멈춰서서는, 오래된 제국 감옥으로 보이는 곳에 들어가자고 요청했습니다."
 
 msgctxt "Abjuration_Ruins02_EncounterTitle"
 msgid "Dungeons of Manacalon"
-msgstr ""
+msgstr "마나칼론의 던전"
 
 msgctxt "BadlandsSpidersEncounterDescription"
 msgid ""
 "You must have roamed close to a nest: a handful of these little monsters "
 "wants you dead."
-msgstr ""
+msgstr "근처에 거미 둥지가 있는 것 같습니다. 조그만 괴물들이 당신을 죽이기 위해 다가옵니다."
 
 msgctxt "BadlandsSpidersEncounterTitle"
 msgid "Badlands Spiders"
-msgstr ""
+msgstr "황무지 거미떼"
 
 msgctxt "BanditsEncounterDescription"
 msgid "Robbers in search of easy prey - preferably wealthy."
-msgstr ""
+msgstr "쉽고 돈많은 먹이를 찾아다니는 강도들입니다."
 
 msgctxt "BanditsEncounterTitle"
 msgid "Bandits"
-msgstr ""
+msgstr "강도떼"
 
+#, fuzzy
 msgctxt "CrownAttunementEncounterDescription"
 msgid ""
 "Your party is forced to stop for an unplanned short rest. Something is wrong."
-msgstr ""
+msgstr "당신의 파티는 예상치 않은 막간의 휴식을 위해 멈춰 서야만 합니다. 무언가 잘못되었습니다."
 
+#, fuzzy
 msgctxt "CrownAttunementEncounterTitle"
 msgid "A Troubled Night"
-msgstr ""
+msgstr "곤란에 빠진 밤"
 
 msgctxt "DeepSpidersEncounterTitle"
 msgid "Deep Spiders"
@@ -75,11 +79,11 @@ msgctxt "EagleNestEncounterDescription"
 msgid ""
 "You've wandered too close to a nest! The eagles will fight to the death to "
 "protect their young!"
-msgstr ""
+msgstr "둥지에 너무 가까이 왔습니다! 독수리들은 새끼를 보호하기 위해 목숨을 걸고 싸울 것입니다!"
 
 msgctxt "EagleNestEncounterTitle"
 msgid "Eagle Nest"
-msgstr ""
+msgstr "독수리 둥지"
 
 msgctxt "FlyingSnakesEncounterDescription"
 msgid "A bevy of flying snakes who want you away from their eggs."
@@ -87,11 +91,12 @@ msgstr ""
 
 msgctxt "FlyingSnakesEncounterTitle"
 msgid "Brimstone Vipers"
-msgstr ""
+msgstr "유황 독사떼"
 
+#, fuzzy
 msgctxt "GoblinCrusadersDescription"
 msgid "A goblin shaman and his followers in search of glory."
-msgstr ""
+msgstr "영광을 탐하는 고블린 샤먼과 그 추종자들."
 
 msgctxt "GoblinCrusadersTitle"
 msgid "Goblin Crusade"
@@ -99,7 +104,7 @@ msgstr ""
 
 msgctxt "GoblinhuntingpartyEncounterDescription"
 msgid "Goblins on the hunt with their tame wolves."
-msgstr ""
+msgstr "사냥 중인 고블린과 길들여진 늑대."
 
 msgctxt "GoblinhuntingpartyEncounterTitle"
 msgid "Goblin Hunting Party"
@@ -128,19 +133,19 @@ msgstr ""
 
 msgctxt "WinterWolfpackEncounterDescription"
 msgid "A terrible winter wolf, on the hunt with a few normal wolves."
-msgstr ""
+msgstr "공포스러운 겨울 늑대와 일반 늑대 몇 마리가 사냥을 하고 있습니다."
 
 msgctxt "WinterWolfpackEncounterTitle"
 msgid "Winter Wolf and Pack"
-msgstr ""
+msgstr "겨울 늑대 무리"
 
 msgctxt "WolfpackEncounterDescription"
 msgid "A pack of ravenous wolves, desperate for a kill."
-msgstr ""
+msgstr "굶주린 늑대 무리가 먹잇감을 찾아 헤매고 있습니다."
 
 msgctxt "WolfpackEncounterTitle"
 msgid "Wolf Pack"
-msgstr ""
+msgstr "늑대 무리"
 
 msgctxt "DeepSpidersEncounterDescription"
 msgid "A huge party of deep spiders looking to feed their spiderlings."
@@ -152,7 +157,7 @@ msgstr ""
 
 msgctxt "DeathGangDescription"
 msgid "Roaming skeletons, escaped from some desecrated tomb."
-msgstr ""
+msgstr "더럽혀진 묘지에서 탈출해 떠도는 스켈레톤 무리입니다."
 
 msgctxt "DeathSquadTitle"
 msgid "Death Squad"
@@ -160,7 +165,7 @@ msgstr ""
 
 msgctxt "RoamingFanaticsTitle"
 msgid "Roaming Fanatics"
-msgstr ""
+msgstr "떠돌이 광신도"
 
 msgctxt "RoamingFanaticsDescription"
 msgid "A couple of acolytes led by a charismatic leader."

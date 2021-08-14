@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-13 12:38+0000\n"
-"Last-Translator: 까망쥐 <jk01056@naver.com>\n"
+"PO-Revision-Date: 2021-08-14 11:58+0000\n"
+"Last-Translator: 배정기 <wjdrl5195@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/action/ko/>"
 "\n"
 "Language: ko\n"
@@ -327,9 +327,10 @@ msgid ""
 "This action can be used only to take the Dash or Disengage action."
 msgstr ""
 
+#, fuzzy
 msgctxt "CunningActionTitle"
 msgid "Cunning Action"
-msgstr ""
+msgstr "커닝 액션"
 
 msgctxt "DashDescription"
 msgid ""
@@ -630,15 +631,17 @@ msgctxt "RageStartTitle"
 msgid "Rage"
 msgstr "격노"
 
+#, fuzzy
 msgctxt "RageStopDescription"
 msgid ""
 "Immediately stops your raging status, though still couting your used rage "
 "point"
-msgstr ""
+msgstr "격노 상태를 즉시 멈춥니다. 사용한 격노 포인트는 되돌릴 수 없습니다."
 
+#, fuzzy
 msgctxt "RageStopTitle"
 msgid "Stop Rage"
-msgstr ""
+msgstr "격노 멈춤"
 
 msgctxt "RecklessAttackDescription"
 msgid ""
