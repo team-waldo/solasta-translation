@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-13 12:38+0000\n"
+"PO-Revision-Date: 2021-08-14 15:53+0000\n"
 "Last-Translator: Akintos <akintos47@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/feedback/"
 "ko/>\n"
@@ -449,11 +449,11 @@ msgstr ""
 
 msgctxt "ExperienceGainedFormat"
 msgid "+{0}XP"
-msgstr ""
+msgstr "+{0}XP"
 
 msgctxt "ExperienceGainedLine"
 msgid "{0} gains {1}XP"
-msgstr ""
+msgstr "{0} 경험치 {1}XP 획득"
 
 msgctxt "FragileGroundDetectedFormat"
 msgid "Fragile ground detected"
@@ -465,15 +465,15 @@ msgstr ""
 
 msgctxt "GameAutoSavedLine"
 msgid "Game auto saved"
-msgstr ""
+msgstr "게임 자동 저장됨"
 
 msgctxt "GameQuickSavedLine"
 msgid "Game quick saved"
-msgstr ""
+msgstr "빠른 저장 완료"
 
 msgctxt "GameSavedLine"
 msgid "Game saved"
-msgstr ""
+msgstr "게임 저장됨"
 
 msgctxt "HiddenObjectRevealedFormat"
 msgid "Object Revealed"
@@ -493,15 +493,15 @@ msgstr ""
 
 msgctxt "ImmuneToDamageLine"
 msgid "{0} is immune to {1} damage"
-msgstr ""
+msgstr "{0}: {1} 피해에 면역"
 
 msgctxt "ImmuneToSpellFormat"
 msgid "Immune {0}"
-msgstr ""
+msgstr "{0} 면역"
 
 msgctxt "ImmuneToSpellLine"
 msgid "{0} is immune to the {1} spell"
-msgstr ""
+msgstr "{0}: {1} 주문에 면역"
 
 msgctxt "InflictedDamageLine"
 msgid "{0} sustains damage: {1}"
@@ -655,7 +655,7 @@ msgstr ""
 
 msgctxt "ReceivedHealingLine"
 msgid "{0} is healed {1} hit point(s)"
-msgstr ""
+msgstr "{0}: {1} 체력 회복"
 
 msgctxt "ReceivedTemporaryHitPointsFailureLine"
 msgid "{0} cannot receive any temporary hit points"
@@ -667,7 +667,7 @@ msgstr ""
 
 msgctxt "RitualCastLine"
 msgid "{0} casts the {1} spell as a ritual"
-msgstr ""
+msgstr "{0}: {1} 주문을 의식으로 시전"
 
 msgctxt "RollAttackCriticalFailureTitle"
 msgid "Critical Miss"
@@ -695,11 +695,11 @@ msgstr ""
 
 msgctxt "RollCheckFailureTitle"
 msgid "Failure"
-msgstr ""
+msgstr "실패"
 
 msgctxt "RollCheckSuccessTitle"
 msgid "Success"
-msgstr ""
+msgstr "성공"
 
 msgctxt "SaveCaptionFormat"
 msgid "{0} Save"
@@ -836,23 +836,23 @@ msgstr ""
 
 msgctxt "TrackDetectedFormat"
 msgid "Tracks spotted"
-msgstr ""
+msgstr "흔적 발견"
 
 msgctxt "TrapDetectedFormat"
 msgid "Trap detected"
-msgstr ""
+msgstr "함정 발견"
 
 msgctxt "TrapDisarmedFormat"
 msgid "Trap disarmed"
-msgstr ""
+msgstr "함정 해제됨"
 
 msgctxt "TrapDisarmFailedFormat"
 msgid "Disarm Failed"
-msgstr ""
+msgstr "함정 해제 실패"
 
 msgctxt "TrapTriggeredFormat"
 msgid "Trap triggered"
-msgstr ""
+msgstr "함정 발동됨"
 
 msgctxt "CharmedEnemyRemovedFromArea"
 msgid "{0} left the area"

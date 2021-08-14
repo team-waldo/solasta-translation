@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-14 11:58+0000\n"
+"PO-Revision-Date: 2021-08-14 15:53+0000\n"
 "Last-Translator: 배정기 <wjdrl5195@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/caption/ko/"
 ">\n"
@@ -84,13 +84,15 @@ msgctxt "ShapeSpherePositionCaption"
 msgid "Select a position for the sphere of effect."
 msgstr "구체형 효과의 위치를 선택하세요."
 
+#, fuzzy
 msgctxt "ShapeWallLineExtremityCaption"
 msgid "Select an end for the wall effect."
-msgstr ""
+msgstr "벽 효과의 끝지점을 선택하세요."
 
+#, fuzzy
 msgctxt "ShapeWallLineInvalid"
 msgid "The line of effect cannot be placed here."
-msgstr ""
+msgstr "선형 효과는 여기에 놓을 수 없습니다."
 
 #, fuzzy
 msgctxt "ShapeWallLineOriginCaption"
@@ -111,33 +113,40 @@ msgctxt "ShoveSelectDestinationCaption"
 msgid "Push the creature back, or knock it down?"
 msgstr ""
 
+#, fuzzy
 msgctxt "ShoveSelectTargetCaption"
 msgid "Select a target to shove."
-msgstr ""
+msgstr "밀칠 대상을 선택하세요."
 
+#, fuzzy
 msgctxt "ShoveTargetCannotPushAwayCaption"
 msgid "No room to push the target away."
-msgstr ""
+msgstr "대상을 밀칠 공간이 없습니다."
 
+#, fuzzy
 msgctxt "ShoveTargetImmuneCaption"
 msgid "Target is immune to shoving."
-msgstr ""
+msgstr "대상은 밀치기에 면역입니다."
 
+#, fuzzy
 msgctxt "ShoveTargetOutOfReachCaption"
 msgid "Target is out of reach."
-msgstr ""
+msgstr "대상이 범위 밖에 있습니다."
 
+#, fuzzy
 msgctxt "ShoveTargetProneCaption"
 msgid "You cannot shove a prone target!"
-msgstr ""
+msgstr "엎드린 대상은 밀칠 수 없습니다!"
 
+#, fuzzy
 msgctxt "ShoveTargetTooBigCaption"
 msgid "Target is too big for this creature to shove"
-msgstr ""
+msgstr "대상이 커서 밀칠 수 없습니다"
 
+#, fuzzy
 msgctxt "TargetAwakenDescription"
 msgid "Click to awaken this sleeping character."
-msgstr ""
+msgstr "이 잠에 든 캐릭터를 깨우려면 클릭하세요."
 
 msgctxt "TargetFilteringAllyCreature"
 msgid "Ally Creature"
