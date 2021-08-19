@@ -1,16 +1,17 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-08-19 05:52+0000\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/npc/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.3.6\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "Kaseinax_Magister_Title"
 msgid "The Magister"
@@ -22,19 +23,19 @@ msgstr ""
 
 msgctxt "Merchant"
 msgid "Merchant"
-msgstr ""
+msgstr "상인"
 
 msgctxt "NPC_Adam_the_twelfth_Title"
 msgid "Adam the Twelfth"
-msgstr ""
+msgstr "아담 12세"
 
 msgctxt "NPC_AkshaTitle"
 msgid "Aksha"
-msgstr ""
+msgstr "아크샤"
 
 msgctxt "NPC_AlenaSwiftTitle"
 msgid "Alena Swift"
-msgstr ""
+msgstr "알레나 스위프트"
 
 msgctxt "NPC_Angbi_Title"
 msgid "Angbi Kramsson"
@@ -46,51 +47,51 @@ msgstr ""
 
 msgctxt "NPC_ArwinMertonTitle"
 msgid "Arwin Merton"
-msgstr ""
+msgstr "아르윈 머튼"
 
 msgctxt "NPC_ArwinMertonUnknownTitle"
 msgid "Unknown Drunk"
-msgstr ""
+msgstr "의문의 취객"
 
 msgctxt "NPC_AtimaBladeburnTitle"
 msgid "Atima Bladeburn"
-msgstr ""
+msgstr "아티마 블레이드번"
 
 msgctxt "NPC_BanditCrossbowDescription"
 msgid "This bandit stands back to shoot with a crossbow."
-msgstr ""
+msgstr "후방에서 석궁으로 지원을 하는 도적."
 
 msgctxt "NPC_BanditCrossbowTitle"
 msgid "Bandit Skirmisher"
-msgstr ""
+msgstr "도적 척후병"
 
 msgctxt "NPC_BanditDescription"
 msgid "A malevolent fighter using a scimitar."
-msgstr ""
+msgstr "시미터를 사용하는 사악한 전사."
 
 msgctxt "NPC_BanditDwarfDescription"
 msgid "Short and stout, this bandit wields a scimitar."
-msgstr ""
+msgstr "시미터를 사용하는 작지만 튼튼한 도적."
 
 msgctxt "NPC_BanditDwarfTitle"
 msgid "Dwarf Bandit"
-msgstr ""
+msgstr "드워프 도적"
 
 msgctxt "NPC_BanditHalflingDescription"
 msgid "Short and nimble, this bandit carries a crossbow."
-msgstr ""
+msgstr "석궁을 다루는 작고 민첩한 도적."
 
 msgctxt "NPC_BanditHalflingTitle"
 msgid "Dwarf Bandit"
-msgstr ""
+msgstr "드워프 도적"
 
 msgctxt "NPC_BanditLoanSharkDescription"
 msgid "Loan Shark"
-msgstr ""
+msgstr "고리대금업자"
 
 msgctxt "NPC_BanditLoanSharkTitle"
 msgid "Loan Shark"
-msgstr ""
+msgstr "고리대금업자"
 
 msgctxt "NPC_BanditQuartermasterTitle"
 msgid "Bandit Quartermaster"
@@ -98,15 +99,15 @@ msgstr ""
 
 msgctxt "NPC_BanditSwordsmanDescription"
 msgid "Tall and powerful, this bandit wields a greatsword."
-msgstr ""
+msgstr "대검을 사용하는 크고 강력한 도적."
 
 msgctxt "NPC_BanditSwordsmanTitle"
 msgid "Highwayman"
-msgstr ""
+msgstr "노상강도"
 
 msgctxt "NPC_BanditTitle"
 msgid "Bandit"
-msgstr ""
+msgstr "도적"
 
 msgctxt "NPC_BericSunblazeTitle"
 msgid "Marshal Beric Sunblaze"
@@ -114,23 +115,23 @@ msgstr ""
 
 msgctxt "NPC_BerylStonebeardTitle"
 msgid "Beryl Stonebeard"
-msgstr ""
+msgstr "베릴 스톤비어드"
 
 msgctxt "NPC_BradfordRavensworthTitle"
 msgid "Bradford Ravensworth"
-msgstr ""
+msgstr "브래드포드 레이븐스워스"
 
 msgctxt "NPC_CeiwadSilverflowerTitle"
 msgid "Princess Ceiwad Silverflower"
-msgstr ""
+msgstr "세이와드 실버플라워 공주"
 
 msgctxt "NPC_CitizenTitle"
 msgid "Citizen"
-msgstr ""
+msgstr "시민"
 
 msgctxt "NPC_CityGuardTitle"
 msgid "City Guard"
-msgstr ""
+msgstr "도시 경비병"
 
 msgctxt "NPC_CoparannGuardTitle"
 msgid "Coparann Guard"
@@ -255,11 +256,11 @@ msgstr ""
 
 msgctxt "NPC_LenaTitle"
 msgid "Lena"
-msgstr ""
+msgstr "레나"
 
 msgctxt "NPC_LiamTitle"
 msgid "Liam"
-msgstr ""
+msgstr "리암"
 
 msgctxt "NPC_LisbathTownsendTitle"
 msgid "Lisbath Townsend"
@@ -271,7 +272,7 @@ msgstr ""
 
 msgctxt "NPC_LordCarranTitle"
 msgid "Lord Carran"
-msgstr ""
+msgstr "캐런 경"
 
 msgctxt "NPC_MaddyGreenisleTitle"
 msgid "Maddy Greenisle"
@@ -319,7 +320,7 @@ msgstr ""
 
 msgctxt "NPC_RazanTitle"
 msgid "Razan"
-msgstr ""
+msgstr "라잔"
 
 msgctxt "NPC_RobarSharpTitle"
 msgid "Robar Sharp"
@@ -331,7 +332,7 @@ msgstr ""
 
 msgctxt "NPC_TEMP_Quest_GiverTitle"
 msgid "TEMP_Quest_Giver"
-msgstr ""
+msgstr "임시_퀘스트_NPC"
 
 msgctxt "NPC_VerissaIronshellTitle"
 msgid "Captain Verissa Ironshell"
@@ -365,7 +366,7 @@ msgstr ""
 
 msgctxt "NPC_Brok_Title"
 msgid "Brok"
-msgstr ""
+msgstr "브록"
 
 msgctxt "NPC_Arbal_Title"
 msgid "Arbal"
@@ -385,7 +386,7 @@ msgstr ""
 
 msgctxt "NPC_Gromnir_SorakTitle"
 msgid "Sorak Infiltrator"
-msgstr ""
+msgstr "소락 잠입자"
 
 msgctxt "NPC_Spectral_Servant_Title"
 msgid "Spectral Servant"
@@ -401,7 +402,7 @@ msgstr ""
 
 msgctxt "NPC_Adria_Title"
 msgid "Adria"
-msgstr ""
+msgstr "아드리아"
 
 msgctxt "NPC_Lyria_Title"
 msgid "Lyria"
@@ -409,7 +410,7 @@ msgstr ""
 
 msgctxt "NPC_Drew_Title"
 msgid "Drew"
-msgstr ""
+msgstr "드류"
 
 msgctxt "NPC_Notary_Title"
 msgid "Notary"
@@ -429,7 +430,7 @@ msgstr ""
 
 msgctxt "NPC_Edrof_Title"
 msgid "Edrof"
-msgstr ""
+msgstr "에드로프"
 
 msgctxt "NPC_Radulf_Title"
 msgid "Radulf"
@@ -437,7 +438,7 @@ msgstr ""
 
 msgctxt "NPC_Urka_Title"
 msgid "Urka"
-msgstr ""
+msgstr "우르카"
 
 msgctxt "NPC_Galaefin"
 msgid "Master Galeafin"
@@ -469,7 +470,7 @@ msgstr ""
 
 msgctxt "NPC_PrivateRodric_Title"
 msgid "Rodric"
-msgstr ""
+msgstr "로드릭"
 
 msgctxt "NPC_Bertram"
 msgid "Bertram"

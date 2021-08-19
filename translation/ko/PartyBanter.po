@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-13 12:38+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
+"PO-Revision-Date: 2021-08-19 05:52+0000\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/"
 "partybanter/ko/>\n"
 "Language: ko\n"
@@ -24,7 +24,7 @@ msgstr "잠깐! 함정이야!"
 
 msgctxt "Cynical3_Trap_Detected_Self"
 msgid "I see a trap."
-msgstr ""
+msgstr "저기 함정이야."
 
 msgctxt "Cynical1_Secret_door_Detected_Self"
 msgid "Look! A secret door!"
@@ -40,7 +40,7 @@ msgstr "숨겨진 문이 있네."
 
 msgctxt "Cynical1_Trap_Trigerred_Self"
 msgid "How did I miss that?"
-msgstr ""
+msgstr "이걸 못 보다니?"
 
 msgctxt "Cynical2_Trap_Trigerred_Self"
 msgid "It was just waiting for me!"
@@ -52,23 +52,23 @@ msgstr ""
 
 msgctxt "Cynical1_Trap_Disarmed_Self"
 msgid "Too easy!"
-msgstr ""
+msgstr "너무 쉽네!"
 
 msgctxt "Cynical2_Trap_Disarmed_Self"
 msgid "I just needed one hand."
-msgstr ""
+msgstr "한 손으로도 푼다고."
 
 msgctxt "Cynical3_Trap_Disarmed_Self"
 msgid "Piece of cake."
-msgstr ""
+msgstr "식은 죽 먹기야."
 
 msgctxt "Cynical1_Light_up_Self"
 msgid "Let there be light!"
-msgstr ""
+msgstr "빛이 있으라!"
 
 msgctxt "Cynical2_Light_up_Self"
 msgid "That's better."
-msgstr ""
+msgstr "훨씬 낫네."
 
 msgctxt "Cynical3_Light_up_Self"
 msgid "A bit of light won't hurt."
@@ -325,19 +325,19 @@ msgstr ""
 
 msgctxt "Serious1_Trap_Detected_Self"
 msgid "Damn! A trap!"
-msgstr ""
+msgstr "젠장! 함정이야!"
 
 msgctxt "Serious2_Trap_Detected_Self"
 msgid "Stop! A trap!"
-msgstr ""
+msgstr "멈춰! 함정이다!"
 
 msgctxt "Serious3_Trap_Detected_Self"
 msgid "There's a trap!"
-msgstr ""
+msgstr "함정이 있다!"
 
 msgctxt "Serious1_Secret_door_Detected_Self"
 msgid "Hey - a secret door!"
-msgstr ""
+msgstr "여기 비밀 문이야!"
 
 msgctxt "Serious2_Secret_door_Detected_Self"
 msgid "Found a door, here!"
@@ -349,23 +349,23 @@ msgstr ""
 
 msgctxt "Serious1_Trap_Trigerred_Self"
 msgid "Crap!"
-msgstr ""
+msgstr "이런 썅!"
 
 msgctxt "Serious2_Trap_Trigerred_Self"
 msgid "Damn it!"
-msgstr ""
+msgstr "젠장!"
 
 msgctxt "Serious3_Trap_Trigerred_Self"
 msgid "I hate those!"
-msgstr ""
+msgstr "망할 것들!"
 
 msgctxt "Serious1_Trap_Disarmed_Self"
 msgid "Easy."
-msgstr ""
+msgstr "아주 쉽지."
 
 msgctxt "Serious2_Trap_Disarmed_Self"
 msgid "Piece of junk."
-msgstr ""
+msgstr "조잡하구만."
 
 msgctxt "Serious3_Trap_Disarmed_Self"
 msgid "Done and done."
@@ -381,15 +381,15 @@ msgstr ""
 
 msgctxt "Serious3_Light_up_Self"
 msgid "Light, my friend."
-msgstr ""
+msgstr "내 친구 빛이여."
 
 msgctxt "Serious1_Break_Stealth_Self"
 msgid "Damn!"
-msgstr ""
+msgstr "젠장!"
 
 msgctxt "Serious2_Break_Stealth_Self"
 msgid "No!"
-msgstr ""
+msgstr "안 돼!"
 
 msgctxt "Serious3_Break_Stealth_Self"
 msgid "Clumsy idiot!"
@@ -421,7 +421,7 @@ msgstr ""
 
 msgctxt "Serious4_Normal_Hit_Given_Self"
 msgid "You'll die like the rest!"
-msgstr ""
+msgstr "너도 다른 놈들처럼 죽여주마!"
 
 msgctxt "Serious5_Normal_Hit_Given_Self"
 msgid "No quarter given!"
@@ -429,15 +429,15 @@ msgstr ""
 
 msgctxt "Serious1_Missed_Attack_Self"
 msgid "Damn!"
-msgstr ""
+msgstr "젠장!"
 
 msgctxt "Serious2_Missed_Attack_Self"
 msgid "No!"
-msgstr ""
+msgstr "안돼!"
 
 msgctxt "Serious3_Missed_Attack_Self"
 msgid "Come on!"
-msgstr ""
+msgstr "이런!"
 
 msgctxt "Serious4_Missed_Attack_Self"
 msgid "I won't miss next time!"
@@ -457,7 +457,7 @@ msgstr ""
 
 msgctxt "Serious3_Kill_Enemy_Self"
 msgid "Go to hell!"
-msgstr ""
+msgstr "지옥에나 떨어져라!"
 
 msgctxt "Serious4_Kill_Enemy_Self"
 msgid "You're not coming back."
@@ -469,15 +469,15 @@ msgstr ""
 
 msgctxt "Serious1_Healed_by_ally_Self"
 msgid "Thanks."
-msgstr ""
+msgstr "고마워."
 
 msgctxt "Serious2_Healed_by_ally_Self"
 msgid "I'll remember."
-msgstr ""
+msgstr "기억해둘게."
 
 msgctxt "Serious3_Healed_by_ally_Self"
 msgid "I owe you one."
-msgstr ""
+msgstr "빚 하나 졌네."
 
 msgctxt "Serious1_Allied_KnockedDown_Self"
 msgid "Come on! "
@@ -493,15 +493,15 @@ msgstr ""
 
 msgctxt "Serious1_Trap_Trigerred_Other"
 msgid "What an idiot!"
-msgstr ""
+msgstr "바보 같으니라고!"
 
 msgctxt "Serious2_Trap_Trigerred_Other"
 msgid "Open your damn eyes!"
-msgstr ""
+msgstr "눈 똑바로 뜨고 다녀!"
 
 msgctxt "Serious3_Trap_Trigerred_Other"
 msgid "Pay attention!"
-msgstr ""
+msgstr "정신 차려!"
 
 msgctxt "Serious1_Trap_Disarmed_Other"
 msgid "Well done!"

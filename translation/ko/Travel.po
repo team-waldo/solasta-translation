@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-13 12:38+0000\n"
+"PO-Revision-Date: 2021-08-19 05:52+0000\n"
 "Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/travel/ko/>"
 "\n"
@@ -14,9 +14,10 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.1.1\n"
 
+#, fuzzy
 msgctxt "FactionRelicInterestedFactionsTitle"
 msgid "Interested Factions"
-msgstr ""
+msgstr "관심 세력"
 
 msgctxt "FatigueExhaustedDescription"
 msgid "The party is completely exhausted and must rest."
@@ -185,9 +186,10 @@ msgctxt "TravelActivityLongRestTitle"
 msgid "Rest"
 msgstr "휴식"
 
+#, fuzzy
 msgctxt "TravelActivityNavigateTitle"
 msgid "Navigate"
-msgstr ""
+msgstr "정찰"
 
 msgctxt "TravelActivityStandByTitle"
 msgid "Standby"
@@ -406,7 +408,7 @@ msgstr "{0}은(는) 혼자 생각하며 시간을 보냅니다."
 
 msgctxt "StandardCampActivity20Title"
 msgid "{0} plays a game of skill with stones."
-msgstr ""
+msgstr "{0}은(는) 돌멩이를 이용해 비석치기를 합니다."
 
 msgctxt "StandardCampActivity21Title"
 msgid "{0} unfolds a bedroll to set up a nice sleeping spot."
@@ -417,6 +419,7 @@ msgctxt "TravelEventEncounterOther1Title"
 msgid "Weak monsters run away as they see the party approaching."
 msgstr "약한 몬스터들이 주인공 파티를 마주하자 도망쳤습니다."
 
+#, fuzzy
 msgctxt "TravelEventEncounterOther2Title"
 msgid "An encounter! The monsters are frightened by the party and scurry away."
-msgstr ""
+msgstr "적 마주침! 몬스터들은 파티를 보더니 겁을 먹고 달아납니다."

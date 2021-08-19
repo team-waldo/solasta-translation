@@ -1,16 +1,17 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-08-19 05:52+0000\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/prop/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.3.6\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "CandelabraTitle"
 msgid "Candelabra"
@@ -22,47 +23,47 @@ msgstr ""
 
 msgctxt "ColumnATitle"
 msgid "Column A"
-msgstr ""
+msgstr "기둥 A"
 
 msgctxt "ColumnADescription"
 msgid "A decorative column"
-msgstr ""
+msgstr "장식용 기둥"
 
 msgctxt "ColumnBTitle"
 msgid "Column B"
-msgstr ""
+msgstr "기둥 B"
 
 msgctxt "ColumnBDescription"
 msgid "A decorative column"
-msgstr ""
+msgstr "장식용 기둥"
 
 msgctxt "FireBasinTitle"
 msgid "Fire Basin"
-msgstr ""
+msgstr "화로"
 
 msgctxt "FireBasinDescription"
 msgid "A burning basin, illuminating its surroundings"
-msgstr ""
+msgstr "주변을 밝히는 화로"
 
 msgctxt "BenchTitle"
 msgid "Bench"
-msgstr ""
+msgstr "벤치"
 
 msgctxt "BenchDescription"
 msgid "A decorative bench"
-msgstr ""
+msgstr "장식용 벤치"
 
 msgctxt "GuardrailsATitle"
 msgid "Guardrails"
-msgstr ""
+msgstr "난간"
 
 msgctxt "GuardrailsADescription"
 msgid "A low wall that can be used as a heavy cover"
-msgstr ""
+msgstr "엄폐물로 사용할 수 있는 낮은 벽"
 
 msgctxt "DebrisATitle"
 msgid "Debris"
-msgstr ""
+msgstr "잔해"
 
 msgctxt "DebrisADescription"
 msgid "A heap of stone preventing movement"
@@ -70,7 +71,7 @@ msgstr ""
 
 msgctxt "GuardrailsBrokenATitle"
 msgid "Broken Guardrail A"
-msgstr ""
+msgstr "부서진 난간 A"
 
 msgctxt "GuardrailsBrokenADescription"
 msgid "A short, broken, low wall that can be used as heavy cover"
@@ -78,7 +79,7 @@ msgstr ""
 
 msgctxt "GuardrailsBrokenBTitle"
 msgid "Broken Guardrail B"
-msgstr ""
+msgstr "부서진 난간 B"
 
 msgctxt "GuardrailsBrokenBDescription"
 msgid "A long, broken, low wall that can be used as heavy cover"
@@ -118,23 +119,23 @@ msgstr ""
 
 msgctxt "StatueTitle"
 msgid "Statue"
-msgstr ""
+msgstr "석상"
 
 msgctxt "StatueDescription"
 msgid "A decorative statue"
-msgstr ""
+msgstr "장식용 석상"
 
 msgctxt "TombATitle"
 msgid "Tomb A"
-msgstr ""
+msgstr "석관 A"
 
 msgctxt "TombADescription"
 msgid "A tomb that can be entered"
-msgstr ""
+msgstr "올라설 수 있는 석관"
 
 msgctxt "TombBTitle"
 msgid "Tomb B"
-msgstr ""
+msgstr "석관 B"
 
 msgctxt "TombBDescription"
 msgid "A decorative tomb blocking movement"
@@ -142,7 +143,7 @@ msgstr ""
 
 msgctxt "TombCTitle"
 msgid "Tomb C"
-msgstr ""
+msgstr "석관 C"
 
 msgctxt "VaseTitle"
 msgid "Vase"
@@ -170,27 +171,27 @@ msgstr ""
 
 msgctxt "WallChainTitle"
 msgid "Chain"
-msgstr ""
+msgstr "사슬"
 
 msgctxt "WallChainDescription"
 msgid "A piece of metal hung on the wall"
-msgstr ""
+msgstr "벽에 걸린 사슬 조각"
 
 msgctxt "WallCrawl"
 msgid "Wall with Crawl Hole"
-msgstr ""
+msgstr "개구멍이 있는 벽"
 
 msgctxt "WallCrawlDescription"
 msgid "A wide wall with a hole to crawl through"
-msgstr ""
+msgstr "기어서 지나갈 수 있는 구멍이 있는 넓은 벽"
 
 msgctxt "WallTorchTitle"
 msgid "Wall Torch"
-msgstr ""
+msgstr "횃불 고정대"
 
 msgctxt "WallTorchDescription"
 msgid "An ever-burning torch that can be placed on a wall"
-msgstr ""
+msgstr "벽에 배치할 수 있는 영원히 타오르는 횃불"
 
 msgctxt "BlockTitle"
 msgid "Block"
@@ -203,7 +204,7 @@ msgstr ""
 
 msgctxt "AltarTitle"
 msgid "Altar"
-msgstr ""
+msgstr "제단"
 
 msgctxt "AltarDescription"
 msgid "A votive structure used to pray to a deity"
@@ -211,39 +212,39 @@ msgstr ""
 
 msgctxt "AlchemyTableTitle"
 msgid "Alchemy Table"
-msgstr ""
+msgstr "연금술 탁자"
 
 msgctxt "ArmorStandTitle"
 msgid "Armor Stand"
-msgstr ""
+msgstr "갑옷 거치대"
 
 msgctxt "BannerTitle"
 msgid "Banner"
-msgstr ""
+msgstr "깃발"
 
 msgctxt "BarrelsTitle"
 msgid "Barrels"
-msgstr ""
+msgstr "나무통"
 
 msgctxt "BarrelStackTitle"
 msgid "Barrel Stack"
-msgstr ""
+msgstr "나무통 더미"
 
 msgctxt "BedTitle"
 msgid "Bed"
-msgstr ""
+msgstr "침대"
 
 msgctxt "BirdCageTitle"
 msgid "Birdcage"
-msgstr ""
+msgstr "새장"
 
 msgctxt "BookShelfTitle"
 msgid "Bookshelf"
-msgstr ""
+msgstr "책장"
 
 msgctxt "BookStackTitle"
 msgid "Book Stack"
-msgstr ""
+msgstr "책 더미"
 
 msgctxt "CabinetTitle"
 msgid "Cabinet"
@@ -251,15 +252,15 @@ msgstr ""
 
 msgctxt "CarpetTitle"
 msgid "Carpet"
-msgstr ""
+msgstr "카펫"
 
 msgctxt "ChairTitle"
 msgid "Chair"
-msgstr ""
+msgstr "의자"
 
 msgctxt "CorpseTitle"
 msgid "Corpse"
-msgstr ""
+msgstr "시체"
 
 msgctxt "CouchTitle"
 msgid "Couch"
@@ -279,7 +280,7 @@ msgstr ""
 
 msgctxt "FakeDoorTitle"
 msgid "Fake Door"
-msgstr ""
+msgstr "가짜 문"
 
 msgctxt "FakeDoorDescription"
 msgid ""
@@ -307,31 +308,31 @@ msgstr ""
 
 msgctxt "GreenHouseTitle"
 msgid "Greenhouse"
-msgstr ""
+msgstr "온실"
 
 msgctxt "HarpTitle"
 msgid "Harp"
-msgstr ""
+msgstr "하프"
 
 msgctxt "MirrorTitle"
 msgid "Mirror"
-msgstr ""
+msgstr "거울"
 
 msgctxt "PaintingTitle"
 msgid "Painting"
-msgstr ""
+msgstr "그림"
 
 msgctxt "PlantTitle"
 msgid "Plant"
-msgstr ""
+msgstr "식물"
 
 msgctxt "PrisonFenceTitle"
 msgid "Prison Fence"
-msgstr ""
+msgstr "감옥 창살"
 
 msgctxt "ShelvesTitle"
 msgid "Shelves"
-msgstr ""
+msgstr "선반"
 
 msgctxt "StillTitle"
 msgid "Still"
@@ -343,15 +344,15 @@ msgstr ""
 
 msgctxt "StoveTitle"
 msgid "Stove"
-msgstr ""
+msgstr "난로"
 
 msgctxt "TableTitle"
 msgid "Table"
-msgstr ""
+msgstr "탁자"
 
 msgctxt "TelescopeTitle"
 msgid "Telescope"
-msgstr ""
+msgstr "망원경"
 
 msgctxt "TreasurePedestalTitle"
 msgid "Treasure Pedestal"
@@ -359,7 +360,7 @@ msgstr ""
 
 msgctxt "WindowTitle"
 msgid "Window"
-msgstr ""
+msgstr "창문"
 
 msgctxt "WorkTableTitle"
 msgid "Work Table"
@@ -375,35 +376,35 @@ msgstr ""
 
 msgctxt "ReadingDeskTitle"
 msgid "Reading Desk"
-msgstr ""
+msgstr "독서대"
 
 msgctxt "SpinningWheelTitle"
 msgid "Spinning Wheel"
-msgstr ""
+msgstr "물레"
 
 msgctxt "DeskTitle"
 msgid "Desk"
-msgstr ""
+msgstr "책상"
 
 msgctxt "SpiderWebsTitle"
 msgid "Spider Webs"
-msgstr ""
+msgstr "거미줄"
 
 msgctxt "BasketTitle"
 msgid "Basket"
-msgstr ""
+msgstr "바구니"
 
 msgctxt "BedrollTitle"
 msgid "Bedroll"
-msgstr ""
+msgstr "침낭"
 
 msgctxt "BraseroTitle"
 msgid "Brazier"
-msgstr ""
+msgstr "화로"
 
 msgctxt "CageTitle"
 msgid "Cage"
-msgstr ""
+msgstr "우리"
 
 msgctxt "CartTitle"
 msgid "Cart"
@@ -411,7 +412,7 @@ msgstr ""
 
 msgctxt "CocoonTitle"
 msgid "Cocoon"
-msgstr ""
+msgstr "고치"
 
 msgctxt "HutTitle"
 msgid "Hut"
@@ -419,19 +420,19 @@ msgstr ""
 
 msgctxt "LavaBasinTitle"
 msgid "Lava Basin"
-msgstr ""
+msgstr "용암 웅덩이"
 
 msgctxt "MarketBoothTitle"
 msgid "Market Booth"
-msgstr ""
+msgstr "시장 가판대"
 
 msgctxt "MushroomsTitle"
 msgid "Mushrooms"
-msgstr ""
+msgstr "버섯"
 
 msgctxt "RocksTitle"
 msgid "Rocks"
-msgstr ""
+msgstr "바위"
 
 msgctxt "SkinsTitle"
 msgid "Skins"
@@ -439,19 +440,19 @@ msgstr ""
 
 msgctxt "SpiderEggsTitle"
 msgid "Spider Eggs"
-msgstr ""
+msgstr "거미 알"
 
 msgctxt "RockTitle"
 msgid "Rock"
-msgstr ""
+msgstr "바위"
 
 msgctxt "StalagmiteTitle"
 msgid "Stalagmite"
-msgstr ""
+msgstr "석순"
 
 msgctxt "StoneTitle"
 msgid "Stone"
-msgstr ""
+msgstr "돌"
 
 msgctxt "StrawTitle"
 msgid "Straw"
@@ -483,15 +484,15 @@ msgstr ""
 
 msgctxt "ThicketTitle"
 msgid "Thicket"
-msgstr ""
+msgstr "덤불"
 
 msgctxt "TentTitle"
 msgid "Tent"
-msgstr ""
+msgstr "텐트"
 
 msgctxt "BushesTitle"
 msgid "Bushes"
-msgstr ""
+msgstr "관목"
 
 msgctxt "DoubleThinDoorTitle"
 msgid "Double thin door"
@@ -503,7 +504,7 @@ msgstr ""
 
 msgctxt "TombstoneTitle"
 msgid "Tombstone"
-msgstr ""
+msgstr "묘비"
 
 msgctxt "TombstonePackTitle"
 msgid "Pack of tombstones"
@@ -511,11 +512,11 @@ msgstr ""
 
 msgctxt "FieldTitle"
 msgid "Field"
-msgstr ""
+msgstr "밭"
 
 msgctxt "FieldBlockedDescription"
 msgid "Field with crops"
-msgstr ""
+msgstr "작물이 있는 밭"
 
 msgctxt "FieldDifficultDescription"
 msgid "An open field with difficult terrain"
@@ -523,59 +524,59 @@ msgstr ""
 
 msgctxt "HayStackTitle"
 msgid "Haystack"
-msgstr ""
+msgstr "건초더미"
 
 msgctxt "LogsTitle"
 msgid "Wood logs"
-msgstr ""
+msgstr "통나무 더미"
 
 msgctxt "CaveEntranceTitle"
 msgid "Cave entrance"
-msgstr ""
+msgstr "동굴 입구"
 
 msgctxt "DrainGrateTitle"
 msgid "Drain grate"
-msgstr ""
+msgstr "하수구 쇠창살"
 
 msgctxt "Path_StraightTitle"
 msgid "Straight path"
-msgstr ""
+msgstr "직선 경로"
 
 msgctxt "Path_TurnTitle"
 msgid "Curved path"
-msgstr ""
+msgstr "곡선 경로"
 
 msgctxt "Path_YjunctionTitle"
 msgid "Y-shaped crossroads"
-msgstr ""
+msgstr "Y자 교차로"
 
 msgctxt "Path_SjunctionTitle"
 msgid "S-shaped crossroads"
-msgstr ""
+msgstr "S자 교차로"
 
 msgctxt "Path_EndTitle"
 msgid "Dead end"
-msgstr ""
+msgstr "막다른 길"
 
 msgctxt "Path_CrossRoadTitle"
 msgid "X-shaped crossroads"
-msgstr ""
+msgstr "X자 교차로"
 
 msgctxt "PlanksTitle"
 msgid "Wood planks"
-msgstr ""
+msgstr "나무 판자 더미"
 
 msgctxt "StumpTitle"
 msgid "A dead tree stump"
-msgstr ""
+msgstr "죽은 나무 그루터기"
 
 msgctxt "LadderTitle"
 msgid "Ladder"
-msgstr ""
+msgstr "사다리"
 
 msgctxt "FakeLadderUpTitle"
 msgid "Fake Ladder"
-msgstr ""
+msgstr "가짜 사다리"
 
 msgctxt "FakeLadderUpDescription"
 msgid ""
@@ -605,27 +606,27 @@ msgstr ""
 
 msgctxt "CreeperTitle"
 msgid "Creeper/Ivy"
-msgstr ""
+msgstr "담쟁이덩굴"
 
 msgctxt "RootTitle"
 msgid "Roots"
-msgstr ""
+msgstr "뿌리"
 
 msgctxt "ScaffoldingTitle"
 msgid "Scaffoldings"
-msgstr ""
+msgstr "비계"
 
 msgctxt "StairsTitle"
 msgid "Stairs"
-msgstr ""
+msgstr "계단"
 
 msgctxt "StairsDestoyedTitle"
 msgid "Destroyed Stairs"
-msgstr ""
+msgstr "파괴된 계단"
 
 msgctxt "WallDestoyedTitle"
 msgid "Destroyed Wall"
-msgstr ""
+msgstr "파괴된 벽"
 
 msgctxt "WallLinkTitle"
 msgid "Wall Link"
@@ -633,7 +634,7 @@ msgstr ""
 
 msgctxt "SlopeTitle"
 msgid "Slope"
-msgstr ""
+msgstr "경사로"
 
 msgctxt "TrunkTitle"
 msgid "Trunk"
@@ -641,11 +642,11 @@ msgstr ""
 
 msgctxt "WoodLogTitle"
 msgid "Wood Log"
-msgstr ""
+msgstr "통나무"
 
 msgctxt "CookingStuffTitle"
 msgid "Cooking pot"
-msgstr ""
+msgstr "요리솥"
 
 msgctxt "ArchEndTitle"
 msgid "Destroyed Arch"
@@ -669,7 +670,7 @@ msgstr ""
 
 msgctxt "BridgeTitle"
 msgid "Bridge"
-msgstr ""
+msgstr "다리"
 
 msgctxt "RitualStoneTitle"
 msgid "Ritual Stone"
@@ -677,4 +678,4 @@ msgstr ""
 
 msgctxt "SkullPileTitle"
 msgid "Skull Pile"
-msgstr ""
+msgstr "해골 더미"

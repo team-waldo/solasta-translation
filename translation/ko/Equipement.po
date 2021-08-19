@@ -1,16 +1,18 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-08-19 05:53+0000\n"
+"Last-Translator: 소상준 <alexjun3@naver.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/equipement/"
+"ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.3.6\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "AttunedCharacterFormat"
 msgid "This item is attuned to {0}"
@@ -25,21 +27,25 @@ msgstr ""
 
 msgctxt "Document_ValeOfRemembrance_Title"
 msgid "Book"
-msgstr ""
+msgstr "책"
 
+#, fuzzy
 msgctxt "Document_ValeOfRemembrance_Description"
 msgid "Excerpt from \"The Vale of Remembrance to the Vale of Dreams\""
-msgstr ""
+msgstr "\"추모의 계곡에서 희망의 계곡으로\"에서 발췌"
 
 msgctxt "Document_ValeOfRemembrance01"
 msgid "The Early Days of Coparann"
-msgstr ""
+msgstr "초창기의 코파란"
 
+#, fuzzy
 msgctxt "Document_ValeOfRemembrance02"
 msgid ""
 "Excerpt from \"The Vale of Remembrance to the Vale of Dreams\"\n"
 "By Kram Steelspine, Ceannard of the mines."
 msgstr ""
+"광산의 세나드, 크렘 스틸스파인의 저서\n"
+"\"추모의 계곡에서 희망의 계곡으로\"에서 발췌."
 
 msgctxt "Document_ValeOfRemembrance03"
 msgid ""

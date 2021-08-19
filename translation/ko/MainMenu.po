@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-13 12:38+0000\n"
+"PO-Revision-Date: 2021-08-19 05:52+0000\n"
 "Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/mainmenu/"
 "ko/>\n"
@@ -56,14 +56,13 @@ msgstr "캐릭터의 인벤토리와 캐릭터 시트를 엽니다."
 
 msgctxt "InspectCharacterTitle"
 msgid "Inspect"
-msgstr "보기"
+msgstr "조사"
 
-#, fuzzy
 msgctxt "LevelUpCharacterDescription"
 msgid ""
 "Starts the character's level-up sequence. Some campaigns require or prohibit "
 "characters of levels higher than 1."
-msgstr "캐릭터를 레벨 업 시킵니다. 몇몇 캠페인은 1보다 높은 레벨의 캐릭터를 요구하거나 금지합니다."
+msgstr "캐릭터의 레벨을 올립니다. 몇몇 캠페인은 1보다 높은 레벨의 캐릭터를 요구하거나 금지합니다."
 
 msgctxt "LevelUpCharacterTitle"
 msgid "Level Up"
@@ -103,13 +102,12 @@ msgstr "새로운 모험"
 
 msgctxt "NewCharacterDescription"
 msgid "Create a new character and choose ancestry, class, background, etc."
-msgstr ""
+msgstr "새로운 캐릭터를 생성하고 종족, 클래스, 배경 등을 선택하십시오."
 
 msgctxt "NewCharacterTitle"
 msgid "New Character"
 msgstr "새로운 캐릭터"
 
-#, fuzzy
 msgctxt "PredefinedPartyTitle"
 msgid "Predefined Party"
 msgstr "사전 구성된 파티"
@@ -130,7 +128,6 @@ msgctxt "QuitTitle"
 msgid "Quit"
 msgstr "종료"
 
-#, fuzzy
 msgctxt "SaveDateHeader"
 msgid "Save Date"
 msgstr "저장 날짜"
@@ -181,7 +178,7 @@ msgstr "직접 생성한 캐릭터만 표시합니다."
 
 msgctxt "CharacterSourceTogglePersonalTitle"
 msgid "Personal"
-msgstr ""
+msgstr "개인"
 
 msgctxt "CharacterSourceToggleAllDescription"
 msgid "Display all characters."
@@ -189,7 +186,7 @@ msgstr "모든 캐릭터를 표시합니다."
 
 msgctxt "CharacterSourceToggleAllTitle"
 msgid "All"
-msgstr ""
+msgstr "전체"
 
 msgctxt "CharacterSortAlphaneticalTitle"
 msgid "Name"
@@ -205,7 +202,7 @@ msgstr "클래스"
 
 msgctxt "CharacterSortCharacterAncestryTitle"
 msgid "Ancestry"
-msgstr ""
+msgstr "종족"
 
 msgctxt "DifficultySettingCustomizationLabel"
 msgid "Detailed options can be customized in the Game Settings menu."
@@ -221,25 +218,25 @@ msgstr "Solasta: Crown of the Magister의 제작진을 봅니다."
 
 msgctxt "UserLocationsBrowseModIOTitle"
 msgid "Browse Mod.IO"
-msgstr ""
+msgstr "Mod.IO에서 찾아보기"
 
 msgctxt "UserLocationsRefreshDescription"
 msgid ""
 "Refresh subscribed locations (wait a couple of seconds after subscribing/"
 "unsubscribing before refreshing)"
-msgstr ""
+msgstr "구독 맵 새로고침 (구독/구독 취소 후 몇 초 기다렸다가 새로고침하세요)"
 
 msgctxt "UserLocationsLogoutTitle"
 msgid "Log Out"
-msgstr ""
+msgstr "로그아웃"
 
 msgctxt "UserLocationsLogoutDescription"
 msgid "Log out of Mod.IO"
-msgstr ""
+msgstr "Mod.IO에서 로그아웃"
 
 msgctxt "UserLocationsLoggedInAsTitle"
 msgid "Logged in as:"
-msgstr ""
+msgstr "현재 계정:"
 
 msgctxt "UserLocationsTitle"
 msgid "Dungeon Maker"
@@ -249,7 +246,7 @@ msgctxt "UserLocationsDescription"
 msgid ""
 "Select dungeons & locations created by the community to edit or play, or "
 "create your own"
-msgstr ""
+msgstr "유저들이 만든 던전과 맵을 편집 또는 사용해보거나, 직접 만들어봅니다."
 
 msgctxt "UserLocationsBrowserTitle"
 msgid "User Locations"
@@ -269,7 +266,7 @@ msgstr "규모"
 
 msgctxt "UserLocationsSortEnvironmentTitle"
 msgid "Environment"
-msgstr ""
+msgstr "환경"
 
 msgctxt "UserLocationsSortOperationalTitle"
 msgid "Ready"
@@ -285,11 +282,11 @@ msgstr "아니오"
 
 msgctxt "UserLocationsNewTitle"
 msgid "New Location"
-msgstr ""
+msgstr "새로 만들기"
 
 msgctxt "UserLocationsNewDescription"
 msgid "Creates a new user location"
-msgstr ""
+msgstr "새로운 커스텀 맵을 생성합니다"
 
 msgctxt "UserLocationsEditTitle"
 msgid "Edit"
@@ -313,11 +310,11 @@ msgstr "플레이 테스트"
 
 msgctxt "UserLocationsPlayDescription"
 msgid "Quick launch the selected location with a predefined party"
-msgstr ""
+msgstr "사전 구성된 파티로 선택 맵을 바로 실행"
 
 msgctxt "UserLocationHeaderTitle"
 msgid "User Location"
-msgstr ""
+msgstr "유저 제작 맵"
 
 msgctxt "UserLocationChangeButtonTitle"
 msgid "Change"
@@ -341,15 +338,15 @@ msgstr "파일 찾기"
 
 msgctxt "UserLocationsBrowseFilesDescription"
 msgid "Opens the system folder containing the user location's JSON files"
-msgstr ""
+msgstr "유저 제작 맵 JSON 파일이 위치한 시스템 폴더를 엽니다"
 
 msgctxt "UserLocationsPublishTitle"
 msgid "Publish"
-msgstr ""
+msgstr "게시"
 
 msgctxt "UserLocationsPublishDescription"
 msgid "Opens the interface to publish a location online"
-msgstr ""
+msgstr "맵을 온라인에 게시하기 위해 창을 엽니다"
 
 msgctxt "UserLocationsPlayLocationTitle"
 msgid "Play"
@@ -357,7 +354,7 @@ msgstr "플레이"
 
 msgctxt "UserLocationsPlayLocationDescription"
 msgid "Set up a game with this location and select a party of characters"
-msgstr ""
+msgstr "이 맵을 탐험할 캐릭터 파티를 선택합니다"
 
 msgctxt "UserLocationsBrowseWorkshopTitle"
 msgid "Browse Workshop"
@@ -369,15 +366,15 @@ msgstr "창작마당을 열어 다른 유저가 만든 맵을 찾아봅니다"
 
 msgctxt "UserContentSortLocationsCountTitle"
 msgid "Locations"
-msgstr ""
+msgstr "맵"
 
 msgctxt "UserCampaignsNewTitle"
 msgid "New Campaign"
-msgstr ""
+msgstr "새 캠페인"
 
 msgctxt "UserCampaignsNewDescription"
 msgid "Creates a new user campaign"
-msgstr ""
+msgstr "새로운 유저 캠페인을 생성합니다"
 
 msgctxt "UserCampaignsEditTitle"
 msgid "Edit"
@@ -385,11 +382,11 @@ msgstr "편집"
 
 msgctxt "UserCampaignsEditDescription"
 msgid "Edits the selected user campaign"
-msgstr ""
+msgstr "선택한 유저 캠페인을 편집합니다"
 
 msgctxt "UserCampaignsDeleteDescription"
 msgid "Deletes the selected user campaign"
-msgstr ""
+msgstr "선택한 유저 캠페인을 삭제합니다"
 
 msgctxt "UserCampaignsPlayTitle"
 msgid "Play"
@@ -397,12 +394,12 @@ msgstr "플레이"
 
 msgctxt "UserCampaignsPlayDescription"
 msgid "Starts a game session in the selected campaign"
-msgstr ""
+msgstr "선택한 캠페인으로 게임 세션을 시작합니다"
 
 msgctxt "UserContentBrowseFilesTitle"
 msgid "Browse Files"
-msgstr ""
+msgstr "파일 찾아보기"
 
 msgctxt "UserContentBrowseFilesDescription"
 msgid "Opens the system folder containing the user content JSON files"
-msgstr ""
+msgstr "유저 제작 JSON 파일이 위치한 시스템 폴더를 엽니다"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-14 11:58+0000\n"
-"Last-Translator: Reze. <goldenweekmood@gmail.com>\n"
+"PO-Revision-Date: 2021-08-19 05:52+0000\n"
+"Last-Translator: 백정현 <bjhmsg@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/"
 "blueprintcategory/ko/>\n"
 "Language: ko\n"
@@ -14,7 +14,6 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.1.1\n"
 
-#, fuzzy
 msgctxt "BarrierTitle"
 msgid "Barriers"
 msgstr "장벽"
@@ -25,12 +24,11 @@ msgstr "빈 방"
 
 msgctxt "EncounterTitle"
 msgid "Encounter"
-msgstr "조우"
+msgstr "인카운터"
 
-#, fuzzy
 msgctxt "FurnishedRoomsTitle"
 msgid "Furnished Rooms"
-msgstr "가구가 있는 방"
+msgstr "가구 딸린 방"
 
 msgctxt "FurnitureTitle"
 msgid "Furniture"
@@ -46,11 +44,11 @@ msgstr "전리품"
 
 msgctxt "LoreTitle"
 msgid "Lore"
-msgstr ""
+msgstr "스토리"
 
 msgctxt "NavigationTitle"
 msgid "Navigation"
-msgstr ""
+msgstr "길잡이"
 
 msgctxt "ObstacleTitle"
 msgid "Obstacles"
@@ -58,11 +56,11 @@ msgstr "장애물"
 
 msgctxt "OpeningsTitle"
 msgid "Openings"
-msgstr ""
+msgstr "출입문"
 
 msgctxt "OrnamentsTitle"
 msgid "Ornaments"
-msgstr ""
+msgstr "장식물"
 
 msgctxt "RestingTitle"
 msgid "Resting"
@@ -70,28 +68,28 @@ msgstr "휴식"
 
 msgctxt "StructureTitle"
 msgid "Structures"
-msgstr ""
+msgstr "구조물"
 
 msgctxt "TrapsTitle"
 msgid "Traps"
-msgstr ""
+msgstr "함정"
 
 msgctxt "ActivatorsTitle"
 msgid "Activators"
-msgstr ""
+msgstr "트리거"
 
 msgctxt "PartitionsTitle"
 msgid "Partitions"
-msgstr ""
+msgstr "파티션"
 
 msgctxt "AdventuringTitle"
 msgid "Adventuring"
-msgstr ""
+msgstr "모험"
 
 msgctxt "BlockersTitle"
 msgid "Blockers"
-msgstr ""
+msgstr "차단벽"
 
 msgctxt "HarvestableTitle"
 msgid "Harvestables"
-msgstr ""
+msgstr "획득 가능한 물품"

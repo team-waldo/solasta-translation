@@ -1,16 +1,18 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-08-19 05:52+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/stage/ko/>"
+"\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.3.6\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "AbilityScoreIncreaseRemainingFormat"
 msgid "Remaining point(s): {0}/{1}"
@@ -132,7 +134,7 @@ msgstr ""
 
 msgctxt "AbilityScoresResetTitle"
 msgid "Reset"
-msgstr ""
+msgstr "초기화"
 
 msgctxt "AbilityScoresStageDescription"
 msgid "Generate the character's six main ability scores."
@@ -186,7 +188,7 @@ msgstr ""
 
 msgctxt "BackgroundAlignmentTitle"
 msgid "Choose an alignment:"
-msgstr ""
+msgstr "성향 선택:"
 
 msgctxt "BackgroundChose2FlagsTitle"
 msgid "Personality flags (choose 2)"
@@ -240,11 +242,11 @@ msgstr ""
 
 msgctxt "ChangeEquipementDescription"
 msgid "Click to choose between different equipment configurations."
-msgstr ""
+msgstr "장비를 다르게 구성하려면 클릭하십시오."
 
 msgctxt "ChangeEquipementTitle"
 msgid "Edit Equipment"
-msgstr ""
+msgstr "장비 편집"
 
 msgctxt "ClassAdvancementStageDescription"
 msgid "This stage lets you level up a class or add a new class."
@@ -270,11 +272,11 @@ msgstr ""
 
 msgctxt "ClassSelectionStageNoneSelectedDescription"
 msgid "You must select a class."
-msgstr ""
+msgstr "클래스를 선택해야 합니다."
 
 msgctxt "ClassSelectionStageTitle"
 msgid "Class "
-msgstr ""
+msgstr "클래스 "
 
 msgctxt "DeitySelectionDeityChoiceTitle"
 msgid "Select a Deity"
@@ -380,7 +382,7 @@ msgstr ""
 
 msgctxt "IdentityDefinitionStageFailDuplicateName"
 msgid "Another character is already using that name."
-msgstr ""
+msgstr "다른 캐릭터가 이미 그 이름을 사용하고 있습니다."
 
 msgctxt "IdentityDefinitionStageFailEmptyName"
 msgid "You must input a name."
@@ -392,11 +394,11 @@ msgstr ""
 
 msgctxt "IdentityFirstNameTitle"
 msgid "First Name"
-msgstr ""
+msgstr "이름"
 
 msgctxt "IdentityLastNameTitle"
 msgid "Last Name"
-msgstr ""
+msgstr "성"
 
 msgctxt "IdentityModifiersHeader"
 msgid "Modifiers"
@@ -404,7 +406,7 @@ msgstr ""
 
 msgctxt "IdentityMorphotypeBeardShapeHeader"
 msgid "Beard Shape"
-msgstr ""
+msgstr "수염 모양"
 
 msgctxt "IdentityMorphotypeBodyDecorationHeader"
 msgid "Body Decoration"
@@ -412,7 +414,7 @@ msgstr ""
 
 msgctxt "IdentityMorphotypeEyeColorHeader"
 msgid "Eye Color"
-msgstr ""
+msgstr "눈 색"
 
 msgctxt "IdentityMorphotypeFaceAndSkinHeader"
 msgid "Face and Skin"
@@ -424,11 +426,11 @@ msgstr ""
 
 msgctxt "IdentityMorphotypeHairColorHeader"
 msgid "Hair Color"
-msgstr ""
+msgstr "머리 색"
 
 msgctxt "IdentityMorphotypeHairShapeHeader"
 msgid "Hair Shape"
-msgstr ""
+msgstr "머리 모양"
 
 msgctxt "IdentityMorphotypeMusculatureHeader"
 msgid "Physique"
@@ -440,19 +442,19 @@ msgstr ""
 
 msgctxt "IdentityMorphotypeSkinHeader"
 msgid "Skin Tone"
-msgstr ""
+msgstr "피부색"
 
 msgctxt "IdentityRandomRollDescription"
 msgid "Creates a random name based on the character's ancestry."
-msgstr ""
+msgstr "캐릭터의 종족에 따른 임의의 이름을 만듭니다."
 
 msgctxt "IdentityRandomRollTitle"
 msgid "Random"
-msgstr ""
+msgstr "무작위"
 
 msgctxt "IdentityVoiceTitle"
 msgid "Voice"
-msgstr ""
+msgstr "목소리"
 
 msgctxt "LevelGainsCantripSelectionMultiple"
 msgid "{0} cantrips to select"
@@ -496,7 +498,7 @@ msgstr ""
 
 msgctxt "LevelUpHeader"
 msgid "Level Up!"
-msgstr ""
+msgstr "레벨 업!"
 
 msgctxt "NeedADeityDescription"
 msgid "You must choose a deity."
@@ -508,7 +510,7 @@ msgstr ""
 
 msgctxt "ProficiencyAutoSelectButtonTitle"
 msgid "Auto"
-msgstr ""
+msgstr "자동 선택"
 
 msgctxt "ProficiencyBonusGainFormat"
 msgid ""
@@ -578,7 +580,7 @@ msgstr ""
 
 msgctxt "ProficiencyResetAllButtonTitle"
 msgid "Reset All"
-msgstr ""
+msgstr "모두 초기화"
 
 msgctxt "ProficiencyResetButtonDescription"
 msgid "Reset allocated proficiency points for this step."
@@ -640,11 +642,11 @@ msgstr ""
 
 msgctxt "RaceSelectionStageNoneSelectedDescription"
 msgid "You must select an ancestry."
-msgstr ""
+msgstr "종족을 선택해야 합니다."
 
 msgctxt "RaceSelectionStageTitle"
 msgid "Ancestry"
-msgstr ""
+msgstr "종족"
 
 msgctxt "RaceSubraceCountDescription"
 msgid "{0} of {1} lineages"
@@ -652,11 +654,11 @@ msgstr ""
 
 msgctxt "SexFemaleTitle"
 msgid "Female"
-msgstr ""
+msgstr "여성"
 
 msgctxt "SexMaleTitle"
 msgid "Male"
-msgstr ""
+msgstr "남성"
 
 msgctxt "SpellLearnPluralTitle"
 msgid "Select {0} spells to learn."
@@ -684,7 +686,7 @@ msgstr ""
 
 msgctxt "SpellSelectionStageTitle"
 msgid "Spells"
-msgstr ""
+msgstr "주문"
 
 msgctxt "SubclassSelectionStageDomainTitle"
 msgid ""
@@ -832,7 +834,7 @@ msgstr ""
 
 msgctxt "SpellSelectionHeaderTitle"
 msgid "Select Spells"
-msgstr ""
+msgstr "주문 선택"
 
 msgctxt "AbilityScoresStageFailMinimalStrengthDescription"
 msgid "A character must have a minimum strength of {0} to start adventuring."
@@ -868,19 +870,19 @@ msgstr ""
 
 msgctxt "AlignementLawAxisTitle"
 msgid "Law"
-msgstr ""
+msgstr "질서"
 
 msgctxt "AlignementChaosAxisTitle"
 msgid "Chaos"
-msgstr ""
+msgstr "혼돈"
 
 msgctxt "AlignementGoodAxisTitle"
 msgid "Good"
-msgstr ""
+msgstr "선"
 
 msgctxt "AlignementEvilAxisTitle"
 msgid "Evil"
-msgstr ""
+msgstr "악"
 
 msgctxt "SpellSelectionStageFailNotEnoughPagesDescription"
 msgid ""

@@ -1,20 +1,22 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-08-19 05:52+0000\n"
+"Last-Translator: 도깨비젤리 <zang9412@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/failure/ko/"
+">\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.3.6\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "FailureFlagAlreadyWieldingLightSource"
 msgid "You are already holding a light source."
-msgstr ""
+msgstr "이미 광원을 들고 있습니다."
 
 msgctxt "FailureFlagAttributesAssigned"
 msgid "You have already assigned scores."
@@ -22,7 +24,7 @@ msgstr ""
 
 msgctxt "FailureFlagBlockedMove"
 msgid "Path is blocked."
-msgstr ""
+msgstr "경로가 없습니다."
 
 msgctxt "FailureFlagCannotAfford"
 msgid "You cannot afford to spend that much."
@@ -34,7 +36,7 @@ msgstr ""
 
 msgctxt "FailureFlagCannotCastAnySpell"
 msgid "You cannot cast any spells at this time."
-msgstr ""
+msgstr "지금은 주문을 시전할 수 없습니다."
 
 msgctxt "FailureFlagCannotCastLightCantrip"
 msgid "You cannot cast the light cantrip."
@@ -42,7 +44,7 @@ msgstr ""
 
 msgctxt "FailureFlagCannotRestTooOften"
 msgid "You cannot take a long rest twice in the same day."
-msgstr ""
+msgstr "하루에 긴 휴식을 두 번 취할 수 없습니다."
 
 msgctxt "FailureFlagCannotScribeScrolls"
 msgid "This character cannot scribe scrolls into a spellbook."
@@ -50,7 +52,7 @@ msgstr ""
 
 msgctxt "FailureFlagCannotUseAnyPower"
 msgid "You cannot use any powers at this time."
-msgstr ""
+msgstr "지금은 어떤 능력도 사용할 수 없습니다."
 
 msgctxt "FailureFlagConditionNotMatching"
 msgid "The target does not have the right condition."
@@ -58,15 +60,16 @@ msgstr ""
 
 msgctxt "FailureFlagDeadTarget"
 msgid "You cannot target a dead character."
-msgstr ""
+msgstr "죽은 캐릭터를 대상으로 지정할 수 없습니다."
 
 msgctxt "FailureFlagDocumentUnknownLanguage"
 msgid "No one in the party is proficient with this language."
 msgstr ""
 
+#, fuzzy
 msgctxt "FailureFlagFreeOnceActionSpent"
 msgid "You have already spent your free/inventory action this round."
-msgstr ""
+msgstr "이번 라운드에 이미 자유/인벤토리 액션을 사용했습니다."
 
 msgctxt "FailureFlagFreeOnceActionSpentNotOnBody"
 msgid ""
@@ -176,7 +179,7 @@ msgstr ""
 
 msgctxt "FailureFlagOncePerTurnOnly"
 msgid "Once per turn only."
-msgstr ""
+msgstr "한 턴에 한 번만 가능합니다."
 
 msgctxt "FailureFlagOnlyAfterALongRest"
 msgid "You can only do this after a long rest."
@@ -192,7 +195,7 @@ msgstr ""
 
 msgctxt "FailureFlagProtectedCharacter"
 msgid "This character cannot be deleted."
-msgstr ""
+msgstr "이 캐릭터는 삭제할 수 없습니다."
 
 msgctxt "FailureFlagScrollNotInSpellList"
 msgid "The spell on this scroll is not on your spell list."

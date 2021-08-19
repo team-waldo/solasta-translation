@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-14 11:58+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2021-08-19 05:53+0000\n"
+"Last-Translator: 홍성원 <hsw2201@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/feature/ko/"
 ">\n"
 "Language: ko\n"
@@ -16,11 +16,11 @@ msgstr ""
 
 msgctxt "AbilityCheckAdvantageFormat"
 msgid "Advantage on {0} ability checks."
-msgstr ""
+msgstr "{0} 능력치 판정에 이점."
 
 msgctxt "AbilityCheckAutomaticallyFailedFormat"
 msgid "Automatically fails {0} ability checks"
-msgstr ""
+msgstr "{0} 능력치 판정 자동 실패."
 
 msgctxt "AbilityCheckBonusFormat"
 msgid "{0} on {1} ability checks."
@@ -945,7 +945,7 @@ msgstr ""
 
 msgctxt "ElfHighCastSpellTitle"
 msgid "High Elf Cantrip"
-msgstr ""
+msgstr "하이 엘프 캔트립"
 
 msgctxt "ElfKeenSensesDescription"
 msgid "Proficient in the Perception skill."
@@ -1405,11 +1405,12 @@ msgstr ""
 
 msgctxt "PaladinLayonHandsHyeronimusDescription"
 msgid "Restores a large number of lost HP."
-msgstr ""
+msgstr "손실한 HP를 대량으로 회복합니다."
 
+#, fuzzy
 msgctxt "PaladinLayonHandsTitle"
 msgid "Lay on Hands"
-msgstr ""
+msgstr "신의 축복"
 
 msgctxt "PaladinNeutralizePoisonDescription"
 msgid ""
@@ -1418,7 +1419,7 @@ msgstr ""
 
 msgctxt "PaladinNeutralizePoisonTitle"
 msgid "Neutralize Poison"
-msgstr ""
+msgstr "독 중화"
 
 msgctxt "PaladinSacredOathDescription"
 msgid "Select and swear the sacred oath that binds you as a paladin forever!"
@@ -1426,11 +1427,11 @@ msgstr ""
 
 msgctxt "PaladinSacredOathTitle"
 msgid "Sacred Oaths"
-msgstr ""
+msgstr "신성한 맹세"
 
 msgctxt "PaladinSkillsTitle"
 msgid "Paladin Skills"
-msgstr ""
+msgstr "팔라딘 스킬"
 
 msgctxt "PaladinSpellcastingTitle"
 msgid "Paladin Spellcasting"

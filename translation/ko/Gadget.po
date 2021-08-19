@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-13 03:57+0000\n"
-"Last-Translator: 홍성원 <hsw2201@naver.com>\n"
+"PO-Revision-Date: 2021-08-19 05:53+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/gadget/ko/>"
 "\n"
 "Language: ko\n"
@@ -40,23 +40,23 @@ msgstr ""
 
 msgctxt "EntranceTitle"
 msgid "Entrance"
-msgstr ""
+msgstr "입구"
 
 msgctxt "EntranceDescription"
 msgid "The starting point for the party "
-msgstr ""
+msgstr "파티의 시작 지점 "
 
 msgctxt "ExitTitle"
 msgid "Exit"
-msgstr ""
+msgstr "출구"
 
 msgctxt "ExitDescription"
 msgid "An exit point for the party. Can lead to another user location"
-msgstr ""
+msgstr "파티가 도착해야하는 출구. 다른 맵으로 이어질 수 있음"
 
 msgctxt "HiddenDoorTitle"
 msgid "Hidden Door"
-msgstr ""
+msgstr "숨겨진 문"
 
 msgctxt "HiddenDoorDescription"
 msgid "A door which requires a perception check to be spotted"
@@ -64,7 +64,7 @@ msgstr ""
 
 msgctxt "InteractiveTorchTitle"
 msgid "Interactive Torch"
-msgstr ""
+msgstr "상호작용 가능한 횃불"
 
 msgctxt "InteractiveTorchDescription"
 msgid "A wall torch which can be dynamically lit/unlit"
@@ -72,15 +72,15 @@ msgstr ""
 
 msgctxt "LoreAreaTitle"
 msgid "Lore Area"
-msgstr ""
+msgstr "스토리 구역"
 
 msgctxt "LoreAreaDescription"
 msgid "Stepping into this area will display a text"
-msgstr ""
+msgstr "이 구역에 진입하면 텍스트가 표시됨"
 
 msgctxt "MonsterMTitle"
 msgid "Monster M"
-msgstr ""
+msgstr "중형 몬스터"
 
 msgctxt "MonsterMDescription"
 msgid "Generates one medium (or smaller) monster at the gadget position"
@@ -88,7 +88,7 @@ msgstr ""
 
 msgctxt "MonsterLTitle"
 msgid "Monster L"
-msgstr ""
+msgstr "대형 몬스터"
 
 msgctxt "MonsterLDescription"
 msgid "Generates one large monster at the gadget position"
@@ -96,7 +96,7 @@ msgstr ""
 
 msgctxt "MonsterMMultipleTitle"
 msgid "Monster Multi M"
-msgstr ""
+msgstr "중형 몬스터 (다수)"
 
 msgctxt "MonsterMMultipleDescription"
 msgid ""
@@ -105,7 +105,7 @@ msgstr ""
 
 msgctxt "TrapTitle"
 msgid "Trap"
-msgstr ""
+msgstr "함정"
 
 msgctxt "TrapDescription"
 msgid "A trap that is activated by stepping on the surface it occupies"
@@ -139,11 +139,11 @@ msgstr ""
 
 msgctxt "ParameterItemListTitle"
 msgid "Items List"
-msgstr ""
+msgstr "아이템 목록"
 
 msgctxt "ParameterParam_LockedTitle"
 msgid "Locked"
-msgstr ""
+msgstr "잠김"
 
 msgctxt "ParameterUnlock_DCTitle"
 msgid "Unlock DC"
@@ -167,7 +167,7 @@ msgstr ""
 
 msgctxt "ParameterTrapEffectTitle"
 msgid "Trap Effect"
-msgstr ""
+msgstr "함정 효과"
 
 msgctxt "ParameterEntranceIndexTitle"
 msgid "Entrance Index"
@@ -179,7 +179,7 @@ msgstr ""
 
 msgctxt "ParameterCreatureTitle"
 msgid "Creature"
-msgstr ""
+msgstr "크리쳐"
 
 msgctxt "ParameterQuantityTitle"
 msgid "Quantity"
@@ -261,7 +261,7 @@ msgstr ""
 
 msgctxt "ParameterQuantityDescription"
 msgid "The number of creatures"
-msgstr ""
+msgstr "크리쳐 수"
 
 msgctxt "ParameterSpeechDescription"
 msgid "The text that is displayed when interacting with this gadget"
@@ -289,7 +289,7 @@ msgstr ""
 
 msgctxt "ParameterAddDiceTitle"
 msgid "Additional Dice"
-msgstr ""
+msgstr "추가 주사위"
 
 msgctxt "ParameterAddDiceDescription"
 msgid "Increase the number of dice for this effect"
@@ -378,7 +378,7 @@ msgstr ""
 
 msgctxt "WoodenDoorTitle"
 msgid "Wooden Door"
-msgstr ""
+msgstr "나무 문"
 
 msgctxt "WoodenDoorDescription"
 msgid "A plain door"
@@ -418,7 +418,7 @@ msgstr ""
 
 msgctxt "ParameterOperationActivateTitle"
 msgid "Activate"
-msgstr ""
+msgstr "활성화"
 
 msgctxt "ParameterOperationActivateDescription"
 msgid "Activate other gadgets (example : open a door)"
@@ -426,7 +426,7 @@ msgstr ""
 
 msgctxt "ParameterOperationDeactivateTitle"
 msgid "Deactivate"
-msgstr ""
+msgstr "비활성화"
 
 msgctxt "ParameterOperationDeactivateDescription"
 msgid "Deactivate other gadgets (example: close a door)"
@@ -668,7 +668,7 @@ msgstr ""
 
 msgctxt "ParameterKeyItemTitle"
 msgid "Key Item"
-msgstr ""
+msgstr "핵심 아이템"
 
 msgctxt "ParameterKeyItemDescription"
 msgid "The object is opened automatically if the party is carrying this item"

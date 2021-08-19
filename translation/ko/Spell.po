@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-14 15:53+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2021-08-19 05:52+0000\n"
+"Last-Translator: 넷리빙 <keonwoo.kim123@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/spell/ko/>"
 "\n"
 "Language: ko\n"
@@ -14,29 +14,32 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 4.1.1\n"
 
+#, fuzzy
 msgctxt "AcidArrowDescription"
 msgid "Launch an acid arrow."
-msgstr ""
+msgstr "산성 화살을 발사합니다."
 
+#, fuzzy
 msgctxt "AcidArrowTitle"
 msgid "Acid Arrow"
-msgstr ""
+msgstr "산성 화살"
 
 msgctxt "AcidSplashDescription"
 msgid "Launch an acid bolt."
-msgstr ""
+msgstr "산성 볼트를 발사합니다."
 
 msgctxt "AcidSplashTitle"
 msgid "Acid Splash"
 msgstr ""
 
+#, fuzzy
 msgctxt "AidDescription"
 msgid "Temporarily increases hit points for up to three allies."
-msgstr ""
+msgstr "일시적으로 최대 3명의 아군들의 히트 포인트를 증가시킵니다."
 
 msgctxt "AidTitle"
 msgid "Aid"
-msgstr ""
+msgstr "지원"
 
 msgctxt "AnimateDeadDescription"
 msgid "Create an undead servant."
@@ -50,9 +53,10 @@ msgctxt "BaneDescription"
 msgid "Reduce your enemies' attack and saving throws for a limited time."
 msgstr ""
 
+#, fuzzy
 msgctxt "BaneTitle"
 msgid "Bane"
-msgstr ""
+msgstr "독성"
 
 msgctxt "BarkskinDescription"
 msgid "Gives you or an ally you can touch an AC of at least 16."
@@ -72,27 +76,27 @@ msgstr ""
 
 msgctxt "BestowCurseAbilityCharismaTitle"
 msgid "Bestow Curse (Charisma)"
-msgstr ""
+msgstr "저주 부여(매력)"
 
 msgctxt "BestowCurseAbilityConstitutionTitle"
 msgid "Bestow Curse (Constitution)"
-msgstr ""
+msgstr "저주 부여(건강)"
 
 msgctxt "BestowCurseAbilityDexterityTitle"
 msgid "Bestow Curse (Dexterity)"
-msgstr ""
+msgstr "저주 부여(민첩)"
 
 msgctxt "BestowCurseAbilityIntelligenceTitle"
 msgid "Bestow Curse (Intelligence)"
-msgstr ""
+msgstr "저주 부여(지능)"
 
 msgctxt "BestowCurseAbilityStrengthTitle"
 msgid "Bestow Curse (Strength)"
-msgstr ""
+msgstr "저주 부여(근력)"
 
 msgctxt "BestowCurseAbilityWisdomTitle"
 msgid "Bestow Curse (Wisdom)"
-msgstr ""
+msgstr "저주 부여(지혜)"
 
 msgctxt "BestowCurseDescription"
 msgid "Curses a creature you can touch."
@@ -100,7 +104,7 @@ msgstr ""
 
 msgctxt "BestowCurseOnActionTurnTitle"
 msgid "Bestow Curse (Action)"
-msgstr ""
+msgstr "저주 부여(액션)"
 
 msgctxt "BestowCurseOnAttackRollTitle"
 msgid "Bestow Curse (Attack)"
@@ -112,16 +116,16 @@ msgstr ""
 
 msgctxt "BestowCurseTitle"
 msgid "Bestow Curse"
-msgstr ""
+msgstr "저주 부여"
 
 msgctxt "BlessDescription"
 msgid ""
 "Increase your allies' saving throws and attack rolls for a limited time."
-msgstr ""
+msgstr "일정시간 동안 아군의 내성 굴림과 명중 굴림을 늘립니다."
 
 msgctxt "BlessTitle"
 msgid "Bless"
-msgstr ""
+msgstr "축복"
 
 msgctxt "BlindnessDescription"
 msgid "Blind an enemy for one minute."
@@ -185,9 +189,10 @@ msgctxt "ConjureGoblinoidsTitle"
 msgid "Conjure Goblinoids"
 msgstr ""
 
+#, fuzzy
 msgctxt "CounterspellDescription"
 msgid "Interrupt an enemy's spellcasting."
-msgstr ""
+msgstr "적의 주문 시전을 방해합니다."
 
 msgctxt "CounterspellTitle"
 msgid "Counterspell"
@@ -195,11 +200,11 @@ msgstr ""
 
 msgctxt "CreateFoodDescription"
 msgid "Conjure 15 units of food."
-msgstr ""
+msgstr "15 유닛의 음식을 소환합니다."
 
 msgctxt "CreateFoodTitle"
 msgid "Create Food"
-msgstr ""
+msgstr "음식 소환"
 
 msgctxt "CureWoundsDescription"
 msgid "Heal an ally by touch."
@@ -207,44 +212,44 @@ msgstr ""
 
 msgctxt "CureWoundsTitle"
 msgid "Cure Wounds"
-msgstr ""
+msgstr "상처 치료"
 
 msgctxt "DancingLightsDescription"
 msgid "Create dancing lights that move at your command."
-msgstr ""
+msgstr "명령에 따라 춤추는 빛을 만듭니다."
 
 msgctxt "DancingLightsTitle"
 msgid "Dancing Lights"
-msgstr ""
+msgstr "춤추는 빛"
 
 msgctxt "DarknessDescription"
 msgid "Create an area of magical darkness."
-msgstr ""
+msgstr "마법적으로 어두운 영역을 만듭니다."
 
 msgctxt "DarknessTitle"
 msgid "Darkness"
-msgstr ""
+msgstr "어둠"
 
 msgctxt "DarkvisionDescription"
 msgid "Grant Darkvision to the target."
-msgstr ""
+msgstr "대상에게 암흑시야를 부여합니다."
 
 msgctxt "DarkvisionTitle"
 msgid "Darkvision"
-msgstr ""
+msgstr "암흑시야"
 
 msgctxt "DaylightDescription"
 msgid "Summon a globe of bright light."
-msgstr ""
+msgstr "밝은 빛의 구체를 소환합니다."
 
 msgctxt "DaylightTitle"
 msgid "Daylight"
-msgstr ""
+msgstr "일광"
 
 msgctxt "DazzleDescription"
 msgid ""
 "Lower a target's AC and prevent reaction until the start of its next turn."
-msgstr ""
+msgstr "대상의 AC를 낮추고 대상의 다음 턴이 시작될 때까지 반응행동을 방지합니다."
 
 msgctxt "DazzleTitle"
 msgid "Dazzle"
@@ -252,11 +257,11 @@ msgstr ""
 
 msgctxt "DetectEvilAndGoodDescription"
 msgid "Detect nearby creatures of evil or good nature."
-msgstr ""
+msgstr "주변의 선하거나 악한 생물을 갑지합니다."
 
 msgctxt "DetectEvilAndGoodTitle"
 msgid "Detect Evil and Good"
-msgstr ""
+msgstr "선악감지"
 
 msgctxt "DetectMagicDescription"
 msgid "Detect nearby magic objects or creatures."
@@ -268,19 +273,19 @@ msgstr "마법 감지"
 
 msgctxt "DispelMagicDescription"
 msgid "End active spells on a creature or object."
-msgstr ""
+msgstr "대상 생물 혹은 개체에 활성화된 주문을 종료합니다."
 
 msgctxt "DispelMagicTitle"
 msgid "Dispel Magic"
-msgstr ""
+msgstr "디스펠 매직"
 
 msgctxt "DivineFavorDescription"
 msgid "Gain additional radiant damage for a limited time."
-msgstr ""
+msgstr "제한된 시간 동안 추가 방사 피해를 얻습니다."
 
 msgctxt "DivineFavorTitle"
 msgid "Divine Favor"
-msgstr ""
+msgstr "신의 은총"
 
 msgctxt "EnhanceAbilityBearsEnduranceDescription"
 msgid "Gain temporary hit points and advantage on Constitution checks."
@@ -288,51 +293,51 @@ msgstr ""
 
 msgctxt "EnhanceAbilityBearsEnduranceTitle"
 msgid "Bear's Endurance"
-msgstr ""
+msgstr "곰의 인내력"
 
 msgctxt "EnhanceAbilityBullsStrengthDescription"
 msgid "Increased carrying capacity and advantage on Strength checks."
-msgstr ""
+msgstr "운반 능력능력과 근력판정에서 이점을 얻습니다."
 
 msgctxt "EnhanceAbilityBullsStrengthTitle"
 msgid "Bull's Strength"
-msgstr ""
+msgstr "황소의 힘"
 
 msgctxt "EnhanceAbilityCatsGraceDescription"
 msgid "Reduced falling damage and advantage on Dexterity checks."
-msgstr ""
+msgstr "낙하 피해가 감소하고 민첩판정에서 이점을 얻습니다."
 
 msgctxt "EnhanceAbilityCatsGraceTitle"
 msgid "Cat's Grace"
-msgstr ""
+msgstr "고양이의 우아함"
 
 msgctxt "EnhanceAbilityDescription"
 msgid "Grant temporary powers to an ally for up to one hour."
-msgstr ""
+msgstr "최대 1시간동안 아군에게 일시적인 힘을 부여합니다."
 
 msgctxt "EnhanceAbilityEaglesSplendorDescription"
 msgid "Advantage on Charisma checks."
-msgstr ""
+msgstr "매력판정에서 이점을 얻습니다."
 
 msgctxt "EnhanceAbilityEaglesSplendorTitle"
 msgid "Eagle's Splendor"
-msgstr ""
+msgstr "독수리의 위엄"
 
 msgctxt "EnhanceAbilityFoxsCunningDescription"
 msgid "Advantage on Intelligence checks."
-msgstr ""
+msgstr "지능판정에서 이점을 얻습니다."
 
 msgctxt "EnhanceAbilityFoxsCunningTitle"
 msgid "Fox's Cunning"
-msgstr ""
+msgstr "여우의 교활함"
 
 msgctxt "EnhanceAbilityOwlsWisdomDescription"
 msgid "Advantage on Wisdom checks."
-msgstr ""
+msgstr "지혜 판정에서 이점을 얻습니다."
 
 msgctxt "EnhanceAbilityOwlsWisdomTitle"
 msgid "Owl's Wisdom"
-msgstr ""
+msgstr "부엉이의 지혜"
 
 msgctxt "EnhanceAbilityTitle"
 msgid "Enhance Ability"
@@ -346,7 +351,7 @@ msgstr ""
 
 msgctxt "ExpeditiousRetreatTitle"
 msgid "Expeditious Retreat"
-msgstr ""
+msgstr "긴급 후퇴"
 
 msgctxt "FaerieFireDescription"
 msgid "Highlight creatures to give advantage to anyone attacking them."
@@ -354,7 +359,7 @@ msgstr ""
 
 msgctxt "FaerieFireTitle"
 msgid "Faerie Fire"
-msgstr ""
+msgstr "페어리 파이어"
 
 msgctxt "FalseLifeDescription"
 msgid "Gain a few temporary hit points for a limited time."
@@ -382,11 +387,11 @@ msgstr "깃털 낙하"
 
 msgctxt "FindTrapsDescription"
 msgid "Spot mechanical and magical traps, but not natural hazards."
-msgstr ""
+msgstr "자연적이지 않은 기계적이거나 마법적인 함정을 발견합니다."
 
 msgctxt "FindTrapsTitle"
 msgid "Find Traps"
-msgstr ""
+msgstr "함정 찾기"
 
 msgctxt "FireballDescription"
 msgid "Launch a fireball that explodes from a point of your choosing."
@@ -394,7 +399,7 @@ msgstr ""
 
 msgctxt "FireballTitle"
 msgid "Fireball"
-msgstr ""
+msgstr "화염구"
 
 msgctxt "FireBoltDescription"
 msgid "Launch a fire bolt."
@@ -780,11 +785,11 @@ msgstr ""
 
 msgctxt "RemoveCurseDescription"
 msgid "Removes all curses affecting the target."
-msgstr ""
+msgstr "대상에게 영향을 미치는 모든 저주를 제거합니다."
 
 msgctxt "RemoveCurseTitle"
 msgid "Remove Curse"
-msgstr ""
+msgstr "저주 제거"
 
 msgctxt "ResistanceDescription"
 msgid "Grant an ally a one-time bonus to saving throws."

@@ -1,28 +1,33 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-08-19 05:52+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/reaction/"
+"ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.3.6\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
+#, fuzzy
 msgctxt "AlterAttackSpellDescription"
 msgid "{0} is attacking {1}! You can cast {2} to block the attack."
-msgstr ""
+msgstr "{0}이(가) {1}을(를) 공격하고 있습니다! {2}을(를) 시전하여 공격을 차단할 수 있습니다."
 
+#, fuzzy
 msgctxt "AlterAttackSpellReactDescription"
 msgid "Click to cast {0} and block the attack."
-msgstr ""
+msgstr "클릭하여 {0}을(를) 시전하고 공격을 차단합니다."
 
+#, fuzzy
 msgctxt "AlterAttackSpellReactTitle"
 msgid "Cast Spell"
-msgstr ""
+msgstr "주문 시전"
 
 msgctxt "AlterAttackSpellTitle"
 msgid "Prevent incoming attack."
@@ -33,53 +38,62 @@ msgid ""
 "{0} is attacking {1}! You can react to impose disadvantage upon the enemy."
 msgstr ""
 
+#, fuzzy
 msgctxt "BlockAttackReactDescription"
 msgid ""
 "Click to block the attacking character and impose disadvantage. This uses "
 "your reaction until your next turn."
-msgstr ""
+msgstr "클릭하여 공격중인 캐릭터를 막고 불이익을 줍니다. 다음 턴까지 리액션을 사용합니다."
 
 msgctxt "BlockAttackReactTitle"
 msgid "Block"
 msgstr ""
 
+#, fuzzy
 msgctxt "BlockAttackTitle"
 msgid "Attack on Ally"
-msgstr ""
+msgstr "아군 공격"
 
+#, fuzzy
 msgctxt "CastFallPreventionSpellDescriptionPlural"
 msgid ""
 "{0} are about to fall dangerously! You can cast {1} to prevent any damage."
-msgstr ""
+msgstr "{0}들이 위험하게 떨어집니다! {1}을(를) 시전하여 피해를 막을 수 있습니다."
 
+#, fuzzy
 msgctxt "CastFallPreventionSpellDescriptionSingle"
 msgid ""
 "{0} is about to fall dangerously! You can cast {1} to prevent any damage."
-msgstr ""
+msgstr "{0}이(가) 위험하게 떨어집니다! {1}을(를) 시전하여 피해를 막을 수 있습니다."
 
+#, fuzzy
 msgctxt "CastFallPreventionSpellReactDescription"
 msgid "Click to cast the {0} spell and prevent fall damage."
-msgstr ""
+msgstr "클릭하면 {0} 주문을 시전하고 낙상 피해를 막습니다."
 
+#, fuzzy
 msgctxt "CastFallPreventionSpellReactTitle"
 msgid "Cast Spell"
-msgstr ""
+msgstr "주문 시전"
 
 msgctxt "CastFallPreventionSpellTitle"
 msgid "Hurtful Fall"
 msgstr ""
 
+#, fuzzy
 msgctxt "CastImmunityToSpellDescription"
 msgid "{0} is casting {3} on {1}! You can cast {2} to counter the spell."
-msgstr ""
+msgstr "{0}이(가) {1}에 {3}을(를) 시전하고 있습니다! {2}을(를) 시전하여 주문에 대응할 수 있습니다."
 
+#, fuzzy
 msgctxt "CastImmunityToSpellReactDescription"
 msgid "Click to cast {0} and counter the spell attack."
-msgstr ""
+msgstr "클릭하여 {0}을(를) 시전하고 주문 공격에 대응합니다."
 
+#, fuzzy
 msgctxt "CastImmunityToSpellReactTitle"
 msgid "Cast Spell"
-msgstr ""
+msgstr "주문 시전"
 
 msgctxt "CastImmunityToSpellTitle"
 msgid "Incoming Spell Attack"
@@ -107,7 +121,7 @@ msgstr ""
 
 msgctxt "CounterAttackWithPowerTitle"
 msgid "Enemy Attack"
-msgstr ""
+msgstr "적 공격"
 
 msgctxt "CounterSpellDescription"
 msgid "{0} is casting a spell! You can react to counter the spell."

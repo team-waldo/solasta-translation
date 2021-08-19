@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-14 11:58+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2021-08-19 05:53+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/setting/ko/"
 ">\n"
 "Language: ko\n"
@@ -28,11 +28,11 @@ msgstr "적용"
 
 msgctxt "AutosaveCountDescription"
 msgid "The number of autosaves kept."
-msgstr ""
+msgstr "보관할 자동 저장 파일의 수량을 지정합니다."
 
 msgctxt "AutosaveCountTitle"
 msgid "Autosave Count"
-msgstr ""
+msgstr "자동 저장 횟수"
 
 msgctxt "CameraModeDescription"
 msgid "Select an exploration camera mode."
@@ -72,11 +72,11 @@ msgctxt "ConfineCursorToWindowDescription"
 msgid ""
 "If enabled, the cursor cannot leave the game window unless another screen is "
 "selected."
-msgstr ""
+msgstr "적용 시 마우스 커서가 게임 화면을 벗어나지 않습니다."
 
 msgctxt "ConfineCursorToWindowTitle"
 msgid "Confine Cursor to Window"
-msgstr ""
+msgstr "커서를 창에 제한"
 
 msgctxt "ContextualCameraFrequencyLevelDescription"
 msgid "Set how often the close-up camera focuses on important actions."
@@ -92,7 +92,7 @@ msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니
 
 msgctxt "DamageAcidStyleTitle"
 msgid "Acid Damage Style"
-msgstr ""
+msgstr "산성 피해 주사위"
 
 msgctxt "DamageBludgeoningStyleDescription"
 msgid "Die style used for this type of damage."
@@ -108,7 +108,7 @@ msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니
 
 msgctxt "DamageColdStyleTitle"
 msgid "Cold Damage Style"
-msgstr ""
+msgstr "냉기 피해 주사위"
 
 msgctxt "DamageFireStyleDescription"
 msgid "Die style used for this type of damage."
@@ -116,7 +116,7 @@ msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니
 
 msgctxt "DamageFireStyleTitle"
 msgid "Fire Damage Style"
-msgstr ""
+msgstr "화염 피해 주사위"
 
 msgctxt "DamageForceStyleDescription"
 msgid "Die style used for this type of damage."
@@ -132,7 +132,7 @@ msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니
 
 msgctxt "DamageLightningStyleTitle"
 msgid "Lightning Damage Style"
-msgstr ""
+msgstr "번개 피해 주사위"
 
 msgctxt "DamageNecroticStyleDescription"
 msgid "Die style used for this type of damage."
@@ -188,7 +188,7 @@ msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니
 
 msgctxt "DamageThunderStyleTitle"
 msgid "Thunder Damage Style"
-msgstr ""
+msgstr "천둥 피해 주사위"
 
 msgctxt "DisplayBanterTextAboveCharactersDescription"
 msgid "Check this to show/hide the banter lines above characters in game."
@@ -200,7 +200,7 @@ msgstr ""
 
 msgctxt "DisplayTutorialDescription"
 msgid "Display or Hide tutorial panels during the game."
-msgstr ""
+msgstr "게임 중 튜토리얼을 표시하거나 숨깁니다."
 
 msgctxt "DisplayTutorialTitle"
 msgid "Display Tutorial"
@@ -303,7 +303,7 @@ msgstr "NPC 유형 아이콘 (상인, 퀘스트 등) 을 마우스 커서를 올
 
 msgctxt "OnlyShowNPCIconOnHoverTitle"
 msgid "Only Show NPC Icon on Mouseover"
-msgstr "마우스를 올렸을때만 NPC 아이콘 표시"
+msgstr "마우스를 올렸을 때만 NPC 아이콘 표시"
 
 msgctxt "OrbitalCameraCorrectionDescription"
 msgid "The camera moves up when entering level boundaries."
@@ -396,7 +396,7 @@ msgstr "매우 높음"
 
 msgctxt "QualityLevelVery LowDescription"
 msgid "Works with the weakest systems"
-msgstr ""
+msgstr "매우 낮은 사양의 시스템에 적합합니다"
 
 msgctxt "QualityLevelVery LowTitle"
 msgid "Very Low"
@@ -1097,7 +1097,7 @@ msgstr "파티 저널"
 
 msgctxt "BestiaryTitle"
 msgid "Bestiary"
-msgstr ""
+msgstr "생물도감"
 
 msgctxt "ShowDetailedInformationTitle"
 msgid "Highlight Interactive Elements"
@@ -1105,11 +1105,11 @@ msgstr "상호 작용 가능한 물체 강조"
 
 msgctxt "CharacterControlHeaderTitle"
 msgid "Character Control"
-msgstr ""
+msgstr "캐릭터 조작"
 
 msgctxt "InspectCharacterTitle"
 msgid "Inspect Character"
-msgstr ""
+msgstr "캐릭터 조사"
 
 msgctxt "CastSpellTitle"
 msgid "Cast Spell"
@@ -1354,7 +1354,7 @@ msgstr "난이도"
 
 msgctxt "DifficultyPresetDescription"
 msgid "Choose from a list of difficulty presets."
-msgstr ""
+msgstr "맞춤 구성된 난이도 목록 중에서 선택합니다."
 
 msgctxt "DifficultyPresetPreset1Title"
 msgid "Story Mode"
@@ -1364,7 +1364,7 @@ msgctxt "DifficultyPresetPreset1Description"
 msgid ""
 "For players who prefer to focus on the story. Exploration and combat will be "
 "simplified. "
-msgstr ""
+msgstr "스토리에 집중하는 것을 선호하는 플레이어에게 적합합니다. 탐험과 전투가 간소화됩니다. "
 
 msgctxt "DifficultyPresetPreset2Title"
 msgid "Explorer Mode"
@@ -1372,15 +1372,16 @@ msgstr "탐험가 모드"
 
 msgctxt "DifficultyPresetPreset2Description"
 msgid "For players unfamiliar with tactical RPGs or the ruleset."
-msgstr ""
+msgstr "전술 RPG와 턴제 규칙에 익숙하지 않은 플레이어에게 적합합니다."
 
 msgctxt "DifficultyPresetPreset3Title"
 msgid "Authentic Mode"
 msgstr ""
 
+#, fuzzy
 msgctxt "DifficultyPresetPreset3Description"
 msgid "For players who want the authentic tabletop ruleset."
-msgstr ""
+msgstr "정확한 테이블탑 게임 규칙을 원하는 플레이어에게 적합합니다."
 
 msgctxt "DifficultyPresetPreset4Title"
 msgid "Scavenger Mode"
@@ -1388,15 +1389,16 @@ msgstr "스캐빈저 모드"
 
 msgctxt "DifficultyPresetPreset4Description"
 msgid "For players who are ready for a harder challenge."
-msgstr ""
+msgstr "더 어려운 도전을 원하는 플레이어에게 적합합니다."
 
 msgctxt "DifficultyPresetPreset5Title"
 msgid "Cataclysm Mode"
 msgstr "대격변 모드"
 
+#, fuzzy
 msgctxt "DifficultyPresetPreset5Description"
 msgid "For players looking to defy the odds. You will suffer. A lot."
-msgstr ""
+msgstr "역경과 고난을 이겨내고자 하는 플레이어에게 적합합니다. 고통과 실패를 맛볼 것입니다."
 
 msgctxt "CustomDifficultyTitle"
 msgid "Custom Difficulty"
@@ -1404,7 +1406,7 @@ msgstr "커스텀 난이도"
 
 msgctxt "CustomDifficultyDescription"
 msgid "Allows you to pick and choose the settings you want."
-msgstr ""
+msgstr "원하는 설정을 선택하고 수정할 수 있습니다."
 
 msgctxt "BattleSettingsHeaderTitle"
 msgid "Battle"
@@ -1422,9 +1424,10 @@ msgctxt "DisableEnemyCritsTitle"
 msgid "Disable Enemy Critical Hits"
 msgstr "적 치명타 비활성화"
 
+#, fuzzy
 msgctxt "DisableEnemyCritsDescription"
 msgid "Enemies' critical hits deal regular damage."
-msgstr ""
+msgstr "적이 치명타를 입혀도 기존 피해를 받습니다."
 
 msgctxt "AiUsesPowerfulMovesMoreOftenTitle"
 msgid "Deadlier AI"
@@ -1511,7 +1514,7 @@ msgctxt "AutoreviveDescription"
 msgid ""
 "Characters are automatically revived at the end of a battle as long as one "
 "survived."
-msgstr ""
+msgstr "캐릭터가 한 명이라도 살아남으면 전투 후 파티원들이 자동으로 부활합니다."
 
 msgctxt "HeatlhAndRestSettingsHeaderTitle"
 msgid "Health and Rest"
@@ -1674,7 +1677,7 @@ msgstr ""
 
 msgctxt "UnlockAllBestiaryContentTitle"
 msgid "Unlock All Bestiary"
-msgstr ""
+msgstr "생물도감 잠금 해제"
 
 msgctxt "UnlockAllBestiaryContentDescription"
 msgid ""
@@ -1708,7 +1711,7 @@ msgstr ""
 
 msgctxt "AutoDetectTrapsTitle"
 msgid "Autodetect Traps"
-msgstr ""
+msgstr "함정 자동 감지"
 
 msgctxt "AutoDetectTrapsDescription"
 msgid ""
@@ -1726,7 +1729,7 @@ msgstr ""
 
 msgctxt "NoToolRequirementTitle"
 msgid "No Tool Required"
-msgstr ""
+msgstr "도구 필요 없음"
 
 msgctxt "NoToolRequirementDescription"
 msgid ""
@@ -1751,7 +1754,7 @@ msgstr ""
 
 msgctxt "FasterTravelOnWorldMapDescription"
 msgid "Increase the travel speed when traveling on the World Map."
-msgstr ""
+msgstr "세계 지도에서 이동할 때 속도를 높입니다."
 
 msgctxt "ScrollSensitivityDescription"
 msgid "Sets the speed for scrolling areas with the mouse wheel."
