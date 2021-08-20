@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-19 05:52+0000\n"
-"Last-Translator: 백정현 <bjhmsg@naver.com>\n"
+"PO-Revision-Date: 2021-08-20 14:50+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/screen/ko/>"
 "\n"
 "Language: ko\n"
@@ -38,11 +38,11 @@ msgstr ""
 
 msgctxt "AbortCreationDescription"
 msgid "Cancels the character creation process."
-msgstr ""
+msgstr "캐릭터 생성 과정을 취소합니다."
 
 msgctxt "AbortLevelUpDescription"
 msgid "Cancels the character level up process."
-msgstr ""
+msgstr "캐릭터 레벨 업 과정을 취소합니다."
 
 msgctxt "AbortTitle"
 msgid "Cancel"
@@ -114,7 +114,7 @@ msgstr ""
 
 msgctxt "AttunementRemoveTitle"
 msgid "Remove"
-msgstr ""
+msgstr "제거"
 
 msgctxt "AvailableSlotsDescription"
 msgid ""
@@ -132,7 +132,7 @@ msgstr ""
 
 msgctxt "BackgroundHeaderTitle"
 msgid "Background"
-msgstr ""
+msgstr "배경"
 
 msgctxt "BackTitle"
 msgid "Back"
@@ -140,11 +140,11 @@ msgstr ""
 
 msgctxt "BattleIntroTitle"
 msgid "A Battle Starts!"
-msgstr ""
+msgstr "전투 개시!"
 
 msgctxt "BattleVictoryTitle"
 msgid "Victory!"
-msgstr ""
+msgstr "승리!"
 
 msgctxt "BonusAttackTitle"
 msgid "Bonus Attack"
@@ -217,7 +217,7 @@ msgstr ""
 
 msgctxt "CharacterInspectionModeSelectWeaponTitle"
 msgid "Select a weapon to apply this effect."
-msgstr ""
+msgstr "이 효과를 적용할 무기를 선택하세요."
 
 msgctxt "CharacterPersonalityDescriptionTitle"
 msgid ""
@@ -274,7 +274,7 @@ msgstr ""
 
 msgctxt "ClassOrMarkerTitle"
 msgid "OR"
-msgstr ""
+msgstr "또는"
 
 msgctxt "ClassSelectionTitle"
 msgid "Select a Class"
@@ -309,24 +309,24 @@ msgstr ""
 
 msgctxt "CraftingAbilityCheckTitle"
 msgid "Ability Check"
-msgstr ""
+msgstr "능력치 판정"
 
 msgctxt "CraftingAbortButtonDescription"
 msgid ""
 "Stops the crafting operation. All progress and spent ingredients are lost."
-msgstr ""
+msgstr "제작을 중지합니다. 모든 진행 상황과 소모된 재료가 손실됩니다."
 
 msgctxt "CraftingAbortButtonTitle"
 msgid "Abort Crafting"
-msgstr ""
+msgstr "제작 중단"
 
 msgctxt "CraftingBonusTitle"
 msgid "Crafting Bonus: {0}"
-msgstr ""
+msgstr "제작 보너스: {0}"
 
 msgctxt "CraftingDifficultyTitle"
 msgid "Crafting Difficulty"
-msgstr ""
+msgstr "제작 난이도"
 
 msgctxt "CraftingEstimatedHoursFormat"
 msgid "At least {0} hour(s) are required to craft this item."
@@ -338,7 +338,7 @@ msgstr ""
 
 msgctxt "CraftingIngredientsTitle"
 msgid "Ingredients"
-msgstr ""
+msgstr "재료"
 
 msgctxt "CraftingInProgressTitle"
 msgid "The type of ability check made by the character."
@@ -346,11 +346,11 @@ msgstr ""
 
 msgctxt "CraftingItemEffectTitle"
 msgid "Item Effects"
-msgstr ""
+msgstr "아이템 효과"
 
 msgctxt "CraftingNoOptionSelectedTitle"
 msgid "You must select one of the crafting options."
-msgstr ""
+msgstr "제작 옵션 중 하나를 선택해야 합니다."
 
 msgctxt "CraftingNoSuitableToolTypeDescription"
 msgid "No one in the party possesses {0} type tools."
@@ -358,7 +358,7 @@ msgstr ""
 
 msgctxt "CraftingNoSuitableToolTypeTitle"
 msgid "Not in Inventory"
-msgstr ""
+msgstr "인벤토리에 없음"
 
 msgctxt "CraftingNotProficientDescription"
 msgid "{0} is not proficient with any of the following: {1}."
@@ -366,7 +366,7 @@ msgstr ""
 
 msgctxt "CraftingNotProficientTitle"
 msgid "Not Proficient"
-msgstr ""
+msgstr "숙련 부족"
 
 msgctxt "CraftingOptionsTitle"
 msgid "Crafting Options"
@@ -395,9 +395,10 @@ msgctxt "CraftingStartButtonDescription"
 msgid "Starts the crafting operation and consumes the ingredients."
 msgstr ""
 
+#, fuzzy
 msgctxt "CraftingStartButtonTitle"
 msgid "Start Crafting"
-msgstr ""
+msgstr "제작 개시"
 
 msgctxt "CraftingTitle"
 msgid "Crafting"
@@ -447,7 +448,7 @@ msgstr ""
 
 msgctxt "DeathTimerLargeExpirationNumberDescription"
 msgid "10+"
-msgstr ""
+msgstr "10+"
 
 msgctxt "DeathTimerReviveOptionsFormat"
 msgid "{0}'s revive options:"
@@ -571,7 +572,7 @@ msgstr ""
 
 msgctxt "EncounterFightButtonTitle"
 msgid "Start Battle"
-msgstr ""
+msgstr "전투 시작"
 
 msgctxt "EncounterHeroStatusAsleepDescription"
 msgid "{0} is sleeping and will not act until awoken."
@@ -651,11 +652,11 @@ msgstr ""
 
 msgctxt "EncounterProceedButtonTitle"
 msgid "Proceed"
-msgstr ""
+msgstr "진행"
 
 msgctxt "EncounterSurpriseHeaderTitle"
 msgid "Surprise Roll Results"
-msgstr ""
+msgstr "기습 굴림 결과"
 
 msgctxt "EncumbranceHeavyTitle"
 msgid "Heavy"
@@ -725,7 +726,7 @@ msgstr ""
 
 msgctxt "FailedQuestsListTitle"
 msgid "Failed Quests"
-msgstr ""
+msgstr "실패한 퀘스트"
 
 msgctxt "FeatAutoSelectButtonTitle"
 msgid "Auto Select"
@@ -751,15 +752,15 @@ msgstr ""
 
 msgctxt "GameContentButtonTitle"
 msgid "Game Content"
-msgstr ""
+msgstr "게임 컨텐츠"
 
 msgctxt "GameMenuButtonDescription"
 msgid "Opens the game menu."
-msgstr ""
+msgstr "게임 메뉴를 엽니다."
 
 msgctxt "GameMenuTitle"
 msgid "Menu"
-msgstr ""
+msgstr "메뉴"
 
 msgctxt "GamePausedTitle"
 msgid "Paused"
@@ -799,9 +800,10 @@ msgid ""
 "character information, proficiencies, spells, and crafting options."
 msgstr ""
 
+#, fuzzy
 msgctxt "InspectInventoryDescription"
 msgid "Open the character's inventory tab."
-msgstr ""
+msgstr "캐릭터의 인벤토리를 엽니다."
 
 msgctxt "InspectInventoryTitle"
 msgid "Inventory"
@@ -1576,7 +1578,7 @@ msgstr ""
 
 msgctxt "PassTitle"
 msgid "Pass"
-msgstr ""
+msgstr "넘기기"
 
 msgctxt "PauseDescription"
 msgid "Pause the flow of time."

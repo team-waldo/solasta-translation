@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-19 05:52+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2021-08-20 14:50+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/"
 "partybanter/ko/>\n"
 "Language: ko\n"
@@ -32,7 +32,7 @@ msgstr "비밀 문이야!"
 
 msgctxt "Cynical2_Secret_door_Detected_Self"
 msgid "There's a door, here."
-msgstr ""
+msgstr "여기, 문이 있네."
 
 msgctxt "Cynical3_Secret_door_Detected_Self"
 msgid "I see a hidden door."
@@ -88,7 +88,7 @@ msgstr ""
 
 msgctxt "Cynical1_Critical_Hit_Given_Self"
 msgid "How does that feel?"
-msgstr ""
+msgstr "맛이 어떠냐?"
 
 msgctxt "Cynical2_Critical_Hit_Given_Self"
 msgid "Well deserved!"
@@ -96,7 +96,7 @@ msgstr ""
 
 msgctxt "Cynical3_Critical_Hit_Given_Self"
 msgid "Take that!"
-msgstr ""
+msgstr "받아라!"
 
 msgctxt "Cynical1_Normal_Hit_Given_Self"
 msgid "Got you!"
@@ -104,15 +104,15 @@ msgstr ""
 
 msgctxt "Cynical2_Normal_Hit_Given_Self"
 msgid "You like it?"
-msgstr ""
+msgstr "맘에 들어?"
 
 msgctxt "Cynical3_Normal_Hit_Given_Self"
 msgid "Too slow!"
-msgstr ""
+msgstr "느려텨젔군!"
 
 msgctxt "Cynical4_Normal_Hit_Given_Self"
 msgid "That must have hurt."
-msgstr ""
+msgstr "꽤 아프겠는데."
 
 msgctxt "Cynical5_Normal_Hit_Given_Self"
 msgid "Touché!"
@@ -120,23 +120,23 @@ msgstr ""
 
 msgctxt "Cynical1_Missed_Attack_Self"
 msgid "Damn it!"
-msgstr ""
+msgstr "젠장!"
 
 msgctxt "Cynical2_Missed_Attack_Self"
 msgid "What?"
-msgstr ""
+msgstr "어떻게?"
 
 msgctxt "Cynical3_Missed_Attack_Self"
 msgid "I was sure…"
-msgstr ""
+msgstr "확실했는데…"
 
 msgctxt "Cynical4_Missed_Attack_Self"
 msgid "How did I miss?"
-msgstr ""
+msgstr "이걸 못 맞추다니?"
 
 msgctxt "Cynical5_Missed_Attack_Self"
 msgid "You're just lucky!"
-msgstr ""
+msgstr "운이 좋았을 뿐이야!"
 
 msgctxt "Cynical1_Kill_Enemy_Self"
 msgid "And the winner is - me!"
@@ -149,7 +149,7 @@ msgstr "너흰 졌어!"
 
 msgctxt "Cynical3_Kill_Enemy_Self"
 msgid "Another victory!"
-msgstr ""
+msgstr "또 다른 승리군!"
 
 msgctxt "Cynical4_Kill_Enemy_Self"
 msgid "You never stood a chance!"
@@ -157,7 +157,7 @@ msgstr ""
 
 msgctxt "Cynical5_Kill_Enemy_Self"
 msgid "Another one bites the dust!"
-msgstr ""
+msgstr "또 하나 쓰러지고!"
 
 msgctxt "Cynical1_Healed_by_ally_Self"
 msgid "I owe you one!"
@@ -173,11 +173,11 @@ msgstr ""
 
 msgctxt "Cynical1_Allied_KnockedDown_Self"
 msgid "No!"
-msgstr ""
+msgstr "안 돼!"
 
 msgctxt "Cynical2_Allied_KnockedDown_Self"
 msgid "Hold on!"
-msgstr ""
+msgstr "조금만 버텨!"
 
 msgctxt "Cynical3_Allied_KnockedDown_Self"
 msgid "We need you!"
@@ -209,11 +209,11 @@ msgstr ""
 
 msgctxt "Cynical1_Long_Jump_Other"
 msgid "You're not too rusty."
-msgstr ""
+msgstr "아직 쌩쌩하네."
 
 msgctxt "Cynical2_Long_Jump_Other"
 msgid "Easy on your ankles!"
-msgstr ""
+msgstr "발목 조심하는 게 좋을걸!"
 
 msgctxt "Cynical3_Long_Jump_Other"
 msgid "Artistic note - not great."
@@ -221,11 +221,11 @@ msgstr ""
 
 msgctxt "Cynical1_High_Climb_Other"
 msgid "Nice little warm-up."
-msgstr ""
+msgstr "이 정도야 간단하지."
 
 msgctxt "Cynical2_High_Climb_Other"
 msgid "I know kids who'd do that faster."
-msgstr ""
+msgstr "내 친구들도 그거보단 빠르더라."
 
 msgctxt "Cynical3_High_Climb_Other"
 msgid "A real little goblin."
@@ -245,11 +245,11 @@ msgstr ""
 
 msgctxt "Cynical1_Pushing_Heavy_Other"
 msgid "Heave ho!"
-msgstr ""
+msgstr "영차!"
 
 msgctxt "Cynical2_Pushing_Heavy_Other"
 msgid "Come on - push!"
-msgstr ""
+msgstr "제대로 밀어봐!"
 
 msgctxt "Cynical1_Crawling_Other"
 msgid "You don't mind being on your knees, do you?"
@@ -261,15 +261,15 @@ msgstr ""
 
 msgctxt "Cynical1_Critical_Hit_Received_Other"
 msgid "Hold it!"
-msgstr ""
+msgstr "버텨!"
 
 msgctxt "Cynical2_Critical_Hit_Received_Other"
 msgid "Stay with us!"
-msgstr ""
+msgstr "쓰러지면 안 돼!"
 
 msgctxt "Cynical1_Normal_Hit_Received_Other"
 msgid "Are you okay?"
-msgstr ""
+msgstr "괜찮아?"
 
 msgctxt "Cynical2_Normal_Hit_Received_Other"
 msgid "You've seen worse!"
@@ -277,15 +277,15 @@ msgstr ""
 
 msgctxt "Cynical1_Critical_Hit_Given_Other"
 msgid "That's the way!"
-msgstr ""
+msgstr "바로 그거지!"
 
 msgctxt "Cynical2_Critical_Hit_Given_Other"
 msgid "Nice!"
-msgstr ""
+msgstr "멋진데!"
 
 msgctxt "Cynical3_Critical_Hit_Given_Other"
 msgid "Impressive!"
-msgstr ""
+msgstr "죽이는데!"
 
 msgctxt "Cynical1_Normal_Hit_Given_Other"
 msgid "Nice move!"
@@ -301,7 +301,7 @@ msgstr ""
 
 msgctxt "Cynical1_Missed_Attack_Other"
 msgid "Come on, you can do better!"
-msgstr ""
+msgstr "아, 쫌. 잘해봐!"
 
 msgctxt "Cynical2_Missed_Attack_Other"
 msgid "Try again!"
@@ -313,7 +313,7 @@ msgstr ""
 
 msgctxt "Cynical1_Kill_Enemy_Other"
 msgid "Hey! That was mine!"
-msgstr ""
+msgstr "야! 내 꺼였다고!"
 
 msgctxt "Cynical2_Kill_Enemy_Other"
 msgid "That one didn't even fight back."
@@ -321,7 +321,7 @@ msgstr ""
 
 msgctxt "Cynical3_Kill_Enemy_Other"
 msgid "Not too bad."
-msgstr ""
+msgstr "나쁘지 않은 걸."
 
 msgctxt "Serious1_Trap_Detected_Self"
 msgid "Damn! A trap!"
@@ -341,11 +341,11 @@ msgstr "여기 비밀 문이야!"
 
 msgctxt "Serious2_Secret_door_Detected_Self"
 msgid "Found a door, here!"
-msgstr ""
+msgstr "비밀 문을 찾았어!"
 
 msgctxt "Serious3_Secret_door_Detected_Self"
 msgid "We have a hidden door!"
-msgstr ""
+msgstr "숨겨진 문이 있다!"
 
 msgctxt "Serious1_Trap_Trigerred_Self"
 msgid "Crap!"
@@ -369,11 +369,11 @@ msgstr "조잡하구만."
 
 msgctxt "Serious3_Trap_Disarmed_Self"
 msgid "Done and done."
-msgstr ""
+msgstr "가볍게 땄어."
 
 msgctxt "Serious1_Light_up_Self"
 msgid "I needed that."
-msgstr ""
+msgstr "딱 필요했어."
 
 msgctxt "Serious2_Light_up_Self"
 msgid "Light, at last."
@@ -401,7 +401,7 @@ msgstr ""
 
 msgctxt "Serious2_Critical_Hit_Given_Self"
 msgid "Die!"
-msgstr ""
+msgstr "죽어라!"
 
 msgctxt "Serious3_Critical_Hit_Given_Self"
 msgid "You like that?"
@@ -409,7 +409,7 @@ msgstr ""
 
 msgctxt "Serious1_Normal_Hit_Given_Self"
 msgid "Take that!"
-msgstr ""
+msgstr "받아라!"
 
 msgctxt "Serious2_Normal_Hit_Given_Self"
 msgid "Wait till the next one!"
@@ -441,11 +441,11 @@ msgstr "이런!"
 
 msgctxt "Serious4_Missed_Attack_Self"
 msgid "I won't miss next time!"
-msgstr ""
+msgstr "다음 공격은 다를 거다!"
 
 msgctxt "Serious5_Missed_Attack_Self"
 msgid "You'll die anyway!"
-msgstr ""
+msgstr "그래봤자 넌 죽은 목숨이야!"
 
 msgctxt "Serious1_Kill_Enemy_Self"
 msgid "I win again."
@@ -453,7 +453,7 @@ msgstr ""
 
 msgctxt "Serious2_Kill_Enemy_Self"
 msgid "You lose."
-msgstr ""
+msgstr "넌 졌어."
 
 msgctxt "Serious3_Kill_Enemy_Self"
 msgid "Go to hell!"
@@ -505,7 +505,7 @@ msgstr "정신 차려!"
 
 msgctxt "Serious1_Trap_Disarmed_Other"
 msgid "Well done!"
-msgstr ""
+msgstr "잘했어!"
 
 msgctxt "Serious2_Trap_Disarmed_Other"
 msgid "One less problem."
@@ -517,19 +517,19 @@ msgstr ""
 
 msgctxt "Serious1_Long_Jump_Other"
 msgid "That was something!"
-msgstr ""
+msgstr "방금 좀 멋지군!"
 
 msgctxt "Serious2_Long_Jump_Other"
 msgid "Nice jump!"
-msgstr ""
+msgstr "멋진 점프네!"
 
 msgctxt "Serious3_Long_Jump_Other"
 msgid "Well done!"
-msgstr ""
+msgstr "잘했어!"
 
 msgctxt "Serious1_High_Climb_Other"
 msgid "Good arms you got!"
-msgstr ""
+msgstr "팔 힘이 장난 아니네!"
 
 msgctxt "Serious2_High_Climb_Other"
 msgid "Didn't think you could do it!"
@@ -549,15 +549,15 @@ msgstr ""
 
 msgctxt "Serious3_Break_Stealth_Other"
 msgid "You'll get us all killed!"
-msgstr ""
+msgstr "너 때문에 다 죽게 생겼어!"
 
 msgctxt "Serious1_Pushing_Heavy_Other"
 msgid "Come on, harder!"
-msgstr ""
+msgstr "자, 더 세게!"
 
 msgctxt "Serious2_Pushing_Heavy_Other"
 msgid "Push!"
-msgstr ""
+msgstr "밀어!"
 
 msgctxt "Serious1_Crawling_Other"
 msgid "Dive in the dirt, now."
@@ -569,15 +569,15 @@ msgstr ""
 
 msgctxt "Serious1_Critical_Hit_Received_Other"
 msgid "You'll get a nice scar!"
-msgstr ""
+msgstr "멋진 흉터가 생길걸?"
 
 msgctxt "Serious2_Critical_Hit_Received_Other"
 msgid "If it doesn't kill you…"
-msgstr ""
+msgstr "널 죽이지 못하는 고통은…"
 
 msgctxt "Serious1_Normal_Hit_Received_Other"
 msgid "Walk it off!"
-msgstr ""
+msgstr "별 거 아니야!"
 
 msgctxt "Serious2_Normal_Hit_Received_Other"
 msgid "Deal with it!"
@@ -585,19 +585,19 @@ msgstr ""
 
 msgctxt "Serious1_Critical_Hit_Given_Other"
 msgid "That's the way!"
-msgstr ""
+msgstr "바로 그거야!"
 
 msgctxt "Serious2_Critical_Hit_Given_Other"
 msgid "Kill 'em all!"
-msgstr ""
+msgstr "모조리 죽여버려!"
 
 msgctxt "Serious3_Critical_Hit_Given_Other"
 msgid "Crush 'em!"
-msgstr ""
+msgstr "박살내버리자!"
 
 msgctxt "Serious1_Normal_Hit_Given_Other"
 msgid "Again! Harder!"
-msgstr ""
+msgstr "좋아! 더 세게!"
 
 msgctxt "Serious2_Normal_Hit_Given_Other"
 msgid "More!"
@@ -633,15 +633,15 @@ msgstr ""
 
 msgctxt "Heroic1_Trap_Detected_Self"
 msgid "Hold it - I see a trap!"
-msgstr ""
+msgstr "잠깐, 함정이다!"
 
 msgctxt "Heroic2_Trap_Detected_Self"
 msgid "Everybody freeze!"
-msgstr ""
+msgstr "모두 멈춰!"
 
 msgctxt "Heroic3_Trap_Detected_Self"
 msgid "Wait! I see a trap."
-msgstr ""
+msgstr "기다려! 저기 함정이다."
 
 msgctxt "Heroic1_Secret_door_Detected_Self"
 msgid "Friends! There's a hidden door here!"
@@ -657,11 +657,11 @@ msgstr ""
 
 msgctxt "Heroic1_Trap_Trigerred_Self"
 msgid "No!"
-msgstr ""
+msgstr "앗!"
 
 msgctxt "Heroic2_Trap_Trigerred_Self"
 msgid "Sorry for that!"
-msgstr ""
+msgstr "미안해!"
 
 msgctxt "Heroic3_Trap_Trigerred_Self"
 msgid "I'm such an idiot!"
@@ -673,47 +673,47 @@ msgstr ""
 
 msgctxt "Heroic2_Trap_Disarmed_Self"
 msgid "I think I did it."
-msgstr ""
+msgstr "성공한 것 같아."
 
 msgctxt "Heroic3_Trap_Disarmed_Self"
 msgid "Mission accomplished."
-msgstr ""
+msgstr "임무 성공."
 
 msgctxt "Heroic1_Light_up_Self"
 msgid "The Light is with us."
-msgstr ""
+msgstr "빛이 우리와 함께 한다."
 
 msgctxt "Heroic2_Light_up_Self"
 msgid "The Light will guide us."
-msgstr ""
+msgstr "빛이 우리를 인도하길."
 
 msgctxt "Heroic3_Light_up_Self"
 msgid "We bring light in darkness!"
-msgstr ""
+msgstr "어둠을 몰아낼 빛이여!"
 
 msgctxt "Heroic1_Break_Stealth_Self"
 msgid "Oops!"
-msgstr ""
+msgstr "이런!"
 
 msgctxt "Heroic2_Break_Stealth_Self"
 msgid "Sorry!"
-msgstr ""
+msgstr "미안해!"
 
 msgctxt "Heroic3_Break_Stealth_Self"
 msgid "I know, I know!"
-msgstr ""
+msgstr "알아, 미안해!"
 
 msgctxt "Heroic1_Critical_Hit_Given_Self"
 msgid "Surrender or die!"
-msgstr ""
+msgstr "항복하거나 죽어라!"
 
 msgctxt "Heroic2_Critical_Hit_Given_Self"
 msgid "I take no prisoners!"
-msgstr ""
+msgstr "전부 죽여주마!"
 
 msgctxt "Heroic3_Critical_Hit_Given_Self"
 msgid "I will kill you."
-msgstr ""
+msgstr "넌 죽은 목숨이다."
 
 msgctxt "Heroic1_Normal_Hit_Given_Self"
 msgid "Bend the knee or perish!"
@@ -721,7 +721,7 @@ msgstr ""
 
 msgctxt "Heroic2_Normal_Hit_Given_Self"
 msgid "Run while you can!"
-msgstr ""
+msgstr "도망쳐봐라!"
 
 msgctxt "Heroic3_Normal_Hit_Given_Self"
 msgid "You can't win!"
@@ -737,11 +737,11 @@ msgstr ""
 
 msgctxt "Heroic1_Missed_Attack_Self"
 msgid "Damn!"
-msgstr ""
+msgstr "젠장!"
 
 msgctxt "Heroic2_Missed_Attack_Self"
 msgid "Come on!"
-msgstr ""
+msgstr "아, 좀!"
 
 msgctxt "Heroic3_Missed_Attack_Self"
 msgid "I must do better!"
@@ -757,7 +757,7 @@ msgstr ""
 
 msgctxt "Heroic1_Kill_Enemy_Self"
 msgid "Once more, we prevail!"
-msgstr ""
+msgstr "다시 한 번, 우리가 전진한다!"
 
 msgctxt "Heroic2_Kill_Enemy_Self"
 msgid "Another victory! This is destiny!"
@@ -813,15 +813,15 @@ msgstr ""
 
 msgctxt "Heroic1_Trap_Disarmed_Other"
 msgid "Good work!"
-msgstr ""
+msgstr "잘했어!"
 
 msgctxt "Heroic2_Trap_Disarmed_Other"
 msgid "Well done, friend!"
-msgstr ""
+msgstr "잘했어, 친구!"
 
 msgctxt "Heroic3_Trap_Disarmed_Other"
 msgid "Your skills are impressive!"
-msgstr ""
+msgstr "솜씨가 좋은데!"
 
 msgctxt "Heroic1_Long_Jump_Other"
 msgid "What a fantastic leap!"
@@ -845,11 +845,11 @@ msgstr ""
 
 msgctxt "Heroic3_High_Climb_Other"
 msgid "I underestimated you. My apologies!"
-msgstr ""
+msgstr "자넬 과소평가했어. 미안하네!"
 
 msgctxt "Heroic1_Break_Stealth_Other"
 msgid "That wasn't smart."
-msgstr ""
+msgstr "그건 별로 현명한 행동은 아니었어."
 
 msgctxt "Heroic2_Break_Stealth_Other"
 msgid "You'll need to do better than that!"
@@ -857,15 +857,15 @@ msgstr ""
 
 msgctxt "Heroic3_Break_Stealth_Other"
 msgid "More caution next time!"
-msgstr ""
+msgstr "다음 번엔 더 조심하자고!"
 
 msgctxt "Heroic1_Pushing_Heavy_Other"
 msgid "With all your might!"
-msgstr ""
+msgstr "온 힘을 다해!"
 
 msgctxt "Heroic2_Pushing_Heavy_Other"
 msgid "You can do it!"
-msgstr ""
+msgstr "할 수 있어!"
 
 msgctxt "Heroic1_Crawling_Other"
 msgid "Sometimes there is simply no choice."
@@ -873,15 +873,15 @@ msgstr ""
 
 msgctxt "Heroic2_Crawling_Other"
 msgid "I don't like it either."
-msgstr ""
+msgstr "맘에 드는 방법은 아니지만."
 
 msgctxt "Heroic1_Critical_Hit_Received_Other"
 msgid "Courage!"
-msgstr ""
+msgstr "용기를 내!"
 
 msgctxt "Heroic2_Critical_Hit_Received_Other"
 msgid "You're still standing!"
-msgstr ""
+msgstr "잘 버티고 있어!"
 
 msgctxt "Heroic1_Normal_Hit_Received_Other"
 msgid "You can take it!"
@@ -893,7 +893,7 @@ msgstr ""
 
 msgctxt "Heroic1_Critical_Hit_Given_Other"
 msgid "That's the way!"
-msgstr ""
+msgstr "바로 그거야!"
 
 msgctxt "Heroic2_Critical_Hit_Given_Other"
 msgid "Masterful!"
@@ -905,27 +905,27 @@ msgstr ""
 
 msgctxt "Heroic1_Normal_Hit_Given_Other"
 msgid "Well struck!"
-msgstr ""
+msgstr "좋은 일격이야!"
 
 msgctxt "Heroic2_Normal_Hit_Given_Other"
 msgid "Perfect!"
-msgstr ""
+msgstr "완벽해!"
 
 msgctxt "Heroic3_Normal_Hit_Given_Other"
 msgid "Go on!"
-msgstr ""
+msgstr "계속해!"
 
 msgctxt "Heroic1_Missed_Attack_Other"
 msgid "Better luck next time!"
-msgstr ""
+msgstr "다음엔 더 잘 할거야!"
 
 msgctxt "Heroic2_Missed_Attack_Other"
 msgid "Don't lose hope!"
-msgstr ""
+msgstr "좌절하지 마!"
 
 msgctxt "Heroic3_Missed_Attack_Other"
 msgid "Just bad luck!"
-msgstr ""
+msgstr "운이 나빴을 뿐이야!"
 
 msgctxt "Heroic1_Kill_Enemy_Other"
 msgid "Victory is yours!"
@@ -937,27 +937,27 @@ msgstr ""
 
 msgctxt "Heroic3_Kill_Enemy_Other"
 msgid "Nobody has your skills, bravo!"
-msgstr ""
+msgstr "솜씨가 정말 대단하군, 멋진데!"
 
 msgctxt "Formal1_Trap_Detected_Self"
 msgid "A crude trap."
-msgstr ""
+msgstr "조잡한 함정이야."
 
 msgctxt "Formal2_Trap_Detected_Self"
 msgid "We won't be fooled so easily."
-msgstr ""
+msgstr "우리가 이런 걸로 쉽게 속을 바보는 아니지."
 
 msgctxt "Formal3_Trap_Detected_Self"
 msgid "I spotted a trap of sorts."
-msgstr ""
+msgstr "덫 같은 걸 발견했어."
 
 msgctxt "Formal1_Secret_door_Detected_Self"
 msgid "I believe there is a hidden door."
-msgstr ""
+msgstr "숨겨진 문이 있는 것 같아."
 
 msgctxt "Formal2_Secret_door_Detected_Self"
 msgid "This has to be a secret passage."
-msgstr ""
+msgstr "비밀 통로로 이어지겠군."
 
 msgctxt "Formal3_Secret_door_Detected_Self"
 msgid "Interesting - a secret door."
@@ -969,7 +969,7 @@ msgstr ""
 
 msgctxt "Formal2_Trap_Trigerred_Self"
 msgid "How could I miss it?"
-msgstr ""
+msgstr "이걸 어쩌다 못 본 거지?"
 
 msgctxt "Formal3_Trap_Trigerred_Self"
 msgid "I really must be more careful."
@@ -977,7 +977,7 @@ msgstr ""
 
 msgctxt "Formal1_Trap_Disarmed_Self"
 msgid "That was simplicity itself!"
-msgstr ""
+msgstr "정말이지 너무 단순한 구조야!"
 
 msgctxt "Formal2_Trap_Disarmed_Self"
 msgid "Not as taxing as I expected."
@@ -985,7 +985,7 @@ msgstr ""
 
 msgctxt "Formal3_Trap_Disarmed_Self"
 msgid "Ingenious, but not unbeatable."
-msgstr ""
+msgstr "특이하지만, 못 푸는 건 아니야."
 
 msgctxt "Formal1_Light_up_Self"
 msgid "A little light is always welcome."
@@ -993,15 +993,15 @@ msgstr ""
 
 msgctxt "Formal2_Light_up_Self"
 msgid "Let there be light!"
-msgstr ""
+msgstr "빛이 있으라!"
 
 msgctxt "Formal3_Light_up_Self"
 msgid "Blessed are the Lightbringers!"
-msgstr ""
+msgstr "빛을 수호하는 자에게 축복을!"
 
 msgctxt "Formal1_Break_Stealth_Self"
 msgid "Curses! My fault."
-msgstr ""
+msgstr "이런! 내 잘못이야."
 
 msgctxt "Formal2_Break_Stealth_Self"
 msgid "I really thought I… never mind."
@@ -1013,7 +1013,7 @@ msgstr ""
 
 msgctxt "Formal1_Critical_Hit_Given_Self"
 msgid "Hah! Take that, you fiend!"
-msgstr ""
+msgstr "하! 맛이 어떠냐!"
 
 msgctxt "Formal2_Critical_Hit_Given_Self"
 msgid "Just where it hurts most!"
@@ -1021,11 +1021,11 @@ msgstr ""
 
 msgctxt "Formal3_Critical_Hit_Given_Self"
 msgid "Death reaches out for you!"
-msgstr ""
+msgstr "죽음을 선사해주지!"
 
 msgctxt "Formal1_Normal_Hit_Given_Self"
 msgid "Not bad, eh?"
-msgstr ""
+msgstr "나쁘지 않군?"
 
 msgctxt "Formal2_Normal_Hit_Given_Self"
 msgid "A modest success!"
@@ -1041,11 +1041,11 @@ msgstr ""
 
 msgctxt "Formal5_Normal_Hit_Given_Self"
 msgid "I trained hard for this!"
-msgstr ""
+msgstr "훈련의 성과다!"
 
 msgctxt "Formal1_Missed_Attack_Self"
 msgid "Fortune is fickle!"
-msgstr ""
+msgstr "운명의 여신이 변덕스럽군!"
 
 msgctxt "Formal2_Missed_Attack_Self"
 msgid "Most unfortunate, that."
@@ -1053,7 +1053,7 @@ msgstr ""
 
 msgctxt "Formal3_Missed_Attack_Self"
 msgid "Only the last blow matters!"
-msgstr ""
+msgstr "결과가 중요한 거야!"
 
 msgctxt "Formal4_Missed_Attack_Self"
 msgid "Next time, I swear…"
@@ -1065,7 +1065,7 @@ msgstr ""
 
 msgctxt "Formal1_Kill_Enemy_Self"
 msgid "One foe down!"
-msgstr ""
+msgstr "하나 잡았다!"
 
 msgctxt "Formal2_Kill_Enemy_Self"
 msgid "Death claims you!"
@@ -1105,15 +1105,15 @@ msgstr ""
 
 msgctxt "Formal3_Allied_KnockedDown_Self"
 msgid "We are coming!"
-msgstr ""
+msgstr "도우러 갈게!"
 
 msgctxt "Formal1_Trap_Trigerred_Other"
 msgid "Tsk. An elementary mistake."
-msgstr ""
+msgstr "쯧. 이런 기초적인 실수를."
 
 msgctxt "Formal2_Trap_Trigerred_Other"
 msgid "Watch your step, friend!"
-msgstr ""
+msgstr "잘 보고 다녀, 친구!"
 
 msgctxt "Formal3_Trap_Trigerred_Other"
 msgid "A dangerous error."
@@ -1121,7 +1121,7 @@ msgstr ""
 
 msgctxt "Formal1_Trap_Disarmed_Other"
 msgid "Perfectly executed!"
-msgstr ""
+msgstr "완벽하게 해냈군!"
 
 msgctxt "Formal2_Trap_Disarmed_Other"
 msgid "My congratulations on a job well done."
@@ -1129,7 +1129,7 @@ msgstr ""
 
 msgctxt "Formal3_Trap_Disarmed_Other"
 msgid "Your skill is impressive."
-msgstr ""
+msgstr "솜씨가 인상적이야."
 
 msgctxt "Formal1_Long_Jump_Other"
 msgid "An extraordinary jump!"
@@ -1141,11 +1141,11 @@ msgstr ""
 
 msgctxt "Formal3_Long_Jump_Other"
 msgid "Such athleticism!"
-msgstr ""
+msgstr "운동 신경 좋은데!"
 
 msgctxt "Formal1_High_Climb_Other"
 msgid "What strength!"
-msgstr ""
+msgstr "힘이 장사네!"
 
 msgctxt "Formal2_High_Climb_Other"
 msgid "It seems effortless!"
@@ -1153,7 +1153,7 @@ msgstr ""
 
 msgctxt "Formal3_High_Climb_Other"
 msgid "Clearly you have trained well."
-msgstr ""
+msgstr "제대로 훈련 받았는 걸."
 
 msgctxt "Formal1_Break_Stealth_Other"
 msgid "Even the dead could hear you!"
@@ -1169,15 +1169,15 @@ msgstr ""
 
 msgctxt "Formal1_Pushing_Heavy_Other"
 msgid "You can do it!"
-msgstr ""
+msgstr "넌 할 수 있어!"
 
 msgctxt "Formal2_Pushing_Heavy_Other"
 msgid "Heave, now - all your strength!"
-msgstr ""
+msgstr "힘내! 젖먹던 힘까지!"
 
 msgctxt "Formal1_Crawling_Other"
 msgid "Undignified, but necessary."
-msgstr ""
+msgstr "품위 없지만, 어쩔 수 없지."
 
 msgctxt "Formal2_Crawling_Other"
 msgid "Kneel now, rise later."
@@ -1193,7 +1193,7 @@ msgstr ""
 
 msgctxt "Formal1_Normal_Hit_Received_Other"
 msgid "Hold firm - you've endured worse!"
-msgstr ""
+msgstr "굳건히 버텨, 더 심한 꼴도 봤잖아!"
 
 msgctxt "Formal2_Normal_Hit_Received_Other"
 msgid "You're still in the fight, my friend!"
@@ -1217,7 +1217,7 @@ msgstr ""
 
 msgctxt "Formal2_Normal_Hit_Given_Other"
 msgid "Well done!"
-msgstr ""
+msgstr "잘했어!"
 
 msgctxt "Formal3_Normal_Hit_Given_Other"
 msgid "You have them now!"
@@ -1225,7 +1225,7 @@ msgstr ""
 
 msgctxt "Formal1_Missed_Attack_Other"
 msgid "Oh! Bad luck!"
-msgstr ""
+msgstr "운이 나빴네!"
 
 msgctxt "Formal2_Missed_Attack_Other"
 msgid "Next time!"
@@ -1249,16 +1249,16 @@ msgstr ""
 
 msgctxt "None1_Thief_Detected_Self"
 msgid "Leave me be, you thief!"
-msgstr ""
+msgstr "날 내버려 둬, 이 도둑놈아!"
 
 msgctxt "None2_Thief_Detected_Self"
 msgid "Damn thieves…"
-msgstr ""
+msgstr "망할 도둑놈들…"
 
 msgctxt "None3_Thief_Detected_Self"
 msgid "Hands off!"
-msgstr ""
+msgstr "손 떼!"
 
 msgctxt "None4_Thief_Detected_Self"
 msgid "So this is who you are?"
-msgstr ""
+msgstr "이렇게 나오시겠다?"

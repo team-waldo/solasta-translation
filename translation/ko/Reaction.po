@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-19 05:52+0000\n"
+"PO-Revision-Date: 2021-08-20 14:50+0000\n"
 "Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/reaction/"
 "ko/>\n"
@@ -38,16 +38,15 @@ msgid ""
 "{0} is attacking {1}! You can react to impose disadvantage upon the enemy."
 msgstr ""
 
-#, fuzzy
 msgctxt "BlockAttackReactDescription"
 msgid ""
 "Click to block the attacking character and impose disadvantage. This uses "
 "your reaction until your next turn."
-msgstr "클릭하여 공격중인 캐릭터를 막고 불이익을 줍니다. 다음 턴까지 리액션을 사용합니다."
+msgstr "클릭하여 공격 중인 캐릭터를 막아 명중 굴림에 불이점을 줍니다. 다음 턴까지 반응 행동을 사용합니다."
 
 msgctxt "BlockAttackReactTitle"
 msgid "Block"
-msgstr ""
+msgstr "막기"
 
 #, fuzzy
 msgctxt "BlockAttackTitle"
@@ -101,7 +100,7 @@ msgstr ""
 
 msgctxt "ChooseAReactionTitle"
 msgid "Choose a Reaction"
-msgstr ""
+msgstr "반응 행동 선택"
 
 msgctxt "ChooseAnOptionTitle"
 msgid "Choose an Option"
@@ -172,11 +171,11 @@ msgstr ""
 
 msgctxt "OpportunityAttackReactTitle"
 msgid "Attack"
-msgstr ""
+msgstr "공격"
 
 msgctxt "OpportunityAttackTitle"
 msgid "Attack of Opportunity"
-msgstr ""
+msgstr "기회 공격"
 
 msgctxt "PassDescription"
 msgid "You do not react to this event, saving your reaction for later."
@@ -184,7 +183,7 @@ msgstr ""
 
 msgctxt "PassTitle"
 msgid "Pass"
-msgstr ""
+msgstr "넘기기"
 
 msgctxt "ReactionShotDescription"
 msgid ""
@@ -291,7 +290,7 @@ msgstr ""
 
 msgctxt "UncannyDodgeDescription"
 msgid "{0} is attacking {1}, who can react to halve incoming damage."
-msgstr ""
+msgstr "{0}이(가) {1}을(를) 공격합니다. 받는 피해를 절반으로 줄일 수 있습니다."
 
 msgctxt "UncannyDodgeReactDescription"
 msgid "Click to use your reaction and halve the attack's damage."

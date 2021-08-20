@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-19 05:52+0000\n"
+"PO-Revision-Date: 2021-08-20 14:50+0000\n"
 "Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/"
 "factionstatus/ko/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 msgctxt "AllianceDescription"
 msgid "The faction will actively help you."
-msgstr ""
+msgstr "당신을 적극적으로 도울 것입니다."
 
 msgctxt "AllianceTitle"
 msgid "Alliance"
@@ -24,19 +24,20 @@ msgstr "동맹"
 
 msgctxt "AnimosityDescription"
 msgid "This faction will try to thwart you."
-msgstr ""
+msgstr "당신을 방해하려 들 것입니다."
 
 msgctxt "AnimosityTitle"
 msgid "Animosity"
-msgstr ""
+msgstr "적대"
 
+#, fuzzy
 msgctxt "AttacksOnSightDescription"
 msgid "Attacks on sight. "
-msgstr ""
+msgstr "마주치는 즉시 공격합니다. "
 
 msgctxt "BrotherhoodDescription"
 msgid "You are important and influential in the faction."
-msgstr ""
+msgstr "당신은 중요하면서도 영향력 있는 구성원입니다."
 
 msgctxt "BrotherhoodTitle"
 msgid "Brotherhood"
@@ -44,19 +45,19 @@ msgstr "형제"
 
 msgctxt "HatredDescription"
 msgid "The faction will try to kill you."
-msgstr ""
+msgstr "당신을 죽이려 들 것입니다."
 
 msgctxt "HatredTitle"
 msgid "Hatred"
-msgstr ""
+msgstr "증오"
 
 msgctxt "IndifferenceDescription"
 msgid "The faction does not care about you."
-msgstr ""
+msgstr "당신에게 관심이 없습니다."
 
 msgctxt "IndifferenceTitle"
 msgid "Indifference"
-msgstr ""
+msgstr "무관심"
 
 msgctxt "JoinsAllyInBattleDescription"
 msgid "Joins you in battle. "
@@ -68,11 +69,11 @@ msgstr "전투 시 적의 편에 합류합니다. "
 
 msgctxt "LivingLegendDescription"
 msgid "You are a key member of the faction, and a part of their history."
-msgstr ""
+msgstr "당신은 세력의 핵심 구성원이자, 그들의 역사의 일부입니다."
 
 msgctxt "LivingLegendTitle"
 msgid "Living Legend"
-msgstr ""
+msgstr "살아있는 전설"
 
 msgctxt "MerchantOverchargeFormat"
 msgid "Merchant overcharge: {0}%."
@@ -92,8 +93,8 @@ msgstr ""
 
 msgctxt "SympathyDescription"
 msgid "The faction will show you favor."
-msgstr ""
+msgstr "당신에게 호의를 보일 것입니다."
 
 msgctxt "SympathyTitle"
 msgid "Sympathy"
-msgstr ""
+msgstr "지지"

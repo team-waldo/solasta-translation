@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-19 05:52+0000\n"
+"PO-Revision-Date: 2021-08-20 14:50+0000\n"
 "Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/language/"
 "ko/>\n"
@@ -72,7 +72,7 @@ msgstr "습지 하플링과 섬 하플링이 갈라지기 전부터 사용된 �
 
 msgctxt "HalflingTitle"
 msgid "Halfling"
-msgstr "하플링어"
+msgstr "하플링"
 
 msgctxt "OrcDescription"
 msgid "The language spoken by orcs and their brethren."

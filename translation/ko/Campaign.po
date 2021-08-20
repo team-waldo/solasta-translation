@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-19 05:52+0000\n"
-"Last-Translator: ByeongJinKang <kbj01010@gmail.com>\n"
+"PO-Revision-Date: 2021-08-20 14:50+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/campaign/"
 "ko/>\n"
 "Language: ko\n"
@@ -933,7 +933,7 @@ msgstr "왕관은 우리의 것이다."
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council_04_b"
 msgid "A Strange Warning"
-msgstr ""
+msgstr "이상한 경고"
 
 msgctxt ""
 "CrownOfTheMagister_Journal_DialogTitle_Council_04_c_1_Attacked_In_Residency"
@@ -942,12 +942,13 @@ msgstr ""
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council_04_d_Talking_To_Heddlon"
 msgid "The Elf Who Knew Too Much"
-msgstr ""
+msgstr "너무 많은 것을 알아버린 엘프"
 
+#, fuzzy
 msgctxt ""
 "CrownOfTheMagister_Journal_DialogTitle_Council_04_e_Ironshell_After_Attack"
 msgid "Ransacked!"
-msgstr ""
+msgstr "약탈이다!"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council_05_a"
 msgid "With or Without It"
@@ -967,7 +968,7 @@ msgstr "작고 조용한 마을"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Earcorn_02_Footsteps"
 msgid "They Have Claws"
-msgstr ""
+msgstr "놈들의 발톱"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Earcorn_03_AfterFight"
 msgid "It's a Trap!"
@@ -977,9 +978,10 @@ msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_01_Entrance"
 msgid "Hacking"
 msgstr ""
 
+#, fuzzy
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_02_Jungle"
 msgid "Chop, Don't Talk"
-msgstr ""
+msgstr "떠들지 말고 서둘러"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_03_Lava"
 msgid "Hot Stuff"
@@ -987,7 +989,7 @@ msgstr ""
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_04_GardenSheld"
 msgid "Soraks!"
-msgstr ""
+msgstr "소락이다!"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_05_SorakFight"
 msgid "The Sound of Killing"
@@ -999,7 +1001,7 @@ msgstr ""
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_09_TreasureBeast"
 msgid "Temptation"
-msgstr ""
+msgstr "유혹"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_10_Beast"
 msgid "The Beast"
@@ -1011,11 +1013,11 @@ msgstr ""
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_12_ShitfingMaze"
 msgid "The Maze"
-msgstr ""
+msgstr "미로"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_13_TeleportingCircle"
 msgid "Find a Way Out"
-msgstr ""
+msgstr "탈출구 찾기"
 
 msgctxt ""
 "CrownOfTheMagister_Journal_DialogTitle_Conjuration_13b_TeleportingCircle"
@@ -1028,11 +1030,11 @@ msgstr ""
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_14b_Coward"
 msgid "The Coward"
-msgstr ""
+msgstr "겁쟁이"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_15_MansionArrival"
 msgid "House on the Hill"
-msgstr ""
+msgstr "언덕 위의 집"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_16_CastleEntrance"
 msgid "Good Manners"
@@ -1040,7 +1042,7 @@ msgstr ""
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_17_InvisibleServants"
 msgid "Slaves of the Empire"
-msgstr ""
+msgstr "제국의 노예들"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_18_Master"
 msgid "A Broken Mind"
@@ -1048,15 +1050,15 @@ msgstr ""
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_01_Arriving"
 msgid "Stinks of Sulfur"
-msgstr ""
+msgstr "유황 냄새"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_02_FindingKebra"
 msgid "The Survivor"
-msgstr ""
+msgstr "생존자"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_02b_TalkToKebra"
 msgid "Orcish Wars"
-msgstr ""
+msgstr "오크 전쟁"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_03_EnterVolcano"
 msgid "Under the Mountain"
@@ -1070,9 +1072,10 @@ msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_05_Market"
 msgid "The Market"
 msgstr ""
 
+#, fuzzy
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_06_SavedBrok"
 msgid "Brok Is Free"
-msgstr ""
+msgstr "브록은 자유"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_07_Bloodspear"
 msgid "The Warmongers"
@@ -1084,7 +1087,7 @@ msgstr ""
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_09_Bloodspear_Victory"
 msgid "Is there anyone else?"
-msgstr ""
+msgstr "거기 누구 있습니까?"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_10_Bladefang"
 msgid "Tribe of the Faithful"
@@ -1108,7 +1111,7 @@ msgstr ""
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_15_OldQueenBeaten"
 msgid "The Holy Axe"
-msgstr ""
+msgstr "신성한 도끼"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_16_ReturnHolyAxe"
 msgid "Give or Take"
@@ -1116,7 +1119,7 @@ msgstr ""
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_17_Sandraven"
 msgid "The Orc Who Read Books"
-msgstr ""
+msgstr "책을 읽는 오크"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_18_Necropolis_Entrance"
 msgid "Necropolis"
@@ -1155,9 +1158,10 @@ msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_27_UrkaReveals"
 msgid "Gaks!"
 msgstr ""
 
+#, fuzzy
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_28_UrkaKilled"
 msgid "They Are Everywhere"
-msgstr ""
+msgstr "놈들이 사방에"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_29_BackToBrok"
 msgid "The Alliance"
@@ -1175,9 +1179,10 @@ msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_32_FacingArrok"
 msgid "Heart of Fire"
 msgstr ""
 
+#, fuzzy
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_33_TribesUnite"
 msgid "All Against Tyranny"
-msgstr ""
+msgstr "폭정에 맞서"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_34_ArrokDefeated"
 msgid "Eruption"
@@ -1193,23 +1198,23 @@ msgstr ""
 
 msgctxt "UserCampaignTitle"
 msgid "User Campaign"
-msgstr ""
+msgstr "유저 캠페인"
 
 msgctxt "UserCampaignDescription"
 msgid "Allows you to start an adventure in a user location"
-msgstr ""
+msgstr "유저 제작 맵에서 모험을 시작할 수 있습니다"
 
 msgctxt "DLC1_Introduction_1"
 msgid ""
 "While the Principality of Masgarth is preparing for war, business is "
 "thriving in the Marches."
-msgstr ""
+msgstr "마스가르스 공국이 전쟁을 준비하는 사이, 여러 사업이 접경지에서 번창하고 있습니다."
 
 msgctxt "DLC1_Introduction_2"
 msgid ""
 "Galar Goldentongue's travels and sales both increase, as more Legacy Council "
 "agents travel to Coparann."
-msgstr ""
+msgstr "갈수록 많은 계승 의회 요원들 코파란을 방문하게 되면서 갈라르 골든텅의 출장과 수익이 덩달아 증가합니다."
 
 msgctxt "DLC1_Introduction_3"
 msgid ""
@@ -1225,7 +1230,7 @@ msgstr "어느 날 산에서 야영하던 중, 한 무리의 부상당한 여행
 
 msgctxt "DLC1_Title"
 msgid "The Lost Valley"
-msgstr ""
+msgstr "잊혀진 계곡"
 
 msgctxt "DLC1_Description"
 msgid ""

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-19 05:52+0000\n"
+"PO-Revision-Date: 2021-08-20 14:50+0000\n"
 "Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/rules/ko/>"
 "\n"
@@ -950,11 +950,11 @@ msgstr ""
 
 msgctxt "ConditionSeverelyWoundedDescription"
 msgid "Will soon die."
-msgstr ""
+msgstr "곧 죽을 것입니다."
 
 msgctxt "ConditionSeverelyWoundedTitle"
 msgid "Severely Wounded"
-msgstr ""
+msgstr "치명상 입음"
 
 msgctxt "ConditionShieldedByFaithDescription"
 msgid "Armor Class +2."
@@ -1040,11 +1040,11 @@ msgstr ""
 
 msgctxt "ConditionStunnedTitle"
 msgid "Stunned"
-msgstr ""
+msgstr "기절"
 
 msgctxt "ConditionSurprisedDescription"
 msgid "Unable to act for one round."
-msgstr ""
+msgstr "한 라운드 동안 행동할 수 없습니다."
 
 msgctxt "ConditionSurprisedTitle"
 msgid "Surprised"
@@ -1060,11 +1060,11 @@ msgstr ""
 
 msgctxt "ConditionTemporaryHitPointsDescription"
 msgid "The creature gains temporary hit points."
-msgstr ""
+msgstr "크리쳐가 임시 체력을 얻었습니다."
 
 msgctxt "ConditionTemporaryHitPointsTitle"
 msgid "Temporary HP"
-msgstr ""
+msgstr "임시 체력"
 
 msgctxt "ConditionTraditionShockArcanistArcaneFuryDescription"
 msgid ""
@@ -1105,11 +1105,11 @@ msgstr ""
 
 msgctxt "ConditionUnconsciousDescription"
 msgid "Unable to act until awoken."
-msgstr ""
+msgstr "깨어날 때까지 행동할 수 없습니다."
 
 msgctxt "ConditionUnconsciousTitle"
 msgid "Unconscious"
-msgstr ""
+msgstr "무의식"
 
 msgctxt "ConditionVampiricTouchDescription"
 msgid "Can perform a vampiric melee spell attack each turn."
@@ -1121,15 +1121,15 @@ msgstr ""
 
 msgctxt "ConditionWoundedDescription"
 msgid "Lost some hit points."
-msgstr ""
+msgstr "체력을 일부 잃습니다."
 
 msgctxt "ConditionWoundedTitle"
 msgid "Wounded"
-msgstr ""
+msgstr "부상"
 
 msgctxt "CostFormat"
 msgid "{0} {1}"
-msgstr ""
+msgstr "{0} {1}"
 
 msgctxt "CounterFormBreakConcentrationFormat"
 msgid "Provokes a concentration check."
@@ -1208,11 +1208,11 @@ msgstr ""
 
 msgctxt "DamageFormFormat"
 msgid "{0}{1}{2}{3} damage {4}"
-msgstr ""
+msgstr "{0}{1}{2}{3} 피해 {4}"
 
 msgctxt "DamageFormTightFormat"
 msgid "{0}{1}{2}{3} dmg {4}"
-msgstr ""
+msgstr "{0}{1}{2}{3} 피해 {4}"
 
 msgctxt "DamageLightningDescription"
 msgid ""
@@ -1291,7 +1291,7 @@ msgstr ""
 
 msgctxt "DamageTitle"
 msgid "Damage: "
-msgstr ""
+msgstr "피해: "
 
 msgctxt "DcFormat"
 msgid "DC {0}"
@@ -1299,39 +1299,39 @@ msgstr ""
 
 msgctxt "DieD10Title"
 msgid "d10"
-msgstr ""
+msgstr "d10"
 
 msgctxt "DieD12Title"
 msgid "d12"
-msgstr ""
+msgstr "d12"
 
 msgctxt "DieD1Title"
 msgid "d1"
-msgstr ""
+msgstr "d1"
 
 msgctxt "DieD20Title"
 msgid "d20"
-msgstr ""
+msgstr "d20"
 
 msgctxt "DieD2Title"
 msgid "d2"
-msgstr ""
+msgstr "d2"
 
 msgctxt "DieD3Title"
 msgid "d3"
-msgstr ""
+msgstr "d3"
 
 msgctxt "DieD4Title"
 msgid "d4"
-msgstr ""
+msgstr "d4"
 
 msgctxt "DieD6Title"
 msgid "d6"
-msgstr ""
+msgstr "d6"
 
 msgctxt "DieD8Title"
 msgid "d8"
-msgstr ""
+msgstr "d8"
 
 msgctxt "DivinationFormFormatIdentifyItem"
 msgid "Reveals all the properties of an item."
@@ -1423,7 +1423,7 @@ msgstr ""
 
 msgctxt "EffectRangeDistanceTitle"
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 msgctxt "EffectRangeMeleeHitTitle"
 msgid "Melee Hit"
@@ -1443,23 +1443,23 @@ msgstr ""
 
 msgctxt "EffectTargetConeTitle"
 msgid "{0} {1}"
-msgstr ""
+msgstr "{0} {1}"
 
 msgctxt "EffectTargetCubeTitle"
 msgid "{0} {1}"
-msgstr ""
+msgstr "{0} {1}"
 
 msgctxt "EffectTargetCylinderTitle"
 msgid "{0} {1} x {2}"
-msgstr ""
+msgstr "{0} {1} x {2}"
 
 msgctxt "EffectTargetIndividualsTitle"
 msgid "{0}{1}"
-msgstr ""
+msgstr "{0}{1}"
 
 msgctxt "EffectTargetIndividualsUniqueTitle"
 msgid "{0}{1}"
-msgstr ""
+msgstr "{0}{1}"
 
 msgctxt "EffectTargetInLineOfSightWithinDistanceTitle"
 msgid "In Sight {0}"
@@ -1471,11 +1471,11 @@ msgstr ""
 
 msgctxt "EffectTargetLineTitle"
 msgid "{0} {1}"
-msgstr ""
+msgstr "{0} {1}"
 
 msgctxt "EffectTargetPerceivingWithinDistanceTitle"
 msgid "{0}{1}"
-msgstr ""
+msgstr "{0}{1}"
 
 msgctxt "EffectTargetPositionTitle"
 msgid "Ground"
@@ -1487,19 +1487,19 @@ msgstr ""
 
 msgctxt "EffectTargetSharedAmongIndividualsTitle"
 msgid "{0} <> {1}"
-msgstr ""
+msgstr "{0} <> {1}"
 
 msgctxt "EffectTargetSphereTitle"
 msgid "{0} {1}"
-msgstr ""
+msgstr "{0} {1}"
 
 msgctxt "EffectTargetWallLineTitle"
 msgid "{0} {1} x {2}"
-msgstr ""
+msgstr "{0} {1} x {2}"
 
 msgctxt "EffectTargetWallRingTitle"
 msgid "{0} {1} x {2}"
-msgstr ""
+msgstr "{0} {1} x {2}"
 
 msgctxt "HealingFormFormat"
 msgid "{0}{1}{2} healing"
@@ -1589,11 +1589,11 @@ msgstr "주문 슬롯"
 
 msgctxt "RecipeRequiredIngredientMultipleFormat"
 msgid "{0} x {1}"
-msgstr ""
+msgstr "{0} x {1}"
 
 msgctxt "RecipeRequiredIngredientSingleFormat"
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 msgctxt "RecipeRequiredSpellFormat"
 msgid "Ability to cast the {0} spell."
@@ -1645,7 +1645,7 @@ msgstr ""
 
 msgctxt "SpellLevel0FormatTitle"
 msgid "Cantrip"
-msgstr ""
+msgstr "캔트립"
 
 msgctxt "SpellLevel1FormatTitle"
 msgid "1st Level"
@@ -1748,11 +1748,11 @@ msgstr ""
 
 msgctxt "WeightFormat"
 msgid "{0} {1}"
-msgstr ""
+msgstr "{0} {1}"
 
 msgctxt "WeightRatioFormat"
 msgid "{0}/{1} {2}"
-msgstr ""
+msgstr "{0}/{1} {2}"
 
 msgctxt "TopologyFormDifficultThroughFormat"
 msgid "This area slows down those who walk through it."
@@ -1772,7 +1772,7 @@ msgstr ""
 
 msgctxt "ConditionBlessingSorrtarrTitle"
 msgid "Blessing of Sorr-Tarr"
-msgstr ""
+msgstr "소르타르의 축복"
 
 msgctxt "ConditionBlessingSorrtarrDescription"
 msgid "Appears to relieve the Soraks of their vulnerability to light."
@@ -1897,7 +1897,7 @@ msgstr ""
 
 msgctxt "ConditionWaterWalkDescription"
 msgid "Temp"
-msgstr ""
+msgstr "Temp"
 
 msgctxt "ConditionWaterBreathingTitle"
 msgid "Water Breathing"
@@ -1905,15 +1905,15 @@ msgstr ""
 
 msgctxt "ConditionWaterBreathingDescription"
 msgid "Temp"
-msgstr ""
+msgstr "Temp"
 
 msgctxt "ConditionRestrictedInsideMagicCircleDescription"
 msgid "Temp"
-msgstr ""
+msgstr "Temp"
 
 msgctxt "ConditionProtectedInsideMagicCircleDescription"
 msgid "Temp"
-msgstr ""
+msgstr "Temp"
 
 msgctxt "ConditionComprehendLanguagesTitle"
 msgid "Comprehending Languages"
@@ -1921,11 +1921,11 @@ msgstr ""
 
 msgctxt "ConditionComprehendLanguagesDescription"
 msgid "Can read and speak any language."
-msgstr ""
+msgstr "모든 언어를 읽고 말할 수 있게 됩니다."
 
 msgctxt "ConditionStaffOfMetisTitle"
 msgid "Elemental Resistance"
-msgstr ""
+msgstr "원소 저항"
 
 msgctxt "ConditionStaffOfMetisDescription"
 msgid "Resistance to Cold, Fire, and Lightning damage."

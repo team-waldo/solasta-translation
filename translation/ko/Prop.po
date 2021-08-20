@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-19 05:52+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2021-08-20 14:50+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/prop/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -15,11 +15,11 @@ msgstr ""
 
 msgctxt "CandelabraTitle"
 msgid "Candelabra"
-msgstr ""
+msgstr "촛대"
 
 msgctxt "CandelabraDescription"
 msgid "A decorative candelabra"
-msgstr ""
+msgstr "장식용 촛대"
 
 msgctxt "ColumnATitle"
 msgid "Column A"
@@ -67,7 +67,7 @@ msgstr "잔해"
 
 msgctxt "DebrisADescription"
 msgid "A heap of stone preventing movement"
-msgstr ""
+msgstr "움직임을 막는 돌무더기"
 
 msgctxt "GuardrailsBrokenATitle"
 msgid "Broken Guardrail A"
@@ -91,7 +91,7 @@ msgstr ""
 
 msgctxt "GuardrailsLinkDescription"
 msgid "A low wall pillar"
-msgstr ""
+msgstr "낮은 벽 기둥"
 
 msgctxt "GuardrailsStraightATitle"
 msgid "Straight Guardrail A"
@@ -111,11 +111,11 @@ msgstr ""
 
 msgctxt "MausoleumTitle"
 msgid "Mausoleum"
-msgstr ""
+msgstr "영묘"
 
 msgctxt "MausoleumDescription"
 msgid "An inaccessible funerary monument"
-msgstr ""
+msgstr "출입 불가능한 묘지 구조물"
 
 msgctxt "StatueTitle"
 msgid "Statue"
@@ -139,7 +139,7 @@ msgstr "석관 B"
 
 msgctxt "TombBDescription"
 msgid "A decorative tomb blocking movement"
-msgstr ""
+msgstr "이동을 막는 장식용 무덤"
 
 msgctxt "TombCTitle"
 msgid "Tomb C"
@@ -147,27 +147,29 @@ msgstr "석관 C"
 
 msgctxt "VaseTitle"
 msgid "Vase"
-msgstr ""
+msgstr "꽃병"
 
 msgctxt "VaseDescription"
 msgid "A decorative funeral vase"
-msgstr ""
+msgstr "장식용 장례 꽃병"
 
+#, fuzzy
 msgctxt "WallBlockerATitle"
 msgid "Wall Blocker"
-msgstr ""
+msgstr "길막용 벽"
 
 msgctxt "WallBlockerADescription"
 msgid "A wide wall to block a passage"
-msgstr ""
+msgstr "통로를 막는 넓은 벽"
 
+#, fuzzy
 msgctxt "WallBlockerBTitle"
 msgid "Wall Blocker"
-msgstr ""
+msgstr "길막용 벽"
 
 msgctxt "WallBlockerBDescription"
 msgid "A wide wall to block a passage"
-msgstr ""
+msgstr "통로를 막는 넓은 벽"
 
 msgctxt "WallChainTitle"
 msgid "Chain"
@@ -286,17 +288,17 @@ msgctxt "FakeDoorDescription"
 msgid ""
 "A fake door used to represent a dungeon exit/entrance. For use in "
 "combination with an exit/entrance gadget"
-msgstr ""
+msgstr "던전 출구/입구를 나타내는 데 사용되는 가짜 문. 출구/입구 배치와 함께 사용"
 
 msgctxt "FakeStairsTitle"
 msgid "Fake Stairs"
-msgstr ""
+msgstr "가짜 계단"
 
 msgctxt "FakeStairsDescription"
 msgid ""
 "Fake stairs used to represent a dungeon exit/entrance. For use in "
 "combination with an exit/entrance gadget"
-msgstr ""
+msgstr "던전 출구/입구를 나타내는 데 사용되는 가짜 계단. 출구/입구 배치와 함께 사용"
 
 msgctxt "FireplaceTitle"
 msgid "Fireplace"
@@ -354,9 +356,10 @@ msgctxt "TelescopeTitle"
 msgid "Telescope"
 msgstr "망원경"
 
+#, fuzzy
 msgctxt "TreasurePedestalTitle"
 msgid "Treasure Pedestal"
-msgstr ""
+msgstr "보물 받침대"
 
 msgctxt "WindowTitle"
 msgid "Window"
@@ -364,7 +367,7 @@ msgstr "창문"
 
 msgctxt "WorkTableTitle"
 msgid "Work Table"
-msgstr ""
+msgstr "작업대"
 
 msgctxt "WallSimpleTitle"
 msgid "Free Wall"
@@ -372,7 +375,7 @@ msgstr ""
 
 msgctxt "WallThinTitle"
 msgid "Thin Wall"
-msgstr ""
+msgstr "얇은 벽"
 
 msgctxt "ReadingDeskTitle"
 msgid "Reading Desk"
@@ -416,7 +419,7 @@ msgstr "고치"
 
 msgctxt "HutTitle"
 msgid "Hut"
-msgstr ""
+msgstr "오두막"
 
 msgctxt "LavaBasinTitle"
 msgid "Lava Basin"
@@ -456,7 +459,7 @@ msgstr "돌"
 
 msgctxt "StrawTitle"
 msgid "Straw"
-msgstr ""
+msgstr "짚"
 
 msgctxt "StructureTitle"
 msgid "Structure"
@@ -464,7 +467,7 @@ msgstr ""
 
 msgctxt "TotemTitle"
 msgid "Totem"
-msgstr ""
+msgstr "토템"
 
 msgctxt "WoodenPlatformTitle"
 msgid "Wooden Platform"
@@ -472,15 +475,16 @@ msgstr ""
 
 msgctxt "FakeStairsUpTitle"
 msgid "Fake Stairs (up)"
-msgstr ""
+msgstr "가짜 계단 (위쪽)"
 
 msgctxt "FakeStairsDownTitle"
 msgid "Fake Stairs (down)"
-msgstr ""
+msgstr "가짜 계단 (아래쪽)"
 
+#, fuzzy
 msgctxt "MonumentTitle"
 msgid "Monument"
-msgstr ""
+msgstr "기념물"
 
 msgctxt "ThicketTitle"
 msgid "Thicket"
@@ -496,11 +500,11 @@ msgstr "관목"
 
 msgctxt "DoubleThinDoorTitle"
 msgid "Double thin door"
-msgstr ""
+msgstr "얇은 양쪽 문"
 
 msgctxt "DoubleThinDoorDescription"
 msgid "A double thin door to open"
-msgstr ""
+msgstr "열 수 있는 얇은 양쪽 문"
 
 msgctxt "TombstoneTitle"
 msgid "Tombstone"
@@ -508,7 +512,7 @@ msgstr "묘비"
 
 msgctxt "TombstonePackTitle"
 msgid "Pack of tombstones"
-msgstr ""
+msgstr "여러 묘비"
 
 msgctxt "FieldTitle"
 msgid "Field"
