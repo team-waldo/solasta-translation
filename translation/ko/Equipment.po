@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-21 07:45+0000\n"
-"Last-Translator: lull_ <lull_@naver.com>\n"
+"PO-Revision-Date: 2021-08-21 07:55+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/equipment/"
 "ko/>\n"
 "Language: ko\n"
@@ -2784,7 +2784,7 @@ msgstr ""
 
 msgctxt "PotionHealingRemedyDescription"
 msgid "Contains a shimmering liquid. Heals some of your lost HP when drunk."
-msgstr ""
+msgstr "반짝이는 액체가 들어있습니다. 마시면 잃은 HP를 일부 회복합니다."
 
 msgctxt "PotionHealingRemedyTitle"
 msgid "Healing Remedy"
@@ -2808,7 +2808,7 @@ msgstr ""
 
 msgctxt "PotionOfGreaterHealingDescription"
 msgid "Contains a shimmering liquid. Heals some of your lost HP when drunk."
-msgstr ""
+msgstr "반짝이는 액체가 들어있습니다. 마시면 잃은 HP를 일부 회복합니다."
 
 msgctxt "PotionOfGreaterHealingTitle"
 msgid "Potion of Greater Healing"
@@ -2816,11 +2816,11 @@ msgstr "상급 치유 물약"
 
 msgctxt "PotionOfHealingDescription"
 msgid "Contains a shimmering liquid. Heals some of your lost HP when drunk."
-msgstr ""
+msgstr "반짝이는 액체가 들어있습니다. 마시면 잃은 HP를 일부 회복합니다."
 
 msgctxt "PotionOfHealingTitle"
 msgid "Potion of Healing"
-msgstr ""
+msgstr "치유 물약"
 
 msgctxt "PotionOfHeroismDescription"
 msgid ""
@@ -2852,15 +2852,15 @@ msgstr ""
 
 msgctxt "PotionOfSuperiorHealingDescription"
 msgid "Contains a shimmering liquid. Heals some of your lost HP when drunk."
-msgstr ""
+msgstr "반짝이는 액체가 들어있습니다. 마시면 잃은 HP를 일부 회복합니다."
 
 msgctxt "PotionOfSuperiorHealingTitle"
 msgid "Potion of Superior Healing"
-msgstr ""
+msgstr "최상급 치유 물약"
 
 msgctxt "PotionofwaterbreatingDescription"
 msgid "Contains a shimmering liquid. Heals some of your lost HP when drunk."
-msgstr ""
+msgstr "반짝이는 액체가 들어있습니다. 마시면 잃은 HP를 일부 회복합니다."
 
 msgctxt "PotionofwaterbreatingTitle"
 msgid "Healing Remedy"
@@ -2880,11 +2880,11 @@ msgstr ""
 
 msgctxt "QuarterstaffTypeTitle"
 msgid "Quarterstaff"
-msgstr ""
+msgstr "쿼터스태프"
 
 msgctxt "RapierTypeTitle"
 msgid "Rapier"
-msgstr ""
+msgstr "레이피어"
 
 msgctxt "ReachTitle"
 msgid "Reach"
@@ -2896,7 +2896,7 @@ msgstr ""
 
 msgctxt "RingDetectInvisibleTitle"
 msgid "Ring of Detect Invisible"
-msgstr ""
+msgstr "투명 감지의 반지"
 
 msgctxt "RingOfProtection_plus_one_Description"
 msgid "A beautifully crafted silver ring bearing a shield design."
@@ -2960,7 +2960,7 @@ msgstr ""
 
 msgctxt "ScrollBlessTitle"
 msgid "Scroll of Bless"
-msgstr ""
+msgstr "축복의 두루마리"
 
 msgctxt "ScrollBurningHandsDescription"
 msgid "When you use this scroll, you cast the burning hands spell."
