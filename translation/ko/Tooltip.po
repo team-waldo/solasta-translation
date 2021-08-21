@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-19 05:52+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
+"PO-Revision-Date: 2021-08-21 07:45+0000\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/tooltip/ko/"
 ">\n"
 "Language: ko\n"
@@ -165,7 +165,7 @@ msgstr ""
 
 msgctxt "DeviceUsageTitle"
 msgid "Usage"
-msgstr ""
+msgstr "용도"
 
 msgctxt "DurationTitle"
 msgid "Duration"
@@ -279,7 +279,7 @@ msgstr ""
 
 msgctxt "PropertiesTitle"
 msgid "Properties"
-msgstr ""
+msgstr "속성"
 
 msgctxt "ProximityLongRangeTitle"
 msgid "Long Range Attack"
@@ -359,11 +359,11 @@ msgstr ""
 
 msgctxt "SpellSubtitleFormat"
 msgid "Level {0} {1}"
-msgstr ""
+msgstr "레벨 {0} {1}"
 
 msgctxt "SpellTargetTitle"
 msgid "Target"
-msgstr ""
+msgstr "대상"
 
 msgctxt "StackSizeTitle"
 msgid "Stack Size"
@@ -459,7 +459,7 @@ msgstr ""
 
 msgctxt "TagDamagePiercingTitle"
 msgid "Piercing Damage"
-msgstr ""
+msgstr "관통 피해"
 
 msgctxt "TagDamagePoisonTitle"
 msgid "Poison Damage"
@@ -467,7 +467,7 @@ msgstr "독 피해"
 
 msgctxt "TagDamagePsychicTitle"
 msgid "Psychic Damage"
-msgstr ""
+msgstr "정신 피해"
 
 msgctxt "TagDamageRadiantTitle"
 msgid "Radiant Damage"
@@ -519,7 +519,7 @@ msgstr ""
 
 msgctxt "TagFlamableTitle"
 msgid "Flammable"
-msgstr ""
+msgstr "가연성"
 
 msgctxt "TagFlamingTitle"
 msgid "Flaming"
@@ -583,7 +583,7 @@ msgstr ""
 
 msgctxt "TagMetalTitle"
 msgid "Metal"
-msgstr ""
+msgstr "금속"
 
 msgctxt "TagMotionTitle"
 msgid "Forced Move"
@@ -591,11 +591,11 @@ msgstr ""
 
 msgctxt "TagPaperTitle"
 msgid "Paper"
-msgstr ""
+msgstr "종이"
 
 msgctxt "TagPotionTitle"
 msgid "Potion"
-msgstr ""
+msgstr "물약"
 
 msgctxt "TagPowerTitle"
 msgid "Power"
@@ -635,7 +635,7 @@ msgstr ""
 
 msgctxt "TagRitualTitle"
 msgid "Ritual"
-msgstr ""
+msgstr "의식"
 
 msgctxt "TagScrollTitle"
 msgid "Scroll"
@@ -651,15 +651,15 @@ msgstr ""
 
 msgctxt "TagSilverTitle"
 msgid "Silver"
-msgstr ""
+msgstr "은"
 
 msgctxt "TagSpellFocusTitle"
 msgid "Spell Focus"
-msgstr ""
+msgstr "주문 집중"
 
 msgctxt "TagSpellSlotsTitle"
 msgid "Spell Slots"
-msgstr ""
+msgstr "주문 슬롯"
 
 msgctxt "TagSpellTitle"
 msgid "Spell"
@@ -703,7 +703,7 @@ msgstr "횃불"
 
 msgctxt "TagTwoHandedTitle"
 msgid "Two-Handed"
-msgstr ""
+msgstr "양손"
 
 msgctxt "TagUnlockTitle"
 msgid "Unlock"
@@ -723,7 +723,7 @@ msgstr ""
 
 msgctxt "TagWoodTitle"
 msgid "Wood"
-msgstr ""
+msgstr "나무"
 
 msgctxt "TargetTagMetalArmorTitle"
 msgid "Target Wears Metal Armor"

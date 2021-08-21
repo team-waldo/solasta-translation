@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-19 05:52+0000\n"
-"Last-Translator: Lee Sang Hwan <pryan2001@gmail.com>\n"
+"PO-Revision-Date: 2021-08-21 07:45+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/caption/ko/"
 ">\n"
 "Language: ko\n"
@@ -257,19 +257,17 @@ msgstr ""
 "받침대를 배치할 올바른 위치를 선택하세요.\n"
 "\"쉬프트 키\"를 누르고 있으면 여러 받침대가 배치됩니다."
 
-#, fuzzy
 msgctxt "EditorExistingPropPlacementCaption"
 msgid "Select a new position for this prop"
-msgstr "받침대를 배치할 새로운 위치를 선택하세요."
+msgstr "이 물체를 배치할 새로운 위치를 선택하세요."
 
-#, fuzzy
 msgctxt "EditorNewGadgetPlacementCaption"
 msgid ""
 "Select a valid position to place this new gadget\n"
 "Hold \"Shift\" to place multiple gadgets of this type"
 msgstr ""
-"도구를 배치할 올바른 위치를 선택하세요.\n"
-"\"쉬프트 키\"를 누르고 있으면 여러 도구가 배치됩니다."
+"물체를 배치할 위치를 선택하세요.\n"
+"\"쉬프트 키\"를 누르고 있으면 여러 개를 배치합니다."
 
 #, fuzzy
 msgctxt "EditorExistingGadgetPlacementCaption"
@@ -278,11 +276,11 @@ msgstr "도구를 배치할 새로운 위치를 선택하세요."
 
 msgctxt "EditorSelectedRoomCaption"
 msgid "Selected Room: {0}"
-msgstr ""
+msgstr "선택한 방: {0}"
 
 msgctxt "EditorSelectedPropCaption"
 msgid "Selected Prop: {0}"
-msgstr ""
+msgstr "선택한 물체: {0}"
 
 msgctxt "EditorSelectedGadgetCaption"
 msgid "Selected Gadget: {0}"

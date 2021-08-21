@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-20 14:50+0000\n"
-"Last-Translator: rev_레브 <elder.dk@gmail.com>\n"
+"PO-Revision-Date: 2021-08-21 07:45+0000\n"
+"Last-Translator: lull_ <lull_@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/equipment/"
 "ko/>\n"
 "Language: ko\n"
@@ -391,7 +391,7 @@ msgstr ""
 
 msgctxt "ArtisanToolSmithToolsTypeTitle"
 msgid "Smith's tools"
-msgstr ""
+msgstr "대장장이의 도구"
 
 msgctxt "ArtItems_25_GP_Comb"
 msgid "Silver Comb"
@@ -979,11 +979,11 @@ msgstr ""
 
 msgctxt "CurrencyCopperDescription"
 msgid "Copper pieces, each worth one hundredth of a gold piece."
-msgstr ""
+msgstr "구리 조각. 금 조각의 100분의 1의 가치를 지님."
 
 msgctxt "CurrencyCopperTitle"
 msgid "cp"
-msgstr ""
+msgstr "동"
 
 msgctxt "CurrencyElectrumDescription"
 msgid "Electrum pieces, each worth half a gold piece."
@@ -995,27 +995,27 @@ msgstr ""
 
 msgctxt "CurrencyGoldDescription"
 msgid "Gold pieces."
-msgstr ""
+msgstr "금 조각."
 
 msgctxt "CurrencyGoldTitle"
 msgid "gp"
-msgstr ""
+msgstr "금"
 
 msgctxt "CurrencyPlatinumDescription"
 msgid "Platinum pieces, each worth ten gold pieces."
-msgstr ""
+msgstr "백금 조각, 금 조각 10개의 가치를 지님."
 
 msgctxt "CurrencyPlatinumTitle"
 msgid "pp"
-msgstr ""
+msgstr "백금"
 
 msgctxt "CurrencySilverDescription"
 msgid "Silver pieces, each worth one tenth of a gold piece."
-msgstr ""
+msgstr "은 조각. 금 조각의 10분의 1의 가치를 지님."
 
 msgctxt "CurrencySilverTitle"
 msgid "sp"
-msgstr ""
+msgstr "은"
 
 msgctxt "Dagger_plus_1_Description"
 msgid ""
@@ -1025,7 +1025,7 @@ msgstr ""
 
 msgctxt "Dagger_plus_1_Title"
 msgid "Dagger +1"
-msgstr ""
+msgstr "단검 +1"
 
 msgctxt "Dagger_plus_1_Unidentified_Description"
 msgid "This rune-engraved dagger is clearly of superior workmanship."
@@ -1037,11 +1037,11 @@ msgstr ""
 
 msgctxt "DaggerPlus1TypeTitle"
 msgid "Dagger+1"
-msgstr ""
+msgstr "단검+1"
 
 msgctxt "DaggerTypeTitle"
 msgid "Dagger"
-msgstr ""
+msgstr "단검"
 
 msgctxt "DamageModifier"
 msgid "Damage Bonus"
@@ -1624,7 +1624,7 @@ msgstr ""
 
 msgctxt "FunctionPotionDrinkTitle"
 msgid "Drink Potion"
-msgstr ""
+msgstr "물약 마시기"
 
 msgctxt "FunctionPotionHealOtherTitle"
 msgid "Heal Other"
@@ -2420,7 +2420,7 @@ msgstr ""
 
 msgctxt "ItemTypePotionTitle"
 msgid "Potion"
-msgstr ""
+msgstr "물약"
 
 msgctxt "ItemTypeRingTitle"
 msgid "Ring"
@@ -2752,7 +2752,7 @@ msgstr ""
 
 msgctxt "PotionGiantStrengthCloudDescription"
 msgid "When you drink this potion, your STR becomes 27 for 1 hour."
-msgstr ""
+msgstr "이 물약을 마시면, 1시간 동안 근력이 27이 됩니다."
 
 msgctxt "PotionGiantStrengthCloudTitle"
 msgid "Potion of Giant Strength (Cloud)"
@@ -2760,7 +2760,7 @@ msgstr ""
 
 msgctxt "PotionGiantStrengthFireDescription"
 msgid "When you drink this potion, your STR becomes 25 for 1 hour."
-msgstr ""
+msgstr "이 물약을 마시면, 1시간 동안 근력이 25가 됩니다."
 
 msgctxt "PotionGiantStrengthFireTitle"
 msgid "Potion of Giant Strength (Fire)"
@@ -2768,7 +2768,7 @@ msgstr ""
 
 msgctxt "PotionGiantStrengthFrostDescription"
 msgid "When you drink this potion, your STR becomes 23 for 1 hour."
-msgstr ""
+msgstr "이 물약을 마시면, 1시간 동안 근력이 23이 됩니다."
 
 msgctxt "PotionGiantStrengthFrostTitle"
 msgid "Potion of Giant Strength (Frost)"
@@ -2776,7 +2776,7 @@ msgstr ""
 
 msgctxt "PotionGiantStrengthHillDescription"
 msgid "When you drink this potion, your STR becomes 21 for 1 hour."
-msgstr ""
+msgstr "이 물약을 마시면, 1시간 동안 근력이 21이 됩니다."
 
 msgctxt "PotionGiantStrengthHillTitle"
 msgid "Potion of Giant Strength (Hill)"
@@ -2792,7 +2792,7 @@ msgstr ""
 
 msgctxt "PotionOfClimbingDescription"
 msgid "When you drink this potion, you can climb like a spider for 1 hour."
-msgstr ""
+msgstr "이 물약을 마시면, 1시간 거미처럼 벽을 타고 오를 수 있습니다."
 
 msgctxt "PotionOfClimbingTitle"
 msgid "Potion of Climbing"
@@ -2800,7 +2800,7 @@ msgstr ""
 
 msgctxt "PotionOfFlyingDescription"
 msgid "When you drink this potion, you can fly for 1 hour."
-msgstr ""
+msgstr "이 물약을 마시면, 1시간 동안 비행할 수 있습니다."
 
 msgctxt "PotionOfFlyingTitle"
 msgid "Potion of Flying"
@@ -2812,7 +2812,7 @@ msgstr ""
 
 msgctxt "PotionOfGreaterHealingTitle"
 msgid "Potion of Greater Healing"
-msgstr ""
+msgstr "상급 치유 물약"
 
 msgctxt "PotionOfHealingDescription"
 msgid "Contains a shimmering liquid. Heals some of your lost HP when drunk."
@@ -8812,7 +8812,7 @@ msgstr ""
 
 msgctxt "Shield_Wooden_Title"
 msgid "Wooden Shield"
-msgstr ""
+msgstr "나무 방패"
 
 msgctxt "Shield_Wooden_Description"
 msgid "A simple shield without any metallic parts."

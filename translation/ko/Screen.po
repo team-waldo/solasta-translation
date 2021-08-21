@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-20 14:50+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
+"PO-Revision-Date: 2021-08-21 07:45+0000\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/screen/ko/>"
 "\n"
 "Language: ko\n"
@@ -722,7 +722,7 @@ msgstr ""
 
 msgctxt "ExplorationActionsTitle"
 msgid "Character Actions"
-msgstr ""
+msgstr "캐릭터 행동"
 
 msgctxt "FailedQuestsListTitle"
 msgid "Failed Quests"
@@ -788,11 +788,11 @@ msgstr ""
 
 msgctxt "InBattleDescription"
 msgid "Your party is currently engaged in a turn-based battle."
-msgstr ""
+msgstr "파티가 현재 턴제 전투에 참여하고 있습니다."
 
 msgctxt "InBattleTitle"
 msgid "In Battle"
-msgstr ""
+msgstr "전투 중"
 
 msgctxt "InspectDescription"
 msgid ""
@@ -1556,7 +1556,7 @@ msgstr "오픈 게임 라이센스 버전 1.0a"
 
 msgctxt "OpentRestButtonDescription"
 msgid "Take a short rest."
-msgstr "짧은 휴식을 취하십시오."
+msgstr "짧은 휴식 취하기."
 
 msgctxt "ParticipantNameFormat"
 msgid "Player: {0}"
@@ -2173,7 +2173,7 @@ msgstr ""
 
 msgctxt "SelectionNoneTitle"
 msgid "All"
-msgstr ""
+msgstr "전체"
 
 msgctxt "SessionInviteDescription"
 msgid "Invite a member of your friends list to join this game."
@@ -2314,11 +2314,11 @@ msgstr ""
 
 msgctxt "SpellsGroupCantripsTitle"
 msgid "At Will"
-msgstr ""
+msgstr "무제한"
 
 msgctxt "SpellsGroupSlotsTitle"
 msgid "Slots"
-msgstr ""
+msgstr "슬롯"
 
 msgctxt "SpellSlotInfiniteDescription"
 msgid "This type of spell can be used indefinitely."
@@ -2414,7 +2414,7 @@ msgstr ""
 
 msgctxt "SubRaceSelectionTitle"
 msgid "Select a Lineage"
-msgstr ""
+msgstr "하위 종족 선택"
 
 msgctxt "SubRacialFeaturesTitle"
 msgid "Lineage Features"
@@ -2607,7 +2607,7 @@ msgstr ""
 
 msgctxt "ReorderContainerButtonDescription"
 msgid "Reorder inventory content"
-msgstr ""
+msgstr "인벤토리의 아이템들을 정렬합니다"
 
 msgctxt "FastTravelInterruptedDescription"
 msgid "Travel interrupted"
@@ -2714,7 +2714,7 @@ msgstr ""
 
 msgctxt "ReorderContainerButtonTitle"
 msgid "Reorder"
-msgstr ""
+msgstr "정렬"
 
 msgctxt "PartyTeleportationDescription"
 msgid "Select a destination to instantaneously teleport your party."
@@ -2734,7 +2734,7 @@ msgstr ""
 
 msgctxt "EnemyTurnTitle"
 msgid "Enemy Turn"
-msgstr ""
+msgstr "적의 턴"
 
 msgctxt "BreakFreeModeChoiceTitle"
 msgid "Select How to Break Free:"

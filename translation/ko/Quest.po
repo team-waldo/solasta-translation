@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-20 14:50+0000\n"
+"PO-Revision-Date: 2021-08-21 07:45+0000\n"
 "Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/quest/ko/>"
 "\n"
@@ -999,7 +999,7 @@ msgstr ""
 
 msgctxt "Caer_Lem_Quest_04a_TalkToLisbath_Outcome1Description"
 msgid "You have spoken with Lisbath."
-msgstr ""
+msgstr "리즈베스와 대화를 나누었습니다."
 
 msgctxt "Caer_Lem_Quest_04a_TalkToLisbathDescription"
 msgid "Talk to Lisbath and get her view of the situation."
@@ -1007,11 +1007,11 @@ msgstr ""
 
 msgctxt "Caer_Lem_Quest_04a_TalkToLisbathTitle"
 msgid "Talk to Lisbath"
-msgstr ""
+msgstr "리즈베스와 대화"
 
 msgctxt "Caer_Lem_Quest_04b_TalkToRobar_Outcome1Description"
 msgid "You have spoken with Robar."
-msgstr ""
+msgstr "로바와 대화를 나누었습니다."
 
 msgctxt "Caer_Lem_Quest_04b_TalkToRobarDescription"
 msgid "Talk to Robar and get his view of the situation."
@@ -1019,7 +1019,7 @@ msgstr ""
 
 msgctxt "Caer_Lem_Quest_04b_TalkToRobarTitle"
 msgid "Talk to Robar"
-msgstr ""
+msgstr "로바와 대화"
 
 msgctxt "Caer_Lem_Quest_04c_TalkToDaliat_Outcome1Description"
 msgid "You have spoken with Daliat."
@@ -1031,7 +1031,7 @@ msgstr ""
 
 msgctxt "Caer_Lem_Quest_04c_TalkToDaliatTitle"
 msgid "Talk to Daliat"
-msgstr ""
+msgstr "달리앗과 대화"
 
 msgctxt "Caer_Lem_Quest_05_ChooseStrategyDescription"
 msgid ""
@@ -2672,7 +2672,7 @@ msgstr ""
 
 msgctxt "Tutorial_01_Quest_Escape the callTitle"
 msgid "Find a Way Out"
-msgstr ""
+msgstr "탈출할 방법 찾기"
 
 msgctxt "Tutorial_01_Quest_Open the door_Outcome1Description"
 msgid "You have escaped!"
@@ -2702,7 +2702,7 @@ msgstr ""
 
 msgctxt "Tutorial_01_Quest_Push the columnTitle"
 msgid "Get Rid of the Bandits!"
-msgstr ""
+msgstr "도적 떼를 물리치십시오!"
 
 msgctxt "Tutorial_01_Quest_QuestLog_Description"
 msgid ""
@@ -2728,7 +2728,7 @@ msgstr ""
 
 msgctxt "Tutorial_01_Quest_Take Your Stuff_Outcome1Description"
 msgid "You have recovered all your belongings."
-msgstr ""
+msgstr "모든 소지품을 되찾았습니다."
 
 msgctxt "Tutorial_01_Quest_Take Your StuffDescription"
 msgid ""
@@ -2737,7 +2737,7 @@ msgstr ""
 
 msgctxt "Tutorial_01_Quest_Take Your StuffTitle"
 msgid "Recover Your Equipment from the Chest"
-msgstr ""
+msgstr "상자에서 장비 회수"
 
 msgctxt "Tutorial_01_Title"
 msgid "Escape the Bandits' Prison"
@@ -2749,7 +2749,7 @@ msgstr "체력을 회복하세요"
 
 msgctxt "Tutorial_02_Quest_Cautious_Outcome1Description"
 msgid "You found the mechanism that opens the door!"
-msgstr ""
+msgstr "문을 여는 장치를 찾았습니다!"
 
 msgctxt "Tutorial_02_Quest_CautiousDescription"
 msgid ""
@@ -2759,11 +2759,11 @@ msgstr ""
 
 msgctxt "Tutorial_02_Quest_CautiousTitle"
 msgid "Sneak Past the Orcs and Activate the Mechanism"
-msgstr ""
+msgstr "오크 무리를 몰래 지나쳐 장치 활성화하기"
 
 msgctxt "Tutorial_02_Quest_FindExit_Outcome_Description"
 msgid "You have found the orc camp!"
-msgstr ""
+msgstr "오크 야영지를 찾았습니다!"
 
 msgctxt "Tutorial_02_Quest_FindExitDescription"
 msgid ""
@@ -3023,7 +3023,7 @@ msgstr ""
 
 msgctxt "Tutorial_04_Quest_EscapeJackalsTitle"
 msgid "Escape the Wolves"
-msgstr ""
+msgstr "늑대 떼에게서 탈출"
 
 msgctxt "Tutorial_04_Quest_Fleeing_Outcome1Description"
 msgid "These wolves have driven you into an ambush!"
@@ -3031,7 +3031,7 @@ msgstr ""
 
 msgctxt "Tutorial_04_Quest_FleeingDescription"
 msgid "Run to the other side of the bridge!"
-msgstr ""
+msgstr "다리 건너편으로 달리십시오!"
 
 msgctxt "Tutorial_04_Quest_FleeingTitle"
 msgid "Flee from the Wolves"
@@ -3072,7 +3072,7 @@ msgstr ""
 
 msgctxt "Tutorial_04_Quest_KillJackalsTitle"
 msgid "Get Rid of the Wolves"
-msgstr ""
+msgstr "늑대 무리 처치"
 
 msgctxt "Tutorial_04_Secondary_Quest_GetKey_Outcome1Description"
 msgid "You have the quartermaster's key and can now reach the treasure room."
@@ -3086,7 +3086,7 @@ msgstr ""
 
 msgctxt "Tutorial_04_Title"
 msgid "Cross the Bridge"
-msgstr ""
+msgstr "다리를 건너"
 
 msgctxt "Caer_Lem_Quest_06_2_FightTitle"
 msgid "Fight!"
