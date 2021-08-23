@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-19 05:52+0000\n"
-"Last-Translator: 홍성원 <hsw2201@naver.com>\n"
+"PO-Revision-Date: 2021-08-23 15:16+0000\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/action/ko/>"
 "\n"
 "Language: ko\n"
@@ -557,7 +557,7 @@ msgstr "흡혈의 손길"
 
 msgctxt "ActionTeleportDescription"
 msgid "Teleport"
-msgstr "텔레포트"
+msgstr "순간이동"
 
 msgctxt "UnhideTitle"
 msgid "Unhide"
@@ -626,22 +626,19 @@ msgstr ""
 "1분 동안 근력 세이브 & 체크, 근접 공격 데미지 보너스를 주고, 베기, 곤봉 및 피어싱 데미지에 대한 저항력을 얻습니다. 매 "
 "라운드마다 공격하거나 피해를 입어야 합니다. 그렇지 않으면 분노가 빠르게 사라집니다"
 
-#, fuzzy
 msgctxt "RageStartTitle"
 msgid "Rage"
-msgstr "분노"
+msgstr "격노"
 
-#, fuzzy
 msgctxt "RageStopDescription"
 msgid ""
 "Immediately stops your raging status, though still couting your used rage "
 "point"
-msgstr "분노 점수는 사용한 것으로 계산하지만, 즉시 분노 상태가 중단됩니다."
+msgstr "즉시 격노 상태를 중단합니다. 격노 점수는 사용한 것으로 판정합니다."
 
-#, fuzzy
 msgctxt "RageStopTitle"
 msgid "Stop Rage"
-msgstr "분노 중단"
+msgstr "격노 중단"
 
 msgctxt "RecklessAttackDescription"
 msgid ""

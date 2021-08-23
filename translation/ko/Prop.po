@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-20 14:50+0000\n"
+"PO-Revision-Date: 2021-08-23 15:16+0000\n"
 "Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/prop/ko/>\n"
 "Language: ko\n"
@@ -210,7 +210,7 @@ msgstr "제단"
 
 msgctxt "AltarDescription"
 msgid "A votive structure used to pray to a deity"
-msgstr ""
+msgstr "신에게 기도와 의식을 올릴 때 사용되는 제단"
 
 msgctxt "AlchemyTableTitle"
 msgid "Alchemy Table"
@@ -302,7 +302,7 @@ msgstr "던전 출구/입구를 나타내는 데 사용되는 가짜 계단. 출
 
 msgctxt "FireplaceTitle"
 msgid "Fireplace"
-msgstr ""
+msgstr "난로"
 
 msgctxt "GlobeTitle"
 msgid "Globe"

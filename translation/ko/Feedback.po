@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-21 07:45+0000\n"
+"PO-Revision-Date: 2021-08-23 15:16+0000\n"
 "Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/feedback/"
 "ko/>\n"
@@ -227,7 +227,7 @@ msgstr ""
 
 msgctxt "AttackOfOpportunityFormat"
 msgid "Opportunity Attack"
-msgstr ""
+msgstr "기회 공격"
 
 msgctxt "AttackOfOpportunityLine"
 msgid "{0} performs an opportunity attack against {1}"
@@ -259,11 +259,11 @@ msgstr ""
 
 msgctxt "CheckFailureCaption"
 msgid "Failure"
-msgstr ""
+msgstr "실패"
 
 msgctxt "CheckSuccessCaption"
 msgid "Success"
-msgstr ""
+msgstr "성공"
 
 msgctxt "ConcentrationCheckRolledAnyAdvantageLine"
 msgid "{0} rolls to maintain concentration {1} versus DC {2}, rolls {3} = {4}"
@@ -291,7 +291,7 @@ msgstr ""
 
 msgctxt "ConditionAddedLine"
 msgid "{0} is now {1}"
-msgstr ""
+msgstr "{0}이(가) {1}했습니다."
 
 msgctxt "ConditionRemovedHasLine"
 msgid "{0} no longer has {1}"
@@ -427,7 +427,7 @@ msgstr "{0} 성공"
 
 msgctxt "DetectedDefeatFormat"
 msgid "You have been detected! Use cautious mode next time."
-msgstr ""
+msgstr "발각되었습니다! 다음엔 주의 모드를 사용하십시오."
 
 msgctxt "DeviceAutoIdentifiedLine"
 msgid ""
@@ -479,9 +479,10 @@ msgctxt "HiddenObjectRevealedFormat"
 msgid "Object Revealed"
 msgstr ""
 
+#, fuzzy
 msgctxt "HiddenObjectRevealedLine"
 msgid "{0} has revealed a hidden object"
-msgstr ""
+msgstr "{0}이(가) 숨겨진 물체를 찾아냈습니다."
 
 msgctxt "ImmuneToConditionFormat"
 msgid "Immune"
@@ -515,9 +516,10 @@ msgctxt "InitiativeConsoleLine"
 msgid "{0} rolls initiative: {1} = {2}"
 msgstr "{0} 우선권 굴림: {1} = {2}"
 
+#, fuzzy
 msgctxt "InitiativeConsoleLineAdvantage"
 msgid "{0} rolls initiative{1}: {2} = {3}"
-msgstr ""
+msgstr "{0} 우선권 굴림{1}: {2} = {3}"
 
 msgctxt "InitiativeFormat"
 msgid "Initiative {0}"
@@ -564,9 +566,10 @@ msgctxt "ItemConsumedLine"
 msgid "{0} has fully consumed an item: {1}"
 msgstr ""
 
+#, fuzzy
 msgctxt "ItemGainedLine"
 msgid "{0} gains an item: {1}"
-msgstr ""
+msgstr "{0}이(가) {1} 아이템을 얻었습니다."
 
 msgctxt "ItemSpellCastLine"
 msgid "and casts the {0} spell"
@@ -643,7 +646,7 @@ msgstr ""
 
 msgctxt "ReceivedHealingFullLine"
 msgid "{0} is already at full health"
-msgstr ""
+msgstr "{0}은(는) 이미 최대 체력입니다"
 
 msgctxt "ReceivedHealingFromInflictedDamageFullLine"
 msgid "{0} regains life from the inflicted damage"
@@ -659,7 +662,7 @@ msgstr "{0}: {1} 체력 회복"
 
 msgctxt "ReceivedTemporaryHitPointsFailureLine"
 msgid "{0} cannot receive any temporary hit points"
-msgstr ""
+msgstr "{0}은(는) 임시 체력을 얻을 수 없습니다"
 
 msgctxt "ReceivedTemporaryHitPointsSuccessLine"
 msgid "{0} now has {1} temporary hit point(s)"

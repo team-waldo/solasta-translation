@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-21 07:45+0000\n"
-"Last-Translator: Lee Sang Hwan <pryan2001@gmail.com>\n"
+"PO-Revision-Date: 2021-08-23 15:16+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/default/ko/"
 ">\n"
 "Language: ko\n"
@@ -143,7 +143,6 @@ msgctxt "EinarTitle"
 msgid "Einar"
 msgstr "에이나르"
 
-#, fuzzy
 msgctxt "MaraikeDescription"
 msgid ""
 "The goddess of life and death, the patron of healers and embalmers, and the "
@@ -155,11 +154,11 @@ msgid ""
 "tries to pervert the cycle of life and death, the Order ensures that the "
 "culprits are dealt with, and their undead victims returned to their rest. "
 msgstr ""
-"생사의 여신이자 치료사와 시체 방부술사의 수호신, 그리고 세계 이원성의 화신입니다. 전통적으로 그녀는 아룬의 아내입니다. 그녀의 교회는 "
-"두 가지 교단으로 구성되어 있습니다:\n"
+"생사의 여신이자 치료사와 시체 방부사의 수호신, 그리고 세계 이원성의 화신입니다. 전통적으로 그녀는 아룬의 아내입니다. 그녀의 교회는 두 "
+"가지 교단으로 구성되어 있습니다:\n"
 "삶의 지배자 교단은 치료사와 수호자로서 세상을 여행합니다. 그들은 마라이케의 치유적인 모성애의 면모를 숭배합니다.\n"
-"망각의 교단은 복수자와 시체 방부술사들의 교단입니다. 악이 삶과 죽음의 주기를 왜곡하려 할 때, 이 교단은 그 범인들을 처리하고, 언데드 "
-"희생자들이 안식을 취할 수 있게끔 합니다. "
+"망각의 교단은 복수자와 시체 방부사들의 교단입니다. 악이 삶과 죽음을 왜곡하려 할 때, 이 교단은 그 범인들을 처리하고, 언데드 "
+"희생자들을 안식으로 돌려보냅니다. "
 
 msgctxt "MaraikeTitle"
 msgid "Maraike"
@@ -245,7 +244,7 @@ msgstr "다이아몬드"
 
 msgctxt "ProxyDancingLightsDescription"
 msgid "Move the lights up to 12 cells"
-msgstr ""
+msgstr "빛들을 최대 12칸까지 이동시킵니다"
 
 msgctxt "ProxyDancingLightsTitle"
 msgid "Dancing Lights"
@@ -380,7 +379,7 @@ msgstr "화염 폭발"
 
 msgctxt "ArcheryDescription"
 msgid "You gain a +2 bonus to attack rolls with ranged weapons."
-msgstr ""
+msgstr "원거리 무기로 명중 굴림에 +2 보너스를 얻습니다."
 
 msgctxt "ArcheryTitle"
 msgid "Archery"
@@ -417,7 +416,7 @@ msgstr ""
 
 msgctxt "GreatWeaponTitle"
 msgid "Great Weapon Fighting"
-msgstr "거대 무기 특화"
+msgstr "대형 무기 특화"
 
 msgctxt "ProtectionDescription"
 msgid ""
@@ -518,15 +517,15 @@ msgstr "이 지역으로 이동합니다."
 
 msgctxt "EnterLocationTitle"
 msgid "Enter"
-msgstr ""
+msgstr "이동"
 
 msgctxt "TravelToLocationDescription"
 msgid "Prepare to travel to this location."
-msgstr ""
+msgstr "이 지역으로 여행할 준비를 하세요."
 
 msgctxt "TravelToLocationTitle"
 msgid "Travel"
-msgstr ""
+msgstr "여행"
 
 msgctxt "GdprDescription"
 msgid ""
@@ -845,61 +844,84 @@ msgid ""
 "ROAD"
 msgstr ""
 
+#, fuzzy
 msgctxt "DUCHY_caercyflen_Title"
 msgid ""
 "Duchy of\\n"
 "Caer Cyflen"
 msgstr ""
+"\\n"
+"캐어 키플렌 영지"
 
+#, fuzzy
 msgctxt "DUCHY_easternforests_Title"
 msgid ""
 "Duchy of\\n"
 "the Eastern Forests"
 msgstr ""
+"\\n"
+"동부 숲 영지"
 
+#, fuzzy
 msgctxt "DUCHY_northernhills_Title"
 msgid ""
 "Duchy of\\n"
 "the Northern Hills"
 msgstr ""
+"\\n"
+"북부 언덕 영지"
 
+#, fuzzy
 msgctxt "DUCHY_northernplains_Title"
 msgid ""
 "Duchy of\\n"
 "the Northern Plains"
 msgstr ""
+"\\n"
+"북부 평원 영지"
 
 msgctxt "DUCHY_southmarsh_Title"
 msgid ""
 "Duchy of\\n"
 "the South Marsh"
 msgstr ""
+"\\n"
+"남부 습지 영지"
 
+#, fuzzy
 msgctxt "DUCHY_westernfields_Title"
 msgid ""
 "Duchy of\\n"
 "the Western Fields"
 msgstr ""
+"\\n"
+"서부 들판 영지"
 
 msgctxt "Einarium_Title"
 msgid "THE Einareum"
-msgstr ""
+msgstr "에이나리움"
 
+#, fuzzy
 msgctxt "GALLIVAN_Title"
 msgid ""
 "KINGDOM OF\\n"
 "GALLIVAN"
 msgstr ""
+"\\n"
+"갈리반 왕국"
 
 msgctxt "Kaupaapunki_Title"
 msgid "KAUPAAPUNKI"
 msgstr ""
 
+#, fuzzy
 msgctxt "MASGARTH_Title"
 msgid ""
 "PRINCIPALITY\\n"
 "OF MASGARTH"
 msgstr ""
+"\\n"
+"마스가르스 공국"
 
 msgctxt "NEWEMPIRE_Title"
 msgid "THE NEW EMPIRE"
@@ -915,27 +937,27 @@ msgstr ""
 
 msgctxt "FactionRelationDecreaseDescription"
 msgid "Your relations with this faction have worsened."
-msgstr ""
+msgstr "이 세력과의 관계가 악화되었습니다."
 
 msgctxt "FactionRelationDecreaseTitle"
 msgid "Relations Worsened ({0})"
-msgstr ""
+msgstr "관계 악화 ({0})"
 
 msgctxt "FactionRelationIncreaseDescription"
 msgid "Your relations with this faction have improved."
-msgstr ""
+msgstr "이 세력과의 관계가 개선되었습니다."
 
 msgctxt "FactionRelationIncreaseTitle"
 msgid "Relation Improved ({0})"
-msgstr ""
+msgstr "관계 개선 ({0})"
 
 msgctxt "LocationRevealedDescription"
 msgid "A new destination is available."
-msgstr ""
+msgstr "새로운 목적지가 있습니다."
 
 msgctxt "LocationRevealedTitle"
 msgid "New Location Revealed"
-msgstr ""
+msgstr "신규 지역 공개"
 
 msgctxt "MapWaypointRevealedDescription"
 msgid "Click to open the map."
@@ -947,7 +969,7 @@ msgstr "새로운 웨이포인트 추가됨"
 
 msgctxt "MonsterInformationDescription"
 msgid "Your knowledge has increased."
-msgstr ""
+msgstr "지식이 증가했습니다."
 
 msgctxt "MonsterInformationTitle"
 msgid "Bestiary Updated"
@@ -959,7 +981,7 @@ msgstr "퀘스트 목표를 성공적으로 완료했습니다."
 
 msgctxt "QuestStepAchievedTitle"
 msgid "Objective Completed"
-msgstr ""
+msgstr "목표 완료"
 
 msgctxt "QuestStepFailedDescription"
 msgid "You have failed to complete a quest objective."
@@ -967,7 +989,7 @@ msgstr "퀘스트 목표를 완료하지 못했습니다."
 
 msgctxt "QuestStepFailedTitle"
 msgid "Objective Failed"
-msgstr ""
+msgstr "목표 실패"
 
 msgctxt "QuestStepStartedDescription"
 msgid "You have started a new objective for this quest."
@@ -1006,7 +1028,7 @@ msgstr ""
 
 msgctxt "ArcaneRecoveryTitle"
 msgid "Arcane Recovery"
-msgstr ""
+msgstr "비전 회복"
 
 msgctxt "AttuneItemDescription"
 msgid "Attuning to an item accesses its advanced properties and functions."
@@ -1018,7 +1040,7 @@ msgstr ""
 
 msgctxt "LevelUpDescription"
 msgid "Start the level up sequence for this character."
-msgstr ""
+msgstr "이 캐릭터의 레벨 업 과정을 시작합니다."
 
 msgctxt "LevelUpTitle"
 msgid "Level Up"
@@ -1031,13 +1053,13 @@ msgstr "긴 휴식을 취하고 나면 준비할 주문 목록을 변경할 수 
 
 msgctxt "PrepareSpellsTitle"
 msgid "Prepare Spells"
-msgstr ""
+msgstr "주문을 준비하세요"
 
 msgctxt "ArcaneRecoveryExecutedDescription"
 msgid ""
 "Activating <b>Arcane Recovery</b> has allowed {0} to regain the following "
 "spell slots:"
-msgstr ""
+msgstr "<b>비전 회복</b>을 사용하여 {0}가 다음 주문 슬롯을 회복하였습니다:"
 
 msgctxt "NaturalRecoveryTitle"
 msgid "Natural Recovery"
@@ -1052,59 +1074,59 @@ msgstr ""
 
 msgctxt "AbjurationTitle"
 msgid "Abjuration"
-msgstr ""
+msgstr "방호계"
 
 msgctxt "ConjurationTitle"
 msgid "Conjuration"
-msgstr ""
+msgstr "조형계"
 
 msgctxt "DivinationTitle"
 msgid "Divination"
-msgstr ""
+msgstr "예지계"
 
 msgctxt "EnchantmentTitle"
 msgid "Enchantment"
-msgstr ""
+msgstr "환혹계"
 
 msgctxt "EvocationTitle"
 msgid "Evocation"
-msgstr ""
+msgstr "방출계"
 
 msgctxt "IllusionTitle"
 msgid "Illusion"
-msgstr ""
+msgstr "환영계"
 
 msgctxt "NecromancyTitle"
 msgid "Necromancy"
-msgstr ""
+msgstr "사령계"
 
 msgctxt "TransmutationTitle"
 msgid "Transmutation"
-msgstr ""
+msgstr "변환계"
 
 msgctxt "GargantuanTitle"
 msgid "Gargantuan"
-msgstr ""
+msgstr "초대형"
 
 msgctxt "HugeTitle"
 msgid "Huge"
-msgstr ""
+msgstr "거대형"
 
 msgctxt "LargeTitle"
 msgid "Large"
-msgstr ""
+msgstr "대형"
 
 msgctxt "MediumTitle"
 msgid "Medium"
-msgstr ""
+msgstr "중형"
 
 msgctxt "SmallTitle"
 msgid "Small"
-msgstr ""
+msgstr "소형"
 
 msgctxt "TinyTitle"
 msgid "Tiny"
-msgstr ""
+msgstr "초소형"
 
 msgctxt "SpellListClericTitle"
 msgid "Cleric Spells"
@@ -1144,19 +1166,19 @@ msgstr "클릭하면 집중을 중단합니다."
 
 msgctxt "HealthStatusFormat"
 msgid "Health: {0}"
-msgstr ""
+msgstr "체력: {0}"
 
 msgctxt "ReadiedCantripAttackFormat"
 msgid "{0} is ready to use a cantrip attack if the opportunity arises."
-msgstr ""
+msgstr "{0}은(는) 기회가 생기면 캔트립 공격을 사용할 준비가 되어 있습니다."
 
 msgctxt "ReadiedMeleeAttackFormat"
 msgid "{0} is ready to use a melee attack if the opportunity arises."
-msgstr ""
+msgstr "{0}은(는) 기회가 생기면 근접 공격을 사용할 준비가 되어 있습니다."
 
 msgctxt "ReadiedRangedAttackFormat"
 msgid "{0} is ready to use a ranged attack if the opportunity arises."
-msgstr ""
+msgstr "{0}은(는) 기회가 생기면 원거리 공격을 사용할 준비가 되어 있습니다."
 
 msgctxt "ArcticDescription"
 msgid ""

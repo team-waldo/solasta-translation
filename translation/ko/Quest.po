@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-21 07:45+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
+"PO-Revision-Date: 2021-08-23 15:16+0000\n"
+"Last-Translator: 홍성원 <hsw2201@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/quest/ko/>"
 "\n"
 "Language: ko\n"
@@ -385,11 +385,11 @@ msgstr ""
 
 msgctxt "Abjuration_Quest_18_EnterTheTower_Outcome1Description"
 msgid "You've opened the tower - but Broods attack you!"
-msgstr ""
+msgstr "탑의 문을 열었지만 혈족들이 당신을 공격합니다!"
 
 msgctxt "Abjuration_Quest_18_EnterTheTowerDescription"
 msgid "Find a way into the tower."
-msgstr ""
+msgstr "탑으로 들어가는 길을 찾으십시오."
 
 msgctxt "Abjuration_Quest_18_EnterTheTowerTitle"
 msgid "Enter the Tower"
@@ -403,7 +403,7 @@ msgstr ""
 
 msgctxt "Abjuration_Quest_19_CloseTheDoorDescription"
 msgid "Close the door."
-msgstr ""
+msgstr "문을 닫으십시오."
 
 msgctxt "Abjuration_Quest_19_CloseTheDoorTitle"
 msgid "Close the Door"
@@ -447,11 +447,11 @@ msgstr ""
 
 msgctxt "BoneKeep_Quest_Step03__Outcome1Description"
 msgid "You have found the Keep entrance, but you can't get in."
-msgstr ""
+msgstr "당신은 아성 입구를 찾아냈지만, 들어갈 수 없습니다."
 
 msgctxt "BoneKeep_Quest_Step03_Description"
 msgid "Get into the keep and find the Master."
-msgstr ""
+msgstr "아성 안으로 들어가 마스터를 찾으십시오."
 
 msgctxt "BoneKeep_Quest_Step03_Title"
 msgid "Enter the Castle's Keep"
@@ -790,7 +790,7 @@ msgstr ""
 
 msgctxt "Caer_Cyflen_Quest_AfterTowerOfMagic_01_MeetCarran_Title"
 msgid "Go to the Gravekeep's Cask"
-msgstr ""
+msgstr "묘지기의 술통으로 이동"
 
 msgctxt "Caer_Cyflen_Quest_AfterTowerOfMagic_02_ReturnToCouncil_Description"
 msgid "Return to the Council chamber and complete your report."
@@ -852,7 +852,7 @@ msgstr ""
 
 msgctxt "Caer_Cyflen_Quest_AfterTutorial_01_MeetCouncil_Title"
 msgid "Meet Carran at the Legacy Council"
-msgstr ""
+msgstr "계승 의회에서 캐런 경 만나기"
 
 msgctxt "Caer_Cyflen_Quest_AfterTutorial_02_LevelUp_Description"
 msgid ""
@@ -861,6 +861,8 @@ msgid ""
 "will tell you how to get a room while you're staying in town. You can use "
 "the map's fast travel function to return there quickly."
 msgstr ""
+"충분한 경험치를 획득하여 레벨 업을 할 수 있게 되었습니다! 레벨 업을 하려면 긴 휴식을 취해야 합니다. 묘지기의 술통 주인인 카렐과 "
+"대화하세요. 이곳에 머무는 동안 방을 구하는 법을 알려줄 것입니다. 지도에서 빠른 이동 기능을 사용하면 순식간에 도착할 수 있습니다."
 
 msgctxt "Caer_Cyflen_Quest_AfterTutorial_02_LevelUp_Outcome1Description"
 msgid "You have leveled up!"
@@ -903,7 +905,7 @@ msgstr ""
 
 msgctxt "Caer_Cyflen_Quest_AfterTutorial_Title"
 msgid "The Legacy Council"
-msgstr ""
+msgstr "계승 의회"
 
 msgctxt "Caer_Cyflen_Secondary_Quest_Visit_Hugo_MeetHugo_Outcome1Description"
 msgid "You have visited Hugo's shop."
@@ -2724,7 +2726,7 @@ msgstr ""
 
 msgctxt "Tutorial_01_Quest_Reach the high groundTitle"
 msgid "Leave the Cave"
-msgstr ""
+msgstr "동굴 벗어나기"
 
 msgctxt "Tutorial_01_Quest_Take Your Stuff_Outcome1Description"
 msgid "You have recovered all your belongings."
@@ -2745,7 +2747,7 @@ msgstr ""
 
 msgctxt "Tutorial_02_2_Title"
 msgid "Heal Yourself"
-msgstr "체력을 회복하세요"
+msgstr "체력 회복"
 
 msgctxt "Tutorial_02_Quest_Cautious_Outcome1Description"
 msgid "You found the mechanism that opens the door!"
@@ -2859,32 +2861,32 @@ msgstr ""
 
 msgctxt "Tutorial_02_Quest_RunAwayTitle"
 msgid "Escape from the Orc Hideout"
-msgstr ""
+msgstr "오크 은신처에서 탈출"
 
 msgctxt "Tutorial_02_Quest_Traverse_Outcome1Description"
 msgid "You reached a secret cave! Find a way out!"
-msgstr ""
+msgstr "숨겨진 동굴에 왔습니다! 나갈 방법을 찾으십시오!"
 
 msgctxt "Tutorial_02_Quest_TraverseDescription"
 msgid "Behind the door is an underground river. Find a way through it!"
-msgstr ""
+msgstr "문 뒤에는 개울이 있었습니다. 지나갈 방법을 찾으십시오!"
 
 msgctxt "Tutorial_02_Quest_TraverseTitle"
 msgid "Cross the River"
-msgstr ""
+msgstr "강 건너기"
 
 msgctxt "Tutorial_02_Quest_Wait_Outcome1Description"
 msgid "The orcs are gone! Get out of here!"
-msgstr ""
+msgstr "오크들이 갔습니다! 어서 빠져나가십시오!"
 
 msgctxt "Tutorial_02_Quest_WaitDescription"
 msgid ""
 "Take a long rest to wait until night-time, then flee while the orcs are away."
-msgstr ""
+msgstr "긴 휴식을 취하여 밤이 될 때까지 기다렸다가 오크가 없는 사이 도망치십시오."
 
 msgctxt "Tutorial_02_Quest_WaitTitle"
 msgid "Wait for the Orcs to Leave"
-msgstr ""
+msgstr "오크가 떠날 때까지 기다리기"
 
 msgctxt "Tutorial_02_Title"
 msgid "Leave the Cave"
@@ -2937,7 +2939,7 @@ msgstr ""
 
 msgctxt "Tutorial_03_Quest_Find the treasure room_Outcome1Description"
 msgid "You have disarmed the floor trap!"
-msgstr ""
+msgstr "바닥 함정을 해제했습니다!"
 
 msgctxt "Tutorial_03_Quest_Find the treasure roomDescription"
 msgid ""
@@ -2951,7 +2953,7 @@ msgstr ""
 
 msgctxt "Tutorial_03_Quest_GetSword_Outcome1Description"
 msgid "You've taken Liam's gem back! Retrace your steps and escape!"
-msgstr ""
+msgstr "리암의 보석을 되찾았습니다! 왔던 길을 되돌아가 탈출하세요!"
 
 msgctxt "Tutorial_03_Quest_GetSwordDescription"
 msgid ""
@@ -2961,7 +2963,7 @@ msgstr ""
 
 msgctxt "Tutorial_03_Quest_GetSwordTitle"
 msgid "Get Liam's Gem"
-msgstr ""
+msgstr "리암의 보석 획득하기"
 
 msgctxt "Tutorial_03_Quest_PickDoor_Outcome1Description"
 msgid "You have opened the door."
@@ -2997,7 +2999,7 @@ msgstr ""
 
 msgctxt "Tutorial_03_Title"
 msgid "Recover the Stolen Gem"
-msgstr ""
+msgstr "빼앗긴 보석을 찾아"
 
 msgctxt "Tutorial_04_Quest_CrossBridge_Outcome1Description"
 msgid "You are being attacked by a grayback wolf!"
@@ -5435,7 +5437,7 @@ msgstr ""
 
 msgctxt "Quest_Background_Lawkeeper_SearchTitle"
 msgid "Search the Hideout"
-msgstr ""
+msgstr "은신처 탐색"
 
 msgctxt "PickupQuest_06_GhostsOfTheEmpire_03_TITLE"
 msgid "Find the Sylvan Rebel Journal"
@@ -6255,11 +6257,12 @@ msgid ""
 "open it…maybe in the dead hands of another antique corpse."
 msgstr ""
 
+#, fuzzy
 msgctxt "DLC1_Quest_Secondary_FindNestKey_01_FindKey_Outcome1Description"
 msgid ""
 "You found an old Manacalon key in a pile of trash…considering that ghouls "
 "have been roaming around, you never know, it might what you're looking for."
-msgstr ""
+msgstr "쓰레기 더미에서 오래된 마나칼론 열쇠를 찾았습니다… 구울들이 돌아다니는걸 생각하면, 아마 제대로 찾았을 겁니다."
 
 msgctxt "DLC1_Quest_Marches_10_PursueVingTitle"
 msgid "Follow Ving's tracks"
@@ -6272,13 +6275,14 @@ msgid ""
 "still find him. Explore further and find out what happened to him."
 msgstr ""
 
+#, fuzzy
 msgctxt "DLC1_Quest_Marches_10_PursueVing_Outcome1Description"
 msgid "You started exploring the valley, hoping to find Marin Ving."
-msgstr ""
+msgstr "당신은 마린 빙을 찾길 바라며, 계곡을 탐험합니다."
 
 msgctxt "Wanderer_BGQuest_MainTitle"
 msgid "A History of Violence"
-msgstr ""
+msgstr "폭력의 역사"
 
 msgctxt "Wanderer_BGQuest_Quest_01_Meet_NPCTitle"
 msgid "Meet with NPC TBC"
@@ -6298,37 +6302,42 @@ msgctxt "Quest_Background_Wanderer_Quest_02_EnterMineTitle"
 msgid "Enter the mine"
 msgstr ""
 
+#, fuzzy
 msgctxt "Quest_Background_Wanderer_Quest_02_EnterMineDescription"
 msgid "Go to the mine's entrance and gather your party."
-msgstr ""
+msgstr "광산 입구로 가서 일행을 모으세요."
 
+#, fuzzy
 msgctxt "Quest_Background_Wanderer_Quest_02_EnterMine_Outcome1Description"
 msgid "You entered the mine."
-msgstr ""
+msgstr "광산에 들어갔습니다."
 
 msgctxt "DLC1_Quest_Valley"
 msgid "The Emerald Forest"
-msgstr ""
+msgstr "에메랄드 숲"
 
 msgctxt "DLC1_Quest_Valley_Step_01_FollowVip_Title"
 msgid "Search Party"
 msgstr ""
 
+#, fuzzy
 msgctxt "DLC1_Quest_Valley_Step_01_FollowVip_Description"
 msgid "Cross the jungle to find Marin Ving"
-msgstr ""
+msgstr "정글을 가로질러 마린 빙을 찾으세요"
 
+#, fuzzy
 msgctxt "DLC1_Quest_Valley_Step_01_FollowVip__Outcome1Description"
 msgid "You have discovered some old ruins in the jungle."
-msgstr ""
+msgstr "당신은 정글에서 오래된 유적을 발견했습니다."
 
 msgctxt "DLC1_Quest_Valley_Step_02_ExploreRuins_Title"
 msgid "Explore the ruins"
 msgstr ""
 
+#, fuzzy
 msgctxt "DLC1_Quest_Valley_Step_02_ExploreRuins_Description"
 msgid "Look around the ruins for traces of Marin's Party"
-msgstr ""
+msgstr "마린 일행의 흔적을 찾아 폐허를 둘러보세요"
 
 msgctxt "DLC1_Quest_Valley_Step_02_ExploreRuins__Outcome1Description"
 msgid "You found the corpse of one of Marin Ving bodyguard."
@@ -6338,12 +6347,14 @@ msgctxt "DLC1_Quest_Valley_Step_03_ExitJungleTitle"
 msgid "Leave the jungle"
 msgstr ""
 
+#, fuzzy
 msgctxt "DLC1_Quest_Valley_Step_03_ExitJungle_Description"
 msgid "Exit the jungle and keep looking for Marin"
-msgstr ""
+msgstr "정글을 빠져나와 마린을 찾으세요"
 
+#, fuzzy
 msgctxt "DLC1_Quest_Valley_Step_03_ExitJungle__Outcome1Description"
 msgid ""
 "Marin Ving was not in the jungle. You have decided to go further away and "
 "found more clue about where he might be heading to."
-msgstr ""
+msgstr "마린 빙은 정글에 없었습니다. 당신은 그가 어디로 갔을지 단서를 찾기 위해 더 먼 곳으로 가보기로 결정했습니다."

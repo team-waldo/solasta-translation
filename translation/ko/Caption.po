@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-21 07:45+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
+"PO-Revision-Date: 2021-08-23 15:16+0000\n"
+"Last-Translator: Jin <byungjinjun55@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/caption/ko/"
 ">\n"
 "Language: ko\n"
@@ -26,10 +26,9 @@ msgctxt "LandingPositionCaption"
 msgid "Select a place to climb to."
 msgstr "올라갈 위치를 선택하세요."
 
-#, fuzzy
 msgctxt "LevitateDestinationCaption"
 msgid "Select a levitation destination for your target."
-msgstr "대상이 공중으로 이동할 곳을 선택하세요."
+msgstr "착지 지점을 선택하세요."
 
 msgctxt "OutOfRangeCaption"
 msgid "You are out of range!"
@@ -107,54 +106,49 @@ msgctxt "ShapeWallRingPositionCaption"
 msgid "Select a position for the circle of effect."
 msgstr "원형 효과의 위치를 선택하세요."
 
+#, fuzzy
 msgctxt "ShoveSelectDestinationCaption"
 msgid "Push the creature back, or knock it down?"
 msgstr "크리쳐를 밀치겠습니까, 아니면 쓰러뜨리겠습니까?"
 
-#, fuzzy
 msgctxt "ShoveSelectTargetCaption"
 msgid "Select a target to shove."
 msgstr "밀칠 대상을 선택하세요."
 
-#, fuzzy
 msgctxt "ShoveTargetCannotPushAwayCaption"
 msgid "No room to push the target away."
 msgstr "대상을 밀칠 공간이 없습니다."
 
-#, fuzzy
 msgctxt "ShoveTargetImmuneCaption"
 msgid "Target is immune to shoving."
 msgstr "대상은 밀치기에 면역입니다."
 
-#, fuzzy
 msgctxt "ShoveTargetOutOfReachCaption"
 msgid "Target is out of reach."
 msgstr "대상이 범위 밖에 있습니다."
 
-#, fuzzy
 msgctxt "ShoveTargetProneCaption"
 msgid "You cannot shove a prone target!"
-msgstr "엎드린 대상은 밀칠 수 없습니다!"
+msgstr "넘어진 대상은 밀칠 수 없습니다!"
 
-#, fuzzy
 msgctxt "ShoveTargetTooBigCaption"
 msgid "Target is too big for this creature to shove"
-msgstr "대상이 커서 밀칠 수 없습니다"
+msgstr "밀치기에 대상이 너무 큽니다."
 
 #, fuzzy
 msgctxt "TargetAwakenDescription"
 msgid "Click to awaken this sleeping character."
 msgstr "잠에 든 이 캐릭터를 깨우려면 클릭하세요."
 
+#, fuzzy
 msgctxt "TargetFilteringAllyCreature"
 msgid "Ally Creature"
-msgstr "아군 크리쳐"
+msgstr "우호적 크리쳐"
 
 msgctxt "TargetFilteringCreature"
 msgid "Creature"
 msgstr "크리쳐"
 
-#, fuzzy
 msgctxt "TargetFilteringEffectProxy"
 msgid "Magical Effect"
 msgstr "마법 효과"
@@ -173,12 +167,17 @@ msgid ""
 "\n"
 "<#B0B0B0>You can select each target multiple times.</color>"
 msgstr ""
+"{1} 대상 ({0})을(를) 지정합니다.\n"
+"\n"
+"<#B0B0B0>하나의 대상을 여러 번 지정할 수 있습니다.</color>"
 
 msgctxt "TargetMultipleUniqueCaption"
 msgid ""
 "Select {1} targets ({0}).\n"
 "<#B0B0B0>You can select each target only once.</color>"
 msgstr ""
+"{1} 대상 ({0})을 지정합니다.\n"
+"<#B0B0B0>하나의 대상은 한 번만 지정할 수 있습니다.</color>"
 
 msgctxt "TargetProximityMultipleCaption"
 msgid "<#B0B0B0>Targets must be within {0} cells of each other.</color>"
@@ -196,7 +195,6 @@ msgctxt "TargetRequiredCreatureTypeCaption"
 msgid "<#B0B0B0>Targets must be {0}"
 msgstr "<#B0B0B0>대상은 {0}이어야 합니다"
 
-#, fuzzy
 msgctxt "TargetRequiredUnarmoredCaption"
 msgid "<#B0B0B0>Targets must be unarmored."
 msgstr "<#B0B0B0>대상은 무장 해제 상태여야 합니다."
@@ -214,7 +212,7 @@ msgstr ""
 
 msgctxt "TargetSingleCaption"
 msgid "Select a target ({0}).\n"
-msgstr ""
+msgstr "대상 ({0})을(를) 선택합니다.\n"
 
 msgctxt "TargetStabilizeDescription"
 msgid ""
@@ -227,35 +225,35 @@ msgctxt "CannotBePlacedOnCharacterCaption"
 msgid "You cannot cast this spell directly on a character."
 msgstr "이 주문은 캐릭터에게 직접 시전할 수 없습니다."
 
+#, fuzzy
 msgctxt "TargetsMustPerceiveCasterCaption"
 msgid "Targets must perceive the source of the effect."
-msgstr ""
+msgstr "대상은 효과의 근원을 인식하여야 합니다."
 
 msgctxt "PositionMustBePerceivedCaption"
 msgid "The position is not perceived."
-msgstr ""
+msgstr "위치가 인식되지 않습니다."
 
 msgctxt "TargetRequiredSizeCaption"
 msgid "Target size must be: {0}"
 msgstr "대상 크기가 {0}이어야 합니다."
 
+#, fuzzy
 msgctxt "InviteOptionalAllyCaption"
 msgid "Touch an optional ally to bring along."
-msgstr ""
+msgstr "함께할 동료를 선택하세요."
 
-#, fuzzy
 msgctxt "TelekinesisSelectDirection"
 msgid "Select a direction in which to move this creature."
-msgstr "이 생물이 이동할 방향을 선택하세요."
+msgstr "이 생물을 옮길 방향을 선택하세요."
 
-#, fuzzy
 msgctxt "EditorNewPropPlacementCaption"
 msgid ""
 "Select a valid position to place this new prop\n"
 "Hold \"Shift\" to place multiple props of this type"
 msgstr ""
-"받침대를 배치할 올바른 위치를 선택하세요.\n"
-"\"쉬프트 키\"를 누르고 있으면 여러 받침대가 배치됩니다."
+"새로운 물체를 배치할 유효한 위치를 선택하세요.\n"
+"같은 물체 여러 개를 배치하려면 \"쉬프트 키\"를 누른 채로 클릭하세요."
 
 msgctxt "EditorExistingPropPlacementCaption"
 msgid "Select a new position for this prop"
@@ -266,13 +264,12 @@ msgid ""
 "Select a valid position to place this new gadget\n"
 "Hold \"Shift\" to place multiple gadgets of this type"
 msgstr ""
-"물체를 배치할 위치를 선택하세요.\n"
+"새로운 장치를 배치할 위치를 선택하세요.\n"
 "\"쉬프트 키\"를 누르고 있으면 여러 개를 배치합니다."
 
-#, fuzzy
 msgctxt "EditorExistingGadgetPlacementCaption"
 msgid "Select a new position for this gadget"
-msgstr "도구를 배치할 새로운 위치를 선택하세요."
+msgstr "이 장치의 새로운 위치를 선택하세요."
 
 msgctxt "EditorSelectedRoomCaption"
 msgid "Selected Room: {0}"
@@ -284,11 +281,11 @@ msgstr "선택한 물체: {0}"
 
 msgctxt "EditorSelectedGadgetCaption"
 msgid "Selected Gadget: {0}"
-msgstr ""
+msgstr "선택한 장치: {0}"
 
 msgctxt "GadgetParametersHeaderTitle"
 msgid "Gadget Parameters:"
-msgstr ""
+msgstr "장치 옵션:"
 
 msgctxt "GadgetParametersSelectorTitle"
 msgid "Select"
@@ -298,32 +295,31 @@ msgctxt "GadgetParametersSelectorDescription"
 msgid ""
 "Click to select a corresponding element (monster, item, loot pack) in the "
 "database"
-msgstr ""
+msgstr "데이터베이스에서 해당하는 요소 (몬스터, 아이템, 전리품 꾸러미)를 선택하려면 클릭하세요"
 
 msgctxt "GadgetParametersAddTitle"
 msgid "Add Element"
-msgstr ""
+msgstr "요소 추가"
 
 msgctxt "GadgetParametersAddDescription"
 msgid "Add a corresponding element (monster, item, loot pack) to the list"
-msgstr ""
+msgstr "목록에 해당 요소(몬스터, 아이템, 전리품 꾸러미) 추가"
 
 msgctxt "GadgetParametersRemoveDescription"
 msgid "Remove the selected element"
-msgstr ""
+msgstr "선택한 요소 제거"
 
 msgctxt "GadgetParametersNoneTitle"
 msgid "<Empty>"
 msgstr "<비어 있음>"
 
-#, fuzzy
 msgctxt "EditorNewRoomPlacementCaption"
 msgid ""
 "Select a valid position to place this new room\n"
 "Hold \"Shift\" to place multiple rooms of this type"
 msgstr ""
-"방를 배치할 올바른 위치를 선택하세요.\n"
-"\"쉬프트 키\"를 누르고 있으면 여러 방이 배치됩니다."
+"새로운 방을 배치할 유효한 위치를 선택하세요.\n"
+"같은 방 여러 개를 배치하려면 \"쉬프트 키\"를 누른 채로 클릭하세요."
 
 msgctxt "EditorExistingRoomPlacementCaption"
 msgid "Select a new position for this room"
@@ -335,16 +331,15 @@ msgstr "클릭하여 목록에서 목적지 위치를 선택하세요."
 
 msgctxt "GadgetListAddTitle"
 msgid "Add Gadget"
-msgstr ""
+msgstr "장치 추가"
 
-#, fuzzy
 msgctxt "GadgetListAddDescription"
 msgid "Allows you to click and a select a target gadget"
-msgstr "대상 가젯을 클릭하고 선택할 수 있습니다."
+msgstr "대상 장치와 상호작용이 가능하게 합니다."
 
 msgctxt "EditorSelectTargetGadgetDescription"
 msgid "Select a target gadget"
-msgstr ""
+msgstr "대상 장치 선택"
 
 msgctxt "TargetArcSubtargetSingleCaption"
 msgid ""

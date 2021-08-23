@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-20 14:50+0000\n"
-"Last-Translator: 까망쥐 <jk01056@naver.com>\n"
+"PO-Revision-Date: 2021-08-23 15:16+0000\n"
+"Last-Translator: Jin <byungjinjun55@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/attribute/"
 "ko/>\n"
 "Language: ko\n"
@@ -131,7 +131,7 @@ msgctxt "HitDiceDescription"
 msgid ""
 "The number of hit dice the character has earned through class advancement, "
 "which can be used to recover health during rest time."
-msgstr ""
+msgstr "휴식 동안 체력을 회복하는 데 사용할 수 있는, 캐릭터가 클래스 성장을 통해 획득한 체력 주사위의 수입니다."
 
 msgctxt "HitDiceTitle"
 msgid "Hit Dice"
@@ -230,7 +230,7 @@ msgstr "속도"
 
 msgctxt "SpeedUnitBurrowFormat"
 msgid "burrow {0} {1}"
-msgstr ""
+msgstr "잠복 {0} {1}"
 
 msgctxt "SpeedUnitClimbFormat"
 msgid "climb {0} {1}"
@@ -244,9 +244,10 @@ msgctxt "SpeedUnitFlyFormat"
 msgid "fly {0} {1}"
 msgstr "비행 {0} {1}"
 
+#, fuzzy
 msgctxt "SpeedUnitIncorporealFormat"
 msgid "incorporeal {0} {1}"
-msgstr ""
+msgstr "영체 {0} {1}"
 
 msgctxt "SpeedUnitSwimFormat"
 msgid "swim {0} {1}"
@@ -256,7 +257,6 @@ msgctxt "SpeedUnitWalkFormat"
 msgid "{0} {1}"
 msgstr "{0} {1}"
 
-#, fuzzy
 msgctxt "StrengthDescription"
 msgid ""
 "Strength measures bodily power, athletic training and the extent to which "
@@ -264,7 +264,7 @@ msgid ""
 "Important for: Fighter, Paladin."
 msgstr ""
 "힘은 신체의 근력, 훈련된 운동 신경과 순수한 물리적 힘을 의미합니다.\n"
-"파이터와 팔라딘에게 중요합니다."
+"중요: 파이터, 팔라딘"
 
 msgctxt "StrengthTitle"
 msgid "STR"
@@ -410,10 +410,9 @@ msgid ""
 "per Sorcerer level. Restored at long rest."
 msgstr "마법 주문의 형태를 변형시킬 때 사용하는 내면 마력의 결집을 뜻하며, 소서러 레벨 당 1점입니다. 긴 휴식을 통해 회복합니다."
 
-#, fuzzy
 msgctxt "SorceryPointsTitle"
 msgid "Sorcery Points"
-msgstr "마법 포인트"
+msgstr "소서리 포인트"
 
 msgctxt "TagUnlearnSpellTitle"
 msgid "Unlearn Spell"
@@ -437,19 +436,17 @@ msgstr ""
 
 msgctxt "RagePointsDescription"
 msgid "Determines how many times you can start raging"
-msgstr ""
+msgstr "격노를 시작할 수 있는 횟수를 결정합니다"
 
-#, fuzzy
 msgctxt "RagePointsTitle"
 msgid "Rage Points"
-msgstr "분노 포인트"
+msgstr "격노 포인트"
 
 #, fuzzy
 msgctxt "RageDamageDescription"
 msgid "The additional damage your melee attacks inflict"
 msgstr "근접 공격이 가하는 추가 피해"
 
-#, fuzzy
 msgctxt "RageDamageTitle"
 msgid "Rage Damage"
-msgstr "분노 피해"
+msgstr "격노 피해"
