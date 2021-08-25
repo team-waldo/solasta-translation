@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-23 15:16+0000\n"
-"Last-Translator: Lee Sang Hwan <pryan2001@gmail.com>\n"
+"PO-Revision-Date: 2021-08-25 05:43+0000\n"
+"Last-Translator: 백정현 <bjhmsg@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/screen/ko/>"
 "\n"
 "Language: ko\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 msgctxt "AbilityScoreBonusDescription"
 msgid "The bonus to this ability score, based on your current choices."
-msgstr ""
+msgstr "이 선택에 대응하는 능력 점수에 대한 보너스입니다."
 
 msgctxt "AbilityScoreBonusEditableDescription"
 msgid ""
@@ -867,7 +867,7 @@ msgstr ""
 
 msgctxt "JournalAdventureTitle"
 msgid "<#F5B486>A</color>dventure <#F5B486>L</color>og"
-msgstr "모험 일지"
+msgstr "<#F5B486>모</color>험 <#F5B486>일</color>지"
 
 msgctxt "JournalBattleOutcomeTitle"
 msgid "Victory"
@@ -891,7 +891,7 @@ msgstr ""
 
 msgctxt "JournalBestiaryChallengeAndXPFormat"
 msgid "{0} ({1}XP)"
-msgstr "{0}({1}XP)"
+msgstr "{0} ({1}XP)"
 
 msgctxt "JournalBestiaryChallengeDescription"
 msgid ""
@@ -941,7 +941,7 @@ msgstr ""
 
 msgctxt "JournalBestiarySavingThrowsTitle"
 msgid "Saving Throws"
-msgstr ""
+msgstr "내성 굴림"
 
 msgctxt "JournalBestiarySensesTitle"
 msgid "Senses"
@@ -949,7 +949,7 @@ msgstr ""
 
 msgctxt "JournalBestiarySizeAndTypeFormat"
 msgid "{0} {1}"
-msgstr ""
+msgstr "{0} {1}"
 
 msgctxt "JournalBestiarySizeTitle"
 msgid "Size"
@@ -985,7 +985,7 @@ msgstr ""
 
 msgctxt "JournalBestiaryTitle"
 msgid "<#F5B486>B</color>estiary"
-msgstr ""
+msgstr "<#F5B486>생</color>물도감"
 
 msgctxt "JournalBestiaryTotalUnlockedTitle"
 msgid "Unlocked"
@@ -1010,7 +1010,7 @@ msgstr ""
 
 msgctxt "JournalConversationTitle"
 msgid "Conversation:"
-msgstr ""
+msgstr "대화:"
 
 msgctxt "JournalFactionIntroduction"
 msgid ""
@@ -1031,7 +1031,7 @@ msgstr ""
 
 msgctxt "JournalFactionStatusTitle"
 msgid "<#F5B486>F</color>actions"
-msgstr ""
+msgstr "<#F5B486>세</color>력"
 
 msgctxt "JournalNewDayColorTitle"
 msgid "<#F5B486>D</color>ay"
@@ -1096,19 +1096,19 @@ msgstr "{0}일차"
 
 msgctxt "JournalTimecodeHourMinute24Format"
 msgid "{0}:{1}"
-msgstr ""
+msgstr "{0}:{1}"
 
 msgctxt "JournalTimecodeHourMinuteAMFormat"
 msgid "{0}:{1} AM"
-msgstr ""
+msgstr "오전 {0}:{1}"
 
 msgctxt "JournalTimecodeHourMinutePMFormat"
 msgid "{0}:{1} PM"
-msgstr ""
+msgstr "오후 {0}:{1}"
 
 msgctxt "JournalTitle"
 msgid "Party Journal"
-msgstr ""
+msgstr "파티 일지"
 
 msgctxt "JournalTravelContinuedTitle"
 msgid "Travel (continued)"
@@ -1126,11 +1126,11 @@ msgstr ""
 
 msgctxt "JournalTutorialForumsAddress"
 msgid "https://forums.solasta-game.com/"
-msgstr ""
+msgstr "https://forums.solasta-game.com/"
 
 msgctxt "JournalTutorialForumsDescription"
 msgid "Find out more about Solasta on our forums."
-msgstr ""
+msgstr "Solasta 포럼에 방문해 자세한 정보를 확인하세요."
 
 msgctxt "JournalTutorialForumsTitle"
 msgid "Solasta Forums"
@@ -1162,6 +1162,8 @@ msgid ""
 "Wiki\n"
 "[Coming Soon]."
 msgstr ""
+"솔라스타 백과사전에 접속해 Solasta 세계관과 스토리, 고유 요소에 대해 자세히 알아보세요.\n"
+"[공개 예정]."
 
 msgctxt "JournalTutorialWikiTitle"
 msgid "Solasta Wiki"
@@ -1792,7 +1794,7 @@ msgstr ""
 
 msgctxt "QuestChoiceStatusTitle"
 msgid "Choice:"
-msgstr ""
+msgstr "선택:"
 
 msgctxt "QuestCompletedDescription"
 msgid "Quest Completed"
@@ -2776,7 +2778,7 @@ msgstr ""
 
 msgctxt "CraftDescription"
 msgid "Open the crafting interface."
-msgstr ""
+msgstr "제작 창을 엽니다."
 
 msgctxt "CraftTitle"
 msgid "Craft"
@@ -3176,7 +3178,7 @@ msgstr ""
 
 msgctxt "CheatsButtonTitle"
 msgid "Cheats"
-msgstr ""
+msgstr "치트"
 
 msgctxt "CheatsButtonDescription"
 msgid "Opens the Dungeon Maker playtest cheats. {0}"

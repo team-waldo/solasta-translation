@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-21 07:45+0000\n"
+"PO-Revision-Date: 2021-08-25 05:43+0000\n"
 "Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/stage/ko/>"
 "\n"
@@ -40,9 +40,10 @@ msgctxt "AbilityScoresAvailableValuesTitle"
 msgid "Your available scores."
 msgstr ""
 
+#, fuzzy
 msgctxt "AbilityScoresBonusFromRaceTitle"
 msgid "From Ancestry"
-msgstr ""
+msgstr "종족 보너스"
 
 msgctxt "AbilityScoresCurrentTitle"
 msgid "Current Ability Scores"
@@ -326,25 +327,27 @@ msgstr ""
 
 msgctxt "FightingStyleSelectedFightingStyleHeader"
 msgid "Fighting Style"
-msgstr ""
+msgstr "전투 특화"
 
 msgctxt "FightingStyleSelectionStageDescription"
 msgid "This stage lets you choose a fighting style for the character."
-msgstr ""
+msgstr "이 단계에서는 캐릭터의 전투 특화를 선택할 수 있습니다."
 
 msgctxt "FightingStyleSelectionStageNoFightingStyleSelectedDescription"
 msgid "You must select a fighting style."
-msgstr ""
+msgstr "전투 특화 방식을 선택해야 합니다."
 
 msgctxt "FightingStyleSelectionStageTitle"
 msgid ""
 "Fighting\n"
 "Style"
 msgstr ""
+"전투\n"
+"특화"
 
 msgctxt "FightingStyleSelectionTitle"
 msgid "Select Fighting Style"
-msgstr ""
+msgstr "전투 특화 선택"
 
 msgctxt "HigherLevelFeaturesTitle"
 msgid "Higher Level Features"
@@ -490,11 +493,12 @@ msgstr ""
 
 msgctxt "LevelGainsStageTitle"
 msgid "Level Gains"
-msgstr ""
+msgstr "레벨 상승"
 
+#, fuzzy
 msgctxt "LevelUpCaptionTitle"
 msgid "{0} is now a level {1} {2}"
-msgstr ""
+msgstr "{0} : 레벨 {1} {2}"
 
 msgctxt "LevelUpHeader"
 msgid "Level Up!"
@@ -568,11 +572,11 @@ msgstr ""
 
 msgctxt "ProficiencyLanguageChoicesPluralFormat"
 msgid "Choose {0} languages"
-msgstr ""
+msgstr "언어 {0}개 선택"
 
 msgctxt "ProficiencyLanguageChoicesSingleFormat"
 msgid "Choose {0} language"
-msgstr ""
+msgstr "언어 {0}개 선택"
 
 msgctxt "ProficiencyResetAllButtonDescription"
 msgid "Reset all allocated proficiency points."

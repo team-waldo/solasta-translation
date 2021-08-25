@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-23 15:16+0000\n"
-"Last-Translator: 까망쥐 <jk01056@naver.com>\n"
+"PO-Revision-Date: 2021-08-25 05:43+0000\n"
+"Last-Translator: Lee Sang Hwan <pryan2001@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/encounter/"
 "ko/>\n"
 "Language: ko\n"
@@ -460,7 +460,7 @@ msgstr "네크로맨서와 적의에 찬 그의 창조물들."
 
 msgctxt "Leatherskins2Title"
 msgid "Leatherskins"
-msgstr ""
+msgstr "살가죽단"
 
 msgctxt "Leatherskins2Description"
 msgid "A band of orcs led by an ogre."
@@ -595,17 +595,19 @@ msgctxt "PhaseSpidersDescription"
 msgid "A bunch of huge, nasty, teleporting spiders."
 msgstr "거대하고 험악한 순간이동하는 거미 무리."
 
+#, fuzzy
 msgctxt "SpectralHunterTitle"
 msgid "Spectral Hunter"
-msgstr ""
+msgstr "영체 헌터"
 
 msgctxt "SpectralHunterDescription"
 msgid "An undead hunter and his undead pet wolf."
 msgstr "언데드 사냥꾼과 그의 언데드 애완 늑대."
 
+#, fuzzy
 msgctxt "TigerDrakesTitle"
 msgid "Tiger Drakes"
-msgstr ""
+msgstr "타이거 드레이크"
 
 msgctxt "TigerDrakesDescription"
 msgid "Huge flying snakes resembling small dragons."
@@ -621,19 +623,19 @@ msgstr "구도자 무리"
 
 msgctxt "CR15_Redeemers_x1_x2_Title"
 msgid "Zealot and Pilgrims"
-msgstr ""
+msgstr "광신도와 순례자"
 
 msgctxt "CR9_Minor_Fire_Elementals_Title"
 msgid "Minor Fire Elementals"
-msgstr "마이너 화염 엘리멘탈"
+msgstr "하급 불 정령"
 
 msgctxt "CR14_Fire_Elementals_Title"
 msgid "Fire Elementals"
-msgstr "화염 엘리멘탈"
+msgstr "불 정령"
 
 msgctxt "CR18_Major_Fire_Elementals_Title"
 msgid "Major Fire Elementals"
-msgstr "메이저 화염 엘리멘탈"
+msgstr "상급 불 정령"
 
 msgctxt "CR6_Minor_Air_Elementals_Title"
 msgid "Minor Air Elementals"
@@ -641,15 +643,16 @@ msgstr ""
 
 msgctxt "CR12_Air_Elementals_Title"
 msgid "Air Elementals"
-msgstr ""
+msgstr "대기의 정령"
 
 msgctxt "CR7_Young_Black_Dragon_Title"
 msgid "Young Black Dragon"
 msgstr ""
 
+#, fuzzy
 msgctxt "CR10_PoisonousPests_Title"
 msgid "Poisonous Pests"
-msgstr ""
+msgstr "맹독충"
 
 msgctxt "CR20_CrimsonSpiders_x4_Title"
 msgid "Crimson Spiders"
@@ -659,45 +662,50 @@ msgctxt "CR16_Major_Earth_Elementals_Title"
 msgid "Major Earth Elementals"
 msgstr ""
 
+#, fuzzy
 msgctxt "CR15_Elementals_x3_Title"
 msgid "Elemental Trio"
-msgstr ""
+msgstr "정령 삼총사"
 
 msgctxt "CR10_Skeleton_Enforcers_x2_x2_Title"
 msgid "Skeletal Enforcers"
-msgstr ""
+msgstr "해골 집행자"
 
 msgctxt "CR17_Skeleton_Sorcerer_x1_x2x_2_Title"
 msgid "Skeletal Sorcerer and Escort"
-msgstr ""
+msgstr "해골 마법사와 호위"
 
+#, fuzzy
 msgctxt "CR22_Skeletal_Devastators_x1_x2_x3_Title"
 msgid "Skeletal Devastators"
-msgstr ""
+msgstr "해골 파괴자"
 
 msgctxt "CR10_CrimsonSpiders_x2_Title"
 msgid "Crimson Spider Couple"
 msgstr ""
 
+#, fuzzy
 msgctxt "CR5_Goblin_Cutthroats_Title"
 msgid "Goblin Cutthroats"
-msgstr ""
+msgstr "고블린 도살자"
 
 msgctxt "CR8_Goblin_Ravagers_Title"
 msgid "Goblin Ravagers"
-msgstr ""
+msgstr "고블린 약탈자"
 
+#, fuzzy
 msgctxt "CR11_OrcGrimblade_x1_x2_x1_Title"
 msgid "Orc Grimblade Raider"
-msgstr ""
+msgstr "오크 그림블레이드 레이더"
 
+#, fuzzy
 msgctxt "CR9_Orc_Hunters_Title"
 msgid "Orc Hunting Party"
-msgstr ""
+msgstr "오크 사냥 파티"
 
 msgctxt "CR10_Wraiths_Title"
 msgid "Wandering Wraiths"
-msgstr ""
+msgstr "떠도는 망령"
 
 msgctxt "CR12_Necromancer_Gang_Title"
 msgid "Necromancer Gang"
@@ -880,9 +888,10 @@ msgctxt "CR6_Wraith_Master_x1x4_Description"
 msgid "An undead hunter and his pet."
 msgstr ""
 
+#, fuzzy
 msgctxt "CR16_Wraith_Hunters_x3x2_Description"
 msgid "A powerful band of undead warriors."
-msgstr ""
+msgstr "강력한 언데드 전사들"
 
 msgctxt "CR2_Wind_Snakes_x4_Description"
 msgid "Small air elementals that like to kill."

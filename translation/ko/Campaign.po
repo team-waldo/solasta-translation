@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-23 15:16+0000\n"
-"Last-Translator: Jin <byungjinjun55@gmail.com>\n"
+"PO-Revision-Date: 2021-08-25 05:43+0000\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/campaign/"
 "ko/>\n"
 "Language: ko\n"
@@ -36,7 +36,7 @@ msgstr "마침내 도착한 캐런 경"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Annie01"
 msgid "Famous Already"
-msgstr "이미 유명한"
+msgstr "벌써 유명인사"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Annie02"
 msgid "The Scavengers"
@@ -100,7 +100,7 @@ msgstr "선서"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Gorim"
 msgid "Gorim's Emporium"
-msgstr "고림의 가게"
+msgstr "고림의 만물상"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Hugo"
 msgid "Hugo's Wonders"
@@ -385,7 +385,7 @@ msgstr "잠자는 숲속의 미녀"
 
 msgctxt "CrownOfTheMagister_Journal_Abjuration_02"
 msgid "The caravan"
-msgstr "행상인"
+msgstr "캐러밴"
 
 msgctxt "CrownOfTheMagister_Journal_Abjuration_03"
 msgid "Officer of the Day"
@@ -1150,26 +1150,28 @@ msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_20_Necropolis_Map"
 msgid "The Way It Used to Be"
 msgstr "과거의 방식"
 
+#, fuzzy
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_21_Necropolis_Statue01"
 msgid "The Slaver Emperor"
-msgstr ""
+msgstr "노예상의 황제"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_22_Necropolis_Statue02"
 msgid "The Prince"
-msgstr ""
+msgstr "왕자"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_23_Necropolis_Statue03"
 msgid "The Wife"
-msgstr ""
+msgstr "아내"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_24_Necropolis_Emperor"
 msgid "Anger"
-msgstr ""
+msgstr "분노"
 
+#, fuzzy
 msgctxt ""
 "CrownOfTheMagister_Journal_DialogTitle_Evocation_26_Necropolis_GhostReturn"
 msgid "To Oblivion"
-msgstr ""
+msgstr "망각으로"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_27_UrkaReveals"
 msgid "Gaks!"
@@ -1190,7 +1192,7 @@ msgstr ""
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_31_InsideCity"
 msgid "The Burned Throne"
-msgstr ""
+msgstr "불타버린 왕좌"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_32_FacingArrok"
 msgid "Heart of Fire"
@@ -1204,9 +1206,10 @@ msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_34_ArrokDefeated"
 msgid "Eruption"
 msgstr "분화"
 
+#, fuzzy
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_35_Ending"
 msgid "It's Over"
-msgstr ""
+msgstr "끝났어"
 
 #, fuzzy
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_16_CastleEntrance_b"

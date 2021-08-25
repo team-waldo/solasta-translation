@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-23 15:16+0000\n"
-"Last-Translator: James Park <jamespark9001@gmail.com>\n"
+"PO-Revision-Date: 2021-08-25 05:43+0000\n"
+"Last-Translator: Jin <byungjinjun55@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/"
 "tutorialstep/ko/>\n"
 "Language: ko\n"
@@ -404,15 +404,15 @@ msgid ""
 "Some character classes are granted a secondary fighting style at higher "
 "levels."
 msgstr ""
-"일부 캐릭터 클래스에서는 전투 스타일을 선택할 수 있습니다.\n"
+"일부 클래스는 전투 특화 방식을 선택할 수 있습니다.\n"
 "\n"
-"이러한 전투 스타일은 전투 기술이나 장비를 사용할 때 특정한 이점을 제공합니다.\n"
+"전투 특화는 특정 기술이나 장비를 사용할 때 추가 이점을 제공합니다.\n"
 "\n"
-"일부 캐릭터 클래스는 상위 레벨에서 2차 전투 스타일을 부여받습니다."
+"일부 클래스는 상위 레벨에서 추가 전투 특화 방식을 선택할 수 있습니다."
 
 msgctxt "OutgameCharacterCreationFightingStyleTitle"
 msgid "Fighting Style"
-msgstr "전투 스타일"
+msgstr "전투 특화"
 
 msgctxt "OutgameCharacterCreationIdentityDescription"
 msgid ""
@@ -558,6 +558,7 @@ msgctxt "RestingTitle"
 msgid "Resting"
 msgstr "휴식"
 
+#, fuzzy
 msgctxt "SelectionDescription"
 msgid ""
 "Select your characters by clicking on them in the 3D view, or drag a "
@@ -566,6 +567,9 @@ msgid ""
 "You can also click their portraits or use the Select All button at the "
 "bottom of the portrait list."
 msgstr ""
+"3D 뷰에서 클릭하거나 드래그하여 캐릭터를 선택하세요.\n"
+"초상화를 더블 클릭하면 특정 캐릭터에 고정됩니다.\n"
+"초상화들을 클릭하거나 초상화 목록 하단에 있는 \"모두 선택\" 버튼을 사용해도 됩니다."
 
 msgctxt "SelectionTitle"
 msgid "Character Selection"
@@ -593,7 +597,6 @@ msgctxt "Tuto_CampaignMap_Title"
 msgid "Travel Map"
 msgstr "여행 지도"
 
-#, fuzzy
 msgctxt "Tuto_CampaignMap2_Description"
 msgid ""
 "A slow pace lets you move cautiously, trying to remain hidden from monsters."
@@ -604,16 +607,17 @@ msgid ""
 "Rangers will be very useful while in their preferred terrain. You will find "
 "more food and are less likely to be surprised by monsters.\n"
 msgstr ""
-"느리게 이동하면 적에게 들키지 않고 조심스럽게 이동합니다.\n"
+"느린 속도는 적에게 들키지 않은 채로 조심스럽게 이동하는 것입니다.\n"
 "보통 속도는 그보다 빠르지만 위험합니다.\n"
 "빠른 속도가 가장 빠르지만 매우 위험합니다.\n"
 "\n"
-"선호하는 지형이 맞다면 레인저가 매우 유용합니다. 더 많은 음식을 찾을 수 있고 적에게 기습당할 확률이 낮아집니다.\n"
+"선호 지형에서는 레인저가 매우 유용합니다. 더 많은 음식을 찾을 수 있고 적에게 기습당할 확률이 낮아집니다.\n"
 
 msgctxt "Tuto_CampaignMap2_Title"
 msgid "Travel Pace"
 msgstr "여행 속도"
 
+#, fuzzy
 msgctxt "Tuto_CampaignMap3_Description"
 msgid ""
 "You can set up travel so you don't need to micromanage your party. \n"
@@ -625,11 +629,17 @@ msgid ""
 "You can open the post-rest window after a long rest, for instance, to modify "
 "your prepared spells.\n"
 msgstr ""
+"여행을 설정하면 파티를 세세하게 관리할 필요가 없습니다.\n"
+"\n"
+"누군가가 레벨을 올릴 수 있을 때마다 그 날의 여행을 마치지 않고 긴 휴식을 즉시 시작할 수 있습니다.\n"
+"제작 작업이 완료되면 시간을 낭비하지 않고 새 작업을 설정할 수 있습니다.\n"
+"예를 들어, 긴 휴식 후에 준비된 주문을 변경하기 위해 휴식 후 창을 열 수 있습니다.\n"
 
 msgctxt "Tuto_CampaignMap3_Title"
 msgid "Travel Settings"
-msgstr ""
+msgstr "여행 설정"
 
+#, fuzzy
 msgctxt "Tuto_CampaignMap4_Description"
 msgid ""
 "Your heroes normally plan their travel so that they are always fit and ready "
@@ -639,10 +649,14 @@ msgid ""
 "enough time to eat and sleep, and for other activities such as crafting, "
 "talking, playing games, playing an instrument, and praying.\n"
 msgstr ""
+"당신의 영웅들은 건강을 유지하고 상황에 대응하기 위해 일반적으로 여행을 계획합니다.\n"
+"\n"
+"이 일과는 하루의 여행을 최대 8시간으로 제한하고, 먹고 자는 일, 그리고 제작, 대화, 게임, 악기 연주, 및 기도와 같은 기타 활동을 "
+"위해 충분한 시간을 남겨 둡니다.\n"
 
 msgctxt "Tuto_CampaignMap4_Title"
 msgid "Travel Routine"
-msgstr ""
+msgstr "여행 일과"
 
 msgctxt "Tuto_CampaignMap5_Description"
 msgid ""
@@ -657,7 +671,7 @@ msgstr ""
 
 msgctxt "Tuto_CampaignMap5_Title"
 msgid "Travel Fatigue"
-msgstr ""
+msgstr "여행 피로"
 
 msgctxt "Tuto_CampaignMap6_Description"
 msgid ""
@@ -673,7 +687,7 @@ msgstr ""
 
 msgctxt "Tuto_CampaignMap6_Title"
 msgid "Interrupting Travel"
-msgstr ""
+msgstr "여행 중단"
 
 msgctxt "Tuto_CampaignMap7_Description"
 msgid ""
@@ -710,7 +724,7 @@ msgstr ""
 
 msgctxt "Tuto_FindCouncil_Title"
 msgid "Finding Your Way in Caer Cyflen"
-msgstr ""
+msgstr "케어 키플린에서 길 찾기"
 
 msgctxt "Tuto_LevelUp_Description"
 msgid ""
@@ -765,7 +779,7 @@ msgstr ""
 
 msgctxt "Tuto_LevelUpGeneric_Title"
 msgid "Leveling Up"
-msgstr ""
+msgstr "레벨업"
 
 msgctxt "Tuto_LocationMap_Description"
 msgid ""
@@ -791,9 +805,10 @@ msgid ""
 "Click on the fast travel button and select Yes.\n"
 msgstr ""
 
+#, fuzzy
 msgctxt "Tuto_LocationMap2_Title"
 msgid "Fast Exit Location"
-msgstr ""
+msgstr "빠른 출구 위치"
 
 msgctxt "Tuto_LocationMapGeneric_Description"
 msgid ""
@@ -809,7 +824,7 @@ msgstr ""
 
 msgctxt "Tuto_LocationMapGeneric_Title"
 msgid "Location Map"
-msgstr ""
+msgstr "지역 지도"
 
 msgctxt "Tuto_LocationMapGeneric2_Description"
 msgid ""
@@ -823,7 +838,7 @@ msgstr ""
 
 msgctxt "Tuto_LocationMapGeneric2_Title"
 msgid "Map Icons"
-msgstr ""
+msgstr "지도 아이콘"
 
 msgctxt "Tuto_LocationMapGeneric3_Description"
 msgid ""
@@ -834,7 +849,7 @@ msgstr ""
 
 msgctxt "Tuto_LocationMapGeneric3_Title"
 msgid "Fast Travel"
-msgstr ""
+msgstr "빠른 여행"
 
 msgctxt "Tuto_LocationMapGeneric4_Description"
 msgid ""
@@ -845,7 +860,7 @@ msgstr ""
 
 msgctxt "Tuto_LocationMapGeneric4_Title"
 msgid "Fast Exit Location"
-msgstr ""
+msgstr "빠른 출구 위치"
 
 msgctxt "Tuto_ManaLamps_Description"
 msgid ""
@@ -909,7 +924,7 @@ msgstr ""
 
 msgctxt "Tuto_ReadyAnAction_Title"
 msgid "Ready an Action"
-msgstr ""
+msgstr "행동 준비"
 
 #, fuzzy
 msgctxt "Tuto_ShortRest_Description"
@@ -959,7 +974,7 @@ msgstr ""
 
 msgctxt "Tuto_Stalactites_Title"
 msgid "Falling Hazards"
-msgstr ""
+msgstr "추락 위험"
 
 msgctxt "Tuto_SurpriseAttack_Description"
 msgid ""
@@ -1017,7 +1032,7 @@ msgstr ""
 
 msgctxt "Tuto_Telema_CameraElevation_Title"
 msgid "Camera Elevation"
-msgstr ""
+msgstr "카메라 고도"
 
 msgctxt "Tuto_Telema_Crafting_Description"
 msgid ""
@@ -1061,7 +1076,7 @@ msgstr ""
 
 msgctxt "Tuto_Telema_Identify1_Title"
 msgid "Identifying Magic Items"
-msgstr ""
+msgstr "마법 아이템 식별"
 
 msgctxt "Tuto_Telema_Identify2_Description"
 msgid ""
@@ -1184,7 +1199,7 @@ msgstr ""
 
 msgctxt "Tuto01_Climbing_and_jumping3_Title"
 msgid "Alternate Paths"
-msgstr ""
+msgstr "다른 경로"
 
 msgctxt "Tuto01_Crawling_Description"
 msgid ""
@@ -1509,7 +1524,7 @@ msgstr ""
 
 msgctxt "Tuto03_Sneak_Attack_Title"
 msgid "Surprise Attack"
-msgstr ""
+msgstr "기습"
 
 msgctxt "Tuto04_Attack_Shove_Description"
 msgid ""
@@ -1524,7 +1539,7 @@ msgstr ""
 
 msgctxt "Tuto04_Attack_Shove_Title"
 msgid "Attacking"
-msgstr ""
+msgstr "공격"
 
 msgctxt "Tuto04_Attack_Shove2_Description"
 msgid ""
@@ -1538,7 +1553,7 @@ msgstr ""
 
 msgctxt "Tuto04_Attack_Shove2_Title"
 msgid "Shoving"
-msgstr ""
+msgstr "밀치기"
 
 msgctxt "Tuto04_Dashing_Description"
 msgid ""
@@ -1580,7 +1595,7 @@ msgstr ""
 
 msgctxt "Tuto04_Dodging_Title"
 msgid "Dodging"
-msgstr ""
+msgstr "회피"
 
 msgctxt "Tuto04_Opportunity_Description"
 msgid ""
@@ -1595,7 +1610,7 @@ msgstr ""
 
 msgctxt "Tuto04_Opportunity_Title"
 msgid "Opportunity Attacks"
-msgstr ""
+msgstr "기회 공격"
 
 msgctxt "Tuto04_Sleight_Description"
 msgid ""
@@ -1608,7 +1623,7 @@ msgstr ""
 
 msgctxt "Tuto04_Sleight_Title"
 msgid "Sleight of Hand"
-msgstr ""
+msgstr "손재주"
 
 msgctxt "TutoT4_Critical_Description"
 msgid ""
@@ -1618,9 +1633,10 @@ msgid ""
 "This means if you let them die, the game is over.\n"
 msgstr ""
 
+#, fuzzy
 msgctxt "TutoT4_Critical_Title"
 msgid "Critical Characters"
-msgstr ""
+msgstr "중요 인물"
 
 msgctxt "UsingCameraDescription"
 msgid ""
@@ -1635,7 +1651,7 @@ msgstr ""
 
 msgctxt "UsingCameraTitle"
 msgid "Using the Camera"
-msgstr ""
+msgstr "카메라 활용"
 
 msgctxt "Tuto_Explosive_Description"
 msgid ""
@@ -1661,7 +1677,7 @@ msgstr ""
 
 msgctxt "Crafting01Title"
 msgid "Crafting"
-msgstr ""
+msgstr "제작"
 
 msgctxt "Crafting01Description"
 msgid ""
@@ -1678,7 +1694,7 @@ msgstr ""
 
 msgctxt "Crafting02Title"
 msgid "Crafting Equipment"
-msgstr ""
+msgstr "장비 제작"
 
 msgctxt "Crafting02Description"
 msgid ""
@@ -1694,7 +1710,7 @@ msgstr ""
 
 msgctxt "Crafting03Title"
 msgid "Crafting Skills"
-msgstr ""
+msgstr "제작 기술"
 
 msgctxt "Crafting03Description"
 msgid ""
@@ -1707,7 +1723,7 @@ msgstr ""
 
 msgctxt "Crafting04Title"
 msgid "Crafting Ingredients"
-msgstr ""
+msgstr "제작 재료"
 
 msgctxt "Crafting04Description"
 msgid ""
@@ -1723,7 +1739,7 @@ msgstr ""
 
 msgctxt "Crafting05Title"
 msgid "Crafting Recipes"
-msgstr ""
+msgstr "제작법"
 
 msgctxt "Crafting05Description"
 msgid ""
@@ -1751,7 +1767,7 @@ msgstr ""
 
 msgctxt "Tuto_SurpriseAttack3_Title"
 msgid "Surprise Attack"
-msgstr ""
+msgstr "기습"
 
 msgctxt "Tuto_SurpriseAttack3_Description"
 msgid ""
@@ -1766,7 +1782,7 @@ msgstr ""
 
 msgctxt "Tuto_T8_Scav01_Title"
 msgid "Scavenger System"
-msgstr ""
+msgstr "스캐빈저 시스템"
 
 msgctxt "Tuto_T8_Scav01_Description"
 msgid ""
@@ -1776,9 +1792,10 @@ msgid ""
 "Each time you visit a Scavenger HQ, you can claim the money they owe you."
 msgstr ""
 
+#, fuzzy
 msgctxt "Tuto_T8_Scav02_Title"
 msgid "Getting Your Gold"
-msgstr ""
+msgstr "금액 청구"
 
 msgctxt "Tuto_T8_Scav02_Description"
 msgid ""
@@ -1791,7 +1808,7 @@ msgstr ""
 
 msgctxt "Tuto_T8_CriticalCharacters_Title"
 msgid "Critical Characters"
-msgstr ""
+msgstr "중요 인물"
 
 msgctxt "Tuto_T8_CriticalCharacters_Description"
 msgid ""
@@ -1803,7 +1820,7 @@ msgstr ""
 
 msgctxt "PickupQuests_Title"
 msgid "Pick up Quests"
-msgstr ""
+msgstr "퀘스트 선택"
 
 msgctxt "PickupQuests_Description"
 msgid ""
@@ -1814,9 +1831,10 @@ msgid ""
 "Beware: Some of these quests are more dangerous that they may seem."
 msgstr ""
 
+#, fuzzy
 msgctxt "MajorGateBoneKeep_Title"
 msgid "Major Gate"
-msgstr ""
+msgstr "주 관문"
 
 msgctxt "MajorGateBoneKeep_Description"
 msgid ""
@@ -1827,7 +1845,7 @@ msgstr ""
 
 msgctxt "Tuto_Legendary_01_Title"
 msgid "Legendary Quest"
-msgstr ""
+msgstr "전설 퀘스트"
 
 msgctxt "Tuto_Legendary_01_Description"
 msgid ""
@@ -1837,17 +1855,17 @@ msgstr ""
 
 msgctxt "Tuto_Legendary_02_Title"
 msgid "Cancel Quest"
-msgstr ""
+msgstr "퀘스트 취소"
 
 msgctxt "Tuto_Legendary_02_Description"
 msgid ""
 "If you exit the location without completing the quest, it will be failed "
 "definitevely."
-msgstr ""
+msgstr "퀘스트를 완료하지 않고 해당 위치를 벗어나면 반드시 실패합니다."
 
 msgctxt "Tuto_TDLC1_T1_Redeemers_Title"
 msgid "Remain Cautious!"
-msgstr ""
+msgstr "조심하세요!"
 
 msgctxt "Tuto_TDLC1_T1_Redeemers_Description"
 msgid ""

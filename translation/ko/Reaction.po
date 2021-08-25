@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-21 07:45+0000\n"
+"PO-Revision-Date: 2021-08-25 05:43+0000\n"
 "Last-Translator: 배정기 <wjdrl5195@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/reaction/"
 "ko/>\n"
@@ -31,12 +31,13 @@ msgstr "주문 시전"
 
 msgctxt "AlterAttackSpellTitle"
 msgid "Prevent incoming attack."
-msgstr ""
+msgstr "진행중인 공격을 막습니다."
 
+#, fuzzy
 msgctxt "BlockAttackDescription"
 msgid ""
 "{0} is attacking {1}! You can react to impose disadvantage upon the enemy."
-msgstr ""
+msgstr "{0}이(가) {1}을(를) 공격하고 있습니다! 적에게 불이익을 줄 수 있습니다."
 
 msgctxt "BlockAttackReactDescription"
 msgid ""
@@ -68,7 +69,7 @@ msgstr "{0}이(가) 위험하게 떨어집니다! {1}을(를) 시전하여 피�
 #, fuzzy
 msgctxt "CastFallPreventionSpellReactDescription"
 msgid "Click to cast the {0} spell and prevent fall damage."
-msgstr "클릭하면 {0} 주문을 시전하고 낙상 피해를 막습니다."
+msgstr "{0} 주문을 시전하여 낙상 피해를 막으려면 클릭하세요."
 
 #, fuzzy
 msgctxt "CastFallPreventionSpellReactTitle"
@@ -87,7 +88,7 @@ msgstr "{0}이(가) {1}에 {3}을(를) 시전하고 있습니다! {2}을(를) �
 #, fuzzy
 msgctxt "CastImmunityToSpellReactDescription"
 msgid "Click to cast {0} and counter the spell attack."
-msgstr "클릭하여 {0}을(를) 시전하고 주문 공격에 대응합니다."
+msgstr "{0}을(를) 시전하고 주문 공격에 대응하려면 클릭하세요."
 
 #, fuzzy
 msgctxt "CastImmunityToSpellReactTitle"
@@ -124,13 +125,15 @@ msgctxt "CounterAttackWithPowerTitle"
 msgid "Enemy Attack"
 msgstr "적 공격"
 
+#, fuzzy
 msgctxt "CounterSpellDescription"
 msgid "{0} is casting a spell! You can react to counter the spell."
-msgstr ""
+msgstr "{0}이(가) 주문을 시전중입니다! 주문에 대응할 수 있습니다."
 
+#, fuzzy
 msgctxt "CounterSpellReactDescription"
 msgid "Click to cast counterspell and counter the enemy spell."
-msgstr ""
+msgstr "반격주문을 시전하여 적의 주문에 대응하려면 클릭하세요."
 
 msgctxt "CounterSpellReactTitle"
 msgid "Counter"
@@ -147,16 +150,16 @@ msgstr ""
 
 msgctxt "GiantKillerReactDescription"
 msgid "Click to counter-attack. This uses your reaction until your next turn."
-msgstr ""
+msgstr "클릭하여 반격합니다.  다음 턴까지 당신의 반응 행동을 소모합니다."
 
-#, fuzzy
 msgctxt "GiantKillerReactTitle"
 msgid "Attack"
 msgstr "공격"
 
+#, fuzzy
 msgctxt "GiantKillerTitle"
 msgid "Giant Killer"
-msgstr ""
+msgstr "자이언트 킬러"
 
 msgctxt "MainTitle"
 msgid "Reacting to"
@@ -166,11 +169,12 @@ msgctxt "OpportunityAttackDescription"
 msgid "{0} is leaving an area threatened by one or more characters."
 msgstr ""
 
+#, fuzzy
 msgctxt "OpportunityAttackReactDescription"
 msgid ""
 "Click to attack the retreating character/creature. This uses your reaction "
 "until your next turn."
-msgstr ""
+msgstr "후퇴하는 캐릭터/크리쳐를 공격하려면 클릭하세요. 다음 턴까지 당신의 반응 행동을 이용합니다."
 
 msgctxt "OpportunityAttackReactTitle"
 msgid "Attack"
@@ -194,13 +198,14 @@ msgid ""
 "attack."
 msgstr ""
 
+#, fuzzy
 msgctxt "ReactionShotReactDescription"
 msgid "Click to counterattack. This uses your reaction until your next turn."
-msgstr ""
+msgstr "클릭하여 반격합니다. 다음 턴까지 당신의 반응 행동을 이용합니다."
 
 msgctxt "ReactionShotReactTitle"
 msgid "Attack"
-msgstr ""
+msgstr "공격"
 
 msgctxt "ReactionShotTitle"
 msgid "Reaction Shot"
@@ -210,9 +215,10 @@ msgctxt "SecondsTitle"
 msgid "sec"
 msgstr ""
 
+#, fuzzy
 msgctxt "SpendPowerPowerDomainBattleDecisiveStrikeDescription"
 msgid "{0} can strike with additional damage by using Channel Divinity."
-msgstr ""
+msgstr "{0}은(는) 신성 변환을 사용하여 추가 피해를 줄 수 있습니다."
 
 msgctxt "SpendPowerPowerDomainBattleDecisiveStrikeReactDescription"
 msgid "Click to boost damage using Channel Divinity: Decisive Strike."

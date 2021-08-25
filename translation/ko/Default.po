@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-23 15:16+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
+"PO-Revision-Date: 2021-08-25 05:43+0000\n"
+"Last-Translator: Lee Sang Hwan <pryan2001@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/default/ko/"
 ">\n"
 "Language: ko\n"
@@ -369,9 +369,10 @@ msgctxt "PoisonbulbTitle"
 msgid "Poison Bulb"
 msgstr ""
 
+#, fuzzy
 msgctxt "ChandelierfallTitle"
 msgid "Chandelier Fall"
-msgstr ""
+msgstr "샹들리에 폭포"
 
 msgctxt "FireburstTitle"
 msgid "Fiery Explosion"
@@ -393,7 +394,6 @@ msgctxt "DefenseTitle"
 msgid "Defense"
 msgstr "방어"
 
-#, fuzzy
 msgctxt "DuelingDescription"
 msgid ""
 "When you are wielding a melee weapon in one hand and no other weapons, you "
@@ -453,7 +453,7 @@ msgstr "왼쪽Shift + "
 
 msgctxt "MainFormat"
 msgid "Shortcut: {0}"
-msgstr "바로가기: {0}"
+msgstr "단축키: {0}"
 
 msgctxt "OrFormat"
 msgid "or "
@@ -931,9 +931,10 @@ msgctxt "Sandreed_Title"
 msgid "SANDREED"
 msgstr "샌드리드"
 
+#, fuzzy
 msgctxt "SNOWALLIANCE_Title"
 msgid "THE SNOW ALLIANCE"
-msgstr ""
+msgstr "설산 동맹"
 
 msgctxt "FactionRelationDecreaseDescription"
 msgid "Your relations with this faction have worsened."
@@ -1032,11 +1033,11 @@ msgstr "비전 회복"
 
 msgctxt "AttuneItemDescription"
 msgid "Attuning to an item accesses its advanced properties and functions."
-msgstr ""
+msgstr "아이템을 조율하면 고급 속성 및 기능을 사용할 수 있습니다."
 
 msgctxt "AttuneItemTitle"
 msgid "Attune Item"
-msgstr ""
+msgstr "아이템 조율"
 
 msgctxt "LevelUpDescription"
 msgid "Start the level up sequence for this character."
@@ -1070,7 +1071,7 @@ msgid ""
 "Once per day when you complete a short rest, you can recover a number of "
 "expended spell slots (max 5th level) up to half of your druid level, rounded "
 "up."
-msgstr ""
+msgstr "하루에 한 번 짧은 휴식을 완료하면 소모된 주문 슬롯(최대 5레벨)을 드루이드 레벨의 절반(반올림)만큼 복구할 수 있습니다."
 
 msgctxt "AbjurationTitle"
 msgid "Abjuration"
@@ -1185,10 +1186,12 @@ msgid ""
 "Areas of snow or permafrost are considered arctic terrain. Beware, this "
 "Terrain Type is not used in the Crown of the Magister campaign."
 msgstr ""
+"눈 또는 영구 동토층이 있는 지역은 극한 지형으로 간주됩니다. 주의하십시오. 이 지형 유형은 Crown of the Magister "
+"캠페인에서 사용되지 않습니다."
 
 msgctxt "ArcticTitle"
 msgid "Arctic"
-msgstr ""
+msgstr "북극"
 
 msgctxt "BadlandsDescription"
 msgid ""
@@ -1197,35 +1200,37 @@ msgid ""
 "Cataclysm magic, are considered Badlands terrain."
 msgstr ""
 
+#, fuzzy
 msgctxt "CoastDescription"
 msgid ""
 "Areas containing a coastline are considered coast terrain. Beware, this "
 "Terrain Type is not used in the Crown of the Magister campaign."
 msgstr ""
+"해안선을 포함하는 지역은 해안 지형으로 간주됩니다. 주의하십시오. 이 유형의 지형은 마지스터의 왕관 캠페인에서 사용되지 않습니다."
 
 msgctxt "CoastTitle"
 msgid "Coast"
-msgstr ""
+msgstr "해안"
 
 msgctxt "DablandsTitle"
 msgid "Badlands"
-msgstr ""
+msgstr "황무지"
 
 msgctxt "DesertDescription"
 msgid ""
 "Arid areas with little or no rain and minimal vegetation are considered "
 "desert terrain."
-msgstr ""
+msgstr "강수량이 적거나 없고 초목이 거의 없는 건조한 지역은 사막 지형으로 간주됩니다."
 
 msgctxt "DesertTitle"
 msgid "Desert"
-msgstr ""
+msgstr "사막"
 
 msgctxt "ForestDescription"
 msgid ""
 "Areas with lush vegetation and large areas of woods are considered forest "
 "terrain."
-msgstr ""
+msgstr "무성한 초목과 넓은 지역의 숲이 있는 지역은 산림 지형으로 간주됩니다."
 
 msgctxt "ForestTitle"
 msgid "Forest"
@@ -1235,31 +1240,31 @@ msgctxt "GrasslandDescription"
 msgid ""
 "Areas with rare forests and vast areas of green plains are considered "
 "grassland terrain."
-msgstr ""
+msgstr "숲이 거의 없고 광대한 녹지가 있는 지역은 초원 지형으로 간주됩니다."
 
 msgctxt "GrasslandTitle"
 msgid "Grassland"
-msgstr ""
+msgstr "초원"
 
 msgctxt "MountainDescription"
 msgid ""
 "Areas with rocky ground, hills, and mountains are considered mountain "
 "terrain."
-msgstr ""
+msgstr "바위가 많은 땅, 언덕 및 산이 있는 지역은 산악 지형으로 간주됩니다."
 
 msgctxt "MountainTitle"
 msgid "Mountain"
-msgstr ""
+msgstr "산"
 
 msgctxt "SwampDescription"
 msgid ""
 "Areas with marshes and ponds and a humid atmosphere are considered swamp "
 "terrain."
-msgstr ""
+msgstr "습지와 연못이 있고 대기가 습한 지역은 늪지 지형으로 간주됩니다."
 
 msgctxt "SwampTitle"
 msgid "Swamp"
-msgstr ""
+msgstr "늪"
 
 msgctxt "BasicsTitle"
 msgid "Basics"
@@ -1277,25 +1282,28 @@ msgctxt "InventoryTitle"
 msgid "Inventory"
 msgstr "인벤토리"
 
+#, fuzzy
 msgctxt "TravelTitle"
 msgid "Travel"
-msgstr ""
+msgstr "여행"
 
 msgctxt "Basics_CameraTitle"
 msgid "Camera"
-msgstr ""
+msgstr "카메라"
 
+#, fuzzy
 msgctxt "Basics_MovingTitle"
 msgid "Moving"
-msgstr ""
+msgstr "이동"
 
 msgctxt "Basics_PartyMngtTitle"
 msgid "Party Management"
-msgstr ""
+msgstr "파티 관리"
 
+#, fuzzy
 msgctxt "Basics_QuestTitle"
 msgid "Quest Log"
-msgstr ""
+msgstr "퀘스트 일지"
 
 msgctxt "CombatMovementTitle"
 msgid "Movement"
@@ -1317,9 +1325,10 @@ msgctxt "Exploration_PointsOfInterestTitle"
 msgid "Points of Interest"
 msgstr ""
 
+#, fuzzy
 msgctxt "ExplorationJumpingClimbingTitle"
 msgid "Jumping and Climbing"
-msgstr ""
+msgstr "점프 및 등반"
 
 msgctxt "Inventory_LootingTitle"
 msgid "Looting"
@@ -1331,11 +1340,11 @@ msgstr ""
 
 msgctxt "Exploration_MagicTitle"
 msgid "Magic"
-msgstr ""
+msgstr "마법"
 
 msgctxt "Factions_Title"
 msgid "Faction Relations"
-msgstr ""
+msgstr "세력 관계"
 
 msgctxt "Factions_Description"
 msgid ""
@@ -1357,12 +1366,15 @@ msgctxt "PartyStash_Title"
 msgid "Party Stash"
 msgstr "파티 보관함"
 
+#, fuzzy
 msgctxt "PartyStash_Description"
 msgid ""
 "This chest is yours to use. No one can loot it, you can stash up to 50 items "
 "inside it. Many adventurers use this Scavenger service to store some of "
 "their stuff."
 msgstr ""
+"이 궤짝은 당신의 것입니다. 누구도 약탈할 수 없으며, 최대 50개의 아이템을 보관할 수 있습니다. 많은 모험가들이 그들의 물건을 "
+"보관하기 위해 이 스캐빈저 서비스를 사용합니다."
 
 msgctxt "QuickShopping_Title"
 msgid "Quick Shopping"
@@ -1385,6 +1397,9 @@ msgid ""
 "This is critical for your survival. Use light spells and torches - check for "
 "torch holders to illuminate in the environment!"
 msgstr ""
+"빛은 솔라스타에서 특정 적과 싸우는 데 매우 중요하다는 것을 잊지 마십시오.\n"
+"예를 들어, 소락은 빛이 약할 때 더 강력해지고, 완전한 어둠 속에서는 더욱 더 강력해집니다.\n"
+"이것은 당신의 생존에 매우 중요합니다. 빛 속성 주문과 횃불을 사용하십시오 - 횃불을 든 캐릭터가 주변을 잘 밝히도록 하십시오!"
 
 msgctxt "DiffSettings_Title"
 msgid "Difficulty Settings"
@@ -1404,7 +1419,7 @@ msgstr ""
 
 msgctxt "Tutorial_Highlight_Title"
 msgid "Highlighting Interactable Objects"
-msgstr ""
+msgstr "상호작용 가능한 대상 강조"
 
 msgctxt "Tutorial_Highlight_Description"
 msgid ""
@@ -1587,11 +1602,11 @@ msgstr "배경음악 없음"
 
 msgctxt "CaerLemTitle"
 msgid "Caer Lem"
-msgstr ""
+msgstr "Caer Lem"
 
 msgctxt "CaerCyflenTitle"
 msgid "Caer Cyflen"
-msgstr ""
+msgstr "Caer Cyflen"
 
 msgctxt "DarkCastleExteriorTitle"
 msgid "Dark Castle (Exterior)"
@@ -1599,43 +1614,43 @@ msgstr ""
 
 msgctxt "CoparanTitle"
 msgid "Coparann"
-msgstr ""
+msgstr "Coparann"
 
 msgctxt "WizardsTowerTitle"
 msgid "Wizard's Tower"
-msgstr ""
+msgstr "Wizard's Tower"
 
 msgctxt "MastermindTitle"
 msgid "Mastermind"
-msgstr ""
+msgstr "Mastermind"
 
 msgctxt "CradleOfFireTitle"
 msgid "Cradle of Fire"
-msgstr ""
+msgstr "Cradle of Fire"
 
 msgctxt "AerElaiTitle"
 msgid "Aer Elai"
-msgstr ""
+msgstr "Aer Elai"
 
 msgctxt "TheNecromancerTitle"
 msgid "The Necromancer"
-msgstr ""
+msgstr "The Necromancer"
 
 msgctxt "RuinsOfTelemaTitle"
 msgid "Ruins of Telema"
-msgstr ""
+msgstr "Ruins of Telema"
 
 msgctxt "PrisonEscapeTitle"
 msgid "Prison Escape"
-msgstr ""
+msgstr "Prison Escape"
 
 msgctxt "TheLightBringersTitle"
 msgid "The Lightbringers"
-msgstr ""
+msgstr "The Lightbringers"
 
 msgctxt "ShadowsTitle"
 msgid "Shadows"
-msgstr "그림자"
+msgstr "Shadows"
 
 msgctxt "CollapsingRoofTitle"
 msgid "Collapsing Roof"
@@ -1725,9 +1740,10 @@ msgctxt "50_GP_Art_ItemsTitle"
 msgid "50 gp Art Items"
 msgstr ""
 
+#, fuzzy
 msgctxt "BackerItemsTitle"
 msgid "Backer Item Pack"
-msgstr ""
+msgstr "후원자 아이템 팩"
 
 msgctxt "BackerItemsDescription"
 msgid ""
@@ -1736,9 +1752,10 @@ msgid ""
 "Council."
 msgstr ""
 
+#, fuzzy
 msgctxt "DigitalBackerContentTitle"
 msgid "Digital Edition Pack"
-msgstr ""
+msgstr "디지털 에디션 팩"
 
 msgctxt "DigitalBackerContentDescription"
 msgid ""
@@ -1767,9 +1784,10 @@ msgid ""
 "Dungeon Maker content"
 msgstr "소서러 클래스와 서브클래스 3개, 철인 모드와 새로운 던전 메이커 컨텐츠 추가"
 
+#, fuzzy
 msgctxt "SupporterPackTitle"
 msgid "Supporter Pack"
-msgstr ""
+msgstr "서포터 팩"
 
 msgctxt "SupporterPackDescription"
 msgid ""
@@ -1777,9 +1795,10 @@ msgid ""
 "the eternal love of the Tactical Adventures team"
 msgstr ""
 
+#, fuzzy
 msgctxt "PrimalPowerTitle"
 msgid "Primal Power"
-msgstr ""
+msgstr "근원의 힘"
 
 msgctxt "PrimalPowerDescription"
 msgid ""
@@ -1789,4 +1808,4 @@ msgstr ""
 
 msgctxt "RosLastName"
 msgid "Ros"
-msgstr ""
+msgstr "로스"
