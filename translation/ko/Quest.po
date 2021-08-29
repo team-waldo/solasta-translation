@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-25 05:43+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
+"PO-Revision-Date: 2021-08-29 08:06+0000\n"
+"Last-Translator: 홍성원 <hsw2201@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/quest/ko/>"
 "\n"
 "Language: ko\n"
@@ -90,7 +90,7 @@ msgid ""
 "You helped caravan master Galar Goldentongue to fend off a couple of "
 "bandits. Now he's asked you to take the news of someone's death to Coparann."
 msgstr ""
-"당신은 행상 우두머리인 갈라 골든텅이 도적 몇 명을 물리치는 것을 도왔습니다. 이제 그는 코파란으로 누군가의 부고를 전해 달라고 "
+"당신은 상단 우두머리인 갈라 골든텅이 도적 몇 명을 물리치는 것을 도왔습니다. 이제 그는 코파란으로 누군가의 부고를 전해 달라고 "
 "부탁했습니다."
 
 msgctxt "Abjuration_Quest_04_ExploreCaravanTitleDescription"
@@ -693,7 +693,7 @@ msgstr ""
 
 msgctxt "Caer_Cyflen_Quest_AfterCaerLem_03_Talk2Survivors_Title"
 msgid "Talk to One of the Survivors from Caer Lem"
-msgstr ""
+msgstr "캐어 렘의 생존자 중 한 명과 대화하기"
 
 msgctxt "Caer_Cyflen_Quest_AfterCaerLem_04_Travel2TOM_Description"
 msgid ""
@@ -852,7 +852,7 @@ msgstr ""
 
 msgctxt "Caer_Cyflen_Quest_AfterTutorial_01_MeetCouncil_Title"
 msgid "Meet Carran at the Legacy Council"
-msgstr "계승 의회에서 캐런 경 만나기"
+msgstr "유산 평의회에서 캐런 경 만나기"
 
 msgctxt "Caer_Cyflen_Quest_AfterTutorial_02_LevelUp_Description"
 msgid ""
@@ -908,7 +908,7 @@ msgstr ""
 
 msgctxt "Caer_Cyflen_Quest_AfterTutorial_Title"
 msgid "The Legacy Council"
-msgstr "계승 의회"
+msgstr "유산 평의회"
 
 msgctxt "Caer_Cyflen_Secondary_Quest_Visit_Hugo_MeetHugo_Outcome1Description"
 msgid "You have visited Hugo's shop."
@@ -6132,9 +6132,10 @@ msgctxt "DLC1_Quest_Marches_NPC2_Spy_01_FindTheGreenBook_Outcome1Description"
 msgid "You didn't return any document to Lady Fairblade."
 msgstr ""
 
+#, fuzzy
 msgctxt "DLC1_Quest_Marches_NPC2_Spy_01_FindTheGreenBook_Outcome2Description"
 msgid "You found a notebook in Ving's backpack."
-msgstr ""
+msgstr "빙의 배낭에서 공책을 찾았습니다."
 
 msgctxt "DLC1_Quest_Marches_NPC2_Spy_02_ReturnGreenBookTitle"
 msgid "Return the notebook"
@@ -6189,13 +6190,15 @@ msgctxt "DLC1_Quest_Marches_06_LevelUpTitle"
 msgid "Level Up"
 msgstr ""
 
+#, fuzzy
 msgctxt "DLC1_Quest_Marches_06_LevelUpDescription"
 msgid "Use the Campfire to Take a Long Rest and level up."
-msgstr ""
+msgstr "모닥불을 이용하여 긴 휴식을 취하고 레벨을 올리세요."
 
+#, fuzzy
 msgctxt "DLC1_Quest_Marches_06_LevelUp_Outcome1Description"
 msgid "You rested well and prepared to search the grotto again."
-msgstr ""
+msgstr "당신은 충분한 휴식을 취했고 다시 동굴을 탐색할 준비가 되었습니다."
 
 msgctxt "DLC1_Quest_Marches_07_ExploreBeyondTitle"
 msgid "Explore the grotto carefully"
@@ -6208,20 +6211,22 @@ msgid ""
 "aware of hidden objects."
 msgstr ""
 
+#, fuzzy
 msgctxt "DLC1_Quest_Marches_07_ExploreBeyond_Outcome1Description"
 msgid ""
 "You found a hidden passage through the cave's walls. Ving has probably used "
 "this to escape the bear."
-msgstr ""
+msgstr "동굴 벽을 통과하는 숨겨진 통로를 찾았습니다. 아마도 빙은 곰에게서 탈출하기 위해 이 통로를 사용했을 것입니다."
 
 msgctxt "DLC1_Quest_Marches_08_EnteredNestTitle"
 msgid "Follow the tracks"
 msgstr ""
 
+#, fuzzy
 msgctxt "DLC1_Quest_Marches_08_EnteredNestDescription"
 msgid ""
 "There's no doubt Ving went this way. Follow the tracks until you find him."
-msgstr ""
+msgstr "빙은 틀림없이 이쪽으로 갔을 겁니다. 그를 찾을 때까지 발자국을 따라가세요."
 
 msgctxt "DLC1_Quest_Marches_08_EnteredNest_Outcome1Description"
 msgid ""
