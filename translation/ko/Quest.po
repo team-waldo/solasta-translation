@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-29 08:06+0000\n"
+"PO-Revision-Date: 2021-09-02 13:51+0000\n"
 "Last-Translator: 홍성원 <hsw2201@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/quest/ko/>"
 "\n"
@@ -455,35 +455,35 @@ msgstr "아성 안으로 들어가 마스터를 찾으십시오."
 
 msgctxt "BoneKeep_Quest_Step03_Title"
 msgid "Enter the Castle's Keep"
-msgstr ""
+msgstr "아성에 들어가기"
 
 msgctxt "BoneKeep_Quest_Step04__Outcome1Description"
 msgid "You have found an underground passage."
-msgstr ""
+msgstr "당신은 지하 통로를 발견했습니다."
 
 msgctxt "BoneKeep_Quest_Step04_Description"
 msgid "Search the courtyard for another way into the keep."
-msgstr ""
+msgstr "안뜰에서 아성으로 들어가는 다른 길을 찾으십시오."
 
 msgctxt "BoneKeep_Quest_Step04_Title"
 msgid "Find Another Way In"
-msgstr ""
+msgstr "들어가는 다른 길 찾기"
 
 msgctxt "BoneKeep_Quest_Step05__Outcome1Description"
 msgid "You have entered the keep."
-msgstr ""
+msgstr "당신은 아성에 들어왔습니다."
 
 msgctxt "BoneKeep_Quest_Step05_Description"
 msgid "Navigate through the tunnels to find a way into the keep."
-msgstr ""
+msgstr "터널을 탐색하여 아성으로 가는 길을 찾으십시오."
 
 msgctxt "BoneKeep_Quest_Step05_Title"
 msgid "Explore the Tunnels"
-msgstr ""
+msgstr "터널을 탐험하기"
 
 msgctxt "BoneKeep_Quest_Step06__Outcome1Description"
 msgid "You have found a hidden stair to the next floor."
-msgstr ""
+msgstr "당신은 다음 층으로 가는 숨겨진 계단을 발견했습니다."
 
 msgctxt "BoneKeep_Quest_Step06_Description"
 msgid "Explore the laboratory and look for the Master."
@@ -693,7 +693,7 @@ msgstr ""
 
 msgctxt "Caer_Cyflen_Quest_AfterCaerLem_03_Talk2Survivors_Title"
 msgid "Talk to One of the Survivors from Caer Lem"
-msgstr "캐어 렘의 생존자 중 한 명과 대화하기"
+msgstr "케어 렘의 생존자 중 한 명과 대화하기"
 
 msgctxt "Caer_Cyflen_Quest_AfterCaerLem_04_Travel2TOM_Description"
 msgid ""
@@ -848,7 +848,7 @@ msgstr ""
 
 msgctxt "Caer_Cyflen_Quest_AfterTutorial_01_MeetCouncil_Outcome1Description"
 msgid "You have been sworn in as Council deputies."
-msgstr ""
+msgstr "당신은 의회 의원으로 취임했습니다."
 
 msgctxt "Caer_Cyflen_Quest_AfterTutorial_01_MeetCouncil_Title"
 msgid "Meet Carran at the Legacy Council"
@@ -866,11 +866,11 @@ msgstr ""
 
 msgctxt "Caer_Cyflen_Quest_AfterTutorial_02_LevelUp_Outcome1Description"
 msgid "You have leveled up!"
-msgstr ""
+msgstr "레벨 업했습니다!"
 
 msgctxt "Caer_Cyflen_Quest_AfterTutorial_02_LevelUp_Title"
 msgid "Level Up"
-msgstr ""
+msgstr "레벨 업"
 
 #, fuzzy
 msgctxt "Caer_Cyflen_Quest_AfterTutorial_03_PrepareTravel_Description"
@@ -880,22 +880,24 @@ msgid ""
 "equipment, but at least buy rations of food. You can buy some at Gorim's "
 "Emporium on Market Street."
 msgstr ""
-"캐어 렘으로 떠나기 전에 근처 상점을 방문하여 필요한 준비물을 다 갖췄는지 확인해야 합니다. 시간을 내어 장비를 최적화하고, 적어도 "
+"케어 렘으로 떠나기 전에 근처 상점을 방문하여 필요한 준비물을 다 갖췄는지 확인해야 합니다. 시간을 내어 장비를 최적화하고, 적어도 "
 "식량은 구입하십시오. 상점가에 있는 고림의 만물상에서 살 수 있습니다."
 
 msgctxt "Caer_Cyflen_Quest_AfterTutorial_03_PrepareTravel_Outcome1Description"
 msgid "You have bought some food for the journey."
-msgstr ""
+msgstr "당신은 여행을 위해 약간의 식량을 샀습니다."
 
 msgctxt "Caer_Cyflen_Quest_AfterTutorial_03_PrepareTravel_Title"
 msgid "Buy Some Food for the Journey"
-msgstr ""
+msgstr "여행을 위한 식량 구입"
 
 msgctxt "Caer_Cyflen_Quest_AfterTutorial_04_OPTIONAL_MeetScavs_Description"
 msgid ""
 "Annie Bagmordah, the Scavengers' quartermaster, asked you to visit their "
 "headquarters beside the Gravekeep's Cask."
 msgstr ""
+"Scavengers의 병참장교인 Annie Bagmordah는 Gravekeep's Cask 옆에 있는 그들의 본부를 방문하도록 "
+"요청했습니다."
 
 msgctxt ""
 "Caer_Cyflen_Quest_AfterTutorial_04_OPTIONAL_MeetScavs_Outcome1Description"
@@ -2327,7 +2329,7 @@ msgstr ""
 
 msgctxt "TelemaLevel_Quest_RestTitle"
 msgid "Take a Rest"
-msgstr ""
+msgstr "휴식 취하기"
 
 msgctxt "TelemaLevel_Quest_ReturnDescription"
 msgid "Return to Caer Cyflen and tell Annie what happened at Telema."
@@ -2341,7 +2343,7 @@ msgstr ""
 
 msgctxt "TelemaLevel_Quest_ReturnTitle"
 msgid "Report to Annie"
-msgstr ""
+msgstr "애니에게 보고하기"
 
 msgctxt "TelemaLevel_Quest_ReturnToScavs_Outcome1Description"
 msgid "You have saved Hector, or whoever this man was."
@@ -2435,7 +2437,7 @@ msgstr ""
 
 msgctxt "Tower_Of_Magic_Quest_03_a_OpenDoorTitle"
 msgid "Open the Door"
-msgstr ""
+msgstr "문 열기"
 
 msgctxt "Tower_Of_Magic_Quest_03b_ExploreDeeper_Outcome1Description"
 msgid ""
@@ -2451,7 +2453,7 @@ msgstr ""
 
 msgctxt "Tower_Of_Magic_Quest_03b_ExploreDeeperTitle"
 msgid "Continue Exploring"
-msgstr ""
+msgstr "탐색 계속하기"
 
 msgctxt "Tower_Of_Magic_Quest_04_CheckExit_Outcome1Description"
 msgid ""
@@ -2488,11 +2490,11 @@ msgstr ""
 
 msgctxt "Tower_Of_Magic_Quest_05_FindAWayToOpenTitle"
 msgid "Find a way to open the door"
-msgstr ""
+msgstr "문을 열 방법 찾기"
 
 msgctxt "Tower_Of_Magic_Quest_06_ExploreAgain_Outcome1Description"
 msgid "You have found where the Soraks were hiding!"
-msgstr ""
+msgstr "소락이 숨어있는 곳을 찾았습니다!"
 
 msgctxt "Tower_Of_Magic_Quest_06_ExploreAgainDescription"
 msgid ""
@@ -2579,7 +2581,7 @@ msgstr ""
 
 msgctxt "Tower_Of_Magic_Sub_Quest_Info1Title"
 msgid "Find the First Clue"
-msgstr ""
+msgstr "첫 번째 단서 찾기"
 
 msgctxt "Tower_Of_Magic_Sub_Quest_Info2_Outcome2Description"
 msgid ""
@@ -2593,7 +2595,7 @@ msgstr ""
 
 msgctxt "Tower_Of_Magic_Sub_Quest_Info2Title"
 msgid "Find the Second Clue"
-msgstr ""
+msgstr "두 번째 단서 찾기"
 
 msgctxt "Tower_Of_Magic_Sub_Quest_Info3_Outcome2Description"
 msgid "You have found a statue of a reptilian being, maybe some kind of Sorak."
@@ -2613,7 +2615,7 @@ msgstr ""
 
 msgctxt "Tower_Of_Magic_Sub_Quest_Info3Title"
 msgid "Find the Third Clue"
-msgstr ""
+msgstr "세 번째 단서 찾기"
 
 msgctxt "Tower_Of_Magic_Sub_Quest_Info4_Outcome2Description"
 msgid "You have found a statue of an important-looking elf."
@@ -2631,7 +2633,7 @@ msgstr ""
 
 msgctxt "Tower_Of_Magic_Sub_Quest_Info4Title"
 msgid "Find the Fourth Clue"
-msgstr ""
+msgstr "네 번째 단서 찾기"
 
 msgctxt "Tower_Of_Magic_Sub_QuestTitle"
 msgid "Quest for Information"
@@ -2655,7 +2657,7 @@ msgstr ""
 
 msgctxt "TravelQuest_Step2Description"
 msgid "Travel to Caer Lem"
-msgstr ""
+msgstr "케어 렘으로 여행"
 
 msgctxt "TravelQuest_Step2Title"
 msgid "Reach Caer Lem"
@@ -3021,7 +3023,7 @@ msgstr ""
 
 msgctxt "Tutorial_04_Quest_EscapeJackals_Outcome1Description"
 msgid "You are trapped by the wolves… get ready to fight!"
-msgstr ""
+msgstr "늑대 무리에게 포위되었습니다... 싸울 준비를 하십시오!"
 
 msgctxt "Tutorial_04_Quest_EscapeJackalsDescription"
 msgid "Dash to get out of the wolves' reach."

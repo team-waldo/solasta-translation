@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-29 08:06+0000\n"
+"PO-Revision-Date: 2021-09-02 13:51+0000\n"
 "Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/screen/ko/>"
 "\n"
@@ -136,7 +136,7 @@ msgstr "배경"
 
 msgctxt "BackTitle"
 msgid "Back"
-msgstr ""
+msgstr "뒤로"
 
 msgctxt "BattleIntroTitle"
 msgid "A Battle Starts!"
@@ -887,7 +887,7 @@ msgstr ""
 
 msgctxt "JournalBestiaryBackToBestiaryTitle"
 msgid "Back to Bestiary"
-msgstr ""
+msgstr "생물도감으로 돌아가기"
 
 msgctxt "JournalBestiaryChallengeAndXPFormat"
 msgid "{0} ({1}XP)"
@@ -925,7 +925,7 @@ msgstr ""
 
 msgctxt "JournalBestiaryMonsterIndexFormat"
 msgid "Creature {0} of {1}"
-msgstr ""
+msgstr "크리쳐 {0} / {1}"
 
 msgctxt "JournalBestiaryNoneTitle"
 msgid "None"
@@ -1872,7 +1872,7 @@ msgstr ""
 
 msgctxt "ReadyRangedAttackTitle"
 msgid "Ranged Attack"
-msgstr ""
+msgstr "원거리 공격"
 
 msgctxt "ReadyToLevelUpLongRestDescription"
 msgid ""
@@ -1898,11 +1898,11 @@ msgstr ""
 
 msgctxt "RepertoireSpellsTitle"
 msgid "Spells"
-msgstr ""
+msgstr "주문"
 
 msgctxt "RequiredFactionInvalidTitle"
 msgid "Faction Relation"
-msgstr ""
+msgstr "세력 관계"
 
 msgctxt "RequiredFactionStatusFormat"
 msgid ""

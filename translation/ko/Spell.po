@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-29 08:06+0000\n"
-"Last-Translator: 까망쥐 <jk01056@naver.com>\n"
+"PO-Revision-Date: 2021-09-02 13:51+0000\n"
+"Last-Translator: 흰늑대 <downway45@hotmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/spell/ko/>"
 "\n"
 "Language: ko\n"
@@ -40,7 +40,7 @@ msgstr "지원"
 
 msgctxt "AnimateDeadDescription"
 msgid "Create an undead servant."
-msgstr ""
+msgstr "언데드 종복을 만듭니다."
 
 msgctxt "AnimateDeadTitle"
 msgid "Animate Dead"
@@ -48,7 +48,7 @@ msgstr "시체 조종"
 
 msgctxt "BaneDescription"
 msgid "Reduce your enemies' attack and saving throws for a limited time."
-msgstr ""
+msgstr "적의 명중굴림과 내성굴림을 일시적으로 감소시킵니다."
 
 msgctxt "BaneTitle"
 msgid "Bane"
@@ -104,11 +104,11 @@ msgstr "저주 부여(액션)"
 
 msgctxt "BestowCurseOnAttackRollTitle"
 msgid "Bestow Curse (Attack)"
-msgstr ""
+msgstr "저주 부여(공격)"
 
 msgctxt "BestowCurseOnDamageAddNecroticTitle"
 msgid "Bestow Curse (Damage)"
-msgstr ""
+msgstr "저주 부여(피해)"
 
 msgctxt "BestowCurseTitle"
 msgid "Bestow Curse"
@@ -125,7 +125,7 @@ msgstr "축복"
 
 msgctxt "BlindnessDescription"
 msgid "Blind an enemy for one minute."
-msgstr ""
+msgstr "적을 1분동안 실명시킵니다."
 
 msgctxt "BlindnessTitle"
 msgid "Blindness"
@@ -133,21 +133,21 @@ msgstr "실명"
 
 msgctxt "BlurDescription"
 msgid "Makes you blurry and harder to hit for up to one minute."
-msgstr ""
+msgstr "1분동안 당신의 형체를 흐릿하게 만들어 공격하기 어렵게 합니다."
 
 msgctxt "BlurTitle"
 msgid "Blur"
-msgstr ""
+msgstr "흐릿한 형체"
 
 msgctxt "BrandingSmiteDescription"
 msgid ""
 "Your next hit causes additional radiant damage and your target becomes "
 "luminous."
-msgstr ""
+msgstr "당신의 다음 공격은 추가 광휘 데미지를 입히고 대상을 빛나게 합니다."
 
 msgctxt "BrandingSmiteTitle"
 msgid "Branding Smite"
-msgstr ""
+msgstr "낙인의 일격"
 
 msgctxt "BurningHandsDescription"
 msgid "Spray a cone of fire in front of you."
@@ -167,11 +167,11 @@ msgstr "인간형 매혹"
 
 msgctxt "ChillTouchDescription"
 msgid "Deal damage to one enemy and prevent healing for a limited time."
-msgstr ""
+msgstr "하나의 적에게 냉기 피해를 입히고 일시적으로 치유를 막습니다."
 
 msgctxt "ChillTouchTitle"
 msgid "Chill Touch"
-msgstr ""
+msgstr "냉기의 손길"
 
 msgctxt "ColorSprayTitle"
 msgid "Color Spray"
@@ -179,11 +179,11 @@ msgstr "색채 분사"
 
 msgctxt "ConjureGoblinoidsDescription"
 msgid "Conjures 2 goblins who obey your orders unless you lose concentration."
-msgstr ""
+msgstr "당신이 집중하는 동안 당신의 명령을 따르는 두 마리의 고블린을 소환합니다."
 
 msgctxt "ConjureGoblinoidsTitle"
 msgid "Conjure Goblinoids"
-msgstr ""
+msgstr "고블린 소환"
 
 msgctxt "CounterspellDescription"
 msgid "Interrupt an enemy's spellcasting."
@@ -203,7 +203,7 @@ msgstr "음식 소환"
 
 msgctxt "CureWoundsDescription"
 msgid "Heal an ally by touch."
-msgstr ""
+msgstr "아군의 상처를 근접 접촉을 통해 치유합니다."
 
 msgctxt "CureWoundsTitle"
 msgid "Cure Wounds"
@@ -276,7 +276,7 @@ msgstr "디스펠 매직"
 
 msgctxt "DivineFavorDescription"
 msgid "Gain additional radiant damage for a limited time."
-msgstr "제한된 시간 동안 추가 방사 피해를 얻습니다."
+msgstr "제한된 시간 동안 추가 광휘 피해를 가합니다."
 
 msgctxt "DivineFavorTitle"
 msgid "Divine Favor"
@@ -358,19 +358,19 @@ msgstr "페어리 파이어"
 
 msgctxt "FalseLifeDescription"
 msgid "Gain a few temporary hit points for a limited time."
-msgstr "제한된 시간 동안 임시 체력을 얻습니다.\n"
+msgstr "제한된 시간 동안 임시 체력을 얻습니다."
 
 msgctxt "FalseLifeTitle"
 msgid "False Life"
-msgstr ""
+msgstr "거짓 생명"
 
 msgctxt "FearDescription"
 msgid "Frighten creatures and force them to flee."
-msgstr ""
+msgstr "크리쳐를 공포에 질려 강제로 도망치게 합니다."
 
 msgctxt "FearTitle"
 msgid "Fear"
-msgstr ""
+msgstr "공포"
 
 msgctxt "FeatherFallDescription"
 msgid "Provide a safe landing when you or an ally falls."
@@ -444,21 +444,21 @@ msgstr "정해진 시간 동안 아군 하나의 능력 판정을 증가시킵�
 
 msgctxt "GuidanceTitle"
 msgid "Guidance"
-msgstr "안내"
+msgstr "인도"
 
 msgctxt "GuidingBoltDescription"
 msgid "Launch a radiant attack against an enemy and make them easy to hit."
-msgstr "적 하나에게 광휘 공격을 발사하고 공격을 명중시키기 쉽게 만듭니다."
+msgstr "적 하나에게 광휘 공격을 하고 공격을 명중시키기 쉽게 만듭니다."
 
 msgctxt "GuidingBoltTitle"
 msgid "Guiding Bolt"
-msgstr "유도 화살"
+msgstr "인도하는 화살"
 
 msgctxt "HasteDescription"
 msgid ""
 "Make an ally faster and more agile, and grant them an additional action for "
 "a limited time."
-msgstr "아군을 더 빠르고 민첩하게 만들고, 정해진 시간 동안 추가 행동을 부여합니다."
+msgstr "아군을 더 빠르고 민첩하게 만들고, 일정 시간 동안 추가 행동을 부여합니다."
 
 msgctxt "HasteTitle"
 msgid "Haste"
@@ -476,7 +476,7 @@ msgctxt "HeroismDescription"
 msgid ""
 "An ally gains temporary hit points and cannot be frightened for a limited "
 "time."
-msgstr "아군 하나는 임시 체력을 얻고 정해진 시간 동안 공포에 빠질 수 없습니다."
+msgstr "아군 한명이 임시 체력을 얻고 일정 시간 동안 공포에 빠지지 않게 됩니다."
 
 msgctxt "HeroismTitle"
 msgid "Heroism"
@@ -570,7 +570,7 @@ msgstr "공중 부양"
 
 msgctxt "LightDescription"
 msgid "An object you can touch emits a powerful light for a limited time."
-msgstr "당신이 접촉할 수 있는 물체 하나가 정해진 시간 동안 강력한 빛을 방출합니다."
+msgstr "당신이 접촉한 물체 하나가 일정 시간 동안 강력한 빛을 방출합니다."
 
 msgctxt "LightningBoltDescription"
 msgid ""
@@ -588,7 +588,7 @@ msgstr "빛"
 
 msgctxt "LongstriderDescription"
 msgid "Increases an ally's speed by two cells per turn."
-msgstr "차례마다 아군의 속도를 2칸 증가시킵니다."
+msgstr "아군의 이동거리를 2칸 증가시킵니다."
 
 msgctxt "LongstriderTitle"
 msgid "Longstrider"
@@ -616,7 +616,7 @@ msgstr ""
 
 msgctxt "MagicCircleProtectOuterTitle"
 msgid "Magic Circle (protects from outer enemies)"
-msgstr "마법의 원 (외부 적으로부터 보호)"
+msgstr "마법의 원 (외차원의 적으로부터 보호)"
 
 msgctxt "MagicCircleRestrictInnerDescription"
 msgid ""
@@ -740,7 +740,7 @@ msgctxt "ProtectionFromEvilGoodDescription"
 msgid ""
 "Touch an ally to give them protection from evil or good creatures for a "
 "limited time."
-msgstr "아군 하나에 접촉해 악하거나 선란 크리쳐들로부터 보호를 제공합니다."
+msgstr "아군 하나에 접촉해 악하거나 선한 크리쳐들로부터 일시적으로 보호를 제공합니다."
 
 msgctxt "ProtectionFromEvilGoodTitle"
 msgid "Protect vs Evil & Good"
@@ -828,7 +828,7 @@ msgstr "성역"
 
 msgctxt "ScorchingRayDescription"
 msgid "Fling rays of fire at one or more enemies."
-msgstr "한 명 이상의 적에게 화염 광선들을 발사합니다."
+msgstr "한 명 이나 다수의 적에게 화염 광선들을 발사합니다."
 
 msgctxt "ScorchingRayTitle"
 msgid "Scorching Ray"
@@ -884,7 +884,7 @@ msgstr "방패"
 
 msgctxt "ShockingGraspDescription"
 msgid "Damage and daze an enemy on a successful touch."
-msgstr "접촉에 성공하면 적에게 피해를 입히고 멍하게 만듭니다."
+msgstr "접촉에 성공하면 적에게 피해를 입히고 감전상태로 만듭니다."
 
 msgctxt "ShockingGraspTitle"
 msgid "Shocking Grasp"
@@ -923,7 +923,7 @@ msgstr "죽음 모면"
 msgctxt "SpiderClimbDescription"
 msgid ""
 "Touch an ally to allow them to climb walls like a spider for a limited time."
-msgstr "아군 하나에 접촉해 정해진 시간 동안 거미처럼 벽을 탈 수 있도록 만듭니다."
+msgstr "아군 하나에 접촉해 일시적으로 거미처럼 벽을 탈 수 있도록 만듭니다."
 
 msgctxt "SpiderClimbTitle"
 msgid "Spider Climb"
@@ -961,7 +961,7 @@ msgstr "피해를 입히고 크리쳐와 물체를 밀어내는 힘의 파동을
 
 msgctxt "ThunderwaveTitle"
 msgid "Thunderwave"
-msgstr "천둥파동"
+msgstr "천둥 파동"
 
 msgctxt "TonguesDescription"
 msgid "Grants knowledge of all languages for one hour."
@@ -1097,7 +1097,7 @@ msgctxt "EntangleDescription"
 msgid ""
 "Enemies in a four-cell square area are restrained if they fail an STR saving "
 "throw"
-msgstr "4칸 정사각형 영역 내의 적들은 근력 내성 굴림에 실패하면 붙잡힙니다."
+msgstr "4칸 정사각형 영역 내의 적들은 근력 내성 굴림에 실패하면 붙잡힙니다"
 
 msgctxt "CommandTitle"
 msgid "Command"
@@ -1269,7 +1269,7 @@ msgstr "적들을 일시적으로 실명시키는 빛나는 원뿔을 방출합�
 
 msgctxt "ConjureAnimalsDescription"
 msgid "Summon spirits in the form of beasts to help you in battle"
-msgstr "당신을 도울 짐승 형태의 영혼들을 소환합니다."
+msgstr "당신을 도울 짐승 형태의 영혼들을 소환합니다"
 
 msgctxt "ConjureAnimalsFourBeastsDescription"
 msgid "4 medium beasts are conjured"
@@ -1281,7 +1281,7 @@ msgstr "야수 4 소환"
 
 msgctxt "ConjureAnimalsOneBeastDescription"
 msgid "1 powerful beast is conjured"
-msgstr "강력한 야수 1 기가 소환됩니다."
+msgstr "강력한 야수 1 기가 소환됩니다"
 
 msgctxt "ConjureAnimalsOneBeastTitle"
 msgid "Conjure 1 Beast"
@@ -1289,15 +1289,15 @@ msgstr "야수 1 소환"
 
 msgctxt "ConjureAnimalsTitle"
 msgid "Conjure Animal"
-msgstr ""
+msgstr "동물 소환"
 
 msgctxt "ConjureAnimalsTwoBeastsDescription"
 msgid "2 beasts are conjured"
-msgstr ""
+msgstr "야수 2마리가 소환됩니다"
 
 msgctxt "ConjureAnimalsTwoBeastslTitle"
 msgid "Conjure 2 Beasts"
-msgstr ""
+msgstr "야수 2 소환"
 
 msgctxt "GustOfWindTitle"
 msgid "Gust of Wind"

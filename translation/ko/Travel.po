@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-25 05:43+0000\n"
-"Last-Translator: 배정기 <wjdrl5195@naver.com>\n"
+"PO-Revision-Date: 2021-09-02 13:51+0000\n"
+"Last-Translator: Jin <byungjinjun55@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/travel/ko/>"
 "\n"
 "Language: ko\n"
@@ -414,10 +414,9 @@ msgctxt "StandardCampActivity21Title"
 msgid "{0} unfolds a bedroll to set up a nice sleeping spot."
 msgstr "{0}은(는) 침낭을 펼쳐서 좋은 잠자리를 마련합니다."
 
-#, fuzzy
 msgctxt "TravelEventEncounterOther1Title"
 msgid "Weak monsters run away as they see the party approaching."
-msgstr "약한 몬스터들이 주인공 파티를 마주하자 도망쳤습니다."
+msgstr "약한 괴물들은 모험자들을 마주치면 도망칩니다."
 
 #, fuzzy
 msgctxt "TravelEventEncounterOther2Title"
