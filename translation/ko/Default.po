@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-09-02 13:51+0000\n"
+"PO-Revision-Date: 2021-09-09 13:05+0000\n"
 "Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/default/ko/"
 ">\n"
@@ -41,7 +41,7 @@ msgstr "크라운 브레이드"
 msgctxt "LongTimeFormat"
 msgid ""
 "[TEMP]Game time is {0} on the day of {1} {2} in the year {3} Post Cataclysm"
-msgstr "[TEMP]게임 시간은 대격변 후 {3}년 {1} {2}일 {3}시 입니다."
+msgstr "[TEMP]현재 시간은 대격변 후 {3}년 {1} {2}일 {3}시 입니다"
 
 msgctxt "SolastanCalendarDescription"
 msgid "The common calendar used in Solasta."
@@ -365,9 +365,10 @@ msgctxt "LavaburstTitle"
 msgid "Lava Burst"
 msgstr "용암 폭발"
 
+#, fuzzy
 msgctxt "PoisonbulbTitle"
 msgid "Poison Bulb"
-msgstr ""
+msgstr "독뿌리"
 
 #, fuzzy
 msgctxt "ChandelierfallTitle"
@@ -380,7 +381,7 @@ msgstr "화염 폭발"
 
 msgctxt "ArcheryDescription"
 msgid "You gain a +2 bonus to attack rolls with ranged weapons."
-msgstr "원거리 무기로 명중 굴림에 +2 보너스를 얻습니다."
+msgstr "원거리 무기로 공격 시 +2 주사위 보너스를 얻습니다."
 
 msgctxt "ArcheryTitle"
 msgid "Archery"
@@ -423,7 +424,7 @@ msgid ""
 "When a creature you can see attacks a target other than you that is within 5 "
 "feet of you, you can use your reaction to impose disadvantage on the attack "
 "roll. You must be wielding a shield."
-msgstr "크리쳐가 5 피트 이내의 아군을 공격하면, 리액션을 사용해 적의 공격 굴림에 불리함을 줍니다. 방패 착용 시에만 발동합니다."
+msgstr "크리쳐가 5 피트 이내의 아군을 공격하면, 반응 행동을 사용해 적의 공격 굴림에 불리점을 줍니다. 방패 착용 시에만 발동합니다."
 
 msgctxt "ProtectionTitle"
 msgid "Protection"
@@ -790,9 +791,10 @@ msgctxt "CC_PriestMaraike"
 msgid "Priest of Maraike"
 msgstr "마라이케의 사제"
 
+#, fuzzy
 msgctxt "CC_PriestArun"
 msgid "Rogar Ardentfire"
-msgstr ""
+msgstr "로가 아덴파이어"
 
 msgctxt "Circe_Title"
 msgid "Enchantment Manuals Merchant"
@@ -838,11 +840,14 @@ msgctxt "BADLANDS_Title"
 msgid "THE BADLANDS"
 msgstr "황무지"
 
+#, fuzzy
 msgctxt "CopperheadRoad_Title"
 msgid ""
 "COPPERHEAD\\n"
 "ROAD"
 msgstr ""
+"코퍼헤드\\n"
+"도로"
 
 #, fuzzy
 msgctxt "DUCHY_caercyflen_Title"
@@ -910,9 +915,10 @@ msgstr ""
 "\\n"
 "갈리반 왕국"
 
+#, fuzzy
 msgctxt "Kaupaapunki_Title"
 msgid "KAUPAAPUNKI"
-msgstr ""
+msgstr "카우파푼키"
 
 #, fuzzy
 msgctxt "MASGARTH_Title"
@@ -925,13 +931,12 @@ msgstr ""
 
 msgctxt "NEWEMPIRE_Title"
 msgid "THE NEW EMPIRE"
-msgstr ""
+msgstr "신 제국"
 
 msgctxt "Sandreed_Title"
 msgid "SANDREED"
 msgstr "샌드리드"
 
-#, fuzzy
 msgctxt "SNOWALLIANCE_Title"
 msgid "THE SNOW ALLIANCE"
 msgstr "설산 동맹"
@@ -1025,7 +1030,7 @@ msgid ""
 "Once per day when you complete a short rest, you can recover a number of "
 "expended spell slots (max 5th level) up to half of your wizard level, "
 "rounded up."
-msgstr ""
+msgstr "하루에 한 번 짧은 휴식을 완료하면 소모된 주문 슬롯(최대 5레벨)을 마법사 레벨의 절반(반올림)만큼 복구할 수 있습니다."
 
 msgctxt "ArcaneRecoveryTitle"
 msgid "Arcane Recovery"
@@ -1064,7 +1069,7 @@ msgstr "<b>비전 회복</b>을 사용하여 {0}가 다음 주문 슬롯을 회�
 
 msgctxt "NaturalRecoveryTitle"
 msgid "Natural Recovery"
-msgstr ""
+msgstr "자연적 회복"
 
 msgctxt "NaturalRecoveryDescription"
 msgid ""
@@ -1193,12 +1198,15 @@ msgctxt "ArcticTitle"
 msgid "Arctic"
 msgstr "북극"
 
+#, fuzzy
 msgctxt "BadlandsDescription"
 msgid ""
 "Most areas covering the former inner provinces of the Manacalon Empire, now "
 "a wild mix of various terrain types with chaotic manifestations of post-"
 "Cataclysm magic, are considered Badlands terrain."
 msgstr ""
+"예전 마나칼론 제국의 내륙 지방을 해당하는 지역 대부분이, 현재는 대격변 후 난잡하게 발현된 마법과 다양한 지형이 야만스럽게 섞여있어, "
+"황무지 지형으로 간주됩니다."
 
 #, fuzzy
 msgctxt "CoastDescription"
@@ -1266,9 +1274,10 @@ msgctxt "SwampTitle"
 msgid "Swamp"
 msgstr "늪"
 
+#, fuzzy
 msgctxt "BasicsTitle"
 msgid "Basics"
-msgstr ""
+msgstr "기초"
 
 msgctxt "CombatTitle"
 msgid "Combat"
@@ -1307,7 +1316,7 @@ msgstr "퀘스트 일지"
 
 msgctxt "CombatMovementTitle"
 msgid "Movement"
-msgstr ""
+msgstr "이동력"
 
 msgctxt "CombatShoveTitle"
 msgid "Shove"
@@ -1315,28 +1324,31 @@ msgstr "밀치기"
 
 msgctxt "Exploration_LocationMapTitle"
 msgid "Location Map"
-msgstr ""
+msgstr "주변 지도"
 
 msgctxt "Exploration_MiscTitle"
 msgid "Miscellaneous"
 msgstr "기타"
 
+#, fuzzy
 msgctxt "Exploration_PointsOfInterestTitle"
 msgid "Points of Interest"
-msgstr ""
+msgstr "주요 지역"
 
 #, fuzzy
 msgctxt "ExplorationJumpingClimbingTitle"
 msgid "Jumping and Climbing"
 msgstr "점프 및 등반"
 
+#, fuzzy
 msgctxt "Inventory_LootingTitle"
 msgid "Looting"
-msgstr ""
+msgstr "전리품 획득"
 
+#, fuzzy
 msgctxt "Inventory_SpecialTitle"
 msgid "Special Slots"
-msgstr ""
+msgstr "특수 슬롯"
 
 msgctxt "Exploration_MagicTitle"
 msgid "Magic"
@@ -1357,10 +1369,15 @@ msgid ""
 "improve your relationship with one faction or another.\n"
 "Keep an eye on the Faction section of the <b>Journal</b>."
 msgstr ""
+"케어 키플렌에는 <b>5</b>개의 세력이 대표단을 두고 있습니다. 그들로부터 장비나 주문을 비롯한 다양한 물품을 구입할 수 있습니다. "
+"각 세력과의 관계가 좋을 수록 싼 값에 더 다양한 물건을 구입할 수 있지만, 세력간에는 항상 알력이 있으므로 모든 세력과 좋은 관계를 "
+"유지할 수는 없을 것입니다. \n"
+"다양한 서브퀘스트를 통해 세력과의 관계를 향상 시킬 수 있습니다.\n"
+"더 자세한 정보는 <b>저널</b>의 세력 페이지를 참고하세요."
 
 msgctxt "LightAsAWeapon_Title"
 msgid "Turn on the Light!"
-msgstr ""
+msgstr "불을 켜!"
 
 msgctxt "PartyStash_Title"
 msgid "Party Stash"
@@ -1427,10 +1444,12 @@ msgid ""
 "chests, etc."
 msgstr "ALT 키를 길게 눌러 상호 작용 가능한 개체를 강조 표시합니다. (문, 상자 등)"
 
+#, fuzzy
 msgctxt "EgoPuzzle_Title"
 msgid "The Maddening Puzzle"
-msgstr ""
+msgstr "미친듯한 퍼즐"
 
+#, fuzzy
 msgctxt "EgoPuzzle_Description"
 msgid ""
 "This section of the level is for puzzle enthusiasts. Be warned! Take the "
@@ -1439,86 +1458,93 @@ msgid ""
 "of the Mind of the Master. If you change your mind, you'll have to reload. "
 "We just autosaved for you, by the way."
 msgstr ""
+"현재 층의 이 섹션은 퍼즐 애호가를 위한 것입니다. 주의 하십시오! 오른쪽의 지름길로 이동하면 정상적으로 모험을 진행할 수 있습니다. "
+"회전하는 형형색색의 3D 퍼즐에 도전할 준비가 되었다면 정신의 지배자의 전리품을 좇아 왼쪽으로 가십시오. 중간에 마음이 바뀐다면 다시 "
+"로드해야합니다. 지금 당신을 위해 자동저장한 세이브 파일을 말이지요."
 
 msgctxt "Voice1Title"
 msgid "Voice 1"
-msgstr ""
+msgstr "목소리 1"
 
 msgctxt "Voice2Title"
 msgid "Voice 2"
-msgstr ""
+msgstr "목소리 2"
 
 msgctxt "Voice3Title"
 msgid "Voice 3"
-msgstr ""
+msgstr "목소리 3"
 
 msgctxt "ChildOfDarkness_Title"
 msgid "Child of Darkness"
-msgstr ""
+msgstr "어둠의 아이"
 
 msgctxt "ChildOfDarkness_Description"
 msgid "This Sorak is more powerful and regenerates in darkness."
-msgstr ""
+msgstr "이 소락은 어둠속에서 재생하며 더 강력해집니다."
 
 msgctxt "ChildOfDarkness_ACGain_Title"
 msgid "Soraks gain additional AC when in dim light or darkness."
-msgstr ""
+msgstr "소락은 약한 빛이나 어둠 속에 있을 때 추가 AC를 얻습니다."
 
 msgctxt "ChildOfDarkness_AdditionalDamage2_Title"
 msgid "This creature gains +2 damage when in dim light"
-msgstr ""
+msgstr "이 생물은 약간 어두운 곳에 있을 때 +2 피해를 얻습니다"
 
 msgctxt "ChildOfDarkness_AdditionalDamage3_Title"
 msgid "This creature gains +3 damage when in dim light"
-msgstr ""
+msgstr "이 생물은 약간 어두운 곳에 있을 때 +3 피해를 얻습니다"
 
 msgctxt "ChildOfDarkness2_Title"
 msgid "Apostle of Darkness"
-msgstr ""
+msgstr "어둠의 사도"
 
 msgctxt "ChildOfDarkness2_Description"
 msgid ""
 "This Sorak is more powerful and regenerates in dim light, and even more so "
 "in darkness."
-msgstr ""
+msgstr "이 소락은 약간 어두운 곳에서 재생하고 더욱 강력해지며, 어둠 속에서는 더욱 강화됩니다."
 
 msgctxt "ChildOfDarkness3_Title"
 msgid "Prophet of Darkness"
-msgstr ""
+msgstr "어둠의 예언자"
 
 msgctxt "ChildOfDarkness3_Description"
 msgid ""
 "This Sorak is more powerful and regenerates in dim light, and even more so "
 "in darkness."
-msgstr ""
+msgstr "이 소락은 약간 어두운 곳에서 재생하고 더욱 강력해지며, 어둠 속에서는 더욱 강화됩니다."
 
 msgctxt "ChildOfDarkness0_Description"
 msgid "This Sorak is more powerful and regenerates in darkness."
-msgstr ""
+msgstr "이 소락은 어둠 속에서 재생하고 더욱 강력해집니다."
 
 msgctxt "Lightfiller_01_Title"
 msgid "Wildspring Safe Key Code"
 msgstr ""
 
+#, fuzzy
 msgctxt "Lightfiller_01_Content"
 msgid "Do not communicate outside the family"
-msgstr ""
+msgstr "가족 외에는 의사소통하지 마십시오"
 
+#, fuzzy
 msgctxt "Lightfiller_02_Title"
 msgid "Guest Cell Key"
-msgstr ""
+msgstr "손님 방 열쇠"
 
+#, fuzzy
 msgctxt "Lightfiller_02_Content"
 msgid "Communicate at the discretion of the warden"
-msgstr ""
+msgstr "감시인의 재량에 따라 의사소통합니다"
 
 msgctxt "ChineseCaracters"
 msgid "Not used"
 msgstr "사용 안 함"
 
+#, fuzzy
 msgctxt "CatacombsTitle"
 msgid "Catacombs"
-msgstr ""
+msgstr "지하 묘지"
 
 msgctxt "CatacombsDescription"
 msgid "An underground network of tombs & crypts"
@@ -1528,73 +1554,83 @@ msgctxt "NecropolisTitle"
 msgid "Necropolis"
 msgstr ""
 
+#, fuzzy
 msgctxt "NecropolisDescription"
 msgid "An underground domain of the dead"
-msgstr ""
+msgstr "지하에 있는 죽은 자의 영역"
 
 msgctxt "SewersTitle"
 msgid "Sewers"
-msgstr ""
+msgstr "하수도"
 
+#, fuzzy
 msgctxt "SewersDescription"
 msgid "A collection of sewer tunnels & drainage"
-msgstr ""
+msgstr "하수 터널 및 배수 장치 모음"
 
 msgctxt "StrongholdTitle"
 msgid "Stronghold"
-msgstr ""
+msgstr "요새"
 
+#, fuzzy
 msgctxt "StrongholdDescription"
 msgid "The interior of a stone castle"
-msgstr ""
+msgstr "석조 성 내부"
 
 msgctxt "ElvenPalaceTitle"
 msgid "Elven Palace"
-msgstr ""
+msgstr "엘프 궁전"
 
+#, fuzzy
 msgctxt "ElvenPalaceDescription"
 msgid "A luxurious vestige of the realm of Manacalon"
-msgstr ""
+msgstr "마나칼론 시대의 호화로운 유물"
 
 msgctxt "LavaCavesTitle"
 msgid "Lava Caves"
-msgstr ""
+msgstr "용암 동굴"
 
 msgctxt "LavaCavesDescription"
 msgid "An underground network of caves inhabited by tribal creatures"
 msgstr ""
 
+#, fuzzy
 msgctxt "WoodlandTitle"
 msgid "Woodland"
-msgstr ""
+msgstr "삼림지"
 
+#, fuzzy
 msgctxt "WoodlandDescription"
 msgid "Navigate through a series of clearings inside a temperate forest"
-msgstr ""
+msgstr "온대 숲 안에 위치한 여러 공터를 탐색하십시오"
 
+#, fuzzy
 msgctxt "CR0_Loot_PackTitle"
 msgid "CR0 Loot"
-msgstr ""
+msgstr "CR0 전리품"
 
 msgctxt "CR1_Loot_PackTitle"
 msgid "CR1 Loot"
-msgstr ""
+msgstr "CR1 전리품"
 
+#, fuzzy
 msgctxt "CR2_Loot_PackTitle"
 msgid "CR2 Loot"
-msgstr ""
+msgstr "CR2 전리품"
 
+#, fuzzy
 msgctxt "CR3_Loot_PackTitle"
 msgid "CR3 Loot"
-msgstr ""
+msgstr "CR3 전리품"
 
+#, fuzzy
 msgctxt "CR4_Loot_PackTitle"
 msgid "CR4 Loot"
-msgstr ""
+msgstr "CR4 전리품"
 
 msgctxt "CR5_Loot_PackTitle"
 msgid "CR5 Loot"
-msgstr ""
+msgstr "CR5 전리품"
 
 msgctxt "NoneTitle"
 msgid "<None>"
@@ -1608,9 +1644,10 @@ msgctxt "CaerCyflenTitle"
 msgid "Caer Cyflen"
 msgstr "Caer Cyflen"
 
+#, fuzzy
 msgctxt "DarkCastleExteriorTitle"
 msgid "Dark Castle (Exterior)"
-msgstr ""
+msgstr "어둠의 성(외부)"
 
 msgctxt "CoparanTitle"
 msgid "Coparann"
@@ -1654,11 +1691,11 @@ msgstr "Shadows"
 
 msgctxt "CollapsingRoofTitle"
 msgid "Collapsing Roof"
-msgstr ""
+msgstr "무너지는 지붕"
 
 msgctxt "CollapsingRoofDescription"
 msgid "Several rocks and boulders fall to the ground"
-msgstr ""
+msgstr "많은 돌과 바위가 땅에 떨어집니다"
 
 msgctxt "DisturbingRunesTitle"
 msgid "Disturbing Runes"
@@ -1666,113 +1703,128 @@ msgstr ""
 
 msgctxt "DisturbingRunesDescription"
 msgid "Mind-affecting runes damage the soul and cause random behavior"
-msgstr ""
+msgstr "정신에 영향을 미치는 룬은 영혼을 손상시키고 무작위 행동을 유발합니다"
 
 msgctxt "DeathGlyphTitle"
 msgid "Death Glyph"
-msgstr ""
+msgstr "죽음의 문양"
 
+#, fuzzy
 msgctxt "DeathGlyphDescription"
 msgid "Stepping on this causes necrotic damage and terror"
-msgstr ""
+msgstr "이를 밟으면 사령 피해와 공포가 발생합니다"
 
+#, fuzzy
 msgctxt "FireBurstTitle"
 msgid "Fire Burst"
-msgstr ""
+msgstr "화염 폭발"
 
 msgctxt "FireBurstDescription"
 msgid "An eruption causes fire damage"
-msgstr ""
+msgstr "폭발로 인해 화재 피해가 발생합니다"
 
+#, fuzzy
 msgctxt "GroundSpikesTitle"
 msgid "Ground Spikes"
-msgstr ""
+msgstr "그라운드 스파이크"
 
+#, fuzzy
 msgctxt "GroundSpikesDescription"
 msgid "Spikes rise from the ground, causing piercing damage"
-msgstr ""
+msgstr "스파이크가 지면에서 솟아올라 관통 피해를 입힙니다"
 
+#, fuzzy
 msgctxt "LightningDischargeTitle"
 msgid "Lightning Discharge"
-msgstr ""
+msgstr "번개 방출"
 
 msgctxt "LightningDischargeDescription"
 msgid "Discharges electricity in the vicinity, causing electrical damage"
-msgstr ""
+msgstr "전기를 방출하여 주변에 전기 피해를 입힙니다"
 
 msgctxt "PoisonCloudTitle"
 msgid "Poison Cloud"
-msgstr ""
+msgstr "독 구름"
 
 msgctxt "PoisonCloudDescription"
 msgid "A noxious cloud inflicts poison damage and the poisoned condition"
-msgstr ""
+msgstr "유독 구름이 독 피해를 입히고 중독 상태를 유발합니다"
 
 msgctxt "GemsTitle"
 msgid "Gems"
-msgstr ""
+msgstr "보석"
 
 msgctxt "ConsumablesTitle"
 msgid "Consumables"
-msgstr ""
+msgstr "소모품"
 
 msgctxt "MagicWeapons_ArmorsTitle"
 msgid "Magic Weapons and Armor"
-msgstr ""
+msgstr "마법 무기와 갑옷"
 
+#, fuzzy
 msgctxt "Wondrous_ItemsTitle"
 msgid "Wondrous Items"
-msgstr ""
+msgstr "굉장한 아이템"
 
 msgctxt "IngredientsTitle"
 msgid "Ingredients"
 msgstr "재료"
 
+#, fuzzy
 msgctxt "Mundane_GearTitle"
 msgid "Mundane Gear"
-msgstr ""
-
-msgctxt "25_GP_Art_ItemsTitle"
-msgid "25 gp Art Items"
-msgstr ""
-
-msgctxt "50_GP_Art_ItemsTitle"
-msgid "50 gp Art Items"
-msgstr ""
+msgstr "평범한 장비"
 
 #, fuzzy
+msgctxt "25_GP_Art_ItemsTitle"
+msgid "25 gp Art Items"
+msgstr "25gp 아트 아이템"
+
+#, fuzzy
+msgctxt "50_GP_Art_ItemsTitle"
+msgid "50 gp Art Items"
+msgstr "50gp 아트 아이템"
+
 msgctxt "BackerItemsTitle"
 msgid "Backer Item Pack"
-msgstr "후원자 아이템 팩"
+msgstr "후원자 아이템 꾸러미"
 
+#, fuzzy
 msgctxt "BackerItemsDescription"
 msgid ""
 "Unlocks the One Ring, Dwarven Bread, 6 League Boots, Spoon of Discord and "
 "Early Bird items. Can be found in a chest near the Monument next to the "
 "Council."
 msgstr ""
+"반지 하나, 드워프 빵, 6개의 리그 부츠, 디스코드 숟가락, 그리고 얼리버드 아이템을 잠금 해제합니다. 의회 옆 기념비 근처 궤짝에서 "
+"찾을 수 있습니다."
 
-#, fuzzy
 msgctxt "DigitalBackerContentTitle"
 msgid "Digital Edition Pack"
-msgstr "디지털 에디션 팩"
+msgstr "디지털 에디션 꾸러미"
 
+#, fuzzy
 msgctxt "DigitalBackerContentDescription"
 msgid ""
 "Unlocks the Everlasting Torch item and special VFX versions of Burning Hands "
 "and Sacred Flame. Can be found in a chest near the Monument next to the "
 "Council."
 msgstr ""
+"꺼지지 않는 횃불 아이템, 불타는 손과 신성한 불꽃의 특별 VFX 버전을 잠금 해제합니다. 의회 옆 기념비 근처 궤짝에서 찾을 수 "
+"있습니다."
 
+#, fuzzy
 msgctxt "LoadedDiceTitle"
 msgid "Loaded Dice Pack"
-msgstr ""
+msgstr "준비된 주사위 전리품"
 
+#, fuzzy
 msgctxt "LoadedDiceDescription"
 msgid ""
 "Unlock the Loaded Dice item. Can be found near the Monument in a chest next "
 "to the Council."
-msgstr ""
+msgstr "준비된 주사위 아이템을 잠금 해제합니다. 의회 옆 기념비 근처 궤짝에서 찾을 수 있습니다."
 
 msgctxt "SorcererUpdateTitle"
 msgid "Sorcerer Update"
@@ -1784,16 +1836,16 @@ msgid ""
 "Dungeon Maker content"
 msgstr "소서러 클래스와 서브클래스 3개, 철인 모드와 새로운 던전 메이커 컨텐츠 추가"
 
-#, fuzzy
 msgctxt "SupporterPackTitle"
 msgid "Supporter Pack"
-msgstr "서포터 팩"
+msgstr "서포터 꾸러미"
 
+#, fuzzy
 msgctxt "SupporterPackDescription"
 msgid ""
 "Unlocks exclusive dice, a vast amount of high resolution Concept Art, and "
 "the eternal love of the Tactical Adventures team"
-msgstr ""
+msgstr "특별한 주사위, 방대한 양의 고해상도 컨셉 아트 및 택티컬 어드벤쳐 팀의 영원한 사랑을 잠금 해제합니다"
 
 #, fuzzy
 msgctxt "PrimalPowerTitle"
@@ -1804,7 +1856,7 @@ msgctxt "PrimalPowerDescription"
 msgid ""
 "Unlocks the Barbarian & Druid character classes, to play with any adventure "
 "of Solasta"
-msgstr ""
+msgstr "바바리안과 드루이드 클래스를 잠금해제하여 솔라스타의 어떤 모험이든 함께 하십시오"
 
 msgctxt "RosLastName"
 msgid "Ros"

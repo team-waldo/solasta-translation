@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-09-02 13:51+0000\n"
-"Last-Translator: ByeongJinKang <kbj01010@gmail.com>\n"
+"PO-Revision-Date: 2021-09-09 13:05+0000\n"
+"Last-Translator: 배정기 <wjdrl5195@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/equipment/"
 "ko/>\n"
 "Language: ko\n"
@@ -2574,7 +2574,7 @@ msgstr "용기"
 #, fuzzy
 msgctxt "ItemTypeLightSourceDescription"
 msgid "Bright {0} + Dim {1}"
-msgstr "밝은 {0} + 약한 {1}"
+msgstr "밝은 {0} + 약간 어두운 {1}"
 
 msgctxt "ItemTypeLightSourceTitle"
 msgid "Light Source"
@@ -2594,7 +2594,7 @@ msgstr "막대"
 
 msgctxt "ItemTypeScrollTitle"
 msgid "Scroll"
-msgstr "스크롤"
+msgstr "두루마리"
 
 msgctxt "ItemTypeSpellbookTitle"
 msgid "Spellbook"
@@ -2817,7 +2817,6 @@ msgctxt "NoArmorCategoryDescription"
 msgid "This kind of basic clothing does not offer any natural protection."
 msgstr "이런 종류의 기본 의복은 아무런 방어력을 제공하지 않습니다."
 
-#, fuzzy
 msgctxt "NoArmorCategoryTitle"
 msgid "No Armor"
 msgstr "갑옷을 입고 있지 않은 상태"
@@ -2926,7 +2925,7 @@ msgstr "이 물약을 마시면, 1시간 동안 근력이 27이 됩니다."
 
 msgctxt "PotionGiantStrengthCloudTitle"
 msgid "Potion of Giant Strength (Cloud)"
-msgstr ""
+msgstr "거인 힘의 물약 (구름 거인)"
 
 msgctxt "PotionGiantStrengthFireDescription"
 msgid "When you drink this potion, your STR becomes 25 for 1 hour."
@@ -2934,7 +2933,7 @@ msgstr "이 물약을 마시면, 1시간 동안 근력이 25가 됩니다."
 
 msgctxt "PotionGiantStrengthFireTitle"
 msgid "Potion of Giant Strength (Fire)"
-msgstr ""
+msgstr "거인 힘의 물약 (화염 거인)"
 
 msgctxt "PotionGiantStrengthFrostDescription"
 msgid "When you drink this potion, your STR becomes 23 for 1 hour."
@@ -2942,7 +2941,7 @@ msgstr "이 물약을 마시면, 1시간 동안 근력이 23이 됩니다."
 
 msgctxt "PotionGiantStrengthFrostTitle"
 msgid "Potion of Giant Strength (Frost)"
-msgstr ""
+msgstr "거인 힘의 물약 (서리 거인)"
 
 msgctxt "PotionGiantStrengthHillDescription"
 msgid "When you drink this potion, your STR becomes 21 for 1 hour."
@@ -2950,7 +2949,7 @@ msgstr "이 물약을 마시면, 1시간 동안 근력이 21이 됩니다."
 
 msgctxt "PotionGiantStrengthHillTitle"
 msgid "Potion of Giant Strength (Hill)"
-msgstr ""
+msgstr "거인 힘의 물약 (언덕 거인)"
 
 msgctxt "PotionHealingRemedyDescription"
 msgid "Contains a shimmering liquid. Heals some of your lost HP when drunk."
@@ -3000,7 +2999,7 @@ msgstr "이 물약을 마시면 일정 시간 동안 추가 체력과 축복 주
 
 msgctxt "PotionOfHeroismTitle"
 msgid "Potion of Heroism"
-msgstr ""
+msgstr "영웅심의 물약"
 
 msgctxt "PotionOfInvisibilityDescription"
 msgid "Turns you invisible for 1 hour."
@@ -3121,11 +3120,11 @@ msgstr "저주의 두루마리"
 
 msgctxt "ScrollBarkskinDescription"
 msgid "When you use this scroll, you cast the Barkskin spell."
-msgstr ""
+msgstr "이 두루마리를 사용하면, 나무껍질 주문을 시전합니다."
 
 msgctxt "ScrollBarkskinTitle"
 msgid "Scroll of Barkskin"
-msgstr ""
+msgstr "나무껍질의 두루마리"
 
 msgctxt "ScrollBlessDescription"
 msgid "When you use this scroll, you cast the Bless spell."
@@ -3137,11 +3136,11 @@ msgstr "축복의 두루마리"
 
 msgctxt "ScrollBurningHandsDescription"
 msgid "When you use this scroll, you cast the burning hands spell."
-msgstr ""
+msgstr "이 두루마리를 사용하면 타오르는 손길 주문을 시전합니다."
 
 msgctxt "ScrollBurningHandsTitle"
 msgid "Scroll of Burning Hands"
-msgstr ""
+msgstr "타오르는 손길 두루마리"
 
 msgctxt "ScrollColorSprayDescription"
 msgid "When you use this scroll, you cast the spell Color Spray."
@@ -3153,11 +3152,11 @@ msgstr ""
 
 msgctxt "ScrollCureWoundsDescription"
 msgid "When you use this scroll, you cast the Cure Wounds spell."
-msgstr ""
+msgstr "이 두루마리를 사용하면 상처 치료 주문을 시전합니다."
 
 msgctxt "ScrollCureWoundsTitle"
 msgid "Scroll of Cure Wounds"
-msgstr ""
+msgstr "상처 치료 두루마리"
 
 msgctxt "ScrollExpeditiousRetreatDescription"
 msgid "When you use this scroll, you cast the Expeditious Retreat spell."
@@ -3173,15 +3172,15 @@ msgstr "이 두루마리를 사용하면 화염구 주문을 시전합니다."
 
 msgctxt "ScrollFireballTitle"
 msgid "Scroll of Fireball"
-msgstr "화염구의 두루마리"
+msgstr "화염구 두루마리"
 
 msgctxt "ScrollFogCloudDescription"
 msgid "When you use this scroll, you cast the spell Fog Cloud."
-msgstr ""
+msgstr "이 두루마리를 사용하면 안개 구름 주문을 시전합니다."
 
 msgctxt "ScrollFogCloudTitle"
 msgid "Scroll of Fog Cloud"
-msgstr ""
+msgstr "안개 구름 두루마리"
 
 msgctxt "ScrollGreaseDescription"
 msgid "When you use this scroll, you cast the Grease spell."
@@ -3193,11 +3192,11 @@ msgstr ""
 
 msgctxt "ScrollGuidingBoltDescription"
 msgid "When you use this scroll, you cast the Guiding Bolt spell."
-msgstr ""
+msgstr "이 두루마리를 사용하면 유도 화살 주문을 시전합니다."
 
 msgctxt "ScrollGuidingBoltTitle"
 msgid "Scroll of Guiding Bolt"
-msgstr ""
+msgstr "유도 화살 두루마리"
 
 msgctxt "ScrollHideousLaughterDescription"
 msgid "When you use this scroll, you cast the Hideous Laughter spell."
@@ -3207,29 +3206,31 @@ msgctxt "ScrollHideousLaughterTitle"
 msgid "Scroll of Hideous Laughter"
 msgstr ""
 
+#, fuzzy
 msgctxt "ScrollHoldPersonDescription"
 msgid "When you use this scroll, you cast the Hold Person spell."
-msgstr ""
+msgstr "이 두루마리를 사용하면 인간 속박 주문을 시전합니다."
 
+#, fuzzy
 msgctxt "ScrollHoldPersonTitle"
 msgid "Scroll of Hold Person"
-msgstr ""
+msgstr "인간 속박 두루마리"
 
 msgctxt "ScrollIdentifyDescription"
 msgid "When you use this scroll, you cast the Identify spell."
-msgstr ""
+msgstr "이 두루마리를 사용하면 식별 주문을 시전합니다."
 
 msgctxt "ScrollIdentifyTitle"
 msgid "Scroll of Identify"
-msgstr ""
+msgstr "식별 두루마리"
 
 msgctxt "ScrollJumpDescription"
 msgid "When you use this scroll, you cast the Jump spell."
-msgstr ""
+msgstr "이 두루마리를 사용하면 점프 주문을 시전합니다."
 
 msgctxt "ScrollJumpTitle"
 msgid "Scroll of Jump"
-msgstr ""
+msgstr "점프 두루마리"
 
 msgctxt "ScrollKitToolTypeDescription"
 msgid ""
@@ -3239,88 +3240,88 @@ msgstr "마법 잉크를 준비하고 주문 두루마리를 만드는 데 필�
 
 msgctxt "ScrollKitToolTypeTitle"
 msgid "Scroll Kit"
-msgstr "두루마리 키트"
+msgstr "두루마리 세트"
 
 msgctxt "ScrollLesserRestorationDescription"
 msgid "When you use this scroll, you cast the Lesser Restoration spell."
-msgstr ""
+msgstr "이 두루마리를 사용하면 하급 회복 주문을 시전합니다."
 
 msgctxt "ScrollLesserRestorationTitle"
 msgid "Scroll of Lesser Restoration"
-msgstr ""
+msgstr "하급 회복 두루마리"
 
 msgctxt "ScrollLightningBoltDescription"
 msgid "When you use this scroll, you cast the Lightning Bolt spell."
-msgstr ""
+msgstr "이 두루마리를 사용하면 번개 화살 주문을 시전합니다."
 
 msgctxt "ScrollLightningBoltTitle"
 msgid "Scroll of Lightning Bolt"
-msgstr ""
+msgstr "번개 화살 두루마리"
 
 msgctxt "ScrollMageArmorDescription"
 msgid "When you use this scroll, you cast the Mage Armor spell."
-msgstr ""
+msgstr "이 두루마리를 사용하면 마법 갑주 주문을 시전합니다."
 
 msgctxt "ScrollMageArmorTitle"
 msgid "Scroll of Mage Armor"
-msgstr ""
+msgstr "마법 갑주 두루마리"
 
 msgctxt "ScrollMagicMissileDescription"
 msgid "When you use this scroll, you cast the Magic Missile spell."
-msgstr ""
+msgstr "이 두루마리를 사용하면 마법 화살 주문을 시전합니다."
 
 msgctxt "ScrollMagicMissileTitle"
 msgid "Scroll of Magic Missile"
-msgstr ""
+msgstr "마법 화살 두루마리"
 
 msgctxt "ScrollProtectionFromEvilandGoodDescription"
 msgid ""
 "When you use this scroll, you cast the Protection from Evil and Good spell."
-msgstr ""
+msgstr "이 두루마리를 사용하면 선악으로부터의 보호 주문을 시전합니다."
 
 msgctxt "ScrollProtectionFromEvilandGoodTitle"
 msgid "Scroll of Protection from Evil and Good"
-msgstr ""
+msgstr "선악으로부터의 보호 두루마리"
 
 msgctxt "ScrollRaiseDeadDescription"
 msgid "When you use this scroll, you cast the Raise Dead spell."
-msgstr ""
+msgstr "이 두루마리를 사용하면 시체 되살리기 주문을 시전합니다."
 
 msgctxt "ScrollRaiseDeadTitle"
 msgid "Scroll of Raise Dead"
-msgstr ""
+msgstr "시체 되살리기 주문"
 
 msgctxt "ScrollRevivifyDescription"
 msgid "When you use this scroll, you cast the Revivify spell."
-msgstr ""
+msgstr "이 두루마리를 사용하면 소생 주문을 시전합니다."
 
 msgctxt "ScrollRevivifyTitle"
 msgid "Scroll of Revivify"
-msgstr ""
+msgstr "소생 두루마리"
 
 msgctxt "ScrollScorchingRayDescription"
 msgid "When you use this scroll, you cast the Scorching Ray spell."
-msgstr ""
+msgstr "이 두루마리를 사용하면 작열 광선 주문을 시전합니다."
 
 msgctxt "ScrollScorchingRayTitle"
 msgid "Scroll of Scorching Ray"
-msgstr ""
+msgstr "작열 광선 두루마리"
 
 msgctxt "ScrollShieldOfFaithDescription"
 msgid "When you use this scroll, you cast the Shield of Faith spell."
-msgstr ""
+msgstr "이 두루마리를 사용하면 신앙의 방패 주문을 시전합니다."
 
 msgctxt "ScrollShieldOfFaithTitle"
 msgid "Scroll of Shield of Faith"
-msgstr ""
+msgstr "신앙의 방패 두루마리"
 
 msgctxt "ScrollSleepDescription"
 msgid "When you use this scroll, you cast the Sleep spell."
-msgstr ""
+msgstr "이 두루마리를 사용하면 수면 주문을 시전합니다."
 
 msgctxt "ScrollSleepTitle"
 msgid "Scroll of Sleep"
-msgstr ""
+msgstr "수면 두루마리"
 
 msgctxt "ScrollThunderwaveDescription"
 msgid "When you use this scroll, you cast the Thunderwave spell."
@@ -3747,9 +3748,10 @@ msgctxt "WandFearTitle"
 msgid "Wand of Fear"
 msgstr "공포의 완드"
 
+#, fuzzy
 msgctxt "WandLightningBoltsTitle"
 msgid "Wand of Lightning Bolts"
-msgstr ""
+msgstr "번개 화살 완드"
 
 msgctxt "WandMagicMissileTitle"
 msgid "Wand of Magic Missile"
@@ -7356,35 +7358,36 @@ msgstr "보석이 박힌 이 부적은 거대합니다 - 너무 거대해서 확
 
 msgctxt "ScrollHasteDescription"
 msgid "When you use this scroll, you cast the Haste spell."
-msgstr ""
+msgstr "이 두루마리를 사용하면 가속 주문을 시전합니다."
 
 msgctxt "ScrollHasteTitle"
 msgid "Scroll of Haste"
-msgstr ""
+msgstr "가속 두루마리"
 
 msgctxt "ScrollConjureAnimalsDescription"
 msgid "When you use this scroll, you cast the Conjure Animals spell."
-msgstr ""
+msgstr "이 두루마리를 사용하면 동물 소환 주문을 시전합니다."
 
 msgctxt "ScrollConjureAnimalsTitle"
 msgid "Scroll of Conjure Animals"
-msgstr ""
+msgstr "동물 소환 두루마리"
 
 msgctxt "ScrollDaylightDescription"
 msgid "When you use this scroll, you cast the Daylight spell."
-msgstr ""
+msgstr "이 두루마리를 사용하면 광구 주문을 시전합니다."
 
+#, fuzzy
 msgctxt "ScrollDaylightTitle"
 msgid "Scroll of Daylight"
-msgstr ""
+msgstr "광구 두루마리"
 
 msgctxt "ScrollFlyDescription"
 msgid "When you use this scroll, you cast the Fly spell."
-msgstr ""
+msgstr "이 두루마리를 사용하면 비행 주문을 시전합니다."
 
 msgctxt "ScrollFlyTitle"
 msgid "Scroll of Fly"
-msgstr ""
+msgstr "비행 두루마리"
 
 msgctxt "ScrollSleetStormDescription"
 msgid "When you use this scroll, you cast the Sleet Storm spell."
@@ -7396,35 +7399,41 @@ msgstr ""
 
 msgctxt "ScrollSlowDescription"
 msgid "When you use this scroll, you cast the Slow spell."
-msgstr ""
+msgstr "이 두루마리를 사용하면 둔화 주문을 시전합니다."
 
 msgctxt "ScrollSlowTitle"
 msgid "Scroll of Slow"
-msgstr ""
+msgstr "둔화 두루마리"
 
+#, fuzzy
 msgctxt "ScrollSpiritGuardiansDescription"
 msgid "When you use this scroll, you cast the Spirit Guardians spell."
-msgstr ""
+msgstr "이 두루마리를 사용하면 영혼 수호자 주문을 시전합니다."
 
+#, fuzzy
 msgctxt "ScrollSpiritGuardiansTitle"
 msgid "Scroll of Spirit Guardians"
-msgstr ""
+msgstr "영혼 수호자 두루마리"
 
+#, fuzzy
 msgctxt "ScrollStinkingCloudDescription"
 msgid "When you use this scroll, you cast the Stinking Cloud spell."
-msgstr ""
+msgstr "이 두루마리를 사용하면 악취 구름 주문을 시전합니다."
 
+#, fuzzy
 msgctxt "ScrollStinkingCloudTitle"
 msgid "Scroll of Stinking Cloud"
-msgstr ""
+msgstr "악취 구름 두루마리"
 
+#, fuzzy
 msgctxt "ScrollTonguesDescription"
 msgid "When you use this scroll, you cast the Tongues spell."
-msgstr ""
+msgstr "이 두루마리를 사용하면 통역 주문을 시전합니다."
 
+#, fuzzy
 msgctxt "ScrollTonguesTitle"
 msgid "Scroll of Tongues"
-msgstr ""
+msgstr "통역 주문"
 
 msgctxt "ScrollMassHealingWordDescription"
 msgid "When you use this scroll, you cast the Mass Healing Word spell."
@@ -7755,45 +7764,49 @@ msgid ""
 "an item."
 msgstr ""
 
+#, fuzzy
 msgctxt "ScrollCloudKillTitle"
 msgid "Scroll of Cloudkill"
-msgstr ""
+msgstr "죽음의 구름 두루마리"
 
+#, fuzzy
 msgctxt "ScrollCloudKillDescription"
 msgid "When you use this scroll, you cast the spell Cloudkill."
-msgstr ""
+msgstr "이 두루마리를 사용하면 죽음의 구름 주문을 시전합니다."
 
+#, fuzzy
 msgctxt "ScrollConeOfColdTitle"
 msgid "Scroll of Cone of Cold"
-msgstr ""
+msgstr "냉기 분사 두루마리"
 
+#, fuzzy
 msgctxt "ScrollConeOfColdDescription"
 msgid "When you use this scroll, you cast the spell Cone of Cold."
-msgstr ""
+msgstr "이 두루마리를 사용하면 냉기 분사 주문을 시전합니다."
 
 msgctxt "ScrollConjureElementalTitle"
 msgid "Scroll of Conjure Elemental"
-msgstr ""
+msgstr "정령 소환 두루마리"
 
 msgctxt "ScrollConjureElementalDescription"
 msgid "When you use this scroll, you cast the spell Conjure Elemental."
-msgstr ""
+msgstr "이 두루마리를 사용하면 정령 소환 주문을 시전합니다."
 
 msgctxt "ScrollContagionTitle"
 msgid "Scroll of Contagion"
-msgstr ""
+msgstr "감염 두루마리"
 
 msgctxt "ScrollContagionDescription"
 msgid "When you use this scroll, you cast the spell Contagion."
-msgstr ""
+msgstr "이 두루마리를 사용하면 감염 주문을 시전합니다."
 
 msgctxt "ScrollDominatePersonTitle"
 msgid "Scroll of Dominate Person"
-msgstr ""
+msgstr "정신 지배 두루마리"
 
 msgctxt "ScrollDominatePersonDescription"
 msgid "When you use this scroll, you cast the spell Dominate Person."
-msgstr ""
+msgstr "이 두루마리를 사용하면 정신 지배 주문을 시전합니다."
 
 msgctxt "ScrollDispelEvilAndGoodTitle"
 msgid "Scroll of Dispel Evil and Good"
@@ -7805,27 +7818,29 @@ msgstr ""
 
 msgctxt "ScrollFlameStrikeTitle"
 msgid "Scroll of Flame Strike"
-msgstr ""
+msgstr "화염의 일격 두루마리"
 
 msgctxt "ScrollFlameStrikeDescription"
 msgid "When you use this scroll, you cast the spell Flame Strike."
-msgstr ""
+msgstr "이 두루마리를 사용하면 화염의 일격 주문을 시전합니다."
 
 msgctxt "ScrollGreaterRestorationTitle"
 msgid "Scroll of Greater Restoration"
-msgstr ""
+msgstr "상급 치유 두루마리"
 
 msgctxt "ScrollGreaterRestorationDescription"
 msgid "When you use this scroll, you cast the spell Greater Restoration."
-msgstr ""
+msgstr "이 두루마리를 사용하면 상급 치유 주문을 시전합니다."
 
+#, fuzzy
 msgctxt "ScrollHoldMonsterTitle"
 msgid "Scroll of Hold Monster"
-msgstr ""
+msgstr "몬스터 속박 두루마리"
 
+#, fuzzy
 msgctxt "ScrollHoldMonsterDescription"
 msgid "When you use this scroll, you cast the spell Hold Monster."
-msgstr ""
+msgstr "이 두루마리를 사용하면 몬스터 속박 주문을 시전합니다."
 
 msgctxt "ScrollInsectPlagueTitle"
 msgid "Scroll of Insect Plague"
@@ -7837,11 +7852,11 @@ msgstr ""
 
 msgctxt "ScrollMassCureWoundsTitle"
 msgid "Scroll of Mass Cure Wounds"
-msgstr ""
+msgstr "대규모 상처 치료 두루마리"
 
 msgctxt "ScrollMassCureWoundsDescription"
 msgid "When you use this scroll, you cast the spell Mass Cure Wounds."
-msgstr ""
+msgstr "이 두루마리를 사용하면 대규모 상처 치료 주문을 시전합니다."
 
 msgctxt "ScrollMindTwistTitle"
 msgid "Scroll of Mind Twist"
@@ -7853,11 +7868,11 @@ msgstr ""
 
 msgctxt "ScrollBanishmentTitle"
 msgid "Scroll of Banishment"
-msgstr ""
+msgstr "추방 두루마리"
 
 msgctxt "ScrollBanishmentDescription"
 msgid "When you use this scroll, you cast the spell Banishment."
-msgstr ""
+msgstr "이 두루마리를 사용하면 추방 주문을 시전합니다."
 
 msgctxt "ScrollBlackTentaclesTitle"
 msgid "Scroll of Black Tentacles"
@@ -7869,19 +7884,19 @@ msgstr ""
 
 msgctxt "ScrollBlightTitle"
 msgid "Scroll of Blight"
-msgstr ""
+msgstr "역병 두루마리"
 
 msgctxt "ScrollBlightDescription"
 msgid "When you use this scroll, you cast the spell Blight."
-msgstr ""
+msgstr "이 두루마리를 사용하면 역병 주문을 시전합니다."
 
 msgctxt "ScrollConfusionTitle"
 msgid "Scroll of Confusion"
-msgstr ""
+msgstr "혼란 두루마리"
 
 msgctxt "ScrollConfusionDescription"
 msgid "When you use this scroll, you cast the spell Confusion."
-msgstr ""
+msgstr "이 두루마리를 사용하면 혼란 주문을 시전합니다."
 
 msgctxt "ScrollDeathwardTitle"
 msgid "Scroll of Deathward"
@@ -7893,35 +7908,35 @@ msgstr ""
 
 msgctxt "ScrollDimensionDoorTitle"
 msgid "Scroll of Dimension Door"
-msgstr ""
+msgstr "차원문 두루마리"
 
 msgctxt "ScrollDimensionDoorDescription"
 msgid "When you use this scroll, you cast the spell Dimension Door."
-msgstr ""
+msgstr "이 두루마리를 사용하면 차원문 주문을 시전합니다."
 
 msgctxt "ScrollFireShieldTitle"
 msgid "Scroll of Fire Shield"
-msgstr ""
+msgstr "화염 방패 두루마리"
 
 msgctxt "ScrollFireShieldDescription"
 msgid "When you use this scroll, you cast the spell Fire Shield."
-msgstr ""
+msgstr "이 두루마리를 사용하면 화염 방패 주문을 시전합니다."
 
 msgctxt "ScrollGiantInsectTitle"
 msgid "Scroll of Giant Insect"
-msgstr ""
+msgstr "거대 곤충 두루마리"
 
 msgctxt "ScrollGiantInsectDescription"
 msgid "When you use this scroll, you cast the spell Giant Insect."
-msgstr ""
+msgstr "이 두루마리를 사용하면 거대 곤충 주문을 시전합니다."
 
 msgctxt "ScrollGreaterInvisibilityTitle"
 msgid "Scroll of Greater Invisibility"
-msgstr ""
+msgstr "상급 투명화 두루마리"
 
 msgctxt "ScrollGreaterInvisibilityDescription"
 msgid "When you use this scroll, you cast the spell Greater Invisibility."
-msgstr ""
+msgstr "이 두루마리를 사용하면 상급 투명화 주문을 시전합니다."
 
 msgctxt "ScrollGuardianOfFaithTitle"
 msgid "Scroll of Guardian of Faith"
@@ -7933,11 +7948,11 @@ msgstr ""
 
 msgctxt "ScrollIceStormTitle"
 msgid "Scroll of Ice Storm"
-msgstr ""
+msgstr "얼음 폭풍 두루마리"
 
 msgctxt "ScrollIceStormDescription"
 msgid "When you use this scroll, you cast the spell Ice Storm."
-msgstr ""
+msgstr "이 두루마리를 사용하면 얼음 폭풍 주문을 시전합니다."
 
 msgctxt "ScrollPhantasmalKillerTitle"
 msgid "Scroll of Phantasmal Killer"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-29 08:06+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2021-09-05 18:35+0000\n"
+"Last-Translator: 배정기 <wjdrl5195@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/stage/ko/>"
 "\n"
 "Language: ko\n"
@@ -32,9 +32,10 @@ msgctxt "AbilityScoresAssignmentEditTitle"
 msgid "Adjust your ability scores from your points pool."
 msgstr ""
 
+#, fuzzy
 msgctxt "AbilityScoresAssignmentEditUnlimitedTitle"
 msgid "Adjust your ability scores as desired."
-msgstr ""
+msgstr "능력치를 원하는 대로 조정하세요."
 
 msgctxt "AbilityScoresAvailableValuesTitle"
 msgid "Your available scores."
@@ -45,17 +46,20 @@ msgctxt "AbilityScoresBonusFromRaceTitle"
 msgid "From Ancestry"
 msgstr "종족 보너스"
 
+#, fuzzy
 msgctxt "AbilityScoresCurrentTitle"
 msgid "Current Ability Scores"
-msgstr ""
+msgstr "현재 능력치"
 
+#, fuzzy
 msgctxt "AbilityScoresDecreaseCannotDescription"
 msgid "You cannot lower this value any more."
-msgstr ""
+msgstr "이 값은 더 이상 내릴 수 없습니다."
 
+#, fuzzy
 msgctxt "AbilityScoresDecreaseDescription"
 msgid "Lower this ability score."
-msgstr ""
+msgstr "이 능력치를 낮춥니다."
 
 msgctxt "AbilityScoresFreeEditionDescription"
 msgid "Accurately recreate an existing character."
@@ -65,17 +69,20 @@ msgctxt "AbilityScoresFreeEditionTitle"
 msgid "Free Edit"
 msgstr ""
 
+#, fuzzy
 msgctxt "AbilityScoresIncreaseCannotDescription"
 msgid "No further increase possible."
-msgstr ""
+msgstr "더 이상 늘릴 수 없습니다."
 
+#, fuzzy
 msgctxt "AbilityScoresIncreaseCapitalDescription"
 msgid "Raise this ability score at the cost of {0} point(s)."
-msgstr ""
+msgstr "{0}점을 소모하여 이 능력치를 올립니다."
 
+#, fuzzy
 msgctxt "AbilityScoresIncreaseFreeDescription"
 msgid "Raise this ability score (free)."
-msgstr ""
+msgstr "이 능력치를 올립니다(무료)."
 
 msgctxt "AbilityScoresMethodPointsTitle"
 msgid "Point Buy"
@@ -145,17 +152,20 @@ msgctxt "AbilityScoresStageFailNotAllAssignedDescription"
 msgid "You must assign all 6 ability scores to the left side of the screen."
 msgstr ""
 
+#, fuzzy
 msgctxt "AbilityScoresStageFailRemainingPointsDescription"
 msgid "You must spend all your points before you can proceed."
-msgstr ""
+msgstr "계속 진행하기 전에 모든 포인트를 사용해야 합니다."
 
+#, fuzzy
 msgctxt "AbilityScoresStageFailSpendAllLevelUpPointsDescription"
 msgid "You must spend all the ability score points from leveling up."
-msgstr ""
+msgstr "레벨업 시 능력치 포인트를 모두 사용해야 합니다."
 
+#, fuzzy
 msgctxt "AbilityScoresStageFailSpendAllRacePointsDescription"
 msgid "You must spend all the ability score points from the chosen ancestry."
-msgstr ""
+msgstr "선택한 종족의 능력치 포인트를 모두 사용해야 합니다."
 
 msgctxt "AbilityScoresStageTitle"
 msgid ""
@@ -163,9 +173,10 @@ msgid ""
 "Scores"
 msgstr ""
 
+#, fuzzy
 msgctxt "AbilityTipDescription"
 msgid "As a \"{0}\", your most important ability scores are {1}, {2}, and {3}."
-msgstr ""
+msgstr "\"{0}\"인 경우, 가장 중요한 능력치는 {1}, {2} 및 {3}입니다."
 
 msgctxt "AbilityTipTitle"
 msgid "Tip"
@@ -233,13 +244,15 @@ msgctxt "BackgroundSelectionStageTitle"
 msgid "Background"
 msgstr "배경"
 
+#, fuzzy
 msgctxt "CantripLearnPluralTitle"
 msgid "Select {0} cantrips to learn."
-msgstr ""
+msgstr "학습할 캔트립을 {0}개 선택하세요."
 
+#, fuzzy
 msgctxt "CantripLearnSingleTitle"
 msgid "Select a cantrip to learn."
-msgstr ""
+msgstr "학습할 캔트립을 선택하세요."
 
 msgctxt "ChangeEquipementDescription"
 msgid "Click to choose between different equipment configurations."
@@ -249,9 +262,10 @@ msgctxt "ChangeEquipementTitle"
 msgid "Edit Equipment"
 msgstr "장비 편집"
 
+#, fuzzy
 msgctxt "ClassAdvancementStageDescription"
 msgid "This stage lets you level up a class or add a new class."
-msgstr ""
+msgstr "이 단계에서는 클래스의 레벨을 올리거나 새 클래스를 추가할 수 있습니다."
 
 msgctxt "ClassAdvancementStageTitle"
 msgid ""
@@ -259,9 +273,10 @@ msgid ""
 "Advancement"
 msgstr ""
 
+#, fuzzy
 msgctxt "ClassEquipmentTitle"
 msgid "Class Equipment"
-msgstr ""
+msgstr "클래스 장비"
 
 msgctxt "ClassFeaturesTitle"
 msgid "Class Features"
@@ -279,9 +294,10 @@ msgctxt "ClassSelectionStageTitle"
 msgid "Class "
 msgstr "클래스 "
 
+#, fuzzy
 msgctxt "DeitySelectionDeityChoiceTitle"
 msgid "Select a Deity"
-msgstr ""
+msgstr "신을 선택하세요"
 
 msgctxt "DeitySelectionDomainChoiceTitle"
 msgid "Select a Divine Domain"
@@ -309,9 +325,10 @@ msgid ""
 "benefits of your faith."
 msgstr ""
 
+#, fuzzy
 msgctxt "DeitySelectionStageNoDeitySelectedDescription"
 msgid "You must select a deity."
-msgstr ""
+msgstr "신을 선택해야 합니다."
 
 msgctxt "DeitySelectionStageNoDomainSelectedDescription"
 msgid "You must select a divine domain."
@@ -353,23 +370,32 @@ msgctxt "HigherLevelFeaturesTitle"
 msgid "Higher Level Features"
 msgstr ""
 
+#, fuzzy
 msgctxt "HitPointsGainFormatPlural"
 msgid ""
 "You have gained {0} hit points\n"
 "\n"
 "You have gained one additional hit die"
 msgstr ""
+"체력을 {0} 얻었습니다\n"
+"\n"
+"체력 주사위가 하나 추가되었습니다"
 
+#, fuzzy
 msgctxt "HitPointsGainFormatSingle"
 msgid ""
 "You have gained {0} hit point\n"
 "\n"
 "You have gained one additional hit die"
 msgstr ""
+"체력을 {0} 얻었습니다\n"
+"\n"
+"체력 주사위가 하나 추가되었습니다"
 
+#, fuzzy
 msgctxt "HitPointsGainTitle"
 msgid "Hit Points"
-msgstr ""
+msgstr "체력"
 
 msgctxt "IdentityAdditionalBackstoryHeader"
 msgid "Additional Backstory"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-29 08:06+0000\n"
-"Last-Translator: 백정현 <bjhmsg@naver.com>\n"
+"PO-Revision-Date: 2021-09-09 13:05+0000\n"
+"Last-Translator: 소상준 <alexjun3@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/campaign/"
 "ko/>\n"
 "Language: ko\n"
@@ -252,10 +252,9 @@ msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council02_c"
 msgid "Attuned"
 msgstr "동조"
 
-#, fuzzy
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council02_d"
 msgid "Marshal Sunblaze"
-msgstr "원수 선블레이즈"
+msgstr "선블레이즈 원수"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Council02_e"
 msgid "The Lost Gem"
@@ -308,7 +307,7 @@ msgstr "마나칼론 폐허"
 
 msgctxt "CrownOfTheMagister_Journal_TOM_1_B_LoneWorker"
 msgid "Doomed from the Start"
-msgstr ""
+msgstr "예고된 재앙"
 
 msgctxt "CrownOfTheMagister_Journal_TOM_1_C_FlyingRock"
 msgid "Chaotic Magic"
@@ -554,10 +553,9 @@ msgctxt "CrownOfTheMagister_Journal_DialogTitle_Merton_05_LegendaryQuest05"
 msgid "The Lost God"
 msgstr "잃어버린 신"
 
-#, fuzzy
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Merton_05_LegendaryQuest06"
 msgid "A Chapter Is Closed"
-msgstr "챕터가 종료되었습니다."
+msgstr "챕터가 종료되었습니다"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Academic_01"
 msgid "The Runaway Student"
@@ -630,7 +628,7 @@ msgstr ""
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Aristocrat_06"
 msgid "The Mark of Arivad"
-msgstr ""
+msgstr "아리바드의 표식"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Aristocrat_07"
 msgid "The Ambitious One"
@@ -737,7 +735,7 @@ msgstr "내 신호를 기다려"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Philosopher_08"
 msgid "Power to the One"
-msgstr ""
+msgstr "하나를 위한 힘"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Philosopher_09"
 msgid "Freedom"
@@ -767,9 +765,10 @@ msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Sellsword_06A"
 msgid "What Does It Mean?"
 msgstr "무슨 뜻이에요?"
 
+#, fuzzy
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Sellsword_06B"
 msgid "It's a Sorak Plot!"
-msgstr ""
+msgstr "소락 계획이야!"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Sellsword_07"
 msgid "We Have a Clue"
@@ -777,7 +776,7 @@ msgstr "단서 발견"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Sellsword_08"
 msgid "Betrayed by His Own Hand"
-msgstr ""
+msgstr "제 도끼에 발등 찍히다"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Sellsword_09"
 msgid "Restored Honor"
@@ -793,15 +792,16 @@ msgstr "오래된 지인"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Spy_03"
 msgid "Cutting Loose Ends"
-msgstr ""
+msgstr "마무리"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Spy_04"
 msgid "What's the Plan?"
 msgstr "계획이 뭐라고?"
 
+#, fuzzy
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Spy_05"
 msgid "Going Under"
-msgstr ""
+msgstr "아래로"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Spy_06"
 msgid "Tradecraft"
@@ -834,11 +834,11 @@ msgstr "귀가"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerCyflen_Act3_CovenOfArivad_01"
 msgid "Summer's Mansion"
-msgstr ""
+msgstr "여름의 대저택"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerCyflen_Act3_CovenOfArivad_02"
 msgid "Deep Cover"
-msgstr ""
+msgstr "은폐"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerCyflen_Act3_CovenOfArivad_03"
 msgid "Infiltrated"
@@ -850,11 +850,11 @@ msgstr "팽팽해지는 갈등"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerCyflen_Act3_MeetingCarran_02"
 msgid "Unraveled"
-msgstr ""
+msgstr "드러나다"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_CaerCyflen_Act3_Robar"
 msgid "Captain Sharp"
-msgstr ""
+msgstr "캡틴 샤프"
 
 msgctxt "CrownOfTheMagister_Journal_CaerCyflen_Act3_SummersHouse"
 msgid "The Silent Whisper"
@@ -862,23 +862,23 @@ msgstr "고요한 속삭임"
 
 msgctxt "CrownOfTheMagister_Journal_CaerCyflen_Act3_TempleOfEinar_01"
 msgid "Beric"
-msgstr ""
+msgstr "베릭"
 
 msgctxt "CrownOfTheMagister_Journal_CaerCyflen_Act3_TempleOfEinar_02"
 msgid "Enemy at the Gates"
-msgstr ""
+msgstr "절체절명"
 
 msgctxt "CrownOfTheMagister_Journal_CaerCyflen_Act3_TempleOfEinar_03"
 msgid "The Crown is Gone!"
-msgstr ""
+msgstr "왕관이 사라졌다!"
 
 msgctxt "CrownOfTheMagister_Journal_CaerCyflen_Act3_TempleOfEinar_04"
 msgid "Protect the Gate!"
-msgstr ""
+msgstr "성문을 사수하라!"
 
 msgctxt "CrownOfTheMagister_Journal_CaerCyflen_Act3_TempleOfEinar_05"
 msgid "The Princess"
-msgstr ""
+msgstr "공주"
 
 msgctxt "CrownOfTheMagister_Journal_CaerCyflen_Act3_TempleOfEinar_06"
 msgid "It's up to You Now"
@@ -886,7 +886,7 @@ msgstr "이제 너에게 달려있어"
 
 msgctxt "CrownOfTheMagister_Journal_CaerCyflen_Act3_TempleOfEinar_07"
 msgid "Take a Deep Breath"
-msgstr ""
+msgstr "심호흡"
 
 msgctxt ""
 "CrownOfTheMagister_Journal_DialogTitle_FactionDialog_Scavengers_03_HenriksDea"
@@ -922,7 +922,7 @@ msgctxt ""
 "CrownOfTheMagister_Journal_DialogTitle_FactionDialog_Scavengers_08_EndLowlife"
 "Quest"
 msgid "The Right Owner"
-msgstr ""
+msgstr "정당한 주인"
 
 #, fuzzy
 msgctxt ""
@@ -1033,9 +1033,10 @@ msgctxt ""
 msgid "Mind-Boggling"
 msgstr "경탄"
 
+#, fuzzy
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_14_Coward"
 msgid "The Light Cube"
-msgstr ""
+msgstr "빛의 상자"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Conjuration_14b_Coward"
 msgid "The Coward"
@@ -1106,10 +1107,9 @@ msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_10_Bladefang"
 msgid "Tribe of the Faithful"
 msgstr "신의의 부족"
 
-#, fuzzy
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_11_Bladefang_Meeting"
 msgid "A Big Favor"
-msgstr "큰 부탁"
+msgstr "어려운 부탁"
 
 #, fuzzy
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_12_Bladefangquest"
@@ -1120,9 +1120,10 @@ msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_13_OldQueen"
 msgid "Another Spider"
 msgstr "또 다른 거미"
 
+#, fuzzy
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_14_OldQueenFight"
 msgid "It Hates Light"
-msgstr ""
+msgstr "빛을 싫어하는 것"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_15_OldQueenBeaten"
 msgid "The Holy Axe"
@@ -1144,10 +1145,9 @@ msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_19_Necropolis_Hall"
 msgid "Back in Time"
 msgstr "시간을 거슬러"
 
-#, fuzzy
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_20_Necropolis_Map"
 msgid "The Way It Used to Be"
-msgstr "과거의 방식"
+msgstr "옛 방식"
 
 #, fuzzy
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_21_Necropolis_Statue01"
@@ -1166,28 +1166,28 @@ msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_24_Necropolis_Emperor"
 msgid "Anger"
 msgstr "분노"
 
-#, fuzzy
 msgctxt ""
 "CrownOfTheMagister_Journal_DialogTitle_Evocation_26_Necropolis_GhostReturn"
 msgid "To Oblivion"
-msgstr "망각으로"
-
-msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_27_UrkaReveals"
-msgid "Gaks!"
-msgstr ""
+msgstr "망각 속으로"
 
 #, fuzzy
+msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_27_UrkaReveals"
+msgid "Gaks!"
+msgstr "개크스!"
+
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_28_UrkaKilled"
 msgid "They Are Everywhere"
-msgstr "놈들이 사방에"
+msgstr "어디에나 있다"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_29_BackToBrok"
 msgid "The Alliance"
-msgstr ""
+msgstr "동맹"
 
+#, fuzzy
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_30_NearRedScarGate"
 msgid "Redscar Gate"
-msgstr ""
+msgstr "레드스카 관문"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Evocation_31_InsideCity"
 msgid "The Burned Throne"

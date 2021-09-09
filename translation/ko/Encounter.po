@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-09-02 13:51+0000\n"
-"Last-Translator: 배정기 <wjdrl5195@naver.com>\n"
+"PO-Revision-Date: 2021-09-09 13:05+0000\n"
+"Last-Translator: vatican_cameo <ujvoxqk@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/encounter/"
 "ko/>\n"
 "Language: ko\n"
@@ -20,7 +20,7 @@ msgstr "이 황량한 땅에서 보기 드문 상단을 발견했습니다."
 
 msgctxt "Abjuration_Caravan_EncounterTitle"
 msgid "Unexpected Encounter"
-msgstr "뜻밖의 만남"
+msgstr "뜻밖의 조우"
 
 msgctxt "Abjuration_Ruins01_EncounterDescription"
 msgid ""
@@ -148,9 +148,10 @@ msgctxt "DeepSpidersEncounterDescription"
 msgid "A huge party of deep spiders looking to feed their spiderlings."
 msgstr "새끼거미들의 먹잇감을 찾고있는 거대한 동굴 거미 무리."
 
+#, fuzzy
 msgctxt "DeathGangTitle"
 msgid "Death Gang"
-msgstr ""
+msgstr "죽은 자들의 무리"
 
 msgctxt "DeathGangDescription"
 msgid "Roaming skeletons, escaped from some desecrated tomb."
@@ -294,9 +295,10 @@ msgid ""
 "A rare creature on Solasta, this guardian aberration is on a killing spree."
 msgstr "솔라스타의 희귀 생물인 이 가디언 변종은 살인을 자행하고 있습니다."
 
+#, fuzzy
 msgctxt "LoneWightTitle"
 msgid "Wight"
-msgstr ""
+msgstr "와이트"
 
 msgctxt "LoneWightDescription"
 msgid "A lone wight wandering in search of someone to kill."
@@ -570,7 +572,7 @@ msgstr "사교도 지도자"
 
 msgctxt "CultLeaderDescription"
 msgid "A powerful cleric with his personal escort, on a murderous mission."
-msgstr ""
+msgstr "잔혹한 임무에 나선 강력한 클레릭과 개인 호위."
 
 msgctxt "SpectralSpidersTitle"
 msgid "Spectral Spiders"
@@ -638,17 +640,19 @@ msgctxt "CR18_Major_Fire_Elementals_Title"
 msgid "Major Fire Elementals"
 msgstr "상급 불 정령"
 
+#, fuzzy
 msgctxt "CR6_Minor_Air_Elementals_Title"
 msgid "Minor Air Elementals"
-msgstr ""
+msgstr "하급 바람의 정령"
 
 msgctxt "CR12_Air_Elementals_Title"
 msgid "Air Elementals"
 msgstr "대기의 정령"
 
+#, fuzzy
 msgctxt "CR7_Young_Black_Dragon_Title"
 msgid "Young Black Dragon"
-msgstr ""
+msgstr "블랙 드래곤 아성체"
 
 #, fuzzy
 msgctxt "CR10_PoisonousPests_Title"
@@ -657,11 +661,12 @@ msgstr "맹독충"
 
 msgctxt "CR20_CrimsonSpiders_x4_Title"
 msgid "Crimson Spiders"
-msgstr ""
+msgstr "진홍 거미"
 
+#, fuzzy
 msgctxt "CR16_Major_Earth_Elementals_Title"
 msgid "Major Earth Elementals"
-msgstr ""
+msgstr "상급 땅의 정령"
 
 #, fuzzy
 msgctxt "CR15_Elementals_x3_Title"
@@ -683,7 +688,7 @@ msgstr "해골 파괴자"
 
 msgctxt "CR10_CrimsonSpiders_x2_Title"
 msgid "Crimson Spider Couple"
-msgstr ""
+msgstr "한 쌍의 진홍 거미"
 
 #, fuzzy
 msgctxt "CR5_Goblin_Cutthroats_Title"
@@ -697,7 +702,7 @@ msgstr "고블린 약탈자"
 #, fuzzy
 msgctxt "CR11_OrcGrimblade_x1_x2_x1_Title"
 msgid "Orc Grimblade Raider"
-msgstr "오크 그림블레이드 레이더"
+msgstr "오크 그림블레이드 약탈자"
 
 #, fuzzy
 msgctxt "CR9_Orc_Hunters_Title"
@@ -720,9 +725,10 @@ msgctxt "CR21_Brood_Horde_Title"
 msgid "Wandering Brood Horde"
 msgstr ""
 
+#, fuzzy
 msgctxt "CR10_YoungRemorhazes_Description"
 msgid "A couple of young remorhazes… still deadly!"
-msgstr ""
+msgstr "소수의 리모하즈 아성체... 그러나 위험합니다!"
 
 msgctxt "CR12_Redeemers_x3_Description"
 msgid "A trio of deadly giant insects looking for their next meal."
@@ -733,91 +739,101 @@ msgid ""
 "A gigantic zealot and two lesser redeemers looking for magic to feed upon."
 msgstr ""
 
+#, fuzzy
 msgctxt "CR9_Minor_Fire_Elementals_Description"
 msgid "Small fiery elementals born from some chaotic Badlands magic."
-msgstr ""
+msgstr "혼돈의 황무지 마법에서 태어난 작은 불의 정령."
 
+#, fuzzy
 msgctxt "CR14_Fire_Elementals_Description"
 msgid "Fiery elementals born from some chaotic Badlands magic."
-msgstr ""
+msgstr "혼돈의 황무지 마법에서 태어난 불의 정령."
 
+#, fuzzy
 msgctxt "CR18_Major_Fire_Elementals_Description"
 msgid "Very powerful fiery elementals born from some chaotic Badlands magic."
-msgstr ""
+msgstr "혼돈의 황무지 마법에서 태어난 매우 강력한 불의 정령."
 
+#, fuzzy
 msgctxt "CR6_Minor_Air_Elementals_Description"
 msgid "Small air elementals born from some chaotic Badlands magic."
-msgstr ""
+msgstr "혼돈의 황무지 마법에서 태어난 작은 바람의 정령."
 
+#, fuzzy
 msgctxt "CR12_Air_Elementals_Description"
 msgid "Air elementals born from some chaotic Badlands magic."
-msgstr ""
+msgstr "혼돈의 황무지 마법에서 태어난 바람의 정령."
 
+#, fuzzy
 msgctxt "CR7_Young_Black_Dragon_Description"
 msgid ""
 "This degenerate dragon was born in the Badlands. Now it's looking to kill "
 "something."
-msgstr ""
+msgstr "이 약화된 드래곤은 황무지에서 태어났습니다. 이제 무언가를 죽이려고 합니다."
 
+#, fuzzy
 msgctxt "CR10_PoisonousPests_Description"
 msgid "A group of venomous Badlands creatures."
-msgstr ""
+msgstr "맹독을 가진 황무지 크리쳐 무리."
 
 msgctxt "CR20_CrimsonSpiders_x4_Description"
 msgid ""
 "A group of giant spiders born in the acidic underground lakes of the "
 "Badlands."
-msgstr ""
+msgstr "황무지의 지하 산성 호수에서 태어난 거대한 거미떼."
 
 msgctxt "CR16_Major_Earth_Elementals_Description"
 msgid "Small elementals born underground in the chaotic Badlands."
-msgstr ""
+msgstr "혼돈의 황무지 지하에서 태어난 작은 정령들."
 
 msgctxt "CR15_Elementals_x3_Description"
 msgid "Earth elementals born underground in the chaotic Badlands."
-msgstr ""
+msgstr "혼돈의 황무지 지하에서 태어난 땅 정령들."
 
 msgctxt "CR10_Skeleton_Enforcers_x2_x2_Description"
 msgid "A group of powerful skeletons summoned by an experienced necromancer."
-msgstr ""
+msgstr "경험 많은 네크로맨서가 소환한 강력한 스켈레톤 무리."
 
 msgctxt "CR5_Goblin_Cutthroats_Description"
 msgid "A band of goblin assassins with a hunger for blood."
-msgstr ""
+msgstr "피에 굶주린 고블린 암살자 무리."
 
+#, fuzzy
 msgctxt "CR8_Goblin_Ravagers_Description"
 msgid "A large group of experienced goblins on a path for blood."
-msgstr ""
+msgstr "피의 길을 걷는 경험 많은 고블린 무리."
 
 msgctxt "CR11_OrcGrimblade_x1_x2_x1_Description"
 msgid "An orc raiding party led by a powerful orc grimblade."
-msgstr ""
+msgstr "강력한 오크 그림블레이드가 이끄는 오크 습격단."
 
 msgctxt "CR9_Orc_Hunters_Description"
 msgid "A couple of orc beastmasters and their pets looking for easy prey."
-msgstr ""
+msgstr "약한 먹잇감을 찾고 있는 오크 비스트마스터들과 그들의 애완동물들."
 
 msgctxt "CR10_Wraiths_Description"
 msgid ""
 "A band of deadly wandering Badlands wraiths looking for souls to torment."
-msgstr ""
+msgstr "고통받을 영혼을 찾으며 황무지를 방황하는 위험한 망령의 무리."
 
 msgctxt "CR12_Necromancer_Gang_Description"
 msgid ""
 "A powerful necromancer and his summoned creatures, looking for a challenge."
-msgstr ""
+msgstr "적수를 찾아 헤매는 강력한 네크로맨서와 그의 소환수들."
 
 msgctxt "CR13_Brood_Couple_Description"
 msgid "Wandering broods in search of blood."
 msgstr ""
 
+#, fuzzy
 msgctxt "CR14_Arctic_Monsters_x3x1_Title"
 msgid "Arctic Monsters"
-msgstr ""
+msgstr "극지방 몬스터들"
 
+#, fuzzy
 msgctxt "CR9_Arctic_Pack_x3_Title"
 msgid "Arctic Pack"
-msgstr ""
+msgstr "극지방 꾸러미"
 
 msgctxt "CR6_Arctic_Duo_x2_Title"
 msgid "Arctic Duo"
@@ -827,33 +843,37 @@ msgctxt "CR16_Undead_Pack_x4_Title"
 msgid "Undead Pack"
 msgstr ""
 
+#, fuzzy
 msgctxt "CR6_Wraith_Master_x1x4_Title"
 msgid "Wraith Master"
-msgstr ""
+msgstr "우두머리 망령"
 
+#, fuzzy
 msgctxt "CR16_Wraith_Hunters_x3x2_Title"
 msgid "Wraith Hunters"
-msgstr ""
+msgstr "망령 헌터"
 
 msgctxt "CR4_Undead_Knight_x1x2x2_Title"
 msgid "Undead Knight"
-msgstr ""
+msgstr "언데드 기사"
 
 msgctxt "CR8_Undead_Knight_x1x1x4_Title"
 msgid "Undead Huntsman"
-msgstr ""
+msgstr "언데드 사냥꾼"
 
 msgctxt "CR8_Undead_hunt_pack_x3_Title"
 msgid "Undead Pack"
 msgstr ""
 
+#, fuzzy
 msgctxt "CR2_Wind_Snakes_x4_Title"
 msgid "Wind Snakes"
-msgstr ""
+msgstr "바람뱀"
 
+#, fuzzy
 msgctxt "CR6_Flying_Snakes_x6_Title"
 msgid "Flying Snakes"
-msgstr ""
+msgstr "비행뱀"
 
 msgctxt "CR4_Skarn_Ghouls_x2_Title"
 msgid "Snark Ghouls"
@@ -861,11 +881,12 @@ msgstr ""
 
 msgctxt "CR7_Grimblade_Title"
 msgid "Grimblade"
-msgstr ""
+msgstr "그림블레이드"
 
+#, fuzzy
 msgctxt "CR8_Tamed_Minotaur_Title"
 msgid "Tamed Minotaur"
-msgstr ""
+msgstr "길들여진 미노타우로스"
 
 msgctxt "CR14_Arctic_Monsters_x3x1_Description"
 msgid ""
@@ -875,41 +896,42 @@ msgstr ""
 
 msgctxt "CR9_Arctic_Pack_x3_Description"
 msgid "A small pack of winter wolves on the hunt."
-msgstr ""
+msgstr "사냥 중인 소규모 겨울 늑대들."
 
 msgctxt "CR6_Arctic_Duo_x2_Description"
 msgid "A couple of Winter Wolves on the hunt."
-msgstr ""
+msgstr "사냥 중인 겨울 늑대 몇 마리."
 
 msgctxt "CR16_Undead_Pack_x4_Description"
 msgid "Undead wolves behaving like they're still alive and hunting."
-msgstr ""
-
-msgctxt "CR6_Wraith_Master_x1x4_Description"
-msgid "An undead hunter and his pet."
-msgstr ""
+msgstr "아직 살아 있는 것처럼 행동하며 사냥하고 있는 언데드 늑대."
 
 #, fuzzy
+msgctxt "CR6_Wraith_Master_x1x4_Description"
+msgid "An undead hunter and his pet."
+msgstr "언데드 사냥꾼과 그의 애완동물."
+
 msgctxt "CR16_Wraith_Hunters_x3x2_Description"
 msgid "A powerful band of undead warriors."
-msgstr "강력한 언데드 전사들"
+msgstr "강력한 언데드 전사 무리."
 
 msgctxt "CR2_Wind_Snakes_x4_Description"
 msgid "Small air elementals that like to kill."
-msgstr ""
+msgstr "살생을 즐기는 작은 바람의 정령."
 
 msgctxt "CR6_Flying_Snakes_x6_Description"
 msgid "Various flying and poisonous reptilians."
 msgstr ""
 
+#, fuzzy
 msgctxt "CR4_Skarn_Ghouls_x2_Description"
 msgid "Small earth elementals in a bad mood."
-msgstr ""
+msgstr "기분이 좋지 않은 작은 땅의 정령들."
 
 msgctxt "CR7_Grimblade_Description"
 msgid "A deadly orc assassin and his escort."
-msgstr ""
+msgstr "위험한 오크 암살자와 그의 호위."
 
 msgctxt "CR8_Tamed_Minotaur_Description"
 msgid "A band of goblins who tamed a powerful minotaur."
-msgstr ""
+msgstr "강력한 미노타우로스를 길들인 고블린 무리."
