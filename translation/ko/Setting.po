@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-25 05:43+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
+"PO-Revision-Date: 2021-09-16 10:22+0000\n"
+"Last-Translator: Jin <byungjinjun55@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/setting/ko/"
 ">\n"
 "Language: ko\n"
@@ -38,35 +38,40 @@ msgctxt "CameraModeDescription"
 msgid "Select an exploration camera mode."
 msgstr ""
 
+#, fuzzy
 msgctxt "CameraModeElasticDescription"
 msgid ""
 "The exploration camera can move away from your party but returns to follow "
 "mode automatically after a few seconds."
-msgstr ""
+msgstr "탐색 카메라는 파티로부터 멀어질 수 있지만 몇 초 후 자동으로 추적 모드로 돌아갑니다."
 
+#, fuzzy
 msgctxt "CameraModeElasticTitle"
 msgid "Spring"
-msgstr ""
+msgstr "자동 모드"
 
 msgctxt "CameraModeFollowDescription"
 msgid "The exploration camera is locked on your party."
-msgstr ""
+msgstr "탐색 카메라가 파티에 고정되어 있습니다."
 
+#, fuzzy
 msgctxt "CameraModeFollowTitle"
 msgid "Follow"
-msgstr ""
+msgstr "추적 모드"
 
+#, fuzzy
 msgctxt "CameraModeFreeDescription"
 msgid "You can move the exploration camera at will, outside the fog."
-msgstr ""
+msgstr "안개 밖에서 탐색 카메라를 마음대로 움직일 수 있습니다."
 
 msgctxt "CameraModeFreeTitle"
 msgid "Free"
-msgstr ""
+msgstr "자유 모드"
 
+#, fuzzy
 msgctxt "CameraModeTitle"
 msgid "Camera Mode"
-msgstr ""
+msgstr "카메라 모드"
 
 msgctxt "ConfineCursorToWindowDescription"
 msgid ""
@@ -80,11 +85,11 @@ msgstr "커서를 창에 제한"
 
 msgctxt "ContextualCameraFrequencyLevelDescription"
 msgid "Set how often the close-up camera focuses on important actions."
-msgstr ""
+msgstr "클로즈업 카메라가 중요한 행동에 초점을 맞추는 빈도를 설정합니다."
 
 msgctxt "ContextualCameraFrequencyLevelTitle"
 msgid "Contextual Camera Frequency"
-msgstr ""
+msgstr "상황별 카메라 빈도"
 
 msgctxt "DamageAcidStyleDescription"
 msgid "Die style used for this type of damage."
@@ -100,7 +105,7 @@ msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니
 
 msgctxt "DamageBludgeoningStyleTitle"
 msgid "Bludgeoning Damage Style"
-msgstr ""
+msgstr "둔기 피해 특화"
 
 msgctxt "DamageColdStyleDescription"
 msgid "Die style used for this type of damage."
@@ -138,17 +143,19 @@ msgctxt "DamageNecroticStyleDescription"
 msgid "Die style used for this type of damage."
 msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니다."
 
+#, fuzzy
 msgctxt "DamageNecroticStyleTitle"
 msgid "Necrotic Damage Style"
-msgstr ""
+msgstr "사령 피해 특화"
 
 msgctxt "DamagePiercingStyleDescription"
 msgid "Die style used for this type of damage."
 msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니다."
 
+#, fuzzy
 msgctxt "DamagePiercingStyleTitle"
 msgid "Piercing Damage Style"
-msgstr ""
+msgstr "관통 피해 특화"
 
 msgctxt "DamagePoisonStyleDescription"
 msgid "Die style used for this type of damage."
@@ -156,7 +163,7 @@ msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니
 
 msgctxt "DamagePoisonStyleTitle"
 msgid "Poison Damage Style"
-msgstr ""
+msgstr "독 피해 특화"
 
 msgctxt "DamagePsychicStyleDescription"
 msgid "Die style used for this type of damage."
@@ -164,23 +171,25 @@ msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니
 
 msgctxt "DamagePsychicStyleTitle"
 msgid "Psychic Damage Style"
-msgstr ""
+msgstr "정신 피해 특화"
 
 msgctxt "DamageRadiantStyleDescription"
 msgid "Die style used for this type of damage."
 msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니다."
 
+#, fuzzy
 msgctxt "DamageRadiantStyleTitle"
 msgid "Radiant Damage Style"
-msgstr ""
+msgstr "방사 피해 특화"
 
 msgctxt "DamageSlashingStyleDescription"
 msgid "Die style used for this type of damage."
 msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니다."
 
+#, fuzzy
 msgctxt "DamageSlashingStyleTitle"
 msgid "Slashing Damage Style"
-msgstr ""
+msgstr "베기 피해 특화"
 
 msgctxt "DamageThunderStyleDescription"
 msgid "Die style used for this type of damage."
@@ -190,13 +199,14 @@ msgctxt "DamageThunderStyleTitle"
 msgid "Thunder Damage Style"
 msgstr "천둥 피해 주사위"
 
+#, fuzzy
 msgctxt "DisplayBanterTextAboveCharactersDescription"
 msgid "Check this to show/hide the banter lines above characters in game."
-msgstr ""
+msgstr "게임에서 캐릭터 위에 표시되는 잡답을 표시하거나 숨기려면 이 옵션을 선택합니다."
 
 msgctxt "DisplayBanterTextAboveCharactersTitle"
 msgid "Display Banter Text Above Characters"
-msgstr ""
+msgstr "캐릭터 위에 잡담 텍스트 표시"
 
 msgctxt "DisplayTutorialDescription"
 msgid "Display or Hide tutorial panels during the game."
@@ -218,15 +228,15 @@ msgctxt "FocusCameraOnBattleActionsDescription"
 msgid ""
 "When enabled, the camera will automatically focus on important battle "
 "actions such as attacks, spellcasting, and more."
-msgstr ""
+msgstr "활성화되었을 때, 카메라가 공격, 주문 시전 등의 중요한 전투 행동에 자동으로 초점을 맞춥니다."
 
 msgctxt "FocusCameraOnBattleActionsTitle"
 msgid "Focus Camera on Battle Actions"
-msgstr ""
+msgstr "전투 행동에 카메라 초점 맞추기"
 
 msgctxt "FramerateDescription"
 msgid "Game screen refresh frequency."
-msgstr ""
+msgstr "게임 화면 새로 고침 빈도."
 
 msgctxt "FramerateTitle"
 msgid "Framerate"
@@ -244,19 +254,22 @@ msgctxt "GroupedMonsterInitiativesDescription"
 msgid ""
 "When rolling for initiative, all monsters of the same type have the same "
 "initiative."
-msgstr ""
+msgstr "우선권 굴림을 할 때, 같은 유형의 몬스터는 같은 우선권을 가집니다."
 
+#, fuzzy
 msgctxt "GroupedMonsterInitiativesTitle"
 msgid "Grouped Monster Initiatives"
-msgstr ""
+msgstr "집단 몬스터 우선권"
 
+#, fuzzy
 msgctxt "HealingStyleDescription"
 msgid "Die style used for healing effects."
-msgstr ""
+msgstr "치유 효과에 사용되는 주사위 스타일."
 
+#, fuzzy
 msgctxt "HealingStyleTitle"
 msgid "Healing Style"
-msgstr ""
+msgstr "치유 특화"
 
 msgctxt "MainTitle"
 msgid "Settings"
@@ -281,7 +294,7 @@ msgstr "마스터 볼륨"
 msgctxt "MoveWithRightClickDescription"
 msgid ""
 "Right-click to move characters, interact with an object, or attack an enemy."
-msgstr ""
+msgstr "캐릭터 이동, 개체와의 상호 작용 또는 적 공격을 위해서는 마우스 오른쪽 버튼을 클릭합니다."
 
 msgctxt "MoveWithRightClickTitle"
 msgid "Move/Contextual Action with Right-Click"
@@ -339,11 +352,12 @@ msgstr "함정 발견 시 반응"
 
 msgctxt "PrepareSpellsLongRestDescription"
 msgid "Changing a character's prepared spells requires a long rest."
-msgstr ""
+msgstr "캐릭터의 준비된 주문을 변경하려면 긴 휴식이 필요합니다."
 
+#, fuzzy
 msgctxt "PrepareSpellsLongRestTitle"
 msgid "Prepare Spells & Long Rest"
-msgstr ""
+msgstr "주문 준비 & 긴 휴식"
 
 msgctxt "QualityLevelDescription"
 msgid ""
@@ -410,15 +424,17 @@ msgctxt "QuicksaveCountTitle"
 msgid "Quicksave Count"
 msgstr "빠른 저장 갯수"
 
+#, fuzzy
 msgctxt "ReactionTimerDescription"
 msgid ""
 "This option gives you a limited time to decide whether or not to use a "
 "reaction."
-msgstr ""
+msgstr "이 옵션은 반응 행동의 사용 여부를 결정할 수 있는 짧은 시간을 제공합니다."
 
+#, fuzzy
 msgctxt "ReactionTimerTitle"
 msgid "Reaction Timer"
-msgstr ""
+msgstr "반응 행동 타이머"
 
 msgctxt "ResolutionDescription"
 msgid "The graphical resolution of the game screen."
@@ -708,21 +724,24 @@ msgstr ""
 "프로그램이 화면 전체를 덮는 창 모드로 실행됩니다. 시스템 바탕화면 해상도를 사용하며, 게임 해상도가 그보다 작을 경우 창 크기가 "
 "조절됩니다."
 
+#, fuzzy
 msgctxt "FullScreenModeMaximizedWindowTitle"
 msgid "Maximized Window"
-msgstr ""
+msgstr "전체 화면 모드"
 
+#, fuzzy
 msgctxt "FullScreenModeMaximizedWindowDescription"
 msgid "In this mode, the application creates a maximized window."
-msgstr ""
+msgstr "이 모드에서 게임은 전체 화면으로 실행됩니다."
 
 msgctxt "FullScreenModeWindowedTitle"
 msgid "Windowed"
 msgstr "창 모드"
 
+#, fuzzy
 msgctxt "FullScreenModeWindowedDescription"
 msgid "In this mode, Unity creates a standard, non-fullscreen window."
-msgstr ""
+msgstr "이 모드에서 유니티는 전체 화면이 아닌 표준 크기 화면을 만듭니다."
 
 msgctxt "CustomQualityTitle"
 msgid "Custom Quality"
@@ -736,43 +755,48 @@ msgctxt "ShadowQualityTitle"
 msgid "Shadow Quality"
 msgstr "그림자 품질"
 
+#, fuzzy
 msgctxt "ShadowQualityDescription"
 msgid ""
 "Choose a resolution for rendering shadows. The higher the resolution, the "
 "greater the processing overhead."
-msgstr ""
+msgstr "그림자 렌더링을 위한 해상도를 선택합니다. 해상도가 높을수록 처리하는데 부하가 많이 걸립니다."
 
 msgctxt "ShadowQualityLowTitle"
 msgid "Low"
 msgstr "낮음"
 
+#, fuzzy
 msgctxt "ShadowQualityLowDescription"
 msgid "Low shadow map resolution."
-msgstr ""
+msgstr "낮은 그림자 해상도."
 
 msgctxt "ShadowQualityMediumTitle"
 msgid "Medium"
 msgstr "보통"
 
+#, fuzzy
 msgctxt "ShadowQualityMediumDescription"
 msgid "Medium shadow map resolution."
-msgstr ""
+msgstr "보통 그림자 해상도."
 
 msgctxt "ShadowQualityHighTitle"
 msgid "High"
 msgstr "높음"
 
+#, fuzzy
 msgctxt "ShadowQualityHighDescription"
 msgid "High shadow map resolution."
-msgstr ""
+msgstr "높은 그림자 해상도."
 
 msgctxt "ShadowQualityVeryHighTitle"
 msgid "Very High"
 msgstr "매우 높음"
 
+#, fuzzy
 msgctxt "ShadowQualityVeryHighDescription"
 msgid "Very high shadow map resolution."
-msgstr ""
+msgstr "매우 높은 그림자 해상도."
 
 msgctxt "ShadowDistanceTitle"
 msgid "Shadow Distance"
@@ -788,41 +812,46 @@ msgctxt "ShadowDistanceLowTitle"
 msgid "Low"
 msgstr "낮음"
 
+#, fuzzy
 msgctxt "ShadowDistanceLowDescription"
 msgid "Low shadow rendering distance."
-msgstr ""
+msgstr "낮은 그림자 렌더링 거리."
 
 msgctxt "ShadowDistanceMediumTitle"
 msgid "Medium"
 msgstr "보통"
 
+#, fuzzy
 msgctxt "ShadowDistanceMediumDescription"
 msgid "Medium shadow rendering distance."
-msgstr ""
+msgstr "보통 그림자 렌더링 거리."
 
 msgctxt "ShadowDistanceHighTitle"
 msgid "High"
 msgstr "높음"
 
+#, fuzzy
 msgctxt "ShadowDistanceHighDescription"
 msgid "High shadow rendering distance."
-msgstr ""
+msgstr "높은 그림자 렌더링 거리."
 
 msgctxt "ShadowDistanceVeryHighTitle"
 msgid "Very High"
 msgstr "매우 높음"
 
+#, fuzzy
 msgctxt "ShadowDistanceVeryHighDescription"
 msgid "Very high shadow rendering distance."
-msgstr ""
+msgstr "매우 높은 그림자 렌더링 거리."
 
 msgctxt "ShadowDistanceUltraTitle"
 msgid "Ultra"
 msgstr "울트라"
 
+#, fuzzy
 msgctxt "ShadowDistanceUltraDescription"
 msgid "Maximum shadow rendering distance."
-msgstr ""
+msgstr "최대 그림자 렌더링 거리."
 
 msgctxt "TextureQualityTitle"
 msgid "Texture Quality"
@@ -1025,39 +1054,39 @@ msgstr "주사위 스타일"
 
 msgctxt "PartyD20StyleDescription"
 msgid "Die style for party d20 rolls"
-msgstr ""
+msgstr "파티가 d20 굴림을 할 때 사용될 주사위 스타일"
 
 msgctxt "PartyD20StyleTitle"
 msgid "Party d20 Style"
-msgstr ""
+msgstr "파티의 d20 주사위 스타일"
 
 msgctxt "PartySecondaryD20StyleDescription"
 msgid ""
 "Die style for the party's second die when rolling with advantage or "
 "disadvantage"
-msgstr ""
+msgstr "유리점 및 불리점 굴림을 할 때 사용될 파티의 두 번째 주사위 스타일"
 
 msgctxt "PartySecondaryD20StyleTitle"
 msgid "Party Adv./Disadv. d20 Style"
-msgstr ""
+msgstr "파티 유/불리 d20 주사위 스타일"
 
 msgctxt "EnemyD20StyleDescription"
 msgid "Die style for enemy d20 rolls"
-msgstr ""
+msgstr "적이 d20 굴림을 할 때 사용될 주사위 스타일"
 
 msgctxt "EnemyD20StyleTitle"
 msgid "Enemy d20 Style"
-msgstr ""
+msgstr "적 d20 주사위 스타일"
 
 msgctxt "EnemySecondaryD20StyleDescription"
 msgid ""
 "Die style for the enemy's second die when rolling with advantage or "
 "disadvantage"
-msgstr ""
+msgstr "유리점 및 불리점 굴림을 할 때 사용될 적의 두 번째 주사위 스타일"
 
 msgctxt "EnemySecondaryD20StyleTitle"
 msgid "Enemy Adv./Disadv. d20 Style"
-msgstr ""
+msgstr "적 유/불리 d20 주사위 스타일"
 
 msgctxt "ToggleKeyboardDescription"
 msgid "Allows you to customize the keyboard mapping of game commands"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-09-09 13:05+0000\n"
-"Last-Translator: vatican_cameo <ujvoxqk@gmail.com>\n"
+"PO-Revision-Date: 2021-09-16 10:22+0000\n"
+"Last-Translator: 소상준 <alexjun3@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/encounter/"
 "ko/>\n"
 "Language: ko\n"
@@ -732,7 +732,7 @@ msgstr "소수의 리모하즈 아성체... 그러나 위험합니다!"
 
 msgctxt "CR12_Redeemers_x3_Description"
 msgid "A trio of deadly giant insects looking for their next meal."
-msgstr ""
+msgstr "먹잇감을 찾아 배회하는 무시무시한 거대 곤충 3마리입니다."
 
 msgctxt "CR15_Redeemers_x1_x2_Description"
 msgid ""
@@ -921,7 +921,7 @@ msgstr "살생을 즐기는 작은 바람의 정령."
 
 msgctxt "CR6_Flying_Snakes_x6_Description"
 msgid "Various flying and poisonous reptilians."
-msgstr ""
+msgstr "다양한 유독성 비행 파충류."
 
 #, fuzzy
 msgctxt "CR4_Skarn_Ghouls_x2_Description"

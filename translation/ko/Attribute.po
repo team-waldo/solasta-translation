@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-09-05 18:35+0000\n"
-"Last-Translator: 소상준 <alexjun3@naver.com>\n"
+"PO-Revision-Date: 2021-09-16 10:22+0000\n"
+"Last-Translator: 홍성원 <hsw2201@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/attribute/"
 "ko/>\n"
 "Language: ko\n"
@@ -244,7 +244,6 @@ msgctxt "SpeedUnitFlyFormat"
 msgid "fly {0} {1}"
 msgstr "비행 {0} {1}"
 
-#, fuzzy
 msgctxt "SpeedUnitIncorporealFormat"
 msgid "incorporeal {0} {1}"
 msgstr "영체 {0} {1}"
@@ -284,7 +283,7 @@ msgstr ""
 
 msgctxt "TagBackgroundFeatTitle"
 msgid "Background Feats"
-msgstr ""
+msgstr "배경 재주"
 
 msgctxt "TagBackgroundLanguageTitle"
 msgid "Background Languages"
@@ -417,9 +416,10 @@ msgctxt "TagUnlearnSpellTitle"
 msgid "Unlearn Spell"
 msgstr "배우지 않은 주문"
 
+#, fuzzy
 msgctxt "TagRaceMetamagicTitle"
 msgid "Ancestry Metamagic Options"
-msgstr ""
+msgstr "종족 메타매직 옵션"
 
 msgctxt "TagClassMetamagicTitle"
 msgid "Class Metamagic Options"
@@ -431,7 +431,7 @@ msgstr "서브클래스 메타매직 옵션"
 
 msgctxt "TagBackgroundMetamagicTitle"
 msgid "Background Metamagic Options"
-msgstr ""
+msgstr "배경 메타매직 옵션"
 
 msgctxt "RagePointsDescription"
 msgid "Determines how many times you can start raging"
@@ -441,10 +441,9 @@ msgctxt "RagePointsTitle"
 msgid "Rage Points"
 msgstr "격노 포인트"
 
-#, fuzzy
 msgctxt "RageDamageDescription"
 msgid "The additional damage your melee attacks inflict"
-msgstr "근접 공격이 가하는 추가 피해"
+msgstr "근접 공격 추가 피해"
 
 msgctxt "RageDamageTitle"
 msgid "Rage Damage"

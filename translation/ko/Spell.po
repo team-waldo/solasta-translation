@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-09-09 13:05+0000\n"
-"Last-Translator: Jin <byungjinjun55@gmail.com>\n"
+"PO-Revision-Date: 2021-09-16 10:22+0000\n"
+"Last-Translator: SpookyJelly <zang9412@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/spell/ko/>"
 "\n"
 "Language: ko\n"
@@ -840,7 +840,7 @@ msgstr "당신은 투명한 크리쳐들을 볼 수 있습니다."
 
 msgctxt "SeeInvisibilityTitle"
 msgid "See Invisibility"
-msgstr ""
+msgstr "투명화 감지"
 
 msgctxt "ShadowArmorDescription"
 msgid "Grants 3 temporary hit points for one minute."
@@ -983,7 +983,6 @@ msgctxt "VampiricTouchDescription"
 msgid "Grants you a life-draining melee attack for one minute."
 msgstr "1분 동안 당신에게 생명력을 흡수하는 근접 공격을 부여합니다."
 
-#, fuzzy
 msgctxt "VampiricTouchTitle"
 msgid "Vampiric Touch"
 msgstr "흡혈의 손길"
@@ -1072,13 +1071,13 @@ msgstr "주문의 지속시간 동안, 당신은 들리는 모든 단어의 사�
 
 msgctxt "AnimalFriendshipTitle"
 msgid "Animal Friendship"
-msgstr ""
+msgstr "동물의 우정"
 
 msgctxt "AnimalFriendshipDescription"
 msgid ""
 "Choose a beast that you can see within the spell's range. The beast must "
 "make a Wisdom saving throw or be charmed for the spell's duration."
-msgstr ""
+msgstr "주문 범위 안에서 시야 내에 있는 야수를 선택하십시오. 선택된 야수가 지혜 내성 굴림에 실패하면 주문 지속시간 동안 매혹됩니다."
 
 msgctxt "PurifyFoodTitle"
 msgid "Purify Food"
@@ -1090,9 +1089,10 @@ msgid ""
 "rendered free of poison and disease."
 msgstr "5 피트 반경 구체 내의 모든 비마법적 음식의 독과 질병이 제거되고 정화됩니다."
 
+#, fuzzy
 msgctxt "EntangleTitle"
 msgid "Entangle"
-msgstr ""
+msgstr "얽힘"
 
 msgctxt "EntangleDescription"
 msgid ""
@@ -1312,7 +1312,7 @@ msgstr ""
 
 msgctxt "IdentifyCreaturesTitle"
 msgid "Identify Creatures"
-msgstr ""
+msgstr "크리쳐 식별"
 
 #, fuzzy
 msgctxt "IdentifyCreaturesDescription"
@@ -1341,7 +1341,7 @@ msgstr ""
 
 msgctxt "BlightTitle"
 msgid "Blight"
-msgstr ""
+msgstr "역병"
 
 msgctxt "BlightDescription"
 msgid "Drains life from a creature, causing massive necrotic damage."
@@ -1349,138 +1349,151 @@ msgstr ""
 
 msgctxt "ConfusionTitle"
 msgid "Confusion"
-msgstr ""
+msgstr "혼란"
 
+#, fuzzy
 msgctxt "ConfusionDescription"
 msgid ""
 "Creates confusion and erratic behavior in a creature, possibly leading it to "
 "attack its allies."
-msgstr ""
+msgstr "크리쳐에게 혼란과 비정상적인 행동을 일으켜 그의 아군을 공격하게 할 수 있습니다."
 
 msgctxt "ConjureMinorElementalsTitle"
 msgid "Conjure Minor Elementals"
-msgstr ""
+msgstr "하급 정령 소환"
 
 msgctxt "ConjureMinorElementalsDescription"
 msgid ""
 "Conjure elemental creatures under your command, which are dismissed when the "
 "spell ends or is broken."
-msgstr ""
+msgstr "당신의 명령에 따르며, 주문이 종료되거나 해제될 때 사라지는 하급 정령을 소환합니다."
 
+#, fuzzy
 msgctxt "ConjureMinorElementalsOneTitle"
 msgid "Conjure 1 Elemental"
-msgstr ""
+msgstr "정령 하나 소환"
 
+#, fuzzy
 msgctxt "ConjureMinorElementalsOneDescription"
 msgid "1 elemental is conjured (CR 2)."
-msgstr ""
+msgstr "정령 1체가 소환됩니다(CR 2)."
 
+#, fuzzy
 msgctxt "ConjureMinorElementalsTwoTitle"
 msgid "Conjure 2 Elementals"
-msgstr ""
+msgstr "정령 둘 소환"
 
+#, fuzzy
 msgctxt "ConjureMinorElementalsTwoDescription"
 msgid "2 elementals are conjured (CR 2)."
-msgstr ""
+msgstr "정령 2체가 소환됩니다(CR 2)."
 
+#, fuzzy
 msgctxt "ConjureMinorElementalsFourTitle"
 msgid "Conjure 4 Elementals"
-msgstr ""
+msgstr "정령 넷 소환"
 
+#, fuzzy
 msgctxt "ConjureMinorElementalsFourDescription"
 msgid "4 elementals are conjured (CR 1/2)."
-msgstr ""
+msgstr "정령 4체가 소환됩니다(CR 1/2)."
 
 msgctxt "DeathWardTitle"
 msgid "Death Ward"
 msgstr ""
 
+#, fuzzy
 msgctxt "DeathWardDescription"
 msgid ""
 "Protects the creature once against instant death or being reduced to 0 hit "
 "points."
-msgstr ""
+msgstr "즉사 또는 체력이 0으로 감소되는 공격으로부터 대상 크리쳐를 한 번 보호합니다."
 
 msgctxt "DimensionDoorTitle"
 msgid "Dimension Door"
-msgstr ""
+msgstr "차원문"
 
 msgctxt "DimensionDoorDescription"
 msgid ""
 "Transfers the caster and a friendly creature to a specified destination."
-msgstr ""
+msgstr "주문 시전자와 아군 크리쳐를 지정된 목적지로 이동시킵니다."
 
 msgctxt "FireShieldTitle"
 msgid "Fire Shield"
-msgstr ""
+msgstr "화염 방패"
 
 msgctxt "FireShieldDescription"
 msgid ""
 "Grants resistance to fire or cold, and damages creatures attacking the "
 "caster with melee attacks."
-msgstr ""
+msgstr "화염과 냉기에 대한 저항력을 부여하고, 근접 공격으로 시전자를 공격하는 크리쳐에게 피해를 줍니다."
 
+#, fuzzy
 msgctxt "FireShieldWarmTitle"
 msgid "Warm Shield"
-msgstr ""
+msgstr "온기 방패"
 
 msgctxt "FireShieldWarmDescription"
 msgid "Resistance to cold damage; attackers receive fire damage."
-msgstr ""
+msgstr "냉기 피해에 대한 내성; 공격자는 화염 피해를 입습니다."
 
+#, fuzzy
 msgctxt "FireShieldColdTitle"
 msgid "Cold Shield"
-msgstr ""
+msgstr "냉기 방패"
 
 msgctxt "FireShieldColdDescription"
 msgid "Resistance to fire damage; attackers receive cold damage."
-msgstr ""
+msgstr "화염 피해에 대한 내성; 공격자는 냉기 피해를 입습니다."
 
 msgctxt "FreedomOfMovementTitle"
 msgid "Freedom of Movement"
-msgstr ""
+msgstr "이동의 자유"
 
+#, fuzzy
 msgctxt "FreedomOfMovementDescription"
 msgid ""
 "Grants immunity to movement restrictions, as well as being paralyzed or "
 "restrained."
-msgstr ""
+msgstr "이동 제한 및 마비, 또는 구속에 면역이 됩니다."
 
 msgctxt "GiantInsectTitle"
 msgid "Giant Insect"
-msgstr ""
+msgstr "거대 곤충"
 
+#, fuzzy
 msgctxt "GiantInsectDescription"
 msgid "Conjures a giant version of a natural insect or arthropod."
-msgstr ""
+msgstr "거대한 자연 곤충이나 절지동물 하나를 불러냅니다."
 
 msgctxt "GreaterInvisibilityTitle"
 msgid "Greater Invisibility"
-msgstr ""
+msgstr "상급 투명화"
 
+#, fuzzy
 msgctxt "GreaterInvisibilityDescription"
 msgid ""
 "Target becomes invisible for the duration, even when attacking or casting "
 "spells."
-msgstr ""
+msgstr "대상은 지속시간 동안 투명 상태가 되며, 이는 공격하거나 주문을 시전할 때도 유지됩니다."
 
 msgctxt "GuardianOfFaithTitle"
 msgid "Guardian of Faith"
-msgstr ""
+msgstr "믿음의 수호자"
 
 msgctxt "GuardianOfFaithDescription"
 msgid "Conjures a large spectral guardian that damages approaching enemies."
-msgstr ""
+msgstr "다가오는 적에게 피해를 주는 거대한 영체 수호자를 소환합니다."
 
 msgctxt "IceStormTitle"
 msgid "Ice Storm"
-msgstr ""
+msgstr "얼음 폭풍"
 
 msgctxt "IceStormDescription"
 msgid ""
 "Causes bludgeoning and cold damage in the area, and turns the ground into "
 "difficult terrain."
-msgstr ""
+msgstr "해당 지역에 둔기 및 냉기 피해를 입히고, 지면을 험난한 지형으로 바꿉니다."
 
 msgctxt "PhantasmalKillerTitle"
 msgid "Phantasmal Killer"
@@ -1492,14 +1505,15 @@ msgid ""
 "throw is successful or the effect ends."
 msgstr ""
 
+#, fuzzy
 msgctxt "StoneskinTitle"
 msgid "Stoneskin"
-msgstr ""
+msgstr "스톤스킨"
 
 msgctxt "StoneskinDescription"
 msgid ""
 "Grants resistance to non-magical bludgeoning, slashing, and piercing damage."
-msgstr ""
+msgstr "마법이 아닌 둔기, 베기, 관통 피해에 대한 저항력을 부여합니다."
 
 msgctxt "WallOfFireRingInnerTitle"
 msgid "Wall of Fire (Ring/Inner)"
@@ -1509,51 +1523,53 @@ msgctxt "WallOfFireRingOuterTitle"
 msgid "Wall of Fire (Ring/Outer)"
 msgstr ""
 
+#, fuzzy
 msgctxt "SleepDescription"
 msgid "Put a number of creatures to sleep for a limited time."
-msgstr ""
+msgstr "제한된 시간 동안 대상 생물들을 잠들게 합니다."
 
 msgctxt "CloudKillTitle"
 msgid "Cloudkill"
-msgstr ""
+msgstr "죽음의 구름"
 
 msgctxt "CloudKillDescription"
 msgid "Creates an obscuring and poisonous cloud. The cloud moves every round."
-msgstr ""
+msgstr "유독하고 시야를 제한하는 구름을 만듭니다. 구름은 매 라운드 움직입니다."
 
 msgctxt "ConeOfColdTitle"
 msgid "Cone of Cold"
-msgstr ""
+msgstr "냉기 분사"
 
+#, fuzzy
 msgctxt "ConeOfColdDescription"
 msgid "Inflicts massive cold damage in the cone of effect."
-msgstr ""
+msgstr "원뿔형 범위에 막대한 냉기 피해를 입힙니다."
 
 msgctxt "ConjureElementalTitle"
 msgid "Conjure Elemental"
-msgstr ""
+msgstr "정령 소환"
 
 msgctxt "ConjureElementalDescription"
 msgid ""
 "Conjures an elemental of the chosen element that fights alongside you. If "
 "you lose concentration, the elemental remains and becomes hostile."
-msgstr ""
+msgstr "당신과 함께 싸울 선택된 계열의 정령을 불러냅니다. 집중력을 잃으면 정령은 돌아가지 않고 적이 됩니다."
 
 msgctxt "ConjureElementalAirTitle"
 msgid "Conjure Elemental (Air)"
-msgstr ""
+msgstr "정령 소환(바람)"
 
 msgctxt "ConjureElementalEarthTitle"
 msgid "Conjure Elemental (Earth)"
-msgstr ""
+msgstr "정령 소환(땅)"
 
 msgctxt "ConjureElementalFireTitle"
 msgid "Conjure Elemental (Fire)"
-msgstr ""
+msgstr "정령 소환(불)"
 
 msgctxt "ContagionTitle"
 msgid "Contagion"
-msgstr ""
+msgstr "감염"
 
 msgctxt "ContagionDescription"
 msgid "Hit a creature to inflict a disease from the options."
@@ -1634,15 +1650,15 @@ msgstr ""
 
 msgctxt "DominatePersonTitle"
 msgid "Dominate Person"
-msgstr ""
+msgstr "정신 지배"
 
 msgctxt "DominatePersonDescription"
 msgid "Grants you control over an enemy creature."
-msgstr ""
+msgstr "적 크리쳐를 제어합니다."
 
 msgctxt "FlameStrikeTitle"
 msgid "Flame Strike"
-msgstr ""
+msgstr "화염의 일격"
 
 msgctxt "FlameStrikeDescription"
 msgid ""
@@ -1652,23 +1668,23 @@ msgstr ""
 
 msgctxt "GreaterRestorationTitle"
 msgid "Greater Restoration"
-msgstr ""
+msgstr "상급 치유"
 
 msgctxt "GreaterRestorationDescription"
 msgid ""
 "Removes one detrimental condition, such as a charm or curse, or an effect "
 "that reduces an ability score or hit points."
-msgstr ""
+msgstr "매혹이나 저주, 또는 능력치나 체력을 감소시키는 효과와 같은 해로운 상태이상 하나를 제거합니다."
 
 msgctxt "HoldMonsterTitle"
 msgid "Hold Monster"
-msgstr ""
+msgstr "몬스터 속박"
 
 msgctxt "HoldMonsterDescription"
 msgid ""
 "Paralyzes a creature unless it succeeds a WIS saving throw. No effect on "
 "undead."
-msgstr ""
+msgstr "WIS 내성 굴림에 성공하지 않으면 크리쳐를 마비시킵니다. 언데드에게는 효과가 없습니다."
 
 msgctxt "InsectPlagueTitle"
 msgid "Insect Plague"
@@ -1680,11 +1696,12 @@ msgstr ""
 
 msgctxt "MassCureWoundsTitle"
 msgid "Mass Cure Wounds"
-msgstr ""
+msgstr "대규모 상처 치료"
 
+#, fuzzy
 msgctxt "MassCureWoundsDescription"
 msgid "Heals up to 6 creatures."
-msgstr ""
+msgstr "최대 크리쳐 6체를 치유합니다."
 
 msgctxt "WallOfForceTitle"
 msgid "Wall of Force"
@@ -1704,22 +1721,25 @@ msgid ""
 "incapacitates them if they fail their INT saving throw."
 msgstr ""
 
+#, fuzzy
 msgctxt "CalmEmotionsDescription"
 msgid ""
 "Stops allies from being charmed or frightened, or makes enemies indifferent."
-msgstr ""
+msgstr "아군을 매혹이나 공포로부터 회복시키거나, 적이 관심을 갖지 않도록 만듭니다."
 
+#, fuzzy
 msgctxt "CalmEmotionsOnEnemyDescription"
 msgid "Makes enemies indifferent to your allies unless they are wounded."
-msgstr ""
+msgstr "적들이 부상당하지 않는 한 아군에게 무관심하게 만듭니다."
 
 msgctxt "Spell_Flameblade_Title"
 msgid "Flame Blade"
-msgstr ""
+msgstr "화염칼날"
 
+#, fuzzy
 msgctxt "Spell_Flameblade_Description"
 msgid "Evokes a fiery blade for ten minutes that you can wield in battle."
-msgstr ""
+msgstr "전투에서 사용할 수 있는 불타는 칼날을 10분 동안 불러냅니다."
 
 msgctxt "GustOfWindDescription"
 msgid ""
@@ -1729,7 +1749,7 @@ msgstr ""
 
 msgctxt "SacredFlameTitle_backer"
 msgid "Sacred Flame*"
-msgstr ""
+msgstr "신성한 불꽃*"
 
 msgctxt "DominateBeastTitle"
 msgid "Dominate Beast"
@@ -1748,17 +1768,19 @@ msgid ""
 "A sphere of negative energy causes Necrotic damage from a point you choose"
 msgstr ""
 
+#, fuzzy
 msgctxt "FreezingSphereTitle"
 msgid "Freezing Sphere"
-msgstr ""
+msgstr "빙결의 구"
 
+#, fuzzy
 msgctxt "FreezingSphereDescription"
 msgid "Toss a huge ball of cold energy that explodes on impact"
-msgstr ""
+msgstr "충격을 받으면 폭발하는 거대한 냉기 덩어리 공을 투척합니다"
 
 msgctxt "TrueSeeingTitle"
 msgid "True Seeing"
-msgstr ""
+msgstr "진실의 시야"
 
 msgctxt "TrueSeeingDescription"
 msgid "A creature you touch gains True Sight for one hour"
@@ -1857,11 +1879,11 @@ msgstr ""
 
 msgctxt "HealTitle"
 msgid "Heal"
-msgstr ""
+msgstr "치유"
 
 msgctxt "HealDescription"
 msgid "Heals 70 hit points and also removes blindness and diseases"
-msgstr ""
+msgstr "체력 70을 회복시키고 실명과 질병을 제거합니다"
 
 msgctxt "HeroesFeastTitle"
 msgid "Heroes Feast"

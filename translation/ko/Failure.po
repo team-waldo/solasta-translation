@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-25 05:43+0000\n"
-"Last-Translator: vatican_cameo <ujvoxqk@gmail.com>\n"
+"PO-Revision-Date: 2021-09-16 10:22+0000\n"
+"Last-Translator: 배정기 <wjdrl5195@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/failure/ko/"
 ">\n"
 "Language: ko\n"
@@ -141,9 +141,10 @@ msgctxt "FailureFlagNoMainActionToExecute"
 msgid "You have spent your main action."
 msgstr "주요 액션을 사용하였습니다."
 
+#, fuzzy
 msgctxt "FailureFlagNoPathToLocation"
 msgid "No path found to navigate to this location."
-msgstr ""
+msgstr "이 위치로 이동할 경로를 찾을 수 없습니다."
 
 msgctxt "FailureFlagNoPerceptionOfTargetDescription"
 msgid "You cannot see this target."
@@ -185,9 +186,10 @@ msgctxt "FailureFlagOnlyAfterALongRest"
 msgid "You can only do this after a long rest."
 msgstr "긴 휴식 후에 만 할 수 있습니다."
 
+#, fuzzy
 msgctxt "FailureFlagPartyTooSpreadOut"
 msgid "You must gather your party together."
-msgstr ""
+msgstr "당신의 파티원을 함께 모아야 합니다."
 
 msgctxt "FailureFlagProjectileBlocked"
 msgid "Projectile is blocked."
@@ -229,9 +231,10 @@ msgctxt "FailureFlagTargetIsNotAGadget"
 msgid "Target is not an object."
 msgstr ""
 
+#, fuzzy
 msgctxt "FailureFlagTargetMustBeUnarmored"
 msgid "Target must be unarmored."
-msgstr ""
+msgstr "대상이 무장 해제 상태여야 합니다."
 
 msgctxt "FailureFlagTargetOutOfRange"
 msgid "Target is out of range."
@@ -241,13 +244,15 @@ msgctxt "FailureFlagTargetTooFarFromOtherTargets"
 msgid "Target is too far from other targets."
 msgstr "대상이 다른 대상과 너무 멀리 떨어져 있습니다."
 
+#, fuzzy
 msgctxt "FailureFlagTransferCannotCarry"
 msgid "Out of space/too overloaded to carry this item."
-msgstr ""
+msgstr "공간 부족/지나친 과적으로 이 아이템을 휴대할 수 없습니다."
 
+#, fuzzy
 msgctxt "FailureFlagTransferTooFarAway"
 msgid "Too far away to transfer the item."
-msgstr ""
+msgstr "너무 멀어서 아이템을 옮길 수 없습니다."
 
 msgctxt "FailureFlagTwoHandedWeaponEquiped"
 msgid "You are wielding a two-handed weapon."
@@ -277,25 +282,30 @@ msgctxt "FeedbackText_OpenDoorLever"
 msgid "The door is opened by a lever."
 msgstr ""
 
+#, fuzzy
 msgctxt "FailureFlagHardLockedDoorTOM"
 msgid "This door is designed to be opened remotely."
-msgstr ""
+msgstr "이 문은 원격으로 열 수 있도록 설계되었습니다."
 
+#, fuzzy
 msgctxt "FailureFlagRestNotPermitted"
 msgid "This type of rest is not authorized right now"
-msgstr ""
+msgstr "이 유형의 휴식을 사용할 권한이 현재 없습니다"
 
+#, fuzzy
 msgctxt "FailureFlagOutOfPerceptionRange"
 msgid "This target is too far away to be perceived."
-msgstr ""
+msgstr "이 대상은 너무 멀어서 인식할 수 없습니다."
 
+#, fuzzy
 msgctxt "FailureFlagPartyCannotCastSpell"
 msgid "No party member can cast this spell or has it prepared."
-msgstr ""
+msgstr "이 주문이 준비되거나 시전할 수 있는 파티원이 없습니다."
 
+#, fuzzy
 msgctxt "FailureFlagProxyNeedsCasterVision"
 msgid "The caster needs to perceive the target."
-msgstr ""
+msgstr "시전자가 대상을 인식해야 합니다."
 
 msgctxt "FailureFlagVerbalComponentCannotSpeak"
 msgid "Unable to speak and perform verbal spell components."

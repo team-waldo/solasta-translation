@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-09-05 18:35+0000\n"
-"Last-Translator: Inbird <inbird81@gmail.com>\n"
+"PO-Revision-Date: 2021-09-16 10:22+0000\n"
+"Last-Translator: 소상준 <alexjun3@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/feat/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -25,12 +25,11 @@ msgctxt "AlertTitle"
 msgid "Vigilant"
 msgstr "경계"
 
-#, fuzzy
 msgctxt "ArmorMasterDescription"
 msgid ""
 "You are an expert in the use of armor in battle. You gain an additional +1 "
 "AC from any armor you wear."
-msgstr "당신은 전투에서 갑옷의 사용에 전문가입니다. 어떤 갑옷을 입었든 추가로 +1 AC를 얻습니다."
+msgstr "당신은 전투에서 갑옷을 능숙하게 활용할 줄 압니다. 어떤 갑옷을 입었든 추가로 +1 AC를 얻습니다."
 
 msgctxt "ArmorMasterTitle"
 msgid "Armor Master"
@@ -60,12 +59,11 @@ msgctxt "Creed_Of_SolastaTitle"
 msgid "Creed of Solasta"
 msgstr "솔라스타의 신조"
 
-#, fuzzy
 msgctxt "EnduringBodyDescription"
 msgid ""
 "Increase your Constitution by 1 (max 20) and your hit points increase by an "
 "additional +1 each time you gain a level."
-msgstr "건강을 1(최대 20) 증가시키고 각 레벨마다 HP가 추가로 +1씩 추가됩니다."
+msgstr "건강을 1(최대 20) 증가시키고 레벨을 올릴 때마다 HP를 1씩 늘립니다."
 
 msgctxt "EnduringBodyTitle"
 msgid "Enduring Body"
@@ -87,12 +85,14 @@ msgctxt "FlawlessConcentrationTitle"
 msgid "Flawless Concentration"
 msgstr "완벽한 집중"
 
+#, fuzzy
 msgctxt "FocusedSleeperDescription"
 msgid ""
 "You are used to getting a great deal of rest out of just a little sleep. "
 "Increase your Constitution by 1 (max 20), and you only need four hours of "
 "sleep per night."
 msgstr ""
+"당신은 짧은 수면만으로 충분한 휴식을 얻는 데 익숙합니다. 건강이 1 증가하고 (최대 20) 하루에 4시간만 자고 활동할 수 있습니다."
 
 msgctxt "FocusedSleeperTitle"
 msgid "Focused Sleeper"
@@ -106,6 +106,7 @@ msgctxt "HaulerTitle"
 msgid "Hauler"
 msgstr ""
 
+#, fuzzy
 msgctxt "LockbreakerDescription"
 msgid ""
 "You have spent a lot of time studying locks - how to craft them and how to "
@@ -113,6 +114,8 @@ msgid ""
 "proficiency if you are already proficient. You have advantage when using "
 "thieves' tools to pick locks."
 msgstr ""
+"당신은 자물쇠의 구조와 여는 법을 오랫동안 연구했습니다. 도둑질 도구에 숙련을 얻고, 만약 이미 숙련이 있다면 숙련 보너스를 두 배로 "
+"합니다. 자물쇠를 딸 때 판정에 유리를 받습니다."
 
 msgctxt "LockbreakerTitle"
 msgid "Lock Breaker"
@@ -130,6 +133,7 @@ msgctxt "ManipulatorTitle"
 msgid "Manipulator"
 msgstr ""
 
+#, fuzzy
 msgctxt "MasterAlchemistDescription"
 msgid ""
 "You have mastered the art of potion making. You need half the normal time to "
@@ -137,95 +141,125 @@ msgid ""
 "determine whether your crafting progresses.\n"
 "You have expert knowledge of all potions and can identify them automatically."
 msgstr ""
+"당신은 포션 제작의 달인입니다. 포션 제작에 절반의 시간만 소모하며 제작 진행을 위한 스킬 판정시 숙련 보너스를 두 배로 적용합니다.\n"
+"또한 모든 종류의 포션에 대한 지식을 가지고 있어 포션을 자동으로 식별할 수 있게 됩니다."
 
 msgctxt "MasterAlchemistTitle"
 msgid "Master Alchemist"
 msgstr ""
 
+#, fuzzy
 msgctxt "MasterEnchanterDescription"
 msgid ""
 "You have mastered the art of enchanting items. You spend half the normal "
 "time to enchant an item and your proficiency bonus is doubled when "
 "performing the roll to determine whether your crafting progresses"
 msgstr ""
+"당신은 마법부여의 달인입니다. 마법 부여에 걸리는 시간이 절반이 되고 제작 진행을 위한 판정에 숙련 보너스를 두 배로 적용합니다."
 
 msgctxt "MasterEnchanterTitle"
 msgid "Master Enchanter"
 msgstr ""
 
+#, fuzzy
 msgctxt "MightOfTheIronLegionDescription"
 msgid ""
 "+1 STR to a maximum of 20\n"
 "You gain proficiency with Heavy Armor.\n"
 "You gain proficiency with Longswords, Greatswords, and Battleaxes."
 msgstr ""
+"힘에 +1 (최대 20)\n"
+"중갑에 대한 숙련을 얻습니다.\n"
+"롱소드, 그레이트소드, 배틀액스에 대한 숙련을 얻습니다."
 
 msgctxt "MightOfTheIronLegionTitle"
 msgid "Might of the Iron Legion"
 msgstr ""
 
+#, fuzzy
 msgctxt "RobustDescription"
 msgid ""
 "Sturdy and tough, you increase your Constitution score by 1 (max 20) and "
 "when you use a hit die to regain hit points, roll twice and take the higher "
 "value."
 msgstr ""
+"당신은 튼튼하고 건장하며, 그로 인해 건강에 1을 추가(최대 20)하고 히트 다이스로 체력을 회복할 때 두 번 굴려 높은 쪽을 선택합니다."
 
 msgctxt "RobustTitle"
 msgid "Robust"
 msgstr ""
 
+#, fuzzy
 msgctxt "Creed_Of_EinarDescription"
 msgid ""
 "+1 STR to a maximum of 20\n"
 "Proficiency in STR saves if not already proficient; +1 otherwise"
 msgstr ""
+"힘에 +1 (최대 20)\n"
+"힘 내성에 숙련을 얻고, 이미 있을 경우 추가로 +1"
 
+#, fuzzy
 msgctxt "Creed_Of_MaraikeDescription"
 msgid ""
 "+1 WIS to a maximum of 20\n"
 "Proficiency in WIS saves if not already proficient; +1 otherwise"
 msgstr ""
+"지혜에 +1 (최대 20)\n"
+"지혜 내성에 숙련을 얻고, 이미 있을 경우 추가로 +1"
 
+#, fuzzy
 msgctxt "Creed_Of_MisayeDescription"
 msgid ""
 "+1 DEX to a maximum of 20\n"
 "Proficiency in DEX saves if not already proficient; +1 otherwise"
 msgstr ""
+"민첩에 +1 (최대 20)\n"
+"민첩 내성에 숙련을 얻고, 이미 있을 경우 추가로 +1"
 
+#, fuzzy
 msgctxt "Creed_Of_PakriDescription"
 msgid ""
 "+1 INT to a maximum of 20\n"
 "Proficiency in INT saves if not already proficient; +1 otherwise"
 msgstr ""
+"지능에 +1 (최대 20)\n"
+"지능 내성에 숙련을 얻고, 이미 있을 경우 추가로 +1"
 
+#, fuzzy
 msgctxt "Creed_Of_SolastaDescription"
 msgid ""
 "+1 CHA to a maximum of 20 \n"
 "Proficiency in CHA saves if not already proficient; +1 otherwise"
 msgstr ""
+"매력에 +1 (최대 20)\n"
+"매력 내성에 숙련을 얻고, 이미 있을 경우 추가로 +1"
 
 msgctxt "PowerfulCantripTitle"
 msgid "Powerful Cantrip"
 msgstr ""
 
+#, fuzzy
 msgctxt "PowerfulCantripDescription"
 msgid ""
 "When a creature succeeds on a saving throw against your cantrip or dodges "
 "your cantrip, the creature takes half damage but suffers no additional "
 "effect from the cantrip."
-msgstr ""
+msgstr "당신의 캔트립을 상대가 저항하거나 회피해도 절반의 데미지를 받습니다. 하지만 이 때 캔트립의 추가 효과는 적용되지 않습니다."
 
+#, fuzzy
 msgctxt "UncannyAccuracyDescription"
 msgid ""
 "+1 DEX to a maximum of 20\n"
 "You ignore half and three-quarters cover with your ranged attacks."
 msgstr ""
+"민첩에 +1 (최대 20)\n"
+"당신은 원거리 공격시 절반 엄폐와 3/4 엄폐를 무시합니다."
 
 msgctxt "UncannyAccuracyTitle"
 msgid "Uncanny Accuracy"
 msgstr ""
 
+#, fuzzy
 msgctxt "HardToKillDescription"
 msgid ""
 "+1 CON to a maximum of 20\n"
@@ -233,119 +267,153 @@ msgid ""
 "are not only stabilized, but you regain one hit die immediately. On a "
 "critical roll, you regain two hit dice instead."
 msgstr ""
+"건강에 +1 (최대 20)\n"
+"당신은 사망 판정에 유리를 얻습니다. 3회 성공하면 안정화되는 대신 즉각 1체력 주사위만큼 회복합니다. 결정적 성공의 경우 2체력 "
+"주사위만큼 회복합니다."
 
+#, fuzzy
 msgctxt "HaulerDescription"
 msgid ""
 "You are trained to carry heavy loads. Increase your Strength by 1 (max 20), "
 "and your carrying capacity is doubled."
-msgstr ""
+msgstr "당신은 무거운 짐을 짊어지는 법을 익혔습니다. 힘이 1 증가(최대 20)하고 최대 소지 중량이 두 배가 됩니다."
 
+#, fuzzy
 msgctxt "ManipulatorDescription"
 msgid ""
 "You gain proficiency in Intimidation, Persuasion, and Deception. If you were "
 "already proficient, you gain expertise instead in the corresponding skill."
-msgstr ""
+msgstr "당신은 위협, 설득, 기만 스킬에 숙련을 얻습니다. 이미 숙련을 가지고 있다면, 해당 스킬에 전문화를 얻습니다."
 
+#, fuzzy
 msgctxt "EagerForBattleDescription"
 msgid ""
 "+1 DEX to a maximum of 20 \n"
 "You have advantage on your initiative rolls."
 msgstr ""
+"민첩에 +1 (최대 20)\n"
+"당신은 우선권 굴림에 유리를 얻습니다."
 
 msgctxt "EagerForBattleTitle"
 msgid "Eager for Battle"
 msgstr ""
 
+#, fuzzy
 msgctxt "SturdinessOfTheTundraDescription"
 msgid ""
 "+1 CON to a maximum of 20 \n"
 "You gain proficiency with Medium Armor.\n"
 "You gain proficiency with Warhammers, and Light and Heavy Crossbows."
 msgstr ""
+"건강에 +1 (최대 20)\n"
+"당신은 평갑 숙련을 얻습니다.\n"
+"또 워해머와 라이트/헤비 크로스보우에 숙련을 얻습니다."
 
 msgctxt "SturdinessOfTheTundraTitle"
 msgid "Sturdiness of the Tundra"
 msgstr ""
 
+#, fuzzy
 msgctxt "DiscretionOfTheCoedymwarthDescription"
 msgid ""
 "+1 DEX to a maximum of 20 \n"
 "You gain proficiency with Light Armor.\n"
 "You gain proficiency with Shortswords, Shortbows, and Longbows."
 msgstr ""
+"민첩에 +1 (최대 20)\n"
+"경갑 숙련을 얻습니다.\n"
+"또 숏소드, 롱소드, 롱보우 숙련을 얻습니다."
 
 msgctxt "DiscretionOfTheCoedymwarthTitle"
 msgid "Discretion of the Coedymwarth"
 msgstr ""
 
+#, fuzzy
 msgctxt "AmbidextrousDescription"
 msgid ""
 "+1 to DEX to a maximum of 20\n"
 "You can fight using two weapons, even if the one-handed melee weapons aren't "
 "light."
 msgstr ""
+"민첩에 +1 (최대 20)\n"
+"경량형 무기가 아니라도 한손 무기 두 개를 들고 싸울 수 있습니다."
 
+#, fuzzy
 msgctxt "AmbidextrousTitle"
 msgid "Ambidextrous"
-msgstr ""
+msgstr "양손잡이"
 
+#, fuzzy
 msgctxt "RaiseShieldDescription"
 msgid ""
 "When you are about to get hit by a ranged attack while wielding a shield, "
 "you can use your reaction to get +3 AC until the end of the attacker's turn. "
 "You also gain proficiency with shields."
 msgstr ""
+"방패를 착용하고 있을 때 원거리 공격에 적중당할 경우, 반응 행동을 사용해 공격자의 턴이 끝날 때까지 AC에 +3을 받을 수 있습니다. "
+"추가로 방패 숙련을 얻습니다."
 
 msgctxt "RaiseShieldTitle"
 msgid "Raise Shield"
 msgstr ""
 
+#, fuzzy
 msgctxt "TwinBladeDescription"
 msgid ""
 "When you are about to get hit by a melee attack while dual-wielding (not "
 "sword + shield), you can use your reaction to get +3 AC until the end of the "
 "attacker's turn."
 msgstr ""
+"쌍수 무기를 사용중일 때(무기+방패는 안 됨), 반응 행동을 사용하여 공격자의 턴이 끝날 때까지 AC에 +3을 받을 수 있습니다."
 
 msgctxt "TwinBladeTitle"
 msgid "Twin Blade "
 msgstr ""
 
+#, fuzzy
 msgctxt "TakeAimDescription"
 msgid ""
 "You can use your bonus action to take aim. Until the end of your turn, your "
 "ranged weapon attacks have no disadvantage or advantage, no matter the "
 "conditions."
 msgstr ""
+"추가 행동으로 조준을 할 수 있습니다. 턴이 끝날 때까지, 당신의 원거리 공격은 상태에 상관없이 유리나 불리를 적용받지 않습니다."
 
 msgctxt "TakeAimTitle"
 msgid "Take Aim"
 msgstr ""
 
+#, fuzzy
 msgctxt "RushToBattleDescription"
 msgid ""
 "You can use your bonus action to increase your movement speed by 3 cells "
 "until the end of your turn, and get -2 to your AC, until the start of your "
 "next turn."
-msgstr ""
+msgstr "추가 행동을 사용해 턴이 끝날 때까지 이동 거리를 3칸 증가시킬 수 있지만, 대신에 다음 턴 시작까지 AC에 -2를 받습니다."
 
 msgctxt "RushToBattleTitle"
 msgid "Rush to Battle "
 msgstr ""
 
+#, fuzzy
 msgctxt "FollowUpStrikeDescription"
 msgid ""
 "When you use the Attack action with a two-handed weapon, you can use a bonus "
 "action to make a fast melee attack to follow up, dealing an additional 1d4 + "
 "STR bonus damage of the same type. "
 msgstr ""
+"양손 무기로 공격 행동을 사용할 경우, 첫 공격에 이어 추가 행동으로 빠르게 한 번 공격할 수 있습니다. 이 공격은 무기의 피해 타입과 "
+"같은 1d4+힘 피해를 입힙니다. "
 
 msgctxt "FollowUpStrikeTitle"
 msgid "Follow Up Strike"
 msgstr ""
 
+#, fuzzy
 msgctxt "Creed_Of_ArunDescription"
 msgid ""
 "+1 CON to a maximum of 20\n"
 "Proficiency in CON saves if not already proficient; +1 otherwise"
 msgstr ""
+"건강에 +1 (최대 20)\n"
+"건강 내성에 숙련을 얻고, 이미 있을 경우 추가로 +1"
