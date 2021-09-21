@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-09-05 18:35+0000\n"
-"Last-Translator: SpookyJelly <zang9412@gmail.com>\n"
+"PO-Revision-Date: 2021-09-21 13:43+0000\n"
+"Last-Translator: Jin <byungjinjun55@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/gadget/ko/>"
 "\n"
 "Language: ko\n"
@@ -135,7 +135,7 @@ msgstr ""
 
 msgctxt "ParameterLootPackTitle"
 msgid "Loot Pack"
-msgstr ""
+msgstr "전리품 꾸러미"
 
 msgctxt "ParameterItemListTitle"
 msgid "Items List"
@@ -147,7 +147,7 @@ msgstr "잠김"
 
 msgctxt "ParameterUnlock_DCTitle"
 msgid "Unlock DC"
-msgstr ""
+msgstr "DC 잠금 해제"
 
 msgctxt "ParameterParam_TrappedTitle"
 msgid "Trapped"
@@ -155,7 +155,7 @@ msgstr ""
 
 msgctxt "ParameterPerception_DCTitle"
 msgid "Perception DC"
-msgstr ""
+msgstr "지각 DC"
 
 msgctxt "ParameterDisarm_DCTitle"
 msgid "Disarm DC"
@@ -163,7 +163,7 @@ msgstr ""
 
 msgctxt "ParameterReveal_DCTitle"
 msgid "Reveal DC"
-msgstr ""
+msgstr "DC 공개"
 
 msgctxt "ParameterTrapEffectTitle"
 msgid "Trap Effect"
@@ -187,7 +187,7 @@ msgstr "수량"
 
 msgctxt "ParameterPerceptionDCTitle"
 msgid "Perception DC"
-msgstr ""
+msgstr "지각 DC"
 
 msgctxt "ParameterSpeechTitle"
 msgid "Speech"
@@ -297,7 +297,7 @@ msgstr ""
 
 msgctxt "FallingChandelierTitle"
 msgid "Falling Chandelier"
-msgstr ""
+msgstr "떨어지는 샹들리에"
 
 msgctxt "FallingChandelierDescription"
 msgid "A hanging chandelier which can be damaged and cause fall damage"
@@ -313,7 +313,7 @@ msgstr ""
 
 msgctxt "InvisiblePlateTitle"
 msgid "Invisible Plate"
-msgstr ""
+msgstr "보이지 않는 판"
 
 msgctxt "InvisiblePlateDescription"
 msgid "A visible plate which activates other gadgets when stepped on"
@@ -329,7 +329,7 @@ msgstr "플레이어에게 세계관에 관한 지식을 제공하는 벽화 명
 
 msgctxt "ManaLampTitle"
 msgid "Mana Lamp"
-msgstr ""
+msgstr "마나 램프"
 
 msgctxt "ManaLampDescription"
 msgid "An interactive lamp which becomes lit when targeted by magical spells"
@@ -337,7 +337,7 @@ msgstr ""
 
 msgctxt "PrisonDoorTitle"
 msgid "Prison Door"
-msgstr ""
+msgstr "감옥 문"
 
 msgctxt "PrisonDoorDescription"
 msgid "A metallic door closing/opening the access to a detention area"
@@ -390,13 +390,13 @@ msgstr ""
 
 msgctxt "ParameterTargetGadgetsTitle"
 msgid "Target Gadgets"
-msgstr ""
+msgstr "대상 장치"
 
 msgctxt "ParameterTargetGadgetsDescription"
 msgid ""
 "The gadgets which will be triggered by this gadget's activation / "
 "deactivation"
-msgstr ""
+msgstr "이 장치의 활성화/비활성화에 의해 실행될 장치"
 
 msgctxt "ParameterSymetricalTitle"
 msgid "Symetrical"
@@ -410,7 +410,7 @@ msgstr ""
 
 msgctxt "ParameterOperationTitle"
 msgid "Operation"
-msgstr ""
+msgstr "작업"
 
 msgctxt "ParameterOperationDescription"
 msgid "The type of operation performed on the target gadgets"
@@ -422,7 +422,7 @@ msgstr "활성화"
 
 msgctxt "ParameterOperationActivateDescription"
 msgid "Activate other gadgets (example : open a door)"
-msgstr ""
+msgstr "다른 장치 활성화(예: 문 열기)"
 
 msgctxt "ParameterOperationDeactivateTitle"
 msgid "Deactivate"
@@ -430,7 +430,7 @@ msgstr "비활성화"
 
 msgctxt "ParameterOperationDeactivateDescription"
 msgid "Deactivate other gadgets (example: close a door)"
-msgstr ""
+msgstr "다른 장치 비활성화(예: 문 닫기)"
 
 msgctxt "ParameterOperationActivateSymetricalTitle"
 msgid "Activate Symetrical"

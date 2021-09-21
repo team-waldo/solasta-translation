@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-09-16 10:22+0000\n"
-"Last-Translator: 배정기 <wjdrl5195@naver.com>\n"
+"PO-Revision-Date: 2021-09-21 13:43+0000\n"
+"Last-Translator: Jin <byungjinjun55@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/screen/ko/>"
 "\n"
 "Language: ko\n"
@@ -131,7 +131,7 @@ msgstr ""
 
 msgctxt "BackgroundFeaturesTitle"
 msgid "Background Features"
-msgstr ""
+msgstr "배경 특성"
 
 msgctxt "BackgroundHeaderTitle"
 msgid "Background"
@@ -259,7 +259,7 @@ msgstr "신앙"
 
 msgctxt "ClassFeaturesTitle"
 msgid "Class Features"
-msgstr ""
+msgstr "클래스 특성"
 
 msgctxt "ClassHeaderTitle"
 msgid "Class"
@@ -571,7 +571,7 @@ msgstr ""
 
 msgctxt "EncounterFightButtonDescription"
 msgid "Starts the battle against the enemy group."
-msgstr ""
+msgstr "적에 맞서 전투를 시작합니다."
 
 msgctxt "EncounterFightButtonTitle"
 msgid "Start Battle"
@@ -1001,7 +1001,7 @@ msgstr ""
 
 msgctxt "JournalBestiaryUnknownTitle"
 msgid "Unknown Creature"
-msgstr ""
+msgstr "미확인 크리쳐"
 
 msgctxt "JournalBestiaryVulnerabilitiesTitle"
 msgid "Vulnerabilities"
@@ -2549,7 +2549,7 @@ msgstr ""
 
 msgctxt "TravelInterruptTitle"
 msgid "Interrupt"
-msgstr ""
+msgstr "중지"
 
 msgctxt "TravelJournalDescription"
 msgid ""
@@ -2586,7 +2586,7 @@ msgstr "확인"
 
 msgctxt "UnlockedClassFeaturesTitle"
 msgid "Unlocked Class Features"
-msgstr ""
+msgstr "잠금 해제된 클래스 특성"
 
 msgctxt "UntrackQuestTitle"
 msgid "Untrack Quest"
@@ -2616,7 +2616,7 @@ msgstr "인벤토리의 아이템들을 정렬합니다"
 
 msgctxt "FastTravelInterruptedDescription"
 msgid "Travel interrupted"
-msgstr ""
+msgstr "빠른 이동 중지됨"
 
 msgctxt "DialogChoiceBackgroundDescription"
 msgid "The background of this character enables a specific answer"

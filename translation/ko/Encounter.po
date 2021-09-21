@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-09-16 10:22+0000\n"
-"Last-Translator: 소상준 <alexjun3@naver.com>\n"
+"PO-Revision-Date: 2021-09-21 13:43+0000\n"
+"Last-Translator: Jin <byungjinjun55@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/encounter/"
 "ko/>\n"
 "Language: ko\n"
@@ -113,7 +113,7 @@ msgstr "순찰하는 고블린 척후병 무리."
 
 msgctxt "GoblinWarPartyTitle"
 msgid "Goblin War Party"
-msgstr "전쟁 고블린 무리"
+msgstr "고블린 전투단"
 
 msgctxt "OrcMaraudersTitle"
 msgid "Orc Marauders"
@@ -839,9 +839,10 @@ msgctxt "CR6_Arctic_Duo_x2_Title"
 msgid "Arctic Duo"
 msgstr ""
 
+#, fuzzy
 msgctxt "CR16_Undead_Pack_x4_Title"
 msgid "Undead Pack"
-msgstr ""
+msgstr "언데드 무리"
 
 #, fuzzy
 msgctxt "CR6_Wraith_Master_x1x4_Title"
@@ -861,9 +862,10 @@ msgctxt "CR8_Undead_Knight_x1x1x4_Title"
 msgid "Undead Huntsman"
 msgstr "언데드 사냥꾼"
 
+#, fuzzy
 msgctxt "CR8_Undead_hunt_pack_x3_Title"
 msgid "Undead Pack"
-msgstr ""
+msgstr "언데드 무리"
 
 #, fuzzy
 msgctxt "CR2_Wind_Snakes_x4_Title"

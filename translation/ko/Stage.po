@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-09-16 10:22+0000\n"
-"Last-Translator: 배정기 <wjdrl5195@naver.com>\n"
+"PO-Revision-Date: 2021-09-21 13:43+0000\n"
+"Last-Translator: James Park <jamespark9001@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/stage/ko/>"
 "\n"
 "Language: ko\n"
@@ -29,9 +29,10 @@ msgid ""
 "or optimize them for your character class."
 msgstr ""
 
+#, fuzzy
 msgctxt "AbilityScoresAssignmentEditTitle"
 msgid "Adjust your ability scores from your points pool."
-msgstr ""
+msgstr "포인트 풀에서 능력치를 조정합니다."
 
 #, fuzzy
 msgctxt "AbilityScoresAssignmentEditUnlimitedTitle"
@@ -40,7 +41,7 @@ msgstr "능력치를 원하는 대로 조정하세요."
 
 msgctxt "AbilityScoresAvailableValuesTitle"
 msgid "Your available scores."
-msgstr ""
+msgstr "사용 가능한 점수입니다."
 
 #, fuzzy
 msgctxt "AbilityScoresBonusFromRaceTitle"
@@ -62,13 +63,14 @@ msgctxt "AbilityScoresDecreaseDescription"
 msgid "Lower this ability score."
 msgstr "이 능력치를 낮춥니다."
 
+#, fuzzy
 msgctxt "AbilityScoresFreeEditionDescription"
 msgid "Accurately recreate an existing character."
-msgstr ""
+msgstr "기존의 캐릭터를 그대로 재현합니다."
 
 msgctxt "AbilityScoresFreeEditionTitle"
 msgid "Free Edit"
-msgstr ""
+msgstr "자유 편집"
 
 #, fuzzy
 msgctxt "AbilityScoresIncreaseCannotDescription"
@@ -87,76 +89,86 @@ msgstr "이 능력치를 올립니다(무료)."
 
 msgctxt "AbilityScoresMethodPointsTitle"
 msgid "Point Buy"
-msgstr ""
+msgstr "포인트 분배"
 
 msgctxt "AbilityScoresMethodRollTitle"
 msgid "Dice Rolls"
-msgstr ""
+msgstr "주사위 굴리기"
 
+#, fuzzy
 msgctxt "AbilityScoresMethodTitle"
 msgid "Choose an ability generation system and define your character's stats."
-msgstr ""
+msgstr "능력치 생성 시스템을 선택하고 당신의 캐릭터의 능력을 결정하세요."
 
 msgctxt "AbilityScoresOptimizeDescription"
 msgid "Optimize ability score assignments for the selected character class."
-msgstr ""
+msgstr "선택한 캐릭터 클래스에 대한 능력치 할당을 최적화합니다."
 
 msgctxt "AbilityScoresOptimizeTitle"
 msgid "Optimize"
-msgstr ""
+msgstr "최적화"
 
+#, fuzzy
 msgctxt "AbilityScoresPointsCapitalInfiniteTitle"
 msgid "Unlimited Points"
-msgstr ""
+msgstr "무제한 포인트"
 
+#, fuzzy
 msgctxt "AbilityScoresPointsCapitalTitle"
 msgid "Points Pool"
-msgstr ""
+msgstr "포인트 풀"
 
+#, fuzzy
 msgctxt "AbilityScoresPredeterminedDescription"
 msgid "Reroll 6 ability scores, using 4d6 and keeping the three best rolls."
-msgstr ""
+msgstr "4d6 주사위를 사용, 3개의 가장 높은 결과를 유지하면서 6개의 능력 점수를 다시 굴립니다."
 
+#, fuzzy
 msgctxt "AbilityScoresPredeterminedTitle"
 msgid "Standard Array"
-msgstr ""
+msgstr "능력치 기본 설정"
 
+#, fuzzy
 msgctxt "AbilityScoresRemainingPointsDescription"
 msgid "You have this many points still to spend."
-msgstr ""
+msgstr "아직 사용 가능한 포인트가 남아 있습니다."
 
+#, fuzzy
 msgctxt "AbilityScoresRemainingPointsTitle"
 msgid "Remaining"
-msgstr ""
+msgstr "남은 포인트"
 
+#, fuzzy
 msgctxt "AbilityScoresRerollDescription"
 msgid "Reroll 6 ability scores, using 4d6 and keeping the three best rolls."
-msgstr ""
+msgstr "4d6 주사위를 사용, 3개의 가장 높은 결과를 유지하면서 6개의 능력 점수를 다시 굴립니다."
 
 msgctxt "AbilityScoresRerollTitle"
 msgid "Reroll Dice"
-msgstr ""
+msgstr "다시 굴리기"
 
 msgctxt "AbilityScoresResetDescription"
 msgid "Reset all ability score assignments."
-msgstr ""
+msgstr "모든 능력치 할당을 초기화합니다."
 
 msgctxt "AbilityScoresResetTitle"
 msgid "Reset"
 msgstr "초기화"
 
+#, fuzzy
 msgctxt "AbilityScoresStageDescription"
 msgid "Generate the character's six main ability scores."
-msgstr ""
+msgstr "캐릭터의 6가지 주요 능력치를 생성합니다."
 
+#, fuzzy
 msgctxt "AbilityScoresStageFailNotAllAssignedDescription"
 msgid "You must assign all 6 ability scores to the left side of the screen."
-msgstr ""
+msgstr "6개의 능력치를 모두 화면 왼쪽에 할당해야 합니다."
 
 #, fuzzy
 msgctxt "AbilityScoresStageFailRemainingPointsDescription"
 msgid "You must spend all your points before you can proceed."
-msgstr "계속 진행하기 전에 모든 포인트를 사용해야 합니다."
+msgstr "다음으로 진행하기 전에 모든 포인트를 사용해야 합니다."
 
 #, fuzzy
 msgctxt "AbilityScoresStageFailSpendAllLevelUpPointsDescription"
@@ -168,20 +180,22 @@ msgctxt "AbilityScoresStageFailSpendAllRacePointsDescription"
 msgid "You must spend all the ability score points from the chosen ancestry."
 msgstr "선택한 종족의 능력치 포인트를 모두 사용해야 합니다."
 
+#, fuzzy
 msgctxt "AbilityScoresStageTitle"
 msgid ""
 "Ability \n"
 "Scores"
 msgstr ""
+"능력\n"
+"점수"
 
-#, fuzzy
 msgctxt "AbilityTipDescription"
 msgid "As a \"{0}\", your most important ability scores are {1}, {2}, and {3}."
-msgstr "\"{0}\"인 경우, 가장 중요한 능력치는 {1}, {2} 및 {3}입니다."
+msgstr "\"{0}\"의 경우, 가장 중요한 능력치는 {1}, {2} 및 {3}입니다."
 
 msgctxt "AbilityTipTitle"
 msgid "Tip"
-msgstr ""
+msgstr "도움말"
 
 msgctxt "AllSpellsFormat"
 msgid ""
@@ -190,6 +204,9 @@ msgid ""
 "\n"
 "Another interface will let you choose spells to prepare for the day."
 msgstr ""
+"\"{0}\" 클래스로서, 당신의 주문 목록의 모든 주문(캔트립 제외)에 접근할 수 있습니다.\n"
+"\n"
+"별개의 인터페이스에서 당일 준비할 주문을 선택할 수 있습니다."
 
 msgctxt "AtHigherLevelsDescription"
 msgid "Show the features granted at higher levels."
@@ -205,23 +222,24 @@ msgstr "성향 선택:"
 
 msgctxt "BackgroundChose2FlagsTitle"
 msgid "Personality flags (choose 2)"
-msgstr ""
+msgstr "성격 플래그(2개 선택)"
 
 msgctxt "BackgroundEquipmentTitle"
 msgid "Background Equipment"
-msgstr ""
+msgstr "배경 장비"
 
 msgctxt "BackgroundFeaturesTitle"
 msgid "Background Features"
-msgstr ""
+msgstr "배경 특성"
 
+#, fuzzy
 msgctxt "BackgroundPredefinedFlagsTitle"
 msgid "Fixed Property Flags"
-msgstr ""
+msgstr "고정 특성 플래그"
 
 msgctxt "BackgroundSelectionStageDescription"
 msgid "This stage creates a background for the character."
-msgstr ""
+msgstr "이 단계에서는 캐릭터의 배경을 만듭니다."
 
 msgctxt "BackgroundSelectionStageMissingAlignmentDescription"
 msgid "You must select an alignment."
@@ -231,11 +249,11 @@ msgctxt "BackgroundSelectionStageMissingAlignmentFlagsDescription"
 msgid ""
 "You must choose two additional personality flags on the ethical board (Law/"
 "Chaos/Good/Evil)."
-msgstr ""
+msgstr "윤리 화면에서 두 개의 추가 성격 플래그(질서/혼돈/선/악)를 선택해야 합니다."
 
 msgctxt "BackgroundSelectionStageMissingBackgroundFlagsDescription"
 msgid "You must choose personality flags for your selected background."
-msgstr ""
+msgstr "선택한 배경에 대한 성격 플래그를 선택해야 합니다."
 
 msgctxt "BackgroundSelectionStageNoneSelectedDescription"
 msgid "You must select a background."
@@ -281,11 +299,11 @@ msgstr "클래스 장비"
 
 msgctxt "ClassFeaturesTitle"
 msgid "Class Features"
-msgstr ""
+msgstr "클래스 특성"
 
 msgctxt "ClassSelectionStageDescription"
 msgid "This stage lets you choose class features for your character."
-msgstr ""
+msgstr "이 단계에서는 캐릭터의 클래스 특성을 선택할 수 있습니다."
 
 msgctxt "ClassSelectionStageNoneSelectedDescription"
 msgid "You must select a class."
@@ -302,29 +320,30 @@ msgstr "신을 선택하세요"
 
 msgctxt "DeitySelectionDomainChoiceTitle"
 msgid "Select a Divine Domain"
-msgstr ""
+msgstr "신성 권역을 선택하세요"
 
 msgctxt "DeitySelectionSelectedDeityDomainsHeader"
 msgid "Divine Domains"
-msgstr ""
+msgstr "신성 권역"
 
 msgctxt "DeitySelectionSelectedDeityHeader"
 msgid "Deity"
-msgstr ""
+msgstr "신"
 
 msgctxt "DeitySelectionSelectedDomainFeaturesTitle"
 msgid "Domain Features"
-msgstr ""
+msgstr "권역 특성"
 
 msgctxt "DeitySelectionSelectedDomainHeader"
 msgid "Domain"
-msgstr ""
+msgstr "권역"
 
+#, fuzzy
 msgctxt "DeitySelectionStageDescription"
 msgid ""
 "This stage lets you choose which deity the character follows, and select the "
 "benefits of your faith."
-msgstr ""
+msgstr "이 단계에서는 캐릭터가 따르는 신을 선택하고, 신앙으로부터 얻을 수 있는 이득을 고를 수 있습니다."
 
 #, fuzzy
 msgctxt "DeitySelectionStageNoDeitySelectedDescription"
@@ -333,15 +352,15 @@ msgstr "신을 선택해야 합니다."
 
 msgctxt "DeitySelectionStageNoDomainSelectedDescription"
 msgid "You must select a divine domain."
-msgstr ""
+msgstr "신성 권역을 선택해야 합니다."
 
 msgctxt "DeitySelectionStageTitle"
 msgid "Deity"
-msgstr ""
+msgstr "신"
 
 msgctxt "FightingStyleEffectsHeaderTitle"
 msgid "Style Effects"
-msgstr ""
+msgstr "특화 효과"
 
 msgctxt "FightingStyleSelectedFightingStyleHeader"
 msgid "Fighting Style"
@@ -398,17 +417,18 @@ msgctxt "HitPointsGainTitle"
 msgid "Hit Points"
 msgstr "체력"
 
+#, fuzzy
 msgctxt "IdentityAdditionalBackstoryHeader"
 msgid "Additional Backstory"
-msgstr ""
+msgstr "추가 배경 이야기"
 
 msgctxt "IdentityAdditionalBackstoryTemporaryInput"
 msgid "< Input your backstory here >"
-msgstr ""
+msgstr "<배경설정 이야기 입력>"
 
 msgctxt "IdentityDefinitionDescription"
 msgid "This stage develops the character's background."
-msgstr ""
+msgstr "이 단계에서는 캐릭터의 자세한 배경을 설정합니다."
 
 msgctxt "IdentityDefinitionStageFailDuplicateName"
 msgid "Another character is already using that name."
@@ -416,11 +436,12 @@ msgstr "다른 캐릭터가 이미 그 이름을 사용하고 있습니다."
 
 msgctxt "IdentityDefinitionStageFailEmptyName"
 msgid "You must input a name."
-msgstr ""
+msgstr "이름을 입력해야 합니다."
 
+#, fuzzy
 msgctxt "IdentityDefinitionTitle"
 msgid "Identity"
-msgstr ""
+msgstr "신원"
 
 msgctxt "IdentityFirstNameTitle"
 msgid "First Name"
@@ -438,9 +459,10 @@ msgctxt "IdentityMorphotypeBeardShapeHeader"
 msgid "Beard Shape"
 msgstr "수염 모양"
 
+#, fuzzy
 msgctxt "IdentityMorphotypeBodyDecorationHeader"
 msgid "Body Decoration"
-msgstr ""
+msgstr "신체 장식"
 
 msgctxt "IdentityMorphotypeEyeColorHeader"
 msgid "Eye Color"
@@ -448,11 +470,11 @@ msgstr "눈 색"
 
 msgctxt "IdentityMorphotypeFaceAndSkinHeader"
 msgid "Face and Skin"
-msgstr ""
+msgstr "얼굴과 피부"
 
 msgctxt "IdentityMorphotypeFaceShapeHeader"
 msgid "Face"
-msgstr ""
+msgstr "얼굴"
 
 msgctxt "IdentityMorphotypeHairColorHeader"
 msgid "Hair Color"
@@ -464,11 +486,11 @@ msgstr "머리 모양"
 
 msgctxt "IdentityMorphotypeMusculatureHeader"
 msgid "Physique"
-msgstr ""
+msgstr "체격"
 
 msgctxt "IdentityMorphotypeOriginHeader"
 msgid "Origin"
-msgstr ""
+msgstr "기원"
 
 msgctxt "IdentityMorphotypeSkinHeader"
 msgid "Skin Tone"
@@ -488,35 +510,36 @@ msgstr "목소리"
 
 msgctxt "LevelGainsCantripSelectionMultiple"
 msgid "{0} cantrips to select"
-msgstr ""
+msgstr "선택가능한 캔트립 {0} 개"
 
 msgctxt "LevelGainsCantripSelectionSingle"
 msgid "One cantrip to select"
-msgstr ""
+msgstr "선택가능한 캔트립 한 개"
 
+#, fuzzy
 msgctxt "LevelGainsSaveDcFormat"
 msgid "Save DC is increased to {0}"
-msgstr ""
+msgstr "내성 DC가 {0}(으)로 증가합니다"
 
 msgctxt "LevelGainsSpellAttackFormat"
 msgid "Spell attack is increased to {0}"
-msgstr ""
+msgstr "주문 공격이 {0}(으)로 증가합니다"
 
 msgctxt "LevelGainsSpellSelectionMultiple"
 msgid "{0} spells to select"
-msgstr ""
+msgstr "선택할 주문 {0} 개"
 
 msgctxt "LevelGainsSpellSelectionSingle"
 msgid "One spell to select"
-msgstr ""
+msgstr "선택할 주문 한 개"
 
 msgctxt "LevelGainsSpellSlotsTile"
 msgid "Spell slots:"
-msgstr ""
+msgstr "주문 슬롯:"
 
 msgctxt "LevelGainsStageDescription"
 msgid "This stage lists what you have gained from your new level."
-msgstr ""
+msgstr "이 단계에서는 새로 도달한 레벨에서 얻은 것을 나열합니다."
 
 msgctxt "LevelGainsStageTitle"
 msgid "Level Gains"
@@ -525,7 +548,7 @@ msgstr "레벨 상승"
 #, fuzzy
 msgctxt "LevelUpCaptionTitle"
 msgid "{0} is now a level {1} {2}"
-msgstr "{0} : 레벨 {1} {2}"
+msgstr "{0}은(는) 이제 {1} {2} 레벨입니다"
 
 msgctxt "LevelUpHeader"
 msgid "Level Up!"
@@ -533,11 +556,11 @@ msgstr "레벨 업!"
 
 msgctxt "NeedADeityDescription"
 msgid "You must choose a deity."
-msgstr ""
+msgstr "신을 선택해야 합니다."
 
 msgctxt "ProficiencyAutoSelectButtonDescription"
 msgid "Let the computer make the choices for now."
-msgstr ""
+msgstr "지금은 컴퓨터가 선택하도록 하십시오."
 
 msgctxt "ProficiencyAutoSelectButtonTitle"
 msgid "Auto"
@@ -548,19 +571,22 @@ msgid ""
 "Increased to {0}\n"
 "Affects all attacks, saving throws, skill & tool checks, and spell DC."
 msgstr ""
+"{0}(으)로 증가\n"
+"모든 공격, 내성 굴림, 기술 및 도구 판정, 주문 DC에 영향을 줍니다."
 
 msgctxt "ProficiencyBonusGainTitle"
 msgid "Proficiency Bonus"
-msgstr ""
+msgstr "숙련도 보너스"
 
 msgctxt "ProficiencyEditButtonDescription"
 msgid "Go back on proficiency step and make changes."
-msgstr ""
+msgstr "숙련도 단계로 돌아가서 변경하십시오."
 
 msgctxt "ProficiencyEditButtonTitle"
 msgid "Change"
-msgstr ""
+msgstr "변경"
 
+#, fuzzy
 msgctxt "ProficiencyEffectsDescription"
 msgid ""
 "Proficiency in a saving throw, skill, tool, or weapon lets you add your "
@@ -568,34 +594,38 @@ msgid ""
 "languages, and armors lets you use them. Expertise in skills and tools "
 "doubles the proficiency bonus. "
 msgstr ""
+"내성 굴림, 기술, 도구 또는 무기에 대한 숙련도는 해당 능력치 판정 시 숙련도 보너스를 추가합니다. 재주, 언어, 방어구에 대한 "
+"숙련도는 대상을 사용 가능하게 해줍니다. 기술과 도구에 대한 전문화는 숙련도 보너스를 두 배로 늘립니다. "
 
+#, fuzzy
 msgctxt "ProficiencyExpertiseChoicesPluralFormat"
 msgid ""
 "Choose {0} trained skills or {1} to become expert in (double proficiency)"
-msgstr ""
+msgstr "숙련된 기술 {0} 또는 {1}을(를) 선택하여 전문가가 되십시오(숙련도 두 배)"
 
+#, fuzzy
 msgctxt "ProficiencyExpertiseChoicesSingleFormat"
 msgid ""
 "Choose {0} trained skills or {1} to become expert in (double proficiency)"
-msgstr ""
+msgstr "숙련된 기술 {0} 또는 {1}을(를) 선택하여 전문가가 되십시오(숙련도 두 배)"
 
 msgctxt "ProficiencyFeatChoicesPluralFormat"
 msgid "Choose {0} feats"
-msgstr ""
+msgstr "{0}개의 재주를 선택하십시오"
 
 msgctxt "ProficiencyFeatChoicesSingleFormat"
 msgid "Choose {0} feat"
-msgstr ""
+msgstr "{0}개의 재주를 선택하십시오"
 
 msgctxt "ProficiencyIntroductionCreationDescription"
 msgid ""
 "Your ancestry, class, and background let you choose proficiencies in skills, "
 "tools, feats, and languages."
-msgstr ""
+msgstr "종족, 클래스, 배경에 따라 기술, 도구, 재주, 언어에 대한 숙련도를 선택할 수 있습니다."
 
 msgctxt "ProficiencyIntroductionLevelUpDescription"
 msgid "Gaining a level gives you new proficiencies to choose."
-msgstr ""
+msgstr "레벨이 오르면 선택할 수 있는 새로운 능력이 생깁니다."
 
 msgctxt "ProficiencyLanguageChoicesPluralFormat"
 msgid "Choose {0} languages"
@@ -607,7 +637,7 @@ msgstr "언어 {0}개 선택"
 
 msgctxt "ProficiencyResetAllButtonDescription"
 msgid "Reset all allocated proficiency points."
-msgstr ""
+msgstr "할당된 모든 숙련도 포인트를 초기화합니다."
 
 msgctxt "ProficiencyResetAllButtonTitle"
 msgid "Reset All"
@@ -615,7 +645,7 @@ msgstr "모두 초기화"
 
 msgctxt "ProficiencyResetButtonDescription"
 msgid "Reset allocated proficiency points for this step."
-msgstr ""
+msgstr "이 단계에서 할당된 숙련도 포인트를 초기화합니다."
 
 msgctxt "ProficiencyResetButtonTitle"
 msgid "Reset"
@@ -625,51 +655,51 @@ msgctxt "ProficiencySelectionStageDescription"
 msgid ""
 "This stage chooses the character's proficiencies: skills, expertise, "
 "languages, and more."
-msgstr ""
+msgstr "이 단계에서는 기술, 전문화, 언어 등에 대한 캐릭터의 숙련도를 선택합니다."
 
 msgctxt "ProficiencySelectionStageFailSpendAllPointsDescription"
 msgid "You must spend all your proficiency points before proceeding."
-msgstr ""
+msgstr "다음으로 진행하기 전에 모든 숙련도 포인트를 소비해야 합니다."
 
 msgctxt "ProficiencySelectionStageTitle"
 msgid "Proficiencies"
-msgstr ""
+msgstr "숙련도"
 
 msgctxt "ProficiencySkillChoicesPluralFormat"
 msgid "Choose {0} skills"
-msgstr ""
+msgstr "기술 {0}개 선택"
 
 msgctxt "ProficiencySkillChoicesPluralListFormat"
 msgid "Choose {0} skills from {1}"
-msgstr ""
+msgstr "{1}에서 기술 {0}개 선택"
 
 msgctxt "ProficiencySkillChoicesSingleFormat"
 msgid "Choose {0} skill"
-msgstr ""
+msgstr "기술 {0}개 선택"
 
 msgctxt "ProficiencySkillChoicesSingleListFormat"
 msgid "Choose {0} skills from {1}"
-msgstr ""
+msgstr "{1}에서 기술 {0}개 선택"
 
 msgctxt "ProficiencyToolTypeChoicesPluralFormat"
 msgid "Choose {0} tools"
-msgstr ""
+msgstr "도구 {0}개 선택"
 
 msgctxt "ProficiencyToolTypeChoicesPluralListFormat"
 msgid "Choose {0} tools among {1}"
-msgstr ""
+msgstr "{1}에서 도구 {0}개 선택"
 
 msgctxt "ProficiencyToolTypeChoicesSingleFormat"
 msgid "Choose {0} tool"
-msgstr ""
+msgstr "도구 {0}개 선택"
 
 msgctxt "ProficiencyToolTypeChoicesSingleListFormat"
 msgid "Choose {0} tool among {1}"
-msgstr ""
+msgstr "{1}에서 도구 {0}개 선택"
 
 msgctxt "RaceSelectionStageDescription"
 msgid "This stage determines the character's ancestry and its features."
-msgstr ""
+msgstr "이 단계는 캐릭터의 조상과 특성을 결정합니다."
 
 msgctxt "RaceSelectionStageNoneSelectedDescription"
 msgid "You must select an ancestry."
@@ -693,27 +723,28 @@ msgstr "남성"
 
 msgctxt "SpellLearnPluralTitle"
 msgid "Select {0} spells to learn."
-msgstr ""
+msgstr "배울 주문 {0}개를 선택하세요."
 
 msgctxt "SpellLearnSingleTitle"
 msgid "Select a spell to learn."
-msgstr ""
+msgstr "배울 주문 한 개를 선택하세요."
 
 msgctxt "SpellScribePluralTitle"
 msgid "Select {0} spells to scribe into your spellbook."
-msgstr ""
+msgstr "주문 {0}개를 선택하여 주문책에 기록하세요."
 
 msgctxt "SpellScribeSingleTitle"
 msgid "Select a spell to scribe into your spellbook."
-msgstr ""
+msgstr "주문 한 개를 선택하여 주문책에 기록하세요."
 
 msgctxt "SpellSelectionStageDescription"
 msgid "This stage allows you to choose the character's spells."
-msgstr ""
+msgstr "이 단계에서는 캐릭터의 주문을 선택할 수 있습니다."
 
+#, fuzzy
 msgctxt "SpellSelectionStageFailLearnSpellsDescription"
 msgid "You must learn all your spells before proceeding."
-msgstr ""
+msgstr "다음으로 진행하기 전에 주문을 다 배워야 합니다."
 
 msgctxt "SpellSelectionStageTitle"
 msgid "Spells"
@@ -724,6 +755,8 @@ msgid ""
 "Divine\n"
 "Domain"
 msgstr ""
+"신성\n"
+"권역"
 
 msgctxt "SubclassSelectionStageMartialDescription"
 msgid "This stages chooses a martial archetype for the character."
@@ -749,25 +782,27 @@ msgstr ""
 
 msgctxt "SubclassSelectionStageOathDescription"
 msgid "This stage chooses the character's sacred oath."
-msgstr ""
+msgstr "이 단계에서는 캐릭터의 신성한 맹세를 선택합니다."
 
 msgctxt "SubclassSelectionStageOathFeatures"
 msgid "Sacred Oath Features"
-msgstr ""
+msgstr "신성한 맹세 특성"
 
 msgctxt "SubclassSelectionStageOathHeader"
 msgid "Select Sacred Oath"
-msgstr ""
+msgstr "신성한 맹세 선택"
 
 msgctxt "SubclassSelectionStageOathNoneDescription"
 msgid "You must select a sacred oath."
-msgstr ""
+msgstr "신성한 맹세 하나를 선택해야 합니다."
 
 msgctxt "SubclassSelectionStageOathTitle"
 msgid ""
 "Sacred\n"
 "Oath"
 msgstr ""
+"신성한\n"
+"맹세"
 
 msgctxt "SubclassSelectionStageRangerDescription"
 msgid "This stages selects the character's ranger archetype."
@@ -815,53 +850,55 @@ msgstr ""
 
 msgctxt "SubclassSelectionStageSubclassDescription"
 msgid "This stages selects the character's subclass."
-msgstr ""
+msgstr "이 단계에서는 캐릭터의 서브클래스를 선택합니다."
 
 msgctxt "SubclassSelectionStageSubclassFeatures"
 msgid "Subclass Features"
-msgstr ""
+msgstr "서브클래스 특성"
 
 msgctxt "SubclassSelectionStageSubclassHeader"
 msgid "Select Subclass"
-msgstr ""
+msgstr "서브클래스 선택"
 
 msgctxt "SubclassSelectionStageSubclassTitle"
 msgid "Subclass"
-msgstr ""
+msgstr "서브클래스"
 
 msgctxt "SubclassSelectionStageTraditionDescription"
 msgid "This stages selects the character's arcane tradition."
-msgstr ""
+msgstr "이 단계에서는 캐릭터의 비전 전통을 선택합니다."
 
 msgctxt "SubclassSelectionStageTraditionFeatures"
 msgid "Arcane Tradition Features"
-msgstr ""
+msgstr "비전 전통 특성"
 
 msgctxt "SubclassSelectionStageTraditionHeader"
 msgid "Select Arcane Tradition"
-msgstr ""
+msgstr "비전 전통 선택"
 
 msgctxt "SubclassSelectionStageTraditionNoneDescription"
 msgid "You must select an arcane tradition."
-msgstr ""
+msgstr "비전 전통을 선택해야 합니다."
 
 msgctxt "SubclassSelectionStageTraditionTitle"
 msgid ""
 "Arcane\n"
 "Tradition"
 msgstr ""
+"비전\n"
+"전통"
 
 msgctxt "UnlockedClassFeaturesTitle"
 msgid "Unlocked Class Features"
-msgstr ""
+msgstr "잠금 해제된 클래스 특성"
 
 msgctxt "UnlockedRaceFeaturesTitle"
 msgid "Unlocked Ancestry Features"
-msgstr ""
+msgstr "잠금 해제된 조상 특성"
 
 msgctxt "SpellIntroductionCreationDescription"
 msgid "Select new spells or cantrips to learn."
-msgstr ""
+msgstr "학습할 새로운 주문이나 캔트립을 선택하세요."
 
 msgctxt "SpellSelectionHeaderTitle"
 msgid "Select Spells"
@@ -869,35 +906,35 @@ msgstr "주문 선택"
 
 msgctxt "AbilityScoresStageFailMinimalStrengthDescription"
 msgid "A character must have a minimum strength of {0} to start adventuring."
-msgstr ""
+msgstr "모험을 시작하려면 캐릭터의 최소 힘이 {0}이어야 합니다."
 
 msgctxt "IdentityMorphotypeAgeHeader"
 msgid "Age"
-msgstr ""
+msgstr "나이"
 
 msgctxt "IdentityPronounTitle"
 msgid "Pronoun"
-msgstr ""
+msgstr "호칭"
 
 msgctxt "PronounMaleTitle"
 msgid "He"
-msgstr ""
+msgstr "그"
 
 msgctxt "PronounFemaleTitle"
 msgid "She"
-msgstr ""
+msgstr "그녀"
 
 msgctxt "PronounNonBinaryTitle"
 msgid "They"
-msgstr ""
+msgstr "그이"
 
 msgctxt "BackgroundPersonalityFlagsTitle"
 msgid "Background Personality Flags (choose two)"
-msgstr ""
+msgstr "배경 성격 플래그(2개 선택)"
 
 msgctxt "AlignementPersonalityFlagsTitle"
 msgid "Additional Personality Flags (choose two)"
-msgstr ""
+msgstr "추가 성격 플래그(2개 선택)"
 
 msgctxt "AlignementLawAxisTitle"
 msgid "Law"
@@ -919,7 +956,7 @@ msgctxt "SpellSelectionStageFailNotEnoughPagesDescription"
 msgid ""
 "None of your spellbooks contains enough room to scribe these spells. You "
 "must acquire a new spellbook to complete the level up sequence."
-msgstr ""
+msgstr "당신의 주문서에는 이 주문을 쓰기 위한 충분한 공간이 없습니다. 레벨 업 과정을 완료하려면 새 마법서를 획득해야 합니다."
 
 msgctxt "SubclassSelectionStageSorcerousOriginDescription"
 msgid "This stage chooses a sorcerous origin for the character"
@@ -939,19 +976,19 @@ msgstr ""
 
 msgctxt "ProficiencyIgnoreButtonTitle"
 msgid "Ignore"
-msgstr ""
+msgstr "무시"
 
 msgctxt "ProficiencyIgnoreButtonDescription"
 msgid "Ignore this step"
-msgstr ""
+msgstr "이 단계를 무시합니다"
 
 msgctxt "SpellUnlearnPluralTitle"
 msgid "Select {0} spells to unlearn"
-msgstr ""
+msgstr "학습을 취소할 주문 {0}개를 선택하세요"
 
 msgctxt "SpellUnlearnSingleTitle"
 msgid "Select a spell to unlearn"
-msgstr ""
+msgstr "학습을 취소할 주문 한 개를 선택하세요"
 
 msgctxt "SubclassSelectionStageSorcerousDescription"
 msgid "This stage chooses a sorcerous origin for the character"
@@ -971,11 +1008,11 @@ msgstr ""
 
 msgctxt "ProficiencyMetamagicChoicesSingleFormat"
 msgid "Choose {0} Metamagic options"
-msgstr ""
+msgstr "{0} 메타매직 옵션 선택"
 
 msgctxt "ProficiencyMetamagicChoicesPluralFormat"
 msgid "Choose {0} Metamagic options"
-msgstr ""
+msgstr "{0} 메타매직 옵션 선택"
 
 msgctxt "SubclassSelectionStageSorcerousNoneDescription"
 msgid "You must select a sorcerous origin."

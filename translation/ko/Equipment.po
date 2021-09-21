@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-09-16 10:22+0000\n"
-"Last-Translator: ByeongJinKang <kbj01010@gmail.com>\n"
+"PO-Revision-Date: 2021-09-21 13:43+0000\n"
+"Last-Translator: pryan2001 <pryan2001@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/equipment/"
 "ko/>\n"
 "Language: ko\n"
@@ -470,7 +470,7 @@ msgstr "상점에 판매할 수 있는 귀중품."
 
 msgctxt "ArtItems_50_GP_Gold_dragon_statuette"
 msgid "Gold Dragon Statuette"
-msgstr "금룡 조각상"
+msgstr "골드 드래곤 조각상"
 
 msgctxt "ArtItems_50_GP_Imperial_figurine"
 msgid "Imperial Figurine"
@@ -749,9 +749,10 @@ msgctxt "BracersOfArcheryTitle"
 msgid "Bracers of Archery"
 msgstr "궁술의 팔보호구"
 
+#, fuzzy
 msgctxt "BracersOfArcheryUnidentifiedDescription"
 msgid "These finely decorated bracers may have magical properties."
-msgstr "이 섬세한 팔 보호구에는 마법의 특성이 깃들어 있을지도 모른다."
+msgstr "이 섬세하게 장식된 브레이서에는 마법적인 기능이 있을지도 모릅니다."
 
 msgctxt "BracersOfArcheryUnidentifiedTitle"
 msgid "Magnificent Bracers"
@@ -979,7 +980,7 @@ msgstr "지면"
 
 msgctxt "ContainerLibraryTitle"
 msgid "Library"
-msgstr "도서관"
+msgstr "책장"
 
 msgctxt "ContainerNightStandTitle"
 msgid "Nightstand"
@@ -991,7 +992,7 @@ msgstr "휴대품"
 
 msgctxt "ContainerPotsTitle"
 msgid "Pots"
-msgstr "냄비"
+msgstr "항아리"
 
 msgctxt "ContainerSackTitle"
 msgid "Sack"
@@ -1006,7 +1007,7 @@ msgid ""
 "To craft the {0}, you require: \n"
 "{1}"
 msgstr ""
-"{0}을(를) 제작하려면 다음이 필요합니다:\n"
+"{0} 제작에는 다음 아이템들이 필요합니다:\n"
 "{1}"
 
 msgctxt "CraftingManualDescription"
@@ -2882,7 +2883,7 @@ msgctxt "Poison_DeepSpiderDescription"
 msgid ""
 "A poison distilled from the venom glands of deep spiders. Can be applied to "
 "weapons and ammunition to deal additional damage and slow an enemy."
-msgstr "깊은 곳 거미의 독샘에서 추출한 독. 무기와 탄환에 발라서 적에게 추가 피해를 입히고 움직임을 둔화시킬 수 있습니다."
+msgstr "깊은 곳 거미의 독샘에서 추출한 독. 무기와 탄약에 발라 추가 피해를 입히고 움직임을 둔화시킬 수 있습니다."
 
 msgctxt "Poison_DeepSpiderTitle"
 msgid "Deep Spider Venom"
@@ -2892,7 +2893,7 @@ msgctxt "Poison_SpiderDescription"
 msgid ""
 "A poison distilled from the venom glands of Badlands Spiders. Can be applied "
 "to weapons and ammunition for additional damage."
-msgstr "황무지 거미의 독샘에서 증류하여 얻은 독입니다. 무기와 탄약에 발라 추가적인 피해를 입힐 수 있습니다."
+msgstr "황무지 거미의 독샘에서 추출한 독. 무기와 탄약에 발라 추가 피해를 입힐 수 있습니다."
 
 msgctxt "Poison_SpiderTitle"
 msgid "Spider Venom"
@@ -3106,7 +3107,7 @@ msgstr "이 두루마리를 사용하면 산성 화살 주문을 시전합니다
 
 msgctxt "ScrollAcidArrowTitle"
 msgid "Scroll of Acid Arrow"
-msgstr "산성 화살의 두루마리"
+msgstr "산성 화살 두루마리"
 
 #, fuzzy
 msgctxt "ScrollBaneDescription"
@@ -3142,13 +3143,15 @@ msgctxt "ScrollBurningHandsTitle"
 msgid "Scroll of Burning Hands"
 msgstr "타오르는 손길 두루마리"
 
+#, fuzzy
 msgctxt "ScrollColorSprayDescription"
 msgid "When you use this scroll, you cast the spell Color Spray."
-msgstr ""
+msgstr "이 두루마리를 사용하면 칼라 스프레이 주문을 시전합니다."
 
+#, fuzzy
 msgctxt "ScrollColorSprayTitle"
 msgid "Scroll of Color Spray"
-msgstr ""
+msgstr "칼라 스프레이 두루마리"
 
 msgctxt "ScrollCureWoundsDescription"
 msgid "When you use this scroll, you cast the Cure Wounds spell."
@@ -3160,11 +3163,11 @@ msgstr "상처 치료 두루마리"
 
 msgctxt "ScrollExpeditiousRetreatDescription"
 msgid "When you use this scroll, you cast the Expeditious Retreat spell."
-msgstr ""
+msgstr "이 두루마리를 사용하면 신속한 후퇴 주문을 시전합니다."
 
 msgctxt "ScrollExpeditiousRetreatTitle"
 msgid "Scroll of Expeditious Retreat"
-msgstr ""
+msgstr "신속한 후퇴 두루마리"
 
 msgctxt "ScrollFireballDescription"
 msgid "When you use this scroll, you cast the Fireball spell."
@@ -3198,13 +3201,15 @@ msgctxt "ScrollGuidingBoltTitle"
 msgid "Scroll of Guiding Bolt"
 msgstr "유도 화살 두루마리"
 
+#, fuzzy
 msgctxt "ScrollHideousLaughterDescription"
 msgid "When you use this scroll, you cast the Hideous Laughter spell."
-msgstr ""
+msgstr "이 두루마리를 사용하면 소름끼치는 웃음 주문을 시전합니다."
 
+#, fuzzy
 msgctxt "ScrollHideousLaughterTitle"
 msgid "Scroll of Hideous Laughter"
-msgstr ""
+msgstr "소름끼치는 웃음 두루마리"
 
 #, fuzzy
 msgctxt "ScrollHoldPersonDescription"
@@ -3277,11 +3282,11 @@ msgstr "마법 화살 두루마리"
 msgctxt "ScrollProtectionFromEvilandGoodDescription"
 msgid ""
 "When you use this scroll, you cast the Protection from Evil and Good spell."
-msgstr "이 두루마리를 사용하면 선악으로부터의 보호 주문을 시전합니다."
+msgstr "이 두루마리를 사용하면 선과 악으로부터의 보호 주문을 시전합니다."
 
 msgctxt "ScrollProtectionFromEvilandGoodTitle"
 msgid "Scroll of Protection from Evil and Good"
-msgstr "선악으로부터의 보호 두루마리"
+msgstr "선과 악으로부터의 보호 두루마리"
 
 msgctxt "ScrollRaiseDeadDescription"
 msgid "When you use this scroll, you cast the Raise Dead spell."
@@ -3323,13 +3328,14 @@ msgctxt "ScrollSleepTitle"
 msgid "Scroll of Sleep"
 msgstr "수면 두루마리"
 
+#, fuzzy
 msgctxt "ScrollThunderwaveDescription"
 msgid "When you use this scroll, you cast the Thunderwave spell."
-msgstr ""
+msgstr "이 두루마리를 사용하면 천둥파도 주문을 시전합니다."
 
 msgctxt "ScrollThunderwaveTitle"
 msgid "Scroll of Thunderwave"
-msgstr ""
+msgstr "천둥파도 두루마리"
 
 msgctxt "Sellsword_Background_Quest_Document_01"
 msgid ""
@@ -3753,9 +3759,10 @@ msgctxt "WandLightningBoltsTitle"
 msgid "Wand of Lightning Bolts"
 msgstr "번개 화살 마법봉"
 
+#, fuzzy
 msgctxt "WandMagicMissileTitle"
 msgid "Wand of Magic Missile"
-msgstr ""
+msgstr "마법 미사일 마법봉"
 
 msgctxt "WandSpecialDescription"
 msgid "A wand of superior craftsmanship, possibly with unknown qualities."
@@ -4201,9 +4208,9 @@ msgid ""
 "could have killed him already - he could have been dead for centuries - but "
 "no: his magical defenses are still in place. He must be alive."
 msgstr ""
-"그녀는 내가 죽었다고 말했을 수도 있다. 그것을 기정 사실로 만들기 위해 계획 중일지도 모른다. 그는 대격변으로 인해 너무나 큰 충격을 "
-"받고 정신이 팔려 그녀를 믿었을 지도 모른다. 그녀는 이미 그를 수 세기 전에 죽였을 수도 있다. 아니, 그가 세운 마법 방어 장치들은 "
-"아직 작동하고 있다. 그는 분명 살아있다."
+"내가 알기로 그녀는 그에게 내가 죽었다고 말했다. 그녀는 그것을 사실로 만들기 위해 계획 중일 수도 있다. 그는 대격변으로 인해 너무나 "
+"큰 충격을 받고 정신이 팔려 그녀를 믿었을 지도 모른다. 그녀는 오래 전부터 그를 죽일 수 있었다 - 그는 수 세기 전에 죽었을 수도 "
+"있다. 그렇지만 그는 죽지 않았다 - 그가 세운 마법 방어 장치들은 아직 작동하고 있다. 그는 분명 살아있다."
 
 msgctxt "Necromancy_LizzariasJournal_Content03"
 msgid ""
@@ -4672,6 +4679,7 @@ msgctxt "Evocation_Plaque1_Description"
 msgid "An inscribed stone plaque."
 msgstr "새겨진 석판."
 
+#, fuzzy
 msgctxt "Evocation_Plaque1_Content01"
 msgid ""
 "In memory of the Emperor Laethar Aerlinn, first of his name, who reigned "
@@ -4683,7 +4691,12 @@ msgid ""
 "and his son Prince Kealin, both treacherously murdered on the orders of the "
 "usurper and false Emperor Rithian Thirion, who seized the throne."
 msgstr ""
+"1773년부터 2117년까지 통치했으며 제국의 영광스러운 확장을 이끌고 숲의 반란군 엘프, 서쪽 산의 드워프, 하플링을 예속시킨 래사르 "
+"에를린 1세를 추모합시다. 그는 직접 백 명이 넘는 반군을 죽인 화염 숲의 영웅이기도 하지요. 그는 콜사닌으로 진격하는 동안 배신한 "
+"반란군의 화살에 살해당했습니다. 그리고 왕위 찬탈자이자 거짓 황제인 리시안 티리온의 명령에 따라 배신당해 살해된 그의 여왕 새피날라와 "
+"그의 아들 케일린 왕자에게도 추모를 올립니다."
 
+#, fuzzy
 msgctxt "Evocation_Plaque1_Content02"
 msgid ""
 "This monument is raised by their faithful servants who brought forth their "
@@ -4691,6 +4704,8 @@ msgid ""
 "dynasty of Aerlinn is restored and their sacred remains can return to the "
 "capital."
 msgstr ""
+"시오티르나스에서 이 도피처로 유해를 모셔와, 에를린 왕조가 복권되고 그들의 신성한 유해가 수도로 돌아올 수 있을 때까지 버틴 그 충실한 "
+"종들이 이 기념비를 세웠습니다."
 
 msgctxt "Evocation_Plaque2_Title"
 msgid "Stone Inscription"
@@ -5086,9 +5101,10 @@ msgctxt "RingLanguages_Unidentified_Description"
 msgid "A beautiful ring, probably magical."
 msgstr "아마도 마법이 깃들어 있을 아름다운 반지입니다."
 
+#, fuzzy
 msgctxt "RingLanguages_Title"
 msgid "Ring of All Words"
-msgstr ""
+msgstr "모든 단어의 반지"
 
 msgctxt "FunctionGoodberryFeedOtherTitle"
 msgid "Eat"
@@ -5100,7 +5116,7 @@ msgstr "다른 사람 먹이기"
 
 msgctxt "Item_Berry_Ration_Title"
 msgid "Goodberry"
-msgstr ""
+msgstr "굿베리"
 
 #, fuzzy
 msgctxt "HalpfPlatePlus1_Title"
@@ -5145,7 +5161,7 @@ msgstr ""
 
 msgctxt "Magic_Arrow_Unidentified_Title"
 msgid "Remarkable Arrow"
-msgstr "범상찮은 화살"
+msgstr "범상치 않은 화살"
 
 msgctxt "Magic_Arrow_Unidentified_Description"
 msgid "This arrow is remarkably light and sharp. It may be magical."
@@ -5206,9 +5222,10 @@ msgctxt "BeltOfGiantStone_Title"
 msgid "Belt of Giant Strength (Stone)"
 msgstr "거인 힘의 허리띠(암석 거인)"
 
+#, fuzzy
 msgctxt "CircletOfBlasting_Title"
 msgid "Circlet of Blasting"
-msgstr ""
+msgstr "폭파의 서클릿"
 
 msgctxt "CircletOfBlasting_Description"
 msgid ""
@@ -5271,9 +5288,10 @@ msgstr ""
 "이 왕관은 모든 종류의 마법 연구에 우월한 저항력을 가진 것처럼 보이며, 당신은 여전히 이것이 무엇인지 모릅니다. 그렇지만 이 왕관은 "
 "소지자에게 마법적 보호와 힘을 제공합니다."
 
+#, fuzzy
 msgctxt "RingOfFeatherFalling_Title"
 msgid "Ring of Feather Falling"
-msgstr ""
+msgstr "깃털같은 낙하의 반지"
 
 msgctxt "RingOfFeatherFalling_Description"
 msgid ""
@@ -5289,9 +5307,10 @@ msgctxt "RingOfFeatherFalling_Unidentified_Description"
 msgid "A beautiful ring with engraved wings."
 msgstr "날개가 새겨진 아름다운 반지입니다."
 
+#, fuzzy
 msgctxt "BracersOfDefense_Title"
 msgid "Bracers of Defense"
-msgstr ""
+msgstr "방어의 브레이서"
 
 msgctxt "BracersOfDefense_Description"
 msgid "Those bracers were the prized possession of a Manacalon shock arcanist."
@@ -5305,9 +5324,10 @@ msgctxt "BracersOfDefense_Unidentified_Description"
 msgid "A pair of finely crafted bracers."
 msgstr "정교하게 제작된 한 쌍의 팔보호구입니다."
 
+#, fuzzy
 msgctxt "CloakOfDisplacement_Title"
 msgid "Cloak of Displacement"
-msgstr ""
+msgstr "도피의 망토"
 
 msgctxt "CloakOfDisplacement_Description"
 msgid ""
@@ -5323,9 +5343,10 @@ msgctxt "CloakOfDisplacement_Unidentified_Description"
 msgid "A dark cloak with golden embroidery."
 msgstr "금색 자수가 있는 어두운 색의 망토입니다."
 
+#, fuzzy
 msgctxt "BootsOfJumping_Title"
 msgid "Boots of Striding and Springing"
-msgstr ""
+msgstr "신속과 도약의 장화"
 
 msgctxt "BootsOfJumping_Description"
 msgid ""
@@ -5345,10 +5366,11 @@ msgctxt "CloakOfElvenKind_Title"
 msgid "Cloak of Elvenkind"
 msgstr "엘프족의 망토"
 
+#, fuzzy
 msgctxt "CloakOfElvenKind_Description"
 msgid ""
 "Crafted in Colthannin for human allies of the Realm protecting its borders."
-msgstr ""
+msgstr "국경을 수비하는 왕국의 인간 동맹을 위해 콜사닌에서 제작되었습니다."
 
 msgctxt "CloakOfElvenKind_Unidentified_Title"
 msgid "Elven Cloak"
@@ -5360,9 +5382,10 @@ msgid ""
 "symbols."
 msgstr "고급 천으로 만들어지고 실반 엘프 문양 장식이 있는 아름다운 망토."
 
+#, fuzzy
 msgctxt "DustOfDissapearance_Title"
 msgid "Dust of Disappearance"
-msgstr ""
+msgstr "투명화 가루"
 
 msgctxt "DustOfDissapearance_Description"
 msgid ""
@@ -5370,9 +5393,10 @@ msgid ""
 "in their fight against dissidence and rebellion. "
 msgstr "아케니움이 만든 이 가루는 고요한 속삭임이 반란과 반체제에 맞서 싸울 때 가장 애용하던 도구였습니다. "
 
+#, fuzzy
 msgctxt "DustOfDissapearance_Unidentified_Title"
 msgid "Pouch of Dust"
-msgstr ""
+msgstr "가루 주머니"
 
 msgctxt "DustOfDissapearance_Unidentified_Description"
 msgid "A pouch filled with a translucent powder."
@@ -5382,9 +5406,10 @@ msgctxt "EfficientQuiver_Title"
 msgid "Efficient Quiver"
 msgstr "효율적인 화살통"
 
+#, fuzzy
 msgctxt "EfficientQuiver_Description"
 msgid "TBC power"
-msgstr ""
+msgstr "알수없는 힘"
 
 msgctxt "EfficientQuiver_Unidentified_Title"
 msgid "Nicely crafted quiver."
@@ -5394,29 +5419,33 @@ msgctxt "EfficientQuiver_Unidentified_Description"
 msgid "A beautifully crafted quiver."
 msgstr "아름답게 제작된 화살통."
 
+#, fuzzy
 msgctxt "GlovesOfMissileSnaring_Title"
 msgid "Gloves of Missile Snaring"
-msgstr ""
+msgstr "투사체 덫의 장갑"
 
+#, fuzzy
 msgctxt "GlovesOfMissileSnaring_Description"
 msgid ""
 "Crafted by Ildurial Stronghand for the members of the Euraidd tasked with "
 "the protection of the Imperial family."
-msgstr ""
+msgstr "일두리얼 스트롱핸드가 황가의 수호 임무를 맡은 에우라이드를 위해 제작했습니다."
 
 msgctxt "GlovesOfMissileSnaring_Unidentified_Title"
 msgid "Magnificent Gloves"
 msgstr "화려한 장갑"
 
+#, fuzzy
 msgctxt "GlovesOfMissileSnaring_Unidentified_Description"
 msgid ""
 "These sturdy gloves are very comfortable and may have magical properties."
-msgstr ""
+msgstr "이 튼튼한 장갑은 매우 편안하며 마법적인 기능이 있을지도 모릅니다."
 
 msgctxt "HornOfBlasting_Title"
 msgid "Horn of Blasting"
-msgstr ""
+msgstr "폭발의 뿔피리"
 
+#, fuzzy
 msgctxt "HornOfBlasting_Description"
 msgid ""
 "You can use an action to speak the horn's Command Word and then blow the "
@@ -5428,6 +5457,10 @@ msgid ""
 "disadvantage on the saving throw, and take 10d6 thunder damage instead of "
 "5d6."
 msgstr ""
+"행동을 사용하여 시동어를 말한 후 뿔피리를 불면, 600피트까지 닿는 우레 같은 폭발을 일으켜 30피트의 원뿔 범위로 방사합니다. 원뿔 "
+"내의 각 생물은 DC 15 건강 내성 굴림을 해야 합니다. 내성 굴림에 실패하면 생물은 5d6의 천둥 피해를 입고 1분 동안 귀머거리가 "
+"됩니다. 내성 굴림에 성공하면 생물은 절반의 피해를 입고 귀머거리가 되지 않습니다. 유리나 수정으로 만들어진 크리쳐나 물체는 내성 굴림에 "
+"불리점을 받고, 5d6 대신 10d6 천둥 피해를 받습니다."
 
 msgctxt "HornOfBlasting_Unidentified_Title"
 msgid "Lion-headed Horn"
@@ -5463,7 +5496,7 @@ msgstr ""
 
 msgctxt "PeriaptOfHealth_Title"
 msgid "Periapt of Health"
-msgstr ""
+msgstr "건강의 부적"
 
 msgctxt "PeriaptOfHealth_Description"
 msgid ""
@@ -5482,7 +5515,7 @@ msgstr "파란색 보석이 있는 멋진 펜던트입니다."
 
 msgctxt "DireWolfPeltTitle"
 msgid "Dire Wolf Pelt"
-msgstr ""
+msgstr "다이어 늑대 모피"
 
 msgctxt "DireWolfPeltDescription"
 msgid "A thick and beautiful pelt that can be sold for some gold."
@@ -5502,13 +5535,13 @@ msgstr "알 수 없는 파티 보관함"
 
 msgctxt "MertonsJournal_Title"
 msgid "Unfinished Biography"
-msgstr ""
+msgstr "미완성 일대기"
 
 msgctxt "MertonsJournal_Description"
 msgid ""
 "A hand-written handbook, apparently used to draft a biography. The project "
 "seems to have been canceled after just a few lines."
-msgstr ""
+msgstr "일대기 초안을 작성하는 데 사용된 것이 분명한 수기 핸드북입니다. 프로젝트는 몇 줄 만에 취소된 것 같습니다."
 
 msgctxt "MertonsJournal_Content_00"
 msgid ""
@@ -5565,11 +5598,12 @@ msgctxt "PoisonVipersBiteDescription"
 msgid ""
 "A poison distilled from the venom glands of poisonous snakes. Can be applied "
 "to weapons for additional poison damage."
-msgstr ""
+msgstr "독사의 독샘에서 추출한 독. 무기와 탄약에 발라 추가 피해를 입힐 수 있습니다."
 
+#, fuzzy
 msgctxt "PoisonVipersBiteTitle"
 msgid "Viper's Bite"
-msgstr ""
+msgstr "독사의 공격"
 
 msgctxt "Poison_BrimstoneFang_Title"
 msgid "Brimstone Fang"
@@ -5577,19 +5611,20 @@ msgstr "유황 송곳니"
 
 msgctxt "Poison_BrimstoneFang_Description"
 msgid "A poison crafted from the venomous fangs of a Brimstone Viper."
-msgstr "유황 독사의 독기 넘치는 송곳니로 만든 독입니다."
+msgstr "유황 독사의 독니로 만든 독입니다."
 
 msgctxt "Poison_TigerFang_Title"
 msgid "Tiger Fang"
-msgstr ""
+msgstr "호랑이 송곳니"
 
 msgctxt "Poison_TigerFang_Description"
 msgid "A poison crafted from the venomous fangs of a Tiger Drake."
-msgstr ""
+msgstr "타이거 드레이크의 독니로 만든 독입니다."
 
+#, fuzzy
 msgctxt "Poison_DarkStab_Title"
 msgid "Dark Stab"
-msgstr ""
+msgstr "암흑 찌르기"
 
 msgctxt "Poison_DarkStab_Description"
 msgid "A poison crafted from the poison gland of a Badlands Spider."
@@ -5597,95 +5632,105 @@ msgstr "황무지 거미의 독샘에서 만든 독입니다."
 
 msgctxt "Poison_DeepPain_Title"
 msgid "Deep Pain"
-msgstr ""
+msgstr "심연의 고통"
 
 msgctxt "Poison_DeepPain_Description"
 msgid "A poison crafted from the venomous fangs of a Deep Spider."
-msgstr ""
+msgstr "깊은 곳 거미의 독니로 만든 독입니다."
 
 msgctxt "Poison_ArivadsKiss_Title"
 msgid "Arivad's Kiss"
-msgstr ""
+msgstr "아리바드의 키스"
 
 msgctxt "Poison_ArivadsKiss_Description"
 msgid "A poison crafted with the poisonous spine of a Sorak."
-msgstr ""
+msgstr "소락의 독가시로 만든 독입니다."
 
+#, fuzzy
 msgctxt "Poison_ArunsLight_Description"
 msgid "A chemical poison that blinds an opponent for a short while."
-msgstr ""
+msgstr "잠시 동안 상대의 눈을 멀게 하는 인공 독입니다."
 
 msgctxt "Poison_TheLongNight_Title"
 msgid "The Long Night"
-msgstr ""
+msgstr "긴 밤"
 
 msgctxt "Poison_TheLongNight_Description"
 msgid ""
 "A poison crafted with scales of flying snakes, which consumes you from the "
 "inside."
-msgstr ""
+msgstr "비행뱀의 비늘로 만든 독으로, 당신을 안쪽부터 집어삼킵니다."
 
+#, fuzzy
 msgctxt "Poison_TheBurden_Title"
 msgid "The Burden"
-msgstr ""
+msgstr "짐덩어리"
 
 msgctxt "Poison_TheBurden_Description"
 msgid "A chemical poison that makes you feel like you're carrying a mountain."
-msgstr ""
+msgstr "산을 짊어지고 있는 듯한 느낌을 주는 인공 독입니다."
 
 msgctxt "Poison_GhoulsCaress_Title"
 msgid "Ghoul's Caress"
-msgstr ""
+msgstr "구울의 손길"
 
 msgctxt "Poison_GhoulsCaress_Description"
 msgid ""
 "A terrifying chemical poison that can paralyze even the greatest fighter."
-msgstr ""
+msgstr "아주 강력한 전사마저 마비시킬 수 있는 무시무시한 인공 독."
 
+#, fuzzy
 msgctxt "Ingredient_SorakPoisonSpine_Title"
 msgid "Sorak Poisonous Spine"
-msgstr ""
+msgstr "소락 독가시"
 
+#, fuzzy
 msgctxt "Ingredient_SorakPoisonSpine_Description"
 msgid ""
 "Taken from the corpse of a Sorak, this spine contains a poison that can be "
 "processed to be used on a weapon."
-msgstr ""
+msgstr "소락의 시체에서 채취한 이 가시에는 무기에 바를 수 있게 가공할 수 있는 독이 들어 있습니다."
 
+#, fuzzy
 msgctxt "Ingredient_TigerDrakeFang_Title"
 msgid "Tiger Drake Venom Gland"
-msgstr ""
+msgstr "타이거 드레이크 독샘"
 
+#, fuzzy
 msgctxt "Ingredient_TigerDrakeFang_Description"
 msgid ""
 "Taken from the corpse of a Sorak, this spine contains a poison that can be "
 "processed to be used on a weapon."
-msgstr ""
+msgstr "소락의 시체에서 채취한 이 가시에는 무기에 바를 수 있게 가공할 수 있는 독이 들어 있습니다."
 
 msgctxt "Ingredient_SpiderQueenPoisonGland_Title"
 msgid "Spider Queen Poison Gland"
 msgstr "거미 여왕 독샘"
 
+#, fuzzy
 msgctxt "Ingredient_SpiderQueenPoisonGland_Description"
 msgid ""
 "Harvested from the body of a spider queen, these glands have mystical "
 "capabilities. In the hands of a capable enchanter, they can be used to craft "
 "deadly poisons or even poisoning weapons."
 msgstr ""
+"거미 여왕의 몸에서 채취한 이 독샘은 신비한 능력을 가지고 있습니다. 유능한 인챈터의 손에서 치명적인 독을 만들거나 무기를 독으로 "
+"강화하는데 사용될 수 있습니다."
 
+#, fuzzy
 msgctxt "ItemRingOfRegenerationDescription"
 msgid ""
 "An ancient ring created to keep warlords on their feet on the battlefield."
-msgstr ""
+msgstr "전쟁터에서 지휘관을 보호하기 위해 만들어진 고대의 반지입니다."
 
 msgctxt "ItemRingOfRegenerationUnidentifiedDescription"
 msgid ""
 "This ring bears symbols of life and health. It may have magical properties."
-msgstr ""
+msgstr "이 반지는 생명과 건강의 상징이 새겨져 있습니다. 마법적인 기능이 있을지도 모릅니다."
 
 msgctxt "ItemRingOfRegenerationTitle"
 msgid "Ring of Regeneration"
-msgstr ""
+msgstr "재생의 반지"
 
 msgctxt "Cog_of_Cohh_Title"
 msgid "Cog of Cohh"
@@ -5719,7 +5764,7 @@ msgstr "메티스의 스태프"
 #, fuzzy
 msgctxt "Staff_of_Metis_Description"
 msgid "TBC"
-msgstr "미정"
+msgstr "알 수 없음"
 
 msgctxt "Staff_of_Metis_Unidentified_Title"
 msgid "Acacia Staff"
@@ -5830,13 +5875,18 @@ msgid ""
 "master armorers. Defineth Sharpeye stole and adapted Ildurial's design to "
 "the needs of Coedymwarth scouts."
 msgstr ""
+"이 마법 갑옷은 콜사닌의 갑옷 장인들의 고대 지식을 사용하여 만들어졌습니다. 데피니스 샤프아이는 코이딤워스 스카우트의 요구에 맞게 "
+"일두리얼의 디자인을 훔쳐 개조했습니다."
 
+#, fuzzy
 msgctxt "Enchanted_Halfplate_Of_Sturdiness_Description"
 msgid ""
 "This enchanted armor was created using the ancient knowledge of Manacalon's "
 "master armorers. Ildurial Stronghand forged the first of those armors for "
 "the Emperor's personal guard. "
 msgstr ""
+"이 마법 갑옷은 마나칼론의 갑옷 장인들의 고대 지식을 사용하여 만들어졌습니다. 일두리얼 스트롱핸드는 데피니스 샤프아이는 이 갑옷 중 "
+"첫번째 작품을 황제의 경호원을 위해 제작했습니다. "
 
 msgctxt "Enchanted_Greatsword_Doom_Description"
 msgid ""
@@ -6099,7 +6149,7 @@ msgstr ""
 
 msgctxt "BracersOfArcheryDescription"
 msgid "A favorite of Colthannin border patrols. "
-msgstr ""
+msgstr "콜사닌 국경 순찰대가 좋아하는 물건. "
 
 msgctxt "_Item_RingOfProtection_plus_one_Description"
 msgid ""
@@ -6215,7 +6265,7 @@ msgstr ""
 msgctxt "BootsOfElvenkind_Description"
 msgid ""
 "Crafted in Colthannin for human allies of the Realm protecting its borders."
-msgstr ""
+msgstr "국경을 수비하는 왕국의 인간 동맹을 위해 콜사닌에서 제작되었습니다."
 
 msgctxt "MantleOfSpellResistance_Title"
 msgid "Mantle of Spell Resistance"
@@ -6237,13 +6287,13 @@ msgstr ""
 
 msgctxt "EndlessQuiver_Title"
 msgid "Endless Quiver of Colthannin"
-msgstr ""
+msgstr "콜사닌의 끝없는 화살통"
 
 msgctxt "EndlessQuiver_Description"
 msgid ""
 "Enchanted by the ancient Greenmages of Colthannin, these quivers made sure "
 "they never ran out of arrows."
-msgstr ""
+msgstr "콜사닌의 고대 그린메이지가 마법을 부여한 이 화살통은 화살이 부족할 일이 없습니다."
 
 msgctxt "EndlessQuiver_Unidentified_Title"
 msgid "Colthannin Quiver"
@@ -6405,7 +6455,7 @@ msgid ""
 "Originally, these rings were forged by the Tirmarian master smiths to equip "
 "an order of Paladins who wanted to enter the homeland of the Sorr-Akkath and "
 "destroy it."
-msgstr ""
+msgstr "원래 이 반지들은 소라카스의 본거지로 향해 그들을 파괴하려고 했던 팔라딘들에게 주려고 티르마르의 대장장이 명인들이 제작했습니다."
 
 msgctxt "RingOfTheLightbringers_Unidentified_Title"
 msgid "Beautiful Silver Ring"
@@ -6413,21 +6463,21 @@ msgstr "아름다운 은반지"
 
 msgctxt "RingOfTheLightbringers_Unidentified_Description"
 msgid "A magnificent ring with a sun-shaped bezel."
-msgstr ""
+msgstr "테두리가 태양 모양인 화려한 반지입니다."
 
 msgctxt "BracersOfSparkles_Title"
 msgid "Bracers of Sparkles"
-msgstr ""
+msgstr "반짝임의 팔보호구"
 
 msgctxt "BracersOfSparkles_Description"
 msgid ""
 "These bracers were used for ceremonial purposes in Tirmarian temples, to "
 "light up the churches."
-msgstr ""
+msgstr "이 팔보호구는 티르마르의 사원들에서 교회를 밝히는 의례적 목적으로 사용되었습니다."
 
 msgctxt "BracersOfSparkles_Unidentified_Title"
 msgid "Golden Bracers"
-msgstr ""
+msgstr "황금 팔보호구"
 
 msgctxt "BracersOfSparkles_Unidentified_Description"
 msgid "A pair of superb bracers made of gold, with flame-shaped decorations."
@@ -6435,7 +6485,7 @@ msgstr "불꽃 모양의 장식이 있는 금으로 만들어진 멋진 팔보�
 
 msgctxt "Document_Relic_Manifest_Title"
 msgid "Ancient Manifest"
-msgstr "고대 선언문"
+msgstr "고대의 화물 목록"
 
 msgctxt "Document_Relic_Manifest_Description"
 msgid ""
@@ -6443,6 +6493,8 @@ msgid ""
 "delivery document, but it might have some value for the Antiquarians, for "
 "instance."
 msgstr ""
+"이 오래된 종잇조각은 대격변 이전 시대의 것입니다. 아주 평범한 인도 서류지만, 예컨대 안티쿼리안들에게는 어느 정도 가치가 있을지도 "
+"모릅니다."
 
 msgctxt "Document_Relic_Poem_Title"
 msgid "Poem"
@@ -6453,10 +6505,12 @@ msgid ""
 "This might have been a love letter, or simply a poem, dedicated to a Lady "
 "Adrasteia. It was clearly crumpled then salvaged and stored safely."
 msgstr ""
+"이것은 아드라스테이아에게 바쳐진 사랑을 담은 편지일 수도 있고 어쩌면 그저 단순한 시일지도 모릅니다. 분명히 구겨진 후 다시 펴져서 "
+"안전하게 보관되었습니다."
 
 msgctxt "Document_Relic_Order_Title"
 msgid "Magic Weapon Request"
-msgstr ""
+msgstr "마법 무기 주문"
 
 msgctxt "Document_Relic_Order_Description"
 msgid ""
@@ -6464,6 +6518,8 @@ msgid ""
 "from the magical workshop of the Tower of Abjuration. It refers to a major "
 "component that should lower the crafting price."
 msgstr ""
+"이 주문은 방호계의 탑에 위치한 마법 작업장에서 제작된 감시자의 검을 원했던 강철 군단 장교가 제출했습니다. 제작 단가를 낮춰줄 주요 "
+"부품을 언급하고 있습니다."
 
 msgctxt "Document_Relic_Craftlist_Title"
 msgid ""
@@ -6472,10 +6528,12 @@ msgid ""
 "that was probably because such items were very easy to make for the "
 "Manacalon masters of magic."
 msgstr ""
+"이것은 방호계의 대가에게 마법이 깃든 물품을 주문하려고 했던 사람들에게 주어진 문서인 것 같습니다. 가격이 터무니없이 싼 것 같은데, "
+"아마도 그러한 물품들을 제작하는 일이 마나칼론의 마법의 대가들에게는 매우 쉬운 일이기 때문일 것입니다."
 
 msgctxt "Document_Relic_Craftlist_Description"
 msgid "Warden Longsword: "
-msgstr ""
+msgstr "감시자의 롱소드: "
 
 msgctxt "Document_Relic_ElvenWarsBook_Title"
 msgid "The Elven Wars"
@@ -6485,7 +6543,7 @@ msgctxt "Document_Relic_ElvenWarsBook_Description"
 msgid ""
 "A history book by the First Loremaster of the Manacalon Arcaneum. Very "
 "valuable."
-msgstr ""
+msgstr "마나칼론 아케니움의 첫 번째 로어마스터가 기록한 역사책입니다. 아주 귀중합니다."
 
 msgctxt "Ingredient_Enchant_SpiderQueen_Venom_Title"
 msgid "Spider Queen Venom"
@@ -6511,7 +6569,7 @@ msgctxt "MertonSword_Description"
 msgid ""
 "Bitterroot gave you this sword. You're supposed to bring it to Merton in "
 "Caer Cyflen."
-msgstr ""
+msgstr "비터루트가 이 검을 주었습니다. 케어 키플렌의 머튼에게 이 검을 가져가야 합니다."
 
 msgctxt "GreenmageArmor_unidentified_Title"
 msgid "Sylvan Outfit"
@@ -6521,23 +6579,23 @@ msgctxt "GreenmageArmor_unidentified_Description"
 msgid ""
 "A nice-looking and well-decorated outfit made from green linen with golden "
 "lining."
-msgstr ""
+msgstr "금색 안감을 댄 녹색 린넨으로 제작한 멋지고 화려한 의상입니다."
 
 msgctxt "Plate_plus_one_Title"
 msgid "Plate+1"
-msgstr ""
+msgstr "플레이트+1"
 
 msgctxt "Plate_plus_one_Description"
 msgid "A full Plate Armor made with enchanted metal."
-msgstr ""
+msgstr "마법이 부여된 금속으로 제작된 풀 플레이트 아머입니다."
 
 msgctxt "Plate_plus_one_unidentified_Title"
 msgid "Magnificent Plate Armor"
-msgstr ""
+msgstr "화려한 플레이트 아머"
 
 msgctxt "Plate_plus_one_unidentified_Description"
 msgid "This armor is made of finely decorated plates and bears magic runes."
-msgstr ""
+msgstr "이 갑주는 정교하게 장식된 철판들로 제작되었으며 마법 룬들이 새겨져 있습니다."
 
 msgctxt "Handaxe_plus_one_TypeTitle"
 msgid "Handaxe +1"
@@ -6553,7 +6611,7 @@ msgstr "뛰어난 핸드액스"
 
 msgctxt "Handaxe_plus_one_Unidentified_Description"
 msgid "A finely crafted and exceptionally well balanced handaxe."
-msgstr ""
+msgstr "정교하게 제작되고 균형이 아주 잘 잡혀있는 핸드액스입니다."
 
 msgctxt "Longsword_plus_two_Title"
 msgid "Longsword +2"
@@ -6580,6 +6638,7 @@ msgid ""
 "Galar Stormforge's masterpiece, this exceptional light warhammer can be "
 "thrown for devastating damage, especially against giants."
 msgstr ""
+"갈라르 스톰포지의 걸작인 이 가볍고 우수한 품질의 워해머는 던져서 파괴적인 피해를 줄 수 있으며, 특히 거인을 상대할 때 효과적입니다."
 
 msgctxt "Warhammer_plus_two_Unidentified_Title"
 msgid "Dwarven Warhammer"
@@ -6913,70 +6972,73 @@ msgid ""
 "These projectiles have a small pocket of poison attached to their tip, so "
 "that they will deal the effect of poison on a successful hit. These "
 "particular arrows use Maraike's Torpor."
-msgstr ""
+msgstr "이 발사체 끝에는 작은 독 주머니가 붙어 있어, 명중 시 독 효과를 줍니다. 이 독화살은 마라이케의 마비독을 사용합니다."
 
 msgctxt "Poisoned_Arrow_ArunsLight_Description"
 msgid ""
 "These projectiles have a small pocket of poison attached to their tip, so "
 "that they will deal the effect of poison on a successful hit. These "
 "particular arrows use Arun's Light."
-msgstr ""
+msgstr "이 발사체 끝에는 작은 독 주머니가 붙어 있어, 명중 시 독 효과를 줍니다. 이 독화살은 아룬의 빛을 사용합니다."
 
+#, fuzzy
 msgctxt "Poisoned_Arrow_DarkStab_Description"
 msgid ""
 "These projectiles have a small pocket of poison attached to their tip, so "
 "that they will deal the effect of poison on a successful hit. These "
 "particular arrows use Dark Stab."
-msgstr ""
+msgstr "이 발사체 끝에는 작은 독 주머니가 붙어 있어, 명중 시 독 효과를 줍니다. 이 독화살은 암흑 찌르기를 사용합니다."
 
 msgctxt "Poisoned_Arrow_DeepPain_Description"
 msgid ""
 "These projectiles have a small pocket of poison attached to their tip, so "
 "that they will deal the effect of poison on a successful hit. These "
 "particular arrows use Deep Pain."
-msgstr ""
+msgstr "이 발사체 끝에는 작은 독 주머니가 붙어 있어, 명중 시 독 효과를 줍니다. 이 독화살은 심연의 고통을 사용합니다."
 
 msgctxt "Poisoned_Arrow_SpiderQueenBlood_Description"
 msgid ""
 "These projectiles have a small pocket of poison attached to their tip, so "
 "that they will deal the effect of poison on a successful hit. These "
 "particular arrows use Spider Queen's Blood."
-msgstr ""
+msgstr "이 발사체 끝에는 작은 독 주머니가 붙어 있어, 명중 시 독 효과를 줍니다. 이 독화살은 거미 여왕의 피를 사용합니다."
 
+#, fuzzy
 msgctxt "Poisoned_Arrow_TheBurden_Title"
 msgid ""
 "These projectiles have a small pocket of poison attached to their tip, so "
 "that they will deal the effect of poison on a successful hit. These "
 "particular arrows use The Burden."
-msgstr ""
+msgstr "이 발사체 끝에는 작은 독 주머니가 붙어 있어, 명중 시 독 효과를 줍니다. 이 독화살은 짐덩어리를 사용합니다."
 
 msgctxt "Poisoned_Arrow_TigerFang_Description"
 msgid ""
 "These projectiles have a small pocket of poison attached to their tip, so "
 "that they will deal the effect of poison on a successful hit. These "
 "particular arrows use Tiger Fang."
-msgstr ""
+msgstr "이 발사체 끝에는 작은 독 주머니가 붙어 있어, 명중 시 독 효과를 줍니다. 이 독화살은 호랑이 송곳니를 사용합니다."
 
+#, fuzzy
 msgctxt "Poisoned_Arrow_TheLongNight_Title"
 msgid ""
 "These projectiles have a small pocket of poison attached to their tip, so "
 "that they will deal the effect of poison on a successful hit. These "
 "particular arrows use The Long Night."
-msgstr ""
+msgstr "이 발사체 끝에는 작은 독 주머니가 붙어 있어, 명중 시 독 효과를 줍니다. 이 독화살은 긴 밤을 사용합니다."
 
 msgctxt "Poisoned_Arrow_Basic_Title"
 msgid ""
 "These projectiles have a small pocket of poison attached to their tip, so "
 "that they will deal the effect of poison on a successful hit. These "
 "particular arrows use basic poison."
-msgstr ""
+msgstr "이 발사체 끝에는 작은 독 주머니가 붙어 있어, 명중 시 독 효과를 줍니다. 이 독화살은 기초 독을 사용합니다."
 
 msgctxt "Poisoned_Arrow_BrimstoneFang_Title"
 msgid ""
 "These projectiles have a small pocket of poison attached to their tip, so "
 "that they will deal the effect of poison on a successful hit. These "
 "particular arrows use Brimstone Fang."
-msgstr ""
+msgstr "이 발사체 끝에는 작은 독 주머니가 붙어 있어, 명중 시 독 효과를 줍니다. 이 독화살은 유황 송곳니를 사용합니다."
 
 msgctxt "Poisoned_Bolt_Title"
 msgid "Poisoned Bolt"
@@ -6991,7 +7053,7 @@ msgid ""
 "These projectiles have a small pocket of poison attached to their tip, so "
 "they will deal the effect of poison on a successful hit. These particular "
 "arrows use Arivad's Kiss."
-msgstr ""
+msgstr "이 발사체 끝에는 작은 독 주머니가 붙어 있어, 명중 시 독 효과를 줍니다. 이 독화살은 아리바드의 키스를 사용합니다."
 
 msgctxt "Poisoned_Arrow_CraftingRecipe_Title"
 msgid "Craft 5 Poisonous Arrows"
@@ -7006,7 +7068,7 @@ msgid ""
 "These projectiles have a small pocket of poison attached to their tip, so "
 "that they will deal the effect of poison on a successful hit. These "
 "particular arrows use Ghoul's Caress."
-msgstr ""
+msgstr "이 발사체 끝에는 작은 독 주머니가 붙어 있어, 명중 시 독 효과를 줍니다. 이 독화살은 구울의 손길을 사용합니다."
 
 msgctxt "Coparann_Lightfiller_Document_Title"
 msgid "Dusty Old Book"
@@ -7084,11 +7146,11 @@ msgstr "투사체 부품"
 msgctxt "BoltStuff_Description"
 msgid ""
 "A pack of heads and tails to make bolts or arrows from using smith's tools."
-msgstr "대장장이의 도구를 사용하여 볼트나 화살을 만드는 데 쓸 수 있는 화살촉과 깃입니다."
+msgstr "대장장이의 도구를 사용하여 볼트나 화살을 만드는 데 쓸 수 있는 화살촉과 깃 꾸러미입니다."
 
 msgctxt "BoltStuff_Recipe_Title"
 msgid "Craft 20 Crossbow Bolts"
-msgstr "석궁 볼트 20개를 제작합니다"
+msgstr "크로스보우 볼트 20개를 제작합니다"
 
 msgctxt "ArrowStuff_Recipe_Title"
 msgid "Craft 20 Arrows"
@@ -7336,9 +7398,9 @@ msgid ""
 "enduring love and respect for my mentor, Adrasteia the Prudent Shield, "
 "Master of the Arcaneum."
 msgstr ""
-"방금 명령을 받게 되었습니다! 저는 사모하는 아드라스테이아를 섬기는 일을 뒤로하고 외곽 지방으로 향할 것입니다! 스펠블레이드를 위한 "
-"새로운 마법 학교가 창설되었고, 전 수년간의 충실한 섬김의 노고를 인정받아 그곳의 교장으로 보내졌습니다. 이 단검을 제 멘토이자, "
-"아케니움의 주인인 신중한 수호자 아드레스테이아에 대한 변함없는 사랑과 존경의 증표로 남깁니다."
+"방금 명령을 받았습니다! 저는 사모하는 아드라스테이아를 섬기는 일을 뒤로하고 외곽 지방으로 향할 것입니다! 스펠블레이드를 위한 새로운 "
+"마법 학교가 창설되었고, 전 수년간의 충실한 섬김의 노고를 인정받아 그곳의 교장으로 파견되었습니다. 이 단검을 제 멘토이자, 아케니움의 "
+"주인인 신중한 수호자 아드레스테이아에 대한 변함없는 사랑과 존경의 증표로 남깁니다."
 
 msgctxt "MagisterTooth_Title"
 msgid "Dragon Tooth"
@@ -7370,7 +7432,7 @@ msgstr "미사이에의 사제들은 그런 주사위를 이용하여 큰 효과
 
 msgctxt "PickupQuest_Item_MagisterAmulet_Title"
 msgid "The Magister's Amulet"
-msgstr ""
+msgstr "마지스터의 목걸이"
 
 msgctxt "PickupQuest_Item_MagisterAmulet_Description"
 msgid ""
@@ -7411,13 +7473,15 @@ msgctxt "ScrollFlyTitle"
 msgid "Scroll of Fly"
 msgstr "비행 두루마리"
 
+#, fuzzy
 msgctxt "ScrollSleetStormDescription"
 msgid "When you use this scroll, you cast the Sleet Storm spell."
-msgstr ""
+msgstr "이 두루마리를 사용하면 우박 폭풍 주문을 시전합니다."
 
+#, fuzzy
 msgctxt "ScrollSleetStormTitle"
 msgid "Scroll of Sleet Storm"
-msgstr ""
+msgstr "우박 폭풍 두루마리"
 
 msgctxt "ScrollSlowDescription"
 msgid "When you use this scroll, you cast the Slow spell."
@@ -7457,29 +7521,33 @@ msgctxt "ScrollTonguesTitle"
 msgid "Scroll of Tongues"
 msgstr "통역 주문"
 
+#, fuzzy
 msgctxt "ScrollMassHealingWordDescription"
 msgid "When you use this scroll, you cast the Mass Healing Word spell."
-msgstr ""
+msgstr "이 두루마리를 사용하면 대규모 치유의 언령 주문을 시전합니다."
 
+#, fuzzy
 msgctxt "ScrollMassHealingWordTitle"
 msgid "Scroll of Mass Healing Word"
-msgstr ""
+msgstr "대규모 치유의 언령 두루마리"
 
 msgctxt "DaggerPlus2TypeTitle"
 msgid "Dagger +2"
 msgstr "대거 +2"
 
+#, fuzzy
 msgctxt "DaggerPlus2TypeDescription"
 msgid "TBC lore"
-msgstr ""
+msgstr "알수 없는 지식"
 
 msgctxt "ShortbowPlus2TypeTitle"
 msgid "Shortbow +2"
 msgstr "숏보우 +2"
 
+#, fuzzy
 msgctxt "ShortbowPlus2TypeDescription"
 msgid "TBC lore"
-msgstr ""
+msgstr "알수 없는 지식"
 
 msgctxt "Longbow_plus_1_Unidentified_Title"
 msgid "Magnificent Longbow"
@@ -7487,23 +7555,25 @@ msgstr "화려한 롱보우"
 
 msgctxt "Longbow_plus_1_Unidentified_Description"
 msgid "A finely crafted longbow with engravings and runes. Probably magical."
-msgstr ""
+msgstr "조각과 룬이 새겨진 정교하게 제작된 롱보우입니다. 아마 마법이 깃들어 있을 것입니다."
 
 msgctxt "LongbowPlus1TypeTitle"
 msgid "Longbow +1"
 msgstr "롱보우 +1"
 
+#, fuzzy
 msgctxt "LongbowPlus1TypeDescription"
 msgid "TBC lore"
-msgstr ""
+msgstr "알수 없는 지식"
 
 msgctxt "Morningstar_plus_2_Title"
 msgid "Morningstar +2"
 msgstr "모닝스타 +2"
 
+#, fuzzy
 msgctxt "Morningstar_plus_2_Description"
 msgid "TBC lore"
-msgstr ""
+msgstr "알수 없는 지식"
 
 msgctxt "Tirmarian_GreataxeTypeDescription"
 msgid ""
@@ -7525,9 +7595,10 @@ msgctxt "Warhammer_plus_1_Title"
 msgid "Warhammer +1"
 msgstr "워해머 +1"
 
+#, fuzzy
 msgctxt "Warhammer_plus_1_Description"
 msgid "TBC"
-msgstr ""
+msgstr "알 수 없음"
 
 msgctxt "Warhammer_plus_1_unidentified_Title"
 msgid "Superb Warhammer"
@@ -7537,15 +7608,17 @@ msgctxt "Warhammer_plus_1_unidentified_Description"
 msgid "A well-balanced and extremely sturdy warhammer."
 msgstr "균형이 잘 잡히고 매우 튼튼한 워해머입니다."
 
+#, fuzzy
 msgctxt "HelmLanguages_Title"
 msgid "Helm of Comprehending Languages"
-msgstr ""
+msgstr "언어 변환의 헬름"
 
+#, fuzzy
 msgctxt "HelmLanguages_Description"
 msgid ""
 "Allows you to cast the Tongues spell at will, and to decipher and speak all "
 "languages."
-msgstr ""
+msgstr "모든 언어를 이해하고 말할 수 있게 되는 통역 주문을 시전할 수 있게 해줍니다."
 
 msgctxt "HelmLanguages_Unidentified_Title"
 msgid "Beautiful Helm"
@@ -7574,27 +7647,32 @@ msgid ""
 msgstr ""
 "당신이 이 무기를 휘두르는 동안 당신의 근력 수치는 19입니다. 당신의 근력 수치가 이미 19 이상이면 아무런 영향을 미치지 않습니다."
 
+#, fuzzy
 msgctxt "Enchanted_ScaleArmor_Of_Robustness_Title"
 msgid "Scale Armor of Robustness"
-msgstr ""
+msgstr "강인함의 스케일 메일"
 
+#, fuzzy
 msgctxt "Enchanted_ScaleArmor_Of_Robustness_Description"
 msgid "Lore TBD"
-msgstr ""
+msgstr "알수 없는 지식"
 
 msgctxt "GreenmageArmor_Title"
 msgid "Sylvan Armor"
 msgstr "실반 갑옷"
 
+#, fuzzy
 msgctxt "GreenmageArmor_Description"
 msgid ""
 "Eirollimon Apasseich helped design this armor to support his students in "
 "their endeavors as Greenmages protecting the borders of Colthannin."
 msgstr ""
+"에롤리먼 애파슈츠는 그의 학생들이 콜사닌의 국경을 방어하는 그린메이지로서 임무를 수행하는 것을 지원하기 위해 이 갑옷을 설계했습니다."
 
+#, fuzzy
 msgctxt "ClothOfTheLightbringers_Title"
 msgid "Cloth of the Lightbringers"
-msgstr ""
+msgstr "광휘의 수호자의 옷"
 
 msgctxt "ClothOfTheLightbringers_Description"
 msgid ""
@@ -7622,9 +7700,10 @@ msgid ""
 "lighter than it appears."
 msgstr "이 체인 메일은 엘프의 방식으로 화려하게 장식되어 있으며, 보기보다 훨씬 가볍습니다."
 
+#, fuzzy
 msgctxt "AdamantinePlate_Title"
 msgid "Adamantine Plate Armor"
-msgstr ""
+msgstr "아다만틴 플레이트 아머"
 
 msgctxt "AdamantinePlate_Description"
 msgid ""
@@ -7674,7 +7753,7 @@ msgstr ""
 
 msgctxt "AlchemistFire_Title"
 msgid "Alchemist Fire"
-msgstr ""
+msgstr "연금술사의 불"
 
 msgctxt "AlchemistFire_Description"
 msgid "An explosive compound you can toss to set an enemy on fire."
@@ -7682,7 +7761,7 @@ msgstr "적에게 불을 붙이기 위해 던질 수 있는 폭발성 화합물�
 
 msgctxt "LavaBlast_Title"
 msgid "Lava Blast"
-msgstr ""
+msgstr "용암 폭발"
 
 msgctxt "LavaBlast_Description"
 msgid "A powerful explosive compound you can toss to set an enemy on fire."
@@ -7690,7 +7769,7 @@ msgstr "적에게 불을 붙이기 위해 던질 수 있는 강력한 폭발물�
 
 msgctxt "AcidVial_Title"
 msgid "Acid Vial"
-msgstr ""
+msgstr "산성 유리병"
 
 msgctxt "AcidVial_Description"
 msgid "An explosive compound you can toss to burn an enemy with acid."
@@ -7755,6 +7834,8 @@ msgid ""
 "the acacia tree that was used to carve it, and that it has the power to "
 "shield its holder from thunderstorms and other natural disasters."
 msgstr ""
+"메티스의 지팡이를 장식하고 있는 사파이어는 그것을 조각하는 데 사용된 아카시아 나무에서 발견되었으며, 천둥번개를 비롯한 자연재해로부터 "
+"사용자를 보호하는 힘이 있다고 합니다."
 
 msgctxt "StaffOfMetis_Title"
 msgid "Staff of Metis"
@@ -7766,9 +7847,10 @@ msgid ""
 "often used to enhance strength. "
 msgstr "마법으로 보존된 미노타우로스의 피에 씻겨진 루비는 블러드 루비가 되어 종종 힘을 강화하는 데 사용됩니다. "
 
+#, fuzzy
 msgctxt "Armor_DwarvenPlate_Title"
 msgid "Dwarven Plate"
-msgstr ""
+msgstr "드워프 플레이트"
 
 msgctxt "Armor_DwarvenPlate_Description"
 msgid ""
@@ -7780,11 +7862,12 @@ msgctxt "ImperialPrisonKey_PickupQuest_GhostsOfTheEmpire_Title"
 msgid "Imperial Prison Key"
 msgstr "제국 감옥 열쇠"
 
+#, fuzzy
 msgctxt "ImperialPrisonKey_PickupQuest_GhostsOfTheEmpire_Description"
 msgid ""
 "This was given to you to access the depths of the Imperial prison to recover "
 "an item."
-msgstr ""
+msgstr "이것은 아이템 회수를 위해 당신이 제국 감옥의 깊숙한 곳에 접근할 수 있게 해줍니다."
 
 #, fuzzy
 msgctxt "ScrollCloudKillTitle"
@@ -7822,21 +7905,25 @@ msgctxt "ScrollContagionDescription"
 msgid "When you use this scroll, you cast the spell Contagion."
 msgstr "이 두루마리를 사용하면 감염 주문을 시전합니다."
 
+#, fuzzy
 msgctxt "ScrollDominatePersonTitle"
 msgid "Scroll of Dominate Person"
-msgstr "정신 지배 두루마리"
+msgstr "인간 정신 지배 두루마리"
 
+#, fuzzy
 msgctxt "ScrollDominatePersonDescription"
 msgid "When you use this scroll, you cast the spell Dominate Person."
-msgstr "이 두루마리를 사용하면 정신 지배 주문을 시전합니다."
+msgstr "이 두루마리를 사용하면 인간 정신 지배 주문을 시전합니다."
 
+#, fuzzy
 msgctxt "ScrollDispelEvilAndGoodTitle"
 msgid "Scroll of Dispel Evil and Good"
-msgstr ""
+msgstr "선과 악 무효화 두루마리"
 
+#, fuzzy
 msgctxt "ScrollDispelEvilAndGoodDescription"
 msgid "When you use this scroll, you cast the spell Dispel Evil and Good."
-msgstr ""
+msgstr "이 두루마리를 사용하면 선과 악 무효화 주문을 시전합니다."
 
 msgctxt "ScrollFlameStrikeTitle"
 msgid "Scroll of Flame Strike"
@@ -7866,11 +7953,11 @@ msgstr "이 두루마리를 사용하면 몬스터 속박 주문을 시전합니
 
 msgctxt "ScrollInsectPlagueTitle"
 msgid "Scroll of Insect Plague"
-msgstr ""
+msgstr "곤충 역병 두루마리"
 
 msgctxt "ScrollInsectPlagueDescription"
 msgid "When you use this scroll, you cast the spell Insect Plague."
-msgstr ""
+msgstr "이 두루마리를 사용하면 곤충 역병 주문을 시전합니다."
 
 msgctxt "ScrollMassCureWoundsTitle"
 msgid "Scroll of Mass Cure Wounds"
@@ -7898,11 +7985,11 @@ msgstr "이 두루마리를 사용하면 추방 주문을 시전합니다."
 
 msgctxt "ScrollBlackTentaclesTitle"
 msgid "Scroll of Black Tentacles"
-msgstr ""
+msgstr "검은 촉수 두루마리"
 
 msgctxt "ScrollBlackTentaclesDescription"
 msgid "When you use this scroll, you cast the spell Black Tentacles."
-msgstr ""
+msgstr "이 두루마리를 사용하면 검은 촉수 주문을 시전합니다."
 
 msgctxt "ScrollBlightTitle"
 msgid "Scroll of Blight"
@@ -7922,11 +8009,11 @@ msgstr "이 두루마리를 사용하면 혼란 주문을 시전합니다."
 
 msgctxt "ScrollDeathwardTitle"
 msgid "Scroll of Deathward"
-msgstr ""
+msgstr "죽음 방호 두루마리"
 
 msgctxt "ScrollDeathwardDescription"
 msgid "When you use this scroll, you cast the spell Deathward."
-msgstr ""
+msgstr "이 두루마리를 사용하면 죽음 방호 주문을 시전합니다."
 
 msgctxt "ScrollDimensionDoorTitle"
 msgid "Scroll of Dimension Door"
@@ -7960,13 +8047,15 @@ msgctxt "ScrollGreaterInvisibilityDescription"
 msgid "When you use this scroll, you cast the spell Greater Invisibility."
 msgstr "이 두루마리를 사용하면 상급 투명화 주문을 시전합니다."
 
+#, fuzzy
 msgctxt "ScrollGuardianOfFaithTitle"
 msgid "Scroll of Guardian of Faith"
-msgstr ""
+msgstr "신앙의 수호자 두루마리"
 
+#, fuzzy
 msgctxt "ScrollGuardianOfFaithDescription"
 msgid "When you use this scroll, you cast the spell Guardian of Faith."
-msgstr ""
+msgstr "이 두루마리를 사용하면 신앙의 수호자 주문을 시전합니다."
 
 msgctxt "ScrollIceStormTitle"
 msgid "Scroll of Ice Storm"
@@ -7978,11 +8067,12 @@ msgstr "이 두루마리를 사용하면 얼음 폭풍 주문을 시전합니다
 
 msgctxt "ScrollPhantasmalKillerTitle"
 msgid "Scroll of Phantasmal Killer"
-msgstr ""
+msgstr "판타즈멀 킬러 두루마리"
 
+#, fuzzy
 msgctxt "ScrollPhantasmalKillerDescription"
 msgid "When you use this scroll, you cast the spell Phantasmal Killer."
-msgstr ""
+msgstr "이 두루마리를 사용하면 판타즈멀 킬러 주문을 시전합니다."
 
 #, fuzzy
 msgctxt "ScrollStoneskinTitle"
@@ -8002,13 +8092,15 @@ msgctxt "ScrollWallOfFireDescription"
 msgid "When you use this scroll, you cast the spell Wall of Fire."
 msgstr "이 두루마리를 사용하면 화염 장벽 주문을 시전합니다."
 
+#, fuzzy
 msgctxt "ScrollPassWithoutTraceTitle"
 msgid "Scroll of Pass Without Trace"
-msgstr ""
+msgstr "흔적 없는 통과 두루마리"
 
+#, fuzzy
 msgctxt "ScrollPassWithoutTraceDescription"
 msgid "When you use this scroll, you cast the spell Pass Without Trace."
-msgstr ""
+msgstr "이 두루마리를 사용하면 흔적 없는 통과 주문을 시전합니다."
 
 msgctxt "ScrollFreedomOfMovementTitle"
 msgid "Scroll of Freedom of Movement"
@@ -8018,13 +8110,15 @@ msgctxt "ScrollFreedomOfMovementDescription"
 msgid "When you use this scroll, you cast the spell Freedom of Movement."
 msgstr "이 두루마리를 사용하면 이동의 자유 주문을 시전합니다."
 
+#, fuzzy
 msgctxt "ScrollCommandTitle"
 msgid "Scroll of Command"
-msgstr ""
+msgstr "명령 두루마리"
 
+#, fuzzy
 msgctxt "ScrollCommandDescription"
 msgid "When you use this scroll, you cast the spell Command."
-msgstr ""
+msgstr "이 두루마리를 사용하면 명령 주문을 시전합니다."
 
 msgctxt "ScrollConjureMinorElementalsTitle"
 msgid "Scroll of Conjure Minor Elementals"
@@ -8034,29 +8128,33 @@ msgctxt "ScrollConjureMinorElementalsDescription"
 msgid "When you use this scroll, you cast the spell Conjure Minor Elementals."
 msgstr "이 두루마리를 사용하면 하급 정령 소환 주문을 시전합니다."
 
+#, fuzzy
 msgctxt "ScrollEntangleTitle"
 msgid "Scroll of Entangle"
-msgstr ""
+msgstr "얽힘 두루마리"
 
+#, fuzzy
 msgctxt "ScrollEntangleDescription"
 msgid "When you use this scroll, you cast the spell Entangle."
-msgstr ""
+msgstr "이 두루마리를 사용하면 얽힘 주문을 시전합니다."
 
+#, fuzzy
 msgctxt "Breastplate_Unidentified_Title"
 msgid "Magnificent Breastplate"
-msgstr ""
+msgstr "화려한 흉갑"
 
 msgctxt "Breastplate_Unidentified_Description"
 msgid "A nicely decorated breastplate with runic engravings."
-msgstr ""
+msgstr "룬이 새겨지고 멋지게 장식된 흉갑입니다."
 
+#, fuzzy
 msgctxt "Breastplate_plus_one_Title"
 msgid "Breastplate +1"
-msgstr ""
+msgstr "흉갑 +1"
 
 msgctxt "Breastplate_plus_one_Description"
 msgid "This armor was forged by Ildurial for the Emperor's personal guard."
-msgstr ""
+msgstr "이 갑옷은 일두리알이 황제의 호위병을 위해 제작한 것입니다."
 
 msgctxt "ScrollCounterspellTitle"
 msgid "Scroll of Counterspell"
@@ -8082,21 +8180,25 @@ msgctxt "ScrollFearDescription"
 msgid "When you use this scroll, you cast the spell Fear."
 msgstr "이 두루마리를 사용하면 공포 주문을 시전합니다."
 
+#, fuzzy
 msgctxt "ScrollHypnoticPatternTitle"
 msgid "Scroll of Hypnotic Pattern"
-msgstr ""
+msgstr "최면의 문양 두루마리"
 
+#, fuzzy
 msgctxt "ScrollHypnoticPatternDescription"
 msgid "When you use this scroll, you cast the spell Hypnotic Pattern."
-msgstr ""
+msgstr "이 두루마리를 사용하면 최면의 문양 주문을 시전합니다."
 
+#, fuzzy
 msgctxt "ScrollProtectionFromEnergyTitle"
 msgid "Scroll of Protection from Energy"
-msgstr ""
+msgstr "에너지로부터의 보호 두루마리"
 
+#, fuzzy
 msgctxt "ScrollProtectionFromEnergyDescription"
 msgid "When you use this scroll, you cast the spell Protection from Energy."
-msgstr ""
+msgstr "이 두루마리를 사용하면 에너지로부터의 보호 주문을 시전합니다."
 
 msgctxt "ScrollRemoveCurseTitle"
 msgid "Scroll of Remove Curse"
@@ -8124,11 +8226,11 @@ msgstr "이 두루마리를 사용하면 실명 주문을 시전합니다."
 
 msgctxt "ScrollBlurTitle"
 msgid "Scroll of Blur"
-msgstr ""
+msgstr "흐려짐 두루마리"
 
 msgctxt "ScrollBlurDescription"
 msgid "When you use this scroll, you cast the spell Blur."
-msgstr ""
+msgstr "이 두루마리를 사용하면 흐려짐 주문을 시전합니다."
 
 msgctxt "ScrollDarknessTitle"
 msgid "Scroll of Darkness"
@@ -8180,29 +8282,35 @@ msgctxt "ScrollInvisibilityDescription"
 msgid "When you use this scroll, you cast the spell Invisibility."
 msgstr "이 두루마리를 사용하면 투명화 주문을 시전합니다."
 
+#, fuzzy
 msgctxt "ScrollKnockTitle"
 msgid "Scroll of Knock"
-msgstr ""
+msgstr "잠금해제 두루마리"
 
+#, fuzzy
 msgctxt "ScrollKnockDescription"
 msgid "When you use this scroll, you cast the spell Knock."
-msgstr ""
+msgstr "이 두루마리를 사용하면 잠금해제 주문을 시전합니다."
 
+#, fuzzy
 msgctxt "ScrollLevitateTitle"
 msgid "Scroll of Levitate"
-msgstr ""
+msgstr "공중부양 두루마리"
 
+#, fuzzy
 msgctxt "ScrollLevitateDescription"
 msgid "When you use this scroll, you cast the spell Levitate."
-msgstr ""
+msgstr "이 두루마리를 사용하면 공중부양 주문을 시전합니다."
 
+#, fuzzy
 msgctxt "ScrollMagicWeaponTitle"
 msgid "Scroll of Magic Weapon"
-msgstr ""
+msgstr "마법무기화 두루마리"
 
+#, fuzzy
 msgctxt "ScrollMagicWeaponDescription"
 msgid "When you use this scroll, you cast the spell Magic Weapon."
-msgstr ""
+msgstr "이 두루마리를 사용하면 마법무기화 주문을 시전합니다."
 
 #, fuzzy
 msgctxt "ScrollMirrorImageTitle"
@@ -8296,23 +8404,21 @@ msgctxt "ScrollAnimalFriendshipDescription"
 msgid "When you use this scroll, you cast the spell Animal Friendship."
 msgstr "이 두루마리를 사용하면 동물의 우정 주문을 시전합니다."
 
-#, fuzzy
 msgctxt "ScrollCharmPersonTitle"
 msgid "Scroll of Charm Person"
 msgstr "매혹 두루마리"
 
-#, fuzzy
 msgctxt "ScrollCharmPersonDescription"
 msgid "When you use this scroll, you cast the spell Charm Person."
 msgstr "이 두루마리를 사용하면 매혹 주문을 시전합니다."
 
 msgctxt "ScrollComprehendLanguagesTitle"
 msgid "Scroll of Comprehend Languages"
-msgstr ""
+msgstr "언어 변환 두루마리"
 
 msgctxt "ScrollComprehendLanguagesDescription"
 msgid "When you use this scroll, you cast the spell Comprehend Languages."
-msgstr ""
+msgstr "이 두루마리를 사용하면 언어 변환 주문을 시전합니다."
 
 msgctxt "ScrollDetectEvilAndGoodTitle"
 msgid "Scroll of Detect Evil and Good"
@@ -8351,36 +8457,42 @@ msgstr "이 두루마리를 사용하면 요정의 빛 주문을 시전합니다
 #, fuzzy
 msgctxt "ScrollFeatherFallTitle"
 msgid "Scroll of Feather Fall"
-msgstr "깃털의 하강 두루마리"
+msgstr "깃털같은 낙하 두루마리"
 
 #, fuzzy
 msgctxt "ScrollFeatherFallDescription"
 msgid "When you use this scroll, you cast the spell Feather Fall."
-msgstr "이 두루마리를 사용하면 깃털의 하강 주문을 시전합니다."
+msgstr "이 두루마리를 사용하면 깃털같은 낙하 주문을 시전합니다."
 
+#, fuzzy
 msgctxt "ScrollInflictWoundsTitle"
 msgid "Scroll of Inflict Wounds"
-msgstr ""
+msgstr "상처 가해 두루마리"
 
+#, fuzzy
 msgctxt "ScrollInflictWoundsDescription"
 msgid "When you use this scroll, you cast the spell Inflict Wounds."
-msgstr ""
+msgstr "이 두루마리를 사용하면 상처 가해 주문을 시전합니다."
 
+#, fuzzy
 msgctxt "ScrollShieldTitle"
 msgid "Scroll of Shield"
-msgstr ""
+msgstr "방패 두루마리"
 
+#, fuzzy
 msgctxt "ScrollShieldDescription"
 msgid "When you use this scroll, you cast the spell Shield."
-msgstr ""
+msgstr "이 두루마리를 사용하면 방패 주문을 시전합니다."
 
+#, fuzzy
 msgctxt "LeatherArmorPlus+2_Title"
 msgid "Leather Armor +2"
-msgstr ""
+msgstr "가죽 갑옷 +2"
 
+#, fuzzy
 msgctxt "ChainmailPlus1_Unidentified_Title"
 msgid "Magnificent Chainmail"
-msgstr ""
+msgstr "화려한 체인메일"
 
 msgctxt "ChainmailPlus1_Unidentified_Description"
 msgid ""
@@ -8390,103 +8502,104 @@ msgstr "정교하게 제작된 이 체인메일은 가볍고 매우 견고하며
 
 msgctxt "Poison_BrimstoneFangPoisonedArrow_Title"
 msgid "Brimstone Fang Poisoned Arrow"
-msgstr ""
+msgstr "유황 독니 독화살"
 
 msgctxt "Poison_BrimstoneFangPoisonedBolt_Title"
 msgid "Brimstone Fang Poisoned Bolt"
-msgstr ""
+msgstr "유황 송곳니 독 볼트"
 
 msgctxt "Poison_TigerFangPoisonedArrow_Title"
 msgid "Tiger Fang Poisoned Arrow"
-msgstr ""
+msgstr "호랑이 송곳니 독화살"
 
 msgctxt "Poison_TigerFangPoisonedBolt_Title"
 msgid "Tiger Fang Poisoned Bolt"
-msgstr ""
+msgstr "호랑이 송곳니 독 볼트"
 
 msgctxt "Poison_DarkStabPoisonedArrow_Title"
 msgid "Dark Stab Poisoned Arrow"
-msgstr ""
+msgstr "암흑 찌르기 독화살"
 
 msgctxt "Poison_DarkStabPoisonedBolt_Title"
 msgid "Dark Stab Poisoned Bolt"
-msgstr ""
+msgstr "암흑 찌르기 독 볼트"
 
 msgctxt "Poison_DeepPainPoisonedArrow_Title"
 msgid "Deep Pain Poisoned Arrow"
-msgstr ""
+msgstr "심연의 고통 독화살"
 
 msgctxt "Poison_DeepPainPoisonedBolt_Title"
 msgid "Deep Pain Poisoned Bolt"
-msgstr ""
+msgstr "심연의 고통 독 볼트"
 
 msgctxt "Poison_ArivadsKissPoisonedArrow_Title"
 msgid "Arivad's Kiss Poisoned Arrow"
-msgstr ""
+msgstr "아리바드의 키스 독화살"
 
 msgctxt "Poison_ArivadsKissPoisonedBolt_Title"
 msgid "Arivad's Kiss Poisoned Bolt"
-msgstr ""
+msgstr "아리바드의 키스 독 볼트"
 
 msgctxt "Poison_ArunsLightPoisonedArrow_Title"
 msgid "Arun's Light Poisoned Arrow"
-msgstr ""
+msgstr "아룬의 빛 독 화살"
 
 msgctxt "Poison_ArunsLightPoisonedBolt_Title"
 msgid "Arun's Light Poisoned Bolt"
-msgstr ""
+msgstr "아룬의 빛 독 볼트"
 
 msgctxt "Poison_TheLongNightPoisonedArrow_Title"
 msgid "Long Night Poisoned Arrow"
-msgstr ""
+msgstr "긴 밤 독 화살"
 
 msgctxt "Poison_TheLongNightPoisonedBolt_Title"
 msgid "Long Night Poisoned Bolt"
-msgstr ""
+msgstr "긴 밤 독 볼트"
 
 msgctxt "Poison_TheBurdenPoisonedArrow_Title"
 msgid "Burden Poisoned Arrow"
-msgstr ""
+msgstr "짐덩어리 독 화살"
 
+#, fuzzy
 msgctxt "Poison_TheBurdenPoisonedBolt_Title"
 msgid "Burden Poisoned Bolt"
-msgstr ""
+msgstr "짐덩어리 독 볼트"
 
 msgctxt "Poison_GhoulsCaressPoisonedArrow_Title"
 msgid "Ghoul's Caress Poisoned Arrow"
-msgstr ""
+msgstr "구울의 손길 독화살"
 
 msgctxt "Poison_GhoulsCaressPoisonedBolt_Title"
 msgid "Ghoul's Caress Poisoned Bolt"
-msgstr ""
+msgstr "구울의 손길 독 볼트"
 
 msgctxt "Poison_MaraikesTorpor_Arrow_Title"
 msgid "Torpor Poisoned Arrow"
-msgstr ""
+msgstr "마비독 화살"
 
 msgctxt "Poison_MaraikesTorpor_Bolt_Title"
 msgid "Torpor Poisoned Bolt"
-msgstr ""
+msgstr "마비독 볼트"
 
 msgctxt "Poison_Basic_Arrow_Title"
 msgid "Basic Poisoned Arrow"
-msgstr ""
+msgstr "기초 독 화살"
 
 msgctxt "Poison_Basic_Bolt_Title"
 msgid "Basic Poisoned Bolt"
-msgstr ""
+msgstr "기초 독 볼트"
 
 msgctxt "Poison_Queen_Arrow_Title"
 msgid "Queen's Blood Poisoned Arrow"
-msgstr ""
+msgstr "여왕의 피 독화살"
 
 msgctxt "Poison_Queen_Bolt_Title"
 msgid "Queen's Blood Poisoned Bolt"
-msgstr ""
+msgstr "여왕의 피 독 볼트"
 
 msgctxt "CraftingManual_x5_Title"
 msgid "Crafting 5 x {0}"
-msgstr ""
+msgstr "{0} 5개 제작"
 
 msgctxt "ClothLightbringers_unidentified_Title"
 msgid "Tirmarian Outfit"
@@ -8504,11 +8617,14 @@ msgctxt "Halman_Document_Description"
 msgid "This document uses a cipher to conceal its content."
 msgstr "이 문서의 내용은 암호화를 통해 숨겨져 있습니다."
 
+#, fuzzy
 msgctxt "Halman_Document_Content"
 msgid ""
 "Everything is going according to plan. Now, drive these adventurers far away "
 "from the city. Tell them you heard of a coven in Earcorn. Power to the One!"
 msgstr ""
+"모든 것이 계획대로 진행되고 있습니다. 이제 이 모험가들을 도시에서 멀리 몰아내십시오. 그들에게 당신이 이어콘의 집회에 대해 들은 것을 "
+"전해 주십시오. 그 분께 힘을!"
 
 msgctxt "Halman_Document_ConspirationTitle"
 msgid "List of Prospects"
@@ -8543,9 +8659,10 @@ msgid ""
 "but scholars might find it interesting enough."
 msgstr "이 장식은 마나칼론 군기의 일부분이었습니다. 상태가 좋지 않지만, 학자들에게는 굉장히 흥미로울 것입니다."
 
+#, fuzzy
 msgctxt "PickupQuest_Item_Cypher_Title"
 msgid "Silent Whisper Cipher Disk"
-msgstr ""
+msgstr "고요한 속삭임의 암호판"
 
 msgctxt "PickupQuest_Item_Cypher_Description"
 msgid ""
@@ -8558,55 +8675,55 @@ msgstr ""
 
 msgctxt "Flaming_Arrow_Title"
 msgid "Flaming Arrow"
-msgstr ""
+msgstr "불화살"
 
 msgctxt "Corrosive_Arrow_Title"
 msgid "Corrosive Arrow"
-msgstr ""
+msgstr "부식 화살"
 
 msgctxt "Flash_Arrow_Title"
 msgid "Flash Arrow"
-msgstr ""
+msgstr "섬광 화살"
 
 msgctxt "Flaming_Bolt_Title"
 msgid "Flaming Bolt"
-msgstr ""
+msgstr "화염 볼트"
 
 msgctxt "Corrosive_Bolt_Title"
 msgid "Corrosive Bolt"
-msgstr ""
+msgstr "부식 볼트"
 
 msgctxt "Flash_Bolt_Title"
 msgid "Flash Bolt"
-msgstr ""
+msgstr "섬광 볼트"
 
 msgctxt "AlchemicalProjectile_Description"
 msgid "This projectile uses an alchemical flask for additional damage."
-msgstr ""
+msgstr "이 발사체는 연금술 플라스크를 사용하여 추가 피해를 줍니다."
 
 msgctxt "Flaming_Arrow_CraftingRecipe_Title"
 msgid "Craft 5 Flaming Arrows"
-msgstr ""
+msgstr "불화살 5개 제작"
 
 msgctxt "Corrosive_Arrow_CraftingRecipe_Title"
 msgid "Craft 5 Corrosive Arrows"
-msgstr ""
+msgstr "부식 화살 5개 제작"
 
 msgctxt "Flash_Arrow_CraftingRecipe_Title"
 msgid "Craft 5 Flash Arrows"
-msgstr ""
+msgstr "섬광 화살 5개 제작"
 
 msgctxt "Flaming_Bolt_CraftingRecipe_Title"
 msgid "Craft 5 Flaming Bolts"
-msgstr ""
+msgstr "화염 볼트 5개 제작"
 
 msgctxt "Corrosive_Bolt_CraftingRecipe_Title"
 msgid "Craft 5 Corrosive Bolts"
-msgstr ""
+msgstr "부식 볼트 5개 제작"
 
 msgctxt "Flash_Bolt_CraftingRecipe_Title"
 msgid "Craft 5 Flash Bolts"
-msgstr ""
+msgstr "섬광 볼트 5개 제작"
 
 msgctxt "ContainerHarvestable_LavaStone_Title"
 msgid "Lava Stones"
@@ -8803,11 +8920,13 @@ msgctxt "Item_Tome_Conjuration_Title"
 msgid "Tome of All Things"
 msgstr "만물의 고서"
 
+#, fuzzy
 msgctxt "Item_Tome_Conjuration_Description"
 msgid ""
 "Incredible as it might be, carrying this book in your Utility Slot makes you "
 "all-powerful. Why would anyone leave this here?"
 msgstr ""
+"믿어지지 않겠지만 이 책을 유틸리티 슬롯에 휴대하면 당신을 모든 면에서 강력하게 만들어줍니다. 왜 누군가가 이것을 여기에 남겨 두겠습니까?"
 
 msgctxt "ElvenThinblade_plus_one_Unidentified_Title"
 msgid "Elven Shortsword"
@@ -8819,16 +8938,20 @@ msgid ""
 "smithing. It is so light and sharp that it might be magical."
 msgstr "이 훌륭하고 우아한 숏소드는 고대 마나칼론 대장장이의 걸작입니다. 너무 가볍고 날카로워서 마법이 깃들어 있는 걸지도 모릅니다."
 
+#, fuzzy
 msgctxt "ElvenThinblade_plus_one_TypeTitle"
 msgid "Elven Thinblade"
-msgstr ""
+msgstr "엘프 세검"
 
+#, fuzzy
 msgctxt "ElvenThinblade_plus_one_Description"
 msgid ""
 "These rare weapons were all crafted by the hand of Defineth Sharpsight "
 "himself. They were prized by master spies of the Silent Whisper, for they "
 "ally the qualities of finesse and light blades with unmatched sharpness."
 msgstr ""
+"이 희귀한 무기들은 모두 데피니스 샤프사이트가 직접 제작했습니다. 이 무기들은 비할 데 없는 날카로움과 기교형 경량 무기의 특성들을 모두 "
+"지녔기 때문에, 고요한 속삭임의 마스터 스파이들에게 높이 평가받았습니다."
 
 msgctxt "Shortsword_plus_two_TypeTitle"
 msgid "Shortsword +2"
@@ -8853,11 +8976,12 @@ msgctxt "Scimitar_plus_one_Title"
 msgid "Scimitar +1"
 msgstr "시미터 +1"
 
+#, fuzzy
 msgctxt "Scimitar_plus_one_Description"
 msgid ""
 "This weapon was forged on Tirmar and was the trademark of the spies of the "
 "Inquisition during the dark ages."
-msgstr ""
+msgstr "이 무기는 티르마르에서 제작되었으며, 암흑기 동안 심문단 첩자들의 트레이드마크였습니다."
 
 msgctxt "Rapier_plus_two_TypeTitle"
 msgid "Rapier +2"
@@ -9077,9 +9201,10 @@ msgstr ""
 "왕관을 빼앗긴 이래로 머리에 아무것도 얹을 수가 없습니다. 왕관이 여전히 머리 위에 있는 느낌으로, 아마도 왕관에 깃든 경이로운 마법으로 "
 "인한 감정적 부작용일 것입니다."
 
+#, fuzzy
 msgctxt "TagLightWeaponTitle"
 msgid "Light"
-msgstr ""
+msgstr "경량"
 
 msgctxt "StandardBrassKeyTitle"
 msgid "Brass Key"
@@ -9165,13 +9290,15 @@ msgctxt "DLC1_Antique_Description"
 msgid "A piece of marble of Tirmarian origin, as the damaged writings prove."
 msgstr "손상된 서각이 알려주듯이, 티르마르 산 대리석 조각입니다."
 
+#, fuzzy
 msgctxt "ScrollFreezingSphereTitle"
 msgid "Freezing Sphere"
-msgstr "빙결의 구"
+msgstr "빙결탄"
 
+#, fuzzy
 msgctxt "ScrollFreezingSphereDescription"
 msgid "When you use this scroll, you can the spell Freezing Sphere."
-msgstr "이 두루마리를 사용하면 빙결의 구를 시전합니다."
+msgstr "이 두루마리를 사용하면 빙결탄 주문을 시전합니다."
 
 msgctxt "ScrollCircleOfDeathTitle"
 msgid "Circle of death"
@@ -9232,19 +9359,21 @@ msgstr "이 두루마리를 사용하면 사안 주문을 시전합니다"
 
 msgctxt "ScrollGlobeOfInvulnerabilityTitle"
 msgid "Scroll of Globe of Invulnerability"
-msgstr ""
+msgstr "무적의 구체 두루마리"
 
 msgctxt "ScrollGlobeOfInvulnerabilityDescription"
 msgid "When you use this scroll, you cast the spell Globe of invulnerability"
-msgstr ""
+msgstr "이 두루마리를 사용하면 무적의 구체 주문을 시전합니다."
 
+#, fuzzy
 msgctxt "ScrollHarmTitle"
 msgid "Scroll of Harm"
-msgstr ""
+msgstr "해악 두루마리"
 
+#, fuzzy
 msgctxt "ScrollHarmDescription"
 msgid "When you use this scroll, you cast the spell Harm"
-msgstr ""
+msgstr "이 두루마리를 사용하면 해악 주문을 시전합니다."
 
 msgctxt "ScrollHealTitle"
 msgid "Scroll of Heal"
@@ -9252,7 +9381,7 @@ msgstr "치유 두루마리"
 
 msgctxt "ScrollHealDescription"
 msgid "When you use this scroll, you cast the spell Heal"
-msgstr "이 두루마리를 사용하면 치유 주문을 시전합니다"
+msgstr "이 두루마리를 사용하면 치유 주문을 시전합니다."
 
 msgctxt "ScrollSunbeamTitle"
 msgid "Scroll of Sunbeam"
@@ -9264,11 +9393,11 @@ msgstr "이 두루마리를 사용하면 태양광선 주문을 시전합니다"
 
 msgctxt "ScrollHeroesFeastTitle"
 msgid "Scroll of Heroes' Feast"
-msgstr "영웅의 잔치 두루마리"
+msgstr "영웅들의 향연 두루마리"
 
 msgctxt "ScrollHeroesFeastDescription"
 msgid "When you use this scroll, you cast the spell Heroes' Feast"
-msgstr "이 두루마리를 사용하면 영웅의 잔치 주문을 시전합니다"
+msgstr "이 두루마리를 사용하면 영웅들의 향연 주문을 시전합니다"
 
 msgctxt "ScrollEyeBite_Title"
 msgid "Scroll of Eyebite"
