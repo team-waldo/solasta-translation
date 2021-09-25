@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-09-21 13:43+0000\n"
-"Last-Translator: Jin <byungjinjun55@gmail.com>\n"
+"PO-Revision-Date: 2021-09-25 00:48+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/screen/ko/>"
 "\n"
 "Language: ko\n"
@@ -545,11 +545,11 @@ msgstr ""
 
 msgctxt "EncounterAvoidButtonDescription"
 msgid "Avoid the battle altogether"
-msgstr ""
+msgstr "전투를 회피합니다"
 
 msgctxt "EncounterAvoidButtonTitle"
 msgid "Hide"
-msgstr ""
+msgstr "숨기"
 
 msgctxt "EncounterCombatAwareDescription"
 msgid ""
@@ -623,7 +623,7 @@ msgstr ""
 
 msgctxt "EncounterHeroStatusSpotterTitle"
 msgid "Spotter"
-msgstr ""
+msgstr "발견함"
 
 msgctxt "EncounterHeroStatusSurprisedDescription"
 msgid "{0} is surprised and will not act during the first round of the battle."
@@ -932,7 +932,7 @@ msgstr "크리쳐 {0} / {1}"
 
 msgctxt "JournalBestiaryNoneTitle"
 msgid "None"
-msgstr ""
+msgstr "없음"
 
 msgctxt "JournalBestiaryProficienciesTitle"
 msgid "Proficiencies"
@@ -1113,9 +1113,10 @@ msgctxt "JournalTitle"
 msgid "Party Journal"
 msgstr "파티 일지"
 
+#, fuzzy
 msgctxt "JournalTravelContinuedTitle"
 msgid "Travel (continued)"
-msgstr ""
+msgstr "여행 (재개됨)"
 
 msgctxt "JournalTravelTitle"
 msgid "Travel"
@@ -1248,11 +1249,11 @@ msgctxt "LootAllDescription"
 msgid ""
 "Loots everything from this container that can fit in your inventory without "
 "increasing your encumbrance rating."
-msgstr ""
+msgstr "인벤토리의 무게 한계치를 넘지 않는 선에서 보관함의 모든 아이템을 획득합니다."
 
 msgctxt "LootAllTitle"
 msgid "Loot All"
-msgstr ""
+msgstr "모두 획득하기"
 
 msgctxt "MagicalTagDescription"
 msgid ""
@@ -1270,7 +1271,7 @@ msgstr ""
 
 msgctxt "MainAttackTitle"
 msgid "Main Attack"
-msgstr ""
+msgstr "주 공격"
 
 msgctxt "MainQuestsListTitle"
 msgid "Main Quests"
@@ -1307,7 +1308,7 @@ msgstr ""
 
 msgctxt "MerchantIdentifyTitle"
 msgid "Identify"
-msgstr ""
+msgstr "식별"
 
 msgctxt "NewClassSelectionTitle"
 msgid "Or click to add a new class to this character."
@@ -1793,7 +1794,7 @@ msgstr ""
 
 msgctxt "PurchaseOrderTitle"
 msgid "You Purchase"
-msgstr ""
+msgstr "구매 목록"
 
 msgctxt "QuestChoiceStatusTitle"
 msgid "Choice:"
@@ -1934,7 +1935,7 @@ msgstr "휴식 중…"
 
 msgctxt "RestModuleHitDiceHeaderTitle"
 msgid "Hit Points Recovery"
-msgstr ""
+msgstr "체력 회복"
 
 msgctxt "RestModuleHitDiceInstructionAfterRestLongRestTitle"
 msgid "You have recovered all hit points and half your hit dice maximum."
@@ -1942,7 +1943,7 @@ msgstr ""
 
 msgctxt "RestModuleHitDiceInstructionAfterRestShortRestTitle"
 msgid "Spend hit dice to recover hit points."
-msgstr ""
+msgstr "체력 주사위를 사용해 체력을 회복할 수 있습니다."
 
 msgctxt "RestModuleHitDiceInstructionBeforeRestLongRestTitle"
 msgid ""
@@ -1961,7 +1962,7 @@ msgstr ""
 
 msgctxt "RestModulePostRestActivitiesBeforeDescription"
 msgid "Your characters' actions after the rest is complete."
-msgstr ""
+msgstr "휴식을 끝마칠 때 캐릭터가 수행할 행동을 선택합니다."
 
 msgctxt "RestModulePostRestActivitiesHeaderTitle"
 msgid "Post Rest Actions"
@@ -1981,7 +1982,7 @@ msgstr ""
 
 msgctxt "RestModuleRecoveredFeaturesNoneTitle"
 msgid "None"
-msgstr ""
+msgstr "없음"
 
 msgctxt "ResumeDescription"
 msgid "Close this panel and resume the game."
@@ -2057,7 +2058,7 @@ msgstr ""
 
 msgctxt "SaleOrderTitle"
 msgid "You Sell"
-msgstr ""
+msgstr "판매 목록"
 
 msgctxt "SaveGameDescription"
 msgid "Save the current game."
@@ -2232,7 +2233,7 @@ msgstr "짧은 휴식 완료"
 
 msgctxt "ShortRestDescription"
 msgid "Take a one hour break to recover some powers and hit points."
-msgstr ""
+msgstr "1시간 동안 휴식을 취하여 일부 능력과 체력을 회복합니다."
 
 msgctxt "ShortRestTitle"
 msgid "Short Rest"
@@ -2463,15 +2464,16 @@ msgstr ""
 
 msgctxt "TotalBalanceClearAllTitle"
 msgid "Clear All"
-msgstr ""
+msgstr "모두 지우기"
 
 msgctxt "TotalBalanceConcludeDescription"
 msgid "Complete the transaction and pay/collect the appropriate amounts."
 msgstr ""
 
+#, fuzzy
 msgctxt "TotalBalanceConcludeTitle"
 msgid "Conclude"
-msgstr ""
+msgstr "거래 확인"
 
 msgctxt "TotalBalanceCostTitle"
 msgid "You Pay:"
@@ -2483,7 +2485,7 @@ msgstr ""
 
 msgctxt "TotalBalanceTitle"
 msgid "Total"
-msgstr ""
+msgstr "총합"
 
 msgctxt "TotalCostTitle"
 msgid "Total Cost"

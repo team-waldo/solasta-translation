@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-08-29 08:06+0000\n"
-"Last-Translator: 백정현 <bjhmsg@naver.com>\n"
+"PO-Revision-Date: 2021-09-25 00:48+0000\n"
+"Last-Translator: 이정승 <jsnuguri@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/feature/ko/"
 ">\n"
 "Language: ko\n"
@@ -68,7 +68,7 @@ msgstr ""
 
 msgctxt "AcademicFeatureTitle"
 msgid "Runaway Antiquarian"
-msgstr ""
+msgstr "안티쿼리안 탈주자"
 
 msgctxt "AcademicSkillsDescription"
 msgid "Proficient in Arcana, Nature, and Insight."
@@ -95,7 +95,7 @@ msgstr "당신이 신앙하는 종교의 성직자들과 좋은 평판으로 시
 
 msgctxt "AcolyteFeatureTitle"
 msgid "Shelter of the Faithful"
-msgstr ""
+msgstr "신도의 안식처"
 
 msgctxt "AcolyteSkillsDescription"
 msgid "Proficient in Religion, Nature, and Insight."
@@ -345,15 +345,15 @@ msgstr "당신의 신이 부여한 신성한 권능 중 하나를 선택하십�
 
 msgctxt "ClericDivineDomainsTitle"
 msgid "Divine Domains"
-msgstr ""
+msgstr "신성 권역"
 
 msgctxt "ClericSkillPointsTitle"
 msgid "Cleric Skills"
-msgstr ""
+msgstr "클레릭 기술"
 
 msgctxt "ClericSpellcastingTitle"
 msgid "Cleric Spellcasting"
-msgstr "성직자 주문 시전"
+msgstr "클레릭 주문 시전"
 
 msgctxt "ClericToolsDescription"
 msgid "You have been trained to scribe magic scrolls."
@@ -379,7 +379,7 @@ msgstr "신성 변환을 사용하여 6칸 내의 언데드 생물이 당신을 
 
 msgctxt "ClericWeaponProficiencyTitle"
 msgid "Cleric Weapon Proficiencies"
-msgstr "성직자 무기 숙련도"
+msgstr "클레릭 무기 숙련"
 
 msgctxt "ConditionAttackOfOpportunityImmunityTitle"
 msgid "Immune to opportunity attacks"
@@ -495,7 +495,7 @@ msgstr ""
 
 msgctxt "DomainBattleBonusProficiencyDescription"
 msgid "Martial Weapons"
-msgstr ""
+msgstr "군용 무기"
 
 msgctxt "DomainBattleBonusProficiencyTitle"
 msgid "Bonus Proficiency"
@@ -527,7 +527,7 @@ msgstr ""
 
 msgctxt "DomainBattleDomainSpellsTitle"
 msgid "Battle Domain Spells"
-msgstr ""
+msgstr "전투 권역 주문"
 
 msgctxt "DomainBattleHeraldOfBattleDescription"
 msgid ""
@@ -541,11 +541,11 @@ msgstr ""
 
 msgctxt "DomainElementalBonusCantripDescriptionPlural"
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 msgctxt "DomainElementalBonusCantripDescriptionSingle"
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 msgctxt "DomainElementalColdBonusCantripTitle"
 msgid "Bonus Cantrip (Cold)"
@@ -779,7 +779,7 @@ msgstr ""
 
 msgctxt "DomainOblivionBonusCantripDescription"
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 msgctxt "DomainOblivionBonusCantripTitle"
 msgid "Bonus Cantrip"
@@ -959,7 +959,7 @@ msgstr ""
 
 msgctxt "ElfKeenSensesTitle"
 msgid "Keen Senses"
-msgstr ""
+msgstr "예리한 감각"
 
 msgctxt "ElfSylvanLanguagesDescription"
 msgid "Common, Elvish, Dwarvish, and Halfling"
@@ -967,7 +967,7 @@ msgstr "공용어, 엘프어, 드워프어, 하플링어"
 
 msgctxt "ElfSylvanLanguagesTitle"
 msgid "Languages"
-msgstr ""
+msgstr "언어"
 
 msgctxt "ElfSylvanSurvivalDescription"
 msgid ""
@@ -981,7 +981,7 @@ msgstr ""
 
 msgctxt "ElfWeaponTrainingTitle"
 msgid "Elf Weapon Training"
-msgstr ""
+msgstr "엘프 무기 훈련"
 
 msgctxt "EquipmentAffinityDoubleCarryingCapacity"
 msgid "Carrying capacity is doubled."
@@ -1001,13 +1001,13 @@ msgstr ""
 
 msgctxt "FeatureSetHunterHuntersPreyTitle"
 msgid "Hunter's Prey"
-msgstr ""
+msgstr "사냥꾼의 사냥감"
 
 msgctxt "FighterActionSurgeDescription"
 msgid ""
 "Regain a main action immediately. Take a short or long rest to recover this "
 "power."
-msgstr ""
+msgstr "주 행동을 즉시 회복합니다. 이 능력을 회복하려면 짧은 휴식 또는 긴 휴식을 취해야합니다."
 
 msgctxt "FighterActionSurgeTitle"
 msgid "Action Surge"
@@ -1015,17 +1015,17 @@ msgstr ""
 
 msgctxt "FighterArmorProficiencyTitle"
 msgid "Fighter Armor Proficiencies"
-msgstr ""
+msgstr "파이터 갑옷 숙련"
 
 msgctxt "FighterExtraAttackDescription"
 msgid ""
 "You can attack one more time, per combat turn, when you use the attack or "
 "shove actions."
-msgstr ""
+msgstr "공격 또는 밀치기 행동을 할 때 전투 턴마다 한 번 더 사용할 수 있습니다."
 
 msgctxt "FighterExtraAttackTitle"
 msgid "Extra Attack"
-msgstr ""
+msgstr "추가 공격"
 
 msgctxt "FighterFightingStyleDescription"
 msgid "Choose a fighting style as a specialty."
@@ -1037,27 +1037,27 @@ msgstr "전투 특화"
 
 msgctxt "FighterMartialArchetypesDescription"
 msgid "Select a Martial Archetype."
-msgstr ""
+msgstr "무예 아키타입을 선택하십시오."
 
 msgctxt "FighterMartialArchetypesTitle"
 msgid "Martial Archetypes"
-msgstr ""
+msgstr "무예 아키타입"
 
 msgctxt "FighterSecondWindDescription"
 msgid "Regain (1d10 + level) HP as a bonus action."
-msgstr ""
+msgstr "추가 행동으로 (1d10 + 레벨) HP를 회복합니다."
 
 msgctxt "FighterSecondWindTitle"
 msgid "Second Wind"
-msgstr ""
+msgstr "재기의 바람"
 
 msgctxt "FighterSkillPointsTitle"
 msgid "Fighter Skills"
-msgstr ""
+msgstr "파이터 기술"
 
 msgctxt "FighterWeaponProficiencyTitle"
 msgid "Fighter Weapon Proficiencies"
-msgstr ""
+msgstr "파이터 무기 숙련"
 
 msgctxt "FightingStyleGreatWeaponRerollDescription"
 msgid ""
@@ -1352,7 +1352,7 @@ msgstr "이동"
 
 msgctxt "MoveWalkDescription"
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 msgctxt "MyselfFamilyRestrictionsFormat"
 msgid "If the creature is: {0}"
@@ -1368,7 +1368,7 @@ msgstr ""
 
 msgctxt "PaladinArmorProficiencyTitle"
 msgid "Paladin Armor Proficiencies"
-msgstr ""
+msgstr "팔라딘 갑옷 숙련"
 
 msgctxt "PaladinCureDiseaseDescription"
 msgid "Spend 5 points from your healing pool to cure one disease."
@@ -1445,7 +1445,7 @@ msgstr ""
 
 msgctxt "PaladinWeaponProficiencyTitle"
 msgid "Paladin Weapon Proficiencies"
-msgstr ""
+msgstr "팔라딘 무기 숙련"
 
 msgctxt "PerceptionAffinityDivinelyRevealedDescription"
 msgid "This creature's type and position are revealed."
@@ -1625,50 +1625,50 @@ msgstr ""
 
 msgctxt "RangerArchetypeDescription"
 msgid "Select a Ranger Archetype that will guide you in your travels."
-msgstr ""
+msgstr "여정을 인도할 레인저 아키타입을 선택하십시오."
 
 msgctxt "RangerArchetypeTitle"
 msgid "Ranger Archetypes"
-msgstr ""
+msgstr "레인저 아키타입"
 
 msgctxt "RangerArmorProficiencyTitle"
 msgid "Ranger Armor Proficiencies"
-msgstr ""
+msgstr "레인저 갑옷 숙련"
 
 msgctxt "RangerFavoredEnemyDescription"
 msgid ""
 "Gain advantage on ability checks towards this creature type, and additional "
 "damage against it equal to your knowledge level."
-msgstr ""
+msgstr "선택한 크리쳐 유형에 대한 능력치 판정에서 이점을 얻습니다. 또한 크리쳐에 대한 지식 레벨 만큼의 추가 피해를 줍니다."
 
 msgctxt "RangerFavoredEnemyTitle"
 msgid "Favored Enemy"
-msgstr ""
+msgstr "주적"
 
 msgctxt "RangerNaturalExplorerByTypeDescription"
 msgid ""
 "You are adept at living and traveling in a certain type of terrain: {0}."
-msgstr ""
+msgstr "특정 유형의 지형({0})에서 생활하고 여행하는 데 능숙합니다."
 
 msgctxt "RangerNaturalExplorerByTypeTitle"
 msgid "Natural Explorer {0}"
-msgstr ""
+msgstr "천부적인 탐험가 {0}"
 
 msgctxt "RangerNaturalExplorerDescription"
 msgid "You are adept at living and traveling in a certain type of terrain."
-msgstr ""
+msgstr "레인저는 특정 유형의 지형에서 생활하고 여행하는 데 능숙합니다."
 
 msgctxt "RangerNaturalExplorerTitle"
 msgid "Natural Explorer"
-msgstr ""
+msgstr "천부적인 탐험가"
 
 msgctxt "RangerPrimevalAwarenessDescription"
 msgid "Detects the presence of certain creature types in the location."
-msgstr ""
+msgstr "해당 위치에서 특정 생물 유형의 존재를 감지합니다."
 
 msgctxt "RangerPrimevalAwarenessTitle"
 msgid "Primeval Awareness"
-msgstr ""
+msgstr "원초적 인식"
 
 msgctxt "RangerShadowTamerDarkSlayerDescription"
 msgid ""
@@ -1699,7 +1699,7 @@ msgstr ""
 
 msgctxt "RangerWeaponProficiencyTitle"
 msgid "Ranger Weapon Proficiencies"
-msgstr ""
+msgstr "레인저 무기 숙련"
 
 msgctxt "RitualCastingPreparedDescription"
 msgid ""
@@ -1723,7 +1723,7 @@ msgstr ""
 
 msgctxt "RogueArmorProficiencyTitle"
 msgid "Rogue Armor Proficiencies"
-msgstr ""
+msgstr "로그 갑옷 숙련"
 
 msgctxt "RogueCunningActionDescription"
 msgid ""
@@ -1755,7 +1755,7 @@ msgstr ""
 
 msgctxt "RogueRoguishArchetypesTitle"
 msgid "Roguish Archetypes"
-msgstr ""
+msgstr "로그 아키타입"
 
 msgctxt "RogueSkillPointsTitle"
 msgid "Rogue Skills"
@@ -1778,7 +1778,7 @@ msgstr ""
 
 msgctxt "RogueWeaponProficiencyTitle"
 msgid "Rogue Weapon Proficiencies"
-msgstr ""
+msgstr "로그 무기 숙련"
 
 msgctxt "RoguishDarkweaverBonusProficiencyDescription"
 msgid "Proficient with the poisoner's kit."
@@ -1868,11 +1868,11 @@ msgstr ""
 
 msgctxt "SavingThrowProficiencyDescription"
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 msgctxt "SavingThrowProficiencyTitle"
 msgid "Saving Throw Proficiencies"
-msgstr ""
+msgstr "내성 굴림 숙련"
 
 msgctxt "SavingThrowSpecialHalfDamageFormat"
 msgid ""
@@ -2100,7 +2100,7 @@ msgstr ""
 
 msgctxt "ToolProficiencyPluralShortDescription"
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 msgctxt "ToolProficiencySingleDescription"
 msgid "Proficiency with this tool: {0}"
@@ -2108,7 +2108,7 @@ msgstr ""
 
 msgctxt "ToolProficiencySingleShortDescription"
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 msgctxt "ToolProficiencyTitle"
 msgid "Tools: {0}"
@@ -2250,7 +2250,7 @@ msgstr ""
 
 msgctxt "WeaponTrainingShortDescription"
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 msgctxt "WizardArcaneTraditionsDescription"
 msgid "Grants you specialization with a certain kind of magic."
@@ -2279,7 +2279,7 @@ msgstr ""
 
 msgctxt "WizardWeaponProficiencyTitle"
 msgid "Wizard Weapon Proficiencies"
-msgstr ""
+msgstr "위자드 무기 숙련"
 
 msgctxt "CombatAffinityPackTacticsTitle"
 msgid "Pack Tactics"
@@ -3094,90 +3094,90 @@ msgstr ""
 
 msgctxt "SorcererWeaponProficiencyTitle"
 msgid "Sorcerer Weapon Proficiencies"
-msgstr ""
+msgstr "소서러 무기 숙련"
 
 msgctxt "SorcererSkillPointsTitle"
 msgid "Sorcerer Skills"
-msgstr ""
+msgstr "소서러 기술"
 
 msgctxt "SorcererSpellcastingTitle"
 msgid "Sorcerer Spellcasting"
-msgstr ""
+msgstr "소서러 주문 시전"
 
 msgctxt "SorcererSorcerousOriginDescription"
 msgid "Different sorcerers claim different origins for their innate magic."
-msgstr ""
+msgstr "각기 다른 소서러들은 그들의 타고난 마법이 서로 다른 기원을 가지고 있다고 말합니다."
 
 msgctxt "SorcererSorcerousOriginTitle"
 msgid "Sorcerous Origin"
-msgstr ""
+msgstr "소서러 마법의 기원"
 
 msgctxt "SorcererToolsDescription"
 msgid ""
 "You have been trained to brew herbal remedies and use enchanting equipment."
-msgstr ""
+msgstr "소서러는 약초 치료법을 조제하고 마력이 부여된 장비를 사용하는 것을 배웠습니다."
 
 msgctxt "SorcererToolsTitle"
 msgid "Magical Crafting"
-msgstr ""
+msgstr "마법 물품 제작"
 
 msgctxt "PowerSorcererFlexibleCastingTitle"
 msgid "Flexible Casting"
-msgstr ""
+msgstr "유연한 시전"
 
 msgctxt "PowerSorcererFlexibleCastingDescription"
 msgid ""
 "Allows the conversion of spell slots into sorcery points and vice versa, as "
 "a bonus action."
-msgstr ""
+msgstr "추가 행동으로 주문 슬롯을 소서리 포인트로 또는 그 반대로도 변환할 수 있습니다."
 
 msgctxt "PowerSorcererFlexibleCastingCreateSpellSlotTitle"
 msgid "Create Spell Slot"
-msgstr ""
+msgstr "주문 슬롯 생성"
 
 msgctxt "PowerSorcererFlexibleCastingCreateSpellSlotDescription"
 msgid ""
 "Spend sorcery points to create a new spell slot, possibly higher than your "
 "maximum spell level"
-msgstr ""
+msgstr "소서리 포인트를 사용해서 새 주문 슬롯을 만듭니다. 레벨 당 최대로 가질 수 있는 슬롯을 초과하여 전환할 수 있습니다"
 
 msgctxt "PowerSorcererFlexibleCastingCreateSorceryPointsTitle"
 msgid "Create Sorcery Points"
-msgstr ""
+msgstr "소서리 포인트 생성"
 
 msgctxt "PowerSorcererFlexibleCastingCreateSorceryPointsDescription"
 msgid "Spend a spell slot to generate a matching number of sorcery points"
-msgstr ""
+msgstr "주문 슬롯을 사용하여 해당 주문 레벨과 같은 수의 소서리 포인트를 생성합니다"
 
 msgctxt "PointPoolSorcererMetamagicTitle"
 msgid "Metamagic"
-msgstr ""
+msgstr "메타매직"
 
 msgctxt "PointPoolSorcererMetamagicDescription"
 msgid ""
 "You gain the ability to twist your spells to suit your needs. You gain two "
 "Metamagic options of your choice"
-msgstr ""
+msgstr "원하는 대로 주문을 변형할 수 있는 능력을 얻습니다. 두 가지 메타매직 선택을 할 수 있습니다"
 
 msgctxt "PointPoolSorcererAdditionalMetamagicTitle"
 msgid "Additional Metamagic"
-msgstr ""
+msgstr "추가 메타매직"
 
 msgctxt "PointPoolSorcererAdditionalMetamagicDescription"
 msgid "Learn another metamagic option"
-msgstr ""
+msgstr "메타매직을 하나 더 배울 수 있습니다"
 
 msgctxt "MetamagicOptionEmpoweredSpellRerollDescription"
 msgid "{0} uses Empowered Spell to reroll a {1} damage die from {2} to {3}."
-msgstr ""
+msgstr "{0}은(는) 강화된 주문을 사용하여 {1} 피해 주사위를 {2}에서 {3}으로 다시 굴렸습니다."
 
 msgctxt "FeatureSetSorcererDraconicChoiceTitle"
 msgid "Dragon Ancestor Choice"
-msgstr ""
+msgstr "용의 혈통 선택"
 
 msgctxt "FeatureSetSorcererDraconicChoiceDescription"
 msgid "Select the type of dragon (and associated damage type) of your ancestor"
-msgstr ""
+msgstr "용의 혈통(및 관련 피해 유형)을 선택하십시오"
 
 msgctxt "AncestrySorcererDraconicBlackTitle"
 msgid "Black Ancestor - Acid"
@@ -3197,49 +3197,50 @@ msgstr ""
 
 msgctxt "AncestrySorcererDraconicDescription"
 msgid "Your dragonic ancestry grants you affinity to a specific damage type"
-msgstr ""
+msgstr "소서러의 용의 혈통은 특정 피해 유형과 밀접한 관계가 있습니다."
 
 msgctxt "FeatureSetSorcererDraconicResilienceTitle"
 msgid "Draconic Resilience"
-msgstr ""
+msgstr "용족의 굳건함"
 
 msgctxt "FeatureSetSorcererDraconicResilienceDescription"
 msgid ""
 "You gain one additional hit point per level and your armor class is 13 + "
 "dexterity bonus when you are not wearing armor"
 msgstr ""
+"용의 혈통 소서러는 레벨 당 1의 추가 체력을 얻고, 갑옷을 입지 않았을 때 13 + 민첩성 보너스 만큼의 방어구 등급을 가집니다"
 
 msgctxt "ProficiencySorcererDraconicKnowledgeTitle"
 msgid "Draconic Knowledge"
-msgstr ""
+msgstr "용족의 지식"
 
 msgctxt "ProficiencySorcererDraconicKnowledgeDescription"
 msgid "You speak draconic"
-msgstr ""
+msgstr "용언을 사용합니다"
 
 msgctxt "AutoPreparedSpellsSorcererDraconicBloodlineTitle"
 msgid "Draconic Bloodline Origin Spells"
-msgstr ""
+msgstr "용의 혈통 기원 주문"
 
 msgctxt "AdditionalDamageSorcererDraconicElementalAffinityTitle"
 msgid "Elemental Affinity"
-msgstr ""
+msgstr "원소 친화성"
 
 msgctxt "AdditionalDamageSorcererDraconicElementalAffinityDescription"
 msgid ""
 "When dealing spell damage matching your draconic ancestor, you add your "
 "charisma modifier to the total"
-msgstr ""
+msgstr "선택한 용의 혈통과 일치하는 유형의 주문 피해를 입힐 때 매력 수정치를 총 피해에 더합니다"
 
 msgctxt "PowerSorcererDraconicElementalResistanceTitle"
 msgid "Draconic Resistance"
-msgstr ""
+msgstr "용족의 저항력"
 
 msgctxt "PowerSorcererDraconicElementalResistanceDescription"
 msgid ""
 "You gain resistance to the damage type of your ancestor for an hour, at the "
 "cost of one sorcery point."
-msgstr ""
+msgstr "1점의 소서리 포인트를 소모하여 한 시간 동안 선택한 용의 혈통 관련 유형의 피해를 줄여줍니다."
 
 msgctxt "AutoPreparedSpellsSorcererManaPainterTitle"
 msgid "Mana Painter Origin Spells"
@@ -3255,6 +3256,8 @@ msgid ""
 "1D10+your charisma modifier Force Damage, and you regain 1 Sorcery Point. "
 "You need to take a Short Rest to recover this power."
 msgstr ""
+"근접 주문 공격을 합니다. 명중에 성공하면 목표물은 1D10 + 매력 수정치 만큼의 포스 피해를 입고, 시전자는 소서리 포인트 1점을 "
+"획득합니다. 이 능력을 다시 사용하려면 짧은 휴식을 취해야 합니다."
 
 msgctxt "SavingThrowAffinityManaPainterAbsorbtionTitle"
 msgid "Mana Absorption"
@@ -3264,7 +3267,7 @@ msgctxt "SavingThrowAffinityManaPainterAbsorbtionDescription"
 msgid ""
 "Your Charisma modifier is used (if higher) instead of other ability "
 "modifiers on your saving throws against spells and other magic effects."
-msgstr ""
+msgstr "주문 및 기타 마법 효과에 대한 내성 굴림에서 다른 능력 수정치 대신 매력 수청치(더 높은 경우)를 사용합니다."
 
 msgctxt "PowerSorcererManaPainterTapTitle"
 msgid "Mana Tap"
@@ -3276,49 +3279,52 @@ msgid ""
 "equal to half your Sorcerer levels (rounded up). You must complete a long "
 "rest to use this ability again."
 msgstr ""
+"짧은 휴식을 마치면 소서러 레벨의 절반(반올림)에 해당하는 소서리 포인트를 회복합니다. 이 능력을 다시 사용하려면 긴 휴식을 취해야 "
+"합니다."
 
 msgctxt "AutoPreparedSpellsSorcererChildRiftTitle"
 msgid "Child of the Rift Origin Spells"
-msgstr ""
+msgstr "균열의 아이 기원 주문"
 
 msgctxt "MagicAffinitySorcererChildRiftMagicTitle"
 msgid "Rift Magic"
-msgstr ""
+msgstr "균열 마법"
 
 msgctxt "MagicAffinitySorcererChildRiftMagicDescription"
 msgid ""
 "Immediately after you cast a sorcerer spell of level 1 to 5, roll 1d20. If "
 "you roll a 20, your spell slot is not spent"
-msgstr ""
+msgstr "1 ~ 5 레벨 주문을 시전한 직후 1d20 주사위를 굴립니다. 20이 나오면 주문 슬롯을 소모하지 않습니다"
 
 msgctxt "PowerSorcererChildRiftDeflectionTitle"
 msgid "Deflection"
-msgstr ""
+msgstr "굴절"
 
 msgctxt "PowerSorcererChildRiftDeflectionDescription"
 msgid ""
 "You can use your Bonus Action to spend 1 sorcery point to become harder to "
 "hit and achieve better saving throws, until the start of your next turn"
 msgstr ""
+"추가 행동으로 소서리 포인트 1점을 사용해서 명중 당하기 어려워지고 내성 굴림에 유리해집니다. 다음 턴이 시작할 때까지 지속됩니다"
 
 msgctxt "PowerSorcererChildRiftOfferingTitle"
 msgid "Offering to the Rift"
-msgstr ""
+msgstr "균열에 바치는 제물"
 
 msgctxt "PowerSorcererChildRiftOfferingDescription"
 msgid ""
 "You can use your Bonus Action to sacrifice 5 Hit Points, in order to regain "
 "immediately one sorcery point. The sacrificed Hit Points are recovered after "
 "a Long Rest."
-msgstr ""
+msgstr "추가 행동으로 5 점의 체력을 희생하여 즉시 소서리 포인트 1점을 얻습니다. 희생된 최대 체력은 긴 휴식을 취하면 회복됩니다."
 
 msgctxt "ConditionTrueSeeingTitle"
 msgid "True Seeing"
-msgstr ""
+msgstr "진실의 시야"
 
 msgctxt "ConditionTrueSeeingDescription"
 msgid "This creature can see in darkness and see invisible creatures."
-msgstr ""
+msgstr "이 크리쳐는 어둠 속에서 볼 수 있고 투명화된 크리쳐를 볼 수 있습니다."
 
 msgctxt "DieRollModifierRogueReliableTalentTitle"
 msgid "Reliable Talent"
@@ -3396,11 +3402,11 @@ msgstr ""
 
 msgctxt "BarbarianWeaponProficiencyTitle"
 msgid "Barbarian Weapon Proficiencies"
-msgstr ""
+msgstr "바바리안 무기 숙련"
 
 msgctxt "BarbarianArmorProficiencyTitle"
 msgid "Barbarian Armor Proficiencies"
-msgstr ""
+msgstr "바바리안 갑옷 숙련"
 
 msgctxt "BarbarianSkillPointsTitle"
 msgid "Barbarian Skills"
@@ -3578,15 +3584,15 @@ msgstr ""
 
 msgctxt "DruidWeaponProficiencyTitle"
 msgid "Druid  Weapon Proficiencies"
-msgstr ""
+msgstr "드루이드 무기 숙련"
 
 msgctxt "DruidArmorProficiencyTitle"
 msgid "Druid  Armor Proficiencies"
-msgstr ""
+msgstr "드루이드 갑옷 숙련"
 
 msgctxt "DruidSkillPointsTitle"
 msgid "Druid  Skills"
-msgstr ""
+msgstr "드루이드 기술"
 
 msgctxt "DruidCircleDescription"
 msgid ""

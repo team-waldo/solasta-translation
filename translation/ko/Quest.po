@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-09-21 13:43+0000\n"
+"PO-Revision-Date: 2021-09-25 00:48+0000\n"
 "Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/quest/ko/>"
 "\n"
@@ -177,7 +177,7 @@ msgstr ""
 
 msgctxt "Abjuration_Quest_08_TalkToThePeople1Title"
 msgid "Find the Second Clue"
-msgstr ""
+msgstr "두 번째 단서 찾기"
 
 msgctxt "Abjuration_Quest_08_TalkToThePeople2_Outcome1Description"
 msgid ""
@@ -193,7 +193,7 @@ msgstr ""
 
 msgctxt "Abjuration_Quest_08_TalkToThePeople2Title"
 msgid "Find the Third Clue"
-msgstr ""
+msgstr "세 번째 단서 찾기"
 
 msgctxt "Abjuration_Quest_08_TalkToThePeople3_Outcome1Description"
 msgid ""
@@ -209,7 +209,7 @@ msgstr ""
 
 msgctxt "Abjuration_Quest_08_TalkToThePeople3Title"
 msgid "Find the Fourth Clue"
-msgstr ""
+msgstr "네 번째 단서 찾기"
 
 msgctxt "Abjuration_Quest_08_TalkToThePeople4_Outcome1Description"
 msgid ""
@@ -225,7 +225,7 @@ msgstr ""
 
 msgctxt "Abjuration_Quest_08_TalkToThePeople4Title"
 msgid "Find the Fifth Clue"
-msgstr ""
+msgstr "다섯 번째 단서 찾기"
 
 msgctxt "Abjuration_Quest_08_TalkToThePeopleDescription"
 msgid ""
@@ -235,7 +235,7 @@ msgstr ""
 
 msgctxt "Abjuration_Quest_08_TalkToThePeopleTitle"
 msgid "Find the First Clue"
-msgstr ""
+msgstr "첫 번째 단서 찾기"
 
 msgctxt "Abjuration_Quest_09_TalkToNikannen2_Outcome1Description"
 msgid ""
@@ -499,7 +499,7 @@ msgstr ""
 
 msgctxt "BoneKeep_Quest_Step06_Title"
 msgid "Get to the Next Floor"
-msgstr ""
+msgstr "다음 층으로 이동"
 
 msgctxt "BoneKeep_Quest_Step07__Outcome1Description"
 msgid "You need a teleporter to get to the next floor."
@@ -525,11 +525,11 @@ msgstr ""
 
 msgctxt "BoneKeep_Quest_Step07A_Title"
 msgid "Find a Way Out of the Maze"
-msgstr ""
+msgstr "미로에서 탈출하기"
 
 msgctxt "BoneKeep_Quest_Step07B__Outcome1Description"
 msgid "You have found the way out of the maze!"
-msgstr ""
+msgstr "미로에서 탈출구를 찾았습니다!"
 
 msgctxt "BoneKeep_Quest_Step07B__Outcome2Description"
 msgid "You got lost among the teleporters."
@@ -555,7 +555,7 @@ msgstr ""
 
 msgctxt "BoneKeep_Quest_Step07C_Title"
 msgid "Find a Way Out of the Maze"
-msgstr ""
+msgstr "미로에서 탈출하기"
 
 msgctxt "BoneKeep_Quest_Step07D__Outcome1Description"
 msgid "You escaped the teleporter maze!"

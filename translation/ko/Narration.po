@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-09-21 13:43+0000\n"
+"PO-Revision-Date: 2021-09-25 00:48+0000\n"
 "Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
@@ -240,19 +240,19 @@ msgstr "언제든 문제 없다고 친구... 물론 이 맥주를 다 마시고 
 
 msgctxt "TextOnlyNPCSpeech_CaravanMerchant01"
 msgid "I'm busy. Go see Galar."
-msgstr "난 바쁘니까 가서 갈라르한테 이야기해."
+msgstr "제가 좀 바쁘니, 갈라르한테 가보세요."
 
 msgctxt "TextOnlyNPCSpeech_CaravanMerchant02"
 msgid "We're packing - sorry!"
-msgstr "우린 짐 싸는 중이야, 미안!"
+msgstr "우린 짐 싸는 중입니다. 미안해요!"
 
 msgctxt "TextOnlyNPCSpeech_CaravanMerchant03"
 msgid "You want to buy something, ask Galar."
-msgstr "사고 싶은 게 있으면 갈라르한테 이야기해."
+msgstr "사고 싶은 게 있으면 갈라르에게 얘기해보세요."
 
 msgctxt "TextOnlyNPCSpeech_CaravanMerchant04"
 msgid "No time to chat - sorry!"
-msgstr "이야기할 시간 없어, 미안!"
+msgstr "얘기 나눌 시간이 없네요. 미안합니다!"
 
 msgctxt "TextOnlyNPCSpeech_CoparannKeepGuard01"
 msgid "Keep out, strangers!"
@@ -8630,7 +8630,7 @@ msgstr "어찌되었든 이 자들도 이제 유산 평의회에 소속된 것�
 
 msgctxt "Council03_52_Authority_Normal_WRITTEN"
 msgid "We'll continue the quest."
-msgstr "계속해서 퀘스트를 진행 하겠습니다."
+msgstr "임무를 계속하겠습니다."
 
 msgctxt "Council03_55_Greed_Default_WRITTEN"
 msgid "Give us weapons."
@@ -8638,7 +8638,7 @@ msgstr "무기를 주십시오."
 
 msgctxt "Council03_58_Lawfulness_Default_WRITTEN"
 msgid "You should trust us more."
-msgstr "우리를 조금 더 믿어 주시오."
+msgstr "우리를 조금 더 믿어주세요."
 
 msgctxt "Council03_61_Selfishness_Default_WRITTEN"
 msgid "The Crown is ours."
@@ -15423,11 +15423,11 @@ msgstr ""
 
 msgctxt "Optional_Lowlife_Quest_Start9_Merton_NPC"
 msgid "Go to Annie Bagmordah at the Scavengers."
-msgstr ""
+msgstr "스캐빈저의 애니 바그모다를 만나러 가."
 
 msgctxt "Optional_Lowlife_Quest_Start10_Merton_NPC"
 msgid "Tell her I sent you."
-msgstr ""
+msgstr "내가 보냈다고 말하면 알아들을 거야."
 
 msgctxt "Optional_Lowlife_Quest_MeetAnnie1_Lowlifeb_Default"
 msgid "Merton says you got a problem."
@@ -15439,7 +15439,7 @@ msgstr ""
 
 msgctxt "Optional_Lowlife_Quest_MeetAnnie3_Annie_NPC"
 msgid "What makes you think you can help?"
-msgstr ""
+msgstr "여러분이 어떤 도움을 줄 수 있을까요?"
 
 msgctxt "Optional_Lowlife_Quest_MeetAnnie4_Lowlifeb_Default"
 msgid "Not saying I can, yet. But I know people."
@@ -17825,7 +17825,7 @@ msgstr "우리는 당신의 방어책들을 뚫고 당신을 찾아냈소."
 
 msgctxt "NecromancyQuest06_10_Intimidate_Default2"
 msgid "Do you really want to test your power against ours?"
-msgstr "정말로 우리에게 당신의 힘을 시험하고 싶은것이오?"
+msgstr "정말로 우리에게 당신의 힘을 시험하고 싶은 것이오?"
 
 msgctxt "NecromancyQuest06_11_Deceive_Default"
 msgid "You are right to fear us, and those who sent us."
@@ -18857,9 +18857,10 @@ msgid ""
 "Of course - you wouldn't let a lady cross those Badlands alone, surely? "
 msgstr "물론. 숙녀 혼자 이 황무지를 건너게 내버려 두진 않겠지? "
 
+#, fuzzy
 msgctxt "AbjurationQuest_Caravan_1Galar_NPC"
 msgid "A timely arrival! Many thanks for your help! "
-msgstr ""
+msgstr "정말 딱 맞는 타이밍에 도와주셨군요, 감사합니다! "
 
 msgctxt "AbjurationQuest_Caravan_2_Pragmatism_Default"
 msgid "Clear skies, friend! What's going on here? "
@@ -19546,7 +19547,7 @@ msgstr "왜?"
 
 msgctxt "AbjurationQuest_Patrons_3_Patron1_NPC"
 msgid "A whole week he's been waiting - and still no meeting with the Baron!"
-msgstr ""
+msgstr "일주일 내내 기다렸는데 여전히 남작과 안 만나고 있어!"
 
 #, fuzzy
 msgctxt "AbjurationQuest_Patrons_4_Patron2_NPC"
@@ -19555,7 +19556,7 @@ msgstr "그건 괴상한걸. 그들은 매일 한 번 이상 만나는데!"
 
 msgctxt "AbjurationQuest_Patrons_5_Patron2_NPC"
 msgid "Like an old couple, the two of them!"
-msgstr ""
+msgstr "마치 오래 사귄 커플처럼 단짝이었잖아!"
 
 msgctxt "AbjurationQuest_GeneralStore_1_Wilf_NPC"
 msgid "Well met! What can we do for you on this fine morning?"
@@ -20610,11 +20611,11 @@ msgstr ""
 
 msgctxt "AbjurationMildred_Tavern_StayForTheNight"
 msgid "Sure! Get settled!"
-msgstr ""
+msgstr "물론이죠! 푹 쉬세요!"
 
 msgctxt "AbjurationMildred_Tavern_Nomoney"
 msgid "No coin, no bed."
-msgstr ""
+msgstr "돈 없으면 방도 없어요."
 
 msgctxt "AbjurationMildred_Tavern_Goodbye"
 msgid "Stay in the light!"
@@ -24190,13 +24191,14 @@ msgctxt "Banter_Abjuration_Monastery_07"
 msgid "It looks like a pattern that needs to be reproduced in some way…"
 msgstr ""
 
+#, fuzzy
 msgctxt "Banter_Abjuration_Monastery_08"
 msgid "This is a poem in elvish… about the moonlight?"
-msgstr ""
+msgstr "이 글귀는 엘프어야... 달빛에 관한 얘기가 있네?"
 
 msgctxt "Banter_Abjuration_Monastery_09"
 msgid "Maybe this only works at night!"
-msgstr ""
+msgstr "밤에만 작동하는 걸지도 몰라!"
 
 msgctxt "NecromancySubQuest101_19_Nope_Formal"
 msgid "We'll see what we can do."
@@ -24274,9 +24276,10 @@ msgid ""
 "imperial law to the Court!"
 msgstr ""
 
+#, fuzzy
 msgctxt "Banter_Conjuration_LavaRiver_01"
 msgid "Wait? Have you ever seen this kind of plant?"
-msgstr ""
+msgstr "이런 종류의 식물은 처음 보는데?"
 
 msgctxt "Banter_Conjuration_LavaRiver_02"
 msgid "The gem must be in this forest. One last effort and it will be ours."

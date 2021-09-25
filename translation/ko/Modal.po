@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-09-21 13:43+0000\n"
+"PO-Revision-Date: 2021-09-25 00:48+0000\n"
 "Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/modal/ko/>"
 "\n"
@@ -302,7 +302,7 @@ msgstr ""
 
 msgctxt "TravelFromTitle"
 msgid "From"
-msgstr ""
+msgstr "출발지"
 
 msgctxt "TravelPaceNormalTitle"
 msgid "Normal"
@@ -310,7 +310,7 @@ msgstr ""
 
 msgctxt "TravelPaceTitle"
 msgid "Travel Pace"
-msgstr ""
+msgstr "여행 속도"
 
 msgctxt "TravelSettingsButtonDescriptionTitle"
 msgid "Click to change the settings of traveling and resting."
@@ -330,7 +330,7 @@ msgstr ""
 
 msgctxt "TravelToTitle"
 msgid "To"
-msgstr ""
+msgstr "목적지"
 
 msgctxt "ValidateButtonTitle"
 msgid "Validate"
@@ -350,7 +350,7 @@ msgstr ""
 
 msgctxt "CastSpellBeforeLongRestTitle"
 msgid "Cast the {0} spell when the long rest starts."
-msgstr ""
+msgstr "긴 휴식이 시작되면 {0} 주문을 시전합니다."
 
 msgctxt "ScavengerMissionsModalTitle"
 msgid "Scavenger Expeditions"
@@ -549,7 +549,7 @@ msgstr ""
 
 msgctxt "StatShortRestsTitle"
 msgid "Short Rests:"
-msgstr ""
+msgstr "짧은 휴식:"
 
 msgctxt "StatShortRestsDescription"
 msgid "The number of short rests completed by the party"
@@ -557,7 +557,7 @@ msgstr ""
 
 msgctxt "StatLongRestsTitle"
 msgid "Long Rests:"
-msgstr ""
+msgstr "긴 휴식:"
 
 msgctxt "StatLongRestsDescription"
 msgid "The number of long rests completed by the party"
