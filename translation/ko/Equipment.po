@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-09-25 00:48+0000\n"
-"Last-Translator: Jin <byungjinjun55@gmail.com>\n"
+"PO-Revision-Date: 2021-09-27 14:35+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/equipment/"
 "ko/>\n"
 "Language: ko\n"
@@ -897,12 +897,12 @@ msgid ""
 "means it's of Tirmarian origin. Judging by its shape, it belonged to a "
 "priest of Arun."
 msgstr ""
-"이 부적은 대격변 이전 시대의 신성한 상징인 것 같아 보이는데 즉, 다시 말해 티르마르의 것이다. 생김새로 보아, 아룬의 사제가 갖고 "
+"이 목걸이는 대격변 이전 시대의 성표인 것 같아 보이는데, 이는 이것이 티르마르의 것이라는 뜻이다. 생김새로 보아, 아룬의 사제가 갖고 "
 "있던 것이다."
 
 msgctxt "CaerLem_TirmarianSymbol_Title"
 msgid "Tirmarian Holy Symbol"
-msgstr "티르마르의 신성한 상징"
+msgstr "티르마르의 성표"
 
 msgctxt "CandleTitle"
 msgid "Candle"
@@ -1887,7 +1887,7 @@ msgstr "약초학 키트"
 
 msgctxt "HolySymbolAmuletTitle"
 msgid "Holy Symbol (Amulet)"
-msgstr "성표 (부적)"
+msgstr "성표 (목걸이)"
 
 msgctxt "HolySymbolEmblemTitle"
 msgid "Holy Symbol (Emblem)"
@@ -3188,11 +3188,11 @@ msgstr "안개 구름 두루마리"
 
 msgctxt "ScrollGreaseDescription"
 msgid "When you use this scroll, you cast the Grease spell."
-msgstr ""
+msgstr "이 두루마리를 사용하면 기름 주문을 시전합니다."
 
 msgctxt "ScrollGreaseTitle"
 msgid "Scroll of Grease"
-msgstr ""
+msgstr "기름 두루마리"
 
 msgctxt "ScrollGuidingBoltDescription"
 msgid "When you use this scroll, you cast the Guiding Bolt spell."
@@ -5805,16 +5805,15 @@ msgid ""
 "giant sapphire that has somehow grown into the branch."
 msgstr "아카시아 나무의 튼튼한 가지로 만들어졌으며, 윗쪽 끝부분에는 스태프와 잘 결합된 거대한 사파이어가 있습니다."
 
-#, fuzzy
 msgctxt "Abjuration_HolySymbol_Title"
 msgid "Antique Holy Symbol"
-msgstr "고대의 신성한 상징"
+msgstr "고대의 성표"
 
 msgctxt "Abjuration_HolySymbol_Description"
 msgid ""
 "This ancient holy symbol was probably owned by a cleric from Tirmar. It "
 "bears a cloud, a wave, and a flame."
-msgstr "이 고대의 신성한 상징은 아마도 티르마르의 성직자의 소유였을 것입니다. 그것은 구름과 파도, 그리고 불꽃을 품고 있습니다."
+msgstr "이 고대의 성표는 아마도 티르마르의 성직자의 소유였을 것입니다. 그것은 구름과 파도, 그리고 불꽃을 품고 있습니다."
 
 msgctxt "Abjuration_EmtansPackage_Title"
 msgid "Small Box"
@@ -6238,12 +6237,15 @@ msgctxt "Backpack2Title"
 msgid "Handy Haversack"
 msgstr "편리한 잡낭"
 
+#, fuzzy
 msgctxt "BeltOfGiantHillStrength_Description"
 msgid ""
 "At the dawn of time, there was a confrontation between the giants and the "
 "elves. The elven arcanists didn't waste anything from the giants, harnessing "
 "their life essence to create powerful magical items."
 msgstr ""
+"태초에 거인과 엘프의 싸움이 있었습니다. 엘프 비전술사들은 거인들의 골수까지 빨아먹으며, 그들의 생명의 정수를 활용하여 강력한 마법 "
+"아이템을 만들었습니다."
 
 msgctxt "GauntletsOfOgrePower_Description"
 msgid ""
@@ -6251,6 +6253,7 @@ msgid ""
 "mind over matter. "
 msgstr "아라스디르 라이트핸드가 제작한 이 건틀릿은 오우거들에게 힘보다 정신력이 더 중요하다는 것을 보여주었습니다. "
 
+#, fuzzy
 msgctxt "RingDarkvision_Description"
 msgid ""
 "While wearing this ring, you have Darkvision just like an elf. Devised by an "
@@ -6258,6 +6261,8 @@ msgid ""
 "cook, the island halfling Mildred Sharpnose, could deliver breakfast at all "
 "hours, without having to illuminate his studies. "
 msgstr ""
+"이 반지를 끼고 있으면 엘프처럼 어둠시야가 생깁니다. 빛 계열 주문에 빠삭한 괴짜 마나칼론 비전술사가 그의 유명한 요리사인 섬 하플링, "
+"밀드레드 샤프노즈가 그가 연구하는 동안 불을 켜지 않고 낮밤 없이 식사를 배달할 수 있도록 하기 위해 고안했습니다. "
 
 msgctxt "RingLanguages_Description"
 msgid ""
@@ -6265,92 +6270,108 @@ msgid ""
 "ensures all servants can understand orders; such a ring was given to "
 "overseers to avoid misunderstandings during the rule of the Manacalon Empire."
 msgstr ""
+"이 반지를 끼고 있으면 솔라스타의 모든 언어를 알 수 있습니다. 훌륭한 주인은 모든 하인이 명령을 이해할 수 있도록 합니다 - 그러한 "
+"반지는 마나칼론 제국의 통치 기간 동안 의사소통을 원활히 하기 위해 감독관들에게 주어졌습니다."
 
 msgctxt "BroochOfShielding_Description"
 msgid ""
 "Medreth Sharpeye forged those brooches to protect Coedymwarth scouts against "
 "the Imperial shock arcanists' most common spell. "
 msgstr ""
+"메드레스 샤프아이는 코이뒴워스 정찰병을 제국 쇼크 아르카니스트의 가장 흔한 주문으로부터 보호하기 위해 그 브로치를 만들었습니다. "
 
 msgctxt "HeadbandOfIntellect_Description"
 msgid ""
 "Fashioned by order of the merchant prince Elgareth Goldenmind to ensure his "
 "dynasty would survive the advent of less gifted successors."
 msgstr ""
+"상인 왕자 엘가레스 골든마인드의 명령에 따라, 재능이 부족한 후계자들이 나타나더라도 그의 왕조가 존속될 수 있도록 하기 위해 "
+"만들어졌습니다."
 
+#, fuzzy
 msgctxt "StoneOfGoodLuck_Description"
 msgid ""
 "A magic charm made with a green stone in the shape of a four-leaf clover. "
 "Misaye gave the first of these stones to her high priest as a sign of favor. "
 msgstr ""
+"네잎클로버 모양의 그린스톤으로 만든 마법의 참입니다. 미사이에는 이 돌들 중 첫 번째 돌을 호의의 표시로 그녀의 대제사장에게 주었습니다. "
 
+#, fuzzy
 msgctxt "WandMagicMissileDescription"
 msgid ""
 "During the reign of the Manacalon Empire, every officer in the Iron Legion "
 "had such a wand - a symbol of their power and authority. "
-msgstr ""
+msgstr "마나칼론 제국의 통치 기간 동안 강철 군단의 모든 장교는 그들의 힘과 권위의 상징인 마법봉를 휴대했습니다. "
 
+#, fuzzy
 msgctxt "WandFearDescription"
 msgid "Manacalon overseers carried this wand to ensure obedience. "
-msgstr ""
+msgstr "마나칼론 감독관들은 복종을 끌어내기 위해 이 마법봉을 가지고 다녔습니다. "
 
 msgctxt "WandLightningBoltsDescription"
 msgid ""
 "A creation of Galar Stormforge, harnessing the power of lightning to give "
 "his dwarven brethren a chance against the might of the Manacalon Empire. "
 msgstr ""
+"번개를 힘을 이용한 갈라르 스톰포지의 작품으로, 그의 드워프 형제들에게 마나칼론 제국의 힘에 대항할 기회를 주기 위한 것입니다. "
 
+#, fuzzy
 msgctxt "BootsLevitationDescription"
 msgid ""
 "After a couple of close calls in the mountains of the Snow Alliance, the "
 "Manacalon shock arcanists began to use these boots! "
-msgstr ""
+msgstr "설산 동맹의 산에서 가까스로 생존한 몇 번의 경험 이후, 마나칼론 쇼크 아르카니스트들이 이 신발을 사용하기 시작했습니다! "
 
+#, fuzzy
 msgctxt "AmuletOfHealth_Lore_Description"
 msgid ""
 "This amulet was created by Marsh halfling mages in the olden times to help "
 "sick people survive the hardships of Olme Fen. "
-msgstr ""
+msgstr "이 목걸이는 옛날에 늪 하플링 마법사가 올메 펜의 역경에서 아픈 사람들이 살아남을 수 있도록 돕기 위해 만들었습니다. "
 
+#, fuzzy
 msgctxt "BeltOfDwarvenkind_Description"
 msgid ""
 "This belt was gifted to Callawin by the Kaikkonen after he rescued his son "
 "in a wild, daring action! A fit worthy of a dwarf, even if it was made by an "
 "elf! "
 msgstr ""
+"이 벨트는 카이코넨이 거칠고 용감한 행동으로 그의 아들을 구한 캘러윈에게 선물로 준 것입니다! 엘프가 만들어도 드워프에 어울리는 핏! "
 
 msgctxt "NecklaceOfFireballsDescription"
 msgid ""
 "Medreth Sharpeye teamed up with a jeweler to craft this item to help raiding "
 "parties of the Coedymwarth fighting in Imperial territory."
-msgstr ""
+msgstr "메드레스 샤프아이는 한 보석상과 협력하여 제국 영토에서 싸우는 코이딤워스의 강습팀들을 돕기 위해 이 아이템을 제작했습니다."
 
 msgctxt "BootsOfElvenkind_Title"
 msgid "Boots of Elvenkind"
-msgstr ""
+msgstr "엘프족의 신발"
 
 msgctxt "BootsOfElvenkind_Description"
 msgid ""
 "Crafted in Colthannin for human allies of the Realm protecting its borders."
 msgstr "국경을 수비하는 왕국의 인간 동맹을 위해 콜사닌에서 제작되었습니다."
 
+#, fuzzy
 msgctxt "MantleOfSpellResistance_Title"
 msgid "Mantle of Spell Resistance"
-msgstr ""
+msgstr "주문 저항의 망토"
 
 msgctxt "MantleOfSpellResistance_Description"
 msgid ""
 "Medreth Sharpeye crafted this item to protect Coedymwarth scouts on their "
 "long-range forays. "
-msgstr ""
+msgstr "메드레스 샤프아이는 장거리 침투 간 코이뒴워스 정찰병을 보호하기 위해 이 아이템을 제작했습니다. "
 
 msgctxt "MantleOfSpellResistance_Unidentified_Title"
 msgid "Beautiful Mantle"
-msgstr ""
+msgstr "아름다운 망토"
 
+#, fuzzy
 msgctxt "MantleOfSpellResistance_Unidentified_Description"
 msgid "A fine and nicely crafted mantle made of silk. Possibly magical."
-msgstr ""
+msgstr "실크를 이용하여 정교하고 멋지게 만들어진 망토입니다. 마법적인 기능이 있을지도 모릅니다."
 
 msgctxt "EndlessQuiver_Title"
 msgid "Endless Quiver of Colthannin"
@@ -6427,7 +6448,7 @@ msgstr "한 마나칼론의 방호마법 마스터는 특정 피해에 대응하
 
 msgctxt "RingOfResistance_Unidentified_Description"
 msgid "A magnificent ring with a cloudy shape on its bezel."
-msgstr ""
+msgstr "베젤에 구름 모양이 새겨진 화려한 반지."
 
 msgctxt "RingOfResistance_Unidentified_Title"
 msgid "Superb Ring"
@@ -6469,6 +6490,8 @@ msgid ""
 "shortbow, and you gain a +2 bonus on damage rolls on ranged attacks made "
 "with such weapons."
 msgstr ""
+"이 팔보호구를 착용하고 있는 동안 롱보우와 숏보우를 능숙하게 다룰 수 있게 되어, 해당 무기를 사용한 원거리 공격에 대한 피해 굴림에 +"
+"2 보너스를 얻습니다."
 
 msgctxt "OilOfSharpness_Function_Description"
 msgid "+3 to ATK and DMG, weapon becomes magical."
@@ -6488,7 +6511,7 @@ msgstr "그레이트소드 +1"
 
 msgctxt "Greatsword_plus_1_Description"
 msgid "A typical magic weapon crafted in the forges of the Manacalon Empire."
-msgstr ""
+msgstr "마나칼론 제국의 대장간에서 제작된 전형적인 마법 무기."
 
 msgctxt "Greatsword_plus_1_unidentified_Title"
 msgid "Magnificent Greatsword"
@@ -6497,7 +6520,7 @@ msgstr "화려한 그레이트소드"
 msgctxt "Greatsword_plus_1_unidentified_Description"
 msgid ""
 "This finely crafted greatsword bears elvish symbols on its pommel and blade."
-msgstr ""
+msgstr "정교하게 제작된 이 대검의 칼자루와 칼날에는 엘프 상징이 새겨져 있습니다."
 
 msgctxt "JavelinPlusOne_unidentified_Title"
 msgid "Superb Javelin"
@@ -6505,22 +6528,26 @@ msgstr "뛰어난 자벨린"
 
 msgctxt "JavelinPlusOne_unidentified_Description"
 msgid "This javelin is finely crafted, light but efficient."
-msgstr ""
+msgstr "이 자벨린은 정교하게 제작되었으며 가벼우면서도 효율적입니다."
 
+#, fuzzy
 msgctxt "Document_Coparann_Lightfiller_Title"
 msgid "Sigil codebook"
-msgstr ""
+msgstr "시질 암호교본"
 
+#, fuzzy
 msgctxt "Document_Coparann_Lightfiller_Description"
 msgid ""
 "This handbook contains notes written in a cryptic form of ancient elvish. "
 "The only interesting things are the drawings: they look like the moon stones "
 "found near Kythaela's mausoleum."
 msgstr ""
+"이 핸드북에는 고대 엘프의 신비한 형상으로 쓰여진 메모가 담겨 있습니다. 흥미로운 점은 그림뿐입니다 - 그림들은 키타엘라의 영묘 근처에서 "
+"발견된 달의 돌처럼 보입니다."
 
 msgctxt "RingOfTheLightbringers_Title"
 msgid "Ring of the Lightbringers"
-msgstr ""
+msgstr "광휘의 반지"
 
 msgctxt "RingOfTheLightbringers_Description"
 msgid ""
@@ -6705,9 +6732,10 @@ msgctxt "Longsword_plus_two_Unidentified_Description"
 msgid "A magnificently crafted and decorated longsword."
 msgstr "화려하게 제작되고 장식된 롱소드입니다."
 
+#, fuzzy
 msgctxt "Warhammer_plus_two_TypeTitle"
 msgid "Dwarven Thrower"
-msgstr ""
+msgstr "드워프 투척병"
 
 msgctxt "Warhammer_plus_two_Description"
 msgid ""
@@ -6774,7 +6802,7 @@ msgstr "화려한 레이피어"
 
 msgctxt "Rapier_plus_one_Unidentified_Description"
 msgid "A fine rapier, extremely sharp and well-balanced."
-msgstr ""
+msgstr "매우 날카롭고 균형이 잘 잡힌 정밀한 레이피어."
 
 msgctxt "Shortsword_plus_one_TypeTitle"
 msgid "Shortsword +1"
@@ -6897,50 +6925,61 @@ msgid ""
 "magical."
 msgstr "이 화려한 갑옷은 매우 낡았으며 정교하게 제작되었습니다. 아마도 마법이 깃들어 있을 것입니다."
 
+#, fuzzy
 msgctxt "ArcaneFocus_Belt_Title"
 msgid "Belt Component Pouch"
-msgstr ""
+msgstr "재료 주머니 벨트"
 
+#, fuzzy
 msgctxt "ArcaneFocus_Belt_Description"
 msgid ""
 "This belt contains various pockets and pouches to store spell components. "
 "Easy to access, it's a must for the traveling wizard."
 msgstr ""
+"이 벨트에는 주문 구성 요소를 보관할 수 있는 다양한 주머니와 쌈지가 있습니다. 신속하게 꺼낼 수 있으며, 여행하는 위저드에게는 "
+"필수품입니다."
 
 msgctxt "ArcaneFocus_Amulet_Title"
 msgid "Arcane Amulet"
-msgstr ""
+msgstr "비전 목걸이"
 
 msgctxt "ArcaneFocus_Amulet_Description"
 msgid ""
 "This amulet is a costly item with a small gem as the main piece to be used "
 "as an Arcane Focus."
-msgstr ""
+msgstr "이 목걸이는 비전 매개체로 사용할 수 있는 작은 보석을 주요 구성품으로 하는 값비싼 아이템입니다."
 
+#, fuzzy
 msgctxt "ArcaneFocus_Bracers_Title"
 msgid "Component Bracers"
-msgstr ""
+msgstr "재료 브레이서"
 
+#, fuzzy
 msgctxt "ArcaneFocus_Bracers_Description"
 msgid ""
 "These large bracers contain fast-access pockets to store your mundane "
 "components. A must for wizards who like to travel light."
 msgstr ""
+"이 커다란 브레이서에는 자주 쓰는 구성 요소들을 보관할 수 있는 간편 주머니가 있습니다. 가벼운 여행을 좋아하는 위저드의 필수품입니다."
 
 msgctxt "ArcaneFocus_Circlet_Title"
 msgid "Arcane Circlet"
-msgstr ""
+msgstr "비전 서클릿"
 
+#, fuzzy
 msgctxt "ArcaneFocus_Circlet_Description"
 msgid ""
 "This circlet is simply a spellcasting focus with a mounted gem on a nice-"
 "looking circlet. Not a very modest piece of equipment, but practical: you "
 "just need to touch your brow when casting."
 msgstr ""
+"이 서클릿은 단순하게 말해서, 멋진 서클릿에 보석이 달린 주문시전 매개체입니다. 아주 겸손한 장비는 아니지만 실용적입니다 - 캐스팅할 때 "
+"이마를 만지기만 하면 됩니다."
 
+#, fuzzy
 msgctxt "HolySymbolAmulet_Belt_Title"
 msgid "Holy Symbol Belt Buckle"
-msgstr ""
+msgstr "성표 벨트 버클"
 
 msgctxt "HolySymbolAmulet_Belt_Description"
 msgid ""
@@ -6950,9 +6989,10 @@ msgid ""
 "accommodate all religions on Solasta."
 msgstr ""
 
+#, fuzzy
 msgctxt "HolySymbolAmulet_Cape_Title"
 msgid "Holy Symbol Cape"
-msgstr ""
+msgstr "성표 외투"
 
 msgctxt "HolySymbolAmulet_Cape_Description"
 msgid ""
@@ -6978,21 +7018,23 @@ msgstr ""
 
 msgctxt "Ingredient_PrimordialLavaStones_Title"
 msgid "Primordial Lava Stones"
-msgstr ""
+msgstr "태고의 용암석"
 
+#, fuzzy
 msgctxt "Ingredient_PrimordialLavaStones_Description"
 msgid ""
 "Created in the primordial fires of the Badlands' volcanoes, these stones "
 "contain magical powers of elemental fire."
-msgstr ""
+msgstr "황무지 화산의 태초의 불에서 만들어진 이 돌에는 불 정령의 마법의 힘이 담겨 있습니다."
 
 msgctxt "ContainerHarvestable_PrimordialLavaStones_Title"
 msgid "Primordial Lava Stones"
 msgstr "태고의 용암석"
 
+#, fuzzy
 msgctxt "ContainerHarvestable_PrimordialLavaStones_Description"
 msgid "TBC"
-msgstr ""
+msgstr "미정"
 
 msgctxt "GemPearlTitle"
 msgid "Pearl"
@@ -7278,9 +7320,10 @@ msgid ""
 "a dark tale of falling under the dominion of Arivad."
 msgstr "대부분의 페이지가 찢겨나간 개인적인 일기입니다. 남아있는 페이지에는 아리바드의 지배를 받게 된다는 어두운 이야기가 적혀있습니다."
 
+#, fuzzy
 msgctxt "SpoonOfDiscord_Title"
 msgid "Spoon of Discord"
-msgstr ""
+msgstr "불협화음의 숟가락"
 
 msgctxt "SpoonOfDiscord_Description"
 msgid ""
