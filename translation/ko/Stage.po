@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-09-25 00:48+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
+"PO-Revision-Date: 2021-09-30 14:03+0000\n"
+"Last-Translator: 이정승 <jsnuguri@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/stage/ko/>"
 "\n"
 "Language: ko\n"
@@ -95,10 +95,9 @@ msgctxt "AbilityScoresMethodRollTitle"
 msgid "Dice Rolls"
 msgstr "주사위 굴리기"
 
-#, fuzzy
 msgctxt "AbilityScoresMethodTitle"
 msgid "Choose an ability generation system and define your character's stats."
-msgstr "능력치 생성 시스템을 선택하고 당신의 캐릭터의 능력을 결정하세요."
+msgstr "능력치 생성 시스템을 선택하고 캐릭터의 능력을 결정하세요."
 
 msgctxt "AbilityScoresOptimizeDescription"
 msgid "Optimize ability score assignments for the selected character class."
@@ -118,10 +117,9 @@ msgctxt "AbilityScoresPointsCapitalTitle"
 msgid "Points Pool"
 msgstr "포인트 풀"
 
-#, fuzzy
 msgctxt "AbilityScoresPredeterminedDescription"
 msgid "Reroll 6 ability scores, using 4d6 and keeping the three best rolls."
-msgstr "4d6 주사위를 사용, 3개의 가장 높은 결과를 유지하면서 6개의 능력 점수를 다시 굴립니다."
+msgstr "4d6을 사용해서 가장 높은 3개 결과를 취합니다. 6개의 능력 점수를 다시 굴립니다."
 
 #, fuzzy
 msgctxt "AbilityScoresPredeterminedTitle"
@@ -138,10 +136,9 @@ msgctxt "AbilityScoresRemainingPointsTitle"
 msgid "Remaining"
 msgstr "남은 포인트"
 
-#, fuzzy
 msgctxt "AbilityScoresRerollDescription"
 msgid "Reroll 6 ability scores, using 4d6 and keeping the three best rolls."
-msgstr "4d6 주사위를 사용, 3개의 가장 높은 결과를 유지하면서 6개의 능력 점수를 다시 굴립니다."
+msgstr "4d6을 사용해서 가장 높은 3개 결과를 취합니다. 6개의 능력 점수를 다시 굴립니다."
 
 msgctxt "AbilityScoresRerollTitle"
 msgid "Reroll Dice"
@@ -210,11 +207,11 @@ msgstr ""
 
 msgctxt "AtHigherLevelsDescription"
 msgid "Show the features granted at higher levels."
-msgstr ""
+msgstr "상위 레벨에서 얻는 특성을 살펴봅니다."
 
 msgctxt "AtHigherLevelsTitle"
 msgid "At Higher Levels"
-msgstr ""
+msgstr "상위 레벨"
 
 msgctxt "BackgroundAlignmentTitle"
 msgid "Choose an alignment:"
@@ -388,7 +385,7 @@ msgstr "전투 특화 선택"
 
 msgctxt "HigherLevelFeaturesTitle"
 msgid "Higher Level Features"
-msgstr ""
+msgstr "상위 레벨 특성"
 
 #, fuzzy
 msgctxt "HitPointsGainFormatPlural"
@@ -559,7 +556,7 @@ msgstr "신을 선택해야 합니다."
 
 msgctxt "ProficiencyAutoSelectButtonDescription"
 msgid "Let the computer make the choices for now."
-msgstr "지금은 컴퓨터가 선택하도록 하십시오."
+msgstr "컴퓨터가 자동으로 선택합니다."
 
 msgctxt "ProficiencyAutoSelectButtonTitle"
 msgid "Auto"
@@ -698,7 +695,7 @@ msgstr "{1}에서 도구 {0}개 선택"
 
 msgctxt "RaceSelectionStageDescription"
 msgid "This stage determines the character's ancestry and its features."
-msgstr "이 단계는 캐릭터의 조상과 특성을 결정합니다."
+msgstr "이 단계는 캐릭터의 종족과 특성을 결정합니다."
 
 msgctxt "RaceSelectionStageNoneSelectedDescription"
 msgid "You must select an ancestry."
@@ -759,7 +756,7 @@ msgstr ""
 
 msgctxt "SubclassSelectionStageMartialDescription"
 msgid "This stages chooses a martial archetype for the character."
-msgstr ""
+msgstr "이 단계에서는 캐릭터의 무예 아키타입을 선택합니다."
 
 msgctxt "SubclassSelectionStageMartialFeatures"
 msgid "Martial Archetype Features"
@@ -778,6 +775,8 @@ msgid ""
 "Martial\n"
 "Archetype"
 msgstr ""
+"무예\n"
+"아키타입"
 
 msgctxt "SubclassSelectionStageOathDescription"
 msgid "This stage chooses the character's sacred oath."
@@ -805,7 +804,7 @@ msgstr ""
 
 msgctxt "SubclassSelectionStageRangerDescription"
 msgid "This stages selects the character's ranger archetype."
-msgstr ""
+msgstr "이 단계에서는 캐릭터의 레인저 아키타입을 선택합니다."
 
 msgctxt "SubclassSelectionStageRangerFeatures"
 msgid "Ranger Archetype Features"
@@ -893,7 +892,7 @@ msgstr "잠금 해제된 클래스 특성"
 
 msgctxt "UnlockedRaceFeaturesTitle"
 msgid "Unlocked Ancestry Features"
-msgstr "잠금 해제된 조상 특성"
+msgstr "잠금 해제된 종족 특성"
 
 msgctxt "SpellIntroductionCreationDescription"
 msgid "Select new spells or cantrips to learn."

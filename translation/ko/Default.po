@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-09-27 14:36+0000\n"
+"PO-Revision-Date: 2021-09-30 14:03+0000\n"
 "Last-Translator: 이름뭘로하지 <sqom3iii@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/default/ko/"
 ">\n"
@@ -399,7 +399,7 @@ msgctxt "DuelingDescription"
 msgid ""
 "When you are wielding a melee weapon in one hand and no other weapons, you "
 "gain a +2 bonus to damage rolls with that weapon."
-msgstr "한 손에 근접 무기를 들고 다른 손에 무기를 들고 있지 않으면, 무기의 피해 굴림에 +2 보너스를 얻습니다."
+msgstr "한 손에 근접 무기를 들고 다른 손에 무기를 들고 있지 않으면, 무기 피해에 +2 보너스를 얻습니다."
 
 msgctxt "DuelingTitle"
 msgid "Dueling"
@@ -1592,7 +1592,7 @@ msgstr "용암 동굴"
 
 msgctxt "LavaCavesDescription"
 msgid "An underground network of caves inhabited by tribal creatures"
-msgstr ""
+msgstr "지하에 거미줄처럼 펼쳐져있는 부족생물들의 서식 동굴"
 
 #, fuzzy
 msgctxt "WoodlandTitle"
@@ -1699,7 +1699,7 @@ msgstr "많은 돌과 바위가 땅에 떨어집니다"
 
 msgctxt "DisturbingRunesTitle"
 msgid "Disturbing Runes"
-msgstr ""
+msgstr "불안정한 룬"
 
 msgctxt "DisturbingRunesDescription"
 msgid "Mind-affecting runes damage the soul and cause random behavior"
@@ -1709,10 +1709,9 @@ msgctxt "DeathGlyphTitle"
 msgid "Death Glyph"
 msgstr "죽음의 문양"
 
-#, fuzzy
 msgctxt "DeathGlyphDescription"
 msgid "Stepping on this causes necrotic damage and terror"
-msgstr "이를 밟으면 사령 피해와 공포가 발생합니다"
+msgstr "밟으면 사령 피해와 공포가 발생합니다"
 
 #, fuzzy
 msgctxt "FireBurstTitle"
@@ -1723,15 +1722,13 @@ msgctxt "FireBurstDescription"
 msgid "An eruption causes fire damage"
 msgstr "폭발로 인해 화재 피해가 발생합니다"
 
-#, fuzzy
 msgctxt "GroundSpikesTitle"
 msgid "Ground Spikes"
-msgstr "그라운드 스파이크"
+msgstr "쇠못 덫"
 
-#, fuzzy
 msgctxt "GroundSpikesDescription"
 msgid "Spikes rise from the ground, causing piercing damage"
-msgstr "스파이크가 지면에서 솟아올라 관통 피해를 입힙니다"
+msgstr "쇠못이 지면에서 솟아올라 관통 피해를 입힙니다"
 
 #, fuzzy
 msgctxt "LightningDischargeTitle"

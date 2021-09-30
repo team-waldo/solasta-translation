@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-09-27 14:36+0000\n"
+"PO-Revision-Date: 2021-09-30 14:03+0000\n"
 "Last-Translator: 이정승 <jsnuguri@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/reaction/"
 "ko/>\n"
@@ -156,10 +156,9 @@ msgctxt "GiantKillerReactTitle"
 msgid "Attack"
 msgstr "공격"
 
-#, fuzzy
 msgctxt "GiantKillerTitle"
 msgid "Giant Killer"
-msgstr "자이언트 킬러"
+msgstr "거인 살해자"
 
 msgctxt "MainTitle"
 msgid "Reacting to"
@@ -209,7 +208,7 @@ msgstr "공격"
 
 msgctxt "ReactionShotTitle"
 msgid "Reaction Shot"
-msgstr ""
+msgstr "반응 사격"
 
 msgctxt "SecondsTitle"
 msgid "sec"
@@ -271,7 +270,7 @@ msgstr ""
 
 msgctxt "SubitemSelectCounterspellTitle"
 msgid "Slot Level"
-msgstr ""
+msgstr "슬롯 레벨"
 
 msgctxt "SubitemSelectDivineSmiteDescription"
 msgid "Select a slot level to consume for your Divine Smite"
@@ -279,7 +278,7 @@ msgstr ""
 
 msgctxt "SubitemSelectDivineSmiteTitle"
 msgid "Slot Level"
-msgstr ""
+msgstr "슬롯 레벨"
 
 msgctxt "SubitemSelectFeatherFallDescription"
 msgid "Select a slot level to spend to cast Feather Fall"
@@ -287,7 +286,7 @@ msgstr ""
 
 msgctxt "SubitemSelectFeatherFallTitle"
 msgid "Slot Level"
-msgstr ""
+msgstr "슬롯 레벨"
 
 msgctxt "SubitemSelectShieldDescription"
 msgid "Select a slot level to spend to cast shield"
@@ -295,7 +294,7 @@ msgstr ""
 
 msgctxt "SubitemSelectShieldTitle"
 msgid "Slot Level"
-msgstr ""
+msgstr "슬롯 레벨"
 
 msgctxt "UncannyDodgeDescription"
 msgid "{0} is attacking {1}, who can react to halve incoming damage."

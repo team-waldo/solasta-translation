@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-09-16 10:22+0000\n"
-"Last-Translator: BaMoT <tree0074@naver.com>\n"
+"PO-Revision-Date: 2021-09-30 14:03+0000\n"
+"Last-Translator: 이름뭘로하지 <sqom3iii@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/campaign/"
 "ko/>\n"
 "Language: ko\n"
@@ -585,10 +585,9 @@ msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Academic_07"
 msgid "Status Restored"
 msgstr "상태 복원됨"
 
-#, fuzzy
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Acolyte_01"
 msgid "Duty Calls"
-msgstr "의무의 부름"
+msgstr "교역(敎役)"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Acolyte_02"
 msgid "Lost Souls"
@@ -624,7 +623,7 @@ msgstr "다가오는 위협"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Aristocrat_05"
 msgid "Decisions, Decisions…"
-msgstr ""
+msgstr "계속되는 선택..."
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Aristocrat_06"
 msgid "The Mark of Arivad"
@@ -751,7 +750,7 @@ msgstr "잊혀진 과거"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Sellsword_03"
 msgid "It Is You!"
-msgstr ""
+msgstr "너구나!"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Sellsword_04"
 msgid "The Keys"
@@ -798,14 +797,13 @@ msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Spy_04"
 msgid "What's the Plan?"
 msgstr "계획이 뭐라고?"
 
-#, fuzzy
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Spy_05"
 msgid "Going Under"
-msgstr "아래로"
+msgstr "숨어들다"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Spy_06"
 msgid "Tradecraft"
-msgstr "무역"
+msgstr "첩보기술"
 
 msgctxt "CrownOfTheMagister_Journal_DialogTitle_Background_Quest_Spy_07"
 msgid "It's Done"
