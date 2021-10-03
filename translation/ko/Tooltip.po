@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-09-30 14:03+0000\n"
-"Last-Translator: 이정승 <jsnuguri@naver.com>\n"
+"PO-Revision-Date: 2021-10-03 12:49+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/tooltip/ko/"
 ">\n"
 "Language: ko\n"
@@ -32,7 +32,7 @@ msgstr ""
 
 msgctxt "AdvancementByCasterLevelFormat"
 msgid "At caster levels 5, 11, and 17"
-msgstr "캐스터 레벨 5,11 및 17에서"
+msgstr "시전자 레벨 5, 11, 17에서"
 
 msgctxt "AdvancementDurationHours_1_8_24"
 msgid "Duration increases from 1 to 8, then 24 hours"
@@ -65,7 +65,6 @@ msgctxt "AdvancementGainAdditionalSpellLevelMultipleFormat"
 msgid "{0} spell levels "
 msgstr "{0} 주문 레벨 "
 
-#, fuzzy
 msgctxt "AdvancementGainAdditionalSpellLevelSingleFormat"
 msgid "{0} spell level "
 msgstr "{0} 주문 레벨 "
@@ -240,20 +239,17 @@ msgctxt "IngredientsHeaderTitle"
 msgid "Required Ingredients"
 msgstr "요구 재료"
 
-#, fuzzy
 msgctxt "LightingBrightFormat"
 msgid "In Bright Light"
-msgstr "밝은 곳에서"
+msgstr "밝음"
 
-#, fuzzy
 msgctxt "LightingDarknessFormat"
 msgid "In Darkness"
-msgstr "어둠 속에서"
+msgstr "어둠"
 
-#, fuzzy
 msgctxt "LightingDimFormat"
 msgid "In Dim Light"
-msgstr "약간 어두운 곳에서"
+msgstr "약간 어두움"
 
 #, fuzzy
 msgctxt "LightingTargetBrightFormat"
@@ -316,7 +312,7 @@ msgstr "원거리 공격"
 
 msgctxt "ProximityRangeEnemyNearbyTitle"
 msgid "Ranged attack with Enemy Nearby"
-msgstr ""
+msgstr "접근해 있는 적에게 원거리 공격"
 
 #, fuzzy
 msgctxt "ProxyControlableTitle"
@@ -404,12 +400,10 @@ msgctxt "StackSizeTitle"
 msgid "Stack Size"
 msgstr ""
 
-#, fuzzy
 msgctxt "StarterPackContentTitle"
 msgid "Contents"
 msgstr "내용물"
 
-#, fuzzy
 msgctxt "SubspellsEffectsTitle"
 msgid "Subspell Effects"
 msgstr "하위 주문 효과"
@@ -418,10 +412,9 @@ msgctxt "TagAmmunitionTitle"
 msgid "Ammunition"
 msgstr "탄약"
 
-#, fuzzy
 msgctxt "TagAreaOfEffectTitle"
 msgid "Area of Effect"
-msgstr "효과 범위"
+msgstr "범위 효과"
 
 msgctxt "TagAttunementTitle"
 msgid "Attunement"
@@ -613,7 +606,7 @@ msgstr "광원"
 
 msgctxt "TagLightTitle"
 msgid "Light"
-msgstr "빛"
+msgstr "가벼움"
 
 msgctxt "TagLoadingTitle"
 msgid "Loading"
@@ -651,7 +644,7 @@ msgstr "물약"
 
 msgctxt "TagPowerTitle"
 msgid "Power"
-msgstr ""
+msgstr "능력"
 
 #, fuzzy
 msgctxt "TagProtectionTitle"
@@ -710,9 +703,10 @@ msgctxt "TagSilverTitle"
 msgid "Silver"
 msgstr "은"
 
+#, fuzzy
 msgctxt "TagSpellFocusTitle"
 msgid "Spell Focus"
-msgstr "주문 집중"
+msgstr "주문 매개체"
 
 msgctxt "TagSpellSlotsTitle"
 msgid "Spell Slots"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-09-27 14:36+0000\n"
+"PO-Revision-Date: 2021-10-03 12:50+0000\n"
 "Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/map/ko/>\n"
 "Language: ko\n"
@@ -55,7 +55,7 @@ msgstr ""
 
 msgctxt "Location_AbjurationRuinedKeep_Title"
 msgid "Tirmarian Ruins"
-msgstr ""
+msgstr "티르마르 유적"
 
 msgctxt "Location_AbjurationRuinedKeep_UnchartedDescription"
 msgid ""
@@ -67,16 +67,16 @@ msgstr ""
 
 msgctxt "Location_AbjurationRuinedKeep_UnchartedTitle"
 msgid "Possible Gem Location"
-msgstr ""
+msgstr "보석 추정 위치"
 
 msgctxt "Location_AbjurationRuinedKeep_UnvisitedDescription"
 msgid ""
 "This dry river bed holds an old Tirmarian monastery and a Solastan building."
-msgstr ""
+msgstr "이 건조한 강바닥에는 옛 티르마리아 수도원과 솔라스타 양식 건물이 있습니다."
 
 msgctxt "Location_AbjurationRuinedKeep_UnvisitedTitle"
 msgid "Tirmarian Ruins"
-msgstr ""
+msgstr "티르마르 유적"
 
 msgctxt "Location_AerElai_Description"
 msgid ""
@@ -87,7 +87,7 @@ msgstr ""
 
 msgctxt "Location_AerElai_Title"
 msgid "The Aer-Elai"
-msgstr ""
+msgstr "에어 엘라이"
 
 msgctxt "Location_AerElai_UnchartedDescription"
 msgid "Should not be displayed"
@@ -141,11 +141,11 @@ msgstr ""
 
 msgctxt "Location_BoneKeep_Laboratory_Access_Title"
 msgid "Basement Entrance"
-msgstr ""
+msgstr "지하 진입로"
 
 msgctxt "Location_BoneKeep_Laboratory_Title"
 msgid "Laboratory"
-msgstr ""
+msgstr "실험실"
 
 msgctxt "Location_BoneKeep_Lair_Title"
 msgid "Defiler's Lair"
@@ -153,7 +153,7 @@ msgstr ""
 
 msgctxt "Location_BoneKeep_Pond_Title"
 msgid "Pond"
-msgstr ""
+msgstr "연못"
 
 msgctxt "Location_BoneKeep_Sewers_Title"
 msgid "Sewers"
@@ -161,7 +161,7 @@ msgstr "하수도"
 
 msgctxt "Location_BoneKeep_Solar_Access_Title"
 msgid "Second Floor Entrance"
-msgstr ""
+msgstr "2층 진입로"
 
 msgctxt "Location_BoneKeep_Solar_Title"
 msgid "The Solar"
@@ -185,7 +185,7 @@ msgstr ""
 
 msgctxt "Location_BoneKeep_UnchartedTitle"
 msgid "Possible Gem Location"
-msgstr "보석이 있을지도 모르는 곳"
+msgstr "보석 추정 위치"
 
 msgctxt "Location_BoneKeep_UnvisitedDescription"
 msgid ""
@@ -203,7 +203,7 @@ msgstr ""
 
 msgctxt "Location_CaerLem_Exit_Title"
 msgid "Exit"
-msgstr ""
+msgstr "출구"
 
 msgctxt "Location_CaerLem_GoblinCave_Title"
 msgid "Goblin Cave"
@@ -231,7 +231,7 @@ msgstr "소락 야영지"
 
 msgctxt "Location_CaerLem_Tower_Title"
 msgid "Tower"
-msgstr ""
+msgstr "탑"
 
 msgctxt "Location_CaerLem_Title"
 msgid "Caer Lem Outpost"
@@ -438,10 +438,9 @@ msgid ""
 "Investigate this location."
 msgstr ""
 
-#, fuzzy
 msgctxt "Location_CradleOfFire_UnchartedTitle"
 msgid "Possible Gem Location"
-msgstr "보석 위치 추정 지역"
+msgstr "보석 추정 위치"
 
 msgctxt "Location_CradleOfFire_UnvisitedDescription"
 msgid ""
@@ -479,7 +478,7 @@ msgstr ""
 
 msgctxt "Location_Illusion_UnchartedTitle"
 msgid "Possible Gem Location"
-msgstr ""
+msgstr "보석 추정 위치"
 
 msgctxt "Location_Illusion_UnvisitedDescription"
 msgid "Should not be displayed"
@@ -743,7 +742,7 @@ msgstr ""
 
 msgctxt "Location_MindOfTheMaster_Title"
 msgid "Lava Forest"
-msgstr ""
+msgstr "용암 숲"
 
 msgctxt "Location_MindOfTheMaster_UnchartedDescription"
 msgid ""
@@ -753,7 +752,7 @@ msgstr ""
 
 msgctxt "Location_MindOfTheMaster_UnchartedTitle"
 msgid "Lava Forest"
-msgstr ""
+msgstr "용암 숲"
 
 msgctxt "Location_MindOfTheMaster_VisitedDescription"
 msgid ""
@@ -763,15 +762,15 @@ msgstr ""
 
 msgctxt "Location_MindOfTheMaster_VisitedTitle"
 msgid "Lava Forest"
-msgstr ""
+msgstr "용암 숲"
 
 msgctxt "Location_TheSuperEgo_TheBridge_Title"
 msgid "Bridge"
-msgstr ""
+msgstr "다리"
 
 msgctxt "Location_TheSuperEgo_TheHall_Title"
 msgid "Entrance"
-msgstr ""
+msgstr "입구"
 
 msgctxt "Location_TheSuperEgo_TheLandingPad_Title"
 msgid "Platform"
@@ -783,7 +782,7 @@ msgstr ""
 
 msgctxt "Location_TempleOfMisaye_Title"
 msgid "Temple of Misaye"
-msgstr ""
+msgstr "미사이에의 신전"
 
 msgctxt "Location_CradleOfFire_RedscarGateHall"
 msgid "Redscar Gate Hall"
@@ -795,7 +794,7 @@ msgstr ""
 
 msgctxt "Location_Farmhouse_Title"
 msgid "Farmhouse"
-msgstr ""
+msgstr "농가"
 
 msgctxt "Location_Farmhouse_Description"
 msgid "A farmhouse in the Vale of Coparann which belongs to your family."
@@ -811,7 +810,7 @@ msgstr ""
 
 msgctxt "Location_HalmanSummersHouse_Title"
 msgid "Halman Summer's House"
-msgstr ""
+msgstr "할만 서머의 집"
 
 msgctxt "Location_HalmanSummersHouse2_Title"
 msgid "Coven of Arivad"
@@ -819,7 +818,7 @@ msgstr ""
 
 msgctxt "Location_AerElaiFinal_ImperialGate"
 msgid "Imperial Gate"
-msgstr ""
+msgstr "제국 관문"
 
 msgctxt "Location_AerElaiFinal_BoneYard"
 msgid "Boneyard"
@@ -839,11 +838,11 @@ msgstr ""
 
 msgctxt "Location_AerElaiFinal_TheRift"
 msgid "The Rift"
-msgstr ""
+msgstr "균열"
 
 msgctxt "Location_AerElaiFinal_LaveFall"
 msgid "Lava Falls"
-msgstr ""
+msgstr "용암 폭포"
 
 msgctxt "Location_TempleHospital_Title"
 msgid "Main Dispensary"
@@ -859,7 +858,7 @@ msgstr ""
 
 msgctxt "Location_CCyflen_Temple_Misaye_Title"
 msgid "Secret Temple of Misaye"
-msgstr ""
+msgstr "미사이에의 비밀 사원"
 
 msgctxt "Location_Spy_SmallFort_Title"
 msgid "Spy Outpost"
@@ -881,7 +880,7 @@ msgstr ""
 
 msgctxt "Location_Legendary_UnvisitedTitle"
 msgid "Caer Elis"
-msgstr ""
+msgstr "케어 엘리스"
 
 msgctxt "Location_Legendary_UnvisitedDescription"
 msgid ""
@@ -947,7 +946,7 @@ msgstr ""
 
 msgctxt "Location_Waterfall_Title"
 msgid "Waterfall"
-msgstr ""
+msgstr "폭포"
 
 msgctxt "Location_Waterfall_Description"
 msgid "A refreshing landscape, a flowing river, and roaming monsters."
@@ -1025,7 +1024,7 @@ msgstr ""
 
 msgctxt "Location_Presentation_Title_Marches"
 msgid "Marches"
-msgstr ""
+msgstr "접경지"
 
 msgctxt "Location_Presentation_Description_Marches"
 msgid "A campsite in the Marches, on top of a mountain."
@@ -1065,7 +1064,7 @@ msgstr ""
 
 msgctxt "Waypoint_DLC1_Marches_Camp"
 msgid "Merchant campsite"
-msgstr ""
+msgstr "상단 야영지"
 
 msgctxt "Waypoint_DLC1_Marches_GrottoEntrance"
 msgid "Grotto entrance"
@@ -1093,31 +1092,31 @@ msgstr ""
 
 msgctxt "Location_Uncharted_Description_Complex"
 msgid "TBD"
-msgstr ""
+msgstr "TBD"
 
 msgctxt "Location_Known_Title_Complex"
 msgid "TBD"
-msgstr ""
+msgstr "TBD"
 
 msgctxt "Location_Known_Description_Complex"
 msgid "TBD"
-msgstr ""
+msgstr "TBD"
 
 msgctxt "Location_Explored_Title_Complex"
 msgid "TBD"
-msgstr ""
+msgstr "TBD"
 
 msgctxt "Location_Explored_Description_Complex"
 msgid "TBD"
-msgstr ""
+msgstr "TBD"
 
 msgctxt "Location_Presentation_Title_Complex"
 msgid "TBD"
-msgstr ""
+msgstr "TBD"
 
 msgctxt "Location_Presentation_Description_Complex"
 msgid "TBD"
-msgstr ""
+msgstr "TBD"
 
 msgctxt "Location_Uncharted_Title_Valley"
 msgid "Valley"
@@ -1125,31 +1124,32 @@ msgstr ""
 
 msgctxt "Location_Uncharted_Description_Valley"
 msgid "TBD"
-msgstr ""
+msgstr "TBD"
 
 msgctxt "Location_Known_Title_Valley"
 msgid "TBD"
-msgstr ""
+msgstr "TBD"
 
+#, fuzzy
 msgctxt "Location_Known_Description_Valley"
 msgid "TBD"
-msgstr ""
+msgstr "TBD"
 
 msgctxt "Location_Explored_Title_Valley"
 msgid "TBD"
-msgstr ""
+msgstr "TBD"
 
 msgctxt "Location_Explored_Description_Valley"
 msgid "TBD"
-msgstr ""
+msgstr "TBD"
 
 msgctxt "Location_Presentation_Title_Valley"
 msgid "TBD"
-msgstr ""
+msgstr "TBD"
 
 msgctxt "Location_Presentation_Description_Valley"
 msgid "TBD"
-msgstr ""
+msgstr "TBD"
 
 msgctxt "Location_Uncharted_Title_Complex_Indoor"
 msgid "Complex Indoor"
@@ -1241,16 +1241,16 @@ msgstr ""
 
 msgctxt "Location_Presentation_Title_BuriedCity_Tomb"
 msgid "Marches"
-msgstr ""
+msgstr "접경지"
 
 msgctxt "Location_Presentation_Description_BuriedCity_Tomb"
 msgid "A campsite in the Marches, on top of a mountain."
-msgstr ""
+msgstr "접경지 산 꼭대기에 위치한 야영지."
 
 msgctxt "Location_Presentation_Title_BuriedCity_Palace"
 msgid "Marches"
-msgstr ""
+msgstr "접경지"
 
 msgctxt "Location_Presentation_Description_BuriedCity_Palace"
 msgid "A campsite in the Marches, on top of a mountain."
-msgstr ""
+msgstr "접경지 산 꼭대기에 위치한 야영지."

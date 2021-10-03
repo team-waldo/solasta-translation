@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-09-30 14:03+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
+"PO-Revision-Date: 2021-10-03 12:50+0000\n"
+"Last-Translator: 이름뭘로하지 <sqom3iii@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
 "Language: ko\n"
@@ -18,42 +18,34 @@ msgctxt "NecromancyTextObj01"
 msgid "Caer Tenarion. Iron Legion XXV. Year 24, Emperor Gwaltrian III"
 msgstr "케어 테나리온. 강철의 군단 XXV. 황제 그왈트리안 3세, 재위 24년"
 
-#, fuzzy
 msgctxt "NecromancyTextObj02"
 msgid "Iron Legion XXV. The Glorious Dead"
-msgstr "강철 25군단. 영광스러운 죽음"
+msgstr "제 25 강철 군단. 영광스러운 죽음"
 
-#, fuzzy
 msgctxt "NecromancyTextObj03"
 msgid "Officers of the Glorious Iron Legion XXV. 24 Gwalt. III 13 Mel. II"
-msgstr "영광스러운 강철 25군단 병사들. 그왈트리안 3세 24년. 멜 2세 13년"
+msgstr "영광스러운 제 25 강철 군단 병사들. 그왈트리안 3세 24년. 멜 2세 13년"
 
-#, fuzzy
 msgctxt "NecromancyTextObj04"
 msgid "Officers - Leg. XXV. 17 Mar. XV "
-msgstr "장교 - 25군단. Mar 15세 17년. "
+msgstr "장교 - 제 25군단. Mar 15세 17년. "
 
-#, fuzzy
 msgctxt "NecromancyTextObj05"
 msgid "Captain Fancy-pants can muck out his own damn horse."
-msgstr "고상한 대장님께선 지 좆같은 말 정도는 혼자 청소하시라 그래."
+msgstr "고상한 대장님께선 지 좆같은 말 정도는 알아서 청소하시라 그래."
 
-#, fuzzy
 msgctxt "NecromancyTextObj09"
 msgid "Ellivir Malorian, Guard Captain, 1875-2367"
 msgstr "엘리비르 말로리안, 근위대 대장, 1875-2367"
 
-#, fuzzy
 msgctxt "NecromancyTextObj10"
 msgid "Faorilith Goriel, Apprentice, 2206-2293"
 msgstr "페오릴리스 고리엘, 이등병, 2206-2293"
 
-#, fuzzy
 msgctxt "NecromancyTextObj11"
 msgid "Halithir Marbilor, Adept, 2615-3210"
 msgstr "할리시르 마르빌로르, 부사관, 2615-3210"
 
-#, fuzzy
 msgctxt "NecromancyTextObj12"
 msgid "Dariel Fallithir, Guard, 1120-1536"
 msgstr "다리엘 팔리시르, 근위병, 1120-1536"
@@ -94,10 +86,9 @@ msgctxt "NecromancyTextObj22"
 msgid "Notes on recent experiments, 3042-3"
 msgstr "마지막 실험 3042-3에 대한 메모"
 
-#, fuzzy
 msgctxt "NecromancyTextObj23"
 msgid "A strange-looking symbol, probably mystical."
-msgstr "아마 신비스러운 의미가 있는, 이상하게 생긴 기호."
+msgstr "아마 신비한 의미가 있는, 이상하게 생긴 기호."
 
 msgctxt "NecromancyTextObj24"
 msgid "A rune or glyph of some unknown type."
@@ -1174,10 +1165,9 @@ msgctxt "Telema_121_Room01_BasRelief_Cleric"
 msgid "What is it?"
 msgstr "그게 뭐죠?"
 
-#, fuzzy
 msgctxt "Telema_122_Room01_BasRelief_Wizard"
 msgid "It's a scene from the Imperial conquest of the northern provinces."
-msgstr "제국이 북부 지역을 정복하는 장면이야."
+msgstr "제국의 북부 지역 원정을 묘사한 장면이야."
 
 msgctxt "Telema_123_Room01_BasRelief_Cleric"
 msgid "When the Empire ruled the lands of the Snow Alliance."
@@ -2104,7 +2094,7 @@ msgstr "그렇게 무사히 탈출했군. 잘했어, 친구!"
 
 msgctxt "Tavern_02_3_Explorer_Normal"
 msgid "My flagon is empty of ale, and Lord Carran still isn't here."
-msgstr "술잔이 비도록 캐런 경은 나타나질 않네."
+msgstr "술잔이 비도록 캐런 경은 나타나질 않는군."
 
 msgctxt "Tavern_02_4_Explorer_Cynical"
 msgid ""
@@ -2112,27 +2102,25 @@ msgid ""
 "while. "
 msgstr "여기에 꽤 오래 있어야 할 것 같은데, 다른 사람이 이야기 하나 더 하는 게 어때? "
 
-#, fuzzy
 msgctxt "Tavern_02_5_Explorer_Lawful"
 msgid ""
 "This Council needs to get organized. They have no right to keep us waiting "
 "like this. "
-msgstr "의회는 일을 좀 체계적으로 해야 해. 우리를 이렇게 기다리게 해서는 안 된다고. "
+msgstr "의회는 일을 체계적으로 해야 해. 우리를 이렇게 기다리게 해서는 안 된다고. "
 
 msgctxt "Tavern_02_6_Spellcaster_Normal"
 msgid "Have another ale. It's not like you have anywhere better to be."
-msgstr "맥주 한 잔 더 해. 여기 말고 더 나은 곳이 있는 것도 아니잖아."
+msgstr "맥주나 한 잔 더 마시자고. 여기말고 더 나은 곳이 있는 것도 아니잖아."
 
-#, fuzzy
 msgctxt "Tavern_02_7_Spellcaster_Greedy"
 msgid "I don't mind waiting as long as they pay us for our darned time. "
-msgstr "낭비한 시간에 대한 대가만 준다면 얼마나 기다리든지 상관 없어. "
+msgstr "이 빌어먹을 시간에 걸맞은 돈만 준다면 얼마든지 기다릴 수 있어. "
 
 msgctxt "Tavern_02_8_Spellcaster_Aristocrat"
 msgid ""
 "The Council is likely busy with important matters of state, and we are not, "
 "so have patience."
-msgstr "의회는 국가의 여러 중대사로 바쁠 테지만, 우리는 그렇지 않잖아. 인내심을 가져."
+msgstr "의회는 국가의 여러 중대사로 바쁠 테지만, 우리는 한가하잖아. 인내심을 가지라고."
 
 msgctxt "Tavern_02_9_Spellcaster_Lowlife"
 msgid ""
@@ -2144,7 +2132,7 @@ msgctxt "Tavern_02_10_Fighter_Normal"
 msgid ""
 "Well, let me tell you my story then. I, too, was accosted on the way here, "
 "but I faced my foes head on. "
-msgstr "자, 그럼 내 이야기를 하지. 나 역시 오는 길에 위협을 받았지만, 나는 적들과 정면으로 맞섰어. "
+msgstr "자, 그럼 내 이야기를 해 볼까. 나 역시 여기로 오면서 위협을 받았지만, 나는 적들과 정면으로 맞서 싸웠지. "
 
 msgctxt "Tavern_02_11_Fighter_Violent"
 msgid ""
@@ -2154,7 +2142,7 @@ msgstr "나도 할 이야기가 있어. 나 역시 공격을 받았지만 피와
 
 msgctxt "Tavern_02_12_Stealth_Slang"
 msgid "So what are you waiting for? Spit it out, why don't you?"
-msgstr "그럼 뭘 꾸물거리고 있어? 한번 늘어놔 보라고?"
+msgstr "그럼 뭘 꾸물거리고 있어? 한번 늘어놔 봐."
 
 msgctxt "Tavern_02_13_Stealth_Normal"
 msgid "Let's hear it, then. Don't be shy."
@@ -3248,10 +3236,9 @@ msgid ""
 "forever."
 msgstr "여관이요? 흠, 그렇게 오래되진 않았지만, 아주 유서깊고 전통있는 곳처럼 느껴지죠."
 
-#, fuzzy
 msgctxt "Bartender_Dialog_01_8_Bartender_NPC"
 msgid "You can meet all kinds of people here, that's the good thing."
-msgstr "온갖 인간 군상을 만날 수 있습니다, 좋은 점이죠."
+msgstr "온갖 인간 군상을 만날 수 있습니다. 좋은 점이죠."
 
 msgctxt "Bartender_Dialog_01_9_Bartender_NPC"
 msgid ""
@@ -3332,11 +3319,11 @@ msgstr "저는 애니 바그모다입니다. 스캐빈저 길드의 보급관이
 
 msgctxt "Scavengers_Dialog_01_5_Quartermaster_NPC"
 msgid "We don't have a seat in there, but…"
-msgstr "우린 비록 의회에 대표단은 없지만…"
+msgstr "비록 평의회에 참여하는 대표는 없지만…"
 
 msgctxt "Scavengers_Dialog_01_6_Quartermaster_NPC"
 msgid "…they all know exploring the Badlands without us would be a bad idea."
-msgstr "... 그들 모두 우리 없이 황무지를 탐험하는 것이 나쁜 생각이라는 것은 알고 있습니다."
+msgstr "... 모두가 우리 없이 황무지를 탐험하는 것이 어리석은 생각이라는 것은 알고 있습니다."
 
 msgctxt "Scavengers_Dialog_01_7_Quartermaster_NPC"
 msgid "That's why you should stop by our headquarters downtown."
@@ -3344,7 +3331,7 @@ msgstr "그게 우리 본부에 들러야 하는 이유죠."
 
 msgctxt "Scavengers_Dialog_01_8_Quartermaster_NPC"
 msgid "You'll need our services, I'm sure."
-msgstr "확신하건데 여러분은 우리 서비스를 필요로 할 겁니다."
+msgstr "장담컨대 여러분은 우리 서비스가 필요할 겁니다."
 
 msgctxt "Scavengers_Dialog_01_9_Any_Default"
 msgid "Is that… compulsory?"
@@ -3352,11 +3339,11 @@ msgstr "그건... 강제적인 건가요?"
 
 msgctxt "Scavengers_Dialog_01_10_Quartermaster_NPC"
 msgid "No, but you'll find our services useful. Everyone does."
-msgstr ""
+msgstr "그렇지 않습니다. 하지만 우리의 서비스가 유용하다는걸 아시게 될 겁니다. 모두가 인정하죠."
 
 msgctxt "Scavengers_Dialog_01_11_Quartermaster_NPC"
 msgid "Did lord Carran not tell you?"
-msgstr "캐런 경이 말해주지 않았나요?"
+msgstr "캐런 경이 말해 주지 않았나요?"
 
 msgctxt "Scavengers_Dialog_01_12_Any_Default"
 msgid "No - he pretty much stuck to giving orders."
@@ -5551,7 +5538,7 @@ msgstr "좋아. 다들 조심히 움직이고, 한 번에 다 같이 공격하�
 
 msgctxt "CaerLem_InspectFort1_Starter_Default"
 msgid "What do you think?"
-msgstr "무슨 생각해?"
+msgstr "어떻게 생각해?"
 
 msgctxt "CaerLem_InspectFort2_Stonecunning_Default"
 msgid "Typical Manacalon architecture… "
@@ -5575,7 +5562,7 @@ msgstr "그게 끝이야? 석재라고?"
 
 msgctxt "CaerLem_InspectFort6_Stonecunning_Default"
 msgid "I'm not answering that."
-msgstr "그 질문엔 답하지 않을거야."
+msgstr "그 질문엔 답하지 않을 거야."
 
 msgctxt "CaerLem_InspectFort6_Stonecunning_Formal"
 msgid "I won't dignify that question with an answer."
@@ -5607,7 +5594,7 @@ msgstr "보조 관문이었던 것 같군."
 
 msgctxt "CaerLem_InspectTeleporter4_Arcane_Formal"
 msgid "I believe this was called a minor Imperial Gate."
-msgstr "이것은 제국의 보조 게이트라 불리던 물건이지."
+msgstr "이것은 제국의 보조 관문라 불리던 물건이지."
 
 msgctxt "CaerLem_InspectTeleporter5_Arcane_Default"
 msgid "At its height, the Manacalon Empire had countless Gates like this."
@@ -5615,7 +5602,7 @@ msgstr "마나칼론 제국의 힘이 가장 강력했을 때, 이런 관문은 
 
 msgctxt "CaerLem_InspectTeleporter6_Arcane_Default"
 msgid "To magically travel through the Empire."
-msgstr "마법의 힘으로 제국내에서 빠른 이동을 하기 위해서 말이야."
+msgstr "마법의 힘으로 제국 안팎을 빠르게 이동하기 위해서 말이야."
 
 msgctxt "CaerLem_InspectTeleporter7_Partner_Default"
 msgid "I don't suppose it still works?"
@@ -5627,7 +5614,7 @@ msgstr "어딘가에는 아직 작동하는 관문도 있다고 하더군."
 
 msgctxt "CaerLem_InspectTeleporter9_Commentator_Default"
 msgid "And this plaque? Any value?"
-msgstr "그리고 이 명판은? 어떤 가치가 있는거야?"
+msgstr "그리고 이 명판은? 어떤 가치가 있는 거야?"
 
 msgctxt "CaerLem_InspectTeleporter10_Arcane_Default"
 msgid "Maybe. The Tower of Knowledge? Why not?"
@@ -5635,9 +5622,8 @@ msgstr "지식의 탑 소속 사람들한테는 가치가 있을걸?"
 
 msgctxt "CaerLem_InspectCorpse1_Starter_Default"
 msgid "This one didn't die yesterday."
-msgstr "이 건 최근에 죽은 사람이 아니군."
+msgstr "최근에 죽은 사람은 아니군."
 
-#, fuzzy
 msgctxt "CaerLem_InspectCorpse2_Partner_Default"
 msgid "What's this outfit?"
 msgstr "이 옷차림은 뭐지?"
@@ -5646,16 +5632,14 @@ msgctxt "CaerLem_InspectCorpse3_History_Default"
 msgid "Tirmarian."
 msgstr "티르마르 복식이야."
 
-#, fuzzy
 msgctxt "CaerLem_InspectCorpse4_Selfpres_Default"
 msgid "Who wants to open this?"
-msgstr "이거 열어보고 싶은 사람?"
+msgstr "이거 열어 보고 싶은 사람?"
 
 msgctxt "CaerLem_InspectCorpse5_Greed_Default"
 msgid "You never know, there might be a fortune in there."
 msgstr "거기에 대박이 있을지는 아무도 모르지."
 
-#, fuzzy
 msgctxt "CaerLem_InspectTirmarian1_Starter_Default"
 msgid "Can anyone read that?"
 msgstr "이거 읽을 수 있는 사람?"
@@ -5749,7 +5733,7 @@ msgstr "거의 죽을 뻔했습니다!"
 
 msgctxt "Council01_6_Any_ReligionEinar"
 msgid "We must report to the Council immediately."
-msgstr "의회에 즉시 보고해야 합니다."
+msgstr "평의회에 즉시 보고해야 합니다."
 
 msgctxt "Council01_7_Any_Greedy"
 msgid "Not paid enough."
@@ -5769,7 +5753,7 @@ msgstr "좋습니다."
 
 msgctxt "Council01_11_NPC_follows4_Carran"
 msgid "Let's hope the Council does, then!"
-msgstr "그럼, 의회는 믿어주길 바랍시다!"
+msgstr "그럼, 평의회는 믿어주길 바랍시다!"
 
 msgctxt "Council01_12_NPC_follows5_Carran"
 msgid "Yes here you are, safe and sound."
@@ -5777,7 +5761,7 @@ msgstr "예, 여기 멀쩡히 살아 계시군요."
 
 msgctxt "Council01_13_NPC_follows6_Carran"
 msgid "Of course. I'll inform the Council that you've returned."
-msgstr "물론입니다. 여러분이 돌아왔다는 것을 의회에 알리겠습니다."
+msgstr "물론입니다. 여러분이 돌아왔다는 것을 평의회에 알리겠습니다."
 
 #, fuzzy
 msgctxt "Council01_14_NPC_follows7_Carran"
@@ -5814,7 +5798,7 @@ msgstr "... 아마도 회의에는 그들과 함께 참석하게 될 겁니다."
 
 msgctxt "Council01_22_Any_Practical"
 msgid "We have urgent news!"
-msgstr "긴급한 소식이 있습니다!"
+msgstr "긴급 사안입니다!"
 
 msgctxt "Council01_23_Any_Practical_Slang"
 msgid "Listen, we can't wait around here! What we've got is big!"
@@ -5870,7 +5854,7 @@ msgstr "그들을 우리 눈으로... 똑똑히 봤습니다!"
 
 msgctxt "Council01_36_NPC_Carran"
 msgid "Well, if you want to bring that to the Council… "
-msgstr "음, 그 사실을 의회에 제시하고 싶다면... "
+msgstr "음, 그 사실을 평의회에 제시하고 싶다면... "
 
 msgctxt "Council01_37_NPC_Carran"
 msgid "…that's your decision."
@@ -5938,7 +5922,7 @@ msgstr "저희는 이 보석이 마법 특성을 지니고 있다고 판단했�
 
 msgctxt "Council01_53_NPC_Ed_Morgan"
 msgid "…and we believe the Council should examine it."
-msgstr "... 그리고 의회에서 이것을 조사해 주시기를 바랍니다."
+msgstr "... 그리고 평의회에서 이것을 조사해 주시기를 바랍니다."
 
 msgctxt "Council01_54_NPC_Danantar"
 msgid "So we will, captain, but really… "
@@ -5999,7 +5983,7 @@ msgstr "경, 그게 무슨 뜻이죠?"
 
 msgctxt "Council01_68_NPC_Tower_Faisech_Faisech"
 msgid "How many times has the Council heard tales of these so-called Soraks?"
-msgstr "의회는 이 소락이라 일컫는 옛이야기를 얼마나 많이 들어 왔습니까?"
+msgstr "평의회는 이 소락이라 일컫는 옛이야기를 얼마나 많이 들어 왔습니까?"
 
 msgctxt "Council01_69_NPC_Antiquarian_Gormsdottir"
 msgid "At least twenty, I'd say."
@@ -6051,7 +6035,7 @@ msgstr "아, 신입? 신입들은 뜬소문을 맹신하는 경향이 있더군�
 
 msgctxt "Council01_81_NPC_LeiraKean"
 msgid "They assure me that they saw Soraks as well."
-msgstr "이 자들은 소락을 봤다고 저에게도 확언했습니다."
+msgstr "이들은 소락을 봤다고 저에게도 확언했습니다."
 
 msgctxt "Council01_82_NPC_Einarium_Sunblaze"
 msgid "Wait!"
@@ -6092,7 +6076,7 @@ msgstr "지금까지는 동시에 두 건의 목격이 보고된 적은 없었�
 
 msgctxt "Council01_88_NPC_Tower_Faisech_1"
 msgid "Pah! Does that make this nonsense more believable?"
-msgstr "참! 그런다고 이 허튼소리를 믿으시는 겁니까?"
+msgstr "참! 그렇다고 이 허튼소리를 믿으라는 겁니까?"
 
 msgctxt "Council01_89_NPC_Einarium_Sunblaze_2"
 msgid "Two sightings - independent witnesses! When will you see the truth?"
@@ -6124,7 +6108,7 @@ msgstr "궤멸이라니 무슨 말입니까?"
 
 msgctxt "Council01_96_PlayerSelection_Authoritative"
 msgid "The Soraks took over captain Henrik… "
-msgstr "소락의 무리가 헨릭 대위를 데려가버렸어요... "
+msgstr "소락 무리가 헨릭 대위를 데려가 버렸으며... "
 
 msgctxt "Council01_97_PlayerSelection_Authoritative"
 msgid "…and only two of them are still alive."
@@ -6136,7 +6120,7 @@ msgstr "그들도 증언할 수 있을 겁니다."
 
 msgctxt "Council01_99_NPC_Gormsdottir"
 msgid "Do you have any… material proof of their existence?"
-msgstr "그들의 존재에 대한... 물증이 있습니까?"
+msgstr "소락의 존재에 대한... 물증이 있습니까?"
 
 msgctxt "Council01_100_PlayerSelection_Authoritative"
 msgid "I beg your pardon?"
@@ -6176,15 +6160,15 @@ msgstr "흥! 정말 편리한 변명이군!"
 
 msgctxt "Council01_109_NPC_Tower_Faisech"
 msgid "So you can offer us no proof of this… "
-msgstr "그럼 당신은 아무런 증거도 제시할 수 없다는것이로군... "
+msgstr "그렇다면 그 허무맹랑한 무용담에 대해... "
 
 msgctxt "Council01_110_NPC_Tower_Faisech"
 msgid "…adventurer's fable."
-msgstr "... 이 모험가의 우스꽝스러운 이야기에 대해서."
+msgstr "... 아무런 증거도 제시할 수 없다는 것이로군."
 
 msgctxt "Council01_111_NPC_Einarium_Sunblaze"
 msgid "And what if proof were to be brought before the Council?"
-msgstr "만일 증거가 의회에 제출된다면 어떻게 하실 겁니까?"
+msgstr "만일 증거가 평의회에 제출된다면 어떻게 하실 겁니까?"
 
 msgctxt "Council01_112_NPC_Tower_Faisech"
 msgid "What proof? How? "
@@ -6208,7 +6192,7 @@ msgstr "새 임무를 드리겠습니다."
 
 msgctxt "Council01_117_NPC_Arcaneum_Keenmind"
 msgid "Bring us the head of a Sorak, for the whole Council to see."
-msgstr "의회 모두가 확인할 수 있도록, 소락의 머리를 가져오십시오."
+msgstr "평의회 모두가 확인할 수 있도록, 소락의 머리를 가져오십시오."
 
 msgctxt "Council01_118_NPC_Einarium_Sunblaze"
 msgid "That would certainly be proof, Lord Faisech, would it not?"
@@ -6216,7 +6200,7 @@ msgstr "이는 확실한 증거가 될 테니까요. 페이세크 경, 그렇지
 
 msgctxt "Council01_119_NPC_Tower_Faisech"
 msgid "Oh, very well. Meanwhile, the Council will examine the gem."
-msgstr "오, 좋습니다. 그동안 의회는 보석을 조사할 것입니다."
+msgstr "오, 좋습니다. 그동안 평의회는 보석을 조사할 것입니다."
 
 msgctxt "Council01_120_NPC_Tower_Faisech"
 msgid "If there is nothing else?"
@@ -6238,23 +6222,21 @@ msgctxt "Council01_124_NPC_Carran"
 msgid "That actually went better than I expected."
 msgstr "생각보다 잘됐습니다."
 
-#, fuzzy
 msgctxt "Council01_125_PlayerChoice_Cynical_WRITTEN"
 msgid "Who's the grumpy dwarf?"
-msgstr "그 재수없는 드워프는 누구지?"
+msgstr "그 심술쟁이 드워프는 누구죠?"
 
-#, fuzzy
 msgctxt "Council01_126_PlayerChoice_Einar_WRITTEN"
 msgid "We had to stand by Merran."
-msgstr "우리는 메런 편에 서야 했어."
+msgstr "우리는 메런 편에 서야 했어요."
 
 msgctxt "Council01_127_PlayerChoice_Nobility_WRITTEN"
 msgid "The Princess is bland."
-msgstr ""
+msgstr "공주님은 평범했어요."
 
 msgctxt "Council01_128_PlayerChoice_Urchin_WRITTEN"
 msgid "They are seat-warmers."
-msgstr "그냥 의자나 데우는 자들이군."
+msgstr "그저 자리만 차지하는 자들이군요."
 
 msgctxt "Council01_125_PlayerChoice_Cynical"
 msgid "Who's the grumpy dwarf woman?"
@@ -6268,12 +6250,11 @@ msgctxt "Council01_127_PlayerChoice_Nobility"
 msgid "I must say, the Princess was… not what I expected."
 msgstr "공주님은... 기대했던 것과는 달랐습니다."
 
-#, fuzzy
 msgctxt "Council01_128_PlayerChoice_Urchin"
 msgid ""
 "They're just a bunch of politicking seat-warmers, for all their airs and "
 "graces."
-msgstr "저들은 그저 으스대는 게 전부인 자리만 차지하는 정치꾼들이야."
+msgstr "저들은 자리만 차지하는 정치꾼들입니다. 으스대는 게 전부죠."
 
 msgctxt "Council01_129_NPC_Carran"
 msgid "Chancellor Hertha Gormsdottir, of the Guild of Antiquarians."
@@ -6297,11 +6278,11 @@ msgstr "더 나이가 많을 줄 알았는데."
 
 msgctxt "Council01_133_PlayerChoice_Highclass_WRITTEN"
 msgid "Someone… a little more presentable?"
-msgstr ""
+msgstr "뭔가... 좀 더 주도적인 사람이랄까요?"
 
 msgctxt "Council01_133_PlayerChoice_Authority_WRITTEN"
 msgid "Someone more dignified."
-msgstr ""
+msgstr "조금 더 근엄한 인물을 기대했습니다."
 
 msgctxt "Council01_133_PlayerChoice_Cynical"
 msgid "A pretty, empty-headed girl. Oh, wait… "
@@ -6309,7 +6290,7 @@ msgstr "예쁘고, 머리가 텅 빈 소녀. 앗, 이런... "
 
 msgctxt "Council01_134_NPC_Carran"
 msgid "Mind your words! She may rank low on the Council… "
-msgstr "말조심하십시오! 의회에서의 위치는 낮은 편이지만... "
+msgstr "말조심하십시오! 평의회에서의 위치는 낮을지 몰라도... "
 
 msgctxt "Council01_135_NPC_Carran"
 msgid "…but she is our sovereign, and she is well loved in the Principality."
@@ -6337,7 +6318,7 @@ msgstr "무슨 말인지 알잖아요."
 
 msgctxt "Council01_141_NPC_Carran"
 msgid "No, actually… I don't."
-msgstr ""
+msgstr "아뇨... 알고 싶지 않습니다."
 
 msgctxt "Council01_142_PlayerChoice_Urchin"
 msgid "A shower of weevils. Rich, clean weevils!"
@@ -6361,7 +6342,7 @@ msgstr "... 이번 일을 계기로 몇몇 사람들이 여러분과 이야기�
 
 msgctxt "Council01_147_NPC_Carran"
 msgid "Working for the Council, you are expected to be neutral."
-msgstr "위회를 위해 일할 때에는, 중립적일 필요가 있습니다."
+msgstr "평의회를 위해 일할 때에는, 중립적일 필요가 있습니다."
 
 msgctxt "Council01_148_PlayerChoice_Default"
 msgid "But?"
@@ -6377,11 +6358,11 @@ msgstr "여러분 마음에 드는 누구와도 자유롭게 이야기를 나누
 
 msgctxt "Council01_151_NPC_Carran"
 msgid "As long your allegiance remains to the Council as a whole."
-msgstr "의회 전체에 대한 충성심은 간직하고서 말이죠."
+msgstr "평의회 전체에 대한 충성심은 간직하고서 말이죠."
 
 msgctxt "Council01_152_PlayerChoice_Register_Formal"
 msgid "You may rely on our honor."
-msgstr ""
+msgstr "우리의 명예를 신뢰하셔도 좋습니다."
 
 msgctxt "Council01_153_PlayerChoice_Register_normal"
 msgid "Of course."
@@ -6443,7 +6424,7 @@ msgctxt "AfterCouncil01_Beryl_4_Beryl_NPC"
 msgid ""
 "I'm no longer a lieutenant. I resigned my commission. I work for my people "
 "now."
-msgstr "더 이상 중위가 아니야. 사임했지. 이제는 동포들을 위해서 일해."
+msgstr "더 이상 중위가 아니야. 전역했지. 이제는 동포들을 위해서 일해."
 
 msgctxt "AfterCouncil01_Beryl_5_Any_Default"
 msgid "The Snow Alliance?"
@@ -6502,7 +6483,7 @@ msgstr "그래도 지도에 표시해 줄 수는 있지. 그곳은 고대 탑 �
 
 msgctxt "AfterCouncil01_Beryl_17_Aristocrat_Formal"
 msgid "You have our gratitude, Lady Stonebeard."
-msgstr "시간을 할애해주셔서 감사합니다, 스톤비어드 씨."
+msgstr "시간을 할애해 주셔서 감사합니다, 스톤비어드 씨."
 
 msgctxt "AfterCouncil01_Beryl_18_Any_Default"
 msgid "Thank you, Beryl. We appreciate the help."
@@ -6596,11 +6577,11 @@ msgstr "맞습니다. 사적인 감정은 없습니다. 안녕히 계세요, 달
 
 msgctxt "AfterCouncil01_Robar_1_Robar_NPC"
 msgid "Well, look who it is. I see you survived the Council."
-msgstr ""
+msgstr "이런, 이게 누굽니까. 평의회에서도 버텨 냈군요."
 
 msgctxt "AfterCouncil01_Robar_2_Any_Default"
 msgid "We did indeed."
-msgstr ""
+msgstr "그러게 말입니다."
 
 msgctxt "AfterCouncil01_Robar_3_Sellsword_Normal"
 msgid "Don't get your hopes up. We aren't here to offer you a job."
@@ -6608,15 +6589,15 @@ msgstr "큰 기대는 하지 마세요. 일거리를 가져 온 건 아닙니다
 
 msgctxt "AfterCouncil01_Robar_4_Robar_NPC"
 msgid "Good, because I imagine you'd probably pay very poorly."
-msgstr "차라리 다행이군요. 어차피 당신들이 지불하는 보수는 얼마 안될거라고 생각했거든요."
+msgstr "차라리 다행이군요. 여러분들이 지불할 수 있는 보수가 짤 거라고 예상했거든요."
 
 msgctxt "AfterCouncil01_Robar_5_Sellsword_Normal"
 msgid "You imagine correctly. I do have a question, though."
-msgstr "예상이 맞았네요. 그래도 질문이 하나 있습니다."
+msgstr "예상이 맞았네요. 어쨌든 질문이 하나 있습니다."
 
 msgctxt "AfterCouncil01_Robar_6_Robar_NPC"
 msgid "To what do I owe the honor?"
-msgstr "어떤 걸 도와드리면 되겠습니까?"
+msgstr "어떤 걸 도와 드리면 되겠습니까?"
 
 msgctxt "AfterCouncil01_Robar_7_Any_Default"
 msgid ""
@@ -6650,7 +6631,7 @@ msgstr "도와주셔서 감사합니다, 로바."
 
 msgctxt "AfterCouncil01_Robar_14_Robar_NPC"
 msgid "Though I may have just helped you into an early grave."
-msgstr ""
+msgstr "어쩌면 내가 당신들을 무덤 속으로 밀어 넣었을지도 모르는 일인데요."
 
 msgctxt "AfterCouncil01_Robar_15_Any_Default"
 msgid "This time we'll take them by surprise."
@@ -6700,7 +6681,7 @@ msgctxt "TowerOfMagic_8_History_Default"
 msgid ""
 "A tower of magic perhaps, owned by one of the masters of Manacalon's "
 "Arcaneum."
-msgstr "마법의 탑인 것 같아. 마나칼론 아케니움의 마법사 가운데 한명이 그 주인이었겠지."
+msgstr "마법의 탑인 것 같아. 마나칼론 아케니움의 마법사 중 한 사람이 그 주인이었겠지."
 
 msgctxt "TowerOfMagic_9_Starter_Default"
 msgid "Who are these people? Scavengers?"
@@ -6736,7 +6717,7 @@ msgstr "협상은 불가능하겠군... "
 
 msgctxt "TowerOfMagicFight1over_1_Starter_Default"
 msgid "So what do you think?"
-msgstr "이 자들은 뭘까?"
+msgstr "이들은 누굴까?"
 
 msgctxt "TowerOfMagicFight1over_2_Partner_Normal"
 msgid "Humans."
@@ -6916,7 +6897,7 @@ msgstr "이들은 자기 자신을 정말로 사랑했군."
 
 msgctxt "TowerOfMagic_StatueEmperor3_Partner_Formal"
 msgid "These Manacalon wizards were quite fond of themselves."
-msgstr ""
+msgstr "이 마나칼론의 마법사들은 자아도취에 빠져 있었군."
 
 msgctxt "TowerOfMagic_StatueEmperor4_History_Normal"
 msgid "Now, this is an Emperor."
@@ -6986,7 +6967,7 @@ msgstr "오래도록 잊힌 마법이야."
 
 msgctxt "TowerOfMagicReversedGravity_4_Joker_Default"
 msgid "Remind me not to take a dump in that hole."
-msgstr ""
+msgstr "저 구멍에 똥을 누면 안 되겠는걸."
 
 msgctxt "TowerOfMagicReversedGravity_5_Prag_Default"
 msgid "Do you really have to make jokes?"
@@ -7055,7 +7036,7 @@ msgstr "왕관 같은 건가?"
 
 msgctxt "TowerOfMagicFindingTheCrown_3_Partner_Default"
 msgid "They seemed to keep their distance from it."
-msgstr ""
+msgstr "소락은 이 왕관과 일정한 거리를 유지하려는 듯했어."
 
 msgctxt "TowerOfMagicFindingTheCrown_4_Selpres_Default"
 msgid "Maybe it's cursed."
@@ -7151,11 +7132,11 @@ msgstr "무슨 마법이라도 담겨있을까?"
 
 msgctxt "TowerOfMagicBook_4_Spellcaster_Slang"
 msgid "By Arun's bones! I think it's a spellbook."
-msgstr "아룬에 뼈에 단언컨대! 이건 주문책이라구."
+msgstr "아룬에 뼈에 단언컨대! 이건 주문책이라고."
 
 msgctxt "TowerOfMagicBook_5_Spellcaster_Default"
 msgid "A spellbook that predates the Cataclysm."
-msgstr ""
+msgstr "대격변 이전의 주문책이야."
 
 msgctxt "TowerOfMagicBook_6_Starter_Default"
 msgid "And I should care because?"
@@ -7256,7 +7237,7 @@ msgstr "사람보다 크지는 않네."
 
 msgctxt "TowerOfMagicStatueDraconic_7_Starter_Slang"
 msgid "No shit?"
-msgstr ""
+msgstr "개소리 아냐?"
 
 msgctxt "TowerOfMagicStatueDraconic_8_Starter_Normal"
 msgid "If you say so."
@@ -7268,19 +7249,19 @@ msgstr "내 생각은 달라."
 
 msgctxt "TowerOfMagicPillar_1_Starter_Default"
 msgid "Is this one of those rocks that…"
-msgstr ""
+msgstr "이건 그 바위들 가운데 하나인…"
 
 msgctxt "TowerOfMagicPillar_2_Partner_Default"
 msgid "Nope. This place is insane."
-msgstr ""
+msgstr "아냐. 이 장소는 뒤죽박죽이야."
 
 msgctxt "TowerOfMagicPillar_3_Partner_Default"
 msgid "In the Badlands…"
-msgstr ""
+msgstr "황무지에서는…"
 
 msgctxt "TowerOfMagicPillar_4_Starter_Default"
 msgid "I know… expect the unexpected. "
-msgstr ""
+msgstr "알고 있어... 예기치 못할 일을 예비할 것. "
 
 msgctxt "TowerOfMagicUselessLever_1_Starter_Default"
 msgid "Well, that didn't do a damn thing. "
@@ -7292,7 +7273,7 @@ msgstr "그걸로 정말 문이 열릴 거라고 생각했던 거야?"
 
 msgctxt "TowerOfMagicUselessLever_3_Violence_Default"
 msgid "I need to break some frickin' heads!"
-msgstr ""
+msgstr "망할 머리통 좀 부숴야겠군!"
 
 msgctxt "TowerOfMagicUselessLever_4_Pragmatism_Default"
 msgid "We need to be smarter about this. Think it through."
@@ -7300,11 +7281,11 @@ msgstr "조금 더 현명하게 대처해야겠어. 차근차근 생각해 보�
 
 msgctxt "TowerOfMagicUselessLever_5_Greed_Default"
 msgid "We better get out of this with some gold in our pockets."
-msgstr ""
+msgstr "주머니에 돈이나 두둑이 채운 뒤에 떠나자고."
 
 msgctxt "TowerOfMagicUselessLever_6_SelfPres_Default"
 msgid "Your faces are not the last faces I want to see."
-msgstr ""
+msgstr "여기서 너희들 얼굴 보며 죽고 싶지는 않아."
 
 msgctxt "TowerOfMagicSeeingImps_1_Starter_Default"
 msgid "Stay hidden. They're here."
@@ -7460,7 +7441,7 @@ msgstr "우리가 이걸 소락과 같이 발견했다는 사실을 숨길 순 �
 
 msgctxt "BackWithCrown_11_Pragmatic_Slang"
 msgid "We can't bullshit them, it's got to be a Sorak thing."
-msgstr ""
+msgstr "그 사람들한테 구라를 칠 수는 없어. 그건 소락 물건일 거야."
 
 msgctxt "BackWithCrown_12_Bearer_Default"
 msgid "It's our loot! Ours!"
@@ -7496,15 +7477,15 @@ msgstr "그저 기다리며 지켜볼 수밖에 없어. 최선의 결과를 바�
 
 msgctxt "BackWithCrown_20_Cynical_Default"
 msgid "Who fought the Soraks - us or them?"
-msgstr ""
+msgstr "소락과 싸운 게 누군데?"
 
 msgctxt "BackWithCrown_21_Cynical_Normal"
 msgid "They'd better remember that we fought the Soraks for this."
-msgstr ""
+msgstr "평의회는 우리가 소락과 싸웠다는 사실을 명심해야 해."
 
 msgctxt "BackWithCrown_22_Cynical_Formal"
 msgid "We might want to remind them that they were wrong about the Soraks."
-msgstr "소락에 대해서는 의회가 틀렸다는 것을 강조해야 할지도 모르겠군."
+msgstr "소락에 대해서는 평의회가 틀렸다는 것을 강조해야 할지도 모르겠군."
 
 msgctxt "Council02_1_1_Partner_Default"
 msgid "Lord Carran!"
@@ -7528,11 +7509,11 @@ msgstr "머리 하나입니다. 약간 손상됐지만요."
 
 msgctxt "Council02_1_5_Carran_NPC"
 msgid "Maraike preserve us! I'm sorry I asked!"
-msgstr ""
+msgstr "마라이케께서 지켜 주시나니! 괜한 걸 물어봤군요!"
 
 msgctxt "Council02_1_6_Partner_Default"
 msgid "At least it's dead. You should have seen it alive."
-msgstr "그나마 이건 죽은 상태죠. 살아있는 놈을 보셨어야 하는데 말입니다."
+msgstr "그나마 이건 죽은 상태죠. 살아 있는 놈을 보셨어야 하는데 말입니다."
 
 msgctxt "Council02_1_7_Carran_NPC"
 msgid "I can only imagine."
@@ -7552,11 +7533,11 @@ msgstr "여러분이 돌아왔다는 소문은 이미 궁전까지 퍼졌습니�
 
 msgctxt "Council02_1_11_Carran_NPC"
 msgid "They're waiting for you."
-msgstr "의회에서 여러분을 기다리고 있습니다."
+msgstr "평의회에서 여러분을 기다리고 있습니다."
 
 msgctxt "Council02_1_12_Partner_Default"
 msgid "They are?"
-msgstr "의회에서요?"
+msgstr "평의회가요?"
 
 msgctxt "Council02_1_13_Carran_NPC"
 msgid "Well, more for… this. But come on!"
@@ -7568,16 +7549,16 @@ msgstr "자, 전리품이로군."
 
 msgctxt "Council02_1_15_Merton_NPC"
 msgid "And by the way, who's crazy now?"
-msgstr "그건 그렇고, 이제 미치광이는 누구지?"
+msgstr "그건 그렇고, 이제 누가 미친놈이지?"
 
 msgctxt "Council02_1_16_Default_Default"
 msgid "All right, you were right and we were wrong. They do exist. Happy now?"
-msgstr "좋아요, 당신이 옳았고 우리는 틀렸어요. 소락은 실존합니다. 이제 행복해요?"
+msgstr "그래요. 당신이 옳았고 우리는 틀렸어요. 소락은 실존합니다. 이제 행복해요?"
 
 msgctxt "Council02_1_17_Merton_NPC"
 msgid ""
 "Kid, I've seen more than anyone in this town, yet nobody seems to believe me."
-msgstr ""
+msgstr "젊은 친구, 나는 이 마을에서 많은 사람들을 봐 왔지만, 그 누구도 나를 믿어주지 않았지."
 
 msgctxt "Council02_1_18_Cynical_Default"
 msgid "Maybe it's a curse."
@@ -7689,7 +7670,7 @@ msgstr "상당히 크고... 확실히 제국 양식입니다... "
 
 msgctxt "Council02_2_18_Towerboss_NPC"
 msgid "These runes remind me of the Imperial schools of magic… "
-msgstr ""
+msgstr "이 룬은 제국의 마법 학파를 연상시키네요..."
 
 msgctxt "Council02_2_19_Antiquarian_NPC"
 msgid "I have a spell I'd like to cast on this."
@@ -8097,7 +8078,7 @@ msgstr "이건... 평범하지 않은 강력한 결속이오. 내가 본 어떤 
 
 msgctxt "Council02_4_7_Danantar_NPC"
 msgid "I strongly recommend against forcing a separation."
-msgstr ""
+msgstr "결코 강제로 분리하려 해서는 안 될 것이오."
 
 #, fuzzy
 msgctxt "Council02_4_8_Speaker_NPC"
@@ -8186,7 +8167,7 @@ msgstr "팔라딘... 아주 강력한... "
 
 msgctxt "Council02_5_9_Crownbearer_Default"
 msgid "…from Tirmar."
-msgstr "티르미르의 팔라딘이었어요."
+msgstr "티르마르의 팔라딘이었어요."
 
 #, fuzzy
 msgctxt "Council02_5_10_Danantar_NPC"
@@ -8195,7 +8176,7 @@ msgstr "그건... 신경쓰이는군."
 
 msgctxt "Council02_5_11_AntiquarianBoss_NPC"
 msgid "Honorable delegates, I suggest we focus on the Soraks for now."
-msgstr "존경하는 대의원 어려분, 우리는 소락 건에 집중해야 한다고 봅니다."
+msgstr "존경하는 대의원 여러분, 우리는 소락 건에 집중해야 한다고 봅니다."
 
 msgctxt "Council02_5_12_Danantar_NPC"
 msgid "I concur."
@@ -9003,7 +8984,7 @@ msgstr "독실한 신자시군요. 만나서 반갑습니다!"
 
 msgctxt "ChurchOfEinar_Dialog_01_4_DalonLark_NPC"
 msgid "I am Chaplain Dalon Lark."
-msgstr ""
+msgstr "저는 댈런 라크 사제입니다."
 
 msgctxt "ChurchOfEinar_Dialog_01_5_DalonLark_NPC"
 msgid "You may come here at any time to seek the help of the Church."
@@ -9011,7 +8992,7 @@ msgstr ""
 
 msgctxt "ChurchOfEinar_Dialog_01_6_AnyBeliever_Einar"
 msgid "That is good to know, Chaplain!"
-msgstr ""
+msgstr "그것 참 반가운 소식입니다 사제님!"
 
 msgctxt "ChurchOfEinar_Dialog_01_7_NonBeliever_Default"
 msgid "Hello!"
@@ -18806,7 +18787,7 @@ msgstr "당신이 마지막으로 제국을 여행한 이후로 시대가 변했
 
 msgctxt "AbjurationQuest_Kythaela_84_Kythaela_NPC"
 msgid "Still, I feel the pull! "
-msgstr "하지만, 그래도 이끌림이 느껴져! "
+msgstr "그럼에도 이끌림이 느껴지는구나! "
 
 msgctxt "AbjurationQuest_Kythaela_85_Any_Default"
 msgid "The pull?"
@@ -18855,7 +18836,6 @@ msgctxt "AbjurationQuest_Kythaela_95_Kythaela_NPC"
 msgid "You can tell me of this Cataclysm on our journey!"
 msgstr "여행 동안 대격변에 대해 이야기해 다오!"
 
-#, fuzzy
 msgctxt "AbjurationQuest_Kythaela_96_Choice3_WRITTEN"
 msgid "You seem sure we'll agree."
 msgstr "우리가 동의할 거라고 확신하는 것 같네요."
@@ -18869,10 +18849,9 @@ msgid ""
 "Of course - you wouldn't let a lady cross those Badlands alone, surely? "
 msgstr "물론. 숙녀 혼자 이 황무지를 건너게 내버려 두진 않겠지? "
 
-#, fuzzy
 msgctxt "AbjurationQuest_Caravan_1Galar_NPC"
 msgid "A timely arrival! Many thanks for your help! "
-msgstr "정말 딱 맞는 타이밍에 도와주셨군요, 감사합니다! "
+msgstr "적시적기에 도와주셨군요. 감사합니다! "
 
 msgctxt "AbjurationQuest_Caravan_2_Pragmatism_Default"
 msgid "Clear skies, friend! What's going on here? "
@@ -19763,7 +19742,7 @@ msgctxt "AbjurationQuest_Nikannen_25_SergeantNikannen_NPC"
 msgid ""
 "For the last ten years he's always called me Joris. Now, all of a sudden "
 "it's back to Nikannen. "
-msgstr "지난 10년간 그는 언제나 저를 조리스라고 불렀습니다. 그리고 지금 갑자기 니카넨으로 돌아왔죠. "
+msgstr "지난 10년 간 그는 언제나 저를 조리스라고 불렀습니다. 그러더니 지금은 니카넨이라고 남처럼 부르더군요. "
 
 msgctxt "AbjurationQuest_Nikannen_26_SergeantNikannen_NPC"
 msgid "Something is wrong. I can feel it. "
@@ -25145,10 +25124,9 @@ msgid ""
 "bring it to the Temple."
 msgstr "소라카스와 놈들의 동맹과 관련된 뭔가를 찾으면, 사원으로 가져오시오."
 
-#, fuzzy
 msgctxt "InTemple_13_EinarBoss_NPC"
 msgid "Talk to Chaplain Dalon Lark. You will be well rewarded."
-msgstr "달런 라크 대위와 이야기하면 보상을 받을 수 있을 거요."
+msgstr "달런 라크 사제와 이야기하면 보상을 받을 수 있을 거요."
 
 msgctxt "InTemple_14_EinarBoss_NPC"
 msgid "Whenever you're ready, the Council will meet again."

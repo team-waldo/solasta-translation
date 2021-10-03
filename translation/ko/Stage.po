@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-09-30 14:03+0000\n"
-"Last-Translator: 이정승 <jsnuguri@naver.com>\n"
+"PO-Revision-Date: 2021-10-03 12:50+0000\n"
+"Last-Translator: Jin <byungjinjun55@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/stage/ko/>"
 "\n"
 "Language: ko\n"
@@ -29,15 +29,13 @@ msgid ""
 "or optimize them for your character class."
 msgstr ""
 
-#, fuzzy
 msgctxt "AbilityScoresAssignmentEditTitle"
 msgid "Adjust your ability scores from your points pool."
-msgstr "포인트 풀에서 능력치를 조정합니다."
+msgstr "포인트 총합 수치를 배분해 능력치를 조정합니다."
 
-#, fuzzy
 msgctxt "AbilityScoresAssignmentEditUnlimitedTitle"
 msgid "Adjust your ability scores as desired."
-msgstr "능력치를 원하는 대로 조정하세요."
+msgstr "능력치를 원하는 대로 조정합니다."
 
 msgctxt "AbilityScoresAvailableValuesTitle"
 msgid "Your available scores."
@@ -53,26 +51,23 @@ msgctxt "AbilityScoresCurrentTitle"
 msgid "Current Ability Scores"
 msgstr "현재 능력치"
 
-#, fuzzy
 msgctxt "AbilityScoresDecreaseCannotDescription"
 msgid "You cannot lower this value any more."
-msgstr "이 값은 더 이상 내릴 수 없습니다."
+msgstr "이 값은 더 이상 낮출 수 없습니다."
 
 #, fuzzy
 msgctxt "AbilityScoresDecreaseDescription"
 msgid "Lower this ability score."
 msgstr "이 능력치를 낮춥니다."
 
-#, fuzzy
 msgctxt "AbilityScoresFreeEditionDescription"
 msgid "Accurately recreate an existing character."
-msgstr "기존의 캐릭터를 그대로 재현합니다."
+msgstr "기존 캐릭터를 그대로 재현합니다."
 
 msgctxt "AbilityScoresFreeEditionTitle"
 msgid "Free Edit"
 msgstr "자유 편집"
 
-#, fuzzy
 msgctxt "AbilityScoresIncreaseCannotDescription"
 msgid "No further increase possible."
 msgstr "더 이상 늘릴 수 없습니다."
@@ -283,13 +278,15 @@ msgctxt "ClassAdvancementStageDescription"
 msgid "This stage lets you level up a class or add a new class."
 msgstr "이 단계에서는 클래스의 레벨을 올리거나 새 클래스를 추가할 수 있습니다."
 
+#, fuzzy
 msgctxt "ClassAdvancementStageTitle"
 msgid ""
 "Class \n"
 "Advancement"
 msgstr ""
+"클래스\n"
+"성장"
 
-#, fuzzy
 msgctxt "ClassEquipmentTitle"
 msgid "Class Equipment"
 msgstr "클래스 장비"
@@ -310,7 +307,6 @@ msgctxt "ClassSelectionStageTitle"
 msgid "Class "
 msgstr "클래스 "
 
-#, fuzzy
 msgctxt "DeitySelectionDeityChoiceTitle"
 msgid "Select a Deity"
 msgstr "신을 선택하세요"
@@ -335,14 +331,12 @@ msgctxt "DeitySelectionSelectedDomainHeader"
 msgid "Domain"
 msgstr "권역"
 
-#, fuzzy
 msgctxt "DeitySelectionStageDescription"
 msgid ""
 "This stage lets you choose which deity the character follows, and select the "
 "benefits of your faith."
 msgstr "이 단계에서는 캐릭터가 따르는 신을 선택하고, 신앙으로부터 얻을 수 있는 이득을 고를 수 있습니다."
 
-#, fuzzy
 msgctxt "DeitySelectionStageNoDeitySelectedDescription"
 msgid "You must select a deity."
 msgstr "신을 선택해야 합니다."
@@ -387,7 +381,6 @@ msgctxt "HigherLevelFeaturesTitle"
 msgid "Higher Level Features"
 msgstr "상위 레벨 특성"
 
-#, fuzzy
 msgctxt "HitPointsGainFormatPlural"
 msgid ""
 "You have gained {0} hit points\n"
@@ -398,7 +391,6 @@ msgstr ""
 "\n"
 "체력 주사위가 하나 추가되었습니다"
 
-#, fuzzy
 msgctxt "HitPointsGainFormatSingle"
 msgid ""
 "You have gained {0} hit point\n"
@@ -507,20 +499,19 @@ msgstr "목소리"
 
 msgctxt "LevelGainsCantripSelectionMultiple"
 msgid "{0} cantrips to select"
-msgstr "선택가능한 캔트립 {0} 개"
+msgstr "캔트립 {0} 개 선택 가능"
 
 msgctxt "LevelGainsCantripSelectionSingle"
 msgid "One cantrip to select"
-msgstr "선택가능한 캔트립 한 개"
+msgstr "캔트립 한 개 선택 가능"
 
-#, fuzzy
 msgctxt "LevelGainsSaveDcFormat"
 msgid "Save DC is increased to {0}"
-msgstr "내성 DC가 {0}(으)로 증가합니다"
+msgstr "주문의 내성 굴림 DC가 {0}(으)로 증가"
 
 msgctxt "LevelGainsSpellAttackFormat"
 msgid "Spell attack is increased to {0}"
-msgstr "주문 공격이 {0}(으)로 증가합니다"
+msgstr "주문 공격 굴림보정이 {0}(으)로 증가"
 
 msgctxt "LevelGainsSpellSelectionMultiple"
 msgid "{0} spells to select"
@@ -576,7 +567,7 @@ msgstr "숙련도 보너스"
 
 msgctxt "ProficiencyEditButtonDescription"
 msgid "Go back on proficiency step and make changes."
-msgstr "숙련도 단계로 돌아가서 변경하십시오."
+msgstr "선택을 변경합니다."
 
 msgctxt "ProficiencyEditButtonTitle"
 msgid "Change"
@@ -758,17 +749,20 @@ msgctxt "SubclassSelectionStageMartialDescription"
 msgid "This stages chooses a martial archetype for the character."
 msgstr "이 단계에서는 캐릭터의 무예 아키타입을 선택합니다."
 
+#, fuzzy
 msgctxt "SubclassSelectionStageMartialFeatures"
 msgid "Martial Archetype Features"
-msgstr ""
+msgstr "무예 아키타입 특성"
 
+#, fuzzy
 msgctxt "SubclassSelectionStageMartialHeader"
 msgid "Select Martial Archetype"
-msgstr ""
+msgstr "무예 아키타입 선택"
 
+#, fuzzy
 msgctxt "SubclassSelectionStageMartialNoneDescription"
 msgid "You must select a martial archetype."
-msgstr ""
+msgstr "무예 아키타입을 선택해야 합니다."
 
 msgctxt "SubclassSelectionStageMartialTitle"
 msgid ""
@@ -806,45 +800,54 @@ msgctxt "SubclassSelectionStageRangerDescription"
 msgid "This stages selects the character's ranger archetype."
 msgstr "이 단계에서는 캐릭터의 레인저 아키타입을 선택합니다."
 
+#, fuzzy
 msgctxt "SubclassSelectionStageRangerFeatures"
 msgid "Ranger Archetype Features"
-msgstr ""
+msgstr "레인저 아키타입 특성"
 
+#, fuzzy
 msgctxt "SubclassSelectionStageRangerHeader"
 msgid "Select Ranger Archetype"
-msgstr ""
+msgstr "레인저 아키타입 선택"
 
+#, fuzzy
 msgctxt "SubclassSelectionStageRangerNoneDescription"
 msgid "You must select a ranger archetype."
-msgstr ""
+msgstr "레인저 아키타입을 선택해야 합니다."
 
+#, fuzzy
 msgctxt "SubclassSelectionStageRangerTitle"
 msgid ""
 "Ranger\n"
 "Archetype"
 msgstr ""
+"레인저\n"
+"아키타입"
 
+#, fuzzy
 msgctxt "SubclassSelectionStageRoguishDescription"
 msgid "This stage selects the character's roguish archetype."
-msgstr ""
+msgstr "이 단계에서는 캐릭터의 로그 아키타입을 선택합니다."
 
 msgctxt "SubclassSelectionStageRoguishFeatures"
 msgid "Roguish Archetype Features"
-msgstr ""
+msgstr "로그 아키타입 특성"
 
 msgctxt "SubclassSelectionStageRoguishHeader"
 msgid "Select a Roguish Archetype"
-msgstr ""
+msgstr "로그 아키타입 선택"
 
 msgctxt "SubclassSelectionStageRoguishNoneDescription"
 msgid "You must select a roguish archetype."
-msgstr ""
+msgstr "로그 아키타입을 선택해야 합니다."
 
 msgctxt "SubclassSelectionStageRoguishTitle"
 msgid ""
 "Roguish\n"
 "Archetype"
 msgstr ""
+"로그\n"
+"아키타입"
 
 msgctxt "SubclassSelectionStageSubclassDescription"
 msgid "This stages selects the character's subclass."
@@ -958,19 +961,19 @@ msgstr "당신의 주문서에는 이 주문을 쓰기 위한 충분한 공간�
 
 msgctxt "SubclassSelectionStageSorcerousOriginDescription"
 msgid "This stage chooses a sorcerous origin for the character"
-msgstr ""
+msgstr "이 단계에서는 캐릭터의 마법 기원을 선택합니다"
 
 msgctxt "SubclassSelectionStageSorcerousOriginFeatures"
 msgid "Sorcerous Origin Features"
-msgstr ""
+msgstr "마법의 기원 특징"
 
 msgctxt "SubclassSelectionStageSorcerousOriginHeader"
 msgid "Select a Sorcerous Origin"
-msgstr ""
+msgstr "마법의 기원 선택"
 
 msgctxt "SubclassSelectionStageSorcerousOriginTitle"
 msgid "Sorcerous Origin"
-msgstr ""
+msgstr "마법의 기원"
 
 msgctxt "ProficiencyIgnoreButtonTitle"
 msgid "Ignore"
@@ -1032,18 +1035,22 @@ msgctxt "SubclassSelectionStagePathTitle"
 msgid "Primal Path"
 msgstr ""
 
+#, fuzzy
 msgctxt "SubclassSelectionStageCircleDescription"
 msgid "This stage chooses a druid circle for the character"
-msgstr ""
+msgstr "이 단계에서는 캐릭터의 드루이드 서클을 선택합니다"
 
+#, fuzzy
 msgctxt "SubclassSelectionStageCircleFeatures"
 msgid "Druid Circle Features"
-msgstr ""
+msgstr "드루이드 서클 특성"
 
+#, fuzzy
 msgctxt "SubclassSelectionStageCircleHeader"
 msgid "Select a Druid Circle"
-msgstr ""
+msgstr "드루이드 서클 선택"
 
+#, fuzzy
 msgctxt "SubclassSelectionStageCircleTitle"
 msgid "Druid Circle"
-msgstr ""
+msgstr "드루이드 서클"

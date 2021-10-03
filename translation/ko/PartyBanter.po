@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-09-30 14:03+0000\n"
+"PO-Revision-Date: 2021-10-03 12:49+0000\n"
 "Last-Translator: 이정승 <jsnuguri@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/"
 "partybanter/ko/>\n"
@@ -48,7 +48,7 @@ msgstr "내가 오기만을 기다리고 있었네!"
 
 msgctxt "Cynical3_Trap_Trigerred_Self"
 msgid "I'm smarter than that!"
-msgstr ""
+msgstr "똑똑한 내가 왜 이런 짓을!"
 
 msgctxt "Cynical1_Trap_Disarmed_Self"
 msgid "Too easy!"
@@ -664,11 +664,11 @@ msgstr "미안해!"
 
 msgctxt "Heroic3_Trap_Trigerred_Self"
 msgid "I'm such an idiot!"
-msgstr ""
+msgstr "이런 바보같은 짓을 하다니!"
 
 msgctxt "Heroic1_Trap_Disarmed_Self"
 msgid "That wasn't so bad."
-msgstr ""
+msgstr "그렇게 나쁘지 않았습니다."
 
 msgctxt "Heroic2_Trap_Disarmed_Self"
 msgid "I think I did it."
@@ -716,7 +716,7 @@ msgstr "넌 죽은 목숨이다."
 
 msgctxt "Heroic1_Normal_Hit_Given_Self"
 msgid "Bend the knee or perish!"
-msgstr ""
+msgstr "무릎 꿇든지 아니면 죽든지!"
 
 msgctxt "Heroic2_Normal_Hit_Given_Self"
 msgid "Run while you can!"
@@ -724,15 +724,15 @@ msgstr "도망쳐봐라!"
 
 msgctxt "Heroic3_Normal_Hit_Given_Self"
 msgid "You can't win!"
-msgstr ""
+msgstr "이길 수 없을걸!"
 
 msgctxt "Heroic4_Normal_Hit_Given_Self"
 msgid "I am unbeatable!"
-msgstr ""
+msgstr "난 쓰러지지 않아!"
 
 msgctxt "Heroic5_Normal_Hit_Given_Self"
 msgid "You cannot defeat me!"
-msgstr ""
+msgstr "넌 날 쓰러뜨릴 수 없어!"
 
 msgctxt "Heroic1_Missed_Attack_Self"
 msgid "Damn!"
@@ -744,15 +744,15 @@ msgstr "아, 좀!"
 
 msgctxt "Heroic3_Missed_Attack_Self"
 msgid "I must do better!"
-msgstr ""
+msgstr "더 잘해야만 해!"
 
 msgctxt "Heroic4_Missed_Attack_Self"
 msgid "I'm getting the measure of this!"
-msgstr ""
+msgstr "시험해 본 것 뿐이야!"
 
 msgctxt "Heroic5_Missed_Attack_Self"
 msgid "Next time!"
-msgstr ""
+msgstr "다음번엔!"
 
 msgctxt "Heroic1_Kill_Enemy_Self"
 msgid "Once more, we prevail!"
@@ -760,23 +760,23 @@ msgstr "다시 한 번, 우리가 전진한다!"
 
 msgctxt "Heroic2_Kill_Enemy_Self"
 msgid "Another victory! This is destiny!"
-msgstr ""
+msgstr "승리는 정해져있다!"
 
 msgctxt "Heroic3_Kill_Enemy_Self"
 msgid "You were doomed."
-msgstr ""
+msgstr "불행한 결말을 맞았군."
 
 msgctxt "Heroic4_Kill_Enemy_Self"
 msgid "You should have fled."
-msgstr ""
+msgstr "도망이나 칠 것이지."
 
 msgctxt "Heroic5_Kill_Enemy_Self"
 msgid "You should have yielded."
-msgstr ""
+msgstr "항복이나 할 것이지."
 
 msgctxt "Heroic1_Healed_by_ally_Self"
 msgid "I'm in your debt, my friend."
-msgstr ""
+msgstr "친구여, 그대에게 빚을 졌군요."
 
 msgctxt "Heroic2_Healed_by_ally_Self"
 msgid "I will not forget this."
@@ -988,7 +988,7 @@ msgstr "특이하지만, 못 푸는 건 아니야."
 
 msgctxt "Formal1_Light_up_Self"
 msgid "A little light is always welcome."
-msgstr ""
+msgstr "작은 빛은 언제나 환영입니다."
 
 msgctxt "Formal2_Light_up_Self"
 msgid "Let there be light!"
@@ -1028,15 +1028,15 @@ msgstr "나쁘지 않군?"
 
 msgctxt "Formal2_Normal_Hit_Given_Self"
 msgid "A modest success!"
-msgstr ""
+msgstr "그럭저럭 성공했군!"
 
 msgctxt "Formal3_Normal_Hit_Given_Self"
 msgid "A palpable hit!"
-msgstr ""
+msgstr "제대로 맞혔군!"
 
 msgctxt "Formal4_Normal_Hit_Given_Self"
 msgid "Lucky? Perhaps."
-msgstr ""
+msgstr "운이었나? 그럴지도."
 
 msgctxt "Formal5_Normal_Hit_Given_Self"
 msgid "I trained hard for this!"
@@ -1080,19 +1080,19 @@ msgstr ""
 
 msgctxt "Formal5_Kill_Enemy_Self"
 msgid "Another victory!"
-msgstr ""
+msgstr "또 다른 승리군!"
 
 msgctxt "Formal1_Healed_by_ally_Self"
 msgid "You are a true savior."
-msgstr ""
+msgstr "그대는 진정한 구원자요."
 
 msgctxt "Formal2_Healed_by_ally_Self"
 msgid "You are a valued comrade."
-msgstr ""
+msgstr "그대는 소중한 동지입니다."
 
 msgctxt "Formal3_Healed_by_ally_Self"
 msgid "I am in your debt, my friend."
-msgstr ""
+msgstr "친구, 그대에게 빚을 졌군."
 
 msgctxt "Formal1_Allied_KnockedDown_Self"
 msgid "The fight is not yet over!"
@@ -1240,7 +1240,7 @@ msgstr ""
 
 msgctxt "Formal2_Kill_Enemy_Other"
 msgid "A good kill, as they say."
-msgstr ""
+msgstr "흔히들 말하듯 좋은 사냥감이군."
 
 msgctxt "Formal3_Kill_Enemy_Other"
 msgid "One less enemy!"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-09-30 14:03+0000\n"
-"Last-Translator: 이정승 <jsnuguri@naver.com>\n"
+"PO-Revision-Date: 2021-10-03 12:50+0000\n"
+"Last-Translator: Jin <byungjinjun55@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/setting/ko/"
 ">\n"
 "Language: ko\n"
@@ -129,7 +129,7 @@ msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니
 
 msgctxt "DamageForceStyleTitle"
 msgid "Force Damage Style"
-msgstr ""
+msgstr "역장 피해 특화"
 
 msgctxt "DamageLightningStyleDescription"
 msgid "Die style used for this type of damage."
@@ -298,7 +298,7 @@ msgstr "캐릭터 이동, 개체와의 상호 작용 또는 적 공격을 위해
 
 msgctxt "MoveWithRightClickTitle"
 msgid "Move/Contextual Action with Right-Click"
-msgstr ""
+msgstr "오른쪽 클릭으로 이동/상황별 작업"
 
 msgctxt "MusicVolumeDescription"
 msgid "Adjust background music volume."
@@ -724,12 +724,10 @@ msgstr ""
 "프로그램이 화면 전체를 덮는 창 모드로 실행됩니다. 시스템 바탕화면 해상도를 사용하며, 게임 해상도가 그보다 작을 경우 창 크기가 "
 "조절됩니다."
 
-#, fuzzy
 msgctxt "FullScreenModeMaximizedWindowTitle"
 msgid "Maximized Window"
 msgstr "전체 화면 모드"
 
-#, fuzzy
 msgctxt "FullScreenModeMaximizedWindowDescription"
 msgid "In this mode, the application creates a maximized window."
 msgstr "이 모드에서 게임은 전체 화면으로 실행됩니다."
@@ -738,7 +736,6 @@ msgctxt "FullScreenModeWindowedTitle"
 msgid "Windowed"
 msgstr "창 모드"
 
-#, fuzzy
 msgctxt "FullScreenModeWindowedDescription"
 msgid "In this mode, Unity creates a standard, non-fullscreen window."
 msgstr "이 모드에서 유니티는 전체 화면이 아닌 표준 크기 화면을 만듭니다."
@@ -1088,9 +1085,10 @@ msgctxt "EnemySecondaryD20StyleTitle"
 msgid "Enemy Adv./Disadv. d20 Style"
 msgstr "적 유/불리 d20 주사위 스타일"
 
+#, fuzzy
 msgctxt "ToggleKeyboardDescription"
 msgid "Allows you to customize the keyboard mapping of game commands"
-msgstr ""
+msgstr "게임 내 명령의 키보드 매핑을 변경할 수 있습니다"
 
 msgctxt "ToggleKeyboardTitle"
 msgid "Keyboard"
@@ -1172,15 +1170,17 @@ msgctxt "SelectCharacter4Title"
 msgid "Select Character 4"
 msgstr "캐릭터 4 선택"
 
+#, fuzzy
 msgctxt "EnablePlanarTargettingDescription"
 msgid ""
 "Allows you to confine destination/target selection to an horizontal plane, "
 "instead of full 3D."
-msgstr ""
+msgstr "목적지/대상 선택을 완전 3차원 대신 수평 평면으로 제한할 수 있습니다."
 
+#, fuzzy
 msgctxt "EnablePlanarTargettingTitle"
 msgid "Enable Planar Targeting"
-msgstr ""
+msgstr "평면 타겟팅 사용"
 
 msgctxt "CameraControlHeaderTitle"
 msgid "Camera Control"
@@ -1232,7 +1232,7 @@ msgstr "이 키보드 설정은 수정이 불가능합니다."
 
 msgctxt "InputKeyTitle"
 msgid "Hit a Key"
-msgstr ""
+msgstr "키 입력"
 
 msgctxt "DefaultDescription"
 msgid "Resets to the default values for this category of settings"
@@ -1242,12 +1242,15 @@ msgctxt "DefaultTitle"
 msgid "Default"
 msgstr "기본값"
 
+#, fuzzy
 msgctxt "PreserveRandomSeedDescription"
 msgid ""
 "Preserve the random number generation when loading a saved game in order to "
 "obtain the same combat results. The random generation is always recalculated "
 "for dialog rolls even when this option is on."
 msgstr ""
+"동일한 전투 결과를 얻으려면 저장된 게임을 불러올 때 난수 생성을 유지하십시오. 이 옵션이 켜져 있는 경우에도 대화 굴림에 대해서는 항상 "
+"다시 계산됩니다."
 
 msgctxt "PreserveRandomSeedTitle"
 msgid "Preserve Random Seed"
@@ -1279,31 +1282,32 @@ msgstr "카메라"
 
 msgctxt "SpellComponentsHeaderTitle"
 msgid "Spell Components"
-msgstr ""
+msgstr "주문 구성 요소"
 
+#, fuzzy
 msgctxt "VerbalComponentDescription"
 msgid ""
 "Determines how you simulate the requirements for spells with a verbal "
 "component."
-msgstr ""
+msgstr "언어 구성 요소가 있는 주문의 요구조건을 수행하는 방법을 결정합니다."
 
 msgctxt "VerbalComponentTitle"
 msgid "Verbal Components"
-msgstr ""
+msgstr "언어 구성 요소"
 
 msgctxt "VerbalComponentDisabledDescription"
 msgid ""
 "Heroes do not require the ability to speak to cast spells with a verbal "
 "component."
-msgstr ""
+msgstr "영웅이 말 할 수 없어도 언어 구성 요소가 필요한 주문을 시전할 수 있습니다."
 
 msgctxt "VerbalComponentDisabledTitle"
 msgid "Disabled"
-msgstr ""
+msgstr "해제"
 
 msgctxt "VerbalComponentFullDescription"
 msgid "Heroes must be able to speak to cast spells with a verbal component."
-msgstr ""
+msgstr "언어 구성 요소가 필요한 주문을 시전하기 위해서는 영웅이 말 할 수 있어야 합니다."
 
 msgctxt "VerbalComponentFullTitle"
 msgid "Full"
@@ -1313,20 +1317,21 @@ msgctxt "SomaticComponentDescription"
 msgid ""
 "Determines how you simulate the requirements for spells with a somatic "
 "component."
-msgstr ""
+msgstr "신체 구성 요소가 있는 주문의 요구조건을 수행하는 방법을 결정합니다."
 
+#, fuzzy
 msgctxt "SomaticComponentTitle"
 msgid "Somatic Components"
-msgstr ""
+msgstr "신체 구성 요소"
 
 msgctxt "SomaticComponentDisabledDescription"
 msgid ""
 "Heroes do not require a free hand to cast spells with a somatic component."
-msgstr ""
+msgstr "영웅은 비어 있는 손이 없어도 신체 구성 요소가 있는 주문을 시전할 수 있습니다."
 
 msgctxt "SomaticComponentDisabledTitle"
 msgid "Disabled"
-msgstr ""
+msgstr "해제"
 
 msgctxt "SomaticComponentFullTitle"
 msgid "Full"
@@ -1336,34 +1341,36 @@ msgctxt "MaterialComponentDescription"
 msgid ""
 "Determines how you simulate the requirements for spells with a material "
 "component."
-msgstr ""
+msgstr "재료 구성 요소가 있는 주문의 요구조건을 수행하는 방법을 결정합니다."
 
 msgctxt "MaterialComponentTitle"
 msgid "Material Components"
-msgstr ""
+msgstr "재료 구성 요소"
 
 msgctxt "MaterialComponentDisabledDescription"
 msgid "No material components are required."
-msgstr ""
+msgstr "재료 구성 요소가 필요하지 않습니다."
 
 msgctxt "MaterialComponentDisabledTitle"
 msgid "Disabled"
-msgstr ""
+msgstr "해제"
 
 msgctxt "MaterialComponentBasicDescription"
 msgid ""
 "Spells with a material component require a spell focus or component pouch."
-msgstr ""
+msgstr "재료 구성 요소가 있는 주문들은 주문 매개체나 구성 요소 주머니가 필요합니다."
 
 msgctxt "MaterialComponentBasicTitle"
 msgid "Basic"
-msgstr ""
+msgstr "기본"
 
+#, fuzzy
 msgctxt "MaterialComponentFullDescription"
 msgid ""
 "Spells with a mundane material component require a spell focus or component "
 "pouch. Spells with a specific component require it."
 msgstr ""
+"평범한 재료 구성 요소가 있는 주문들은 주문 매개체나 구성 요소 주머니가 필요합니다. 특정 구성 요소가 있는 주문에는 필요합니다."
 
 msgctxt "MaterialComponentFullTitle"
 msgid "Full"
@@ -1403,9 +1410,10 @@ msgctxt "DifficultyPresetPreset2Description"
 msgid "For players unfamiliar with tactical RPGs or the ruleset."
 msgstr "전술 RPG와 턴제 규칙에 익숙하지 않은 플레이어에게 적합합니다."
 
+#, fuzzy
 msgctxt "DifficultyPresetPreset3Title"
 msgid "Authentic Mode"
-msgstr ""
+msgstr "정통 모드"
 
 #, fuzzy
 msgctxt "DifficultyPresetPreset3Description"
@@ -1565,9 +1573,10 @@ msgctxt "NoFoodNeededDescription"
 msgid "Characters can take a long rest even if they have no food."
 msgstr "식량이 없더라도 긴 휴식을 할 수 있습니다."
 
+#, fuzzy
 msgctxt "MaxHpOnHitDiceTitle"
 msgid "Max Health on Hit Dice"
-msgstr ""
+msgstr "체력 주사위의 최대 체력"
 
 msgctxt "MaxHpOnHitDiceDescription"
 msgid ""

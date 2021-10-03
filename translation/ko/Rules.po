@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-09-30 14:03+0000\n"
+"PO-Revision-Date: 2021-10-03 12:49+0000\n"
 "Last-Translator: 이정승 <jsnuguri@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/rules/ko/>"
 "\n"
@@ -118,11 +118,11 @@ msgstr "대상의 잠금을 해제합니다"
 
 msgctxt "ChallengeDifficultyDeadlyTitle"
 msgid "Deadly"
-msgstr "치명적인"
+msgstr "극악"
 
 msgctxt "ChallengeDifficultyEasyTitle"
 msgid "Easy"
-msgstr "쉬운"
+msgstr "쉬움"
 
 msgctxt "ChallengeDifficultyHardTitle"
 msgid "Hard"
@@ -540,7 +540,7 @@ msgstr ""
 
 msgctxt "ConditionExhaustedTitle"
 msgid "Exhausted"
-msgstr ""
+msgstr "탈진"
 
 msgctxt "ConditionExpeditiousRetreatDescription"
 msgid "Can dash as a bonus action."
@@ -719,7 +719,7 @@ msgstr ""
 
 msgctxt "ConditionHeraldOfBattleTitle"
 msgid "Blessed by Herald of Battle"
-msgstr ""
+msgstr "전투의 전령으로 축복받음"
 
 msgctxt "ConditionHeroismTitle"
 msgid "Heroism"
@@ -795,11 +795,11 @@ msgstr ""
 
 msgctxt "ConditionLifeDrainedDescription"
 msgid "Maximum hit points are reduced until a long rest is completed."
-msgstr ""
+msgstr "긴 휴식을 취하기 전까지 최대 체력이 감소합니다."
 
 msgctxt "ConditionLifeDrainedTitle"
 msgid "Drained"
-msgstr ""
+msgstr "흡수"
 
 msgctxt "ConditionLightHypersensitiveDescription"
 msgid "Wounded by light."
@@ -807,7 +807,7 @@ msgstr ""
 
 msgctxt "ConditionLightHypersensitiveTitle"
 msgid "Light Hypersensitive"
-msgstr ""
+msgstr "광 과민성"
 
 msgctxt "ConditionLightSensitiveDescription"
 msgid "Disadvantaged by light."
@@ -936,11 +936,11 @@ msgctxt "ConditionRestrainedDescription"
 msgid ""
 "Unable to move; creature's attacks and Dexterity saving throws have "
 "disadvantage; attacks against creature have advantage."
-msgstr ""
+msgstr "움직일 수 없고, 공격과 민첩 내성 굴림에 불리점을 받습니다. 이 크리쳐를 공격하면 이점을 받습니다."
 
 msgctxt "ConditionRestrainedTitle"
 msgid "Restrained"
-msgstr ""
+msgstr "구속"
 
 msgctxt "ConditionSeeInvisibilityDescription"
 msgid "Can perceive invisible creatures."
@@ -1087,23 +1087,23 @@ msgstr ""
 
 msgctxt "ConditionTurnedDescription"
 msgid "Must move away from caster."
-msgstr ""
+msgstr "시전자로부터 도망갑니다."
 
 msgctxt "ConditionTurnedTitle"
 msgid "Turned"
-msgstr ""
+msgstr "퇴치"
 
 msgctxt "ConditionTypeBeneficialFormat"
 msgid "Beneficial Condition"
-msgstr ""
+msgstr "이로운 상태"
 
 msgctxt "ConditionTypeDetrimentalFormat"
 msgid "Detrimental Condition"
-msgstr ""
+msgstr "해로운 상태"
 
 msgctxt "ConditionTypeNeutralFormat"
 msgid "Neutral Condition"
-msgstr ""
+msgstr "중립적 상태"
 
 msgctxt "ConditionUnconsciousDescription"
 msgid "Unable to act until awoken."
@@ -1253,7 +1253,7 @@ msgstr ""
 
 msgctxt "DamagePoisonTitle"
 msgid "Poison"
-msgstr ""
+msgstr "독"
 
 msgctxt "DamagePsychicDescription"
 msgid "Mental abilities deal psychic damage."
@@ -1369,7 +1369,7 @@ msgstr "{0} 시간 "
 
 msgctxt "DurationInstantaneousFormat"
 msgid "Instant"
-msgstr "순간"
+msgstr "즉시 효과"
 
 msgctxt "DurationLessMinuteFormat"
 msgid "<1 min"
@@ -1381,27 +1381,27 @@ msgstr ""
 
 msgctxt "DurationMinutePluralFormat"
 msgid "{0} minutes "
-msgstr ""
+msgstr "{0} 분 "
 
 msgctxt "DurationMinuteSingleFormat"
 msgid "{0} minute "
-msgstr ""
+msgstr "{0} 분 "
 
 msgctxt "DurationNoneFormat"
 msgid "{0} round "
-msgstr ""
+msgstr "{0} 라운드 "
 
 msgctxt "DurationPermanentFormat"
 msgid "Permanent"
-msgstr ""
+msgstr "영구적"
 
 msgctxt "DurationRoundPluralFormat"
 msgid "{0} rounds "
-msgstr ""
+msgstr "{0} 라운드 "
 
 msgctxt "DurationRoundSingleFormat"
 msgid "{0} round "
-msgstr ""
+msgstr "{0} 라운드 "
 
 msgctxt "DurationShortRestFormat"
 msgid "Until short rest"
@@ -1437,11 +1437,11 @@ msgstr "원거리 공격 {0}"
 
 msgctxt "EffectRangeSelfTitle"
 msgid "Self"
-msgstr ""
+msgstr "본인"
 
 msgctxt "EffectRangeTouchTitle"
 msgid "Touch"
-msgstr ""
+msgstr "접촉"
 
 msgctxt "EffectTargetConeTitle"
 msgid "{0} {1}"
@@ -1469,7 +1469,7 @@ msgstr ""
 
 msgctxt "EffectTargetItemTitle"
 msgid "Item"
-msgstr ""
+msgstr "아이템"
 
 msgctxt "EffectTargetLineTitle"
 msgid "{0} {1}"
@@ -1527,7 +1527,7 @@ msgstr ""
 
 msgctxt "LightSourceFormFormat"
 msgid "light source: {0} bright + {1} dim "
-msgstr ""
+msgstr "광원: {0} 밝음 + {1} 약간 어두움 "
 
 msgctxt "MaterialComponentTitle"
 msgid "M"
@@ -1615,7 +1615,7 @@ msgstr ""
 
 msgctxt "SaveAffinityNegateTitle"
 msgid "(save to negate)"
-msgstr ""
+msgstr "(내성으로 무효화)"
 
 msgctxt "SituationalContextAttackerAwayFromTargetFormat"
 msgid "If attacker is away from the target:"
@@ -1724,9 +1724,7 @@ msgstr ""
 
 msgctxt "TurnOccurenceEndOfTurnFormat"
 msgid "End of Round"
-msgstr ""
-"라운드\n"
-"종료"
+msgstr "라운드 종료"
 
 msgctxt "TurnOccurenceEndOfTurnNoPerceptionOfSourceFormat"
 msgid "End of Turn"
@@ -2116,11 +2114,11 @@ msgstr ""
 
 msgctxt "SpecialBehaviourConditionDuringTurnFormat"
 msgid "{3} is affected during the turn."
-msgstr ""
+msgstr "{3}은(는) 턴 동안 영향을 받습니다."
 
 msgctxt "SpecialBehaviourNoneFormat"
 msgid "{3} acts normally."
-msgstr ""
+msgstr "{3}은(는) 정상적으로 행동합니다."
 
 msgctxt "ConditionConfusedAttackTitle"
 msgid "Randomly Attacking"

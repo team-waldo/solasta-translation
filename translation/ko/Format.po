@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-09-25 00:48+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2021-10-03 12:49+0000\n"
+"Last-Translator: Jin <byungjinjun55@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/format/ko/>"
 "\n"
 "Language: ko\n"
@@ -18,7 +18,7 @@ msgctxt "CurrentAndTemporaryHitPointsDescription"
 msgid ""
 "This creature's current hit points + temporary hit points. Temporary hit "
 "points are lost first.  "
-msgstr "이 크리쳐의 현재 체력 + 임시 체력. 임시 체력이 먼저 소모됩니다.  "
+msgstr "이 크리쳐의 현재 체력 + 임시 체력입니다. 임시 체력이 먼저 소모됩니다.  "
 
 msgctxt "CurrentHitPointsDescription"
 msgid "This creature's current hit points."
@@ -34,7 +34,7 @@ msgstr "어려움"
 
 msgctxt "DifficultyMediumFormat"
 msgid "Medium"
-msgstr "중간"
+msgstr "보통"
 
 msgctxt "DifficultyVeryHardFormat"
 msgid "Very Hard"
@@ -46,7 +46,7 @@ msgstr "{0} + {1}"
 
 msgctxt "ItemIdentifiedTitle"
 msgid "The item has been identified: {0}"
-msgstr "아이템이 식별되었습니다. {0}"
+msgstr "아이템이 식별되었습니다 : {0}"
 
 msgctxt "LevelAndClassAndSubclassFormat"
 msgid "lvl {0} {1} ({2})"
@@ -61,24 +61,25 @@ msgid ""
 "Level {0}, Experience: {1}\n"
 "{2} more experience points required to reach level {3}"
 msgstr ""
-"레벨 {0}, 경험치: {1}\n"
-"{3} 레벨에 도달하기 위해 경험치가 {2} 만큼 더 필요합니다."
+"레벨 {0}, 경험치 : {1}\n"
+"레벨 {3}에 도달하기 위해 경험치가 {2}만큼 더 필요합니다"
 
 msgctxt "LevelAndExperienceMaxedFormat"
 msgid ""
 "Level {0}, Experience: {1}\n"
 "Max level reached."
 msgstr ""
-"레벨 {0}, 경험치: {1}\n"
+"레벨 {0}, 경험치 : {1}\n"
 "최대 레벨에 도달했습니다."
 
 msgctxt "LevelFormat"
 msgid "Level {0}"
 msgstr "레벨 {0}"
 
+#, fuzzy
 msgctxt "MaxHealthFormat"
 msgid "of {0} HP"
-msgstr ""
+msgstr "최대체력 {0}"
 
 msgctxt "Rank1Title"
 msgid "1st"
@@ -116,26 +117,31 @@ msgctxt "Rank9Title"
 msgid "9th"
 msgstr ""
 
+#, fuzzy
 msgctxt "RevealedEvilTitle"
 msgid "Malign"
-msgstr ""
+msgstr "적대적"
 
+#, fuzzy
 msgctxt "RevealedGoodTitle"
 msgid "Benevolent"
-msgstr ""
+msgstr "우호적"
 
+#, fuzzy
 msgctxt "RevealedMagicalTitle"
 msgid "Magic Detected"
 msgstr "마법 감지됨"
 
+#, fuzzy
 msgctxt "RevealedPoisonTitle"
 msgid "Poisonous"
-msgstr ""
+msgstr "유독함"
 
 msgctxt "WorldDistanceFormat"
 msgid "{0} Miles"
-msgstr "{0} 마일"
+msgstr "{0}마일"
 
+#, fuzzy
 msgctxt "ItemIdentifiedNothingNewTitle"
 msgid "Nothing more found on the {0} item"
-msgstr ""
+msgstr "{0} 아이템에서 더 이상 찾을 수 없습니다"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-09-30 14:03+0000\n"
-"Last-Translator: 이름뭘로하지 <sqom3iii@naver.com>\n"
+"PO-Revision-Date: 2021-10-03 12:50+0000\n"
+"Last-Translator: 이정승 <jsnuguri@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/default/ko/"
 ">\n"
 "Language: ko\n"
@@ -347,7 +347,7 @@ msgstr "번개 기둥"
 
 msgctxt "LightHypersensitivityTitle"
 msgid "Light Hypersensitivity"
-msgstr "가벼운 과민증"
+msgstr "광 과민성"
 
 msgctxt "BoulderFallTitle"
 msgid "Boulder Fall"
@@ -1059,7 +1059,7 @@ msgstr "긴 휴식을 취하고 나면 준비할 주문 목록을 변경할 수 
 
 msgctxt "PrepareSpellsTitle"
 msgid "Prepare Spells"
-msgstr "주문을 준비하세요"
+msgstr "주문 준비"
 
 msgctxt "ArcaneRecoveryExecutedDescription"
 msgid ""
