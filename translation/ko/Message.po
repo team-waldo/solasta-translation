@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-03 12:50+0000\n"
+"PO-Revision-Date: 2021-10-04 12:42+0000\n"
 "Last-Translator: Jin <byungjinjun55@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/message/ko/"
 ">\n"
@@ -262,7 +262,7 @@ msgstr "{0}의 레벨 업 과정을 완료하지 않았습니다. 종료하시�
 #, fuzzy
 msgctxt "SkipLevelUpTitle"
 msgid "Skipping Character Level Up"
-msgstr "캐릭터 레벨 업 취소"
+msgstr "캐릭터 레벨 업 건너뛰기"
 
 msgctxt "WaitForLongRestDescription"
 msgid ""

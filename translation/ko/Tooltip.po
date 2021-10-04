@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-03 12:49+0000\n"
+"PO-Revision-Date: 2021-10-04 12:42+0000\n"
 "Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/tooltip/ko/"
 ">\n"
@@ -28,7 +28,7 @@ msgstr ""
 
 msgctxt "AdvancementByAdditionalSlotSingleFormat"
 msgid "Per spell slot over {0}"
-msgstr ""
+msgstr "{0} 초과의 주문 슬롯당"
 
 msgctxt "AdvancementByCasterLevelFormat"
 msgid "At caster levels 5, 11, and 17"
@@ -442,7 +442,6 @@ msgctxt "TagComponentTitle"
 msgid "Component"
 msgstr "구성요소"
 
-#, fuzzy
 msgctxt "TagConcentrationTitle"
 msgid "Concentration"
 msgstr "집중"
@@ -451,7 +450,6 @@ msgctxt "TagConsumableTitle"
 msgid "Consumable"
 msgstr "소모품"
 
-#, fuzzy
 msgctxt "TagControlTitle"
 msgid "Control"
 msgstr "제어"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-03 12:50+0000\n"
-"Last-Translator: 이정승 <jsnuguri@naver.com>\n"
+"PO-Revision-Date: 2021-10-04 12:42+0000\n"
+"Last-Translator: Jin <byungjinjun55@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/default/ko/"
 ">\n"
 "Language: ko\n"
@@ -1272,7 +1272,7 @@ msgstr "습지와 연못이 있고 대기가 습한 지역은 늪지 지형으�
 
 msgctxt "SwampTitle"
 msgid "Swamp"
-msgstr "늪"
+msgstr "늪지대"
 
 #, fuzzy
 msgctxt "BasicsTitle"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-03 12:49+0000\n"
-"Last-Translator: 이정승 <jsnuguri@naver.com>\n"
+"PO-Revision-Date: 2021-10-04 12:42+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/rules/ko/>"
 "\n"
 "Language: ko\n"
@@ -1219,11 +1219,11 @@ msgstr "{0}{1}{2}{3} 피해 {4}"
 msgctxt "DamageLightningDescription"
 msgid ""
 "A lightning bolt spell and a blue dragon's breath deal lightning damage."
-msgstr ""
+msgstr "번개 화살 주문과 블루 드래곤의 숨결이 번개 피해를 줍니다."
 
 msgctxt "DamageLightningTitle"
 msgid "Lightning"
-msgstr ""
+msgstr "번개"
 
 msgctxt "DamageNecroticDescription"
 msgid ""
@@ -1297,7 +1297,7 @@ msgstr "피해: "
 
 msgctxt "DcFormat"
 msgid "DC {0}"
-msgstr ""
+msgstr "주사위 {0}"
 
 msgctxt "DieD10Title"
 msgid "d10"
@@ -1337,19 +1337,21 @@ msgstr "d8"
 
 msgctxt "DivinationFormFormatIdentifyItem"
 msgid "Reveals all the properties of an item."
-msgstr ""
+msgstr "아이템의 모든 속성을 표시합니다."
 
 msgctxt "DivinationFormFormatListCreatureFamilyInLocation"
 msgid "Senses the presence of creature types: {0}."
 msgstr ""
 
+#, fuzzy
 msgctxt "DivinationFormFormatRevealEntitiesBearingTags"
 msgid "Reveals creatures or objects which are {0}."
-msgstr ""
+msgstr "{0}인 생물이나 개체를 표시합니다."
 
+#, fuzzy
 msgctxt "DurationAnyRestFormat"
 msgid "Until any rest"
-msgstr ""
+msgstr "다음 휴식까지"
 
 msgctxt "DurationDayPluralFormat"
 msgid "{0} days"
@@ -1371,13 +1373,14 @@ msgctxt "DurationInstantaneousFormat"
 msgid "Instant"
 msgstr "즉시 효과"
 
+#, fuzzy
 msgctxt "DurationLessMinuteFormat"
 msgid "<1 min"
-msgstr ""
+msgstr "1분 이하"
 
 msgctxt "DurationLongRestFormat"
 msgid "Until long rest"
-msgstr ""
+msgstr "다음 긴 휴식까지"
 
 msgctxt "DurationMinutePluralFormat"
 msgid "{0} minutes "
@@ -1405,7 +1408,7 @@ msgstr "{0} 라운드 "
 
 msgctxt "DurationShortRestFormat"
 msgid "Until short rest"
-msgstr ""
+msgstr "다음 짧은 휴식까지"
 
 msgctxt "DurationUntilEndOfSourceTurnFormat"
 msgid "Until the end of the source character's turn."
@@ -1507,17 +1510,18 @@ msgctxt "HealingFormFormat"
 msgid "{0}{1}{2} healing"
 msgstr ""
 
+#, fuzzy
 msgctxt "HealingStabilize"
 msgid "Stabilizes a dying creature."
-msgstr ""
+msgstr "죽어가는 크리쳐를 안정화시킵니다."
 
 msgctxt "HeightFormatFeet"
 msgid "{0}'"
-msgstr ""
+msgstr "{0}'"
 
 msgctxt "HeightFormatFeetInches"
 msgid "{0}'{1}\";{0}' {1}'';{0}'{1}\""
-msgstr ""
+msgstr "{0}'{1}\";{0}' {1}'';{0}'{1}\""
 
 msgctxt "ItemPropertyFormFormat"
 msgid ""
@@ -1567,7 +1571,7 @@ msgstr ""
 
 msgctxt "RateHealingPoolFormatTitle"
 msgid "healing pool"
-msgstr ""
+msgstr "치유력"
 
 msgctxt "RateLongRestFormatTitle"
 msgid "long rest"
@@ -1601,9 +1605,10 @@ msgctxt "RecipeRequiredSpellFormat"
 msgid "Ability to cast the {0} spell."
 msgstr ""
 
+#, fuzzy
 msgctxt "RecipeRequiredTooltypeFormat"
 msgid "Proficiency with {0}"
-msgstr ""
+msgstr "{0}에 숙련"
 
 msgctxt "SaveAffinityHalfDamageTitle"
 msgid "(save for {0})"
@@ -1627,7 +1632,7 @@ msgstr ""
 
 msgctxt "SituationalContextAttackerOnHigherGroundThanTargetFormat"
 msgid "If attacker is on higher ground:"
-msgstr ""
+msgstr "공격 시 더 높은 위치에 있는 경우:"
 
 msgctxt "SituationalContextConsciousAllyNextToTargetFormat"
 msgid "if attacker has a conscious ally next to the target:"
@@ -1635,7 +1640,7 @@ msgstr ""
 
 msgctxt "SituationalContextNextToWallFormat"
 msgid "if creature is next to a wall:"
-msgstr ""
+msgstr "크리쳐가 벽 옆에 있는 경우:"
 
 msgctxt "SituationalContextTargetIsEffectSourceFormat"
 msgid "if creature is attacking the source of the effect:"
@@ -1692,15 +1697,16 @@ msgstr ""
 
 msgctxt "SummonFormCreaturesMultipleFormat"
 msgid "Summon {0} (x {1})."
-msgstr ""
+msgstr "{0}을(를) {1}마리 소환합니다."
 
 msgctxt "SummonFormCreaturesSingleFormat"
 msgid "Summon {0}."
-msgstr ""
+msgstr "{0}을(를) 소환합니다."
 
+#, fuzzy
 msgctxt "SummonFormEffectProxyFormat"
 msgid "Summon \"{0}\" for you to control "
-msgstr ""
+msgstr "직접 조종 가능한 \"{0}\" 소환 "
 
 msgctxt "SummonFormInventoryItemsMultipleFormat"
 msgid "Summon {0} (x {1}) to the inventory"
@@ -1708,11 +1714,11 @@ msgstr ""
 
 msgctxt "SummonFormInventoryItemsSingleFormat"
 msgid "Summon {0} to the inventory"
-msgstr ""
+msgstr "인벤토리에 {0} 소환"
 
 msgctxt "TemporaryHitPointsFormFormat"
 msgid "{0}{1}{2} temporary hit points"
-msgstr ""
+msgstr "{0}{1}{2} 임시 체력"
 
 msgctxt "TopologyFormProjectileBlockerFormat"
 msgid "Blocks ordinary projectiles (arrows, bolts, etc.)"
@@ -1728,7 +1734,7 @@ msgstr "라운드 종료"
 
 msgctxt "TurnOccurenceEndOfTurnNoPerceptionOfSourceFormat"
 msgid "End of Turn"
-msgstr ""
+msgstr "턴 종료"
 
 msgctxt "TurnOccurenceStartOfTurnFormat"
 msgid "Start of Turn"
@@ -1903,7 +1909,7 @@ msgstr "Temp"
 
 msgctxt "ConditionWaterBreathingTitle"
 msgid "Water Breathing"
-msgstr ""
+msgstr "수중 호흡"
 
 msgctxt "ConditionWaterBreathingDescription"
 msgid "Temp"
@@ -1931,7 +1937,7 @@ msgstr "원소 저항"
 
 msgctxt "ConditionStaffOfMetisDescription"
 msgid "Resistance to Cold, Fire, and Lightning damage."
-msgstr ""
+msgstr "냉기, 화염, 번개 피해에 내성을 얻습니다."
 
 msgctxt "ConditionFlying6Description"
 msgid "The target creature gains a flying speed of 6 cells per move action."
@@ -2130,13 +2136,14 @@ msgid ""
 "reach if possible."
 msgstr "가능한 경우 공격 범위에 있는 아무 크리쳐에게 공격 행동을 무조건 합니다."
 
+#, fuzzy
 msgctxt "ConditionConfusedMoveTitle"
 msgid "Randomly Moving"
-msgstr ""
+msgstr "우왕좌왕"
 
 msgctxt "ConditionConfusedMoveDescription"
 msgid "The creature must move in a random direction."
-msgstr ""
+msgstr "이 크리쳐는 무작위 방향으로 움직입니다."
 
 msgctxt "ConditionConfusedIncapacitatedTitle"
 msgid "Incapacitated"
@@ -2164,11 +2171,11 @@ msgstr ""
 
 msgctxt "DurationTurnSingleFormat"
 msgid "{0} turn"
-msgstr ""
+msgstr "{0}턴"
 
 msgctxt "DurationTurnPluralFormat"
 msgid "{0} turns"
-msgstr ""
+msgstr "{0}턴"
 
 msgctxt "ConditionFeatTakeAimDescription"
 msgid ""
@@ -2223,15 +2230,15 @@ msgstr ""
 
 msgctxt "ConditionPheromonedDescription"
 msgid "-3 to Charisma ability checks."
-msgstr ""
+msgstr "매력 판정에 -3을 얻습니다."
 
 msgctxt "ConditionOnAcidDescription"
 msgid "Take 1d3 acid damage at the end of your turn for 3 turns."
-msgstr ""
+msgstr "3턴 동안 내 턴 종료 시 1d3의 산성 피해를 받습니다."
 
 msgctxt "ActivationTypePermanentTitle"
 msgid "Permanent"
-msgstr ""
+msgstr "영구적"
 
 msgctxt "MonsterSpellcastingTitle"
 msgid "Spellcasting"
@@ -2275,7 +2282,7 @@ msgstr ""
 
 msgctxt "KillFormAlwaysFormat"
 msgid "Target creature is killed."
-msgstr ""
+msgstr "대상 크리쳐가 죽었습니다."
 
 msgctxt "KillFormUnderChallengeRatingFormat"
 msgid "Target creature is killed if its challenge rating is {0} or lower."

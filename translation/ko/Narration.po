@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-03 12:50+0000\n"
-"Last-Translator: 이름뭘로하지 <sqom3iii@naver.com>\n"
+"PO-Revision-Date: 2021-10-04 12:42+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
 "Language: ko\n"
@@ -14947,7 +14947,7 @@ msgstr "아, 올 줄 알고 있었네."
 
 msgctxt "Background_Sellsword_End_2_Sellsword_Default"
 msgid "Ceannard. "
-msgstr "세나드. "
+msgstr "촌장. "
 
 msgctxt "Background_Sellsword_End_3_Ceannard_NPC"
 msgid "You know the truth. I hope you can forgive me."
@@ -19530,7 +19530,7 @@ msgstr ""
 #, fuzzy
 msgctxt "AbjurationQuest_Patrons_1_Patron1_NPC"
 msgid "Oh, the Ceannard's hopping mad!"
-msgstr "오, 세나드가 미쳐 날뛰고 있어!"
+msgstr "오, 촌장이 미쳐 날뛰고 있어!"
 
 #, fuzzy
 msgctxt "AbjurationQuest_Patrons_2_Patron2_NPC"
@@ -19756,7 +19756,7 @@ msgstr "그래서 계획이 있습니까, 병장? "
 #, fuzzy
 msgctxt "AbjurationQuest_Nikannen_28_SergeantNikannen_NPC"
 msgid "The Ceannard mentioned your mission. He and I go way back. "
-msgstr "세나드가 당신들의 임무를 언급했죠. 그와 저는 일단 물러날 겁니다. "
+msgstr "촌장이 당신들의 임무를 언급했죠. 그와 저는 일단 물러날 겁니다. "
 
 msgctxt "AbjurationQuest_Nikannen_29_SergeantNikannen_NPC"
 msgid "So - go see the baron and tell him your heirloom story."
@@ -21930,7 +21930,7 @@ msgstr ""
 
 msgctxt "CradleOfFire_BladefangMeeting_20_Radulf_NPC"
 msgid "Also, beware of gaks."
-msgstr ""
+msgstr "그리고, 가크를 조심해라."
 
 msgctxt "CradleOfFire_BladefangMeeting_21_Default_Default"
 msgid "The what?"

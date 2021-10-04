@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-03 12:49+0000\n"
+"PO-Revision-Date: 2021-10-04 12:42+0000\n"
 "Last-Translator: 홍성원 <hsw2201@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/quest/ko/>"
 "\n"
@@ -1058,22 +1058,24 @@ msgid ""
 "order her to turn command over to Robar, ask Daliat about his scouting "
 "operation, or push Robar to challenge Beryl's authority."
 msgstr ""
+"생존자 4명 모두와 이야기를 나눴습니다. 이제 그들과 여기서 나갈 방법을 결정할 때입니다. 베릴에게 한 발 물러나 당신을 따르게 하거나, "
+"로바에게 지휘권을 넘기게 하거나, 달리아트에게 그의 정찰 작전에 대해 물어보거나, 베릴의 권위에 도전하도록 로바를 부추길 수 있습니다."
 
 msgctxt "Caer_Lem_Quest_05_ChooseStrategyTitle"
 msgid "Choose a Strategy"
-msgstr ""
+msgstr "전략을 선택하기"
 
 msgctxt "Caer_Lem_Quest_05a_TalkToBeryl_Outcome1Description"
 msgid ""
 "You successfully persuaded Beryl to step down, but then a Sorak appeared and "
 "killed Robar!"
-msgstr ""
+msgstr "한 발 물러나도록 성공적으로 베릴을 설득했지만, 소락이 나타나 로바를 죽였습니다!"
 
 msgctxt "Caer_Lem_Quest_05a_TalkToBeryl_Outcome2Description"
 msgid ""
 "You failed to persuade Beryl to step down. While you were having an "
 "argument, a Sorak appeared and killed Lisbath!"
-msgstr ""
+msgstr "한 발 물러나도록 베릴을 설득하는 데 실패했습니다. 말다툼을 하던 도중 소락이 나타나 리즈베스를 죽였습니다!"
 
 msgctxt "Caer_Lem_Quest_05a_TalkToBerylDescription"
 msgid "Talk to Beryl and persuade her to step down."
@@ -1081,7 +1083,7 @@ msgstr ""
 
 msgctxt "Caer_Lem_Quest_05a_TalkToBerylTitle"
 msgid "Talk to Beryl"
-msgstr ""
+msgstr "베릴과 대화하기"
 
 msgctxt "Caer_Lem_Quest_05b_TalkToDaliat_Outcome1Description"
 msgid ""
@@ -1125,7 +1127,7 @@ msgstr ""
 
 msgctxt "Caer_Lem_Quest_05c_TalkToRobarTitle"
 msgid "Talk to Robar"
-msgstr ""
+msgstr "로바와 대화하기"
 
 msgctxt "Caer_Lem_Quest_06_EscapeCaerLem_Outcome1Description"
 msgid "You have escaped Caer Lem and the Soraks!"
@@ -1139,19 +1141,19 @@ msgstr ""
 
 msgctxt "Caer_Lem_Quest_06_EscapeCaerLemTitle"
 msgid "Escape from the Caves"
-msgstr ""
+msgstr "동굴에서 탈출하기"
 
 msgctxt "Caer_Lem_Quest_07_ReturnToCaerCyflen_Outcome1Description"
 msgid "You made it back to Caer Cyflen."
-msgstr ""
+msgstr "케어 키플렌으로 돌아오는데 성공했습니다."
 
 msgctxt "Caer_Lem_Quest_07_ReturnToCaerCyflenDescription"
 msgid "Return to Caer Cyflen and tell the Council what you found."
-msgstr ""
+msgstr "케어 키플렌으로 돌아가서 평의회에 알아낸 것을 알리십시오."
 
 msgctxt "Caer_Lem_Quest_07_ReturnToCaerCyflenTitle"
 msgid "Return to Caer Cyflen"
-msgstr ""
+msgstr "케어 키플렌으로 돌아가기"
 
 msgctxt "Caer_Lem_Scavengers_Talk_to_Henrik_ReportToAnnie_Outcome1Description"
 msgid ""
@@ -1168,7 +1170,7 @@ msgstr ""
 
 msgctxt "Caer_Lem_Scavengers_Talk_to_Henrik_ReportToAnnieTitle"
 msgid "Report to Annie"
-msgstr ""
+msgstr "애니에게 보고하기"
 
 msgctxt "Caer_Lem_Scavengers_Talk_to_Henrik_SpeakToHenrik_Outcome1Description"
 msgid ""
@@ -1261,7 +1263,7 @@ msgstr ""
 
 msgctxt "Caravan_Title"
 msgid "On the Way to Coparann"
-msgstr ""
+msgstr "코파란으로 가는 길"
 
 msgctxt "Coparann_Quest_01_TalkToThePeople_Outcome1Description"
 msgid ""
@@ -1275,7 +1277,7 @@ msgstr ""
 
 msgctxt "Coparann_Quest_01_TalkToThePeopleTitle"
 msgid "Meet the People of Coparann"
-msgstr ""
+msgstr "코파란의 사람들 만나기"
 
 msgctxt "Coparann_Quest_02_TalkToNikannen2_Outcome1Description"
 msgid ""
@@ -1297,11 +1299,11 @@ msgstr ""
 
 msgctxt "Coparann_Quest_03_TalkToTheBaron1Description"
 msgid "Meet the Baron and see how he reacts."
-msgstr ""
+msgstr "남작을 만나 그의 반응을 살펴보십시오."
 
 msgctxt "Coparann_Quest_03_TalkToTheBaron1Title"
 msgid "Meet the Baron"
-msgstr ""
+msgstr "남작 만나기"
 
 msgctxt "Coparann_Quest_04_TalkToNikannen3_Outcome1Description"
 msgid "Nikannen is certain that the Baron is an imposter of some kind."
@@ -1327,7 +1329,7 @@ msgstr ""
 
 msgctxt "Coparann_Quest_05_WaitUntilTomorrowTitle"
 msgid "Take a Long Rest"
-msgstr ""
+msgstr "긴 휴식 취하기"
 
 msgctxt "Coparann_Quest_06_TalkToTheBaron2_Outcome1Description"
 msgid ""
@@ -1359,11 +1361,11 @@ msgstr ""
 
 msgctxt "Coparann_Quest_07_GoToTheBasementTitle"
 msgid "Go to the Basement"
-msgstr ""
+msgstr "지하로 이동"
 
 msgctxt "Coparann_Quest_08_FreeTheBaron_Outcome1Description"
 msgid "You have freed the real Baron!"
-msgstr ""
+msgstr "진짜 남작을 찾아냈습니다!"
 
 msgctxt "Coparann_Quest_08_FreeTheBaronDescription"
 msgid "The real Baron is somewhere in the cells. Release him."
@@ -1387,11 +1389,11 @@ msgstr ""
 
 msgctxt "Coparann_Title"
 msgid "Coparann"
-msgstr ""
+msgstr "코파란"
 
 msgctxt "CradleOfFire_Quest_EscapeEruption_Outcome1Description"
 msgid "You have found an Imperial Gate and escaped from the volcano."
-msgstr ""
+msgstr "제국 관문을 발견하여 화산에서 탈출했습니다."
 
 msgctxt "CradleOfFire_Quest_EscapeEruptionDescription"
 msgid ""
@@ -1417,17 +1419,17 @@ msgstr ""
 
 msgctxt "CradleOfFire_Quest_FaceArrok_Outcome1Description"
 msgid "You have finally found Arrok. Take the gem from him."
-msgstr ""
+msgstr "마침내 아록을 찾았습니다. 그에게서 보석을 빼앗으십시오."
 
 msgctxt "CradleOfFire_Quest_FaceArrokDescription"
 msgid ""
 "Find a way to confront the orc shaman Arrok. He may have one of the Crown's "
 "gems."
-msgstr ""
+msgstr "오크 주술사 아록이 왕관의 보석 중 하나를 가지고 있을지도 모릅니다. 그와 맞서 싸울 방법을 찾으십시오."
 
 msgctxt "CradleOfFire_Quest_FaceArrokTitle"
 msgid "Face Arrok"
-msgstr ""
+msgstr "아록 대면하기"
 
 msgctxt "CradleOfFire_Quest_FreeBrok_Outcome1Description"
 msgid "You entered the volcano but face a guarded gate."
@@ -1442,7 +1444,7 @@ msgstr ""
 
 msgctxt "CradleOfFire_Quest_FreeBrokTitle"
 msgid "Free Brok"
-msgstr ""
+msgstr "브록 풀어주기"
 
 msgctxt "CradleOfFire_Quest_GoToNecropolis_Outcome1Description"
 msgid ""
@@ -1452,7 +1454,7 @@ msgstr ""
 
 msgctxt "CradleOfFire_Quest_GoToNecropolis_Outcome2Description"
 msgid "You have found a way to reach Arrok without Brok's alliance."
-msgstr ""
+msgstr "브록과 연합하지 않고 아록과 대면할 방법을 찾았습니다."
 
 msgctxt "CradleOfFire_Quest_GoToNecropolisDescription"
 msgid ""
@@ -2937,11 +2939,11 @@ msgstr ""
 
 msgctxt "Tutorial_03_Quest_EscapeFort_Outcome1Description"
 msgid "You have saved Liam and recovered his family's sword!"
-msgstr ""
+msgstr "당신은 리암의 가보인 검을 되찾고 그를 구해주었습니다!"
 
 msgctxt "Tutorial_03_Quest_EscapeFort2Title"
 msgid "Escape from the Fort"
-msgstr ""
+msgstr "기지에서 탈출"
 
 msgctxt "Tutorial_03_Quest_EscapeFortDescription"
 msgid ""
@@ -2951,7 +2953,7 @@ msgstr ""
 
 msgctxt "Tutorial_03_Quest_EscapeFortTitle"
 msgid "Escape from the Fort"
-msgstr ""
+msgstr "기지에서 탈출"
 
 msgctxt "Tutorial_03_Quest_Find the treasure room_Outcome1Description"
 msgid "You have disarmed the floor trap!"
@@ -2997,11 +2999,11 @@ msgstr ""
 
 msgctxt "Tutorial_03_Quest_SaveLiam_Outcome1Description"
 msgid "You saved Liam! Now leave the fort and meet him outside."
-msgstr ""
+msgstr "리암을 구했습니다! 요새를 탈출한 뒤 그와 대화하십시오."
 
 msgctxt "Tutorial_03_Quest_SaveLiam_Outcome2Description"
 msgid "You failed to save Liam!"
-msgstr ""
+msgstr "리암을 구하지 못했습니다!"
 
 msgctxt "Tutorial_03_Quest_SaveLiamDescription"
 msgid ""
@@ -3011,7 +3013,7 @@ msgstr ""
 
 msgctxt "Tutorial_03_Quest_SaveLiamTitle"
 msgid "Kill the Loan Shark and Save Liam!"
-msgstr ""
+msgstr "고리대금업자를 죽이고 리암을 구하기"
 
 msgctxt "Tutorial_03_Title"
 msgid "Recover the Stolen Gem"
@@ -3019,17 +3021,17 @@ msgstr "빼앗긴 보석을 찾아"
 
 msgctxt "Tutorial_04_Quest_CrossBridge_Outcome1Description"
 msgid "You are being attacked by a grayback wolf!"
-msgstr ""
+msgstr "회색갈기 늑대의 공격을 받고 있습니다!"
 
 msgctxt "Tutorial_04_Quest_CrossBridgeDescription"
 msgid ""
 "You have survived the attack! Now reach the other side of the natural bridge "
 "and get out of here!"
-msgstr ""
+msgstr "공격에서 살아남았습니다! 이제 다리의 반대편으로 향하십시오!"
 
 msgctxt "Tutorial_04_Quest_CrossBridgeTitle"
 msgid "Get to the Other Side of the Bridge!"
-msgstr ""
+msgstr "다리 건너편으로 가십시오!"
 
 msgctxt "Tutorial_04_Quest_EscapeJackals_Outcome1Description"
 msgid "You are trapped by the wolves… get ready to fight!"
@@ -3053,7 +3055,7 @@ msgstr "다리 건너편으로 달리십시오!"
 
 msgctxt "Tutorial_04_Quest_FleeingTitle"
 msgid "Flee from the Wolves"
-msgstr ""
+msgstr "늑대 따돌리기"
 
 msgctxt "Tutorial_04_Quest_GetKeyQuestTitle"
 msgid "The Treasure Room Key"
@@ -3061,22 +3063,22 @@ msgstr ""
 
 msgctxt "Tutorial_04_Quest_KillAlphaJackal_Outcome1Description"
 msgid "You have survived the grayback wolf."
-msgstr ""
+msgstr "회색갈기 늑대에게서 살아남았습니다."
 
 msgctxt "Tutorial_04_Quest_KillAlphaJackalDescription"
 msgid ""
 "This new opponent is too tough for you! Disengage and immediately move to "
 "push the rock in order to break the natural bridge and get rid of the "
 "grayback wolf."
-msgstr ""
+msgstr "이 적은 당신이 싸우기엔 너무 강합니다! 전장을 이탈한 뒤, 바위를 이용해 다리를 부숴 회색갈기 늑대를 해치우십시오."
 
 msgctxt "Tutorial_04_Quest_KillAlphaJackalTitle"
 msgid "Disengage and Push the Rock"
-msgstr ""
+msgstr "이탈한 뒤 바위 밀기"
 
 msgctxt "Tutorial_04_Quest_KillJackals_Outcome1Description"
 msgid "You have survived the attack!"
-msgstr ""
+msgstr "공격에서 살아남았습니다!"
 
 msgctxt "Tutorial_04_Quest_KillJackals_Outcome2Description"
 msgid "You tried to flee from the wolves!"
