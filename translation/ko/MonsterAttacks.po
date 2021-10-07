@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-09-27 14:35+0000\n"
-"Last-Translator: 이름뭘로하지 <sqom3iii@naver.com>\n"
+"PO-Revision-Date: 2021-10-07 13:03+0000\n"
+"Last-Translator: 이정승 <jsnuguri@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/"
 "monsterattacks/ko/>\n"
 "Language: ko\n"
@@ -46,7 +46,7 @@ msgstr "소라카스의 고대 대장장이가 티르마르의 대장간에서 �
 
 msgctxt "Attack_Shrieker_Title"
 msgid "Nekkesh Blade"
-msgstr ""
+msgstr "네케시 칼날"
 
 msgctxt "Attack_Spine_Title"
 msgid "Poisonous Spine"
@@ -110,7 +110,7 @@ msgstr "산성 이빨"
 
 msgctxt "Attack_Freeze_Title"
 msgid "Freeze"
-msgstr ""
+msgstr "결빙"
 
 msgctxt "Attack_Fire_Title"
 msgid "Touch"

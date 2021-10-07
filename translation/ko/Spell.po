@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-04 12:42+0000\n"
+"PO-Revision-Date: 2021-10-07 13:03+0000\n"
 "Last-Translator: 이정승 <jsnuguri@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/spell/ko/>"
 "\n"
@@ -872,7 +872,7 @@ msgstr "명중당하기 직전에 당신의 AC를 5 증가시킵니다."
 
 msgctxt "ShieldOfFaithDescription"
 msgid "Increase an ally's AC by 2 for a limited time."
-msgstr "정해진 시간 동안 아군 하나의 AC를 2 증가시킵니다."
+msgstr "제한된 시간 동안 아군 하나의 AC를 2 증가시킵니다."
 
 msgctxt "ShieldOfFaithTitle"
 msgid "Shield of Faith"
@@ -880,7 +880,7 @@ msgstr "신앙의 방패"
 
 msgctxt "ShieldTitle"
 msgid "Shield"
-msgstr "방패"
+msgstr "보호막"
 
 msgctxt "ShockingGraspDescription"
 msgid "Damage and daze an enemy on a successful touch."
@@ -1498,7 +1498,7 @@ msgstr "해당 지역에 둔기 및 냉기 피해를 입히고, 지면을 험난
 
 msgctxt "PhantasmalKillerTitle"
 msgid "Phantasmal Killer"
-msgstr "환영 암살자"
+msgstr "환영 살인마"
 
 msgctxt "PhantasmalKillerDescription"
 msgid ""
@@ -1506,10 +1506,9 @@ msgid ""
 "throw is successful or the effect ends."
 msgstr "내성 굴림에 성공하거나 지속시간이 끝날 때까지 대상 크리쳐에게 매 턴 정신 피해를 입힙니다."
 
-#, fuzzy
 msgctxt "StoneskinTitle"
 msgid "Stoneskin"
-msgstr "스톤스킨"
+msgstr "돌가죽"
 
 msgctxt "StoneskinDescription"
 msgid ""

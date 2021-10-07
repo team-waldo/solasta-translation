@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-04 12:42+0000\n"
+"PO-Revision-Date: 2021-10-07 13:03+0000\n"
 "Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/tooltip/ko/"
 ">\n"
@@ -60,7 +60,6 @@ msgctxt "AdvancementGainAdditionalItemBonusFormat"
 msgid "{0} item bonus (max {1})"
 msgstr "{0} 아이템 보너스(최대 {1})"
 
-#, fuzzy
 msgctxt "AdvancementGainAdditionalSpellLevelMultipleFormat"
 msgid "{0} spell levels "
 msgstr "{0} 주문 레벨 "
@@ -85,7 +84,6 @@ msgctxt "AdvancementGainAdditionalTargetSingleFormat"
 msgid "{0} target "
 msgstr "{0} 대상 "
 
-#, fuzzy
 msgctxt "AdvancementGainAdditionalTempHPFormat"
 msgid "{0} temporary hit points"
 msgstr "{0} 임시 체력"
@@ -398,7 +396,7 @@ msgstr "대상"
 
 msgctxt "StackSizeTitle"
 msgid "Stack Size"
-msgstr ""
+msgstr "중첩 가능 개수"
 
 msgctxt "StarterPackContentTitle"
 msgid "Contents"
@@ -608,12 +606,11 @@ msgstr "가벼움"
 
 msgctxt "TagLoadingTitle"
 msgid "Loading"
-msgstr "로딩 중"
+msgstr "장전 필요"
 
-#, fuzzy
 msgctxt "TagMagicalTitle"
 msgid "Magical"
-msgstr "마법의"
+msgstr "마법속성"
 
 msgctxt "TagMeleeTitle"
 msgid "Melee"
@@ -762,10 +759,9 @@ msgctxt "TagUnlockTitle"
 msgid "Unlock"
 msgstr "자물쇠 해체"
 
-#, fuzzy
 msgctxt "TagVersatileTitle"
 msgid "Versatile"
-msgstr "다용도"
+msgstr "양손 가능"
 
 msgctxt "TagVerticalityTitle"
 msgid "Verticality"
@@ -794,7 +790,7 @@ msgstr "없음"
 
 msgctxt "ValueTitle"
 msgid "Value"
-msgstr ""
+msgstr "가치"
 
 msgctxt "WeaponEffectsTitle"
 msgid "Effects on Hit"
@@ -928,7 +924,7 @@ msgstr "전설"
 
 msgctxt "OutOfDarkvisionRangeFormat"
 msgid "(Out of Darkvision range)"
-msgstr "(다크비전 범위를 벗어남)"
+msgstr "(어둠시야 범위를 벗어남)"
 
 msgctxt "TagPerishableTitle"
 msgid "Perishable"

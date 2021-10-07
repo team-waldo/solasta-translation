@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-03 12:49+0000\n"
+"PO-Revision-Date: 2021-10-07 13:03+0000\n"
 "Last-Translator: 이정승 <jsnuguri@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/feedback/"
 "ko/>\n"
@@ -64,11 +64,11 @@ msgstr ""
 
 msgctxt "AdditionalDamageArcaneFuryFormat"
 msgid "Arcane Fury!"
-msgstr ""
+msgstr "비전 격노!"
 
 msgctxt "AdditionalDamageArcaneFuryLine"
 msgid "{0} deals more damage to {1} from Arcane Furry (+{2})"
-msgstr ""
+msgstr "{0}은(는) 비전 격노(+{2})로 {1}에게 더 많은 피해를 줍니다."
 
 msgctxt "AdditionalDamageBestowCurseFormat"
 msgid "Attack on Cursed!"
@@ -88,7 +88,7 @@ msgstr ""
 
 msgctxt "AdditionalDamageColossusSlayerFormat"
 msgid "Colossus Slayer!"
-msgstr ""
+msgstr "거체 살해자!"
 
 msgctxt "AdditionalDamageColossusSlayerLine"
 msgid "{0} deals more damage to wounded {1} (+{2})"
@@ -128,19 +128,19 @@ msgstr ""
 
 msgctxt "AdditionalDamageFavoredEnemyFormat"
 msgid "Favored Enemy!"
-msgstr ""
+msgstr "주적!"
 
 msgctxt "AdditionalDamageFavoredEnemyLine"
 msgid "{0} deals more damage to {1} as a favored enemy type (+{2})"
-msgstr ""
+msgstr "{0}은(는) 주적인 {1}에게 더 많은 피해를 줍니다. (+{2})"
 
 msgctxt "AdditionalDamageHuntersMarkFormat"
 msgid "Hunter's Mark!"
-msgstr ""
+msgstr "사냥꾼의 표식!"
 
 msgctxt "AdditionalDamageHuntersMarkLine"
 msgid "{0} deals more damage to {1} as a marked target (+{2})"
-msgstr ""
+msgstr "{0}은(는) 표시된 대상인 {1}에게 더 많은 피해를 줍니다. (+{2})"
 
 msgctxt "AdditionalDamagePredatorFormat"
 msgid "Predator!"
@@ -170,11 +170,11 @@ msgstr ""
 
 msgctxt "AdditionalDamageSneakAttackFormat"
 msgid "Sneak Attack!"
-msgstr ""
+msgstr "암습 공격!"
 
 msgctxt "AdditionalDamageSneakAttackLine"
 msgid "{0} performs a sneak attack on {1} (+{2})"
-msgstr ""
+msgstr "{0}은(는) {1}에게 암습 공격을 합니다. (+{2})"
 
 msgctxt "AdditionalDamageStrikeOblivionFormat"
 msgid "Strike of Oblivion!"
@@ -235,11 +235,11 @@ msgstr "{0} 이(가) {1} 을(를) 기회 공격"
 
 msgctxt "AttackSuccessFormat"
 msgid "Attack Hit ({0})"
-msgstr ""
+msgstr "공격 명중 ({0})"
 
 msgctxt "AttackSuccessOutcome"
 msgid "{0} (Hit)"
-msgstr ""
+msgstr "{0} (명중)"
 
 msgctxt "BrightLightCaption"
 msgid "Bright light"
@@ -303,19 +303,19 @@ msgstr "{0}은(는) 더 이상 {1} 상태가 아닙니다."
 
 msgctxt "ContestCheckConsoleBothAdvantageLine"
 msgid "{0} contests {1}, {2} against {3}, rolls {4} {5} against {6} {7} {8}"
-msgstr ""
+msgstr "{0} 와(과) {1} 이(가) 겨룹니다. {2} vs {3} 굴림 {4} {5} vs {6} {7} {8}"
 
 msgctxt "ContestCheckConsoleLine"
 msgid "{0} contests {1}, {2} against {3}, rolls {4} against {5} {6}"
-msgstr ""
+msgstr "{0} 와(과) {1} 이(가) 겨룹니다. {2} vs {3} 굴림 {4} vs {5} {6}"
 
 msgctxt "ContestCheckConsoleMainAdvantageLine"
 msgid "{0} contests {1}, {2} against {3}, rolls {4} {5} against {6} {7}"
-msgstr ""
+msgstr "{0} 와(과) {1} 이(가) 겨룹니다. {2} vs {3} 굴림 {4} {5} vs {6} {7}"
 
 msgctxt "ContestCheckConsoleOpponentAdvantageLine"
 msgid "{0} contests {1}, {2} against {3}, rolls {4} against {5} {6} {7}"
-msgstr ""
+msgstr "{0} 와(과) {1} 이(가) 겨룹니다. {2} vs {3} 굴림 {4} vs {5} {6} {7}"
 
 msgctxt "ContestFailure"
 msgid "Failure"
@@ -335,7 +335,7 @@ msgstr "대화 기록됨 {0} {1}"
 
 msgctxt "CoverFullCaption"
 msgid "out of sight"
-msgstr ""
+msgstr "내 시야에 없음"
 
 msgctxt "CoverHalfCaption"
 msgid "1/2 cover"
@@ -379,7 +379,7 @@ msgstr ""
 
 msgctxt "DeadlyFallLine"
 msgid "{0} fell to their death."
-msgstr ""
+msgstr "{0}이(가) 죽었습니다."
 
 msgctxt "DeathSaveAnyAdvantageConsoleLine"
 msgid "{0} rolls a death saving throw {1}: {2}"
@@ -565,7 +565,7 @@ msgstr ""
 
 msgctxt "ItemConsumedLine"
 msgid "{0} has fully consumed an item: {1}"
-msgstr ""
+msgstr "{0}이(가) 아이템 하나를 완전히 소비했습니다: {1}"
 
 #, fuzzy
 msgctxt "ItemGainedLine"
@@ -590,7 +590,7 @@ msgstr ""
 
 msgctxt "ItemUsedLine"
 msgid "{0} uses the {1} item"
-msgstr ""
+msgstr "{0}은(는) {1} 아이템을 사용합니다."
 
 msgctxt "ItemUsedSpellCastLine"
 msgid "{0} uses the {1} item and casts the {2} spell"
@@ -606,7 +606,7 @@ msgstr ""
 
 msgctxt "NeedFlamingTagFormat"
 msgid "Need a flaming item"
-msgstr ""
+msgstr "불타고 있는 아이템이 필요합니다"
 
 #, fuzzy
 msgctxt "ObservationFailedFormat"
@@ -792,7 +792,7 @@ msgstr "{0}이(가) {1} 주문을 시전했습니다."
 
 msgctxt "SpellCastSuperiorSlotLine"
 msgid "{0} casts {1} with a level {2} slot"
-msgstr ""
+msgstr "{0}은(는) 레벨 {2} 슬롯으로 {1}을(를) 시전합니다."
 
 msgctxt "SpellCounteredFailLine"
 msgid "{0} fails to counter the {2} spell cast by {1}"
@@ -944,7 +944,7 @@ msgstr ""
 
 msgctxt "ResistantToDamageLine"
 msgid "{0} is resistant to {1} damage and only takes half damage."
-msgstr ""
+msgstr "{0}은(는) {1} 피해에 저항력이 있습니다. 절반의 피해만 받습니다."
 
 msgctxt "ResistantToDamageFormat"
 msgid "Resists {0}"
@@ -976,11 +976,11 @@ msgstr ""
 
 msgctxt "SpellCastUnknownLine"
 msgid "{0} casts a spell"
-msgstr ""
+msgstr "{0}이(가) 주문을 시전합니다."
 
 msgctxt "SpellIdentifiedLine"
 msgid "{0} has identified the spell as {1}"
-msgstr ""
+msgstr "{0}이(가) {1}(으)로 주문을 식별했습니다."
 
 msgctxt "SpellCounteredSuccessUnknownLine"
 msgid "{0} counters the unknown spell cast by {1}."

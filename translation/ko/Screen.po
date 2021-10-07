@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-04 12:42+0000\n"
+"PO-Revision-Date: 2021-10-07 13:03+0000\n"
 "Last-Translator: 이정승 <jsnuguri@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/screen/ko/>"
 "\n"
@@ -35,7 +35,7 @@ msgstr ""
 
 msgctxt "AbilityScoresMethodTitle"
 msgid "Select Ability Score Generation Method"
-msgstr ""
+msgstr "능력치 생성 방법 선택"
 
 msgctxt "AbortCreationDescription"
 msgid "Cancels the character creation process."
@@ -49,12 +49,10 @@ msgctxt "AbortTitle"
 msgid "Cancel"
 msgstr "취소"
 
-#, fuzzy
 msgctxt "ActiveQuestsFormatPlural"
 msgid "Your team has {0} active quests."
 msgstr "팀에 활성화된 퀘스트가 {0}개 있습니다."
 
-#, fuzzy
 msgctxt "ActiveQuestsFormatSingle"
 msgid "Your team has one active quest."
 msgstr "팀에 활성화된 퀘스트가 하나 있습니다."
@@ -77,11 +75,11 @@ msgstr "답변 선택"
 
 msgctxt "AscendDescription"
 msgid "Elevate the horizontal plane by one cell."
-msgstr ""
+msgstr "수평면을 한 셀 올립니다."
 
 msgctxt "AttackDamageDescription"
 msgid "The damage this attack causes on a successful hit."
-msgstr ""
+msgstr "이 공격이 성공했을 때 입히는 피해입니다."
 
 msgctxt "AttackDamageTitle"
 msgid "dmg"
@@ -101,33 +99,36 @@ msgstr "명중"
 
 msgctxt "AttunableItemsTitle"
 msgid "Items that can be attuned."
-msgstr ""
+msgstr "조율가능한 아이템."
 
 msgctxt "AttunableItemsWarningFormat"
 msgid "{0} has reached the limit of {1} attunable items."
-msgstr ""
+msgstr "{0}은(는) 조율가능한 아이템의 한도, {1}개에 도달했습니다."
 
 msgctxt "AttunementExecutedWarningDescription"
 msgid "Remove attunement to this item in order to attune to a different item."
-msgstr ""
+msgstr "다른 아이템을 조율하려면 이 아이템과의 조율을 제거하십시오."
 
 msgctxt "AttunementExecutedWarningTitle"
 msgid "{0} has reached the attunement limit for this rest."
-msgstr ""
+msgstr "{0}은(는) 이번 휴식 간 가능한 조율 한도에 도달했습니다."
 
 msgctxt "AttunementRemoveTitle"
 msgid "Remove"
 msgstr "제거"
 
+#, fuzzy
 msgctxt "AvailableSlotsDescription"
 msgid ""
 "The number of spells of this level that you can cast. You can use one of "
 "these slots to cast a lower level spell, which may increase its effect."
 msgstr ""
+"발동할 수 있는 이 레벨의 주문 개수입니다. 이 슬롯 중 하나를 사용하여 더 낮은 레벨의 주문을 시전하면 더 좋은 주문 효과를 얻을 수 "
+"있습니다."
 
 msgctxt "AvailableSlotsTitle"
 msgid "Available Slots:"
-msgstr ""
+msgstr "사용 가능한 슬롯:"
 
 msgctxt "BackgroundFeaturesTitle"
 msgid "Background Features"
@@ -151,7 +152,7 @@ msgstr "승리!"
 
 msgctxt "BonusAttackTitle"
 msgid "Bonus Attack"
-msgstr ""
+msgstr "추가 공격"
 
 msgctxt "CancelTitle"
 msgid "Cancel"
@@ -167,7 +168,7 @@ msgstr "취소"
 
 msgctxt "CaptionProceedDescription"
 msgid "Execute your action even though it is incomplete."
-msgstr ""
+msgstr "완전하지 않더라도 행동을 실행하십시오."
 
 msgctxt "CaptionProceedTitle"
 msgid "Proceed"
@@ -175,11 +176,11 @@ msgstr "진행"
 
 msgctxt "CastLightButtonDescription"
 msgid "Click to cast a light cantrip on one of your hand-held items."
-msgstr ""
+msgstr "클릭하여 휴대 아이템에 가벼운 캔트립을 시전하세요."
 
 msgctxt "ChanelDivinityRecoveredDescription"
 msgid "All uses of Channel Divinity are restored."
-msgstr ""
+msgstr "신성 변환의 사용횟수가 초기화됩니다."
 
 msgctxt "CharacterInformationTitle"
 msgid "Character"
@@ -191,32 +192,32 @@ msgstr "캐릭터 정보"
 
 msgctxt "CharacterInspectionModeBattleAvailableTitle"
 msgid "The character can perform one free/inventory action per combat round."
-msgstr ""
+msgstr "캐릭터는 전투 라운드당 하나의 자유/인벤토리 행동을 수행할 수 있습니다."
 
 msgctxt "CharacterInspectionModeBattleSpentTitle"
 msgid ""
 "The character has spent the free/inventory action for this combat round."
-msgstr ""
+msgstr "캐릭터는 이번 전투 라운드에서 자유/인벤토리 행동을 사용했습니다."
 
 msgctxt "CharacterInspectionModeSelectCarriedItemTitle"
 msgid "Select any item to apply this effect."
-msgstr ""
+msgstr "이 효과를 적용할 아이템을 선택하십시오."
 
 msgctxt "CharacterInspectionModeSelectEquipedItemTitle"
 msgid "Select an equipped item to apply this effect."
-msgstr ""
+msgstr "이 효과를 적용할 착용 중인 아이템을 선택하십시오."
 
 msgctxt "CharacterInspectionModeSelectMagicalUnidentifiedItemTitle"
 msgid "Select an unidentified magical item to identify."
-msgstr ""
+msgstr "식별할 미확인 마법 아이템을 선택하십시오."
 
 msgctxt "CharacterInspectionModeSelectSpellbookTitle"
 msgid "Select a spellbook with at least {0} blank page(s)."
-msgstr ""
+msgstr "최소 {0}개의 빈 페이지가 있는 주문책을 선택하십시오."
 
 msgctxt "CharacterInspectionModeSelectWeaponNonMagicalTitle"
 msgid "Select a non-magical weapon to apply this effect."
-msgstr ""
+msgstr "이 효과를 적용하려면 마법 무기가 아닌 무기를 선택하십시오."
 
 msgctxt "CharacterInspectionModeSelectWeaponTitle"
 msgid "Select a weapon to apply this effect."
@@ -243,19 +244,19 @@ msgstr ""
 
 msgctxt "CharactersManagementTitle"
 msgid "Character Management"
-msgstr ""
+msgstr "캐릭터 관리"
 
 msgctxt "ChooseFeatureDescription"
 msgid "You must select an option."
-msgstr ""
+msgstr "옵션을 선택해야 합니다."
 
 msgctxt "ChooseFeatureTitle"
 msgid "Choose:"
-msgstr ""
+msgstr "선택:"
 
 msgctxt "ClassDeityDescription"
 msgid "The divinity that your character follows. Mandatory for some choices."
-msgstr ""
+msgstr "당신의 캐릭터가 따르는 신성입니다. 반드시 선택을 해야합니다."
 
 msgctxt "ClassDeityTitle"
 msgid "Deity"
@@ -269,15 +270,16 @@ msgctxt "ClassHeaderTitle"
 msgid "Class"
 msgstr "클래스"
 
+#, fuzzy
 msgctxt "ClassHitDiceDescription"
 msgid ""
 "The dice cast at each level to determine your hit points, and also to "
 "recover lost hit points."
-msgstr ""
+msgstr "레벨업 시 굴려져 추가 체력 획득량과 더불어 체력 회복량을 결정하는 주사위입니다."
 
 msgctxt "ClassHitDiceTitle"
 msgid "Hit Dice"
-msgstr ""
+msgstr "체력 주사위"
 
 msgctxt "ClassOrMarkerTitle"
 msgid "OR"
@@ -285,11 +287,11 @@ msgstr "또는"
 
 msgctxt "ClassSelectionTitle"
 msgid "Select a Class"
-msgstr ""
+msgstr "클래스 선택"
 
 msgctxt "ClearFiltersTitle"
 msgid "Clear Filters"
-msgstr ""
+msgstr "필터 초기화"
 
 msgctxt "CloseTitle"
 msgid "Close"
@@ -297,7 +299,7 @@ msgstr "닫기"
 
 msgctxt "CompletedQuestsListTitle"
 msgid "Completed Quests"
-msgstr ""
+msgstr "완료한 퀘스트"
 
 msgctxt "ConfigurationHeaderTitle"
 msgid "Equipped Items Configuration"
@@ -307,12 +309,12 @@ msgctxt "ContainerSpaceDescription"
 msgid ""
 "Items occupy an amount of space, and containers (backpacks, pouches) can "
 "only fit items up to a space limit."
-msgstr ""
+msgstr "아이템들은 일정 공간을 차지하며, 보관함(배낭, 주머니)들은 정해진 공간까지 아이템들을 넣을 수 있습니다."
 
 msgctxt "ContainerWeightDescription"
 msgid ""
 "Items all weigh something, and containers can only hold a certain weight."
-msgstr ""
+msgstr "아이템은 모두 무게가 나가고, 보관함들은 담을 수 있는 무게가 정해져 있습니다."
 
 msgctxt "CraftingAbilityCheckTitle"
 msgid "Ability Check"
@@ -337,11 +339,11 @@ msgstr "제작 난이도"
 
 msgctxt "CraftingEstimatedHoursFormat"
 msgid "At least {0} hour(s) are required to craft this item."
-msgstr ""
+msgstr "이 아이템을 만드는 데 최소 {0}시간이 필요합니다."
 
 msgctxt "CraftingIngredientsDescription"
 msgid "The ingredients are consumed when crafting starts."
-msgstr ""
+msgstr "제작을 시작하면 재료가 소모됩니다."
 
 msgctxt "CraftingIngredientsTitle"
 msgid "Ingredients"
@@ -349,7 +351,7 @@ msgstr "재료"
 
 msgctxt "CraftingInProgressTitle"
 msgid "The type of ability check made by the character."
-msgstr ""
+msgstr "캐릭터가 수행하는 능력치 판정 유형입니다."
 
 msgctxt "CraftingItemEffectTitle"
 msgid "Item Effects"
@@ -359,9 +361,10 @@ msgctxt "CraftingNoOptionSelectedTitle"
 msgid "You must select one of the crafting options."
 msgstr "제작 옵션 중 하나를 선택해야 합니다."
 
+#, fuzzy
 msgctxt "CraftingNoSuitableToolTypeDescription"
 msgid "No one in the party possesses {0} type tools."
-msgstr ""
+msgstr "파티원 모두 {0} 유형의 도구들을 갖고 있지 않습니다."
 
 msgctxt "CraftingNoSuitableToolTypeTitle"
 msgid "Not in Inventory"
@@ -369,7 +372,7 @@ msgstr "인벤토리에 없음"
 
 msgctxt "CraftingNotProficientDescription"
 msgid "{0} is not proficient with any of the following: {1}."
-msgstr ""
+msgstr "{0}은(는) 다음 항목에 숙련되지 않았습니다: {1}."
 
 msgctxt "CraftingNotProficientTitle"
 msgid "Not Proficient"
@@ -377,32 +380,32 @@ msgstr "숙련 부족"
 
 msgctxt "CraftingOptionsTitle"
 msgid "Crafting Options"
-msgstr ""
+msgstr "제작 옵션"
 
 msgctxt "CraftingRemainingHoursFormat"
 msgid ""
 "At least {0} more hour(s) are required to complete this crafting operation."
-msgstr ""
+msgstr "이 제작 작업을 완료하려면 최소 {0}시간이 더 필요합니다."
 
 msgctxt "CraftingRemainingSuccessesTitle"
 msgid "Remaining Ability Check Successes"
-msgstr ""
+msgstr "남아 있는 능력치 판정 성공 횟수"
 
 msgctxt "CraftingRequiredSuccessesDescription"
 msgid ""
 "The actual crafting time depends on the crafting character's ability check "
 "successes. Checks are repeated every hour until crafting is complete."
 msgstr ""
+"실제 제작에 걸리는 시간은 제작 캐릭터의 능력치 판정 성공 여부에 따라 달라집니다. 판정은 제작이 완료될 때까지 매시간 반복됩니다."
 
 msgctxt "CraftingRequiredSuccessesTitle"
 msgid "Required Successes"
-msgstr ""
+msgstr "필요한 성공 횟수"
 
 msgctxt "CraftingStartButtonDescription"
 msgid "Starts the crafting operation and consumes the ingredients."
-msgstr ""
+msgstr "제작 작업을 시작하고 재료를 소모합니다."
 
-#, fuzzy
 msgctxt "CraftingStartButtonTitle"
 msgid "Start Crafting"
 msgstr "제작 개시"
@@ -413,45 +416,45 @@ msgstr "제작"
 
 msgctxt "CraftingUnknownRecipeDescription"
 msgid "You have not learned this crafting option yet."
-msgstr ""
+msgstr "당신은 아직 이 제작 옵션을 배우지 않았습니다."
 
 msgctxt "CutscenePauseDescription"
 msgid "Pauses cutscene playback (shortcut: Return)."
-msgstr ""
+msgstr "컷신 재생을 일시 중지합니다(단축키: 엔터)."
 
 msgctxt "CutscenePlayDescription"
 msgid "Resumes cutscene playback (shortcut: Return)."
-msgstr ""
+msgstr "컷신 재생을 재개합니다(단축키: 엔터)."
 
 msgctxt "CutsceneShutdownDescription"
 msgid "Closes this control panel and resumes playback."
-msgstr ""
+msgstr "이 제어창을 닫고 재생을 재개합니다."
 
 msgctxt "CutsceneStepbackDescription"
 msgid ""
 "Go back to the previous narrative state and pause the playback (shortcut: "
 "Backspace)."
-msgstr ""
+msgstr "이전 내러티브 상태로 돌아가서 재생을 일시 중지합니다(단축키: 백스페이스)."
 
 msgctxt "DeathSavesFailuresTitle"
 msgid "Failures"
-msgstr ""
+msgstr "실패"
 
 msgctxt "DeathSavesFormat"
 msgid "{0} is dying and must make a death saving throw."
-msgstr ""
+msgstr "{0}은(는) 죽어가고 있으며 죽음 내성 굴림을 해야 합니다."
 
 msgctxt "DeathSavesSuccessesTitle"
 msgid "Successes"
-msgstr ""
+msgstr "성공"
 
 msgctxt "DeathSavesTitle"
 msgid "Death Saving Throws"
-msgstr ""
+msgstr "죽음 내성 굴림"
 
 msgctxt "DeathTimerFormat"
 msgid "{0} has died, but may be revived by party members. "
-msgstr ""
+msgstr "{0}이(가) 사망했지만 파티원이 부활시킬 수 있습니다. "
 
 msgctxt "DeathTimerLargeExpirationNumberDescription"
 msgid "10+"
@@ -459,33 +462,39 @@ msgstr "10+"
 
 msgctxt "DeathTimerReviveOptionsFormat"
 msgid "{0}'s revive options:"
-msgstr ""
+msgstr "{0}의 부활 옵션:"
 
+#, fuzzy
 msgctxt "DeathTimerUnavailableDescription"
 msgid "(unavailable)"
-msgstr ""
+msgstr "(불가)"
 
 msgctxt "DeathTimerWithExpirationFormat"
 msgid ""
 "{0} has died, but may be revived by party members.\\n"
 "{1} expires in {2} rounds."
 msgstr ""
+"{0}이(가) 사망했지만 파티원에 의해 부활할 수 있습니다.\\n"
+"{1}은(는) {2}라운드 후에 만료됩니다."
 
+#, fuzzy
 msgctxt "DefaultSessionNameFormat"
 msgid "{0}'s game"
-msgstr ""
+msgstr "{0}의 게임"
 
 msgctxt "DescendDescription"
 msgid "Lower the horizontal plane by one cell."
-msgstr ""
+msgstr "수평면을 한 셀 내립니다."
 
+#, fuzzy
 msgctxt "DestinyQuestsListTitle"
 msgid "Destiny Quests"
-msgstr ""
+msgstr "운명 퀘스트 목록"
 
+#, fuzzy
 msgctxt "DestinyQuestTypeTitle"
 msgid "Destiny Quest"
-msgstr ""
+msgstr "운명 퀘스트"
 
 msgctxt "DeviceOverchargeDescription"
 msgid "Add more charges to this effect."
@@ -493,7 +502,7 @@ msgstr ""
 
 msgctxt "DisabledSlotAutoConfigDescription"
 msgid "This slot is disabled as its content is determined automatically."
-msgstr ""
+msgstr "이 슬롯은 내용물이 자동으로 결정되므로 비활성화됩니다."
 
 msgctxt "DisabledSlotNoneDescription"
 msgid "This slot is disabled."
@@ -507,25 +516,27 @@ msgstr "양손 장비가 장착되어 있어 이 슬롯은 사용할 수 없습�
 
 msgctxt "DismissCharacterDescription"
 msgid "Remove this character from the team."
-msgstr ""
+msgstr "팀에서 이 캐릭터를 제외합니다."
 
 msgctxt "DismissCharacterTitle"
 msgid "Dismiss"
-msgstr ""
+msgstr "해고"
 
 msgctxt "DomainSpellDescription"
 msgid ""
 "This domain spell is always considered prepared. \n"
 "It does not count towards your spell preparation limit. "
 msgstr ""
+"이 권역 주문은 항상 준비된 것으로 간주됩니다.\n"
+"주문 준비 한도에 포함되지 않습니다. "
 
 msgctxt "DomainSpellTitle"
 msgid "Domain"
-msgstr ""
+msgstr "권역"
 
 msgctxt "DoneTitle"
 msgid "Done"
-msgstr ""
+msgstr "완료"
 
 msgctxt "DropItemDescription"
 msgid "Drop the item on the ground."
@@ -535,9 +546,10 @@ msgctxt "DropItemTitle"
 msgid "Drop"
 msgstr "내려놓기"
 
+#, fuzzy
 msgctxt "DungeonMasterTitle"
 msgid "[ToRemove] Dungeon Master"
-msgstr ""
+msgstr "[제거요망] 던전 마스터"
 
 msgctxt "EffectFormRollFooterDamageTitle"
 msgid "Damage"
@@ -559,19 +571,21 @@ msgctxt "EncounterCombatAwareDescription"
 msgid ""
 "Hostile creatures are nearby, but {0} has managed to spot them. What will "
 "you do?"
-msgstr ""
+msgstr "적대적인 생물이 근처에 있지만, {0}이(가) 발견할 수 있었습니다. 어떻게 하겠습니까?"
 
+#, fuzzy
 msgctxt "EncounterCombatSurprisedDescription"
 msgid "A group of hostile creatures has managed to surprise you!"
-msgstr ""
+msgstr "적대적인 크리쳐들이 당신을 기습했습니다!"
 
+#, fuzzy
 msgctxt "EncounterCombatTitle"
 msgid "Combat Encounter"
-msgstr ""
+msgstr "전투 시작"
 
 msgctxt "EncounterEventTitle"
 msgid "Game Event"
-msgstr ""
+msgstr "게임 이벤트"
 
 msgctxt "EncounterFightButtonDescription"
 msgid "Starts the battle against the enemy group."
@@ -583,47 +597,51 @@ msgstr "전투 시작"
 
 msgctxt "EncounterHeroStatusAsleepDescription"
 msgid "{0} is sleeping and will not act until awoken."
-msgstr ""
+msgstr "{0}은(는) 자고 있으며 깨어날 때까지 행동할 수 없습니다."
 
 msgctxt "EncounterHeroStatusAsleepTitle"
 msgid "Asleep"
-msgstr ""
+msgstr "수면"
 
 msgctxt "EncounterHeroStatusAwareDescription"
 msgid "{0} is aware of the approaching enemies."
-msgstr ""
+msgstr "{0}은(는) 적의 접근을 알고 있습니다."
 
 msgctxt "EncounterHeroStatusAwareTitle"
 msgid "Aware"
-msgstr ""
+msgstr "인지"
 
+#, fuzzy
 msgctxt "EncounterHeroStatusDeadDescription"
 msgid "{0} was dead at the end of the battle."
-msgstr ""
+msgstr "{0}은(는) 전투 종료 시 사망 상태였습니다."
 
 msgctxt "EncounterHeroStatusDeadTitle"
 msgid "Dead"
-msgstr ""
+msgstr "사망"
 
 msgctxt "EncounterHeroStatusHealthyDescription"
 msgid "{0} was healthy at the end of the battle."
-msgstr ""
+msgstr "{0}은(는) 전투 종료 시 건강한 상태였습니다."
 
+#, fuzzy
 msgctxt "EncounterHeroStatusHealthyTitle"
 msgid "Healthy"
-msgstr ""
+msgstr "정상"
 
+#, fuzzy
 msgctxt "EncounterHeroStatusSeverelyWoundedDescription"
 msgid "{0} was severely wounded at the end of the battle."
-msgstr ""
+msgstr "{0}은(는) 전투 종료 시 중상 상태였습니다."
 
+#, fuzzy
 msgctxt "EncounterHeroStatusSeverelyWoundedTitle"
 msgid "Severely Wounded"
-msgstr ""
+msgstr "중상"
 
 msgctxt "EncounterHeroStatusSpotterDescription"
 msgid "{0} has spotted the approaching enemies."
-msgstr ""
+msgstr "{0}이(가) 접근하는 적을 발견했습니다."
 
 msgctxt "EncounterHeroStatusSpotterTitle"
 msgid "Spotter"
@@ -631,7 +649,7 @@ msgstr "발견함"
 
 msgctxt "EncounterHeroStatusSurprisedDescription"
 msgid "{0} is surprised and will not act during the first round of the battle."
-msgstr ""
+msgstr "{0}은(는) 기습당하여 전투의 첫 번째 라운드에서 행동할 수 없습니다."
 
 msgctxt "EncounterHeroStatusSurprisedTitle"
 msgid "Surprised"
@@ -639,23 +657,23 @@ msgstr "기습당함"
 
 msgctxt "EncounterHeroStatusUnconsciousDescription"
 msgid "{0} was unconscious at the end of the battle."
-msgstr ""
+msgstr "{0}은(는) 전투 종료 시 의식이 없는 상태였습니다."
 
 msgctxt "EncounterHeroStatusUnconsciousTitle"
 msgid "Unconscious"
-msgstr ""
+msgstr "의식 없음"
 
 msgctxt "EncounterHeroStatusWoundedDescription"
 msgid "{0} was wounded at the end of the battle."
-msgstr ""
+msgstr "{0}은(는) 전투 종료 시 부상 상태였습니다."
 
 msgctxt "EncounterHeroStatusWoundedTitle"
 msgid "Wounded"
-msgstr ""
+msgstr "부상"
 
 msgctxt "EncounterProceedButtonDescription"
 msgid "Start the interaction."
-msgstr ""
+msgstr "상호 작용을 시작합니다."
 
 msgctxt "EncounterProceedButtonTitle"
 msgid "Proceed"
@@ -689,9 +707,10 @@ msgctxt "EndTurnTitle"
 msgid "End Turn"
 msgstr "턴 종료"
 
+#, fuzzy
 msgctxt "EquipmentConfigurationSetupTitle"
 msgid "Drag items below to change their configuration."
-msgstr ""
+msgstr "설정을 변경하려면 아래 아이템을 드래그하세요."
 
 msgctxt "EquipmentTitle"
 msgid "Equipment"
@@ -699,11 +718,11 @@ msgstr "장비"
 
 msgctxt "EthnicGroupSelectionTitle"
 msgid "Select an origin."
-msgstr ""
+msgstr "출신을 선택합니다."
 
 msgctxt "ExamineDocumentDescription"
 msgid "Read this document."
-msgstr ""
+msgstr "이 문서를 읽습니다."
 
 msgctxt "ExamineDocumentTitle"
 msgid "Read"
@@ -711,21 +730,21 @@ msgstr "읽기"
 
 msgctxt "ExistingClassSelectionTitle"
 msgid "Select an existing class to level up."
-msgstr ""
+msgstr "레벨을 올릴 기존 클래스를 선택하세요."
 
 msgctxt "ExpertiseSuffix"
 msgid "(expert)"
-msgstr ""
+msgstr "(전문가)"
 
 msgctxt "ExpertSkillTooltipSuffix"
 msgid "You are an expert at using this skill (add your proficiency bonus x 2)."
-msgstr ""
+msgstr "당신은 이 기술의 전문가입니다(숙련 보너스 x2 추가)."
 
 msgctxt "ExpertToolTypeTooltipSuffix"
 msgid ""
 "You are an expert at using this type of tool (add your proficiency bonus x "
 "2)."
-msgstr ""
+msgstr "당신은 이러한 유형의 도구를 사용하는 데 전문가입니다(숙련도 보너스 x2 추가)."
 
 msgctxt "ExplorationActionsTitle"
 msgid "Character Actions"
@@ -737,19 +756,20 @@ msgstr "실패한 퀘스트"
 
 msgctxt "FeatAutoSelectButtonTitle"
 msgid "Auto Select"
-msgstr ""
+msgstr "자동 선택"
 
 msgctxt "FeatBackButtonTitle"
 msgid "Back One Step"
-msgstr ""
+msgstr "이전 단계로"
 
 msgctxt "FeatureListingProficienciesTitle"
 msgid "Proficiencies"
 msgstr "숙련도"
 
+#, fuzzy
 msgctxt "FocusCharacterDescription"
 msgid "Click to focus the view on this character."
-msgstr ""
+msgstr "클릭하여 이 캐릭터에 초점을 맞추세요."
 
 msgctxt "GameContentButtonDescription"
 msgid ""
@@ -771,27 +791,28 @@ msgstr "메뉴"
 
 msgctxt "GamePausedTitle"
 msgid "Paused"
-msgstr ""
+msgstr "일시중지됨"
 
 msgctxt "HitDiceItemStatusDeadTitle"
 msgid "Dead"
-msgstr ""
+msgstr "사망"
 
 msgctxt "HitDiceItemStatusFullHPTitle"
 msgid "Full HP"
 msgstr "최대 체력"
 
+#, fuzzy
 msgctxt "HitDiceItemStatusOutofHDTitle"
 msgid "Empty"
-msgstr ""
+msgstr "체력 없음"
 
 msgctxt "HitDiceItemStatusRollTitle"
 msgid "Roll"
-msgstr ""
+msgstr "굴림"
 
 msgctxt "HitDiceItemStatusUnconsciousTitle"
 msgid "Unconscious"
-msgstr ""
+msgstr "의식 없음"
 
 msgctxt "InBattleDescription"
 msgid "Your party is currently engaged in a turn-based battle."
@@ -805,9 +826,8 @@ msgctxt "InspectDescription"
 msgid ""
 "Opens the character view screen, from which you can access the inventory, "
 "character information, proficiencies, spells, and crafting options."
-msgstr ""
+msgstr "인벤토리, 캐릭터 정보, 숙련도, 주문 및 제작 옵션을 확인할 수 있는 캐릭터 화면을 엽니다."
 
-#, fuzzy
 msgctxt "InspectInventoryDescription"
 msgid "Open the character's inventory tab."
 msgstr "캐릭터의 인벤토리를 엽니다."
@@ -818,11 +838,11 @@ msgstr "인벤토리"
 
 msgctxt "InspectionGiveItemToCharacterDescription"
 msgid "Click to give this item to {0}."
-msgstr ""
+msgstr "클릭하여 이 아이템을 {0}에게 건네주세요."
 
 msgctxt "InspectionSelectCharacterDescription"
 msgid "Click to select this character."
-msgstr ""
+msgstr "클릭하여 이 캐릭터를 선택하세요."
 
 msgctxt "InspectTitle"
 msgid "Inspect"
@@ -830,11 +850,11 @@ msgstr "조사"
 
 msgctxt "InventoryCannotDropQuestItemDescription"
 msgid "You cannot drop a quest item out of your party inventory."
-msgstr ""
+msgstr "퀘스트 아이템은 파티 인벤토리에서 버릴 수 없습니다."
 
 msgctxt "InventoryCannotLootAllDescription"
 msgid "Some item(s) do not fit in your inventory."
-msgstr ""
+msgstr "일부 아이템은 인벤토리 크기에 맞지 않습니다."
 
 msgctxt "InventoryCannotSellQuestItemDescription"
 msgid "You cannot sell a quest item."
@@ -844,7 +864,7 @@ msgctxt "InventoryDescription"
 msgid ""
 "Opens the character inventory screen, from which you can also access "
 "character information, proficiencies, spells, and crafting options."
-msgstr ""
+msgstr "캐릭터 정보, 숙련도, 주문 및 제작 옵션을 확인할 수 있는 인벤토리 화면을 엽니다."
 
 msgctxt "InventoryForceEquipDescription"
 msgid "This item prevents any other item from being equipped."
@@ -852,15 +872,15 @@ msgstr ""
 
 msgctxt "InventoryMaxWeightCapacityDescription"
 msgid "You cannot carry that much weight."
-msgstr ""
+msgstr "너무 무거워 들 수 없습니다."
 
 msgctxt "InventorySlotAlwaysLockedDescription"
 msgid "This slot is locked and cannot be equipped/unequipped."
-msgstr ""
+msgstr "이 슬롯은 잠겨 있어 장착/해제할 수 없습니다."
 
 msgctxt "InventorySlotLockedInBattleDescription"
 msgid "This slot is locked in battle."
-msgstr ""
+msgstr "이 슬롯은 전투 중에 잠겨 있습니다."
 
 msgctxt "InventoryTitle"
 msgid "Inventory"
@@ -878,15 +898,16 @@ msgstr "<#F5B486>모</color>험 <#F5B486>일</color>지"
 
 msgctxt "JournalBattleOutcomeTitle"
 msgid "Victory"
-msgstr ""
+msgstr "승리"
 
+#, fuzzy
 msgctxt "JournalBattleTitle"
 msgid "Encounter"
-msgstr ""
+msgstr "적 조우"
 
 msgctxt "JournalBattleVersusTitle"
 msgid "VS"
-msgstr ""
+msgstr "VS"
 
 msgctxt "JournalBestiaryAttacksTitle"
 msgid "Attacks"
@@ -926,9 +947,10 @@ msgctxt "JournalBestiaryLanguagesTitle"
 msgid "Languages"
 msgstr "언어"
 
+#, fuzzy
 msgctxt "JournalBestiaryLootOptionsTitle"
 msgid "Treasure"
-msgstr ""
+msgstr "보물"
 
 msgctxt "JournalBestiaryMonsterIndexFormat"
 msgid "Creature {0} of {1}"
@@ -986,9 +1008,10 @@ msgctxt "JournalBestiarySortUpdateDateTitle"
 msgid "Last Update"
 msgstr "최근갱신"
 
+#, fuzzy
 msgctxt "JournalBestiaryStandardTitle"
 msgid "Standard"
-msgstr ""
+msgstr "표준"
 
 msgctxt "JournalBestiaryTitle"
 msgid "<#F5B486>B</color>estiary"
@@ -1025,16 +1048,18 @@ msgid ""
 "relations with a faction can bring many advantages. You improve your "
 "relations with a faction by doing jobs for them or promoting their interests."
 msgstr ""
+"모험을 하는 동안 다양한 세력의 사람들을 만나게 됩니다. 세력과의 좋은 관계는 많은 이점을 가져올 수 있습니다. 특정 세력을 위해 일을 "
+"하거나 그들에게 이로움을 주면 관계가 증진됩니다."
 
 msgctxt "JournalFactionProminentMembersTitle"
 msgid "Prominent Members"
-msgstr ""
+msgstr "주요 인사"
 
 msgctxt "JournalFactionStatusDescription"
 msgid ""
 "Displays the party's standing with the various factions on the Legacy "
 "Council."
-msgstr ""
+msgstr "유산 평의회의 다양한 세력에 대한 파티의 관계를 표시합니다."
 
 msgctxt "JournalFactionStatusTitle"
 msgid "<#F5B486>F</color>actions"
@@ -1075,27 +1100,28 @@ msgstr "{0} (계속됨)"
 
 msgctxt "JournalQuestUpdatedTitle"
 msgid "Quest Updated:"
-msgstr ""
+msgstr "업데이트된 퀘스트 :"
 
 msgctxt "JournalRelationDecreasedFormat"
 msgid "Relationship with {1} decreased to {0}. "
 msgstr "{1}와(과)의 관계가 {0}(으)로 감소했습니다. "
 
+#, fuzzy
 msgctxt "JournalRelationDecreasedTitle"
 msgid "Relationship Decreased:"
-msgstr ""
+msgstr "관계 악화 :"
 
 msgctxt "JournalRelationIncreasedFormat"
 msgid "Relationship with {1} increased to {0}. "
-msgstr ""
+msgstr "{1}과의 관계가 {0}(으)로 증가했습니다. "
 
 msgctxt "JournalRelationIncreasedTitle"
 msgid "Relationship Increased:"
-msgstr ""
+msgstr "관계 증진 :"
 
 msgctxt "JournalRelationStatusChangedFormat"
 msgid "Status is now {0}"
-msgstr ""
+msgstr "현재 {0} 상태입니다"
 
 msgctxt "JournalTimecodeDayFormat"
 msgid "Day {0}"
@@ -1117,7 +1143,6 @@ msgctxt "JournalTitle"
 msgid "Party Journal"
 msgstr "파티 일지"
 
-#, fuzzy
 msgctxt "JournalTravelContinuedTitle"
 msgid "Travel (continued)"
 msgstr "여행 (재개됨)"
@@ -1130,7 +1155,7 @@ msgctxt "JournalTutorialDescription"
 msgid ""
 "Allows you to review tutorial information that was previously displayed in-"
 "game."
-msgstr ""
+msgstr "이전에 게임 내에서 표시된 튜토리얼 정보를 볼 수 있습니다."
 
 msgctxt "JournalTutorialForumsAddress"
 msgid "https://forums.solasta-game.com/"
@@ -1150,11 +1175,11 @@ msgstr "https://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf"
 
 msgctxt "JournalTutorialSRDDescription"
 msgid "Read about the rules system Solasta uses."
-msgstr ""
+msgstr "Solasta가 사용하는 규칙 시스템에 대해 읽어보세요."
 
 msgctxt "JournalTutorialSRDTitle"
 msgid "System Reference Document"
-msgstr ""
+msgstr "시스템 참조 문서"
 
 msgctxt "JournalTutorialTitle"
 msgid "<#F5B486>T</color>utorial"
@@ -1179,15 +1204,16 @@ msgstr "솔라스타 위키"
 
 msgctxt "KnownCantripsTitle"
 msgid "Known Cantrips"
-msgstr ""
+msgstr "알고 있는 캔트립"
 
 msgctxt "KnownSpellDescription"
 msgid "This spell is known or written in a spellbook."
-msgstr ""
+msgstr "이 주문은 알고 있거나 주문책에 기록되어 있습니다."
 
+#, fuzzy
 msgctxt "KnownSpellTitle"
 msgid "Known"
-msgstr ""
+msgstr "알고 있는 주문"
 
 msgctxt "LegalAgreeDescription"
 msgid "By clicking the \"I Agree\" button, you accept the terms above."
@@ -1213,11 +1239,12 @@ msgstr "다음 단계로 이동"
 
 msgctxt "LegalProceedTitle"
 msgid "Proceed"
-msgstr ""
+msgstr "다음 단계로"
 
+#, fuzzy
 msgctxt "LevelGainsTitle"
 msgid "Your Level Gains"
-msgstr ""
+msgstr "레벨업"
 
 msgctxt "LoadGameDescription"
 msgid "Select and load a saved game."
@@ -1229,11 +1256,11 @@ msgstr "불러오기"
 
 msgctxt "LocationIntroductionActiveQuestsFormat"
 msgid "Active Quests: {0}"
-msgstr ""
+msgstr "현재 퀘스트 : {0}"
 
 msgctxt "LocationIntroductionHeaderTitle"
 msgid "New Location"
-msgstr ""
+msgstr "새로운 지역"
 
 msgctxt "LongRestCompleteTitle"
 msgid "Long Rest Complete"
@@ -1243,7 +1270,7 @@ msgctxt "LongRestDescription"
 msgid ""
 "Take at least eight hours to eat, drink, and sleep, and wake up ready for "
 "anything."
-msgstr ""
+msgstr "먹고, 마시고, 자고, 일어나서 준비하는데 최소한 8시간이 필요합니다."
 
 msgctxt "LongRestTitle"
 msgid "Long Rest"
@@ -1259,11 +1286,12 @@ msgctxt "LootAllTitle"
 msgid "Loot All"
 msgstr "모두 획득하기"
 
+#, fuzzy
 msgctxt "MagicalTagDescription"
 msgid ""
 "This attack is considered magical and can wound creatures that resist non-"
 "magical attacks."
-msgstr ""
+msgstr "이 공격은 마법으로 간주되며 마법이 아닌 공격에 저항이 있는 생물에게 상처를 입힐 수 있습니다."
 
 msgctxt "MagicRevealedPluralFormat"
 msgid "New items have been revealed as magical on {0}."
@@ -1279,11 +1307,11 @@ msgstr "주 공격"
 
 msgctxt "MainQuestsListTitle"
 msgid "Main Quests"
-msgstr ""
+msgstr "주 임무"
 
 msgctxt "MainQuestTypeTitle"
 msgid "Main Quest"
-msgstr ""
+msgstr "주 임무"
 
 msgctxt "MapToggleDescription"
 msgid "Open the map of the location."
@@ -1297,18 +1325,18 @@ msgstr ""
 
 msgctxt "MerchantDetectMagicTitle"
 msgid "Detect Magic"
-msgstr ""
+msgstr "마법 감지"
 
 msgctxt "MerchantFactionRelationEffectDescription"
 msgid ""
 "Your party's standing with the merchant's faction affects rebates and "
 "overcharges."
-msgstr ""
+msgstr "상인이 속한 세력 내 파티의 지위는 할인과 할증에 영향을 미칩니다."
 
 msgctxt "MerchantIdentifyDescription"
 msgid ""
 "Reveals everything about a selected item, including whether it is magical."
-msgstr ""
+msgstr "마법 감지를 포함해서 선택한 아이템에 대한 모든 것을 표시합니다."
 
 msgctxt "MerchantIdentifyTitle"
 msgid "Identify"
@@ -1316,7 +1344,7 @@ msgstr "식별"
 
 msgctxt "NewClassSelectionTitle"
 msgid "Or click to add a new class to this character."
-msgstr ""
+msgstr "또는 클릭하여 이 캐릭터의 새 클래스를 추가하세요."
 
 msgctxt "NewGameScreenTitle"
 msgid "New Game"
@@ -1328,7 +1356,7 @@ msgstr "새로운 제작 옵션!"
 
 msgctxt "NextClassFeaturesTitle"
 msgid "Next Class Features"
-msgstr ""
+msgstr "다음 클래스 특성"
 
 msgctxt "NextPageTitle"
 msgid "Next"
@@ -1346,15 +1374,15 @@ msgctxt "NoContainerTitle"
 msgid ""
 "This character is not equipped with any backpack or container item in the "
 "\"Back\" slot."
-msgstr ""
+msgstr "이 캐릭터는 \"등\" 슬롯에 배낭이나 컨테이너 아이템을 장착하고 있지 않습니다."
 
 msgctxt "NoCraftingOptionsTitle"
 msgid "Your party does not have any crafting options yet."
-msgstr ""
+msgstr "파티에 아직 제작 가능한 옵션이 없습니다."
 
 msgctxt "OpenGamingLicenseButtonDescription"
 msgid "Display the full Open Game License and System Reference Document"
-msgstr ""
+msgstr "전체 오픈 게임 라이선스 및 시스템 참조 문서 표시"
 
 msgctxt "OpenGamingLicenseButtonTitle"
 msgid "Open Game License"
@@ -1608,7 +1636,7 @@ msgstr "\"{0}\" 성격 점수: {1}."
 
 msgctxt "PlanarToggleDescription"
 msgid "Toggle the horizontal plane on/off for movement destination selection."
-msgstr ""
+msgstr "수평면(높낮이 수준)을 켜거나 끕니다."
 
 msgctxt "PlayDescription"
 msgid "Resume the flow of time."
@@ -1618,45 +1646,50 @@ msgctxt "PlayTitle"
 msgid "Play"
 msgstr "재개"
 
+#, fuzzy
 msgctxt "PoolPointsToSpendPluralTitle"
 msgid "{0}/{1} points to assign"
-msgstr ""
+msgstr "남은 포인트 {0}/{1}"
 
+#, fuzzy
 msgctxt "PoolPointsToSpendSingleTitle"
 msgid "{0}/{1} point to assign"
-msgstr ""
+msgstr "남은 포인트 {0}/{1}"
 
+#, fuzzy
 msgctxt "PowerRemainingHealingPoolDescription"
 msgid "Your remaining pool of healing points."
-msgstr ""
+msgstr "남은 치유력 점수입니다."
 
+#, fuzzy
 msgctxt "PowerUsedAllDescription"
 msgid "You have no more uses of this power."
-msgstr ""
+msgstr "이 능력을 모두 사용했습니다."
 
 msgctxt "PowerUsedNoneDescription"
 msgid "You have not used this power."
 msgstr "아직 이 능력을 사용하지 않았습니다."
 
+#, fuzzy
 msgctxt "PowerUsedSomeDescription"
 msgid "You have spent {0} use(s) of this power."
-msgstr ""
+msgstr "이 능력을 {0}회 사용했습니다."
 
 msgctxt "PrepareAutoDescription"
 msgid "Automatically prepares spells based on their general relevance."
-msgstr ""
+msgstr "일반적인 직업관련 기준으로 주문을 자동 준비합니다."
 
 msgctxt "PrepareAutoTitle"
 msgid "Auto Prepare"
-msgstr ""
+msgstr "자동 준비"
 
 msgctxt "PrepareClearDescription"
 msgid "Clears all prepared spells."
-msgstr ""
+msgstr "준비된 모든 주문을 취소합니다."
 
 msgctxt "PrepareClearTitle"
 msgid "Clear"
-msgstr ""
+msgstr "모두 취소"
 
 msgctxt "PreparedSpellDescription"
 msgid "This spell has been prepared and can be cast using spell slots."
@@ -1668,7 +1701,7 @@ msgstr "준비됨"
 
 msgctxt "PreparePanelDescription"
 msgid "You can do this once per long rest."
-msgstr ""
+msgstr "긴 휴식 당 한 번 이 작업을 할 수 있습니다."
 
 msgctxt "PreparePanelInstruction"
 msgid "Select {0} spells to prepare."
@@ -1680,11 +1713,11 @@ msgstr "주문 준비"
 
 msgctxt "PrepareRevertDescription"
 msgid "Revert to the spells that were prepared before opening this panel."
-msgstr ""
+msgstr "이 화면을 열기 전에 준비한 주문으로 되돌립니다."
 
 msgctxt "PrepareRevertTitle"
 msgid "Revert"
-msgstr ""
+msgstr "되돌리기"
 
 msgctxt "PrepareSpellsDescription"
 msgid "Select a different set of prepared spells."
@@ -1888,7 +1921,7 @@ msgctxt "ReadyToLevelUpLongRestDescription"
 msgid ""
 "This character is ready to level up. Take a long rest to start the level up "
 "sequence."
-msgstr ""
+msgstr "이 캐릭터는 레벨을 올릴 준비가 되었습니다. 레벨 업 과정을 시작하려면 긴 휴식을 취하십시오."
 
 msgctxt "RemainingPointsFormat"
 msgid "{0} remaining points"
@@ -1946,7 +1979,7 @@ msgstr "체력 회복"
 
 msgctxt "RestModuleHitDiceInstructionAfterRestLongRestTitle"
 msgid "You have recovered all hit points and half your hit dice maximum."
-msgstr ""
+msgstr "모든 체력과 체력 주사위 최대치의 절반을 회복했습니다."
 
 msgctxt "RestModuleHitDiceInstructionAfterRestShortRestTitle"
 msgid "Spend hit dice to recover hit points."
@@ -1956,16 +1989,16 @@ msgctxt "RestModuleHitDiceInstructionBeforeRestLongRestTitle"
 msgid ""
 "When the rest is complete, recover all hit points and half your hit dice "
 "maximum."
-msgstr ""
+msgstr "휴식이 끝나면 모든 체력과 체력 주사위 최대값의 절반을 회복합니다."
 
 msgctxt "RestModuleHitDiceInstructionBeforeRestShortRestTitle"
 msgid ""
 "When the rest is complete, spend hit dice to recover missing hit points."
-msgstr "휴식이 끝나면 체력 주사위를 사용해서 잃은 HP를 회복할 수 있습니다."
+msgstr "휴식이 끝나면 체력 주사위를 사용해서 잃은 체력을 회복할 수 있습니다."
 
 msgctxt "RestModulePostRestActivitiesAfterDescription"
 msgid "Select actions."
-msgstr ""
+msgstr "행동을 선택합니다."
 
 msgctxt "RestModulePostRestActivitiesBeforeDescription"
 msgid "Your characters' actions after the rest is complete."
@@ -1981,7 +2014,7 @@ msgstr "특성 및 능력 회복"
 
 msgctxt "RestModuleRecoveredFeaturesInstructionAfterRestTitle"
 msgid "You have recovered the following features:"
-msgstr ""
+msgstr "다음 특성을 회복했습니다:"
 
 msgctxt "RestModuleRecoveredFeaturesInstructionBeforeRestTitle"
 msgid "Upon rest completion, you will recover these features:"
@@ -2176,7 +2209,7 @@ msgstr "특성"
 
 msgctxt "SecondaryQuestsListTitle"
 msgid "Secondary Quests"
-msgstr ""
+msgstr "부가 임무"
 
 msgctxt "SecondaryQuestTypeTitle"
 msgid "Secondary Quest"
@@ -2345,23 +2378,23 @@ msgstr "주문 슬롯을 모두 회복했습니다."
 
 msgctxt "SpellSlotsRecoveredTitle"
 msgid "Spell Slots"
-msgstr ""
+msgstr "주문 슬롯"
 
 msgctxt "SpellSlotsUsedAllDescription"
 msgid "You have spent all spell slot(s) of this level."
-msgstr ""
+msgstr "이 레벨의 모든 주문 슬롯을 사용했습니다."
 
 msgctxt "SpellSlotsUsedAllLevelsDescription"
 msgid "You have no available slots to cast this spell."
-msgstr ""
+msgstr "이 주문을 시전할 수 있는 슬롯이 없습니다."
 
 msgctxt "SpellSlotsUsedNoneDescription"
 msgid "You have not spent any spell slot of this level."
-msgstr ""
+msgstr "이 레벨의 주문 슬롯을 사용하지 않았습니다."
 
 msgctxt "SpellSlotsUsedSomeDescription"
 msgid "You have expended {0} spell slot(s) of this level."
-msgstr ""
+msgstr "이 레벨의 주문 슬롯 {0}개를 사용했습니다."
 
 msgctxt "StageFinishButtonCreationDescription"
 msgid "Finish the character creation process."
@@ -2469,7 +2502,7 @@ msgstr ""
 
 msgctxt "TotalBalanceClearAllDescription"
 msgid "Clears the whole transaction."
-msgstr ""
+msgstr "모든 거래목록을 지웁니다."
 
 msgctxt "TotalBalanceClearAllTitle"
 msgid "Clear All"
@@ -2477,7 +2510,7 @@ msgstr "모두 지우기"
 
 msgctxt "TotalBalanceConcludeDescription"
 msgid "Complete the transaction and pay/collect the appropriate amounts."
-msgstr ""
+msgstr "거래를 완료하고 알맞은 금액을 지불/수금합니다."
 
 #, fuzzy
 msgctxt "TotalBalanceConcludeTitle"
@@ -2486,11 +2519,11 @@ msgstr "거래 확인"
 
 msgctxt "TotalBalanceCostTitle"
 msgid "You Pay:"
-msgstr ""
+msgstr "다음을 지불:"
 
 msgctxt "TotalBalanceGainTitle"
 msgid "You Gain:"
-msgstr ""
+msgstr "다음을 획득:"
 
 msgctxt "TotalBalanceTitle"
 msgid "Total"
@@ -2498,11 +2531,11 @@ msgstr "총합"
 
 msgctxt "TotalCostTitle"
 msgid "Total Cost"
-msgstr ""
+msgstr "총 비용"
 
 msgctxt "TotalRevenueTitle"
 msgid "Total Revenue"
-msgstr ""
+msgstr "총 수익"
 
 msgctxt "TrackedQuestDescription"
 msgid "This quest is currently tracked and displayed on the main game screen. "
@@ -2581,7 +2614,7 @@ msgstr ""
 
 msgctxt "TreasuryTitle"
 msgid "Personal Wealth"
-msgstr ""
+msgstr "개인 재산"
 
 msgctxt "TutorialTitleFormat"
 msgid "Tutorial: {0}"
@@ -2639,7 +2672,7 @@ msgstr "게임 일시정지됨"
 
 msgctxt "GamePausedTopDescription"
 msgid "Press the \"Play\" button or space to unpause."
-msgstr ""
+msgstr "일시 정지를 해제하려면 \"재개\" 버튼을 누르거나 스페이스바를 누르십시오."
 
 msgctxt "GameSettingsTitle"
 msgid "Game Settings"
@@ -2651,7 +2684,7 @@ msgstr ""
 
 msgctxt "JournalBestiaryChallengeTitle"
 msgid "Challenge"
-msgstr ""
+msgstr "도전등급"
 
 msgctxt "InventoryMagicalUnidentifiedDescription"
 msgid ""
@@ -2776,7 +2809,7 @@ msgctxt "ColorCalibrationInstructionsDescription"
 msgid ""
 "Adjust the brightness and contrast until both lines of the five sigils are "
 "visible, with the left-most sigil barely visible."
-msgstr ""
+msgstr "두 영역의 5개 인장이 모두 보일 때까지 밝기와 명암을 조정하세요. 가장 왼쪽은 거의 보이지 않는 것이 좋습니다."
 
 msgctxt "LegendaryActionTitle"
 msgid "Legendary Action"
@@ -2814,15 +2847,15 @@ msgstr ""
 
 msgctxt "InventoryCannotDropPersonalSpellbookDescription"
 msgid "You cannot drop a personal spellbook out of your party inventory."
-msgstr ""
+msgstr "개인 주문책은 보관함에서 버릴 수 없습니다."
 
 msgctxt "InventoryCannotTransferPersonalSpellbookDescription"
 msgid "You cannot transfer a personal spellbook to another character."
-msgstr ""
+msgstr "개인 주문책은 다른 캐릭터에게 양도할 수 없습니다."
 
 msgctxt "InventoryCannotSellPersonalSpellbookDescription"
 msgid "You cannot sell your personal spellbook."
-msgstr ""
+msgstr "개인 주문책은 판매할 수 없습니다."
 
 msgctxt "PreferredCantripNoneTitle"
 msgid "None"
@@ -2938,15 +2971,15 @@ msgstr ""
 
 msgctxt "EditorCaptionXTitle"
 msgid "X"
-msgstr ""
+msgstr "X"
 
 msgctxt "EditorCaptionYTitle"
 msgid "Y"
-msgstr ""
+msgstr "Y"
 
 msgctxt "EditorCaptionOrientationTitle"
 msgid "Orientation"
-msgstr ""
+msgstr "방향"
 
 msgctxt "EditorCaptionCancelButtonTitle"
 msgid "Cancel"
@@ -2958,27 +2991,27 @@ msgstr ""
 
 msgctxt "EditorCaptionMoveButtonTitle"
 msgid "Move"
-msgstr ""
+msgstr "이동"
 
 msgctxt "EditorCaptionMoveButtonDescription"
 msgid "Moves this element by dragging the mouse"
-msgstr ""
+msgstr "마우스를 움직여서 이 요소를 이동합니다"
 
 msgctxt "EditorCaptionRotateButtonTitle"
 msgid "Rotate"
-msgstr ""
+msgstr "회전"
 
 msgctxt "EditorCaptionRotateButtonDescription"
 msgid "Rotates the selected element 90° clockwise"
-msgstr ""
+msgstr "선택한 요소를 시계 방향으로 90° 회전합니다"
 
 msgctxt "EditorCaptionDeleteButtonTitle"
 msgid "Delete"
-msgstr ""
+msgstr "삭제"
 
 msgctxt "EditorCaptionDeleteButtonDescription"
 msgid "Deletes the selected element"
-msgstr ""
+msgstr "선택한 요소를 삭제합니다"
 
 msgctxt "MonsterSelectionTitle"
 msgid "Select a Creature"
@@ -3030,7 +3063,7 @@ msgstr ""
 
 msgctxt "LocationSavedDescription"
 msgid "Content saved"
-msgstr ""
+msgstr "내용 저장됨"
 
 msgctxt "ClearElementTitle"
 msgid "Clear"
@@ -3046,7 +3079,7 @@ msgstr ""
 
 msgctxt "EditorSettingsTitle"
 msgid "Settings"
-msgstr ""
+msgstr "설정"
 
 msgctxt "EditorSettingsDescription"
 msgid "Edit the user location's settings (name, description, etc.)"
@@ -3102,15 +3135,15 @@ msgstr ""
 
 msgctxt "EditorCaptionPositionTitle"
 msgid "Position"
-msgstr ""
+msgstr "위치"
 
 msgctxt "EditorCaptionCopyButtonTitle"
 msgid "Duplicate"
-msgstr ""
+msgstr "복제"
 
 msgctxt "EditorCaptionCopyButtonDescription"
 msgid "Duplicates the selected element"
-msgstr ""
+msgstr "선택한 요소를 복제합니다"
 
 msgctxt "BackDungeonMakerTitle"
 msgid "Dungeon Maker"

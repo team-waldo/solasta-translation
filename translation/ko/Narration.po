@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-04 12:42+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
+"PO-Revision-Date: 2021-10-07 13:03+0000\n"
+"Last-Translator: 이름뭘로하지 <sqom3iii@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
 "Language: ko\n"
@@ -554,7 +554,7 @@ msgstr "마스터, 제가 갑니다!"
 
 msgctxt "Banter_Abjuration_Kythaela_04"
 msgid "Are there dwarf kings now? Halfling kings too, maybe?"
-msgstr "드워프 왕이 있다고? 하플링 왕도 있으려나?"
+msgstr "지금은 드워프 왕이 있다고? 하플링 왕도 있으려나?"
 
 msgctxt "Banter_Abjuration_Kythaela_05"
 msgid "That sounds… wrong."
@@ -598,7 +598,7 @@ msgstr "그는 좋은 드워프로다."
 
 msgctxt "Banter_Abjuration_Kythaela_15"
 msgid "A halfling merchant? I almost didn't see him."
-msgstr "하플링 상인? 못보고 지나칠뻔 했군."
+msgstr "하플링 상인? 하마터면 못 보고 지나칠 뻔 하였구나."
 
 msgctxt "Banter_Cyflen_01"
 msgid "Nice gardens."
@@ -2146,7 +2146,7 @@ msgstr "그럼 뭘 꾸물거리고 있어? 한번 늘어놔 봐."
 
 msgctxt "Tavern_02_13_Stealth_Normal"
 msgid "Let's hear it, then. Don't be shy."
-msgstr "그럼 들어 보자고. 부끄러워하지 마."
+msgstr "그럼 들어 보자고. 어서 말해봐."
 
 msgctxt "Tavern_02_14_Stealth_Formal"
 msgid "Proceed, then. Everyone enjoys a tale well told."
@@ -3287,7 +3287,7 @@ msgctxt "Bartender_Dialog_01_17_Bartender_NPC"
 msgid ""
 "It's more like a large bedroom, really - but you know, this is the capital "
 "city."
-msgstr "실제로는 큰 침실에 가깝지만, 아시다시 여기는 수도니까요."
+msgstr "실제로는 큰 침실에 가깝지만, 아시다시피 여기는 수도니까요."
 
 msgctxt "Bartender_Dialog_01_NoMoneyToPay"
 msgid "No money, eh. No room, then. "
@@ -9004,7 +9004,7 @@ msgstr "무슨 일을 하시나요?"
 
 msgctxt "ChurchOfEinar_Dialog_01_9_DalonLark_NPC"
 msgid "I represent the Church of Einar, the god of valor and fidelity."
-msgstr ""
+msgstr "저는 용맹과 충실함의 신이신 에이나르의 교단을 대표하고 있습니다."
 
 msgctxt "ChurchOfEinar_Dialog_01_10_DalonLark_NPC"
 msgid "We provide various services for those who need them."
@@ -9016,11 +9016,11 @@ msgstr "돈도 받아먹을 겸 말이죠?"
 
 msgctxt "ChurchOfEinar_Dialog_01_12_DalonLark_NPC"
 msgid "Those who seek his healing are rarely poor."
-msgstr ""
+msgstr "그분의 치유를 받고자하는 분들 대부분은 가난하지 않더군요."
 
 msgctxt "ChurchOfEinar_Dialog_01_13_Any_Default"
 msgid "We do require your services."
-msgstr ""
+msgstr "우리는 당신의 서비스가 정말로 필요해요."
 
 msgctxt "ChurchOfEinar_Dialog_01_14_Any_Default"
 msgid "Thank you - we need to go."
@@ -9036,11 +9036,11 @@ msgstr "가볼게요."
 
 msgctxt "ChurchOfEinar_Dialog_WRITTEN_ShopLine"
 msgid "We need your services."
-msgstr ""
+msgstr "서비스를 좀 제공받고 싶어요."
 
 msgctxt "Arcaneum_Dialog_02_1_HeddlonSurespell_NPC"
 msgid "Clear skies, adventurers!"
-msgstr ""
+msgstr "좋은 날입니다, 모험가 여러분!"
 
 msgctxt "Arcaneum_Dialog_02_2_HeddlonSurespell_NPC"
 msgid "Anything new for the Arcaneum?"
@@ -9096,7 +9096,7 @@ msgstr ""
 
 msgctxt "Danantar_Dialog_02_6_Any_Default"
 msgid "It's an honor. "
-msgstr ""
+msgstr "영광입니다. "
 
 msgctxt "Danantar_Dialog_02_7_JorielFoxeye_NPC"
 msgid "Stay in the light, deputies!"
@@ -18448,7 +18448,7 @@ msgstr "엠탄 다르와즈 1980 - "
 
 msgctxt "AbjurationQuest_Kythaela_1_Starter_Default"
 msgid "Only Solastan building in the neighborhood - that must be it! "
-msgstr "이 근처에 있는 유일한 솔라스타 양식 건물이라니 - 저게 틀림 없어! "
+msgstr "이 근처에 있는 유일한 솔라스타 양식 건물이라니. 저게 틀림 없어! "
 
 #, fuzzy
 msgctxt "AbjurationQuest_Kythaela_2_Pragmatism_Default"
@@ -18509,7 +18509,7 @@ msgstr "... 아니, 내 이름은 방패의 키타엘라…"
 
 msgctxt "AbjurationQuest_Kythaela_16_Kythaela_NPC"
 msgid "…whatever this shield might be. "
-msgstr "...이 방패가 무엇인지 기억은 안나지만. "
+msgstr "...이 방패가 무엇인지 기억은 나지 않지만. "
 
 msgctxt "AbjurationQuest_Kythaela_17_Choice1_WRITTEN"
 msgid "Which Master? "
@@ -18545,7 +18545,7 @@ msgstr "그래, 이 탑은 평화의 안식처인 에어 엘라이에 위치했�
 
 msgctxt "AbjurationQuest_Kythaela_25_Kythaela_NPC"
 msgid "The shield is the master, and the master is the shield! "
-msgstr "방패는 주인님이시요, 주인님은 방패로다! "
+msgstr "방패는 주인님이시요, 주인님은 방패시로다! "
 
 msgctxt "AbjurationQuest_Kythaela_26_Kythaela_NPC"
 msgid "But tell me - what happened? "
@@ -18573,7 +18573,7 @@ msgstr "사람들은 균열에 대해 말하고 있었지. 제국에 큰 위협�
 
 msgctxt "AbjurationQuest_Kythaela_32_Kythaela_NPC"
 msgid "…strange creatures with strange powers…"
-msgstr "...이상한 힘을 가진 이상한 생명체들…"
+msgstr "... 기이한 힘을 지닌 기이한 생명체들…"
 
 msgctxt "AbjurationQuest_Kythaela_33_Choice_Academic_WRITTEN"
 msgid "You mean THE Rift?"
@@ -18589,11 +18589,11 @@ msgstr "그게 둘 이상 있나?"
 
 msgctxt "AbjurationQuest_Kythaela_36_Choice2_WRITTEN"
 msgid "Creatures? The Soraks?"
-msgstr "생명체? 소락들?"
+msgstr "생명체? 소락?"
 
 msgctxt "AbjurationQuest_Kythaela_37_Choice2_Spoken"
 msgid "Strange creatures - yes, the Soraks, of course! "
-msgstr "이상한 생명체라면. 그래요, 소락이 틀림없겠군요! "
+msgstr "기이한 생명체라면. 그래요, 소락이 틀림없겠군요! "
 
 msgctxt "AbjurationQuest_Kythaela_38_Kythaela_NPC"
 msgid "No - they were called… humans…"
@@ -18601,7 +18601,7 @@ msgstr "아니. 그들은... 인간이라고 불렸지…"
 
 msgctxt "AbjurationQuest_Kythaela_39_Kythaela_NPC"
 msgid "…strange beings, with magic that was not arcane. "
-msgstr "... 비전이 아닌 마법을 다루는 이상한 존재. "
+msgstr "... 비전이 아닌 마법을 다루는 기이한 존재. "
 
 msgctxt "AbjurationQuest_Kythaela_40_Kythaela_ifHumanAdventurer_NPC"
 msgid "They actually looked just like you!"
@@ -18622,7 +18622,7 @@ msgstr "사람들은 그를 떠받들어 마지스터라고 불렀단다! "
 
 msgctxt "AbjurationQuest_Kythaela_44_Kythaela_NPC"
 msgid "But you are not him. Where did you find this Crown?"
-msgstr "하지만 넌 그이가 아니구나. 왕관은 어디서 찾았지?"
+msgstr "하지만 넌 그 사람이 아니구나. 왕관은 어디서 찾았지?"
 
 msgctxt "AbjurationQuest_Kythaela_45_Choice1_WRITTEN"
 msgid "You met the Magister?"
@@ -18735,7 +18735,7 @@ msgstr "그렇습니다! 위험하고 사악한 도마뱀이죠. 마법을 부�
 
 msgctxt "AbjurationQuest_Kythaela_72_Kythaela_NPC"
 msgid "Weak human minds, for sure! And yet…"
-msgstr "인간의 마음은 나약한 게 분명하구나! 하지만…"
+msgstr "인간의 마음은 나약한 게 분명하도다! 하지만…"
 
 msgctxt "AbjurationQuest_Kythaela_73_AcademicOrElse_Default"
 msgid "And yet?"
@@ -18744,7 +18744,7 @@ msgstr "하지만?"
 msgctxt "AbjurationQuest_Kythaela_74_Kythaela_NPC"
 msgid ""
 "Yet I recall an elf, a member of the household, trying to kill the Master…"
-msgstr ""
+msgstr "가문의 일원인 한 엘프가 주인님을 죽이려 한 일이 떠오르는구나…"
 
 msgctxt "AbjurationQuest_Kythaela_75_Choice3_WRITTEN"
 msgid "They joined forces."
@@ -18756,7 +18756,7 @@ msgstr "그들의 연합군이 균열을 공격했지. "
 
 msgctxt "AbjurationQuest_Kythaela_77_Kythaela_NPC"
 msgid "There was mention of the Rift in the Aer-Elai."
-msgstr "에어 엘라이에 균열이 열렸다는건 들어 본 적 있구나."
+msgstr "에어 엘라이의 균열에 대해서는 들어 본 적이 있구나."
 
 msgctxt "AbjurationQuest_Kythaela_78_Any_Default"
 msgid ""
@@ -24087,7 +24087,7 @@ msgstr ""
 
 msgctxt "TextOnlyNPCSpeech_CityGuard01_03"
 msgid "Safe travels, adventurers!"
-msgstr ""
+msgstr "안전한 여행이 되시길!"
 
 msgctxt "TextOnlyNPCSpeech_CityGuard02_03"
 msgid "Watch yourselves outside - the roads are not safe!"
@@ -24095,7 +24095,7 @@ msgstr ""
 
 msgctxt "Introduction_Stealth_LiamArrives"
 msgid "Liam! What are you doing here? I told you I'd take care of it!"
-msgstr ""
+msgstr "리암! 여기서 뭐하는거야? 내가 알아서 하겠다고 했잖아!"
 
 msgctxt "CaerLem_InTunnel9_Default"
 msgid "Wait… Lisbath stayed back?"
@@ -24296,7 +24296,7 @@ msgstr ""
 
 msgctxt "Banter_Abjuration_WizardTower_Kythaela_03"
 msgid "These projections are from the master, not ghosts."
-msgstr ""
+msgstr "이 형상들은 탑의 주인으로부터 나타나는 것이란다. 유령들이 아니지."
 
 msgctxt "AbjurationQuest_CoparannArrival_36_SellswordOrElse_Default"
 msgid "It was too late for him."
@@ -25724,7 +25724,7 @@ msgstr ""
 
 msgctxt "NPC_Banter1_Guard_Mirabelle_Bye"
 msgid "Safe travels, adventurers!"
-msgstr ""
+msgstr "안전한 여행이 되시길!"
 
 msgctxt "NPC_Banter2_Guard_Mirabelle_Bye"
 msgid "Stay in the light, citizens!"
@@ -25732,23 +25732,23 @@ msgstr "빛이 함께 하시길!"
 
 msgctxt "NPC_Banter3_Guard_Mirabelle_Bye"
 msgid "Einar guide you, deputies!"
-msgstr ""
+msgstr "에이나르께서 인도하실 것입니다!"
 
 msgctxt "NPC_Banter4_Guard_Mirabelle_Bye"
 msgid "Strike true, friends!"
-msgstr ""
+msgstr "충실하게 수행중입니다!"
 
 msgctxt "NPC_Banter5_Guard_Mirabelle_Return"
 msgid "Welcome home, deputies!"
-msgstr ""
+msgstr "우리 마을에 오신 것을 환영합니다!"
 
 msgctxt "NPC_Banter6_Guard_Mirabelle_Return"
 msgid "Good to see you, deputies!"
-msgstr ""
+msgstr "만나서 반갑습니다!"
 
 msgctxt "NPC_Banter1_Guard_AkilWingate_Bye"
 msgid "Safe travels, adventurers!"
-msgstr ""
+msgstr "안전한 여행이 되시길!"
 
 msgctxt "NPC_Banter2_Guard_AkilWingate_Bye"
 msgid "Stay in the light, citizens!"
@@ -25756,23 +25756,23 @@ msgstr "빛이 함께 하시길!"
 
 msgctxt "NPC_Banter3_Guard_AkilWingate_Bye"
 msgid "Einar guide you, deputies!"
-msgstr ""
+msgstr "에이나르께서 인도하실 것입니다!"
 
 msgctxt "NPC_Banter4_Guard_AkilWingate_Bye"
 msgid "Strike true, friends!"
-msgstr ""
+msgstr "충실하게 수행중입니다!"
 
 msgctxt "NPC_Banter5_Guard_AkilWingate_Return"
 msgid "Welcome home, deputies!"
-msgstr ""
+msgstr "우리 마을에 오신 것을 환영합니다!"
 
 msgctxt "NPC_Banter6_Guard_AkilWingate_Return"
 msgid "Good to see you, deputies!"
-msgstr ""
+msgstr "만나서 반갑습니다!"
 
 msgctxt "NPC_Banter1_Guard_MarkJane_Bye"
 msgid "Safe travels, adventurers!"
-msgstr ""
+msgstr "안전한 여행이 되시길!"
 
 msgctxt "NPC_Banter2_Guard_MarkJane_Bye"
 msgid "Stay in the light, citizens!"
@@ -25780,19 +25780,19 @@ msgstr "빛이 함께 하시길!"
 
 msgctxt "NPC_Banter3_Guard_MarkJane_Bye"
 msgid "Einar guide you, deputies!"
-msgstr ""
+msgstr "에이나르께서 인도하실 것입니다!"
 
 msgctxt "NPC_Banter4_Guard_MarkJane_Bye"
 msgid "Strike true, friends!"
-msgstr ""
+msgstr "충실하게 수행중입니다!"
 
 msgctxt "NPC_Banter5_Guard_MarkJane_Return"
 msgid "Welcome home, deputies!"
-msgstr ""
+msgstr "우리 마을에 오신 것을 환영합니다!"
 
 msgctxt "NPC_Banter6_Guard_MarkJane_Return"
 msgid "Good to see you, deputies!"
-msgstr ""
+msgstr "만나서 반갑습니다!"
 
 msgctxt "NPC_Banter1_Orc_MarkJane_talk"
 msgid "Urka chief! Nyarks go see Urka."
@@ -26800,17 +26800,18 @@ msgctxt "DLC1_Marches_CS04_Rogue_18_Rogue_NPC"
 msgid "Otherwise I wouldn't be here."
 msgstr ""
 
+#, fuzzy
 msgctxt "DLC1_Marches_CS04_Rogue_19_Acolyte_Default"
 msgid "You mean, you can fight, right?"
-msgstr ""
+msgstr "그러니까, 싸울 수 있다는 거지?"
 
 msgctxt "DLC1_Marches_CS04_Rogue_20_Rogue_NPC"
 msgid "Better than the other six who died on the way here."
-msgstr ""
+msgstr "여기까지 오다 죽은 6명보다는 낫지."
 
 msgctxt "DLC1_Marches_CS04_Rogue_21_Rogue_NPC"
 msgid "Stay in the light."
-msgstr ""
+msgstr "빛이 함께 하시길."
 
 msgctxt "DLC1_Marches_CS04_Rogue_22_NOAUDIO_Defaulter"
 msgid "Instead you almost got killed"
@@ -27016,9 +27017,10 @@ msgctxt "DLC1_Marches_CS07_FoundBook10_HeliaFairblade_NPC"
 msgid "I advise you to make amends."
 msgstr ""
 
+#, fuzzy
 msgctxt "DLC1_Marches_CS07_FoundBook11_Mean_Slang"
 msgid "Bugger off."
-msgstr ""
+msgstr "꺼져."
 
 msgctxt "DLC1_Marches_CS07_FoundBook12_Anyother_Normal"
 msgid "We don't need a lecture."
@@ -27046,7 +27048,7 @@ msgstr ""
 
 msgctxt "DLC1_Marches_CS08_CompleteRogueQuest5_Rogue_NPC"
 msgid "Here, take this, I have no use for it, but maybe you will…"
-msgstr ""
+msgstr "자, 이걸 가져가. 내겐 아무 소용 없지만, 너라면…"
 
 msgctxt "DLC1_Marches_Trapped_1_Player_Default"
 msgid "Wait…redeemers?"

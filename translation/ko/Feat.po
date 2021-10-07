@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-04 12:42+0000\n"
-"Last-Translator: Inbird <inbird81@gmail.com>\n"
+"PO-Revision-Date: 2021-10-07 13:03+0000\n"
+"Last-Translator: 이정승 <jsnuguri@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/feat/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -33,7 +33,7 @@ msgstr "당신은 전투에서 갑옷을 능숙하게 활용할 줄 압니다. �
 
 msgctxt "ArmorMasterTitle"
 msgid "Armor Master"
-msgstr ""
+msgstr "갑옷의 달인"
 
 msgctxt "Creed_Of_ArunTitle"
 msgid "Creed of Arun"
@@ -67,7 +67,7 @@ msgstr "건강이 1 증가하고 (최대 건강 20) 레벨이 오를 때마다 �
 
 msgctxt "EnduringBodyTitle"
 msgid "Enduring Body"
-msgstr ""
+msgstr "인고의 신체"
 
 msgctxt "FlawlessConcentrationDescription"
 msgid ""
@@ -96,15 +96,15 @@ msgstr ""
 
 msgctxt "FocusedSleeperTitle"
 msgid "Focused Sleeper"
-msgstr ""
+msgstr "집중 숙면"
 
 msgctxt "HardToKillTitle"
 msgid "Hard to Kill"
-msgstr ""
+msgstr "질긴 목숨"
 
 msgctxt "HaulerTitle"
 msgid "Hauler"
-msgstr ""
+msgstr "짐꾼"
 
 #, fuzzy
 msgctxt "LockbreakerDescription"
@@ -146,7 +146,7 @@ msgstr ""
 
 msgctxt "MasterAlchemistTitle"
 msgid "Master Alchemist"
-msgstr ""
+msgstr "연금술의 대가"
 
 #, fuzzy
 msgctxt "MasterEnchanterDescription"
@@ -159,7 +159,7 @@ msgstr ""
 
 msgctxt "MasterEnchanterTitle"
 msgid "Master Enchanter"
-msgstr ""
+msgstr "마법부여 대가"
 
 #, fuzzy
 msgctxt "MightOfTheIronLegionDescription"
@@ -187,7 +187,7 @@ msgstr ""
 
 msgctxt "RobustTitle"
 msgid "Robust"
-msgstr ""
+msgstr "튼튼한 신체"
 
 #, fuzzy
 msgctxt "Creed_Of_EinarDescription"
@@ -236,7 +236,7 @@ msgstr ""
 
 msgctxt "PowerfulCantripTitle"
 msgid "Powerful Cantrip"
-msgstr ""
+msgstr "강력한 캔트립"
 
 #, fuzzy
 msgctxt "PowerfulCantripDescription"
@@ -257,9 +257,8 @@ msgstr ""
 
 msgctxt "UncannyAccuracyTitle"
 msgid "Uncanny Accuracy"
-msgstr ""
+msgstr "놀라운 정확도"
 
-#, fuzzy
 msgctxt "HardToKillDescription"
 msgid ""
 "+1 CON to a maximum of 20\n"
@@ -268,8 +267,8 @@ msgid ""
 "critical roll, you regain two hit dice instead."
 msgstr ""
 "건강에 +1 (최대 20)\n"
-"당신은 사망 판정에 유리를 얻습니다. 3회 성공하면 안정화되는 대신 즉각 1체력 주사위만큼 회복합니다. 결정적 성공의 경우 2체력 "
-"주사위만큼 회복합니다."
+"당신은 사망 판정에 유리를 얻습니다. 3회 성공하면 안정화되면서 즉각 1체력 주사위만큼 회복합니다. 결정적 성공의 경우 2체력 주사위만큼 "
+"회복합니다."
 
 #, fuzzy
 msgctxt "HaulerDescription"
@@ -296,7 +295,7 @@ msgstr ""
 
 msgctxt "EagerForBattleTitle"
 msgid "Eager for Battle"
-msgstr ""
+msgstr "전투의 열기"
 
 #, fuzzy
 msgctxt "SturdinessOfTheTundraDescription"
@@ -311,7 +310,7 @@ msgstr ""
 
 msgctxt "SturdinessOfTheTundraTitle"
 msgid "Sturdiness of the Tundra"
-msgstr ""
+msgstr "툰드라의 강인함"
 
 #, fuzzy
 msgctxt "DiscretionOfTheCoedymwarthDescription"
@@ -326,7 +325,7 @@ msgstr ""
 
 msgctxt "DiscretionOfTheCoedymwarthTitle"
 msgid "Discretion of the Coedymwarth"
-msgstr ""
+msgstr "코이뒴워스의 신중함"
 
 #, fuzzy
 msgctxt "AmbidextrousDescription"
@@ -355,7 +354,7 @@ msgstr ""
 
 msgctxt "RaiseShieldTitle"
 msgid "Raise Shield"
-msgstr ""
+msgstr "방패 치켜들기"
 
 #, fuzzy
 msgctxt "TwinBladeDescription"
@@ -368,20 +367,19 @@ msgstr ""
 
 msgctxt "TwinBladeTitle"
 msgid "Twin Blade "
-msgstr ""
+msgstr "쌍검술"
 
-#, fuzzy
 msgctxt "TakeAimDescription"
 msgid ""
 "You can use your bonus action to take aim. Until the end of your turn, your "
 "ranged weapon attacks have no disadvantage or advantage, no matter the "
 "conditions."
 msgstr ""
-"추가 행동으로 조준을 할 수 있습니다. 턴이 끝날 때까지, 당신의 원거리 공격은 상태에 상관없이 유리나 불리를 적용받지 않습니다."
+"추가 행동으로 조준을 할 수 있습니다. 턴이 끝날 때까지, 당신의 원거리 공격은 상태에 상관없이 이점이나 불리점를 받지 않습니다."
 
 msgctxt "TakeAimTitle"
 msgid "Take Aim"
-msgstr ""
+msgstr "정조준"
 
 #, fuzzy
 msgctxt "RushToBattleDescription"
@@ -393,7 +391,7 @@ msgstr "추가 행동을 사용해 턴이 끝날 때까지 이동 거리를 3칸
 
 msgctxt "RushToBattleTitle"
 msgid "Rush to Battle "
-msgstr ""
+msgstr "전장 돌진 "
 
 #, fuzzy
 msgctxt "FollowUpStrikeDescription"
@@ -407,7 +405,7 @@ msgstr ""
 
 msgctxt "FollowUpStrikeTitle"
 msgid "Follow Up Strike"
-msgstr ""
+msgstr "후속타"
 
 #, fuzzy
 msgctxt "Creed_Of_ArunDescription"
