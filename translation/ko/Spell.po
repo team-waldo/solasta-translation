@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-10 05:55+0000\n"
-"Last-Translator: 넷리빙 <keonwoo.kim123@gmail.com>\n"
+"PO-Revision-Date: 2021-10-10 13:50+0000\n"
+"Last-Translator: 존삼 <jsnuguri@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/spell/ko/>"
 "\n"
 "Language: ko\n"
@@ -1502,7 +1502,7 @@ msgstr "돌가죽"
 msgctxt "StoneskinDescription"
 msgid ""
 "Grants resistance to non-magical bludgeoning, slashing, and piercing damage."
-msgstr "마법이 아닌 둔기, 베기, 관통 피해에 대한 저항력을 부여합니다."
+msgstr "마법이 아닌 타격, 참격, 관통 피해에 대한 저항력을 부여합니다."
 
 #, fuzzy
 msgctxt "WallOfFireRingInnerTitle"
@@ -1816,7 +1816,7 @@ msgctxt "BladeBarrierDescription"
 msgid ""
 "Conjures a wall of razor sharp blades which causes 6d10 slashing damage to "
 "anyone crossing it"
-msgstr "벽을 건너는 모든 사람에게 6d10 베기 피해를 입히는 날카로운 칼날의 벽을 생성합니다"
+msgstr "벽을 건너는 모든 사람에게 6d10 참격 피해를 입히는 날카로운 칼날의 벽을 생성합니다"
 
 msgctxt "ChainLightningTitle"
 msgid "Chain Lightning"
@@ -1859,10 +1859,9 @@ msgctxt "EyebiteAsleepDescription"
 msgid "The creature falls asleep unless shaken or hurt"
 msgstr "크리쳐는 흔들리거나 다치지 않으면 잠이 듭니다"
 
-#, fuzzy
 msgctxt "EyebitePanickedTitle"
 msgid "Eyebite (Panicked)"
-msgstr "사안(공포)"
+msgstr "사안(공황)"
 
 msgctxt "EyebitePanickedDescription"
 msgid "The creature becomes frightened and must run away from you"
@@ -1870,7 +1869,7 @@ msgstr "대상 크리쳐는 겁에 질려 당신에게서 도망칩니다"
 
 msgctxt "EyebiteSickenedTitle"
 msgid "Eyebite (Sickened)"
-msgstr "사안(질병)"
+msgstr "사안(구역질)"
 
 msgctxt "EyebiteSickenedDescription"
 msgid "The creature has disadvantage to attacks until a WIS save is succeeded"
@@ -1887,10 +1886,9 @@ msgid ""
 "inside it. "
 msgstr "당신을 둘러싼 구체는 5레벨까지의 주문이 구체 내부의 사람에게 영향을 미치지 못하도록 합니다. "
 
-#, fuzzy
 msgctxt "HarmTitle"
 msgid "Harm"
-msgstr "해악"
+msgstr "가해"
 
 #, fuzzy
 msgctxt "HarmDescription"

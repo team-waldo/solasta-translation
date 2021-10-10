@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-07 13:03+0000\n"
-"Last-Translator: 이정승 <jsnuguri@naver.com>\n"
+"PO-Revision-Date: 2021-10-10 13:50+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/npc/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -174,10 +174,9 @@ msgctxt "NPC_HalmanSummerTitle"
 msgid "Halman Summer"
 msgstr "할만 서머"
 
-#, fuzzy
 msgctxt "NPC_HeatherMerranTitle"
 msgid "Captain Heather Merran"
-msgstr "헤더 메란 대장"
+msgstr "헤더 메란 대위"
 
 msgctxt "NPC_HectorTitle"
 msgid "Hector"
@@ -344,7 +343,7 @@ msgstr "라잔"
 
 msgctxt "NPC_RobarSharpTitle"
 msgid "Robar Sharp"
-msgstr ""
+msgstr "로바 샤프"
 
 msgctxt "NPC_Talbut_Title"
 msgid "Talbut the Grey"
@@ -360,7 +359,7 @@ msgstr ""
 
 msgctxt "NPC_Wilf_Title"
 msgid "Wilf Warmhearth"
-msgstr ""
+msgstr "윌프 웜허스"
 
 msgctxt "NPC_NecromancerBoneKeepTitle"
 msgid "Dark Apprentice"
@@ -378,11 +377,11 @@ msgstr ""
 
 msgctxt "NPC_Ceannard_Title"
 msgid "Ceannard"
-msgstr ""
+msgstr "촌장"
 
 msgctxt "NPC_Kebra_Title"
 msgid "Kebra"
-msgstr ""
+msgstr "케브라"
 
 msgctxt "NPC_Brok_Title"
 msgid "Brok"
@@ -394,11 +393,11 @@ msgstr ""
 
 msgctxt "NPC_Mildred_Title"
 msgid "Mildred Warmhearth"
-msgstr ""
+msgstr "밀드레드 웜허스"
 
 msgctxt "NPC_Maid_Title"
 msgid "Maid"
-msgstr ""
+msgstr "하녀"
 
 msgctxt "NPC_CoparannGuardSorakAgentTitle"
 msgid "Corrupted Guard"
@@ -478,7 +477,7 @@ msgstr ""
 
 msgctxt "NPC_CaporalDan_Title"
 msgid "Corporal Dann"
-msgstr ""
+msgstr "댄 상병"
 
 msgctxt "NPC_PrivateGarth_Title"
 msgid "Private Garth"
@@ -502,7 +501,7 @@ msgstr "평의회 보병"
 
 msgctxt "NPC_Priest_Of_MisayeTitle"
 msgid "Nel"
-msgstr ""
+msgstr "넬"
 
 msgctxt "NPC_Coparann_Archivist_Title"
 msgid "Archivist"
@@ -518,11 +517,11 @@ msgstr ""
 
 msgctxt "NPC_GenericSorakInfiltrator_Title"
 msgid "Sorak Infiltrator"
-msgstr ""
+msgstr "소락 잠입자"
 
 msgctxt "NPC_Belmont_Title"
 msgid "Lord Belmont"
-msgstr ""
+msgstr "벨몬트 경"
 
 msgctxt "NPC_CityGuard_Embassy_Empire_Title"
 msgid "New Empire Embassy Guard"
@@ -530,7 +529,7 @@ msgstr "신 제국 대사관 경비병"
 
 msgctxt "NPC_CityGuard_Embassy_Gallivan_Title"
 msgid "Gallivan Embassy Guard"
-msgstr ""
+msgstr "갈리반 대사관 경비병"
 
 msgctxt "NPC_Priest_Of_MisayeDescription"
 msgid "Priest of Misaye"

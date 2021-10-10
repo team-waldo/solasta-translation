@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-10 05:55+0000\n"
+"PO-Revision-Date: 2021-10-10 13:50+0000\n"
 "Last-Translator: 존삼 <jsnuguri@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/setting/ko/"
 ">\n"
@@ -185,7 +185,7 @@ msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니
 
 msgctxt "DamageSlashingStyleTitle"
 msgid "Slashing Damage Style"
-msgstr "베기 피해 주사위"
+msgstr "참격 피해 주사위"
 
 msgctxt "DamageThunderStyleDescription"
 msgid "Die style used for this type of damage."

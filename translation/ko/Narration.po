@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-10 05:55+0000\n"
-"Last-Translator: lull_ <lull_@naver.com>\n"
+"PO-Revision-Date: 2021-10-10 13:50+0000\n"
+"Last-Translator: Inbird <inbird81@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
 "Language: ko\n"
@@ -2171,12 +2171,11 @@ msgstr "아저씨 말이 맞아. 운이 좋은 건 언제나 좋지."
 
 msgctxt "Tavern_02_19_Merton_Default"
 msgid "The Badlands are thick with 'em. Shapeshifting bastards!"
-msgstr "황무지는 놈들로 가득 차 있어. 변신하는 새끼들!"
+msgstr "황무지는 그 망할 놈들로 가득 차 있어. 변신하는 새끼들!"
 
-#, fuzzy
 msgctxt "Tavern_02_20_Stealth_Normal"
 msgid "Never mind him. He's just another drunk Scavenger."
-msgstr "신경쓰지 마. 일개 술취한 스캐빈저일 뿐이야."
+msgstr "신경쓰지 마. 그냥 술 취한 스캐빈저일 뿐이야."
 
 msgctxt "Tavern_02_21_Stealth_Cynical"
 msgid "Everyone's a critic."
@@ -5652,7 +5651,6 @@ msgctxt "CaerLem_InspectTirmarian3_History_Default"
 msgid "It looks like part of an inquisitor's outfit."
 msgstr "심문관 복장의 일부 같은걸."
 
-#, fuzzy
 msgctxt "CaerLem_InspectTirmarian4_Partner_Default"
 msgid "So that's from… the tower up there?"
 msgstr "그러니까 이거... 탑에서 나온 거야?"
@@ -5665,12 +5663,10 @@ msgctxt "CaerLem_InspectTirmarian6_Greed_Default"
 msgid "Is that gold?"
 msgstr "이거 돈 좀 되는 거야?"
 
-#, fuzzy
 msgctxt "CaerLem_InspectTirmarian7_History_Default"
 msgid "This is history. History, all around us!"
-msgstr "이건 역사야. 역사적 흔적이 주변에 가득해!"
+msgstr "이건 역사 그 자체야. 이곳에 삶의 흔적들이 가득해!"
 
-#, fuzzy
 msgctxt "CaerLem_InspectTirmarian8_Prag_Default"
 msgid "Take it and let's move! The Soraks don't care about history, I'm sure."
 msgstr "얼른 챙기고 움직이자! 소락은 역사 따위는 신경 안 쓰고 죽여댈테니까."
@@ -8180,11 +8176,11 @@ msgstr "존경하는 대의원 여러분, 우리는 소락 건에 집중해야 �
 
 msgctxt "Council02_5_12_Danantar_NPC"
 msgid "I concur."
-msgstr ""
+msgstr "동의하는 바입니다."
 
 msgctxt "Council02_5_13_EinarBoss_NPC"
 msgid "What about this artifact? The other gems?"
-msgstr ""
+msgstr "이 유물은 어떻습니까? 다른 보석들은요?"
 
 msgctxt "Council02_5_14_TowerBoss_NPC"
 msgid "What?"
@@ -8192,7 +8188,7 @@ msgstr ""
 
 msgctxt "Council02_5_15_Crownbearer_Default"
 msgid "I think I can find them. I can… feel them."
-msgstr ""
+msgstr "제가 찾아낼 수 있을 것 같습니다. 저는 그것들을... 느낄 수 있어요."
 
 msgctxt "Council02_5_16_EinarBoss_NPC"
 msgid "You said it wasn't sentient."
@@ -8268,7 +8264,7 @@ msgstr "환영을 봤다고?"
 
 msgctxt "Council02_5_31_Char2_Default"
 msgid "What do you mean the Crown wants its missing gems?"
-msgstr ""
+msgstr "왕관이 잃어버린 보석을 원한다는 게 무슨 말이야?"
 
 msgctxt "Council02_5_32_Crownbearer_Default"
 msgid "I… I can't explain. I just feel it. Anyway, we have a new mission."
@@ -8302,7 +8298,7 @@ msgstr "최초의 스캐빈저? 그건 어디서 온 거지?"
 
 msgctxt "Merton_01_5_Merton_NPC"
 msgid "Long story, kid."
-msgstr ""
+msgstr "긴 이야기지, 애송이."
 
 #, fuzzy
 msgctxt "Merton_01_6_Merton_NPC"
@@ -8355,7 +8351,7 @@ msgstr "왜냐하면 내가 알아냈기 때문이지."
 
 msgctxt "Merton_01_15_Any_Default"
 msgid "Figured out how?"
-msgstr ""
+msgstr "어떻게 알아낸거죠?"
 
 #, fuzzy
 msgctxt "Merton_01_16_Merton_NPC"
@@ -8976,7 +8972,7 @@ msgstr "좋은 날입니다, 모험가 여러분!"
 
 msgctxt "ChurchOfEinar_Dialog_01_2_EinarWorshipper_Default"
 msgid "Fire to your blade!"
-msgstr ""
+msgstr "당신의 칼날에 불꽃이 깃들길!"
 
 msgctxt "ChurchOfEinar_Dialog_01_3_DalonLark_NPC"
 msgid "One of the faithful, I see. Nice to meet you!"
@@ -8988,7 +8984,7 @@ msgstr "저는 댈런 라크 사제입니다."
 
 msgctxt "ChurchOfEinar_Dialog_01_5_DalonLark_NPC"
 msgid "You may come here at any time to seek the help of the Church."
-msgstr ""
+msgstr "교단의 도움이 필요하시다면 언제든지 방문하셔도 좋습니다."
 
 msgctxt "ChurchOfEinar_Dialog_01_6_AnyBeliever_Einar"
 msgid "That is good to know, Chaplain!"
@@ -9056,7 +9052,7 @@ msgstr ""
 
 msgctxt "Arcaneum_Dialog_02_5_Any_Slang"
 msgid "Just passing by."
-msgstr ""
+msgstr "그냥 지나가던 길입니다."
 
 msgctxt "Arcaneum_Dialog_02_6_HeddlonSurespell_NPC"
 msgid "That's nice of you."
@@ -9064,11 +9060,11 @@ msgstr ""
 
 msgctxt "Arcaneum_Dialog_02_7_HeddlonSurespell_NPC"
 msgid "Stay in the light!"
-msgstr ""
+msgstr "빛이 함께 하시길!"
 
 msgctxt "Arcaneum_Dialog_Exitline"
 msgid "Just passing by."
-msgstr ""
+msgstr "그냥 지나가는 길입니다."
 
 msgctxt "Arcaneum_Dialog_Offer"
 msgid "Let's talk business!"
@@ -9100,7 +9096,7 @@ msgstr "영광입니다. "
 
 msgctxt "Danantar_Dialog_02_7_JorielFoxeye_NPC"
 msgid "Stay in the light, deputies!"
-msgstr ""
+msgstr "대리인 분들께 빛이 함께 하시길!"
 
 msgctxt "Danantar_Dialog_Exitline"
 msgid "Just saying hello."
@@ -9112,7 +9108,7 @@ msgstr ""
 
 msgctxt "Antiquarians_Dialog_02_1_HalmanSummer_NPC"
 msgid "Clear skies, my friends!"
-msgstr ""
+msgstr "맑은 하늘이 함께하시길, 친구들이여!"
 
 msgctxt "Antiquarians_Dialog_02_2_HalmanSummer_NPC"
 msgid "You have some treasure in your backpacks?"
@@ -9136,7 +9132,7 @@ msgstr ""
 
 msgctxt "Antiquarians_Dialog_02_7_HalmanSummer_NPC"
 msgid "See you next time, friends!"
-msgstr ""
+msgstr "다음에 또 봅시다, 친구들!"
 
 msgctxt "Antiquarians_Dialog_ExitLine"
 msgid "Just passing by."
@@ -9148,7 +9144,7 @@ msgstr ""
 
 msgctxt "Tower_Dialog_02_1_MaddyGreenisle_NPC"
 msgid "Deputies! How are you today?"
-msgstr ""
+msgstr "대리인 여러분! 잘 지내십니까?"
 
 msgctxt "Tower_Dialog_02_2_MaddyGreenisle_NPC"
 msgid "Do you have some lovely loot from the Badlands?"
@@ -19080,11 +19076,11 @@ msgstr "이틀 전이었어요."
 
 msgctxt "AbjurationQuest_CoparannArrival_28_SpyOrElse_Default"
 msgid "It was at a small camp in some Manacalon ruins. "
-msgstr ""
+msgstr "마나칼론 유적 근방에 작은 야영지가 있었죠. "
 
 msgctxt "AbjurationQuest_CoparannArrival_29_SpyOrElse_Default"
 msgid "He was found almost dead by the caravan people."
-msgstr "행상인들이 중상을 입은 그를 발견했죠."
+msgstr "행상인들이 중상을 입은 그를 발견했습니다."
 
 msgctxt "AbjurationQuest_CoparannArrival_30_SpyOrElse_Default"
 msgid "They tried to heal him and then…"
@@ -19120,7 +19116,7 @@ msgstr ""
 
 msgctxt "AbjurationQuest_CoparannArrival_38_AcademicOrElse_WRITTEN"
 msgid "The Ceannard?"
-msgstr ""
+msgstr "촌장이요?"
 
 msgctxt "AbjurationQuest_CoparannArrival_39_AcademicOrElse_Spoken"
 msgid "The Ceannard?"
@@ -19152,7 +19148,7 @@ msgstr ""
 
 msgctxt "AbjurationQuest_CoparannArrival_45_Kythaela_NPC"
 msgid "But we need to talk to the Baron!"
-msgstr ""
+msgstr "하지만 우린 남작과 할 얘기가 있어요!"
 
 msgctxt "AbjurationQuest_CoparannArrival_46_SgtNikannen_NPC"
 msgid "You can find him at the Town Hall at this hour."
@@ -24377,7 +24373,7 @@ msgstr ""
 
 msgctxt "Banter_Conjuration_TheID_01"
 msgid "What was that? Where are we?"
-msgstr ""
+msgstr "방금 뭐였어? 여긴 어디야?"
 
 msgctxt "Banter_Conjuration_TheID_Gate_00"
 msgid ""

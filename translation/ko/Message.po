@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-04 12:42+0000\n"
-"Last-Translator: Jin <byungjinjun55@gmail.com>\n"
+"PO-Revision-Date: 2021-10-10 13:50+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/message/ko/"
 ">\n"
 "Language: ko\n"
@@ -26,7 +26,6 @@ msgctxt "AbortLevelUpDescription"
 msgid "Are you sure you want to cancel the character level-up process?"
 msgstr "캐릭터 레벨 업 과정을 취소하시겠습니까?"
 
-#, fuzzy
 msgctxt "AbortLevelUpTitle"
 msgid "Canceling Character Level Up"
 msgstr "캐릭터 레벨 업 취소"
@@ -259,7 +258,6 @@ msgid ""
 "to exit?"
 msgstr "{0}의 레벨 업 과정을 완료하지 않았습니다. 종료하시겠습니까?"
 
-#, fuzzy
 msgctxt "SkipLevelUpTitle"
 msgid "Skipping Character Level Up"
 msgstr "캐릭터 레벨 업 건너뛰기"
@@ -476,17 +474,15 @@ msgid ""
 "starting from the top right. Are you sure you want to proceed?"
 msgstr "이 맵의 크기를 줄이면 우측 상단에 있는 일부 방과 물체가 삭제될 수 있습니다. 계속하시겠습니까?"
 
-#, fuzzy
 msgctxt "UserLocationOutdatedTitle"
 msgid "Outdated Location"
 msgstr "오래된 맵"
 
-#, fuzzy
 msgctxt "UserLocationOutdatedDescription"
 msgid ""
 "One or more locations has outdated content (room, gadget, prop) which has "
 "been removed"
-msgstr "일부 지역에 기한이 지나 삭제된 것(방, 장치, 물체)이 있습니다"
+msgstr "일부 지역에 기한이 지나 삭제된 컨텐츠(방, 장치, 물체)가 있습니다"
 
 msgctxt "UserLocationEnvironmentChangeTitle"
 msgid "Environment Change"

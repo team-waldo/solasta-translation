@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-10 05:55+0000\n"
-"Last-Translator: 존삼 <jsnuguri@naver.com>\n"
+"PO-Revision-Date: 2021-10-10 13:50+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/feature/ko/"
 ">\n"
 "Language: ko\n"
@@ -281,7 +281,7 @@ msgstr "헌신의 맹세 주문"
 
 msgctxt "AutoPreparedSpellsOathOfMotherlandTitle"
 msgid "Oath of the Motherland Spells"
-msgstr "모국의 맹세 주문"
+msgstr "어머니땅의 맹세 주문"
 
 msgctxt "AutoPreparedSpellsOathOfTirmarTitle"
 msgid "Oath of Tirmar Spells"
@@ -3312,7 +3312,7 @@ msgstr "1점의 소서리 포인트를 소모하여 한 시간 동안 선택한 
 
 msgctxt "AutoPreparedSpellsSorcererManaPainterTitle"
 msgid "Mana Painter Origin Spells"
-msgstr ""
+msgstr "마나 세공사 기원 주문"
 
 msgctxt "PowerSorcererManaPainterDrainTitle"
 msgid "Mana Drain"
