@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-04 12:42+0000\n"
-"Last-Translator: Jin <byungjinjun55@gmail.com>\n"
+"PO-Revision-Date: 2021-10-10 05:55+0000\n"
+"Last-Translator: 존삼 <jsnuguri@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/setting/ko/"
 ">\n"
 "Language: ko\n"
@@ -105,7 +105,7 @@ msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니
 
 msgctxt "DamageBludgeoningStyleTitle"
 msgid "Bludgeoning Damage Style"
-msgstr "둔기 피해 특화"
+msgstr "타격 피해 주사위"
 
 msgctxt "DamageColdStyleDescription"
 msgid "Die style used for this type of damage."
@@ -129,7 +129,7 @@ msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니
 
 msgctxt "DamageForceStyleTitle"
 msgid "Force Damage Style"
-msgstr "역장 피해 특화"
+msgstr "역장 피해 주사위"
 
 msgctxt "DamageLightningStyleDescription"
 msgid "Die style used for this type of damage."
@@ -143,19 +143,17 @@ msgctxt "DamageNecroticStyleDescription"
 msgid "Die style used for this type of damage."
 msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니다."
 
-#, fuzzy
 msgctxt "DamageNecroticStyleTitle"
 msgid "Necrotic Damage Style"
-msgstr "사령 피해 특화"
+msgstr "사령 피해 주사위"
 
 msgctxt "DamagePiercingStyleDescription"
 msgid "Die style used for this type of damage."
 msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니다."
 
-#, fuzzy
 msgctxt "DamagePiercingStyleTitle"
 msgid "Piercing Damage Style"
-msgstr "관통 피해 특화"
+msgstr "관통 피해 주사위"
 
 msgctxt "DamagePoisonStyleDescription"
 msgid "Die style used for this type of damage."
@@ -163,7 +161,7 @@ msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니
 
 msgctxt "DamagePoisonStyleTitle"
 msgid "Poison Damage Style"
-msgstr "독 피해 특화"
+msgstr "독 피해 주사위"
 
 msgctxt "DamagePsychicStyleDescription"
 msgid "Die style used for this type of damage."
@@ -171,25 +169,23 @@ msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니
 
 msgctxt "DamagePsychicStyleTitle"
 msgid "Psychic Damage Style"
-msgstr "정신 피해 특화"
+msgstr "정신 피해 주사위"
 
 msgctxt "DamageRadiantStyleDescription"
 msgid "Die style used for this type of damage."
 msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니다."
 
-#, fuzzy
 msgctxt "DamageRadiantStyleTitle"
 msgid "Radiant Damage Style"
-msgstr "방사 피해 특화"
+msgstr "광휘 피해 주사위"
 
 msgctxt "DamageSlashingStyleDescription"
 msgid "Die style used for this type of damage."
 msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니다."
 
-#, fuzzy
 msgctxt "DamageSlashingStyleTitle"
 msgid "Slashing Damage Style"
-msgstr "베기 피해 특화"
+msgstr "베기 피해 주사위"
 
 msgctxt "DamageThunderStyleDescription"
 msgid "Die style used for this type of damage."

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-09-21 13:43+0000\n"
-"Last-Translator: Jin <byungjinjun55@gmail.com>\n"
+"PO-Revision-Date: 2021-10-10 05:55+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/encounter/"
 "ko/>\n"
 "Language: ko\n"
@@ -295,7 +295,6 @@ msgid ""
 "A rare creature on Solasta, this guardian aberration is on a killing spree."
 msgstr "솔라스타의 희귀 생물인 이 가디언 변종은 살인을 자행하고 있습니다."
 
-#, fuzzy
 msgctxt "LoneWightTitle"
 msgid "Wight"
 msgstr "와이트"
@@ -513,14 +512,13 @@ msgstr "탁월한 수완과 예리한 칼날을 지닌 비열한 집단."
 
 msgctxt "FallenBeastmasterTitle"
 msgid "Stained Beastmaster"
-msgstr "얼룩진 비스트마스터"
+msgstr "탈선한 비스트마스터"
 
-#, fuzzy
 msgctxt "FallenBeastmasterDescription"
 msgid ""
 "A ranger who's spent too much time in the Badlands, and became one more "
 "monster."
-msgstr "불모지에서 너무 오랜 시간을 보낸 탓에 또 다른 괴물이 되어버린 레인저."
+msgstr "황무지에서 너무 오랜 시간을 보낸 탓에 또 다른 괴물이 되어버린 레인저."
 
 msgctxt "SharpshootersTitle"
 msgid "Sharpshooter Squad"
@@ -739,10 +737,9 @@ msgid ""
 "A gigantic zealot and two lesser redeemers looking for magic to feed upon."
 msgstr ""
 
-#, fuzzy
 msgctxt "CR9_Minor_Fire_Elementals_Description"
 msgid "Small fiery elementals born from some chaotic Badlands magic."
-msgstr "혼돈의 황무지 마법에서 태어난 작은 불의 정령."
+msgstr "황무지 마법의 혼돈 속에서 태어난 작은 불의 정령."
 
 #, fuzzy
 msgctxt "CR14_Fire_Elementals_Description"

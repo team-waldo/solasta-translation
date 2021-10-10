@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-03 12:49+0000\n"
-"Last-Translator: 이정승 <jsnuguri@naver.com>\n"
+"PO-Revision-Date: 2021-10-10 05:55+0000\n"
+"Last-Translator: 존삼 <jsnuguri@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/monster/ko/"
 ">\n"
 "Language: ko\n"
@@ -671,12 +671,12 @@ msgstr "어둠 속에서 수백 년을 살아온 걸로 보이는 거대 거미.
 
 msgctxt "FireOsprey_Title"
 msgid "Fire Osprey"
-msgstr ""
+msgstr "불 박쥐"
 
 msgctxt "FireOsprey_Description"
 msgid ""
 "A bat-shaped fire elemental, only encountered in the depths of the Badlands."
-msgstr ""
+msgstr "황무지 깊은 곳에서만 만날 수 있는 박쥐 모양의 불의 정령."
 
 msgctxt "OrcMerchantTitle"
 msgid "Orc Merchant"
@@ -684,7 +684,7 @@ msgstr "오크 상인"
 
 msgctxt "FireElemental_Title"
 msgid "Fire Elemental"
-msgstr ""
+msgstr "불의 정령"
 
 msgctxt "SkeletonMarksman_Title"
 msgid "Skeletal Marksman"
@@ -706,11 +706,11 @@ msgstr ""
 
 msgctxt "MinorFireElemental_Title"
 msgid "Fire Jester"
-msgstr ""
+msgstr "불의 어릿광대"
 
 msgctxt "MinorFireElemental_Description"
 msgid "A small fire elemental that likes to burn stuff."
-msgstr ""
+msgstr "물건 태우기를 좋아하는 작은 불의 정령."
 
 msgctxt "Orc_Grimblade_Title"
 msgid "Orc Grimblade"
@@ -739,7 +739,7 @@ msgstr ""
 
 msgctxt "FireElemental_Description"
 msgid "A creature of pure fire, animated by magical elemental forces."
-msgstr ""
+msgstr "마법의 정령 세력에 의해 움직이는 순수한 불의 존재."
 
 msgctxt "EarthElemental_Title"
 msgid "Earth Elemental"

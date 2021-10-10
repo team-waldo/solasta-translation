@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-07 13:03+0000\n"
-"Last-Translator: 이정승 <jsnuguri@naver.com>\n"
+"PO-Revision-Date: 2021-10-10 05:55+0000\n"
+"Last-Translator: 존삼 <jsnuguri@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/feedback/"
 "ko/>\n"
 "Language: ko\n"
@@ -112,7 +112,7 @@ msgstr ""
 
 msgctxt "AdditionalDamageDivineFavorFormat"
 msgid "Divine Favor!"
-msgstr ""
+msgstr "신의 은총!"
 
 msgctxt "AdditionalDamageDivineFavorLine"
 msgid "{0} deals more damage to {1} through divine favor (+{2})"
@@ -251,11 +251,11 @@ msgstr ""
 
 msgctxt "CannotHealFormat"
 msgid "Cannot Heal!"
-msgstr ""
+msgstr "치유 불가!"
 
 msgctxt "CannotReceiveAnyHealingLine"
 msgid "{0} cannot receive any healing"
-msgstr ""
+msgstr "{0}은(는) 치유를 받을 수 없습니다."
 
 msgctxt "CheckFailureCaption"
 msgid "Failure"
@@ -383,11 +383,11 @@ msgstr "{0}이(가) 죽었습니다."
 
 msgctxt "DeathSaveAnyAdvantageConsoleLine"
 msgid "{0} rolls a death saving throw {1}: {2}"
-msgstr ""
+msgstr "{0}은(는) 죽음 내성 굴림을 합니다: {1} {2}"
 
 msgctxt "DeathSaveConsoleLine"
 msgid "{0} rolls a death saving throw: {1}"
-msgstr ""
+msgstr "{0}은(는) 죽음 내성 굴림을 합니다: {1}"
 
 msgctxt "DeathSaveCriticalFailureFormat"
 msgid "{0} Critical Failure"
@@ -395,7 +395,7 @@ msgstr "{0} 치명적 실패"
 
 msgctxt "DeathSaveCriticalFailureLine"
 msgid "{0} death save failures added to {1}"
-msgstr ""
+msgstr "{1}에게 {0} 죽음 내성굴림 실패가 추가됨"
 
 msgctxt "DeathSaveCriticalSuccessFormat"
 msgid "{0} Critical Success"
@@ -403,23 +403,23 @@ msgstr "{0} 결정적 성공"
 
 msgctxt "DeathSaveCriticalSuccessLine"
 msgid "{0} regains 1 hit point and stabilizes."
-msgstr ""
+msgstr "{0}이(가) 1 HP를 회복하고 안정화됩니다."
 
 msgctxt "DeathSaveFailureFormat"
 msgid "{0} Failure"
-msgstr ""
+msgstr "{0} 실패"
 
 msgctxt "DeathSaveFailuresAddedLine"
 msgid "{0} death save failure added to {1}"
-msgstr ""
+msgstr "{1}에게 {0} 죽음 내성굴림 실패가 추가됨"
 
 msgctxt "DeathSaveRegainLifeLine"
 msgid "Thanks to {0}, {1} is brought back to {2} hit points"
-msgstr ""
+msgstr "{0} 덕분에 {1}이(가) {2} HP로 되살아났습니다."
 
 msgctxt "DeathSaveSuccessAddedLine"
 msgid "{0} death save success added to {1}"
-msgstr ""
+msgstr "{1}에게 {0} 죽음 내성굴림 성공이 추가됨"
 
 msgctxt "DeathSaveSuccessFormat"
 msgid "{0} Success"
@@ -602,7 +602,7 @@ msgstr ""
 
 msgctxt "MagicalHitPointsPoolRolledLine"
 msgid "{0} rolls a pool of {1} hit points for {2}"
-msgstr ""
+msgstr "{0}은(는) 주사위를 굴립니다. HP 합계 {1}까지 {2} 영향을 받습니다."
 
 msgctxt "NeedFlamingTagFormat"
 msgid "Need a flaming item"
@@ -980,7 +980,7 @@ msgstr "{0}이(가) 주문을 시전합니다."
 
 msgctxt "SpellIdentifiedLine"
 msgid "{0} has identified the spell as {1}"
-msgstr "{0}이(가) {1}(으)로 주문을 식별했습니다."
+msgstr "{0}이(가) 주문을 {1}(으)로 식별했습니다."
 
 msgctxt "SpellCounteredSuccessUnknownLine"
 msgid "{0} counters the unknown spell cast by {1}."
@@ -1066,19 +1066,19 @@ msgstr ""
 
 msgctxt "LegendaryActionUsedLine"
 msgid "{0} uses the {1} Legendary Action."
-msgstr ""
+msgstr "{0}은(는) {1} 전설적 행동을 사용합니다."
 
 msgctxt "PartyMoneySpentLine"
 msgid "The party loses {0}."
-msgstr ""
+msgstr "{0}을(를) 잃었습니다."
 
 msgctxt "IndomitableResistanceUsedLine"
 msgid "{0} is Indomitable and attempts to reroll the failed saving throw."
-msgstr ""
+msgstr "불굴의 {0}은(는) 실패한 내성 굴림을 다시 시도합니다."
 
 msgctxt "IndomitableResistanceUsedCaption"
 msgid "Indomitable!"
-msgstr ""
+msgstr "불요불굴!"
 
 msgctxt "PowerFailureCheckedLine"
 msgid "{0} as {1}% chance to activate {2} and rolls {3}: {4}"
