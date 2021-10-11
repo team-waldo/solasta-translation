@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-10 05:55+0000\n"
+"PO-Revision-Date: 2021-10-11 16:02+0000\n"
 "Last-Translator: 존삼 <jsnuguri@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/stage/ko/>"
 "\n"
@@ -1019,23 +1019,23 @@ msgstr "{0} 메타매직 옵션 선택"
 
 msgctxt "SubclassSelectionStageSorcerousNoneDescription"
 msgid "You must select a sorcerous origin."
-msgstr ""
+msgstr "마법의 기원을 선택해야합니다."
 
 msgctxt "SubclassSelectionStagePathDescription"
 msgid "This stage chooses a primal path for the character"
-msgstr ""
+msgstr "이 단계에서는 캐릭터의 원시적 경로를 선택합니다."
 
 msgctxt "SubclassSelectionStagePathFeatures"
 msgid "Primal Path Features"
-msgstr ""
+msgstr "원시적 경로 특성"
 
 msgctxt "SubclassSelectionStagePathHeader"
 msgid "Select a Primal Path"
-msgstr ""
+msgstr "원시적 경로 선택"
 
 msgctxt "SubclassSelectionStagePathTitle"
 msgid "Primal Path"
-msgstr ""
+msgstr "원시적 경로"
 
 #, fuzzy
 msgctxt "SubclassSelectionStageCircleDescription"

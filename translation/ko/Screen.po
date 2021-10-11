@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-10 13:50+0000\n"
+"PO-Revision-Date: 2021-10-11 16:02+0000\n"
 "Last-Translator: 존삼 <jsnuguri@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/screen/ko/>"
 "\n"
@@ -213,7 +213,7 @@ msgstr "식별할 미확인 마법 아이템을 선택하십시오."
 
 msgctxt "CharacterInspectionModeSelectSpellbookTitle"
 msgid "Select a spellbook with at least {0} blank page(s)."
-msgstr "최소 {0}개의 빈 페이지가 있는 주문책을 선택하십시오."
+msgstr "{0} 주문이 없는 주문책을 선택하십시오."
 
 msgctxt "CharacterInspectionModeSelectWeaponNonMagicalTitle"
 msgid "Select a non-magical weapon to apply this effect."
@@ -2765,7 +2765,7 @@ msgstr "분배"
 
 msgctxt "SplitItemDescription"
 msgid "Select a number of units for this stack of items."
-msgstr ""
+msgstr "중첩된 아이템을 분할합니다."
 
 msgctxt "PartyTreasuryTitle"
 msgid "Party Wealth"
@@ -3134,19 +3134,19 @@ msgstr ""
 
 msgctxt "EditorLibraryTitle"
 msgid "Library"
-msgstr ""
+msgstr "라이브러리"
 
 msgctxt "EditorCategoryRoomTitle"
 msgid "Rooms"
-msgstr ""
+msgstr "방"
 
 msgctxt "EditorCategoryPropTitle"
 msgid "Props"
-msgstr ""
+msgstr "소품"
 
 msgctxt "EditorCategoryGadgetTitle"
 msgid "Gadgets"
-msgstr ""
+msgstr "장치"
 
 msgctxt "EditorCaptionPositionTitle"
 msgid "Position"
@@ -3166,7 +3166,7 @@ msgstr "던전 메이커"
 
 msgctxt "BackDungeonMakerDescription"
 msgid "Opens the Dungeon Maker to resume editing this location"
-msgstr ""
+msgstr "던전 메이커를 열어 이 지역의 편집을 재개합니다."
 
 msgctxt "EditorLocationSwitchDescription"
 msgid "Click to switch to this user location"
@@ -3244,7 +3244,7 @@ msgstr "치트"
 
 msgctxt "CheatsButtonDescription"
 msgid "Opens the Dungeon Maker playtest cheats. {0}"
-msgstr ""
+msgstr "던전 메이커 플레이 테스트 치트를 엽니다. {0}"
 
 msgctxt "EditorFoldAllButtonTitle"
 msgid "Fold All"

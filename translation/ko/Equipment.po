@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-10 13:50+0000\n"
+"PO-Revision-Date: 2021-10-11 16:02+0000\n"
 "Last-Translator: 존삼 <jsnuguri@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/equipment/"
 "ko/>\n"
@@ -1708,7 +1708,7 @@ msgstr "공포의 원뿔"
 
 msgctxt "FunctionIterationFormat"
 msgid "{0} per {1}"
-msgstr "{1}당 {0}"
+msgstr "{1} 마다 {0}"
 
 msgctxt "FunctionPotionDrinkTitle"
 msgid "Drink Potion"
@@ -3122,11 +3122,11 @@ msgstr "저주의 두루마리"
 
 msgctxt "ScrollBarkskinDescription"
 msgid "When you use this scroll, you cast the Barkskin spell."
-msgstr "이 두루마리를 사용하면, 나무껍질 주문을 시전합니다."
+msgstr "이 두루마리를 사용하면, 나무껍질 피부 주문을 시전합니다."
 
 msgctxt "ScrollBarkskinTitle"
 msgid "Scroll of Barkskin"
-msgstr "나무껍질의 두루마리"
+msgstr "나무껍질 피부의 두루마리"
 
 msgctxt "ScrollBlessDescription"
 msgid "When you use this scroll, you cast the Bless spell."
@@ -3144,15 +3144,13 @@ msgctxt "ScrollBurningHandsTitle"
 msgid "Scroll of Burning Hands"
 msgstr "타오르는 손길 두루마리"
 
-#, fuzzy
 msgctxt "ScrollColorSprayDescription"
 msgid "When you use this scroll, you cast the spell Color Spray."
-msgstr "이 두루마리를 사용하면 칼라 스프레이 주문을 시전합니다."
+msgstr "이 두루마리를 사용하면 색채 분사 주문을 시전합니다."
 
-#, fuzzy
 msgctxt "ScrollColorSprayTitle"
 msgid "Scroll of Color Spray"
-msgstr "칼라 스프레이 두루마리"
+msgstr "색채 분사 두루마리"
 
 msgctxt "ScrollCureWoundsDescription"
 msgid "When you use this scroll, you cast the Cure Wounds spell."
@@ -8113,11 +8111,11 @@ msgstr "이 두루마리를 사용하면 대규모 상처 치료 주문을 시�
 
 msgctxt "ScrollMindTwistTitle"
 msgid "Scroll of Mind Twist"
-msgstr ""
+msgstr "정신 왜곡 두루마리"
 
 msgctxt "ScrollMindTwistDescription"
 msgid "When you use this scroll, you cast the spell Mind Twist."
-msgstr ""
+msgstr "이 두루마리를 사용하면 정신 왜곡 주문을 시전합니다."
 
 msgctxt "ScrollBanishmentTitle"
 msgid "Scroll of Banishment"
@@ -8211,12 +8209,11 @@ msgstr "이 두루마리를 사용하면 얼음 폭풍 주문을 시전합니다
 
 msgctxt "ScrollPhantasmalKillerTitle"
 msgid "Scroll of Phantasmal Killer"
-msgstr "판타즈멀 킬러 두루마리"
+msgstr "환영 살인마 두루마리"
 
-#, fuzzy
 msgctxt "ScrollPhantasmalKillerDescription"
 msgid "When you use this scroll, you cast the spell Phantasmal Killer."
-msgstr "이 두루마리를 사용하면 판타즈멀 킬러 주문을 시전합니다."
+msgstr "이 두루마리를 사용하면 환영 살인마 주문을 시전합니다."
 
 #, fuzzy
 msgctxt "ScrollStoneskinTitle"
@@ -8532,11 +8529,11 @@ msgstr "이 두루마리를 사용하면 영체 무기 주문을 시전합니다
 
 msgctxt "ScrollWardingBondTitle"
 msgid "Scroll of Warding Bond"
-msgstr ""
+msgstr "수호의 결속 두루마리"
 
 msgctxt "ScrollWardingBondDescription"
 msgid "When you use this scroll, you cast the spell Warding Bond."
-msgstr ""
+msgstr "이 두루마리를 사용하면 수호의 결속 주문을 시전합니다."
 
 #, fuzzy
 msgctxt "ScrollAnimalFriendshipTitle"
