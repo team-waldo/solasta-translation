@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-11 16:02+0000\n"
-"Last-Translator: 존삼 <jsnuguri@naver.com>\n"
+"PO-Revision-Date: 2021-10-13 13:37+0000\n"
+"Last-Translator: Jin <byungjinjun55@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/feedback/"
 "ko/>\n"
 "Language: ko\n"
@@ -52,15 +52,16 @@ msgstr "{0} (성공)"
 
 msgctxt "ActivatePowerLine"
 msgid "{0} activates the {1} power"
-msgstr "{0}이(가) {1} 능력을 사용하였습니다."
+msgstr "{0}이(가) {1} 능력을 사용하였습니다"
 
+#, fuzzy
 msgctxt "ActivatePowerWithChanelDivinityLine"
 msgid "{0} channels divinity to activate {1}"
 msgstr "{0}이(가) {1}을(를) 활성화"
 
 msgctxt "ActivatePowerWithSpellSlotLine"
 msgid "{0} activates {1} with a level {2} spell slot"
-msgstr "{0}은(는) 레벨 {2} 주문 슬롯으로 {1}을(를) 활성화합니다."
+msgstr "{0}은(는) 레벨 {2} 주문 슬롯으로 {1}을(를) 활성화합니다"
 
 msgctxt "AdditionalDamageArcaneFuryFormat"
 msgid "Arcane Fury!"
@@ -68,11 +69,11 @@ msgstr "비전 격노!"
 
 msgctxt "AdditionalDamageArcaneFuryLine"
 msgid "{0} deals more damage to {1} from Arcane Furry (+{2})"
-msgstr "{0}은(는) 비전 격노(+{2})로 {1}에게 더 많은 피해를 줍니다."
+msgstr "{0}은(는) 비전 격노로 {1}에게 더 많은 피해를 줍니다. (+{2})"
 
 msgctxt "AdditionalDamageBestowCurseFormat"
 msgid "Attack on Cursed!"
-msgstr "저주당한 자 공격!"
+msgstr "저주받은 자 공격!"
 
 msgctxt "AdditionalDamageBestowCurseLine"
 msgid "{0} deals more damage to cursed {1} (+{2})"
@@ -100,7 +101,7 @@ msgstr "어둠 학살자!"
 
 msgctxt "AdditionalDamageDarkSlayerLine"
 msgid "{0} deals more damage to creatures with superior darkvision {1} (+{2})"
-msgstr "{0}은(는) 우수한 어둠시야를 가진 크리쳐에게 더 많은 피해를 줍니다. {1} (+{2})"
+msgstr "{0}은(는) 우수한 어둠시야를 가진 {1}에게 더 많은 피해를 줍니다. (+{2})"
 
 msgctxt "AdditionalDamageDecisiveStrikeFormat"
 msgid "Decisive Strike!"
@@ -108,7 +109,7 @@ msgstr "결정타!"
 
 msgctxt "AdditionalDamageDecisiveStrikeLine"
 msgid "{0} strikes {1} (+{2})"
-msgstr "{0}이(가) {1}을(를) 때립니다. (+{2})"
+msgstr "{0}이(가) {1}에게 일격을 날립니다. (+{2})"
 
 msgctxt "AdditionalDamageDivineFavorFormat"
 msgid "Divine Favor!"
@@ -140,7 +141,7 @@ msgstr "사냥꾼의 표식!"
 
 msgctxt "AdditionalDamageHuntersMarkLine"
 msgid "{0} deals more damage to {1} as a marked target (+{2})"
-msgstr "{0}은(는) 표시된 대상인 {1}에게 더 많은 피해를 줍니다. (+{2})"
+msgstr "{0}은(는) 사냥꾼의 표식 대상인 {1}에게 더 많은 피해를 줍니다. (+{2})"
 
 msgctxt "AdditionalDamagePredatorFormat"
 msgid "Predator!"
@@ -170,11 +171,11 @@ msgstr "{0}은(는) 은둔자의 재앙을 통해 변신한 {1}에게 더 많은
 
 msgctxt "AdditionalDamageSneakAttackFormat"
 msgid "Sneak Attack!"
-msgstr "암습 공격!"
+msgstr "암습!"
 
 msgctxt "AdditionalDamageSneakAttackLine"
 msgid "{0} performs a sneak attack on {1} (+{2})"
-msgstr "{0}은(는) {1}에게 암습 공격을 합니다. (+{2})"
+msgstr "{0}은(는) {1}에게 암습을 합니다. (+{2})"
 
 msgctxt "AdditionalDamageStrikeOblivionFormat"
 msgid "Strike of Oblivion!"
@@ -193,9 +194,10 @@ msgctxt "AdvantageRollOutcome"
 msgid "with advantage"
 msgstr "이점을 받고"
 
+#, fuzzy
 msgctxt "AlreadySuccessfulCaptionFormat"
 msgid "Already Successful"
-msgstr ""
+msgstr "성공 확정"
 
 msgctxt "AttackConsoleLine"
 msgid "{0} attacks {1} with {2}, rolls {3} = {4}"
@@ -211,7 +213,7 @@ msgstr "{0}이(가) {2}(으)로 {1}을(를) 공격합니다. {3} 굴림 {4}"
 
 msgctxt "AttackConsoleLineAutomaticHit"
 msgid "{0} attacks {1} with {2} and automatically hits"
-msgstr "{0}이(가) {2}(으)로 {1}을(를) 공격합니다. 무조건 명중합니다."
+msgstr "{0}이(가) {2}(으)로 {1}을(를) 공격합니다. 무조건 명중합니다"
 
 msgctxt "AttackConsoleLineNoModifier"
 msgid "{0} attacks {1} with {2}, rolls {3}"
@@ -255,7 +257,7 @@ msgstr "치유 불가!"
 
 msgctxt "CannotReceiveAnyHealingLine"
 msgid "{0} cannot receive any healing"
-msgstr "{0}은(는) 치유를 받을 수 없습니다."
+msgstr "{0}은(는) 치유를 받을 수 없습니다"
 
 msgctxt "CheckFailureCaption"
 msgid "Failure"
@@ -283,23 +285,23 @@ msgstr "{0}은(는) 집중 판정을 합니다. vs DC {1}, 굴림 {2}"
 
 msgctxt "ConcentrationLostLine"
 msgid "{0} loses concentration on {1}"
-msgstr "{0}은(는) {1}에 대한 집중력을 잃습니다."
+msgstr "{0}은(는) {1}에 대한 집중을 잃습니다"
 
 msgctxt "ConditionAddedHasLine"
 msgid "{0} now has {1}"
-msgstr "{0}이(가) {1} 상태입니다."
+msgstr "{0}이(가) {1} 상태입니다"
 
 msgctxt "ConditionAddedLine"
 msgid "{0} is now {1}"
-msgstr "{0}이(가) {1} 상태입니다."
+msgstr "{0}이(가) {1} 상태입니다"
 
 msgctxt "ConditionRemovedHasLine"
 msgid "{0} no longer has {1}"
-msgstr "{0}은(는) 더 이상 {1} 상태가 아닙니다."
+msgstr "{0}은(는) 더 이상 {1} 상태가 아닙니다"
 
 msgctxt "ConditionRemovedLine"
 msgid "{0} is no longer {1}"
-msgstr "{0}은(는) 더 이상 {1} 상태가 아닙니다."
+msgstr "{0}은(는) 더 이상 {1} 상태가 아닙니다"
 
 msgctxt "ContestCheckConsoleBothAdvantageLine"
 msgid "{0} contests {1}, {2} against {3}, rolls {4} {5} against {6} {7} {8}"
@@ -335,7 +337,7 @@ msgstr "대화 기록됨 {0} {1}"
 
 msgctxt "CoverFullCaption"
 msgid "out of sight"
-msgstr "내 시야에 없음"
+msgstr "관측 불가"
 
 msgctxt "CoverHalfCaption"
 msgid "1/2 cover"
@@ -371,15 +373,15 @@ msgstr "치명적 실패!"
 
 msgctxt "DarknessCaption"
 msgid "Magical Darkness"
-msgstr "마법의 어둠"
+msgstr "마법적 어둠"
 
 msgctxt "DarknessDescription"
 msgid "The creature is in magical darkness."
-msgstr "이 크리쳐는 마법의 어둠 속에 있습니다."
+msgstr "이 크리쳐는 마법적 어둠 속에 있습니다."
 
 msgctxt "DeadlyFallLine"
 msgid "{0} fell to their death."
-msgstr "{0}이(가) 죽었습니다."
+msgstr "{0}이(가) 낙사했습니다."
 
 msgctxt "DeathSaveAnyAdvantageConsoleLine"
 msgid "{0} rolls a death saving throw {1}: {2}"
@@ -403,7 +405,7 @@ msgstr "{0} 결정적 성공"
 
 msgctxt "DeathSaveCriticalSuccessLine"
 msgid "{0} regains 1 hit point and stabilizes."
-msgstr "{0}이(가) 1 HP를 회복하고 안정화됩니다."
+msgstr "{0}이(가) 체력 1로 회복되고 안정화됩니다."
 
 msgctxt "DeathSaveFailureFormat"
 msgid "{0} Failure"
@@ -415,7 +417,7 @@ msgstr "{1}에게 {0} 죽음 내성굴림 실패가 추가됨"
 
 msgctxt "DeathSaveRegainLifeLine"
 msgid "Thanks to {0}, {1} is brought back to {2} hit points"
-msgstr "{0} 덕분에 {1}이(가) {2} HP로 되살아났습니다."
+msgstr "{0} 덕분에 {1}이(가) {2} HP로 되살아났습니다"
 
 msgctxt "DeathSaveSuccessAddedLine"
 msgid "{0} death save success added to {1}"
@@ -427,12 +429,12 @@ msgstr "{0} 성공"
 
 msgctxt "DetectedDefeatFormat"
 msgid "You have been detected! Use cautious mode next time."
-msgstr "발각되었습니다! 다음엔 주의 모드를 사용하십시오."
+msgstr "발각되었습니다! 다음엔 경계 모드를 사용하십시오."
 
 msgctxt "DeviceAutoIdentifiedLine"
 msgid ""
 "Thanks to a greater knowledge of this type of item, {0} has identified {1}"
-msgstr "이 유형의 아이템에 대한 풍부한 지식 덕분에 {0}은(는) {1}을(를) 식별했습니다."
+msgstr "이 유형의 아이템에 대한 풍부한 지식 덕분에 {0}은(는) {1}을(를) 식별했습니다"
 
 msgctxt "DimLightCaption"
 msgid "Dim light"
@@ -441,7 +443,7 @@ msgstr "약간 어두움"
 msgctxt "DisadvantageRollDescription"
 msgid ""
 "Rolling with disadvantage means you roll two d20s and keep the worst result."
-msgstr "불리점을 받고 주사위를 굴린다는 것은 두 개의 d20을 굴리고 최악의 결과를 취한다는 것을 의미합니다."
+msgstr "불리점을 받고 주사위를 굴린다는 것은 두 개의 d20을 굴리고 나쁜 결과를 취한다는 것을 의미합니다."
 
 msgctxt "DisadvantageRollOutcome"
 msgid "with disadvantage"
@@ -457,15 +459,15 @@ msgstr "{0} 경험치 {1}XP 획득"
 
 msgctxt "FragileGroundDetectedFormat"
 msgid "Fragile ground detected"
-msgstr ""
+msgstr "약한 지반 감지됨"
 
 msgctxt "FragileGroundTrigerredFormat"
 msgid "Fragile ground broken"
-msgstr ""
+msgstr "약한 지반 부서짐"
 
 msgctxt "GameAutoSavedLine"
 msgid "Game auto saved"
-msgstr "게임 자동 저장됨"
+msgstr "자동 저장 완료"
 
 msgctxt "GameQuickSavedLine"
 msgid "Game quick saved"
@@ -473,16 +475,15 @@ msgstr "빠른 저장 완료"
 
 msgctxt "GameSavedLine"
 msgid "Game saved"
-msgstr "게임 저장됨"
+msgstr "게임 저장 완료"
 
 msgctxt "HiddenObjectRevealedFormat"
 msgid "Object Revealed"
 msgstr "물체 드러남"
 
-#, fuzzy
 msgctxt "HiddenObjectRevealedLine"
 msgid "{0} has revealed a hidden object"
-msgstr "{0}이(가) 숨겨진 물체를 찾아냈습니다."
+msgstr "{0}이(가) 숨겨진 물체를 찾아냈습니다"
 
 msgctxt "ImmuneToConditionFormat"
 msgid "Immune"
@@ -516,7 +517,6 @@ msgctxt "InitiativeConsoleLine"
 msgid "{0} rolls initiative: {1} = {2}"
 msgstr "{0} 우선권 굴림: {1} = {2}"
 
-#, fuzzy
 msgctxt "InitiativeConsoleLineAdvantage"
 msgid "{0} rolls initiative{1}: {2} = {3}"
 msgstr "{0} 우선권 굴림{1}: {2} = {3}"
@@ -535,28 +535,28 @@ msgctxt "InsightAutomaticSuccessLine"
 msgid ""
 "{0} automatically succeeds on an Insight (Wisdom) check: dialog success odds "
 "are revealed."
-msgstr "{0}의 통찰 (지혜) 판정 무조건 성공. 대화 성공 확률이 표시됩니다."
+msgstr "{0}의 통찰(지혜) 판정 무조건 성공. 대화 성공 확률이 표시됩니다."
 
 msgctxt "InsightCriticalFailureLine"
 msgid ""
 "{0} critically fails an Insight (Wisdom) check: dialog success odds are "
 "hidden."
-msgstr "{0}의 통찰 (지혜) 판정 치명적 실패. 대화 성공 확률이 표시되지 않습니다."
+msgstr "{0}의 통찰(지혜) 판정 치명적 실패. 대화 성공 확률이 표시되지 않습니다."
 
 msgctxt "InsightCriticalSuccessLine"
 msgid ""
 "{0} scores a critical success on an Insight (Wisdom) check: dialog success "
 "odds are revealed."
-msgstr "{0}의 통찰 (지혜) 판정 결정적 성공. 대화 성공 확률이 표시됩니다."
+msgstr "{0}의 통찰(지혜) 판정 결정적 성공. 대화 성공 확률이 표시됩니다."
 
 msgctxt "InsightFailureLine"
 msgid "{0} fails an Insight (Wisdom) check: dialog success odds are hidden."
-msgstr "{0}의 통찰 (지혜) 판정 실패. 대화 성공 확률이 표시되지 않습니다."
+msgstr "{0}의 통찰(지혜) 판정 실패. 대화 성공 확률이 표시되지 않습니다."
 
 msgctxt "InsightSuccessLine"
 msgid ""
 "{0} succeeds on an Insight (Wisdom) check: dialog success odds are revealed."
-msgstr "{0}의 통찰 (지혜) 판정 성공. 대화 성공 확률이 표시됩니다."
+msgstr "{0}의 통찰(지혜) 판정 성공. 대화 성공 확률이 표시됩니다."
 
 msgctxt "ItemConsumedCaption"
 msgid "{0} consumed"
@@ -566,14 +566,13 @@ msgctxt "ItemConsumedLine"
 msgid "{0} has fully consumed an item: {1}"
 msgstr "{0}이(가) 아이템 하나를 완전히 소비했습니다: {1}"
 
-#, fuzzy
 msgctxt "ItemGainedLine"
 msgid "{0} gains an item: {1}"
-msgstr "{0}이(가) {1} 아이템을 얻었습니다."
+msgstr "{0}이(가) 아이템을 얻었습니다: {1}"
 
 msgctxt "ItemSpellCastLine"
 msgid "and casts the {0} spell"
-msgstr "{0} 주문을 시전합니다."
+msgstr "{0} 주문을 시전합니다"
 
 msgctxt "ItemUsedLastChargeDestroyLine"
 msgid "Last charge spent: {0} is destroyed"
@@ -589,7 +588,7 @@ msgstr "마지막 충전량 사용 후 d20 굴림 {1} : {0}이(가) 보존됨"
 
 msgctxt "ItemUsedLine"
 msgid "{0} uses the {1} item"
-msgstr "{0}은(는) {1} 아이템을 사용합니다."
+msgstr "{0}은(는) {1} 아이템을 사용합니다"
 
 msgctxt "ItemUsedSpellCastLine"
 msgid "{0} uses the {1} item and casts the {2} spell"
@@ -601,47 +600,46 @@ msgstr "긴 휴식 완료. 소비된 음식 개수: {0}"
 
 msgctxt "MagicalHitPointsPoolRolledLine"
 msgid "{0} rolls a pool of {1} hit points for {2}"
-msgstr "{0}은(는) 주사위를 굴립니다. HP 합계 {1}까지 {2} 영향을 받습니다."
+msgstr "{0}은(는) 주사위를 굴립니다. 체력 합계 {1}까지 {2} 영향을 받습니다"
 
 msgctxt "NeedFlamingTagFormat"
 msgid "Need a flaming item"
 msgstr "불타고 있는 아이템이 필요합니다"
 
-#, fuzzy
 msgctxt "ObservationFailedFormat"
 msgid "Observation failed"
 msgstr "관찰 실패"
 
-#, fuzzy
 msgctxt "ObservationSuccessfulFormat"
 msgid "Observation successful"
 msgstr "관찰 성공"
 
 msgctxt "OutOfAttackUsesLine"
 msgid "{0} has run out of ammo/uses for \"{1}\""
-msgstr ""
+msgstr "{0}이(가) 보유한 \"{1}\"의 탄약/사용량이 소진되었습니다"
 
 msgctxt "OverConcentrationUsedLine"
 msgid ""
 "{0} sustains {1} damage, but does not roll for concentration because of {2}"
-msgstr "{0}은(는) {1} 피해를 받았지만 {2} 때문에 집중 판정을 하지 않습니다."
+msgstr "{0}은(는) {1} 피해를 받았지만 {2} 때문에 집중 판정을 하지 않습니다"
 
 msgctxt "PathFailedFormat"
 msgid "No path to destination!"
 msgstr "갈 수 있는 길이 없습니다!"
 
-#, fuzzy
 msgctxt "PreventedFromActingCaption"
 msgid "Cannot Act!"
 msgstr "행동할 수 없습니다!"
 
+#, fuzzy
 msgctxt "PreventedFromActingHasLine"
 msgid "{0} has {1} and fails to act this turn"
-msgstr ""
+msgstr "{0}은(는) {1}를 보유하고 있으며, 이번 턴에 행동할 수 없습니다"
 
+#, fuzzy
 msgctxt "PreventedFromActingLine"
 msgid "{0} is {1} and fails to act this turn"
-msgstr ""
+msgstr "{0}은(는) {1} 상태이며, 이번 턴에 행동할 수 없습니다"
 
 msgctxt "ReadiedActionTriggeredCaptionFormat"
 msgid "Readied action triggered"
@@ -653,15 +651,15 @@ msgstr "{0}은(는) 이미 최대 체력입니다"
 
 msgctxt "ReceivedHealingFromInflictedDamageFullLine"
 msgid "{0} regains life from the inflicted damage"
-msgstr "{0}은(는) 입힌 피해만큼 생명력을 회복합니다."
+msgstr "{0}은(는) 입힌 피해만큼 생명력을 회복합니다"
 
 msgctxt "ReceivedHealingFromInflictedDamageHalfLine"
 msgid "{0} regains life from half the inflicted damage"
-msgstr "{0}은(는) 입힌 피해의 절반만큼 생명력을 회복합니다."
+msgstr "{0}은(는) 입힌 피해의 절반만큼 생명력을 회복합니다"
 
 msgctxt "ReceivedHealingLine"
 msgid "{0} is healed {1} hit point(s)"
-msgstr "{0}: {1} 체력 회복"
+msgstr "{0}이(가) {1} 체력을 회복합니다"
 
 msgctxt "ReceivedTemporaryHitPointsFailureLine"
 msgid "{0} cannot receive any temporary hit points"
@@ -669,11 +667,11 @@ msgstr "{0}은(는) 임시 체력을 얻을 수 없습니다"
 
 msgctxt "ReceivedTemporaryHitPointsSuccessLine"
 msgid "{0} now has {1} temporary hit point(s)"
-msgstr "{0}이(가) {1}점의 임시 HP 획득"
+msgstr "{0}이(가) {1} 임시 체력을 획득했습니다"
 
 msgctxt "RitualCastLine"
 msgid "{0} casts the {1} spell as a ritual"
-msgstr "{0}: {1} 주문을 의식으로 시전"
+msgstr "{0}이(가) {1} 주문을 의식으로 시전합니다"
 
 msgctxt "RollAttackCriticalFailureTitle"
 msgid "Critical Miss"
@@ -729,11 +727,11 @@ msgstr "{0}은(는) {2}(DC{3})에 대한 {1} 내성 굴림을 합니다, 굴림 
 
 msgctxt "SaveFailureOutcome"
 msgid "{0} Fails"
-msgstr "{0} (실패)"
+msgstr "{0} 실패"
 
 msgctxt "SaveSuccessFormat"
 msgid "Saves"
-msgstr ""
+msgstr "내성 굴림"
 
 msgctxt "SaveSuccessOutcome"
 msgid "{0} (Success)"
@@ -743,14 +741,13 @@ msgctxt "ShortRestCompletedLine"
 msgid "Short rest completed."
 msgstr "짧은 휴식 완료."
 
-#, fuzzy
 msgctxt "SleightOfHandDetectedCaptionFormat"
 msgid "Detected!"
-msgstr "걸렸습니다!"
+msgstr "발각되었습니다!"
 
 msgctxt "SleightOfHandDetectedLine"
 msgid "{0} was detected by {1} while attempting to steal items"
-msgstr "{0}은(는) 아이템을 훔치려다가 {1}에게 들켰습니다."
+msgstr "{0}은(는) 아이템을 훔치려다가 {1}에게 들켰습니다"
 
 msgctxt "SleightOfHandNotEnoughRoomCaptionFormat"
 msgid "Inventory full."
@@ -759,7 +756,7 @@ msgstr "인벤토리가 가득 찼습니다."
 msgctxt "SleightOfHandNotEnoughRoomLine"
 msgid ""
 "{0} does not have enough room in their inventory to steal items from {1}"
-msgstr "{0}은(는) {1}의 아이템을 훔칠만큼 인벤토리에 충분한 공간이 없습니다."
+msgstr "{0}은(는) 인벤토리에 {1}의 아이템을 훔쳐서 넣을 충분한 공간이 없습니다"
 
 msgctxt "SleightOfHandNothingToStealCaptionFormat"
 msgid "Nothing to steal."
@@ -767,7 +764,7 @@ msgstr "훔칠 것이 없습니다."
 
 msgctxt "SleightOfHandNothingToStealLine"
 msgid "{0} cannot steal anything more from {1}"
-msgstr "{0}은(는) {1}에게서 더 이상 훔칠 수 없습니다."
+msgstr "{0}은(는) {1}에게서 더 이상 훔칠 수 없습니다"
 
 msgctxt "SleightOfHandSuccessCaptionFormat"
 msgid "Success!"
@@ -775,7 +772,7 @@ msgstr "성공!"
 
 msgctxt "SleightOfHandSuccessLine"
 msgid "Challenge"
-msgstr ""
+msgstr "시도"
 
 msgctxt "SpellcastingFailedCaption"
 msgid "Cast Failed!"
@@ -783,23 +780,23 @@ msgstr "시전 실패!"
 
 msgctxt "SpellcastingFailedLine"
 msgid "{0} fails to cast the {1} spell"
-msgstr "{0}이(가) {1} 주문을 시전하지 못했습니다."
+msgstr "{0}이(가) {1} 주문을 시전하지 못했습니다"
 
 msgctxt "SpellCastLine"
 msgid "{0} casts the {1} spell"
-msgstr "{0}이(가) {1} 주문을 시전했습니다."
+msgstr "{0}이(가) {1} 주문을 시전합니다"
 
 msgctxt "SpellCastSuperiorSlotLine"
 msgid "{0} casts {1} with a level {2} slot"
-msgstr "{0}은(는) 레벨 {2} 슬롯으로 {1}을(를) 시전합니다."
+msgstr "{0}은(는) 레벨 {2} 슬롯으로 {1}을(를) 시전합니다"
 
 msgctxt "SpellCounteredFailLine"
 msgid "{0} fails to counter the {2} spell cast by {1}"
-msgstr "{0}은(는) {1}이(가) 시전한 {2} 주문에 대응하지 못했습니다."
+msgstr "{0}은(는) {1}이(가) 시전한 {2} 주문에 대응하지 못했습니다"
 
 msgctxt "SpellCounteredSuccessLine"
 msgid "{0} counters the {2} spell cast by {1}"
-msgstr "{0}은(는) {1}이(가) 시전한 {2} 주문에 대응합니다."
+msgstr "{0}은(는) {1}이(가) 시전한 {2} 주문에 대응합니다"
 
 msgctxt "SpellCounterFailFormat"
 msgid "Counter Fail!"
@@ -811,7 +808,7 @@ msgstr "대응 성공!"
 
 msgctxt "SpellDissipatedFailureLine"
 msgid "{0} fails to dispel the effect of the {1} spell on  "
-msgstr "{0}은(는) {1} 주문을 해제하지 못합니다  "
+msgstr "{0}은(는) {1} 주문을 무효화하는데 실패했습니다  "
 
 msgctxt "SpellDissipatedFormat"
 msgid "Dispelled!"
@@ -819,27 +816,27 @@ msgstr "무효화!"
 
 msgctxt "SpellDissipatedOnTargetFailureLine"
 msgid "{0} fails to dispel the effect of the {1} spell on {2}"
-msgstr "{0}은(는) {2}에 대한 {1} 주문을 해제하지 못했습니다."
+msgstr "{0}은(는) {2}에 대한 {1} 주문을 무효화하는데 실패했습니다"
 
 msgctxt "SpellDissipatedOnTargetSuccessLine"
 msgid "{0} dispels the effect of the {1} spell on {2}"
-msgstr "{0}은(는} {2}에 대한 {1} 주문을 해제합니다."
+msgstr "{0}은(는} {2}에 대한 {1} 주문을 무효화합니다"
 
 msgctxt "SpellDissipatedSuccessLine"
 msgid "{0} dispels the effect of the {1} spell"
-msgstr "{0}은(는} {1} 주문을 해제합니다."
+msgstr "{0}은(는} {1} 주문을 무효화합니다"
 
 msgctxt "SpellScribedLine"
 msgid "{0} tries to copy the {1} spell into a spellbook {2}"
-msgstr "{0}은(는) {1} 주문을 주문책 {2}에 옮겨 적으려고 합니다."
+msgstr "{0}은(는) {1} 주문을 주문책 {2}에 옮겨 적으려고 합니다"
 
 msgctxt "SpellSlotsRecoveredLine"
 msgid "{0} recovers spell slots: {1}"
-msgstr ""
+msgstr "{0}은(는) 주문 슬롯을 회복합니다 : {1}"
 
 msgctxt "SuccessOddsLine"
 msgid "Success Odds: {0}"
-msgstr "성공 확률: {0}"
+msgstr "성공 확률 : {0}"
 
 msgctxt "TrackDetectedFormat"
 msgid "Tracks spotted"
@@ -851,7 +848,7 @@ msgstr "함정 발견"
 
 msgctxt "TrapDisarmedFormat"
 msgid "Trap disarmed"
-msgstr "함정 해제됨"
+msgstr "함정 해제"
 
 msgctxt "TrapDisarmFailedFormat"
 msgid "Disarm Failed"
@@ -863,25 +860,25 @@ msgstr "함정 발동됨"
 
 msgctxt "CharmedEnemyRemovedFromArea"
 msgid "{0} left the area"
-msgstr ""
+msgstr "{0}이(가) 지역을 떠났습니다"
 
 msgctxt "UnlitCaption"
 msgid "No light"
-msgstr "빛 없음"
+msgstr "어두움"
 
 msgctxt "UnlitDescription"
 msgid ""
 "The creature is unlit. Attack rolls against it will be made with "
 "disadvantage."
-msgstr "크리쳐가 어둡습니다. 이 대상에 대한 공격 굴림은 불리점을 받습니다."
+msgstr "크리쳐가 어둠 속에 있습니다. 이 대상에 대한 명중 굴림은 불리점을 받습니다."
 
 msgctxt "CraftingAttemptedLine"
 msgid "{0} is attempting to craft {1}"
-msgstr "{0}이(가) {1}을(를) 제작하려고 합니다."
+msgstr "{0}이(가) {1}을(를) 제작하려고 합니다"
 
 msgctxt "StealthBrokenByForce"
 msgid "{0} has been revealed and is no longer hidden."
-msgstr "{0}이(가) 발각되었으며 더 이상 숨을 수 없습니다."
+msgstr "{0}이(가) 발각되었으며 은신 상태가 해제됩니다."
 
 msgctxt "StealthBrokenByEnemy"
 msgid "{0} has been detected by {1} and is no longer hidden."
@@ -889,15 +886,15 @@ msgstr "{0}은(는) {1}에게 발각당해 은신 상태가 해제됩니다."
 
 msgctxt "StealthNotBroken"
 msgid "{0} managed to remain hidden."
-msgstr "{0}은(는) 은신 상태를 유지했습니다."
+msgstr "{0}은(는) 은신 상태를 유지합니다."
 
 msgctxt "PartyMoneyGainedLine"
 msgid "The party gains {0}."
-msgstr "파티가 {0}를 얻었습니다."
+msgstr "파티가 {0}을(를) 얻었습니다."
 
 msgctxt "FreeBrokFirst"
 msgid "You must free Brok before you can take a long rest."
-msgstr ""
+msgstr "긴 휴식을 취하기 전에 브록을 풀어줘야 합니다."
 
 msgctxt "AdditionalDamagePoisonFormat"
 msgid "Poison!"
@@ -905,7 +902,7 @@ msgstr "맹독!"
 
 msgctxt "AdditionalDamagePoisonLine"
 msgid "{0} deals additional poison damage to {1} (+{2})."
-msgstr "{0}은(는) {1}에게 추가 독 피해를 줍니다. (+{2})"
+msgstr "{0}은(는) {1}에게 추가 독 피해를 줍니다 (+{2})."
 
 msgctxt "RegenerationSuccessCaption"
 msgid "Regenerate"
@@ -913,7 +910,7 @@ msgstr "재생"
 
 msgctxt "RegenerationSuccessLine"
 msgid "{0} regenerates hit points."
-msgstr "{0}이(가) HP를 재생합니다."
+msgstr "{0}이(가) 체력을 회복합니다."
 
 msgctxt "RegenerationFailureLine"
 msgid "{0} cannot regenerate after having received {1} damage."
@@ -927,19 +924,19 @@ msgctxt "MajorGateDestinationUnlocked_Title"
 msgid ""
 "You have unlocked a new teleportation destination using the Major Gate "
 "network."
-msgstr ""
+msgstr "주 관문 네트워크를 사용하여 새로운 순간 이동 목적지를 잠금 해제했습니다."
 
 msgctxt "AbilityScoreIncreasedValueAndMaxLine"
 msgid "{0} increases his/her {1} score by {2}, and its maximum value by {3}."
-msgstr ""
+msgstr "{0}은(는) 자신의 {1} 점수를 {2}, 최대값을 {3} 증가시킵니다."
 
 msgctxt "AbilityScoreIncreasedValueLine"
 msgid "{0} increases his/her {1} score by {2}."
-msgstr ""
+msgstr "{0}은(는) 자신의 {1} 점수를 {2} 증가시킵니다."
 
 msgctxt "AbilityScoreIncreasedMaxLine"
 msgid "{0} increases his/her {1} score maximum value by {2}."
-msgstr ""
+msgstr "{0}은(는) 자신의 {1} 점수 최대값을 {2} 증가시킵니다."
 
 msgctxt "ResistantToDamageLine"
 msgid "{0} is resistant to {1} damage and only takes half damage."
@@ -947,15 +944,15 @@ msgstr "{0}은(는) {1} 피해에 저항력이 있습니다. 절반의 피해만
 
 msgctxt "ResistantToDamageFormat"
 msgid "Resists {0}"
-msgstr "저항 {0}"
+msgstr "{0} 저항"
 
 msgctxt "DamageHalvedLine"
 msgid "{0} allows {1} to halve the damage."
-msgstr ""
+msgstr "{0}이(가) {1}의 피해를 절반으로 줄입니다."
 
 msgctxt "DamageReducedLine"
 msgid "{0} allows {1} to reduce the damage by {2} points."
-msgstr ""
+msgstr "{0}이(가) {1}의 피해를 {2}만큼 줄입니다."
 
 msgctxt "DamageValueLine"
 msgid "Nominal damage output: {0}"
@@ -963,23 +960,23 @@ msgstr "명목상 피해 산출량: {0}"
 
 msgctxt "VulnerableToDamageLine"
 msgid "{0} is vulnerable to {1} damage and takes double damage"
-msgstr "{0}은(는) {1} 피해에 취약해서 두 배의 피해를 받음"
+msgstr "{0}은(는) {1} 피해에 취약하여 두 배의 피해를 받습니다"
 
 msgctxt "VulnerableToDamageFormat"
 msgid "Vulnerable {0}"
-msgstr ""
+msgstr "{0} 취약"
 
 msgctxt "RechargePowerLine"
 msgid "{0} recharges the power of {1}"
-msgstr ""
+msgstr "{0}은(는) {1}의 능력을 충전합니다"
 
 msgctxt "SpellCastUnknownLine"
 msgid "{0} casts a spell"
-msgstr "{0}이(가) 주문을 시전합니다."
+msgstr "{0}이(가) 주문을 시전합니다"
 
 msgctxt "SpellIdentifiedLine"
 msgid "{0} has identified the spell as {1}"
-msgstr "{0}이(가) 주문을 {1}(으)로 식별했습니다."
+msgstr "{0}이(가) 주문을 {1}(으)로 식별했습니다"
 
 msgctxt "SpellCounteredSuccessUnknownLine"
 msgid "{0} counters the unknown spell cast by {1}."
@@ -987,7 +984,7 @@ msgstr "{0}은(는) {1}이(가) 시전한 미확인 주문에 대응합니다."
 
 msgctxt "NoRoomToConjureCreatureDescription"
 msgid "No room to conjure the creature."
-msgstr ""
+msgstr "크리쳐를 소환할 공간이 없습니다."
 
 msgctxt "AdditionalDamageBracersOfArcheryFormat"
 msgid "Bracers of Archery"
@@ -995,31 +992,31 @@ msgstr "궁술의 팔보호구"
 
 msgctxt "AdditionalDamageBracersOfArcheryLine"
 msgid "{0} deals additional damage with Bracers of Archery."
-msgstr ""
+msgstr "{0}은(는) 궁술의 팔보호구로 추가 피해를 줍니다."
 
 msgctxt "AdditionalDamageFinisherFormat"
 msgid "Finisher"
-msgstr ""
+msgstr "마무리 일격"
 
 msgctxt "AdditionalDamageFinisherLine"
 msgid "{0} deals an additional 1D6 damage to wounded creatures."
-msgstr ""
+msgstr "{0}은(는) 부상당한 크리쳐에게 1d6 추가 피해를 줍니다."
 
 msgctxt "SpellComponentConsumedLine"
 msgid "Casting the {0} spell consumes the {1} item."
-msgstr ""
+msgstr "{0} 주문을 시전하면 {1} 아이템이 소모됩니다."
 
 msgctxt "ReceivedHealingHalfFullLine"
 msgid "{0} is already at half health."
-msgstr ""
+msgstr "{0}의 체력은 이미 절반입니다."
 
 msgctxt "AdditionalDamageDivineStrikeFormat"
 msgid "Divine Strike!"
-msgstr ""
+msgstr "신성한 일격!"
 
 msgctxt "AdditionalDamageDivineStrikeLine"
 msgid "{0} deals more damage to {1} with Divine Strike (+{2})."
-msgstr ""
+msgstr "{0}은(는) 신성한 일격으로 {1}에게 더 많은 피해를 줍니다 (+{2})."
 
 msgctxt "DamageMultiplierLine"
 msgid "Difficulty multiplier: {0}"
@@ -1027,25 +1024,25 @@ msgstr "난이도 배율: {0}"
 
 msgctxt "BreakFreeSuccessLine"
 msgid "{0} breaks free."
-msgstr ""
+msgstr "{0}은(는) 탈출합니다."
 
 msgctxt "BreakFreeFailureLine"
 msgid "{0} fails to break free."
-msgstr ""
+msgstr "{0}은(는) 탈출에 실패했습니다."
 
 msgctxt "DamageRetaliateLine"
 msgid "{0} retaliates to {1} with the {2} effect."
-msgstr ""
+msgstr "{0}은(는) {2} 효과로 {1}에게 보복합니다."
 
 msgctxt "DamageRetaliateCaption"
 msgid "Retaliate!"
-msgstr ""
+msgstr "앙갚음!"
 
 msgctxt "KnockOutPreventedLine"
 msgid ""
 "{0} is prevented from being reduced to 0 hit points, thanks to the {1} "
 "effect."
-msgstr "{0}은(는) {1} 효과 덕분에 HP가 0이 되지 않았습니다."
+msgstr "{0}은(는) {1} 효과 덕분에 체력이 0이 되지 않았습니다."
 
 msgctxt "InstantDeathPreventedLine"
 msgid "{0} is prevented from being instantly killed, thanks to the {1} effect."
@@ -1057,11 +1054,11 @@ msgstr "{0}은(는) {1}을(를) 굴려 행동을 결정합니다. 굴림 {2}: "
 
 msgctxt "LegendaryResistanceUsedLine"
 msgid "{0} uses Legendary Resistance and changes the outcome: {1}"
-msgstr ""
+msgstr "{0}은(는) 전설적 저항을 사용해서 결과를 바꿉니다: {1}"
 
 msgctxt "LegendaryResistanceUsedCaption"
 msgid "Legendary Resistance!"
-msgstr ""
+msgstr "전설적 저항!"
 
 msgctxt "LegendaryActionUsedLine"
 msgid "{0} uses the {1} Legendary Action."
@@ -1073,7 +1070,7 @@ msgstr "{0}을(를) 잃었습니다."
 
 msgctxt "IndomitableResistanceUsedLine"
 msgid "{0} is Indomitable and attempts to reroll the failed saving throw."
-msgstr "불굴의 {0}은(는) 실패한 내성 굴림을 다시 시도합니다."
+msgstr "불요불굴을 갖춘 {0}은(는) 실패한 내성 굴림을 다시 시도합니다."
 
 msgctxt "IndomitableResistanceUsedCaption"
 msgid "Indomitable!"
@@ -1091,53 +1088,53 @@ msgctxt "PowerFailureCheckedFailureFormat"
 msgid "Failure!"
 msgstr "실패!"
 
+#, fuzzy
 msgctxt "PowerFailureCheckedSuccessCaption"
 msgid "Intervention Granted!"
 msgstr "개입 승인!"
 
+#, fuzzy
 msgctxt "PowerFailureCheckedFailureCaption"
 msgid "Intervention Denied"
 msgstr "개입 거부"
 
 msgctxt "SpellCounterAttackLine"
 msgid "{0} uses {1} to counterattack the hostile spell."
-msgstr ""
+msgstr "{0}은(는) {1}을(를) 사용하여 적대적인 주문에 대응합니다."
 
 msgctxt "AdditionalDamagePoisonousFormat"
 msgid "Poisonous"
-msgstr ""
+msgstr "맹독"
 
 msgctxt "AdditionalDamagePoisonousLine"
 msgid "{0} attemps to poison {1} (+{2})."
-msgstr ""
+msgstr "{0}이(가) {1}을(를) 중독시키려고 합니다 (+{2})."
 
 msgctxt "SpellMissingComponentLine"
 msgid ""
 "{0} is missing one of the components (Verbal, Somatic, or Material) to cast "
 "{1}."
-msgstr ""
+msgstr "{0}은(는) {1}을(를) 시전할 구성요소(음성, 동작, 물질) 중 하나가 부족합니다."
 
 msgctxt "GenericGadgetTitle"
 msgid "Object"
-msgstr ""
+msgstr "물체"
 
 msgctxt "Impossible_Title"
 msgid "Impossible to take this item"
-msgstr ""
+msgstr "이 아이템을 가져갈 수 없습니다"
 
 msgctxt "InGameDialogLine"
 msgid "{0}: {1}"
 msgstr "{0}: {1}"
 
-#, fuzzy
 msgctxt "Unlock_Door_With_Key"
 msgid "You unlocked the door with the adequate key."
 msgstr "알맞은 열쇠로 문을 열었습니다."
 
-#, fuzzy
 msgctxt "MetamagicActivatedLine"
 msgid "{0} activates the {1} metamagic on the {2} spell"
-msgstr "{0}은 {2} 주문에 {1} 메타매직을 활성화합니다"
+msgstr "{0}은(는) {2} 주문에 {1} 메타매직을 활성화합니다"
 
 msgctxt "AdditionalDamageElementalAffinityFormat"
 msgid "Elemental Affinity!"
@@ -1145,7 +1142,7 @@ msgstr "원소 친화력!"
 
 msgctxt "AdditionalDamageElementalAffinityLine"
 msgid "{0} inflicts more damage to {1} through Elemental Affinity (+{2})"
-msgstr "{0}은 원소 친화력(+{2})으로 인하여 {1}에 더 많은 피해를 입힙니다"
+msgstr "{0}은 원소 친화력으로 인하여 {1}에게 더 많은 피해를 줍니다. (+{2})"
 
 msgctxt "ReplacedAbilityScoreForSaveFormat"
 msgid "{0}!"
@@ -1153,48 +1150,48 @@ msgstr "{0}!"
 
 msgctxt "ReplacedAbilityScoreForSaveLine"
 msgid "{0} uses {1} to save with {3} instead of {2}"
-msgstr ""
+msgstr "{0}은(는) {1}을 사용하여 {2} 대신 {3}으로 내성 굴림을 합니다"
 
 msgctxt "SpellSlotPreservedFormat"
 msgid "Slot Preserved!"
-msgstr ""
+msgstr "슬롯 유지!"
 
 msgctxt "SpellSlotPreservedLine"
 msgid "{0} rolls {1} with {2}, avoiding to spend a spell slot"
-msgstr ""
+msgstr "{0}은(는) {2}을 굴려 주문 슬롯 소모 없이 {1}을(를) 사용합니다"
 
 msgctxt "AdditionalDamageImprovedDivineSmiteFormat"
 msgid "Improved Smite!"
-msgstr ""
+msgstr "향상된 신성한 일격!"
 
 msgctxt "AdditionalDamageImprovedDivineSmiteLine"
 msgid "{0} inflicts more damage to {1} through Improved Divine Smite (+{2})"
-msgstr ""
+msgstr "{0}은(는) 향상된 신성한 일격으로 {1}에게 더 많은 피해를 줍니다. (+{2})"
 
 msgctxt "ImmuneToSpellLevelLine"
 msgid "{0} is immune to level {1} spells or below, and is unaffected by {2}"
-msgstr ""
+msgstr "{0}은(는) 레벨 {1} 이하 주문에 면역이며 {2}의 영향을 받지 않습니다"
 
 msgctxt "ImmuneToSpellLevelFormat"
 msgid "Immune Level {0} Spells"
-msgstr ""
+msgstr "레벨 {0} 주문 면역"
 
 msgctxt "NewContenderConsoleLine"
 msgid "{0} enters the battle."
-msgstr ""
+msgstr "{0}이(가) 전투에 참가합니다."
 
 msgctxt "AdditionalDamageRageFormat"
 msgid "Rage Damage!"
-msgstr ""
+msgstr "격노 피해!"
 
 msgctxt "AdditionalDamageRageLine"
 msgid "{0} is raging and deals more damage on {1} (+{2})"
-msgstr ""
+msgstr "{0}은(는) 격노하며 {1}에게 더 많은 피해를 줍니다. (+{2})"
 
 msgctxt "AdditionalDamageBrutalCriticalFormat"
 msgid "Brutal Critical!"
-msgstr ""
+msgstr "잔인한 치명타!"
 
 msgctxt "AdditionalDamageBrutalCriticalLine"
 msgid "{0} inflict more damage with Brutal Critical on {1} (+{2})"
-msgstr ""
+msgstr "{0}은(는) 잔인한 치명타로 {1}에게 더 많은 피해를 줍니다. (+{2})"

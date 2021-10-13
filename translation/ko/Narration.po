@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-11 16:02+0000\n"
+"PO-Revision-Date: 2021-10-13 13:37+0000\n"
 "Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
@@ -4985,7 +4985,7 @@ msgstr "우리를 믿으세요."
 
 msgctxt "CaerLem_Darik218_Intimidate_Default"
 msgid "We could simply take it."
-msgstr "우리는 그걸 빼앗을 수도 있습니다."
+msgstr "그냥 빼앗을 수도 있습니다."
 
 msgctxt "CaerLem_Darik219_Deceiver_Default"
 msgid "We can pay for it."
@@ -6346,7 +6346,7 @@ msgstr "하지만요?"
 
 msgctxt "Council01_149_NPC_Carran"
 msgid "But you have the right to have friends."
-msgstr "하지만 여러분들에게는 친구를 사길 권리도 있지요."
+msgstr "하지만 여러분들에게는 친구를 사귈 권리도 있지요."
 
 msgctxt "Council01_150_NPC_Carran"
 msgid "So feel free to talk to whoever you like."
@@ -8351,7 +8351,7 @@ msgstr "왜냐하면 내가 알아냈기 때문이지."
 
 msgctxt "Merton_01_15_Any_Default"
 msgid "Figured out how?"
-msgstr "어떻게 알아낸거죠?"
+msgstr "어떻게 알아낸 거죠?"
 
 #, fuzzy
 msgctxt "Merton_01_16_Merton_NPC"
@@ -13022,15 +13022,15 @@ msgstr "돌아왔군요! 어땠어요?"
 
 msgctxt "Scavengers_Dialog_02_3_Starter_Default"
 msgid "Well… Captain Henrik is dead, I'm sorry."
-msgstr "음... 미안. 헨릭 대위가 죽었어."
+msgstr "음... 미안하지만 헨릭 대위가 죽었어요."
 
 msgctxt "Scavengers_Dialog_02_4_Quartermaster_NPC"
 msgid "Oh. Who's in charge, then?"
-msgstr ""
+msgstr "이런. 그럼 이제 누가 책임자죠?"
 
 msgctxt "Scavengers_Dialog_02_5_Starter_Default"
 msgid "You might have to wait before going to Caer Lem, I'm afraid."
-msgstr ""
+msgstr "미안하지만 케어 램에 가기 전에 좀 기다려야 할 것 같네요."
 
 msgctxt "Scavengers_Dialog_02_6_Quartermaster_NPC"
 msgid "I see."
@@ -13303,7 +13303,7 @@ msgstr "책임자까지는 아니지만, 걱정이 되는군요."
 msgctxt "ScavengersCoparann_4_Milan_NPC"
 msgid ""
 "We used to have adventurers raiding around here, but now there's just one."
-msgstr "예전에야 주변을 수색하는 모험가들이 있었지만, 지금은 단 한 명뿐이거든요."
+msgstr "예전에야 주변을 수색하는 모험가가 여럿 있었지만, 지금은 단 한 명뿐이거든요."
 
 msgctxt "ScavengersCoparann_5_Any_Default"
 msgid "One?"
@@ -14793,11 +14793,11 @@ msgstr ""
 
 msgctxt "Optional_Sellsword_Quest_Archivist_5_AlanMiller_NPC"
 msgid "Here you go! "
-msgstr ""
+msgstr "여기 있습니다! "
 
 msgctxt "Optional_Sellsword_Quest_Archivist_6_Sellsword_Normal"
 msgid "Thanks! Clear skies!"
-msgstr ""
+msgstr "감사합니다! 좋은 하루 보내시길!"
 
 msgctxt "Optional_Sellsword_Quest_House_1_Any_BUT_sellsword_Normal"
 msgid "Nice house!"
@@ -14805,7 +14805,7 @@ msgstr ""
 
 msgctxt "Optional_Sellsword_Quest_House_2_Sellsword_Normal"
 msgid "Strange. It feels familiar and unfamiliar at the same time."
-msgstr ""
+msgstr "이상한데. 친숙함과 위화감이 동시에 느껴지는 걸."
 
 msgctxt "Optional_Sellsword_Quest_House_3_Any_BUT_sellsword_Normal"
 msgid "Let's go inside!"
@@ -23999,7 +23999,7 @@ msgstr ""
 
 msgctxt "Banter_SwitchToCautious"
 msgid "We should be careful."
-msgstr ""
+msgstr "조심해야겠어."
 
 msgctxt "PriestOfArun1_Priest_NPC"
 msgid "Sun on your face, travelers!"
@@ -24689,11 +24689,11 @@ msgstr ""
 
 msgctxt "CaerLem_InTunnel4b_Cynicism_Default"
 msgid "Right out of a fairytale, as ugly as life."
-msgstr ""
+msgstr "진짜 거짓말처럼 추하게 생겼어."
 
 msgctxt "CaerLem_InTunnel4c_Cynicism_Default"
 msgid "And certainly not lizardfolk."
-msgstr ""
+msgstr "확실히 도마뱀족은 아닌 것 같아."
 
 msgctxt "CaerLem_Darik21b_Player"
 msgid "So - big, walking lizards with spikes all over their backs?"
@@ -25737,7 +25737,7 @@ msgstr "충실하게 수행중입니다!"
 
 msgctxt "NPC_Banter5_Guard_Mirabelle_Return"
 msgid "Welcome home, deputies!"
-msgstr "우리 마을에 오신 것을 환영합니다!"
+msgstr "마을에 오신 것을 환영합니다, 대리인 여러분!"
 
 msgctxt "NPC_Banter6_Guard_Mirabelle_Return"
 msgid "Good to see you, deputies!"
@@ -25761,7 +25761,7 @@ msgstr "충실하게 수행중입니다!"
 
 msgctxt "NPC_Banter5_Guard_AkilWingate_Return"
 msgid "Welcome home, deputies!"
-msgstr "우리 마을에 오신 것을 환영합니다!"
+msgstr "마을에 오신 것을 환영합니다, 대리인 여러분!"
 
 msgctxt "NPC_Banter6_Guard_AkilWingate_Return"
 msgid "Good to see you, deputies!"
@@ -25785,7 +25785,7 @@ msgstr "충실하게 수행중입니다!"
 
 msgctxt "NPC_Banter5_Guard_MarkJane_Return"
 msgid "Welcome home, deputies!"
-msgstr "우리 마을에 오신 것을 환영합니다!"
+msgstr "마을에 오신 것을 환영합니다, 대리인 여러분!"
 
 msgctxt "NPC_Banter6_Guard_MarkJane_Return"
 msgid "Good to see you, deputies!"

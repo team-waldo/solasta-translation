@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-11 16:02+0000\n"
+"PO-Revision-Date: 2021-10-13 13:37+0000\n"
 "Last-Translator: 존삼 <jsnuguri@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/modal/ko/>"
 "\n"
@@ -28,11 +28,11 @@ msgstr "캠페인"
 
 msgctxt "CampCaptionMultipleHoursFormat"
 msgid "The party is setting camp for {0} hours."
-msgstr ""
+msgstr "파티가 {0}시간 동안 캠핑합니다."
 
 msgctxt "CampCaptionSingleHourFormat"
 msgid "The party is setting camp for an hour."
-msgstr ""
+msgstr "파티가 1시간 동안 캠핑합니다."
 
 msgctxt "CancelButtonTitle"
 msgid "Cancel"
@@ -230,27 +230,27 @@ msgstr "파티가 {0}분 동안 대기 중입니다."
 
 msgctxt "RequiredRestsMultipleFormat"
 msgid "{0} long rests"
-msgstr ""
+msgstr "긴 휴식 {0}회"
 
 msgctxt "RequiredRestsNoneFormat"
 msgid "None"
-msgstr ""
+msgstr "필요없음"
 
 msgctxt "RequiredRestsSingleFormat"
 msgid "1 long rest"
-msgstr ""
+msgstr "긴 휴식 1회"
 
 msgctxt "RequiredRestsTitle"
 msgid "Required Rests"
-msgstr ""
+msgstr "필요 휴식"
 
 msgctxt "ResetDefaultsDescription"
 msgid "Click to reset travel settings to default value."
-msgstr ""
+msgstr "여행 설정을 기본값으로 설정하려면 클릭하십시오."
 
 msgctxt "ResetDefaultsTitle"
 msgid "Reset Defaults"
-msgstr ""
+msgstr "기본값 설정"
 
 msgctxt "SaveButtonTitle"
 msgid "Save"
@@ -262,7 +262,7 @@ msgstr "저장"
 
 msgctxt "SaveGamePlaceholder"
 msgid "Enter a filename or select a saved game."
-msgstr ""
+msgstr "파일 이름을 입력하거나 저장된 게임을 선택합니다."
 
 msgctxt "SelectCharacterMultipleTitle"
 msgid "Select one or more characters."
@@ -278,27 +278,27 @@ msgstr "선택"
 
 msgctxt "StartTravelDescription"
 msgid "Initiates the travel to the selected location."
-msgstr ""
+msgstr "선택한 목적지로 여행을 시작합니다."
 
 msgctxt "StartTravelTitle"
 msgid "Start Traveling"
-msgstr ""
+msgstr "여행 시작"
 
 msgctxt "TravelDurationLessThanADayFormat"
 msgid "Less than a day"
-msgstr ""
+msgstr "하루 미만"
 
 msgctxt "TravelDurationMultipleFormat"
 msgid "{0} days"
-msgstr ""
+msgstr "{0} 일"
 
 msgctxt "TravelDurationSingleFormat"
 msgid "1 day"
-msgstr ""
+msgstr "1 일"
 
 msgctxt "TravelDurationTitle"
 msgid "Duration"
-msgstr ""
+msgstr "소요시간"
 
 msgctxt "TravelFromTitle"
 msgid "From"
@@ -314,19 +314,19 @@ msgstr "여행 속도"
 
 msgctxt "TravelSettingsButtonDescriptionTitle"
 msgid "Click to change the settings of traveling and resting."
-msgstr ""
+msgstr "여행 및 휴식 설정을 변경하려면 클릭하십시오."
 
 msgctxt "TravelSettingsCustomTitle"
 msgid "Custom"
-msgstr ""
+msgstr "사용자 설정"
 
 msgctxt "TravelSettingsDefaultTitle"
 msgid "Default"
-msgstr ""
+msgstr "기본값"
 
 msgctxt "TravelSettingsTitle"
 msgid "Travel Settings"
-msgstr ""
+msgstr "여행 설정"
 
 msgctxt "TravelToTitle"
 msgid "To"
@@ -354,7 +354,7 @@ msgstr "긴 휴식이 시작되면 {0} 주문을 시전합니다."
 
 msgctxt "ScavengerMissionsModalTitle"
 msgid "Scavenger Expeditions"
-msgstr ""
+msgstr "스캐빈저 원정대"
 
 msgctxt "ScavengerMissionsModalDescription"
 msgid ""
@@ -592,31 +592,31 @@ msgstr "계속하기"
 
 msgctxt "ContinueDescription"
 msgid "Return to the main menu"
-msgstr ""
+msgstr "메인 메뉴로 돌아가기"
 
 msgctxt "CreateSpellSlotTitle"
 msgid "Spell Slot Creation"
-msgstr ""
+msgstr "주문 슬롯 생성"
 
 msgctxt "CreateSpellSlotDescription"
 msgid "Select a Spell Slot to create from sorcery points:"
-msgstr ""
+msgstr "소서리 포인트를 써서 생성할 주문 슬롯 선택:"
 
 msgctxt "CreateSpellSlotCostTitle"
 msgid "Sorcery Points Cost"
-msgstr ""
+msgstr "소서리 포인트 소모"
 
 msgctxt "CreateSorceryPointsTitle"
 msgid "Sorcery Points Creation"
-msgstr ""
+msgstr "소서리 포인트 생성"
 
 msgctxt "CreateSorceryPointsDescription"
 msgid "Select a Spell Slot to spend and convert to Sorcery Points:"
-msgstr ""
+msgstr "소서리 포인트로 전환할 주문 슬롯 선택:"
 
 msgctxt "CreateSorceryPointsGainTitle"
 msgid "Gained Sorcery Points"
-msgstr ""
+msgstr "획득한 소서리 포인트"
 
 msgctxt "SelectUserLocationTitle"
 msgid "Select a Location"

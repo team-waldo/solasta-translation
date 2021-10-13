@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-11 16:02+0000\n"
+"PO-Revision-Date: 2021-10-13 13:37+0000\n"
 "Last-Translator: 존삼 <jsnuguri@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/spell/ko/>"
 "\n"
@@ -452,7 +452,7 @@ msgstr "적 하나에게 광휘 공격을 하고 공격을 명중시키기 쉽�
 
 msgctxt "GuidingBoltTitle"
 msgid "Guiding Bolt"
-msgstr "인도하는 화살"
+msgstr "유도 화살"
 
 msgctxt "HasteDescription"
 msgid ""
@@ -1873,7 +1873,7 @@ msgstr "사안(구역질)"
 
 msgctxt "EyebiteSickenedDescription"
 msgid "The creature has disadvantage to attacks until a WIS save is succeeded"
-msgstr "생물은 WIS 내성 굴림이 성공할 때까지 공격에 불리점을 받습니다"
+msgstr "생물은 지혜 내성 굴림이 성공할 때까지 명중에 불리점을 받습니다"
 
 #, fuzzy
 msgctxt "GlobeOfInvulnerabilityTitle"
@@ -1964,7 +1964,7 @@ msgid ""
 "damage and disadvantage to attack rolls and ability checks. The damage and "
 "effects can be repeated every turn with a bonus action."
 msgstr ""
-"크리쳐가 착용한 금속제 갑옷을 붉게 빛날때까지 가열하여 화염 피해를 입히고 공격 굴림과 능력치 판정에 불이익을 줍니다. 피해와 불이익은 "
+"크리쳐가 착용한 금속제 갑옷을 붉게 빛날때까지 가열하여 화염 피해를 입히고 명중 굴림과 능력치 판정에 불이익을 줍니다. 피해와 불이익은 "
 "매 턴마다 보너스 행동으로 반복됩니다."
 
 msgctxt "MoonBeamTitle"

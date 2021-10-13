@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-11 16:02+0000\n"
+"PO-Revision-Date: 2021-10-13 13:37+0000\n"
 "Last-Translator: 존삼 <jsnuguri@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/screen/ko/>"
 "\n"
@@ -91,7 +91,7 @@ msgstr "공격"
 
 msgctxt "AttackToHitDescription"
 msgid "The bonus added to d20 attack rolls with this attack."
-msgstr "해당 공격으로 나온 d20 공격 굴림에 추가되는 보너스입니다."
+msgstr "해당 공격으로 나온 d20 명중 굴림에 추가되는 보너스입니다."
 
 msgctxt "AttackToHitTitle"
 msgid "to Hit"
@@ -1820,13 +1820,13 @@ msgctxt "ProficiencyWeaponCategoryDescription"
 msgid ""
 "You are proficient with this category of weapon, adding your proficiency "
 "bonus to attack rolls."
-msgstr "해당 범주의 무기에 숙련되었으며, 공격 굴림에 숙련도 보너스를 추가합니다."
+msgstr "해당 범주의 무기에 숙련되었으며, 명중 굴림에 숙련도 보너스를 추가합니다."
 
 msgctxt "ProficiencyWeaponTypeDescription"
 msgid ""
 "You are proficient with this specific type of weapon, adding your "
 "proficiency bonus to attack rolls."
-msgstr "이 특정 유형의 무기에 숙련되었으며, 공격 굴림에 숙련도 보너스를 추가합니다."
+msgstr "이 특정 유형의 무기에 숙련되었으며, 명중 굴림에 숙련도 보너스를 추가합니다."
 
 msgctxt "PurchaseClearAllDescription"
 msgid "Click to clear all purchased items."
@@ -2331,7 +2331,7 @@ msgstr "주문의 명중 굴림에 추가되는 보너스입니다."
 
 msgctxt "SpellAttackBonusTitle"
 msgid "Spell Attack Bonus"
-msgstr "주문 공격 굴림 보너스"
+msgstr "주문 명중 굴림 보너스"
 
 msgctxt "SpellAutoSelectButtonTitle"
 msgid "Auto Select"
@@ -2962,7 +2962,7 @@ msgstr "최대 캐릭터 레벨"
 
 msgctxt "EditorLocationEnvironmentTitle"
 msgid "Environment"
-msgstr ""
+msgstr "환경"
 
 msgctxt "EditorLocationSizeTitle"
 msgid "Size"
@@ -2982,7 +2982,7 @@ msgstr "대형"
 
 msgctxt "EditorLocationMusicTitle"
 msgid "Ambient Music"
-msgstr ""
+msgstr "배경 음악"
 
 msgctxt "EditorCaptionXTitle"
 msgid "X"
@@ -3090,7 +3090,7 @@ msgstr ""
 
 msgctxt "FeatureUnavailableTitle"
 msgid "Unavailable, coming soon"
-msgstr ""
+msgstr "이용 불가, 곧 출시"
 
 msgctxt "EditorSettingsTitle"
 msgid "Settings"
@@ -3102,11 +3102,11 @@ msgstr ""
 
 msgctxt "EditorSaveDescription"
 msgid "Save this user location to disk ({0})"
-msgstr ""
+msgstr "이 유저 제작 맵을 디스크에 저장 ({0})"
 
 msgctxt "EditorUndoDescription"
 msgid "Undo the last modification ({0})"
-msgstr ""
+msgstr "마지막 변경사항 실행 취소 ({0})"
 
 msgctxt "EditorPrevisTitle"
 msgid "Preview"
@@ -3118,19 +3118,19 @@ msgstr ""
 
 msgctxt "MoveShortcutFormat"
 msgid "Move ({0})"
-msgstr ""
+msgstr "이동 ({0})"
 
 msgctxt "RotateShortcutFormat"
 msgid "Rotate ({0})"
-msgstr ""
+msgstr "회전 ({0})"
 
 msgctxt "CopyShortcutFormat"
 msgid "Copy ({0})"
-msgstr ""
+msgstr "복사 ({0})"
 
 msgctxt "DeleteShortcutFormat"
 msgid "Delete ({0})"
-msgstr ""
+msgstr "삭제 ({0})"
 
 msgctxt "EditorLibraryTitle"
 msgid "Library"
@@ -3252,7 +3252,7 @@ msgstr "모두 접기"
 
 msgctxt "EditorFoldAllButtonDescription"
 msgid "Collapse all folders of this library"
-msgstr ""
+msgstr "이 라이브러리의 모든 폴더 접기"
 
 msgctxt "EditorUnfoldAllButtonTitle"
 msgid "Unfold All"
@@ -3260,7 +3260,7 @@ msgstr "모두 펼치기"
 
 msgctxt "EditorUnfoldAllButtonDescription"
 msgid "Open all folders of this library"
-msgstr ""
+msgstr "이 라이브러리의 모든 폴더 펼치기"
 
 msgctxt "EditorCustomDimensionsTitle"
 msgid "Custom Dimensions"
@@ -3281,19 +3281,19 @@ msgstr "높이"
 
 msgctxt "KnudgeNorthShortcutFormat"
 msgid "Nudge North ({0})"
-msgstr ""
+msgstr "북쪽으로 이동({0})"
 
 msgctxt "KnudgeEastShortcutFormat"
 msgid "Nudge East ({0})"
-msgstr ""
+msgstr "동쪽으로 이동({0})"
 
 msgctxt "KnudgeSouthShortcutFormat"
 msgid "Nudge South ({0})"
-msgstr ""
+msgstr "남쪽으로 이동({0})"
 
 msgctxt "KnudgeWestShortcutFormat"
 msgid "Nudge West ({0})"
-msgstr ""
+msgstr "서쪽으로 이동({0})"
 
 msgctxt "EditorCaptionPositionFormat"
 msgid "X: {0}, Y: {1}"
@@ -3301,7 +3301,7 @@ msgstr "X: {0}, Y: {1}"
 
 msgctxt "EditorPlacementInstructionDescription"
 msgid "This element can be placed on the following cell types: {0}"
-msgstr ""
+msgstr "이 요소는 다음 유형의 칸에 배치할 수 있습니다: {0}"
 
 msgctxt "EditorPlacementWallTitle"
 msgid "Wall"
@@ -3309,19 +3309,19 @@ msgstr "벽"
 
 msgctxt "EditorPlacementOpeningTitle"
 msgid "Opening"
-msgstr ""
+msgstr "출입구"
 
 msgctxt "EditorPlacementGroundLowTitle"
 msgid "GroundLow"
-msgstr ""
+msgstr "낮은 지대"
 
 msgctxt "EditorPlacementGroundHighTitle"
 msgid "GroundHigh"
-msgstr ""
+msgstr "높은 지대"
 
 msgctxt "EditorPlacementGroundTitle"
 msgid "Ground"
-msgstr ""
+msgstr "일반 지대"
 
 msgctxt "EditorGroundLowSuffix"
 msgid " (low)"
@@ -3448,21 +3448,21 @@ msgstr "메타매직 옵션을 무시하고 주문 시전을 진행합니다."
 
 msgctxt "ProficiencyToggleMetamagicTitle"
 msgid "Metamagic"
-msgstr ""
+msgstr "메타매직"
 
 msgctxt "ProficiencyMetamagicDescription"
 msgid "Metamagic allows you to twist the spells you cast"
-msgstr ""
+msgstr "메타매직을 사용하면 시전하는 주문을 변형할 수 있습니다"
 
 msgctxt "OathSpellTitle"
 msgid "Oath"
-msgstr ""
+msgstr "맹세"
 
 msgctxt "OathSpellDescription"
 msgid ""
 "This Oath spell is always considered prepared, and does not count towards "
 "your spell preparation limit."
-msgstr ""
+msgstr "이 맹세 주문은 항상 준비된 것으로 간주됩니다. 주문 준비 한도에 포함되지 않습니다."
 
 msgctxt "TraditionSpellTitle"
 msgid "Tradition"
@@ -3502,19 +3502,19 @@ msgstr "소서리 포인트를 사용하여 메타매직 옵션을 사용할 수
 
 msgctxt "ConvertTitle"
 msgid "Convert"
-msgstr ""
+msgstr "변환"
 
 msgctxt "ConvertCreateTitle"
 msgid "You create:"
-msgstr ""
+msgstr "생성:"
 
 msgctxt "ConvertSpendTitle"
 msgid "You spend:"
-msgstr ""
+msgstr "소모:"
 
 msgctxt "PowerRemainingSlotsDescription"
 msgid "Your remaining pool of spell slots"
-msgstr ""
+msgstr "남은 주문 슬롯"
 
 msgctxt "NewContendersTitle"
 msgid "New Contenders"

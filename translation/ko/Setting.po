@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-10 13:50+0000\n"
+"PO-Revision-Date: 2021-10-13 13:37+0000\n"
 "Last-Translator: 존삼 <jsnuguri@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/setting/ko/"
 ">\n"
@@ -451,7 +451,7 @@ msgstr "능력치 판정 주사위 표시"
 
 msgctxt "RollAttackDieDescription"
 msgid "Show/hide die when the game rolls for an attack."
-msgstr "공격 굴림 주사위를 표시하거나 숨깁니다."
+msgstr "명중 굴림 주사위를 표시하거나 숨깁니다."
 
 msgctxt "RollAttackDieTitle"
 msgid "Show Attack Die"
@@ -1280,22 +1280,21 @@ msgctxt "SpellComponentsHeaderTitle"
 msgid "Spell Components"
 msgstr "주문 구성 요소"
 
-#, fuzzy
 msgctxt "VerbalComponentDescription"
 msgid ""
 "Determines how you simulate the requirements for spells with a verbal "
 "component."
-msgstr "언어 구성 요소가 있는 주문의 요구조건을 수행하는 방법을 결정합니다."
+msgstr "음성 구성 요소가 있는 주문의 요구조건을 수행하는 방법을 결정합니다."
 
 msgctxt "VerbalComponentTitle"
 msgid "Verbal Components"
-msgstr "언어 구성 요소"
+msgstr "음성 구성 요소"
 
 msgctxt "VerbalComponentDisabledDescription"
 msgid ""
 "Heroes do not require the ability to speak to cast spells with a verbal "
 "component."
-msgstr "말 할 수 없어도 언어 구성 요소가 필요한 주문을 시전할 수 있습니다."
+msgstr "말 할 수 없어도 음성 구성 요소가 필요한 주문을 시전할 수 있습니다."
 
 msgctxt "VerbalComponentDisabledTitle"
 msgid "Disabled"
@@ -1303,7 +1302,7 @@ msgstr "해제"
 
 msgctxt "VerbalComponentFullDescription"
 msgid "Heroes must be able to speak to cast spells with a verbal component."
-msgstr "언어 구성 요소가 필요한 주문을 시전하기 위해서는 말 할 수 있어야 합니다."
+msgstr "음성 구성 요소가 필요한 주문을 시전하기 위해서는 말 할 수 있어야 합니다."
 
 msgctxt "VerbalComponentFullTitle"
 msgid "Full"
@@ -1313,17 +1312,16 @@ msgctxt "SomaticComponentDescription"
 msgid ""
 "Determines how you simulate the requirements for spells with a somatic "
 "component."
-msgstr "신체 구성 요소가 있는 주문의 요구조건을 수행하는 방법을 결정합니다."
+msgstr "동작 구성 요소가 있는 주문의 요구조건을 수행하는 방법을 결정합니다."
 
-#, fuzzy
 msgctxt "SomaticComponentTitle"
 msgid "Somatic Components"
-msgstr "신체 구성 요소"
+msgstr "동작 구성 요소"
 
 msgctxt "SomaticComponentDisabledDescription"
 msgid ""
 "Heroes do not require a free hand to cast spells with a somatic component."
-msgstr "비어 있는 손이 없어도 신체 구성 요소가 있는 주문을 시전할 수 있습니다."
+msgstr "비어 있는 손이 없어도 동작 구성 요소가 있는 주문을 시전할 수 있습니다."
 
 msgctxt "SomaticComponentDisabledTitle"
 msgid "Disabled"
@@ -1338,38 +1336,36 @@ msgctxt "MaterialComponentDescription"
 msgid ""
 "Determines how you simulate the requirements for spells with a material "
 "component."
-msgstr "재료 구성 요소가 있는 주문의 요구조건을 수행하는 방법을 결정합니다."
+msgstr "물질 구성 요소가 있는 주문의 요구조건을 수행하는 방법을 결정합니다."
 
 msgctxt "MaterialComponentTitle"
 msgid "Material Components"
-msgstr "재료 구성 요소"
+msgstr "물질 구성 요소"
 
 msgctxt "MaterialComponentDisabledDescription"
 msgid "No material components are required."
-msgstr "재료 구성 요소가 필요하지 않습니다."
+msgstr "물질 구성 요소가 필요하지 않습니다."
 
 msgctxt "MaterialComponentDisabledTitle"
 msgid "Disabled"
 msgstr "해제"
 
-#, fuzzy
 msgctxt "MaterialComponentBasicDescription"
 msgid ""
 "Spells with a material component require a spell focus or component pouch."
-msgstr "(원문이 이상함-Full과의 차별점 확인 필요) 재료 구성 요소가 있는 주문들은 주문 매개체나 구성 요소 주머니가 필요합니다."
+msgstr "(원문이 이상함-Full과의 차별점 확인 필요) 물질 구성 요소가 있는 주문들은 주문 매개체나 구성 요소 주머니가 필요합니다."
 
 #, fuzzy
 msgctxt "MaterialComponentBasicTitle"
 msgid "Basic"
 msgstr "최소"
 
-#, fuzzy
 msgctxt "MaterialComponentFullDescription"
 msgid ""
 "Spells with a mundane material component require a spell focus or component "
 "pouch. Spells with a specific component require it."
 msgstr ""
-"(원문이 이상함-basic과의 차별점 확인 필요) 평범한 재료 구성 요소가 있는 주문들은 주문 매개체나 구성 요소 주머니가 필요합니다. "
+"(원문이 이상함-basic과의 차별점 확인 필요) 평범한 물질 구성 요소가 있는 주문들은 주문 매개체나 구성 요소 주머니가 필요합니다. "
 "특정 구성 요소가 있는 주문에는 필요합니다."
 
 msgctxt "MaterialComponentFullTitle"
@@ -1510,20 +1506,20 @@ msgstr "모든 적 캐릭터들의 내성 굴림에 이 값을 보정치로 적�
 
 msgctxt "AttackRollAllyModifierTitle"
 msgid "Ally Attack Roll"
-msgstr "아군 공격 굴림"
+msgstr "아군 명중 굴림"
 
 msgctxt "AttackRollAllyModifierDescription"
 msgid ""
 "All attack rolls made by friendly characters will receive this modifier."
-msgstr "모든 아군 캐릭터들의 공격 굴림에 이 값을 보정치로 적용합니다."
+msgstr "모든 아군 캐릭터들의 명중 굴림에 이 값을 보정치로 적용합니다."
 
 msgctxt "AttackRollEnemyModifierTitle"
 msgid "Enemy Attack Roll"
-msgstr "적 공격 굴림"
+msgstr "적 명중 굴림"
 
 msgctxt "AttackRollEnemyModifierDescription"
 msgid "All attack rolls made by enemy characters will receive this modifier."
-msgstr "모든 적 캐릭터들의 공격 굴림에 이 값을 보정치로 적용합니다."
+msgstr "모든 적 캐릭터들의 명중 굴림에 이 값을 보정치로 적용합니다."
 
 msgctxt "AbilityCheckAllyModifierTitle"
 msgid "Ally Ability Check"
@@ -1777,7 +1773,7 @@ msgstr "캐릭터는 도구 없이 궤짝이나 문을 만들고 잠금을 해�
 
 msgctxt "SomaticComponentFullDescription"
 msgid "Characters must have a free hand."
-msgstr "손이 자유로워야 신체 구성 요소가 있는 주문을 시전할 수 있습니다."
+msgstr "손이 자유로워야 동작 구성 요소가 있는 주문을 시전할 수 있습니다."
 
 msgctxt "QualityHeaderTitle"
 msgid "Quality"

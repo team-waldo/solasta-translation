@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-11 16:02+0000\n"
-"Last-Translator: 존삼 <jsnuguri@naver.com>\n"
+"PO-Revision-Date: 2021-10-13 13:37+0000\n"
+"Last-Translator: Dong Hyeok Kim <hyug87@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/rules/ko/>"
 "\n"
 "Language: ko\n"
@@ -28,11 +28,11 @@ msgstr "{0} d20{1} vs DC {2}"
 
 msgctxt "AbilityScoreBonusFormat"
 msgid "+ Ability Bonus"
-msgstr "+ 능력치 보너스"
+msgstr "+ 능력 수정치"
 
 msgctxt "ActivationTypeActionTitle"
 msgid "Action"
-msgstr "주 행동"
+msgstr "행동"
 
 msgctxt "ActivationTypeBonusActionTitle"
 msgid "Bonus act."
@@ -40,19 +40,19 @@ msgstr "추가 행동"
 
 msgctxt "ActivationTypeHours1Title"
 msgid "1 hour"
-msgstr "1 시간"
+msgstr "1시간"
 
 msgctxt "ActivationTypeHours24Title"
 msgid "24 hours"
-msgstr "24 시간"
+msgstr "24시간"
 
 msgctxt "ActivationTypeMinute10Title"
 msgid "10 minutes"
-msgstr "10 분"
+msgstr "10분"
 
 msgctxt "ActivationTypeMinute1Title"
 msgid "1 minute"
-msgstr "1 분"
+msgstr "1분"
 
 msgctxt "ActivationTypeNoCostTitle"
 msgid "Free act."
@@ -76,7 +76,7 @@ msgstr "반응 행동"
 
 msgctxt "ActivationTypeRestDescription"
 msgid "This power can be activated during a rest"
-msgstr "이 힘은 휴식 중에 활성화될 수 있습니다."
+msgstr "이 능력은 휴식 중에 활성화될 수 있습니다"
 
 msgctxt "ActivationTypeRestTitle"
 msgid "Rest"
@@ -102,7 +102,7 @@ msgstr "불 끔(소화)"
 
 msgctxt "AlterationFormExtinguishLightFormat"
 msgid "Puts out lights"
-msgstr "빛 끔(소등)"
+msgstr "불 끔(소등)"
 
 msgctxt "AlterationFormRemoveDarknessFormat"
 msgid "Removes Darkness"
@@ -142,11 +142,11 @@ msgstr "산성화"
 
 msgctxt "ConditionAidedDescription"
 msgid "Hit points (maximum/current) increased by 5 + advancement."
-msgstr "HP(현재/최대치 모두)가 5 + 향상분만큼 증가합니다."
+msgstr "체력(현재/최대치 모두)가 5 + 향상분만큼 증가합니다."
 
 msgctxt "ConditionAidedTitle"
 msgid "Aided"
-msgstr "지원받음"
+msgstr "지원 받음"
 
 msgctxt "ConditionAntitoxin"
 msgid "Advantage on Constitution saving throws against poison."
@@ -158,7 +158,7 @@ msgstr "깨어날 때까지 행동 불가"
 
 msgctxt "ConditionAsleepTitle"
 msgid "Asleep"
-msgstr "잠든"
+msgstr "잠"
 
 msgctxt "ConditionAuraOfCourageDescription"
 msgid "Immunity from being frightened."
@@ -180,7 +180,7 @@ msgctxt "ConditionBackFromTheDead1Description"
 msgid ""
 "-1 penalty on attack rolls, saving throws and ability checks. Complete a "
 "long rest to reduce the penalty."
-msgstr "명중 굴림, 내성 굴림, 능력 판정에 -1 페널티. 페널티를 낮추기 위해서 긴 휴식을 취하십시오."
+msgstr "명중 굴림, 내성 굴림, 능력 판정에 -1 페널티. 페널티를 낮추기 위해서는 긴 휴식을 취하십시오."
 
 msgctxt "ConditionBackFromTheDead2Description"
 msgid ""
@@ -208,17 +208,18 @@ msgctxt "ConditionBanedDescription"
 msgid "-1d4 to attacks, -1d4 to saving throws."
 msgstr "명중 굴림에 -1d4, 내성 굴림에 -1d4."
 
+#, fuzzy
 msgctxt "ConditionBanedTitle"
 msgid "Banestruck"
 msgstr "해악"
 
 msgctxt "ConditionBarkskinDescription"
 msgid "The creature's Armor Class becomes at least 16."
-msgstr "이 크리쳐의 갑옷 등급은 최소 16입니다."
+msgstr "이 크리쳐의 방어도는 최소 16이 됩니다."
 
 msgctxt "ConditionBarkskinTitle"
 msgid "Barkskin"
-msgstr "나무 껍질 피부"
+msgstr "나무껍질 피부"
 
 msgctxt "ConditionBeaconOfHopeDescription"
 msgid ""
@@ -236,7 +237,7 @@ msgstr "건강 내성 굴림에 이점을 받습니다."
 
 msgctxt "ConditionBlessedDescription"
 msgid "+1d4 to attacks, +1d4 to saving throws."
-msgstr "명중 굴림에 +1d4, 내성 굴림에 +1d4"
+msgstr "명중 굴림에 +1d4, 내성 굴림에 +1d4."
 
 msgctxt "ConditionBlessedTitle"
 msgid "Blessed"
@@ -250,7 +251,7 @@ msgctxt "ConditionBlindedDescription"
 msgid ""
 "Cannot see anything; disadvantage on attacks; attacks against the creature "
 "have advantage."
-msgstr "아무것도 볼 수 없습니다. 명중 굴림에 불리점을 받고, 실명된 크리쳐를 공격하면 이점을 받습니다."
+msgstr "아무것도 볼 수 없습니다; 명중 굴림에 불리점을 받습니다; 이 크리쳐를 상대로 하는 공격은 이점을 받습니다."
 
 msgctxt "ConditionBlindedTitle"
 msgid "Blinded"
@@ -278,12 +279,13 @@ msgstr "힘 내성 굴림에 이점을 받습니다."
 
 msgctxt "ConditionCatsGraceDescription"
 msgid "Advantage on Dexterity saving throws and reduced falling damage."
-msgstr "민첩 내성 굴림에 이점을 받고 낙하 피해가 감소됩니다."
+msgstr "민첩 내성 굴림에 이점을 받고 추락 피해가 감소됩니다."
 
 msgctxt "ConditionCharmedByHypnoticPatternDescription"
 msgid "Incapacitated and speed is 0, until wounded or awoken."
 msgstr "무력화되고 이동할 수 없습니다. 피해를 입거나 깨어날 때까지 지속됩니다."
 
+#, fuzzy
 msgctxt "ConditionCharmedByHypnoticPatternTitle"
 msgid "Charmed by Hypnosis"
 msgstr "최면"
@@ -299,7 +301,7 @@ msgstr "매혹"
 msgctxt "ConditionChilledDescription"
 msgid ""
 "Cannot gain hit points. If undead, disadvantage on attacking the caster."
-msgstr "HP를 얻을 수 없습니다. 언데드인 경우, 시전자에 대한 명중 굴림에 불리점을 받습니다."
+msgstr "체력을 얻을 수 없습니다. 언데드인 경우, 시전자에 대한 명중 굴림에 불리점을 받습니다."
 
 msgctxt "ConditionChilledTitle"
 msgid "Chilled"
@@ -319,7 +321,7 @@ msgstr "행동하려면 지혜 내성 굴림을 해야합니다."
 
 msgctxt "ConditionCursedActionTitle"
 msgid "Cursed (Action)"
-msgstr "저주 (행동)"
+msgstr "저주(행동)"
 
 msgctxt "ConditionCursedAttackRollDescription"
 msgid "Disadvantage to attack roll against caster."
@@ -327,7 +329,7 @@ msgstr "시전자에 대한 명중 굴림에 불리점을 받습니다."
 
 msgctxt "ConditionCursedAttackRollTitle"
 msgid "Cursed (Attack Roll)"
-msgstr "저주 (명중 굴림)"
+msgstr "저주(명중 굴림)"
 
 msgctxt "ConditionCursedCharismaDescription"
 msgid "Disadvantage on CHA saving throws and ability checks."
@@ -335,7 +337,7 @@ msgstr "매력 내성 굴림 및 능력치 판정에 불리점을 받습니다."
 
 msgctxt "ConditionCursedCharismaTitle"
 msgid "Cursed (Charisma)"
-msgstr "저주 (매력)"
+msgstr "저주(매력)"
 
 msgctxt "ConditionCursedConstitutionDescription"
 msgid "Disadvantage on CON saving throws and ability checks."
@@ -343,7 +345,7 @@ msgstr "건강 내성 굴림 및 능력치 판정에 불리점을 받습니다."
 
 msgctxt "ConditionCursedConstitutionTitle"
 msgid "Cursed (Constitution)"
-msgstr "저주 (건강)"
+msgstr "저주(건강)"
 
 msgctxt "ConditionCursedDamageDescription"
 msgid ""
@@ -353,7 +355,7 @@ msgstr "목표에 대한 시전자의 공격과 주문이 1d8 추가 사령 피�
 
 msgctxt "ConditionCursedDamageTitle"
 msgid "Cursed (Damage)"
-msgstr "저주 (피해)"
+msgstr "저주(피해)"
 
 msgctxt "ConditionCursedDexterityDescription"
 msgid "Disadvantage on DEX saving throws and ability checks."
@@ -361,7 +363,7 @@ msgstr "민첩 내성 굴림 및 능력치 판정에 불리점을 받습니다."
 
 msgctxt "ConditionCursedDexterityTitle"
 msgid "Cursed (Dexterity)"
-msgstr "저주 (민첩)"
+msgstr "저주(민첩)"
 
 msgctxt "ConditionCursedIntelligenceDescription"
 msgid "Disadvantage on INT saving throws and ability checks."
@@ -369,7 +371,7 @@ msgstr "지능 내성 굴림 및 능력치 판정에 불리점을 받습니다."
 
 msgctxt "ConditionCursedIntelligenceTitle"
 msgid "Cursed (Intelligence)"
-msgstr "저주 (지능)"
+msgstr "저주(지능)"
 
 msgctxt "ConditionCursedStrengthDescription"
 msgid "Disadvantage on STR saving throws and ability checks."
@@ -377,7 +379,7 @@ msgstr "힘 내성 굴림 및 능력치 판정에 불리점을 받습니다."
 
 msgctxt "ConditionCursedStrengthTitle"
 msgid "Cursed (Strength)"
-msgstr "저주 (힘)"
+msgstr "저주(힘)"
 
 msgctxt "ConditionCursedTitle"
 msgid "Cursed"
@@ -389,7 +391,7 @@ msgstr "지혜 내성 굴림 및 능력치 판정에 불리점을 받습니다."
 
 msgctxt "ConditionCursedWisdomTitle"
 msgid "Cursed (Wisdom)"
-msgstr "저주 (지혜)"
+msgstr "저주(지혜)"
 
 msgctxt "ConditionDarkvisionDescription"
 msgid "See normally in dim light, and in natural darkness as if in dim light."
@@ -441,23 +443,25 @@ msgstr "마법 감지"
 
 msgctxt "ConditionDiscipleImmuneColdDescription"
 msgid "Immune to cold damage and regain HP from cold."
-msgstr "냉기 피해에 면역이면서 해당 피해로 HP를 회복합니다."
+msgstr "냉기 피해에 면역을 얻고 해당 피해로 체력을 회복합니다."
 
 msgctxt "ConditionDiscipleImmuneColdTitle"
 msgid "Scholar of the Elements (Cold)"
 msgstr "원소 학자(냉기)"
 
+#, fuzzy
 msgctxt "ConditionDiscipleImmuneFireDescription"
 msgid "Immune to lightning damage and regain HP from lightning."
-msgstr "번개 피해에 면역이면서 해당 피해로 HP를 회복합니다. (원문 잘못됨)"
+msgstr "번개 피해에 면역을 얻고 해당 피해로 체력을 회복합니다. (원문 잘못됨)"
 
 msgctxt "ConditionDiscipleImmuneFireTitle"
 msgid "Scholar of the Elements (Fire)"
 msgstr "원소 학자(화염)"
 
+#, fuzzy
 msgctxt "ConditionDiscipleImmuneLightningDescription"
 msgid "Immune to fire damage and regain HP from fire."
-msgstr "화염 피해에 면역이면서 해당 피해로 HP를 회복합니다. (원문 잘못됨)"
+msgstr "화염 피해에 면역을 얻고 해당 피해로 체력을 회복합니다. (원문 잘못됨)"
 
 msgctxt "ConditionDiscipleImmuneLightningTitle"
 msgid "Scholar of the Elements (Lightning)"
@@ -481,7 +485,7 @@ msgstr "이탈"
 
 msgctxt "ConditionDivineFavorDescription"
 msgid "Deals 1d4 additional radiant damage."
-msgstr "1d4 추가 광휘 피해를 줍니다."
+msgstr "1d4의 추가 광휘 피해를 입힙니다."
 
 msgctxt "ConditionDivineFavorTitle"
 msgid "Divine Favor"
@@ -490,7 +494,7 @@ msgstr "신의 은총"
 msgctxt "ConditionDivinelyRevealedDescription"
 msgid ""
 "The creature's type and position are known to the caster of this effect."
-msgstr "이 효과를 시전한 사람은 크리쳐의 유형과 위치를 알아냈습니다."
+msgstr "이 효과의 시전자는 크리쳐의 유형과 위치를 알 수 있습니다."
 
 msgctxt "ConditionDivinelyRevealedTitle"
 msgid "Divinely Revealed"
@@ -530,11 +534,11 @@ msgstr "약화"
 
 msgctxt "ConditionEntangledTitle"
 msgid "Entangled"
-msgstr "옭아매임"
+msgstr "얽힘"
 
 msgctxt "ConditionExhaustedDescription"
 msgid "Weakened by exhaustion."
-msgstr "탈진으로 약화 됨."
+msgstr "탈진으로 인해 약화됩니다."
 
 msgctxt "ConditionExhaustedTitle"
 msgid "Exhausted"
@@ -550,7 +554,7 @@ msgstr "긴급 후퇴"
 
 msgctxt "ConditionFalseLifeDescription"
 msgid "Additional temporary hit points."
-msgstr "추가로 임시 HP를 얻습니다."
+msgstr "추가로 임시 체력을 얻습니다."
 
 msgctxt "ConditionFalseLifeTitle"
 msgid "False Life"
@@ -608,7 +612,7 @@ msgctxt "ConditionFrightenedDescription"
 msgid ""
 "Unable to approach the source of fear, disadvantage on attack rolls and "
 "ability checks."
-msgstr "공포의 근원에 접근할 수 없고, 공격 굴림과 능력치 판정에 불리점을 받습니다."
+msgstr "공포의 근원에 접근할 수 없고, 명중 굴림과 능력치 판정에 불리점을 받습니다."
 
 msgctxt "ConditionFrightenedFearDescription"
 msgid "Must run away from the source of fear."
@@ -668,7 +672,7 @@ msgstr "이동할 수 없습니다."
 
 msgctxt "ConditionGrappledTitle"
 msgid "Grappled"
-msgstr "올가미 걸림"
+msgstr "결박"
 
 msgctxt "ConditionGuidedDescription"
 msgid "Add 1d4 to one ability check."
@@ -684,8 +688,8 @@ msgid ""
 "take one more action per turn (Attack, Dash, Dodge, Disengage, Hide, Use "
 "Item)."
 msgstr ""
-"이동 속도가 2배가 되고 AC +2를 얻습니다. 민첩 내성 굴림에 이점을 받습니다. 한 턴에 한 번 더 행동할 수 있습니다. (공격, "
-"질주, 회피, 이탈, 숨기, 아이템 사용)"
+"이동 속도가 2배가 되고 AC +2를 얻습니다. 민첩 내성 굴림에 이점을 받습니다. 한 턴에 한 번 더 행동할 수 있습니다(공격, 질주, "
+"회피, 이탈, 숨기, 아이템 사용)."
 
 msgctxt "ConditionHastedTitle"
 msgid "Hasted"
@@ -713,7 +717,7 @@ msgstr "짐이 심하게 무거움"
 
 msgctxt "ConditionHeavilyObscuredTitle"
 msgid "Heavily Obscured"
-msgstr "뿌옇게 흐려짐"
+msgstr "시야가 매우 흐림"
 
 msgctxt "ConditionHeraldOfBattleDescription"
 msgid "+1 to AC; +1 to attack and damage; +1 to all saving throws."
@@ -721,7 +725,7 @@ msgstr "AC, 명중 굴림, 피해량, 내성 굴림에 +1을 얻습니다."
 
 msgctxt "ConditionHeraldOfBattleTitle"
 msgid "Blessed by Herald of Battle"
-msgstr "전투의 전령으로 축복받음"
+msgstr "전투 전령의 축복"
 
 msgctxt "ConditionHeroismTitle"
 msgid "Heroism"
@@ -731,17 +735,18 @@ msgctxt "ConditionHighlightedDescription"
 msgid "Creature cannot benefit from invisibility, attackers have advantage."
 msgstr "투명화될 수 없으며, 이 크리쳐를 공격하면 이점을 받습니다."
 
+#, fuzzy
 msgctxt "ConditionHighlightedTitle"
 msgid "Highlighted"
 msgstr "하이라이트"
 
 msgctxt "ConditionHinderedDescription"
 msgid "Move speed -2."
-msgstr "이동 속도 -2"
+msgstr "이동 속도 -2."
 
 msgctxt "ConditionHinderedTitle"
 msgid "Hindered"
-msgstr "방해"
+msgstr "방해받음"
 
 msgctxt "ConditionIncapacitatedDescription"
 msgid "Unable to take actions or reactions."
@@ -761,7 +766,7 @@ msgstr ""
 
 msgctxt "ConditionInStinkingCloudTitle"
 msgid "In Stinking Cloud"
-msgstr "악취 구름"
+msgstr "악취 구름 내부"
 
 msgctxt "ConditionInvisibleDescription"
 msgid ""
@@ -777,6 +782,7 @@ msgctxt "ConditionJumpDescription"
 msgid "Jump distance increased."
 msgstr "점프 거리가 증가했습니다."
 
+#, fuzzy
 msgctxt "ConditionJumpTitle"
 msgid "Jump"
 msgstr "점프"
@@ -803,7 +809,7 @@ msgstr "긴 휴식을 취하기 전까지 최대 체력이 감소합니다."
 
 msgctxt "ConditionLifeDrainedTitle"
 msgid "Drained"
-msgstr "흡수"
+msgstr "체력흡수됨"
 
 msgctxt "ConditionLightHypersensitiveDescription"
 msgid "Wounded by light."
@@ -831,7 +837,7 @@ msgstr "활보"
 
 msgctxt "ConditionMagicallyArmoredDescription"
 msgid "Base Armor Class is set to 13."
-msgstr "기본 방어구 등급을 13으로 설정합니다."
+msgstr "기본 방어도를 13으로 설정합니다."
 
 msgctxt "ConditionMagicallyArmoredTitle"
 msgid "Mage Armored"
@@ -922,11 +928,11 @@ msgstr "기어서만 움직일 수 있습니다. 근접 공격에 취약합니�
 
 msgctxt "ConditionProneTitle"
 msgid "Prone"
-msgstr "쓰러짐"
+msgstr "넘어짐"
 
 msgctxt "ConditionProtectedFromEvilTitle"
 msgid "Protected from Evil and Good"
-msgstr "악과 선으로부터 보호"
+msgstr "선과 악으로부터 보호"
 
 msgctxt "ConditionResistingDescription"
 msgid "Add +1d4 to one saving throw."
@@ -960,11 +966,11 @@ msgstr "곧 죽을 것입니다."
 
 msgctxt "ConditionSeverelyWoundedTitle"
 msgid "Severely Wounded"
-msgstr "치명상 입음"
+msgstr "치명상"
 
 msgctxt "ConditionShieldedByFaithDescription"
 msgid "Armor Class +2."
-msgstr "갑옷 등급 +2"
+msgstr "방어도 +2."
 
 msgctxt "ConditionShieldedByFaithTitle"
 msgid "Shielded by Faith"
@@ -972,16 +978,17 @@ msgstr "신앙의 방패"
 
 msgctxt "ConditionShieldedDescription"
 msgid "Armor Class increases by +5 and immunity to magic missile."
-msgstr "갑옷 등급이 5 증가하고 마법 유도탄에 면역이 됩니다."
+msgstr "방어도가 5 증가하고 마법 화살에 면역이 됩니다."
 
 msgctxt "ConditionShieldedTitle"
 msgid "Shielded"
-msgstr "보호막"
+msgstr "방패"
 
 msgctxt "ConditionShockedDescription"
 msgid "Cannot use reactions."
 msgstr "반응 행동을 사용할 수 없습니다."
 
+#, fuzzy
 msgctxt "ConditionShockedTitle"
 msgid "Shocked"
 msgstr "충격"
@@ -990,7 +997,7 @@ msgctxt "ConditionSleetStormDescription"
 msgid ""
 "Difficult terrain; can fall prone; heavily obscured; must roll concentration "
 "check."
-msgstr "어려운 지형, 넘어지기 쉽습니다. 시야가 심하게 가려집니다. 집중 판정을 해야 합니다."
+msgstr "어려운 지형. 넘어지기 쉽습니다. 시야가 심하게 흐려집니다. 집중 판정을 해야 합니다."
 
 msgctxt "ConditionSleetStormTitle"
 msgid "In Sleet Storm"
@@ -1006,7 +1013,7 @@ msgstr ""
 
 msgctxt "ConditionSlowedTitle"
 msgid "Slowed"
-msgstr "감속"
+msgstr "둔화"
 
 msgctxt "ConditionSpiderClimbDescription"
 msgid "Able to climb like a spider."
@@ -1024,9 +1031,10 @@ msgctxt "ConditionSpiritGuardiansSelfDescription"
 msgid "The character is currently protected by Spirit Guardians."
 msgstr "현재 영혼 수호자의 보호를 받고 있습니다."
 
+#, fuzzy
 msgctxt "ConditionSpiritGuardiansSelfTitle"
 msgid "Protected by Spirits."
-msgstr "영혼 수호자"
+msgstr "영혼 수호자의 보호."
 
 msgctxt "ConditionSpiritGuardiansTitle"
 msgid "Targeted by Spirits"
@@ -1038,7 +1046,7 @@ msgstr "최대한 몸을 숨깁니다."
 
 msgctxt "ConditionStealthyTitle"
 msgid "Stealthy"
-msgstr "잠행"
+msgstr "은신"
 
 msgctxt "ConditionStunnedDescription"
 msgid ""
@@ -1056,7 +1064,7 @@ msgstr "한 라운드 동안 행동할 수 없습니다."
 
 msgctxt "ConditionSurprisedTitle"
 msgid "Surprised"
-msgstr "기습당함"
+msgstr "기습 당함"
 
 msgctxt "ConditionTargetedByGuidingBoltDescription"
 msgid "First attack against this creature has advantage."
@@ -1064,11 +1072,11 @@ msgstr "이 크리쳐에 대한 첫 번째 공격은 이점을 받습니다."
 
 msgctxt "ConditionTargetedByGuidingBoltTitle"
 msgid "Targeted by Guiding Bolt"
-msgstr "인도하는 화살의 표적"
+msgstr "유도 화살의 표적"
 
 msgctxt "ConditionTemporaryHitPointsDescription"
 msgid "The creature gains temporary hit points."
-msgstr "크리쳐가 임시 체력을 얻었습니다."
+msgstr "크리쳐가 임시 체력을 얻습니다."
 
 msgctxt "ConditionTemporaryHitPointsTitle"
 msgid "Temporary HP"
@@ -1145,7 +1153,7 @@ msgstr "집중 판정을 유발합니다."
 
 msgctxt "CounterFormDisperseCloudFormat"
 msgid "Disperses clouds in the area."
-msgstr ""
+msgstr "해당 지역에 구름을 퍼뜨립니다."
 
 msgctxt "CounterFormDissipateSpellsFormat"
 msgid ""
@@ -1154,7 +1162,7 @@ msgstr "{0}레벨 주문까지 무조건 무효화되고, 그보다 높으면 DC
 
 msgctxt "CounterFormExtinguishLightFormat"
 msgid "Extinguishes light sources in the area."
-msgstr ""
+msgstr "해당 지역의 광원을 소멸시킵니다."
 
 msgctxt "CounterFormInterruptSpellcastingFormat"
 msgid ""
@@ -1179,7 +1187,7 @@ msgctxt "DamageBludgeoningDescription"
 msgid ""
 "Blunt force attacks - hammers, falling, constriction, and the like - deal "
 "bludgeoning damage."
-msgstr "망치 타격, 낙하, 압축 등, 타격 피해를 가하는 둔중한 물리 공격."
+msgstr "망치 타격, 추락, 압축 등, 타격 피해를 가하는 둔중한 물리 공격."
 
 msgctxt "DamageBludgeoningTitle"
 msgid "Bludgeoning"
@@ -1347,41 +1355,39 @@ msgstr "아이템의 모든 속성을 표시합니다."
 
 msgctxt "DivinationFormFormatListCreatureFamilyInLocation"
 msgid "Senses the presence of creature types: {0}."
-msgstr "다음 크리쳐 유형의 존재를 감지: {0}"
+msgstr "다음 크리쳐 유형의 존재를 감지: {0}."
 
 msgctxt "DivinationFormFormatRevealEntitiesBearingTags"
 msgid "Reveals creatures or objects which are {0}."
 msgstr "{0}인 크리쳐 또는 개체를 알아차립니다."
 
-#, fuzzy
 msgctxt "DurationAnyRestFormat"
 msgid "Until any rest"
 msgstr "다음 휴식까지"
 
 msgctxt "DurationDayPluralFormat"
 msgid "{0} days"
-msgstr "{0} 일"
+msgstr "{0}일"
 
 msgctxt "DurationDaySingleFormat"
 msgid "{0} day"
-msgstr "{0} 일"
+msgstr "{0}일"
 
 msgctxt "DurationHourPluralFormat"
 msgid "{0} hours "
-msgstr "{0} 시간 "
+msgstr "{0}시간 "
 
 msgctxt "DurationHourSingleFormat"
 msgid "{0} hour "
-msgstr "{0} 시간 "
+msgstr "{0}시간 "
 
 msgctxt "DurationInstantaneousFormat"
 msgid "Instant"
 msgstr "즉시 효과"
 
-#, fuzzy
 msgctxt "DurationLessMinuteFormat"
 msgid "<1 min"
-msgstr "1분 이하"
+msgstr "1분 미만"
 
 msgctxt "DurationLongRestFormat"
 msgid "Until long rest"
@@ -1389,15 +1395,15 @@ msgstr "다음 긴 휴식까지"
 
 msgctxt "DurationMinutePluralFormat"
 msgid "{0} minutes "
-msgstr "{0} 분 "
+msgstr "{0}분 "
 
 msgctxt "DurationMinuteSingleFormat"
 msgid "{0} minute "
-msgstr "{0} 분 "
+msgstr "{0}분 "
 
 msgctxt "DurationNoneFormat"
 msgid "{0} round "
-msgstr "{0} 라운드 "
+msgstr "{0}라운드 "
 
 msgctxt "DurationPermanentFormat"
 msgid "Permanent"
@@ -1405,11 +1411,11 @@ msgstr "영구적"
 
 msgctxt "DurationRoundPluralFormat"
 msgid "{0} rounds "
-msgstr "{0} 라운드 "
+msgstr "{0}라운드 "
 
 msgctxt "DurationRoundSingleFormat"
 msgid "{0} round "
-msgstr "{0} 라운드 "
+msgstr "{0}라운드 "
 
 msgctxt "DurationShortRestFormat"
 msgid "Until short rest"
@@ -1515,7 +1521,6 @@ msgctxt "HealingFormFormat"
 msgid "{0}{1}{2} healing"
 msgstr "{0}{1}{2} 치유"
 
-#, fuzzy
 msgctxt "HealingStabilize"
 msgid "Stabilizes a dying creature."
 msgstr "죽어가는 크리쳐를 안정화시킵니다."
@@ -1540,25 +1545,27 @@ msgctxt "LightSourceFormFormat"
 msgid "light source: {0} bright + {1} dim "
 msgstr "광원: {0} 밝음 + {1} 약간 어두움 "
 
+#, fuzzy
 msgctxt "MaterialComponentTitle"
 msgid "M"
 msgstr "M"
 
+#, fuzzy
 msgctxt "MotionFormLevitateFormat"
 msgid "Levitate {0}"
-msgstr ""
+msgstr "{0} 부양"
 
 msgctxt "MotionFormPullFormat"
 msgid "Pull in {0}"
-msgstr ""
+msgstr "{0}만큼 당김"
 
 msgctxt "MotionFormPushFormat"
 msgid "Push away {0}"
-msgstr "{0} 만큼 밀어냄"
+msgstr "{0}만큼 밀어냄"
 
 msgctxt "MotionFormTeleportFormat"
 msgid "Teleport {0}"
-msgstr ""
+msgstr "{0} 순간이동"
 
 msgctxt "RateAtWillFormatTitle"
 msgid "at will"
@@ -1590,7 +1597,7 @@ msgstr "불가"
 
 msgctxt "RateOneMinuteFormatTitle"
 msgid "every minute"
-msgstr ""
+msgstr "매 분"
 
 msgctxt "RateShortRestFormatTitle"
 msgid "short rest"
@@ -1610,9 +1617,8 @@ msgstr "{0}"
 
 msgctxt "RecipeRequiredSpellFormat"
 msgid "Ability to cast the {0} spell."
-msgstr ""
+msgstr "{0} 주문 시전 능력."
 
-#, fuzzy
 msgctxt "RecipeRequiredTooltypeFormat"
 msgid "Proficiency with {0}"
 msgstr "{0}에 숙련"
@@ -1623,11 +1629,11 @@ msgstr "(내성 굴림 성공 시 {0})"
 
 msgctxt "SaveAffinityNegateAndCancelEachTurnTitle"
 msgid "(save each turn to cancel)"
-msgstr "(매 턴 내성굴림해서 무효화)"
+msgstr "(매 턴 내성굴림으로 무효화)"
 
 msgctxt "SaveAffinityNegateTitle"
 msgid "(save to negate)"
-msgstr "(내성으로 무효화)"
+msgstr "(내성굴림으로 무효화)"
 
 msgctxt "SituationalContextAttackerAwayFromTargetFormat"
 msgid "If attacker is away from the target:"
@@ -1639,7 +1645,7 @@ msgstr "공격자가 대상 옆에 있는 경우:"
 
 msgctxt "SituationalContextAttackerOnHigherGroundThanTargetFormat"
 msgid "If attacker is on higher ground:"
-msgstr "공격 시 더 높은 위치에 있는 경우:"
+msgstr "공격자가 더 높은 위치에 있는 경우:"
 
 msgctxt "SituationalContextConsciousAllyNextToTargetFormat"
 msgid "if attacker has a conscious ally next to the target:"
@@ -1653,6 +1659,7 @@ msgctxt "SituationalContextTargetIsEffectSourceFormat"
 msgid "if creature is attacking the source of the effect:"
 msgstr "크리쳐가 효과의 근원을 공격하는 경우:"
 
+#, fuzzy
 msgctxt "SomaticComponentTitle"
 msgid "S"
 msgstr "S"
@@ -1710,10 +1717,9 @@ msgctxt "SummonFormCreaturesSingleFormat"
 msgid "Summon {0}."
 msgstr "{0}을(를) 소환합니다."
 
-#, fuzzy
 msgctxt "SummonFormEffectProxyFormat"
 msgid "Summon \"{0}\" for you to control "
-msgstr "직접 조종 가능한 \"{0}\" 소환 "
+msgstr "조종 가능한 \"{0}\" 소환 "
 
 msgctxt "SummonFormInventoryItemsMultipleFormat"
 msgid "Summon {0} (x {1}) to the inventory"
@@ -1729,11 +1735,11 @@ msgstr "{0}{1}{2} 임시 체력"
 
 msgctxt "TopologyFormProjectileBlockerFormat"
 msgid "Blocks ordinary projectiles (arrows, bolts, etc.)"
-msgstr ""
+msgstr "일반 발사체(화살, 볼트 등) 차단"
 
 msgctxt "TopologyFormSightBlockerFormat"
 msgid "Blocks line of sight"
-msgstr ""
+msgstr "시야 차단"
 
 msgctxt "TurnOccurenceEndOfTurnFormat"
 msgid "End of Round"
@@ -1747,6 +1753,7 @@ msgctxt "TurnOccurenceStartOfTurnFormat"
 msgid "Start of Turn"
 msgstr "턴 시작"
 
+#, fuzzy
 msgctxt "VerboseComponentTitle"
 msgid "V"
 msgstr "V"
@@ -1773,7 +1780,7 @@ msgstr "{0}/{1} {2}"
 
 msgctxt "TopologyFormDifficultThroughFormat"
 msgid "This area slows down those who walk through it."
-msgstr "이 지역을 통과하는 것들은 속도가 느려집니다."
+msgstr "이 지역을 통과하는 대상을 둔화시킵니다."
 
 msgctxt "TopologyFormSightImpairedFormat"
 msgid "Creatures in this area cannot see anything."
@@ -1793,7 +1800,7 @@ msgstr "소르타르의 축복"
 
 msgctxt "ConditionBlessingSorrtarrDescription"
 msgid "Appears to relieve the Soraks of their vulnerability to light."
-msgstr ""
+msgstr "소락의 빛에 대한 취약성을 완화시키는 것으로 보입니다."
 
 msgctxt "ConditionAnnoyedByBeeTitle"
 msgid "Distracted by an Annoying Bee"
@@ -1888,11 +1895,11 @@ msgstr "천둥 피해에 저항"
 
 msgctxt "AlterationFormDissipateSpellFormat"
 msgid "Dissipates spells on objects"
-msgstr "물체에 걸린 주문을 소멸시킵니다."
+msgstr "물체에 걸린 주문을 소멸시킵니다"
 
 msgctxt "ConditionMindControlledByConjureAnimalTitle"
 msgid "Conjured Animal"
-msgstr "창조된 동물"
+msgstr "소환된 동물"
 
 msgctxt "ConditionMindControlledByConjureAnimalDescription"
 msgid "This animal has been conjured by another creature."
@@ -1906,33 +1913,38 @@ msgctxt "ConditionWardedByWardingBondTitle"
 msgid "Warded by Warding Bond"
 msgstr "수호의 결속에 의한 보호"
 
+#, fuzzy
 msgctxt "ConditionWardedByWardingBondDescription"
 msgid "Temp"
-msgstr ""
+msgstr "임시 (수정 필요)"
 
 msgctxt "ConditionWaterWalkTitle"
 msgid "Water Walking"
-msgstr ""
+msgstr "수상 보행"
 
+#, fuzzy
 msgctxt "ConditionWaterWalkDescription"
 msgid "Temp"
-msgstr "Temp"
+msgstr "임시"
 
 msgctxt "ConditionWaterBreathingTitle"
 msgid "Water Breathing"
 msgstr "수중 호흡"
 
+#, fuzzy
 msgctxt "ConditionWaterBreathingDescription"
 msgid "Temp"
-msgstr "Temp"
+msgstr "임시"
 
+#, fuzzy
 msgctxt "ConditionRestrictedInsideMagicCircleDescription"
 msgid "Temp"
-msgstr "Temp"
+msgstr "임시"
 
+#, fuzzy
 msgctxt "ConditionProtectedInsideMagicCircleDescription"
 msgid "Temp"
-msgstr "Temp"
+msgstr "임시"
 
 msgctxt "ConditionComprehendLanguagesTitle"
 msgid "Comprehending Languages"
@@ -1952,7 +1964,7 @@ msgstr "냉기, 화염, 번개 피해에 내성을 얻습니다."
 
 msgctxt "ConditionFlying6Description"
 msgid "The target creature gains a flying speed of 6 cells per move action."
-msgstr ""
+msgstr "해당 크리쳐는 이동 행동 당 6칸의 비행 속도를 얻습니다."
 
 msgctxt "AlterationFormAbilityScoreIncreaseValueFormat"
 msgid "Increases {0} score by {1}."
@@ -1968,31 +1980,34 @@ msgstr "이 중갑을 착용하기에 힘이 충분치 않습니다. 속도가 2
 
 msgctxt "ConditionHeavyArmorOverloadTitle"
 msgid "Heavy Armor Overload"
-msgstr "너무 무거운 갑옷"
+msgstr "중갑 과부화"
 
+#, fuzzy
 msgctxt "MoveModeWalkTitle"
 msgid "Walk"
-msgstr ""
+msgstr "걷기"
 
+#, fuzzy
 msgctxt "MoveModeClimbTitle"
 msgid "Climb"
-msgstr ""
+msgstr "기어오르기"
 
 msgctxt "MoveModeFlyTitle"
 msgid "Fly"
-msgstr ""
+msgstr "비행"
 
 msgctxt "MoveModeIncorporealTitle"
 msgid "Incorporeal"
-msgstr ""
+msgstr "영체"
 
 msgctxt "MoveModeSwimTitle"
 msgid "Swim"
-msgstr ""
+msgstr "수영"
 
+#, fuzzy
 msgctxt "MoveModeBurrowTitle"
 msgid "Burrow"
-msgstr ""
+msgstr "땅파기"
 
 msgctxt "ConditionCloakOfDisplacementDescription"
 msgid ""
@@ -2012,7 +2027,7 @@ msgstr "크리쳐의 시야가 심하게 흐려집니다. 크리쳐가 행하거
 
 msgctxt "ConditionConjuredCreatureDescription"
 msgid "This creature has been conjured by a magical effect"
-msgstr "이 크리쳐는 마법에 의해 소환되었습니다."
+msgstr "이 크리쳐는 마법으로 소환되었습니다"
 
 msgctxt "ConditionConjuredCreatureTitle"
 msgid "Conjured Creature"
@@ -2030,7 +2045,7 @@ msgctxt "ConditionSilencedDescription"
 msgid ""
 "The creature does not emit any sound and cannot speak or cast spells with a "
 "verbal component."
-msgstr "말할 수도 없고 어떠한 소리도 낼 수 없어 언어적 구성 요소를 가진 주문을 시전할 수 없습니다."
+msgstr "이 크리쳐는 어떠한 소리도 낼 수 없어 말하거나 언어적 구성 요소를 가진 주문을 시전할 수 없습니다."
 
 msgctxt "ConditionProtectedFromEvilDescription"
 msgid ""
@@ -2084,7 +2099,7 @@ msgctxt "ConditionFrightenedPhantasmalKillerDescription"
 msgid ""
 "The creature is frightened and receives psychic damage each turn until it "
 "succeeds on a saving throw."
-msgstr "이 크리쳐는 겁에 질려 내성 굴림에 성공할 때까지 매 턴 정신 피해를 받습니다."
+msgstr "이 크리쳐는 겁에 질려 있어, 내성 굴림에 성공할 때까지 매 턴 정신 피해를 받습니다."
 
 msgctxt "ConditionFrightenedPhantasmalKillerTitle"
 msgid "Frightened by Phantasm"
@@ -2108,7 +2123,7 @@ msgctxt "ConditionDeathWardedDescription"
 msgid ""
 "When reduced to 0 hit points, HP is set to 1 instead, preventing instant "
 "death from massive damage or effects."
-msgstr "HP가 0으로 감소하면 1로 수정되어 막대한 피해나 효과로 인한 즉사를 방지합니다."
+msgstr "체력이 0으로 감소하면 1로 수정되어 막대한 피해나 효과로 인한 즉사를 방지합니다."
 
 msgctxt "ConditionConfusedTitle"
 msgid "Confused"
@@ -2172,7 +2187,7 @@ msgstr "혼란으로 인해 아무 것도 할 수 없는 상태입니다."
 
 msgctxt "ConditionFeatRaiseShieldDescription"
 msgid "You get +3 AC until the end of the attacker's turn."
-msgstr "공격자 턴이 끝날 때까지 AC +3이 됩니다."
+msgstr "공격자 턴이 끝날 때까지 AC +3을 얻습니다."
 
 msgctxt "ConditionFeatRaiseShieldTitle"
 msgid "Raised Shield"
@@ -2180,11 +2195,11 @@ msgstr "치켜든 방패"
 
 msgctxt "ConditionFeatTwinBladeDescription"
 msgid "You get +3 AC until the end of the attacker's turn."
-msgstr "공격자 턴이 끝날 때까지 AC +3이 됩니다."
+msgstr "공격자 턴이 끝날 때까지 AC +3을 얻습니다."
 
 msgctxt "ConditionFeatTwinBladeTitle"
 msgid "Twin Blade Block"
-msgstr "쌍검술 막기"
+msgstr "쌍검술 방어"
 
 msgctxt "DurationTurnSingleFormat"
 msgid "{0} turn"
@@ -2210,6 +2225,7 @@ msgid ""
 "until the start of your turn. "
 msgstr "이동 거리가 3칸 증가하고 다음 턴 시작까지 AC가 2 감소합니다. "
 
+#, fuzzy
 msgctxt "ConditionFeatRushToBattleTitle"
 msgid "Rushing to Battle"
 msgstr "전장 돌진"
@@ -2297,7 +2313,7 @@ msgstr "감쪽같은 위장"
 
 msgctxt "ConditionHidingInPlainSightDescription"
 msgid "+10 DEX (Stealth) while you are standing against a wall."
-msgstr "벽 옆에 있는 동안 +10 민첩(은신)"
+msgstr "벽 옆에 있는 동안 +10 민첩(은신)을 얻습니다."
 
 msgctxt "KillFormAlwaysFormat"
 msgid "Target creature is killed."
@@ -2321,7 +2337,7 @@ msgctxt "ConditionSwallowedRemorhazDescription"
 msgid ""
 "Cannot act and takes 6d6 acid damage each turn. A single attack of 30 damage "
 "can force the swallower to regurgitate."
-msgstr "행동할 수 없으며 매턴 6d6 산성 피해를 받습니다. 한 번에 30 피해를 주면 토해냅니다."
+msgstr "행동할 수 없으며 매턴 6d6 산성 피해를 받습니다. 삼킨 대상에게 한 번에 30 피해를 주면 토해냅니다."
 
 msgctxt "AlterationFormLightUpFormat"
 msgid "Ignites light sources."
@@ -2329,11 +2345,11 @@ msgstr "조명을 점화합니다."
 
 msgctxt "ReviveFormFormat"
 msgid "Revives a dead character"
-msgstr "죽은 캐릭터를 되살립니다."
+msgstr "죽은 캐릭터를 되살립니다"
 
 msgctxt "ConditionHeroismDescription"
 msgid "Cannot be frightened and regains temporary hit points every turn"
-msgstr "공포에 빠지지 않고 매턴 임시 체력을 얻습니다."
+msgstr "공포에 빠지지 않고 매턴 임시 체력을 얻습니다"
 
 msgctxt "RateD6_56FormatTitle"
 msgid "on 5 or 6 on 1d6"
@@ -2343,6 +2359,7 @@ msgctxt "SpellSlotFormCreateSpellSlotFormat"
 msgid "Create a spell slot"
 msgstr "주문 슬롯 생성"
 
+#, fuzzy
 msgctxt "SpellSlotFormCreateSorceryPointFormat"
 msgid "Creates sorcery points"
 msgstr "소서리 포인트 생성"
@@ -2355,7 +2372,7 @@ msgctxt "MetamagicOptionCarefulSpellDescription"
 msgid ""
 "Allied creatures affected by the spell automatically succeed their saving "
 "throw"
-msgstr "주문의 영향을 받는 아군은 자동으로 내성 굴림에 성공합니다."
+msgstr "주문의 영향을 받는 아군은 자동으로 내성 굴림에 성공합니다"
 
 msgctxt "MetamagicOptionDistantSpellTitle"
 msgid "Distant Spell"
@@ -2464,9 +2481,10 @@ msgid ""
 "advantage on saving throws, until the beginning of your next turn"
 msgstr "적들이 당신을 공격할 때 불리점을 가지고, 당신이 내성 굴림을 할 때는 이점을 가집니다. 다음 턴이 시작할 때까지 지속됩니다"
 
+#, fuzzy
 msgctxt "RateHitPointsFormatTitle"
 msgid "sacrifice max hp"
-msgstr ""
+msgstr "최대 체력 희생"
 
 msgctxt "ConditionDisintegratedTitle"
 msgid "Disintegrated"
