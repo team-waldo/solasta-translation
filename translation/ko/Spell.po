@@ -2,1260 +2,1257 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-13 13:37+0000\n"
-"Last-Translator: 존삼 <jsnuguri@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/spell/ko/>"
-"\n"
-"Language: ko\n"
+"POT-Creation-Date: 2021-10-15 05:02+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
-msgctxt "AcidArrowDescription"
+msgctxt "Spell/&AcidArrowDescription"
 msgid "Launch an acid arrow."
 msgstr "산성 화살을 발사합니다."
 
-msgctxt "AcidArrowTitle"
+msgctxt "Spell/&AcidArrowTitle"
 msgid "Acid Arrow"
 msgstr "산성 화살"
 
-msgctxt "AcidSplashDescription"
+msgctxt "Spell/&AcidSplashDescription"
 msgid "Launch an acid bolt."
 msgstr "산성 볼트를 발사합니다."
 
-msgctxt "AcidSplashTitle"
+msgctxt "Spell/&AcidSplashTitle"
 msgid "Acid Splash"
 msgstr "산성 분사"
 
-msgctxt "AidDescription"
+msgctxt "Spell/&AidDescription"
 msgid "Temporarily increases hit points for up to three allies."
 msgstr "아군 최대 3명의 체력을 일시적으로 증가시킵니다."
 
-msgctxt "AidTitle"
+msgctxt "Spell/&AidTitle"
 msgid "Aid"
 msgstr "지원"
 
-msgctxt "AnimateDeadDescription"
+msgctxt "Spell/&AnimateDeadDescription"
 msgid "Create an undead servant."
 msgstr "언데드 종복을 만듭니다."
 
-msgctxt "AnimateDeadTitle"
+msgctxt "Spell/&AnimateDeadTitle"
 msgid "Animate Dead"
 msgstr "시체 조종"
 
-msgctxt "BaneDescription"
+msgctxt "Spell/&BaneDescription"
 msgid "Reduce your enemies' attack and saving throws for a limited time."
 msgstr "적의 명중굴림과 내성굴림을 일시적으로 감소시킵니다."
 
-msgctxt "BaneTitle"
+msgctxt "Spell/&BaneTitle"
 msgid "Bane"
 msgstr "해악"
 
-msgctxt "BarkskinDescription"
+msgctxt "Spell/&BarkskinDescription"
 msgid "Gives you or an ally you can touch an AC of at least 16."
 msgstr "자신이나 접촉할 수 있는 아군의 AC 최소값을 16으로 만듭니다."
 
-msgctxt "BarkskinTitle"
+msgctxt "Spell/&BarkskinTitle"
 msgid "Barkskin"
 msgstr "나무껍질 피부"
 
-msgctxt "BeaconOfHopeDescription"
+msgctxt "Spell/&BeaconOfHopeDescription"
 msgid "Raise hope and vitality."
 msgstr "희망과 생명력을 끌어올립니다."
 
-msgctxt "BeaconOfHopeTitle"
+msgctxt "Spell/&BeaconOfHopeTitle"
 msgid "Beacon of Hope"
 msgstr "희망의 봉화"
 
-msgctxt "BestowCurseAbilityCharismaTitle"
+msgctxt "Spell/&BestowCurseAbilityCharismaTitle"
 msgid "Bestow Curse (Charisma)"
 msgstr "저주 부여(매력)"
 
-msgctxt "BestowCurseAbilityConstitutionTitle"
+msgctxt "Spell/&BestowCurseAbilityConstitutionTitle"
 msgid "Bestow Curse (Constitution)"
 msgstr "저주 부여(건강)"
 
-msgctxt "BestowCurseAbilityDexterityTitle"
+msgctxt "Spell/&BestowCurseAbilityDexterityTitle"
 msgid "Bestow Curse (Dexterity)"
 msgstr "저주 부여(민첩)"
 
-msgctxt "BestowCurseAbilityIntelligenceTitle"
+msgctxt "Spell/&BestowCurseAbilityIntelligenceTitle"
 msgid "Bestow Curse (Intelligence)"
 msgstr "저주 부여(지능)"
 
-msgctxt "BestowCurseAbilityStrengthTitle"
+msgctxt "Spell/&BestowCurseAbilityStrengthTitle"
 msgid "Bestow Curse (Strength)"
 msgstr "저주 부여(근력)"
 
-msgctxt "BestowCurseAbilityWisdomTitle"
+msgctxt "Spell/&BestowCurseAbilityWisdomTitle"
 msgid "Bestow Curse (Wisdom)"
 msgstr "저주 부여(지혜)"
 
-msgctxt "BestowCurseDescription"
+msgctxt "Spell/&BestowCurseDescription"
 msgid "Curses a creature you can touch."
 msgstr "당신이 접촉할 수 있는 크리쳐를 저주합니다."
 
-msgctxt "BestowCurseOnActionTurnTitle"
+msgctxt "Spell/&BestowCurseOnActionTurnTitle"
 msgid "Bestow Curse (Action)"
 msgstr "저주 부여(액션)"
 
-msgctxt "BestowCurseOnAttackRollTitle"
+msgctxt "Spell/&BestowCurseOnAttackRollTitle"
 msgid "Bestow Curse (Attack)"
 msgstr "저주 부여(공격)"
 
-msgctxt "BestowCurseOnDamageAddNecroticTitle"
+msgctxt "Spell/&BestowCurseOnDamageAddNecroticTitle"
 msgid "Bestow Curse (Damage)"
 msgstr "저주 부여(피해)"
 
-msgctxt "BestowCurseTitle"
+msgctxt "Spell/&BestowCurseTitle"
 msgid "Bestow Curse"
 msgstr "저주 부여"
 
-msgctxt "BlessDescription"
+msgctxt "Spell/&BlessDescription"
 msgid ""
 "Increase your allies' saving throws and attack rolls for a limited time."
 msgstr "아군의 명중굴림과 내성굴림을 일시적으로 증가시킵니다."
 
-msgctxt "BlessTitle"
+msgctxt "Spell/&BlessTitle"
 msgid "Bless"
 msgstr "축복"
 
-msgctxt "BlindnessDescription"
+msgctxt "Spell/&BlindnessDescription"
 msgid "Blind an enemy for one minute."
 msgstr "적을 1분동안 실명시킵니다."
 
-msgctxt "BlindnessTitle"
+msgctxt "Spell/&BlindnessTitle"
 msgid "Blindness"
 msgstr "실명"
 
-msgctxt "BlurDescription"
+msgctxt "Spell/&BlurDescription"
 msgid "Makes you blurry and harder to hit for up to one minute."
 msgstr "1분동안 당신의 형체를 흐릿하게 만들어 공격하기 어렵게 합니다."
 
-msgctxt "BlurTitle"
+msgctxt "Spell/&BlurTitle"
 msgid "Blur"
 msgstr "흐릿한 형체"
 
-msgctxt "BrandingSmiteDescription"
+msgctxt "Spell/&BrandingSmiteDescription"
 msgid ""
 "Your next hit causes additional radiant damage and your target becomes "
 "luminous."
 msgstr "당신의 다음 공격이 추가 광휘 피해를 입히고 대상을 빛나게 합니다."
 
-msgctxt "BrandingSmiteTitle"
+msgctxt "Spell/&BrandingSmiteTitle"
 msgid "Branding Smite"
 msgstr "낙인의 강타"
 
-msgctxt "BurningHandsDescription"
+msgctxt "Spell/&BurningHandsDescription"
 msgid "Spray a cone of fire in front of you."
 msgstr "전방에 화염을 원뿔 형태로 뿌립니다."
 
-msgctxt "BurningHandsTitle"
+msgctxt "Spell/&BurningHandsTitle"
 msgid "Burning Hands"
 msgstr "타오르는 손길"
 
-msgctxt "CharmPersonDescription"
+msgctxt "Spell/&CharmPersonDescription"
 msgid "Makes an ally of an enemy."
 msgstr "적 하나를 아군으로 만듭니다."
 
-msgctxt "CharmPersonTitle"
+msgctxt "Spell/&CharmPersonTitle"
 msgid "Charm Person"
 msgstr "인간형 매혹"
 
-msgctxt "ChillTouchDescription"
+msgctxt "Spell/&ChillTouchDescription"
 msgid "Deal damage to one enemy and prevent healing for a limited time."
 msgstr "하나의 적에게 냉기 피해를 입히고 일시적으로 치유를 막습니다."
 
-msgctxt "ChillTouchTitle"
+msgctxt "Spell/&ChillTouchTitle"
 msgid "Chill Touch"
 msgstr "냉기의 손길"
 
-msgctxt "ColorSprayTitle"
+msgctxt "Spell/&ColorSprayTitle"
 msgid "Color Spray"
 msgstr "색채 분사"
 
-msgctxt "ConjureGoblinoidsDescription"
+msgctxt "Spell/&ConjureGoblinoidsDescription"
 msgid "Conjures 2 goblins who obey your orders unless you lose concentration."
 msgstr "당신이 집중하는 동안 당신의 명령을 따르는 두 마리의 고블린을 소환합니다."
 
-msgctxt "ConjureGoblinoidsTitle"
+msgctxt "Spell/&ConjureGoblinoidsTitle"
 msgid "Conjure Goblinoids"
 msgstr "고블린 소환"
 
-msgctxt "CounterspellDescription"
+msgctxt "Spell/&CounterspellDescription"
 msgid "Interrupt an enemy's spellcasting."
 msgstr "적 하나의 주문 시전을 방해합니다."
 
-msgctxt "CounterspellTitle"
+msgctxt "Spell/&CounterspellTitle"
 msgid "Counterspell"
 msgstr "카운터스펠"
 
-msgctxt "CreateFoodDescription"
+msgctxt "Spell/&CreateFoodDescription"
 msgid "Conjure 15 units of food."
 msgstr "15 유닛의 음식을 소환합니다."
 
-msgctxt "CreateFoodTitle"
+msgctxt "Spell/&CreateFoodTitle"
 msgid "Create Food"
 msgstr "음식 소환"
 
-msgctxt "CureWoundsDescription"
+msgctxt "Spell/&CureWoundsDescription"
 msgid "Heal an ally by touch."
 msgstr "아군의 상처를 근접 접촉을 통해 치유합니다."
 
-msgctxt "CureWoundsTitle"
+msgctxt "Spell/&CureWoundsTitle"
 msgid "Cure Wounds"
 msgstr "상처 치료"
 
-msgctxt "DancingLightsDescription"
+msgctxt "Spell/&DancingLightsDescription"
 msgid "Create dancing lights that move at your command."
 msgstr "명령에 따라 춤추는 빛을 만듭니다."
 
-msgctxt "DancingLightsTitle"
+msgctxt "Spell/&DancingLightsTitle"
 msgid "Dancing Lights"
 msgstr "춤추는 빛"
 
-msgctxt "DarknessDescription"
+msgctxt "Spell/&DarknessDescription"
 msgid "Create an area of magical darkness."
 msgstr "마법적으로 어두운 영역을 만듭니다."
 
-msgctxt "DarknessTitle"
+msgctxt "Spell/&DarknessTitle"
 msgid "Darkness"
 msgstr "어둠"
 
-msgctxt "DarkvisionDescription"
+msgctxt "Spell/&DarkvisionDescription"
 msgid "Grant Darkvision to the target."
 msgstr "대상에게 어둠시야를 부여합니다."
 
-msgctxt "DarkvisionTitle"
+msgctxt "Spell/&DarkvisionTitle"
 msgid "Darkvision"
 msgstr "어둠시야"
 
-msgctxt "DaylightDescription"
+msgctxt "Spell/&DaylightDescription"
 msgid "Summon a globe of bright light."
 msgstr "밝은 빛의 구체를 소환합니다."
 
-msgctxt "DaylightTitle"
+msgctxt "Spell/&DaylightTitle"
 msgid "Daylight"
 msgstr "일광"
 
-msgctxt "DazzleDescription"
+msgctxt "Spell/&DazzleDescription"
 msgid ""
 "Lower a target's AC and prevent reaction until the start of its next turn."
 msgstr "대상의 AC를 낮추고 대상의 다음 턴이 시작될 때까지 반응행동을 방지합니다."
 
-msgctxt "DazzleTitle"
+msgctxt "Spell/&DazzleTitle"
 msgid "Dazzle"
 msgstr "눈부심"
 
-msgctxt "DetectEvilAndGoodDescription"
+msgctxt "Spell/&DetectEvilAndGoodDescription"
 msgid "Detect nearby creatures of evil or good nature."
 msgstr "주변의 선하거나 악한 생물을 갑지합니다."
 
-msgctxt "DetectEvilAndGoodTitle"
+msgctxt "Spell/&DetectEvilAndGoodTitle"
 msgid "Detect Evil and Good"
 msgstr "선악감지"
 
-msgctxt "DetectMagicDescription"
+msgctxt "Spell/&DetectMagicDescription"
 msgid "Detect nearby magic objects or creatures."
 msgstr "근처의 마법 물체나 생물을 감지합니다."
 
-msgctxt "DetectMagicTitle"
+msgctxt "Spell/&DetectMagicTitle"
 msgid "Detect Magic"
 msgstr "마법 감지"
 
-msgctxt "DispelMagicDescription"
+msgctxt "Spell/&DispelMagicDescription"
 msgid "End active spells on a creature or object."
 msgstr "대상 생물 혹은 개체에 활성화된 주문을 종료합니다."
 
-msgctxt "DispelMagicTitle"
+msgctxt "Spell/&DispelMagicTitle"
 msgid "Dispel Magic"
 msgstr "마법 무효화"
 
-msgctxt "DivineFavorDescription"
+msgctxt "Spell/&DivineFavorDescription"
 msgid "Gain additional radiant damage for a limited time."
 msgstr "제한된 시간 동안 추가 광휘 피해를 가합니다."
 
-msgctxt "DivineFavorTitle"
+msgctxt "Spell/&DivineFavorTitle"
 msgid "Divine Favor"
 msgstr "신의 은총"
 
-msgctxt "EnhanceAbilityBearsEnduranceDescription"
+msgctxt "Spell/&EnhanceAbilityBearsEnduranceDescription"
 msgid "Gain temporary hit points and advantage on Constitution checks."
 msgstr "일시적으로 체력과 건강판정에서 이점을 얻습니다."
 
-msgctxt "EnhanceAbilityBearsEnduranceTitle"
+msgctxt "Spell/&EnhanceAbilityBearsEnduranceTitle"
 msgid "Bear's Endurance"
 msgstr "곰의 인내력"
 
-msgctxt "EnhanceAbilityBullsStrengthDescription"
+msgctxt "Spell/&EnhanceAbilityBullsStrengthDescription"
 msgid "Increased carrying capacity and advantage on Strength checks."
 msgstr "운반 능력능력과 근력판정에서 이점을 얻습니다."
 
-msgctxt "EnhanceAbilityBullsStrengthTitle"
+msgctxt "Spell/&EnhanceAbilityBullsStrengthTitle"
 msgid "Bull's Strength"
 msgstr "황소의 힘"
 
-msgctxt "EnhanceAbilityCatsGraceDescription"
+msgctxt "Spell/&EnhanceAbilityCatsGraceDescription"
 msgid "Reduced falling damage and advantage on Dexterity checks."
 msgstr "낙하 피해가 감소하고 민첩판정에서 이점을 얻습니다."
 
-msgctxt "EnhanceAbilityCatsGraceTitle"
+msgctxt "Spell/&EnhanceAbilityCatsGraceTitle"
 msgid "Cat's Grace"
 msgstr "고양이의 우아함"
 
-msgctxt "EnhanceAbilityDescription"
+msgctxt "Spell/&EnhanceAbilityDescription"
 msgid "Grant temporary powers to an ally for up to one hour."
 msgstr "최대 1시간동안 아군에게 일시적인 힘을 부여합니다."
 
-msgctxt "EnhanceAbilityEaglesSplendorDescription"
+msgctxt "Spell/&EnhanceAbilityEaglesSplendorDescription"
 msgid "Advantage on Charisma checks."
 msgstr "매력판정에서 이점을 얻습니다."
 
-msgctxt "EnhanceAbilityEaglesSplendorTitle"
+msgctxt "Spell/&EnhanceAbilityEaglesSplendorTitle"
 msgid "Eagle's Splendor"
 msgstr "독수리의 위엄"
 
-msgctxt "EnhanceAbilityFoxsCunningDescription"
+msgctxt "Spell/&EnhanceAbilityFoxsCunningDescription"
 msgid "Advantage on Intelligence checks."
 msgstr "지능판정에서 이점을 얻습니다."
 
-msgctxt "EnhanceAbilityFoxsCunningTitle"
+msgctxt "Spell/&EnhanceAbilityFoxsCunningTitle"
 msgid "Fox's Cunning"
 msgstr "여우의 교활함"
 
-msgctxt "EnhanceAbilityOwlsWisdomDescription"
+msgctxt "Spell/&EnhanceAbilityOwlsWisdomDescription"
 msgid "Advantage on Wisdom checks."
 msgstr "지혜 판정에서 이점을 얻습니다."
 
-msgctxt "EnhanceAbilityOwlsWisdomTitle"
+msgctxt "Spell/&EnhanceAbilityOwlsWisdomTitle"
 msgid "Owl's Wisdom"
 msgstr "부엉이의 지혜"
 
-msgctxt "EnhanceAbilityTitle"
+msgctxt "Spell/&EnhanceAbilityTitle"
 msgid "Enhance Ability"
 msgstr "능력 향상"
 
-msgctxt "ExpeditiousRetreatDescription"
+msgctxt "Spell/&ExpeditiousRetreatDescription"
 msgid ""
 "Gain movement points and become able to dash as a bonus action for a limited "
 "time."
 msgstr "이동 포인트를 얻고 제한된 시간 동안 보너스 액션으로 질주할 수 있게 됩니다."
 
-msgctxt "ExpeditiousRetreatTitle"
+msgctxt "Spell/&ExpeditiousRetreatTitle"
 msgid "Expeditious Retreat"
 msgstr "긴급 후퇴"
 
-msgctxt "FaerieFireDescription"
+msgctxt "Spell/&FaerieFireDescription"
 msgid "Highlight creatures to give advantage to anyone attacking them."
 msgstr "크리쳐를 빛나게 해 그를 공격하는 모든 공격자에게 이점을 줍니다."
 
-msgctxt "FaerieFireTitle"
+msgctxt "Spell/&FaerieFireTitle"
 msgid "Faerie Fire"
 msgstr "페어리 파이어"
 
-msgctxt "FalseLifeDescription"
+msgctxt "Spell/&FalseLifeDescription"
 msgid "Gain a few temporary hit points for a limited time."
 msgstr "제한된 시간 동안 임시 체력을 얻습니다."
 
-msgctxt "FalseLifeTitle"
+msgctxt "Spell/&FalseLifeTitle"
 msgid "False Life"
 msgstr "거짓 생명"
 
-msgctxt "FearDescription"
+msgctxt "Spell/&FearDescription"
 msgid "Frighten creatures and force them to flee."
 msgstr "크리쳐를 공포에 질려 강제로 도망치게 합니다."
 
-msgctxt "FearTitle"
+msgctxt "Spell/&FearTitle"
 msgid "Fear"
 msgstr "공포"
 
-msgctxt "FeatherFallDescription"
+msgctxt "Spell/&FeatherFallDescription"
 msgid "Provide a safe landing when you or an ally falls."
 msgstr "자신이나 동료가 추락할때 안전하게 착지합니다."
 
-msgctxt "FeatherFallTitle"
+msgctxt "Spell/&FeatherFallTitle"
 msgid "Feather Fall"
 msgstr "깃털 낙하"
 
-msgctxt "FindTrapsDescription"
+msgctxt "Spell/&FindTrapsDescription"
 msgid "Spot mechanical and magical traps, but not natural hazards."
 msgstr "자연적이지 않은 기계적이거나 마법적인 함정을 발견합니다."
 
-msgctxt "FindTrapsTitle"
+msgctxt "Spell/&FindTrapsTitle"
 msgid "Find Traps"
 msgstr "함정 찾기"
 
-msgctxt "FireballDescription"
+msgctxt "Spell/&FireballDescription"
 msgid "Launch a fireball that explodes from a point of your choosing."
 msgstr "원하는 위치에서 폭발하는 화염구를 발사합니다."
 
-msgctxt "FireballTitle"
+msgctxt "Spell/&FireballTitle"
 msgid "Fireball"
 msgstr "화염구"
 
-msgctxt "FireBoltDescription"
+msgctxt "Spell/&FireBoltDescription"
 msgid "Launch a fire bolt."
 msgstr "화염 화살을 발사합니다."
 
-msgctxt "FireBoltTitle"
+msgctxt "Spell/&FireBoltTitle"
 msgid "Fire Bolt"
 msgstr "화염 화살"
 
-msgctxt "FlamingSphereDescription"
+msgctxt "Spell/&FlamingSphereDescription"
 msgid "Summons a movable, burning sphere."
 msgstr "움직일 수 있는 불타는 구체를 소환합니다."
 
-msgctxt "FlamingSphereTitle"
+msgctxt "Spell/&FlamingSphereTitle"
 msgid "Flaming Sphere"
 msgstr "화염 구체"
 
-msgctxt "FlyDescription"
+msgctxt "Spell/&FlyDescription"
 msgid "An ally you touch gains the ability to fly for a limited time."
 msgstr "당신이 접촉한 아군은 한정된 시간 동안 비행 능력을 얻습니다."
 
-msgctxt "FlyTitle"
+msgctxt "Spell/&FlyTitle"
 msgid "Fly"
 msgstr "비행"
 
-msgctxt "FogCloudDescription"
+msgctxt "Spell/&FogCloudDescription"
 msgid ""
 "Generate a sphere of thick fog for a limited time. Creatures inside it "
 "cannot attack those on the outside."
 msgstr "제한된 시간 동안 구형의 짙은 안개를 생성합니다. 내부의 크리쳐는 외부의 크리쳐를 공격할 수 없습니다."
 
-msgctxt "FogCloudTitle"
+msgctxt "Spell/&FogCloudTitle"
 msgid "Fog Cloud"
 msgstr "안개 구름"
 
-msgctxt "GlyphOfWardingDescription"
+msgctxt "Spell/&GlyphOfWardingDescription"
 msgid "Creates a fixed magical trap."
 msgstr "고정된 마법 함정을 생성합니다."
 
-msgctxt "GlyphOfWardingTitle"
+msgctxt "Spell/&GlyphOfWardingTitle"
 msgid "Glyph of Warding"
 msgstr "수호의 문양"
 
-msgctxt "GuidanceDescription"
+msgctxt "Spell/&GuidanceDescription"
 msgid "Increase an ally's ability checks for a limited time."
 msgstr "정해진 시간 동안 아군 하나의 능력 판정을 증가시킵니다."
 
-msgctxt "GuidanceTitle"
+msgctxt "Spell/&GuidanceTitle"
 msgid "Guidance"
 msgstr "인도"
 
-msgctxt "GuidingBoltDescription"
+msgctxt "Spell/&GuidingBoltDescription"
 msgid "Launch a radiant attack against an enemy and make them easy to hit."
 msgstr "적 하나에게 광휘 공격을 하고 공격을 명중시키기 쉽게 만듭니다."
 
-msgctxt "GuidingBoltTitle"
+msgctxt "Spell/&GuidingBoltTitle"
 msgid "Guiding Bolt"
 msgstr "유도 화살"
 
-msgctxt "HasteDescription"
+msgctxt "Spell/&HasteDescription"
 msgid ""
 "Make an ally faster and more agile, and grant them an additional action for "
 "a limited time."
 msgstr "아군을 더 빠르고 민첩하게 만들고, 일정 시간 동안 추가 행동을 부여합니다."
 
-msgctxt "HasteTitle"
+msgctxt "Spell/&HasteTitle"
 msgid "Haste"
 msgstr "가속"
 
-msgctxt "HealingWordDescription"
+msgctxt "Spell/&HealingWordDescription"
 msgid "Heal an ally you can see."
 msgstr "시야 내의 아군을 치유합니다."
 
-msgctxt "HealingWordTitle"
+msgctxt "Spell/&HealingWordTitle"
 msgid "Healing Word"
 msgstr "치유의 언어"
 
-msgctxt "HeroismDescription"
+msgctxt "Spell/&HeroismDescription"
 msgid ""
 "An ally gains temporary hit points and cannot be frightened for a limited "
 "time."
 msgstr "아군 한명이 임시 체력을 얻고 일정 시간 동안 공포에 빠지지 않게 됩니다."
 
-msgctxt "HeroismTitle"
+msgctxt "Spell/&HeroismTitle"
 msgid "Heroism"
 msgstr "영웅심"
 
-msgctxt "HideousLaughterDescription"
+msgctxt "Spell/&HideousLaughterDescription"
 msgid "Make an enemy helpless with irresistible laughter."
 msgstr "참을 수 없는 웃음으로 적을 무력화합니다."
 
-msgctxt "HideousLaughterTitle"
+msgctxt "Spell/&HideousLaughterTitle"
 msgid "Hideous Laughter"
 msgstr "끔찍한 웃음"
 
-msgctxt "HoldPersonDescription"
+msgctxt "Spell/&HoldPersonDescription"
 msgid "Paralyze a humanoid you can see for a limited time."
 msgstr "제한된 시간 동안 시야 내의 인간형 하나를 마비시킵니다."
 
-msgctxt "HoldPersonTitle"
+msgctxt "Spell/&HoldPersonTitle"
 msgid "Hold Person"
 msgstr "인간 포박"
 
-msgctxt "HuntersMarkDescription"
+msgctxt "Spell/&HuntersMarkDescription"
 msgid ""
 "An enemy gets additional damage from you, and you can easily detect it for a "
 "limited time."
 msgstr "정해진 시간 동안 적 하나가 당신의 공격에 추가 피해를 받고, 당신이 그 적을 감지하기 쉬워집니다."
 
-msgctxt "HuntersMarkTitle"
+msgctxt "Spell/&HuntersMarkTitle"
 msgid "Hunter's Mark"
 msgstr "사냥꾼의 표식"
 
-msgctxt "HypnoticPatternDescription"
+msgctxt "Spell/&HypnoticPatternDescription"
 msgid "Charms enemies to make them harmless until attacked."
 msgstr "적을 매혹해 공격을 받기 전까지 무해하게 만듭니다."
 
-msgctxt "HypnoticPatternTitle"
+msgctxt "Spell/&HypnoticPatternTitle"
 msgid "Hypnotic Pattern"
 msgstr "최면 패턴"
 
-msgctxt "IdentifyDescription"
+msgctxt "Spell/&IdentifyDescription"
 msgid "Identify the hidden properties of an object."
 msgstr "한 물체의 숨겨진 특성을 식별합니다."
 
-msgctxt "IdentifyTitle"
+msgctxt "Spell/&IdentifyTitle"
 msgid "Identify"
 msgstr "식별"
 
-msgctxt "InflictWoundsDescription"
+msgctxt "Spell/&InflictWoundsDescription"
 msgid "Deal necrotic damage to an enemy you hit."
 msgstr "당신이 명중시킨 적 하나에게 사령 피해를 줍니다."
 
-msgctxt "InflictWoundsTitle"
+msgctxt "Spell/&InflictWoundsTitle"
 msgid "Inflict Wounds"
 msgstr "상처 가해"
 
-msgctxt "InvisibilityDescription"
+msgctxt "Spell/&InvisibilityDescription"
 msgid "Make an ally invisible for a limited time."
 msgstr "정해진 시간 동안 아군 하나를 투명하게 만듭니다."
 
-msgctxt "InvisibilityTitle"
+msgctxt "Spell/&InvisibilityTitle"
 msgid "Invisibility"
 msgstr "투명화"
 
-msgctxt "JumpDescription"
+msgctxt "Spell/&JumpDescription"
 msgid "Increase an ally's jumping distance."
 msgstr "아군 하나의 도약 거리를 증가시킵니다."
 
-msgctxt "JumpTitle"
+msgctxt "Spell/&JumpTitle"
 msgid "Jump"
 msgstr "점프"
 
-msgctxt "KnockDescription"
+msgctxt "Spell/&KnockDescription"
 msgid "Magically open locked doors, chests, and the like."
 msgstr "잠긴 문, 상자 따위를 마법적으로 엽니다."
 
-msgctxt "KnockTitle"
+msgctxt "Spell/&KnockTitle"
 msgid "Knock"
 msgstr "노크"
 
-msgctxt "LesserRestorationDescription"
+msgctxt "Spell/&LesserRestorationDescription"
 msgid "Remove a detrimental condition from an ally."
 msgstr "아군의 해로운 상태 하나를 제거합니다."
 
-msgctxt "LesserRestorationTitle"
+msgctxt "Spell/&LesserRestorationTitle"
 msgid "Lesser Restoration"
 msgstr "하급 회복"
 
-msgctxt "LevitateTitle"
+msgctxt "Spell/&LevitateTitle"
 msgid "Levitate"
 msgstr "공중 부양"
 
-msgctxt "LightDescription"
+msgctxt "Spell/&LightDescription"
 msgid "An object you can touch emits a powerful light for a limited time."
 msgstr "당신이 접촉한 물체 하나가 일정 시간 동안 강력한 빛을 방출합니다."
 
-msgctxt "LightningBoltDescription"
+msgctxt "Spell/&LightningBoltDescription"
 msgid ""
 "Unleash a stroke of lightning in a direction of your choice, damaging "
 "everyone it touches."
 msgstr "원하는 방향으로 번개를 날려, 닿는 모든 사람에게 피해를 줍니다."
 
-msgctxt "LightningBoltTitle"
+msgctxt "Spell/&LightningBoltTitle"
 msgid "Lightning Bolt"
 msgstr "번개 화살"
 
-msgctxt "LightTitle"
+msgctxt "Spell/&LightTitle"
 msgid "Light"
 msgstr "빛"
 
-msgctxt "LongstriderDescription"
+msgctxt "Spell/&LongstriderDescription"
 msgid "Increases an ally's speed by two cells per turn."
 msgstr "아군의 이동거리를 2칸 증가시킵니다."
 
-msgctxt "LongstriderTitle"
+msgctxt "Spell/&LongstriderTitle"
 msgid "Longstrider"
 msgstr "활보"
 
-msgctxt "MageArmorDescription"
+msgctxt "Spell/&MageArmorDescription"
 msgid "Provide magical armor to an ally who doesn't wear armor."
 msgstr "방어구를 착용하지 않은 아군에게 마법의 갑옷을 제공합니다."
 
-msgctxt "MageArmorTitle"
+msgctxt "Spell/&MageArmorTitle"
 msgid "Mage Armor"
 msgstr "마법사의 갑옷"
 
-msgctxt "MagicCircleDescription"
+msgctxt "Spell/&MagicCircleDescription"
 msgid ""
 "Creates a magic circle which protects against attacks by celestials, "
 "elementals, feys, fiends, and undead, and restricts their movement."
 msgstr "천상체, 정령, 페이, 악마, 언데드의 공격을 방어하고 이동을 제한하는 마법의 원을 생성합니다."
 
-msgctxt "MagicCircleProtectOuterDescription"
+msgctxt "Spell/&MagicCircleProtectOuterDescription"
 msgid ""
 "Celestials, elementals, feys, fiends, and undead attack creatures inside the "
 "circle with disadvantage, and cannot enter the circle."
 msgstr "천상체, 정령, 페이, 악마, 언데드는 원 안으로 들어올 수 없고 원 안의 크리쳐를 공격할 때 불리점을 받습니다."
 
-msgctxt "MagicCircleProtectOuterTitle"
+msgctxt "Spell/&MagicCircleProtectOuterTitle"
 msgid "Magic Circle (protects from outer enemies)"
 msgstr "마법의 원 (외부의 적 차단)"
 
-msgctxt "MagicCircleRestrictInnerDescription"
+msgctxt "Spell/&MagicCircleRestrictInnerDescription"
 msgid ""
 "Celestials, elementals, feys, fiends, and undead attack creatures outside "
 "the circle with disadvantage, and cannot leave the circle."
 msgstr "천상체, 정령, 페이, 악마, 언데드는 원 밖으로 나갈 수 없고 원 밖의 크리쳐를 공격할 때 불리점을 받습니다."
 
-msgctxt "MagicCircleRestrictInnerTitle"
+msgctxt "Spell/&MagicCircleRestrictInnerTitle"
 msgid "Magic Circle (blocks enemies inside)"
 msgstr "마법의 원 (내부의 적 차단)"
 
-msgctxt "MagicCircleTitle"
+msgctxt "Spell/&MagicCircleTitle"
 msgid "Magic Circle"
 msgstr "마법의 원"
 
-msgctxt "MagicMissileDescription"
+msgctxt "Spell/&MagicMissileDescription"
 msgid "Strike one or more enemies with projectiles that can't miss."
 msgstr "빗나가지 않는 발사체로 여러 명의 적을 공격합니다."
 
-msgctxt "MagicMissileTitle"
+msgctxt "Spell/&MagicMissileTitle"
 msgid "Magic Missile"
 msgstr "마법 유도탄"
 
-msgctxt "MagicWeaponDescription"
+msgctxt "Spell/&MagicWeaponDescription"
 msgid "A nonmagical weapon becomes a +1 weapon for up to one hour."
 msgstr "비 마법 무기를 +1 무기로 1시간 동안 강화합니다."
 
-msgctxt "MagicWeaponTitle"
+msgctxt "Spell/&MagicWeaponTitle"
 msgid "Magic Weapon"
 msgstr "마법 무기"
 
-msgctxt "MassHealingWordDescription"
+msgctxt "Spell/&MassHealingWordDescription"
 msgid "Instantly heals up to six allies you can see."
 msgstr "시야에 있는 아군을 최대 6명까지 즉시 치유합니다."
 
-msgctxt "MassHealingWordTitle"
+msgctxt "Spell/&MassHealingWordTitle"
 msgid "Mass Healing Word"
 msgstr "대규모 치유 언령"
 
-msgctxt "MistyStepDescription"
+msgctxt "Spell/&MistyStepDescription"
 msgid "Teleports you to a free cell you can see, no more than 6 cells away."
 msgstr "최대 6칸 거리의 시야 내에 있는 빈 칸으로 순간이동합니다."
 
-msgctxt "MistyStepTitle"
+msgctxt "Spell/&MistyStepTitle"
 msgid "Misty Step"
 msgstr "안개 걸음"
 
-msgctxt "PassWithoutTraceDescription"
+msgctxt "Spell/&PassWithoutTraceDescription"
 msgid "Make yourself and up to 5 allies stealthier for one hour."
 msgstr "당신과 5명까지 아군을 1시간 동안 더 은밀하게 만듭니다."
 
-msgctxt "PassWithoutTraceTitle"
+msgctxt "Spell/&PassWithoutTraceTitle"
 msgid "Pass Without Trace"
 msgstr "흔적 없는 이동"
 
-msgctxt "PoisonSprayDescription"
+msgctxt "Spell/&PoisonSprayDescription"
 msgid "Fire a poison spray at an enemy you can see, within range."
 msgstr "범위 내의 시야에 있는 적에게 독을 분사합니다."
 
-msgctxt "PoisonSprayTitle"
+msgctxt "Spell/&PoisonSprayTitle"
 msgid "Poison Spray"
 msgstr "독 분사"
 
-msgctxt "PrayerOfHealingDescription"
+msgctxt "Spell/&PrayerOfHealingDescription"
 msgid "Heal multiple allies at the same time."
 msgstr "동시에 여러 명의 아군을 치료합니다."
 
-msgctxt "PrayerOfHealingTitle"
+msgctxt "Spell/&PrayerOfHealingTitle"
 msgid "Prayer of Healing"
 msgstr "치유의 기도"
 
-msgctxt "ProtectionFromEnergyAcidDescription"
+msgctxt "Spell/&ProtectionFromEnergyAcidDescription"
 msgid "Touch one willing creature to give them resistance to this damage type."
 msgstr "대상과 접촉해서 이 유형의 피해에 대한 저항력을 부여합니다."
 
-msgctxt "ProtectionFromEnergyAcidTitle"
+msgctxt "Spell/&ProtectionFromEnergyAcidTitle"
 msgid "Protection from Acid"
 msgstr "산으로부터 보호"
 
-msgctxt "ProtectionFromEnergyColdDescription"
+msgctxt "Spell/&ProtectionFromEnergyColdDescription"
 msgid "Touch one willing creature to give them resistance to this damage type."
 msgstr "대상과 접촉해서 이 유형의 피해에 대한 저항력을 부여합니다."
 
-msgctxt "ProtectionFromEnergyColdTitle"
+msgctxt "Spell/&ProtectionFromEnergyColdTitle"
 msgid "Protection from Cold"
 msgstr "냉기로부터 보호"
 
-msgctxt "ProtectionFromEnergyDescription"
+msgctxt "Spell/&ProtectionFromEnergyDescription"
 msgid "Touch one willing creature to give them resistance to this damage type."
 msgstr "대상과 접촉해서 이 유형의 피해에 대한 저항력을 부여합니다."
 
-msgctxt "ProtectionFromEnergyFireDescription"
+msgctxt "Spell/&ProtectionFromEnergyFireDescription"
 msgid "Touch one willing creature to give them resistance to this damage type."
 msgstr "대상과 접촉해서 이 유형의 피해에 대한 저항력을 부여합니다."
 
-msgctxt "ProtectionFromEnergyFireTitle"
+msgctxt "Spell/&ProtectionFromEnergyFireTitle"
 msgid "Protection from Fire"
 msgstr "화염으로부터 보호"
 
-msgctxt "ProtectionFromEnergyLightningDescription"
+msgctxt "Spell/&ProtectionFromEnergyLightningDescription"
 msgid "Touch one willing creature to give them resistance to this damage type."
 msgstr "대상과 접촉해서 이 유형의 피해에 대한 저항력을 부여합니다."
 
-msgctxt "ProtectionFromEnergyLightningTitle"
+msgctxt "Spell/&ProtectionFromEnergyLightningTitle"
 msgid "Protection from Lightning"
 msgstr "번개로부터 보호"
 
-msgctxt "ProtectionFromEnergyThunderDescription"
+msgctxt "Spell/&ProtectionFromEnergyThunderDescription"
 msgid "Touch one willing creature to give them resistance to this damage type."
 msgstr "대상과 접촉해서 이 유형의 피해에 대한 저항력을 부여합니다."
 
-msgctxt "ProtectionFromEnergyThunderTitle"
+msgctxt "Spell/&ProtectionFromEnergyThunderTitle"
 msgid "Protection from Thunder"
 msgstr "천둥으로부터 보호"
 
-msgctxt "ProtectionFromEnergyTitle"
+msgctxt "Spell/&ProtectionFromEnergyTitle"
 msgid "Protection from Energy"
 msgstr "에너지로부터 보호"
 
-msgctxt "ProtectionFromEvilGoodDescription"
+msgctxt "Spell/&ProtectionFromEvilGoodDescription"
 msgid ""
 "Touch an ally to give them protection from evil or good creatures for a "
 "limited time."
 msgstr "아군 하나에 접촉해 악하거나 선한 크리쳐들로부터 일시적으로 보호를 제공합니다."
 
-msgctxt "ProtectionFromEvilGoodTitle"
+msgctxt "Spell/&ProtectionFromEvilGoodTitle"
 msgid "Protect vs Evil & Good"
 msgstr "악 & 선으로부터 보호"
 
-msgctxt "ProtectionFromPoisonDescription"
+msgctxt "Spell/&ProtectionFromPoisonDescription"
 msgid "Cures and protects against poison."
 msgstr "독을 치유하고 독으로부터 보호합니다."
 
-msgctxt "ProtectionFromPoisonTitle"
+msgctxt "Spell/&ProtectionFromPoisonTitle"
 msgid "Protection from Poison"
 msgstr "독으로부터 보호"
 
-msgctxt "RaiseDeadDescription"
+msgctxt "Spell/&RaiseDeadDescription"
 msgid "Brings one creature back to life, up to 10 days after death."
 msgstr "사후 10일이 넘지 않은 크리쳐 하나를 되살립니다."
 
-msgctxt "RaiseDeadTitle"
+msgctxt "Spell/&RaiseDeadTitle"
 msgid "Raise Dead"
 msgstr "사자 소생"
 
-msgctxt "RayOfEnfeeblementDescription"
+msgctxt "Spell/&RayOfEnfeeblementDescription"
 msgid "Weaken an enemy so they deal less damage for one minute."
 msgstr "적 하나를 약화시켜 1분 동안 그 적이 입히는 피해를 줄입니다."
 
-msgctxt "RayOfEnfeeblementTitle"
+msgctxt "Spell/&RayOfEnfeeblementTitle"
 msgid "Ray of Enfeeblement"
 msgstr "약화의 광선"
 
-msgctxt "RayOfFrostDescription"
+msgctxt "Spell/&RayOfFrostDescription"
 msgid "Launch a freezing ray at an enemy to damage and slow them."
 msgstr "적 하나에게 차가운 광선을 발사해 피해를 입히고 둔화시킵니다."
 
-msgctxt "RayOfFrostTitle"
+msgctxt "Spell/&RayOfFrostTitle"
 msgid "Ray of Frost"
 msgstr "서리 광선"
 
-msgctxt "RemoveCurseDescription"
+msgctxt "Spell/&RemoveCurseDescription"
 msgid "Removes all curses affecting the target."
 msgstr "대상에게 영향을 미치는 모든 저주를 제거합니다."
 
-msgctxt "RemoveCurseTitle"
+msgctxt "Spell/&RemoveCurseTitle"
 msgid "Remove Curse"
 msgstr "저주 제거"
 
-msgctxt "ResistanceDescription"
+msgctxt "Spell/&ResistanceDescription"
 msgid "Grant an ally a one-time bonus to saving throws."
 msgstr "아군 하나에게 1회성 내성 굴림 보너스를 부여합니다."
 
-msgctxt "ResistanceTitle"
+msgctxt "Spell/&ResistanceTitle"
 msgid "Resistance"
 msgstr "저항"
 
-msgctxt "ResurrectionDescription"
+msgctxt "Spell/&ResurrectionDescription"
 msgid "Brings one creature back to life, up to 100 years after death."
 msgstr "사후 100년이 넘지 않은 크리쳐 하나를 되살립니다."
 
-msgctxt "ResurrectionTitle"
+msgctxt "Spell/&ResurrectionTitle"
 msgid "Resurrection"
 msgstr "부활"
 
-msgctxt "RevivifyDescription"
+msgctxt "Spell/&RevivifyDescription"
 msgid "Brings one creature back to life, up to 1 minute after death."
 msgstr "사후 1분이 넘지 않은 크리쳐 하나를 되살립니다."
 
-msgctxt "RevivifyTitle"
+msgctxt "Spell/&RevivifyTitle"
 msgid "Revivify"
 msgstr "소생"
 
-msgctxt "SacredFlameDescription"
+msgctxt "Spell/&SacredFlameDescription"
 msgid "Strike an enemy with radiant damage."
 msgstr "광휘 피해로 적 하나를 타격합니다."
 
-msgctxt "SacredFlameTitle"
+msgctxt "Spell/&SacredFlameTitle"
 msgid "Sacred Flame"
 msgstr "신성한 불꽃"
 
-msgctxt "SanctuaryDescription"
+msgctxt "Spell/&SanctuaryDescription"
 msgid "Temp"
 msgstr "임시"
 
-msgctxt "SanctuaryTitle"
+msgctxt "Spell/&SanctuaryTitle"
 msgid "Sanctuary"
 msgstr "성역"
 
-msgctxt "ScorchingRayDescription"
+msgctxt "Spell/&ScorchingRayDescription"
 msgid "Fling rays of fire at one or more enemies."
 msgstr "한 명 이나 다수의 적에게 화염 광선들을 발사합니다."
 
-msgctxt "ScorchingRayTitle"
+msgctxt "Spell/&ScorchingRayTitle"
 msgid "Scorching Ray"
 msgstr "작열의 광선"
 
-msgctxt "SeeInvisibilityDescription"
+msgctxt "Spell/&SeeInvisibilityDescription"
 msgid "You can see invisible creatures."
 msgstr "당신은 투명한 크리쳐들을 볼 수 있습니다."
 
-msgctxt "SeeInvisibilityTitle"
+msgctxt "Spell/&SeeInvisibilityTitle"
 msgid "See Invisibility"
 msgstr "투명화 감지"
 
-msgctxt "ShadowArmorDescription"
+msgctxt "Spell/&ShadowArmorDescription"
 msgid "Grants 3 temporary hit points for one minute."
 msgstr "1분 동안 3 임시 체력을 부여합니다."
 
-msgctxt "ShadowArmorTitle"
+msgctxt "Spell/&ShadowArmorTitle"
 msgid "Shadow Armor"
 msgstr "그림자 갑옷"
 
-msgctxt "ShadowDaggerDescription"
+msgctxt "Spell/&ShadowDaggerDescription"
 msgid "Launches an illusionary dagger that causes psychic damage."
 msgstr "정신 피해를 유발하는 환영 단검 하나를 발사합니다."
 
-msgctxt "ShadowDaggerTitle"
+msgctxt "Spell/&ShadowDaggerTitle"
 msgid "Shadow Dagger"
 msgstr "그림자 단검"
 
-msgctxt "ShatterDescription"
+msgctxt "Spell/&ShatterDescription"
 msgid "Triggers a sudden noise that causes Thunder Damage in a 2-cell radius."
 msgstr "2칸 반경에 천둥 피해를 입히는 갑작스러운 소음을 일으킵니다."
 
-msgctxt "ShatterTitle"
+msgctxt "Spell/&ShatterTitle"
 msgid "Shatter"
 msgstr "분쇄"
 
-msgctxt "ShieldDescription"
+msgctxt "Spell/&ShieldDescription"
 msgid "Increase your AC by 5 just before you would take a hit."
 msgstr "명중당하기 직전에 당신의 AC를 5 증가시킵니다."
 
-msgctxt "ShieldOfFaithDescription"
+msgctxt "Spell/&ShieldOfFaithDescription"
 msgid "Increase an ally's AC by 2 for a limited time."
 msgstr "제한된 시간 동안 아군 하나의 AC를 2 증가시킵니다."
 
-msgctxt "ShieldOfFaithTitle"
+msgctxt "Spell/&ShieldOfFaithTitle"
 msgid "Shield of Faith"
 msgstr "신앙의 방패"
 
-msgctxt "ShieldTitle"
+msgctxt "Spell/&ShieldTitle"
 msgid "Shield"
 msgstr "방패"
 
-msgctxt "ShockingGraspDescription"
+msgctxt "Spell/&ShockingGraspDescription"
 msgid "Damage and daze an enemy on a successful touch."
 msgstr "접촉에 성공하면 적에게 피해를 입히고 감전상태로 만듭니다."
 
-msgctxt "ShockingGraspTitle"
+msgctxt "Spell/&ShockingGraspTitle"
 msgid "Shocking Grasp"
 msgstr "충격의 손길"
 
-msgctxt "SleepTitle"
+msgctxt "Spell/&SleepTitle"
 msgid "Sleep"
 msgstr "수면"
 
-msgctxt "SleetStormDescription"
+msgctxt "Spell/&SleetStormDescription"
 msgid ""
 "Creates an area where the ground is slippery, vision is obscured, and "
 "concentration is harder."
 msgstr "지면이 미끄럽고, 시야는 가려지며, 집중이 어려워지는 영역을 만듭니다."
 
-msgctxt "SleetStormTitle"
+msgctxt "Spell/&SleetStormTitle"
 msgid "Sleet Storm"
 msgstr "진눈깨비 폭풍"
 
-msgctxt "SlowDescription"
+msgctxt "Spell/&SlowDescription"
 msgid "Slows and impairs the actions of up to 6 creatures."
 msgstr "크리쳐 6 명 까지의 행동을 방해하고 둔화시킵니다."
 
-msgctxt "SlowTitle"
+msgctxt "Spell/&SlowTitle"
 msgid "Slow"
 msgstr "감속"
 
-msgctxt "SpareTheDyingDescription"
+msgctxt "Spell/&SpareTheDyingDescription"
 msgid "Touch a dying ally to stabilize them."
 msgstr "죽어가는 아군 하나에 접촉해 안정화시킵니다."
 
-msgctxt "SpareTheDyingTitle"
+msgctxt "Spell/&SpareTheDyingTitle"
 msgid "Spare the Dying"
 msgstr "죽음 모면"
 
-msgctxt "SpiderClimbDescription"
+msgctxt "Spell/&SpiderClimbDescription"
 msgid ""
 "Touch an ally to allow them to climb walls like a spider for a limited time."
 msgstr "아군 하나에 접촉해 일시적으로 거미처럼 벽을 탈 수 있도록 만듭니다."
 
-msgctxt "SpiderClimbTitle"
+msgctxt "Spell/&SpiderClimbTitle"
 msgid "Spider Climb"
 msgstr "거미 등반"
 
-msgctxt "SpiritGuardiansDescription"
+msgctxt "Spell/&SpiritGuardiansDescription"
 msgid "Call forth spirits to protect you."
 msgstr "영혼들을 불러내 당신을 보호합니다."
 
-msgctxt "SpiritGuardiansTitle"
+msgctxt "Spell/&SpiritGuardiansTitle"
 msgid "Spirit Guardians"
 msgstr "영혼 수호자"
 
-msgctxt "SpiritualWeaponDescription"
+msgctxt "Spell/&SpiritualWeaponDescription"
 msgid "Summon a weapon that fights for you."
 msgstr "당신을 위해 싸우는 무기를 하나 소환합니다."
 
-msgctxt "SpiritualWeaponTitle"
+msgctxt "Spell/&SpiritualWeaponTitle"
 msgid "Spiritual Weapon"
 msgstr "영체 무기"
 
-msgctxt "StinkingCloudDescription"
+msgctxt "Spell/&StinkingCloudDescription"
 msgid "Create a cloud of incapacitating, noxious gas."
 msgstr "무력화시키는 유독 가스 구름을 만듭니다."
 
-msgctxt "StinkingCloudTitle"
+msgctxt "Spell/&StinkingCloudTitle"
 msgid "Stinking Cloud"
 msgstr "악취 구름"
 
-msgctxt "ThunderwaveDescription"
+msgctxt "Spell/&ThunderwaveDescription"
 msgid ""
 "Emit a wave of force that causes damage and pushes creatures and objects "
 "away."
 msgstr "피해를 입히고 크리쳐와 물체를 밀어내는 힘의 파동을 방출합니다."
 
-msgctxt "ThunderwaveTitle"
+msgctxt "Spell/&ThunderwaveTitle"
 msgid "Thunderwave"
 msgstr "천둥 파동"
 
-msgctxt "TonguesDescription"
+msgctxt "Spell/&TonguesDescription"
 msgid "Grants knowledge of all languages for one hour."
 msgstr "1시간 동안 모든 언어에 대한 지식을 부여합니다."
 
-msgctxt "TonguesTitle"
+msgctxt "Spell/&TonguesTitle"
 msgid "Tongues"
 msgstr "언어 통달"
 
-msgctxt "TrueStrikeDescription"
+msgctxt "Spell/&TrueStrikeDescription"
 msgid "Increases your chance to hit a target you can see, one time."
 msgstr "1회, 시야 내의 대상을 명중시킬 확률을 증가시킵니다."
 
-msgctxt "TrueStrikeTitle"
+msgctxt "Spell/&TrueStrikeTitle"
 msgid "True Strike"
 msgstr "진정한 타격"
 
-msgctxt "VampiricTouchDescription"
+msgctxt "Spell/&VampiricTouchDescription"
 msgid "Grants you a life-draining melee attack for one minute."
 msgstr "1분 동안 당신에게 생명력을 흡수하는 근접 공격을 부여합니다."
 
-msgctxt "VampiricTouchTitle"
+msgctxt "Spell/&VampiricTouchTitle"
 msgid "Vampiric Touch"
 msgstr "흡혈의 손길"
 
-msgctxt "WallOfFireDescription"
+msgctxt "Spell/&WallOfFireDescription"
 msgid "Create a burning wall that injures creatures in or next to it."
 msgstr "내부 또는 옆에 있는 크리쳐들을 해하는 불타는 벽을 생성합니다."
 
-msgctxt "WallOfFireLineTitle"
+msgctxt "Spell/&WallOfFireLineTitle"
 msgid "Wall of Fire (line)"
 msgstr "화염 장벽(직선)"
 
-msgctxt "WallOfFireTitle"
+msgctxt "Spell/&WallOfFireTitle"
 msgid "Wall of Fire"
 msgstr "화염 장벽"
 
-msgctxt "WaterBreathingDescription"
+msgctxt "Spell/&WaterBreathingDescription"
 msgid "Grants up to ten creatures the ability to breathe underwater."
 msgstr "최대 10명의 크리쳐에게 수중 호흡 능력을 부여합니다."
 
-msgctxt "WaterBreathingTitle"
+msgctxt "Spell/&WaterBreathingTitle"
 msgid "Water Breathing"
 msgstr "수중 호흡"
 
-msgctxt "WaterWalkDescription"
+msgctxt "Spell/&WaterWalkDescription"
 msgid "Grants you to ability to walk on liquid surfaces for one hour."
 msgstr "1시간 동안 당신에게 액체 표면을 걸을 수 있는 능력을 부여합니다."
 
-msgctxt "WaterWalkTitle"
+msgctxt "Spell/&WaterWalkTitle"
 msgid "Water Walk"
 msgstr "수상 보행"
 
-msgctxt "WindWallDescription"
+msgctxt "Spell/&WindWallDescription"
 msgid ""
 "Create a wall of wind that causes damage, pushes creatures and objects away, "
 "and disperses fogs and gases."
 msgstr "피해를 입히고, 크리쳐와 물체를 밀어내고, 안개와 가스를 흩어지게 만드는 바람의 벽을 생성합니다."
 
-msgctxt "WindWallTitle"
+msgctxt "Spell/&WindWallTitle"
 msgid "Wind Wall"
 msgstr "바람 벽"
 
-msgctxt "AnnoyingBeeTitle"
+msgctxt "Spell/&AnnoyingBeeTitle"
 msgid "Annoying Bee"
 msgstr "성가신 꿀벌"
 
-msgctxt "AnnoyingBeeDescription"
+msgctxt "Spell/&AnnoyingBeeDescription"
 msgid ""
 "The target sees an illusional bee harassing them and has disadvantage on "
 "concentration checks until the start of their next turn."
 msgstr "대상은 환영 벌이 자신을 괴롭히는 것을 보고 대상의 다음 차례가 시작될 때까지 집중 판정에 불리점을 받습니다."
 
-msgctxt "GreaseTitle"
+msgctxt "Spell/&GreaseTitle"
 msgid "Grease"
 msgstr "기름"
 
-msgctxt "GreaseDescription"
+msgctxt "Spell/&GreaseDescription"
 msgid ""
 "Cover an area of 2 x 2 cells with grease. Creatures trying to cross it may "
 "fall prone."
 msgstr "기름으로 2 x 2 칸 역역을 덮습니다. 이것을 지나가려는 크리쳐는 넘어질 수 있습니다."
 
-msgctxt "GoodberryTitle"
+msgctxt "Spell/&GoodberryTitle"
 msgid "Goodberry"
 msgstr "굿베리"
 
-msgctxt "DetectPoisonAndDiseaseTitle"
+msgctxt "Spell/&DetectPoisonAndDiseaseTitle"
 msgid "Detect Poison and Disease"
 msgstr "독과 질병 탐지"
 
-msgctxt "DetectPoisonAndDiseaseDescription"
+msgctxt "Spell/&DetectPoisonAndDiseaseDescription"
 msgid ""
 "You sense the presence and location of poisonous creatures and diseases "
 "within 6 cells of you."
 msgstr "당신으로부터 6칸 이내의 유독 크리쳐와 질병의 존재와 위치를 감지합니다."
 
-msgctxt "ComprehendLanguagesTitle"
+msgctxt "Spell/&ComprehendLanguagesTitle"
 msgid "Comprehend Languages"
 msgstr "언어 이해"
 
-msgctxt "ComprehendLanguagesDescription"
+msgctxt "Spell/&ComprehendLanguagesDescription"
 msgid ""
 "For the duration of the spell, you understand the literal meaning of any "
 "spoken words that you hear."
 msgstr "주문의 지속시간 동안, 당신은 들리는 모든 단어의 사전적 의미를 이해합니다."
 
-msgctxt "AnimalFriendshipTitle"
+msgctxt "Spell/&AnimalFriendshipTitle"
 msgid "Animal Friendship"
 msgstr "동물의 우정"
 
-msgctxt "AnimalFriendshipDescription"
+msgctxt "Spell/&AnimalFriendshipDescription"
 msgid ""
 "Choose a beast that you can see within the spell's range. The beast must "
 "make a Wisdom saving throw or be charmed for the spell's duration."
 msgstr "주문 범위 안에서 시야 내에 있는 야수를 선택하십시오. 선택된 야수가 지혜 내성 굴림에 실패하면 주문 지속시간 동안 매혹됩니다."
 
-msgctxt "PurifyFoodTitle"
+msgctxt "Spell/&PurifyFoodTitle"
 msgid "Purify Food"
 msgstr "음식 정화"
 
-msgctxt "PurifyFoodDescription"
+msgctxt "Spell/&PurifyFoodDescription"
 msgid ""
 "All non-magical food within a sphere 5 feet in radius is purified and "
 "rendered free of poison and disease."
 msgstr "5 피트 반경 구체 내의 모든 비마법적 음식의 독과 질병이 제거되고 정화됩니다."
 
-msgctxt "EntangleTitle"
+msgctxt "Spell/&EntangleTitle"
 msgid "Entangle"
 msgstr "덩굴 속박"
 
-msgctxt "EntangleDescription"
+msgctxt "Spell/&EntangleDescription"
 msgid ""
 "Enemies in a four-cell square area are restrained if they fail an STR saving "
 "throw"
 msgstr "4칸 정사각형 영역 내의 적들은 힘 내성 굴림에 실패하면 붙잡힙니다"
 
-msgctxt "CommandTitle"
+msgctxt "Spell/&CommandTitle"
 msgid "Command"
 msgstr "명령"
 
-msgctxt "CommandTitleDescription"
+msgctxt "Spell/&CommandTitleDescription"
 msgid "You speak one word to command a creature to perform a simple action"
 msgstr "한 단어짜리 명령을 내려 대상이 간단한 행동을 하도록 합니다"
 
-msgctxt "CommandApproachTitle"
+msgctxt "Spell/&CommandApproachTitle"
 msgid "Approach"
 msgstr "다가와"
 
-msgctxt "CommandApproachDescription"
+msgctxt "Spell/&CommandApproachDescription"
 msgid "The target moves toward you by the shortest and most direct route"
 msgstr "대상은 가장 가깝고 직선적인 경로를 따라 당신에게 접근합니다"
 
-msgctxt "CommandDropTitle"
+msgctxt "Spell/&CommandDropTitle"
 msgid "Drop"
 msgstr "떨어트려"
 
-msgctxt "CommandDropDescription"
+msgctxt "Spell/&CommandDropDescription"
 msgid "The target drops what it is holding and ends its turn"
 msgstr "대상은 쥐고 있던 것을 떨어트리며 자기 턴을 끝냅니다"
 
-msgctxt "CommandFleeTitle"
+msgctxt "Spell/&CommandFleeTitle"
 msgid "Flee"
 msgstr "도망쳐"
 
-msgctxt "CommandFleeDescription"
+msgctxt "Spell/&CommandFleeDescription"
 msgid "The target spends its turn running away"
 msgstr "대상은 당신에게 도망치는 데 턴을 사용합니다"
 
-msgctxt "CommandGrovelTitle"
+msgctxt "Spell/&CommandGrovelTitle"
 msgid "Grovel"
 msgstr "엎드려"
 
-msgctxt "CommandGrovelDescription"
+msgctxt "Spell/&CommandGrovelDescription"
 msgid "The target falls prone and ends its turn"
 msgstr "대상은 땅에 엎드린 다음 자기 턴을 끝냅니다"
 
-msgctxt "CommandHaltTitle"
+msgctxt "Spell/&CommandHaltTitle"
 msgid "Halt"
 msgstr "멈춰"
 
-msgctxt "CommandHaltDescription"
+msgctxt "Spell/&CommandHaltDescription"
 msgid "The target doesn't move and doesn't take actions"
 msgstr "대상은 이동을 못하며 아무런 액션을 취하지 않고 자기 턴을 끝냅니다"
 
-msgctxt "CalmEmotionsTitle"
+msgctxt "Spell/&CalmEmotionsTitle"
 msgid "Calm Emotions"
 msgstr "감정 진정화"
 
-msgctxt "CalmEmotionsOnAllyTitle"
+msgctxt "Spell/&CalmEmotionsOnAllyTitle"
 msgid "Calm Ally"
 msgstr "아군 진정화"
 
-msgctxt "CalmEmotionsOnAllyDescription"
+msgctxt "Spell/&CalmEmotionsOnAllyDescription"
 msgid "Stops one or more creatures from being charmed or frightened."
 msgstr "하나 이상의 크리쳐들이 매혹되거나 공포에 빠지지 않게 합니다."
 
-msgctxt "CalmEmotionsOnEnemyTitle"
+msgctxt "Spell/&CalmEmotionsOnEnemyTitle"
 msgid "Calm Enemy"
 msgstr "적 진정화"
 
-msgctxt "AlarmTitle"
+msgctxt "Spell/&AlarmTitle"
 msgid "Alarm"
 msgstr "경보"
 
-msgctxt "AlarmDescription"
+msgctxt "Spell/&AlarmDescription"
 msgid "Magically detects roaming monsters when camping on the road."
 msgstr "아영 시 배회하는 몬스터들을 마법적으로 감지합니다."
 
-msgctxt "Create or Destroy waterTitle"
+msgctxt "Spell/&Create or Destroy waterTitle"
 msgid "Create or Destroy Water"
 msgstr "물 생성 또는 파괴"
 
-msgctxt "Create or Destroy waterDescription"
+msgctxt "Spell/&Create or Destroy waterDescription"
 msgid "Temp"
 msgstr "임시"
 
-msgctxt "CreateWaterTitle"
+msgctxt "Spell/&CreateWaterTitle"
 msgid "Create Water"
 msgstr "물 생성"
 
-msgctxt "CreateWaterDescription"
+msgctxt "Spell/&CreateWaterDescription"
 msgid "Temp"
 msgstr "임시"
 
-msgctxt "DestroyWaterTitle"
+msgctxt "Spell/&DestroyWaterTitle"
 msgid "Destroy Water"
 msgstr "물 파괴"
 
-msgctxt "DestroyWaterDescription"
+msgctxt "Spell/&DestroyWaterDescription"
 msgid "Temp"
 msgstr "임시"
 
-msgctxt "Floating DiskTitle"
+msgctxt "Spell/&Floating DiskTitle"
 msgid "Floating Disk"
 msgstr ""
 
-msgctxt "Floating DiskDescription"
+msgctxt "Spell/&Floating DiskDescription"
 msgid "Temp"
 msgstr ""
 
-msgctxt "Purify FoodTitle"
+msgctxt "Spell/&Purify FoodTitle"
 msgid "Purify Food"
 msgstr "음식 정화"
 
-msgctxt "Purify FoodDescription"
+msgctxt "Spell/&Purify FoodDescription"
 msgid "Temp"
 msgstr ""
 
-msgctxt "SilenceTitle"
+msgctxt "Spell/&SilenceTitle"
 msgid "Silence"
 msgstr "침묵"
 
-msgctxt "SilenceDescription"
+msgctxt "Spell/&SilenceDescription"
 msgid ""
 "Creates a sphere four cells in radius, inside which sound cannot exist. "
 "Stops thunder damage and prevents spellcasting using verbal components."
 msgstr "소리가 존재할 수 없는 4칸 반경 구체를 생성합니다. 천둥 피해를 막고 음성 구성요소를 사용하는 주문 시전을 방지합니다."
 
-msgctxt "WardingBondTitle"
+msgctxt "Spell/&WardingBondTitle"
 msgid "Warding Bond"
 msgstr "수호의 결속"
 
-msgctxt "WardingBondDescription"
+msgctxt "Spell/&WardingBondDescription"
 msgid "Temp"
 msgstr "임시"
 
-msgctxt "ConditionRestrictedInsideMagicCircleTitle"
+msgctxt "Spell/&ConditionRestrictedInsideMagicCircleTitle"
 msgid "Restricted Inside Magic Circle"
 msgstr "마법의 원 내부 제한"
 
-msgctxt "ConditionProtectedInsideMagicCircleTitle"
+msgctxt "Spell/&ConditionProtectedInsideMagicCircleTitle"
 msgid "Protected Inside Magic Circle"
 msgstr "마법의 원 내부 보호"
 
-msgctxt "Shine_Title"
+msgctxt "Spell/&Shine_Title"
 msgid "Shine"
 msgstr "빛내기"
 
-msgctxt "Shine_Description"
+msgctxt "Spell/&Shine_Description"
 msgid "An enemy you can see becomes luminous for a while."
 msgstr "시야 내의 적 하나를 잠시 동안 빛나게 합니다."
 
-msgctxt "Sparkle_Title"
+msgctxt "Spell/&Sparkle_Title"
 msgid "Sparkle"
 msgstr "반짝이는 광채"
 
-msgctxt "Sparkle_Description"
+msgctxt "Spell/&Sparkle_Description"
 msgid ""
 "Target up to three objects that can be illuminated and light them up "
 "immediately."
 msgstr "조명을 최대 3개까지 즉시 밝힙니다."
 
-msgctxt "GoodberryDescription"
+msgctxt "Spell/&GoodberryDescription"
 msgid ""
 "Creates 10 berries infused with magic. Eating a berry restores 1 hit point "
 "and provides sustenance for a long rest. Berries vanish after a long rest."
@@ -1263,372 +1260,356 @@ msgstr ""
 "마법이 깃든 열매 10개를 생성합니다. 열매를 먹으면 1 체력이 회복되고 긴 휴식 동안 영양분을 제공합니다. 열매는 긴 휴식 이후 "
 "사라집니다."
 
-msgctxt "ColorSprayDescription"
+msgctxt "Spell/&ColorSprayDescription"
 msgid "Spray a luminous crone that briefly blinds your enemies."
 msgstr "적들을 일시적으로 실명시키는 빛나는 원뿔을 방출합니다."
 
-msgctxt "ConjureAnimalsDescription"
+msgctxt "Spell/&ConjureAnimalsDescription"
 msgid "Summon spirits in the form of beasts to help you in battle"
 msgstr "당신을 도울 짐승 형태의 영혼들을 소환합니다"
 
-msgctxt "ConjureAnimalsFourBeastsDescription"
+msgctxt "Spell/&ConjureAnimalsFourBeastsDescription"
 msgid "4 medium beasts are conjured"
 msgstr "중형 아수 넷이 소환됩니다"
 
-msgctxt "ConjureAnimalsFourBeastsTitle"
+msgctxt "Spell/&ConjureAnimalsFourBeastsTitle"
 msgid "Conjure 4 Beasts"
 msgstr "야수 4 소환"
 
-msgctxt "ConjureAnimalsOneBeastDescription"
+msgctxt "Spell/&ConjureAnimalsOneBeastDescription"
 msgid "1 powerful beast is conjured"
 msgstr "강력한 야수 1 기가 소환됩니다"
 
-msgctxt "ConjureAnimalsOneBeastTitle"
+msgctxt "Spell/&ConjureAnimalsOneBeastTitle"
 msgid "Conjure 1 Beast"
 msgstr "야수 1 소환"
 
-msgctxt "ConjureAnimalsTitle"
+msgctxt "Spell/&ConjureAnimalsTitle"
 msgid "Conjure Animal"
 msgstr "동물 소환"
 
-msgctxt "ConjureAnimalsTwoBeastsDescription"
+msgctxt "Spell/&ConjureAnimalsTwoBeastsDescription"
 msgid "2 beasts are conjured"
 msgstr "야수 2마리가 소환됩니다"
 
-msgctxt "ConjureAnimalsTwoBeastslTitle"
+msgctxt "Spell/&ConjureAnimalsTwoBeastslTitle"
 msgid "Conjure 2 Beasts"
 msgstr "야수 2 소환"
 
-msgctxt "GustOfWindTitle"
+msgctxt "Spell/&GustOfWindTitle"
 msgid "Gust of Wind"
 msgstr "돌풍"
 
-msgctxt "LevitateDescription"
+msgctxt "Spell/&LevitateDescription"
 msgid ""
 "Allow a creature to levitate and gain control of its aerial movement for a "
 "limited time. Can affect enemies if their size is medium or smaller."
 msgstr "제한된 시간 동안 크리쳐가 공중에 떠서 이동할 수 있게 합니다. 크기가 중간 이하인 적에게도 사용할 수 있습니다."
 
-msgctxt "IdentifyCreaturesTitle"
+msgctxt "Spell/&IdentifyCreaturesTitle"
 msgid "Identify Creatures"
 msgstr "크리쳐 식별"
 
-msgctxt "IdentifyCreaturesDescription"
+msgctxt "Spell/&IdentifyCreaturesDescription"
 msgid "Reveals full bestiary knowledge for the affected creatures."
 msgstr "영향을 받는 크리쳐에 대한 모든 생물도감 지식을 제공합니다."
 
-msgctxt "BanishmentTitle"
+msgctxt "Spell/&BanishmentTitle"
 msgid "Banishment"
 msgstr "추방"
 
-msgctxt "BanishmentDescription"
+msgctxt "Spell/&BanishmentDescription"
 msgid ""
 "Banishes a creature as long as you concentrate. The creature can be "
 "permanently banished if it is extraplanar."
 msgstr "집중하는 동안 크리쳐를 추방합니다. 외차원체는 영구적으로 추방될 수 있습니다."
 
-msgctxt "BlackTentaclesTitle"
+msgctxt "Spell/&BlackTentaclesTitle"
 msgid "Black Tentacles"
 msgstr "검은 촉수"
 
-msgctxt "BlackTentaclesDescription"
+msgctxt "Spell/&BlackTentaclesDescription"
 msgid ""
 "Conjures black tentacles that restrain and damage creatures within the area "
 "of effect."
 msgstr "효과 범위 내의 생물의 움직임을 제한하고 피해를 입히는 검은 촉수를 소환합니다."
 
-msgctxt "BlightTitle"
+msgctxt "Spell/&BlightTitle"
 msgid "Blight"
 msgstr "역병"
 
-msgctxt "BlightDescription"
+msgctxt "Spell/&BlightDescription"
 msgid "Drains life from a creature, causing massive necrotic damage."
 msgstr "막대한 사령 피해를 입히며 크리쳐의 생명력을 흡수합니다."
 
-msgctxt "ConfusionTitle"
+msgctxt "Spell/&ConfusionTitle"
 msgid "Confusion"
 msgstr "혼란"
 
-msgctxt "ConfusionDescription"
+msgctxt "Spell/&ConfusionDescription"
 msgid ""
 "Creates confusion and erratic behavior in a creature, possibly leading it to "
 "attack its allies."
 msgstr "크리쳐에게 혼란과 비정상적인 행동을 일으켜 피아식별을 하지 못하도록 합니다."
 
-msgctxt "ConjureMinorElementalsTitle"
+msgctxt "Spell/&ConjureMinorElementalsTitle"
 msgid "Conjure Minor Elementals"
 msgstr "하급 정령 소환"
 
-msgctxt "ConjureMinorElementalsDescription"
+msgctxt "Spell/&ConjureMinorElementalsDescription"
 msgid ""
 "Conjure elemental creatures under your command, which are dismissed when the "
 "spell ends or is broken."
 msgstr "당신의 명령에 따르며, 주문이 종료되거나 해제될 때 사라지는 하급 정령을 소환합니다."
 
-msgctxt "ConjureMinorElementalsOneTitle"
+msgctxt "Spell/&ConjureMinorElementalsOneTitle"
 msgid "Conjure 1 Elemental"
 msgstr "정령 하나 소환"
 
-msgctxt "ConjureMinorElementalsOneDescription"
+msgctxt "Spell/&ConjureMinorElementalsOneDescription"
 msgid "1 elemental is conjured (CR 2)."
 msgstr "정령 1체가 소환됩니다(CR 2)."
 
-msgctxt "ConjureMinorElementalsTwoTitle"
+msgctxt "Spell/&ConjureMinorElementalsTwoTitle"
 msgid "Conjure 2 Elementals"
 msgstr "정령 둘 소환"
 
-msgctxt "ConjureMinorElementalsTwoDescription"
+msgctxt "Spell/&ConjureMinorElementalsTwoDescription"
 msgid "2 elementals are conjured (CR 2)."
 msgstr "정령 2체가 소환됩니다(CR 2)."
 
-msgctxt "ConjureMinorElementalsFourTitle"
+msgctxt "Spell/&ConjureMinorElementalsFourTitle"
 msgid "Conjure 4 Elementals"
 msgstr "정령 넷 소환"
 
-msgctxt "ConjureMinorElementalsFourDescription"
+msgctxt "Spell/&ConjureMinorElementalsFourDescription"
 msgid "4 elementals are conjured (CR 1/2)."
 msgstr "정령 4체가 소환됩니다(CR 1/2)."
 
-msgctxt "DeathWardTitle"
+msgctxt "Spell/&DeathWardTitle"
 msgid "Death Ward"
 msgstr "죽음 방호"
 
-msgctxt "DeathWardDescription"
+msgctxt "Spell/&DeathWardDescription"
 msgid ""
 "Protects the creature once against instant death or being reduced to 0 hit "
 "points."
 msgstr "즉사 또는 체력이 0으로 감소되는 공격으로부터 대상 크리쳐를 한 번 보호합니다."
 
-msgctxt "DimensionDoorTitle"
+msgctxt "Spell/&DimensionDoorTitle"
 msgid "Dimension Door"
 msgstr "차원문"
 
-msgctxt "DimensionDoorDescription"
+msgctxt "Spell/&DimensionDoorDescription"
 msgid ""
 "Transfers the caster and a friendly creature to a specified destination."
 msgstr "주문 시전자와 아군 크리쳐를 지정된 목적지로 이동시킵니다."
 
-msgctxt "FireShieldTitle"
+msgctxt "Spell/&FireShieldTitle"
 msgid "Fire Shield"
 msgstr "화염 방패"
 
-msgctxt "FireShieldDescription"
+msgctxt "Spell/&FireShieldDescription"
 msgid ""
 "Grants resistance to fire or cold, and damages creatures attacking the "
 "caster with melee attacks."
 msgstr "화염과 냉기에 대한 저항력을 부여하고, 근접 공격으로 시전자를 공격하는 크리쳐에게 피해를 줍니다."
 
-#, fuzzy
-msgctxt "FireShieldWarmTitle"
+msgctxt "Spell/&FireShieldWarmTitle"
 msgid "Warm Shield"
 msgstr "온기 방패"
 
-msgctxt "FireShieldWarmDescription"
+msgctxt "Spell/&FireShieldWarmDescription"
 msgid "Resistance to cold damage; attackers receive fire damage."
 msgstr "냉기 피해에 대한 내성; 공격자는 화염 피해를 입습니다."
 
-#, fuzzy
-msgctxt "FireShieldColdTitle"
+msgctxt "Spell/&FireShieldColdTitle"
 msgid "Cold Shield"
 msgstr "냉기 방패"
 
-msgctxt "FireShieldColdDescription"
+msgctxt "Spell/&FireShieldColdDescription"
 msgid "Resistance to fire damage; attackers receive cold damage."
 msgstr "화염 피해에 대한 내성; 공격자는 냉기 피해를 입습니다."
 
-msgctxt "FreedomOfMovementTitle"
+msgctxt "Spell/&FreedomOfMovementTitle"
 msgid "Freedom of Movement"
 msgstr "이동의 자유"
 
-#, fuzzy
-msgctxt "FreedomOfMovementDescription"
+msgctxt "Spell/&FreedomOfMovementDescription"
 msgid ""
 "Grants immunity to movement restrictions, as well as being paralyzed or "
 "restrained."
 msgstr "이동 제한 및 마비, 또는 구속에 면역이 됩니다."
 
-msgctxt "GiantInsectTitle"
+msgctxt "Spell/&GiantInsectTitle"
 msgid "Giant Insect"
 msgstr "거대 곤충"
 
-#, fuzzy
-msgctxt "GiantInsectDescription"
+msgctxt "Spell/&GiantInsectDescription"
 msgid "Conjures a giant version of a natural insect or arthropod."
 msgstr "거대한 자연 곤충이나 절지동물 하나를 불러냅니다."
 
-msgctxt "GreaterInvisibilityTitle"
+msgctxt "Spell/&GreaterInvisibilityTitle"
 msgid "Greater Invisibility"
 msgstr "상급 투명화"
 
-#, fuzzy
-msgctxt "GreaterInvisibilityDescription"
+msgctxt "Spell/&GreaterInvisibilityDescription"
 msgid ""
 "Target becomes invisible for the duration, even when attacking or casting "
 "spells."
 msgstr "대상은 지속시간 동안 투명 상태가 되며, 이는 공격하거나 주문을 시전할 때도 유지됩니다."
 
-msgctxt "GuardianOfFaithTitle"
+msgctxt "Spell/&GuardianOfFaithTitle"
 msgid "Guardian of Faith"
 msgstr "믿음의 수호자"
 
-msgctxt "GuardianOfFaithDescription"
+msgctxt "Spell/&GuardianOfFaithDescription"
 msgid "Conjures a large spectral guardian that damages approaching enemies."
 msgstr "다가오는 적에게 피해를 주는 거대한 영체 수호자를 소환합니다."
 
-msgctxt "IceStormTitle"
+msgctxt "Spell/&IceStormTitle"
 msgid "Ice Storm"
 msgstr "얼음 폭풍"
 
-msgctxt "IceStormDescription"
+msgctxt "Spell/&IceStormDescription"
 msgid ""
 "Causes bludgeoning and cold damage in the area, and turns the ground into "
 "difficult terrain."
 msgstr "해당 지역에 둔기 및 냉기 피해를 입히고, 지면을 험난한 지형으로 바꿉니다."
 
-msgctxt "PhantasmalKillerTitle"
+msgctxt "Spell/&PhantasmalKillerTitle"
 msgid "Phantasmal Killer"
 msgstr "환영 살인마"
 
-msgctxt "PhantasmalKillerDescription"
+msgctxt "Spell/&PhantasmalKillerDescription"
 msgid ""
 "Causes psychic damage to the target creature with each turn, unless a saving "
 "throw is successful or the effect ends."
 msgstr "내성 굴림에 성공하거나 지속시간이 끝날 때까지 대상 크리쳐에게 매 턴 정신 피해를 입힙니다."
 
-msgctxt "StoneskinTitle"
+msgctxt "Spell/&StoneskinTitle"
 msgid "Stoneskin"
 msgstr "돌가죽"
 
-msgctxt "StoneskinDescription"
+msgctxt "Spell/&StoneskinDescription"
 msgid ""
 "Grants resistance to non-magical bludgeoning, slashing, and piercing damage."
 msgstr "마법이 아닌 타격, 참격, 관통 피해에 대한 저항력을 부여합니다."
 
-#, fuzzy
-msgctxt "WallOfFireRingInnerTitle"
+msgctxt "Spell/&WallOfFireRingInnerTitle"
 msgid "Wall of Fire (Ring/Inner)"
 msgstr "화염 장벽(링/내부)"
 
-#, fuzzy
-msgctxt "WallOfFireRingOuterTitle"
+msgctxt "Spell/&WallOfFireRingOuterTitle"
 msgid "Wall of Fire (Ring/Outer)"
 msgstr "화염 장벽(링/외부)"
 
-#, fuzzy
-msgctxt "SleepDescription"
+msgctxt "Spell/&SleepDescription"
 msgid "Put a number of creatures to sleep for a limited time."
 msgstr "제한된 시간 동안 대상 생물들을 잠들게 합니다."
 
-msgctxt "CloudKillTitle"
+msgctxt "Spell/&CloudKillTitle"
 msgid "Cloudkill"
 msgstr "죽음의 구름"
 
-msgctxt "CloudKillDescription"
+msgctxt "Spell/&CloudKillDescription"
 msgid "Creates an obscuring and poisonous cloud. The cloud moves every round."
 msgstr "유독하고 시야를 제한하는 구름을 만듭니다. 구름은 매 라운드 움직입니다."
 
-msgctxt "ConeOfColdTitle"
+msgctxt "Spell/&ConeOfColdTitle"
 msgid "Cone of Cold"
 msgstr "냉기 분사"
 
-#, fuzzy
-msgctxt "ConeOfColdDescription"
+msgctxt "Spell/&ConeOfColdDescription"
 msgid "Inflicts massive cold damage in the cone of effect."
 msgstr "원뿔형 범위에 막대한 냉기 피해를 입힙니다."
 
-msgctxt "ConjureElementalTitle"
+msgctxt "Spell/&ConjureElementalTitle"
 msgid "Conjure Elemental"
 msgstr "정령 소환"
 
-msgctxt "ConjureElementalDescription"
+msgctxt "Spell/&ConjureElementalDescription"
 msgid ""
 "Conjures an elemental of the chosen element that fights alongside you. If "
 "you lose concentration, the elemental remains and becomes hostile."
 msgstr "당신과 함께 싸울 선택된 계열의 정령을 불러냅니다. 집중력을 잃으면 정령은 돌아가지 않고 적이 됩니다."
 
-msgctxt "ConjureElementalAirTitle"
+msgctxt "Spell/&ConjureElementalAirTitle"
 msgid "Conjure Elemental (Air)"
 msgstr "정령 소환(바람)"
 
-msgctxt "ConjureElementalEarthTitle"
+msgctxt "Spell/&ConjureElementalEarthTitle"
 msgid "Conjure Elemental (Earth)"
 msgstr "정령 소환(땅)"
 
-msgctxt "ConjureElementalFireTitle"
+msgctxt "Spell/&ConjureElementalFireTitle"
 msgid "Conjure Elemental (Fire)"
 msgstr "정령 소환(불)"
 
-msgctxt "ContagionTitle"
+msgctxt "Spell/&ContagionTitle"
 msgid "Contagion"
 msgstr "감염"
 
-#, fuzzy
-msgctxt "ContagionDescription"
+msgctxt "Spell/&ContagionDescription"
 msgid "Hit a creature to inflict a disease from the options."
 msgstr "크리쳐를 타격하여 여러 질병 중 하나를 유발합니다."
 
-#, fuzzy
-msgctxt "ContagionBlindingSicknessTitle"
+msgctxt "Spell/&ContagionBlindingSicknessTitle"
 msgid "Blinding Sickness"
 msgstr "실명의 아픔"
 
-msgctxt "ContagionBlindingSicknessDescription"
+msgctxt "Spell/&ContagionBlindingSicknessDescription"
 msgid ""
 "The creature has disadvantage on Wisdom checks and Wisdom saving throws, and "
 "is blinded."
 msgstr "대상 크리쳐는 지혜 판정과 지혜 내성 굴림에 불리점을 받고, 실명 상태가 됩니다."
 
-#, fuzzy
-msgctxt "ContagionFilthFeverTitle"
+msgctxt "Spell/&ContagionFilthFeverTitle"
 msgid "Filth Fever"
 msgstr "부패열"
 
-msgctxt "ContagionFilthFeverDescription"
+msgctxt "Spell/&ContagionFilthFeverDescription"
 msgid ""
 "The creature has disadvantage on Strength checks, Strength saving throws, "
 "and attack rolls that use Strength."
 msgstr "대상 크리쳐는 근력 판정, 근력 내성 굴림, 근력을 사용하는 명중 굴림에 불리점을 받습니다."
 
-#, fuzzy
-msgctxt "ContagionFleshRotTitle"
+msgctxt "Spell/&ContagionFleshRotTitle"
 msgid "Flesh Rot"
 msgstr "썩어가는 살점"
 
-msgctxt "ContagionFleshRotDescription"
+msgctxt "Spell/&ContagionFleshRotDescription"
 msgid ""
 "The creature has disadvantage on Charisma checks and is vulnerable to all "
 "damage."
 msgstr "대상 크리쳐는 카리스마 판정에 불리함을 받고, 모든 피해에 취약합니다."
 
-#, fuzzy
-msgctxt "ContagionMindfireTitle"
+msgctxt "Spell/&ContagionMindfireTitle"
 msgid "Mindfire"
 msgstr "마음속 불길"
 
-msgctxt "ContagionMindfireDescription"
+msgctxt "Spell/&ContagionMindfireDescription"
 msgid ""
 "The creature has disadvantage on Intelligence checks and Intelligence saving "
 "throws, and behaves as if under the effects of the confusion spell during "
 "combat."
 msgstr "대상 크리쳐는 지능 판정와 지능 내성 굴림에 불리점을 받으며, 전투 중 혼란 주문의 영향을 받는 것처럼 행동합니다."
 
-#, fuzzy
-msgctxt "ContagionSeizureTitle"
+msgctxt "Spell/&ContagionSeizureTitle"
 msgid "Seizure"
 msgstr "발작"
 
-msgctxt "ContagionSeizureDescription"
+msgctxt "Spell/&ContagionSeizureDescription"
 msgid ""
 "The creature has disadvantage on Dexterity checks, Dexterity saving throws, "
 "and attack rolls that use Dexterity."
 msgstr "대상 크리쳐는 민첩 판정, 민첩 내성 굴림, 민첩을 사용하는 명중 굴림에 불리점을 받습니다."
 
-#, fuzzy
-msgctxt "ContagionSlimyDoomTitle"
+msgctxt "Spell/&ContagionSlimyDoomTitle"
 msgid "Slimy Doom"
 msgstr "끈적한 파멸"
 
-msgctxt "ContagionSlimyDoomDescription"
+msgctxt "Spell/&ContagionSlimyDoomDescription"
 msgid ""
 "The creature has disadvantage on Constitution checks and Constitution saving "
 "throws. In addition, whenever the creature takes damage, it is stunned until "
@@ -1636,13 +1617,11 @@ msgid ""
 msgstr ""
 "대상 크리쳐는 건강 판정과 건강 내성 굴림에 불리점을 받습니다. 추가로, 크리쳐가 피해를 입을 때마다 다음 턴이 끝날 때까지 기절합니다."
 
-#, fuzzy
-msgctxt "DispelEvilAndGoodTitle"
+msgctxt "Spell/&DispelEvilAndGoodTitle"
 msgid "Dispel Evil and Good"
 msgstr "선과 악 무효화"
 
-#, fuzzy
-msgctxt "DispelEvilAndGoodDescription"
+msgctxt "Spell/&DispelEvilAndGoodDescription"
 msgid ""
 "Celestial, elementals, feys, fiends, and undead have disadvantage on attacks "
 "against you. This spell also allows you to cancel hostile enchantments or "
@@ -1651,277 +1630,253 @@ msgstr ""
 "천상체, 정령, 페이, 악마, 언데드는 당신에 대한 공격에서 불리점을 받습니다. 이 주문은 적대적인 마법을 취소하거나, 당신에게 공격당한 "
 "외차원체를 쫓아낼 수 있습니다."
 
-msgctxt "DominatePersonTitle"
+msgctxt "Spell/&DominatePersonTitle"
 msgid "Dominate Person"
 msgstr "인간 정신 지배"
 
-msgctxt "DominatePersonDescription"
+msgctxt "Spell/&DominatePersonDescription"
 msgid "Grants you control over an enemy creature."
 msgstr "적 크리쳐를 제어합니다."
 
-msgctxt "FlameStrikeTitle"
+msgctxt "Spell/&FlameStrikeTitle"
 msgid "Flame Strike"
 msgstr "화염의 일격"
 
-#, fuzzy
-msgctxt "FlameStrikeDescription"
+msgctxt "Spell/&FlameStrikeDescription"
 msgid ""
 "Conjures a burning column of fire and radiance affecting all creatures "
 "inside."
 msgstr "내부의 모든 크리쳐에게 영향을 미치는 불타는 기둥과 광휘를 소환합니다."
 
-msgctxt "GreaterRestorationTitle"
+msgctxt "Spell/&GreaterRestorationTitle"
 msgid "Greater Restoration"
 msgstr "상급 치유"
 
-msgctxt "GreaterRestorationDescription"
+msgctxt "Spell/&GreaterRestorationDescription"
 msgid ""
 "Removes one detrimental condition, such as a charm or curse, or an effect "
 "that reduces an ability score or hit points."
 msgstr "매혹이나 저주, 또는 능력치나 체력을 감소시키는 효과와 같은 해로운 상태이상 하나를 제거합니다."
 
-msgctxt "HoldMonsterTitle"
+msgctxt "Spell/&HoldMonsterTitle"
 msgid "Hold Monster"
 msgstr "몬스터 속박"
 
-msgctxt "HoldMonsterDescription"
+msgctxt "Spell/&HoldMonsterDescription"
 msgid ""
 "Paralyzes a creature unless it succeeds a WIS saving throw. No effect on "
 "undead."
 msgstr "WIS 내성 굴림에 성공하지 않으면 크리쳐를 마비시킵니다. 언데드에게는 효과가 없습니다."
 
-msgctxt "InsectPlagueTitle"
+msgctxt "Spell/&InsectPlagueTitle"
 msgid "Insect Plague"
 msgstr "곤충 역병"
 
-msgctxt "InsectPlagueDescription"
+msgctxt "Spell/&InsectPlagueDescription"
 msgid "Summons a sphere of biting insects."
 msgstr "물어뜯는 벌레가 가득 찬 구체를 소환합니다."
 
-msgctxt "MassCureWoundsTitle"
+msgctxt "Spell/&MassCureWoundsTitle"
 msgid "Mass Cure Wounds"
 msgstr "대규모 상처 치료"
 
-#, fuzzy
-msgctxt "MassCureWoundsDescription"
+msgctxt "Spell/&MassCureWoundsDescription"
 msgid "Heals up to 6 creatures."
 msgstr "최대 크리쳐 6체를 치유합니다."
 
-#, fuzzy
-msgctxt "WallOfForceTitle"
+msgctxt "Spell/&WallOfForceTitle"
 msgid "Wall of Force"
 msgstr "포스 장벽"
 
-#, fuzzy
-msgctxt "WallOfForceDescription"
+msgctxt "Spell/&WallOfForceDescription"
 msgid "Conjures an invisible wall that blocks movement and attacks."
 msgstr "이동과 공격을 막는 투명벽을 생성합니다."
 
-msgctxt "MindTwistTitle"
+msgctxt "Spell/&MindTwistTitle"
 msgid "Mind Twist"
 msgstr "정신 왜곡"
 
-msgctxt "MindTwistDescription"
+msgctxt "Spell/&MindTwistDescription"
 msgid ""
 "Causes massive psychic damage to hostile creatures around you, and "
 "incapacitates them if they fail their INT saving throw."
 msgstr "주변의 적 크리쳐에게 막대한 정신 피해를 주고, 적이 지능 내성 굴림에 실패하면 무력화됩니다."
 
-#, fuzzy
-msgctxt "CalmEmotionsDescription"
+msgctxt "Spell/&CalmEmotionsDescription"
 msgid ""
 "Stops allies from being charmed or frightened, or makes enemies indifferent."
 msgstr "아군을 매혹이나 공포로부터 회복시키거나, 적이 관심을 갖지 않도록 만듭니다."
 
-#, fuzzy
-msgctxt "CalmEmotionsOnEnemyDescription"
+msgctxt "Spell/&CalmEmotionsOnEnemyDescription"
 msgid "Makes enemies indifferent to your allies unless they are wounded."
 msgstr "적들이 부상당하지 않은 아군에게 무관심하게 만듭니다."
 
-msgctxt "Spell_Flameblade_Title"
+msgctxt "Spell/&Spell_Flameblade_Title"
 msgid "Flame Blade"
 msgstr "화염칼날"
 
-#, fuzzy
-msgctxt "Spell_Flameblade_Description"
+msgctxt "Spell/&Spell_Flameblade_Description"
 msgid "Evokes a fiery blade for ten minutes that you can wield in battle."
 msgstr "전투에서 사용할 수 있는 불타는 칼날을 10분 동안 불러냅니다."
 
-#, fuzzy
-msgctxt "GustOfWindDescription"
+msgctxt "Spell/&GustOfWindDescription"
 msgid ""
 "A line of strong wind blasts from you in the direction of your choice for "
 "the spell's duration."
 msgstr "주문 지속 시간 동안 당신으로부터 당신이 선택한 방향으로 강한 바람이 직선으로 불게 됩니다."
 
-msgctxt "SacredFlameTitle_backer"
+msgctxt "Spell/&SacredFlameTitle_backer"
 msgid "Sacred Flame*"
 msgstr "신성한 불꽃*"
 
-#, fuzzy
-msgctxt "DominateBeastTitle"
+msgctxt "Spell/&DominateBeastTitle"
 msgid "Dominate Beast"
 msgstr "야수 정신 지배"
 
-msgctxt "DominateBeastDescription"
+msgctxt "Spell/&DominateBeastDescription"
 msgid "Grants you control over an enemy beast."
 msgstr "적 야수를 제어합니다."
 
-#, fuzzy
-msgctxt "CircleOfDeathTitle"
+msgctxt "Spell/&CircleOfDeathTitle"
 msgid "Circle of Death"
 msgstr "죽음의 원"
 
-#, fuzzy
-msgctxt "CircleOfDeathDescription"
+msgctxt "Spell/&CircleOfDeathDescription"
 msgid ""
 "A sphere of negative energy causes Necrotic damage from a point you choose"
 msgstr "선택한 지점을 중심으로 사령피해를 입히는 부정적인 에너지 구체"
 
-#, fuzzy
-msgctxt "FreezingSphereTitle"
+msgctxt "Spell/&FreezingSphereTitle"
 msgid "Freezing Sphere"
 msgstr "빙결의 구"
 
-#, fuzzy
-msgctxt "FreezingSphereDescription"
+msgctxt "Spell/&FreezingSphereDescription"
 msgid "Toss a huge ball of cold energy that explodes on impact"
 msgstr "충격을 받으면 폭발하는 거대한 냉기 덩어리 구체를 투척합니다"
 
-msgctxt "TrueSeeingTitle"
+msgctxt "Spell/&TrueSeeingTitle"
 msgid "True Seeing"
 msgstr "진실의 시야"
 
-#, fuzzy
-msgctxt "TrueSeeingDescription"
+msgctxt "Spell/&TrueSeeingDescription"
 msgid "A creature you touch gains True Sight for one hour"
 msgstr "당신이 접촉하는 생물은 한 시간 동안 진실의 시야를 얻습니다"
 
-#, fuzzy
-msgctxt "BladeBarrierTitle"
+msgctxt "Spell/&BladeBarrierTitle"
 msgid "Blade Barrier"
 msgstr "칼날 방벽"
 
-#, fuzzy
-msgctxt "BladeBarrierWallTitle"
+msgctxt "Spell/&BladeBarrierWallTitle"
 msgid "Blade Barrier (Wall)"
 msgstr "칼날 방벽(벽)"
 
-#, fuzzy
-msgctxt "BladeBarrierRingTitle"
+msgctxt "Spell/&BladeBarrierRingTitle"
 msgid "Blade Barrier (Ring)"
 msgstr "칼날 방벽(링)"
 
-msgctxt "BladeBarrierDescription"
+msgctxt "Spell/&BladeBarrierDescription"
 msgid ""
 "Conjures a wall of razor sharp blades which causes 6d10 slashing damage to "
 "anyone crossing it"
 msgstr "벽을 건너는 모든 사람에게 6d10 참격 피해를 입히는 날카로운 칼날의 벽을 생성합니다"
 
-msgctxt "ChainLightningTitle"
+msgctxt "Spell/&ChainLightningTitle"
 msgid "Chain Lightning"
 msgstr "연쇄 번개"
 
-#, fuzzy
-msgctxt "ChainLightningDescription"
+msgctxt "Spell/&ChainLightningDescription"
 msgid ""
 "Target a creature with lightning, which can arc to 3 other targets within 30 "
 "feet."
 msgstr "30피트 내의 다른 타겟 3개에게 방전되는 번개를 크리쳐에게 방출합니다."
 
-#, fuzzy
-msgctxt "DisintegrateTitle"
+msgctxt "Spell/&DisintegrateTitle"
 msgid "Disintegrate"
 msgstr "붕괴"
 
-#, fuzzy
-msgctxt "DisintegrateDescription"
+msgctxt "Spell/&DisintegrateDescription"
 msgid ""
 "Causes massive force damage on the target, which can be disintegrated if "
 "reduced to 0 hit points"
 msgstr "체력이 0이 되면 목표물을 붕괴시키는 막대한 포스 피해를 입힙니다"
 
-#, fuzzy
-msgctxt "EyebiteTitle"
+msgctxt "Spell/&EyebiteTitle"
 msgid "Eyebite"
 msgstr "사안"
 
-msgctxt "EyebiteDescription"
+msgctxt "Spell/&EyebiteDescription"
 msgid ""
 "Your eyes gain a specific property which can target a creature each turn"
 msgstr "당신의 눈은 매 턴 하나의 크리쳐를 타겟으로 할 수 있는 특정 속성을 얻습니다"
 
-msgctxt "EyebiteAsleepTitle"
+msgctxt "Spell/&EyebiteAsleepTitle"
 msgid "Eyebite (Asleep)"
 msgstr "사안(수면)"
 
-msgctxt "EyebiteAsleepDescription"
+msgctxt "Spell/&EyebiteAsleepDescription"
 msgid "The creature falls asleep unless shaken or hurt"
 msgstr "크리쳐는 흔들리거나 다치지 않으면 잠이 듭니다"
 
-msgctxt "EyebitePanickedTitle"
+msgctxt "Spell/&EyebitePanickedTitle"
 msgid "Eyebite (Panicked)"
 msgstr "사안(공황)"
 
-msgctxt "EyebitePanickedDescription"
+msgctxt "Spell/&EyebitePanickedDescription"
 msgid "The creature becomes frightened and must run away from you"
 msgstr "대상 크리쳐는 겁에 질려 당신에게서 도망칩니다"
 
-msgctxt "EyebiteSickenedTitle"
+msgctxt "Spell/&EyebiteSickenedTitle"
 msgid "Eyebite (Sickened)"
 msgstr "사안(구역질)"
 
-msgctxt "EyebiteSickenedDescription"
+msgctxt "Spell/&EyebiteSickenedDescription"
 msgid "The creature has disadvantage to attacks until a WIS save is succeeded"
 msgstr "생물은 지혜 내성 굴림이 성공할 때까지 명중에 불리점을 받습니다"
 
-#, fuzzy
-msgctxt "GlobeOfInvulnerabilityTitle"
+msgctxt "Spell/&GlobeOfInvulnerabilityTitle"
 msgid "Globe Of Invulnerability"
 msgstr "무적의 구"
 
-msgctxt "GlobeOfInvulnerabilityDescription"
+msgctxt "Spell/&GlobeOfInvulnerabilityDescription"
 msgid ""
 "A sphere surrounding you prevents any spell up to 5th level to affect anyone "
 "inside it. "
 msgstr "당신을 둘러싼 구체는 5레벨까지의 주문이 구체 내부의 사람에게 영향을 미치지 못하도록 합니다. "
 
-msgctxt "HarmTitle"
+msgctxt "Spell/&HarmTitle"
 msgid "Harm"
 msgstr "가해"
 
-#, fuzzy
-msgctxt "HarmDescription"
+msgctxt "Spell/&HarmDescription"
 msgid ""
 "Inflicts devastating necrotic damage and reduces the maximum hit points "
 "accordingly. Cannot drop the target below 1 hit points"
 msgstr "파괴적인 사령 피해를 입히고, 그에 따라 최대 체력을 감소시킵니다. 목표물의 체력을 1 밑으로 떨어뜨릴 수 없습니다"
 
-msgctxt "HealTitle"
+msgctxt "Spell/&HealTitle"
 msgid "Heal"
 msgstr "치유"
 
-msgctxt "HealDescription"
+msgctxt "Spell/&HealDescription"
 msgid "Heals 70 hit points and also removes blindness and diseases"
 msgstr "체력 70을 회복시키고 실명과 질병을 제거합니다"
 
-msgctxt "HeroesFeastTitle"
+msgctxt "Spell/&HeroesFeastTitle"
 msgid "Heroes Feast"
 msgstr "영웅들의 향연"
 
-msgctxt "HeroesFeastDescription"
+msgctxt "Spell/&HeroesFeastDescription"
 msgid ""
 "Summons a feast which cures most ailments and grants immunity to poisonand "
 "being frightened, WIS save advantage, and increased maximum hitpoints"
 msgstr ""
 "대부분의 상태 이상을 치료하고 독과 공포에 대한 면역을 부여하며, WIS 내성 유리점을 제공하고, 최대 체력을 증가시키는 향연을 소환합니다"
 
-msgctxt "SunbeamTitle"
+msgctxt "Spell/&SunbeamTitle"
 msgid "Sunbeam"
 msgstr "태양광선"
 
-#, fuzzy
-msgctxt "SunbeamDescription"
+msgctxt "Spell/&SunbeamDescription"
 msgid ""
 "You conjure a line of radiance which can burn and blind creatures in the "
 "line of effect; undead and oozes save with disadvantage. The beam can be "
@@ -1930,35 +1885,31 @@ msgstr ""
 "직선 범위 내에 있는 크리쳐를 불태우고 실명 상태로 만드는 광휘의 광선을 생성합니다 - 언데드와 수액류는 내성 굴림에 불리점을 받습니다. "
 "빔은 매 턴 대상을 변경할 수 있습니다"
 
-#, fuzzy
-msgctxt "ProduceFlameTitle"
+msgctxt "Spell/&ProduceFlameTitle"
 msgid "Produce Flame"
 msgstr "불꽃 생성"
 
-#, fuzzy
-msgctxt "ProduceFlameDescription"
+msgctxt "Spell/&ProduceFlameDescription"
 msgid ""
 "Conjures a flickering flame in your hand, which generates light or can be "
 "hurled to inflict fire damage"
 msgstr "주변을 밝히거나 던져서 화염 피해를 입힐 수 있는 약한 불꽃을 일으킵니다"
 
-#, fuzzy
-msgctxt "ShillelaghTitle"
+msgctxt "Spell/&ShillelaghTitle"
 msgid "Shillelagh"
 msgstr "곤봉"
 
-#, fuzzy
-msgctxt "ShillelaghDescription"
+msgctxt "Spell/&ShillelaghDescription"
 msgid ""
 "Conjures a magical club which attacks are magical and use your spellcasting "
 "ability instead of strength"
 msgstr "마법 공격을 하고 힘 대신 주문 시전 능력을 사용하는 마법 곤봉을 생성합니다"
 
-msgctxt "HeatMetalTitle"
+msgctxt "Spell/&HeatMetalTitle"
 msgid "Heat Metal"
 msgstr "금속 가열"
 
-msgctxt "HeatMetalDescription"
+msgctxt "Spell/&HeatMetalDescription"
 msgid ""
 "Cause the metallic armor worn by a creature to glow red hot, causing fire "
 "damage and disadvantage to attack rolls and ability checks. The damage and "
@@ -1967,55 +1918,51 @@ msgstr ""
 "크리쳐가 착용한 금속제 갑옷을 붉게 빛날때까지 가열하여 화염 피해를 입히고 명중 굴림과 능력치 판정에 불이익을 줍니다. 피해와 불이익은 "
 "매 턴마다 보너스 행동으로 반복됩니다."
 
-msgctxt "MoonBeamTitle"
+msgctxt "Spell/&MoonBeamTitle"
 msgid "Moon Beam"
 msgstr "달빛 광선"
 
-msgctxt "MoonBeamDescription"
+msgctxt "Spell/&MoonBeamDescription"
 msgid ""
 "Conjures a vertical column of moonlight which causes radiant damage. "
 "Shapechangers have disadvantage on hte save."
 msgstr "빛 피해를 입히는 달빛의 기둥을 소환합니다. 형태변환자들은 내성 굴림에 불이익을 받습니다."
 
-msgctxt "SpikeGrowthTitle"
+msgctxt "Spell/&SpikeGrowthTitle"
 msgid "Spike Growth"
 msgstr "가시 성장"
 
-msgctxt "SpikeGrowthDescription"
+msgctxt "Spell/&SpikeGrowthDescription"
 msgid ""
 "Grows spikes and thorns in the area, making the terrain difficult and "
 "causing damage for every moved cell"
 msgstr "해당 지역에 가시와 뿔을 자라게 합니다. 지형 이동을 어렵게 만들고 이 지역을 이동하면 피해를 받습니다."
 
-msgctxt "CallLightningTitle"
+msgctxt "Spell/&CallLightningTitle"
 msgid "Call Lightning"
 msgstr "번개 소환"
 
-#, fuzzy
-msgctxt "CallLightningDescription"
+msgctxt "Spell/&CallLightningDescription"
 msgid ""
 "Calls a vertical bolt of lightning to strike a target. The bolt can be "
 "repeated by an action every turn."
 msgstr "위에서 내리꽂는 번개를 불러 목표를 타격합니다. 매턴 행동을 사용하여 번개 공격을 반복할 수 있습니다."
 
-#, fuzzy
-msgctxt "ConjureFeyTitle"
+msgctxt "Spell/&ConjureFeyTitle"
 msgid "Conjure Fey"
 msgstr "페이 소환"
 
-#, fuzzy
-msgctxt "ConjureFeyDescription"
+msgctxt "Spell/&ConjureFeyDescription"
 msgid ""
 "Conjures a fey creature of challenge rating 6 that fights alongside you. If "
 "you lose concentration, the creature remains and becomes hostile."
 msgstr "당신과 함께 싸울 도전 등급 6의 페이를 소환합니다. 집중을 잃으면 페이는 돌아가지 않고 적이 됩니다."
 
-msgctxt "WallOfThornsTitle"
+msgctxt "Spell/&WallOfThornsTitle"
 msgid "Wall of Thorns"
 msgstr "가시의 벽"
 
-#, fuzzy
-msgctxt "WallOfThornsDescription"
+msgctxt "Spell/&WallOfThornsDescription"
 msgid ""
 "Conjures a fey creature of challenge rating 6 that fights alongside you. If "
 "you lose concentration, the creature remains and becomes hostile."

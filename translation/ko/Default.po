@@ -2,108 +2,105 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-13 13:37+0000\n"
-"Last-Translator: 존삼 <jsnuguri@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/default/ko/"
-">\n"
-"Language: ko\n"
+"POT-Creation-Date: 2021-10-15 05:02+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "holy axe"
 msgid "Note from Nikannen"
 msgstr "니카넨의 메모"
 
-msgctxt "Hairstyle_A"
+msgctxt "BodyHairStyle/&Hairstyle_A"
 msgid "Pixie Cut"
 msgstr "픽시 컷"
 
-msgctxt "Hairstyle_B"
+msgctxt "BodyHairStyle/&Hairstyle_B"
 msgid "Medium"
 msgstr "미디엄"
 
-msgctxt "Hairstyle_C"
+msgctxt "BodyHairStyle/&Hairstyle_C"
 msgid "Short"
 msgstr "숏"
 
-msgctxt "Hairstyle_D"
+msgctxt "BodyHairStyle/&Hairstyle_D"
 msgid "Bun"
 msgstr "번"
 
-msgctxt "Hairstyle_E"
+msgctxt "BodyHairStyle/&Hairstyle_E"
 msgid "Crown Braid"
 msgstr "크라운 브레이드"
 
-msgctxt "LongTimeFormat"
+msgctxt "Calendar/&LongTimeFormat"
 msgid ""
 "[TEMP]Game time is {0} on the day of {1} {2} in the year {3} Post Cataclysm"
 msgstr "[TEMP]현재 시간은 대격변 후 {3}년 {1} {2}일 {3}시 입니다"
 
-msgctxt "SolastanCalendarDescription"
+msgctxt "Calendar/&SolastanCalendarDescription"
 msgid "The common calendar used in Solasta."
 msgstr "솔라스타에서 사용하는 일반적인 역법."
 
-msgctxt "SolastanCalendarTitle"
+msgctxt "Calendar/&SolastanCalendarTitle"
 msgid "Solastan Calendar"
 msgstr "솔라스타력"
 
-msgctxt "SolastanMonth10Title"
+msgctxt "Calendar/&SolastanMonth10Title"
 msgid "Aearun"
 msgstr "애런"
 
-msgctxt "SolastanMonth11Title"
+msgctxt "Calendar/&SolastanMonth11Title"
 msgid "Aeardwy"
 msgstr "에어드위"
 
-msgctxt "SolastanMonth12Title"
+msgctxt "Calendar/&SolastanMonth12Title"
 msgid "Aeardair"
 msgstr "에어데어"
 
-msgctxt "SolastanMonth1Title"
+msgctxt "Calendar/&SolastanMonth1Title"
 msgid "Aerun"
 msgstr "애런"
 
-msgctxt "SolastanMonth2Title"
+msgctxt "Calendar/&SolastanMonth2Title"
 msgid "Aerdwy"
 msgstr "에어드위"
 
-msgctxt "SolastanMonth3Title"
+msgctxt "Calendar/&SolastanMonth3Title"
 msgid "Aerdair"
 msgstr "에어데어"
 
-msgctxt "SolastanMonth4Title"
+msgctxt "Calendar/&SolastanMonth4Title"
 msgid "Isgeun"
 msgstr "이근"
 
-msgctxt "SolastanMonth5Title"
+msgctxt "Calendar/&SolastanMonth5Title"
 msgid "Isgedwy"
 msgstr "이스게드위"
 
-msgctxt "SolastanMonth6Title"
+msgctxt "Calendar/&SolastanMonth6Title"
 msgid "Isgedair"
 msgstr "이스게데어"
 
-msgctxt "SolastanMonth7Title"
+msgctxt "Calendar/&SolastanMonth7Title"
 msgid "Tanan"
 msgstr "타난"
 
-msgctxt "SolastanMonth8Title"
+msgctxt "Calendar/&SolastanMonth8Title"
 msgid "Tanwyn"
 msgstr "탄윈"
 
-msgctxt "SolastanMonth9Title"
+msgctxt "Calendar/&SolastanMonth9Title"
 msgid "Tandair"
 msgstr "탄데어"
 
-msgctxt "SolastanYearFormat"
+msgctxt "Calendar/&SolastanYearFormat"
 msgid "{0} P.C."
 msgstr "{0} P.C."
 
-msgctxt "ArunDescription"
+msgctxt "Deity/&ArunDescription"
 msgid ""
 "The primordial god of the elements and patron of adventurers, peasants, "
 "hermits, and all others who value nature above civilization.\n"
@@ -118,11 +115,11 @@ msgstr ""
 "신입니다. 그의 배우자는 삶과 죽음의 여신, 마라이케입니다.\n"
 "아룬을 섬기는 성직자들은 아룬의 능력 중 하나인 불과 얼음, 번개의 세 가지 주요 분파로 나뉩니다."
 
-msgctxt "ArunTitle"
+msgctxt "Deity/&ArunTitle"
 msgid "Arun"
 msgstr "아룬"
 
-msgctxt "EinarDescription"
+msgctxt "Deity/&EinarDescription"
 msgid ""
 "Einar is the god of valor and fidelity, and the patron of paladins, lawful "
 "warriors, and all those who bring light to darkness. The Church of Einar is "
@@ -139,11 +136,11 @@ msgstr ""
 "실드는 신도들에게 헌신하는 수호자들의 교단입니다.\n"
 "비컨은 여행하며 방문하는 공동체들을 그들의 힘, 치유, 그리고 법리 지식으로 도와주는 순회하는 설교자들의 교단입니다."
 
-msgctxt "EinarTitle"
+msgctxt "Deity/&EinarTitle"
 msgid "Einar"
 msgstr "에이나르"
 
-msgctxt "MaraikeDescription"
+msgctxt "Deity/&MaraikeDescription"
 msgid ""
 "The goddess of life and death, the patron of healers and embalmers, and the "
 "embodiment of universal duality. Traditionally, she is Arun's wife. Her cult "
@@ -160,11 +157,11 @@ msgstr ""
 "망각의 교단은 복수자와 시체 방부사들의 교단입니다. 악이 삶과 죽음을 왜곡하려 할 때, 이 교단은 그 범인들을 처리하고, 언데드 "
 "희생자들을 안식으로 돌려보냅니다. "
 
-msgctxt "MaraikeTitle"
+msgctxt "Deity/&MaraikeTitle"
 msgid "Maraike"
 msgstr "마라이케"
 
-msgctxt "MisayeDescription"
+msgctxt "Deity/&MisayeDescription"
 msgid ""
 "The goddess of mischief, protector of rogues and swindlers, and patron of "
 "all those who chafe against rules and enjoy a little chaos. \n"
@@ -178,12 +175,11 @@ msgstr ""
 "숭배는 많은 국가에서 불법이며 대부분의 국가에서 허용되지 않기 때문에, 많은 이들은 낮에 일반 시민이지만 밤에는 미사이에의 사제인 이중 "
 "생활을 합니다."
 
-msgctxt "MisayeTitle"
+msgctxt "Deity/&MisayeTitle"
 msgid "Misaye"
 msgstr "미사이에"
 
-#, fuzzy
-msgctxt "PakriDescription"
+msgctxt "Deity/&PakriDescription"
 msgid ""
 "The goddess of law and knowledge and patron of judges and lawyers, teachers, "
 "librarians, and scholars.\n"
@@ -198,214 +194,212 @@ msgstr ""
 "종파으로 나뉩니다. The Order of the Book에는 세계에서 가장 학식 있는 변호사 겸 사제가 포함됩니다. 올빼미 기사단은 "
 "보호와 정의가 필요한 사람들을 돕기 위해 기사들을 파견합니다."
 
-msgctxt "PakriTitle"
+msgctxt "Deity/&PakriTitle"
 msgid "Pakri"
 msgstr "파크리"
 
-msgctxt "DieStyleEbonyTitle"
+msgctxt "DieStyle/&DieStyleEbonyTitle"
 msgid "Ebony"
 msgstr "에보니"
 
-msgctxt "DieStyleGreenTitle"
+msgctxt "DieStyle/&DieStyleGreenTitle"
 msgid "Green"
 msgstr "그린"
 
-msgctxt "DieStyleIvoryTitle"
+msgctxt "DieStyle/&DieStyleIvoryTitle"
 msgid "Ivory"
 msgstr "아이보리"
 
-msgctxt "DieStyleRubyTitle"
+msgctxt "DieStyle/&DieStyleRubyTitle"
 msgid "Ruby"
 msgstr "루비"
 
-msgctxt "DieStyleStandardTitle"
+msgctxt "DieStyle/&DieStyleStandardTitle"
 msgid "Standard"
 msgstr "표준"
 
-msgctxt "DieStyleYellowTitle"
+msgctxt "DieStyle/&DieStyleYellowTitle"
 msgid "Yellow"
 msgstr "옐로우"
 
-msgctxt "DieStyleGoldSupporterTitle"
+msgctxt "DieStyle/&DieStyleGoldSupporterTitle"
 msgid "Gold"
 msgstr "골드"
 
-msgctxt "DieStyleSilverSupporterTitle"
+msgctxt "DieStyle/&DieStyleSilverSupporterTitle"
 msgid "Silver"
 msgstr "실버"
 
-msgctxt "DieStyleBronzeSupporterTitle"
+msgctxt "DieStyle/&DieStyleBronzeSupporterTitle"
 msgid "Bronze"
 msgstr "브론즈"
 
-msgctxt "DieStyleDiamondSupporterTitle"
+msgctxt "DieStyle/&DieStyleDiamondSupporterTitle"
 msgid "Diamond"
 msgstr "다이아몬드"
 
-msgctxt "ProxyDancingLightsDescription"
+msgctxt "EffectProxy/&ProxyDancingLightsDescription"
 msgid "Move the lights up to 12 cells"
 msgstr "빛들을 최대 12칸까지 이동시킵니다"
 
-msgctxt "ProxyDancingLightsTitle"
+msgctxt "EffectProxy/&ProxyDancingLightsTitle"
 msgid "Dancing Lights"
 msgstr "춤추는 빛"
 
-msgctxt "ProxyDarknessDescription"
+msgctxt "EffectProxy/&ProxyDarknessDescription"
 msgid "An area of magical darkness."
 msgstr "어둠 마법의 영역."
 
-msgctxt "ProxyDaylightTitle"
+msgctxt "EffectProxy/&ProxyDaylightTitle"
 msgid "Daylight"
 msgstr "일광"
 
-msgctxt "ProxyFlamingSphereDescription"
+msgctxt "EffectProxy/&ProxyFlamingSphereDescription"
 msgid "Move the sphere up to 6 cells or slam it into an opponent"
 msgstr "구체를 최대 6칸까지 이동하거나 적에게 내리칩니다"
 
-msgctxt "ProxyFlamingSphereTitle"
+msgctxt "EffectProxy/&ProxyFlamingSphereTitle"
 msgid "Flaming Sphere"
 msgstr "불타는 구체"
 
-msgctxt "ProxyFogCloudDescription"
+msgctxt "EffectProxy/&ProxyFogCloudDescription"
 msgid "A very thick fog."
 msgstr "매우 짙은 안개."
 
-msgctxt "ProxyIndomitableLightTitle"
+msgctxt "EffectProxy/&ProxyIndomitableLightTitle"
 msgid "Indomitable Light"
 msgstr "불굴의 빛"
 
-msgctxt "ProxySleetStormDescription"
+msgctxt "EffectProxy/&ProxySleetStormDescription"
 msgid "Sleet Storm"
 msgstr "진눈깨비"
 
-msgctxt "ProxySpiritualWeaponDescription"
+msgctxt "EffectProxy/&ProxySpiritualWeaponDescription"
 msgid "Move the weapon up to 4 cells and strike an opponent"
 msgstr "무기를 최대 4칸까지 이동하여 적을 공격"
 
-msgctxt "ProxySpiritualWeaponTitle"
+msgctxt "EffectProxy/&ProxySpiritualWeaponTitle"
 msgid "Spiritual Weapon"
 msgstr "영체 무기"
 
-msgctxt "ProxyStinkingCloudDescription"
+msgctxt "EffectProxy/&ProxyStinkingCloudDescription"
 msgid "A cloud of incapacitating, noxious gas."
 msgstr "무력화시키는 독가스 구름."
 
-msgctxt "ProxyWallOfFireDescription"
+msgctxt "EffectProxy/&ProxyWallOfFireDescription"
 msgid "A burning wall that injures creatures in or next to it."
 msgstr "벽 안이나 옆에 있는 생물에게 피해를 주는 불타는 벽."
 
-msgctxt "ProxyWindWallDescription"
+msgctxt "EffectProxy/&ProxyWindWallDescription"
 msgid ""
 "A wall of wind that causes damage, pushes creatures and objects away, and "
 "disperses fogs and gases."
 msgstr "피해를 입히고 생물과 물체를 밀어내고 안개와 가스를 분산시키는 바람의 벽."
 
-msgctxt "ProxySilenceDescription"
+msgctxt "EffectProxy/&ProxySilenceDescription"
 msgid "An area of complete silence."
 msgstr "완전침묵의 영역."
 
-msgctxt "ProxyIceStormDescription"
+msgctxt "EffectProxy/&ProxyIceStormDescription"
 msgid "Ice Storm"
 msgstr "얼음 폭풍"
 
-msgctxt "ProxyGuardianOfFaithDescription"
+msgctxt "EffectProxy/&ProxyGuardianOfFaithDescription"
 msgid "Guardian of Faith"
 msgstr "믿음의 수호자"
 
-msgctxt "ProxyCloudKillDescription"
+msgctxt "EffectProxy/&ProxyCloudKillDescription"
 msgid "A thick and deadly poisonous fog."
 msgstr "짙고 치명적인 독안개."
 
-msgctxt "ProxyWallOfForceDescription"
+msgctxt "EffectProxy/&ProxyWallOfForceDescription"
 msgid "Conjures an invisible wall that blocks movement and attacks."
 msgstr "이동과 공격을 막는 투명벽을 생성."
 
-msgctxt "ExplosiveRunesDescription"
+msgctxt "Environment Effect/&ExplosiveRunesDescription"
 msgid ""
 "Explosive Runes are inscribed on objects and trigger a fiery blast when this "
 "object is interacted with."
 msgstr "폭발 룬은 물체에 새겨져 있으며 이 물체와 상호작용할 때 화염 폭발을 일으킵니다."
 
-msgctxt "ExplosiveRunesTitle"
+msgctxt "Environment Effect/&ExplosiveRunesTitle"
 msgid "Explosive Runes"
 msgstr "폭발 룬"
 
-msgctxt "PoisonNeedleDescription"
+msgctxt "Environment Effect/&PoisonNeedleDescription"
 msgid ""
 "A poisoned needle is hidden within a lock, or in something else that a "
 "creature might open. Opening the object without the proper key causes the "
 "needle to spring out, delivering a dose of poison."
 msgstr "독이 든 바늘은 자물쇠나 상자 등에 숨겨져 있습니다. 적절한 열쇠 없이 물건을 열면 바늘이 튀어나와 독을 퍼뜨립니다."
 
-msgctxt "PoisonNeedleTitle"
+msgctxt "Environment Effect/&PoisonNeedleTitle"
 msgid "Poisoned Needle"
 msgstr "독침"
 
-msgctxt "LightningAreaNeedleTitle"
+msgctxt "Environment Effect/&LightningAreaNeedleTitle"
 msgid "Lightning Pillar"
 msgstr "번개 기둥"
 
-msgctxt "LightHypersensitivityTitle"
+msgctxt "Environment Effect/&LightHypersensitivityTitle"
 msgid "Light Hypersensitivity"
 msgstr "광 과민성"
 
-msgctxt "BoulderFallTitle"
+msgctxt "Environment Effect/&BoulderFallTitle"
 msgid "Boulder Fall"
 msgstr "낙석"
 
-msgctxt "SpikesTitle"
+msgctxt "Environment Effect/&SpikesTitle"
 msgid "Spikes"
 msgstr "스파이크"
 
-msgctxt "ManaWindTitle"
+msgctxt "Environment Effect/&ManaWindTitle"
 msgid "Mana Wind"
 msgstr "마나 바람"
 
-msgctxt "LavaburstTitle"
+msgctxt "Environment Effect/&LavaburstTitle"
 msgid "Lava Burst"
 msgstr "용암 폭발"
 
-#, fuzzy
-msgctxt "PoisonbulbTitle"
+msgctxt "Environment Effect/&PoisonbulbTitle"
 msgid "Poison Bulb"
 msgstr "독뿌리"
 
-#, fuzzy
-msgctxt "ChandelierfallTitle"
+msgctxt "Environment Effect/&ChandelierfallTitle"
 msgid "Chandelier Fall"
 msgstr "샹들리에 폭포"
 
-msgctxt "FireburstTitle"
+msgctxt "Environment Effect/&FireburstTitle"
 msgid "Fiery Explosion"
 msgstr "화염 폭발"
 
-msgctxt "ArcheryDescription"
+msgctxt "FightingStyle/&ArcheryDescription"
 msgid "You gain a +2 bonus to attack rolls with ranged weapons."
 msgstr "원거리 무기로 공격 시 명중 굴림에 +2를 얻습니다."
 
-msgctxt "ArcheryTitle"
+msgctxt "FightingStyle/&ArcheryTitle"
 msgid "Archery"
 msgstr "궁술"
 
-msgctxt "DefenseDescription"
+msgctxt "FightingStyle/&DefenseDescription"
 msgid "While you are wearing armor, you gain a +1 bonus to AC."
 msgstr "갑옷 착용시 AC에 +1 보너스를 얻습니다."
 
-msgctxt "DefenseTitle"
+msgctxt "FightingStyle/&DefenseTitle"
 msgid "Defense"
 msgstr "방어"
 
-msgctxt "DuelingDescription"
+msgctxt "FightingStyle/&DuelingDescription"
 msgid ""
 "When you are wielding a melee weapon in one hand and no other weapons, you "
 "gain a +2 bonus to damage rolls with that weapon."
 msgstr "한 손에 근접 무기를 들고 다른 손에 무기를 들고 있지 않으면, 무기 피해에 +2 보너스를 얻습니다."
 
-msgctxt "DuelingTitle"
+msgctxt "FightingStyle/&DuelingTitle"
 msgid "Dueling"
 msgstr "결투"
 
-msgctxt "GreatWeaponDescription"
+msgctxt "FightingStyle/&GreatWeaponDescription"
 msgid ""
 "When you roll a 1 or 2 on a damage die for an attack you make with a melee "
 "weapon that you are wielding with two hands, you can reroll the die. You "
@@ -415,120 +409,120 @@ msgstr ""
 "양손 근접 무기로 공격할 때 피해 굴림이 1, 2가 나왔다면 주사위를 한 번 더 굴릴 수 있습니다. 1이나 2가 나오더라도 새로 굴린 "
 "수치를 사용합니다. 양손 또는 다용도 속성을 지닌 무기를 들 때만 발동합니다."
 
-msgctxt "GreatWeaponTitle"
+msgctxt "FightingStyle/&GreatWeaponTitle"
 msgid "Great Weapon Fighting"
 msgstr "대형 무기 특화"
 
-msgctxt "ProtectionDescription"
+msgctxt "FightingStyle/&ProtectionDescription"
 msgid ""
 "When a creature you can see attacks a target other than you that is within 5 "
 "feet of you, you can use your reaction to impose disadvantage on the attack "
 "roll. You must be wielding a shield."
 msgstr "크리쳐가 5 피트 이내의 아군을 공격하면, 반응 행동을 사용해 적의 명중 굴림에 불리점을 줍니다. 방패 착용 시에만 발동합니다."
 
-msgctxt "ProtectionTitle"
+msgctxt "FightingStyle/&ProtectionTitle"
 msgid "Protection"
 msgstr "보호"
 
-msgctxt "TwoWeaponDescription"
+msgctxt "FightingStyle/&TwoWeaponDescription"
 msgid ""
 "When you engage in two-weapon fighting, you can add your ability modifier to "
 "the damage of the second attack."
 msgstr "양손에 각각 무기를 들고 싸울 때, 두 번째 공격의 피해에 능력 수정치를 추가할 수 있습니다."
 
-msgctxt "TwoWeaponTitle"
+msgctxt "FightingStyle/&TwoWeaponTitle"
 msgid "Two Weapon Fighting"
 msgstr "쌍수 무기 특화"
 
-msgctxt "LeftAlt"
+msgctxt "InputBinding/&LeftAlt"
 msgid "LeftAlt + "
 msgstr "왼쪽Alt + "
 
-msgctxt "LeftControl"
+msgctxt "InputBinding/&LeftControl"
 msgid "LeftCtrl + "
 msgstr "왼쪽Ctrl + "
 
-msgctxt "LeftShift"
+msgctxt "InputBinding/&LeftShift"
 msgid "LeftShift + "
 msgstr "왼쪽Shift + "
 
-msgctxt "MainFormat"
+msgctxt "InputBinding/&MainFormat"
 msgid "Shortcut: {0}"
 msgstr "단축키: {0}"
 
-msgctxt "OrFormat"
+msgctxt "InputBinding/&OrFormat"
 msgid "or "
 msgstr "또는 "
 
-msgctxt "RightAlt"
+msgctxt "InputBinding/&RightAlt"
 msgid "RightAlt + "
 msgstr "오른쪽Alt + "
 
-msgctxt "RightControl"
+msgctxt "InputBinding/&RightControl"
 msgid "RightCtrl + "
 msgstr "오른쪽Ctrl + "
 
-msgctxt "RightShift"
+msgctxt "InputBinding/&RightShift"
 msgid "RightShift + "
 msgstr "오른쪽Shift + "
 
-msgctxt "KnownDescription"
+msgctxt "KnowledgeLevel/&KnownDescription"
 msgid "You know this creature well."
 msgstr "이 크리쳐를 잘 알고 있습니다."
 
-msgctxt "KnownTitle"
+msgctxt "KnowledgeLevel/&KnownTitle"
 msgid "Known (3)"
 msgstr "파악함 (3)"
 
-msgctxt "MasteredDescription"
+msgctxt "KnowledgeLevel/&MasteredDescription"
 msgid "You know everything about this creature."
 msgstr "이 크리쳐에 대한 모든 걸 알고 있습니다."
 
-msgctxt "MasteredTitle"
+msgctxt "KnowledgeLevel/&MasteredTitle"
 msgid "Mastered (4)"
 msgstr "통달함 (4)"
 
-msgctxt "ObservedDescription"
+msgctxt "KnowledgeLevel/&ObservedDescription"
 msgid "You have observed this creature briefly."
 msgstr "이 크리쳐를 잠깐 본 적 있습니다."
 
-msgctxt "ObservedTitle"
+msgctxt "KnowledgeLevel/&ObservedTitle"
 msgid "Observed (1)"
 msgstr "목격함 (1)"
 
-msgctxt "StudiedDescription"
+msgctxt "KnowledgeLevel/&StudiedDescription"
 msgid "You have studied this creature."
 msgstr "이 크리쳐의 습성을 익혔습니다."
 
-msgctxt "StudiedTitle"
+msgctxt "KnowledgeLevel/&StudiedTitle"
 msgid "Studied (2)"
 msgstr "학습함 (2)"
 
-msgctxt "UnknownDescription"
+msgctxt "KnowledgeLevel/&UnknownDescription"
 msgid "You have never encountered this creature."
 msgstr "이 크리쳐를 만나본 적이 없습니다."
 
-msgctxt "UnknownTitle"
+msgctxt "KnowledgeLevel/&UnknownTitle"
 msgid "Unknown (0)"
 msgstr "미확인 (0)"
 
-msgctxt "EnterLocationDescription"
+msgctxt "Label/&EnterLocationDescription"
 msgid "Have the party enter this location."
 msgstr "이 지역으로 이동합니다."
 
-msgctxt "EnterLocationTitle"
+msgctxt "Label/&EnterLocationTitle"
 msgid "Enter"
 msgstr "이동"
 
-msgctxt "TravelToLocationDescription"
+msgctxt "Label/&TravelToLocationDescription"
 msgid "Prepare to travel to this location."
 msgstr "이 지역으로 여행할 준비를 하세요."
 
-msgctxt "TravelToLocationTitle"
+msgctxt "Label/&TravelToLocationTitle"
 msgid "Travel"
 msgstr "여행"
 
-msgctxt "GdprDescription"
+msgctxt "Legal/&GdprDescription"
 msgid ""
 "In order to improve the quality of the game, we will collect gameplay data "
 "during your play session. Personal data will not be sent, only game session "
@@ -537,11 +531,11 @@ msgstr ""
 "게임의 품질을 향상시키기 위해 귀하의 플레이 세션 동안 게임 플레이 데이터를 수집합니다. 개인 데이터는 전송되지 않으며 게임 세션 정보만 "
 "전송됩니다."
 
-msgctxt "GdprTitle"
+msgctxt "Legal/&GdprTitle"
 msgid "General Data Protection Regulation"
 msgstr "일반 데이터 보호 규정"
 
-msgctxt "KickstarterDemoDisclaimerDescription"
+msgctxt "Legal/&KickstarterDemoDisclaimerDescription"
 msgid ""
 "IMPORTANT DISCLAIMER: YOU are aware that what you intend to download and "
 "play is a very early PRE-ALPHA DEMO of the Solasta: Crown of the Magister "
@@ -583,19 +577,19 @@ msgstr ""
 "시연되지 않지만 최종 게임의 일부가 될 것입니다. 다양한 옵션으로 전체 파티를 만들고 레벨을 올리며, 캠페인 스토리를 통해 플레이하는 등 "
 "다양한 기능이 있습니다."
 
-msgctxt "KickstarterDemoDisclaimerTitle"
+msgctxt "Legal/&KickstarterDemoDisclaimerTitle"
 msgid "Demo Version"
 msgstr "데모 버전"
 
-msgctxt "KickstarterDemoDisclaimerTitle2"
+msgctxt "Legal/&KickstarterDemoDisclaimerTitle2"
 msgid "DISCLAIMER PLACEHOLDER"
 msgstr "면책 조항 표시자"
 
-msgctxt "KickstarterDemoDisclaimerDescription2"
+msgctxt "Legal/&KickstarterDemoDisclaimerDescription2"
 msgid "Text to be added"
 msgstr "추가될 텍스트"
 
-msgctxt "EarlyAccessDisclaimerDescription"
+msgctxt "Legal/&EarlyAccessDisclaimerDescription"
 msgid ""
 "Hey there folks! Welcome to Solasta - or more specifically, the Early Access "
 "of Solasta: Crown of the Magister. We really appreciate your support. You're "
@@ -646,11 +640,11 @@ msgstr ""
 "찾고 있다면 이 앞서 해보기 버전을 구입하지 말고 정식 게임이 출시될 때까지 기다리는 것이 좋습니다. 자, 충분히 읽었습니다. 게임을 "
 "즐기러 가십시오!"
 
-msgctxt "EarlyAccessDisclaimerTitle"
+msgctxt "Legal/&EarlyAccessDisclaimerTitle"
 msgid "Early Access Disclaimer"
 msgstr "앞서 해보기 면책 조항"
 
-msgctxt "DisclaimerSteamFestivalDescription"
+msgctxt "Marketing/&DisclaimerSteamFestivalDescription"
 msgid ""
 "You are aware that what you intend to play is a very early Alpha Demo of the "
 "Solasta: Crown of the Magister video game, which is still under development. "
@@ -693,155 +687,153 @@ msgstr ""
 "데모에서 전혀 시연되지 않았지만 최종 게임의 일부가 될 것입니다. 즉, 다양한 옵션으로 생성된 전체 파티를 레벨업하고 캠페인 스토리를 "
 "통해 플레이하는 등의 일입니다.\n"
 
-msgctxt "DisclaimerSteamFestivalTitle"
+msgctxt "Marketing/&DisclaimerSteamFestivalTitle"
 msgid "Important Disclaimer"
 msgstr "중요 면책 조항"
 
-msgctxt "JoinCommunityAddress"
+msgctxt "Marketing/&JoinCommunityAddress"
 msgid "https://forums.solasta-game.com/"
 msgstr "https://forums.solasta-game.com/"
 
-msgctxt "JoinCommunityTitle"
+msgctxt "Marketing/&JoinCommunityTitle"
 msgid "Join Our Community"
 msgstr "솔라스타 커뮤니티 참여하기"
 
-msgctxt "SteamWishlistAddress"
+msgctxt "Marketing/&SteamWishlistAddress"
 msgid ""
 "https://store.steampowered.com/app/1096530/Solasta_Crown_of_the_Magister/"
 msgstr ""
 "https://store.steampowered.com/app/1096530/Solasta_Crown_of_the_Magister/"
 
-msgctxt "SteamWishlistTitle"
+msgctxt "Marketing/&SteamWishlistTitle"
 msgid "Wishlist us on Steam"
 msgstr "Steam에서 찜하기"
 
-msgctxt "YoutubeAddress"
+msgctxt "Marketing/&YoutubeAddress"
 msgid "https://www.youtube.com/tacticaladventures"
 msgstr "https://www.youtube.com/tacticaladventures"
 
-msgctxt "YoutubeTitle"
+msgctxt "Marketing/&YoutubeTitle"
 msgid "Subscribe on YouTube"
 msgstr "YouTube 구독하기"
 
-msgctxt "CaerCyflen_Annie_Bagmordah_Store_ScavengersTitle"
+msgctxt "Merchant/&CaerCyflen_Annie_Bagmordah_Store_ScavengersTitle"
 msgid "Scavengers' Headquarters"
 msgstr "스캐빈저 본부"
 
-msgctxt "CaerCyflen_Dalon_Lark_Store_EinarTitle"
+msgctxt "Merchant/&CaerCyflen_Dalon_Lark_Store_EinarTitle"
 msgid "Temple of Einar Contact"
 msgstr "에이나르 신전 관계인"
 
-msgctxt "CaerCyflen_Gorim_Ironsoot_StoreTitle"
+msgctxt "Merchant/&CaerCyflen_Gorim_Ironsoot_StoreTitle"
 msgid "General Store for Adventurers"
 msgstr "모험가를 위한 잡화점"
 
-msgctxt "CaerCyflen_Halman_Summer_Store_AntiquariansTitle"
+msgctxt "Merchant/&CaerCyflen_Halman_Summer_Store_AntiquariansTitle"
 msgid "Antiquarians Contact"
 msgstr "안티쿼리안 관계인"
 
-msgctxt "CaerCyflen_Heddlon_Surespell_Store_ArcaneumTitle"
+msgctxt "Merchant/&CaerCyflen_Heddlon_Surespell_Store_ArcaneumTitle"
 msgid "Arcaneum Contact"
 msgstr "아케니움 관계인"
 
-msgctxt "CaerCyflen_Hugo_Requer_StoreTitle"
+msgctxt "Merchant/&CaerCyflen_Hugo_Requer_StoreTitle"
 msgid "Magic and Curiosities"
 msgstr "마법과 진귀한 물건"
 
-msgctxt "CaerCyflen_Joriel_Foxeye_Store_CircleOfDanantarTitle"
+msgctxt "Merchant/&CaerCyflen_Joriel_Foxeye_Store_CircleOfDanantarTitle"
 msgid "Circle of Danantar Contact"
 msgstr "다난타르 서클 관계인"
 
-msgctxt "CaerCyflen_Karel_Martel_Store_BartenderTitle"
+msgctxt "Merchant/&CaerCyflen_Karel_Martel_Store_BartenderTitle"
 msgid "Inn Services"
 msgstr "숙박 서비스"
 
-msgctxt "CaerCyflen_Maddy_Greenisle_Store_ToKTitle"
+msgctxt "Merchant/&CaerCyflen_Maddy_Greenisle_Store_ToKTitle"
 msgid "Tower of Knowledge Contact"
 msgstr "지식의 탑 관계인"
 
-msgctxt "CaerCyflenWeaponsmith2Description"
+msgctxt "Merchant/&CaerCyflenWeaponsmith2Description"
 msgid "not use atm"
 msgstr ""
 
-msgctxt "CaerCyflenWeaponsmith2Title"
+msgctxt "Merchant/&CaerCyflenWeaponsmith2Title"
 msgid "Generic Weaponsmith"
 msgstr "일반 무기제작자"
 
-msgctxt "CaerCyflenWeaponsmithDescription"
+msgctxt "Merchant/&CaerCyflenWeaponsmithDescription"
 msgid "not use atm"
 msgstr ""
 
-msgctxt "CaerCyflenWeaponsmithTitle"
+msgctxt "Merchant/&CaerCyflenWeaponsmithTitle"
 msgid "Generic Weaponsmith"
 msgstr "일반 무기제작자"
 
-msgctxt "Telema_Merchant_Wanderer_TelemaTitle"
+msgctxt "Merchant/&Telema_Merchant_Wanderer_TelemaTitle"
 msgid "Wandering Merchant"
 msgstr "방랑 상인"
 
-msgctxt "Coparann_Atima_StoreTitle"
+msgctxt "Merchant/&Coparann_Atima_StoreTitle"
 msgid "Local Cleric of Arun"
 msgstr "아룬의 지역 성직자"
 
-msgctxt "CC_PriestessPakri"
+msgctxt "Merchant/&CC_PriestessPakri"
 msgid "Priestess of Pakri"
 msgstr "파크리의 여사제"
 
-msgctxt "CC_PriestMaraike"
+msgctxt "Merchant/&CC_PriestMaraike"
 msgid "Priest of Maraike"
 msgstr "마라이케의 사제"
 
-#, fuzzy
-msgctxt "CC_PriestArun"
+msgctxt "Merchant/&CC_PriestArun"
 msgid "Rogar Ardentfire"
 msgstr "로가 아덴파이어"
 
-msgctxt "Circe_Title"
+msgctxt "Merchant/&Circe_Title"
 msgid "Enchantment Manuals Merchant"
 msgstr ""
 
-msgctxt "AdventuringTitle"
+msgctxt "MerchantCategory/&AdventuringTitle"
 msgid "Adventuring Gear"
 msgstr "모험 장비"
 
-msgctxt "AllTitle"
+msgctxt "MerchantCategory/&AllTitle"
 msgid "All Items"
 msgstr "모든 아이템"
 
-msgctxt "ArmorTitle"
+msgctxt "MerchantCategory/&ArmorTitle"
 msgid "Armor"
 msgstr "방어구"
 
-msgctxt "CraftingTitle"
+msgctxt "MerchantCategory/&CraftingTitle"
 msgid "Crafting"
 msgstr "제작"
 
-msgctxt "IngredientTitle"
+msgctxt "MerchantCategory/&IngredientTitle"
 msgid "Ingredients"
 msgstr "재료"
 
-msgctxt "MagicDeviceTitle"
+msgctxt "MerchantCategory/&MagicDeviceTitle"
 msgid "Magic Devices"
 msgstr "마법 장치"
 
-msgctxt "WeaponTitle"
+msgctxt "MerchantCategory/&WeaponTitle"
 msgid "Weapons"
 msgstr "무기"
 
-msgctxt "LifeDrainTitle"
+msgctxt "MonsterAttack/&LifeDrainTitle"
 msgid "Life Drain"
 msgstr "생명력 흡수"
 
-msgctxt "AerElai_Title"
+msgctxt "NamedPlace/&AerElai_Title"
 msgid "THE AER-ELAI"
 msgstr "에어엘라이"
 
-msgctxt "BADLANDS_Title"
+msgctxt "NamedPlace/&BADLANDS_Title"
 msgid "THE BADLANDS"
 msgstr "황무지"
 
-#, fuzzy
-msgctxt "CopperheadRoad_Title"
+msgctxt "NamedPlace/&CopperheadRoad_Title"
 msgid ""
 "COPPERHEAD\\n"
 "ROAD"
@@ -849,8 +841,7 @@ msgstr ""
 "코퍼헤드\\n"
 "도로"
 
-#, fuzzy
-msgctxt "DUCHY_caercyflen_Title"
+msgctxt "NamedPlace/&DUCHY_caercyflen_Title"
 msgid ""
 "Duchy of\\n"
 "Caer Cyflen"
@@ -858,8 +849,7 @@ msgstr ""
 "\\n"
 "케어 키플렌 영지"
 
-#, fuzzy
-msgctxt "DUCHY_easternforests_Title"
+msgctxt "NamedPlace/&DUCHY_easternforests_Title"
 msgid ""
 "Duchy of\\n"
 "the Eastern Forests"
@@ -867,8 +857,7 @@ msgstr ""
 "\\n"
 "동부 숲 영지"
 
-#, fuzzy
-msgctxt "DUCHY_northernhills_Title"
+msgctxt "NamedPlace/&DUCHY_northernhills_Title"
 msgid ""
 "Duchy of\\n"
 "the Northern Hills"
@@ -876,8 +865,7 @@ msgstr ""
 "\\n"
 "북부 언덕 영지"
 
-#, fuzzy
-msgctxt "DUCHY_northernplains_Title"
+msgctxt "NamedPlace/&DUCHY_northernplains_Title"
 msgid ""
 "Duchy of\\n"
 "the Northern Plains"
@@ -885,7 +873,7 @@ msgstr ""
 "\\n"
 "북부 평원 영지"
 
-msgctxt "DUCHY_southmarsh_Title"
+msgctxt "NamedPlace/&DUCHY_southmarsh_Title"
 msgid ""
 "Duchy of\\n"
 "the South Marsh"
@@ -893,8 +881,7 @@ msgstr ""
 "\\n"
 "남부 습지 영지"
 
-#, fuzzy
-msgctxt "DUCHY_westernfields_Title"
+msgctxt "NamedPlace/&DUCHY_westernfields_Title"
 msgid ""
 "Duchy of\\n"
 "the Western Fields"
@@ -902,12 +889,11 @@ msgstr ""
 "\\n"
 "서부 들판 영지"
 
-msgctxt "Einarium_Title"
+msgctxt "NamedPlace/&Einarium_Title"
 msgid "THE Einareum"
 msgstr "에이나리움"
 
-#, fuzzy
-msgctxt "GALLIVAN_Title"
+msgctxt "NamedPlace/&GALLIVAN_Title"
 msgid ""
 "KINGDOM OF\\n"
 "GALLIVAN"
@@ -915,13 +901,11 @@ msgstr ""
 "\\n"
 "갈리반 왕국"
 
-#, fuzzy
-msgctxt "Kaupaapunki_Title"
+msgctxt "NamedPlace/&Kaupaapunki_Title"
 msgid "KAUPAAPUNKI"
 msgstr "카우파푼키"
 
-#, fuzzy
-msgctxt "MASGARTH_Title"
+msgctxt "NamedPlace/&MASGARTH_Title"
 msgid ""
 "PRINCIPALITY\\n"
 "OF MASGARTH"
@@ -929,264 +913,264 @@ msgstr ""
 "\\n"
 "마스가르스 공국"
 
-msgctxt "NEWEMPIRE_Title"
+msgctxt "NamedPlace/&NEWEMPIRE_Title"
 msgid "THE NEW EMPIRE"
 msgstr "신 제국"
 
-msgctxt "Sandreed_Title"
+msgctxt "NamedPlace/&Sandreed_Title"
 msgid "SANDREED"
 msgstr "샌드리드"
 
-msgctxt "SNOWALLIANCE_Title"
+msgctxt "NamedPlace/&SNOWALLIANCE_Title"
 msgid "THE SNOW ALLIANCE"
 msgstr "설산 동맹"
 
-msgctxt "FactionRelationDecreaseDescription"
+msgctxt "Notification/&FactionRelationDecreaseDescription"
 msgid "Your relations with this faction have worsened."
 msgstr "이 세력과의 관계가 악화되었습니다."
 
-msgctxt "FactionRelationDecreaseTitle"
+msgctxt "Notification/&FactionRelationDecreaseTitle"
 msgid "Relations Worsened ({0})"
 msgstr "관계 악화 ({0})"
 
-msgctxt "FactionRelationIncreaseDescription"
+msgctxt "Notification/&FactionRelationIncreaseDescription"
 msgid "Your relations with this faction have improved."
 msgstr "이 세력과의 관계가 개선되었습니다."
 
-msgctxt "FactionRelationIncreaseTitle"
+msgctxt "Notification/&FactionRelationIncreaseTitle"
 msgid "Relation Improved ({0})"
 msgstr "관계 개선 ({0})"
 
-msgctxt "LocationRevealedDescription"
+msgctxt "Notification/&LocationRevealedDescription"
 msgid "A new destination is available."
 msgstr "새로운 목적지가 있습니다."
 
-msgctxt "LocationRevealedTitle"
+msgctxt "Notification/&LocationRevealedTitle"
 msgid "New Location Revealed"
 msgstr "신규 지역 공개"
 
-msgctxt "MapWaypointRevealedDescription"
+msgctxt "Notification/&MapWaypointRevealedDescription"
 msgid "Click to open the map."
 msgstr "클릭하여 지도를 엽니다."
 
-msgctxt "MapWaypointRevealedTitle"
+msgctxt "Notification/&MapWaypointRevealedTitle"
 msgid "New Waypoint Added"
 msgstr "새로운 웨이포인트 추가됨"
 
-msgctxt "MonsterInformationDescription"
+msgctxt "Notification/&MonsterInformationDescription"
 msgid "Your knowledge has increased."
 msgstr "지식이 증가했습니다."
 
-msgctxt "MonsterInformationTitle"
+msgctxt "Notification/&MonsterInformationTitle"
 msgid "Bestiary Updated"
 msgstr "생물도감 업데이트됨"
 
-msgctxt "QuestStepAchievedDescription"
+msgctxt "Notification/&QuestStepAchievedDescription"
 msgid "You have successfully completed a quest objective."
 msgstr "퀘스트 목표를 성공적으로 완료했습니다."
 
-msgctxt "QuestStepAchievedTitle"
+msgctxt "Notification/&QuestStepAchievedTitle"
 msgid "Objective Completed"
 msgstr "목표 완료"
 
-msgctxt "QuestStepFailedDescription"
+msgctxt "Notification/&QuestStepFailedDescription"
 msgid "You have failed to complete a quest objective."
 msgstr "퀘스트 목표를 완료하지 못했습니다."
 
-msgctxt "QuestStepFailedTitle"
+msgctxt "Notification/&QuestStepFailedTitle"
 msgid "Objective Failed"
 msgstr "목표 실패"
 
-msgctxt "QuestStepStartedDescription"
+msgctxt "Notification/&QuestStepStartedDescription"
 msgid "You have started a new objective for this quest."
 msgstr "이 퀘스트의 새로운 목표를 시작했습니다."
 
-msgctxt "QuestStepStartedTitle"
+msgctxt "Notification/&QuestStepStartedTitle"
 msgid "New Objective"
 msgstr "새로운 목표"
 
-msgctxt "RecipeLearnedDescription"
+msgctxt "Notification/&RecipeLearnedDescription"
 msgid "Check your crafting options."
 msgstr "제작 옵션을 확인합니다."
 
-msgctxt "RecipeLearnedTitle"
+msgctxt "Notification/&RecipeLearnedTitle"
 msgid "New Crafting Option"
 msgstr "새로운 제작 옵션"
 
-msgctxt "HeaderQuestCompletedTitle"
+msgctxt "QuestStatus/&HeaderQuestCompletedTitle"
 msgid "Quest Completed"
 msgstr "퀘스트 완료"
 
-msgctxt "HeaderQuestFailedTitle"
+msgctxt "QuestStatus/&HeaderQuestFailedTitle"
 msgid "Quest Failed!"
 msgstr "퀘스트 실패!"
 
-msgctxt "HeaderQuestNewTitle"
+msgctxt "QuestStatus/&HeaderQuestNewTitle"
 msgid "New Quest Started"
 msgstr "새로운 퀘스트 시작"
 
-msgctxt "ArcaneRecoveryDescription"
+msgctxt "RestActivity/&ArcaneRecoveryDescription"
 msgid ""
 "Once per day when you complete a short rest, you can recover a number of "
 "expended spell slots (max 5th level) up to half of your wizard level, "
 "rounded up."
 msgstr "하루에 한 번 짧은 휴식을 완료하면 소모된 주문 슬롯(최대 5레벨)을 마법사 레벨의 절반(반올림)만큼 복구할 수 있습니다."
 
-msgctxt "ArcaneRecoveryTitle"
+msgctxt "RestActivity/&ArcaneRecoveryTitle"
 msgid "Arcane Recovery"
 msgstr "비전 회복"
 
-msgctxt "AttuneItemDescription"
+msgctxt "RestActivity/&AttuneItemDescription"
 msgid "Attuning to an item accesses its advanced properties and functions."
 msgstr "아이템을 조율하면 고급 속성 및 기능을 사용할 수 있습니다."
 
-msgctxt "AttuneItemTitle"
+msgctxt "RestActivity/&AttuneItemTitle"
 msgid "Attune Item"
 msgstr "아이템 조율"
 
-msgctxt "LevelUpDescription"
+msgctxt "RestActivity/&LevelUpDescription"
 msgid "Start the level up sequence for this character."
 msgstr "이 캐릭터의 레벨 업 과정을 시작합니다."
 
-msgctxt "LevelUpTitle"
+msgctxt "RestActivity/&LevelUpTitle"
 msgid "Level Up"
 msgstr "레벨 업"
 
-msgctxt "PrepareSpellsDescription"
+msgctxt "RestActivity/&PrepareSpellsDescription"
 msgid ""
 "You can change your list of prepared spells when you finish a long rest."
 msgstr "긴 휴식을 취하고 나면 준비할 주문 목록을 변경할 수 있습니다."
 
-msgctxt "PrepareSpellsTitle"
+msgctxt "RestActivity/&PrepareSpellsTitle"
 msgid "Prepare Spells"
 msgstr "주문 준비"
 
-msgctxt "ArcaneRecoveryExecutedDescription"
+msgctxt "RestActivity/&ArcaneRecoveryExecutedDescription"
 msgid ""
 "Activating <b>Arcane Recovery</b> has allowed {0} to regain the following "
 "spell slots:"
 msgstr "<b>비전 회복</b>을 사용하여 {0}가 다음 주문 슬롯을 회복하였습니다:"
 
-msgctxt "NaturalRecoveryTitle"
+msgctxt "RestActivity/&NaturalRecoveryTitle"
 msgid "Natural Recovery"
 msgstr "자연적 회복"
 
-msgctxt "NaturalRecoveryDescription"
+msgctxt "RestActivity/&NaturalRecoveryDescription"
 msgid ""
 "Once per day when you complete a short rest, you can recover a number of "
 "expended spell slots (max 5th level) up to half of your druid level, rounded "
 "up."
 msgstr "하루에 한 번 짧은 휴식을 완료하면 소모된 주문 슬롯(최대 5레벨)을 드루이드 레벨의 절반(반올림)만큼 복구할 수 있습니다."
 
-msgctxt "AbjurationTitle"
+msgctxt "SchoolOfMagic/&AbjurationTitle"
 msgid "Abjuration"
 msgstr "방호계"
 
-msgctxt "ConjurationTitle"
+msgctxt "SchoolOfMagic/&ConjurationTitle"
 msgid "Conjuration"
 msgstr "조형계"
 
-msgctxt "DivinationTitle"
+msgctxt "SchoolOfMagic/&DivinationTitle"
 msgid "Divination"
 msgstr "예지계"
 
-msgctxt "EnchantmentTitle"
+msgctxt "SchoolOfMagic/&EnchantmentTitle"
 msgid "Enchantment"
 msgstr "환혹계"
 
-msgctxt "EvocationTitle"
+msgctxt "SchoolOfMagic/&EvocationTitle"
 msgid "Evocation"
 msgstr "방출계"
 
-msgctxt "IllusionTitle"
+msgctxt "SchoolOfMagic/&IllusionTitle"
 msgid "Illusion"
 msgstr "환영계"
 
-msgctxt "NecromancyTitle"
+msgctxt "SchoolOfMagic/&NecromancyTitle"
 msgid "Necromancy"
 msgstr "사령계"
 
-msgctxt "TransmutationTitle"
+msgctxt "SchoolOfMagic/&TransmutationTitle"
 msgid "Transmutation"
 msgstr "변환계"
 
-msgctxt "GargantuanTitle"
+msgctxt "Size/&GargantuanTitle"
 msgid "Gargantuan"
 msgstr "초대형"
 
-msgctxt "HugeTitle"
+msgctxt "Size/&HugeTitle"
 msgid "Huge"
 msgstr "거대형"
 
-msgctxt "LargeTitle"
+msgctxt "Size/&LargeTitle"
 msgid "Large"
 msgstr "대형"
 
-msgctxt "MediumTitle"
+msgctxt "Size/&MediumTitle"
 msgid "Medium"
 msgstr "중형"
 
-msgctxt "SmallTitle"
+msgctxt "Size/&SmallTitle"
 msgid "Small"
 msgstr "소형"
 
-msgctxt "TinyTitle"
+msgctxt "Size/&TinyTitle"
 msgid "Tiny"
 msgstr "초소형"
 
-msgctxt "SpellListClericTitle"
+msgctxt "SpellList/&SpellListClericTitle"
 msgid "Cleric Spells"
 msgstr "클레릭 주문"
 
-msgctxt "SpellListPaladinTitle"
+msgctxt "SpellList/&SpellListPaladinTitle"
 msgid "Paladin Spells"
 msgstr "팔라딘 주문"
 
-msgctxt "SpellListRangerTitle"
+msgctxt "SpellList/&SpellListRangerTitle"
 msgid "Ranger Spells"
 msgstr "레인저 주문"
 
-msgctxt "SpellListSpellbladeTitle"
+msgctxt "SpellList/&SpellListSpellbladeTitle"
 msgid "Spellblade Spells"
 msgstr "스펠블레이드 주문"
 
-msgctxt "SpellListWizardTitle"
+msgctxt "SpellList/&SpellListWizardTitle"
 msgid "Wizard Spells"
 msgstr "위자드 주문"
 
-msgctxt "SpellListSorcererTitle"
+msgctxt "SpellList/&SpellListSorcererTitle"
 msgid "Sorcerer Spells"
 msgstr "소서러 주문"
 
-msgctxt "SpellListDruidTitle"
+msgctxt "SpellList/&SpellListDruidTitle"
 msgid "Druid Spells"
 msgstr "드루이드 주문"
 
-msgctxt "ConcentrationFormat"
+msgctxt "Status/&ConcentrationFormat"
 msgid "{0} is concentrating to maintain the spell \"{1}\"."
 msgstr "{0}은(는) 주문 \"{1}\"을(를) 유지하기 위해 집중하고 있습니다."
 
-msgctxt "ConcentrationStopDescription"
+msgctxt "Status/&ConcentrationStopDescription"
 msgid "Click to stop concentrating."
 msgstr "클릭하면 집중을 중단합니다."
 
-msgctxt "HealthStatusFormat"
+msgctxt "Status/&HealthStatusFormat"
 msgid "Health: {0}"
 msgstr "체력: {0}"
 
-msgctxt "ReadiedCantripAttackFormat"
+msgctxt "Status/&ReadiedCantripAttackFormat"
 msgid "{0} is ready to use a cantrip attack if the opportunity arises."
 msgstr "{0}은(는) 기회가 생기면 캔트립 공격을 사용할 준비가 되어 있습니다."
 
-msgctxt "ReadiedMeleeAttackFormat"
+msgctxt "Status/&ReadiedMeleeAttackFormat"
 msgid "{0} is ready to use a melee attack if the opportunity arises."
 msgstr "{0}은(는) 기회가 생기면 근접 공격을 사용할 준비가 되어 있습니다."
 
-msgctxt "ReadiedRangedAttackFormat"
+msgctxt "Status/&ReadiedRangedAttackFormat"
 msgid "{0} is ready to use a ranged attack if the opportunity arises."
 msgstr "{0}은(는) 기회가 생기면 원거리 공격을 사용할 준비가 되어 있습니다."
 
-msgctxt "ArcticDescription"
+msgctxt "TerrainType/&ArcticDescription"
 msgid ""
 "Areas of snow or permafrost are considered arctic terrain. Beware, this "
 "Terrain Type is not used in the Crown of the Magister campaign."
@@ -1194,12 +1178,11 @@ msgstr ""
 "눈 또는 영구 동토층이 있는 지역은 극한 지형으로 간주됩니다. 주의하십시오. 이 지형 유형은 Crown of the Magister "
 "캠페인에서 사용되지 않습니다."
 
-msgctxt "ArcticTitle"
+msgctxt "TerrainType/&ArcticTitle"
 msgid "Arctic"
 msgstr "북극"
 
-#, fuzzy
-msgctxt "BadlandsDescription"
+msgctxt "TerrainType/&BadlandsDescription"
 msgid ""
 "Most areas covering the former inner provinces of the Manacalon Empire, now "
 "a wild mix of various terrain types with chaotic manifestations of post-"
@@ -1208,157 +1191,148 @@ msgstr ""
 "예전 마나칼론 제국의 내륙 지방을 해당하는 지역 대부분이, 현재는 대격변 후 난잡하게 발현된 마법과 다양한 지형이 야만스럽게 섞여있어, "
 "황무지 지형으로 간주됩니다."
 
-#, fuzzy
-msgctxt "CoastDescription"
+msgctxt "TerrainType/&CoastDescription"
 msgid ""
 "Areas containing a coastline are considered coast terrain. Beware, this "
 "Terrain Type is not used in the Crown of the Magister campaign."
 msgstr ""
 "해안선을 포함하는 지역은 해안 지형으로 간주됩니다. 주의하십시오. 이 유형의 지형은 마지스터의 왕관 캠페인에서 사용되지 않습니다."
 
-msgctxt "CoastTitle"
+msgctxt "TerrainType/&CoastTitle"
 msgid "Coast"
 msgstr "해안"
 
-msgctxt "DablandsTitle"
+msgctxt "TerrainType/&DablandsTitle"
 msgid "Badlands"
 msgstr "황무지"
 
-msgctxt "DesertDescription"
+msgctxt "TerrainType/&DesertDescription"
 msgid ""
 "Arid areas with little or no rain and minimal vegetation are considered "
 "desert terrain."
 msgstr "강수량이 적거나 없고 초목이 거의 없는 건조한 지역은 사막 지형으로 간주됩니다."
 
-msgctxt "DesertTitle"
+msgctxt "TerrainType/&DesertTitle"
 msgid "Desert"
 msgstr "사막"
 
-msgctxt "ForestDescription"
+msgctxt "TerrainType/&ForestDescription"
 msgid ""
 "Areas with lush vegetation and large areas of woods are considered forest "
 "terrain."
 msgstr "무성한 초목과 넓은 지역의 숲이 있는 지역은 산림 지형으로 간주됩니다."
 
-msgctxt "ForestTitle"
+msgctxt "TerrainType/&ForestTitle"
 msgid "Forest"
 msgstr "숲"
 
-msgctxt "GrasslandDescription"
+msgctxt "TerrainType/&GrasslandDescription"
 msgid ""
 "Areas with rare forests and vast areas of green plains are considered "
 "grassland terrain."
 msgstr "숲이 거의 없고 광대한 녹지가 있는 지역은 초원 지형으로 간주됩니다."
 
-msgctxt "GrasslandTitle"
+msgctxt "TerrainType/&GrasslandTitle"
 msgid "Grassland"
 msgstr "초원"
 
-msgctxt "MountainDescription"
+msgctxt "TerrainType/&MountainDescription"
 msgid ""
 "Areas with rocky ground, hills, and mountains are considered mountain "
 "terrain."
 msgstr "바위가 많은 땅, 언덕 및 산이 있는 지역은 산악 지형으로 간주됩니다."
 
-msgctxt "MountainTitle"
+msgctxt "TerrainType/&MountainTitle"
 msgid "Mountain"
 msgstr "산"
 
-msgctxt "SwampDescription"
+msgctxt "TerrainType/&SwampDescription"
 msgid ""
 "Areas with marshes and ponds and a humid atmosphere are considered swamp "
 "terrain."
 msgstr "습지와 연못이 있고 대기가 습한 지역은 늪지 지형으로 간주됩니다."
 
-msgctxt "SwampTitle"
+msgctxt "TerrainType/&SwampTitle"
 msgid "Swamp"
 msgstr "늪지대"
 
-#, fuzzy
-msgctxt "BasicsTitle"
+msgctxt "TutorialSection/&BasicsTitle"
 msgid "Basics"
 msgstr "기초"
 
-msgctxt "CombatTitle"
+msgctxt "TutorialSection/&CombatTitle"
 msgid "Combat"
 msgstr "전투"
 
-msgctxt "ExplorationTitle"
+msgctxt "TutorialSection/&ExplorationTitle"
 msgid "Exploration"
 msgstr "탐험"
 
-msgctxt "InventoryTitle"
+msgctxt "TutorialSection/&InventoryTitle"
 msgid "Inventory"
 msgstr "인벤토리"
 
-#, fuzzy
-msgctxt "TravelTitle"
+msgctxt "TutorialSection/&TravelTitle"
 msgid "Travel"
 msgstr "여행"
 
-msgctxt "Basics_CameraTitle"
+msgctxt "TutorialSubsection/&Basics_CameraTitle"
 msgid "Camera"
 msgstr "카메라"
 
-#, fuzzy
-msgctxt "Basics_MovingTitle"
+msgctxt "TutorialSubsection/&Basics_MovingTitle"
 msgid "Moving"
 msgstr "이동"
 
-msgctxt "Basics_PartyMngtTitle"
+msgctxt "TutorialSubsection/&Basics_PartyMngtTitle"
 msgid "Party Management"
 msgstr "파티 관리"
 
-#, fuzzy
-msgctxt "Basics_QuestTitle"
+msgctxt "TutorialSubsection/&Basics_QuestTitle"
 msgid "Quest Log"
 msgstr "퀘스트 일지"
 
-msgctxt "CombatMovementTitle"
+msgctxt "TutorialSubsection/&CombatMovementTitle"
 msgid "Movement"
 msgstr "이동력"
 
-msgctxt "CombatShoveTitle"
+msgctxt "TutorialSubsection/&CombatShoveTitle"
 msgid "Shove"
 msgstr "밀치기"
 
-msgctxt "Exploration_LocationMapTitle"
+msgctxt "TutorialSubsection/&Exploration_LocationMapTitle"
 msgid "Location Map"
 msgstr "주변 지도"
 
-msgctxt "Exploration_MiscTitle"
+msgctxt "TutorialSubsection/&Exploration_MiscTitle"
 msgid "Miscellaneous"
 msgstr "기타"
 
-#, fuzzy
-msgctxt "Exploration_PointsOfInterestTitle"
+msgctxt "TutorialSubsection/&Exploration_PointsOfInterestTitle"
 msgid "Points of Interest"
 msgstr "주요 지역"
 
-#, fuzzy
-msgctxt "ExplorationJumpingClimbingTitle"
+msgctxt "TutorialSubsection/&ExplorationJumpingClimbingTitle"
 msgid "Jumping and Climbing"
 msgstr "점프 및 등반"
 
-#, fuzzy
-msgctxt "Inventory_LootingTitle"
+msgctxt "TutorialSubsection/&Inventory_LootingTitle"
 msgid "Looting"
 msgstr "전리품 획득"
 
-#, fuzzy
-msgctxt "Inventory_SpecialTitle"
+msgctxt "TutorialSubsection/&Inventory_SpecialTitle"
 msgid "Special Slots"
 msgstr "특수 슬롯"
 
-msgctxt "Exploration_MagicTitle"
+msgctxt "TutorialSubsection/&Exploration_MagicTitle"
 msgid "Magic"
 msgstr "마법"
 
-msgctxt "Factions_Title"
+msgctxt "Tutorial/&Factions_Title"
 msgid "Faction Relations"
 msgstr "세력 관계"
 
-msgctxt "Factions_Description"
+msgctxt "Tutorial/&Factions_Description"
 msgid ""
 "The <b>five</b> Council factions have representatives in Caer Cyflen. They "
 "can sell you equipment, spells, and many other things. The better your "
@@ -1375,16 +1349,15 @@ msgstr ""
 "다양한 서브퀘스트를 통해 세력과의 관계를 향상 시킬 수 있습니다.\n"
 "더 자세한 정보는 <b>저널</b>의 세력 페이지를 참고하세요."
 
-msgctxt "LightAsAWeapon_Title"
+msgctxt "Tutorial/&LightAsAWeapon_Title"
 msgid "Turn on the Light!"
 msgstr "불을 켜!"
 
-msgctxt "PartyStash_Title"
+msgctxt "Tutorial/&PartyStash_Title"
 msgid "Party Stash"
 msgstr "파티 보관함"
 
-#, fuzzy
-msgctxt "PartyStash_Description"
+msgctxt "Tutorial/&PartyStash_Description"
 msgid ""
 "This chest is yours to use. No one can loot it, you can stash up to 50 items "
 "inside it. Many adventurers use this Scavenger service to store some of "
@@ -1393,11 +1366,11 @@ msgstr ""
 "이 궤짝은 당신의 것입니다. 누구도 약탈할 수 없으며, 최대 50개의 아이템을 보관할 수 있습니다. 많은 모험가들이 그들의 물건을 "
 "보관하기 위해 이 스캐빈저 서비스를 사용합니다."
 
-msgctxt "QuickShopping_Title"
+msgctxt "Tutorial/&QuickShopping_Title"
 msgid "Quick Shopping"
 msgstr "빠른 거래"
 
-msgctxt "QuickShopping_Description"
+msgctxt "Tutorial/&QuickShopping_Description"
 msgid ""
 "Near a merchant, you'll find a quick shopping interaction. This bypasses the "
 "discussion to instantly open the merchant interface. You can still talk to "
@@ -1406,7 +1379,7 @@ msgstr ""
 "상인 근처에서 \"빠른 거래\" 상호 작용이 가능합니다. 상인과의 대화를 생략하고 즉시 거래창을 엽니다. 필요한 경우 여전히 상인 "
 "NPC와 대화도 할 수 있습니다."
 
-msgctxt "LightAsAWeapon_Description"
+msgctxt "Tutorial/&LightAsAWeapon_Description"
 msgid ""
 "Don't forget that light is critical to fighting certain enemies in Solasta.\n"
 "Soraks, for instance, are more powerful in dim light, and even more so in "
@@ -1418,11 +1391,11 @@ msgstr ""
 "예를 들어, 소락은 빛이 약할 때 더 강력해지고, 완전한 어둠 속에서는 더욱 더 강력해집니다.\n"
 "이것은 당신의 생존에 매우 중요합니다. 빛 속성 주문과 횃불을 사용하십시오 - 횃불을 든 캐릭터가 주변을 잘 밝히도록 하십시오!"
 
-msgctxt "DiffSettings_Title"
+msgctxt "Tutorial/&DiffSettings_Title"
 msgid "Difficulty Settings"
 msgstr "난이도 설정"
 
-msgctxt "DiffSettings_Description"
+msgctxt "Tutorial/&DiffSettings_Description"
 msgid ""
 "You can change the difficulty settings of the game on the fly. Just open up "
 "the menu, change the settings, and return to play: the changes are applied.\n"
@@ -1434,23 +1407,21 @@ msgstr ""
 "\n"
 "미리 구성된 난이도를 선택하거나 개인의 입맛에 맞게 세부 설정을 탐색할 수 있습니다."
 
-msgctxt "Tutorial_Highlight_Title"
+msgctxt "Tutorial/&Tutorial_Highlight_Title"
 msgid "Highlighting Interactable Objects"
 msgstr "상호작용 가능한 대상 강조"
 
-msgctxt "Tutorial_Highlight_Description"
+msgctxt "Tutorial/&Tutorial_Highlight_Description"
 msgid ""
 "Press and hold the ALT key to highlight various interactable objects: doors, "
 "chests, etc."
 msgstr "ALT 키를 길게 눌러 상호 작용 가능한 개체를 강조 표시합니다. (문, 상자 등)"
 
-#, fuzzy
-msgctxt "EgoPuzzle_Title"
+msgctxt "Tutorial/&EgoPuzzle_Title"
 msgid "The Maddening Puzzle"
 msgstr "미친듯한 퍼즐"
 
-#, fuzzy
-msgctxt "EgoPuzzle_Description"
+msgctxt "Tutorial/&EgoPuzzle_Description"
 msgid ""
 "This section of the level is for puzzle enthusiasts. Be warned! Take the "
 "shortcut on the right, and you will experience the adventure normally. If "
@@ -1462,333 +1433,311 @@ msgstr ""
 "회전하는 형형색색의 3D 퍼즐에 도전할 준비가 되었다면 정신의 지배자의 전리품을 좇아 왼쪽으로 가십시오. 중간에 마음이 바뀐다면 다시 "
 "로드해야합니다. 지금 당신을 위해 자동저장한 세이브 파일을 말이지요."
 
-msgctxt "Voice1Title"
+msgctxt "Voice/&Voice1Title"
 msgid "Voice 1"
 msgstr "목소리 1"
 
-msgctxt "Voice2Title"
+msgctxt "Voice/&Voice2Title"
 msgid "Voice 2"
 msgstr "목소리 2"
 
-msgctxt "Voice3Title"
+msgctxt "Voice/&Voice3Title"
 msgid "Voice 3"
 msgstr "목소리 3"
 
-msgctxt "ChildOfDarkness_Title"
+msgctxt "Condition/&ChildOfDarkness_Title"
 msgid "Child of Darkness"
 msgstr "어둠의 아이"
 
-msgctxt "ChildOfDarkness_Description"
+msgctxt "Condition/&ChildOfDarkness_Description"
 msgid "This Sorak is more powerful and regenerates in darkness."
 msgstr "이 소락은 어둠속에서 재생하며 더 강력해집니다."
 
-msgctxt "ChildOfDarkness_ACGain_Title"
+msgctxt "Condition/&ChildOfDarkness_ACGain_Title"
 msgid "Soraks gain additional AC when in dim light or darkness."
 msgstr "소락은 약한 빛이나 어둠 속에 있을 때 추가 AC를 얻습니다."
 
-msgctxt "ChildOfDarkness_AdditionalDamage2_Title"
+msgctxt "Condition/&ChildOfDarkness_AdditionalDamage2_Title"
 msgid "This creature gains +2 damage when in dim light"
 msgstr "이 생물은 약간 어두운 곳에 있을 때 +2 피해를 얻습니다"
 
-msgctxt "ChildOfDarkness_AdditionalDamage3_Title"
+msgctxt "Condition/&ChildOfDarkness_AdditionalDamage3_Title"
 msgid "This creature gains +3 damage when in dim light"
 msgstr "이 생물은 약간 어두운 곳에 있을 때 +3 피해를 얻습니다"
 
-msgctxt "ChildOfDarkness2_Title"
+msgctxt "Condition/&ChildOfDarkness2_Title"
 msgid "Apostle of Darkness"
 msgstr "어둠의 사도"
 
-msgctxt "ChildOfDarkness2_Description"
+msgctxt "Condition/&ChildOfDarkness2_Description"
 msgid ""
 "This Sorak is more powerful and regenerates in dim light, and even more so "
 "in darkness."
 msgstr "이 소락은 약간 어두운 곳에서 재생하고 더욱 강력해지며, 어둠 속에서는 더욱 강화됩니다."
 
-msgctxt "ChildOfDarkness3_Title"
+msgctxt "Condition/&ChildOfDarkness3_Title"
 msgid "Prophet of Darkness"
 msgstr "어둠의 예언자"
 
-msgctxt "ChildOfDarkness3_Description"
+msgctxt "Condition/&ChildOfDarkness3_Description"
 msgid ""
 "This Sorak is more powerful and regenerates in dim light, and even more so "
 "in darkness."
 msgstr "이 소락은 약간 어두운 곳에서 재생하고 더욱 강력해지며, 어둠 속에서는 더욱 강화됩니다."
 
-msgctxt "ChildOfDarkness0_Description"
+msgctxt "Condition/&ChildOfDarkness0_Description"
 msgid "This Sorak is more powerful and regenerates in darkness."
 msgstr "이 소락은 어둠 속에서 재생하고 더욱 강력해집니다."
 
-msgctxt "Lightfiller_01_Title"
+msgctxt "Document/&Lightfiller_01_Title"
 msgid "Wildspring Safe Key Code"
 msgstr ""
 
-#, fuzzy
-msgctxt "Lightfiller_01_Content"
+msgctxt "Document/&Lightfiller_01_Content"
 msgid "Do not communicate outside the family"
 msgstr "가족 외에는 의사소통하지 마십시오"
 
-#, fuzzy
-msgctxt "Lightfiller_02_Title"
+msgctxt "Document/&Lightfiller_02_Title"
 msgid "Guest Cell Key"
 msgstr "손님 방 열쇠"
 
-#, fuzzy
-msgctxt "Lightfiller_02_Content"
+msgctxt "Document/&Lightfiller_02_Content"
 msgid "Communicate at the discretion of the warden"
 msgstr "감시인의 재량에 따라 의사소통합니다"
 
-msgctxt "ChineseCaracters"
+msgctxt "Internal/&ChineseCaracters"
 msgid "Not used"
 msgstr "사용 안 함"
 
-#, fuzzy
-msgctxt "CatacombsTitle"
+msgctxt "Environment/&CatacombsTitle"
 msgid "Catacombs"
 msgstr "지하 묘지"
 
-msgctxt "CatacombsDescription"
+msgctxt "Environment/&CatacombsDescription"
 msgid "An underground network of tombs & crypts"
 msgstr "지하에 거미줄처럼 펼쳐져있는 무덤과 지하실들"
 
-msgctxt "NecropolisTitle"
+msgctxt "Environment/&NecropolisTitle"
 msgid "Necropolis"
 msgstr "공동묘지"
 
-#, fuzzy
-msgctxt "NecropolisDescription"
+msgctxt "Environment/&NecropolisDescription"
 msgid "An underground domain of the dead"
 msgstr "지하에 있는 죽은 자의 영역"
 
-msgctxt "SewersTitle"
+msgctxt "Environment/&SewersTitle"
 msgid "Sewers"
 msgstr "하수도"
 
-#, fuzzy
-msgctxt "SewersDescription"
+msgctxt "Environment/&SewersDescription"
 msgid "A collection of sewer tunnels & drainage"
 msgstr "하수 터널 및 배수 장치 모음"
 
-msgctxt "StrongholdTitle"
+msgctxt "Environment/&StrongholdTitle"
 msgid "Stronghold"
 msgstr "요새"
 
-#, fuzzy
-msgctxt "StrongholdDescription"
+msgctxt "Environment/&StrongholdDescription"
 msgid "The interior of a stone castle"
 msgstr "석조 성 내부"
 
-msgctxt "ElvenPalaceTitle"
+msgctxt "Environment/&ElvenPalaceTitle"
 msgid "Elven Palace"
 msgstr "엘프 궁전"
 
-#, fuzzy
-msgctxt "ElvenPalaceDescription"
+msgctxt "Environment/&ElvenPalaceDescription"
 msgid "A luxurious vestige of the realm of Manacalon"
 msgstr "마나칼론 시대의 호화로운 유물"
 
-msgctxt "LavaCavesTitle"
+msgctxt "Environment/&LavaCavesTitle"
 msgid "Lava Caves"
 msgstr "용암 동굴"
 
-msgctxt "LavaCavesDescription"
+msgctxt "Environment/&LavaCavesDescription"
 msgid "An underground network of caves inhabited by tribal creatures"
 msgstr "지하에 거미줄처럼 펼쳐져있는 부족생물들의 서식 동굴"
 
-#, fuzzy
-msgctxt "WoodlandTitle"
+msgctxt "Environment/&WoodlandTitle"
 msgid "Woodland"
 msgstr "삼림지"
 
-#, fuzzy
-msgctxt "WoodlandDescription"
+msgctxt "Environment/&WoodlandDescription"
 msgid "Navigate through a series of clearings inside a temperate forest"
 msgstr "온대 숲 안에 위치한 여러 공터를 탐색하십시오"
 
-#, fuzzy
-msgctxt "CR0_Loot_PackTitle"
+msgctxt "LootPack/&CR0_Loot_PackTitle"
 msgid "CR0 Loot"
 msgstr "CR0 전리품"
 
-msgctxt "CR1_Loot_PackTitle"
+msgctxt "LootPack/&CR1_Loot_PackTitle"
 msgid "CR1 Loot"
 msgstr "CR1 전리품"
 
-#, fuzzy
-msgctxt "CR2_Loot_PackTitle"
+msgctxt "LootPack/&CR2_Loot_PackTitle"
 msgid "CR2 Loot"
 msgstr "CR2 전리품"
 
-#, fuzzy
-msgctxt "CR3_Loot_PackTitle"
+msgctxt "LootPack/&CR3_Loot_PackTitle"
 msgid "CR3 Loot"
 msgstr "CR3 전리품"
 
-#, fuzzy
-msgctxt "CR4_Loot_PackTitle"
+msgctxt "LootPack/&CR4_Loot_PackTitle"
 msgid "CR4 Loot"
 msgstr "CR4 전리품"
 
-msgctxt "CR5_Loot_PackTitle"
+msgctxt "LootPack/&CR5_Loot_PackTitle"
 msgid "CR5 Loot"
 msgstr "CR5 전리품"
 
-msgctxt "NoneTitle"
+msgctxt "Music/&NoneTitle"
 msgid "<None>"
 msgstr "배경음악 없음"
 
-msgctxt "CaerLemTitle"
+msgctxt "Music/&CaerLemTitle"
 msgid "Caer Lem"
 msgstr "Caer Lem"
 
-msgctxt "CaerCyflenTitle"
+msgctxt "Music/&CaerCyflenTitle"
 msgid "Caer Cyflen"
 msgstr "Caer Cyflen"
 
-#, fuzzy
-msgctxt "DarkCastleExteriorTitle"
+msgctxt "Music/&DarkCastleExteriorTitle"
 msgid "Dark Castle (Exterior)"
 msgstr "어둠의 성(외부)"
 
-msgctxt "CoparanTitle"
+msgctxt "Music/&CoparanTitle"
 msgid "Coparann"
 msgstr "Coparann"
 
-msgctxt "WizardsTowerTitle"
+msgctxt "Music/&WizardsTowerTitle"
 msgid "Wizard's Tower"
 msgstr "Wizard's Tower"
 
-msgctxt "MastermindTitle"
+msgctxt "Music/&MastermindTitle"
 msgid "Mastermind"
 msgstr "Mastermind"
 
-msgctxt "CradleOfFireTitle"
+msgctxt "Music/&CradleOfFireTitle"
 msgid "Cradle of Fire"
 msgstr "Cradle of Fire"
 
-msgctxt "AerElaiTitle"
+msgctxt "Music/&AerElaiTitle"
 msgid "Aer Elai"
 msgstr "Aer Elai"
 
-msgctxt "TheNecromancerTitle"
+msgctxt "Music/&TheNecromancerTitle"
 msgid "The Necromancer"
 msgstr "The Necromancer"
 
-msgctxt "RuinsOfTelemaTitle"
+msgctxt "Music/&RuinsOfTelemaTitle"
 msgid "Ruins of Telema"
 msgstr "Ruins of Telema"
 
-msgctxt "PrisonEscapeTitle"
+msgctxt "Music/&PrisonEscapeTitle"
 msgid "Prison Escape"
 msgstr "Prison Escape"
 
-msgctxt "TheLightBringersTitle"
+msgctxt "Music/&TheLightBringersTitle"
 msgid "The Lightbringers"
 msgstr "The Lightbringers"
 
-msgctxt "ShadowsTitle"
+msgctxt "Music/&ShadowsTitle"
 msgid "Shadows"
 msgstr "Shadows"
 
-msgctxt "CollapsingRoofTitle"
+msgctxt "EnvironmentEffect/&CollapsingRoofTitle"
 msgid "Collapsing Roof"
 msgstr "무너지는 지붕"
 
-msgctxt "CollapsingRoofDescription"
+msgctxt "EnvironmentEffect/&CollapsingRoofDescription"
 msgid "Several rocks and boulders fall to the ground"
 msgstr "많은 돌과 바위가 땅에 떨어집니다"
 
-msgctxt "DisturbingRunesTitle"
+msgctxt "EnvironmentEffect/&DisturbingRunesTitle"
 msgid "Disturbing Runes"
 msgstr "불안정한 룬"
 
-msgctxt "DisturbingRunesDescription"
+msgctxt "EnvironmentEffect/&DisturbingRunesDescription"
 msgid "Mind-affecting runes damage the soul and cause random behavior"
 msgstr "정신에 영향을 미치는 룬은 영혼을 손상시키고 무작위 행동을 유발합니다"
 
-msgctxt "DeathGlyphTitle"
+msgctxt "EnvironmentEffect/&DeathGlyphTitle"
 msgid "Death Glyph"
 msgstr "죽음의 문양"
 
-msgctxt "DeathGlyphDescription"
+msgctxt "EnvironmentEffect/&DeathGlyphDescription"
 msgid "Stepping on this causes necrotic damage and terror"
 msgstr "밟으면 사령 피해와 공포가 발생합니다"
 
-#, fuzzy
-msgctxt "FireBurstTitle"
+msgctxt "EnvironmentEffect/&FireBurstTitle"
 msgid "Fire Burst"
 msgstr "화염 폭발"
 
-msgctxt "FireBurstDescription"
+msgctxt "EnvironmentEffect/&FireBurstDescription"
 msgid "An eruption causes fire damage"
 msgstr "폭발로 인해 화재 피해가 발생합니다"
 
-msgctxt "GroundSpikesTitle"
+msgctxt "EnvironmentEffect/&GroundSpikesTitle"
 msgid "Ground Spikes"
 msgstr "쇠못 덫"
 
-msgctxt "GroundSpikesDescription"
+msgctxt "EnvironmentEffect/&GroundSpikesDescription"
 msgid "Spikes rise from the ground, causing piercing damage"
 msgstr "쇠못이 지면에서 솟아올라 관통 피해를 입힙니다"
 
-#, fuzzy
-msgctxt "LightningDischargeTitle"
+msgctxt "EnvironmentEffect/&LightningDischargeTitle"
 msgid "Lightning Discharge"
 msgstr "번개 방출"
 
-msgctxt "LightningDischargeDescription"
+msgctxt "EnvironmentEffect/&LightningDischargeDescription"
 msgid "Discharges electricity in the vicinity, causing electrical damage"
 msgstr "전기를 방출하여 주변에 전기 피해를 입힙니다"
 
-msgctxt "PoisonCloudTitle"
+msgctxt "EnvironmentEffect/&PoisonCloudTitle"
 msgid "Poison Cloud"
 msgstr "독 구름"
 
-msgctxt "PoisonCloudDescription"
+msgctxt "EnvironmentEffect/&PoisonCloudDescription"
 msgid "A noxious cloud inflicts poison damage and the poisoned condition"
 msgstr "유독 구름이 독 피해를 입히고 중독 상태를 유발합니다"
 
-msgctxt "GemsTitle"
+msgctxt "TreasureTable/&GemsTitle"
 msgid "Gems"
 msgstr "보석"
 
-msgctxt "ConsumablesTitle"
+msgctxt "TreasureTable/&ConsumablesTitle"
 msgid "Consumables"
 msgstr "소모품"
 
-msgctxt "MagicWeapons_ArmorsTitle"
+msgctxt "TreasureTable/&MagicWeapons_ArmorsTitle"
 msgid "Magic Weapons and Armor"
 msgstr "마법 무기와 갑옷"
 
-#, fuzzy
-msgctxt "Wondrous_ItemsTitle"
+msgctxt "TreasureTable/&Wondrous_ItemsTitle"
 msgid "Wondrous Items"
 msgstr "굉장한 아이템"
 
-msgctxt "IngredientsTitle"
+msgctxt "TreasureTable/&IngredientsTitle"
 msgid "Ingredients"
 msgstr "재료"
 
-#, fuzzy
-msgctxt "Mundane_GearTitle"
+msgctxt "TreasureTable/&Mundane_GearTitle"
 msgid "Mundane Gear"
 msgstr "평범한 장비"
 
-#, fuzzy
-msgctxt "25_GP_Art_ItemsTitle"
+msgctxt "TreasureTable/&25_GP_Art_ItemsTitle"
 msgid "25 gp Art Items"
 msgstr "25gp 아트 아이템"
 
-#, fuzzy
-msgctxt "50_GP_Art_ItemsTitle"
+msgctxt "TreasureTable/&50_GP_Art_ItemsTitle"
 msgid "50 gp Art Items"
 msgstr "50gp 아트 아이템"
 
-msgctxt "BackerItemsTitle"
+msgctxt "ContentPack/&BackerItemsTitle"
 msgid "Backer Item Pack"
 msgstr "후원자 아이템 꾸러미"
 
-#, fuzzy
-msgctxt "BackerItemsDescription"
+msgctxt "ContentPack/&BackerItemsDescription"
 msgid ""
 "Unlocks the One Ring, Dwarven Bread, 6 League Boots, Spoon of Discord and "
 "Early Bird items. Can be found in a chest near the Monument next to the "
@@ -1797,12 +1746,11 @@ msgstr ""
 "반지 하나, 드워프 빵, 6개의 리그 부츠, 디스코드 숟가락, 그리고 얼리버드 아이템을 잠금 해제합니다. 의회 옆 기념비 근처 궤짝에서 "
 "찾을 수 있습니다."
 
-msgctxt "DigitalBackerContentTitle"
+msgctxt "ContentPack/&DigitalBackerContentTitle"
 msgid "Digital Edition Pack"
 msgstr "디지털 에디션 꾸러미"
 
-#, fuzzy
-msgctxt "DigitalBackerContentDescription"
+msgctxt "ContentPack/&DigitalBackerContentDescription"
 msgid ""
 "Unlocks the Everlasting Torch item and special VFX versions of Burning Hands "
 "and Sacred Flame. Can be found in a chest near the Monument next to the "
@@ -1811,50 +1759,46 @@ msgstr ""
 "꺼지지 않는 횃불 아이템, 불타는 손과 신성한 불꽃의 특별 VFX 버전을 잠금 해제합니다. 의회 옆 기념비 근처 궤짝에서 찾을 수 "
 "있습니다."
 
-#, fuzzy
-msgctxt "LoadedDiceTitle"
+msgctxt "ContentPack/&LoadedDiceTitle"
 msgid "Loaded Dice Pack"
 msgstr "준비된 주사위 전리품"
 
-#, fuzzy
-msgctxt "LoadedDiceDescription"
+msgctxt "ContentPack/&LoadedDiceDescription"
 msgid ""
 "Unlock the Loaded Dice item. Can be found near the Monument in a chest next "
 "to the Council."
 msgstr "준비된 주사위 아이템을 잠금 해제합니다. 의회 옆 기념비 근처 궤짝에서 찾을 수 있습니다."
 
-msgctxt "SorcererUpdateTitle"
+msgctxt "ContentPack/&SorcererUpdateTitle"
 msgid "Sorcerer Update"
 msgstr "소서러 업데이트"
 
-msgctxt "SorcererUpdateDescription"
+msgctxt "ContentPack/&SorcererUpdateDescription"
 msgid ""
 "Unlocks the Sorcerer class and its 3 subclasses, iron man mode and new "
 "Dungeon Maker content"
 msgstr "소서러 클래스와 서브클래스 3개, 철인 모드와 새로운 던전 메이커 컨텐츠 추가"
 
-msgctxt "SupporterPackTitle"
+msgctxt "ContentPack/&SupporterPackTitle"
 msgid "Supporter Pack"
 msgstr "서포터 꾸러미"
 
-#, fuzzy
-msgctxt "SupporterPackDescription"
+msgctxt "ContentPack/&SupporterPackDescription"
 msgid ""
 "Unlocks exclusive dice, a vast amount of high resolution Concept Art, and "
 "the eternal love of the Tactical Adventures team"
 msgstr "특별한 주사위, 방대한 양의 고해상도 컨셉 아트 및 택티컬 어드벤쳐 팀의 영원한 사랑을 잠금 해제합니다"
 
-#, fuzzy
-msgctxt "PrimalPowerTitle"
+msgctxt "ContentPack/&PrimalPowerTitle"
 msgid "Primal Power"
 msgstr "근원의 힘"
 
-msgctxt "PrimalPowerDescription"
+msgctxt "ContentPack/&PrimalPowerDescription"
 msgid ""
 "Unlocks the Barbarian & Druid character classes, to play with any adventure "
 "of Solasta"
 msgstr "바바리안과 드루이드 클래스를 잠금해제하여 솔라스타의 어떤 모험이든 함께 하십시오"
 
-msgctxt "RosLastName"
+msgctxt "CharacterTemplate/&RosLastName"
 msgid "Ros"
 msgstr "로스"

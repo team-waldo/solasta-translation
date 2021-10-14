@@ -6,7 +6,7 @@ from typing import Dict
 
 CATEGORY_NAME_DEFAULT = "Default"
 
-input_filename = "en.csv"
+input_filename = "locale/en.csv"
 output_directory = "template"
 
 
@@ -19,7 +19,7 @@ with open(input_filename, "r", encoding="utf-8") as f:
 
 for row in data:
     parts = row[0].split('/&', maxsplit=1)
-    key = parts[-1]
+    key = row[0]
     if len(parts) == 2:
         category = parts[0]
     else:

@@ -2,552 +2,525 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-13 13:37+0000\n"
-"Last-Translator: 존삼 <jsnuguri@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/failure/ko/"
-">\n"
-"Language: ko\n"
+"POT-Creation-Date: 2021-10-15 05:02+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
-msgctxt "FailureFlagAlreadyWieldingLightSource"
+msgctxt "Failure/&FailureFlagAlreadyWieldingLightSource"
 msgid "You are already holding a light source."
 msgstr "이미 광원을 들고 있습니다."
 
-msgctxt "FailureFlagAttributesAssigned"
+msgctxt "Failure/&FailureFlagAttributesAssigned"
 msgid "You have already assigned scores."
 msgstr "이미 점수를 할당했습니다."
 
-msgctxt "FailureFlagBlockedMove"
+msgctxt "Failure/&FailureFlagBlockedMove"
 msgid "Path is blocked."
 msgstr "경로가 없습니다."
 
-msgctxt "FailureFlagCannotAfford"
+msgctxt "Failure/&FailureFlagCannotAfford"
 msgid "You cannot afford to spend that much."
 msgstr "그만큼 지출할 여유가 없습니다."
 
-msgctxt "FailureFlagCannotAffordCosts"
+msgctxt "Failure/&FailureFlagCannotAffordCosts"
 msgid "You cannot afford to spend {0}."
 msgstr "{0}을(를) 소비할 여유가 없습니다."
 
-msgctxt "FailureFlagCannotCastAnySpell"
+msgctxt "Failure/&FailureFlagCannotCastAnySpell"
 msgid "You cannot cast any spells at this time."
 msgstr "지금은 주문을 시전할 수 없습니다."
 
-msgctxt "FailureFlagCannotCastLightCantrip"
+msgctxt "Failure/&FailureFlagCannotCastLightCantrip"
 msgid "You cannot cast the light cantrip."
 msgstr "빛 캔트립을 시전할 수 없습니다."
 
-msgctxt "FailureFlagCannotRestTooOften"
+msgctxt "Failure/&FailureFlagCannotRestTooOften"
 msgid "You cannot take a long rest twice in the same day."
 msgstr "하루에 긴 휴식을 두 번 취할 수 없습니다."
 
-msgctxt "FailureFlagCannotScribeScrolls"
+msgctxt "Failure/&FailureFlagCannotScribeScrolls"
 msgid "This character cannot scribe scrolls into a spellbook."
 msgstr "이 캐릭터는 주문책에 두루마리를 옮겨적을 수 없습니다."
 
-msgctxt "FailureFlagCannotUseAnyPower"
+msgctxt "Failure/&FailureFlagCannotUseAnyPower"
 msgid "You cannot use any powers at this time."
 msgstr "지금은 어떤 능력도 사용할 수 없습니다."
 
-msgctxt "FailureFlagConditionNotMatching"
+msgctxt "Failure/&FailureFlagConditionNotMatching"
 msgid "The target does not have the right condition."
 msgstr "올바른 대상이 아닙니다."
 
-msgctxt "FailureFlagDeadTarget"
+msgctxt "Failure/&FailureFlagDeadTarget"
 msgid "You cannot target a dead character."
 msgstr "죽은 캐릭터를 대상으로 지정할 수 없습니다."
 
-msgctxt "FailureFlagDocumentUnknownLanguage"
+msgctxt "Failure/&FailureFlagDocumentUnknownLanguage"
 msgid "No one in the party is proficient with this language."
 msgstr "이 언어에 숙련된 파티원이 없습니다."
 
-msgctxt "FailureFlagFreeOnceActionSpent"
+msgctxt "Failure/&FailureFlagFreeOnceActionSpent"
 msgid "You have already spent your free/inventory action this round."
 msgstr "이번 라운드에 이미 자유/인벤토리 액션을 사용했습니다."
 
-msgctxt "FailureFlagFreeOnceActionSpentNotOnBody"
+msgctxt "Failure/&FailureFlagFreeOnceActionSpentNotOnBody"
 msgid ""
 "You have already spent your free/inventory action this round and this item "
 "is not carried on your person."
 msgstr "이번 라운드에 이미 자유/인벤토리 액션을 사용했으며 이 아이템은 몸에 지니고 있지 않습니다."
 
-msgctxt "FailureFlagFreeOnceActionUnavailable"
+msgctxt "Failure/&FailureFlagFreeOnceActionUnavailable"
 msgid "Your free/inventory action is not available."
 msgstr "자유/인벤토리 액션을 사용할 수 없습니다."
 
-msgctxt "FailureFlagFunctionDurationCooldown"
+msgctxt "Failure/&FailureFlagFunctionDurationCooldown"
 msgid "You must wait {0} before you can use this function again."
 msgstr "이 기능을 다시 사용하려면 {0}을(를) 기다려야 합니다."
 
-msgctxt "FailureFlagFunctionNotEnoughCharges"
+msgctxt "Failure/&FailureFlagFunctionNotEnoughCharges"
 msgid "The item does not have enough charges to use this function."
 msgstr "이 기능을 사용하기 위한 충전량이 충분하지 않습니다."
 
-#, fuzzy
-msgctxt "FailureFlagFunctionOutOfIterations"
+msgctxt "Failure/&FailureFlagFunctionOutOfIterations"
 msgid "The item has run out of uses for this function."
 msgstr "이 아이템은 해당 기능을 모두 사용했습니다."
 
-msgctxt "FailureFlagFunctionRequiresAttunement"
+msgctxt "Failure/&FailureFlagFunctionRequiresAttunement"
 msgid "You must be attuned to this item (short rest) to use this."
 msgstr "이 아이템을 사용하기 위해서 아이템에 조율(짧은 휴식)하여야 합니다."
 
-msgctxt "FailureFlagHardLockedDoor"
+msgctxt "Failure/&FailureFlagHardLockedDoor"
 msgid "Door cannot be opened."
 msgstr "문을 열 수 없습니다."
 
-msgctxt "FailureFlagHardLockedDoorNoLock"
+msgctxt "Failure/&FailureFlagHardLockedDoorNoLock"
 msgid "There is no visible lock. This door cannot be opened from here."
 msgstr "자물쇠가 보이지 않습니다. 이 문은 여기에서 열 수 없습니다."
 
-msgctxt "FailureFlagHardLockedDoorTutorialOrcHideout"
+msgctxt "Failure/&FailureFlagHardLockedDoorTutorialOrcHideout"
 msgid "Must complete the quest objective before opening the door."
 msgstr "문을 열기 전에 퀘스트 목표를 완료해야 합니다."
 
-msgctxt "FailureFlagItemTargetTooFarAway"
+msgctxt "Failure/&FailureFlagItemTargetTooFarAway"
 msgid "Too far away to select an item."
 msgstr "아이템을 선택하기에는 너무 멀리 있습니다."
 
-msgctxt "FailureFlagLockedCharacter"
+msgctxt "Failure/&FailureFlagLockedCharacter"
 msgid "This character is locked and cannot be changed."
 msgstr "이 캐릭터는 잠금상태로, 변경할 수 없습니다."
 
-msgctxt "FailureFlagLockedDoor"
+msgctxt "Failure/&FailureFlagLockedDoor"
 msgid "You need thieves' tools to pick a lock."
 msgstr "자물쇠를 따려면 도둑 도구가 필요합니다."
 
-msgctxt "FailureFlagMainActionUnavailable"
+msgctxt "Failure/&FailureFlagMainActionUnavailable"
 msgid "You have spent your main action, or are not able to use it."
 msgstr "이미 액션을 사용하였거나 지금 사용 할 수 없습니다."
 
-msgctxt "FailureFlagMaximumPersonalityFlags"
+msgctxt "Failure/&FailureFlagMaximumPersonalityFlags"
 msgid "You have already selected the maximum number of personality flags."
 msgstr "이미 최대 개수의 성격 플래그를 선택했습니다."
 
-msgctxt "FailureFlagMissingConfigurationItem"
+msgctxt "Failure/&FailureFlagMissingConfigurationItem"
 msgid "You are missing one or more items from this configuration."
 msgstr "이 설정에서 하나 이상의 항목이 누락되었습니다."
 
-msgctxt "FailureFlagNoCharacterCreated"
+msgctxt "Failure/&FailureFlagNoCharacterCreated"
 msgid "You have not created a character."
 msgstr "캐릭터를 생성하지 않았습니다."
 
-msgctxt "FailureFlagNoMainActionToExecute"
+msgctxt "Failure/&FailureFlagNoMainActionToExecute"
 msgid "You have spent your main action."
 msgstr "주요 액션을 사용하였습니다."
 
-msgctxt "FailureFlagNoPathToLocation"
+msgctxt "Failure/&FailureFlagNoPathToLocation"
 msgid "No path found to navigate to this location."
 msgstr "이 지역으로 이동할 경로를 찾을 수 없습니다."
 
-msgctxt "FailureFlagNoPerceptionOfTargetDescription"
+msgctxt "Failure/&FailureFlagNoPerceptionOfTargetDescription"
 msgid "You cannot see this target."
 msgstr "이 대상을 볼 수 없습니다."
 
-msgctxt "FailureFlagNoReachForTargetDescription"
+msgctxt "Failure/&FailureFlagNoReachForTargetDescription"
 msgid "You cannot reach the target."
 msgstr "대상에 도달할 수 없습니다."
 
-msgctxt "FailureFlagNoSavedGame"
+msgctxt "Failure/&FailureFlagNoSavedGame"
 msgid "No valid saved game found on this computer."
 msgstr "컴퓨터에 유효한 저장된 게임을 찾을 수 없습니다."
 
-#, fuzzy
-msgctxt "FailureFlagNoSuitableLightTarget"
+msgctxt "Failure/&FailureFlagNoSuitableLightTarget"
 msgid "You are not carrying any item suitable for the light cantrip."
 msgstr "빛 캔트립에 적합한 아이템을 가지고 있지 않습니다."
 
-msgctxt "FailureFlagNotEnoughFood"
+msgctxt "Failure/&FailureFlagNotEnoughFood"
 msgid "You are missing {0} unit(s) of food."
 msgstr "음식 {0}단위가 부족합니다."
 
-msgctxt "FailureFlagNotEnoughMove"
+msgctxt "Failure/&FailureFlagNotEnoughMove"
 msgid "Not enough move."
 msgstr "움직임이 충분하지 않습니다."
 
-msgctxt "FailureFlagNotInBattle"
+msgctxt "Failure/&FailureFlagNotInBattle"
 msgid "Not in battle."
 msgstr "전투 중이 아닙니다."
 
-msgctxt "FailureFlagNoTorchInInventory"
+msgctxt "Failure/&FailureFlagNoTorchInInventory"
 msgid "You have no torches in your inventory."
 msgstr "인벤토리에 횃불이 없습니다."
 
-msgctxt "FailureFlagOncePerTurnOnly"
+msgctxt "Failure/&FailureFlagOncePerTurnOnly"
 msgid "Once per turn only."
 msgstr "한 턴에 한 번만 가능합니다."
 
-msgctxt "FailureFlagOnlyAfterALongRest"
+msgctxt "Failure/&FailureFlagOnlyAfterALongRest"
 msgid "You can only do this after a long rest."
 msgstr "긴 휴식 후에만 할 수 있습니다."
 
-msgctxt "FailureFlagPartyTooSpreadOut"
+msgctxt "Failure/&FailureFlagPartyTooSpreadOut"
 msgid "You must gather your party together."
 msgstr "당신의 파티원들이 모여있어야 합니다."
 
-#, fuzzy
-msgctxt "FailureFlagProjectileBlocked"
+msgctxt "Failure/&FailureFlagProjectileBlocked"
 msgid "Projectile is blocked."
 msgstr "투사체가 차단됩니다."
 
-msgctxt "FailureFlagProtectedCharacter"
+msgctxt "Failure/&FailureFlagProtectedCharacter"
 msgid "This character cannot be deleted."
 msgstr "이 캐릭터는 삭제할 수 없습니다."
 
-msgctxt "FailureFlagScrollNotInSpellList"
+msgctxt "Failure/&FailureFlagScrollNotInSpellList"
 msgid "The spell on this scroll is not on your spell list."
 msgstr "이 두루마리 주문은 해당 직업의 주문 목록에 없습니다."
 
-msgctxt "FailureFlagScrollNotOnSpellList"
+msgctxt "Failure/&FailureFlagScrollNotOnSpellList"
 msgid "This scroll is not compatible with this character's spell list."
 msgstr "이 두루마리는 이 캐릭터의 주문 목록과 호환되지 않습니다."
 
-msgctxt "FailureFlagSpellLevelTooHigh"
+msgctxt "Failure/&FailureFlagSpellLevelTooHigh"
 msgid "The spell level is too high."
 msgstr "주문 레벨이 너무 높습니다."
 
-msgctxt "FailureFlagTargetAlreadySelected"
+msgctxt "Failure/&FailureFlagTargetAlreadySelected"
 msgid "Target is already selected."
 msgstr "대상이 이미 선택되었습니다."
 
-msgctxt "FailureFlagTargetIncorrectCreatureFamily"
+msgctxt "Failure/&FailureFlagTargetIncorrectCreatureFamily"
 msgid "Target creature does not have the correct type."
 msgstr "올바른 종류의 대상 크리쳐가 아닙니다."
 
-#, fuzzy
-msgctxt "FailureFlagTargetIsAnEffectProxy"
+msgctxt "Failure/&FailureFlagTargetIsAnEffectProxy"
 msgid "Target is a magical effect."
 msgstr "대상은 마법 효과입니다."
 
-msgctxt "FailureFlagTargetIsNotACreature"
+msgctxt "Failure/&FailureFlagTargetIsNotACreature"
 msgid "Target is not a creature."
 msgstr "대상은 크리쳐가 아닙니다."
 
-#, fuzzy
-msgctxt "FailureFlagTargetIsNotAGadget"
+msgctxt "Failure/&FailureFlagTargetIsNotAGadget"
 msgid "Target is not an object."
 msgstr "대상은 물체가 아닙니다."
 
-msgctxt "FailureFlagTargetMustBeUnarmored"
+msgctxt "Failure/&FailureFlagTargetMustBeUnarmored"
 msgid "Target must be unarmored."
 msgstr "대상이 무장 해제 상태여야 합니다."
 
-msgctxt "FailureFlagTargetOutOfRange"
+msgctxt "Failure/&FailureFlagTargetOutOfRange"
 msgid "Target is out of range."
 msgstr "대상이 사거리 밖에 있습니다."
 
-msgctxt "FailureFlagTargetTooFarFromOtherTargets"
+msgctxt "Failure/&FailureFlagTargetTooFarFromOtherTargets"
 msgid "Target is too far from other targets."
 msgstr "대상이 다른 대상과 너무 멀리 떨어져 있습니다."
 
-msgctxt "FailureFlagTransferCannotCarry"
+msgctxt "Failure/&FailureFlagTransferCannotCarry"
 msgid "Out of space/too overloaded to carry this item."
 msgstr "공간 부족/지나친 과적으로 이 아이템을 휴대할 수 없습니다."
 
-msgctxt "FailureFlagTransferTooFarAway"
+msgctxt "Failure/&FailureFlagTransferTooFarAway"
 msgid "Too far away to transfer the item."
 msgstr "너무 멀어서 아이템을 옮길 수 없습니다."
 
-msgctxt "FailureFlagTwoHandedWeaponEquiped"
+msgctxt "Failure/&FailureFlagTwoHandedWeaponEquiped"
 msgid "You are wielding a two-handed weapon."
 msgstr "양손 무기를 장착하고 있습니다."
 
-msgctxt "FailureFlagUnassignedCharacter"
+msgctxt "Failure/&FailureFlagUnassignedCharacter"
 msgid "You must assign all characters before you can proceed."
 msgstr "계속하려면 모든 캐릭터들을 배치해야 합니다."
 
-msgctxt "FailureFlagUnsafeRestLocation"
+msgctxt "Failure/&FailureFlagUnsafeRestLocation"
 msgid "It is not safe to rest here."
 msgstr "이곳은 휴식을 취하기에는 안전하지 않습니다."
 
-msgctxt "FailureFlagUseItemActionUnavailable"
+msgctxt "Failure/&FailureFlagUseItemActionUnavailable"
 msgid "You cannot use the \"Use an Item\" action."
 msgstr "\"아이템 사용\" 액션을 사용할 수 없습니다."
 
-msgctxt "FailureFlagWrongLoadContextDescription"
+msgctxt "Failure/&FailureFlagWrongLoadContextDescription"
 msgid "You cannot load a game at this time."
 msgstr "현재 게임을 불러올 수 없습니다."
 
-msgctxt "FailureFlagWrongSaveContextDescription"
+msgctxt "Failure/&FailureFlagWrongSaveContextDescription"
 msgid "You cannot save the game at this time."
 msgstr "현재 게임을 저장할 수 없습니다."
 
-msgctxt "FeedbackText_OpenDoorLever"
+msgctxt "Failure/&FeedbackText_OpenDoorLever"
 msgid "The door is opened by a lever."
 msgstr "이 문은 레버로 열립니다."
 
-msgctxt "FailureFlagHardLockedDoorTOM"
+msgctxt "Failure/&FailureFlagHardLockedDoorTOM"
 msgid "This door is designed to be opened remotely."
 msgstr "이 문은 원격으로 열 수 있도록 설계되었습니다."
 
-#, fuzzy
-msgctxt "FailureFlagRestNotPermitted"
+msgctxt "Failure/&FailureFlagRestNotPermitted"
 msgid "This type of rest is not authorized right now"
 msgstr "이 유형의 휴식을 사용할 권한이 현재 없습니다"
 
-msgctxt "FailureFlagOutOfPerceptionRange"
+msgctxt "Failure/&FailureFlagOutOfPerceptionRange"
 msgid "This target is too far away to be perceived."
 msgstr "이 대상은 너무 멀어서 인식할 수 없습니다."
 
-msgctxt "FailureFlagPartyCannotCastSpell"
+msgctxt "Failure/&FailureFlagPartyCannotCastSpell"
 msgid "No party member can cast this spell or has it prepared."
 msgstr "이 주문을 준비했거나 시전할 수 있는 파티원이 없습니다."
 
-msgctxt "FailureFlagProxyNeedsCasterVision"
+msgctxt "Failure/&FailureFlagProxyNeedsCasterVision"
 msgid "The caster needs to perceive the target."
 msgstr "시전자가 대상을 인식해야 합니다."
 
-msgctxt "FailureFlagVerbalComponentCannotSpeak"
+msgctxt "Failure/&FailureFlagVerbalComponentCannotSpeak"
 msgid "Unable to speak and perform verbal spell components."
 msgstr "언어적 주문 구성 요소를 말하고 수행할 수 없습니다."
 
-#, fuzzy
-msgctxt "FailureFlagSomaticComponentRestrained"
+msgctxt "Failure/&FailureFlagSomaticComponentRestrained"
 msgid "Restrained and unable to perform somatic spell components."
 msgstr "움직임이 제한되어 신체적 주문 구성 요소를 수행할 수 없습니다."
 
-#, fuzzy
-msgctxt "FailureFlagSomaticComponentHandsFull"
+msgctxt "Failure/&FailureFlagSomaticComponentHandsFull"
 msgid "No free hand to perform somatic spell components."
 msgstr "빈 손이 없어 신체적 주문 구성 요소를 수행할 수 없습니다."
 
-#, fuzzy
-msgctxt "FailureFlagMaterialComponentMissingFocus"
+msgctxt "Failure/&FailureFlagMaterialComponentMissingFocus"
 msgid "Must wield/wear a Spell Focus or Component Pouch."
 msgstr "주문 매개체 또는 구성 요소를 사용/착용해야 합니다."
 
-#, fuzzy
-msgctxt "FailureFlagMaterialComponentMissingSpecific"
+msgctxt "Failure/&FailureFlagMaterialComponentMissingSpecific"
 msgid "Missing a(n) \"{0}\" item with a value of at least {1}."
 msgstr "값이 {1} 이상인 \"{0}\" 아이템이 누락되었습니다."
 
-msgctxt "FailureFlagFunctionRequiresIdentification"
+msgctxt "Failure/&FailureFlagFunctionRequiresIdentification"
 msgid "You must identify this item to use it."
 msgstr "이 아이템을 사용하려면 우선 식별해야 합니다."
 
-msgctxt "FailureFlagFunctionNotInCombat"
+msgctxt "Failure/&FailureFlagFunctionNotInCombat"
 msgid "Cannot use this function in combat."
 msgstr "전투 중에는 이 기능을 사용할 수 없습니다."
 
-#, fuzzy
-msgctxt "FailureFlagNoValidRemainingPages"
+msgctxt "Failure/&FailureFlagNoValidRemainingPages"
 msgid ""
 "None of this character's spellbooks has any room left for the {0} pages "
 "required for the {1} spell."
 msgstr "이 캐릭터의 주문서에는 {1} 주문에 필요한 {0} 페이지가 남아 있지 않습니다."
 
-msgctxt "FailureFlagAllSpellbooksAlreadyScribed"
+msgctxt "Failure/&FailureFlagAllSpellbooksAlreadyScribed"
 msgid ""
 "All the spellbooks carried by this character already contain the {0} spell."
 msgstr "이 캐릭터가 가지고 있는 주문책에는 이미 {0} 주문이 있습니다."
 
-#, fuzzy
-msgctxt "FailureFlagRecipeAlreadyKnown"
+msgctxt "Failure/&FailureFlagRecipeAlreadyKnown"
 msgid "You already know this crafting option."
 msgstr "이 제작 레시피를 이미 알고 있습니다."
 
-#, fuzzy
-msgctxt "FailureFlagNoRecipeWithTool"
+msgctxt "Failure/&FailureFlagNoRecipeWithTool"
 msgid "You do not know any crafting options that use this tool."
 msgstr "이 도구를 사용하는 제작 레시피를 알고 있지 않습니다."
 
-msgctxt "FailureTeleportNoPortalAtOrigin"
+msgctxt "Failure/&FailureTeleportNoPortalAtOrigin"
 msgid "The current party location does not have a Major Gate."
 msgstr "현재 파티가 있는 지역에는 주 관문이 없습니다."
 
-msgctxt "FailureTeleportNoPortalAtDestination"
+msgctxt "Failure/&FailureTeleportNoPortalAtDestination"
 msgid "The destination location has a Major Gate."
 msgstr "목적지 지역에 주 관문이 있습니다."
 
-#, fuzzy
-msgctxt "FailureFlagDeityMarkAreadyPresent"
+msgctxt "Failure/&FailureFlagDeityMarkAreadyPresent"
 msgid "The mark of this character's deity is only present on this item"
 msgstr "이 캐릭터의 신의 표식은 이 아이템에만 있습니다"
 
-msgctxt "FailureFlagHardLockedDoor_Key"
+msgctxt "Failure/&FailureFlagHardLockedDoor_Key"
 msgid "You need the adequate key to open this door."
 msgstr "이 문을 열려면 적절한 열쇠가 필요합니다."
 
-msgctxt "FailureFlagInsufficientSorceryPoints"
+msgctxt "Failure/&FailureFlagInsufficientSorceryPoints"
 msgid "Not enough sorcery points"
 msgstr "소서리 포인트가 충분하지 않습니다"
 
-msgctxt "FailureFlagUnavailableSpellSlot"
+msgctxt "Failure/&FailureFlagUnavailableSpellSlot"
 msgid "No spell slot of this level is available"
 msgstr "해당 레벨의 주문 슬롯을 사용할 수 없습니다"
 
-#, fuzzy
-msgctxt "FailureFlagNoSavingThrowAvailable"
+msgctxt "Failure/&FailureFlagNoSavingThrowAvailable"
 msgid "The spell does not provide a saving throw"
 msgstr "이 주문은 내성 굴림이 없습니다"
 
-#, fuzzy
-msgctxt "FailureFlagInvalidSpellActionType"
+msgctxt "Failure/&FailureFlagInvalidSpellActionType"
 msgid "The spell does not the correct action type"
 msgstr "주문이 올바른 행동 유형이 아닙니다"
 
-msgctxt "FailureFlagCraftingItemTooHeavy"
+msgctxt "Failure/&FailureFlagCraftingItemTooHeavy"
 msgid ""
 "The crafted item is too heavy to fit into the crafting character's inventory"
 msgstr "제작된 아이템이 너무 무거워서 제작 캐릭터의 인벤토리에 들어갈 수 없습니다"
 
-msgctxt "FailureFlagMissingUserLocation"
+msgctxt "Failure/&FailureFlagMissingUserLocation"
 msgid "You must select a user location"
 msgstr "사용자 지역을 선택해야 합니다"
 
-msgctxt "FailureLocationMustHaveEntrance"
+msgctxt "Failure/&FailureLocationMustHaveEntrance"
 msgid "The location must have an entrance"
 msgstr "지역에 하나의 입구는 있어야 합니다"
 
-msgctxt "FailureLocationMustContainOneRoom"
+msgctxt "Failure/&FailureLocationMustContainOneRoom"
 msgid "The location must contain at least one room"
 msgstr "지역에 최소한 하나 이상의 방이 있어야 합니다"
 
-msgctxt "FailureLocationInconsistentCharacterLevels"
+msgctxt "Failure/&FailureLocationInconsistentCharacterLevels"
 msgid "The min./max. character levels are inconsistent"
 msgstr "최소/최대 캐릭터 레벨이 일치하지 않습니다"
 
-msgctxt "FailureGadgetNotInRoom"
+msgctxt "Failure/&FailureGadgetNotInRoom"
 msgid "The gadget must be placed inside an existing room"
 msgstr "장치는 기존 방 안에 배치되어야 합니다"
 
-msgctxt "FailureGadgetOutOfRoomBounds"
+msgctxt "Failure/&FailureGadgetOutOfRoomBounds"
 msgid "The gadget is outside the bounds of this room"
 msgstr "장치가 이 방의 범위를 벗어났습니다"
 
-msgctxt "FailureGadgetOverlapExisting"
+msgctxt "Failure/&FailureGadgetOverlapExisting"
 msgid "The gadget is overlapping another gadget or prop"
 msgstr "장치가 다른 장치 또는 물체와 겹칩니다"
 
-msgctxt "FailurePropNotInRoom"
+msgctxt "Failure/&FailurePropNotInRoom"
 msgid "The prop must be placed inside an existing room"
 msgstr "물체는 기존 방 안에 배치되어야 합니다"
 
-msgctxt "FailurePropOutOfRoomBounds"
+msgctxt "Failure/&FailurePropOutOfRoomBounds"
 msgid "The prop is outside the bounds of this room"
 msgstr "물체가 이 방의 범위를 벗어났습니다"
 
-msgctxt "FailurePropOverlapExisting"
+msgctxt "Failure/&FailurePropOverlapExisting"
 msgid "The prop is overlapping another gadget or prop"
 msgstr "물체가 다른 장치 또는 물체와 겹칩니다"
 
-msgctxt "FailureInvalidPosition"
+msgctxt "Failure/&FailureInvalidPosition"
 msgid "Invalid Position"
 msgstr "잘못된 위치입니다"
 
-msgctxt "FailureGadgetInvalidParameters"
+msgctxt "Failure/&FailureGadgetInvalidParameters"
 msgid "Some of the parameters of this gadget are invalid"
 msgstr "이 장치의 일부 값이 잘못되었습니다"
 
-msgctxt "FailureRoomOverlapExisting"
+msgctxt "Failure/&FailureRoomOverlapExisting"
 msgid "The room is overlapping another room"
 msgstr "방이 다른 방과 겹칩니다"
 
-msgctxt "FailureRoomOutOfBounds"
+msgctxt "Failure/&FailureRoomOutOfBounds"
 msgid "The room is outside the bounds of the location"
 msgstr "방이 지역 범위 밖에 있습니다"
 
-#, fuzzy
-msgctxt "FailureFlagCopyrightInfringementTitle"
+msgctxt "Failure/&FailureFlagCopyrightInfringementTitle"
 msgid "The title of the location uses the copyrighted term \"{0}\""
 msgstr "지역의 이름은 저작권 용어 \"{0}\"을(를) 사용합니다"
 
-#, fuzzy
-msgctxt "FailureFlagCopyrightInfringementDescription"
+msgctxt "Failure/&FailureFlagCopyrightInfringementDescription"
 msgid "The description of the location uses the copyrighted term \"{0}\""
 msgstr "지역에 대한 설명은 저작권 용어 \"{0}\"을(를) 사용합니다"
 
-#, fuzzy
-msgctxt "FailureFlagCopyrightInfringementLoreGadget"
+msgctxt "Failure/&FailureFlagCopyrightInfringementLoreGadget"
 msgid "The \"{0}\" gadget uses the copyrighted term \"{1}\""
 msgstr "\"{0}\" 장치는 저작권 용어 \"{1}\"을(를) 사용합니다"
 
-msgctxt "FailureFlagMustMoveToRotate"
+msgctxt "Failure/&FailureFlagMustMoveToRotate"
 msgid "This object is not square. You must move it to rotate it"
 msgstr "이 물체는 정사각형이 아닙니다. 회전하려면 움직여야 합니다"
 
-msgctxt "FailureFlagMustSaveToPlaytest"
+msgctxt "Failure/&FailureFlagMustSaveToPlaytest"
 msgid "You must save your location before you can playtest it"
 msgstr "플레이 테스트를 하기 전에 당신의 지역을 저장해야 합니다"
 
-#, fuzzy
-msgctxt "EditorCannotSelectSourceGadget"
+msgctxt "Failure/&EditorCannotSelectSourceGadget"
 msgid "Cannot select the source gadget"
 msgstr "근본 장치를 선택할 수 없습니다"
 
-msgctxt "FailureFlagOnlyInBattle"
+msgctxt "Failure/&FailureFlagOnlyInBattle"
 msgid "Only in battle"
 msgstr "전투 중에만 가능합니다"
 
-#, fuzzy
-msgctxt "FailureLocationMustHaveEntranceIndex0"
+msgctxt "Failure/&FailureLocationMustHaveEntranceIndex0"
 msgid "The location must have one of its entrances with entrance index 0"
 msgstr "지역에는 입구 인덱스가 0인 입구가 하나 있어야 합니다"
 
-msgctxt "FailureGadgetInvalidPlacement"
+msgctxt "Failure/&FailureGadgetInvalidPlacement"
 msgid "The gadget placement is invalid"
 msgstr "장치 배치가 잘못되었습니다"
 
-msgctxt "FailurePropInvalidPlacement"
+msgctxt "Failure/&FailurePropInvalidPlacement"
 msgid "The prop placement is invalid"
 msgstr "물건 배치가 잘못되었습니다"
 
-msgctxt "FailureEditorCannotSelectIncompatibleGadget"
+msgctxt "Failure/&FailureEditorCannotSelectIncompatibleGadget"
 msgid "Cannot be activated"
 msgstr "활성화할 수 없습니다"
 
-msgctxt "FailureEditorCannotSelectDuplicateGadget"
+msgctxt "Failure/&FailureEditorCannotSelectDuplicateGadget"
 msgid "Already activated by this gadget"
 msgstr "이미 이 장치에 의해 활성화되었습니다"
 
-msgctxt "FailureCampaignMustContainOneLocation"
+msgctxt "Failure/&FailureCampaignMustContainOneLocation"
 msgid "The campaign must have at least one location"
 msgstr "캠페인에는 하나 이상의 지역이 있어야 합니다"
 
-msgctxt "FailureCampaignMustHaveStartLocation"
+msgctxt "Failure/&FailureCampaignMustHaveStartLocation"
 msgid "The campaign must have a start location"
 msgstr "캠페인에는 시작 지역이 있어야 합니다"
 
-#, fuzzy
-msgctxt "FailureCampaignInconsistentCharacterLevels"
+msgctxt "Failure/&FailureCampaignInconsistentCharacterLevels"
 msgid "Inconsistent min/max character levels"
 msgstr "최소/최대 캐릭터 레벨이 일치하지 않습니다"
 
-msgctxt "FailureCampaignEmptyTitle"
+msgctxt "Failure/&FailureCampaignEmptyTitle"
 msgid "Invalid Title"
 msgstr "잘못된 제목입니다"
 
-#, fuzzy
-msgctxt "FailureCampaignDuplicateTitle"
+msgctxt "Failure/&FailureCampaignDuplicateTitle"
 msgid "You must enter a valid title for your user campaign"
 msgstr "유효한 제목을 입력해 주세요"
 
-msgctxt "FailureCampaignNothingModified"
+msgctxt "Failure/&FailureCampaignNothingModified"
 msgid "Duplicate Title"
 msgstr "중복된 제목입니다"
 
-msgctxt "FailureFlagInvalidSingleTarget"
+msgctxt "Failure/&FailureFlagInvalidSingleTarget"
 msgid "The spell must have a single target"
 msgstr "이 주문은 하나의 대상이 있어야 합니다"
 
-msgctxt "FailureFlagDurationInferiorTo1Min"
+msgctxt "Failure/&FailureFlagDurationInferiorTo1Min"
 msgid "The spell duration is less than 1 minute"
 msgstr "이 주문의 지속 시간이 1분 미만입니다"
 
-msgctxt "FailureFlagSpellWithoutDamage"
+msgctxt "Failure/&FailureFlagSpellWithoutDamage"
 msgid "The spell does not cause any damage"
 msgstr "이 주문은 피해를 입히지 않습니다"
 
-#, fuzzy
-msgctxt "FailureFlagSpellRangeCannotBeSelf"
+msgctxt "Failure/&FailureFlagSpellRangeCannotBeSelf"
 msgid "The spell range cannot be \"self\""
 msgstr "주문 범위는 \"자체\"일 수 없습니다"
 
-msgctxt "FailureFlagUnavailableBonusAction"
+msgctxt "Failure/&FailureFlagUnavailableBonusAction"
 msgid "Unavailable bonus action"
 msgstr "사용할 수 없는 추가 행동입니다"

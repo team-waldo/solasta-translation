@@ -2,716 +2,701 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-13 13:37+0000\n"
-"Last-Translator: 존삼 <jsnuguri@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/setting/ko/"
-">\n"
-"Language: ko\n"
+"POT-Creation-Date: 2021-10-15 05:02+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
-msgctxt "ApplyDescription"
+msgctxt "Setting/&ApplyDescription"
 msgid "Apply the changes you have selected."
 msgstr "선택한 변경 사항을 적용합니다."
 
-msgctxt "ApplyNoChangeDescription"
+msgctxt "Setting/&ApplyNoChangeDescription"
 msgid "Settings have not changed."
 msgstr "설정이 변경되지 않았습니다."
 
-msgctxt "ApplyTitle"
+msgctxt "Setting/&ApplyTitle"
 msgid "Apply"
 msgstr "적용"
 
-msgctxt "AutosaveCountDescription"
+msgctxt "Setting/&AutosaveCountDescription"
 msgid "The number of autosaves kept."
 msgstr "보관할 자동 저장 파일의 수량을 지정합니다."
 
-msgctxt "AutosaveCountTitle"
+msgctxt "Setting/&AutosaveCountTitle"
 msgid "Autosave Count"
 msgstr "자동 저장 횟수"
 
-msgctxt "CameraModeDescription"
+msgctxt "Setting/&CameraModeDescription"
 msgid "Select an exploration camera mode."
 msgstr "탐색 카메라 모드를 선택합니다."
 
-#, fuzzy
-msgctxt "CameraModeElasticDescription"
+msgctxt "Setting/&CameraModeElasticDescription"
 msgid ""
 "The exploration camera can move away from your party but returns to follow "
 "mode automatically after a few seconds."
 msgstr "탐색 카메라는 파티로부터 멀어질 수 있지만 몇 초 후 자동으로 추적 모드로 돌아갑니다."
 
-#, fuzzy
-msgctxt "CameraModeElasticTitle"
+msgctxt "Setting/&CameraModeElasticTitle"
 msgid "Spring"
 msgstr "자동 모드"
 
-msgctxt "CameraModeFollowDescription"
+msgctxt "Setting/&CameraModeFollowDescription"
 msgid "The exploration camera is locked on your party."
 msgstr "탐색 카메라가 파티에 고정되어 있습니다."
 
-#, fuzzy
-msgctxt "CameraModeFollowTitle"
+msgctxt "Setting/&CameraModeFollowTitle"
 msgid "Follow"
 msgstr "추적 모드"
 
-#, fuzzy
-msgctxt "CameraModeFreeDescription"
+msgctxt "Setting/&CameraModeFreeDescription"
 msgid "You can move the exploration camera at will, outside the fog."
 msgstr "안개 밖에서 탐색 카메라를 마음대로 움직일 수 있습니다."
 
-msgctxt "CameraModeFreeTitle"
+msgctxt "Setting/&CameraModeFreeTitle"
 msgid "Free"
 msgstr "자유 모드"
 
-#, fuzzy
-msgctxt "CameraModeTitle"
+msgctxt "Setting/&CameraModeTitle"
 msgid "Camera Mode"
 msgstr "카메라 모드"
 
-msgctxt "ConfineCursorToWindowDescription"
+msgctxt "Setting/&ConfineCursorToWindowDescription"
 msgid ""
 "If enabled, the cursor cannot leave the game window unless another screen is "
 "selected."
 msgstr "적용 시 마우스 커서가 게임 화면을 벗어나지 않습니다."
 
-msgctxt "ConfineCursorToWindowTitle"
+msgctxt "Setting/&ConfineCursorToWindowTitle"
 msgid "Confine Cursor to Window"
 msgstr "커서를 창에 제한"
 
-msgctxt "ContextualCameraFrequencyLevelDescription"
+msgctxt "Setting/&ContextualCameraFrequencyLevelDescription"
 msgid "Set how often the close-up camera focuses on important actions."
 msgstr "클로즈업 카메라가 중요한 행동에 초점을 맞추는 빈도를 설정합니다."
 
-msgctxt "ContextualCameraFrequencyLevelTitle"
+msgctxt "Setting/&ContextualCameraFrequencyLevelTitle"
 msgid "Contextual Camera Frequency"
 msgstr "상황별 카메라 빈도"
 
-msgctxt "DamageAcidStyleDescription"
+msgctxt "Setting/&DamageAcidStyleDescription"
 msgid "Die style used for this type of damage."
 msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니다."
 
-msgctxt "DamageAcidStyleTitle"
+msgctxt "Setting/&DamageAcidStyleTitle"
 msgid "Acid Damage Style"
 msgstr "산성 피해 주사위"
 
-msgctxt "DamageBludgeoningStyleDescription"
+msgctxt "Setting/&DamageBludgeoningStyleDescription"
 msgid "Die style used for this type of damage."
 msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니다."
 
-msgctxt "DamageBludgeoningStyleTitle"
+msgctxt "Setting/&DamageBludgeoningStyleTitle"
 msgid "Bludgeoning Damage Style"
 msgstr "타격 피해 주사위"
 
-msgctxt "DamageColdStyleDescription"
+msgctxt "Setting/&DamageColdStyleDescription"
 msgid "Die style used for this type of damage."
 msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니다."
 
-msgctxt "DamageColdStyleTitle"
+msgctxt "Setting/&DamageColdStyleTitle"
 msgid "Cold Damage Style"
 msgstr "냉기 피해 주사위"
 
-msgctxt "DamageFireStyleDescription"
+msgctxt "Setting/&DamageFireStyleDescription"
 msgid "Die style used for this type of damage."
 msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니다."
 
-msgctxt "DamageFireStyleTitle"
+msgctxt "Setting/&DamageFireStyleTitle"
 msgid "Fire Damage Style"
 msgstr "화염 피해 주사위"
 
-msgctxt "DamageForceStyleDescription"
+msgctxt "Setting/&DamageForceStyleDescription"
 msgid "Die style used for this type of damage."
 msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니다."
 
-msgctxt "DamageForceStyleTitle"
+msgctxt "Setting/&DamageForceStyleTitle"
 msgid "Force Damage Style"
 msgstr "역장 피해 주사위"
 
-msgctxt "DamageLightningStyleDescription"
+msgctxt "Setting/&DamageLightningStyleDescription"
 msgid "Die style used for this type of damage."
 msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니다."
 
-msgctxt "DamageLightningStyleTitle"
+msgctxt "Setting/&DamageLightningStyleTitle"
 msgid "Lightning Damage Style"
 msgstr "번개 피해 주사위"
 
-msgctxt "DamageNecroticStyleDescription"
+msgctxt "Setting/&DamageNecroticStyleDescription"
 msgid "Die style used for this type of damage."
 msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니다."
 
-msgctxt "DamageNecroticStyleTitle"
+msgctxt "Setting/&DamageNecroticStyleTitle"
 msgid "Necrotic Damage Style"
 msgstr "사령 피해 주사위"
 
-msgctxt "DamagePiercingStyleDescription"
+msgctxt "Setting/&DamagePiercingStyleDescription"
 msgid "Die style used for this type of damage."
 msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니다."
 
-msgctxt "DamagePiercingStyleTitle"
+msgctxt "Setting/&DamagePiercingStyleTitle"
 msgid "Piercing Damage Style"
 msgstr "관통 피해 주사위"
 
-msgctxt "DamagePoisonStyleDescription"
+msgctxt "Setting/&DamagePoisonStyleDescription"
 msgid "Die style used for this type of damage."
 msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니다."
 
-msgctxt "DamagePoisonStyleTitle"
+msgctxt "Setting/&DamagePoisonStyleTitle"
 msgid "Poison Damage Style"
 msgstr "독 피해 주사위"
 
-msgctxt "DamagePsychicStyleDescription"
+msgctxt "Setting/&DamagePsychicStyleDescription"
 msgid "Die style used for this type of damage."
 msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니다."
 
-msgctxt "DamagePsychicStyleTitle"
+msgctxt "Setting/&DamagePsychicStyleTitle"
 msgid "Psychic Damage Style"
 msgstr "정신 피해 주사위"
 
-msgctxt "DamageRadiantStyleDescription"
+msgctxt "Setting/&DamageRadiantStyleDescription"
 msgid "Die style used for this type of damage."
 msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니다."
 
-msgctxt "DamageRadiantStyleTitle"
+msgctxt "Setting/&DamageRadiantStyleTitle"
 msgid "Radiant Damage Style"
 msgstr "광휘 피해 주사위"
 
-msgctxt "DamageSlashingStyleDescription"
+msgctxt "Setting/&DamageSlashingStyleDescription"
 msgid "Die style used for this type of damage."
 msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니다."
 
-msgctxt "DamageSlashingStyleTitle"
+msgctxt "Setting/&DamageSlashingStyleTitle"
 msgid "Slashing Damage Style"
 msgstr "참격 피해 주사위"
 
-msgctxt "DamageThunderStyleDescription"
+msgctxt "Setting/&DamageThunderStyleDescription"
 msgid "Die style used for this type of damage."
 msgstr "이 유형의 피해에 사용되는 주사위 스타일을 지정합니다."
 
-msgctxt "DamageThunderStyleTitle"
+msgctxt "Setting/&DamageThunderStyleTitle"
 msgid "Thunder Damage Style"
 msgstr "천둥 피해 주사위"
 
-#, fuzzy
-msgctxt "DisplayBanterTextAboveCharactersDescription"
+msgctxt "Setting/&DisplayBanterTextAboveCharactersDescription"
 msgid "Check this to show/hide the banter lines above characters in game."
 msgstr "게임에서 캐릭터 위에 표시되는 잡답을 표시하거나 숨기려면 이 옵션을 선택합니다."
 
-msgctxt "DisplayBanterTextAboveCharactersTitle"
+msgctxt "Setting/&DisplayBanterTextAboveCharactersTitle"
 msgid "Display Banter Text Above Characters"
 msgstr "캐릭터 위에 잡담 텍스트 표시"
 
-msgctxt "DisplayTutorialDescription"
+msgctxt "Setting/&DisplayTutorialDescription"
 msgid "Display or Hide tutorial panels during the game."
 msgstr "게임 중 튜토리얼을 표시하거나 숨깁니다."
 
-msgctxt "DisplayTutorialTitle"
+msgctxt "Setting/&DisplayTutorialTitle"
 msgid "Display Tutorial"
 msgstr "튜토리얼 표시"
 
-msgctxt "EffectsVolumeDescription"
+msgctxt "Setting/&EffectsVolumeDescription"
 msgid "Change sound effects volume."
 msgstr "음향 효과 볼륨을 조절합니다."
 
-msgctxt "EffectsVolumeTitle"
+msgctxt "Setting/&EffectsVolumeTitle"
 msgid "Effects Volume"
 msgstr "효과 볼륨"
 
-msgctxt "FocusCameraOnBattleActionsDescription"
+msgctxt "Setting/&FocusCameraOnBattleActionsDescription"
 msgid ""
 "When enabled, the camera will automatically focus on important battle "
 "actions such as attacks, spellcasting, and more."
 msgstr "활성화되었을 때, 카메라가 공격, 주문 시전 등의 중요한 전투 행동에 자동으로 초점을 맞춥니다."
 
-msgctxt "FocusCameraOnBattleActionsTitle"
+msgctxt "Setting/&FocusCameraOnBattleActionsTitle"
 msgid "Focus Camera on Battle Actions"
 msgstr "전투 행동에 카메라 초점 맞추기"
 
-msgctxt "FramerateDescription"
+msgctxt "Setting/&FramerateDescription"
 msgid "Game screen refresh frequency."
 msgstr "게임 화면 새로 고침 빈도."
 
-msgctxt "FramerateTitle"
+msgctxt "Setting/&FramerateTitle"
 msgid "Framerate"
 msgstr "프레임 속도"
 
-msgctxt "FullscreenDescription"
+msgctxt "Setting/&FullscreenDescription"
 msgid "Display the game in full screen or windowed mode."
 msgstr "게임을 전체 화면 또는 창 모드로 표시합니다."
 
-msgctxt "FullscreenTitle"
+msgctxt "Setting/&FullscreenTitle"
 msgid "Full Screen"
 msgstr "전체 화면"
 
-msgctxt "GroupedMonsterInitiativesDescription"
+msgctxt "Setting/&GroupedMonsterInitiativesDescription"
 msgid ""
 "When rolling for initiative, all monsters of the same type have the same "
 "initiative."
 msgstr "우선권 굴림을 할 때, 같은 유형의 몬스터는 같은 우선권을 가집니다."
 
-#, fuzzy
-msgctxt "GroupedMonsterInitiativesTitle"
+msgctxt "Setting/&GroupedMonsterInitiativesTitle"
 msgid "Grouped Monster Initiatives"
 msgstr "집단 몬스터 우선권"
 
-#, fuzzy
-msgctxt "HealingStyleDescription"
+msgctxt "Setting/&HealingStyleDescription"
 msgid "Die style used for healing effects."
 msgstr "치유 효과에 사용되는 주사위 스타일."
 
-#, fuzzy
-msgctxt "HealingStyleTitle"
+msgctxt "Setting/&HealingStyleTitle"
 msgid "Healing Style"
 msgstr "치유 특화"
 
-msgctxt "MainTitle"
+msgctxt "Setting/&MainTitle"
 msgid "Settings"
 msgstr "설정"
 
-msgctxt "MasterEnabledDescription"
+msgctxt "Setting/&MasterEnabledDescription"
 msgid "All audio on/off."
 msgstr "모든 오디오 켜기/끄기."
 
-msgctxt "MasterEnabledTitle"
+msgctxt "Setting/&MasterEnabledTitle"
 msgid "Master Enabled"
 msgstr "오디오 활성화"
 
-msgctxt "MasterVolumeDescription"
+msgctxt "Setting/&MasterVolumeDescription"
 msgid "Overall audio volume."
 msgstr "전체 오디오 볼륨."
 
-msgctxt "MasterVolumeTitle"
+msgctxt "Setting/&MasterVolumeTitle"
 msgid "Master Volume"
 msgstr "마스터 볼륨"
 
-msgctxt "MoveWithRightClickDescription"
+msgctxt "Setting/&MoveWithRightClickDescription"
 msgid ""
 "Right-click to move characters, interact with an object, or attack an enemy."
 msgstr "캐릭터 이동, 개체와의 상호 작용 또는 적 공격을 위해서는 마우스 오른쪽 버튼을 클릭합니다."
 
-msgctxt "MoveWithRightClickTitle"
+msgctxt "Setting/&MoveWithRightClickTitle"
 msgid "Move/Contextual Action with Right-Click"
 msgstr "오른쪽 클릭으로 이동/상황별 작업"
 
-msgctxt "MusicVolumeDescription"
+msgctxt "Setting/&MusicVolumeDescription"
 msgid "Adjust background music volume."
 msgstr "배경 음악 볼륨을 조절합니다."
 
-msgctxt "MusicVolumeTitle"
+msgctxt "Setting/&MusicVolumeTitle"
 msgid "Music Volume"
 msgstr "음악 볼륨"
 
-msgctxt "OnlyShowNPCIconOnHoverDescription"
+msgctxt "Setting/&OnlyShowNPCIconOnHoverDescription"
 msgid ""
 "NPC type icons (merchant, quest giver, etc.) only display when the cursor is "
 "over the NPC."
 msgstr "NPC 유형 아이콘 (상인, 퀘스트 등) 을 마우스 커서를 올렸을때만 표시합니다."
 
-msgctxt "OnlyShowNPCIconOnHoverTitle"
+msgctxt "Setting/&OnlyShowNPCIconOnHoverTitle"
 msgid "Only Show NPC Icon on Mouseover"
 msgstr "마우스를 올렸을 때만 NPC 아이콘 표시"
 
-msgctxt "OrbitalCameraCorrectionDescription"
+msgctxt "Setting/&OrbitalCameraCorrectionDescription"
 msgid "The camera moves up when entering level boundaries."
 msgstr "맵 경계에 가까워지면 카메라 시점을 위로 이동합니다."
 
-msgctxt "OrbitalCameraCorrectionTitle"
+msgctxt "Setting/&OrbitalCameraCorrectionTitle"
 msgid "Orbital Camera Correction"
 msgstr "가장자리 카메라 위치 보정"
 
-msgctxt "PartyReactionTrapDetectedDescription"
+msgctxt "Setting/&PartyReactionTrapDetectedDescription"
 msgid "Set the party's reaction to a trap being detected."
 msgstr "함정이 발견되면 파티원들이 어떻게 반응할지 설정합니다."
 
-msgctxt "PartyReactionTrapDetectedNoReactionDescription"
+msgctxt "Setting/&PartyReactionTrapDetectedNoReactionDescription"
 msgid "The party continues with its current actions."
 msgstr "현재 행동을 계속합니다."
 
-msgctxt "PartyReactionTrapDetectedNoReactionTitle"
+msgctxt "Setting/&PartyReactionTrapDetectedNoReactionTitle"
 msgid "No Reaction"
 msgstr "반응 없음"
 
-msgctxt "PartyReactionTrapDetectedStopMovementDescription"
+msgctxt "Setting/&PartyReactionTrapDetectedStopMovementDescription"
 msgid "The party stops moving."
 msgstr "파티가 이동을 멈춥니다."
 
-msgctxt "PartyReactionTrapDetectedStopMovementTitle"
+msgctxt "Setting/&PartyReactionTrapDetectedStopMovementTitle"
 msgid "Stop Movement"
 msgstr "정지"
 
-msgctxt "PartyReactionTrapDetectedTitle"
+msgctxt "Setting/&PartyReactionTrapDetectedTitle"
 msgid "Reaction on Trap Detection"
 msgstr "함정 발견 시 반응"
 
-msgctxt "PrepareSpellsLongRestDescription"
+msgctxt "Setting/&PrepareSpellsLongRestDescription"
 msgid "Changing a character's prepared spells requires a long rest."
 msgstr "캐릭터의 준비된 주문을 변경하려면 긴 휴식이 필요합니다."
 
-#, fuzzy
-msgctxt "PrepareSpellsLongRestTitle"
+msgctxt "Setting/&PrepareSpellsLongRestTitle"
 msgid "Prepare Spells & Long Rest"
 msgstr "주문 준비 & 긴 휴식"
 
-msgctxt "QualityLevelDescription"
+msgctxt "Setting/&QualityLevelDescription"
 msgid ""
 "Graphical quality. Hight quality requires a more powerful graphics card."
 msgstr "그래픽 품질. 높은 품질일수록 더 좋은 그래픽 카드가 필요합니다."
 
-msgctxt "QualityLevelHighDescription"
+msgctxt "Setting/&QualityLevelHighDescription"
 msgid "Good for high-end systems"
 msgstr "고사양 시스템에 적합합니다"
 
-msgctxt "QualityLevelHighTitle"
+msgctxt "Setting/&QualityLevelHighTitle"
 msgid "High"
 msgstr "높음"
 
-msgctxt "QualityLevelLowDescription"
+msgctxt "Setting/&QualityLevelLowDescription"
 msgid "Good for low-end systems"
 msgstr "저사양 시스템에 적합합니다"
 
-msgctxt "QualityLevelLowTitle"
+msgctxt "Setting/&QualityLevelLowTitle"
 msgid "Low"
 msgstr "낮음"
 
-msgctxt "QualityLevelMediumDescription"
+msgctxt "Setting/&QualityLevelMediumDescription"
 msgid "Good for middle-range systems"
 msgstr "일반적인 시스템에 적합합니다"
 
-msgctxt "QualityLevelMediumTitle"
+msgctxt "Setting/&QualityLevelMediumTitle"
 msgid "Medium"
 msgstr "중간"
 
-msgctxt "QualityLevelTitle"
+msgctxt "Setting/&QualityLevelTitle"
 msgid "Quality Level"
 msgstr "품질 수준"
 
-msgctxt "QualityLevelUltraDescription"
+msgctxt "Setting/&QualityLevelUltraDescription"
 msgid "Usable only with the most powerful systems"
 msgstr "가장 강력한 성능의 시스템에서만 사용 가능합니다"
 
-msgctxt "QualityLevelUltraTitle"
+msgctxt "Setting/&QualityLevelUltraTitle"
 msgid "Ultra"
 msgstr "울트라"
 
-msgctxt "QualityLevelVery HighDescription"
+msgctxt "Setting/&QualityLevelVery HighDescription"
 msgid "Good for powerful systems"
 msgstr "강력한 시스템에 적합합니다"
 
-msgctxt "QualityLevelVery HighTitle"
+msgctxt "Setting/&QualityLevelVery HighTitle"
 msgid "Very High"
 msgstr "매우 높음"
 
-msgctxt "QualityLevelVery LowDescription"
+msgctxt "Setting/&QualityLevelVery LowDescription"
 msgid "Works with the weakest systems"
 msgstr "매우 낮은 사양의 시스템에 적합합니다"
 
-msgctxt "QualityLevelVery LowTitle"
+msgctxt "Setting/&QualityLevelVery LowTitle"
 msgid "Very Low"
 msgstr "매우 낮음"
 
-msgctxt "QuicksaveCountDescription"
+msgctxt "Setting/&QuicksaveCountDescription"
 msgid "The number of quicksaves kept."
 msgstr "빠른 저장 파일을 몇 개 남길지 선택합니다."
 
-msgctxt "QuicksaveCountTitle"
+msgctxt "Setting/&QuicksaveCountTitle"
 msgid "Quicksave Count"
 msgstr "빠른 저장 갯수"
 
-#, fuzzy
-msgctxt "ReactionTimerDescription"
+msgctxt "Setting/&ReactionTimerDescription"
 msgid ""
 "This option gives you a limited time to decide whether or not to use a "
 "reaction."
 msgstr "이 옵션은 반응 행동의 사용 여부를 결정할 수 있는 짧은 시간을 제공합니다."
 
-#, fuzzy
-msgctxt "ReactionTimerTitle"
+msgctxt "Setting/&ReactionTimerTitle"
 msgid "Reaction Timer"
 msgstr "반응 행동 타이머"
 
-msgctxt "ResolutionDescription"
+msgctxt "Setting/&ResolutionDescription"
 msgid "The graphical resolution of the game screen."
 msgstr "게임 화면 해상도를 설정합니다."
 
-msgctxt "ResolutionTitle"
+msgctxt "Setting/&ResolutionTitle"
 msgid "Resolution"
 msgstr "해상도"
 
-msgctxt "RollAbilityCheckDieDescription"
+msgctxt "Setting/&RollAbilityCheckDieDescription"
 msgid ""
 "Show/hide die when an ability check is rolled during exploration or combat."
 msgstr "탐험이나 전투 도중 능력치 판정이 발생할 때 주사위를 표시하거나 숨깁니다."
 
-msgctxt "RollAbilityCheckDieTitle"
+msgctxt "Setting/&RollAbilityCheckDieTitle"
 msgid "Show Ability Check Die"
 msgstr "능력치 판정 주사위 표시"
 
-msgctxt "RollAttackDieDescription"
+msgctxt "Setting/&RollAttackDieDescription"
 msgid "Show/hide die when the game rolls for an attack."
 msgstr "명중 굴림 주사위를 표시하거나 숨깁니다."
 
-msgctxt "RollAttackDieTitle"
+msgctxt "Setting/&RollAttackDieTitle"
 msgid "Show Attack Die"
 msgstr "공격 주사위 표시"
 
-msgctxt "RollDamageDiceDescription"
+msgctxt "Setting/&RollDamageDiceDescription"
 msgid "Show/hide die when an attack deals damage."
 msgstr "공격이 피해를 입힐 때 주사위를 표시하거나 숨깁니다."
 
-msgctxt "RollDamageDiceTitle"
+msgctxt "Setting/&RollDamageDiceTitle"
 msgid "Show Damage Dice"
 msgstr "피해 주사위 표시"
 
-msgctxt "RollDialogsDieDescription"
+msgctxt "Setting/&RollDialogsDieDescription"
 msgid "Show/hide die when rolling an ability check during a conversation."
 msgstr "대화 도중에 발생하는 능력치 판정의 주사위를 표시하거나 숨깁니다."
 
-msgctxt "RollDialogsDieTitle"
+msgctxt "Setting/&RollDialogsDieTitle"
 msgid "Show Dialog Die"
 msgstr "대화 주사위 표시"
 
-msgctxt "RollDieAlwaysDescription"
+msgctxt "Setting/&RollDieAlwaysDescription"
 msgid "Always roll the die."
 msgstr "항상 주사위를 표시합니다."
 
-msgctxt "RollDieAlwaysTitle"
+msgctxt "Setting/&RollDieAlwaysTitle"
 msgid "Always"
 msgstr "모두 표시"
 
-msgctxt "RollDieHeroOnlyDescription"
+msgctxt "Setting/&RollDieHeroOnlyDescription"
 msgid "Roll the die for hero characters only."
 msgstr "영웅 캐릭터의 주사위만 표시합니다."
 
-msgctxt "RollDieHeroOnlyTitle"
+msgctxt "Setting/&RollDieHeroOnlyTitle"
 msgid "Heroes Only"
 msgstr "영웅만"
 
-msgctxt "RollDieNeverDescription"
+msgctxt "Setting/&RollDieNeverDescription"
 msgid "Never roll the die."
 msgstr "주사위를 표시하지 않습니다."
 
-msgctxt "RollDieNeverTitle"
+msgctxt "Setting/&RollDieNeverTitle"
 msgid "Never"
 msgstr "없음"
 
-msgctxt "RollHealingDiceDescription"
+msgctxt "Setting/&RollHealingDiceDescription"
 msgid "Show/hide die when a spell or power heals damage."
 msgstr "주문이나 능력이 피해를 치료할 때 주사위를 표시하거나 숨깁니다."
 
-msgctxt "RollHealingDiceTitle"
+msgctxt "Setting/&RollHealingDiceTitle"
 msgid "Show Healing Dice"
 msgstr "치유 주사위 표시"
 
-msgctxt "RollInitiativeDieDescription"
+msgctxt "Setting/&RollInitiativeDieDescription"
 msgid "Show/hide die when the game rolls for initiative."
 msgstr "우선권 굴림 주사위를 표시하거나 숨깁니다."
 
-msgctxt "RollInitiativeDieTitle"
+msgctxt "Setting/&RollInitiativeDieTitle"
 msgid "Show Initiative Die"
 msgstr "우선권 주사위 표시"
 
-msgctxt "RollSavingThrowDieDescription"
+msgctxt "Setting/&RollSavingThrowDieDescription"
 msgid "Show/hide die when a saving throw is rolled."
 msgstr "내성 굴림 주사위를 표시하거나 숨깁니다."
 
-msgctxt "RollSavingThrowDieTitle"
+msgctxt "Setting/&RollSavingThrowDieTitle"
 msgid "Show Saving Throw Die"
 msgstr "내성 굴림 주사위 표시"
 
-msgctxt "ShowHelmetInPortraitDescription"
+msgctxt "Setting/&ShowHelmetInPortraitDescription"
 msgid "Check this to show/hide helmets in character portraits."
 msgstr "캐릭터 초상화에 머리 방어구를 표시하거나 숨깁니다."
 
-msgctxt "ShowHelmetInPortraitTitle"
+msgctxt "Setting/&ShowHelmetInPortraitTitle"
 msgid "Show Helmet in Portrait"
 msgstr "초상화에 머리 방어구 표시"
 
-msgctxt "TargetFramerateDescription"
+msgctxt "Setting/&TargetFramerateDescription"
 msgid ""
 "Allows you to limit the framerate to a given number of frames per second, "
 "limiting computation cost/overheating."
 msgstr "프레임 속도를 지정한 수치로 제한하여 연산량을 줄이고 과열을 방지합니다."
 
-msgctxt "TargetFramerateTitle"
+msgctxt "Setting/&TargetFramerateTitle"
 msgid "Target Framerate"
 msgstr "FPS 제한"
 
-msgctxt "TextLanguagedeDescription"
+msgctxt "Setting/&TextLanguagedeDescription"
 msgid "Deutsch"
 msgstr "독일어"
 
-msgctxt "TextLanguageDescription"
+msgctxt "Setting/&TextLanguageDescription"
 msgid "The language used for in-game text."
 msgstr "게임에서 사용할 언어를 설정합니다."
 
-msgctxt "TextLanguagedeTitle"
+msgctxt "Setting/&TextLanguagedeTitle"
 msgid "Deutsch"
 msgstr "독일어"
 
-msgctxt "TextLanguageenDescription"
+msgctxt "Setting/&TextLanguageenDescription"
 msgid "English"
 msgstr "영어"
 
-msgctxt "TextLanguageenTitle"
+msgctxt "Setting/&TextLanguageenTitle"
 msgid "English"
 msgstr "영어"
 
-msgctxt "TextLanguagefrDescription"
+msgctxt "Setting/&TextLanguagefrDescription"
 msgid "Français"
 msgstr "프랑스어"
 
-msgctxt "TextLanguagefrTitle"
+msgctxt "Setting/&TextLanguagefrTitle"
 msgid "Français"
 msgstr "프랑스어"
 
-msgctxt "TextLanguageTitle"
+msgctxt "Setting/&TextLanguageTitle"
 msgid "Texts Language"
 msgstr "텍스트 언어"
 
-msgctxt "TextLanguagezh-CNDescription"
+msgctxt "Setting/&TextLanguagezh-CNDescription"
 msgid "简体中文"
 msgstr "중국어 간체"
 
-msgctxt "TextLanguagezh-CNTitle"
+msgctxt "Setting/&TextLanguagezh-CNTitle"
 msgid "简体中文"
 msgstr "중국어 간체"
 
-msgctxt "TimeDisplayMode24Description"
+msgctxt "Setting/&TimeDisplayMode24Description"
 msgid "Time display uses the 24 hour clock."
 msgstr "시간을 24시간 형식으로 표시합니다."
 
-msgctxt "TimeDisplayMode24Title"
+msgctxt "Setting/&TimeDisplayMode24Title"
 msgid "24 Hours"
 msgstr "24시간"
 
-msgctxt "TimeDisplayModeAMPMDescription"
+msgctxt "Setting/&TimeDisplayModeAMPMDescription"
 msgid "Time display uses the AM/PM system."
 msgstr "시간을 AM/PM 형식으로 표시합니다."
 
-msgctxt "TimeDisplayModeAMPMTitle"
+msgctxt "Setting/&TimeDisplayModeAMPMTitle"
 msgid "AM/PM"
 msgstr "AM/PM"
 
-msgctxt "TimeDisplayModeDescription"
+msgctxt "Setting/&TimeDisplayModeDescription"
 msgid "Toggles display mode for in-game time (AM-PM/24 hours)."
 msgstr "게임 내 시간 표시 형식을 선택합니다 (AM-PM/24시간)."
 
-msgctxt "TimeDisplayModeTitle"
+msgctxt "Setting/&TimeDisplayModeTitle"
 msgid "Time Display Mode"
 msgstr "시간 표시 형식"
 
-msgctxt "ToggleAudioDescription"
+msgctxt "Setting/&ToggleAudioDescription"
 msgid "Click this tab to change sound and music settings."
 msgstr "음성과 음악과 관련된 설정을 변경합니다."
 
-msgctxt "ToggleAudioTitle"
+msgctxt "Setting/&ToggleAudioTitle"
 msgid "Audio"
 msgstr "오디오"
 
-msgctxt "ToggleDiceDescription"
+msgctxt "Setting/&ToggleDiceDescription"
 msgid "Click this tab to change dice display settings."
 msgstr "주사위 표시와 관련된 설정을 변경합니다."
 
-msgctxt "ToggleDiceTitle"
+msgctxt "Setting/&ToggleDiceTitle"
 msgid "Dice"
 msgstr "주사위"
 
-msgctxt "ToggleGameDescription"
+msgctxt "Setting/&ToggleGameDescription"
 msgid "Click this tab to change gameplay settings."
 msgstr "게임플레이 설정을 변경합니다."
 
-msgctxt "ToggleGameTitle"
+msgctxt "Setting/&ToggleGameTitle"
 msgid "Game"
 msgstr "게임"
 
-msgctxt "ToggleGraphicsDescription"
+msgctxt "Setting/&ToggleGraphicsDescription"
 msgid "Click this tab to change graphics and display settings."
 msgstr "그래픽과 화면 표시와 관련된 설정을 변경합니다."
 
-msgctxt "ToggleGraphicsTitle"
+msgctxt "Setting/&ToggleGraphicsTitle"
 msgid "Graphics"
 msgstr "그래픽"
 
-msgctxt "ToggleGuiDescription"
+msgctxt "Setting/&ToggleGuiDescription"
 msgid "Click this tab to change user interface settings."
 msgstr "사용자 인터페이스 설정을 변경합니다."
 
-msgctxt "ToggleGuiTitle"
+msgctxt "Setting/&ToggleGuiTitle"
 msgid "GUI"
 msgstr "GUI"
 
-msgctxt "VoicesVolumeDescription"
+msgctxt "Setting/&VoicesVolumeDescription"
 msgid "Change of voice playback volume."
 msgstr "대사 음성 볼륨을 변경합니다."
 
-msgctxt "VoicesVolumeTitle"
+msgctxt "Setting/&VoicesVolumeTitle"
 msgid "Voice Volume"
 msgstr "음성 볼륨"
 
-msgctxt "VSyncDescription"
+msgctxt "Setting/&VSyncDescription"
 msgid "Sets vertical synchronization with screen display."
 msgstr "수직 동기화 모드를 선택합니다."
 
-msgctxt "VSyncDoubleDescription"
+msgctxt "Setting/&VSyncDoubleDescription"
 msgid ""
 "Game rendering frequency is synchronized at half the screen frequency. "
 "Useful for high frequency (120Hz) monitors."
 msgstr "게임 렌더링 속도를 화면 주사율의 절반으로 동기화합니다. 고주파(120Hz) 모니터에 유용합니다."
 
-msgctxt "VSyncDoubleTitle"
+msgctxt "Setting/&VSyncDoubleTitle"
 msgid "Double"
 msgstr "2배"
 
-msgctxt "VSyncNoneDescription"
+msgctxt "Setting/&VSyncNoneDescription"
 msgid ""
 "Game rendering frequency is not synchronized with the screen display, "
 "allowing an unlimited frame rate."
 msgstr "게임 렌더링 속도를 화면 주사율과 동기화하지 않습니다. 프레임 제한이 해제됩니다."
 
-msgctxt "VSyncNoneTitle"
+msgctxt "Setting/&VSyncNoneTitle"
 msgid "None"
 msgstr "비활성화"
 
-msgctxt "VSyncSingleDescription"
+msgctxt "Setting/&VSyncSingleDescription"
 msgid ""
 "Game rendering frequency is synchronized with the screen frequency, or an "
 "integer divider (e.g. 30, 20, 15)."
 msgstr "게임 렌더링 속도를 화면 주사율 또는 그 정수 약수(30, 20, 15 등)로 동기화합니다."
 
-msgctxt "VSyncSingleTitle"
+msgctxt "Setting/&VSyncSingleTitle"
 msgid "Single"
 msgstr "1배"
 
-msgctxt "VSyncTitle"
+msgctxt "Setting/&VSyncTitle"
 msgid "Vsync"
 msgstr "수직 동기화"
 
-msgctxt "FullScreenModeTitle"
+msgctxt "Setting/&FullScreenModeTitle"
 msgid "Fullscreen Mode"
 msgstr "전체 화면 모드"
 
-msgctxt "FullScreenModeDescription"
+msgctxt "Setting/&FullScreenModeDescription"
 msgid "Sets the application's window type."
 msgstr "프로그램의 창 모드를 설정합니다."
 
-msgctxt "FullScreenModeExclusiveFullScreenTitle"
+msgctxt "Setting/&FullScreenModeExclusiveFullScreenTitle"
 msgid "Exclusive Fullscreen"
 msgstr "전체 화면"
 
-msgctxt "FullScreenModeExclusiveFullScreenDescription"
+msgctxt "Setting/&FullScreenModeExclusiveFullScreenDescription"
 msgid ""
 "The application changes the monitor resolution and claims exclusive use of "
 "the target display."
 msgstr "프로그램이 모니터의 해상도를 설정하며, 대상 모니터를 독점적으로 사용합니다."
 
-msgctxt "FullScreenModeFullScreenWindowTitle"
+msgctxt "Setting/&FullScreenModeFullScreenWindowTitle"
 msgid "Fullscreen Window"
 msgstr "테두리 없는 전체 화면"
 
-msgctxt "FullScreenModeFullScreenWindowDescription"
+msgctxt "Setting/&FullScreenModeFullScreenWindowDescription"
 msgid ""
 "In this mode, the application will be in a window that covers the whole "
 "screen. It runs at desktop resolution, and other requested resolutions are "
@@ -720,171 +705,161 @@ msgstr ""
 "프로그램이 화면 전체를 덮는 창 모드로 실행됩니다. 시스템 바탕화면 해상도를 사용하며, 게임 해상도가 그보다 작을 경우 창 크기가 "
 "조절됩니다."
 
-msgctxt "FullScreenModeMaximizedWindowTitle"
+msgctxt "Setting/&FullScreenModeMaximizedWindowTitle"
 msgid "Maximized Window"
 msgstr "전체 화면 모드"
 
-msgctxt "FullScreenModeMaximizedWindowDescription"
+msgctxt "Setting/&FullScreenModeMaximizedWindowDescription"
 msgid "In this mode, the application creates a maximized window."
 msgstr "이 모드에서 게임은 전체 화면으로 실행됩니다."
 
-msgctxt "FullScreenModeWindowedTitle"
+msgctxt "Setting/&FullScreenModeWindowedTitle"
 msgid "Windowed"
 msgstr "창 모드"
 
-msgctxt "FullScreenModeWindowedDescription"
+msgctxt "Setting/&FullScreenModeWindowedDescription"
 msgid "In this mode, Unity creates a standard, non-fullscreen window."
 msgstr "이 모드에서 유니티는 전체 화면이 아닌 표준 크기 화면을 만듭니다."
 
-msgctxt "CustomQualityTitle"
+msgctxt "Setting/&CustomQualityTitle"
 msgid "Custom Quality"
 msgstr "사용자 지정"
 
-msgctxt "CustomQualityDescription"
+msgctxt "Setting/&CustomQualityDescription"
 msgid "Allows you to override the default quality parameters."
 msgstr "기본 품질 수준 설정값을 수정합니다."
 
-msgctxt "ShadowQualityTitle"
+msgctxt "Setting/&ShadowQualityTitle"
 msgid "Shadow Quality"
 msgstr "그림자 품질"
 
-#, fuzzy
-msgctxt "ShadowQualityDescription"
+msgctxt "Setting/&ShadowQualityDescription"
 msgid ""
 "Choose a resolution for rendering shadows. The higher the resolution, the "
 "greater the processing overhead."
 msgstr "그림자 렌더링을 위한 해상도를 선택합니다. 해상도가 높을수록 처리하는데 부하가 많이 걸립니다."
 
-msgctxt "ShadowQualityLowTitle"
+msgctxt "Setting/&ShadowQualityLowTitle"
 msgid "Low"
 msgstr "낮음"
 
-#, fuzzy
-msgctxt "ShadowQualityLowDescription"
+msgctxt "Setting/&ShadowQualityLowDescription"
 msgid "Low shadow map resolution."
 msgstr "낮은 그림자 해상도."
 
-msgctxt "ShadowQualityMediumTitle"
+msgctxt "Setting/&ShadowQualityMediumTitle"
 msgid "Medium"
 msgstr "보통"
 
-#, fuzzy
-msgctxt "ShadowQualityMediumDescription"
+msgctxt "Setting/&ShadowQualityMediumDescription"
 msgid "Medium shadow map resolution."
 msgstr "보통 그림자 해상도."
 
-msgctxt "ShadowQualityHighTitle"
+msgctxt "Setting/&ShadowQualityHighTitle"
 msgid "High"
 msgstr "높음"
 
-#, fuzzy
-msgctxt "ShadowQualityHighDescription"
+msgctxt "Setting/&ShadowQualityHighDescription"
 msgid "High shadow map resolution."
 msgstr "높은 그림자 해상도."
 
-msgctxt "ShadowQualityVeryHighTitle"
+msgctxt "Setting/&ShadowQualityVeryHighTitle"
 msgid "Very High"
 msgstr "매우 높음"
 
-#, fuzzy
-msgctxt "ShadowQualityVeryHighDescription"
+msgctxt "Setting/&ShadowQualityVeryHighDescription"
 msgid "Very high shadow map resolution."
 msgstr "매우 높은 그림자 해상도."
 
-msgctxt "ShadowDistanceTitle"
+msgctxt "Setting/&ShadowDistanceTitle"
 msgid "Shadow Distance"
 msgstr "그림자 거리"
 
-msgctxt "ShadowDistanceDescription"
+msgctxt "Setting/&ShadowDistanceDescription"
 msgid ""
 "Set the maximum distance from the camera at which shadows are visible. "
 "Shadows beyond this distance are not rendered."
 msgstr "카메라로부터 그림자가 보이는 최대 거리를 설정합니다. 이 거리 이상 떨어진 그림자는 렌더링되지 않습니다."
 
-msgctxt "ShadowDistanceLowTitle"
+msgctxt "Setting/&ShadowDistanceLowTitle"
 msgid "Low"
 msgstr "낮음"
 
-#, fuzzy
-msgctxt "ShadowDistanceLowDescription"
+msgctxt "Setting/&ShadowDistanceLowDescription"
 msgid "Low shadow rendering distance."
 msgstr "낮은 그림자 렌더링 거리."
 
-msgctxt "ShadowDistanceMediumTitle"
+msgctxt "Setting/&ShadowDistanceMediumTitle"
 msgid "Medium"
 msgstr "보통"
 
-#, fuzzy
-msgctxt "ShadowDistanceMediumDescription"
+msgctxt "Setting/&ShadowDistanceMediumDescription"
 msgid "Medium shadow rendering distance."
 msgstr "보통 그림자 렌더링 거리."
 
-msgctxt "ShadowDistanceHighTitle"
+msgctxt "Setting/&ShadowDistanceHighTitle"
 msgid "High"
 msgstr "높음"
 
-#, fuzzy
-msgctxt "ShadowDistanceHighDescription"
+msgctxt "Setting/&ShadowDistanceHighDescription"
 msgid "High shadow rendering distance."
 msgstr "높은 그림자 렌더링 거리."
 
-msgctxt "ShadowDistanceVeryHighTitle"
+msgctxt "Setting/&ShadowDistanceVeryHighTitle"
 msgid "Very High"
 msgstr "매우 높음"
 
-#, fuzzy
-msgctxt "ShadowDistanceVeryHighDescription"
+msgctxt "Setting/&ShadowDistanceVeryHighDescription"
 msgid "Very high shadow rendering distance."
 msgstr "매우 높은 그림자 렌더링 거리."
 
-msgctxt "ShadowDistanceUltraTitle"
+msgctxt "Setting/&ShadowDistanceUltraTitle"
 msgid "Ultra"
 msgstr "울트라"
 
-#, fuzzy
-msgctxt "ShadowDistanceUltraDescription"
+msgctxt "Setting/&ShadowDistanceUltraDescription"
 msgid "Maximum shadow rendering distance."
 msgstr "최대 그림자 렌더링 거리."
 
-msgctxt "TextureQualityTitle"
+msgctxt "Setting/&TextureQualityTitle"
 msgid "Texture Quality"
 msgstr "텍스쳐 품질"
 
-msgctxt "TextureQualityDescription"
+msgctxt "Setting/&TextureQualityDescription"
 msgid ""
 "Choose a resolution for displaying textures. A lower resolution has a "
 "smaller processing overhead."
 msgstr "텍스처를 표시할 해상도를 선택합니다. 해상도가 낮을수록 연산량이 적습니다."
 
-msgctxt "TextureQualityQuarterResTitle"
+msgctxt "Setting/&TextureQualityQuarterResTitle"
 msgid "Very Low Resolution"
 msgstr "매우 낮음"
 
-msgctxt "TextureQualityQuarterResDescription"
+msgctxt "Setting/&TextureQualityQuarterResDescription"
 msgid "Use very low resolution textures."
 msgstr "매우 낮은 해상도의 텍스쳐를 사용합니다."
 
-msgctxt "TextureQualityHalfResTitle"
+msgctxt "Setting/&TextureQualityHalfResTitle"
 msgid "Low Resolution"
 msgstr "낮음"
 
-msgctxt "TextureQualityHalfResDescription"
+msgctxt "Setting/&TextureQualityHalfResDescription"
 msgid "Use low resolution textures."
 msgstr "낮은 해상도의 텍스쳐를 사용합니다."
 
-msgctxt "TextureQualityFullResTitle"
+msgctxt "Setting/&TextureQualityFullResTitle"
 msgid "Original Resolution"
 msgstr "원본"
 
-msgctxt "TextureQualityFullResDescription"
+msgctxt "Setting/&TextureQualityFullResDescription"
 msgid "Use original resolution textures."
 msgstr "원본 해상도의 텍스쳐를 사용합니다."
 
-msgctxt "VolumetricLightingQualityTitle"
+msgctxt "Setting/&VolumetricLightingQualityTitle"
 msgid "Volumetric Lighting Quality"
 msgstr "입체 광원 품질"
 
-msgctxt "VolumetricLightingQualityDescription"
+msgctxt "Setting/&VolumetricLightingQualityDescription"
 msgid ""
 "Choose a resolution for rendering volumetric lighting effects. You can also "
 "disable them. Note that some features are disabled at lower quality levels. "
@@ -894,46 +869,46 @@ msgstr ""
 "입체 광원 효과를 렌더링할 해상도를 선택합니다. 완전히 비활성화할 수도 있습니다. 일부 기능은 낮은 그래픽 설정에서 비활성화됩니다. 높은 "
 "설정은 더 나은 렌더링 품질을 보여주지만 높은 성능이 필요합니다."
 
-msgctxt "VolumetricLightingQualityDisabledTitle"
+msgctxt "Setting/&VolumetricLightingQualityDisabledTitle"
 msgid "Disabled"
 msgstr "비활성화"
 
-msgctxt "VolumetricLightingQualityDisabledDescription"
+msgctxt "Setting/&VolumetricLightingQualityDisabledDescription"
 msgid "Disable volumetric lighting entirely."
 msgstr "입체 광원 효과를 완전히 비활성화합니다."
 
-msgctxt "VolumetricLightingQualityLowTitle"
+msgctxt "Setting/&VolumetricLightingQualityLowTitle"
 msgid "Low"
 msgstr "낮음"
 
-msgctxt "VolumetricLightingQualityLowDescription"
+msgctxt "Setting/&VolumetricLightingQualityLowDescription"
 msgid ""
 "Use a low resolution buffer and disable most volumetric lighting features."
 msgstr "낮은 해상도의 버퍼를 사용하고 입체 광원 효과의 기능을 대부분 비활성화합니다."
 
-msgctxt "VolumetricLightingQualityMediumTitle"
+msgctxt "Setting/&VolumetricLightingQualityMediumTitle"
 msgid "Medium"
 msgstr "보통"
 
-msgctxt "VolumetricLightingQualityMediumDescription"
+msgctxt "Setting/&VolumetricLightingQualityMediumDescription"
 msgid ""
 "Use a medium resolution buffer and disable some volumetric lighting features."
 msgstr "중간 해상도의 버퍼를 사용하고 입체 광원 효과의 기능을 일부 비활성화합니다."
 
-msgctxt "VolumetricLightingQualityHighTitle"
+msgctxt "Setting/&VolumetricLightingQualityHighTitle"
 msgid "High"
 msgstr "높음"
 
-msgctxt "VolumetricLightingQualityHighDescription"
+msgctxt "Setting/&VolumetricLightingQualityHighDescription"
 msgid ""
 "Use a high resolution buffer and enable all volumetric lighting features."
 msgstr "높은 해상도의 버퍼를 사용하고 입체 광원 효과의 기능을 전부 활성화합니다."
 
-msgctxt "ClothesSimulationQualityTitle"
+msgctxt "Setting/&ClothesSimulationQualityTitle"
 msgid "Clothes Simulation Quality"
 msgstr "의복 시뮬레이션 품질"
 
-msgctxt "ClothesSimulationQualityDescription"
+msgctxt "Setting/&ClothesSimulationQualityDescription"
 msgid ""
 "Choose the physics simulation quality of characters' clothes. You can also "
 "disable this effect. A higher quality setting enables cloth simulation on "
@@ -942,37 +917,37 @@ msgstr ""
 "캐릭터 의복이 물리 엔진에 의해 시뮬레이션 되는 품질을 선택합니다. 비활성화할수도 있습니다. 높은 옵션을 선택하면 더 많은 캐릭터의 "
 "의복을 시뮬레이션하지만 높은 성능이 필요합니다."
 
-msgctxt "ClothesSimulationQualityDisabledTitle"
+msgctxt "Setting/&ClothesSimulationQualityDisabledTitle"
 msgid "Disabled"
 msgstr "비활성화"
 
-msgctxt "ClothesSimulationQualityDisabledDescription"
+msgctxt "Setting/&ClothesSimulationQualityDisabledDescription"
 msgid "Disable cloth simulation completely."
 msgstr "의복 시뮬레이션을 완전히 비활성화합니다."
 
-msgctxt "ClothesSimulationQualityImportantTitle"
+msgctxt "Setting/&ClothesSimulationQualityImportantTitle"
 msgid "Only Important Characters"
 msgstr "중요 캐릭터만"
 
-msgctxt "ClothesSimulationQualityImportantDescription"
+msgctxt "Setting/&ClothesSimulationQualityImportantDescription"
 msgid "Enable cloth simulation only for major characters."
 msgstr "주요 캐릭터의 의복만 시뮬레이션합니다."
 
-msgctxt "DepthOfFieldTitle"
+msgctxt "Setting/&DepthOfFieldTitle"
 msgid "Depth of Field"
 msgstr "피사계 심도"
 
-msgctxt "DepthOfFieldDescription"
+msgctxt "Setting/&DepthOfFieldDescription"
 msgid ""
 "Enable or disable the effect that simulates the focus properties of a camera "
 "lens."
 msgstr "카메라 렌즈의 초점 특성을 시뮬레이션하는 효과를 활성화하거나 비활성화합니다."
 
-msgctxt "AmbientOcclusionTitle"
+msgctxt "Setting/&AmbientOcclusionTitle"
 msgid "Ambient Occlusion"
 msgstr "앰비언트 오클루전"
 
-msgctxt "AmbientOcclusionDescription"
+msgctxt "Setting/&AmbientOcclusionDescription"
 msgid ""
 "Enable or disable Ambient Occlusion as a full-screen post-processing effect. "
 "It darkens creases, holes, intersections, and surfaces that are close to "
@@ -980,39 +955,39 @@ msgid ""
 msgstr ""
 "전체 화면 후처리 효과로 앰비언트 오클루전을 활성화 또는 비활성화합니다. 주름, 구멍, 교차점 및 서로 가까운 표면을 어둡게 합니다."
 
-msgctxt "AntiAliasingTitle"
+msgctxt "Setting/&AntiAliasingTitle"
 msgid "Anti-Aliasing"
 msgstr "안티 앨리어싱"
 
-msgctxt "AntiAliasingDescription"
+msgctxt "Setting/&AntiAliasingDescription"
 msgid ""
 "Choose the solution you want to use to prevent aliasing and give graphics a "
 "smoother appearance. You can also disable this effect."
 msgstr "앨리어싱을 방지하고 그래픽을 더 매끄럽게 표현하는 데 사용할 솔루션을 선택합니다. 이 효과를 비활성화할 수도 있습니다."
 
-msgctxt "AntiAliasingNoneTitle"
+msgctxt "Setting/&AntiAliasingNoneTitle"
 msgid "None"
 msgstr "없음"
 
-msgctxt "AntiAliasingNoneDescription"
+msgctxt "Setting/&AntiAliasingNoneDescription"
 msgid "Disable the anti-aliasing effect entirely."
 msgstr "안티 앨리어싱 효과를 완전히 비활성화합니다."
 
-msgctxt "AntiAliasingFastApproximateAntialiasingTitle"
+msgctxt "Setting/&AntiAliasingFastApproximateAntialiasingTitle"
 msgid "FXAA"
 msgstr "FXAA"
 
-msgctxt "AntiAliasingFastApproximateAntialiasingDescription"
+msgctxt "Setting/&AntiAliasingFastApproximateAntialiasingDescription"
 msgid ""
 "Fast Approximate Anti-Aliasing is the cheapest technique and is recommended "
 "for slower desktops."
 msgstr "Fast Approximate Anti-Aliasing은 가장 성능 소모가 적은 기법이며, 저사양 시스템에 적합합니다."
 
-msgctxt "AntiAliasingTemporalAntialiasingTitle"
+msgctxt "Setting/&AntiAliasingTemporalAntialiasingTitle"
 msgid "TAA"
 msgstr "TAA"
 
-msgctxt "AntiAliasingTemporalAntialiasingDescription"
+msgctxt "Setting/&AntiAliasingTemporalAntialiasingDescription"
 msgid ""
 "Temporal Anti-Aliasing is a more advanced anti-aliasing technique. It is "
 "substantially better at smoothing edges in motion, but has a higher "
@@ -1021,225 +996,221 @@ msgstr ""
 "Temporal Anti-Aliasing 은 보다 발전된 안티 앨리어싱 기법입니다. 움직임의 가장자리를 부드럽게 하는 데는 훨씬 더 "
 "우수하지만 FXAA보다 처리 오버헤드가 더 높습니다."
 
-msgctxt "BrightnessTitle"
+msgctxt "Setting/&BrightnessTitle"
 msgid "Brightness"
 msgstr "밝기"
 
-msgctxt "BrightnessDescription"
+msgctxt "Setting/&BrightnessDescription"
 msgid "Adjust the game's brightness for your display."
 msgstr "게임 화면의 밝기를 조절합니다."
 
-msgctxt "ContrastTitle"
+msgctxt "Setting/&ContrastTitle"
 msgid "Contrast"
 msgstr "명암"
 
-msgctxt "ContrastDescription"
+msgctxt "Setting/&ContrastDescription"
 msgid "Adjust the game's contrast for your display."
 msgstr "게임 화면의 명암을 조절합니다."
 
-msgctxt "DiceVisibilityTitle"
+msgctxt "Setting/&DiceVisibilityTitle"
 msgid "Dice Visibility"
 msgstr "주사위 표시"
 
-msgctxt "DiceStyleTitle"
+msgctxt "Setting/&DiceStyleTitle"
 msgid "Dice Style"
 msgstr "주사위 스타일"
 
-msgctxt "PartyD20StyleDescription"
+msgctxt "Setting/&PartyD20StyleDescription"
 msgid "Die style for party d20 rolls"
 msgstr "파티가 d20 굴림을 할 때 사용될 주사위 스타일"
 
-msgctxt "PartyD20StyleTitle"
+msgctxt "Setting/&PartyD20StyleTitle"
 msgid "Party d20 Style"
 msgstr "파티의 d20 주사위 스타일"
 
-msgctxt "PartySecondaryD20StyleDescription"
+msgctxt "Setting/&PartySecondaryD20StyleDescription"
 msgid ""
 "Die style for the party's second die when rolling with advantage or "
 "disadvantage"
 msgstr "유리점 및 불리점 굴림을 할 때 사용될 파티의 두 번째 주사위 스타일"
 
-msgctxt "PartySecondaryD20StyleTitle"
+msgctxt "Setting/&PartySecondaryD20StyleTitle"
 msgid "Party Adv./Disadv. d20 Style"
 msgstr "파티 유/불리 d20 주사위 스타일"
 
-msgctxt "EnemyD20StyleDescription"
+msgctxt "Setting/&EnemyD20StyleDescription"
 msgid "Die style for enemy d20 rolls"
 msgstr "적이 d20 굴림을 할 때 사용될 주사위 스타일"
 
-msgctxt "EnemyD20StyleTitle"
+msgctxt "Setting/&EnemyD20StyleTitle"
 msgid "Enemy d20 Style"
 msgstr "적 d20 주사위 스타일"
 
-msgctxt "EnemySecondaryD20StyleDescription"
+msgctxt "Setting/&EnemySecondaryD20StyleDescription"
 msgid ""
 "Die style for the enemy's second die when rolling with advantage or "
 "disadvantage"
 msgstr "유리점 및 불리점 굴림을 할 때 사용될 적의 두 번째 주사위 스타일"
 
-msgctxt "EnemySecondaryD20StyleTitle"
+msgctxt "Setting/&EnemySecondaryD20StyleTitle"
 msgid "Enemy Adv./Disadv. d20 Style"
 msgstr "적 유/불리 d20 주사위 스타일"
 
-#, fuzzy
-msgctxt "ToggleKeyboardDescription"
+msgctxt "Setting/&ToggleKeyboardDescription"
 msgid "Allows you to customize the keyboard mapping of game commands"
 msgstr "게임 내 명령의 키보드 매핑을 변경할 수 있습니다"
 
-msgctxt "ToggleKeyboardTitle"
+msgctxt "Setting/&ToggleKeyboardTitle"
 msgid "Keyboard"
 msgstr "키보드"
 
-msgctxt "GeneralHeaderTitle"
+msgctxt "Setting/&GeneralHeaderTitle"
 msgid "General"
 msgstr "일반"
 
-msgctxt "CancelTitle"
+msgctxt "Setting/&CancelTitle"
 msgid "Cancel"
 msgstr "취소"
 
-msgctxt "PlayPauseTitle"
+msgctxt "Setting/&PlayPauseTitle"
 msgid "Play/Pause/Speed Up Battle Turn"
 msgstr "재생/일시정지/전투 턴 속도 높이기"
 
-msgctxt "QuickSaveTitle"
+msgctxt "Setting/&QuickSaveTitle"
 msgid "Quick Save"
 msgstr "빠른 저장"
 
-msgctxt "QuickLoadTitle"
+msgctxt "Setting/&QuickLoadTitle"
 msgid "Quick Load"
 msgstr "빠른 불러오기"
 
-msgctxt "ToggleMapTitle"
+msgctxt "Setting/&ToggleMapTitle"
 msgid "Toggle Map"
 msgstr "지도 토글"
 
-msgctxt "PartyJournalTitle"
+msgctxt "Setting/&PartyJournalTitle"
 msgid "Party Journal"
 msgstr "파티 저널"
 
-msgctxt "BestiaryTitle"
+msgctxt "Setting/&BestiaryTitle"
 msgid "Bestiary"
 msgstr "생물도감"
 
-msgctxt "ShowDetailedInformationTitle"
+msgctxt "Setting/&ShowDetailedInformationTitle"
 msgid "Highlight Interactive Elements"
 msgstr "상호 작용 가능한 물체 강조"
 
-msgctxt "CharacterControlHeaderTitle"
+msgctxt "Setting/&CharacterControlHeaderTitle"
 msgid "Character Control"
 msgstr "캐릭터 조작"
 
-msgctxt "InspectCharacterTitle"
+msgctxt "Setting/&InspectCharacterTitle"
 msgid "Inspect Character"
 msgstr "캐릭터 조사"
 
-msgctxt "CastSpellTitle"
+msgctxt "Setting/&CastSpellTitle"
 msgid "Cast Spell"
 msgstr "주문 시전"
 
-msgctxt "EndTurnTitle"
+msgctxt "Setting/&EndTurnTitle"
 msgid "End Turn"
 msgstr "턴 종료"
 
-msgctxt "SelectNextCharacterTitle"
+msgctxt "Setting/&SelectNextCharacterTitle"
 msgid "Select Next Character"
 msgstr "다음 캐릭터 선택"
 
-msgctxt "SelectAllCharactersTitle"
+msgctxt "Setting/&SelectAllCharactersTitle"
 msgid "Select All Characters"
 msgstr "모든 캐릭터 선택"
 
-msgctxt "SelectCharacter1Title"
+msgctxt "Setting/&SelectCharacter1Title"
 msgid "Select Character 1"
 msgstr "캐릭터 1 선택"
 
-msgctxt "SelectCharacter2Title"
+msgctxt "Setting/&SelectCharacter2Title"
 msgid "Select Character 2"
 msgstr "캐릭터 2 선택"
 
-msgctxt "SelectCharacter3Title"
+msgctxt "Setting/&SelectCharacter3Title"
 msgid "Select Character 3"
 msgstr "캐릭터 3 선택"
 
-msgctxt "SelectCharacter4Title"
+msgctxt "Setting/&SelectCharacter4Title"
 msgid "Select Character 4"
 msgstr "캐릭터 4 선택"
 
-#, fuzzy
-msgctxt "EnablePlanarTargettingDescription"
+msgctxt "Setting/&EnablePlanarTargettingDescription"
 msgid ""
 "Allows you to confine destination/target selection to an horizontal plane, "
 "instead of full 3D."
 msgstr "목적지/대상 선택을 완전 3차원 대신 수평 평면으로 제한할 수 있습니다."
 
-#, fuzzy
-msgctxt "EnablePlanarTargettingTitle"
+msgctxt "Setting/&EnablePlanarTargettingTitle"
 msgid "Enable Planar Targeting"
 msgstr "평면 타겟팅 사용"
 
-msgctxt "CameraControlHeaderTitle"
+msgctxt "Setting/&CameraControlHeaderTitle"
 msgid "Camera Control"
 msgstr "시점 제어"
 
-msgctxt "LeftTitle"
+msgctxt "Setting/&LeftTitle"
 msgid "Move Left"
 msgstr "왼쪽으로 이동"
 
-msgctxt "RightTitle"
+msgctxt "Setting/&RightTitle"
 msgid "Move Right"
 msgstr "오른쪽으로 이동"
 
-msgctxt "ForwardTitle"
+msgctxt "Setting/&ForwardTitle"
 msgid "Move Forward"
 msgstr "앞으로 이동"
 
-msgctxt "BackwardTitle"
+msgctxt "Setting/&BackwardTitle"
 msgid "Move Backward"
 msgstr "뒤로 이동"
 
-msgctxt "RotateCCWTitle"
+msgctxt "Setting/&RotateCCWTitle"
 msgid "Rotate Counterclockwise"
 msgstr "반시계 방향으로 회전"
 
-msgctxt "RotateCWTitle"
+msgctxt "Setting/&RotateCWTitle"
 msgid "Rotate Clockwise"
 msgstr "시계 방향으로 회전"
 
-msgctxt "HeldZoomTitle"
+msgctxt "Setting/&HeldZoomTitle"
 msgid "Hold to Zoom to Character"
 msgstr "꾹 눌러 캐릭터로 시점 확대"
 
-msgctxt "ZoomInTitle"
+msgctxt "Setting/&ZoomInTitle"
 msgid "Zoom In"
 msgstr "확대"
 
-msgctxt "ZoomOutTitle"
+msgctxt "Setting/&ZoomOutTitle"
 msgid "Zoom Out"
 msgstr "축소"
 
-msgctxt "KeyMappingUnboundTitle"
+msgctxt "Setting/&KeyMappingUnboundTitle"
 msgid "Unbound"
 msgstr "미지정"
 
-msgctxt "KeyMappingImmutableDescription"
+msgctxt "Setting/&KeyMappingImmutableDescription"
 msgid "This keyboard mapping cannot be modified by the user."
 msgstr "이 키보드 설정은 수정이 불가능합니다."
 
-msgctxt "InputKeyTitle"
+msgctxt "Setting/&InputKeyTitle"
 msgid "Hit a Key"
 msgstr "키 입력"
 
-msgctxt "DefaultDescription"
+msgctxt "Setting/&DefaultDescription"
 msgid "Resets to the default values for this category of settings"
 msgstr "현재 열린 탭의 설정을 기본값으로 초기화합니다"
 
-msgctxt "DefaultTitle"
+msgctxt "Setting/&DefaultTitle"
 msgid "Default"
 msgstr "기본값"
 
-#, fuzzy
-msgctxt "PreserveRandomSeedDescription"
+msgctxt "Setting/&PreserveRandomSeedDescription"
 msgid ""
 "Preserve the random number generation when loading a saved game in order to "
 "obtain the same combat results. The random generation is always recalculated "
@@ -1248,119 +1219,117 @@ msgstr ""
 "동일한 전투 결과를 얻으려면 저장된 게임을 불러올 때 난수 생성을 유지하십시오. 이 옵션이 켜져 있는 경우에도 대화 굴림에 대해서는 항상 "
 "다시 계산됩니다."
 
-msgctxt "PreserveRandomSeedTitle"
+msgctxt "Setting/&PreserveRandomSeedTitle"
 msgid "Preserve Random Seed"
 msgstr "난수 시드 보존"
 
-msgctxt "ClothesSimulationQualityAlwaysTitle"
+msgctxt "Setting/&ClothesSimulationQualityAlwaysTitle"
 msgid "TBC"
 msgstr "TBC"
 
-msgctxt "RefreshRateDescription"
+msgctxt "Setting/&RefreshRateDescription"
 msgid "The refresh frequency (Hz) of the selected resolution"
 msgstr "선택한 해상도의 주사율 (Hz)"
 
-msgctxt "RefreshRateTitle"
+msgctxt "Setting/&RefreshRateTitle"
 msgid "Refresh Rate"
 msgstr "주사율"
 
-msgctxt "DisplayHeaderTitle"
+msgctxt "Setting/&DisplayHeaderTitle"
 msgid "Display"
 msgstr "화면"
 
-msgctxt "GameplayHeaderTitle"
+msgctxt "Setting/&GameplayHeaderTitle"
 msgid "Gameplay"
 msgstr "게임플레이"
 
-msgctxt "CameraHeaderTitle"
+msgctxt "Setting/&CameraHeaderTitle"
 msgid "Camera"
 msgstr "카메라"
 
-msgctxt "SpellComponentsHeaderTitle"
+msgctxt "Setting/&SpellComponentsHeaderTitle"
 msgid "Spell Components"
 msgstr "주문 구성 요소"
 
-msgctxt "VerbalComponentDescription"
+msgctxt "Setting/&VerbalComponentDescription"
 msgid ""
 "Determines how you simulate the requirements for spells with a verbal "
 "component."
 msgstr "음성 구성 요소가 있는 주문의 요구조건을 수행하는 방법을 결정합니다."
 
-msgctxt "VerbalComponentTitle"
+msgctxt "Setting/&VerbalComponentTitle"
 msgid "Verbal Components"
 msgstr "음성 구성 요소"
 
-msgctxt "VerbalComponentDisabledDescription"
+msgctxt "Setting/&VerbalComponentDisabledDescription"
 msgid ""
 "Heroes do not require the ability to speak to cast spells with a verbal "
 "component."
 msgstr "말 할 수 없어도 음성 구성 요소가 필요한 주문을 시전할 수 있습니다."
 
-msgctxt "VerbalComponentDisabledTitle"
+msgctxt "Setting/&VerbalComponentDisabledTitle"
 msgid "Disabled"
 msgstr "해제"
 
-msgctxt "VerbalComponentFullDescription"
+msgctxt "Setting/&VerbalComponentFullDescription"
 msgid "Heroes must be able to speak to cast spells with a verbal component."
 msgstr "음성 구성 요소가 필요한 주문을 시전하기 위해서는 말 할 수 있어야 합니다."
 
-msgctxt "VerbalComponentFullTitle"
+msgctxt "Setting/&VerbalComponentFullTitle"
 msgid "Full"
 msgstr "기본"
 
-msgctxt "SomaticComponentDescription"
+msgctxt "Setting/&SomaticComponentDescription"
 msgid ""
 "Determines how you simulate the requirements for spells with a somatic "
 "component."
 msgstr "동작 구성 요소가 있는 주문의 요구조건을 수행하는 방법을 결정합니다."
 
-msgctxt "SomaticComponentTitle"
+msgctxt "Setting/&SomaticComponentTitle"
 msgid "Somatic Components"
 msgstr "동작 구성 요소"
 
-msgctxt "SomaticComponentDisabledDescription"
+msgctxt "Setting/&SomaticComponentDisabledDescription"
 msgid ""
 "Heroes do not require a free hand to cast spells with a somatic component."
 msgstr "비어 있는 손이 없어도 동작 구성 요소가 있는 주문을 시전할 수 있습니다."
 
-msgctxt "SomaticComponentDisabledTitle"
+msgctxt "Setting/&SomaticComponentDisabledTitle"
 msgid "Disabled"
 msgstr "해제"
 
-#, fuzzy
-msgctxt "SomaticComponentFullTitle"
+msgctxt "Setting/&SomaticComponentFullTitle"
 msgid "Full"
 msgstr "기본"
 
-msgctxt "MaterialComponentDescription"
+msgctxt "Setting/&MaterialComponentDescription"
 msgid ""
 "Determines how you simulate the requirements for spells with a material "
 "component."
 msgstr "물질 구성 요소가 있는 주문의 요구조건을 수행하는 방법을 결정합니다."
 
-msgctxt "MaterialComponentTitle"
+msgctxt "Setting/&MaterialComponentTitle"
 msgid "Material Components"
 msgstr "물질 구성 요소"
 
-msgctxt "MaterialComponentDisabledDescription"
+msgctxt "Setting/&MaterialComponentDisabledDescription"
 msgid "No material components are required."
 msgstr "물질 구성 요소가 필요하지 않습니다."
 
-msgctxt "MaterialComponentDisabledTitle"
+msgctxt "Setting/&MaterialComponentDisabledTitle"
 msgid "Disabled"
 msgstr "해제"
 
-msgctxt "MaterialComponentBasicDescription"
+msgctxt "Setting/&MaterialComponentBasicDescription"
 msgid ""
 "Spells with a material component require a spell focus or component pouch."
 msgstr "(원문이 이상함-Full과의 차별점 확인 필요) 물질 구성 요소가 있는 주문들은 주문 매개체나 구성 요소 주머니가 필요합니다."
 
-#, fuzzy
-msgctxt "MaterialComponentBasicTitle"
+msgctxt "Setting/&MaterialComponentBasicTitle"
 msgid "Basic"
 msgstr "최소"
 
-msgctxt "MaterialComponentFullDescription"
+msgctxt "Setting/&MaterialComponentFullDescription"
 msgid ""
 "Spells with a mundane material component require a spell focus or component "
 "pouch. Spells with a specific component require it."
@@ -1368,493 +1337,486 @@ msgstr ""
 "(원문이 이상함-basic과의 차별점 확인 필요) 평범한 물질 구성 요소가 있는 주문들은 주문 매개체나 구성 요소 주머니가 필요합니다. "
 "특정 구성 요소가 있는 주문에는 필요합니다."
 
-msgctxt "MaterialComponentFullTitle"
+msgctxt "Setting/&MaterialComponentFullTitle"
 msgid "Full"
 msgstr "기본"
 
-msgctxt "OtherHeaderTitle"
+msgctxt "Setting/&OtherHeaderTitle"
 msgid "Other"
 msgstr "기타 설정"
 
-msgctxt "DifficultySettingsHeaderTitle"
+msgctxt "Setting/&DifficultySettingsHeaderTitle"
 msgid "Difficulty Settings - can be changed during play"
 msgstr "난이도 설정 - 게임 중에도 변경 가능"
 
-msgctxt "DifficultyPresetTitle"
+msgctxt "Setting/&DifficultyPresetTitle"
 msgid "Difficulty"
 msgstr "난이도"
 
-msgctxt "DifficultyPresetDescription"
+msgctxt "Setting/&DifficultyPresetDescription"
 msgid "Choose from a list of difficulty presets."
 msgstr "맞춤 구성된 난이도 목록 중에서 선택합니다."
 
-msgctxt "DifficultyPresetPreset1Title"
+msgctxt "Setting/&DifficultyPresetPreset1Title"
 msgid "Story Mode"
 msgstr "스토리 모드"
 
-msgctxt "DifficultyPresetPreset1Description"
+msgctxt "Setting/&DifficultyPresetPreset1Description"
 msgid ""
 "For players who prefer to focus on the story. Exploration and combat will be "
 "simplified. "
 msgstr "스토리에 집중하는 것을 선호하는 플레이어에게 적합합니다. 탐험과 전투가 간소화됩니다. "
 
-msgctxt "DifficultyPresetPreset2Title"
+msgctxt "Setting/&DifficultyPresetPreset2Title"
 msgid "Explorer Mode"
 msgstr "탐험가 모드"
 
-msgctxt "DifficultyPresetPreset2Description"
+msgctxt "Setting/&DifficultyPresetPreset2Description"
 msgid "For players unfamiliar with tactical RPGs or the ruleset."
 msgstr "전술 RPG와 턴제 규칙에 익숙하지 않은 플레이어에게 적합합니다."
 
-#, fuzzy
-msgctxt "DifficultyPresetPreset3Title"
+msgctxt "Setting/&DifficultyPresetPreset3Title"
 msgid "Authentic Mode"
 msgstr "정통 모드"
 
-#, fuzzy
-msgctxt "DifficultyPresetPreset3Description"
+msgctxt "Setting/&DifficultyPresetPreset3Description"
 msgid "For players who want the authentic tabletop ruleset."
 msgstr "정확한 테이블탑 게임 규칙을 원하는 플레이어에게 적합합니다."
 
-msgctxt "DifficultyPresetPreset4Title"
+msgctxt "Setting/&DifficultyPresetPreset4Title"
 msgid "Scavenger Mode"
 msgstr "스캐빈저 모드"
 
-msgctxt "DifficultyPresetPreset4Description"
+msgctxt "Setting/&DifficultyPresetPreset4Description"
 msgid "For players who are ready for a harder challenge."
 msgstr "더 어려운 도전을 원하는 플레이어에게 적합합니다."
 
-msgctxt "DifficultyPresetPreset5Title"
+msgctxt "Setting/&DifficultyPresetPreset5Title"
 msgid "Cataclysm Mode"
 msgstr "대격변 모드"
 
-#, fuzzy
-msgctxt "DifficultyPresetPreset5Description"
+msgctxt "Setting/&DifficultyPresetPreset5Description"
 msgid "For players looking to defy the odds. You will suffer. A lot."
 msgstr "역경과 고난을 이겨내고자 하는 플레이어에게 적합합니다. 당신은 고통받을 것입니다. 그것도 많이."
 
-msgctxt "CustomDifficultyTitle"
+msgctxt "Setting/&CustomDifficultyTitle"
 msgid "Custom Difficulty"
 msgstr "커스텀 난이도"
 
-msgctxt "CustomDifficultyDescription"
+msgctxt "Setting/&CustomDifficultyDescription"
 msgid "Allows you to pick and choose the settings you want."
 msgstr "원하는 설정을 선택하고 수정할 수 있습니다."
 
-msgctxt "BattleSettingsHeaderTitle"
+msgctxt "Setting/&BattleSettingsHeaderTitle"
 msgid "Battle"
 msgstr "전투"
 
-msgctxt "DamageTakenAllyMultiplierTitle"
+msgctxt "Setting/&DamageTakenAllyMultiplierTitle"
 msgid "Damage Taken"
 msgstr "받는 피해량"
 
-msgctxt "DamageTakenAllyMultiplierDescription"
+msgctxt "Setting/&DamageTakenAllyMultiplierDescription"
 msgid "Modifies the damage taken by player characters and critical NPCs."
 msgstr "플레이어 캐릭터와 중요 NPC가 받는 피해를 조절합니다."
 
-msgctxt "DisableEnemyCritsTitle"
+msgctxt "Setting/&DisableEnemyCritsTitle"
 msgid "Disable Enemy Critical Hits"
 msgstr "적 치명타 비활성화"
 
-msgctxt "DisableEnemyCritsDescription"
+msgctxt "Setting/&DisableEnemyCritsDescription"
 msgid "Enemies' critical hits deal regular damage."
 msgstr "적이 치명타를 입혀도 기존 피해를 받습니다."
 
-msgctxt "AiUsesPowerfulMovesMoreOftenTitle"
+msgctxt "Setting/&AiUsesPowerfulMovesMoreOftenTitle"
 msgid "Deadlier AI"
 msgstr "치명적인 AI"
 
-msgctxt "AiUsesPowerfulMovesMoreOftenDescription"
+msgctxt "Setting/&AiUsesPowerfulMovesMoreOftenDescription"
 msgid ""
 "Monsters will use powerful moves (such as AoE spells) more often, and will "
 "shove characters to their death."
 msgstr "몬스터들이 강력한 공격(범위 공격 주문 등)을 더 자주 사용하며, 기회가 있다면 캐릭터들을 밀쳐서 죽입니다."
 
-msgctxt "AiTargetsHelplessCharactersTitle"
+msgctxt "Setting/&AiTargetsHelplessCharactersTitle"
 msgid "Merciless AI"
 msgstr "무자비한 AI"
 
-msgctxt "AiTargetsHelplessCharactersDescription"
+msgctxt "Setting/&AiTargetsHelplessCharactersDescription"
 msgid "Monsters will attack unconscious and dying characters to kill them."
 msgstr "몬스터들이 의식이 없거나 빈사 상태인 캐릭터들을 공격해서 죽입니다."
 
-msgctxt "EnemyHpMultiplierTitle"
+msgctxt "Setting/&EnemyHpMultiplierTitle"
 msgid "Enemy Health Multiplier"
 msgstr "적 체력 계수"
 
-msgctxt "EnemyHpMultiplierDescription"
+msgctxt "Setting/&EnemyHpMultiplierDescription"
 msgid "Modifies enemy health points by the selected value."
 msgstr "적들의 체력을 선택한 배율로 조절합니다."
 
-msgctxt "SavingThrowAllyModifierTitle"
+msgctxt "Setting/&SavingThrowAllyModifierTitle"
 msgid "Ally Saving Throw"
 msgstr "아군 내성 굴림"
 
-msgctxt "SavingThrowAllyModifierDescription"
+msgctxt "Setting/&SavingThrowAllyModifierDescription"
 msgid ""
 "All saving throws made by friendly characters will receive this modifier."
 msgstr "모든 아군 캐릭터들의 내성 굴림에 이 값을 보정치로 적용합니다."
 
-msgctxt "SavingThrowEnemyModifierTitle"
+msgctxt "Setting/&SavingThrowEnemyModifierTitle"
 msgid "Enemy Saving Throw"
 msgstr "적 내성 굴림"
 
-msgctxt "SavingThrowEnemyModifierDescription"
+msgctxt "Setting/&SavingThrowEnemyModifierDescription"
 msgid "All saving throws made by enemy characters will receive this modifier."
 msgstr "모든 적 캐릭터들의 내성 굴림에 이 값을 보정치로 적용합니다."
 
-msgctxt "AttackRollAllyModifierTitle"
+msgctxt "Setting/&AttackRollAllyModifierTitle"
 msgid "Ally Attack Roll"
 msgstr "아군 명중 굴림"
 
-msgctxt "AttackRollAllyModifierDescription"
+msgctxt "Setting/&AttackRollAllyModifierDescription"
 msgid ""
 "All attack rolls made by friendly characters will receive this modifier."
 msgstr "모든 아군 캐릭터들의 명중 굴림에 이 값을 보정치로 적용합니다."
 
-msgctxt "AttackRollEnemyModifierTitle"
+msgctxt "Setting/&AttackRollEnemyModifierTitle"
 msgid "Enemy Attack Roll"
 msgstr "적 명중 굴림"
 
-msgctxt "AttackRollEnemyModifierDescription"
+msgctxt "Setting/&AttackRollEnemyModifierDescription"
 msgid "All attack rolls made by enemy characters will receive this modifier."
 msgstr "모든 적 캐릭터들의 명중 굴림에 이 값을 보정치로 적용합니다."
 
-msgctxt "AbilityCheckAllyModifierTitle"
+msgctxt "Setting/&AbilityCheckAllyModifierTitle"
 msgid "Ally Ability Check"
 msgstr "아군 능력치 판정"
 
-msgctxt "AbilityCheckAllyModifierDescription"
+msgctxt "Setting/&AbilityCheckAllyModifierDescription"
 msgid ""
 "All ability checks made by friendly characters will receive this modifier."
 msgstr "모든 아군 캐릭터들의 능력치 판정에 이 값을 보정치로 적용합니다."
 
-msgctxt "AbilityCheckEnemyModifierTitle"
+msgctxt "Setting/&AbilityCheckEnemyModifierTitle"
 msgid "Enemy Ability Check"
 msgstr "적 능력치 판정"
 
-msgctxt "AbilityCheckEnemyModifierDescription"
+msgctxt "Setting/&AbilityCheckEnemyModifierDescription"
 msgid "All ability checks made by enemy characters will receive this modifier."
 msgstr "모든 적 캐릭터들의 능력치 판정에 이 값을 보정치로 적용합니다."
 
-msgctxt "AutoreviveTitle"
+msgctxt "Setting/&AutoreviveTitle"
 msgid "Auto-revive"
 msgstr "자동 소생"
 
-msgctxt "AutoreviveDescription"
+msgctxt "Setting/&AutoreviveDescription"
 msgid ""
 "Characters are automatically revived at the end of a battle as long as one "
 "survived."
 msgstr "캐릭터가 한 명이라도 살아남으면 전투 후 파티원들이 자동으로 부활합니다."
 
-msgctxt "HeatlhAndRestSettingsHeaderTitle"
+msgctxt "Setting/&HeatlhAndRestSettingsHeaderTitle"
 msgid "Health and Rest"
 msgstr "체력과 휴식"
 
-msgctxt "CompanionsRestTitle"
+msgctxt "Setting/&CompanionsRestTitle"
 msgid "Companions Rest"
 msgstr "동료 휴식"
 
-msgctxt "CompanionsRestDescription"
+msgctxt "Setting/&CompanionsRestDescription"
 msgid "Critical NPCs and companions fully recover during short rests."
 msgstr "중요 NPC 와 동료들이 짧은 휴식으로 완전히 회복합니다."
 
-msgctxt "NoFoodNeededTitle"
+msgctxt "Setting/&NoFoodNeededTitle"
 msgid "No Food Required"
 msgstr "식량 필요 없음"
 
-msgctxt "NoFoodNeededDescription"
+msgctxt "Setting/&NoFoodNeededDescription"
 msgid "Characters can take a long rest even if they have no food."
 msgstr "식량이 없더라도 긴 휴식을 할 수 있습니다."
 
-#, fuzzy
-msgctxt "MaxHpOnHitDiceTitle"
+msgctxt "Setting/&MaxHpOnHitDiceTitle"
 msgid "Max Health on Hit Dice"
 msgstr "체력 주사위의 최대 체력"
 
-msgctxt "MaxHpOnHitDiceDescription"
+msgctxt "Setting/&MaxHpOnHitDiceDescription"
 msgid ""
 "Using a hit die during a short rest grants the maximum amount of health back."
 msgstr "짧은 휴식 중에 체력 주사위를 사용하면 최대 체력으로 회복할 수 있습니다."
 
-msgctxt "MaxHpOnLevelUpTitle"
+msgctxt "Setting/&MaxHpOnLevelUpTitle"
 msgid "Max Health on Level Up"
 msgstr "레벨 업 시 완전 회복"
 
-msgctxt "MaxHpOnLevelUpDescription"
+msgctxt "Setting/&MaxHpOnLevelUpDescription"
 msgid ""
 "Increase the health of a character by the maximum value upon leveling up."
 msgstr "레벨업 시 캐릭터가 완전히 회복합니다."
 
-msgctxt "InventorySettingsHeaderTitle"
+msgctxt "Setting/&InventorySettingsHeaderTitle"
 msgid "Inventory"
 msgstr "인벤토리"
 
-msgctxt "EncumbranceRuleTypeTitle"
+msgctxt "Setting/&EncumbranceRuleTypeTitle"
 msgid "Encumbrance Rule"
 msgstr "무게 판정 규칙"
 
-msgctxt "EncumbranceRuleTypeDescription"
+msgctxt "Setting/&EncumbranceRuleTypeDescription"
 msgid "Choose which encumbrance rule to play with."
 msgstr "무게 판정 규칙을 선택합니다."
 
-msgctxt "EncumbranceRuleTypeDefaultTitle"
+msgctxt "Setting/&EncumbranceRuleTypeDefaultTitle"
 msgid "Tabletop"
 msgstr "테이블탑"
 
-msgctxt "EncumbranceRuleTypeDefaultDescription"
+msgctxt "Setting/&EncumbranceRuleTypeDefaultDescription"
 msgid "Your characters can carry up to 15x STR."
 msgstr "짐을 힘의 15배까지 들 수 있습니다."
 
-msgctxt "EncumbranceRuleTypeVariantTitle"
+msgctxt "Setting/&EncumbranceRuleTypeVariantTitle"
 msgid "Solasta (Variant)"
 msgstr "솔라스타 (변형)"
 
-msgctxt "EncumbranceRuleTypeVariantDescription"
+msgctxt "Setting/&EncumbranceRuleTypeVariantDescription"
 msgid ""
 "Your characters can carry up to 15x STR, but will be encumbered above 5x "
 "STR, and heavily encumbered above 10x STR."
 msgstr "짐을 최대 힘의 15배까지 들 수 있지만, 5배 이상부터는 방해를 받으며, 10배 이상부터는 큰 방해를 받습니다."
 
-msgctxt "EncumbranceRuleTypeEasyTitle"
+msgctxt "Setting/&EncumbranceRuleTypeEasyTitle"
 msgid "Simplified"
 msgstr "단순화"
 
-msgctxt "EncumbranceRuleTypeEasyDescription"
+msgctxt "Setting/&EncumbranceRuleTypeEasyDescription"
 msgid "Your characters can carry up to 150x STR."
 msgstr "짐을 힘의 150배까지 들 수 있습니다."
 
-msgctxt "SpellcastingSettingsHeaderTitle"
+msgctxt "Setting/&SpellcastingSettingsHeaderTitle"
 msgid "Spellcasting"
 msgstr "주문 시전"
 
-#, fuzzy
-msgctxt "NeverLoseConcentrationOnSpellsTitle"
+msgctxt "Setting/&NeverLoseConcentrationOnSpellsTitle"
 msgid "Never Lose Concentration"
 msgstr "항상 집중"
 
-msgctxt "NeverLoseConcentrationOnSpellsDescription"
+msgctxt "Setting/&NeverLoseConcentrationOnSpellsDescription"
 msgid ""
 "A caster concentrating on a spell will not need a Constitution saving throw "
 "when damaged."
 msgstr "주문에 집중하고 있는 시전자가 피해를 입었을 때 건강 내성 굴림이 필요하지 않습니다."
 
-msgctxt "ScrollsCanBeUsedByAnyCharacterTitle"
+msgctxt "Setting/&ScrollsCanBeUsedByAnyCharacterTitle"
 msgid "Universal Scrolls"
 msgstr "범용 스크롤"
 
-msgctxt "ScrollsCanBeUsedByAnyCharacterDescription"
+msgctxt "Setting/&ScrollsCanBeUsedByAnyCharacterDescription"
 msgid ""
 "Any character can use a scroll, even though the spell is not on their spell "
 "list."
 msgstr "모든 캐릭터는 주문이 자신의 주문 목록에 없더라도 두루마리를 사용할 수 있습니다."
 
-msgctxt "RandomnessSettingsHeaderTitle"
+msgctxt "Setting/&RandomnessSettingsHeaderTitle"
 msgid "Dice Rolls"
 msgstr "주사위 굴림"
 
-msgctxt "RandomnessModeTitle"
+msgctxt "Setting/&RandomnessModeTitle"
 msgid "Random Mode"
 msgstr "무작위 모드"
 
-msgctxt "RandomnessModeDescription"
+msgctxt "Setting/&RandomnessModeDescription"
 msgid "Choose the random mode used when rolling dice."
 msgstr "주사위를 굴릴 때 사용할 무작위 모드를 선택합니다."
 
-msgctxt "RandomnessModeTrueRandomTitle"
+msgctxt "Setting/&RandomnessModeTrueRandomTitle"
 msgid "True Random"
 msgstr "완전 무작위"
 
-msgctxt "RandomnessModeTrueRandomDescription"
+msgctxt "Setting/&RandomnessModeTrueRandomDescription"
 msgid "Your luck will be left in the hands of the dice gods."
 msgstr "주사위 신께 모든 것을 맡깁니다."
 
-msgctxt "RandomnessModeNiceDiceTitle"
+msgctxt "Setting/&RandomnessModeNiceDiceTitle"
 msgid "Karmic Dice"
 msgstr "카르마 주사위"
 
-msgctxt "RandomnessModeNiceDiceDescription"
+msgctxt "Setting/&RandomnessModeNiceDiceDescription"
 msgid ""
 "Bad dice rolls will increase the player's chances of landing a good roll."
 msgstr "나쁜 주사위 결과는 좋은 주사위 결과가 나올 확률을 높입니다."
 
-msgctxt "ForceCritEveryFewRollsTitle"
+msgctxt "Setting/&ForceCritEveryFewRollsTitle"
 msgid "Guaranteed Critical"
 msgstr "치명타 보장"
 
-msgctxt "ForceCritEveryFewRollsDescription"
+msgctxt "Setting/&ForceCritEveryFewRollsDescription"
 msgid "Guarantees the player a critical hit at least once every 15 rolls."
 msgstr "적어도 15번의 굴림에 한 번 이상 치명타를 보장합니다."
 
-msgctxt "StorySettingsHeaderTitle"
+msgctxt "Setting/&StorySettingsHeaderTitle"
 msgid "Story"
 msgstr "이야기 모드"
 
-msgctxt "ForceSuccessOnDialogRollsTitle"
+msgctxt "Setting/&ForceSuccessOnDialogRollsTitle"
 msgid "Force Dialog Roll Success"
 msgstr "대화 굴림 강제 성공"
 
-msgctxt "ForceSuccessOnDialogRollsDescription"
+msgctxt "Setting/&ForceSuccessOnDialogRollsDescription"
 msgid "Any skill check rolled during a dialog will succeed."
 msgstr "대화 중에 굴린 모든 기술 판정은 성공합니다."
 
-msgctxt "AlwaysDisplayDialogChancesTitle"
+msgctxt "Setting/&AlwaysDisplayDialogChancesTitle"
 msgid "Always Display Dialog Chances"
 msgstr "항상 대화 기회 표시"
 
-msgctxt "AlwaysDisplayDialogChancesDescription"
+msgctxt "Setting/&AlwaysDisplayDialogChancesDescription"
 msgid ""
 "Skill check success chance will always be displayed, instead of only upon "
 "insight check success."
 msgstr "통찰 판정 성공 시 뿐만 아니라 항상 스킬 판정 성공 확률이 표시됩니다."
 
-msgctxt "UnlockAllBestiaryContentTitle"
+msgctxt "Setting/&UnlockAllBestiaryContentTitle"
 msgid "Unlock All Bestiary"
 msgstr "생물도감 잠금 해제"
 
-msgctxt "UnlockAllBestiaryContentDescription"
+msgctxt "Setting/&UnlockAllBestiaryContentDescription"
 msgid ""
 "All content in the bestiary is unlocked from the start; no survival checks "
 "needed to discover information on monsters."
 msgstr "시작부터 모든 생물도감 내역을 볼 수 있습니다. 크리처의 정보를 알기 위해 생존 판정을 할 필요가 없습니다."
 
-msgctxt "DisableRandomEncountersTitle"
+msgctxt "Setting/&DisableRandomEncountersTitle"
 msgid "Disable Random Encounters"
 msgstr "무작위 적 조우 비활성화"
 
-msgctxt "DisableRandomEncountersDescription"
+msgctxt "Setting/&DisableRandomEncountersDescription"
 msgid ""
 "Removes all random encounters when traveling on the world map, except for "
 "scripted ones."
 msgstr "세계 지도를 여행할 때 발생하는 모든 이벤트 외의 무작위 적 조우를 제거합니다."
 
-#, fuzzy
-msgctxt "ExplorationSettingsHeaderTitle"
+msgctxt "Setting/&ExplorationSettingsHeaderTitle"
 msgid "Exploration"
 msgstr "탐험"
 
-msgctxt "AuthorizeRetryOnGadgetsTitle"
+msgctxt "Setting/&AuthorizeRetryOnGadgetsTitle"
 msgid "Reroll Exploration Checks"
 msgstr "탐험 판정 재굴림"
 
-msgctxt "AuthorizeRetryOnGadgetsDescription"
+msgctxt "Setting/&AuthorizeRetryOnGadgetsDescription"
 msgid ""
 "Allows you to retry picking a lock or disarming a trap even if the character "
 "has previously failed."
 msgstr "캐릭터가 이전에 실패한 경우에도 자물쇠 열기와 함정 해제를 다시 시도할 수 있습니다."
 
-msgctxt "AutoDetectTrapsTitle"
+msgctxt "Setting/&AutoDetectTrapsTitle"
 msgid "Autodetect Traps"
 msgstr "함정 자동 감지"
 
-msgctxt "AutoDetectTrapsDescription"
+msgctxt "Setting/&AutoDetectTrapsDescription"
 msgid ""
 "Traps in the vicinity will automatically be detected even if they would "
 "normally require a skill check."
 msgstr "일반적으로는 기술 판정이 필요한 경우에도 근처에 있는 함정을 자동으로 감지합니다."
 
-msgctxt "ForceCraftingRollSuccessTitle"
+msgctxt "Setting/&ForceCraftingRollSuccessTitle"
 msgid "Force Crafting Roll Success"
 msgstr "제작 굴림 강제 성공"
 
-msgctxt "ForceCraftingRollSuccessDescription"
+msgctxt "Setting/&ForceCraftingRollSuccessDescription"
 msgid "Each crafting roll will succeed automatically."
 msgstr "제작 굴림은 항상 성공합니다."
 
-msgctxt "NoToolRequirementTitle"
+msgctxt "Setting/&NoToolRequirementTitle"
 msgid "No Tool Required"
 msgstr "도구 필요 없음"
 
-msgctxt "NoToolRequirementDescription"
+msgctxt "Setting/&NoToolRequirementDescription"
 msgid ""
 "Characters can craft and unlock chests or doors without the need for tools."
 msgstr "캐릭터는 도구 없이 궤짝이나 문을 만들고 잠금을 해제할 수 있습니다."
 
-msgctxt "SomaticComponentFullDescription"
+msgctxt "Setting/&SomaticComponentFullDescription"
 msgid "Characters must have a free hand."
 msgstr "손이 자유로워야 동작 구성 요소가 있는 주문을 시전할 수 있습니다."
 
-msgctxt "QualityHeaderTitle"
+msgctxt "Setting/&QualityHeaderTitle"
 msgid "Quality"
 msgstr "품질"
 
-msgctxt "ColorCalibrationHeaderTitle"
+msgctxt "Setting/&ColorCalibrationHeaderTitle"
 msgid "Color Calibration"
 msgstr "색상 보정"
 
-msgctxt "FasterTravelOnWorldMapTitle"
+msgctxt "Setting/&FasterTravelOnWorldMapTitle"
 msgid "Faster Travel on World Map"
 msgstr "세계 지도 상 더 빠른 여행"
 
-msgctxt "FasterTravelOnWorldMapDescription"
+msgctxt "Setting/&FasterTravelOnWorldMapDescription"
 msgid "Increase the travel speed when traveling on the World Map."
 msgstr "세계 지도에서 이동할 때 속도를 높입니다."
 
-msgctxt "ScrollSensitivityDescription"
+msgctxt "Setting/&ScrollSensitivityDescription"
 msgid "Sets the speed for scrolling areas with the mouse wheel."
 msgstr "마우스 휠을 굴릴 때 스크롤이 움직이는 속도를 조절합니다."
 
-msgctxt "ScrollSensitivityTitle"
+msgctxt "Setting/&ScrollSensitivityTitle"
 msgid "Scroll Sensitivity"
 msgstr "스크롤 감도"
 
-msgctxt "ShadowsTitle"
+msgctxt "Setting/&ShadowsTitle"
 msgid "Shadows"
 msgstr "Shadows"
 
-msgctxt "ShadowsDescription"
+msgctxt "Setting/&ShadowsDescription"
 msgid "Enable or disable shadows."
 msgstr "그림자를 켜거나 끕니다."
 
-msgctxt "SubtitlesHeaderTitle"
+msgctxt "Setting/&SubtitlesHeaderTitle"
 msgid "Subtitles"
 msgstr "자막"
 
-msgctxt "SubtitlesEnabledDescription"
+msgctxt "Setting/&SubtitlesEnabledDescription"
 msgid "Enable/disable subtitles during cutscenes."
 msgstr "컷신 중 자막을 표시합니다."
 
-msgctxt "SubtitlesEnabledTitle"
+msgctxt "Setting/&SubtitlesEnabledTitle"
 msgid "Enabled"
 msgstr "자막 표시"
 
-msgctxt "SubtitlesDisplaySpeakerNameDescription"
+msgctxt "Setting/&SubtitlesDisplaySpeakerNameDescription"
 msgid "Display the name of the speaking character during cutscenes."
 msgstr "컷신 중 대사를 말하는 캐릭터의 이름을 표시합니다."
 
-msgctxt "SubtitlesDisplaySpeakerNameTitle"
+msgctxt "Setting/&SubtitlesDisplaySpeakerNameTitle"
 msgid "Display Speaker Name"
 msgstr "화자 이름 표시"
 
-msgctxt "SubtitlesBlackBackgroundDescription"
+msgctxt "Setting/&SubtitlesBlackBackgroundDescription"
 msgid "Display a black background behind subtitles."
 msgstr "자막 뒤에 검은색 배경을 표시합니다."
 
-msgctxt "SubtitlesBlackBackgroundTitle"
+msgctxt "Setting/&SubtitlesBlackBackgroundTitle"
 msgid "Black Background"
 msgstr "검은 배경"
 
-msgctxt "AllowAttuningUnknownItemsTitle"
+msgctxt "Setting/&AllowAttuningUnknownItemsTitle"
 msgid "Allow Attuning Unknown Items"
 msgstr "미확인 아이템 조율 가능"
 
-msgctxt "AllowAttuningUnknownItemsDescription"
+msgctxt "Setting/&AllowAttuningUnknownItemsDescription"
 msgid ""
 "A character will be able to attune to a magic item even if its magical "
 "properties are unknown."
 msgstr "마법 속성을 알 수 없는 경우에도 마법 아이템을 조율할 수 있습니다."
 
-#, fuzzy
-msgctxt "MoveCameraWithScreenBordersTitle"
+msgctxt "Setting/&MoveCameraWithScreenBordersTitle"
 msgid "Move Camera with Screen Borders"
 msgstr "카메라 이동 시 화면 테두리 표시"
 
-msgctxt "SpellbookPagesConstraintTitle"
+msgctxt "Setting/&SpellbookPagesConstraintTitle"
 msgid "Spellbook Page Limitation"
 msgstr "주문책 페이지 제한"
 
-msgctxt "SpellbookPagesConstraintDescription"
+msgctxt "Setting/&SpellbookPagesConstraintDescription"
 msgid ""
 "When the option is activated, spellbooks can only contain spells fitting "
 "their pages limit (usually 100 pages). Each scribed spell (either from level "
@@ -1866,22 +1828,22 @@ msgstr ""
 "은 해당 주문의 레벨과 동일한 페이지 수를 차지합니다. 마법사는 솔라스타 캠페인이 끝나기 전에 다른 주문책을 구매해야 할 수 있으며, "
 "그렇지 않으면 레벨업을 하지 못할 수 있습니다."
 
-msgctxt "FadingFogOfWarTitle"
+msgctxt "Setting/&FadingFogOfWarTitle"
 msgid "Animated Fog of War"
 msgstr "전장의 안개 애니메이션"
 
-msgctxt "TextLanguageruTitle"
+msgctxt "Setting/&TextLanguageruTitle"
 msgid "Русский"
 msgstr "러시아어"
 
-msgctxt "TextLanguageruDescription"
+msgctxt "Setting/&TextLanguageruDescription"
 msgid "Русский"
 msgstr "러시아어"
 
-msgctxt "TextLanguagept-BRTitle"
+msgctxt "Setting/&TextLanguagept-BRTitle"
 msgid "Português (Brasil)"
 msgstr "포르투갈어"
 
-msgctxt "TextLanguagept-BRDescription"
+msgctxt "Setting/&TextLanguagept-BRDescription"
 msgid "Português (Brasil)"
 msgstr "포르투갈어"

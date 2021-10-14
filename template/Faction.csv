@@ -1,16 +1,16 @@
 "context","source","target"
-"AntiquariansDescription","The Guild of Antiquarians grew up as an informal information-sharing network within the Snow Alliance, composed of those explorers and scholars intrepid enough to study the Marches. Over the last couple of centuries it has coalesced into a more-or-less formal organization that mimics the structure of a university."
-"AntiquariansTitle","Antiquarians"
-"ArcaniumDescription","The Arcaneum is the magical arm of the New Empire, descended from an Old Empire organization of the same name. It is run by powerful wizards who carry on the traditions of ancient Imperial magic - and long to recover more."
-"ArcaniumTitle","Arcaneum"
-"ChurchOfEinarDescription","The most widespread religion on Solasta, the Church of Einar stands for honor and justice. It is trusted by all, and its representatives on the Legacy Council act as a guarantee of fair dealing."
-"ChurchOfEinarTitle","Church of Einar"
-"CircleOfDanantarDescription","The Circle grew up in the Principality of Masgarth as a school for adventurers, out of a minor magic school from the Old Empire. It has a reputation for toughness and practicality which contrasts with the more scholarly outlook of some other factions."
-"CircleOfDanantarTitle","Circle of Danantar"
-"ItemsScroll01_Description","Oh, Holy Twins, Kyrie and Juno, Beloved of Mankind! My time is now scarce, but my faith is strong. I bid you read these words of prayer! Know that with my last breaths I have laid low Your enemies. Know that with my last drops of blood I have offered You sacrifice. Know that with my last words I praise You. Life drains from me, though You are ever young. I die, but You shall endure forever - let the last deeds of this mortal man be my final act of devotion."
-"ItemsScroll01_Title","Dead Cleric Letter"
-"ItemsScroll01_Title2","A nice parchment, rolled up and stored in a wooden case."
-"ItemsScroll02_Description","Moonlight drizzled from your armor.
+"Faction/&AntiquariansDescription","The Guild of Antiquarians grew up as an informal information-sharing network within the Snow Alliance, composed of those explorers and scholars intrepid enough to study the Marches. Over the last couple of centuries it has coalesced into a more-or-less formal organization that mimics the structure of a university."
+"Faction/&AntiquariansTitle","Antiquarians"
+"Faction/&ArcaniumDescription","The Arcaneum is the magical arm of the New Empire, descended from an Old Empire organization of the same name. It is run by powerful wizards who carry on the traditions of ancient Imperial magic - and long to recover more."
+"Faction/&ArcaniumTitle","Arcaneum"
+"Faction/&ChurchOfEinarDescription","The most widespread religion on Solasta, the Church of Einar stands for honor and justice. It is trusted by all, and its representatives on the Legacy Council act as a guarantee of fair dealing."
+"Faction/&ChurchOfEinarTitle","Church of Einar"
+"Faction/&CircleOfDanantarDescription","The Circle grew up in the Principality of Masgarth as a school for adventurers, out of a minor magic school from the Old Empire. It has a reputation for toughness and practicality which contrasts with the more scholarly outlook of some other factions."
+"Faction/&CircleOfDanantarTitle","Circle of Danantar"
+"Faction/&ItemsScroll01_Description","Oh, Holy Twins, Kyrie and Juno, Beloved of Mankind! My time is now scarce, but my faith is strong. I bid you read these words of prayer! Know that with my last breaths I have laid low Your enemies. Know that with my last drops of blood I have offered You sacrifice. Know that with my last words I praise You. Life drains from me, though You are ever young. I die, but You shall endure forever - let the last deeds of this mortal man be my final act of devotion."
+"Faction/&ItemsScroll01_Title","Dead Cleric Letter"
+"Faction/&ItemsScroll01_Title2","A nice parchment, rolled up and stored in a wooden case."
+"Faction/&ItemsScroll02_Description","Moonlight drizzled from your armor.
 One room, face to face, our eyes met.
 Art said sloppy as you draw near.
 No man has shared you as I have.
@@ -27,15 +27,15 @@ I reach for my side, and you are not there.
 In the night, I cried for my sweet Garrod.
 
 Ragni Hammerpen"
-"ItemsScroll02_Title","Love Poem"
-"ItemsScroll02_Title2","A cheap piece of paper folded in four."
-"ItemsScroll03_Description","If this is found please forward to my wife L
+"Faction/&ItemsScroll02_Title","Love Poem"
+"Faction/&ItemsScroll02_Title2","A cheap piece of paper folded in four."
+"Faction/&ItemsScroll03_Description","If this is found please forward to my wife L
 Address is at the bottom.
 L - for 30 years I always promised to come back safely to you. This time I'm going to be late. It was a spectacular battle but this beast was better than my sword. I will light the fire and wait by the door until you get here.
 Love J"
-"ItemsScroll03_Title","Farewell Letter"
-"ItemsScroll03_Title2","A rolled, sealed letter in a leather case."
-"ItemsScroll04_Description","Tomaz,
+"Faction/&ItemsScroll03_Title","Farewell Letter"
+"Faction/&ItemsScroll03_Title2","A rolled, sealed letter in a leather case."
+"Faction/&ItemsScroll04_Description","Tomaz,
 
 I do hope these words find you good health, and I am sorry for not writing sooner. Requisitioning the necessary supplies, and ensuring delivery is risky, and dangerous. But it is well worth it, as your letters have become a shining beacon of hope in the dark nights that haunt this prison.
 
@@ -50,9 +50,9 @@ And despite my faults, lies, and my shameful past, you still loved me. I did not
 Please, my love, do not look at the past, but to the future. Do not fall for despair as I once did, but let the child birthed of our love carry you to a new beginning.
 
 Merilyn"
-"ItemsScroll04_Title","Tragic Love Letter"
-"ItemsScroll04_Title2","A letter, written in haste on a torn-out scrap of paper."
-"ItemsScroll05_Description","I, Nilocyrel Dream-Minder, hereby bear witness of the miracle of light.
+"Faction/&ItemsScroll04_Title","Tragic Love Letter"
+"Faction/&ItemsScroll04_Title2","A letter, written in haste on a torn-out scrap of paper."
+"Faction/&ItemsScroll05_Description","I, Nilocyrel Dream-Minder, hereby bear witness of the miracle of light.
 
 As part of a conclave of mages focused on the research of magic and accompanied by the always interfering Imperial agents we were to investigate rumors of the sudden appearance of a seemingly magical construct of light deep in an uninhabited region of Aer-Elai. While fast-traveling through still civilized areas of the Empire, we took notice of strange rumors that had started to spread.
 
@@ -63,9 +63,9 @@ Judging by the still wrinkle-free face it was most likely a youngling and seemed
 Four days after we left the seat of the Arcaneum, while the darkness of the approaching night started to set in, we finally caught a glimpse of the incident we were tasked to research. I saw the sky burn with cold, otherworldly flames, which were of a kind neither of us had laid its eyes upon before.
 
 It is too dark to continue and while a sight to behold, I sense a feeling of dread coming from this light. I entrust this interim report to an accompanying agent, who will travel back this night to report the coordinates this magical construct can be found at. Tomorrow we will advance further."
-"ItemsScroll05_Title","Imperial Mage Report"
-"ItemsScroll05_Title2","A beautiful, illuminated manuscript."
-"ItemsScroll06_Description","His name was Thuriel Duskfall.
+"Faction/&ItemsScroll05_Title","Imperial Mage Report"
+"Faction/&ItemsScroll05_Title2","A beautiful, illuminated manuscript."
+"Faction/&ItemsScroll06_Description","His name was Thuriel Duskfall.
 A childhood disease left him deaf and disfigured.
 He found his sole pleasure in life from fishing in the streams at night. Silent and at peace, he was not judged when alone and in the dark. Thus, he developed a skill that gave him value in the eyes of the sylvan elves, who otherwise viewed him as imperfect and damaged.
 He was also my brother.
@@ -82,9 +82,9 @@ I have not done so.
 Stranger, if you find this scroll, by the cairn by the river, I ask that you leave it be, and say a prayer for the soul of my brother.
 Stranger, if you find this scroll, by the cairn by the river, and disturb the cairn, or take the scroll, know that I will find you.
 They call me Nightplague."
-"ItemsScroll06_Title","Brother Letter"
-"ItemsScroll06_Title2","A page torn from a journal."
-"ItemsScroll07_Description","The Dragon's Den - Grand Opening: Come one, come all, join us on the 23rd of May for the Grand Opening of The Dragon's Den - Gallivan's newest tavern, eatery, and bordello. Enjoy one of 10 different ales, or perhaps a vintage cask of wine from our cellar while you enjoy rack of meat and freshly baked bread.
+"Faction/&ItemsScroll06_Title","Brother Letter"
+"Faction/&ItemsScroll06_Title2","A page torn from a journal."
+"Faction/&ItemsScroll07_Description","The Dragon's Den - Grand Opening: Come one, come all, join us on the 23rd of May for the Grand Opening of The Dragon's Den - Gallivan's newest tavern, eatery, and bordello. Enjoy one of 10 different ales, or perhaps a vintage cask of wine from our cellar while you enjoy rack of meat and freshly baked bread.
 
 Need to satisfy a hunger of a different kind? Take a look at what we have to offer upstairs. Fancy a stout dwarf to rub out your tensions? We have three to choose from. Prefer something a little pointier with a slender frame? We have you covered with the fairest elven beauties in the land. We even have a halfling if you are into that sort of thing.
 In celebration of our Grand Opening, we will also have a very special guest performer from 21:12 until closing time. The famous bard Neil Beart will be giving a rare solo performance, all the way from the Principality.
@@ -114,9 +114,9 @@ After I trim these pesky nose hairs…
 
 In the Dragon's Den
 by Lord Astaroth Darkbane"
-"ItemsScroll07_Title","Dragon's Den Advertisement"
-"ItemsScroll07_Title2","A folded paper that looks like an advertisement."
-"ItemsScroll08_Description","Hello dear Friend,
+"Faction/&ItemsScroll07_Title","Dragon's Den Advertisement"
+"Faction/&ItemsScroll07_Title2","A folded paper that looks like an advertisement."
+"Faction/&ItemsScroll08_Description","Hello dear Friend,
 I am sorry my letter will reach you later than expected.
 The long wait had the simple reason that there was work to be done.
 As a compensation for the long wait and a token of thanks for all the
@@ -125,23 +125,23 @@ The treasure is hidden under the roots of the tree where we last met.
 Deeply sorry and hoping for a reunion.
 Your hopefully still good Friend,
 Till"
-"ItemsScroll08_Title","Treasure Hunter Letter"
-"ItemsScroll08_Title2","A folded paper with a name and address you cannot read."
-"PrincipalityDescription","Located close to a strategic pass into the Badlands, the Principality came under pressure from its neighbors. They demanded a share in the discoveries brought back, fearing that these material and magical riches could upset the balance of power in the Eastern Kingdoms. The Legacy Council was born."
-"PrincipalityTitle","Principality of Masgarth"
-"ScavengersDescription","The Scavengers are a neutral organization based in the Principality of Masgarth. They travel the Marches and the Badlands, visiting locations that have been cleared by adventurers and recovering any remaining loot. They resell mundane objects and negotiate with other factions over items of historical or magical value."
-"ScavengersTitle","Scavengers"
-"SilentWhisperDescription","The Silent Whisper was the secret intelligence and counterintelligence service of the Manacalon Empire. Now, it provides the same services to the New Empire."
-"SilentWhisperTitle","Silent Whisper"
-"TowerOfKnowledgeDescription","The Tower of Knowledge is based in the Kingdom of Gallivan. It began several centuries ago as a local effort to preserve and recover the lost knowledge of the Manacalon Empire, and has grown into a great seat of learning."
-"TowerOfKnowledgeTitle","Tower of Knowledge"
-"DLC1_Orenitis_Title","Orenetis"
-"DLC1_Orenitis_Description","The faction of the ruler of the valley"
-"DLC1_Forge_Title","Forge"
-"DLC1_Forge_Description","The faction who lives in the jungle, does crafting and scavenger stuff"
-"DLC1_Mask_Title","Mask"
-"DLC1_Mask_Description","Actually a secret cult of Misaye"
-"DLC1_ThePeople_Title","The People"
-"DLC1_ThePeople_Description","The actual people who live in the city ruled by Orenetis"
-"DLC1_Rebellion_Title","Rebellion"
-"DLC1_Rebellion_Description","The enemies of Orenetis who aim at freeing the valley from him"
+"Faction/&ItemsScroll08_Title","Treasure Hunter Letter"
+"Faction/&ItemsScroll08_Title2","A folded paper with a name and address you cannot read."
+"Faction/&PrincipalityDescription","Located close to a strategic pass into the Badlands, the Principality came under pressure from its neighbors. They demanded a share in the discoveries brought back, fearing that these material and magical riches could upset the balance of power in the Eastern Kingdoms. The Legacy Council was born."
+"Faction/&PrincipalityTitle","Principality of Masgarth"
+"Faction/&ScavengersDescription","The Scavengers are a neutral organization based in the Principality of Masgarth. They travel the Marches and the Badlands, visiting locations that have been cleared by adventurers and recovering any remaining loot. They resell mundane objects and negotiate with other factions over items of historical or magical value."
+"Faction/&ScavengersTitle","Scavengers"
+"Faction/&SilentWhisperDescription","The Silent Whisper was the secret intelligence and counterintelligence service of the Manacalon Empire. Now, it provides the same services to the New Empire."
+"Faction/&SilentWhisperTitle","Silent Whisper"
+"Faction/&TowerOfKnowledgeDescription","The Tower of Knowledge is based in the Kingdom of Gallivan. It began several centuries ago as a local effort to preserve and recover the lost knowledge of the Manacalon Empire, and has grown into a great seat of learning."
+"Faction/&TowerOfKnowledgeTitle","Tower of Knowledge"
+"Faction/&DLC1_Orenitis_Title","Orenetis"
+"Faction/&DLC1_Orenitis_Description","The faction of the ruler of the valley"
+"Faction/&DLC1_Forge_Title","Forge"
+"Faction/&DLC1_Forge_Description","The faction who lives in the jungle, does crafting and scavenger stuff"
+"Faction/&DLC1_Mask_Title","Mask"
+"Faction/&DLC1_Mask_Description","Actually a secret cult of Misaye"
+"Faction/&DLC1_ThePeople_Title","The People"
+"Faction/&DLC1_ThePeople_Description","The actual people who live in the city ruled by Orenetis"
+"Faction/&DLC1_Rebellion_Title","Rebellion"
+"Faction/&DLC1_Rebellion_Description","The enemies of Orenetis who aim at freeing the valley from him"
