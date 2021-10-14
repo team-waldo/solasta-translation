@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-13 13:37+0000\n"
+"PO-Revision-Date: 2021-10-14 13:47+0000\n"
 "Last-Translator: 존삼 <jsnuguri@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/modal/ko/>"
 "\n"
@@ -145,7 +145,7 @@ msgstr "그 진영과의 관계가 좋아집니다"
 
 msgctxt "FactionRedeemRelationGainFormat"
 msgid "{0} Relation"
-msgstr ""
+msgstr "{0} 관계"
 
 msgctxt "FactionRedeemSelectTitle"
 msgid "Select an item to redeem"
@@ -360,7 +360,7 @@ msgctxt "ScavengerMissionsModalDescription"
 msgid ""
 "Scavengers are heading to these locations to collect and bring back the loot "
 "left behind."
-msgstr ""
+msgstr "스캐빈저가 아래 장소로 가서 남은 전리품을 수집하고 가져오는 중입니다."
 
 msgctxt "ScavengerMissionLineEncounterTitle"
 msgid "Somewhere Along the Road"
@@ -368,15 +368,15 @@ msgstr ""
 
 msgctxt "ScavengerMissionLineNewMissionFormat"
 msgid "New: {0} remaining"
-msgstr ""
+msgstr "신규: {0} 남음"
 
 msgctxt "ScavengerMissionLineOngoingMissionFormat"
 msgid "Ongoing: {0} remaining"
-msgstr ""
+msgstr "진행 중: {0} 남음"
 
 msgctxt "ScavengerMissionLineFinishedMissionDescription"
 msgid "Completed"
-msgstr ""
+msgstr "완료"
 
 msgctxt "ScavengerMissionModalToggleTitle"
 msgid "Show Encounter-related Expeditions"
@@ -384,11 +384,11 @@ msgstr ""
 
 msgctxt "ScavengerLootModalTitle"
 msgid "Items Recovered During Expeditions"
-msgstr ""
+msgstr "원정 중 회수된 아이템"
 
 msgctxt "ScavengerLootModalInstructionsDescription"
 msgid "Click an item to recover instead of selling it."
-msgstr ""
+msgstr "판매하는 대신 회수할 아이템을 클릭합니다."
 
 msgctxt "ScavengerLootModalSellAllButton"
 msgid "Sell All"
@@ -406,23 +406,23 @@ msgstr "목숨이 달린 상황에서 은신에 실패해 발각되었습니다!
 
 msgctxt "QuestBoardTitle"
 msgid "Available Missions"
-msgstr ""
+msgstr "받을 수 있는 퀘스트"
 
 msgctxt "QuestBoardDescription"
 msgid "Select the mission you would like to accept and press Start."
-msgstr ""
+msgstr "맡고 싶은 퀘스트를 선택하고 시작을 클릭합니다."
 
 msgctxt "QuestBoardStartTitle"
 msgid "Start"
-msgstr ""
+msgstr "시작"
 
 msgctxt "QuestBoardStartDescription"
 msgid "Accept and start the selected mission."
-msgstr ""
+msgstr "선택한 퀘스트를 수락하고 시작합니다."
 
 msgctxt "QuestInProgressTitle"
 msgid "In Progress"
-msgstr ""
+msgstr "진행 중"
 
 msgctxt "SolastaBackers"
 msgid "Solasta Backers"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-13 13:37+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
+"PO-Revision-Date: 2021-10-14 13:47+0000\n"
+"Last-Translator: 이름뭘로하지 <sqom3iii@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
 "Language: ko\n"
@@ -2861,7 +2861,7 @@ msgstr "공국 전체를 통치하는 그녀보다 중요한 사람이 있나요
 #, fuzzy
 msgctxt "Council_00_12_Carran_NPC_02"
 msgid "Lady Kean, the Council's Oathkeeper, is trusted by all."
-msgstr "존경받는 킨 경께서 의회의 서약을 담당하고 계십니다."
+msgstr "존경받는 킨 경께서 의회의 선서수호자이십니다."
 
 msgctxt "Council_00_15_Chamberlain_NPC"
 msgid "Lord Carran!"
@@ -3353,10 +3353,9 @@ msgid ""
 "Ah, right. Anyway, we offer plenty of help and advice to beginners like you."
 msgstr "오, 그랬나요. 어쨌든, 우리는 여러분 같은 초보자들에게 많은 도움과 조언을 제공하죠."
 
-#, fuzzy
 msgctxt "Scavengers_Dialog_01_14_Joker_Default"
 msgid "We are grown-ups, you know. At least, most of us are."
-msgstr "우린 다 큰 성인이라고요, 좀 덜 큰 친구도 있지만."
+msgstr "우린 다 자란 어른이라고요, 좀 덜 자란 친구도 있지만."
 
 msgctxt "Scavengers_Dialog_01_15_Quartermaster_NPC"
 msgid "Of course you are. Well, good luck!"
@@ -3366,10 +3365,9 @@ msgctxt "Scavengers_Dialog_01_16_Lowlife_Default"
 msgid "At least she's not another lady or something."
 msgstr "적어도 또 다른 귀족 나부랭이는 아니었구만."
 
-#, fuzzy
 msgctxt "Scavengers_Dialog_01_17_Lawkeeper_Default"
 msgid "Scavengers, eh? I never knew if they were legit or not."
-msgstr "스캐빈저라고? 저게 합법인지 아닌지 모르겠는걸."
+msgstr "스캐빈저라고? 진짜 있는 건지도 몰랐는데."
 
 msgctxt "Scavengers_Dialog_01_18_Sellsword_Default"
 msgid "They're tough, these Scavengers. Fearless."
@@ -3379,10 +3377,9 @@ msgctxt "Scavengers_Dialog_01_19_Highclass_Default"
 msgid "Inviting beggars to the Council? How peculiar."
 msgstr "의회에 거지들을 초대한다고? 특이하네."
 
-#, fuzzy
 msgctxt "Scavengers_Dialog_01_20_Acolyte_Default"
 msgid "I'd rather visit the temple, honestly."
-msgstr "솔직히 말하자면 사원에 가보는 게 낫겠군."
+msgstr "솔직히 말하자면, 사원에 가보는 게 좋겠군."
 
 msgctxt "Scavengers_Dialog_01_21_Nosy_Default"
 msgid ""
@@ -5671,15 +5668,13 @@ msgctxt "CaerLem_InspectTirmarian8_Prag_Default"
 msgid "Take it and let's move! The Soraks don't care about history, I'm sure."
 msgstr "얼른 챙기고 움직이자! 소락은 역사 따위는 신경 안 쓰고 죽여댈테니까."
 
-#, fuzzy
 msgctxt "CaerLem_End1_Starter_Default"
 msgid "We're safe!"
 msgstr "이제 안전해!"
 
-#, fuzzy
 msgctxt "CaerLem_End2_Partner_Default"
 msgid "We still have to go back to Caer Cyflen."
-msgstr "아직 케어 키플렌으로 갈 일이 남았어."
+msgstr "아직 케어 키플렌으로 돌아가는 일이 남았어."
 
 msgctxt "CaerLem_End3_Commentator_Default"
 msgid "The road isn't far."
@@ -6254,7 +6249,7 @@ msgstr "저들은 자리만 차지하는 정치꾼들입니다. 으스대는 게
 
 msgctxt "Council01_129_NPC_Carran"
 msgid "Chancellor Hertha Gormsdottir, of the Guild of Antiquarians."
-msgstr ""
+msgstr "안티쿼리안의 허사 고름스도터 총장입니다."
 
 msgctxt "Council01_130_NPC_Carran"
 msgid "She's… Well, yes. Quite."
@@ -7737,7 +7732,6 @@ msgctxt "Council02_3_14_Pragmatic_Default"
 msgid "But trust me, there's a lot of people who want to talk to you first."
 msgstr "내 말 들어 봐. 그 전에 너와 만나고 싶어하는 사람이 엄청 많아."
 
-#, fuzzy
 msgctxt "Tower_Dialog_01_1_MaddyGreenisle_NPC"
 msgid "It's an honor, deputies."
 msgstr "만나서 영광입니다, 대리인."
@@ -7752,7 +7746,7 @@ msgstr "메디 그린아일이예요. 지식의 탑을 위해 일하죠."
 
 msgctxt "Tower_Dialog_01_4_MaddyGreenisle_NPC"
 msgid "I'm just a junior aide in the Council…"
-msgstr "저는 카운실의 하급 보좌관일 뿐이지만…"
+msgstr "저는 평의회의 하급 보좌관일 뿐이지만…"
 
 msgctxt "Tower_Dialog_01_5_MaddyGreenisle_NPC"
 msgid ""
@@ -7800,7 +7794,7 @@ msgstr "안녕하시오."
 
 msgctxt "Antiquarians_Dialog_01_3_HalmanSummer_NPC"
 msgid "I am Halman Summer of the Guild of Antiquarians."
-msgstr "나는 안티쿼리안 길드의 할만 섬머라고 하네."
+msgstr "나는 안티쿼리안 길드의 할만 서머라고 하네."
 
 msgctxt "Antiquarians_Dialog_01_4_HalmanSummer_NPC"
 msgid ""
@@ -7995,7 +7989,7 @@ msgstr "한 번 방문할 생각이 있다면 우리 학파의 문은 언제든 
 
 msgctxt "Danantar_Dialog_01_13_2_JorielFoxeye_NPC"
 msgid "You can find me at Sunblaze Court."
-msgstr "나를 찾고 싶으면 선블레이즈 정원으로 오게."
+msgstr "나를 찾고 싶으면 햇볕 정원으로 오게."
 
 msgctxt "Danantar_Dialog_01_14_Pragmatic_Default"
 msgid "Interested in Badlands treasures, I suppose, like everyone else?"
@@ -8076,10 +8070,9 @@ msgctxt "Council02_4_7_Danantar_NPC"
 msgid "I strongly recommend against forcing a separation."
 msgstr "결코 강제로 분리하려 해서는 안 될 것이오."
 
-#, fuzzy
 msgctxt "Council02_4_8_Speaker_NPC"
 msgid "Chancellor Gormsdottir?"
-msgstr "고름스도티르 총장?"
+msgstr "고름스도터 총장?"
 
 msgctxt "Council02_4_9_AntiquarianBoss_NPC"
 msgid "With the Council's permission, I'd like to try a little experiment."
@@ -9068,27 +9061,27 @@ msgstr "그냥 지나가는 길입니다."
 
 msgctxt "Arcaneum_Dialog_Offer"
 msgid "Let's talk business!"
-msgstr ""
+msgstr "일 얘기를 해보죠!"
 
 msgctxt "Danantar_Dialog_02_1_JorielFoxeye_NPC"
 msgid "Deputies."
-msgstr ""
+msgstr "대리인님이시군요."
 
 msgctxt "Danantar_Dialog_02_2_JorielFoxeye_NPC"
 msgid "Do you have anything for the Circle?"
-msgstr ""
+msgstr "우리 서클에 뭔가 가져오신게 있나요?"
 
 msgctxt "Danantar_Dialog_02_3_Any_Default"
 msgid "Take a look."
-msgstr ""
+msgstr "한번 둘러보세요."
 
 msgctxt "Danantar_Dialog_02_4_Any_Formal"
 msgid "We might."
-msgstr ""
+msgstr "그럴지도요."
 
 msgctxt "Danantar_Dialog_02_5_JorielFoxeye_NPC"
 msgid "Not really. Just stopped by to say hello."
-msgstr ""
+msgstr "별일 없어요. 그냥 인사나 하려고 들렀습니다."
 
 msgctxt "Danantar_Dialog_02_6_Any_Default"
 msgid "It's an honor. "
@@ -9100,11 +9093,11 @@ msgstr "대리인 분들께 빛이 함께 하시길!"
 
 msgctxt "Danantar_Dialog_Exitline"
 msgid "Just saying hello."
-msgstr ""
+msgstr "그냥 인사나 하러 왔어요."
 
 msgctxt "Danantar_Dialog_Offer"
 msgid "What about this?"
-msgstr ""
+msgstr "이건 어때요? "
 
 msgctxt "Antiquarians_Dialog_02_1_HalmanSummer_NPC"
 msgid "Clear skies, my friends!"
@@ -9112,23 +9105,23 @@ msgstr "맑은 하늘이 함께하시길, 친구들이여!"
 
 msgctxt "Antiquarians_Dialog_02_2_HalmanSummer_NPC"
 msgid "You have some treasure in your backpacks?"
-msgstr ""
+msgstr "보물을 좀 가져오셨나요?"
 
 msgctxt "Antiquarians_Dialog_02_3_Any_Slang"
 msgid "Feast your eyes on this!"
-msgstr ""
+msgstr "눈 호강좀 하시죠!"
 
 msgctxt "Antiquarians_Dialog_02_4_Any_Default"
 msgid "See what you think of this."
-msgstr ""
+msgstr "이건 어떻게 보시나요?"
 
 msgctxt "Antiquarians_Dialog_02_5_HalmanSummer_NPC"
 msgid "Just passing by to say hello."
-msgstr ""
+msgstr "그냥 인사나 하러 들렀어요."
 
 msgctxt "Antiquarians_Dialog_02_6_HalmanSummer_NPC"
 msgid "Ah, well. It was good to see you."
-msgstr ""
+msgstr "아, 그렇군요. 반가웠습니다."
 
 msgctxt "Antiquarians_Dialog_02_7_HalmanSummer_NPC"
 msgid "See you next time, friends!"
@@ -9136,11 +9129,11 @@ msgstr "다음에 또 봅시다, 친구들!"
 
 msgctxt "Antiquarians_Dialog_ExitLine"
 msgid "Just passing by."
-msgstr ""
+msgstr "그냥 지나가는 길이에요."
 
 msgctxt "Antiquarians_Dialog_Offer"
 msgid "What about this?"
-msgstr ""
+msgstr "이건 어떤가요?"
 
 msgctxt "Tower_Dialog_02_1_MaddyGreenisle_NPC"
 msgid "Deputies! How are you today?"
@@ -9148,7 +9141,7 @@ msgstr "대리인 여러분! 잘 지내십니까?"
 
 msgctxt "Tower_Dialog_02_2_MaddyGreenisle_NPC"
 msgid "Do you have some lovely loot from the Badlands?"
-msgstr ""
+msgstr "황무지에서 뭐라도 좀 건지신게 있으신가요? "
 
 msgctxt "Tower_Dialog_02_3_Any_Slang"
 msgid "How 'bout that?"
@@ -9156,7 +9149,7 @@ msgstr ""
 
 msgctxt "Tower_Dialog_02_4_Any_Default"
 msgid "Indeed."
-msgstr ""
+msgstr "물론이죠."
 
 msgctxt "Tower_Dialog_02_5_Any_Slang"
 msgid "Just missed your smiling face, Miss Greenisle!"
@@ -9168,7 +9161,7 @@ msgstr ""
 
 msgctxt "Tower_Dialog_02_7_MaddyGreenisle_NPC"
 msgid "Clear skies to you!"
-msgstr ""
+msgstr "맑은 하늘이 함께하길!"
 
 msgctxt "Tower_Dialog_Exitline"
 msgid "Just missed you."
@@ -10676,11 +10669,11 @@ msgstr ""
 
 msgctxt "ReturnToCC_Robar10_Sellsword_Default"
 msgid "To the bitter end, brother."
-msgstr ""
+msgstr "최후까지, 형제여."
 
 msgctxt "ReturnToCC_Robar11_Robar_Default"
 msgid "To the bitter end."
-msgstr ""
+msgstr "최후까지."
 
 msgctxt "ReturnToCC_Robar12_Robar_Default"
 msgid "You, too."
@@ -12921,7 +12914,7 @@ msgstr ""
 
 msgctxt "TheAerElai68_Sellsword_Default"
 msgid "To the bitter end!"
-msgstr ""
+msgstr "최후까지!"
 
 msgctxt "TheAerElai69_Lowlife_Default"
 msgid "Let's make this bitch pay once and for all."
@@ -13046,57 +13039,57 @@ msgstr "천만에요."
 
 msgctxt "Scavengers_Dialog_03_1_Starter_Default"
 msgid "We wanted to talk about Caer Lem."
-msgstr ""
+msgstr "케어 렘에 대해 얘기해보죠."
 
 msgctxt "Scavengers_Dialog_03_2_Quartermaster_NPC"
 msgid "I'm all ears."
-msgstr ""
+msgstr "듣고 있어요."
 
 msgctxt "Scavengers_Dialog_03_3_Starter_Default"
 msgid "No one's there anymore…"
-msgstr ""
+msgstr "거기엔 이제 아무도 없는데…"
 
 msgctxt "Scavengers_Dialog_03_4_Quartermaster_NPC"
 msgid "Ah, you want to claim the place?"
-msgstr ""
+msgstr "아하, 거기에서 뭘 찾으시게요?"
 
 msgctxt "Scavengers_Dialog_03_5_Starter_Default"
 msgid "How does it work again?"
-msgstr ""
+msgstr "어떻게 케어 렘을 재건하죠?"
 
 msgctxt "Scavengers_Dialog_03_6_Quartermaster_NPC"
 msgid ""
 "We go there and scavenge everything you didn't take, then you get a "
 "percentage."
-msgstr ""
+msgstr "우리 스캐빈저가 일단 거기에 가서 남아있는 것들을 싹쓸이하고, 여러분은 일부 보상을 받으면 돼요."
 
 msgctxt "Scavengers_Dialog_03_7_Starter_Default"
 msgid "We can't promise you it's safe."
-msgstr ""
+msgstr "그곳이 안전하다고 장담은 못해요."
 
 msgctxt "Scavengers_Dialog_03_8_Quartermaster_NPC"
 msgid "It never is."
-msgstr ""
+msgstr "당연히 안전하지 않죠."
 
 msgctxt "Scavengers_Dialog_03_9_Quartermaster_NPC"
 msgid "Once we get there, we'll set up an outpost of our own."
-msgstr ""
+msgstr "거기에 도착하면 우리 전초기지가 세워져 있을 거에요."
 
 msgctxt "Scavengers_Dialog_03_10_Quartermaster_NPC"
 msgid "I'll check with the Council first, but thanks anyway."
-msgstr ""
+msgstr "먼저 평의회에 상의해보죠. 아무튼 감사합니다."
 
 msgctxt "Scavengers_Dialog_03_11_Starter_Default"
 msgid "What do we do next?"
-msgstr ""
+msgstr "이제 뭘 해야하죠?"
 
 msgctxt "Scavengers_Dialog_03_12_Quartermaster_NPC"
 msgid "Once we've done our work, I'll let you know."
-msgstr ""
+msgstr "작업이 완료되면 알려드리죠."
 
 msgctxt "Scavengers_Dialog_03_13_Quartermaster_NPC"
 msgid "You'll just have to come by and collect your share."
-msgstr ""
+msgstr "그럼 그냥 오셔서 여러분의 몫을 챙겨가시면 돼요."
 
 msgctxt "Generic_False_Gem_Thread_01"
 msgid "I think… this is what the Crown showed me."
@@ -13556,7 +13549,7 @@ msgstr ""
 
 msgctxt "PhilosopherBackgroundQuest_ThirdMeeting_2_Galeafin_NPC"
 msgid "Clear skies!"
-msgstr ""
+msgstr "맑은 하늘이 함께하길!"
 
 msgctxt "PhilosopherBackgroundQuest_ThirdMeeting_3_Galeafin_NPC"
 msgid "We live in fascinating times!"
@@ -13990,11 +13983,11 @@ msgstr ""
 
 msgctxt "BackgroundQuest_Acolyte_Rogar_28_Rogar_NPC"
 msgid "May Arun's fire warm your heart! "
-msgstr ""
+msgstr "아룬의 불꽃이 당신들을 따스하게 해줄거네! "
 
 msgctxt "BackgroundQuest_Acolyte_Rogar_29_Acolyte_Default"
 msgid "Clear skies!"
-msgstr ""
+msgstr "맑은 하늘이 함께하길!"
 
 msgctxt "BackgroundQuest_Acolyte_Cemetary_1_Sarcastic_Default"
 msgid "Did we forget to close the door on our last visit? "
@@ -14801,7 +14794,7 @@ msgstr "감사합니다! 좋은 하루 보내시길!"
 
 msgctxt "Optional_Sellsword_Quest_House_1_Any_BUT_sellsword_Normal"
 msgid "Nice house!"
-msgstr ""
+msgstr "좋은 집이네!"
 
 msgctxt "Optional_Sellsword_Quest_House_2_Sellsword_Normal"
 msgid "Strange. It feels familiar and unfamiliar at the same time."
@@ -14809,27 +14802,27 @@ msgstr "이상한데. 친숙함과 위화감이 동시에 느껴지는 걸."
 
 msgctxt "Optional_Sellsword_Quest_House_3_Any_BUT_sellsword_Normal"
 msgid "Let's go inside!"
-msgstr ""
+msgstr "들어가보자!"
 
 msgctxt "Optional_Sellsword_Quest_House_4_Sellsword_Normal"
 msgid "I got something."
-msgstr ""
+msgstr "뭔가를 찾았어."
 
 msgctxt "Optional_Sellsword_Quest_House_5_Sellsword_Normal"
 msgid "Some stuff, and a note…"
-msgstr ""
+msgstr "잡동사니 몇 개랑, 이건 메모네…"
 
 msgctxt "Optional_Sellsword_Quest_House_FightEnd__1_Any_Default"
 msgid "Soraks!"
-msgstr ""
+msgstr "소락이다!"
 
 msgctxt "Optional_Sellsword_Quest_House_FightEnd__2_Any_Default"
 msgid "So they're involved, for sure!"
-msgstr ""
+msgstr "그럼 그렇지, 놈들이 노리고 있었어!"
 
 msgctxt "Optional_Sellsword_Quest_House_FightEnd__3_Sellsword_Default"
 msgid "I'll find the rest and kill them!"
-msgstr ""
+msgstr "나머지도 모두 찾아 죽여주마!"
 
 msgctxt "Optional_Sellsword_Quest_BackToInn_1_MildredWarmhearth_NPC"
 msgid "Clear skies! Did you go to the house?"
@@ -14919,7 +14912,7 @@ msgstr ""
 
 msgctxt "Optional_Sellsword_Quest_Confrontation_3_AllanMiller_NPC"
 msgid "Give me the year and the case, and I'll get whatever you need!"
-msgstr ""
+msgstr "연도와 사건을 말씀해주시면 바로 찾아드리겠습니다!"
 
 msgctxt "Optional_Sellsword_Quest_Confrontation_4_AcademicOrElse_Normal"
 msgid "Is that your writing? I've never seen anything so neat!"
@@ -14935,7 +14928,7 @@ msgstr ""
 
 msgctxt "Optional_Sellsword_Quest_Confrontation_7_AllanMiller_NPC"
 msgid "Ah, you're too smart for you own good."
-msgstr ""
+msgstr "아, 너넨 너무 많은 걸 알고 있어."
 
 msgctxt "Background_Sellsword_End_1_Ceannard_NPC"
 msgid "Ah - I expected you."
@@ -14999,7 +14992,7 @@ msgstr "오랜 지인 같아 보이던데. 마스터 댁킨이라네."
 
 msgctxt "Optional_Academic_Quest_Start5_Bagmordah_NPC"
 msgid "He said he'd wait for you at Sunblaze Court."
-msgstr "선블레이즈 정원에서 기다리겠다더군."
+msgstr "햇볕 정원에서 기다리겠다더군."
 
 msgctxt "Optional_Academic_Quest_Start6_Academic_Default"
 msgid "Oh! Thanks for the message. Stay in the light!"
@@ -15131,19 +15124,19 @@ msgstr "거기서 뵙겠습니다. 빛이 함께 하시길!"
 
 msgctxt "Optional_Academic_Quest_ArrivingAtCaerLem1_Friendly_Default"
 msgid "Clear skies, friend!"
-msgstr ""
+msgstr "좋은 하루에요, 친구!"
 
 msgctxt "Optional_Academic_Quest_ArrivingAtCaerLem2_Bertram_NPC"
 msgid "Clear skies, deputy!"
-msgstr ""
+msgstr "안녕하세요, 대리인 님!"
 
 msgctxt "Optional_Academic_Quest_ArrivingAtCaerLem3_Greed_WRITTEN"
 msgid "How's business in Caer Lem?"
-msgstr ""
+msgstr "케어 렘에서의 일은 어때?"
 
 msgctxt "Optional_Academic_Quest_ArrivingAtCaerLem4_Friendly_WRITTEN"
 msgid "What's your name?"
-msgstr ""
+msgstr "이름이 뭐에요?"
 
 msgctxt "Optional_Academic_Quest_ArrivingAtCaerLem5_Nosy_WRITTEN"
 msgid "Did you find the secret passage?"
@@ -15151,7 +15144,7 @@ msgstr "비밀 통로를 찾았나요?"
 
 msgctxt "Optional_Academic_Quest_ArrivingAtCaerLem6_Pragmatic_WRITTEN"
 msgid "Have you seen Master Dackin?"
-msgstr ""
+msgstr "마스터 대킨님을 보셨나요?"
 
 #, fuzzy
 msgctxt "Optional_Academic_Quest_ArrivingAtCaerLem7_Greed_Choice"
@@ -16032,7 +16025,7 @@ msgstr "닥쳐!"
 
 msgctxt "Optional_Lawkeeper_Quest_SnowAlliance34_Friendly_Default"
 msgid "Clear skies!"
-msgstr ""
+msgstr "맑은 하늘이 함께하길!"
 
 #, fuzzy
 msgctxt "Optional_Lawkeeper_Quest_SnowAlliance35_SnowAllianceGuard_NPC"
@@ -19604,7 +19597,7 @@ msgstr ""
 
 msgctxt "AbjurationQuest_GeneralStore_14_Wilf_NPC"
 msgid "The Baron came back with a bunch of prisoners. Highwaymen, apparently."
-msgstr ""
+msgstr "남작이 포로를 우르르 끌고 오시더군요. 노상강도 떼였던 것 같습니다."
 
 #, fuzzy
 msgctxt "AbjurationQuest_GeneralStore_15_Wilf_NPC"
@@ -19619,7 +19612,7 @@ msgstr "목매단다고요? 그게 일반적인 관례인가요?"
 msgctxt "AbjurationQuest_GeneralStore_17_Wilf_NPC"
 msgid ""
 "Yes. You don't need that many prisoners to make them talk, if you ask me!"
-msgstr ""
+msgstr "그럼요. 그리 많은 죄수들이 말을 하게 할 필요는 없어요!"
 
 msgctxt "AbjurationQuest_Nikannen_1_SergeantNikannen_NPC"
 msgid "Well met again!"
@@ -20712,7 +20705,7 @@ msgstr ""
 
 msgctxt "AbjurationQuest_Kythaela_Gear_2_Kythaela_NPC"
 msgid "This is my spellbook - I remember!"
-msgstr ""
+msgstr "기억 나, 이건 내 주문책이야!"
 
 msgctxt "AbjurationQuest_Kythaela_Gear_2b_Kythaela_NPC"
 msgid "A wand, a robe, some money, and a piece of paper."
@@ -20773,7 +20766,7 @@ msgstr ""
 
 msgctxt "AbjurationQuest_Kythaela_CoparannGateroom_9_InsightHighest_Normal"
 msgid "How do we unlock it?"
-msgstr ""
+msgstr "어떻게 열어야 한담?"
 
 msgctxt "AbjurationQuest_Kythaela_CoparannGateroom_10_Kythaela_NPC"
 msgid "You need to use its name. "
@@ -20843,7 +20836,7 @@ msgstr ""
 
 msgctxt "CradleOfFire_Arriving_3_Reactor_Slang"
 msgid "And it stinks like an orc's backside."
-msgstr ""
+msgstr "망할 오크 땀 냄새 같잖아."
 
 #, fuzzy
 msgctxt "CradleOfFire_Arriving_4_Reactor_Formal"
@@ -23966,7 +23959,7 @@ msgstr "침입자다!"
 
 msgctxt "Banter_ToM_09"
 msgid "Don't let them get away!"
-msgstr ""
+msgstr "도망치게 두지 마!"
 
 msgctxt "Banter_ToM_10"
 msgid "They're crazy!"
@@ -23979,19 +23972,19 @@ msgstr ""
 msgctxt "Banter_ToM_12"
 msgid ""
 "I stepped on some kind of magical rune. I guess there's a reason for that."
-msgstr ""
+msgstr "마법의 룬같은 걸 밟았어. 뭔가 일어날 것 같은데."
 
 msgctxt "Banter_ToM_13"
 msgid "Found one!"
-msgstr ""
+msgstr "하나 찾았다!"
 
 msgctxt "Banter_ToM_14"
 msgid "Eh… nothing. Very funny."
-msgstr ""
+msgstr "어... 아냐. 참 재밌네."
 
 msgctxt "Banter_ToM_15"
 msgid "Another one, here."
-msgstr ""
+msgstr "여기 하나 더."
 
 msgctxt "CaerLem_Nego23_Spy_Default"
 msgid "Alright, I'm opening it."
@@ -24007,15 +24000,15 @@ msgstr "태양빛이 그대의 길을 축복하길!"
 
 msgctxt "PriestOfArun2_Arun_Default"
 msgid "Balance and harmony, chaplain!"
-msgstr ""
+msgstr "균형과 조화가 함께하시길, 사제님!"
 
 msgctxt "PriestOfArun3_Priest_NPC"
 msgid "Fair weather, faithful one."
-msgstr ""
+msgstr "좋은 날씨야, 충실한 날씨지."
 
 msgctxt "PriestOfArun4_Priest_NPC"
 msgid "Good luck and fair weather!"
-msgstr ""
+msgstr "행운을 비네, 앞길이 창창하길!"
 
 msgctxt "ChurchOfEinar_Dialog_01_16_DalonLark_NPC"
 msgid ""
@@ -24740,7 +24733,7 @@ msgstr "엄청난 부를 거머쥐게 될 거야! 이 모든 책을 케어 키�
 
 msgctxt "TowerOfMagic_Discovery_04"
 msgid "I see the point of the Scavengers now…"
-msgstr ""
+msgstr "이제야 스캐빈저를 이해할 수 있겠어..."
 
 msgctxt "TowerOfMagic_Discovery_05"
 msgid "Why not keep this to ourselves?"
@@ -25044,7 +25037,7 @@ msgstr "다른 걸로는 거대한 야수가 있군."
 
 msgctxt "InTemple_Added_41_Beric_AkilWingate_NPC"
 msgid "The scriptures talk of elite warriors, anti-paladins."
-msgstr ""
+msgstr "경전에는 정예 전사, 안티팔라딘에 대한 이야기도 있네."
 
 #, fuzzy
 msgctxt "InTemple_Added_42_Beric_AkilWingate_NPC"
@@ -25113,7 +25106,7 @@ msgstr "음, 정말 무서운 이야기지만, 도움이 되겠군요. 감사합
 
 msgctxt "InTemple_Added_56_Player_Default"
 msgid "You're welcome, deputies."
-msgstr ""
+msgstr "천만에."
 
 msgctxt "InTemple_12_EinarBoss_NPC"
 msgid ""
@@ -25123,7 +25116,7 @@ msgstr "소라카스와 놈들의 동맹과 관련된 뭔가를 찾으면, 사�
 
 msgctxt "InTemple_13_EinarBoss_NPC"
 msgid "Talk to Chaplain Dalon Lark. You will be well rewarded."
-msgstr "달런 라크 사제와 이야기하면 보상을 받을 수 있을 거요."
+msgstr "댈런 라크 사제와 이야기하면 보상을 받을 수 있을 거요."
 
 msgctxt "InTemple_14_EinarBoss_NPC"
 msgid "Whenever you're ready, the Council will meet again."
@@ -26113,7 +26106,7 @@ msgstr ""
 
 msgctxt "New_Player_Banters2_Normal_Hello"
 msgid "Clear skies!"
-msgstr ""
+msgstr "맑은 하늘이 함께하길!"
 
 msgctxt "New_Player_Banters3_Normal_Hello"
 msgid "Clear skies, friend."

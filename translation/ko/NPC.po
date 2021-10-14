@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 20:48+0900\n"
-"PO-Revision-Date: 2021-10-13 13:37+0000\n"
+"PO-Revision-Date: 2021-10-14 13:47+0000\n"
 "Last-Translator: 존삼 <jsnuguri@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/npc/ko/>\n"
 "Language: ko\n"
@@ -165,10 +165,9 @@ msgctxt "NPC_Gromnir_Title"
 msgid "Baron Gromnir Stonefist"
 msgstr "그롬니르 스톤피스트 남작"
 
-#, fuzzy
 msgctxt "NPC_HalmanGormsdottirTitle"
 msgid "Chancellor Hertha Gormsdottir"
-msgstr "허사 고름스도터 학회장"
+msgstr "허사 고름스도터 총장"
 
 msgctxt "NPC_HalmanSummerTitle"
 msgid "Halman Summer"
@@ -437,11 +436,11 @@ msgstr ""
 
 msgctxt "NPC_MajorGateOfficer_Title"
 msgid "Major Gate Officer"
-msgstr "정문 경비대장"
+msgstr "주 관문 경비대장"
 
 msgctxt "NPC_MajorGateOfficer_Description"
 msgid "Interact to use the Major Gate."
-msgstr ""
+msgstr "상호작용하여 주 관문을 사용하십시오."
 
 msgctxt "NPC_SpeakRavensworth_Description"
 msgid "Speak to enter the residence."
@@ -493,7 +492,7 @@ msgstr "로드릭"
 
 msgctxt "NPC_Bertram"
 msgid "Bertram"
-msgstr "베르트람"
+msgstr "버트람"
 
 msgctxt "NPC_CaerLemGarrison"
 msgid "Council Trooper"
