@@ -3,13 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-10-15 10:35+0000\n"
+"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/language/"
+"ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.4.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "Language/&CommonDescription"
 msgid ""
@@ -51,7 +54,7 @@ msgstr "거인이나 그보다 작은 오우거 등 거대 인간형 종족들�
 
 msgctxt "Language/&GiantTitle"
 msgid "Giant"
-msgstr "거인"
+msgstr "거인어"
 
 msgctxt "Language/&GoblinDescription"
 msgid "The crude dialect of the goblins is even simpler than Orcish."
@@ -69,7 +72,7 @@ msgstr "습지 하플링과 섬 하플링이 갈라지기 전부터 사용된 �
 
 msgctxt "Language/&HalflingTitle"
 msgid "Halfling"
-msgstr "하플링"
+msgstr "하플링어"
 
 msgctxt "Language/&OrcDescription"
 msgid "The language spoken by orcs and their brethren."

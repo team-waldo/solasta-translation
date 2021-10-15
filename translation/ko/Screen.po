@@ -3,13 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-10-15 10:35+0000\n"
+"Last-Translator: Jin <byungjinjun55@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/screen/ko/>"
+"\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.4.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "Screen/&AbilityScoreBonusDescription"
 msgid "The bonus to this ability score, based on your current choices."
@@ -2504,12 +2507,12 @@ msgstr "총 수익"
 
 msgctxt "Screen/&TrackedQuestDescription"
 msgid "This quest is currently tracked and displayed on the main game screen. "
-msgstr ""
+msgstr "현재 추적 중인 퀘스트로, 메인 화면에 표시됩니다. "
 
 msgctxt "Screen/&TrackQuestDescription"
 msgid ""
 "Click to start/stop tracking this quest and follow it on the main screen."
-msgstr ""
+msgstr "클릭하여 퀘스트 추적 및 메인 화면 표시를 시작/중지하세요."
 
 msgctxt "Screen/&TrackQuestTitle"
 msgid "Track Quest"
@@ -2754,23 +2757,23 @@ msgstr "적의 턴"
 
 msgctxt "Screen/&BreakFreeModeChoiceTitle"
 msgid "Select How to Break Free:"
-msgstr ""
+msgstr "탈출 방법 선택:"
 
 msgctxt "Screen/&BreakFreeModeAthleticsFormat"
 msgid "STR (Athletics) {0}"
-msgstr ""
+msgstr "힘(운동) {0}"
 
 msgctxt "Screen/&BreakFreeModeAthleticsDescription"
 msgid "Roll a STR (Athletics) ability check to break free."
-msgstr ""
+msgstr "탈출하기 위해 힘(운동) 능력치 판정을 합니다."
 
 msgctxt "Screen/&BreakFreeModeAcrobaticsFormat"
 msgid "DEX (Acrobatics) {0}"
-msgstr ""
+msgstr "민첩(곡예) {0}"
 
 msgctxt "Screen/&BreakFreeModeAcrobaticsDescription"
 msgid "Roll a DEX (Acrobatics) ability check to break free."
-msgstr ""
+msgstr "탈출하기 위해 민첩(곡예) 능력치 판정을 합니다."
 
 msgctxt "Screen/&ColorCalibrationInstructionsDescription"
 msgid ""
@@ -2880,19 +2883,22 @@ msgstr "되돌리기"
 
 msgctxt "Screen/&EditorCategoryLocationTitle"
 msgid "Location"
-msgstr ""
+msgstr "지역"
 
+#, fuzzy
 msgctxt "Screen/&EditorCategoryRoomDescription"
 msgid "Available Room Blueprints"
-msgstr ""
+msgstr "가능한 방 배치도"
 
+#, fuzzy
 msgctxt "Screen/&EditorCategoryPropDescription"
 msgid "Available Prop Blueprints"
-msgstr ""
+msgstr "가능한 물체 배치도"
 
+#, fuzzy
 msgctxt "Screen/&EditorCategoryGadgetDescription"
 msgid "Available Gadget Blueprints"
-msgstr ""
+msgstr "가능한 장치 배치도"
 
 msgctxt "Screen/&EditorLocationTitleTitle"
 msgid "Title"
