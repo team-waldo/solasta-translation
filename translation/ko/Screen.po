@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-10-15 10:35+0000\n"
+"PO-Revision-Date: 2021-10-18 07:24+0000\n"
 "Last-Translator: Jin <byungjinjun55@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/screen/ko/>"
 "\n"
@@ -24,13 +24,15 @@ msgid ""
 "remaining points."
 msgstr "이 능력치 값에 대한 보너스로, 남은 포인트로 조절할 수 있습니다."
 
+#, fuzzy
 msgctxt "Screen/&AbilityScoresAssignTitle"
 msgid "Drag and drop your rolls onto ability score cells, or auto assign."
-msgstr ""
+msgstr "능력치 칸에 주사위를 끌어다 놓거나 자동할당을 클릭하십시오."
 
+#, fuzzy
 msgctxt "Screen/&AbilityScoresEditPointsTitle"
 msgid "Edit your rolls using your remaining points."
-msgstr ""
+msgstr "남은 포인트를 사용하여 능력치를 수정하십시오."
 
 msgctxt "Screen/&AbilityScoresMethodTitle"
 msgid "Select Ability Score Generation Method"
@@ -56,9 +58,10 @@ msgctxt "Screen/&ActiveQuestsFormatSingle"
 msgid "Your team has one active quest."
 msgstr "팀에 활성화된 퀘스트가 하나 있습니다."
 
+#, fuzzy
 msgctxt "Screen/&AddCharacterDescription"
 msgid "Adds a character from your pool of local characters."
-msgstr ""
+msgstr "보유 캐릭터 중 하나의 캐릭터를 선택하십시오."
 
 msgctxt "Screen/&AddCharacterTitle"
 msgid "Add Character"
@@ -488,9 +491,10 @@ msgctxt "Screen/&DestinyQuestTypeTitle"
 msgid "Destiny Quest"
 msgstr "운명 퀘스트"
 
+#, fuzzy
 msgctxt "Screen/&DeviceOverchargeDescription"
 msgid "Add more charges to this effect."
-msgstr ""
+msgstr "이 효과를 추가로 충전하십시오."
 
 msgctxt "Screen/&DisabledSlotAutoConfigDescription"
 msgid "This slot is disabled as its content is determined automatically."
@@ -754,11 +758,12 @@ msgctxt "Screen/&FocusCharacterDescription"
 msgid "Click to focus the view on this character."
 msgstr "클릭하여 이 캐릭터에 초점을 맞추세요."
 
+#, fuzzy
 msgctxt "Screen/&GameContentButtonDescription"
 msgid ""
 "Display the document that details which game content uses the SRD and which "
 "is original."
-msgstr ""
+msgstr "게임에서 사용하는 고유의 시스템 참조 문서(SRD) 내 세부항목을 표시합니다."
 
 msgctxt "Screen/&GameContentButtonTitle"
 msgid "Game Content"
@@ -902,11 +907,12 @@ msgctxt "Screen/&JournalBestiaryChallengeAndXPFormat"
 msgid "{0} ({1}XP)"
 msgstr "{0} ({1}XP)"
 
+#, fuzzy
 msgctxt "Screen/&JournalBestiaryChallengeDescription"
 msgid ""
 "The average party level needed to fight one of these creatures in a balanced "
 "challenge."
-msgstr ""
+msgstr "균형 도전등급에서 이 크리쳐들과 싸우기 위해서는 보통의 파티 레벨이 필요합니다."
 
 msgctxt "Screen/&JournalBestiaryDescription"
 msgid "Lists the foes you can face and the knowledge you have collected."
@@ -1268,13 +1274,15 @@ msgid ""
 "magical attacks."
 msgstr "이 공격은 마법으로 간주되며 마법이 아닌 공격에 저항이 있는 생물에게 상처를 입힐 수 있습니다."
 
+#, fuzzy
 msgctxt "Screen/&MagicRevealedPluralFormat"
 msgid "New items have been revealed as magical on {0}."
-msgstr ""
+msgstr "{0}에서 새로운 아이템들의 마법 속성이 확인되었습니다."
 
+#, fuzzy
 msgctxt "Screen/&MagicRevealedSingleFormat"
 msgid "A new item has been revealed as magical on {0}."
-msgstr ""
+msgstr "{0}에서 새로운 아이템의 마법 속성이 확인되었습니다."
 
 msgctxt "Screen/&MainAttackTitle"
 msgid "Main Attack"
@@ -1575,9 +1583,10 @@ msgctxt "Screen/&ParticipantNameFormat"
 msgid "Player: {0}"
 msgstr "플레이어: {0}"
 
+#, fuzzy
 msgctxt "Screen/&ParticipantsTitle"
 msgid "Participants"
-msgstr ""
+msgstr "참여자"
 
 msgctxt "Screen/&PartyJournalButtonDescription"
 msgid ""
@@ -2021,9 +2030,10 @@ msgctxt "Screen/&ReviveItemSubtitleSingleFormat"
 msgid "({0} use remaining)"
 msgstr "(남은 사용 횟수 {0})"
 
+#, fuzzy
 msgctxt "Screen/&ReviveUpcastSubtitleDescription"
 msgid "Upcast: "
-msgstr ""
+msgstr "강화시전: "
 
 msgctxt "Screen/&ReviveUsePowerFormat"
 msgid "Use {0}"
@@ -2081,11 +2091,12 @@ msgctxt "Screen/&ScoreAutoAssignButtonTitle"
 msgid "Auto Assign"
 msgstr "자동 할당"
 
+#, fuzzy
 msgctxt "Screen/&ScoreMethodFreeEditionDescription"
 msgid ""
 "Use this option to recreate one of your favorite tabletop characters. No "
 "cheating, now!"
-msgstr ""
+msgstr "당신이 좋아하는 보드게임 캐릭터를 구현하려면 이 옵션을 사용하세요. 여기서는 사기칠 수 없습니다!"
 
 msgctxt "Screen/&ScoreMethodFreeEditionTitle"
 msgid "Free Choice"
@@ -2805,7 +2816,7 @@ msgctxt "Screen/&AttunementRemoveDescription"
 msgid ""
 "Remove the attunement on this item so that the character can attune to other "
 "items."
-msgstr ""
+msgstr "캐릭터가 다른 아이템을 조율할 수 있게 하려면 이 아이템의 조율을 제거하세요."
 
 msgctxt "Screen/&NewQuestContentDescription"
 msgid "The quest log has been updated"
@@ -2860,14 +2871,17 @@ msgstr "최종 목적지로 이동하는 대신 다른 경로를 계획할 수 �
 
 msgctxt "Screen/&MarkDeityTitle"
 msgid "Mark Deity"
-msgstr ""
+msgstr "신성 표시"
 
+#, fuzzy
 msgctxt "Screen/&MarkDeityDescription"
 msgid ""
 "Paint or carve your deity symbol on this item, so that it can be used as a "
 "material component for spells, and even remove the free hand requirement for "
 "somatic spells with a material component."
 msgstr ""
+"이 아이템을 주문의 물질 구성요소로 사용하거나, 물질 구성요소를 이용하여 동작 주문의 빈 손 요구사항을 제거하기 위해서는, 아이템에 신의 "
+"상징을 칠하거나 새기십시오."
 
 msgctxt "Screen/&RepertoireKnownSpellsTitle"
 msgid "Known Spells"
@@ -2962,7 +2976,7 @@ msgstr "취소"
 
 msgctxt "Screen/&EditorCaptionCancelButtonDescription"
 msgid "Cancels the selection of the current element"
-msgstr ""
+msgstr "현재 선택한 항목을 취소합니다"
 
 msgctxt "Screen/&EditorCaptionMoveButtonTitle"
 msgid "Move"
@@ -3000,13 +3014,14 @@ msgctxt "Screen/&MonsterSortAlphabeticalDescription"
 msgid "Sort by monster name"
 msgstr "크리쳐 이름 순으로 정렬"
 
+#, fuzzy
 msgctxt "Screen/&MonsterSortCRTitle"
 msgid "Challenge"
-msgstr ""
+msgstr "도전등급"
 
 msgctxt "Screen/&MonsterSortCRDescription"
 msgid "Sort by monster Challenge Rating"
-msgstr ""
+msgstr "몬스터 도전 등급을 기준으로 정렬합니다"
 
 msgctxt "Screen/&ItemSortAlphabeticalTitle"
 msgid "Name"
@@ -3018,23 +3033,23 @@ msgstr "아이템 이름 순으로 정렬"
 
 msgctxt "Screen/&ItemSortValueTitle"
 msgid "Cost"
-msgstr ""
+msgstr "가격"
 
 msgctxt "Screen/&ItemSortValueDescription"
 msgid "Sort by item cost"
-msgstr ""
+msgstr "아이템 가격을 기준으로 정렬합니다"
 
 msgctxt "Screen/&LootPackSelectionTitle"
 msgid "Select a Loot Pack"
-msgstr ""
+msgstr "전리품 꾸러미 선택"
 
 msgctxt "Screen/&ItemSelectionTitle"
 msgid "Select an Item"
-msgstr ""
+msgstr "아이템 선택"
 
 msgctxt "Screen/&TrapEffectSelectionTitle"
 msgid "Select a Trap Effect"
-msgstr ""
+msgstr "함정 효과 선택"
 
 msgctxt "Screen/&LocationSavedDescription"
 msgid "Content saved"
@@ -3042,11 +3057,11 @@ msgstr "내용 저장됨"
 
 msgctxt "Screen/&ClearElementTitle"
 msgid "Clear"
-msgstr ""
+msgstr "초기화"
 
 msgctxt "Screen/&ClearElementDescription"
 msgid "Clears the selected database entry"
-msgstr ""
+msgstr "선택된 데이터 입력을 초기화합니다"
 
 msgctxt "Screen/&FeatureUnavailableTitle"
 msgid "Unavailable, coming soon"
@@ -3058,7 +3073,7 @@ msgstr "설정"
 
 msgctxt "Screen/&EditorSettingsDescription"
 msgid "Edit the user location's settings (name, description, etc.)"
-msgstr ""
+msgstr "사용자 지역 설정(이름, 설명 등)을 수정합니다"
 
 msgctxt "Screen/&EditorSaveDescription"
 msgid "Save this user location to disk ({0})"
@@ -3074,7 +3089,7 @@ msgstr "미리보기"
 
 msgctxt "Screen/&EditorPrevisDescription"
 msgid "Previsualize the location rendering in a separate window (coming soon)"
-msgstr ""
+msgstr "별개의 창에 지역 개괄을 표시합니다(업데이트 예정)"
 
 msgctxt "Screen/&MoveShortcutFormat"
 msgid "Move ({0})"
@@ -3126,11 +3141,11 @@ msgstr "던전 메이커"
 
 msgctxt "Screen/&BackDungeonMakerDescription"
 msgid "Opens the Dungeon Maker to resume editing this location"
-msgstr "던전 메이커를 열어 이 지역의 편집을 재개합니다."
+msgstr "던전 메이커를 열어 이 지역의 편집을 재개합니다"
 
 msgctxt "Screen/&EditorLocationSwitchDescription"
 msgid "Click to switch to this user location"
-msgstr ""
+msgstr "클릭하여 이 사용자 지역으로 전환합니다"
 
 msgctxt "Screen/&EditorLocationAuthorVersionTitle"
 msgid "Version"
@@ -3138,27 +3153,27 @@ msgstr "버전"
 
 msgctxt "Screen/&UserLocationsPublishButtonDescription"
 msgid "Publish your location on Steam Workshop"
-msgstr ""
+msgstr "스팀 창작마당에 당신의 지역을 업로드합니다"
 
 msgctxt "Screen/&UserLocationsPublishingWorshopLegalLabel"
 msgid "By submitting this item, you agree to the workshop terms of service."
-msgstr ""
+msgstr "이 항목을 제출함으로써 창작마당 서비스 약관에 동의합니다."
 
 msgctxt "Screen/&UserLocationsPublishingWorshopLegalLinkLabel"
 msgid "Read the terms of service here."
-msgstr ""
+msgstr "여기서 서비스 약관을 확인하십시오."
 
 msgctxt "Screen/&UserLocationsPublishedItemLinkLabel"
 msgid "Browse the published item."
-msgstr ""
+msgstr "업로드된 항목을 확인합니다."
 
 msgctxt "Screen/&UserLocationsPublishHeaderTitle"
 msgid "Publish Location"
-msgstr ""
+msgstr "지역 업로드"
 
 msgctxt "Screen/&UserLocationsPublishingLabel"
 msgid "Location publishing started. Please wait."
-msgstr ""
+msgstr "지역 업로드가 시작되었습니다. 잠시만 기다려주십시오."
 
 msgctxt "Screen/&UserLocationsPublishWaitingLabel"
 msgid ""
@@ -3167,36 +3182,43 @@ msgid ""
 "Note: You can set a thumbnail by placing a PNG image of the same name in the "
 "same folder as the JSON file."
 msgstr ""
+"새로운 지역이 업로드됩니다.\n"
+"\n"
+"참고: 지역 JSON파일이 있는 폴더 내에 동일한 파일명을 가진 PNG 파일을 올려서 썸네일을 설정할 수 있습니다."
 
 msgctxt "Screen/&UserLocationsUpdateWaitingLabel"
 msgid "Existing location will be updated."
-msgstr ""
+msgstr "기존 지역이 업데이트 됩니다."
 
 msgctxt "Screen/&UserLocationsPublishingFailedLabel"
 msgid "Could not publish location."
-msgstr ""
+msgstr "지역을 업로드할 수 없습니다."
 
 msgctxt "Screen/&UserLocationsPublishingFailedReasonLabelFormat"
 msgid ""
 "Could not publish new location.\\n"
 "Error {0}."
 msgstr ""
+"새로운 지역을 업로드할 수 없습니다.\\n"
+"오류 {0}."
 
 msgctxt "Screen/&UserLocationsUpdatingFailedReasonLabelFormat"
 msgid ""
 "Could not update existing location's data.\\n"
 "Error {0}."
 msgstr ""
+"기존 지역의 정보를 업데이트할 수 없습니다.\\n"
+"오류 {0}."
 
 msgctxt "Screen/&UserLocationsItemPublishedLabelFormat"
 msgid ""
 "User location was created on the workshop. Updating location's content. "
 "Please wait."
-msgstr ""
+msgstr "사용자 지역이 창작마당에 생성되었습니다. 지역 정보 업데이트 중입니다. 잠시만 기다려주십시오."
 
 msgctxt "Screen/&UserLocationsItemUpdatedLabelFormat"
 msgid "User location published properly. Congratulations!"
-msgstr ""
+msgstr "사용자 지역이 성공적으로 업로드되었습니다. 축하합니다!"
 
 msgctxt "Screen/&CheatsButtonTitle"
 msgid "Cheats"
@@ -3224,12 +3246,12 @@ msgstr "이 라이브러리의 모든 폴더 펼치기"
 
 msgctxt "Screen/&EditorCustomDimensionsTitle"
 msgid "Custom Dimensions"
-msgstr ""
+msgstr "사용자 지정 크기"
 
 msgctxt "Screen/&EditorCustomDimensionsDescription"
 msgid ""
 "This gadget can be set with custom dimensions. Select your preferred valued"
-msgstr ""
+msgstr "장치를 사용자 지정 크기로 설정할 수 있습니다. 원하는 값을 선택하세요"
 
 msgctxt "Screen/&EditorCustomDimensionsWidthTitle"
 msgid "Width"
@@ -3285,15 +3307,15 @@ msgstr "일반 지대"
 
 msgctxt "Screen/&EditorGroundLowSuffix"
 msgid " (low)"
-msgstr ""
+msgstr " (낮음)"
 
 msgctxt "Screen/&EditorGroundHighSuffix"
 msgid " (high)"
-msgstr ""
+msgstr " (높음)"
 
 msgctxt "Screen/&ContentToggleLocationTitle"
 msgid "Locations"
-msgstr ""
+msgstr "지역 리스트"
 
 msgctxt "Screen/&ContentToggleCampaignTitle"
 msgid "Campaigns"
@@ -3301,23 +3323,24 @@ msgstr "캠페인"
 
 msgctxt "Screen/&CampaignCreatorTitle"
 msgid "Campaign Creator"
-msgstr ""
+msgstr "캠페인 제작자"
 
 msgctxt "Screen/&CampaignSettingsTitle"
 msgid "Campaign Settings"
 msgstr "캠페인 설정"
 
+#, fuzzy
 msgctxt "Screen/&CampaignContentTitle"
 msgid "Embedded Content"
-msgstr ""
+msgstr "저장된 컨텐츠"
 
 msgctxt "Screen/&CampaignContentDescrition"
 msgid "The following content is stored inside the user campaign file"
-msgstr ""
+msgstr "다음의 컨텐츠가 사용자 캠페인 파일 내에 저장되었습니다"
 
 msgctxt "Screen/&CampaignEditorLocationHeaderTitle"
 msgid "Locations"
-msgstr ""
+msgstr "지역 리스트"
 
 msgctxt "Screen/&CampaignEditorItemHeaderTitle"
 msgid "Custom Items"
@@ -3325,74 +3348,77 @@ msgstr "커스텀 아이템"
 
 msgctxt "Screen/&CampaignEditorMonsterHeaderTitle"
 msgid "Custom Monsters"
-msgstr ""
+msgstr "사용자 정의 몬스터"
 
 msgctxt "Screen/&CampaignEditorImportContentTitle"
 msgid "Import"
-msgstr ""
+msgstr "불러오기"
 
 msgctxt "Screen/&CampaignEditorImportLocationDescrition"
 msgid ""
 "Import a location from your common pool of locations, to store it inside the "
 "JSON file of this campaign. The original location is preserved."
-msgstr ""
+msgstr "지역 리스트에서 지역을 불러와 캠페인의 JSON 파일 내에 저장합니다. 기존 지역은 유지됩니다."
 
 msgctxt "Screen/&CampaignEditorExportContentTitle"
 msgid "Export"
-msgstr ""
+msgstr "내보내기"
 
+#, fuzzy
 msgctxt "Screen/&CampaignEditorExportLocationDescrition"
 msgid ""
 "Export a location from this campaign file to your common pool of locations. "
 "Can override an existing location in the common pool. Default values will be "
 "assigned for the author / required levels."
 msgstr ""
+"이 캠페인 파일의 선택된 지역을 지역 리스트에 저장합니다. 지역 리스트 내 기존 지역을 덮어쓸 수 있습니다. 제작자/요구 레벨이 없다면 "
+"기본값이 할당됩니다."
 
 msgctxt "Screen/&CampaignEditorUpTitle"
 msgid "Up"
-msgstr ""
+msgstr "위로"
 
 msgctxt "Screen/&CampaignEditorUpDescrition"
 msgid "Move this content Up one line"
-msgstr ""
+msgstr "이 컨텐츠를 한 줄 위로 올립니다"
 
 msgctxt "Screen/&CampaignEditorDownTitle"
 msgid "Down"
-msgstr ""
+msgstr "아래로"
 
 msgctxt "Screen/&CampaignEditorDownDescrition"
 msgid "Move this content Down one line"
-msgstr ""
+msgstr "이 컨텐츠를 한 줄 아래로 내립니다"
 
 msgctxt "Screen/&CampaignEditorSetStartTitle"
 msgid "Set Start"
-msgstr ""
+msgstr "시작지점으로"
 
 msgctxt "Screen/&CampaignEditorSetStartDescrition"
 msgid ""
 "Click to set this location as the start location (entrance index 0) for the "
 "campaign"
-msgstr ""
+msgstr "클릭하여 이 지역을 캠페인의 시작 지점(출구 번호 0)으로 설정하세요"
 
 msgctxt "Screen/&CampaignEditorCampaignStartTitle"
 msgid "Campaign Start"
-msgstr ""
+msgstr "캠페인 시작"
 
 msgctxt "Screen/&CampaignEditorCampaignStartDescrition"
 msgid "The campaign will start at this location"
-msgstr ""
+msgstr "캠페인이 이 지역에서 시작됩니다"
 
 msgctxt "Screen/&CampaignMustSaveDescription"
 msgid "You must save your campaign first"
-msgstr ""
+msgstr "먼저 캠페인을 저장해야 합니다"
 
 msgctxt "Screen/&CampaignReferenceImageTitle"
 msgid "Reference Image"
-msgstr ""
+msgstr "참조 이미지"
 
 msgctxt "Screen/&CampaignReferenceImageDescrition"
 msgid "The default background for this campaign when represented in game. "
-msgstr ""
+msgstr "게임 내에서 표시되는 이 캠페인의 기본 배경화면입니다. "
 
 msgctxt "Screen/&MetamagicOptionsTitle"
 msgid "Select a Metamagic Option"

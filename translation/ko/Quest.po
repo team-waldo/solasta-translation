@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-10-15 17:49+0000\n"
-"Last-Translator: Nickel <psb3421@naver.com>\n"
+"PO-Revision-Date: 2021-10-18 07:24+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/quest/ko/>"
 "\n"
 "Language: ko\n"
@@ -1247,7 +1247,7 @@ msgstr "부상당한 경비병을 죽이려던 병사 둘을 기습하여 죽이
 
 msgctxt "Quest/&Caravan_Quest_02_TheCaravanDescription"
 msgid "You've come across a merchant caravan. Meet its people."
-msgstr "상단과 마주쳤습니다. 만나보세요."
+msgstr "상단과 마주쳤습니다. 만나보십시오."
 
 msgctxt "Quest/&Caravan_Quest_02_TheCaravanTitle"
 msgid "Meet the Caravan's Crew"
@@ -1255,7 +1255,7 @@ msgstr "상단원들을 만나기"
 
 msgctxt "Quest/&Caravan_Quest_03_BringTheLetter_Outcome1Description"
 msgid "You have met Master Galar's contact."
-msgstr "상단 주인 갈라르와 만나봅시다."
+msgstr "상단 주인 갈라르를 만났습니다."
 
 msgctxt "Quest/&Caravan_Quest_03_BringTheLetterDescription"
 msgid ""
@@ -1265,7 +1265,7 @@ msgstr ""
 
 msgctxt "Quest/&Caravan_Quest_03_BringTheLetterTitle"
 msgid "Take the Letter to Coparann"
-msgstr ""
+msgstr "코파란으로 편지 가져가기"
 
 msgctxt "Quest/&Caravan_Quest_04_BringPersonalEffects_Outcome1Description"
 msgid "You met Sergeant Nikannen."
@@ -1291,7 +1291,7 @@ msgstr ""
 
 msgctxt "Quest/&Caravan_Quest_05_TalkToTheCeannarTitle"
 msgid "Talk to the Ceannard"
-msgstr ""
+msgstr "촌장과 대화하기"
 
 msgctxt "Quest/&Caravan_Title"
 msgid "On the Way to Coparann"
@@ -1339,11 +1339,11 @@ msgstr "남작 만나기"
 
 msgctxt "Quest/&Coparann_Quest_04_TalkToNikannen3_Outcome1Description"
 msgid "Nikannen is certain that the Baron is an imposter of some kind."
-msgstr ""
+msgstr "니카넨은 남작에게 뭔가 수상쩍은 점이 있다고 확신합니다."
 
 msgctxt "Quest/&Coparann_Quest_04_TalkToNikannen3Description"
 msgid "Tell Sergeant Nikannen about your conversation with the Baron."
-msgstr ""
+msgstr "남작과 대화한 내용을 니카넨에게 보고하십시오."
 
 msgctxt "Quest/&Coparann_Quest_04_TalkToNikannen3Title"
 msgid "Go Back to Sergeant Nikannen"
@@ -1351,23 +1351,24 @@ msgstr ""
 
 msgctxt "Quest/&Coparann_Quest_05_WaitUntilTomorrow_Outcome1Description"
 msgid "A new day is here. Meet Nikannen at the Baron's throne room."
-msgstr ""
+msgstr "날이 밝았습니다. 남작의 알현실에서 니카넨을 만나십시오."
 
 msgctxt "Quest/&Coparann_Quest_05_WaitUntilTomorrowDescription"
 msgid ""
 "Follow Nikannen's plan and wait until tomorrow before talking to the Baron. "
 "Spend the night at the Tavern, or outside the town if you prefer."
-msgstr ""
+msgstr "니카넨의 계획에 따라 내일까지 기다린 뒤 남작과 대화하기로 했습니다. 여관이나 다른 곳 어디서든 하룻밤을 보내십시오."
 
 msgctxt "Quest/&Coparann_Quest_05_WaitUntilTomorrowTitle"
 msgid "Take a Long Rest"
 msgstr "긴 휴식 취하기"
 
+#, fuzzy
 msgctxt "Quest/&Coparann_Quest_06_TalkToTheBaron2_Outcome1Description"
 msgid ""
 "Your discussion with the Baron finally bears fruit. He allows you to search "
 "the keep's basement."
-msgstr ""
+msgstr "남작과의 논쟁이 결실을 맺었습니다. 성의 아랫층을 볼 수 있도록 허락받았습니다."
 
 msgctxt "Quest/&Coparann_Quest_06_TalkToTheBaron2Description"
 msgid ""
@@ -1377,7 +1378,7 @@ msgstr ""
 
 msgctxt "Quest/&Coparann_Quest_06_TalkToTheBaron2Title"
 msgid "Go to the Throne Room"
-msgstr ""
+msgstr "알현실로 가기"
 
 msgctxt "Quest/&Coparann_Quest_07_GoToTheBasement_Outcome1Description"
 msgid ""
@@ -1401,11 +1402,11 @@ msgstr "진짜 남작을 찾아냈습니다!"
 
 msgctxt "Quest/&Coparann_Quest_08_FreeTheBaronDescription"
 msgid "The real Baron is somewhere in the cells. Release him."
-msgstr ""
+msgstr "진짜 남작이 감옥 어딘가에 갇혀있습니다. 그를 풀어주십시오."
 
 msgctxt "Quest/&Coparann_Quest_08_FreeTheBaronTitle"
 msgid "Free the Real Baron"
-msgstr ""
+msgstr "남작 풀어주기"
 
 msgctxt "Quest/&Coparann_Quest_09_RetrieveKythaelaBelongings_Outcome1Description"
 msgid "You've found Kythaela's belongings and can continue your journey."
@@ -1773,7 +1774,7 @@ msgstr ""
 
 msgctxt "Quest/&Quest_Background_Academic_GoToCaerLemTitle"
 msgid "Go to Caer Lem"
-msgstr ""
+msgstr "케어 렘으로 가기"
 
 msgctxt "Quest/&Quest_Background_Academic_SpeakToDackin_Outcome1Description"
 msgid ""
@@ -1850,7 +1851,7 @@ msgstr ""
 
 msgctxt "Quest/&Quest_Background_Aristocrat_TalkToAdriaTitle"
 msgid "Talk to Adria"
-msgstr ""
+msgstr "아드리아와 대화하기"
 
 msgctxt "Quest/&Quest_Background_Aristocrat_TalkToDrew_Outcome1Description"
 msgid ""
@@ -1886,15 +1887,16 @@ msgid ""
 "her three children before you decide what to do."
 msgstr ""
 
+#, fuzzy
 msgctxt "Quest/&Quest_Background_Aristocrat_TalkToMayorDescription"
 msgid ""
 "Mayor Bright-Spark asked for a minute of your time as you were crossing "
 "Sunblaze Court."
-msgstr ""
+msgstr "선블레이즈 정원을 지나던 중 브라이트스파크 시장이 잠시 대화를 요청했습니다."
 
 msgctxt "Quest/&Quest_Background_Aristocrat_TalkToMayorTitle"
 msgid "Speak to the Mayor"
-msgstr ""
+msgstr "시장과 대화하기"
 
 msgctxt "Quest/&Quest_Background_Aristocrat_Title"
 msgid "Heritage of Distrust"
@@ -1928,7 +1930,7 @@ msgstr ""
 
 msgctxt "Quest/&Quest_Background_Lawkeeper_Close2Title"
 msgid "Go to Sunblaze Court"
-msgstr ""
+msgstr "선블레이즈 정원으로 가기"
 
 msgctxt "Quest/&Quest_Background_Lawkeeper_Close3_Outcome1Description"
 msgid ""
@@ -1955,7 +1957,7 @@ msgstr ""
 
 msgctxt "Quest/&Quest_Background_Lawkeeper_ExploreDescription"
 msgid "Track Rodric and find out where he went."
-msgstr ""
+msgstr "로브릭을 추적해 어디로 갔는지 알아내십시오."
 
 msgctxt "Quest/&Quest_Background_Lawkeeper_ExploreTitle"
 msgid "Find Rodric"
@@ -2007,7 +2009,7 @@ msgstr ""
 
 msgctxt "Quest/&Quest_Background_Lawkeeper_ReportTitle"
 msgid "Return to Stig"
-msgstr ""
+msgstr "스티그에게 돌아가기"
 
 msgctxt "Quest/&Quest_Background_Lawkeeper_Suspect1_Outcome1Description"
 msgid "Corporal Dann left his post. You followed him."
@@ -2078,7 +2080,7 @@ msgstr ""
 
 msgctxt "Quest/&Quest_Background_Spy_Infiltrate the New Empire EmbassyTitle"
 msgid "Infiltrate the New Empire Embassy"
-msgstr ""
+msgstr "신 제국 대사관에 잠입"
 
 msgctxt ""
 "Quest/&Quest_Background_Spy_Optional_Go back to the "
@@ -2117,7 +2119,7 @@ msgstr ""
 
 msgctxt "Quest/&Quest_Background_Spy_Optional_ReturnToDaliatTitle"
 msgid "Report to Daliat"
-msgstr ""
+msgstr "달리앗에게 보고하기"
 
 msgctxt "Quest/&Quest_Background_Spy_Optional_Talk to Daliat_Outcome1Description"
 msgid "Daliat asked for a favor in return for helping you deal with Belmont."
@@ -4797,13 +4799,13 @@ msgstr ""
 
 msgctxt "Quest/&Quest_Background_Sellsword_TalkToMildred1Title"
 msgid "Talk to Mildred"
-msgstr ""
+msgstr "밀드레드와 대화하기"
 
 msgctxt "Quest/&Quest_Background_Sellsword_TalkToMildred1Description"
 msgid ""
 "You received a letter from Mildred, Coparann's innkeeper, asking you to come "
 "visit her."
-msgstr ""
+msgstr "코파란의 여관에 잠깐 들르라는 밀드레드의 편지를 받았습니다."
 
 msgctxt "Quest/&Quest_Background_Sellsword_TalkToMildred1_Outcome1Description"
 msgid ""
@@ -5077,7 +5079,7 @@ msgstr ""
 
 msgctxt "Quest/&PickupQuest_04_ResearchCrown_02_TITLE"
 msgid "Meet with Captain Ironshell"
-msgstr ""
+msgstr "아이언셸 대위 만나기"
 
 msgctxt "Quest/&PickupQuest_04_ResearchCrown_02_DESCRIPTION"
 msgid ""
@@ -5348,7 +5350,7 @@ msgstr ""
 
 msgctxt "Quest/&Aer_Elai_Final_Quest_Title"
 msgid "Aer Elai"
-msgstr ""
+msgstr "에어 엘라이"
 
 msgctxt "Quest/&Aer_Elai_Final_Quest_01_Escape_The_LavaTitle"
 msgid "Exit the Lava River"

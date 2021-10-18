@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-10-15 10:35+0000\n"
-"Last-Translator: lull_ <lull_@naver.com>\n"
+"PO-Revision-Date: 2021-10-18 07:24+0000\n"
+"Last-Translator: Inbird <inbird81@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
 "Language: ko\n"
@@ -22778,89 +22778,100 @@ msgctxt "Narration/&CradleOfFire_FaceArrok_1_Cynical_Default"
 msgid "Uh-huh."
 msgstr ""
 
+#, fuzzy
 msgctxt "Narration/&CradleOfFire_FaceArrok_2_Arrok_NPC"
 msgid "Ah, Kebra of Suncloud…"
-msgstr ""
+msgstr "오, 선클라우드의 케브라…"
 
 msgctxt "Narration/&CradleOfFire_FaceArrok_3_Arrok_NPC"
 msgid "…you walk with nyarks? Shame on you."
-msgstr ""
+msgstr "...나야크와 함께하다니? 부끄러운 줄 알아라."
 
+#, fuzzy
 msgctxt "Narration/&CradleOfFire_FaceArrok_4_Authority_Default"
 msgid "You're finished, Arrok. Give us the stone!"
-msgstr ""
+msgstr "넌 끝났어, 아록. 돌을 내놔라!"
 
+#, fuzzy
 msgctxt "Narration/&CradleOfFire_FaceArrok_5_Arrok_NPC"
 msgid "Funny nyark. No, you give me yours."
-msgstr ""
+msgstr "웃기는 나야크군. 아니, 너희가 네 것을 내놔야지."
 
+#, fuzzy
 msgctxt "Narration/&CradleOfFire_FaceArrok_6_Authority_Default"
 msgid "You're alone. Looks like you killed your tribe all by yourself."
-msgstr ""
+msgstr "넌 혼자야. 네 부족원 전부를 네 손을 죽여버린 것 같은데."
 
+#, fuzzy
 msgctxt "Narration/&CradleOfFire_FaceArrok_7_Arrok_NPC"
 msgid "Useless worms."
-msgstr ""
+msgstr "쓸모없는 벌레들이지."
 
 msgctxt "Narration/&CradleOfFire_FaceArrok_8_Arrok_NPC"
 msgid "Arrok needs no orcs. Arrok is fire! Arrok is volcano!"
-msgstr ""
+msgstr "아록은 오크를 필요로 하지 않는다. 아록은 불꽃이다! 아록은 화산이다!"
 
+#, fuzzy
 msgctxt "Narration/&CradleOfFire_FaceArrok_9_Selfpres_Default"
 msgid "What the…"
-msgstr ""
+msgstr "이런 ㅅ.…"
 
 msgctxt "Narration/&CradleOfFire_TribesUnite_1_Authority_Default"
 msgid "Brok!"
-msgstr ""
+msgstr "브록!"
 
+#, fuzzy
 msgctxt "Narration/&CradleOfFire_TribesUnite_2_Authority_Default"
 msgid "Where are the guards?"
-msgstr ""
+msgstr "보초는 어디 갔지?"
 
 msgctxt "Narration/&CradleOfFire_TribesUnite_3_Brok_NPC"
 msgid "Surrendered."
-msgstr ""
+msgstr "항복했다."
 
 msgctxt "Narration/&CradleOfFire_TribesUnite_4_Default_Default"
 msgid "What?"
-msgstr ""
+msgstr "뭐?"
 
+#, fuzzy
 msgctxt "Narration/&CradleOfFire_TribesUnite_5_Brok_NPC"
 msgid "So afraid of Arrok, they joined us already."
-msgstr ""
+msgstr "아록이 너무 무서워서, 그들은 이미 우리 쪽에 붙었지."
 
+#, fuzzy
 msgctxt "Narration/&CradleOfFire_TribesUnite_6_Cynical_Default"
 msgid "No big speech, then?"
-msgstr ""
+msgstr "그럼 멋진 연설은 없는 건가?"
 
 msgctxt "Narration/&CradleOfFire_TribesUnite_7_Brok_NPC"
 msgid "No, but door still closed."
-msgstr ""
+msgstr "없다. 하지만 문은 여전히 잠겨 있지."
 
 msgctxt "Narration/&CradleOfFire_TribesUnite_8_Crownbearer_Default"
 msgid "Do you see that?"
-msgstr ""
+msgstr "저거 보여?"
 
 msgctxt "Narration/&CradleOfFire_TribesUnite_9_Cynical_Default"
 msgid "The door?"
-msgstr ""
+msgstr "저 문?"
 
 msgctxt "Narration/&CradleOfFire_TribesUnite_10_Crownbearer_Default"
 msgid "No, there is a… power."
 msgstr ""
 
+#, fuzzy
 msgctxt "Narration/&CradleOfFire_TribesUnite_11_Crownbearer_Default"
 msgid "I think, though… with the Crown… we might be able to enter."
-msgstr ""
+msgstr "내 생각에는... 왕관이 있으면.. 저기 들어갈 수 있을 것 같아."
 
 msgctxt "Narration/&CradleOfFire_TribesUnite_12_Selfpres_Default"
 msgid "It's a trap. Arrok wants us in there alone."
-msgstr ""
+msgstr "함정이야. 아록은 우리가 혼자 들어오길 원하는 거야."
 
+#, fuzzy
 msgctxt "Narration/&CradleOfFire_TribesUnite_13_Pragmatic_Default"
 msgid "Do we have a choice?"
-msgstr ""
+msgstr "그래서 선택기가 있어?"
 
 msgctxt "Narration/&CradleOfFire_TribesUnite_14_Default_Default"
 msgid "There's always the Necropolis."
@@ -22868,15 +22879,17 @@ msgstr ""
 
 msgctxt "Narration/&CradleOfFire_ArrokDefeated_1_Nosy_Default"
 msgid "Is that gem more powerful than the others?"
-msgstr ""
+msgstr "저 보석이 다른 것보다 강력하다고?"
 
+#, fuzzy
 msgctxt "Narration/&CradleOfFire_ArrokDefeated_2_Arcane_Default"
 msgid "Orc shamans wield a very peculiar type of magic…"
-msgstr ""
+msgstr "오크 주술사들은 매우 특이한 종류의 마법을 부리지…"
 
+#, fuzzy
 msgctxt "Narration/&CradleOfFire_ArrokDefeated_3_Arcane_Default"
 msgid "…the gem must have been some sort of catalyst."
-msgstr ""
+msgstr "...저 보석은 일종의 촉매였던 게 분명해."
 
 msgctxt "Narration/&CradleOfFire_ArrokDefeated_4_Pragmatic_Default"
 msgid "Well, we have it now. Let's move before this place blows up!"
