@@ -47,15 +47,11 @@ def update(filename, langcode):
     translation_path = os.path.join(TRANSLATION_DIRECTORY, langcode, po_name)
     merge(template_data, translation_path)
 
-    machine_translation_path = os.path.join(TRANSLATION_DIRECTORY, langcode + MACHINETRANSLATION_SUFFIX, po_name)
-    merge(template_data, machine_translation_path)
-
 
 def main():
     langcode = "ko"
 
     os.makedirs(os.path.join(TRANSLATION_DIRECTORY, langcode), exist_ok=True)
-    os.makedirs(os.path.join(TRANSLATION_DIRECTORY, langcode + MACHINETRANSLATION_SUFFIX), exist_ok=True)
 
     for filename in os.listdir(TEMPLATE_DIRECTORY):
         if not filename.endswith("csv"):
