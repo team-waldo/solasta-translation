@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-10-19 03:48+0000\n"
+"PO-Revision-Date: 2021-10-21 12:29+0000\n"
 "Last-Translator: Jin <byungjinjun55@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/gadget/ko/>"
 "\n"
@@ -194,19 +194,21 @@ msgctxt "Gadget/&ParameterSpeechTitle"
 msgid "Speech"
 msgstr ""
 
+#, fuzzy
 msgctxt "Gadget/&ParameterEncounterGroupTitle"
 msgid "Encounter Group"
-msgstr ""
+msgstr "인카운터 그룹"
 
+#, fuzzy
 msgctxt "Gadget/&ParameterGroupIndexTitle"
 msgid "Group Index"
-msgstr ""
+msgstr "적 그룹 번호"
 
 msgctxt "Gadget/&ParameterExplicitItemsDescription"
 msgid ""
 "Determines whether the content will be a predefined loot pack, or an "
 "explicit list of items"
-msgstr "내용물이 미리 세팅된 전리품 꾸러미인지 아니면 특정한 아이템인지 결정합니다."
+msgstr "내용물이 미리 세팅된 전리품 꾸러미인지 아니면 특정한 아이템인지 결정합니다"
 
 msgctxt "Gadget/&ParameterLootPackDescription"
 msgid "A predefined list of items, some of which will be rolled randomly"
@@ -268,17 +270,19 @@ msgctxt "Gadget/&ParameterSpeechDescription"
 msgid "The text that is displayed when interacting with this gadget"
 msgstr "이 장치와 상호작용할 때 표시되는 문구입니다"
 
+#, fuzzy
 msgctxt "Gadget/&ParameterEncounterGroupDescription"
 msgid ""
 "Check this to make the spawned creature part of an encounter group, "
 "triggering battles together"
-msgstr ""
+msgstr "소환된 크리쳐를 인카운터 그룹에 소속시켜, 그룹 전체에 전투가 함께 발생하게 하려면 체크하십시오"
 
+#, fuzzy
 msgctxt "Gadget/&ParameterGroupIndexDescription"
 msgid ""
 "Creatures with an identical group index (any number you chose) will belong "
 "to the same encounter group"
-msgstr ""
+msgstr "동일한 그룹 번호를 부여받은 크리쳐들은 같은 인카운터 그룹에 속합니다"
 
 msgctxt "Gadget/&ParameterSavingThrowDCTitle"
 msgid "Saving Throw DC"
@@ -307,7 +311,7 @@ msgstr "매달려 있는 샹들리에입니다. 피해를 받아 떨어지면 �
 #, fuzzy
 msgctxt "Gadget/&GrateTitle"
 msgid "Grate"
-msgstr "격자 창문"
+msgstr "격자문"
 
 #, fuzzy
 msgctxt "Gadget/&GrateDescription"
@@ -418,7 +422,7 @@ msgstr "작업"
 
 msgctxt "Gadget/&ParameterOperationDescription"
 msgid "The type of operation performed on the target gadgets"
-msgstr "대상 장치세 수행되는 작업의 유형입니다"
+msgstr "대상 장치에 수행되는 작업의 유형입니다"
 
 msgctxt "Gadget/&ParameterOperationActivateTitle"
 msgid "Activate"
@@ -473,27 +477,30 @@ msgid ""
 "a timed activator)"
 msgstr "작동 혹은 해제 시킵니다 (예: 시한 활성화 장치를 작동 및 해제시키는 버튼)"
 
+#, fuzzy
 msgctxt "Gadget/&LavaBulbTitle"
 msgid "Lava Bulb"
-msgstr ""
+msgstr "용암뿌리"
 
+#, fuzzy
 msgctxt "Gadget/&MechanismTitle"
 msgid "Mechanism"
-msgstr ""
+msgstr "작동 구조"
 
 msgctxt "Gadget/&TorchPikeTitle"
 msgid "Torch Pike"
 msgstr "기둥형 횃불"
 
+#, fuzzy
 msgctxt "Gadget/&ParameterParam_HardLockedTitle"
 msgid "Hard Locked"
-msgstr ""
+msgstr "굳게 잠김"
 
 msgctxt "Gadget/&ParameterParam_HardLockedDescription"
 msgid ""
 "This gadget cannot be opened by normal means, an remote activator is "
 "required to open it"
-msgstr ""
+msgstr "이 장치는 일반적인 수단으로는 열수 없고, 원격 활성화 장치로만 열 수 있습니다"
 
 msgctxt "Gadget/&ParameterParam_DefaultAsLitTitle"
 msgid "Lit"
@@ -531,109 +538,110 @@ msgstr "해당 위치에 초거대 크리쳐를 생성"
 
 msgctxt "Gadget/&ParameterAutoSpawnTitle"
 msgid "Auto Spawn"
-msgstr ""
+msgstr "자동 소환"
 
 msgctxt "Gadget/&ParameterAutoSpawnDescription"
 msgid ""
 "When this option is off, spawning the monster requires a remote activator, "
 "instead of the proximity of heroes"
-msgstr ""
+msgstr "이 옵션이 꺼져 있으면 영웅이 접근하는 것과 상관 없이 원격 활성화 장치에 의해서만 몬스터가 소환됩니다"
 
+#, fuzzy
 msgctxt "Gadget/&ParameterLoreFormatTitle"
 msgid "Lore Format"
-msgstr ""
+msgstr "스토리 형식"
 
 msgctxt "Gadget/&ParameterLoreFormatDescription"
 msgid "The form in which lore information is presented to the user"
-msgstr ""
+msgstr "스토리 정보가 유저에게 보이는 형태입니다"
 
 msgctxt "Gadget/&ParameterLoreFormatMainCharacterTitle"
 msgid "Main Character"
-msgstr ""
+msgstr "주요 캐릭터"
 
 msgctxt "Gadget/&ParameterLoreFormatMainCharacterDescription"
 msgid ""
 "The content is displayed as banter over the head of the first conscious "
 "character in the party"
-msgstr ""
+msgstr "컨텐츠가 의식이 있는 첫번째 파티원의 머리 위에 잡담으로 표시됩니다"
 
 msgctxt "Gadget/&ParameterLoreFormatRandomCharacterTitle"
 msgid "Random Character"
-msgstr ""
+msgstr "임의의 캐릭터"
 
 msgctxt "Gadget/&ParameterLoreFormatRandomCharacterDescription"
 msgid ""
 "The content is displayed as banter over the head of a random conscious party "
 "member and disappears after the duration"
-msgstr ""
+msgstr "컨텐츠가 의식이 있는 임의의 파티원의 머리 위에 잡담으로 표시되고 잠시 후에 사라집니다"
 
 msgctxt "Gadget/&ParameterLoreFormatGadgetFeedbackTitle"
 msgid "Gadget Feedback"
-msgstr ""
+msgstr "장치 피드백"
 
 msgctxt "Gadget/&ParameterLoreFormatGadgetFeedbackDescription"
 msgid "The content is displayed at the triggering gadget's position"
-msgstr ""
+msgstr "컨텐츠가 작동된 장치 위치에 표시됩니다"
 
 msgctxt "Gadget/&ParameterLoreFormatTopHeaderTitle"
 msgid "Top Header"
-msgstr ""
+msgstr "화면 상단"
 
 msgctxt "Gadget/&ParameterLoreFormatTopHeaderDescription"
 msgid ""
 "The content appears at the top of the screen in large-character font and "
 "disappears after the duration"
-msgstr ""
+msgstr "컨텐츠가 대형 캐릭터 폰트로 화면 상단에 나타나고 잠시 후에 사라집니다"
 
 msgctxt "Gadget/&ParameterLoreFormatTimedPanelTitle"
 msgid "Timed Panel"
-msgstr ""
+msgstr "시한 패널"
 
 msgctxt "Gadget/&ParameterLoreFormatTimedPanelDescription"
 msgid ""
 "The content is displayed on a panel at the bottom of the screen and "
 "disappears after the duration"
-msgstr ""
+msgstr "컨텐츠가 화면 하단의 패널에 표시되고 잠시 후에 사라집니다"
 
 msgctxt "Gadget/&ParameterLoreFormatModalPanelTitle"
 msgid "Modal Panel"
-msgstr ""
+msgstr "시스템 패널"
 
 msgctxt "Gadget/&ParameterLoreFormatModalPanelDescription"
 msgid ""
 "The content is displayed on a panel in the center of the screen, which "
 "remains visible until the user has acknowledged it"
-msgstr ""
+msgstr "컨텐츠가 화면 중앙의 패널에 표시되고 유저가 확인할 때까지 남아있습니다"
 
 msgctxt "Gadget/&PushBlockTitle"
 msgid "Pushable Block"
-msgstr ""
+msgstr "밀 수 있는 블록"
 
 msgctxt "Gadget/&PushBlockDescription"
 msgid "A block that can be pushed one cell by a character"
-msgstr ""
+msgstr "캐릭터가 한 칸 밀 수 있는 블록입니다"
 
 msgctxt "Gadget/&FallingStalactiteTitle"
 msgid "Falling Stalactite"
-msgstr ""
+msgstr "떨어지는 종유석"
 
 msgctxt "Gadget/&FallingStalactiteDescription"
 msgid "A hanging stalactite that can be damaged and cause fall damage"
-msgstr ""
+msgstr "매달려 있는 종유석입니다. 피해를 받아 떨어지면 낙하 피해를 입힙니다"
 
 msgctxt "Gadget/&ParameterParam_DisplayOnceTitle"
 msgid "Display Once"
-msgstr ""
+msgstr "한 번만 표시"
 
 msgctxt "Gadget/&ParameterParam_DisplayOnceDescription"
 msgid ""
 "If this option is checked, the lore information is displayed only once when "
 "the gadget is triggered"
-msgstr ""
+msgstr "이 옵션이 체크되어 있으면 장치가 작동될 때 한 번만 스토리 정보가 표시됩니다"
 
 msgctxt "Gadget/&ActivatorEntryTitle"
 msgid "Entry Activator"
-msgstr ""
+msgstr "입장 활성화 장치"
 
 msgctxt "Gadget/&ActivatorEntryDescription"
 msgid ""
@@ -641,20 +649,22 @@ msgid ""
 "gadget does not react to character positions or interactions, it can be "
 "placed anywhere in a room"
 msgstr ""
+"지역에 입장했을 때 작동되는 활성화 장치입니다. 장치가 캐릭터의 위치나 상호작용에 반응하지 않기 때문에 방 아무 곳에나 위치시킬 수 "
+"있습니다"
 
 msgctxt "Gadget/&ParameterParam_EntryOnceTitle"
 msgid "Entry Once"
-msgstr ""
+msgstr "첫번째 입장"
 
 msgctxt "Gadget/&ParameterParam_EntryOnceDescription"
 msgid ""
 "If this option is checked, the lore information is displayed only once when "
 "the gadget is triggered"
-msgstr ""
+msgstr "이 옵션이 체크되어 있으면 장치가 작동될 때 한 번만 스토리 정보가 표시됩니다"
 
 msgctxt "Gadget/&LoreActivatedTitle"
 msgid "Activated Lore"
-msgstr ""
+msgstr "활성화된 스토리 정보"
 
 msgctxt "Gadget/&LoreActivatedDescription"
 msgid ""
@@ -662,14 +672,16 @@ msgid ""
 "Entry Activator). It can be placed in any free space as it is invisible and "
 "non-interactive"
 msgstr ""
+"이 장치는 활성화 장치(입장 활성화 장치)에 의해 작동되었을 때 스토리 정보를 표시합니다. 이 장치는 보이지 않고 상호작용이 불가능하기 "
+"때문에 빈 공간 어디에나 위치시킬 수 있습니다"
 
 msgctxt "Gadget/&ParameterParam_DefaultAsActivatedTitle"
 msgid "Activated"
-msgstr ""
+msgstr "활성화됨"
 
 msgctxt "Gadget/&ParameterParam_DefaultAsActivatedDescription"
 msgid "Determines if this activator is activated by default"
-msgstr ""
+msgstr "이 활성화 장치가 기본적으로 활성화 상태인지 결정합니다"
 
 msgctxt "Gadget/&ParameterKeyItemTitle"
 msgid "Key Item"
@@ -679,44 +691,46 @@ msgctxt "Gadget/&ParameterKeyItemDescription"
 msgid "The object is opened automatically if the party is carrying this item"
 msgstr "파티가 아래 아이템을 들고 있으면 이 개체가 자동으로 열립니다"
 
+#, fuzzy
 msgctxt "Gadget/&FoliageTitle"
 msgid "Foliage"
-msgstr ""
+msgstr "덩굴"
 
+#, fuzzy
 msgctxt "Gadget/&FoliageDescription"
 msgid "A destructible foliage that blocks the way"
-msgstr ""
+msgstr "통로를 막고 있는 파괴가능한 덩굴"
 
 msgctxt "Gadget/&FallingTrunkTitle"
 msgid "Falling Trunk"
-msgstr ""
+msgstr "떨어지는 줄기"
 
 msgctxt "Gadget/&FallingTrunkDescription"
 msgid "A trunk of tree that can be pushed forward"
-msgstr ""
+msgstr "앞으로 밀 수 있는 나무의 줄기"
 
 msgctxt "Gadget/&PoisonBulbTitle"
 msgid "Poison Bulb"
-msgstr ""
+msgstr "독뿌리"
 
 msgctxt "Gadget/&PoisonBulbDescription"
 msgid ""
 "A strange flower that will explode when damaged or when a player approach it."
-msgstr ""
+msgstr "피해를 입거나 플레이어가 접근하면 폭발하는 이상한 꽃입니다."
 
 msgctxt "Gadget/&LavaBulbDescription"
 msgid ""
 "A strange flower that will explode in flames when damaged or when a player "
 "approach it."
-msgstr ""
+msgstr "피해를 입거나 플레이어가 접근하면 화염을 뿜으며 폭발하는 이상한 꽃입니다."
 
 msgctxt "Gadget/&GrateDoorTitle"
 msgid "Metallic door"
-msgstr ""
+msgstr "금속 문"
 
 msgctxt "Gadget/&GrateDoorDescription"
 msgid "A simple metallic door"
-msgstr ""
+msgstr "평범한 금속 문입니다"
 
 msgctxt "Gadget/&ParameterAdditionalLootTitle"
 msgid "Additional Loot"

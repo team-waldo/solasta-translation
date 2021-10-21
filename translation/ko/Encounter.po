@@ -3,13 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-10-21 12:29+0000\n"
+"Last-Translator: Jin <byungjinjun55@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/encounter/"
+"ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.4.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "Encounter/&Abjuration_Caravan_EncounterDescription"
 msgid "You came across a caravan, a rare thing in these desolate lands."
@@ -82,7 +85,7 @@ msgstr "독수리 둥지"
 
 msgctxt "Encounter/&FlyingSnakesEncounterDescription"
 msgid "A bevy of flying snakes who want you away from their eggs."
-msgstr "둥지에 접근하는 사람들을 떼어놓으려는 날개달린 뱀 무리."
+msgstr "둥지에 접근하는 사람들을 떼어놓으려는 날개달린 뱀 무리입니다."
 
 msgctxt "Encounter/&FlyingSnakesEncounterTitle"
 msgid "Brimstone Vipers"
@@ -90,7 +93,7 @@ msgstr "유황 독사떼"
 
 msgctxt "Encounter/&GoblinCrusadersDescription"
 msgid "A goblin shaman and his followers in search of glory."
-msgstr "영광을 쫓는 고블린 주술사와 추종자들."
+msgstr "영광을 쫓는 고블린 주술사와 추종자들입니다."
 
 msgctxt "Encounter/&GoblinCrusadersTitle"
 msgid "Goblin Crusade"
@@ -98,7 +101,7 @@ msgstr "고블린 성전"
 
 msgctxt "Encounter/&GoblinhuntingpartyEncounterDescription"
 msgid "Goblins on the hunt with their tame wolves."
-msgstr "사냥 중인 고블린과 길들여진 늑대."
+msgstr "사냥 중인 고블린과 길들여진 늑대입니다."
 
 msgctxt "Encounter/&GoblinhuntingpartyEncounterTitle"
 msgid "Goblin Hunting Party"
@@ -106,7 +109,7 @@ msgstr "사냥꾼 고블린 무리"
 
 msgctxt "Encounter/&GoblinWarPartyDescription"
 msgid "A band of goblin skirmishers looking for trouble."
-msgstr "순찰하는 고블린 척후병 무리."
+msgstr "순찰하는 고블린 척후병 무리입니다."
 
 msgctxt "Encounter/&GoblinWarPartyTitle"
 msgid "Goblin War Party"
@@ -119,7 +122,7 @@ msgstr "오크 약탈자"
 msgctxt "Encounter/&OrcRaidersDescription"
 msgid ""
 "An orc chieftain leading a band of warriors in search of scars and glory."
-msgstr "영광과 고통에 목마른 전사들을 이끄는 오크 족장."
+msgstr "영광과 고통에 목마른 전사들을 이끄는 오크 족장입니다."
 
 msgctxt "Encounter/&OrcRaidersTitle"
 msgid "Orc Raiders"
@@ -127,7 +130,7 @@ msgstr "오크 돌격대"
 
 msgctxt "Encounter/&WinterWolfpackEncounterDescription"
 msgid "A terrible winter wolf, on the hunt with a few normal wolves."
-msgstr "평범한 늑대 몇 마리와 사냥을 하고 있는 끔찍한 겨울 늑대."
+msgstr "평범한 늑대 몇 마리와 사냥을 하고 있는 끔찍한 겨울 늑대입니다."
 
 msgctxt "Encounter/&WinterWolfpackEncounterTitle"
 msgid "Winter Wolf and Pack"
@@ -135,7 +138,7 @@ msgstr "겨울 늑대 무리"
 
 msgctxt "Encounter/&WolfpackEncounterDescription"
 msgid "A pack of ravenous wolves, desperate for a kill."
-msgstr "먹잇감을 찾아 헤매는 굶주린 늑대 무리."
+msgstr "먹잇감을 찾아 헤매는 굶주린 늑대 무리입니다."
 
 msgctxt "Encounter/&WolfpackEncounterTitle"
 msgid "Wolf Pack"
@@ -143,7 +146,7 @@ msgstr "늑대 무리"
 
 msgctxt "Encounter/&DeepSpidersEncounterDescription"
 msgid "A huge party of deep spiders looking to feed their spiderlings."
-msgstr "새끼거미들의 먹잇감을 찾고있는 거대한 동굴 거미 무리."
+msgstr "새끼거미들의 먹잇감을 찾고있는 거대한 동굴 거미 무리입니다."
 
 msgctxt "Encounter/&DeathGangTitle"
 msgid "Death Gang"
@@ -151,7 +154,7 @@ msgstr "죽은 자들의 무리"
 
 msgctxt "Encounter/&DeathGangDescription"
 msgid "Roaming skeletons, escaped from some desecrated tomb."
-msgstr "더럽혀진 묘지에서 탈출해 배회하는 스켈레톤 무리."
+msgstr "더럽혀진 묘지에서 탈출해 배회하는 스켈레톤 무리입니다."
 
 msgctxt "Encounter/&DeathSquadTitle"
 msgid "Death Squad"
@@ -163,7 +166,7 @@ msgstr "떠돌이 광신도"
 
 msgctxt "Encounter/&RoamingFanaticsDescription"
 msgid "A couple of acolytes led by a charismatic leader."
-msgstr "지도력 있는 리더가 이끄는 이교도 무리."
+msgstr "지도력 있는 리더가 이끄는 이교도 무리입니다."
 
 msgctxt "Encounter/&ApprenticeNecromancerTitle"
 msgid "Apprentice Necromancer"
@@ -171,7 +174,7 @@ msgstr "견습 네크로맨서"
 
 msgctxt "Encounter/&ApprenticeNecromancerDescription"
 msgid "A student of magic with a bunch of his rotting creations."
-msgstr "마법 견습생과 그의 부패한 창조물."
+msgstr "마법 견습생과 그의 부패한 창조물입니다."
 
 msgctxt "Encounter/&SpiesOnTheRunTitle"
 msgid "Spies on the Run"
@@ -179,7 +182,7 @@ msgstr "도주 중인 첩자들"
 
 msgctxt "Encounter/&SpiesOnTheRunDescription"
 msgid "A couple of spies trying to escape enemy intelligence… at all costs."
-msgstr "수단, 방법을 가리지 않고 적의 정보망을 피하려는 첩자 무리."
+msgstr "수단, 방법을 가리지 않고 적의 정보망을 피하려는 첩자 무리입니다."
 
 msgctxt "Encounter/&GlorySeekerTitle"
 msgid "Glory Seeker"
@@ -188,7 +191,7 @@ msgstr "영광을 좇는 자"
 msgctxt "Encounter/&GlorySeekerDescription"
 msgid ""
 "A veteran soldier roaming the roads in search for death on the battlefield."
-msgstr "전장에서 죽음을 찾아 배회하는 베테랑 병사."
+msgstr "전장에서 죽음을 찾아 배회하는 베테랑 병사입니다."
 
 msgctxt "Encounter/&BerserkerBrothersTitle"
 msgid "Berserker Brothers"
@@ -196,7 +199,7 @@ msgstr "광전사 형제단"
 
 msgctxt "Encounter/&BerserkerBrothersDescription"
 msgid "Like-minded fighters in search for blood. Preferably yours."
-msgstr "적의 피를 갈구하는 욕망으로 뭉친 파이터들."
+msgstr "적의 피를 갈구하는 욕망으로 뭉친 파이터들입니다."
 
 msgctxt "Encounter/&StainedHunterTitle"
 msgid "Stained Hunter"
@@ -205,7 +208,7 @@ msgstr "더럽혀진 사냥꾼"
 msgctxt "Encounter/&StainedHunterDescription"
 msgid ""
 "A lonely wanderer of the Badlands who's been corrupted by chaotic magic."
-msgstr "혼돈의 마법에 오염된 황무지의 외로운 방랑자."
+msgstr "혼돈의 마법에 오염된 황무지의 외로운 방랑자입니다."
 
 msgctxt "Encounter/&HungryWolvesTitle"
 msgid "Hungry Wolves"
@@ -213,7 +216,7 @@ msgstr "굶주린 늑대"
 
 msgctxt "Encounter/&HungryWolvesDescription"
 msgid "A small pack of wolves, famished and weakened."
-msgstr "굶주리고 약해진 작은 늑대 무리."
+msgstr "굶주리고 약해진 작은 늑대 무리입니다."
 
 msgctxt "Encounter/&GoblinScoutsTitle"
 msgid "Goblin Scouts"
@@ -221,7 +224,7 @@ msgstr "고블린 정찰병"
 
 msgctxt "Encounter/&GoblinScoutsDescription"
 msgid "A small group of goblins with their pet wolf."
-msgstr "늑대와 함께 있는 작은 고블린 무리."
+msgstr "늑대와 함께 있는 작은 고블린 무리입니다."
 
 msgctxt "Encounter/&LoneOgreTitle"
 msgid "Lone Ogre"
@@ -231,7 +234,7 @@ msgctxt "Encounter/&LoneOgreDescription"
 msgid ""
 "A wandering ogre, probably lost and definitely looking for something - or "
 "someone - to eat."
-msgstr "길을 잃고 배를 채울 무언가-또는 누군가-를 찾고 있을 방황하는 오우거."
+msgstr "길을 잃고 배를 채울 무언가-또는 누군가-를 찾고 있을 방황하는 오우거입니다."
 
 msgctxt "Encounter/&OrcBandTitle"
 msgid "Orc Band"
@@ -239,7 +242,7 @@ msgstr "오크 병단"
 
 msgctxt "Encounter/&OrcBandDescription"
 msgid "A small bunch of orcs, looking for something to kill."
-msgstr "무언가를 죽이고 싶어하는 작은 오크 무리."
+msgstr "무언가를 죽이고 싶어하는 작은 오크 무리입니다."
 
 msgctxt "Encounter/&RoamingUndeadsTitle"
 msgid "Roaming Undeads"
@@ -255,7 +258,7 @@ msgstr "사악한 전도자"
 
 msgctxt "Encounter/&EvilEvangelistsDescription"
 msgid "A cleric and his goons, roaming the land to spread their evil cult."
-msgstr "사악한 신앙을 퍼뜨리기 위해 이 땅을 배회하는 성직자와 숭배자들."
+msgstr "사악한 신앙을 퍼뜨리기 위해 이 땅을 배회하는 성직자와 숭배자들입니다."
 
 msgctxt "Encounter/&GhoulCoupleTitle"
 msgid "Ghouls"
@@ -263,7 +266,7 @@ msgstr "구울"
 
 msgctxt "Encounter/&GhoulCoupleDescription"
 msgid "A band of ghouls with wicked hunger."
-msgstr "끔찍한 굶주림에 시달리는 구울 떼거리."
+msgstr "끔찍한 굶주림에 시달리는 구울 떼거리입니다."
 
 msgctxt "Encounter/&GiantEaglesTitle"
 msgid "Giant Eagles"
@@ -271,7 +274,7 @@ msgstr "거대 독수리들"
 
 msgctxt "Encounter/&GiantEaglesDescription"
 msgid "A couple of giant eagles that seem threatened by your presence."
-msgstr "당신의 등장을 위협으로 인식하는것 같은 두 마리의 거대한 독수리."
+msgstr "당신의 등장을 위협으로 인식하는것 같은 두 마리의 거대한 독수리입니다."
 
 msgctxt "Encounter/&WolfSquadTitle"
 msgid "Goblin Wolfsquad"
@@ -279,7 +282,7 @@ msgstr "고블린 늑대기수 분대"
 
 msgctxt "Encounter/&WolfSquadDescription"
 msgid "A group of goblins led by a beastmaster and his dire wolf."
-msgstr "비스트마스터와 그의 다이어 울프가 이끄는 고블린 무리."
+msgstr "비스트마스터와 그의 다이어 울프가 이끄는 고블린 무리입니다."
 
 msgctxt "Encounter/&EscapedMinotaurTitle"
 msgid "Escaped Minotaur"
@@ -296,7 +299,7 @@ msgstr "와이트"
 
 msgctxt "Encounter/&LoneWightDescription"
 msgid "A lone wight wandering in search of someone to kill."
-msgstr "희생자를 찾아 헤매는 고독한 와이트."
+msgstr "희생자를 찾아 헤매는 고독한 와이트입니다."
 
 msgctxt "Encounter/&ScoutingPartyTitle"
 msgid "Scout and Wolf"
@@ -304,7 +307,7 @@ msgstr "정찰병과 늑대"
 
 msgctxt "Encounter/&ScoutingPartyDescription"
 msgid "A sneaky scout and his wolf pet."
-msgstr "교활한 정찰병과 그의 늑대."
+msgstr "교활한 정찰병과 그의 늑대입니다."
 
 msgctxt "Encounter/&DireWolfPackTitle"
 msgid "Dire Wolf Pack"
@@ -312,7 +315,7 @@ msgstr "다이어 울프 무리"
 
 msgctxt "Encounter/&DireWolfPackDescription"
 msgid "A Dire Wolf and his pack of regular hunters."
-msgstr "다이어 울프와 그의 사냥조 무리."
+msgstr "다이어 울프와 그의 사냥조 무리입니다."
 
 msgctxt "Encounter/&DireWolfPack2Title"
 msgid "Dire Wolves"
@@ -320,7 +323,7 @@ msgstr "다이어 울프"
 
 msgctxt "Encounter/&DireWolfPack2Description"
 msgid "A pack of dire wolves."
-msgstr "다이어 울프 무리."
+msgstr "다이어 울프 무리입니다."
 
 msgctxt "Encounter/&FanaticDuoTitle"
 msgid "Fanatic Duo"
@@ -328,7 +331,7 @@ msgstr "한 쌍의 광신도"
 
 msgctxt "Encounter/&FanaticDuoDescription"
 msgid "A couple of fanatics on their way to a brutal pilgrimage."
-msgstr "잔인한 순례를 떠나는 광신도 부부."
+msgstr "잔인한 순례를 떠나는 광신도 부부입니다."
 
 msgctxt "Encounter/&MisayeEvangelistsTitle"
 msgid "Misaye Evangelists"
@@ -346,7 +349,7 @@ msgstr "오우거 좀비"
 
 msgctxt "Encounter/&OgreZombiesDescription"
 msgid "A group of dead ogres made into worse versions of their former selves."
-msgstr "예전 모습보다 더욱 끔찍하게 변한 죽은 오우거 무리."
+msgstr "예전 모습보다 더욱 끔찍하게 변한 죽은 오우거 무리입니다."
 
 msgctxt "Encounter/&OrcPartyTitle"
 msgid "Orc War Party"
@@ -354,7 +357,7 @@ msgstr "오크 전쟁 파티"
 
 msgctxt "Encounter/&OrcPartyDescription"
 msgid "A bunch of orcs looking for scars and glory."
-msgstr "전투의 유혈과 영광을 찾는 오크 무리."
+msgstr "전투의 유혈과 영광을 찾는 오크 무리입니다."
 
 msgctxt "Encounter/&WightEscortTitle"
 msgid "Wight Squad"
@@ -362,7 +365,7 @@ msgstr "와이트 분대"
 
 msgctxt "Encounter/&WightEscortDescription"
 msgid "A wight and his soldiers on a hunt for the living."
-msgstr "생존자를 사냥하는 와이트와 그의 병사들."
+msgstr "생존자를 사냥하는 와이트와 그의 병사들입니다."
 
 msgctxt "Encounter/&BeastmasterTitle"
 msgid "Ragged Beastmaster"
@@ -370,7 +373,7 @@ msgstr "누더기 야수조련사"
 
 msgctxt "Encounter/&BeastmasterDescription"
 msgid "A crazed man and his starving wolf companions."
-msgstr "미친 남자와 그의 굶주린 늑대들."
+msgstr "미친 남자와 그의 굶주린 늑대들입니다."
 
 msgctxt "Encounter/&GhastsTitle"
 msgid "Ghasts"
@@ -378,7 +381,7 @@ msgstr "가스트"
 
 msgctxt "Encounter/&GhastsDescription"
 msgid "A band of ghasts looking for souls to reap and bodies to devour."
-msgstr "수집할 영혼과 탐식할 육체를 찾는 가스트 무리."
+msgstr "수집할 영혼과 탐식할 육체를 찾는 가스트 무리입니다."
 
 msgctxt "Encounter/&GhoulPackTitle"
 msgid "Ghoul Pack"
@@ -386,7 +389,7 @@ msgstr "구울 무리"
 
 msgctxt "Encounter/&GhoulPackDescription"
 msgid "A ghast and his ghouls looking for souls to reap and bodies to devour."
-msgstr "가스트와 그의 구울들은 수집할 영혼과 탐식할 육체를 찾고있습니다."
+msgstr "가스트와 그의 구울들은 수집할 영혼과 탐식할 육체를 찾고 있습니다."
 
 msgctxt "Encounter/&WolfShamanTitle"
 msgid "Wolf Shaman"
@@ -394,7 +397,7 @@ msgstr "늑대 주술사"
 
 msgctxt "Encounter/&WolfShamanDescription"
 msgid "A goblin shaman and his pet dire wolf."
-msgstr "고블린 주술사와 그의 다이어 울프."
+msgstr "고블린 주술사와 그의 다이어 울프입니다."
 
 msgctxt "Encounter/&OgreBandTitle"
 msgid "Ogre Band"
@@ -402,7 +405,7 @@ msgstr "오우거 병단"
 
 msgctxt "Encounter/&OgreBandDescription"
 msgid "A group of angry ogres."
-msgstr "화난 오우거 무리."
+msgstr "화난 오우거 무리입니다."
 
 msgctxt "Encounter/&LeatherskinsTitle"
 msgid "Leatherskins"
@@ -410,7 +413,7 @@ msgstr "살가죽단"
 
 msgctxt "Encounter/&LeatherskinsDescription"
 msgid "A heteroclite party of goblins accompanied by a dire wolf and an ogre."
-msgstr "다이어 울프와 오우거가 동행하는 고블린의 이종족 무리."
+msgstr "다이어 울프, 오우거와 고블린이 섞인 이종족 무리입니다."
 
 msgctxt "Encounter/&CultFanaticsTitle"
 msgid "Cult Fanatics"
@@ -420,7 +423,7 @@ msgctxt "Encounter/&CultFanaticsDescription"
 msgid ""
 "A band of crazed fanatics who believe in swords more than they believe in "
 "words."
-msgstr "대화보다 칼을 더 믿는 미친 광신도 무리."
+msgstr "대화보다 칼을 더 믿는 미친 광신도 무리입니다."
 
 msgctxt "Encounter/&WinterWolfPackTitle"
 msgid "Winter Wolf pack"
@@ -428,7 +431,7 @@ msgstr "겨울늑대 무리"
 
 msgctxt "Encounter/&WinterWolfPackDescription"
 msgid "A pack led by a monstrous winter wolf."
-msgstr "괴물 같은 겨울 늑대가 이끄는 무리."
+msgstr "괴물 같은 겨울 늑대가 이끄는 무리입니다."
 
 msgctxt "Encounter/&ZombiePartyTitle"
 msgid "Zombies"
@@ -436,7 +439,7 @@ msgstr "좀비"
 
 msgctxt "Encounter/&ZombiePartyDescription"
 msgid "Simply put, a band of wandering zombies in search of living flesh."
-msgstr "간단히 말해서, 신선한 살점을 찾아 떠돌아다니는 좀비 무리."
+msgstr "간단히 말해서, 신선한 살점을 찾아 떠돌아다니는 좀비 무리입니다."
 
 msgctxt "Encounter/&SlaversTitle"
 msgid "Slavers"
@@ -444,7 +447,7 @@ msgstr "노예상"
 
 msgctxt "Encounter/&SlaversDescription"
 msgid "Fanatics looking for prey to enslave."
-msgstr "노예가 될 희생양을 찾는 광신도들."
+msgstr "노예가 될 희생양을 찾는 광신도들입니다."
 
 msgctxt "Encounter/&NecromancerTitle"
 msgid "Necromancer Squad"
@@ -452,7 +455,7 @@ msgstr "네크로맨서 분대"
 
 msgctxt "Encounter/&NecromancerDescription"
 msgid "A necromancer and his creations on the warpath."
-msgstr "네크로맨서와 적의에 찬 그의 창조물들."
+msgstr "네크로맨서와 적의에 찬 그의 창조물들입니다."
 
 msgctxt "Encounter/&Leatherskins2Title"
 msgid "Leatherskins"
@@ -460,7 +463,7 @@ msgstr "살가죽단"
 
 msgctxt "Encounter/&Leatherskins2Description"
 msgid "A band of orcs led by an ogre."
-msgstr "오우거가 이끄는 오크 무리."
+msgstr "오우거가 이끄는 오크 무리입니다."
 
 msgctxt "Encounter/&FireNestTitle"
 msgid "Fire Nest"
@@ -468,7 +471,7 @@ msgstr "불의 둥지"
 
 msgctxt "Encounter/&FireNestDescription"
 msgid "A bunch of fire spiders wandering out of their zone of comfort."
-msgstr "자기들의 영역을 벗어나 방황하는 불거미 무리."
+msgstr "자기들의 영역을 벗어나 방황하는 불거미 무리입니다."
 
 msgctxt "Encounter/&WarlordTitle"
 msgid "Warlord"
@@ -476,7 +479,7 @@ msgstr "전쟁군주"
 
 msgctxt "Encounter/&WarlordDescription"
 msgid "A powerful warlord and his chaplain in search for a glorious battle."
-msgstr "영광스러운 전투를 좇는 군목과 강력한 전쟁군주."
+msgstr "영광스러운 전투를 좇는 강력한 전쟁군주와 그의 주술사입니다."
 
 msgctxt "Encounter/&ImperialsTitle"
 msgid "Imperial Outlaws"
@@ -486,7 +489,7 @@ msgctxt "Encounter/&ImperialsDescription"
 msgid ""
 "New Empire combatants who decided to take it upon themselves to apply the "
 "law of the Old Empire."
-msgstr "구제국의 법을 따르기를 택한 신제국 전투원들."
+msgstr "구제국의 법을 따르기를 택한 신제국 전투원들입니다."
 
 msgctxt "Encounter/&MinotaursTitle"
 msgid "Minotaurs"
@@ -494,7 +497,7 @@ msgstr "미노타우르스"
 
 msgctxt "Encounter/&MinotaursDescription"
 msgid "Wandering minotaurs looking for freedom and bloodshed."
-msgstr "자유와 혈투를 찾아 헤매는 미노타우르스."
+msgstr "자유와 혈투를 찾아 헤매는 미노타우르스입니다."
 
 msgctxt "Encounter/&ShadowPartyTitle"
 msgid "Shadow Party"
@@ -502,7 +505,7 @@ msgstr "그림자 파티"
 
 msgctxt "Encounter/&ShadowPartyDescription"
 msgid "A group of sneaky individuals with great skills and sharp blades."
-msgstr "탁월한 수완과 예리한 칼날을 지닌 비열한 집단."
+msgstr "탁월한 수완과 예리한 칼날을 지닌 비열한 집단입니다."
 
 msgctxt "Encounter/&FallenBeastmasterTitle"
 msgid "Stained Beastmaster"
@@ -512,7 +515,7 @@ msgctxt "Encounter/&FallenBeastmasterDescription"
 msgid ""
 "A ranger who's spent too much time in the Badlands, and became one more "
 "monster."
-msgstr "황무지에서 너무 오랜 시간을 보낸 탓에 또 다른 괴물이 되어버린 레인저."
+msgstr "황무지에서 너무 오랜 시간을 보낸 탓에 또 다른 괴물이 되어버린 레인저입니다."
 
 msgctxt "Encounter/&SharpshootersTitle"
 msgid "Sharpshooter Squad"
@@ -520,7 +523,7 @@ msgstr "명사수 분대"
 
 msgctxt "Encounter/&SharpshootersDescription"
 msgid "A band of deadly archers looking to hone their skills on live targets."
-msgstr "살아있는 목표물을 대상으로 기술을 연마하려는 치명적인 궁수 무리."
+msgstr "살아있는 목표물을 대상으로 기술을 연마하려는 치명적인 궁수 일당입니다."
 
 msgctxt "Encounter/&ApostatesTitle"
 msgid "Apostates"
@@ -530,7 +533,7 @@ msgctxt "Encounter/&ApostatesDescription"
 msgid ""
 "A band of crusaders whose faith has been lost after theirs were corrupted by "
 "evil magic."
-msgstr "사악한 마법으로 타락한 뒤 믿음을 잃은 크루세이더 무리."
+msgstr "사악한 마법으로 타락한 뒤 믿음을 잃은 크루세이더 일당입니다."
 
 msgctxt "Encounter/&OrcConquerorTitle"
 msgid "Orc Conquerors"
@@ -538,7 +541,7 @@ msgstr "오크 정복자"
 
 msgctxt "Encounter/&OrcConquerorDescription"
 msgid "Another party of orc warchiefs trying to become kings of the Badlands."
-msgstr "황무지의 왕이 되려는 오크 대족장 무리."
+msgstr "황무지의 왕이 되려는 오크 대족장 무리입니다."
 
 msgctxt "Encounter/&BattleMageTitle"
 msgid "Battle Mage"
@@ -546,7 +549,7 @@ msgstr "전투 마법사"
 
 msgctxt "Encounter/&BattleMageDescription"
 msgid "A powerful wizard and his escort, looking for foes to burn to ashes."
-msgstr "불태워 잿더미로 만들 적을 찾는 강력한 마법사와 그의 호위병들."
+msgstr "불태워 잿더미로 만들 적을 찾는 강력한 마법사와 그의 호위병들입니다."
 
 msgctxt "Encounter/&WarlordsTitle"
 msgid "Warmongers"
@@ -556,7 +559,7 @@ msgctxt "Encounter/&WarlordsDescription"
 msgid ""
 "Powerful Fighters looking for anything to kill to become even more "
 "experienced."
-msgstr "더욱 능숙해지기 위해 무엇이든 죽일 것을 찾는 강력한 파이터들."
+msgstr "더욱 능숙해지기 위해 무엇이든 죽일 것을 찾는 강력한 파이터들입니다."
 
 msgctxt "Encounter/&CultLeaderTitle"
 msgid "Cult Leader"
@@ -564,7 +567,7 @@ msgstr "사교도 지도자"
 
 msgctxt "Encounter/&CultLeaderDescription"
 msgid "A powerful cleric with his personal escort, on a murderous mission."
-msgstr "잔혹한 임무에 나선 강력한 클레릭과 개인 호위."
+msgstr "잔혹한 임무에 나선 강력한 클레릭과 개인 호위입니다."
 
 msgctxt "Encounter/&SpectralSpidersTitle"
 msgid "Spectral Spiders"
@@ -572,7 +575,7 @@ msgstr "영체 거미"
 
 msgctxt "Encounter/&SpectralSpidersDescription"
 msgid "A group of undead giant spiders."
-msgstr "거대 언데드 거미 무리."
+msgstr "거대 언데드 거미 무리입니다."
 
 msgctxt "Encounter/&PhaseSpiderTitle"
 msgid "Phase Spider"
@@ -580,7 +583,7 @@ msgstr "위상 거미"
 
 msgctxt "Encounter/&PhaseSpiderDescription"
 msgid "A huge, nasty, teleporting spider."
-msgstr "거대하고 험악한 순간이동하는 거미."
+msgstr "거대하고 험악한 순간이동하는 거미입니다."
 
 msgctxt "Encounter/&PhaseSpidersTitle"
 msgid "Phase Spiders"
@@ -588,7 +591,7 @@ msgstr "위상 거미"
 
 msgctxt "Encounter/&PhaseSpidersDescription"
 msgid "A bunch of huge, nasty, teleporting spiders."
-msgstr "거대하고 험악한 순간이동하는 거미 무리."
+msgstr "거대하고 험악한 순간이동하는 거미 무리입니다."
 
 msgctxt "Encounter/&SpectralHunterTitle"
 msgid "Spectral Hunter"
@@ -596,7 +599,7 @@ msgstr "영체 헌터"
 
 msgctxt "Encounter/&SpectralHunterDescription"
 msgid "An undead hunter and his undead pet wolf."
-msgstr "언데드 사냥꾼과 그의 언데드 애완 늑대."
+msgstr "언데드 사냥꾼과 그의 언데드 애완 늑대입니다."
 
 msgctxt "Encounter/&TigerDrakesTitle"
 msgid "Tiger Drakes"
@@ -604,7 +607,7 @@ msgstr "타이거 드레이크"
 
 msgctxt "Encounter/&TigerDrakesDescription"
 msgid "Huge flying snakes resembling small dragons."
-msgstr "작은 용을 닮은 거대한 날아다니는 뱀들."
+msgstr "작은 용을 닮은 거대한 날아다니는 뱀들입니다."
 
 msgctxt "Encounter/&CR10_YoungRemorhazes_Title"
 msgid "Remorhazes"
@@ -696,15 +699,15 @@ msgstr "떠도는 망령"
 
 msgctxt "Encounter/&CR12_Necromancer_Gang_Title"
 msgid "Necromancer Gang"
-msgstr ""
+msgstr "사령술사 무리"
 
 msgctxt "Encounter/&CR13_Brood_Couple_Title"
 msgid "Wandering Brood Couple"
-msgstr ""
+msgstr "떠도는 한 쌍의 브루드"
 
 msgctxt "Encounter/&CR21_Brood_Horde_Title"
 msgid "Wandering Brood Horde"
-msgstr ""
+msgstr "떠도는 브루드 무리"
 
 msgctxt "Encounter/&CR10_YoungRemorhazes_Description"
 msgid "A couple of young remorhazes… still deadly!"
@@ -717,27 +720,27 @@ msgstr "먹잇감을 찾아 배회하는 무시무시한 거대 곤충 3마리�
 msgctxt "Encounter/&CR15_Redeemers_x1_x2_Description"
 msgid ""
 "A gigantic zealot and two lesser redeemers looking for magic to feed upon."
-msgstr ""
+msgstr "집어삼킬 마법을 찾고 있는 거대한 광신도와 약간 작은 두 구도자입니다."
 
 msgctxt "Encounter/&CR9_Minor_Fire_Elementals_Description"
 msgid "Small fiery elementals born from some chaotic Badlands magic."
-msgstr "황무지 마법의 혼돈 속에서 태어난 작은 불의 정령."
+msgstr "황무지 마법의 혼돈 속에서 태어난 작은 불의 정령입니다."
 
 msgctxt "Encounter/&CR14_Fire_Elementals_Description"
 msgid "Fiery elementals born from some chaotic Badlands magic."
-msgstr "혼돈의 황무지 마법에서 태어난 불의 정령."
+msgstr "혼돈의 황무지 마법에서 태어난 불의 정령입니다."
 
 msgctxt "Encounter/&CR18_Major_Fire_Elementals_Description"
 msgid "Very powerful fiery elementals born from some chaotic Badlands magic."
-msgstr "혼돈의 황무지 마법에서 태어난 매우 강력한 불의 정령."
+msgstr "혼돈의 황무지 마법에서 태어난 매우 강력한 불의 정령입니다."
 
 msgctxt "Encounter/&CR6_Minor_Air_Elementals_Description"
 msgid "Small air elementals born from some chaotic Badlands magic."
-msgstr "혼돈의 황무지 마법에서 태어난 작은 바람의 정령."
+msgstr "혼돈의 황무지 마법에서 태어난 작은 바람의 정령입니다."
 
 msgctxt "Encounter/&CR12_Air_Elementals_Description"
 msgid "Air elementals born from some chaotic Badlands magic."
-msgstr "혼돈의 황무지 마법에서 태어난 바람의 정령."
+msgstr "혼돈의 황무지 마법에서 태어난 바람의 정령입니다."
 
 msgctxt "Encounter/&CR7_Young_Black_Dragon_Description"
 msgid ""
@@ -747,67 +750,67 @@ msgstr "이 약화된 드래곤은 황무지에서 태어났습니다. 이제 �
 
 msgctxt "Encounter/&CR10_PoisonousPests_Description"
 msgid "A group of venomous Badlands creatures."
-msgstr "맹독을 가진 황무지 크리쳐 무리."
+msgstr "맹독을 가진 황무지 크리쳐 무리입니다."
 
 msgctxt "Encounter/&CR20_CrimsonSpiders_x4_Description"
 msgid ""
 "A group of giant spiders born in the acidic underground lakes of the "
 "Badlands."
-msgstr "황무지의 지하 산성 호수에서 태어난 거대한 거미떼."
+msgstr "황무지의 지하 산성 호수에서 태어난 거대한 거미떼입니다."
 
 msgctxt "Encounter/&CR16_Major_Earth_Elementals_Description"
 msgid "Small elementals born underground in the chaotic Badlands."
-msgstr "혼돈의 황무지 지하에서 태어난 작은 정령들."
+msgstr "혼돈의 황무지 지하에서 태어난 작은 정령들입니다."
 
 msgctxt "Encounter/&CR15_Elementals_x3_Description"
 msgid "Earth elementals born underground in the chaotic Badlands."
-msgstr "혼돈의 황무지 지하에서 태어난 땅 정령들."
+msgstr "혼돈의 황무지 지하에서 태어난 땅 정령들입니다."
 
 msgctxt "Encounter/&CR10_Skeleton_Enforcers_x2_x2_Description"
 msgid "A group of powerful skeletons summoned by an experienced necromancer."
-msgstr "경험 많은 네크로맨서가 소환한 강력한 스켈레톤 무리."
+msgstr "경험 많은 네크로맨서가 소환한 강력한 스켈레톤 무리입니다."
 
 msgctxt "Encounter/&CR5_Goblin_Cutthroats_Description"
 msgid "A band of goblin assassins with a hunger for blood."
-msgstr "피에 굶주린 고블린 암살자 무리."
+msgstr "피에 굶주린 고블린 암살자 무리입니다."
 
 msgctxt "Encounter/&CR8_Goblin_Ravagers_Description"
 msgid "A large group of experienced goblins on a path for blood."
-msgstr "피의 길을 걷는 경험 많은 고블린 무리."
+msgstr "피의 길을 걷는 경험 많은 고블린 무리입니다."
 
 msgctxt "Encounter/&CR11_OrcGrimblade_x1_x2_x1_Description"
 msgid "An orc raiding party led by a powerful orc grimblade."
-msgstr "강력한 오크 그림블레이드가 이끄는 오크 습격단."
+msgstr "강력한 오크 그림블레이드가 이끄는 오크 습격단입니다."
 
 msgctxt "Encounter/&CR9_Orc_Hunters_Description"
 msgid "A couple of orc beastmasters and their pets looking for easy prey."
-msgstr "약한 먹잇감을 찾고 있는 오크 비스트마스터들과 그들의 애완동물들."
+msgstr "약한 먹잇감을 찾고 있는 오크 비스트마스터들과 그들의 애완동물들입니다."
 
 msgctxt "Encounter/&CR10_Wraiths_Description"
 msgid ""
 "A band of deadly wandering Badlands wraiths looking for souls to torment."
-msgstr "고통받을 영혼을 찾으며 황무지를 방황하는 위험한 망령의 무리."
+msgstr "고통받을 영혼을 찾으며 황무지를 방황하는 위험한 망령의 무리입니다."
 
 msgctxt "Encounter/&CR12_Necromancer_Gang_Description"
 msgid ""
 "A powerful necromancer and his summoned creatures, looking for a challenge."
-msgstr "적수를 찾아 헤매는 강력한 네크로맨서와 그의 소환수들."
+msgstr "적수를 찾아 헤매는 강력한 네크로맨서와 그의 소환수들입니다."
 
 msgctxt "Encounter/&CR13_Brood_Couple_Description"
 msgid "Wandering broods in search of blood."
-msgstr ""
+msgstr "피를 찾아 떠도는 브루드들입니다."
 
 msgctxt "Encounter/&CR14_Arctic_Monsters_x3x1_Title"
 msgid "Arctic Monsters"
-msgstr "극지방 몬스터들"
+msgstr "북극 몬스터"
 
 msgctxt "Encounter/&CR9_Arctic_Pack_x3_Title"
 msgid "Arctic Pack"
-msgstr "극지방 꾸러미"
+msgstr "북극 꾸러미"
 
 msgctxt "Encounter/&CR6_Arctic_Duo_x2_Title"
 msgid "Arctic Duo"
-msgstr ""
+msgstr "한 쌍의 북극 늑대"
 
 msgctxt "Encounter/&CR16_Undead_Pack_x4_Title"
 msgid "Undead Pack"
@@ -843,7 +846,7 @@ msgstr "비행뱀"
 
 msgctxt "Encounter/&CR4_Skarn_Ghouls_x2_Title"
 msgid "Snark Ghouls"
-msgstr ""
+msgstr "스칸 구울"
 
 msgctxt "Encounter/&CR7_Grimblade_Title"
 msgid "Grimblade"
@@ -857,44 +860,44 @@ msgctxt "Encounter/&CR14_Arctic_Monsters_x3x1_Description"
 msgid ""
 "A terrifying young remorhaz with a bunch of arctic predators scavenging "
 "after him."
-msgstr ""
+msgstr "공포스러운 리모하즈 아성체와 그를 쫓는 북극 포식자 무리입니다."
 
 msgctxt "Encounter/&CR9_Arctic_Pack_x3_Description"
 msgid "A small pack of winter wolves on the hunt."
-msgstr "사냥 중인 소규모 겨울 늑대들."
+msgstr "사냥 중인 소규모 겨울 늑대들입니다."
 
 msgctxt "Encounter/&CR6_Arctic_Duo_x2_Description"
 msgid "A couple of Winter Wolves on the hunt."
-msgstr "사냥 중인 겨울 늑대 몇 마리."
+msgstr "사냥 중인 몇 마리의 겨울 늑대입니다."
 
 msgctxt "Encounter/&CR16_Undead_Pack_x4_Description"
 msgid "Undead wolves behaving like they're still alive and hunting."
-msgstr "아직 살아 있는 것처럼 행동하며 사냥하고 있는 언데드 늑대."
+msgstr "아직 살아 있는 것처럼 행동하며 사냥하고 있는 언데드 늑대입니다."
 
 msgctxt "Encounter/&CR6_Wraith_Master_x1x4_Description"
 msgid "An undead hunter and his pet."
-msgstr "언데드 사냥꾼과 그의 애완동물."
+msgstr "언데드 사냥꾼과 그의 애완동물입니다."
 
 msgctxt "Encounter/&CR16_Wraith_Hunters_x3x2_Description"
 msgid "A powerful band of undead warriors."
-msgstr "강력한 언데드 전사 무리."
+msgstr "강력한 언데드 전사 무리입니다."
 
 msgctxt "Encounter/&CR2_Wind_Snakes_x4_Description"
 msgid "Small air elementals that like to kill."
-msgstr "살생을 즐기는 작은 바람의 정령."
+msgstr "살생을 즐기는 작은 바람의 정령입니다."
 
 msgctxt "Encounter/&CR6_Flying_Snakes_x6_Description"
 msgid "Various flying and poisonous reptilians."
-msgstr "다양한 유독성 비행 파충류."
+msgstr "다양한 유독성 비행 파충류입니다."
 
 msgctxt "Encounter/&CR4_Skarn_Ghouls_x2_Description"
 msgid "Small earth elementals in a bad mood."
-msgstr "기분이 좋지 않은 작은 땅의 정령들."
+msgstr "기분이 좋지 않은 작은 땅의 정령들입니다."
 
 msgctxt "Encounter/&CR7_Grimblade_Description"
 msgid "A deadly orc assassin and his escort."
-msgstr "위험한 오크 암살자와 그의 호위."
+msgstr "위험한 오크 암살자와 그의 호위입니다."
 
 msgctxt "Encounter/&CR8_Tamed_Minotaur_Description"
 msgid "A band of goblins who tamed a powerful minotaur."
-msgstr "강력한 미노타우로스를 길들인 고블린 무리."
+msgstr "강력한 미노타우로스를 길들인 고블린 무리입니다."

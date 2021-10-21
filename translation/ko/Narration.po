@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-10-19 09:38+0000\n"
-"Last-Translator: Akintos <akintos47@gmail.com>\n"
+"PO-Revision-Date: 2021-10-21 12:29+0000\n"
+"Last-Translator: BaMoT <tree0074@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
 "Language: ko\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 msgctxt "Narration/&NecromancyTextObj01"
 msgid "Caer Tenarion. Iron Legion XXV. Year 24, Emperor Gwaltrian III"
-msgstr "케어 테나리온. 강철의 군단 XXV. 황제 그왈트리안 3세, 재위 24년"
+msgstr "케어 테나리온. 제 25 강철 군단. 황제 그왈트리안 3세, 재위 24년"
 
 msgctxt "Narration/&NecromancyTextObj02"
 msgid "Iron Legion XXV. The Glorious Dead"
@@ -15803,9 +15803,10 @@ msgctxt "Narration/&Optional_Lowlife_Quest_Temple19_Lowlife_Default"
 msgid "I can't get it…"
 msgstr ""
 
+#, fuzzy
 msgctxt "Narration/&Optional_Lowlife_Quest_Temple20_Nel_NPC"
 msgid "Make a donation to Misaye for luck?"
-msgstr ""
+msgstr "미사이에의 행운을 위해 한 푼 주시겠습니까?"
 
 msgctxt "Narration/&Optional_Lowlife_Quest_Temple21_ChoiceA_WRITTEN"
 msgid "<i>Give 1 gold piece</i>"
@@ -16001,7 +16002,7 @@ msgstr "저기 가는군. 따라가자고."
 
 msgctxt "Narration/&Optional_Lawkeeper_Quest_HighBridge29_Lawful_Default"
 msgid "…let's find a spot with a good view and wait for the night."
-msgstr ""
+msgstr "...시야가 탁 트인 곳을 찾은 다음 거기서 밤을 지새자고."
 
 msgctxt "Narration/&Optional_Lawkeeper_Quest_HighBridge30_Cynical_Default"
 msgid "Now that's a conspiracy!"
@@ -20520,7 +20521,7 @@ msgstr ""
 
 msgctxt "Narration/&Abjuration_Coparann_Atima_5_Atima_NPC"
 msgid "What can I do for you?"
-msgstr ""
+msgstr "무엇을 도와드릴까요?"
 
 msgctxt "Narration/&Abjuration_Coparann_Atima_6_Arun_Default"
 msgid "Just passing by to pay our respects."
@@ -21178,7 +21179,7 @@ msgstr ""
 
 msgctxt "Narration/&CradleOfFire_Entrance_35_Persuasion_CHOICE"
 msgid "Let's go and free this Brok."
-msgstr ""
+msgstr "브록을 풀어주러 가자."
 
 msgctxt "Narration/&CradleOfFire_Entrance_36_Deception_CHOICE"
 msgid "Brok owes us. We want to get paid!"

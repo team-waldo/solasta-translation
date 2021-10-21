@@ -3,13 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-10-21 12:29+0000\n"
+"Last-Translator: Jin <byungjinjun55@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/prop/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.4.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "Prop/&CandelabraTitle"
 msgid "Candelabra"
@@ -73,7 +75,7 @@ msgstr "부서진 난간 A"
 
 msgctxt "Prop/&GuardrailsBrokenADescription"
 msgid "A short, broken, low wall that can be used as heavy cover"
-msgstr ""
+msgstr "엄폐물로 사용할 수 있는 낮은 벽. 길이가 짧고 부서져 있음"
 
 msgctxt "Prop/&GuardrailsBrokenBTitle"
 msgid "Broken Guardrail B"
@@ -81,31 +83,31 @@ msgstr "부서진 난간 B"
 
 msgctxt "Prop/&GuardrailsBrokenBDescription"
 msgid "A long, broken, low wall that can be used as heavy cover"
-msgstr ""
+msgstr "엄폐물로 사용할 수 있는 낮은 벽. 길이가 길고 부서져 있음"
 
 msgctxt "Prop/&GuardrailsLinkTitle"
 msgid "Guardrail Link"
-msgstr ""
+msgstr "난간 연결부"
 
 msgctxt "Prop/&GuardrailsLinkDescription"
 msgid "A low wall pillar"
-msgstr "낮은 벽 기둥"
+msgstr "낮은 벽의 기둥"
 
 msgctxt "Prop/&GuardrailsStraightATitle"
 msgid "Straight Guardrail A"
-msgstr ""
+msgstr "곧은 난간 A"
 
 msgctxt "Prop/&GuardrailsStraightADescription"
 msgid "A short, low wall that can be used as heavy cover"
-msgstr ""
+msgstr "엄폐물로 사용할 수 있는 짧고 낮은 벽"
 
 msgctxt "Prop/&GuardrailsStraightBTitle"
 msgid "Straight Guardrail B"
-msgstr ""
+msgstr "곧은 난간 B"
 
 msgctxt "Prop/&GuardrailsStraightBDescription"
 msgid "A long, low wall that can be used as heavy cover"
-msgstr ""
+msgstr "엄폐물로 사용할 수 있는 짧고 긴 벽"
 
 msgctxt "Prop/&MausoleumTitle"
 msgid "Mausoleum"
@@ -193,12 +195,12 @@ msgstr "벽에 배치할 수 있는 영원히 타오르는 횃불"
 
 msgctxt "Prop/&BlockTitle"
 msgid "Block"
-msgstr ""
+msgstr "블록"
 
 msgctxt "Prop/&BlockDescription"
 msgid ""
 "A solid structure that can be used to divide a room into sub-compartments"
-msgstr ""
+msgstr "방을 분리된 공간으로 나누는데 사용될 수 있는 단단한 구조의 물건입니다"
 
 msgctxt "Prop/&AltarTitle"
 msgid "Altar"
@@ -246,7 +248,7 @@ msgstr "책 더미"
 
 msgctxt "Prop/&CabinetTitle"
 msgid "Cabinet"
-msgstr ""
+msgstr "캐비넷"
 
 msgctxt "Prop/&CarpetTitle"
 msgid "Carpet"
@@ -262,19 +264,19 @@ msgstr "시체"
 
 msgctxt "Prop/&CouchTitle"
 msgid "Couch"
-msgstr ""
+msgstr "소파"
 
 msgctxt "Prop/&CrateTitle"
 msgid "Crate"
-msgstr ""
+msgstr "나무 상자"
 
 msgctxt "Prop/&CrateStackTitle"
 msgid "Crate Stack"
-msgstr ""
+msgstr "나무 상자 더미"
 
 msgctxt "Prop/&CushionsTitle"
 msgid "Cushions"
-msgstr ""
+msgstr "쿠션"
 
 msgctxt "Prop/&FakeDoorTitle"
 msgid "Fake Door"
@@ -300,9 +302,10 @@ msgctxt "Prop/&FireplaceTitle"
 msgid "Fireplace"
 msgstr "난로"
 
+#, fuzzy
 msgctxt "Prop/&GlobeTitle"
 msgid "Globe"
-msgstr ""
+msgstr "전등"
 
 msgctxt "Prop/&GreenHouseTitle"
 msgid "Greenhouse"
@@ -332,13 +335,14 @@ msgctxt "Prop/&ShelvesTitle"
 msgid "Shelves"
 msgstr "선반"
 
+#, fuzzy
 msgctxt "Prop/&StillTitle"
 msgid "Still"
-msgstr ""
+msgstr "증류기"
 
 msgctxt "Prop/&StoolTitle"
 msgid "Stool"
-msgstr ""
+msgstr "높은 의자"
 
 msgctxt "Prop/&StoveTitle"
 msgid "Stove"
@@ -364,9 +368,10 @@ msgctxt "Prop/&WorkTableTitle"
 msgid "Work Table"
 msgstr "작업대"
 
+#, fuzzy
 msgctxt "Prop/&WallSimpleTitle"
 msgid "Free Wall"
-msgstr ""
+msgstr "독립벽"
 
 msgctxt "Prop/&WallThinTitle"
 msgid "Thin Wall"
@@ -406,7 +411,7 @@ msgstr "우리"
 
 msgctxt "Prop/&CartTitle"
 msgid "Cart"
-msgstr ""
+msgstr "손수레"
 
 msgctxt "Prop/&CocoonTitle"
 msgid "Cocoon"
@@ -432,9 +437,10 @@ msgctxt "Prop/&RocksTitle"
 msgid "Rocks"
 msgstr "바위"
 
+#, fuzzy
 msgctxt "Prop/&SkinsTitle"
 msgid "Skins"
-msgstr ""
+msgstr "가죽"
 
 msgctxt "Prop/&SpiderEggsTitle"
 msgid "Spider Eggs"
@@ -458,15 +464,16 @@ msgstr "짚"
 
 msgctxt "Prop/&StructureTitle"
 msgid "Structure"
-msgstr ""
+msgstr "구조물"
 
 msgctxt "Prop/&TotemTitle"
 msgid "Totem"
 msgstr "토템"
 
+#, fuzzy
 msgctxt "Prop/&WoodenPlatformTitle"
 msgid "Wooden Platform"
-msgstr ""
+msgstr "나무 발판"
 
 msgctxt "Prop/&FakeStairsUpTitle"
 msgid "Fake Stairs (up)"
@@ -516,9 +523,10 @@ msgctxt "Prop/&FieldBlockedDescription"
 msgid "Field with crops"
 msgstr "작물이 있는 밭"
 
+#, fuzzy
 msgctxt "Prop/&FieldDifficultDescription"
 msgid "An open field with difficult terrain"
-msgstr ""
+msgstr "어려운 지형으로 뒤덮인 개활지"
 
 msgctxt "Prop/&HayStackTitle"
 msgid "Haystack"
@@ -580,27 +588,29 @@ msgctxt "Prop/&FakeLadderUpDescription"
 msgid ""
 "Fake ladder used to represent a dungeon exit/entrance. For use in "
 "combination with an exit/entrance gadget"
-msgstr ""
+msgstr "던전의 출입구를 표시하는 가짜 사다리입니다. 출입구 장치와 연동하여 사용됩니다"
 
+#, fuzzy
 msgctxt "Prop/&ArchTitle"
 msgid "Arch"
-msgstr ""
+msgstr "아치 문"
 
 msgctxt "Prop/&CellTitle"
 msgid "Cell"
-msgstr ""
+msgstr "칸"
 
 msgctxt "Prop/&ColumnDestroyedTitle"
 msgid "Destroyed Column"
-msgstr ""
+msgstr "붕괴된 기둥"
 
+#, fuzzy
 msgctxt "Prop/&ColumnLowgroundTitle"
 msgid "Lowground Column"
-msgstr ""
+msgstr "장식용 기둥"
 
 msgctxt "Prop/&ColumnLowgroundDescription"
 msgid "A decorative column placable only on lowground"
-msgstr ""
+msgstr "저지대에만 놓을 수 있는 장식용 기둥"
 
 msgctxt "Prop/&CreeperTitle"
 msgid "Creeper/Ivy"
@@ -628,7 +638,7 @@ msgstr "파괴된 벽"
 
 msgctxt "Prop/&WallLinkTitle"
 msgid "Wall Link"
-msgstr ""
+msgstr "벽 연결부"
 
 msgctxt "Prop/&SlopeTitle"
 msgid "Slope"
@@ -636,7 +646,7 @@ msgstr "경사로"
 
 msgctxt "Prop/&TrunkTitle"
 msgid "Trunk"
-msgstr ""
+msgstr "나무 줄기"
 
 msgctxt "Prop/&WoodLogTitle"
 msgid "Wood Log"
@@ -646,25 +656,27 @@ msgctxt "Prop/&CookingStuffTitle"
 msgid "Cooking pot"
 msgstr "요리솥"
 
+#, fuzzy
 msgctxt "Prop/&ArchEndTitle"
 msgid "Destroyed Arch"
-msgstr ""
+msgstr "붕괴된 아치문"
 
 msgctxt "Prop/&ColumnTitle"
 msgid "Column"
-msgstr ""
+msgstr "기둥"
 
+#, fuzzy
 msgctxt "Prop/&RuinedKioskTitle"
 msgid "Ruined kiosk"
-msgstr ""
+msgstr "파괴된 키오스크"
 
 msgctxt "Prop/&RuinedWallTitle"
 msgid "Ruined wall"
-msgstr ""
+msgstr "파괴된 벽"
 
 msgctxt "Prop/&CaravanTitle"
 msgid "Caravan"
-msgstr ""
+msgstr "짐마차"
 
 msgctxt "Prop/&BridgeTitle"
 msgid "Bridge"
@@ -672,7 +684,7 @@ msgstr "다리"
 
 msgctxt "Prop/&RitualStoneTitle"
 msgid "Ritual Stone"
-msgstr ""
+msgstr "의식의 돌"
 
 msgctxt "Prop/&SkullPileTitle"
 msgid "Skull Pile"
