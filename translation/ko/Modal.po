@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-10-21 12:29+0000\n"
+"PO-Revision-Date: 2021-10-23 09:54+0000\n"
 "Last-Translator: Jin <byungjinjun55@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/modal/ko/>"
 "\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 msgctxt "Modal/&AssertionFailedTtitle"
 msgid "Assertion Failed"
-msgstr ""
+msgstr "런타임 오류"
 
 msgctxt "Modal/&CampaignSelectionButtonTitle"
 msgid "Select"
@@ -54,7 +54,7 @@ msgctxt "Modal/&CharacterReviveMessageContent"
 msgid ""
 "This option has a long activation time and may invalidate other time-based "
 "options. Do you want to continue?"
-msgstr "이 옵션은 활성화 시간이 길며 다른 시간 기반 옵션을 무효화할 수 있습니다. 계속합니까?"
+msgstr "이 옵션은 활성화 시간이 길며 다른 시간 기반 옵션을 무효화할 수 있습니다. 계속하겠습니까?"
 
 msgctxt "Modal/&CharacterReviveMessageTitle"
 msgid "Warning"
@@ -66,7 +66,7 @@ msgstr "수락"
 
 msgctxt "Modal/&CharacterReviveModalHeaderPluralTitle"
 msgid "Revive All Dead Characters"
-msgstr "모든 죽은자 소생"
+msgstr "죽은자 전체 소생"
 
 msgctxt "Modal/&CharacterReviveModalHeaderSingularTitle"
 msgid "Revive Dead Character"
@@ -86,11 +86,11 @@ msgctxt "Modal/&DefeatDescription"
 msgid ""
 "The party had no way to revive their dead - game over! Try giving Revivify "
 "scrolls to characters who can use them."
-msgstr "죽은 동료를 되살릴 방법이 없습니다. 게임에서 패배했습니다! 사용 가능한 캐릭터에게 부활 스크롤을 주십시오."
+msgstr "죽은 동료를 되살릴 방법이 없습니다. 게임에서 패배했습니다! 사용 가능한 캐릭터에게 소생 스크롤을 주십시오."
 
 msgctxt "Modal/&DefeatTitle"
 msgid "Game Over"
-msgstr "게임 끝"
+msgstr "게임 오버"
 
 msgctxt "Modal/&DeleteButtonTitle"
 msgid "Delete"
@@ -137,15 +137,15 @@ msgctxt "Modal/&FactionRedeemInstructionsDescription"
 msgid ""
 "Redeeming items with the \"{0}\" faction will earn you money and improve "
 "your relations with this faction."
-msgstr "\"{0}\" 진영과 아이템을 교환하면 돈을 벌고 이 진영과의 관계를 개선할 수 있습니다."
+msgstr "\"{0}\" 세력과 아이템을 교환하여 돈을 획득하고, 이 세력과의 관계를 개선할 수 있습니다."
 
 msgctxt "Modal/&FactionRedeemRelationDescription"
 msgid "Your relations with that faction improve"
-msgstr "그 진영과의 관계가 좋아집니다"
+msgstr "해당 세력과의 관계가 좋아집니다"
 
 msgctxt "Modal/&FactionRedeemRelationGainFormat"
 msgid "{0} Relation"
-msgstr "{0} 관계"
+msgstr "관계 {0}"
 
 msgctxt "Modal/&FactionRedeemSelectTitle"
 msgid "Select an item to redeem"
@@ -198,7 +198,7 @@ msgstr "마지막 저장에서 다시 시작"
 msgctxt "Modal/&MonsterListingCaption"
 msgid ""
 "{0} is concentrating to determine the presence of monsters in the area… "
-msgstr "{0}은(는) 해당 지역에 몬스터가 탐색하고 있습니다… "
+msgstr "{0}은(는) 해당 지역의 몬스터를 탐지하고 있습니다… "
 
 msgctxt "Modal/&MonsterListingFavoredEnemyTitle"
 msgid "Favored Enemy"
@@ -210,11 +210,12 @@ msgstr "없음"
 
 msgctxt "Modal/&MonsterListingPerceivedTitle"
 msgid "Present"
-msgstr "현재의"
+msgstr "있음"
 
+#, fuzzy
 msgctxt "Modal/&NumberSelectionInstructionTitle"
 msgid "How Many Points?"
-msgstr ""
+msgstr "포인트를 얼마나 사용합니까?"
 
 msgctxt "Modal/&NumberSelectionValidateTitle"
 msgid "Validate"
@@ -242,7 +243,7 @@ msgstr "긴 휴식 1회"
 
 msgctxt "Modal/&RequiredRestsTitle"
 msgid "Required Rests"
-msgstr "필요 휴식"
+msgstr "요구 휴식"
 
 msgctxt "Modal/&ResetDefaultsDescription"
 msgid "Click to reset travel settings to default value."
@@ -262,7 +263,7 @@ msgstr "저장"
 
 msgctxt "Modal/&SaveGamePlaceholder"
 msgid "Enter a filename or select a saved game."
-msgstr "파일 이름을 입력하거나 저장된 게임을 선택합니다."
+msgstr "파일 이름을 입력하거나 저장된 기존 게임을 선택합니다."
 
 msgctxt "Modal/&SelectCharacterMultipleTitle"
 msgid "Select one or more characters."
@@ -290,11 +291,11 @@ msgstr "하루 미만"
 
 msgctxt "Modal/&TravelDurationMultipleFormat"
 msgid "{0} days"
-msgstr "{0} 일"
+msgstr "{0}일"
 
 msgctxt "Modal/&TravelDurationSingleFormat"
 msgid "1 day"
-msgstr "1 일"
+msgstr "1일"
 
 msgctxt "Modal/&TravelDurationTitle"
 msgid "Duration"
@@ -338,7 +339,7 @@ msgstr "확인"
 
 msgctxt "Modal/&LoadingShortTitle"
 msgid "Loading"
-msgstr "로딩 중"
+msgstr "불러오는 중"
 
 msgctxt "Modal/&LoadingTipTitle"
 msgid "Tip"
@@ -354,7 +355,7 @@ msgstr "긴 휴식이 시작되면 {0} 주문을 시전합니다."
 
 msgctxt "Modal/&ScavengerMissionsModalTitle"
 msgid "Scavenger Expeditions"
-msgstr "스캐빈저 원정대"
+msgstr "스캐빈저 탐색"
 
 msgctxt "Modal/&ScavengerMissionsModalDescription"
 msgid ""
@@ -364,7 +365,7 @@ msgstr "스캐빈저가 아래 장소로 가서 남은 전리품을 수집하고
 
 msgctxt "Modal/&ScavengerMissionLineEncounterTitle"
 msgid "Somewhere Along the Road"
-msgstr ""
+msgstr "이동 중 어딘가에서"
 
 msgctxt "Modal/&ScavengerMissionLineNewMissionFormat"
 msgid "New: {0} remaining"
@@ -380,11 +381,11 @@ msgstr "완료"
 
 msgctxt "Modal/&ScavengerMissionModalToggleTitle"
 msgid "Show Encounter-related Expeditions"
-msgstr ""
+msgstr "조우한 적 관련 탐색 내용 표시"
 
 msgctxt "Modal/&ScavengerLootModalTitle"
 msgid "Items Recovered During Expeditions"
-msgstr "원정 중 회수된 아이템"
+msgstr "탐색 중 회수된 아이템"
 
 msgctxt "Modal/&ScavengerLootModalInstructionsDescription"
 msgid "Click an item to recover instead of selling it."
@@ -396,17 +397,17 @@ msgstr "전부 팔기"
 
 msgctxt "Modal/&ScavengerLootModalSellInstructionsDescription"
 msgid "You gain:"
-msgstr "다음 획득:"
+msgstr "획득한 아이템:"
 
 msgctxt "Modal/&DefeatStealthDescription"
 msgid ""
 "You were detected during a critical stealth stage! Use cautious mode and "
 "move carefully."
-msgstr "목숨이 달린 상황에서 은신에 실패해 발각되었습니다! 주의 모드를 사용하고 신중히 이동하십시오."
+msgstr "결정적인 상황에서 은신에 실패해 발각되었습니다! 경계 모드를 사용하여 신중히 이동하십시오."
 
 msgctxt "Modal/&QuestBoardTitle"
 msgid "Available Missions"
-msgstr "받을 수 있는 퀘스트"
+msgstr "퀘스트 목록"
 
 msgctxt "Modal/&QuestBoardDescription"
 msgid "Select the mission you would like to accept and press Start."
@@ -451,101 +452,102 @@ msgstr "명중률:"
 
 msgctxt "Modal/&StatHitAccuracyDescription"
 msgid "The percentage of successful weapon or magical attack rolls"
-msgstr ""
+msgstr "무기나 마법 명중 굴림이 성공할 확률입니다"
 
 msgctxt "Modal/&StatCriticalHitsTitle"
 msgid "Critical Hits:"
-msgstr ""
+msgstr "치명타:"
 
 msgctxt "Modal/&StatCriticalHitsDescription"
 msgid ""
 "The number of critical hits achieved by this character on attack rolls ("
 "weapon & magic)"
-msgstr ""
+msgstr "이 캐릭터의 공격 굴림(무기 또는 마법)으로 성공한 치명타 횟수입니다"
 
 msgctxt "Modal/&StatCriticalFailuresTitle"
 msgid "Critical Failures:"
-msgstr ""
+msgstr "결정적 실패:"
 
 msgctxt "Modal/&StatCriticalFailuresDescription"
 msgid ""
 "The number of critical failures suffered by this character on attack rolls ("
 "weapon & magic)"
-msgstr ""
+msgstr "이 캐릭터의 공격 굴림(무기 또는 마법)으로 인한 결정적 실패의 횟수입니다"
 
 msgctxt "Modal/&StatInflictedDamageTitle"
 msgid "Inflicted Damage:"
-msgstr ""
+msgstr "총 피해:"
 
 msgctxt "Modal/&StatInflictedDamageDescription"
 msgid "The total number of damage points inflicted by characters"
-msgstr ""
+msgstr "이 캐릭터가 입힌 피해량의 총합입니다"
 
 msgctxt "Modal/&StatSlainEnemiesTitle"
 msgid "Slain Enemies:"
-msgstr ""
+msgstr "죽인 적:"
 
 msgctxt "Modal/&StatSlainEnemiesDescription"
 msgid "The number of enemies for which this character delivered the final blow"
-msgstr ""
+msgstr "이 캐릭터가 마지막 타격을 가해 죽인 적의 숫자입니다"
 
 msgctxt "Modal/&StatSustainedInjuriesTitle"
 msgid "Sustained Injuries:"
-msgstr ""
+msgstr "입은 피해:"
 
 msgctxt "Modal/&StatSustainedInjuriesDescription"
 msgid "The total number of hit points lost by this character"
-msgstr ""
+msgstr "이 캐릭터가 잃은 체력의 총합입니다"
 
 msgctxt "Modal/&StatRestoredHealthTitle"
 msgid "Restored Health:"
-msgstr ""
+msgstr "회복한 체력:"
 
 msgctxt "Modal/&StatRestoredHealthDescription"
 msgid "The total number of hit points restored by this character"
-msgstr ""
+msgstr "이 캐릭터에 의해 회복된 체력의 총합입니다"
 
 msgctxt "Modal/&StatUsedMagicAndPowersTitle"
 msgid "Used Magic and Powers:"
-msgstr ""
+msgstr "사용한 마법과 능력:"
 
 msgctxt "Modal/&StatUsedMagicAndPowersDescription"
 msgid "The total number of spell slots and power charges used by the character"
-msgstr ""
+msgstr "이 캐릭터가 사용한 주문 슬롯과 능력 충전량의 총합입니다"
 
 msgctxt "Modal/&StatTravelledCellsTitle"
 msgid "Cells Traveled:"
-msgstr ""
+msgstr "이동한 칸:"
 
 msgctxt "Modal/&StatTravelledCellsDescription"
 msgid ""
 "The number of cells that the character has entered, in all 3 dimensions. It "
 "represents the \"mileage\" of the character"
-msgstr ""
+msgstr "3차원 공간에서 이 캐릭터가 이동한 모든 칸의 합계입니다. 이것은 캐릭터의 총 여행거리를 뜻합니다"
 
+#, fuzzy
 msgctxt "Modal/&StatKnockOutsTitle"
 msgid "Knockouts:"
-msgstr ""
+msgstr "다운:"
 
 msgctxt "Modal/&StatKnockOutsDescription"
 msgid "The number of times the character has fallen unconscious or died"
-msgstr ""
+msgstr "캐릭터가 의식을 잃거나 사망한 횟수입니다"
 
 msgctxt "Modal/&StatEarnedXPTitle"
 msgid "Earned XP:"
-msgstr ""
+msgstr "획득 경험치:"
 
 msgctxt "Modal/&StatEarnedXPDescription"
 msgid "The number of experience points gained by the character"
-msgstr ""
+msgstr "캐릭터가 획득한 총 경험치입니다"
 
 msgctxt "Modal/&StatGameTimeTitle"
 msgid "Game Time:"
-msgstr ""
+msgstr "게임 시간:"
 
 msgctxt "Modal/&StatGameTimeDescription"
 msgid "The total time (including rests) that the party has spent in the game"
-msgstr ""
+msgstr "휴식을 포함, 파티가 게임에서 보낸 총 시간입니다"
 
 msgctxt "Modal/&StatShortRestsTitle"
 msgid "Short Rests:"
@@ -553,7 +555,7 @@ msgstr "짧은 휴식:"
 
 msgctxt "Modal/&StatShortRestsDescription"
 msgid "The number of short rests completed by the party"
-msgstr ""
+msgstr "파티가 수행한 짧은 휴식 횟수입니다"
 
 msgctxt "Modal/&StatLongRestsTitle"
 msgid "Long Rests:"
@@ -561,15 +563,15 @@ msgstr "긴 휴식:"
 
 msgctxt "Modal/&StatLongRestsDescription"
 msgid "The number of long rests completed by the party"
-msgstr ""
+msgstr "파티가 수행한 긴 휴식 횟수입니다"
 
 msgctxt "Modal/&StatGameTimeFormat"
 msgid "{0}d {1}h {2}m {3}s"
-msgstr ""
+msgstr "{0}일 {1}시간 {2}분 {3}초"
 
 msgctxt "Modal/&UpdateFileTitle"
 msgid "Update File"
-msgstr ""
+msgstr "파일 최신화"
 
 msgctxt "Modal/&UpdateFileDescription"
 msgid ""
@@ -577,6 +579,8 @@ msgid ""
 "are saved for other adventures. Such characters will not be usable in the "
 "Solasta main campaign."
 msgstr ""
+"이 캐릭터의 캐릭터 파일을 최신화하여 다른 모험에서 진행사항과 전리품을 사용할 수 있도록 합니다. 이 캐릭터들은 솔라스타 메인 "
+"캠페인에서는 사용할 수 없습니다."
 
 msgctxt "Modal/&PregenCharacterCannotUpdateTitle"
 msgid "Pregen Character"
@@ -584,7 +588,7 @@ msgstr "견본 캐릭터"
 
 msgctxt "Modal/&PregenCharacterCannotUpdateDescription"
 msgid "This character is pre-generated by the game and cannot be updated."
-msgstr "이 캐릭터는 게임이 미리 생성한 것으로 업데이트할 수 없습니다."
+msgstr "이 캐릭터는 게임에서 미리 생성된 것으로 업데이트할 수 없습니다."
 
 msgctxt "Modal/&ContinueTitle"
 msgid "Continue"
@@ -604,7 +608,7 @@ msgstr "소서리 포인트를 써서 생성할 주문 슬롯 선택:"
 
 msgctxt "Modal/&CreateSpellSlotCostTitle"
 msgid "Sorcery Points Cost"
-msgstr "소서리 포인트 소모"
+msgstr "소서리 포인트 소모량"
 
 msgctxt "Modal/&CreateSorceryPointsTitle"
 msgid "Sorcery Points Creation"
@@ -620,11 +624,11 @@ msgstr "획득한 소서리 포인트"
 
 msgctxt "Modal/&SelectUserLocationTitle"
 msgid "Select a Location"
-msgstr ""
+msgstr "지역 선택"
 
 msgctxt "Modal/&UserLocationSettingsTitle"
 msgid "Location Settings"
-msgstr "맵 설정"
+msgstr "지역 설정"
 
 msgctxt "Modal/&UserLocationSettingsApplyTitle"
 msgid "Apply"
@@ -632,11 +636,11 @@ msgstr "적용"
 
 msgctxt "Modal/&CheatsTitle"
 msgid "Playtest Cheats"
-msgstr "플레이테스트 치트"
+msgstr "치트 옵션"
 
 msgctxt "Modal/&IdleMonstersToggleTitle"
 msgid "Idle Monsters"
-msgstr "몬스터 비적대"
+msgstr "게으른 몬스터"
 
 msgctxt "Modal/&IdleMonstersToggleDescription"
 msgid "Monsters do not engage a battle when spotting you. {0}"
@@ -670,27 +674,27 @@ msgstr "현재 전투 상태인 모든 적을 죽입니다. {0}"
 
 msgctxt "Modal/&IdleMonstersOnDescription"
 msgid "The monster are now idle"
-msgstr "몬스터 비적대 활성화됨"
+msgstr "이제 몬스터들이 게을러졌습니다"
 
 msgctxt "Modal/&IdleMonstersOffDescription"
 msgid "The monsters are active again"
-msgstr "몬스터 적대 활성화됨"
+msgstr "몬스터들이 다시 활동적이 되었습니다"
 
 msgctxt "Modal/&InviciblePartyOnDescription"
 msgid "The party is now invicible"
-msgstr "파티 무적 활성화됨"
+msgstr "파티는 이제 무적입니다"
 
 msgctxt "Modal/&InviciblePartyOffDescription"
 msgid "The party is no longer invicible"
-msgstr "파티 무적 비활성화됨"
+msgstr "파티는 더 이상 무적이 아닙니다"
 
 msgctxt "Modal/&RevealFogOfWarOnDescription"
 msgid "The fog of war is now fully revealed"
-msgstr "전장의 안개 제거됨"
+msgstr "전장의 안개가 제거되었습니다"
 
 msgctxt "Modal/&RevealFogOfWarOffDescription"
 msgid "The fog of war is active again"
-msgstr "전장의 안개 복구됨"
+msgstr "전장의 안개가 활성화되었습니다"
 
 msgctxt "Modal/&MonsterFilterAllTitle"
 msgid "All Monsters"
@@ -720,4 +724,4 @@ msgstr "당신의 모험은 여기까지입니다. 마음을 가다듬고 철인
 
 msgctxt "Modal/&CharacterReviveModalDisintegratedFormat"
 msgid "This option cannot be used on {0} as he/she is disintegrated"
-msgstr ""
+msgstr "그/그녀는 붕괴되었기 때문에 이 옵션을 적용할 수 없습니다"
