@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-10-24 01:10+0000\n"
+"PO-Revision-Date: 2021-10-25 07:52+0000\n"
 "Last-Translator: Jin <byungjinjun55@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/feature/ko/"
 ">\n"
@@ -1338,29 +1338,34 @@ msgctxt "Feature/&MartialSpellbladeSpellcastingTitle"
 msgid "Spellcasting"
 msgstr "주문 시전"
 
+#, fuzzy
 msgctxt "Feature/&MoveBurrowDescription"
 msgid "Burrow {0}"
-msgstr ""
+msgstr "{0}을 파다"
 
+#, fuzzy
 msgctxt "Feature/&MoveClimbDescription"
 msgid "Climb {0}"
-msgstr ""
+msgstr "{0}을 등반하다"
 
 msgctxt "Feature/&MoveDescription"
 msgid "Base walking speed in cells."
-msgstr ""
+msgstr "기본 이동 속도입니다(칸)."
 
+#, fuzzy
 msgctxt "Feature/&MoveFlyDescription"
 msgid "Fly {0}"
-msgstr ""
+msgstr "{0}을 비행하다"
 
+#, fuzzy
 msgctxt "Feature/&MoveIncorporealDescription"
 msgid "Incorporeal {0}"
-msgstr ""
+msgstr "영체화하여 {0}을 통과하다"
 
+#, fuzzy
 msgctxt "Feature/&MoveSwimDescription"
 msgid "Swim {0}"
-msgstr ""
+msgstr "{0}을 헤엄치다"
 
 msgctxt "Feature/&MoveTitle"
 msgid "Move"
@@ -1372,7 +1377,7 @@ msgstr "{0}"
 
 msgctxt "Feature/&MyselfFamilyRestrictionsFormat"
 msgid "If the creature is: {0}"
-msgstr ""
+msgstr "크리쳐가 {0}(이)라면"
 
 msgctxt "Feature/&NoContentTitle"
 msgid "None"
@@ -1380,7 +1385,7 @@ msgstr "표시할 내용 없음"
 
 msgctxt "Feature/&NullifiedByFormat"
 msgid "Unless attacker has: {0}"
-msgstr ""
+msgstr "공격자가 {0}을(를) 보유하지 않았다면"
 
 msgctxt "Feature/&PaladinArmorProficiencyTitle"
 msgid "Paladin Armor Proficiencies"
@@ -1408,8 +1413,8 @@ msgid ""
 "deal 2d8 additional radiant damage. +1d8 per slot level above 1st, +1d8 when "
 "hitting an undead or a fiend."
 msgstr ""
-"근접 무기로 명중시켰을 때 주문 슬롯 1개를 소비해서 2d8 추가 광휘 피해를 줄 수 있습니다. (슬롯 레벨 2부터) 슬롯 레벨 당 +"
-"1d8 추가, 언데드나 악마를 명중시킬 때 +1d8 추가."
+"근접 무기로 명중시켰을 때 주문 슬롯 1개를 소비해서 2d8 추가 광휘 피해를 줄 수 있습니다. 슬롯 레벨 2부터 슬롯 레벨 당 1d8이 "
+"추가되고, 언데드나 악마를 공격 시에 1d8이 추가됩니다."
 
 msgctxt "Feature/&PaladinDivineSmiteTitle"
 msgid "Divine Smite"
@@ -1417,7 +1422,7 @@ msgstr "신성한 일격"
 
 msgctxt "Feature/&PaladinHealingPoolDescription"
 msgid "A pool of healing power - 5 points per paladin level."
-msgstr "치유력 자원 - 팔라딘 레벨 당 5점 획득"
+msgstr "치유력 자원 - 팔라딘 레벨 당 5점을 획득합니다."
 
 msgctxt "Feature/&PaladinHealingPoolTitle"
 msgid "Healing Pool"
@@ -1446,7 +1451,7 @@ msgstr "독 중화"
 
 msgctxt "Feature/&PaladinSacredOathDescription"
 msgid "Select and swear the sacred oath that binds you as a paladin forever!"
-msgstr "평생 팔라딘으로서 의무를 다 할 신성한 맹세를 선택하십시오!"
+msgstr "팔라딘으로서 평생 지켜나갈 신성한 맹세를 선택하십시오!"
 
 msgctxt "Feature/&PaladinSacredOathTitle"
 msgid "Sacred Oaths"
@@ -1484,7 +1489,7 @@ msgstr "의학과 설득에 숙련되었습니다."
 
 msgctxt "Feature/&PhilosopherSkillsTitle"
 msgid "Physician"
-msgstr "내과의"
+msgstr "의사"
 
 msgctxt "Feature/&PhilosopherToolsDescription"
 msgid "Proficient with herbalism kit."
@@ -1559,11 +1564,11 @@ msgstr ""
 
 msgctxt "Feature/&PowerOathOfMotherlandFieryWrathShortTitle"
 msgid "Fiery Wrath"
-msgstr "맹렬한 분노"
+msgstr "불타는 분노"
 
 msgctxt "Feature/&PowerOathOfMotherlandFieryWrathTitle"
 msgid "Channel Divinity: Fiery Wrath"
-msgstr "신성 변환: 맹렬한 분노"
+msgstr "신성 변환: 불타는 분노"
 
 msgctxt "Feature/&PowerOathOfTirmarGoldenSpeechDescription"
 msgid ""
@@ -1573,11 +1578,11 @@ msgstr "1시간 동안 설득 및 위협 판정에 이점을 받습니다."
 
 msgctxt "Feature/&PowerOathOfTirmarGoldenSpeechShortTitle"
 msgid "Golden Speech"
-msgstr "훌륭한 연설"
+msgstr "명연설"
 
 msgctxt "Feature/&PowerOathOfTirmarGoldenSpeechTitle"
 msgid "Channel Divinity: Golden Speech"
-msgstr "신성 변환: 훌륭한 연설"
+msgstr "신성 변환: 명연설"
 
 msgctxt "Feature/&PowerOathOfTirmarSmiteTheHiddenDescription"
 msgid ""
@@ -1634,7 +1639,7 @@ msgstr "비전 격노"
 
 msgctxt "Feature/&ProficiencyMarksmanToolChoiceDescription"
 msgid "Herbalism kit or poisoner's kit."
-msgstr "약초학 키트 또는 독극물 키트."
+msgstr "약초학 도구모음 또는 독극물 도구모음."
 
 msgctxt "Feature/&ProficiencyMarksmanToolChoiceTitle"
 msgid "Additional Proficiencies"
@@ -1664,7 +1669,7 @@ msgctxt "Feature/&RangerFavoredEnemyDescription"
 msgid ""
 "Gain advantage on ability checks towards this creature type, and additional "
 "damage against it equal to your knowledge level."
-msgstr "선택한 크리쳐 유형에 대한 능력치 판정에서 이점을 받습니다. 또한 크리쳐에 대한 지식 레벨 만큼의 추가 피해를 줍니다."
+msgstr "선택한 크리쳐 유형에 대한 능력치 판정에서 이점을 받고, 크리쳐에 대한 지식 레벨만큼 해당 크리쳐에게 추가 피해를 줍니다."
 
 msgctxt "Feature/&RangerFavoredEnemyTitle"
 msgid "Favored Enemy"
@@ -1677,7 +1682,7 @@ msgstr "특정 유형의 지형({0})에서 생활하고 여행하는 데 능숙�
 
 msgctxt "Feature/&RangerNaturalExplorerByTypeTitle"
 msgid "Natural Explorer {0}"
-msgstr "천부적인 탐험가 {0}"
+msgstr "천부적인 {0} 탐험가"
 
 msgctxt "Feature/&RangerNaturalExplorerDescription"
 msgid "You are adept at living and traveling in a certain type of terrain."
@@ -1689,7 +1694,7 @@ msgstr "천부적인 탐험가"
 
 msgctxt "Feature/&RangerPrimevalAwarenessDescription"
 msgid "Detects the presence of certain creature types in the location."
-msgstr "해당 위치에서 특정 생물 유형의 존재를 감지합니다."
+msgstr "지역 내에서 특정 유형의 크리쳐를 감지합니다."
 
 msgctxt "Feature/&RangerPrimevalAwarenessTitle"
 msgid "Primeval Awareness"
@@ -1766,11 +1771,11 @@ msgstr "회피기동"
 
 msgctxt "Feature/&RogueExpertiseDescription"
 msgid "Select 2 proficient skills or tools to double their proficiency bonus."
-msgstr "숙련 기술 또는 숙련 도구 중 2개를 선택하여 숙련 보너스를 두 배로 늘릴 수 있습니다."
+msgstr "숙련 기술 또는 숙련 도구 중 2개를 선택하여 숙련 보너스를 두 배로 늘립니다."
 
 msgctxt "Feature/&RogueExpertiseTitle"
 msgid "Expertise"
-msgstr "숙달"
+msgstr "전문화"
 
 msgctxt "Feature/&RogueRoguishArchetypesDescription"
 msgid ""
@@ -1797,7 +1802,7 @@ msgstr ""
 
 msgctxt "Feature/&RogueSneakAttackTitle"
 msgid "Sneak Attack"
-msgstr "암습 공격"
+msgstr "암습"
 
 msgctxt "Feature/&RogueToolsTitle"
 msgid "Rogue Tools"
@@ -1809,7 +1814,7 @@ msgstr "로그 무기 숙련"
 
 msgctxt "Feature/&RoguishDarkweaverBonusProficiencyDescription"
 msgid "Proficient with the poisoner's kit."
-msgstr "독극물 키트에 숙련되었습니다."
+msgstr "독극물 도구모음에 숙련되었습니다."
 
 msgctxt "Feature/&RoguishDarkweaverBonusProficiencyTitle"
 msgid "Bonus Proficiency"
@@ -1829,7 +1834,7 @@ msgctxt "Feature/&RoguishDarkweaverSpiderOnWallDescription"
 msgid ""
 "Climbing no longer costs you extra movement, and difficult climb surfaces "
 "are considered normal for you."
-msgstr "등반에 더 이상 추가 이동력을 소모하지 않고, 어려운 등반 표면은 정상적인 것으로 간주됩니다."
+msgstr "등반에 더 이상 추가 이동력을 소모하지 않고, 어려운 등반 표면이 일반 등반 표면으로 간주됩니다."
 
 msgctxt "Feature/&RoguishDarkweaverSpiderOnWallTitle"
 msgid "Spider on Wall"
@@ -1868,11 +1873,11 @@ msgid ""
 "Climbing no longer costs you extra movement, difficult climb surfaces are "
 "considered normal for you, and you can jump longer distances."
 msgstr ""
-"등반에 더 이상 추가 이동력을 소모하지 않고, 어려운 등반 표면은 정상적인 것으로 간주됩니다. 또한 더 먼 거리를 점프할 수 있습니다."
+"등반에 더 이상 추가 이동력을 소모하지 않고, 어려운 등반 표면은 일반 등반 표면으로 간주됩니다. 또한 더 먼 거리를 점프할 수 있습니다."
 
 msgctxt "Feature/&RoguishThiefSecondStoryTitle"
 msgid "Second-Story Work"
-msgstr "오르내리기"
+msgstr "창문 타는 밤손님"
 
 msgctxt "Feature/&SavingThrowAdvantageFormat"
 msgid "Advantage on {0} saving throws"
@@ -1931,7 +1936,7 @@ msgstr "운동과 위협에 숙련되었습니다."
 
 msgctxt "Feature/&SellswordSkillsTitle"
 msgid "Soldiering"
-msgstr "군인"
+msgstr "군생활"
 
 msgctxt "Feature/&SkillGainChoicesPluralDescription"
 msgid "Choose {0} of these skills: {1}"
@@ -1959,11 +1964,11 @@ msgstr "추가 기술"
 
 msgctxt "Feature/&SkillProficiencyPluralDescription"
 msgid "Proficient with these skills: {0}"
-msgstr "이 기술에 숙련되었습니다: {0}"
+msgstr "다음 기술에 숙련되었습니다: {0}"
 
 msgctxt "Feature/&SkillProficiencySingleDescription"
 msgid "Proficiency with this skill: {0}"
-msgstr "이 기술에 숙련되었습니다: {0}"
+msgstr "다음 기술에 숙련되었습니다: {0}"
 
 msgctxt "Feature/&SkillProficiencyTitle"
 msgid "Skills: {0}"
@@ -1971,19 +1976,19 @@ msgstr "기술: {0}"
 
 msgctxt "Feature/&SocialAffinityAdvantageFormat"
 msgid "Advantage on \"{0}\" checks towards \"{1}\" organizations"
-msgstr ""
+msgstr "\"{1}\" 조직에 대한 \"{0}\" 판정에 이점을 받음"
 
 msgctxt "Feature/&SocialAffinityDisadvantageFormat"
 msgid "Disadvantage on \"{0}\" checks towards \"{1}\" organizations"
-msgstr ""
+msgstr "\"{1}\" 조직에 대한 \"{0}\" 판정에 불리점을 받음"
 
 msgctxt "Feature/&Sorak_Saboteur_Immunity_Description"
 msgid "This kind of Sorr-Akkath seems able to ignore its sensitivity to light."
-msgstr "이런 종류의 소라카스는 광 과민성에 면역인 것 같습니다."
+msgstr "이런 종류의 소라카스는 소라카스 특유의 광 민감성에 면역인 것 같습니다."
 
 msgctxt "Feature/&Sorak_Saboteur_Immunity_Title"
 msgid "Immune to Light Sensitivity"
-msgstr "광 과민성에 면역"
+msgstr "광 민감성에 면역"
 
 msgctxt "Feature/&SorakCallOfTheNight_Description"
 msgid "Regain 2d8 hit points instantly"
@@ -2008,7 +2013,7 @@ msgstr "다음 턴이 끝날 때까지 독과 관통 피해에 취약해집니�
 
 msgctxt "Feature/&SorakDoomLaughter_Condition_Title"
 msgid "Doomed"
-msgstr "파멸"
+msgstr "불운"
 
 msgctxt "Feature/&SorakDoomLaughter_Description"
 msgid "Curse all enemies in neighboring cells to suffer more damage."
@@ -2016,7 +2021,7 @@ msgstr "인접한 셀의 모든 적에게 더 많은 피해를 입게 하는 저
 
 msgctxt "Feature/&SorakDoomLaughter_Title"
 msgid "Doom Laughter"
-msgstr "파멸의 웃음"
+msgstr "비운의 웃음"
 
 msgctxt "Feature/&SorakShadowEscape_Description"
 msgid "Teleport up to 5 cells away."
@@ -2028,7 +2033,7 @@ msgstr "그림자 탈출"
 
 msgctxt "Feature/&SorakShadowMurder_Condition_Description"
 msgid "Invisible and ready to perform a deadly attack."
-msgstr "투명화 상태가 되고 치명적인 공격을 입힐 준비가 됩니다."
+msgstr "투명화 상태가 되고 치명적인 공격을 할 준비가 됩니다."
 
 msgctxt "Feature/&SorakShadowMurder_Condition_Title"
 msgid "Shadow Murder"
@@ -2044,7 +2049,7 @@ msgstr "그림자 살인"
 
 msgctxt "Feature/&SorakShriek_Description"
 msgid "A terrifying shriek that strikes fear into the hearts of men."
-msgstr "인간의 마음에 두려움을 일으키는 끔찍한 비명."
+msgstr "인간의 마음에 두려움을 일으키는 끔찍한 비명입니다."
 
 msgctxt "Feature/&SorakShriek_Title"
 msgid "Shriek"
@@ -2060,7 +2065,7 @@ msgstr "어둠의 손길"
 
 msgctxt "Feature/&SorakTranceOfSorrtarr_Condition_Description"
 msgid "Immune to Light Sensitivity."
-msgstr "광 과민성에 면역."
+msgstr "광 민감성에 면역입니다."
 
 msgctxt "Feature/&SorakTranceOfSorrtarr_Condition_Title"
 msgid "Trance of Sorr-Tarr"
@@ -2074,9 +2079,10 @@ msgctxt "Feature/&SorakTranceOfSorrtarr_Title"
 msgid "Trance of Sorr-Tarr"
 msgstr "소르-타르의 무아지경"
 
+#, fuzzy
 msgctxt "Feature/&SpellPowerDescription"
 msgid "Can cast the {0} spell {1}"
-msgstr ""
+msgstr "{0} 주문을 {1}(으)로 시전할 수 있습니다"
 
 msgctxt "Feature/&SpyFeatureDescription"
 msgid ""
@@ -2088,7 +2094,7 @@ msgstr ""
 
 msgctxt "Feature/&SpyFeatureTitle"
 msgid "Tradecraft"
-msgstr "스파이 활동"
+msgstr "첩보 특성"
 
 msgctxt "Feature/&SpyLanguageDescription"
 msgid ""
@@ -2106,11 +2112,11 @@ msgstr "은신과 기만에 숙련되었습니다."
 
 msgctxt "Feature/&SpySkillsTitle"
 msgid "Spycraft"
-msgstr "첩보 능력"
+msgstr "첩보 기술"
 
 msgctxt "Feature/&SpySkillsToolsDescription"
 msgid "Proficient with Nature and poisoner's kit."
-msgstr "자연, 독극물 키트에 숙련되었습니다."
+msgstr "자연, 독극물 도구모음에 숙련되었습니다."
 
 msgctxt "Feature/&SpySkillsToolsTitle"
 msgid "Rough Diplomacy"
@@ -2126,7 +2132,7 @@ msgstr "실반 엘프의 신속함"
 
 msgctxt "Feature/&ToolProficiencyPluralDescription"
 msgid "Proficient with these tools: {0}"
-msgstr "이 도구에 숙련되었습니다: {0}"
+msgstr "다음 도구에 숙련되었습니다: {0}"
 
 msgctxt "Feature/&ToolProficiencyPluralShortDescription"
 msgid "{0}"
@@ -2134,7 +2140,7 @@ msgstr "{0}"
 
 msgctxt "Feature/&ToolProficiencySingleDescription"
 msgid "Proficiency with this tool: {0}"
-msgstr "이 도구에 숙련되었습니다: {0}"
+msgstr "다음 도구에 숙련되었습니다: {0}"
 
 msgctxt "Feature/&ToolProficiencySingleShortDescription"
 msgid "{0}"
@@ -2182,7 +2188,7 @@ msgid ""
 msgstr ""
 "비전, 역사, 조사 능력치 판정 그리고\n"
 "두루마리를 주문책에 복사할 때 이점을 받습니다\n"
-"두루마리와 물약 제작 비용과 시간이 절반으로 줄어듭니다."
+"두루마리와 물약 제작 비용과 시간이 절반으로 줄어듭니다"
 
 msgctxt "Feature/&TraditionLoremasterKeenMindTitle"
 msgid "Keen Mind"
@@ -2194,10 +2200,12 @@ msgid ""
 "a spell of the {0} school into your spellbook are halved. In addition, you "
 "spend half the normal time to craft potions, scrolls, or other items."
 msgstr ""
+"2레벨에 이 학파를 선택하면 해당 학파의 주문을 주문책에 복사하기 위해 필요한 돈과 시간이 절반이 됩니다. 또한 포션, 스크롤, 또는 "
+"다른 아이템들을 제조하기 위한 시간이 절반이 됩니다."
 
 msgctxt "Feature/&TraditionSavantTitle"
 msgid "{0} Savant"
-msgstr ""
+msgstr "{0} 대학자"
 
 msgctxt "Feature/&TraditionSavantVoyelDescription"
 msgid ""
