@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-10-23 01:00+0000\n"
+"PO-Revision-Date: 2021-10-26 11:43+0000\n"
 "Last-Translator: BaMoT <tree0074@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/map/ko/>\n"
 "Language: ko\n"
@@ -174,11 +174,12 @@ msgstr "2층 진입로"
 
 msgctxt "Map/&Location_BoneKeep_Solar_Title"
 msgid "The Solar"
-msgstr ""
+msgstr "태양"
 
+#, fuzzy
 msgctxt "Map/&Location_BoneKeep_Solar_Tower_Title"
 msgid "Solar Tower"
-msgstr ""
+msgstr "태양 탑"
 
 msgctxt "Map/&Location_BoneKeep_Title"
 msgid "Bone Keep"
@@ -478,7 +479,7 @@ msgstr "함정"
 
 msgctxt "Map/&Location_Illusion_Description"
 msgid "The Master of Illusion has created himself an invisible shelter… TBC"
-msgstr ""
+msgstr "환영계의 마스터가 직접 보이지 않는 은신처를 만들어냈습니다... TBC"
 
 msgctxt "Map/&Location_Illusion_Title"
 msgid "The Invisible Fortress"
@@ -897,11 +898,11 @@ msgstr "달리아트가 이 장소가 고요한 속삭임 배신자들이 숨어
 
 msgctxt "Map/&Location_ScavengerCamp_Title"
 msgid "Scavenger Camp"
-msgstr ""
+msgstr "스캐빈저 야영지"
 
 msgctxt "Map/&Location_CCyflen_PhilosopherHouse_Title"
 msgid "Galeafin's House"
-msgstr ""
+msgstr "갤리핀의 집"
 
 msgctxt "Map/&Location_Legendary_UnvisitedTitle"
 msgid "Caer Elis"
@@ -911,63 +912,64 @@ msgctxt "Map/&Location_Legendary_UnvisitedDescription"
 msgid ""
 "This is where the temple of the Lost God is supposed to be, according to "
 "Arwin Merton, but only he knows the way through the mist."
-msgstr ""
+msgstr "유일하게 안개를 헤쳐나갈 길을 알고 있는 아르윈 머튼의 말에 따르면, 이곳에 잃어버린 신의 신전이 있을지 모릅니다."
 
 msgctxt "Map/&Location_Legendary_visitedDescription"
 msgid ""
 "This is where you found the temple of the Lost God and vanquished the "
 "Remorhaz that was guarding its secrets."
-msgstr ""
+msgstr "이곳에서 당신은 잃어버린 신의 신전을 찾았습니다. 그리고 그 비밀을 지키던 레모라즈를 물리쳤습니다."
 
 msgctxt "Map/&Location_Legendary_Camp_Title"
 msgid "Caer Elis Camp"
-msgstr ""
+msgstr "케어 엘리스 야영지"
 
 msgctxt "Map/&Location_Legendary_Temple_Title"
 msgid "Temple of the Lost God"
-msgstr ""
+msgstr "잃어버린 신의 신전"
 
 msgctxt "Map/&Location_Legendary_CliffAccess_Title"
 msgid "Cliffs"
-msgstr ""
+msgstr "절벽"
 
 msgctxt "Map/&Location_CovenOfArivad_Description"
 msgid ""
 "You followed Illoreth to this place, hoping to catch some Arivad cultists in "
 "the middle of their wrongdoings."
-msgstr ""
+msgstr "당신은 범죄를 저지르고 있는 아리바드 광신도들을 잡을 수 있기를 바라며 일로레스를 따라 이곳에 왔습니다."
 
 msgctxt "Map/&Location_Gallivan_Embassy_Title"
 msgid "Gallivan Embassy"
 msgstr "갈리반 대사관"
 
+#, fuzzy
 msgctxt "Map/&Location_Galaefin_House_Title"
 msgid "Master Galaefin's Office"
-msgstr ""
+msgstr "마스터 갤리핀의 직무실"
 
 msgctxt "Map/&Location_Canyon_Title"
 msgid "Canyon"
-msgstr ""
+msgstr "협곡"
 
 msgctxt "Map/&Location_Canyon_Description"
 msgid "A sandy canyon in a desolate land."
-msgstr ""
+msgstr "황량한 땅에 있는 모래 투성이 협곡입니다."
 
 msgctxt "Map/&Location_Swamp_Title"
 msgid "Swamp"
-msgstr ""
+msgstr "늪"
 
 msgctxt "Map/&Location_Swamp_Description"
 msgid "A gloomy and stinky swamp in the middle of the Badlands."
-msgstr ""
+msgstr "황무지 한 복판에 있는 음울하고 역겨운 냄새가 나는 늪입니다."
 
 msgctxt "Map/&Location_ElvenRuins_Title"
 msgid "Elven Ruins"
-msgstr ""
+msgstr "엘프 유적"
 
 msgctxt "Map/&Location_ElvenRuins_Description"
 msgid "A ruined building that was part of an elven city."
-msgstr ""
+msgstr "한 때 엘프 도시의 일부였던 무너진 건물입니다."
 
 msgctxt "Map/&Location_Waterfall_Title"
 msgid "Waterfall"
@@ -975,77 +977,81 @@ msgstr "폭포"
 
 msgctxt "Map/&Location_Waterfall_Description"
 msgid "A refreshing landscape, a flowing river, and roaming monsters."
-msgstr ""
+msgstr "풍경은 상쾌하고, 강물은 흐르고, 괴물들이 떠도는 곳입니다."
 
 msgctxt "Map/&Location_TempleOfEinar_Title"
 msgid "Temple of Einar"
-msgstr ""
+msgstr "에이나르의 신전"
 
 msgctxt "Map/&Location_Cemetery_Title"
 msgid "Cemetery"
-msgstr ""
+msgstr "묘지"
 
+#, fuzzy
 msgctxt "Map/&Location_Cemetery_Description"
 msgid "An old cemetery in the middle of the path… probably haunted."
-msgstr ""
+msgstr "길 한 복판에 오래된 묘지가 있습니다... 아마 귀신이 나오는 곳 같습니다."
 
+#, fuzzy
 msgctxt "Map/&Location_TheMindoftheMaster_Ego_Title"
 msgid "The Ego"
-msgstr ""
+msgstr "자아"
 
+#, fuzzy
 msgctxt "Map/&Location_TheMindoftheMaster_SuperEgo_Title"
 msgid "The Superego"
-msgstr ""
+msgstr "초자아"
 
+#, fuzzy
 msgctxt "Map/&Location_TheMindoftheMaster_ID_Title"
 msgid "The Id"
-msgstr ""
+msgstr "무의식"
 
 msgctxt "Map/&Location_TheMindoftheMaster_Description"
 msgid "A mysterious place of magic and… irrationality!"
-msgstr ""
+msgstr "마법과... 불합리로 가득한 불가사의한 공간입니다!"
 
 msgctxt "Map/&Location_Desert_Title"
 msgid "Arid Hill"
-msgstr ""
+msgstr "메마른 언덕"
 
 msgctxt "Map/&Location_Desert_Description"
 msgid "Another dead hill in the Badlands, scorched by an unforgiving sun."
-msgstr ""
+msgstr "무자비한 태양빛에 시들어 버린, 황무지의 또다른 죽은 언덕입니다."
 
 msgctxt "Map/&Location_Marsh_Title"
 msgid "Marsh"
-msgstr ""
+msgstr "습지"
 
 msgctxt "Map/&Location_Marsh_Description"
 msgid "A lonely hunting cabin in the middle of a grim marsh."
-msgstr ""
+msgstr "음산한 습지 한 가운데 있는 외딴 사냥용 오두막입니다."
 
 msgctxt "Map/&Location_Uncharted_Title_Marches"
 msgid "Marches"
-msgstr ""
+msgstr "접경지"
 
 msgctxt "Map/&Location_Uncharted_Description_Marches"
 msgid "A campsite in the Marches, on top of a mountain."
-msgstr ""
+msgstr "접경지 산 꼭대기에 있는 야영지입니다."
 
 msgctxt "Map/&Location_Known_Title_Marches"
 msgid "Merchant campsite"
-msgstr ""
+msgstr "상단 야영지"
 
 msgctxt "Map/&Location_Known_Description_Marches"
 msgid "A place that travelling merchants commonly use to stay for the night."
-msgstr ""
+msgstr "여행하는 상인들이 보통 하룻밤을 나기 위해 사용하는 곳입니다."
 
 msgctxt "Map/&Location_Explored_Title_Marches"
 msgid "Merchant campsite"
-msgstr ""
+msgstr "상단 야영지"
 
 msgctxt "Map/&Location_Explored_Description_Marches"
 msgid ""
 "A place that travelling merchants commonly use to stay for the night, "
 "especially Galar Goldentongue."
-msgstr ""
+msgstr "여행하는 상인들, 특히 갈라르 골든텅이 보통 하룻밤을 나기 위해 사용하는 곳입니다."
 
 msgctxt "Map/&Location_Presentation_Title_Marches"
 msgid "Marches"
@@ -1053,35 +1059,36 @@ msgstr "접경지"
 
 msgctxt "Map/&Location_Presentation_Description_Marches"
 msgid "A campsite in the Marches, on top of a mountain."
-msgstr ""
+msgstr "접경지 산 꼭대기에 있는 야영지입니다."
 
 msgctxt "Map/&Location_Uncharted_Title_City"
 msgid "City"
-msgstr ""
+msgstr "도시"
 
 msgctxt "Map/&Location_Uncharted_Description_City"
 msgid "A city on a plateau, in the middle of the jungle"
-msgstr ""
+msgstr "정글 한 가운데, 고원 위에 있는 도시"
 
 msgctxt "Map/&Location_Known_Title_City"
 msgid "The City"
-msgstr ""
+msgstr "도시"
 
 msgctxt "Map/&Location_Known_Description_City"
 msgid "The heart of the valley"
-msgstr ""
+msgstr "골짜기의 심장"
 
+#, fuzzy
 msgctxt "Map/&Location_Explored_Title_City"
 msgid "Known City name"
-msgstr ""
+msgstr "알려진 도시 이름"
 
 msgctxt "Map/&Location_Explored_Description_City"
 msgid "You've explored the city"
-msgstr ""
+msgstr "도시를 탐험했습니다"
 
 msgctxt "Map/&Location_Presentation_Title_City"
 msgid "City"
-msgstr ""
+msgstr "도시"
 
 msgctxt "Map/&Location_Presentation_Description_City"
 msgid "Presentation of the city"
@@ -1093,27 +1100,30 @@ msgstr "상단 야영지"
 
 msgctxt "Map/&Waypoint_DLC1_Marches_GrottoEntrance"
 msgid "Grotto entrance"
-msgstr ""
+msgstr "동굴 입구"
 
 msgctxt "Map/&Waypoint_DLC1_City_Entrance"
 msgid "City Entrance"
-msgstr ""
+msgstr "도시 입구"
 
+#, fuzzy
 msgctxt "Map/&Waypoint_DLC1_City_MiddleGate"
 msgid "Middle Gate"
-msgstr ""
+msgstr "중앙 관문"
 
+#, fuzzy
 msgctxt "Map/&Waypoint_DLC1_City_MaskHQ_Low"
 msgid "Fairview"
-msgstr ""
+msgstr "페어뷰"
 
 msgctxt "Map/&Waypoint_DLC1_City_ThePeople_Low"
 msgid "Market"
-msgstr ""
+msgstr "시장"
 
+#, fuzzy
 msgctxt "Map/&Location_Uncharted_Title_Complex"
 msgid "Complex"
-msgstr ""
+msgstr "단지"
 
 msgctxt "Map/&Location_Uncharted_Description_Complex"
 msgid "TBD"
@@ -1145,7 +1155,7 @@ msgstr "TBD"
 
 msgctxt "Map/&Location_Uncharted_Title_Valley"
 msgid "Valley"
-msgstr ""
+msgstr "골짜기"
 
 msgctxt "Map/&Location_Uncharted_Description_Valley"
 msgid "TBD"
@@ -1175,9 +1185,10 @@ msgctxt "Map/&Location_Presentation_Description_Valley"
 msgid "TBD"
 msgstr "TBD"
 
+#, fuzzy
 msgctxt "Map/&Location_Uncharted_Title_Complex_Indoor"
 msgid "Complex Indoor"
-msgstr ""
+msgstr "단지 실내"
 
 msgctxt "Map/&Location_Uncharted_Description_Complex_Indoor"
 msgid "TBD"
@@ -1209,7 +1220,7 @@ msgstr ""
 
 msgctxt "Map/&Location_Uncharted_Title_Complex_Underground"
 msgid "Underground Facilities"
-msgstr ""
+msgstr "지하 시설"
 
 msgctxt "Map/&Location_Uncharted_Description_Complex_Underground"
 msgid "TBD"
@@ -1241,27 +1252,27 @@ msgstr ""
 
 msgctxt "Map/&Waypoint_DLC1_Marches_Vip_Camp"
 msgid "Abandoned campsite"
-msgstr ""
+msgstr "버려진 야영지"
 
 msgctxt "Map/&Waypoint_DLC1_Marches_Nest"
 msgid "Redeemer nest"
-msgstr ""
+msgstr "구도자 둥지"
 
 msgctxt "Map/&Waypoint_DLC1_Marches_MapExit"
 msgid "Exit to valley"
-msgstr ""
+msgstr "골짜기로 나가는 출구"
 
 msgctxt "Map/&Waypoint_DLC1_Marches_RuinEntrance"
 msgid "Ruin Entrance"
-msgstr ""
+msgstr "유적 입구"
 
 msgctxt "Map/&Waypoint_DLC1_Marches_GrottoExit"
 msgid "Grotto exit"
-msgstr ""
+msgstr "동굴 출구"
 
 msgctxt "Map/&Waypoint_DLC1_Marches_NestExit"
 msgid "Nest Exit"
-msgstr ""
+msgstr "둥지 출구"
 
 msgctxt "Map/&Location_Presentation_Title_BuriedCity_Tomb"
 msgid "Marches"
