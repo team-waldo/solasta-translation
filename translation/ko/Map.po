@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-10-26 11:43+0000\n"
-"Last-Translator: BaMoT <tree0074@naver.com>\n"
+"PO-Revision-Date: 2021-10-29 16:20+0000\n"
+"Last-Translator: Jin <byungjinjun55@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/map/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -24,7 +24,7 @@ msgstr ""
 
 msgctxt "Map/&Location_AbjurationRiverPass_Title"
 msgid "River Pass"
-msgstr ""
+msgstr "강변길"
 
 msgctxt "Map/&Location_AbjurationRiverPass_UnchartedDescription"
 msgid "Should not be displayed"
@@ -45,7 +45,7 @@ msgstr ""
 
 msgctxt "Map/&Location_AbjurationRiverPass_UnvisitedTitle"
 msgid "River Pass"
-msgstr ""
+msgstr "강변길"
 
 msgctxt "Map/&Location_AbjurationRuinedKeep_Description"
 msgid ""
@@ -68,7 +68,7 @@ msgstr ""
 
 msgctxt "Map/&Location_AbjurationRuinedKeep_UnchartedTitle"
 msgid "Possible Gem Location"
-msgstr "보석 추정 위치"
+msgstr "추정 보석 위치"
 
 msgctxt "Map/&Location_AbjurationRuinedKeep_UnvisitedDescription"
 msgid ""
@@ -150,7 +150,7 @@ msgstr "우물에서 하수도로 가는 길"
 
 msgctxt "Map/&Location_BoneKeep_Laboratory_Access_Title"
 msgid "Basement Entrance"
-msgstr "지하 진입로"
+msgstr "지하실 입구"
 
 msgctxt "Map/&Location_BoneKeep_Laboratory_Title"
 msgid "Laboratory"
@@ -172,14 +172,14 @@ msgctxt "Map/&Location_BoneKeep_Solar_Access_Title"
 msgid "Second Floor Entrance"
 msgstr "2층 진입로"
 
+#, fuzzy
 msgctxt "Map/&Location_BoneKeep_Solar_Title"
 msgid "The Solar"
 msgstr "태양"
 
-#, fuzzy
 msgctxt "Map/&Location_BoneKeep_Solar_Tower_Title"
 msgid "Solar Tower"
-msgstr "태양 탑"
+msgstr "태양의 탑"
 
 msgctxt "Map/&Location_BoneKeep_Title"
 msgid "Bone Keep"
@@ -194,7 +194,7 @@ msgstr ""
 
 msgctxt "Map/&Location_BoneKeep_UnchartedTitle"
 msgid "Possible Gem Location"
-msgstr "보석 추정 위치"
+msgstr "추정 보석 위치"
 
 msgctxt "Map/&Location_BoneKeep_UnvisitedDescription"
 msgid ""
@@ -202,7 +202,6 @@ msgid ""
 "within."
 msgstr "나무 사이로 거대한 성채가 우뚝 서 있습니다. 왕관의 보석 중 하나가 성채 내부에 있을지도 모릅니다."
 
-#, fuzzy
 msgctxt "Map/&Location_BoneKeep_UnvisitedTitle"
 msgid "Dark Castle"
 msgstr "어둠의 성채"
@@ -253,7 +252,7 @@ msgid ""
 "escaped with a couple of survivors. The outpost might be reclaimed so the "
 "exploration of the Badlands can continue."
 msgstr ""
-"헨리크 대위가 이끌던 주둔군은 소락에 의해 전멸했고, 당신은 생존자 몇 명과 겨우 탈출할 수 있었습니다. 이 전초기지는 황무지 탐사가 "
+"헨릭 대위가 이끌던 주둔군은 소락에 의해 전멸했고, 당신은 생존자 몇 명과 겨우 탈출할 수 있었습니다. 이 전초기지는 황무지 탐사가 "
 "계속될 수 있도록 복구될 것입니다."
 
 msgctxt "Map/&Location_CaerLem_UnchartedDescription"
@@ -453,7 +452,7 @@ msgstr "왕관운반자가 이곳의 환영을 보았습니다. 왕관이 준 �
 
 msgctxt "Map/&Location_CradleOfFire_UnchartedTitle"
 msgid "Possible Gem Location"
-msgstr "보석 추정 위치"
+msgstr "추정 보석 위치"
 
 msgctxt "Map/&Location_CradleOfFire_UnvisitedDescription"
 msgid ""
@@ -471,12 +470,13 @@ msgstr "잠긴 문"
 
 msgctxt "Map/&Location_Generic_Long_Rest_Area_Title"
 msgid "Long Rest Safe Area"
-msgstr ""
+msgstr "긴 휴식을 위한 안전 지역"
 
 msgctxt "Map/&Location_Generic_Trap_Title"
 msgid "Armed Trap"
 msgstr "함정"
 
+#, fuzzy
 msgctxt "Map/&Location_Illusion_Description"
 msgid "The Master of Illusion has created himself an invisible shelter… TBC"
 msgstr "환영계의 마스터가 직접 보이지 않는 은신처를 만들어냈습니다... TBC"
@@ -487,11 +487,11 @@ msgstr "투명한 요새"
 
 msgctxt "Map/&Location_Illusion_UnchartedDescription"
 msgid "The Crown is responding strongly. Perhaps one of its gems is nearby!"
-msgstr "왕관이 강하게 반응합니다. 어쩌면 보석이 근처에 있을지도 모릅니다!"
+msgstr "왕관이 강하게 반응합니다. 아마도 보석이 근처에 있을 것입니다!"
 
 msgctxt "Map/&Location_Illusion_UnchartedTitle"
 msgid "Possible Gem Location"
-msgstr "보석 추정 위치"
+msgstr "추정 보석 위치"
 
 msgctxt "Map/&Location_Illusion_UnvisitedDescription"
 msgid "Should not be displayed"
@@ -561,7 +561,7 @@ msgstr "다음 층으로"
 
 msgctxt "Map/&Location_CradleOfFire_Outside"
 msgid "Volcano Exterior"
-msgstr "화산 밖"
+msgstr "화산 외부"
 
 msgctxt "Map/&Location_CradleOfFire_Entrance"
 msgid "Underground Entrance"
@@ -637,7 +637,7 @@ msgstr "창고"
 
 msgctxt "Map/&Location_LavaForest_LavaRiver_Title"
 msgid "Lava River"
-msgstr "용암 강"
+msgstr "용암의 강"
 
 msgctxt "Map/&Location_AbjurationWizardTower_Teleport_Title"
 msgid "Adrasteia's Tower"
@@ -653,7 +653,7 @@ msgstr "궁궐 거주지"
 
 msgctxt "Map/&Location_NotaryMansion_Description"
 msgid "The mansion of the honorable Joan Tannerson."
-msgstr "존경받는 조앤 태너슨의 대저택."
+msgstr "존경받는 조안 태너슨의 대저택."
 
 msgctxt "Map/&Location_NotaryMansion_Title"
 msgid "Tannerson Estate"
@@ -677,18 +677,22 @@ msgctxt "Map/&Location_TheID_TheBeast_Title"
 msgid "The Beast"
 msgstr "짐승"
 
+#, fuzzy
 msgctxt "Map/&Location_CradleOfFire_Bladefang"
 msgid "Bladefang Tribe"
 msgstr "칼날송곳니 부족"
 
+#, fuzzy
 msgctxt "Map/&Location_CradleOfFire_Bloodspear"
 msgid "Bloodspear Tribe"
 msgstr "피묻은창 부족"
 
+#, fuzzy
 msgctxt "Map/&Location_CradleOfFire_SandRaven"
 msgid "Sandraven Tribe"
 msgstr "모래까마귀 부족"
 
+#, fuzzy
 msgctxt "Map/&Location_CradleOfFire_RedscarGate"
 msgid "Redscar Gate"
 msgstr "붉은흉터 관문"
@@ -705,7 +709,6 @@ msgctxt "Map/&Location_CradleOfFire_To_Crossroads"
 msgid "To the Crossroads"
 msgstr "갈림길로"
 
-#, fuzzy
 msgctxt "Map/&Location_CradleOfFire_Burrows"
 msgid "Burrows"
 msgstr "땅굴"
@@ -732,17 +735,18 @@ msgctxt "Map/&Location_Earcorn_Description"
 msgid "A small farming village not far from Caer Cyflen."
 msgstr "케어 키플렌에서 멀지 않은 작은 농촌 마을입니다."
 
+#, fuzzy
 msgctxt "Map/&Location_Earcorn_Title"
 msgid "Earcorn"
-msgstr ""
+msgstr "이어콘 마을"
 
 msgctxt "Map/&Location_Earcorn_UnchartedDescription"
 msgid "SHOULD NOT BE DISPLAYED"
-msgstr "SHOULD NOT BE DISPLAYED"
+msgstr "표시되지 않음"
 
 msgctxt "Map/&Location_Earcorn_UnchartedTitle"
 msgid "SHOULD NOT BE DISPLAYED"
-msgstr "SHOULD NOT BE DISPLAYED"
+msgstr "표시되지 않음"
 
 msgctxt "Map/&Location_Earcorn_UnvisitedDescription"
 msgid ""
@@ -751,7 +755,7 @@ msgstr "당신은 이곳에 아리바드 광신도가 있는지 조사하기 위
 
 msgctxt "Map/&Location_Earcorn_UnvisitedTitle"
 msgid "Earcorn"
-msgstr ""
+msgstr "이어콘 마을"
 
 msgctxt "Map/&Location_MindOfTheMaster_Description"
 msgid ""
@@ -793,9 +797,10 @@ msgctxt "Map/&Location_TheSuperEgo_TheHall_Title"
 msgid "Entrance"
 msgstr "입구"
 
+#, fuzzy
 msgctxt "Map/&Location_TheSuperEgo_TheLandingPad_Title"
 msgid "Platform"
-msgstr ""
+msgstr "승강기"
 
 msgctxt "Map/&Location_TheSuperEgo_TheMastersRoom_Title"
 msgid "Master's Room"
@@ -851,12 +856,10 @@ msgctxt "Map/&Location_AerElaiFinal_AcidLake"
 msgid "The Lake of Acid"
 msgstr "산성 호수"
 
-#, fuzzy
 msgctxt "Map/&Location_AerElaiFinal_MistyPath"
 msgid "The Misty Path"
-msgstr "안개길"
+msgstr "안개의 길"
 
-#, fuzzy
 msgctxt "Map/&Location_AerElaiFinal_BentPalace"
 msgid "The Bent Palace"
 msgstr "기울어진 궁전"
@@ -869,14 +872,14 @@ msgctxt "Map/&Location_AerElaiFinal_LaveFall"
 msgid "Lava Falls"
 msgstr "용암 폭포"
 
-#, fuzzy
 msgctxt "Map/&Location_TempleHospital_Title"
 msgid "Main Dispensary"
 msgstr "주 진료소"
 
+#, fuzzy
 msgctxt "Map/&Location_Temple_SafeRoom_Title"
 msgid "Safe Room"
-msgstr "안전실"
+msgstr "대피소"
 
 msgctxt "Map/&Location_CCyflen_Temple_Exit_Title"
 msgid "Exit to High Town"
@@ -894,7 +897,7 @@ msgctxt "Map/&Location_Spy_SmallFort_Description"
 msgid ""
 "Daliat indicated that this place was a fortified hideout where Silent "
 "Whisper traitors were hiding. "
-msgstr "달리아트가 이 장소가 고요한 속삭임 배신자들이 숨어있던 요새화된 은신처였다고 알려줬습니다. "
+msgstr "달리아트가 이 장소가 고요한 속삭임의 배신자들이 숨어있던 요새화된 은신처였다고 알려줬습니다. "
 
 msgctxt "Map/&Location_ScavengerCamp_Title"
 msgid "Scavenger Camp"
@@ -942,10 +945,9 @@ msgctxt "Map/&Location_Gallivan_Embassy_Title"
 msgid "Gallivan Embassy"
 msgstr "갈리반 대사관"
 
-#, fuzzy
 msgctxt "Map/&Location_Galaefin_House_Title"
 msgid "Master Galaefin's Office"
-msgstr "마스터 갤리핀의 직무실"
+msgstr "마스터 갤리핀의 집무실"
 
 msgctxt "Map/&Location_Canyon_Title"
 msgid "Canyon"
@@ -987,29 +989,25 @@ msgctxt "Map/&Location_Cemetery_Title"
 msgid "Cemetery"
 msgstr "묘지"
 
-#, fuzzy
 msgctxt "Map/&Location_Cemetery_Description"
 msgid "An old cemetery in the middle of the path… probably haunted."
 msgstr "길 한 복판에 오래된 묘지가 있습니다... 아마 귀신이 나오는 곳 같습니다."
 
-#, fuzzy
 msgctxt "Map/&Location_TheMindoftheMaster_Ego_Title"
 msgid "The Ego"
 msgstr "자아"
 
-#, fuzzy
 msgctxt "Map/&Location_TheMindoftheMaster_SuperEgo_Title"
 msgid "The Superego"
 msgstr "초자아"
 
-#, fuzzy
 msgctxt "Map/&Location_TheMindoftheMaster_ID_Title"
 msgid "The Id"
 msgstr "무의식"
 
 msgctxt "Map/&Location_TheMindoftheMaster_Description"
 msgid "A mysterious place of magic and… irrationality!"
-msgstr "마법과... 불합리로 가득한 불가사의한 공간입니다!"
+msgstr "불가사의한 공간입니다. 마법과... 불합리로 가득한!"
 
 msgctxt "Map/&Location_Desert_Title"
 msgid "Arid Hill"
@@ -1080,7 +1078,7 @@ msgstr "골짜기의 심장"
 #, fuzzy
 msgctxt "Map/&Location_Explored_Title_City"
 msgid "Known City name"
-msgstr "알려진 도시 이름"
+msgstr "도시 이름"
 
 msgctxt "Map/&Location_Explored_Description_City"
 msgid "You've explored the city"
@@ -1090,9 +1088,10 @@ msgctxt "Map/&Location_Presentation_Title_City"
 msgid "City"
 msgstr "도시"
 
+#, fuzzy
 msgctxt "Map/&Location_Presentation_Description_City"
 msgid "Presentation of the city"
-msgstr ""
+msgstr "도시 외관"
 
 msgctxt "Map/&Waypoint_DLC1_Marches_Camp"
 msgid "Merchant campsite"
@@ -1106,7 +1105,6 @@ msgctxt "Map/&Waypoint_DLC1_City_Entrance"
 msgid "City Entrance"
 msgstr "도시 입구"
 
-#, fuzzy
 msgctxt "Map/&Waypoint_DLC1_City_MiddleGate"
 msgid "Middle Gate"
 msgstr "중앙 관문"
@@ -1123,7 +1121,7 @@ msgstr "시장"
 #, fuzzy
 msgctxt "Map/&Location_Uncharted_Title_Complex"
 msgid "Complex"
-msgstr "단지"
+msgstr "복합단지"
 
 msgctxt "Map/&Location_Uncharted_Description_Complex"
 msgid "TBD"
@@ -1188,35 +1186,35 @@ msgstr "TBD"
 #, fuzzy
 msgctxt "Map/&Location_Uncharted_Title_Complex_Indoor"
 msgid "Complex Indoor"
-msgstr "단지 실내"
+msgstr "복합단지 내부"
 
 msgctxt "Map/&Location_Uncharted_Description_Complex_Indoor"
 msgid "TBD"
-msgstr ""
+msgstr "TBD"
 
 msgctxt "Map/&Location_Known_Title_Complex_Indoor"
 msgid "TBD"
-msgstr ""
+msgstr "TBD"
 
 msgctxt "Map/&Location_Known_Description_Complex_Indoor"
 msgid "TBD"
-msgstr ""
+msgstr "TBD"
 
 msgctxt "Map/&Location_Explored_Title_Complex_Indoor"
 msgid "TBD"
-msgstr ""
+msgstr "TBD"
 
 msgctxt "Map/&Location_Explored_Description_Complex_Indoor"
 msgid "TBD"
-msgstr ""
+msgstr "TBD"
 
 msgctxt "Map/&Location_Presentation_Title_Complex_Indoor"
 msgid "TBD"
-msgstr ""
+msgstr "TBD"
 
 msgctxt "Map/&Location_Presentation_Description_Complex_Indoor"
 msgid "TBD"
-msgstr ""
+msgstr "TBD"
 
 msgctxt "Map/&Location_Uncharted_Title_Complex_Underground"
 msgid "Underground Facilities"
@@ -1224,31 +1222,31 @@ msgstr "지하 시설"
 
 msgctxt "Map/&Location_Uncharted_Description_Complex_Underground"
 msgid "TBD"
-msgstr ""
+msgstr "TBD"
 
 msgctxt "Map/&Location_Known_Title_Complex_Underground"
 msgid "TBD"
-msgstr ""
+msgstr "TBD"
 
 msgctxt "Map/&Location_Known_Description_Complex_Underground"
 msgid "TBD"
-msgstr ""
+msgstr "TBD"
 
 msgctxt "Map/&Location_Explored_Title_Complex_Underground"
 msgid "TBD"
-msgstr ""
+msgstr "TBD"
 
 msgctxt "Map/&Location_Explored_Description_Complex_Underground"
 msgid "TBD"
-msgstr ""
+msgstr "TBD"
 
 msgctxt "Map/&Location_Presentation_Title_Complex_Underground"
 msgid "TBD"
-msgstr ""
+msgstr "TBD"
 
 msgctxt "Map/&Location_Presentation_Description_Complex_Underground"
 msgid "TBD"
-msgstr ""
+msgstr "TBD"
 
 msgctxt "Map/&Waypoint_DLC1_Marches_Vip_Camp"
 msgid "Abandoned campsite"
@@ -1280,7 +1278,7 @@ msgstr "접경지"
 
 msgctxt "Map/&Location_Presentation_Description_BuriedCity_Tomb"
 msgid "A campsite in the Marches, on top of a mountain."
-msgstr "접경지 산 꼭대기에 위치한 야영지."
+msgstr "접경지 산 꼭대기에 위치한 야영지입니다."
 
 msgctxt "Map/&Location_Presentation_Title_BuriedCity_Palace"
 msgid "Marches"
@@ -1288,4 +1286,4 @@ msgstr "접경지"
 
 msgctxt "Map/&Location_Presentation_Description_BuriedCity_Palace"
 msgid "A campsite in the Marches, on top of a mountain."
-msgstr "접경지 산 꼭대기에 위치한 야영지."
+msgstr "접경지 산 꼭대기에 위치한 야영지입니다."
