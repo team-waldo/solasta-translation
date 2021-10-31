@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-10-29 16:20+0000\n"
+"PO-Revision-Date: 2021-10-31 01:20+0000\n"
 "Last-Translator: Jin <byungjinjun55@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/monster/ko/"
 ">\n"
@@ -114,7 +114,7 @@ msgstr "접경지에서 발견된 매우 큰 독수리."
 
 msgctxt "Monster/&EagleMatriarchTitle"
 msgid "Eagle Matriarch"
-msgstr "독수리 어미"
+msgstr "독수리 대모"
 
 msgctxt "Monster/&FireSpider_Description"
 msgid ""
@@ -124,7 +124,7 @@ msgstr "황무지의 기묘한 마법의 영향으로 작은 불의 정령과 �
 
 msgctxt "Monster/&FireSpider_Title"
 msgid "Fire Spider"
-msgstr "불 거미"
+msgstr "화염 거미"
 
 msgctxt "Monster/&FlyingSnakeDescription"
 msgid "A winged snake found in the Badlands."
@@ -146,6 +146,7 @@ msgctxt "Monster/&Generic_ShockArcanist_Description"
 msgid "A powerful battle wizard looking for a challenge."
 msgstr "도전을 찾아다니는 강력한 전투 마법사."
 
+#, fuzzy
 msgctxt "Monster/&Generic_ShockArcanist_Title"
 msgid "Shock Arcanist"
 msgstr "쇼크 아르카니스트"
@@ -154,7 +155,7 @@ msgctxt "Monster/&Generic_Warlord_Description"
 msgid ""
 "A very experienced and powerful fighter who has gathered followers and won "
 "territories."
-msgstr "추종자를 모으고 영토를 얻은 경험많고 강력한 파이터."
+msgstr "추종자를 모으고 영토를 얻은 경험 많고 강력한 파이터."
 
 msgctxt "Monster/&Generic_Warlord_Title"
 msgid "Warlord"
@@ -162,7 +163,7 @@ msgstr "워로드"
 
 msgctxt "Monster/&GhastDescription"
 msgid "A more powerful kind of ghoul, known for its terrible stench."
-msgstr "지독한 악취로 유명한 더 강력한 종류의 구울입니다."
+msgstr "지독한 악취로 유명한 더 강력한 종류의 구울."
 
 msgctxt "Monster/&GhastTitle"
 msgid "Badlands Ghast"
@@ -178,7 +179,7 @@ msgstr "영체 복수자"
 
 msgctxt "Monster/&GhostWolf_Description"
 msgid "A dead wolf raised by necromantic power."
-msgstr "강령술의 힘으로 일으켜진 죽은 늑대."
+msgstr "사령술의 힘으로 일으켜진 죽은 늑대."
 
 msgctxt "Monster/&GhostWolf_Title"
 msgid "Ghost Wolf"
@@ -208,7 +209,7 @@ msgstr "황무지 깊숙한 곳에 살고 빛에 민감한 매우 큰 거미."
 
 msgctxt "Monster/&GiantSpiderTitle"
 msgid "Deep Spider"
-msgstr "지하 거미"
+msgstr "깊은 곳 거미"
 
 msgctxt "Monster/&GoblinDescription"
 msgid "A greenish, evil little creature."
@@ -236,7 +237,7 @@ msgstr "고블린"
 
 msgctxt "Monster/&Guard_Description"
 msgid "A low-ranking soldier, used to perform mundane security tasks."
-msgstr "평범한 경비 일을 하는 낮은 계급의 군인."
+msgstr "평범한 경비 임무를 수행하는 낮은 계급의 군인."
 
 msgctxt "Monster/&Guard_Title"
 msgid "Guard"
@@ -252,6 +253,7 @@ msgctxt "Monster/&Highpriest_Title"
 msgid "High Priest"
 msgstr "고위 사제"
 
+#, fuzzy
 msgctxt "Monster/&MinotaurDescription"
 msgid "Minotaur Descrition TBC"
 msgstr "미노타우르스 설명 추가 예정"
@@ -262,7 +264,7 @@ msgstr "미노타우로스"
 
 msgctxt "Monster/&MummyDescription"
 msgid "A powerful undead creature, preserved for the afterlife."
-msgstr "다음 생을 위해 보존된 강력한 언데드 크리쳐."
+msgstr "사후세계를 위해 보존된 강력한 언데드 크리쳐."
 
 msgctxt "Monster/&MummyTitle"
 msgid "Mummy"
@@ -270,11 +272,11 @@ msgstr "미라"
 
 msgctxt "Monster/&Necromancer_Description"
 msgid "An evil wizard specializing in necromancy."
-msgstr "강력학파에 특화된 사악한 위자드."
+msgstr "사령술에 특화된 사악한 위자드."
 
 msgctxt "Monster/&Necromancer_Title"
 msgid "Necromancer"
-msgstr "강령술사"
+msgstr "사령술사"
 
 msgctxt "Monster/&OgreDescription"
 msgid ""
@@ -288,7 +290,7 @@ msgstr "오우거"
 
 msgctxt "Monster/&OgreZombie_Description"
 msgid "An ogre that has been raised by necromantic power."
-msgstr "강령술의 힘으로 일으켜진 오우거."
+msgstr "사령술의 힘으로 되살아난 오우거."
 
 msgctxt "Monster/&OgreZombie_Title"
 msgid "Ogre Zombie"
@@ -312,7 +314,7 @@ msgstr "광전사는 전투때 무아지경 상태로 모든 위험을 무시하
 
 msgctxt "Monster/&OrcBerserkerTitle"
 msgid "Orc Berserker"
-msgstr "오크 버서커"
+msgstr "오크 광전사"
 
 msgctxt "Monster/&OrcChieftainDescription"
 msgid ""
@@ -345,7 +347,7 @@ msgstr "오크"
 msgctxt "Monster/&PhaseSpider_Description"
 msgid ""
 "A monstrous spider able to travel freely to and from the ethereal plane."
-msgstr "에테르계를 자유롭게 오갈 수 있는 괴물 거미."
+msgstr "영계를 자유롭게 오갈 수 있는 괴물 거미."
 
 msgctxt "Monster/&PhaseSpider_Title"
 msgid "Phase Spider"
@@ -418,7 +420,7 @@ msgstr "스켈레톤 기사"
 
 msgctxt "Monster/&SkeletonSorcerer_Description"
 msgid "A powerful undead creature with necromantic powers."
-msgstr "사령학파의 힘을 지닌 강력한 언데드 크리쳐."
+msgstr "사령술의 힘을 지닌 강력한 언데드 크리쳐."
 
 msgctxt "Monster/&SkeletonSorcerer_Title"
 msgid "Skeletal Sorcerer"
@@ -473,7 +475,7 @@ msgstr "소라카스 전사"
 
 msgctxt "Monster/&SorakSaboteurDescription"
 msgid "A support fighter, fast, cunning, and vicious."
-msgstr "지원형 파이터, 빠르고, 교활하고, 사납다."
+msgstr "빠르고, 교활하고, 사나운 지원형 파이터."
 
 msgctxt "Monster/&SorakSaboteurTitle"
 msgid "Sorr-Akkath Saboteur"
@@ -550,15 +552,18 @@ msgid ""
 "Veterans are professional fighters who take up arms for pay or in defense of "
 "something they value or believe in. They include retired soldiers as well as "
 "mercenaries who have never served anyone's interests but their own."
-msgstr "물적 보상이나 신념, 혹은 지키고자 하는 것을 위해 무기를 든 숙련된 파이터. 은퇴한 군인과 자신의 이득만 좇는 용병이 포함됨."
+msgstr ""
+"베테랑들은 물적 보상이나 신념, 혹은 지키고자 하는 것을 위해 무기를 든 숙련된 파이터입니다. 은퇴한 군인과 자신의 이득만을 좇는 "
+"용병들도 이에 포함됩니다."
 
 msgctxt "Monster/&VeteranTitle"
 msgid "Veteran"
 msgstr "베테랑"
 
+#, fuzzy
 msgctxt "Monster/&WightDescription"
 msgid "A Wight"
-msgstr "증오과 폭력을 좇아 되살아난 언데드 병사."
+msgstr "증오과 폭력을 좇아 되살아난 언데드 병사. (원문?)"
 
 msgctxt "Monster/&WightTitle"
 msgid "Wight"
@@ -566,7 +571,7 @@ msgstr "와이트"
 
 msgctxt "Monster/&WinterWolf_Description"
 msgid "A large arctic wolf with a cold breath attack."
-msgstr "냉기 숨결 공격을 가하는 대형 극지 늑대."
+msgstr "냉기 숨결 공격을 가하는 대형 북극 늑대."
 
 msgctxt "Monster/&WinterWolf_Title"
 msgid "Winter Wolf"
@@ -604,7 +609,7 @@ msgctxt "Monster/&Werewolf_Description"
 msgid ""
 "A shapechanger in human form, he retains some of his unnatural powers, "
 "including a fantastic resistance to non-silvered weapons."
-msgstr "인간 형태의 변신수인 늑대인간은 은제가 아닌 무기에 대한 엄청난 저항력과 비정상적인 힘을 가지고 있습니다."
+msgstr "인간 형태의 형태변환자인 늑대인간은 은제가 아닌 무기에 대한 엄청난 저항력과 비정상적인 힘을 가지고 있습니다."
 
 msgctxt "Monster/&ConjuredBeast_Title"
 msgid "Conjured Beast"
@@ -614,6 +619,7 @@ msgctxt "Monster/&ConjuredBeast_Description"
 msgid "This creature has been conjured."
 msgstr "이 생물은 소환되었습니다."
 
+#, fuzzy
 msgctxt "Monster/&Redscar_Orc_Grunt_Title"
 msgid "Redscar Orc"
 msgstr "붉은흉터 오크"
@@ -650,7 +656,7 @@ msgstr "의문의 습격자"
 
 msgctxt "Monster/&Darkweaver_Agent_Description"
 msgid "This Darkweaver seems inhabited by a fanatic fury."
-msgstr "광신적인 분노에 휩싸인 다크위버."
+msgstr "이 다크위버는 광신적인 분노에 휩싸여 있는 것 같습니다."
 
 msgctxt "Monster/&Darkweaver_Agent_Title"
 msgid "Mysterious Attacker"
@@ -670,7 +676,7 @@ msgstr "어둠 속에서 수백 년을 살아온 걸로 보이는 거대 거미.
 
 msgctxt "Monster/&FireOsprey_Title"
 msgid "Fire Osprey"
-msgstr "불 박쥐"
+msgstr "화염 박쥐"
 
 msgctxt "Monster/&FireOsprey_Description"
 msgid ""
@@ -730,23 +736,23 @@ msgstr "황무지의 지하 산성 호수에서 나온 거대한 거미."
 
 msgctxt "Monster/&AirElemental_Title"
 msgid "Air Elemental"
-msgstr "공기의 정령"
+msgstr "바람의 정령"
 
 msgctxt "Monster/&AirElemental_Description"
 msgid "A flying current of whirling air animated by magical elemental forces."
-msgstr "마법의 정령 세력에 의해 움직이는 회오리 기류."
+msgstr "마법적인 정령의 힘에 의해 움직이는 회오리 기류."
 
 msgctxt "Monster/&FireElemental_Description"
 msgid "A creature of pure fire, animated by magical elemental forces."
-msgstr "마법의 정령 세력에 의해 움직이는 순수한 불의 존재."
+msgstr "마법적인 정령의 힘에 의해 움직이는 순수한 불의 크리쳐."
 
 msgctxt "Monster/&EarthElemental_Title"
 msgid "Earth Elemental"
-msgstr "대지의 정령"
+msgstr "땅의 정령"
 
 msgctxt "Monster/&EarthElemental_Description"
 msgid "A bulky stone creature animated by magical elemental forces."
-msgstr "마법의 정령 세력에 의해 움직이는 덩치 큰 돌로 된 존재."
+msgstr "마법적인 정령의 힘에 의해 움직이는 덩치 큰 돌덩어리 크리쳐."
 
 msgctxt "Monster/&WindSnake_Title"
 msgid "Wind Snake"
@@ -754,17 +760,17 @@ msgstr "바람뱀"
 
 msgctxt "Monster/&WindSnake_Description"
 msgid "A small air elemental that can freeze you to death."
-msgstr "상대를 얼려죽일 수 있는 작은 공기의 정령."
+msgstr "상대를 얼려죽일 수 있는 작은 바람의 정령."
 
 msgctxt "Monster/&SkarnGhoul_Title"
 msgid "Skarn Ghoul"
-msgstr "스카른 구울"
+msgstr "스칸 구울"
 
 msgctxt "Monster/&SkarnGhoul_Description"
 msgid ""
 "A small earth elemental made of skarn rock that can slam your feet until "
 "they hurt."
-msgstr "스카른 암석으로 만든 작은 대지의 정령. 발이 뭉개질 때까지 적을 내려칩니다."
+msgstr "발이 뭉개질 때까지 내려칠 수 있는 스칸 암석으로 만들어진 작은 땅의 정령."
 
 msgctxt "Monster/&Redeemer_PilgrimTitle"
 msgid "Pilgrim"
@@ -780,7 +786,6 @@ msgctxt "Monster/&Redeemer_ZealotTitle"
 msgid "Zealot"
 msgstr "광신도"
 
-#, fuzzy
 msgctxt "Monster/&Redeemer_ZealotDescription"
 msgid ""
 "A very large insect that is a member of the Redeemer species, with a "
@@ -797,7 +802,7 @@ msgstr "빛의 큐브"
 
 msgctxt "Monster/&CubeOfLightDescription"
 msgid "A weird creature of light and magic of unknown origin."
-msgstr "기원을 알 수 없는 마법으로 만들어진, 빛나는 크리쳐입니다."
+msgstr "기원을 알 수 없는 마법으로 만들어진 빛나는 크리쳐."
 
 msgctxt "Monster/&GreenDragon_Title"
 msgid "Green Dragon"
@@ -807,7 +812,7 @@ msgctxt "Monster/&GreenDragon_Description"
 msgid ""
 "This dragon seems to be the master of conjuration of the old Imperial "
 "Arcaneum!"
-msgstr ""
+msgstr "이 드래곤은 구 제국 아케니움의 조형계 마법 마스터인 것 같습니다!"
 
 msgctxt "Monster/&Remorhaz_Title"
 msgid "Remorhaz"
@@ -815,7 +820,7 @@ msgstr "레모라즈"
 
 msgctxt "Monster/&Remorhaz_Description"
 msgid "A monstrous insect capable of swallowing an adventurer whole!"
-msgstr "모험가를 통째로 삼켜버릴 수 있는 기괴한 곤충!"
+msgstr "모험가를 통째로 삼켜버릴 수 있는 괴물 곤충!"
 
 msgctxt "Monster/&Sorak_Tshar_Boss_Title"
 msgid "Sorr-Akkath Tshar"
@@ -825,7 +830,7 @@ msgctxt "Monster/&Sorak_Tshar_Boss_Description"
 msgid ""
 "The leader of the Soraks on Solasta, an ancient and powerful Acolyte of Sorr-"
 "Tarr."
-msgstr ""
+msgstr "솔라스타의 소락들의 리더이자 오래되고 강력한 소르타르의 사제입니다."
 
 msgctxt "Monster/&Divine_Avatar_01_Title"
 msgid "Divine Avatar"
@@ -839,11 +844,12 @@ msgctxt "Monster/&BlackDragon_Title"
 msgid "Black Dragon"
 msgstr "블랙 드래곤"
 
+#, fuzzy
 msgctxt "Monster/&BlackDragon_Description"
 msgid ""
 "It looks like this Black Dragon is actually Mardracht, the Master of "
 "Necromancy of the Manacalon Arcaneum!"
-msgstr ""
+msgstr "이 블랙 드래곤은 마르드라흐트, 다시 말해 마나칼론 아케니움의 사령계 마법 마스터인 것 같습니다!"
 
 msgctxt "Monster/&Spiderling_Title"
 msgid "Spiderlings"
@@ -853,7 +859,7 @@ msgctxt "Monster/&Spiderling_Description"
 msgid ""
 "Offspring of the Old Queen. She loves them so much that she eats them once "
 "in a while."
-msgstr ""
+msgstr "오래된 여왕의 자손들. 여왕은 그들을 너무 사랑해서 가끔씩 잡아먹습니다."
 
 msgctxt "Monster/&YoungRemorhaz_Title"
 msgid "Remorhaz Offspring"
@@ -865,29 +871,29 @@ msgstr "무시무시한 포식자들의 악랄한 새끼입니다."
 
 msgctxt "Monster/&BlackYoungDragon_Title"
 msgid "Young Black Dragon"
-msgstr ""
+msgstr "블랙 드래곤 아성체"
 
 msgctxt "Monster/&BlackYoungDragon_Description"
 msgid "A smaller dragon, degenerated by the chaotic magic of the badlands."
-msgstr ""
+msgstr "황무지의 혼돈 마법에 의해 약화된 작은 드래곤."
 
 msgctxt "Monster/&GreenYoungDragon_Title"
 msgid "Young Green Dragon"
-msgstr ""
+msgstr "그린 드래곤 아성체"
 
 msgctxt "Monster/&GreenYoungDragon_Description"
 msgid "A smaller dragon, degenerated by the chaotic magic of the badlands."
-msgstr ""
+msgstr "황무지의 혼돈 마법에 의해 약화된 작은 드래곤."
 
 msgctxt "Monster/&GoldDragon_Title"
 msgid "Gold Dragon"
-msgstr ""
+msgstr "골드 드래곤"
 
 msgctxt "Monster/&GoldDragon_Description"
 msgid ""
 "It looks like this Gold Dragon is actually Adrasteia, the Master of "
 "Abjuration of the Manacalon Arcaneum!"
-msgstr ""
+msgstr "이 골드 드래곤은 아드라스테이아, 다시 말해 마나칼론 아케니움의 방호계 마법 마스터인 것 같습니다!"
 
 msgctxt "Monster/&BrownBear_Title"
 msgid "Brown Bear"
@@ -907,12 +913,12 @@ msgstr "동굴이나 숲 속에서 흔히 볼 수 있는 흉포한 짐승입니�
 
 msgctxt "Monster/&WereBear_Title"
 msgid "Werebear"
-msgstr ""
+msgstr "웨어베어"
 
 msgctxt "Monster/&WereBear_Description"
 msgid ""
 "A monstruous lycanthrope turned into a huge bear, almost impossible to hurt."
-msgstr ""
+msgstr "거대한 곰으로 변한 괴물 수인. 상처 내기가 거의 불가능합니다."
 
 msgctxt "Monster/&BadlandsBear_Title"
 msgid "Badlands Bear"
@@ -922,7 +928,7 @@ msgctxt "Monster/&BadlandsBear_Description"
 msgid ""
 "Another beast that was horribly mutated by the magic of the Badlands over "
 "generations, and resulted in a monstrosity."
-msgstr ""
+msgstr "긴 세월에 걸쳐 황무지의 마법으로 기괴하게 변이되어 괴물이 되어버린 또다른 야수."
 
 msgctxt "Monster/&MutatedBear_Title"
 msgid "Mutated Bear"
@@ -932,7 +938,7 @@ msgctxt "Monster/&MutatedBear_Description"
 msgid ""
 "This Badlands Bear has been intentionally modified with magic, making it "
 "more brutal and dangerous than it used to be."
-msgstr ""
+msgstr "이 황무지 곰은 의도적으로 마법에 의해 변이되어, 기존보다 더 잔혹하고 위험해졌습니다."
 
 msgctxt "Monster/&Oni_Title"
 msgid "Oni"
@@ -976,27 +982,27 @@ msgstr "변이된 드라이어드"
 
 msgctxt "Monster/&StoneGolem_Title"
 msgid "Stone Golem"
-msgstr "스톤 골렘"
+msgstr "암석 골렘"
 
 msgctxt "Monster/&ClayGolem_Title"
 msgid "Clay Golem"
-msgstr ""
+msgstr "진흙 골렘"
 
 msgctxt "Monster/&IronGolem_Title"
 msgid "Iron Golem"
-msgstr ""
+msgstr "강철 골렘"
 
 msgctxt "Monster/&Roc_Title"
 msgid "Roc"
-msgstr ""
+msgstr "괴조"
 
 msgctxt "Monster/&WightLord_Title"
 msgid "Wight Lord"
-msgstr ""
+msgstr "와이트 로드"
 
 msgctxt "Monster/&MinotaurElite_Title"
 msgid "Minotaur Elite"
-msgstr ""
+msgstr "정예 미노타우르스"
 
 msgctxt "Monster/&MinotaurElite_Description"
 msgid ""
@@ -1004,6 +1010,8 @@ msgid ""
 "training, enough to master deadly skills and even more strength and power "
 "than their brothers."
 msgstr ""
+"강력한 미노타우르스 가운데 일부는 우수한 전사가 되어 추가적인 훈련을 받아 치명적인 기술과 동족보다 더욱 강한 근력과 능력을 가지게 "
+"되었습니다."
 
 msgctxt "Monster/&SpectralMinotaur_Title"
 msgid "Spectral Minotaur"
@@ -1013,7 +1021,7 @@ msgctxt "Monster/&SpectralMinotaur_Description"
 msgid ""
 "Such dreadful creatures can only be created by twisted necromancers, who "
 "wish to prolong a Minotaur's slavery indefinitely, in death."
-msgstr ""
+msgstr "이런 공포스러운 크리쳐는 오직 미노타우르스를 영원히 노예로 두고자 하는 뒤틀린 사령술사에 의해서만 창조될 수 있습니다."
 
 msgctxt "Monster/&FrostGiant_Title"
 msgid "Frost Giant"
@@ -1098,6 +1106,7 @@ msgctxt "Monster/&MummyLordTitle"
 msgid "Mummy Lord"
 msgstr "미라 군주"
 
+#, fuzzy
 msgctxt "Monster/&MummyLordDescription"
 msgid "TBC descripiton"
 msgstr "설명 추가 예정"
