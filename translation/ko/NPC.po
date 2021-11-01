@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-10-31 01:20+0000\n"
+"PO-Revision-Date: 2021-11-01 09:46+0000\n"
 "Last-Translator: Jin <byungjinjun55@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/npc/ko/>\n"
 "Language: ko\n"
@@ -39,7 +39,7 @@ msgstr "알레나 스위프트"
 
 msgctxt "NPC/&NPC_Angbi_Title"
 msgid "Angbi Kramsson"
-msgstr "앵비 크람슨"
+msgstr "앵그비 크람슨"
 
 msgctxt "NPC/&NPC_AnnieBagmordahTitle"
 msgid "Annie Bagmordah"
@@ -309,7 +309,6 @@ msgctxt "NPC/&NPC_NecromancerTitle"
 msgid "Necromancer"
 msgstr "사령술사"
 
-#, fuzzy
 msgctxt "NPC/&NPC_Nikannen_Title"
 msgid "Joris Nikannen"
 msgstr "요리스 니카넨"
@@ -401,9 +400,10 @@ msgctxt "NPC/&NPC_Gromnir_SorakTitle"
 msgid "Sorak Infiltrator"
 msgstr "소락 잠입자"
 
+#, fuzzy
 msgctxt "NPC/&NPC_Spectral_Servant_Title"
 msgid "Spectral Servant"
-msgstr ""
+msgstr "영체 청소부"
 
 msgctxt "NPC/&NPC_Bitterroot_Title"
 msgid "Bitterroot"
@@ -411,7 +411,7 @@ msgstr "비터루트"
 
 msgctxt "NPC/&NPC_Dackin_Title"
 msgid "Master Dackin"
-msgstr ""
+msgstr "마스터 닥킨"
 
 msgctxt "NPC/&NPC_Adria_Title"
 msgid "Adria"
@@ -419,7 +419,7 @@ msgstr "아드리아"
 
 msgctxt "NPC/&NPC_Lyria_Title"
 msgid "Lyria"
-msgstr ""
+msgstr "라이리아"
 
 msgctxt "NPC/&NPC_Drew_Title"
 msgid "Drew"
@@ -427,7 +427,7 @@ msgstr "드류"
 
 msgctxt "NPC/&NPC_Notary_Title"
 msgid "Notary"
-msgstr ""
+msgstr "노타리"
 
 msgctxt "NPC/&NPC_MajorGateOfficer_Title"
 msgid "Major Gate Officer"
@@ -439,7 +439,7 @@ msgstr "상호작용하여 주 관문을 사용하십시오."
 
 msgctxt "NPC/&NPC_SpeakRavensworth_Description"
 msgid "Speak to enter the residence."
-msgstr ""
+msgstr "주거지역으로 들어가기 위해 대화하십시오."
 
 msgctxt "NPC/&NPC_Edrof_Title"
 msgid "Edrof"
@@ -447,7 +447,7 @@ msgstr "에드로프"
 
 msgctxt "NPC/&NPC_Radulf_Title"
 msgid "Radulf"
-msgstr ""
+msgstr "라둘프"
 
 msgctxt "NPC/&NPC_Urka_Title"
 msgid "Urka"
@@ -455,7 +455,7 @@ msgstr "우르카"
 
 msgctxt "NPC/&NPC_Galaefin"
 msgid "Master Galeafin"
-msgstr ""
+msgstr "마스터 갤리핀"
 
 msgctxt "NPC/&NPC_GalaefinsButler"
 msgid "Butler"
@@ -463,11 +463,11 @@ msgstr "집사"
 
 msgctxt "NPC/&NPC_Illoreth"
 msgid "Illoreth"
-msgstr ""
+msgstr "일로레스"
 
 msgctxt "NPC/&NPC_Stig_Title"
 msgid "Stig"
-msgstr ""
+msgstr "스티그"
 
 msgctxt "NPC/&NPC_CaporalDan_Title"
 msgid "Corporal Dann"
@@ -479,7 +479,7 @@ msgstr "가스 일병"
 
 msgctxt "NPC/&NPC_ShieldguardTradtsson_Title"
 msgid "Shieldguard Tradtsson"
-msgstr ""
+msgstr "방패병 트래드손"
 
 msgctxt "NPC/&NPC_PrivateRodric_Title"
 msgid "Rodric"
@@ -507,7 +507,7 @@ msgstr "아록"
 
 msgctxt "NPC/&NPC_Joran_Title"
 msgid "Joran Crawley"
-msgstr ""
+msgstr "조란 크로울리"
 
 msgctxt "NPC/&NPC_GenericSorakInfiltrator_Title"
 msgid "Sorak Infiltrator"
@@ -539,11 +539,11 @@ msgstr "유산 평의회 보병"
 
 msgctxt "NPC/&GunnarElderen_Title"
 msgid "Gunnar Elderen"
-msgstr ""
+msgstr "군나르 엘더렌"
 
 msgctxt "NPC/&NPC_Galaefin_Plaque_Title"
 msgid "Master Galeafin, philosopher and peer of the kingdom."
-msgstr ""
+msgstr "마스터 갤리핀, 철학자이자 왕국의 동반자."
 
 msgctxt "NPC/&AllanMiller_Title"
 msgid "Allan Miller"
@@ -568,16 +568,16 @@ msgstr "로그록"
 msgctxt "NPC/&NPC_Rogrok_Description"
 msgid ""
 "A chieftain who decided to stop fighting with an axe to become a merchant."
-msgstr ""
+msgstr "상인이 되기 위해 도끼로 싸우는 것을 중단한 족장입니다."
 
 msgctxt "NPC/&NPC_Circe_Title"
 msgid "Circe Gerardoirin"
-msgstr ""
+msgstr "키르케 제라르도이린"
 
 msgctxt "NPC/&NPC_Circe_Description"
 msgid ""
 "This mischievous lady moved here to explore and find all the books she could."
-msgstr ""
+msgstr "할 수 있는 한 모든 책을 찾아 헤매기 위해 이곳으로 옮겨온 문제적 여성입니다."
 
 msgctxt "NPC/&NPC_Mogo_Title"
 msgid "Mogo the Poor"
@@ -585,11 +585,11 @@ msgstr "거렁뱅이 모고"
 
 msgctxt "NPC/&NPC_Laethar_Title"
 msgid "Emperor Laethar"
-msgstr ""
+msgstr "래타르 황제"
 
 msgctxt "NPC/&NPC_Magister_Title"
 msgid "Kaseinax"
-msgstr ""
+msgstr "카세이낙스"
 
 msgctxt "NPC/&NPC_Adrasteia_Title"
 msgid "Adrasteia"
