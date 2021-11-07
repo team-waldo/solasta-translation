@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-10-29 16:20+0000\n"
-"Last-Translator: Jin <byungjinjun55@gmail.com>\n"
+"PO-Revision-Date: 2021-11-07 10:50+0000\n"
+"Last-Translator: Nickel <psb3421@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/map/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -677,10 +677,9 @@ msgctxt "Map/&Location_TheID_TheBeast_Title"
 msgid "The Beast"
 msgstr "짐승"
 
-#, fuzzy
 msgctxt "Map/&Location_CradleOfFire_Bladefang"
 msgid "Bladefang Tribe"
-msgstr "칼날송곳니 부족"
+msgstr "날송곳니 부족"
 
 #, fuzzy
 msgctxt "Map/&Location_CradleOfFire_Bloodspear"
