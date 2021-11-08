@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-11-04 05:25+0000\n"
-"Last-Translator: 김민기 <minki8637@naver.com>\n"
+"PO-Revision-Date: 2021-11-08 01:58+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
 "Language: ko\n"
@@ -21069,11 +21069,11 @@ msgstr ""
 
 msgctxt "Narration/&CradleOfFire_Entrance_8_Intimidation_CHOICE"
 msgid "Move away or you die."
-msgstr ""
+msgstr "죽기 싫으면 비키는 게 좋을 거야."
 
 msgctxt "Narration/&CradleOfFire_Entrance_9_Cynical_Default"
 msgid "Nice to meet you too, Arbal."
-msgstr ""
+msgstr "만나서 반갑소, 아르발."
 
 msgctxt "Narration/&CradleOfFire_Entrance_11_Cynical_Default"
 msgid "Please yourself."
@@ -21085,7 +21085,7 @@ msgstr ""
 
 msgctxt "Narration/&CradleOfFire_Entrance_14_Orcishspeaker_Default"
 msgid "Nyark ami anda, Karko Arbal."
-msgstr ""
+msgstr "나크 아미 아느다, 카르코 아르발."
 
 msgctxt "Narration/&CradleOfFire_Entrance_16_Pragmatic_Default"
 msgid "Is there any way we can get in?"
@@ -21097,7 +21097,7 @@ msgstr ""
 
 msgctxt "Narration/&CradleOfFire_Entrance_18_Friendly_Default"
 msgid "We want to help Kebra."
-msgstr ""
+msgstr "우린 케브라를 돕고 싶다."
 
 msgctxt "Narration/&CradleOfFire_Entrance_19_Arbal_NPC"
 msgid "Suncloud dead. Brok hanging in market."
@@ -21105,7 +21105,7 @@ msgstr ""
 
 msgctxt "Narration/&CradleOfFire_Entrance_20_Friendly_CHOICE"
 msgid "Brok is alive?"
-msgstr ""
+msgstr "브록이 살아있어?"
 
 msgctxt "Narration/&CradleOfFire_Entrance_21_Nosy_CHOICE"
 msgid "What tribe are you from?"
@@ -21459,11 +21459,11 @@ msgstr ""
 
 msgctxt "Narration/&CradleOfFire_Bloodspear_5_Pragmatic_Default"
 msgid "So, what's the plan?"
-msgstr ""
+msgstr "그렇다면, 계획은 뭐지?"
 
 msgctxt "Narration/&CradleOfFire_Bloodspear_6_Brok_NPC"
 msgid "Edrof respect only strength."
-msgstr ""
+msgstr "에드로프는 오직 힘만을 숭상한다."
 
 msgctxt "Narration/&CradleOfFire_Bloodspear_7_Brok_NPC"
 msgid "He supported Arrok the powerful. "
@@ -21483,35 +21483,35 @@ msgstr ""
 
 msgctxt "Narration/&CradleOfFire_Bloodspear_11_Joker_Default"
 msgid "Nyarks. That's us, just so you know. Probably means piece of…"
-msgstr ""
+msgstr "나크. 우리라는 말이지. 혹시 그 단어가 인종차별적인…"
 
 msgctxt "Narration/&CradleOfFire_Bloodspear_12_Orcish_Default"
 msgid "…It means non-orcs, that's all."
-msgstr ""
+msgstr "...오크가 아닌 자들이란 뜻이야, 그런 의미는 없어."
 
 msgctxt "Narration/&CradleOfFire_Bloodspear_13_Joker_Default"
 msgid "You speak orcish?"
-msgstr ""
+msgstr "너 오크어도 할 줄 알아?"
 
 msgctxt "Narration/&CradleOfFire_Bloodspear_14_Orcish_Default"
 msgid "Enough to know non-orc from piece of…"
-msgstr ""
+msgstr "나크도 알고 인종차별적인 단어도 아는데…"
 
 msgctxt "Narration/&CradleOfFire_Bloodspear_15_Joker_Default"
 msgid "Really? Oh, please, what's the word? I must know!"
-msgstr ""
+msgstr "오, 진짜? 그게 뭔데? 빨리 말해줘!"
 
 msgctxt "Narration/&CradleOfFire_Bloodspear_16_Orcish_Default"
 msgid "Stop it. Just stop."
-msgstr ""
+msgstr "됐다. 그만하자."
 
 msgctxt "Narration/&CradleOfFire_BloodspearMeeting_1_Edrof_NPC"
 msgid "Brok alive? Why nyarks?"
-msgstr ""
+msgstr "브록, 살아있었나? 나크들은 뭐지?"
 
 msgctxt "Narration/&CradleOfFire_BloodspearMeeting_2_Brok_NPC"
 msgid "Nyarks serve Brok."
-msgstr ""
+msgstr "이 나크는 브록을 섬긴다."
 
 msgctxt "Narration/&CradleOfFire_BloodspearMeeting_3_Joker_Default"
 msgid "What was that?"
@@ -21535,7 +21535,7 @@ msgstr ""
 
 msgctxt "Narration/&CradleOfFire_BloodspearMeeting_8_Edrof_NPC"
 msgid "Who is nyark champion?"
-msgstr ""
+msgstr "나크 도전자는 누구냐?"
 
 msgctxt "Narration/&CradleOfFire_BloodspearMeeting_9_Player1_WRITTEN"
 msgid "That would be me."
@@ -21555,11 +21555,11 @@ msgstr "바로 나다."
 
 msgctxt "Narration/&CradleOfFire_BloodspearMeeting_13_Chosen_Default"
 msgid "I'll fight you, Edrof."
-msgstr ""
+msgstr "내가 도전하겠다, 에드로프."
 
 msgctxt "Narration/&CradleOfFire_BloodspearMeeting_14_Edrof_NPC"
 msgid "And I kill you, nyark slave!"
-msgstr ""
+msgstr "내가 죽여주겠다, 인간 노예!"
 
 msgctxt "Narration/&CradleOfFire_BloodspearBeaten_1_Kebra_NPC"
 msgid "Bloodspear - you witness!"
@@ -21789,19 +21789,19 @@ msgstr ""
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_16_Radulf_NPC"
 msgid "If nyarks have power to defeat Arrok…"
-msgstr ""
+msgstr "나크들이 아록을 죽일 힘이 있다면…"
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_17_Radulf_NPC"
 msgid "…then nyarks can kill Kralshe-Renn."
-msgstr ""
+msgstr "...크랄셰렌도 무찌를 수 있을 것이다."
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_18_Orcish_Default"
 msgid "Kralshe-Renn means 'Old Queen'"
-msgstr ""
+msgstr "크랄셰렌은 '옛 여왕'이라는 뜻이야."
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_19_Cynical_Default"
 msgid "Everything's about old stuff around here, isn't it?"
-msgstr ""
+msgstr "그럼 그렇지, 다 옛날 뭐시기. 여기에 새로운 게 있을리가 없지?"
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_20_Radulf_NPC"
 msgid "Also, beware of gaks."
@@ -21817,7 +21817,7 @@ msgstr "가죽... 없는 것들이란 뜻인가?"
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_23_Violent_Default"
 msgid "Skinless? Wait? Soraks? They're here, too?"
-msgstr ""
+msgstr "가죽이 없다면? 소락이? 놈들이 여기에도 있다는 건가?"
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_24_Selfpres_Default"
 msgid "No surprise there. They're after the gems too, remember?"
@@ -21833,11 +21833,11 @@ msgstr "안 될 게 뭐 있어?"
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_27_Pragmatic_Default"
 msgid "Anyway, I don't think we have much choice."
-msgstr ""
+msgstr "어쨌거나, 다른 수단은 없는 것 같네."
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_28_Pragmatic_Default"
 msgid "We'll get your holy axe."
-msgstr ""
+msgstr "신성한 도끼를 가져다주도록 하지."
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_29_Radulf_NPC"
 msgid "Praise be."
@@ -21849,19 +21849,19 @@ msgstr "꼭 베릭 선블레이즈처럼 말하는 걸."
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_31_Einar_Default"
 msgid "Don't."
-msgstr ""
+msgstr "조용."
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_32_Cynical_Default"
 msgid "It was a compliment."
-msgstr ""
+msgstr "비꼬는 게 아니라 칭찬이야."
 
 msgctxt "Narration/&CradleOfFire_BladefangQuest_1_Choice1_WRITTEN"
 msgid "Who's the Old Queen?"
-msgstr ""
+msgstr "옛 여왕이 누구지?"
 
 msgctxt "Narration/&CradleOfFire_BladefangQuest_2_Choice2_WRITTEN"
 msgid "What's the holy axe?"
-msgstr ""
+msgstr "신성한 도끼가 뭐지?"
 
 msgctxt "Narration/&CradleOfFire_BladefangQuest_3_Choice3_WRITTEN"
 msgid "Let's go."
