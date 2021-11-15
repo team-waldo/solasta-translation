@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-11-12 14:34+0000\n"
-"Last-Translator: lull_ <lull_@naver.com>\n"
+"PO-Revision-Date: 2021-11-15 09:40+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
 "Language: ko\n"
@@ -20485,7 +20485,7 @@ msgstr ""
 
 msgctxt "Narration/&AbjurationEnding_63_Any_Default"
 msgid "We owe you that much. Thank you, Master Adrasteia."
-msgstr ""
+msgstr "덕분에 큰 빚을 졌습니다. 감사합니다, 아드라스테이아."
 
 msgctxt "Narration/&AbjurationMildred_Tavern_Welcome"
 msgid "Welcome to the inn!"
@@ -21137,15 +21137,15 @@ msgstr "아르발, 당신은 어느 부족이지?"
 
 msgctxt "Narration/&CradleOfFire_Entrance_26_Arbal_NPC"
 msgid "Arbal is Bloodspear."
-msgstr ""
+msgstr "아르발은 피묻은창 부족이다."
 
 msgctxt "Narration/&CradleOfFire_Entrance_27_Nosy_Default"
 msgid "How many tribes are there in the volcano?"
-msgstr ""
+msgstr "이 화산에 부족은 얼마나 있지?"
 
 msgctxt "Narration/&CradleOfFire_Entrance_28_Arbal_NPC"
 msgid "Four, Suncloud is dead."
-msgstr ""
+msgstr "넷, 선클라우드 부족은 죽었다."
 
 msgctxt "Narration/&CradleOfFire_Entrance_29_Arbal_NPC"
 msgid ""
@@ -21155,7 +21155,7 @@ msgstr ""
 
 msgctxt "Narration/&CradleOfFire_Entrance_30_Cynical_Default"
 msgid "Such poetic names! I'm quite moved."
-msgstr ""
+msgstr "이야, 참으로 시적인 이름들이네! 조금 감동 먹었어."
 
 msgctxt "Narration/&CradleOfFire_Entrance_30_Friendly_Default"
 msgid "Brok alive? After fighting Arrok?"
@@ -21167,7 +21167,7 @@ msgstr ""
 
 msgctxt "Narration/&CradleOfFire_Entrance_32_Arbal_NPC"
 msgid "Arrok put him on display in market."
-msgstr ""
+msgstr "아록이 그를 본보기로 장터에 가뒀다."
 
 msgctxt "Narration/&CradleOfFire_Entrance_33_Default_Default"
 msgid "So if we could free him, Suncloud would… not be dead anymore?"
@@ -21559,23 +21559,23 @@ msgstr "내가 도전하겠다, 에드로프."
 
 msgctxt "Narration/&CradleOfFire_BloodspearMeeting_14_Edrof_NPC"
 msgid "And I kill you, nyark slave!"
-msgstr "내가 죽여주겠다, 인간 노예!"
+msgstr "내가 죽여주겠다, 나크 노예!"
 
 msgctxt "Narration/&CradleOfFire_BloodspearBeaten_1_Kebra_NPC"
 msgid "Bloodspear - you witness!"
-msgstr ""
+msgstr "피묻은창 부족이여 보아라!"
 
 msgctxt "Narration/&CradleOfFire_BloodspearBeaten_2_Kebra_NPC"
 msgid "Suncloud not dead! "
-msgstr ""
+msgstr "선클라우드는 죽지 않았다! "
 
 msgctxt "Narration/&CradleOfFire_BloodspearBeaten_3_Kebra_NPC"
 msgid "Suncloud nyark slaves defeat Edrof!"
-msgstr ""
+msgstr "선클라우드 나크는 에드로프와 싸워 이겼다!"
 
 msgctxt "Narration/&CradleOfFire_BloodspearBeaten_4_Joker_Default"
 msgid "Slaves, really? Do we have to go along with that?"
-msgstr ""
+msgstr "노예란 말이지? 우리 계속 노예 취급 당하는 거야?"
 
 msgctxt "Narration/&CradleOfFire_BloodspearBeaten_5_Pragmatic_Default"
 msgid "It's that, or fight them all."
@@ -21587,7 +21587,7 @@ msgstr ""
 
 msgctxt "Narration/&CradleOfFire_BloodspearBeaten_7_Kebra_NPC"
 msgid "Brok chief of Bloodspear now! "
-msgstr ""
+msgstr "브록이 피묻은창 부족의 족장이다! "
 
 msgctxt "Narration/&CradleOfFire_BloodspearBeaten_8_Kebra_NPC"
 msgid "Or anyone challenge the nyark for tribe staff?"
@@ -21599,40 +21599,41 @@ msgstr ""
 
 msgctxt "Narration/&CradleOfFire_BloodspearBeaten_10_Pragmatic_Default"
 msgid "What now?"
-msgstr ""
+msgstr "다음 과정은?"
 
 msgctxt "Narration/&CradleOfFire_BloodspearBeaten_11_Brok_NPC"
 msgid "I stay. Kebra show you way."
-msgstr ""
+msgstr "나는 남는다. 케브라가 길을 알려줄 것이다."
 
 msgctxt "Narration/&CradleOfFire_BloodspearBeaten_12_Choice1_WRITTEN"
 msgid "Do we have to kill all other chiefs?"
-msgstr ""
+msgstr "다른 족장들도 다 죽여야 하는 거야?"
 
 msgctxt "Narration/&CradleOfFire_BloodspearBeaten_13_Choice2_WRITTEN"
 msgid "Can't we just find Arrok?"
-msgstr ""
+msgstr "그냥 아록 찾으러 가면 안 돼?"
 
 msgctxt "Narration/&CradleOfFire_BloodspearBeaten_14_Choice3_WRITTEN"
 msgid "Fine."
-msgstr ""
+msgstr "알겠어."
 
+#, fuzzy
 msgctxt "Narration/&CradleOfFire_BloodspearBeaten_15_Choice1_Default"
 msgid "So, do we do the same thing with all the other tribes?"
-msgstr ""
+msgstr "다른 부족도 찾아가서 결투로 죽여야 되는 건가?"
 
 msgctxt "Narration/&CradleOfFire_BloodspearBeaten_16_Brok_NPC"
 msgid "Other tribes different. Not want challenge."
-msgstr ""
+msgstr "다른 이들은 결투가 아니다. 다른 방식을 추구한다."
 
 msgctxt "Narration/&CradleOfFire_BloodspearBeaten_17_Brok_NPC"
 msgid "Kebra explain."
-msgstr ""
+msgstr "케브라가 설명해줄 것이다."
 
 msgctxt "Narration/&CradleOfFire_BloodspearBeaten_18_Choice2_Default"
 msgid ""
 "Seriously, can't we just go ahead and, you know, find Arrok and kill him?"
-msgstr ""
+msgstr "그냥 바로 아록 찾아간 다음에, 죽여버리면 되는 거 아냐?"
 
 msgctxt "Narration/&CradleOfFire_BloodspearBeaten_19_Brok_NPC"
 msgid "Arrok has many warriors. We need all tribes."
@@ -21640,19 +21641,19 @@ msgstr "아록에겐 전사들이 많다. 우린 모든 부족이 필요하다."
 
 msgctxt "Narration/&CradleOfFire_BloodspearBeaten_20_Brok_NPC"
 msgid "But if you not trust Brok, go find Arrok and see."
-msgstr ""
+msgstr "브록의 말을 믿지 못하겠으면, 한 번 아록을 찾아가봐라."
 
 msgctxt "Narration/&CradleOfFire_BloodspearBeaten_21_Choice3_Default"
 msgid "Fine, let's go."
-msgstr ""
+msgstr "알겠어, 가자."
 
 msgctxt "Narration/&CradleOfFire_Bladefang_1_Default_Default"
 msgid "This place is… different."
-msgstr ""
+msgstr "이곳은 좀... 다른걸."
 
 msgctxt "Narration/&CradleOfFire_Bladefang_2_history_Default"
 msgid "Half Manacalon, half orc, all crazy."
-msgstr ""
+msgstr "절반은 마나칼론 양식에, 절반은 오크 흔적이라, 미쳐 돌아가는군."
 
 msgctxt "Narration/&CradleOfFire_Bladefang_3_Violent_Default"
 msgid "Another tribe we need to make friends with?"
@@ -21672,7 +21673,7 @@ msgstr ""
 
 msgctxt "Narration/&CradleOfFire_Bladefang_7_Default_Default"
 msgid "Meaning… before the Cataclysm?"
-msgstr ""
+msgstr "그러니까... 대격변 이전 말이지?"
 
 msgctxt "Narration/&CradleOfFire_Bladefang_8_History_Default"
 msgid "I don't think the Manacalons would be friendly with orcs."
@@ -24007,7 +24008,7 @@ msgstr "왠지 낯익은 풍경 같지 않아?"
 
 msgctxt "Narration/&Banter_Abjuration_WizardTower_Environment_04"
 msgid "It's too quiet!"
-msgstr ""
+msgstr "너무 조용한걸!"
 
 msgctxt "Narration/&Banter_Abjuration_WizardTower_Environment_05"
 msgid "This is huge!"
@@ -24309,11 +24310,11 @@ msgstr "브록이 에드로프를 물리쳤다. 브록은 강한 지도자다!"
 
 msgctxt "Narration/&TextOnlyNPCSpeech_BloodSpear_Tribe_01"
 msgid "Kebra survived! Kebra strong."
-msgstr ""
+msgstr "케브라가 살아남았다! 케브라는 강하다."
 
 msgctxt "Narration/&TextOnlyNPCSpeech_BloodSpear_Tribe_02"
 msgid "Nyark want to trade?"
-msgstr ""
+msgstr "나크, 거래 원하나?"
 
 msgctxt "Narration/&TextOnlyNPCSpeech_BloodSpear_Tribe_03"
 msgid "Bloodspear strong tribe! Bloodspear plenty."
@@ -24353,11 +24354,11 @@ msgstr ""
 
 msgctxt "Narration/&TextOnlyNPCSpeech_BladeFang_Tribe_04"
 msgid "Kebra friend with nyarks?"
-msgstr ""
+msgstr "케브라 나크와 친구인가?"
 
 msgctxt "Narration/&TextOnlyNPCSpeech_BladeFang_Radulf_01"
 msgid "Bring back the greataxe and I will consider an alliance."
-msgstr ""
+msgstr "그레이트액스를 가져오면 동맹을 고려해보겠다."
 
 msgctxt "Narration/&TextOnlyNPCSpeech_BladeFang_Radulf_02"
 msgid "This sigil will unlock the door to my challenge."
