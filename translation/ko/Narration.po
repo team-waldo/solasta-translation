@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-11-17 12:19+0000\n"
-"Last-Translator: lull_ <lull_@naver.com>\n"
+"PO-Revision-Date: 2021-11-20 13:33+0000\n"
+"Last-Translator: Jin <byungjinjun55@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
 "Language: ko\n"
@@ -32,7 +32,7 @@ msgstr "장교 - 제 25군단. Mar 15세 17년. "
 
 msgctxt "Narration/&NecromancyTextObj05"
 msgid "Captain Fancy-pants can muck out his own damn horse."
-msgstr "고상한 대장님께선 지 좆같은 말 정도는 알아서 청소하시라 그래."
+msgstr "고상한 대장님께선 지 좆같은 말 정도는 알아서 목욕시키시라 그래."
 
 msgctxt "Narration/&NecromancyTextObj09"
 msgid "Ellivir Malorian, Guard Captain, 1875-2367"
@@ -68,11 +68,11 @@ msgstr "강령술 연구소 실습, 마스터 마르드라흐트 지음"
 
 msgctxt "Narration/&NecromancyTextObj17"
 msgid "Caution: Explosive"
-msgstr "폭발 주의"
+msgstr "주의: 폭발물"
 
 msgctxt "Narration/&NecromancyTextObj18"
 msgid "Caution: Highly Flammable"
-msgstr "인화성 물질 주의"
+msgstr "주의: 인화성 물질"
 
 msgctxt "Narration/&NecromancyTextObj20"
 msgid "Spirit and Flesh: Advanced Studies in Necromancy"
@@ -88,7 +88,7 @@ msgstr "마지막 실험 3042-3에 대한 메모"
 
 msgctxt "Narration/&NecromancyTextObj23"
 msgid "A strange-looking symbol, probably mystical."
-msgstr "아마 신비한 의미가 있는, 이상하게 생긴 기호."
+msgstr "이상하게 생긴 기호. 아마 신비한 의미를 지닌 것 같다."
 
 msgctxt "Narration/&NecromancyTextObj24"
 msgid "A rune or glyph of some unknown type."
@@ -96,7 +96,7 @@ msgstr "알 수 없는 형태의 상형문자 또는 룬문자."
 
 msgctxt "Narration/&NecromancyTextObj25"
 msgid "A mystical symbol, possibly inactive."
-msgstr "사용되지 않는 것 같은, 신비로운 기호."
+msgstr "신비로운 기호. 비활성화 된 것 같다."
 
 msgctxt "Narration/&NecromancyTextObj26"
 msgid "What's wrong with all these mirrors?"
@@ -180,7 +180,7 @@ msgstr "황무지에서 개죽음이나 당하라고…"
 
 msgctxt "Narration/&TextOnlyNPCSpeech_ArwinMerton02"
 msgid "You were still filling your diapers when I killed my first ghoul…"
-msgstr "내가 처음으로 구울을 죽였을 때 너는 기저귀 신세였겠지…"
+msgstr "내가 처음으로 구울을 죽였을 때 겨우 너는 기저귀나 차고 있었지…"
 
 msgctxt "Narration/&TextOnlyNPCSpeech_ArwinMerton03"
 msgid "I heard your stories. Not impressive."
@@ -246,11 +246,11 @@ msgstr "얘기 나눌 시간이 없네요. 미안합니다!"
 
 msgctxt "Narration/&TextOnlyNPCSpeech_CoparannKeepGuard01"
 msgid "Keep out, strangers!"
-msgstr "용건 없이는 입장 금지입니다!"
+msgstr "물러나시오, 이방인!"
 
 msgctxt "Narration/&TextOnlyNPCSpeech_CoparannKeepGuard02"
 msgid "The Baron's waiting for you."
-msgstr "남작님께서 당신을 기다리고 계십니다."
+msgstr "남작님께서 당신을 기다리고 계시오."
 
 msgctxt "Narration/&TextOnlyNPCSpeech_CaptainIronshell01"
 msgid "Stay in the light, citizens!"
@@ -322,11 +322,11 @@ msgstr "정말 아까웠어."
 
 msgctxt "Narration/&Banter_Caerlem_Beryl_01"
 msgid "I can't believe Lisbath stayed behind…"
-msgstr "리스벳이 뒤에 남았다니 믿을수 없어…"
+msgstr "리스베스가 뒤에 남았다니 믿을수 없어…"
 
 msgctxt "Narration/&Banter_Caerlem_Beryl_02"
 msgid "We're all gonna die…"
-msgstr "우린 모두 죽을꺼야..."
+msgstr "우린 모두 죽을꺼야…"
 
 msgctxt "Narration/&Banter_Caerlem_Beryl_03"
 msgid "I'll have to tell the captain's wife."
@@ -346,7 +346,7 @@ msgstr "절 잡으려면 싸워야만 할 겁니다."
 
 msgctxt "Narration/&Banter_Caerlem_Robar_01"
 msgid "Up to my knees in the mud, nothing new here."
-msgstr "무릎까지 차오른 진흙탕에 잠겨 있다니, 별 다른일 없네요."
+msgstr "무릎까지 차오른 진흙탕에 잠겨 있다니, 별 다른 일 없네요."
 
 msgctxt "Narration/&Banter_Caerlem_Robar_02"
 msgid "Shit food, shit shoes, business as usual."
@@ -390,7 +390,7 @@ msgstr "객실이 준비되어 있습니다."
 
 msgctxt "Narration/&Banter_ButlerRavensworth_03"
 msgid "Good day, senior deputies."
-msgstr "좋은 하루 되십시오, 고위 대리인님."
+msgstr "좋은 하루 되십시오, 선임 대리인님."
 
 msgctxt "Narration/&Banter_ButlerRavensworth_04"
 msgid "Clear skies… as they say!"
@@ -442,7 +442,7 @@ msgstr "누군가 성을 미로로 바꿨군."
 
 msgctxt "Narration/&Banter_BoneKeep_12"
 msgid "Someone paranoid, you mean?"
-msgstr "편집증이라도 있는 건가?"
+msgstr "편집증 환자 말이지?"
 
 msgctxt "Narration/&Banter_BoneKeep_13"
 msgid "We're going to die here."
@@ -498,11 +498,11 @@ msgstr "왔던 데로 돌아가는 건 아니라고 해줘…"
 
 msgctxt "Narration/&Banter_BoneKeep_26"
 msgid "So, no rune activated on that teleporter."
-msgstr "흠, 텔레포터의 룬이 활성화되지 않았군."
+msgstr "흠, 순간이동 장치의 룬이 활성화되지 않았군."
 
 msgctxt "Narration/&Banter_BoneKeep_27"
 msgid "I guess we need to reset the teleporter."
-msgstr "아마도 텔레포터를 재설정해야 할 것 같아."
+msgstr "아마도 순간이동 장치를 재설정해야 할 것 같아."
 
 msgctxt "Narration/&Banter_BoneKeep_28"
 msgid "I think we took a wrong turn."
@@ -514,7 +514,7 @@ msgstr "흠...우리 넷을 위한 네 개의 바닥판이라?"
 
 msgctxt "Narration/&Banter_BoneKeep_30"
 msgid "And… no rune on that teleporter, either."
-msgstr "그리고...저 텔레포터에도 룬이 없네."
+msgstr "그리고...저 순간이동 장치에도 룬이 없네."
 
 msgctxt "Narration/&Banter_BoneKeep_31"
 msgid "I think this slab has triggered something!"
@@ -586,7 +586,7 @@ msgstr "정말 남작이 드워프라고?"
 
 msgctxt "Narration/&Banter_Abjuration_Kythaela_12"
 msgid "I can't call a dwarf my lord, can I?"
-msgstr "내가 드워프를 존대할 수 있을 것 같으냐?"
+msgstr "내가 드워프에게 존대할 수 있을 것 같으냐?"
 
 msgctxt "Narration/&Banter_Abjuration_Kythaela_13"
 msgid "He's rude. But he is a dwarf, after all."
@@ -703,7 +703,7 @@ msgstr "돕고자 하는 마음으로 가득하구만, 안그래?"
 
 msgctxt "Narration/&Telema_8_Entrance_Cleric"
 msgid "That must be their camp over there."
-msgstr "저곳이 스캐빈저들의 캠프인 것 같습니다."
+msgstr "저 곳이 스캐빈저들의 캠프인 것 같습니다."
 
 msgctxt "Narration/&Telema_9_Entrance_Cleric"
 msgid "Come on, let's go."
@@ -867,7 +867,7 @@ msgstr "오크들 수고나 덜어줄겸 차라리 서로 죽이지 그래?"
 
 msgctxt "Narration/&Telema_48_MeetingScavs_Rogue"
 msgid "What's our help worth to you, anyway?"
-msgstr "그런데 우리가 도와주면 얼마를 줄거야?"
+msgstr "그나저나 우리가 도와주면 얼마를 줄거야?"
 
 msgctxt "Narration/&Telema_49_MeetingScavs_Fighter"
 msgid "Stop it!"
@@ -1095,7 +1095,7 @@ msgstr "하루치 식량일 뿐이잖아, 데크."
 
 msgctxt "Narration/&Telema_105_MeetingScavs_Dekchecksuccess"
 msgid "All right, take the damn food!"
-msgstr "알았어, 가져가 그럼!"
+msgstr "알았어, 가져가버려 그럼!"
 
 msgctxt "Narration/&Telema_106_MeetingScavs_Dekchecksuccess"
 msgid "Thank you!"
@@ -1187,7 +1187,7 @@ msgstr "구 제국은 노예제와 종족차별 위에 세워졌었습니다."
 
 msgctxt "Narration/&Telema_127_Room01_BasRelief_Rogue"
 msgid "Thanks for the (yawn) history lesson."
-msgstr "(하품) 역사 수업 고맙네요."
+msgstr "역사 수업 (하품) 고맙네요."
 
 msgctxt "Narration/&Telema_128_Room01_BasRelief_Rogue"
 msgid "Now… does this look valuable to you?"
@@ -1319,7 +1319,7 @@ msgstr "황무지에서는, 어떤 일도 일어날 수 있거든요."
 
 msgctxt "Narration/&Telema_157_Room01_Door_Rogue"
 msgid "Do you have a spell to open it?"
-msgstr "이걸 열기 위한 주문 가지고 있어?"
+msgstr "이걸 열 수 있는 주문 가지고 있어?"
 
 msgctxt "Narration/&Telema_158_Room01_Door_Wizard"
 msgid "No."
@@ -1339,11 +1339,11 @@ msgstr "정말로? 여길 기어서 지나가야 한단 말입니까?"
 
 msgctxt "Narration/&Telema_162_Room01_Crawl_Rogue"
 msgid "Yeah, but you don't mind being on your knees, do you?"
-msgstr "맞아, 아 혹시 무릎 꿇는 거를 견딜 수 없으신가?"
+msgstr "맞아, 근데 넌 매일같이 무릎 꿇잖아, 안 그래?"
 
 msgctxt "Narration/&Telema_163_Room01_Crawl_Cleric"
 msgid "Very funny."
-msgstr "참 웃기는 군요."
+msgstr "그것 참 재미있군요."
 
 msgctxt "Narration/&Telema_164_OrcCamp_approach_Fighter"
 msgid "I see light ahead!"
@@ -1504,11 +1504,11 @@ msgstr "마법 수련생들 이군요. 마스터들이 여기서 주문을 가�
 
 msgctxt "Narration/&Telema_198_Shaft_entrance_Fighter"
 msgid "Do spiders like magic shows?"
-msgstr "거미들은 마술 쇼를 좋아하나요?"
+msgstr "거미들이 마술 쇼를 좋아하나요?"
 
 msgctxt "Narration/&Telema_199_Shaft_entrance_Fighter"
 msgid "Because I see a lot of webs."
-msgstr "거미줄이 매우 많이 보인다 구요."
+msgstr "여긴 거미줄 투성인데요."
 
 msgctxt "Narration/&Telema_200_Shaft_entrance_Wizard"
 msgid "Deep spiders. We will have to be careful."
@@ -1712,11 +1712,11 @@ msgstr "난 황무지에서 오래된 물건들을 가져오는 걸로 생계를
 
 msgctxt "Narration/&Telema_248_Rescue_Choice"
 msgid "What about Lena and Dek?"
-msgstr "리나와 덱은요?"
+msgstr "리나와 데크는요?"
 
 msgctxt "Narration/&Telema_249_Rescue_Answer"
 msgid "Do you know Lena and Dek? They seem like quite a pair!"
-msgstr "리나와 덱은 아는 사람들인가요? 멋진 파트너같아 보이던데요!"
+msgstr "리나와 데크는 아는 사람들인가요? 멋진 파트너같아 보이던데요!"
 
 msgctxt "Narration/&Telema_250_Rescue_Hector"
 msgid "Oh, those two… always fighting over something."
@@ -1816,7 +1816,7 @@ msgstr "우리는 함께 싸웠었죠...그는 제게 빚을 진 것으로 생�
 
 msgctxt "Narration/&Telema_274_Rescue_Hector"
 msgid "And he gave me this."
-msgstr "그리고 그가 제게 이 걸 주었죠."
+msgstr "그리고 그가 제게 이걸 주었죠."
 
 msgctxt "Narration/&Telema_275_After_Rest_Fighter"
 msgid "I think we're all ready to go."
@@ -1856,7 +1856,7 @@ msgstr "여기! 이것 좀 봐."
 
 msgctxt "Narration/&Telema_284_WayBack_Cleric"
 msgid "The stone is carved."
-msgstr "돌이 새겨져 있군요."
+msgstr "돌에 뭔가가 새겨져 있군요."
 
 msgctxt "Narration/&Telema_285_WayBack_Fighter"
 msgid "Are we back near the ruins?"
