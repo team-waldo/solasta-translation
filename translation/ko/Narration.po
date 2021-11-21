@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-11-20 13:33+0000\n"
+"PO-Revision-Date: 2021-11-21 06:59+0000\n"
 "Last-Translator: Jin <byungjinjun55@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
@@ -1952,7 +1952,7 @@ msgstr "우리가 그럴것 같아?"
 
 msgctxt "Narration/&Tavern_01_1_Stealth_Normal"
 msgid "This beer tastes like donkey piss. Not that I'm complaining."
-msgstr "이 맥주는 당나귀 오줌 맛이 나는군. 말하자면 그래."
+msgstr "이 맥주는 당나귀 오줌 맛이 나는군. 딱히 불만 있는 건 아니긴 한데."
 
 msgctxt "Narration/&Tavern_01_2_Explorer_Default"
 msgid "Hope I'm not too late."
@@ -2037,7 +2037,7 @@ msgstr "놈들이 나를 웬 낡은 감옥으로 끌고 가서는... "
 
 msgctxt "Narration/&Tavern_01_19_Explorer_Normal"
 msgid "…and tossed me in a filthy cell that smelled of rat piss."
-msgstr "... 쥐 오줌 냄새나는 더러운 감옥에다 내팽개치더라고."
+msgstr "... 쥐 오줌 냄새나는 더러운 감방에다 내팽개치더라고."
 
 msgctxt "Narration/&Tavern_01_20_Explorer_Slang"
 msgid "Well, I was heading down a lonely road… "
@@ -2114,7 +2114,7 @@ msgstr "맥주나 한 잔 더 마시자고. 여기말고 더 나은 곳이 있�
 
 msgctxt "Narration/&Tavern_02_7_Spellcaster_Greedy"
 msgid "I don't mind waiting as long as they pay us for our darned time. "
-msgstr "이 빌어먹을 시간에 걸맞은 돈만 준다면 얼마든지 기다릴 수 있어. "
+msgstr "이 빌어먹을 시간에 맞는 시급만 준다면 얼마든지 기다릴 수 있지. "
 
 msgctxt "Narration/&Tavern_02_8_Spellcaster_Aristocrat"
 msgid ""
@@ -2179,7 +2179,7 @@ msgstr "신경쓰지 마. 그냥 술 취한 스캐빈저일 뿐이야."
 
 msgctxt "Narration/&Tavern_02_21_Stealth_Cynical"
 msgid "Everyone's a critic."
-msgstr "비평가 납셨군."
+msgstr "비평가들 납셨군."
 
 msgctxt "Narration/&Tavern_02_22_Stealth_Einar"
 msgid "I'm so tired of stupid drunks ranting about mythical creatures."
@@ -2209,7 +2209,7 @@ msgstr "개소리군!"
 
 msgctxt "Narration/&Tavern_02_28_Fighter_Formal"
 msgid "That is preposterous."
-msgstr "터무니없군."
+msgstr "터무니 없는 소리."
 
 msgctxt "Narration/&Tavern_02_29_Spellcaster_Normal"
 msgid "High in the hills, two days west of here."
@@ -2334,7 +2334,7 @@ msgstr "병신 같군."
 
 msgctxt "Narration/&Tavern_03_18_Explorer_Formal"
 msgid "So he was in dire straits?"
-msgstr "그래서 심각한 곤경에 처했던 거야?"
+msgstr "그래서 그 친구가 심각한 곤경에 처했던 거야?"
 
 msgctxt "Narration/&Tavern_03_19_Stealth_Default"
 msgid ""
@@ -2386,7 +2386,7 @@ msgctxt "Narration/&Tavern_045_Carran_NPC"
 msgid ""
 "Well, if you are here for Lord Carran of the Legacy Council, that would be "
 "me."
-msgstr "음, 당신들이 유산 위원회의 캐런 경을 위해 온거라면, 제가 캐런 입니다."
+msgstr "음, 당신들이 유산 위원회의 캐런 경을 만나러 온거라면, 제가 캐런 입니다."
 
 msgctxt "Narration/&Tavern_046_Fighter_Cynical_WRITTEN"
 msgid "So you're real, then?"
@@ -2518,7 +2518,7 @@ msgctxt "Narration/&Tavern_049_04_WhoAreYou_Carran01"
 msgid ""
 "Not exactly, no. I'll be your contact with the Legacy Council, which you "
 "will serve as deputies."
-msgstr "엄밀히 따지자면 아닙니다. 저는 유산 평의회의 연락책 역할이죠. 여러분이 대리인으로서 일하게 될 곳 말입니다."
+msgstr "아뇨. 엄밀히는 아닙니다. 저는 유산 평의회의 연락책 역할이죠. 여러분이 대리인으로서 일하게 될 곳 말입니다."
 
 msgctxt "Narration/&Tavern_049_04_WhoAreYou_Carran02"
 msgid "That's why we need to go there and get you sworn in."
@@ -2552,7 +2552,7 @@ msgstr "황무지란 무엇입니까?"
 
 msgctxt "Narration/&Tavern_049_04_Council_More_Badlands_Choice"
 msgid "What are the Badlands, really?"
-msgstr "황무지란 과연 무엇입니까?"
+msgstr "대체 황무지란 무엇입니까?"
 
 msgctxt "Narration/&Tavern_049_04_Council_More_Badlands_Carran01"
 msgid ""
@@ -2860,7 +2860,7 @@ msgstr "공국 전체를 통치하는 그녀보다 중요한 사람이 있나요
 
 msgctxt "Narration/&Council_00_12_Carran_NPC_02"
 msgid "Lady Kean, the Council's Oathkeeper, is trusted by all."
-msgstr "존경받는 킨 경께서 의회의 선서수호자이십니다."
+msgstr "존경받는 킨 경께서 의회의 서약집행인이십니다."
 
 msgctxt "Narration/&Council_00_15_Chamberlain_NPC"
 msgid "Lord Carran!"
@@ -2876,7 +2876,7 @@ msgstr "이 자들이 당신의 새로운 대리인인가요?"
 
 msgctxt "Narration/&Council_00_18_Carran_NPC"
 msgid "They are, m'lady."
-msgstr "그렇습니다."
+msgstr "그렇습니다. 킨 경."
 
 msgctxt "Narration/&Council_00_19_Serious_Default"
 msgid "Very well. Pay attention. All of you."
@@ -2953,7 +2953,7 @@ msgstr "축하 행진이라도 있을 줄 알았어?"
 
 msgctxt "Narration/&Council_00_32_Longenough_WRITTEN"
 msgid "That was long enough."
-msgstr "너무 길었다고."
+msgstr "충분히 길었다고."
 
 msgctxt "Narration/&Council_00_32_Exitline_WRITTEN"
 msgid "Let's focus on the mission."
@@ -2965,7 +2965,7 @@ msgstr "뭘 기대한 거야? 축하 행진? "
 
 msgctxt "Narration/&Council_00_32_joker_Slang"
 msgid "Were you hoping for a kiss from the Princess?"
-msgstr "입맞춤이라도 받을 줄 알았어?"
+msgstr "공주님 입맞춤이라도 받을 줄 알았어?"
 
 msgctxt "Narration/&Council_00_33_Any_Default"
 msgid "I suppose you imagined something more pompous."
@@ -3194,7 +3194,7 @@ msgstr "그리고 또 치료제나 해독제 같은 다른 물건들도 있답�
 
 msgctxt "Narration/&GeneralStore_Dialog_01_11_StoreOwner_NPC"
 msgid "They might come in handy. Ever heard of deep spiders?"
-msgstr "그게 도움이 될겁니다. 깊은골 거미에 대해 들어본적 있으신가요?"
+msgstr "그게 도움이 될 겁니다. 깊은 곳 거미에 대해 들어본적 있으신가요?"
 
 msgctxt "Narration/&Bartender_Dialog_01_1_Bartender_NPC"
 msgid "Hello, adventurers!"
@@ -3267,7 +3267,7 @@ msgstr "뭐요? 맥주 맛이 별로라는 불만은 생전 처음 들어봅니�
 
 msgctxt "Narration/&Bartender_Dialog_01_13_Bartender_NPC"
 msgid "Maybe your palate is not refined enough."
-msgstr "당신의 미각이 덜떨어진 거겠죠."
+msgstr "당신의 미각이 덜 떨어진 거겠죠."
 
 msgctxt "Narration/&Bartender_Dialog_01_14_Any_Default"
 msgid "We'd like to stay for the night."
@@ -3600,7 +3600,7 @@ msgctxt "Narration/&Scavengers_Dialog_02_45_Quartermaster_NPC"
 msgid ""
 "Well… it's risky, and clerics need pretty gemstones for these spells… but "
 "can you really put a price on peace of mind?"
-msgstr "글쎄요...그건 위험하고, 성직자들이 부활을 위해 예쁜 보석이 필요해서 그렇죠...하지만 마음의 평온값으론 싼거 아닐까요?"
+msgstr "글쎄요...그건 위험하고, 성직자들이 부활을 위해 예쁜 보석이 필요해서 그렇죠...하지만 마음의 평온 값으론 싼거 아닐까요?"
 
 msgctxt "Narration/&Scavengers_Dialog_02_46_Authority_Default"
 msgid "Well, thank you. I guess that's it for us."
@@ -3824,7 +3824,7 @@ msgctxt "Narration/&CaerLem_Inside31_Selfpres_Noflag"
 msgid ""
 "Right. Whoever did this could still be around, and we don't want them "
 "hearing us."
-msgstr "그래. 누가 그랬는지는 몰라도 여전히 이 주변에 있을 수 있고, 놈들이 엿듣게 해서는 안 돼."
+msgstr "그래. 누가 그랬는지는 몰라도 여전히 이 주변에 있을 수 있고, 소란 떨면 우리도 위험해져."
 
 msgctxt "Narration/&CaerLem_Inside32_Helpful_Noflag"
 msgid "We should look for survivors. Fifty people can't just vanish."
@@ -3836,7 +3836,7 @@ msgstr "저거 봤어?"
 
 msgctxt "Narration/&CaerLem_Seenthem34_Starter_Slang"
 msgid "What the heck was that?"
-msgstr "제기랄, 저게 뭐야?"
+msgstr "도대체 저게 뭐야?"
 
 msgctxt "Narration/&CaerLem_Seenthem35_Partner_Default"
 msgid "Someone's hiding inside the tower."
