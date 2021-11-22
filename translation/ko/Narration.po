@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-11-21 06:59+0000\n"
+"PO-Revision-Date: 2021-11-22 12:46+0000\n"
 "Last-Translator: Jin <byungjinjun55@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
@@ -3904,7 +3904,7 @@ msgstr "저 사람들이 잘못된 거야? 아니면 내가 잘못된 거야?"
 
 msgctxt "Narration/&CaerLem_Seenthem53_Pragmatism_Slang"
 msgid "Lost their minds, the lot of 'em."
-msgstr "저 작자들 정신이 돌아 버렸군."
+msgstr "저 작자들 정신이 나가 버렸군. 완전히."
 
 msgctxt "Narration/&CaerLem_Seenthem54_Pragmatism_Formal"
 msgid "Clearly their distressing experience has affected their reason."
@@ -4010,7 +4010,7 @@ msgstr "그게 뭐야?"
 
 msgctxt "Narration/&CaerLem_Nego21_Spy_Default"
 msgid "Just fishing. Give it a moment."
-msgstr "낚시질 중이야. 잠시만 기다려 줘."
+msgstr "낚시 중이야. 잠시만 기다려 줘."
 
 msgctxt "Narration/&CaerLem_Nego22_Darik_NPC"
 msgid "Magic pillows give us sweet dreams."
@@ -4523,7 +4523,7 @@ msgstr "그렇다면 예의를 지키는 법을 더 배워야겠네요. "
 
 msgctxt "Narration/&CaerLem_Lisbath35_Lisbath_NPC"
 msgid "And I don't like to be accused of… whatever. "
-msgstr "그리고 난 의심을 받는 걸 좋아하지 않아요...뭐던간에요. "
+msgstr "그리고 난 의심을 받는 걸 좋아하지 않아요...뭐던 간에요. "
 
 msgctxt "Narration/&CaerLem_Lisbath36_Defaulter_WRITTEN"
 msgid "Never mind."
@@ -5579,7 +5579,7 @@ msgstr "이건 뭐지?"
 
 msgctxt "Narration/&CaerLem_InspectTeleporter2_Starter_Formal"
 msgid "What is this thing?"
-msgstr "이건 뭐 같아?"
+msgstr "이 물건은 뭐지?"
 
 msgctxt "Narration/&CaerLem_InspectTeleporter3_Arcane_Normal"
 msgid "I think it was a Minor Gate."
@@ -5647,7 +5647,7 @@ msgstr "심문관 복장의 일부 같은걸."
 
 msgctxt "Narration/&CaerLem_InspectTirmarian4_Partner_Default"
 msgid "So that's from… the tower up there?"
-msgstr "그러니까 이거... 탑에서 나온 거야?"
+msgstr "그러니까 이거... 위에 있던 탑에서 나온 거야?"
 
 msgctxt "Narration/&CaerLem_InspectTirmarian5_Starter_Default"
 msgid "Maybe we're inside the tower?"
@@ -5958,7 +5958,7 @@ msgstr "지금 농담하는 건가요?"
 
 msgctxt "Narration/&Council01_65_NPC_Einar"
 msgid "The Sorr-Akkath are no laughing matter, Lord Faisech!"
-msgstr "소르아카스는 우스갯소리가 아닙니다, 페이세크 경!"
+msgstr "소라카스는 우스갯소리가 아닙니다, 페이세크 경!"
 
 msgctxt "Narration/&Council01_66_NPC_Tower_Faisech"
 msgid "Oh, you know what I mean."
@@ -6067,7 +6067,7 @@ msgstr "참! 그렇다고 이 허튼소리를 믿으라는 겁니까?"
 
 msgctxt "Narration/&Council01_89_NPC_Einarium_Sunblaze_2"
 msgid "Two sightings - independent witnesses! When will you see the truth?"
-msgstr "각각 다른 증인의 두 목격! 언제쯤 진실에 다다르겠습니까?"
+msgstr "각각 다른 증인의 두 목격! 더 무엇이 필요합니까?"
 
 msgctxt "Narration/&Council01_90_NPC_Morgan_2"
 msgid "Yes, sir!"
@@ -6231,7 +6231,7 @@ msgstr "그 심술궂은 드워프 여성은 누구입니까?"
 
 msgctxt "Narration/&Council01_126_PlayerChoice_Einar"
 msgid "We had to stand by Merran… We know she speaks the truth."
-msgstr "메런 대위를 끝까지 지지했어야 했습니다... 그녀는 진실을 말했어요."
+msgstr "메런 대위를 끝까지 할 수 밖에 없었습니다... 그녀는 진실을 말했어요."
 
 msgctxt "Narration/&Council01_127_PlayerChoice_Nobility"
 msgid "I must say, the Princess was… not what I expected."
@@ -6456,7 +6456,7 @@ msgstr "그렇습니다. 소락이 공격하기 전에 그가 어디로 갔었�
 
 msgctxt "Narration/&AfterCouncil01_Beryl_14_Any_Normal"
 msgid "Right, Daliat. Where did he go before the Soraks attacked?"
-msgstr "달리앗 맞아요. 소락이 공격하기 전에 그는 어디로 갔을까요?"
+msgstr "맞아요, 달리앗. 소락이 공격하기 전에 그는 어디로 갔었을까요?"
 
 msgctxt "Narration/&AfterCouncil01_Beryl_15_Beryl_NPC"
 msgid ""
@@ -6744,7 +6744,7 @@ msgstr "모두 같은 조직에 속해 있는 것 같아."
 
 msgctxt "Narration/&TowerOfMagicFight1over_11_Cynical_Formal"
 msgid "Perhaps it's a crude marker that indicates their allegiance. "
-msgstr "소속감을 나타내는 일종의 조잡한 표식이겠지."
+msgstr "소속감을 나타내는 일종의 조잡한 표식이겠지. "
 
 msgctxt "Narration/&TowerOfMagicFight1over_12_Pragmatic_Default"
 msgid "Well, there's no reason to assume it signifies something sinister."
@@ -6764,7 +6764,7 @@ msgstr "소락의 신, 소르타르의 수많은 이름 중 하나이지."
 
 msgctxt "Narration/&TowerOfMagicFight1over_16_Anyother_Default"
 msgid "Are you kidding me?"
-msgstr "뭐라고?"
+msgstr "진심이야?"
 
 msgctxt "Narration/&TowerOfMagicFight1over_17_Anyother_Default"
 msgid "That's not good."
@@ -6784,7 +6784,7 @@ msgstr "그래, 하지만 도처에 있는 소락을 주의해야 할 거야."
 
 msgctxt "Narration/&TowerOfMagicFight1over_21_Violence_Default"
 msgid "If a Sorak shows up, we need to cut off its head."
-msgstr "소락이 나타나면, 머리를 잘라 버리자고."
+msgstr "소락이 나타나면, 머리를 잘라야지."
 
 msgctxt "Narration/&TowerOfMagicLoneWorker_1_Starter_Default"
 msgid "Please don't kill me."
@@ -6950,7 +6950,7 @@ msgstr "뒤죽박죽인 곳이군."
 
 msgctxt "Narration/&TowerOfMagicReversedGravity_3_Partner_Default"
 msgid "Magic from a time long forgotten. "
-msgstr "오래도록 잊힌 마법이야."
+msgstr "오래도록 잊힌 마법이야. "
 
 msgctxt "Narration/&TowerOfMagicReversedGravity_4_Joker_Default"
 msgid "Remind me not to take a dump in that hole."
@@ -6970,7 +6970,7 @@ msgstr "갑자기 재밌는 게 떠올랐어…"
 
 msgctxt "Narration/&TowerOfMagicReversedGravity_8_Prag_Default"
 msgid "Can you keep it to yourself?"
-msgstr "입도 뻥긋하지 마!"
+msgstr "좀 혼자만 알고 있을 순 없어?"
 
 msgctxt "Narration/&TowerOfMagicReversedGravity_9_Starter_Default"
 msgid "Might be good to remember what these blue currents can do."
