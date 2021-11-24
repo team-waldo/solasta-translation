@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-11-23 12:02+0000\n"
-"Last-Translator: Nickel <psb3421@naver.com>\n"
+"PO-Revision-Date: 2021-11-24 11:40+0000\n"
+"Last-Translator: lull_ <lull_@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
 "Language: ko\n"
@@ -9218,97 +9218,97 @@ msgstr "위험을 무릅쓰고 황무지에서 보석을 수색했다."
 
 msgctxt "Narration/&Council4_26_Crownbearer_Normal"
 msgid "We trusted you to keep your word and leave us the Crown."
-msgstr ""
+msgstr "우리는 당신이 약속을 지키고 왕관을 우리 손에 맡겨둘거라 믿었습니다."
 
 msgctxt "Narration/&Council4_27_Danantar_NPC"
 msgid "If I may, I think we need more time to consider the situation."
-msgstr ""
+msgstr "괜찮으시다면, 우리가 이 상황에 대해 고려해볼 시간이 좀 더 필요하다고 봅니다."
 
 msgctxt "Narration/&Council4_28_Faisech_NPC"
 msgid "More time? How much time?"
-msgstr ""
+msgstr "시간이요? 대체 얼마나 더 필요하다는겁니까?"
 
 msgctxt "Narration/&Council4_29_Danantar_NPC"
 msgid "Maybe just… give it a night."
-msgstr ""
+msgstr "하루.. 하룻밤정도만 더 지켜봅시다."
 
 msgctxt "Narration/&Council4_30_Gormsdottir_NPC"
 msgid "I could use the day to consult with my people."
-msgstr ""
+msgstr "그 시간동안 저도 우리 측 사람들과 의논해볼 수 있겠군요."
 
 msgctxt "Narration/&Council4_31_Keenmind_NPC"
 msgid "So could I."
-msgstr ""
+msgstr "저 또한 마찬가지입니다."
 
 msgctxt "Narration/&Council4_32_Danantar_NPC"
 msgid "Fine, then! Anyone against?"
-msgstr ""
+msgstr "좋습니다. 그럼 누구 이의제기하실분?"
 
 msgctxt "Narration/&Council4_33_LeiraKean_NPC"
 msgid "Thank you, Lord Danantar."
-msgstr ""
+msgstr "감사합니다 다난타르경."
 
 msgctxt "Narration/&Council4_34_LeiraKean_NPC"
 msgid "The Legacy Council is now adjourned!"
-msgstr ""
+msgstr "유산 평의회는 휴정하겠습니다."
 
 msgctxt "Narration/&Council4_35_Selfpres_Normal"
 msgid "I have a bad feeling about this."
-msgstr ""
+msgstr "왠지 나쁜 예감이 드는데."
 
 msgctxt "Narration/&Council4_36_Crownbearer_Normal"
 msgid "I knew it! They'll take the Crown, and never mind what that does to me!"
-msgstr ""
+msgstr "이제 알겠군! 저들은 왕관을 가져갈거야. 그리고 저 물건이 내게 무슨짓을 했는지는 신경도 안 쓰겠지!"
 
 msgctxt "Narration/&Council4_37_Crownbearer_Slang"
 msgid "Typical! Sat there on their pretty chairs… doesn't matter if I die!"
-msgstr ""
+msgstr "뻔하구만! 저 예쁜 의자에 쳐박힌채로.. 내가 죽던 말던 상관도 안하지!"
 
 msgctxt "Narration/&Council4_38_Authority_Normal"
 msgid "This is wrong."
-msgstr ""
+msgstr "이건 잘못됐어."
 
 msgctxt "Narration/&Council4_39_Selfpres_Normal"
 msgid "We could run."
-msgstr ""
+msgstr "우린 도망칠 수도 있어."
 
 msgctxt "Narration/&Council4_40_Authority_Normal"
 msgid "What's the point? We know what's at stake."
-msgstr ""
+msgstr "요점이 뭐야? 우린 지금 무엇이 문제인지 알고있어."
 
 msgctxt "Narration/&Council4_41_Crownbearer_Normal"
 msgid "They're right about one thing."
-msgstr ""
+msgstr "그래도 그들은 한가지는 맞췄군."
 
 msgctxt "Narration/&Council4_42_Crownbearer_Normal"
 msgid "The Soraks will keep coming after us. After the Crown."
-msgstr ""
+msgstr "소락의 무리가 우릴 뒤쫓고있어. 왕관을 따라서."
 
 msgctxt "Narration/&Council4_43_Authority_Normal"
 msgid ""
 "We could retrace our steps - go back to where we found the gems. Perhaps "
 "there's a trail we overlooked."
-msgstr ""
+msgstr "우리는 우리가 보석을 발견한곳까지 되돌아가면서 지나온 길을 되짚어볼 수도 있어. 어쩌면 우리가 놓친 흔적이 있을거야."
 
 msgctxt "Narration/&Council4_44_Crownbearer_Normal"
 msgid "There's nothing anymore - I can't feel another gem anywhere!"
-msgstr ""
+msgstr "거기엔 아무것도 남아있지 않아. 나는 다른 보석에 대해서 그 어떤 것도 느낄 수가 없어!"
 
 msgctxt "Narration/&Council4_45_HeddlonSurespell_NPC"
 msgid "Excuse me, senior deputies."
-msgstr ""
+msgstr "실례합니다 선임 대리인님."
 
 msgctxt "Narration/&Council4_46_Highclass_Formal"
 msgid "Master Surespell."
-msgstr ""
+msgstr "마스터 슈어스펠님."
 
 msgctxt "Narration/&Council4_47_Any_Normal"
 msgid "Clear skies, Heddlon."
-msgstr ""
+msgstr "맑은 하늘이 함께하시길, 헤들론."
 
 msgctxt "Narration/&Council4_48_HeddlonSurespell_NPC"
 msgid "I would advise you to avoid the Palace Residence tonight."
-msgstr ""
+msgstr "오늘 밤에는 왕궁 거주구를 피해 떠나있으시길 권해드립니다."
 
 msgctxt "Narration/&Council4_49_Crownbearer_Normal"
 msgid "What? Why?"
@@ -9326,31 +9326,31 @@ msgstr "묘지기의 술통에도 침대가 있으니 거기서 하룻밤을 보
 
 msgctxt "Narration/&Council4_52_Selfpres_Normal"
 msgid "What kind of advice is that?"
-msgstr ""
+msgstr "그게 대체 무슨 조언입니까?"
 
 msgctxt "Narration/&Council4_53_Selfpres_Formal"
 msgid "You must realize your suggestion is… unusual. Suspicious, even."
-msgstr ""
+msgstr "당신의 조언은 다소.. 평범하지 않은 조언이라는 것은 아셔야겠습니다. 아무리 좋게 봐 줘도 의심스럽습니다."
 
 msgctxt "Narration/&Council4_54_Selfpres_Slang"
 msgid "Are you crazy? Or are you up to something?"
-msgstr ""
+msgstr "혹시 미치셨습니까? 아니면 무슨 일을 꾸미고 계신가요?"
 
 msgctxt "Narration/&Council4_55_Nosy_Normal"
 msgid "Are you really working for the Arcaneum? "
-msgstr ""
+msgstr "당신은 정말로 아케니움을 위해 일하시는게 맞습니까? "
 
 msgctxt "Narration/&Council4_56_HeddlonSurespell_NPC"
 msgid "Why else would I be here?"
-msgstr ""
+msgstr "그게 아니라면 굳이 제가 이곳에 있어야 할 이유가 있겠습니까?"
 
 msgctxt "Narration/&Council4_57_Mean_Normal"
 msgid "This elf is…"
-msgstr ""
+msgstr "이 엘프는…"
 
 msgctxt "Narration/&Council4_58_Lawful_Normal"
 msgid "What do you think?"
-msgstr ""
+msgstr "어떻게 생각해?"
 
 msgctxt "Narration/&Council4_59_Pragmatic_Normal"
 msgid "It sounds like a warning."
@@ -9358,7 +9358,7 @@ msgstr "경고의 의미 같은데."
 
 msgctxt "Narration/&Council4_60_Selfpres_Normal"
 msgid "Or a threat!"
-msgstr ""
+msgstr "아니면 협박이던지!"
 
 msgctxt "Narration/&Council4_61_Lawful_Normal"
 msgid "Can we trust him?"
@@ -9366,11 +9366,11 @@ msgstr "그를 믿을 수 있을까?"
 
 msgctxt "Narration/&Council4_62_Carver_Normal"
 msgid "Trust the New Empire?"
-msgstr ""
+msgstr "신 제국을 믿을 수 있냐고?"
 
 msgctxt "Narration/&Council4_63_Greed_Normal"
 msgid "I have no idea what to do, but I'd like to sleep in a bed tonight."
-msgstr ""
+msgstr "어떻게 해야할지 모르겠지만.. 오늘밤엔 침대에서 자고싶어."
 
 msgctxt "Narration/&Council4_64_Cynical_Normal"
 msgid "I miss Karel's beer."
@@ -9382,15 +9382,15 @@ msgstr "머튼의 훈훈한 덕담도 있잖아."
 
 msgctxt "Narration/&Council4_66_Cynical_Normal"
 msgid "I'd prefer the residence."
-msgstr ""
+msgstr "난 거주구가 더 좋은데."
 
 msgctxt "Narration/&Council4_67_Cynical_Normal"
 msgid "I like Captain Ironshell kissing me goodnight."
-msgstr ""
+msgstr "나는 아이언쉘 대위가 내게 잘자라고 인사해주는 것이 좋은데."
 
 msgctxt "Narration/&Council4_68_Authority_Normal"
 msgid "Maybe in your dreams."
-msgstr ""
+msgstr "너의 꿈속에서는 가능할지도."
 
 msgctxt "Narration/&NightAttack_1_Selfpres_Default"
 msgid "Soraks - here?"
@@ -9402,7 +9402,7 @@ msgstr "망할 소락 새끼들! 여기까지 쳐들어오다니!"
 
 msgctxt "Narration/&NightAttack_3_Selfpres_Formal"
 msgid "The Sorr-Akkath in the palace residence!"
-msgstr ""
+msgstr "소라카스가 왕궁 거주구에 있어!"
 
 msgctxt "Narration/&NightAttack_4_Pragmatic_Default"
 msgid "We were warned."
@@ -9414,31 +9414,31 @@ msgstr "슈어스펠이 어떻게 알았을까?"
 
 msgctxt "Narration/&NightAttack_6_Nosy_Default"
 msgid "Why would he know what the Soraks would do?"
-msgstr ""
+msgstr "소락들이 저지를 짓을 그가 대체 왜 알고있는거지?"
 
 msgctxt "Narration/&NightAttack_7_Pragmatic_Default"
 msgid "He tried to warn us. Not what an enemy would do."
-msgstr ""
+msgstr "그는 우리에게 경고해주려고 했어. 우리의 적이 무엇을 저지를지가 아니라."
 
 msgctxt "Narration/&NightAttack_8_Pragmatic_Slang"
 msgid "He tried to save our hides, remember?"
-msgstr ""
+msgstr "그는 우리의 명줄을 구해주려고 했어. 기억하지?"
 
 msgctxt "Narration/&NightAttack_9_Pragmatic_Formal"
 msgid "His warning might have saved us all, mind you."
-msgstr ""
+msgstr "글쎄.. 그의 경고가 우리 모두를 구했을지도 모르긴 해."
 
 msgctxt "Narration/&NightAttack_10_Selfpres_Normal"
 msgid "He just wants us to think he's a friend."
-msgstr ""
+msgstr "그는 단지 우리가 그를 친구로 여기길 바랐던거야."
 
 msgctxt "Narration/&NightAttack_11_Selfpres_Formal"
 msgid "It might be an elaborate scheme to gain our trust."
-msgstr ""
+msgstr "어쩌면 우리의 신뢰를 얻기 위한 교묘한 술수일지도 모르지."
 
 msgctxt "Narration/&NightAttack_12_Pragmatic_Default"
 msgid "Too far-fetched."
-msgstr ""
+msgstr "설득력이 하나도 없구만."
 
 msgctxt "Narration/&NightAttack_13_Friendly_Default"
 msgid "So what do we do?"
@@ -9446,11 +9446,11 @@ msgstr "그럼 어쩌지?"
 
 msgctxt "Narration/&NightAttack_14_Friendly_Slang"
 msgid "What's the plan, then?"
-msgstr ""
+msgstr "이제 계획이 뭐지?"
 
 msgctxt "Narration/&NightAttack_15_Friendly_Formal"
 msgid "Be that as it may, what shall we do now?"
-msgstr ""
+msgstr "그건 그렇다 치고, 이제 우린 뭘 해야하지?"
 
 msgctxt "Narration/&NightAttack_16_Pragmatic_Normal"
 msgid "Back to the Council, I suppose, and see what they decided."
@@ -9458,7 +9458,7 @@ msgstr "평의회로 돌아가서, 어떻게 나올지 한 번 보는 게 좋겠
 
 msgctxt "Narration/&NightAttack_17_Pragmatic_Formal"
 msgid "We will return to the Council and hear what they have to say."
-msgstr ""
+msgstr "우린 평의회로 돌아가서 그들이 하는 이야기들을 들어볼거야."
 
 msgctxt "Narration/&NightAttack_18_Nosy_Default"
 msgid "Or we could pay Surespell a visit."
@@ -9466,19 +9466,19 @@ msgstr "아니면 슈어스펠을 보러 가도 되고."
 
 msgctxt "Narration/&NightAttack2_1_HeddlonSurespell_NPC"
 msgid "Ah, here you are."
-msgstr ""
+msgstr "아, 여기 계셨군요."
 
 msgctxt "Narration/&NightAttack2_2_Any_Normal"
 msgid "Are you surprised?"
-msgstr ""
+msgstr "놀라셨습니까?"
 
 msgctxt "Narration/&NightAttack2_3_Any_Formal"
 msgid "Do you find our visit surprising, Master Surespell?"
-msgstr ""
+msgstr "우리의 방문에 놀라신 것 같군요, 마스터 슈어스펠."
 
 msgctxt "Narration/&NightAttack2_4_Any_Slang"
 msgid "That's right. Surprised?"
-msgstr ""
+msgstr "정답입니다. 놀라셨어요?"
 
 msgctxt "Narration/&NightAttack2_5_HeddlonSurespell_NPC"
 msgid "Not really. I did warn you, after all. I'm glad you were careful."
@@ -9494,7 +9494,7 @@ msgstr "그런 걸 직감이라고 하죠. "
 
 msgctxt "Narration/&NightAttack2_8_Any_Slang"
 msgid "A great, steaming pile of hunch. Got a bridge to sell, too?"
-msgstr ""
+msgstr "아주 대단하신 직감이구만. 나한테 팔아주실 다리도 있으시겠죠?"
 
 msgctxt "Narration/&NightAttack2_9_Any_Normal"
 msgid "Oh, really?"
@@ -9514,48 +9514,48 @@ msgstr "첩보가 꽤 신뢰성 있더군요. 알려주는 게 현명할 것이�
 
 msgctxt "Narration/&NightAttack2_13_Cynical_Normal"
 msgid "It felt real enough to us, too."
-msgstr ""
+msgstr "그 첩보는 우리에게도 정말 차고 넘치는 것 같군요."
 
 msgctxt "Narration/&NightAttack2_14_Cynical_Formal"
 msgid "Real enough to leave a scar, that much is certain."
-msgstr ""
+msgstr "정말 충분했지요.. 흉터좀 남길만큼."
 
 msgctxt "Narration/&NightAttack2_15_Selfpres_Default"
 msgid "You know more than you're telling."
-msgstr ""
+msgstr "말씀해주시는 것보다 더 많은걸 알고계시는군요."
 
 msgctxt "Narration/&NightAttack2_16_HeddlonSurespell_NPC"
 msgid "Always. But I'm on your side, and that's all that matters."
-msgstr ""
+msgstr "언제나 그렇지요. 그러나 중요한건 제가 당신들의 편이라는 것입니다."
 
 msgctxt "Narration/&NightAttack2_17_Cynical_Normal"
 msgid ""
 "Really? Aren't we lucky? So what other pearls of wisdom do you have to share "
 "- friend?"
-msgstr ""
+msgstr "정말요? 우린 정말 복에 겨웠구만! 그럼 혹시 우리에게 나눠주실 또다른 지혜의 말씀이라도 있으실까요, '친구'여?"
 
 msgctxt "Narration/&NightAttack2_18_Cynical_Formal"
 msgid "In that case, you'd be happy to advise us further, I presume?"
-msgstr ""
+msgstr "그렇다는 가정 하에, 우리에게 좀 더 조언해주실 의향이 있으시겠죠?"
 
 msgctxt "Narration/&NightAttack2_19_HeddlonSurespell_NPC"
 msgid ""
 "Certainly. Always drink wine at the Gravekeep's Cask. Their beer is utterly "
 "foul."
-msgstr ""
+msgstr "물론이죠. 묘지기의 술통에서는 항상 와인을 마십니다. 그곳 맥주는 좀 별로에요."
 
 msgctxt "Narration/&NightAttack2_20_Pragmatic_Normal"
 msgid "Seriously? Everyone knows that!"
-msgstr ""
+msgstr "진심이시죠? 다들 그렇게 생각해요!"
 
 msgctxt "Narration/&NightAttack2_21_Pragmatic_Formal"
 msgid ""
 "That's disappointing. You can do better than common knowledge, I'm sure. "
-msgstr ""
+msgstr "그건 좀 실망스럽군요. 난 당신이 범인들의 생각보다는 좀 더 나은 의견을 갖고 계실 것이라고 믿어 의심치 않았었는데 말입니다. "
 
 msgctxt "Narration/&NightAttack2_21_HeddlonSurespell_NPC"
 msgid "But clearly you're here for business, not small talk."
-msgstr ""
+msgstr "하지만 당신이 여기에 오신 것은 시시콜콜한 이야기나 하기 위한 것이 아니라 중요한 일 때문에 오신게 틀림없겠죠."
 
 msgctxt "Narration/&NightAttack4_1_HeddlonSurespell_NPC"
 msgid "Ah, here you are."
@@ -9563,23 +9563,23 @@ msgstr "아, 오셨군요."
 
 msgctxt "Narration/&NightAttack4_2_Any_Normal"
 msgid "Are you surprised?"
-msgstr ""
+msgstr "놀라셨나요?"
 
 msgctxt "Narration/&NightAttack4_3_Any_Formal"
 msgid "Do you find our visit surprising, Master Surespell?"
-msgstr ""
+msgstr "우리의 방문이 당신을 놀라게 해드렸습니까, 마스터 슈어스펠?"
 
 msgctxt "Narration/&NightAttack4_4_Any_Slang"
 msgid "That's right. Surprised?"
-msgstr ""
+msgstr "잘 아시네. 놀랐습니까?"
 
 msgctxt "Narration/&NightAttack4_3_HeddlonSurespell_NPC"
 msgid "Not at all, since you followed my… advice."
-msgstr ""
+msgstr "아닙니다. 단지... 당신이 내 조언을 따랐다는 것 때문에요."
 
 msgctxt "Narration/&NightAttack4_4_Any_Default"
 msgid "How do you know that?"
-msgstr ""
+msgstr "그걸 어떻게 아셨죠?"
 
 msgctxt "Narration/&NightAttack4_5_HeddlonSurespell_NPC"
 msgid "You're here, alive and unwounded."
@@ -9587,19 +9587,19 @@ msgstr "여기 부상 없이 멀쩡한 모습으로 오셨잖아요."
 
 msgctxt "Narration/&NightAttack4_6_HeddlonSurespell_NPC"
 msgid "I heard there was some disturbance at the residence."
-msgstr ""
+msgstr "거주구에서 조란이 좀 있었다고 들었습니다."
 
 msgctxt "Narration/&NightAttack4_7_Any_Default"
 msgid "Is that so?"
-msgstr ""
+msgstr "그래서요?"
 
 msgctxt "Narration/&NightAttack3_1_CaptainIronshell_NPC"
 msgid "Senior deputies!"
-msgstr ""
+msgstr "선임 대리인님들!"
 
 msgctxt "Narration/&NightAttack3_2_Friendly_Default"
 msgid "Captain! What's the news?"
-msgstr ""
+msgstr "대위님! 새로 들어온 소식 있습니까?"
 
 msgctxt "Narration/&NightAttack3_3_CaptainIronshell_NPC"
 msgid "You didn't hear?"
@@ -9607,7 +9607,7 @@ msgstr "얘기 못 들었어요?"
 
 msgctxt "Narration/&NightAttack3_4_CaptainIronshell_NPC"
 msgid "Your quarters at the residence were ransacked!"
-msgstr ""
+msgstr "거주지에 있는 당신들의 숙소가 약탈당했습니다!"
 
 msgctxt "Narration/&NightAttack3_5_Nosy_Default"
 msgid "What? When?"
@@ -9615,36 +9615,36 @@ msgstr "뭐라고요? 언제요?"
 
 msgctxt "Narration/&NightAttack3_6_CaptainIronshell_NPC"
 msgid "During the night. It's lucky you weren't there."
-msgstr ""
+msgstr "당신들이 밤 동안 그곳에 계시지 않아서 정말 다행이었습니다."
 
 msgctxt "Narration/&NightAttack3_7_Cynical_Formal"
 msgid "Eh. We could have handled a burglar or two."
-msgstr ""
+msgstr "좀도둑 한둘 정도는 우리가 처리할 수 있었을텐데요."
 
 msgctxt "Narration/&NightAttack3_8_Cynical_Normal"
 msgid "No doubt we would have seen the villains off, had we been there."
-msgstr ""
+msgstr "우리가 그곳에 있었다면 분명히 그 악당들을 볼 수 있었을텐데."
 
 msgctxt "Narration/&NightAttack3_9_CaptainIronshell_NPC"
 msgid ""
 "They were more than simple burglars, to infiltrate the palace undetected."
-msgstr ""
+msgstr "그들은 단순히 왕궁에 숨어들어온 좀도둑따위가 아니었습니다."
 
 msgctxt "Narration/&NightAttack3_10_Nosy_Default"
 msgid "Who, then?"
-msgstr ""
+msgstr "그렇다면 어떤자들이죠?"
 
 msgctxt "Narration/&NightAttack3_11_CaptainIronshell_NPC"
 msgid "I can't say for sure but…"
-msgstr ""
+msgstr "확실히 말씀드리긴 어렵습니다만…"
 
 msgctxt "Narration/&NightAttack3_12_CaptainIronshell_NPC"
 msgid "Some are saying… Sorr-Akkath."
-msgstr ""
+msgstr "그들중에 일부는... '소라카스'라는 말을 하더군요."
 
 msgctxt "Narration/&NightAttack3_13_Selfpres_Formal"
 msgid "That's a worrying prospect, Captain."
-msgstr ""
+msgstr "그것은 대단히 우려스러운 관점이군요, 대위님."
 
 msgctxt "Narration/&NightAttack3_14_Selfpres_Slang"
 msgid "So much for palace security, then. Thanks a lot!"
@@ -9656,11 +9656,11 @@ msgstr ""
 
 msgctxt "Narration/&NightAttack3_16_CaptainIronshell_NPC"
 msgid "I'm well aware. We have put further magical security measures in place."
-msgstr ""
+msgstr "잘 알고 있습니다. 추가적인 마법 보안책들을 배치했습니다."
 
 msgctxt "Narration/&NightAttack3_17_Friendly_Default"
 msgid "Good to know."
-msgstr ""
+msgstr "그거 잘 됐네요."
 
 msgctxt "Narration/&NightAttack3_18_Friendly_Normal"
 msgid "Thanks for the heads-up, Captain."
@@ -9692,7 +9692,7 @@ msgstr "어떻게 미리 알았지?"
 
 msgctxt "Narration/&NightAttack3_25_Selfpres_Normal"
 msgid "He's a spy, or something similar."
-msgstr ""
+msgstr "스파이거나, 비슷한 게 분명해."
 
 msgctxt "Narration/&NightAttack3_26_Selfpres_Formal"
 msgid "I'm pretty sure he's Imperial Intelligence."
@@ -13710,19 +13710,19 @@ msgstr ""
 
 msgctxt "Narration/&PhilosopherBackgroundQuest_TheCoven_1_Philosopher_Default"
 msgid "Is it time?"
-msgstr ""
+msgstr "지금인가요?"
 
 msgctxt "Narration/&PhilosopherBackgroundQuest_TheCoven_3_Philosopher_Default"
 msgid "And once inside?"
-msgstr ""
+msgstr "일단 안으로 들어간다면?"
 
 msgctxt "Narration/&PhilosopherBackgroundQuest_TheCoven_4_Illoreth_NPC"
 msgid "Wait for my signal!"
-msgstr ""
+msgstr "제 신호를 기다리세요!"
 
 msgctxt "Narration/&PhilosopherBackgroundQuest_TheCoven_5_Illoreth_NPC"
 msgid "And until then, let me speak."
-msgstr ""
+msgstr "때가 되면, 부르겠어요."
 
 msgctxt "Narration/&PhilosopherBackgroundQuest_TheCoven2_1_Guard_NPC"
 msgid "State your business!"

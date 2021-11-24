@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-10-29 16:20+0000\n"
-"Last-Translator: Jin <byungjinjun55@gmail.com>\n"
+"PO-Revision-Date: 2021-11-24 11:40+0000\n"
+"Last-Translator: 까망쥐 <jk01056@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/feature/ko/"
 ">\n"
 "Language: ko\n"
@@ -113,15 +113,14 @@ msgctxt "Feature/&AcolyteSkillsToolsTitle"
 msgid "Potion Making"
 msgstr "물약 제조"
 
-#, fuzzy
 msgctxt "Feature/&ActionAffinityHunterGiantKillerDescription"
 msgid ""
 "When a large or larger creature within one cell of you hits or misses you "
 "with an attack, you can use your reaction to attack that creature "
 "immediately after its attack, provided that you can see the creature."
 msgstr ""
-"한 칸 내의 큼 이상의 크기를 가진 크리쳐에게 공격받았을 때, 해당 크리쳐가 시야에 있다면 공격당한 직후 반응 행동을 사용해서 공격할 수 "
-"있습니다."
+"한 칸 내의 대형 이상의 크기를 가진 크리쳐에게 공격 받았을 때, 해당 크리쳐가 시야에 있다면 공격 당한 직후 반응 행동을 사용해서 "
+"공격할 수 있습니다."
 
 msgctxt "Feature/&ActionAffinityHunterGiantKillerTitle"
 msgid "Giant Killer"
@@ -1338,34 +1337,29 @@ msgctxt "Feature/&MartialSpellbladeSpellcastingTitle"
 msgid "Spellcasting"
 msgstr "주문 시전"
 
-#, fuzzy
 msgctxt "Feature/&MoveBurrowDescription"
 msgid "Burrow {0}"
-msgstr "{0}을 파다"
+msgstr "굴파기 {0}"
 
-#, fuzzy
 msgctxt "Feature/&MoveClimbDescription"
 msgid "Climb {0}"
-msgstr "{0}을 등반하다"
+msgstr "등반 {0}"
 
 msgctxt "Feature/&MoveDescription"
 msgid "Base walking speed in cells."
 msgstr "기본 이동 속도입니다(칸)."
 
-#, fuzzy
 msgctxt "Feature/&MoveFlyDescription"
 msgid "Fly {0}"
-msgstr "{0}을 비행하다"
+msgstr "비행 {0}"
 
-#, fuzzy
 msgctxt "Feature/&MoveIncorporealDescription"
 msgid "Incorporeal {0}"
-msgstr "영체화하여 {0}을 통과하다"
+msgstr "영체화 {0}"
 
-#, fuzzy
 msgctxt "Feature/&MoveSwimDescription"
 msgid "Swim {0}"
-msgstr "{0}을 헤엄치다"
+msgstr "수영 {0}"
 
 msgctxt "Feature/&MoveTitle"
 msgid "Move"
