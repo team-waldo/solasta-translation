@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-11-28 10:42+0000\n"
-"Last-Translator: lull_ <lull_@naver.com>\n"
+"PO-Revision-Date: 2021-11-29 11:58+0000\n"
+"Last-Translator: Nickel <psb3421@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
 "Language: ko\n"
@@ -9492,7 +9492,6 @@ msgctxt "Narration/&NightAttack2_7_HeddlonSurespell_NPC"
 msgid "Call it a hunch. "
 msgstr "그런 걸 직감이라고 하죠. "
 
-#, fuzzy
 msgctxt "Narration/&NightAttack2_8_Any_Slang"
 msgid "A great, steaming pile of hunch. Got a bridge to sell, too?"
 msgstr "아주 대단하신 직감이구만. 나한테 팔아주실 다리도 있으시겠죠?"
@@ -10710,189 +10709,189 @@ msgstr "오, 안녕하십니까."
 
 msgctxt "Narration/&ReturnToCC_HalmanDaliat6_Any_Default"
 msgid "Heddlon Surespell, what a surprise."
-msgstr ""
+msgstr "헤들론 슈어스펠, 이렇게 놀라울 수가."
 
 msgctxt "Narration/&ReturnToCC_HalmanDaliat7_Spy_Default"
 msgid "Are you two related?"
-msgstr ""
+msgstr "둘이 붙어먹던 겁니까?"
 
 msgctxt "Narration/&ReturnToCC_HalmanDaliat8_Daliat_NPC"
 msgid "He's my superior."
-msgstr ""
+msgstr "제 상관이시죠."
 
 msgctxt "Narration/&ReturnToCC_HalmanDaliat9_HeddlonSurespell_NPC"
 msgid "Two ranks above."
-msgstr ""
+msgstr "두 단계나 더 높은."
 
 msgctxt "Narration/&ReturnToCC_HalmanDaliat10_Daliat_Default"
 msgid "Right."
-msgstr ""
+msgstr "그렇죠."
 
 msgctxt "Narration/&ReturnToCC_HalmanDaliat11_Spy_NPC"
 msgid "So, you two are spies?"
-msgstr ""
+msgstr "그러니까, 둘이 첩자라는 겁니까?"
 
 msgctxt "Narration/&ReturnToCC_HalmanDaliat12_HeddlonSurespell_Default"
 msgid "Such a crude word."
-msgstr ""
+msgstr "너무 상처 주는 말이군요."
 
 msgctxt "Narration/&ReturnToCC_HalmanDaliat13_Daliat_NPC"
 msgid "We prefer the old name: 'Silent Whisper.'"
-msgstr ""
+msgstr "옛 이름인 '고요한 속삭임'을 더 선호한답니다"
 
 msgctxt "Narration/&ReturnToCC_HalmanDaliat14_Lawful_Default"
 msgid "The intelligence service of the Manacalon Empire? Really?"
-msgstr ""
+msgstr "마나칼론 제국의 정보부란 겁니까? 정말로?"
 
 msgctxt "Narration/&ReturnToCC_HalmanDaliat15_Daliat_NPC"
 msgid "Nicer than 'spies.'"
-msgstr ""
+msgstr "'첩자'보단 멋지잖아요"
 
 msgctxt "Narration/&ReturnToCC_HalmanDaliat16_Authority_Default"
 msgid "So, what's in there?"
-msgstr ""
+msgstr "아무튼, 뭐가 들은 겁니까?"
 
 msgctxt "Narration/&ReturnToCC_HalmanDaliat17_HeddlonSurespell_NPC"
 msgid "Nothing and no one, I'm afraid."
-msgstr ""
+msgstr "유감스럽지만 아무것도, 아무도 없어요."
 
 msgctxt "Narration/&ReturnToCC_HalmanDaliat18_HeddlonSurespell_NPC"
 msgid "I was looking for your… acquaintance, Halman Summer."
-msgstr ""
+msgstr "당신의 지인을 찾고 있었죠, 할만 서머."
 
 msgctxt "Narration/&ReturnToCC_HalmanDaliat19_Violent_Default"
 msgid "Oh, him?"
-msgstr ""
+msgstr "그 사람요?"
 
 msgctxt "Narration/&ReturnToCC_HalmanDaliat20_Violent_Default"
 msgid "We were looking for him, too."
-msgstr ""
+msgstr "우리도 찾고 있지요."
 
 msgctxt "Narration/&ReturnToCC_HalmanDaliat21_HeddlonSurespell_NPC"
 msgid "I'm afraid he's gone."
-msgstr ""
+msgstr "안타깝게도 그는 떠났습니다."
 
 msgctxt "Narration/&ReturnToCC_HalmanDaliat22_Pragmatic_Default"
 msgid "Isn't everybody leaving?"
-msgstr ""
+msgstr "누군들 안 떠나겠습니까?"
 
 msgctxt "Narration/&ReturnToCC_HalmanDaliat23_HeddlonSurespell_NPC"
 msgid "The Antiquarians and the other Snow Alliance people are pulling out."
-msgstr ""
+msgstr "고고학자들과 다른 설산 동맹 사람들도 철수하고 있죠."
 
 msgctxt "Narration/&ReturnToCC_HalmanDaliat24_HeddlonSurespell_NPC"
 msgid "The Antiquarians are still packing up, though."
-msgstr ""
+msgstr "고고학자들은 아직 짐 싸는 중이지만요."
 
 msgctxt "Narration/&ReturnToCC_HalmanDaliat25_Pragmatic_Default"
 msgid "He sent after a lead…"
-msgstr ""
+msgstr "단서를 보내주었는데…"
 
 msgctxt "Narration/&ReturnToCC_HalmanDaliat26_Selfpres_Default"
 msgid "…or rather, into a trap."
-msgstr ""
+msgstr "...되려 함정으로 보내는 걸지도 모르죠."
 
 msgctxt "Narration/&ReturnToCC_HalmanDaliat27_HeddlonSurespell_NPC"
 msgid "I'm not surprised."
-msgstr ""
+msgstr "놀랍지도 않습니다."
 
 msgctxt "Narration/&ReturnToCC_HalmanDaliat28_HeddlonSurespell_NPC"
 msgid "We had eyes on him, but… we lost him."
-msgstr ""
+msgstr "주시하고는 있었지만... 놓쳤습니다."
 
 msgctxt "Narration/&ReturnToCC_HalmanDaliat29_Selfpres_Default"
 msgid "Is he that good?"
-msgstr ""
+msgstr "잘 지내고 있나 보죠?"
 
 msgctxt "Narration/&ReturnToCC_HalmanDaliat30_HeddlonSurespell_NPC"
 msgid "Or he had help. Magical."
-msgstr ""
+msgstr "아니면 도움을 받았겠죠. 마법이라던가."
 
 msgctxt "Narration/&ReturnToCC_HalmanDaliat31_Selfpres_NPC"
 msgid "Soraks?"
-msgstr ""
+msgstr "소락에게?"
 
 msgctxt "Narration/&ReturnToCC_HalmanDaliat32_HeddlonSurespell_NPC"
 msgid "Who knows?"
-msgstr ""
+msgstr "누가 알겠어요?"
 
 msgctxt "Narration/&ReturnToCC_HalmanDaliat33_Pragmatic_NPC"
 msgid "What triggered all this?"
-msgstr ""
+msgstr "대체 뭘 건드려서 이렇게 된 겁니까?"
 
 msgctxt "Narration/&ReturnToCC_HalmanDaliat34_HeddlonSurespell_NPC"
 msgid "You should really get to the Council."
-msgstr ""
+msgstr "평의회에 꼭 가보셔야겠군요."
 
 msgctxt "Narration/&ReturnToCC_HalmanDaliat35_HeddlonSurespell_NPC"
 msgid "They'll tell you everything."
-msgstr ""
+msgstr "전부 말해 줄 겁니다."
 
 msgctxt "Narration/&ReturnToCC_Carran_1_Carran_NPC"
 msgid "In Maraike's name! You're here!"
-msgstr ""
+msgstr "마라이케의 이름으로! 오셨군요!"
 
 msgctxt "Narration/&ReturnToCC_Carran_2_Any_Default"
 msgid "What is happening?"
-msgstr ""
+msgstr "무슨 일 입니까?"
 
 msgctxt "Narration/&ReturnToCC_Carran_3_Carran_NPC"
 msgid "The whole delegation from the Tower of Knowledge - they were poisoned!"
-msgstr ""
+msgstr "지식의 탑 사절들이 전부 중독됐습니다!"
 
 msgctxt "Narration/&ReturnToCC_Carran_4_Nosy_Default"
 msgid "Poisoned? How many died?"
-msgstr ""
+msgstr "독? 몇 명이나 죽은 겁니까?"
 
 msgctxt "Narration/&ReturnToCC_Carran_5_Carran_NPC"
 msgid "All of them, thirty-something, but that's not the point."
-msgstr ""
+msgstr "전부 다요, 서른 몇 명인데, 중요한 건 그게 아닙니다."
 
 msgctxt "Narration/&ReturnToCC_Carran_6_Carran_NPC"
 msgid ""
 "After Dean Faisech accused the Council of… favoritism toward the "
 "Principality…"
-msgstr ""
+msgstr "페이세크 학장이 평의회는... 케어 키플렌에 왕관을 두는 것으로…"
 
 msgctxt "Narration/&ReturnToCC_Carran_7_Carran_NPC"
 msgid "…for keeping the Crown in Caer Cyflen."
-msgstr ""
+msgstr "...공국을 편애하고 있다고 의제 하신 뒤였죠."
 
 msgctxt "Narration/&ReturnToCC_Carran_8_Pragmatic_Default"
 msgid "At the Temple of Einar, which is not affiliated with the Principality."
-msgstr ""
+msgstr "에이나르 신전에서 그런 겁니다. 공국과는 관련 없는 곳이죠."
 
 msgctxt "Narration/&ReturnToCC_Carran_9_Carran_NPC"
 msgid "I know that, of course."
-msgstr ""
+msgstr "물론, 그건 알죠."
 
 msgctxt "Narration/&ReturnToCC_Carran_10_Carran_NPC"
 msgid ""
 "Yet, soon after, we all ate at the same table, but the Tower delegates died "
 "in their sleep."
-msgstr ""
+msgstr "그리고, 얼마 안 지나서, 전부 같은 식탁에서 식사를 했고 자다가 사망했습니다."
 
 msgctxt "Narration/&ReturnToCC_Carran_11_Carran_NPC"
 msgid "Of course, Gallivan took it as an attack by the Principality."
-msgstr ""
+msgstr "당연히, 갈리반은 공국에 대한 공격으로 받아들였고요."
 
 msgctxt "Narration/&ReturnToCC_Carran_12_Pragmatic_Default"
 msgid ""
 "But that's why the Tower's on the Council, and not Gallivan's government - "
 "to avoid exactly that!"
-msgstr ""
+msgstr "하지만 탑에 평의회가 있는 이유는, 정확히 그 짓거릴 피하려고 갈리반 정부 대신 있는 거잖습니까!"
 
 msgctxt "Narration/&ReturnToCC_Carran_13_Carran_NPC"
 msgid "You think I don't know that?"
-msgstr ""
+msgstr "내가 그것도 모를까 봐요?"
 
 msgctxt "Narration/&ReturnToCC_Carran_14_Carran_NPC"
 msgid "This is real politics, my friends - diplomacy is dead."
-msgstr ""
+msgstr "이제 진짜 정치죠, 친구들. 외교는 죽은 거예요."
 
 msgctxt "Narration/&ReturnToCC_Carran_15_Cynical_Default"
 msgid "So the Legacy Council was a sham all along?"
-msgstr ""
+msgstr "그럼 유산 평의회는 처음부터 허무맹랑한 거였습니까?"
 
 msgctxt "Narration/&ReturnToCC_Carran_16_Carran_NPC"
 msgid "No! It was a real, honest effort to maintain peace."
@@ -22939,9 +22938,10 @@ msgctxt "Narration/&Conjuration_Entrance_1_Crownbearer_Default"
 msgid "This is it, I think! It's just behind this wall of vegetation!"
 msgstr ""
 
+#, fuzzy
 msgctxt "Narration/&Conjuration_Entrance_2_CynicOrElse_Default"
 msgid "You think? That's comforting. And how do we get through? "
-msgstr ""
+msgstr "그래? 그거 다행이네. 그럼 어떻게 통과해야 하지? "
 
 msgctxt ""
 "Narration/&Conjuration_Entrance_3_AthleticProficientOrRangerOrElse_Default"
@@ -22952,27 +22952,30 @@ msgctxt "Narration/&Conjuration_Entrance_4a_CynicOrElse_Default"
 msgid "I've heard that before…"
 msgstr ""
 
+#, fuzzy
 msgctxt "Narration/&Conjuration_Entrance_4b_CynicOrElse_Default"
 msgid "…a couple of hundred times since we started…"
-msgstr ""
+msgstr "...우리가 이걸 시작하고 나서 수백 번은 말이지…"
 
 msgctxt ""
 "Narration/"
 "&Conjuration_Entrance_4c_HighestCharismaIfNotCynicOrnotCynic_Default"
 msgid "Oh, come on! Less bitching and more hacking!"
-msgstr ""
+msgstr "오, 서둘러! 불평은 줄이고 더 열심히 베라고!"
 
+#, fuzzy
 msgctxt "Narration/&Conjuration_Entrance_5_LowestSTRorElse_Default"
 msgid "I so love manual labor! "
-msgstr ""
+msgstr "난 육체노동이 너무 좋다니까! "
 
+#, fuzzy
 msgctxt "Narration/&Conjuration_Entrance_6_FollowerMaraikeOrElse_Default"
 msgid "It's Maraike's will!"
-msgstr ""
+msgstr "마라이케의 뜻대로!"
 
 msgctxt "Narration/&Conjuration_Jungle_1_CynicOrElse_Default"
 msgid "I think my arm's about to drop off from all this hacking!"
-msgstr ""
+msgstr "이 나무 베느라 팔 떨어지겠어!"
 
 msgctxt "Narration/&Conjuration_Jungle_2_SellswordorElse_Slang"
 msgid "Chop, don't talk!"
@@ -22981,32 +22984,34 @@ msgstr "말할 시간에 자르기나 해!"
 msgctxt ""
 "Narration/&Conjuration_Jungle_3_AthleticProficientOrRangerOrElse_Default"
 msgid "Come on, guys! It's just another hedge! "
-msgstr ""
+msgstr "힘내라고, 친구들! 그냥 또 다른 울타리일 뿐이야! "
 
+#, fuzzy
 msgctxt "Narration/&Conjuration_Jungle_4_LowestSTRorElse_Default"
 msgid "Last freakin' hedge I intend to cut through in my lifetime! "
-msgstr ""
+msgstr "내 평생에 베고 지나갈 마지막 빌어먹을 울타리야! "
 
 msgctxt "Narration/&Conjuration_Jungle_5_RogueOrFollowerMaraikeOrElse_Default"
 msgid "Misaye's laughing!"
-msgstr ""
+msgstr "마사이에께서 미소짓길!"
 
 msgctxt "Narration/&Conjuration_Lava_1_LowestSTRorElse_Default"
 msgid ""
 "Such a wonderful coincidence to get a sauna after all the physical exertion!"
-msgstr ""
+msgstr "이 모든 노동 끝에 사우나라니 정말 멋진 우연의 일치인걸!"
 
+#, fuzzy
 msgctxt "Narration/&Conjuration_Lava_2_SellswordorElse_Slang"
 msgid "Stop moaning - it was just a nice warm-up!"
-msgstr ""
+msgstr "그만 불평하라고 - 이건 괜찮은 준비운동일 뿐이었다고!"
 
 msgctxt "Narration/&Conjuration_Lava_3_AthleticProficientOrRangerOrElse_Default"
 msgid "I have dealt with worse! Not often, though!"
-msgstr ""
+msgstr "난 이거보다 더한 것도 겪었어! 자주 있는 일은 아니지만!"
 
 msgctxt "Narration/&Conjuration_Lava_4_CynicOrElse_Default"
 msgid "Hard to believe! "
-msgstr ""
+msgstr "믿기 어려운걸! "
 
 msgctxt "Narration/&Conjuration_Lava_5_AthleticProficientOrRangerOrElse_Default"
 msgid "Einar strike down me if I lie!"
@@ -24283,11 +24288,11 @@ msgstr ""
 
 msgctxt "Narration/&Banter_Conjuration_TheClearing_01"
 msgid "The gem, we found it!"
-msgstr ""
+msgstr "찾았어! 보석이야!"
 
 msgctxt "Narration/&Banter_Conjuration_TheClearing_02"
 msgid "Where are the Soraks?"
-msgstr ""
+msgstr "소락은 어디 갔지?"
 
 msgctxt "Narration/&Banter_Conjuration_TheID_Beast_Observable_1"
 msgid "The gold just disappears in my hands!"
@@ -25334,15 +25339,16 @@ msgstr ""
 
 msgctxt "Narration/&Conjuration_GardenShed_1_HighestPerceptionOrElse_Default"
 msgid "Freeze, Soraks! "
-msgstr ""
+msgstr "멈춰, 소락이야! "
 
+#, fuzzy
 msgctxt "Narration/&Conjuration_GardenShed_2_Sellsword_Slang"
 msgid "Time to show them who we are! "
-msgstr ""
+msgstr "놈들에게 우리가 누군지 보여줄 시간이군! "
 
 msgctxt "Narration/&Conjuration_GardenShed_3_HighestPerceptionOrElse_Default"
 msgid "They haven't seen us yet! No need to rush!"
-msgstr ""
+msgstr "놈들은 아직 우리를 발견하지 못했어! 서두를 필요 없어!"
 
 msgctxt "Narration/&Conjuration_GardenShed_4_Sellsword_Slang"
 msgid "It comes down to the same thing in the end!"
@@ -25350,31 +25356,33 @@ msgstr ""
 
 msgctxt "Narration/&Conjuration_GardenShed_5_HighestPerceptionOrElse_Default"
 msgid "Look - they've gone into that shed! "
-msgstr ""
+msgstr "저것 봐, 놈들이 저 헛간으로 들어갔어! "
 
 msgctxt "Narration/&Conjuration_GardenShed_6_SpyOrHighestperception_Default"
 msgid "It's pretty small for so many Soraks. Tunnel entrance?"
-msgstr ""
+msgstr "저 많은 소락들이 들어가기에는 좀 작군. 터널 입구인가?"
 
+#, fuzzy
 msgctxt "Narration/&Conjuration_GardenShed_8_NotHighestInt_Default"
 msgid "No reason to wait, they're gone."
-msgstr ""
+msgstr "기다릴 이유가 없어. 놈들은 가버렸다고."
 
 msgctxt "Narration/&Conjuration_GardenShed_9_HighestWisorElse_Default"
 msgid "What if they come out?"
-msgstr ""
+msgstr "놈들이 나오면 어쩌지?"
 
 msgctxt "Narration/&Conjuration_GardenShed_8_HighestPerceptionOrElse_Default"
 msgid "We'll kill them."
-msgstr ""
+msgstr "죽여야지."
 
 msgctxt "Narration/&Conjuration_SorakFight1_Starter_Default"
 msgid "What just happened?!"
-msgstr ""
+msgstr "무슨 일이 벌어진 거야?!"
 
+#, fuzzy
 msgctxt "Narration/&Conjuration_SorakFight2_Cynical_Default"
 msgid "A gem… right?"
-msgstr ""
+msgstr "보석... 맞지?"
 
 msgctxt "Narration/&Conjuration_SorakFight3_Cynical_Default"
 msgid "Just like that."
@@ -25382,7 +25390,7 @@ msgstr ""
 
 msgctxt "Narration/&Conjuration_SorakFight4_Selfpres_Default"
 msgid "Did you hear that? "
-msgstr ""
+msgstr "들었어? "
 
 msgctxt "Narration/&Conjuration_SorakFight5_Sellsword_Default"
 msgid "The sound of killing."
@@ -25390,7 +25398,7 @@ msgstr ""
 
 msgctxt "Narration/&Conjuration_SorakFight6_Starter_Default"
 msgid "The Soraks."
-msgstr ""
+msgstr "소락이야."
 
 msgctxt "Narration/&Conjuration_SorakFight7_Selfpres_Default"
 msgid "That was fast."
@@ -25398,11 +25406,11 @@ msgstr ""
 
 msgctxt "Narration/&Conjuration_SorakFight8_Sellsword_Default"
 msgid "You afraid?"
-msgstr ""
+msgstr "겁먹었어?"
 
 msgctxt "Narration/&Conjuration_SorakFight9_Selfpres_Default"
 msgid "Of course not."
-msgstr ""
+msgstr "전혀."
 
 msgctxt "Narration/&Banter_Conjuration_TheID_TheBeast_02"
 msgid "A comfortable golden mattress."
