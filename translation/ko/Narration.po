@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-11-30 11:39+0000\n"
-"Last-Translator: 이름뭘로하지 <sqom3iii@naver.com>\n"
+"PO-Revision-Date: 2021-12-01 12:22+0000\n"
+"Last-Translator: Jin <byungjinjun55@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
 "Language: ko\n"
@@ -11287,7 +11287,7 @@ msgstr "여기있는 당신의 조그만 비밀책이 우리에게 도움이 되
 
 msgctxt "Narration/&ReturnToCC_Carran_2_31_Violent_Default"
 msgid "So, the Principality is still drafting soldiers."
-msgstr "어쨋든, 공국측은 여전히 병사들을 징집하고 있어요."
+msgstr "어쨌든, 공국은 여전히 병사들을 징집하고 있습니다."
 
 msgctxt "Narration/&ReturnToCC_Carran_2_32_Carran_NPC"
 msgid "To defend the city. "
@@ -11303,27 +11303,27 @@ msgstr "자신감들이 넘치시는구만 아주."
 
 msgctxt "Narration/&ReturnToCC_Carran_2_35_Carran_NPC"
 msgid "Smiles work better if you have a sword at your side."
-msgstr "웃는 얼굴인 채 칼자루를 쥐고있는 것이 더욱 효과적인 법이죠."
+msgstr "칼자루를 쥐고 있을 때는 웃는 얼굴이 더욱 효과적인 법이죠."
 
 msgctxt "Narration/&ReturnToCC_Carran_2_36_Greed_Default"
 msgid "So you're resurrecting Faisech?"
-msgstr "그래서.. 당신은 페이세크를 되살렸나요?"
+msgstr "그래서.. 당신은 페이세크를 되살리고 있나요?"
 
 msgctxt "Narration/&ReturnToCC_Carran_2_37_Greed_Default"
 msgid "How much is that? A thousand gold pieces?"
-msgstr "그 댓가는 얼마나 되는겁니까? 금화 천닢?"
+msgstr "그 댓가는 얼마나 되는 겁니까? 금화 천 닢?"
 
 msgctxt "Narration/&ReturnToCC_Carran_2_38_Carran_NPC"
 msgid "I know what you're going to say. So don't."
-msgstr "나는 당신이 무슨 말을 하실지 압니다. 그러니까 그만 두세요."
+msgstr "나는 당신이 무슨 말을 할 지 압니다. 그러니까 그만두세요."
 
 msgctxt "Narration/&ReturnToCC_Carran_2_39_Cynical_Default"
 msgid "And someone must pray for his soul… Imagine that!"
-msgstr "그리고 누군가는 그의 영혼을 위해 기도했겠지... 한번 떠올려봐!"
+msgstr "그리고 누군가는 그의 영혼을 위해 기도 해야겠지... 한번 상상해 봐!"
 
 msgctxt "Narration/&ReturnToCC_Carran_2_40_Carran_NPC"
 msgid "Marshal Sunblaze is taking care of the senior delegates personally."
-msgstr "선블레이즈 원수는 수석대표단을 개인적으로 돌보고 있습니다."
+msgstr "선블레이즈 원수는 대표단 선임들을 개인적으로 돌보고 있습니다."
 
 msgctxt "Narration/&ReturnToCC_Carran_2_41_Selfpres_Default"
 msgid "Wait a minute!"
@@ -11343,12 +11343,12 @@ msgstr "잠깐, 당신은... 그들은 죽었어요!"
 
 msgctxt "Narration/&ReturnToCC_Carran_2_45_Selfpres_Default"
 msgid "You think they'd stop at that?"
-msgstr "그들이 그만둘거라고 생각하시나요?"
+msgstr "그들이 그 정도에서 그만둘 거라고 생각하시나요?"
 
 msgctxt "Narration/&ReturnToCC_Carran_2_46_Pragmatic_NPC"
 msgid ""
 "Thirty-something people inside the most secure place in the Principality…"
-msgstr "삼십여명의 사람들이 공국에서 가장 안전한 장소 안에…"
+msgstr "삼십여 명의 사람들이 공국에서 가장 안전한 장소 안에…"
 
 msgctxt "Narration/&ReturnToCC_Carran_2_47_Pragmatic_NPC"
 msgid ""
@@ -11358,7 +11358,7 @@ msgstr "배신자일지도 모르는, 30명 이상의 사람들이 공국에서 
 
 msgctxt "Narration/&ReturnToCC_Carran_2_48_Violent_NPC"
 msgid "…close to the Crown of the Magister?"
-msgstr "... 그것도 매지스터의 왕관 가까이에 있다?"
+msgstr "... 그것도 마지스터의 왕관 가까이에 있다?"
 
 msgctxt "Narration/&ReturnToCC_Carran_2_49_Carran_NPC"
 msgid "No! No, no, no!"
@@ -11406,7 +11406,7 @@ msgstr "망자들이여, 기분은 괜찮으신가?"
 
 msgctxt "Narration/&ReturnToCC_Temple1_10_Cynical_Formal"
 msgid "All right, everyone, we know who you are."
-msgstr "좋습니다 여러분. 우린 당신이 누군지 알아."
+msgstr "좋습니다, 여러분. 우린 니들이 누군지 알아."
 
 msgctxt "Narration/&ReturnToCC_Temple1_11_SorakAgent_NPC"
 msgid "Attack!"
@@ -11422,7 +11422,7 @@ msgstr "왕관은 어딨죠?"
 
 msgctxt "Narration/&ReturnToCC_Temple2_3_BericSunblaze_NPC"
 msgid "Take this key. I… can't run."
-msgstr "이 열쇠를 가져가시오. 나는... 도망칠 수 없습니다."
+msgstr "이 열쇠를 가져가시오. 나는... 뛸 수가 없네요."
 
 msgctxt "Narration/&ReturnToCC_Temple2_4_BericSunblaze_NPC"
 msgid "Follow the light!"
@@ -11458,7 +11458,7 @@ msgstr "지금은 그게 중요한게 아냐!"
 
 msgctxt "Narration/&ReturnToCC_Temple3_7_Pragmatic_Default"
 msgid "This is ancient - from the first centuries after the Cataclysm!"
-msgstr "이건 대격변으로부터 최초의 세기로부터 내려져온 고대의 것이야!"
+msgstr "이건 고대 유물이야 - 대격변 직후부터 전해 내려온 거라고!"
 
 msgctxt "Narration/&ReturnToCC_Temple3_8_Pragmatic_Default"
 msgid "No time for a history lesson!"
@@ -11470,7 +11470,7 @@ msgstr "그들은 이곳으로 갔어!"
 
 msgctxt "Narration/&ReturnToCC_Temple4_1_Any_Default"
 msgid "The city's Imperial Gate!"
-msgstr "도시의 제국관문!"
+msgstr "도시의 제국 관문!"
 
 msgctxt "Narration/&ReturnToCC_Temple4_2_Any_Default"
 msgid "They're here!"
@@ -11530,7 +11530,7 @@ msgstr "날 그런식으로 바라보지 마세요."
 
 msgctxt "Narration/&ReturnToCC_Teleporter2_Any_Default"
 msgid "Your Royal Highness…"
-msgstr "왕비님…"
+msgstr "공주 전하…"
 
 msgctxt "Narration/&ReturnToCC_Teleporter3_Princess_NPC"
 msgid "…thank you is what you're looking for."
@@ -11554,129 +11554,129 @@ msgstr "그게 그들의 계획일거라고 봅니다."
 
 msgctxt "Narration/&ReturnToCC_Teleporter8_Pragmatic_Default"
 msgid "Can we follow them? "
-msgstr "그들을 뒤쫓아도 되겠습니까? "
+msgstr "그들을 쫓아갈 수 있을까? "
 
 msgctxt "Narration/&ReturnToCC_Teleporter9_Selfpres_Default"
 msgid "There's no way to know where they've gone."
-msgstr "그들이 어디로 가버렸는지 알아낼 방법이 없어요."
+msgstr "그들이 어디로 가버렸는지 알아낼 방법이 없어."
 
 msgctxt "Narration/&ReturnToCC_Teleporter10_Selfpres_Default"
 msgid "There are so many gates."
-msgstr "관문의 수가 너무 많습니다."
+msgstr "관문이 너무 많아."
 
 msgctxt "Narration/&ReturnToCC_Teleporter11_Pragmatic_Default"
 msgid "Close to the Rift, right? Where it all began?"
-msgstr "균열 근처가 맞겠죠? 모든게 어디로부터 시작됐습니까?"
+msgstr "균열 근처가 맞겠지? 어디서부터 이 모든 게 시작됐을까?"
 
 msgctxt "Narration/&ReturnToCC_Teleporter12_Authority_Default"
 msgid "No one knows exactly where the Rift was."
-msgstr "균열이 어디에 있었는지 정확히 아는 사람이 없습니다."
+msgstr "균열이 어디에 있었는지 정확히 아는 사람이 없어."
 
 msgctxt "Narration/&ReturnToCC_Teleporter13_Merton_NPC"
 msgid "In the Aer Elai, near the capital of Manacalon - but it's a vast area!"
-msgstr "마나칼론 수도 근처의 에어 엘라이입니다. 하지만 너무 광범위해요!"
+msgstr "마나칼론 수도 근처의 에어 엘라이일세. 하지만 너무 광범위한 지역이야!"
 
 msgctxt "Narration/&ReturnToCC_Teleporter14_Pragmatic_Default"
 msgid "They must have scouted it and found a teleporter nearby."
-msgstr ""
+msgstr "그들은 정찰을 통해 근처의 순간이동 장치를 발견한 게 틀림없어요."
 
 msgctxt "Narration/&ReturnToCC_Teleporter15_Selfpres_Default"
 msgid "So we're doomed?"
-msgstr ""
+msgstr "그럼 이제 우린 끝장인가?"
 
 msgctxt "Narration/&ReturnToCC_Teleporter16_Authority_Default"
 msgid "What's going on?"
-msgstr ""
+msgstr "어떻게 돼 가고 있나요?"
 
 msgctxt "Narration/&ReturnToCC_Teleporter17_Merton_NPC"
 msgid "We're under attack!"
-msgstr ""
+msgstr "공격받고 있어!"
 
 msgctxt "Narration/&ReturnToCC_Teleporter18_Merton_NPC"
 msgid "Sleeper agents! Everywhere in the city!"
-msgstr ""
+msgstr "잠입 중이던 소락 요원들! 도시 어디에든 그들이 있네!"
 
 msgctxt "Narration/&ReturnToCC_Teleporter19_Princess_Default"
 msgid "Are they so powerful, the Sorr-Akkath?"
-msgstr ""
+msgstr "소라카스가 그렇게나 강대합니까?"
 
 msgctxt "Narration/&ReturnToCC_Teleporter20_History_Default"
 msgid "Your Royal Highness…"
-msgstr ""
+msgstr "공주 전하…"
 
 msgctxt "Narration/&ReturnToCC_Teleporter21_History_Default"
 msgid "We found this in Halman Summer's chambers, magically concealed."
-msgstr ""
+msgstr "저희가 이것을 마법으로 봉인되어 있던 할만 서머의 방에서 찾아냈습니다."
 
 msgctxt "Narration/&ReturnToCC_Teleporter22_History_Default"
 msgid "Do you have any ideas?"
-msgstr ""
+msgstr "어떻게 생각하십니까?"
 
 msgctxt "Narration/&ReturnToCC_Teleporter23_Princess_NPC"
 msgid "This is Sunset Peak, south of Aer Elai. "
-msgstr ""
+msgstr "에어 엘라이 남쪽의 선셋 봉우리군요. "
 
 msgctxt "Narration/&ReturnToCC_Teleporter24_Princess_NPC"
 msgid "I recognize this tower… or what's left of it."
-msgstr ""
+msgstr "이 탑이 뭔지 압니다... 혹은 남아있는게 무엇인지."
 
 msgctxt "Narration/&ReturnToCC_Teleporter25_Princess_NPC"
 msgid "There is a gate not too far away."
-msgstr ""
+msgstr "그리 멀지 않은 곳에 관문이 하나 있습니다."
 
 msgctxt "Narration/&ReturnToCC_Teleporter26_Princess_NPC"
 msgid "But who knows how the place looks like now?"
-msgstr ""
+msgstr "하지만 그곳이 지금 어떤 모습일지 누가 알까요?"
 
 msgctxt "Narration/&ReturnToCC_Teleporter27_Authority_Default"
 msgid "We're running out of time! If there is a chance to stop them…"
-msgstr ""
+msgstr "시간이 없습니다! 그들을 막을 일말의 기회라도 남아있다면…"
 
 msgctxt "Narration/&ReturnToCC_Teleporter28_Violent_Default"
 msgid "They don't stand a chance against you!"
-msgstr ""
+msgstr "그들에게는 당신에게 맞설 기회조차 없을 것입니다!"
 
 msgctxt "Narration/&ReturnToCC_Teleporter29_Princess_NPC"
 msgid "Alas, I cannot go into the Badlands."
-msgstr ""
+msgstr "아아, 나는 황무지로 갈 수가 없습니다."
 
 msgctxt "Narration/&ReturnToCC_Teleporter30_Nosy_Default"
 msgid "What? Why?"
-msgstr ""
+msgstr "무슨.. 왜죠?"
 
 msgctxt "Narration/&ReturnToCC_Teleporter31_Princess_NPC"
 msgid "Long story short: it would kill me faster than any dark god."
-msgstr ""
+msgstr "간단히 말하자면, 그곳은 그 어떤 어둠의 신보다도 빠르게 날 죽일것입니다."
 
 msgctxt "Narration/&ReturnToCC_Teleporter32_Princess_NPC"
 msgid "There's no time to explain - you have to trust me."
-msgstr ""
+msgstr "설명할 시간이 없어요. 당신들은 날 믿어야합니다."
 
 msgctxt "Narration/&ReturnToCC_Teleporter33_Princess_NPC"
 msgid "Only you can save Solasta now."
-msgstr ""
+msgstr "오직 여러분만이 솔라스타를 구할 수 있어요."
 
 msgctxt "Narration/&ReturnToCC_Teleporter34_Selfpres_Default"
 msgid "Us? What about all your… heroes, and all?"
-msgstr ""
+msgstr "우리들이요? 전하의... 영웅들은 어쩌고요?"
 
 msgctxt "Narration/&ReturnToCC_Teleporter35_Princess_NPC"
 msgid ""
 "Marshal Sunblaze is weakened from casting Resurrection spells, and so are "
 "most of his clerics."
-msgstr ""
+msgstr "선블레이즈 원수는 부활 주문을 시전하느라 쇠약해져 있습니다. 그리고 그의 클레릭들 대부분도 마찬가지이고요."
 
 msgctxt "Narration/&ReturnToCC_Teleporter36_Pragmatic_Default"
 msgid "Oh… they planned this as well, didn't they?"
-msgstr ""
+msgstr "오... 적들은 이것까지도 계획에 포함시켰었군요. 그렇지 않나요?"
 
 msgctxt "Narration/&ReturnToCC_Teleporter37_Princess_NPC"
 msgid "All my best fighters and spellblades are on the border."
-msgstr ""
+msgstr "내 최고의 전사들과 스펠블레이드들은 국경지역에 나가있습니다."
 
 msgctxt "Narration/&ReturnToCC_Teleporter38_Princess_NPC"
 msgid "Protector Kean is not what she used to be."
-msgstr ""
+msgstr "수호자 킨은 예전같지 않고요."
 
 msgctxt "Narration/&ReturnToCC_Teleporter39_Authority_Default"
 msgid "Merton? You coming?"
@@ -11694,15 +11694,15 @@ msgstr "왕관에겐 당신이 필요해요. 처음 봤을 때부터 느꼈죠."
 
 msgctxt "Narration/&ReturnToCC_Teleporter42_Princess_NPC"
 msgid "Kaseinax's spirit calls for you to save him from the darkness."
-msgstr ""
+msgstr "카세이낙스의 영혼이 어둠으로부터 그를 구해달라며 당신을 부르고 있어요."
 
 msgctxt "Narration/&ReturnToCC_Teleporter43_Nosy_Default"
 msgid "The Magister? You knew him?"
-msgstr ""
+msgstr "그 마지스터요? 당신은 그를 아십니까?"
 
 msgctxt "Narration/&ReturnToCC_Teleporter44_Princess_NPC"
 msgid "You're too curious for your own good."
-msgstr ""
+msgstr "당신은 호기심이 너무 많군요."
 
 msgctxt "Narration/&ReturnToCC_Teleporter45_Authority_Default"
 msgid "So, Merton's staying."
@@ -11714,63 +11714,63 @@ msgstr "공주님의 명을 거역할 수는 없지. 특히 지금 같은 때에
 
 msgctxt "Narration/&ReturnToCC_Teleporter47_Authority_Default"
 msgid "Fine, then."
-msgstr "괜찮습니다."
+msgstr "알겠습니다."
 
 msgctxt "Narration/&ReturnToCC_Teleporter48_Princess_NPC"
 msgid "I can only give you a few trinkets to help you in your endeavor."
-msgstr ""
+msgstr "나는 당신들의 노고에 도움이 될 만한 몇가지 잡다한 물건들 정도만 제공해 드릴 수 있습니다."
 
 msgctxt "Narration/&ReturnToCC_Teleporter49_Princess_NPC"
 msgid "And my blessing."
-msgstr ""
+msgstr "그리고 나의 축복도요."
 
 msgctxt "Narration/&ReturnToCC_Teleporter50_Sellsword_Default"
 msgid "My arm is yours, Princess."
-msgstr ""
+msgstr "저는 당신의 칼입니다, 공주님."
 
 msgctxt "Narration/&ReturnToCC_Teleporter51_Aristocrat_Default"
 msgid "Serving you is the greatest honor, your royal highness."
-msgstr ""
+msgstr "전하를 모시게 된 것은 제게 있어서 더 할 나위 없는 영광입니다, 공주 전하."
 
 msgctxt "Narration/&ReturnToCC_Teleporter52_Spy_Default"
 msgid "You're definitely the best crowned head around."
-msgstr ""
+msgstr "전하는 제가 아는 왕족 중 최고이십니다."
 
 msgctxt "Narration/&ReturnToCC_Teleporter53_Academic_Default"
 msgid "To think that you knew the Magister? I have so many questions!"
-msgstr ""
+msgstr "공주님께서 마지스터를 안다고 생각하는 것 말입니까? 전 물어볼 것이 너무나도 많아요!"
 
 msgctxt "Narration/&ReturnToCC_Teleporter54_Lowlife_Default"
 msgid "That's more than enough, Princess. We'll do your dirty work."
-msgstr ""
+msgstr "그정도면 필요 이상입니다, 공주님. 손을 더럽히는 건 저희가 하겠습니다."
 
 msgctxt "Narration/&ReturnToCC_Teleporter55_Lawkeeper_Default"
 msgid "We will prevail or die, your royal highness."
-msgstr ""
+msgstr "우리에게는 승리 아니면 죽음 뿐입니다, 공주 전하."
 
 msgctxt "Narration/&ReturnToCC_Teleporter56_Philosopher_Default"
 msgid "So powerful - and yet so helpless to save Solasta. Fascinating."
-msgstr ""
+msgstr "매우 강력하지만 솔라스타를 구하기엔 역부족입니다. 흥미롭군요."
 
 msgctxt "Narration/&ReturnToCC_Teleporter57_AcolyteEinar_Default"
 msgid "Einar will be with us, your royal highness."
-msgstr ""
+msgstr "에이나르께서 우리와 함께하실 것입니다, 공주 전하."
 
 msgctxt "Narration/&ReturnToCC_Teleporter58_AcolyteMaraike_Default"
 msgid "Maraike will be with us in life and death."
-msgstr ""
+msgstr "마라이케가 우리의 삶과 죽음에 함께할 것입니다."
 
 msgctxt "Narration/&ReturnToCC_Teleporter59_AcolyteArun_Default"
 msgid "May Arun guide us all."
-msgstr ""
+msgstr "아룬께서 우리 모두를 이끄시길."
 
 msgctxt "Narration/&ReturnToCC_Teleporter60_AcolytePakri_Default"
 msgid "Justice will be served, your royal highness."
-msgstr ""
+msgstr "정의는 실현될 것입니다, 공주 전하."
 
 msgctxt "Narration/&ReturnToCC_Teleporter61_Princess_NPC"
 msgid "You should rest and prepare yourselves."
-msgstr ""
+msgstr "이제 휴식을 취하고 준비를 단단히 하십시오."
 
 msgctxt "Narration/&ReturnToCC_Teleporter62_Authority_Default"
 msgid "Sleep, now? There's no time!"
@@ -11778,240 +11778,241 @@ msgstr "잘 시간 없어요, 한시가 급합니다!"
 
 msgctxt "Narration/&ReturnToCC_Teleporter63_Princess_NPC"
 msgid "You really should start admitting that you don't know everything."
-msgstr ""
+msgstr "여러분은 자신이 모든 걸 알지는 못한다는 사실을 받아들이기 시작해야 합니다."
 
 msgctxt "Narration/&ReturnToCC_Teleporter64_Princess_NPC"
 msgid "Rest now. Time will wait for you, I promise."
-msgstr ""
+msgstr "이제 쉬십시오. 시간은 당신을 기다려줄겁니다, 내 약속하지요."
 
 msgctxt "Narration/&ReturnToCC_Teleporter65_Princess_NPC"
 msgid "I will speak the words that will activate the gate for Sunset Peak."
-msgstr ""
+msgstr "내가 선셋 봉우리의 관문을 활성화할 수 있는 단어를 읊을 것입니다."
 
 msgctxt "Narration/&ReturnToCC_Teleporter66_Princess_NPC"
 msgid "When you are ready, step onto the gate, and fulfill your destiny."
-msgstr ""
+msgstr "준비를 마치면, 관문에 올라서서 당신들의 사명을 완수하세요."
 
 msgctxt "Narration/&ReturnToCC_TimeLapse1_Nosy_Default"
 msgid "Did she just… stop time?"
-msgstr ""
+msgstr "지금 그녀가... 시간을 멈춘건가?"
 
 msgctxt "Narration/&ReturnToCC_TimeLapse2_Acolyte_Default"
 msgid "This is unnatural."
-msgstr ""
+msgstr "이건 부자연스러운 일이야."
 
 msgctxt "Narration/&ReturnToCC_TimeLapse3_Selfpres_Default"
 msgid "I won't be able to sleep now."
-msgstr ""
+msgstr "난 지금 잘 수 있을 것 같지가 않아."
 
 msgctxt "Narration/&ReturnToCC_TimeLapse4_Authority_Default"
 msgid "You know what's at stake. "
-msgstr ""
+msgstr "뭐가 중요한 지 알고있잖아. "
 
 msgctxt "Narration/&ReturnToCC_TimeLapse5_Authority_Default"
 msgid "We'll need to be ready for anything."
-msgstr ""
+msgstr "우린 철저히 준비해야 해."
 
+#, fuzzy
 msgctxt "Narration/&Mertonswife1_Bitterroot_NPC"
 msgid "Damned Soraks right under our noses, eh?"
-msgstr ""
+msgstr "망할 소락들이 우리 코앞에 있는 채로 말이지, 응?"
 
 msgctxt "Narration/&Mertonswife2_Bitterroot_NPC"
 msgid ""
 "It's worse than I thought. I met with this fake baron more than once "
 "recently..."
-msgstr ""
+msgstr "생각보다 심각하네. 최근에 이 가짜 남작을 최소한 두 번은 봤었는데..."
 
 msgctxt "Narration/&Mertonswife3_Bitterroot_NPC"
 msgid "Didn't see a difference."
-msgstr ""
+msgstr "차이가 없었다고."
 
 msgctxt "Narration/&Mertonswife4_Lawful_Normal"
 msgid "Nice to meet you, too."
-msgstr ""
+msgstr "만나서 참~ 반갑네요."
 
 msgctxt "Narration/&Mertonswife5_Lawful_Formal"
 msgid "And who might you be, lady?"
-msgstr ""
+msgstr "그래서 댁은 누구 되십니까, 숙녀분?"
 
 msgctxt "Narration/&Mertonswife6_Bitterroot_NPC"
 msgid "Call me Bitterroot."
-msgstr ""
+msgstr "비터루트라 불러."
 
 msgctxt "Narration/&Mertonswife7_Nosy_Formal"
 msgid "That's a peculiar name."
-msgstr ""
+msgstr "이름 참 신기하네요."
 
 msgctxt "Narration/&Mertonswife8_Nosy_Normal"
 msgid "So that's not your real name?"
-msgstr ""
+msgstr "가명을 쓰는 거죠?"
 
 msgctxt "Narration/&Mertonswife9_Bitterroot_NPC"
 msgid "It's the only name I need."
-msgstr ""
+msgstr "그것 말고 다른 이름은 필요 없어."
 
 msgctxt "Narration/&Mertonswife10_Bitterroot_NPC"
 msgid "Tell me something."
-msgstr ""
+msgstr "얘기 좀 해 봐."
 
 msgctxt "Narration/&Mertonswife11_Bitterroot_NPC"
 msgid "You're bound to the Legacy Council, right?"
-msgstr ""
+msgstr "넌 유산 평의회 소속이지?"
 
 msgctxt "Narration/&Mertonswife12_Cynical_Normal"
 msgid "I knew these badges would help eventually."
-msgstr ""
+msgstr "이 신분증이 마침내 도움이 되는 날이 오는구나."
 
 msgctxt "Narration/&Mertonswife13_Friendly_Normal"
 msgid "Yes, we are. Interested in joining?"
-msgstr ""
+msgstr "네 맞습니다. 함께 하실 생각이 있으신가요?"
 
 msgctxt "Narration/&Mertonswife14_Bitterroot_NPC"
 msgid ""
 "Ever heard of Arwin Merton? He's probably marinating in some tavern in Caer "
 "Cyflen."
-msgstr ""
+msgstr "아르윈 머튼에 대해 들어본 적이 없나? 아마도 케어 키플렌의 어느 술집에선가 술에 쩔어 있을 거야."
 
 msgctxt "Narration/&Mertonswife15_Authority_Normal"
 msgid "We met him."
-msgstr ""
+msgstr "만나본 적 있죠."
 
 msgctxt "Narration/&Mertonswife16_Bitterroot_NPC"
 msgid "If you'd be so kind, I have something I'd like you to take back to him."
-msgstr ""
+msgstr "네가 그렇게 친절하다면, 놈에게 돌려주었으면 하는 물건이 있어."
 
 msgctxt "Narration/&Mertonswife17_Bitterroot_NPC"
 msgid "A message, and a gift."
-msgstr ""
+msgstr "메세지 하나와 선물 하나."
 
 msgctxt "Narration/&Mertonswife18_Violent_Normal"
 msgid "Why not go yourself?"
-msgstr ""
+msgstr "왜 직접 하지 않나요?"
 
 msgctxt "Narration/&Mertonswife19_Bitterroot_NPC"
 msgid "I'm not going to him. He needs to come to me."
-msgstr ""
+msgstr "내가 가지는 않을 거야. 놈이 나를 찾아와야 해."
 
 msgctxt "Narration/&Mertonswife20_Helpful_Normal"
 msgid "A personal matter?"
-msgstr ""
+msgstr "사적인 문제인가요?"
 
 msgctxt "Narration/&Mertonswife21_Helpful_Slang"
 msgid "He cheated on you or something?"
-msgstr ""
+msgstr "바람 피웠다던가 뭐 그런 겁니까?"
 
 msgctxt "Narration/&Mertonswife22_Helpful_Formal"
 msgid "Sounds like a sensitive topic."
-msgstr ""
+msgstr "민감한 문제로 들리는군요."
 
 msgctxt "Narration/&Mertonswife23_Bitterroot_NPC"
 msgid "I'd rather not go into detail. "
-msgstr ""
+msgstr "너무 자세히 파고들지는 않았으면 좋겠군. "
 
 msgctxt "Narration/&Mertonswife24_Authority_Slang"
 msgid "What's the gift?"
-msgstr ""
+msgstr "선물은 뭔가요?"
 
 msgctxt "Narration/&Mertonswife25_Authority_Normal"
 msgid "What do we need to take back?"
-msgstr ""
+msgstr "무엇을 되돌려 주라는 겁니까?"
 
 msgctxt "Narration/&Mertonswife26_Bitterroot_NPC"
 msgid "A longsword."
-msgstr ""
+msgstr "롱소드."
 
 msgctxt "Narration/&Mertonswife27_Pragmatic_Normal"
 msgid "Not too heavy. We could do that."
-msgstr ""
+msgstr "그렇게까지 무거운 물건은 아니군요. 우리가 해드릴 수 있을거에요."
 
 msgctxt "Narration/&Mertonswife28_Greed_Normal"
 msgid "But what's the reward?"
-msgstr ""
+msgstr "보상은 뭔가요?"
 
 msgctxt "Narration/&Mertonswife29_Bitterroot_NPC"
 msgid "Ah - real heroes!"
-msgstr ""
+msgstr "진정한 영웅이시로군!"
 
 msgctxt "Narration/&Mertonswife30_Bitterroot_NPC"
 msgid "I can give you the location of a... treasure."
-msgstr ""
+msgstr "보물... 위치를 알려줄 수 있어."
 
 msgctxt "Narration/&Mertonswife31_Cynical_Normal"
 msgid ""
 "Of course, everyone keeps a treasure map in their pocket, just in case..."
-msgstr ""
+msgstr "그럼 그럼, 누구나 만일에 대비한 보물지도 하나씩은 갖고 있는 법이지."
 
 msgctxt "Narration/&Mertonswife32_Bitterroot_NPC"
 msgid "It's a Manacalon building in the Badlands."
-msgstr ""
+msgstr "그 보물이라는건 황무지에 있는 마나칼론 건축물이야."
 
 msgctxt "Narration/&Mertonswife33_Bitterroot_NPC"
 msgid "The Arcaneum wanted me to loot it."
-msgstr ""
+msgstr "아케니움은 내가 그곳을 털어오길 바랐지."
 
 msgctxt "Narration/&Mertonswife33_Bitterroot_NPC2"
 msgid "Apparently, it was a Silent Whisper base before the Cataclysm."
-msgstr ""
+msgstr "듣자하니 대격변 이전에는 고요한 속삭임 기지였다더군."
 
 msgctxt "Narration/&Mertonswife34_Greed_Normal"
 msgid "Heddlon Surespell would pay a fortune for what's inside."
-msgstr ""
+msgstr "헤들론 슈어스펠이 후하게 쳐주겠군요."
 
 msgctxt "Narration/&Mertonswife35_Bitterroot_NPC"
 msgid "But it's full of monsters. Too many for me."
-msgstr ""
+msgstr "하지만 괴물로 한가득이야. 나에겐 벅차."
 
 msgctxt "Narration/&Mertonswife36_Friendly_Normal"
 msgid "We could team up."
-msgstr ""
+msgstr "같이 가시죠."
 
 msgctxt "Narration/&Mertonswife37_Bitterroot_NPC"
 msgid "I've... lost the taste for adventuring."
-msgstr ""
+msgstr "난... 모험에 정 떨어졌어."
 
 msgctxt "Narration/&Mertonswife38_Bitterroot_NPC"
 msgid "Do we have a deal?"
-msgstr ""
+msgstr "할 거야?"
 
 msgctxt "Narration/&Mertonswife39_Helpful_NPC"
 msgid "Sure."
-msgstr ""
+msgstr "그러죠."
 
 msgctxt "Narration/&Mertonswife40_Selfpres_NPC"
 msgid "Not interested."
-msgstr ""
+msgstr "별로."
 
 msgctxt "Narration/&Mertonswife41_Agree_NPC"
 msgid "Fine, what's the message?"
-msgstr ""
+msgstr "좋습니다, 메시지는 뭡니까?"
 
 msgctxt "Narration/&Mertonswife42_Choice_Refuse"
 msgid "Sorry. We have more important things to do."
-msgstr ""
+msgstr "미안합니다. 더 중요한 일이 있어서."
 
 msgctxt "Narration/&Mertonswife43_Choice_Accept"
 msgid "As you wish."
-msgstr ""
+msgstr "바라는대로 해드리죠."
 
 msgctxt "Narration/&Mertonswife44_Biterroot_NPC"
 msgid "Tell him he still owes me a child, and I'm waiting. Here, in Coparann."
-msgstr ""
+msgstr "아직 아이 하나 빚진 거 있으니, 코파란에서 내가 기다린다고 전해."
 
 msgctxt "Narration/&Mertonswife45_Any_Normal"
 msgid "All right... we'll tell him that."
-msgstr ""
+msgstr "좋아요... 전해드리죠."
 
 msgctxt "Narration/&Mertonswife46_Any_Formal"
 msgid "Fine, we'll take your message to him."
-msgstr ""
+msgstr "알겠습니다, 그에게 당신의 전언을 전해 드리겠습니다."
 
 msgctxt "Narration/&Mertonswife47_Biterroot_NPC"
 msgid "Thank you. Here's the blade. And the map."
-msgstr ""
+msgstr "고마워. 여기 롱소드랑 지도야."
 
 msgctxt "Narration/&Mertonswife48_Friendly_Normal"
 msgid "Farewell, Bitterroot."
-msgstr ""
+msgstr "잘 있어요, 비터루트."
 
 msgctxt "Narration/&Mertonswife2_1_Any_Normal"
 msgid "Hello, Arwin."
@@ -12023,7 +12024,7 @@ msgstr "아르윈? 내가 니 친구냐? "
 
 msgctxt "Narration/&Mertonswife2_3_Merton_NPC"
 msgid "I'll keep calling you kid, I think."
-msgstr ""
+msgstr "계속 꼬맹이라고 불러야겠구먼, 이거."
 
 msgctxt "Narration/&Mertonswife2_4_Any_Normal"
 msgid "Whatever."
@@ -12031,7 +12032,7 @@ msgstr "그러시던지요."
 
 msgctxt "Narration/&Mertonswife2_5_Any_Formal"
 msgid "Suit yourself."
-msgstr "마음대로 하세요."
+msgstr "마음대로 하십시오."
 
 msgctxt "Narration/&Mertonswife2_6_Any_Normal"
 msgid "We've been to Coparann - ring a bell?"
@@ -12047,23 +12048,23 @@ msgstr "물론이지."
 
 msgctxt "Narration/&Mertonswife2_9_Any_Normal"
 msgid "Apparently, you are indebted to someone there."
-msgstr ""
+msgstr "듣자 하니, 누구한테 빚이 있다던데요."
 
 msgctxt "Narration/&Mertonswife2_10_Any_Normal"
 msgid "An elf ranger. She calls herself Bitterroot."
-msgstr "엘프 레인저 말입니다. 비터루트라는 이름이던데요."
+msgstr "엘프 레인저 말입니다. 비터루트라고 하더군요."
 
 msgctxt "Narration/&Mertonswife2_11_Merton_NPC"
 msgid "Really?"
-msgstr "진심이냐?"
+msgstr "이름이?"
 
 msgctxt "Narration/&Mertonswife2_12_Any_Normal"
 msgid "Something to do with her mood, maybe."
-msgstr ""
+msgstr "기분 나쁠 때 지었나 봐요, 아마도."
 
 msgctxt "Narration/&Mertonswife2_13_Any_Normal"
 msgid "She said you owe her… a child."
-msgstr ""
+msgstr "당신이 그녀에게 아이를... 빚지고 있다는데요."
 
 msgctxt "Narration/&Mertonswife2_14_Merton_NPC"
 msgid "She's crazy."
@@ -12071,7 +12072,7 @@ msgstr "걘 완전 미친 년이야."
 
 msgctxt "Narration/&Mertonswife2_15_Any_Normal"
 msgid "We just said we'd bring the message. She's still waiting."
-msgstr ""
+msgstr "그냥 말을 전할 뿐이에요. 여전히 기다린다고요."
 
 msgctxt "Narration/&Mertonswife2_16_Merton_NPC"
 msgid "Yeah… thanks for the message."
@@ -12079,11 +12080,11 @@ msgstr "그래... 알려줘서 고맙네."
 
 msgctxt "Narration/&Mertonswife2_17_Any_Normal"
 msgid "Want to tell us what this is about?"
-msgstr "어떤 일인지 말해주지 않으시겠습니까?"
+msgstr "무슨 일인지 말해주고 싶지 않나요?"
 
 msgctxt "Narration/&Mertonswife2_18_Any_Formal"
 msgid "Maybe you would like to share a story with us?"
-msgstr ""
+msgstr "어떤 일인지 말해주지 않으시겠습니까?"
 
 msgctxt "Narration/&Mertonswife2_19_Merton_NPC"
 msgid "No. I don't."
@@ -12091,15 +12092,15 @@ msgstr "아니. 말 안 해."
 
 msgctxt "Narration/&Mertonswife2_20_Any_Normal"
 msgid "You didn't take her child away from her?"
-msgstr ""
+msgstr "애를 납치한 건 아니죠?"
 
 msgctxt "Narration/&Mertonswife2_21_Merton_NPC"
 msgid "You're out of line. I'd step back if I were you."
-msgstr "선을 넘으려 하는 군. 더 캐묻지 않는 게 좋을 거다."
+msgstr "선을 넘었어. 더 캐묻지 않는 게 좋을 거다."
 
 msgctxt "Narration/&Mertonswife2_22_Any_Normal"
 msgid "All right. It's none of our business."
-msgstr "알겠습니다. 우리가 상관할 일 아니지요."
+msgstr "알겠습니다. 우리가 상관할 일은 아니지요."
 
 msgctxt "Narration/&Mertonswife2_23_Any_Normal"
 msgid "She gave us this for you."
@@ -12127,173 +12128,173 @@ msgstr "꺼져!"
 
 msgctxt "Narration/&LegendaryQuest_1_Merton_NPC"
 msgid "Hello again! I hear you're the terror of the Badlands."
-msgstr ""
+msgstr "또 보는군! 황무지의 공포로 불리고 있다며."
 
 msgctxt "Narration/&LegendaryQuest_2_Any_Default"
 msgid "We're getting by."
-msgstr ""
+msgstr "그럭저럭요."
 
 msgctxt "Narration/&LegendaryQuest_3_Any_Default"
 msgid "Did you hear about a lost god?"
-msgstr ""
+msgstr "잃어버린 신에 대해 들은 거 있습니까?"
 
 msgctxt "Narration/&LegendaryQuest_4_Merton_NPC"
 msgid "Sure - if you're ready to die!"
-msgstr ""
+msgstr "물론. 죽을 준비가 됐다면 말이지!"
 
 msgctxt "Narration/&LegendaryQuest_5_Any_Default"
 msgid "We're not green anymore, Merton."
-msgstr ""
+msgstr "우린 초보자가 아니라고요, 머튼."
 
 msgctxt "Narration/&LegendaryQuest_6_Merton_NPC"
 msgid "Fine, but the Lost God? That is the stuff of legend."
-msgstr ""
+msgstr "그렇지, 하지만 잃어버린 신? 그건 그냥 전설이라고."
 
 msgctxt "Narration/&LegendaryQuest_7_Merton_NPC"
 msgid "I've met a lot of people who wanted to find that temple."
-msgstr ""
+msgstr "그 신전을 찾으려고 하는 사람들 많이 봤었다."
 
 msgctxt "Narration/&LegendaryQuest_8_Merton_NPC"
 msgid "At first I tried to help. No one ever came back."
-msgstr ""
+msgstr "처음엔 도와줬었지. 아무도 돌아오지 못했고."
 
 msgctxt "Narration/&LegendaryQuest_9_Merton_NPC"
 msgid "So I decided to stop talking about it."
-msgstr ""
+msgstr "그래서 말 안 하기로 했어."
 
 msgctxt "Narration/&LegendaryQuest_10_Merton_NPC"
 msgid "I felt… well…"
-msgstr ""
+msgstr "그게... 참…"
 
 msgctxt "Narration/&LegendaryQuest_11_Any_Default"
 msgid "Responsible for their deaths?"
-msgstr ""
+msgstr "죽은 거에 죄책감을 느낀다는 겁니까?"
 
 msgctxt "Narration/&LegendaryQuest_12_Merton_NPC"
 msgid "Responsible? No - they paid for their folly."
-msgstr ""
+msgstr "죄책감? 아니. 멍청함의 대가를 치른 거지."
 
 msgctxt "Narration/&LegendaryQuest_13_Merton_NPC"
 msgid "I just grew tired of repeating the same warning over and over."
-msgstr ""
+msgstr "그냥 같은 경고를 계속 반복하는 것에 지쳐 버렸을 뿐이야."
 
 msgctxt "Narration/&LegendaryQuest_14_Any_Default"
 msgid "Are we bothering you?"
-msgstr ""
+msgstr "우리가 지치게 하나요?"
 
 msgctxt "Narration/&LegendaryQuest_15_Merton_NPC"
 msgid "You're always bothering me."
-msgstr ""
+msgstr "항상 지치게 하지."
 
 msgctxt "Narration/&LegendaryQuest_16_Any_Default"
 msgid "Let's go."
-msgstr ""
+msgstr "가죠."
 
 msgctxt "Narration/&LegendaryQuest_17_Merton_NPC"
 msgid "Oh, don't be so sensitive!"
-msgstr ""
+msgstr "오, 그렇게 삐치지 마!"
 
 msgctxt "Narration/&LegendaryQuest_18_Merton_NPC"
 msgid "All right - the temple is real. I've seen it."
-msgstr ""
+msgstr "알았어. 신전은 진짜야. 내가 봤다고."
 
 msgctxt "Narration/&LegendaryQuest_19_Any_Default"
 msgid "You have?"
-msgstr ""
+msgstr "봤다고요?"
 
 msgctxt "Narration/&LegendaryQuest_20_Merton_NPC"
 msgid "It was about fifteen years ago, but yes. I did."
-msgstr ""
+msgstr "대충 15년 전 쯤, 아무튼. 봤지."
 
 msgctxt "Narration/&LegendaryQuest_21_Any_Default"
 msgid "And you didn't raid it?"
-msgstr ""
+msgstr "그리고 들어가진 않았다고요?"
 
 msgctxt "Narration/&LegendaryQuest_22_Merton_NPC"
 msgid "Well, ten of us found the place…"
-msgstr ""
+msgstr "음, 우리 중 열 명이 거길 찾았고…"
 
 msgctxt "Narration/&LegendaryQuest_23_Merton_NPC"
 msgid "…when I was the only one left, I came home."
-msgstr ""
+msgstr "...나만 남아서, 집으로 왔지."
 
 msgctxt "Narration/&LegendaryQuest_24_Any_Default"
 msgid "The other nine died?"
-msgstr ""
+msgstr "다른 아홉은 죽었단 겁니까?"
 
 msgctxt "Narration/&LegendaryQuest_25_Merton_NPC"
 msgid "Slaughtered. All of them."
-msgstr ""
+msgstr "학살 당했지. 전부."
 
 msgctxt "Narration/&LegendaryQuest_26_Merton_NPC"
 msgid "Still interested?"
-msgstr ""
+msgstr "아직도 관심 있냐?"
 
 msgctxt "Narration/&LegendaryQuest_27_Any_Default"
 msgid "You think we're not strong enough?"
-msgstr ""
+msgstr "우리가 그렇게 약해 보입니까?"
 
 msgctxt "Narration/&LegendaryQuest_28_Merton_NPC"
 msgid "I don't know. You're the mighty Sorak killers, after all…"
-msgstr ""
+msgstr "모르지. 결국, 강력한 소락 처리자가 됐지만…"
 
 msgctxt "Narration/&LegendaryQuest_29_Merton_NPC"
 msgid "…maybe with me… you'd have a chance."
-msgstr ""
+msgstr "...나랑 간다면... 기회가 있을 거야."
 
 msgctxt "Narration/&LegendaryQuest_30_Any_Default"
 msgid "You'd come with us?"
-msgstr ""
+msgstr "우리랑 가겠다고요?"
 
 msgctxt "Narration/&LegendaryQuest_31_Merton_NPC"
 msgid "I wouldn't let anyone raid that temple without me."
-msgstr ""
+msgstr "나 없이는 누구도 신전을 가게 두진 않겠어."
 
 msgctxt "Narration/&LegendaryQuest_32_Merton_NPC"
 msgid "You'd never find it, for a start."
-msgstr ""
+msgstr "일단 절대 찾지도 못할 걸."
 
 msgctxt "Narration/&LegendaryQuest_33_Any_Default"
 msgid "Are you after the treasure?"
-msgstr ""
+msgstr "보물을 노리는 겁니까?"
 
 msgctxt "Narration/&LegendaryQuest_34_Merton_NPC"
 msgid "Who says there's any treasure?"
-msgstr ""
+msgstr "누가 거기 보물이 있다고 하던?"
 
 msgctxt "Narration/&LegendaryQuest_35_Merton_NPC"
 msgid "There's a monster - I know that."
-msgstr ""
+msgstr "괴물뿐이야. 그건 알지."
 
 msgctxt "Narration/&LegendaryQuest_36_Any_NPC"
 msgid "What is it?"
-msgstr ""
+msgstr "이게 뭐죠?"
 
 msgctxt "Narration/&LegendaryQuest_37_Merton_NPC"
 msgid "That, I don't know."
-msgstr ""
+msgstr "그거, 나도 몰라."
 
 msgctxt "Narration/&LegendaryQuest_38_Merton_NPC"
 msgid "I just want to be there first. I want that on my tombstone."
-msgstr ""
+msgstr "그냥 내가 앞장 설게. 묘비에 새겨줘."
 
 msgctxt "Narration/&LegendaryQuest_39_Any_Default"
 msgid "Fair enough."
-msgstr ""
+msgstr "어쩔 수 없네요."
 
 msgctxt "Narration/&LegendaryQuest_40_Merton_NPC"
 msgid ""
 "It's a long trip. If you're crazy enough to go, give me some time to pack my "
 "gear."
-msgstr ""
+msgstr "긴 여행이 될 거야. 갈 만큼 미쳤으면, 내 장비도 챙길 시간을 줘."
 
 msgctxt "Narration/&LegendaryQuest_41_Merton_NPC"
 msgid "I need the rest of the day. I'll wait for you here."
-msgstr ""
+msgstr "하루 정도 필요해. 여기서 기다리지."
 
 msgctxt "Narration/&LegendaryQuest_42_Any_Default"
 msgid "Sure."
-msgstr ""
+msgstr "그럼요."
 
 msgctxt "Narration/&LegendaryQuest_2_1_Authority_Normal"
 msgid "We're ready to take on that quest, Arwin."
@@ -12309,11 +12310,11 @@ msgstr "생각이 바뀌었나요?"
 
 msgctxt "Narration/&LegendaryQuest_2_4_Merton_NPC"
 msgid "No, no. I'm ready!"
-msgstr "아니, 난 준비됐어!"
+msgstr "아니, 아니. 난 준비됐어!"
 
 msgctxt "Narration/&LegendaryQuest_2_5_Merton_NPC"
 msgid "Let's go!"
-msgstr ""
+msgstr "가 봅시다!"
 
 msgctxt "Narration/&LegendaryQuest_2_6_Lawful_Normal"
 msgid "Hey, we're supposed to go together, remember?"
@@ -12325,7 +12326,7 @@ msgstr "아, 그거 말인데. 난 코파란에 먼저 좀 들리도록 하지."
 
 msgctxt "Narration/&LegendaryQuest_2_8_Cynical_Normal"
 msgid "Oh - unfinished business, maybe?"
-msgstr "아, 끝마칠 일이 있나보죠?"
+msgstr "오우, 마무리할 일 같은 게 있나 보죠?"
 
 msgctxt "Narration/&LegendaryQuest_2_9_Merton_NPC"
 msgid "You know exactly what business."
@@ -12341,11 +12342,11 @@ msgstr "지도에 케어 엘리스라는 곳이 있을 거야."
 
 msgctxt "Narration/&LegendaryQuest_2_12_History_Normal"
 msgid "It's just an old Manacalon name."
-msgstr ""
+msgstr "그건 그냥 옛날 마나칼론식 이름이죠."
 
 msgctxt "Narration/&LegendaryQuest_2_13_Merton_NPC"
 msgid "Maybe, but there is a ruin - you'll see it. It's Tirmarian."
-msgstr ""
+msgstr "그럴지도, 거기엔 폐허가 있는데, 쉽게 찾을 수 있을거야. 그건 티르마르의 것일세."
 
 msgctxt "Narration/&LegendaryQuest_2_14_Merton_NPC"
 msgid "I'll be waiting for you."
@@ -12353,11 +12354,12 @@ msgstr "기다리고 있겠네."
 
 msgctxt "Narration/&LegendaryQuest_2_15_Selfpres_Normal"
 msgid "What if we don't come?"
-msgstr ""
+msgstr "만약에 우리가 오지 않으면요?"
 
+#, fuzzy
 msgctxt "Narration/&LegendaryQuest_2_16_Merton_NPC"
 msgid "Then damn the lot of you."
-msgstr ""
+msgstr "그럼 니들을 엄청 저주하겠지."
 
 msgctxt "Narration/&LegendaryQuest_2_17_Authority_Normal"
 msgid "What we get there before you do?"
@@ -12377,7 +12379,7 @@ msgstr "완전 미친 것 같아. "
 
 msgctxt "Narration/&LegendaryQuest_2_21_Pragmatic_Normal"
 msgid "And we're going with him."
-msgstr "어쩌겠어, 동행해야 하는데."
+msgstr "그리고 우린 그 미친놈이랑 같이 가야 하지."
 
 msgctxt "Narration/&LegendaryQuest_3_1_Merton_NPC"
 msgid "See? I told you I'd be here."
@@ -12385,111 +12387,111 @@ msgstr "내가 말했지? 먼저 와있을 거라고."
 
 msgctxt "Narration/&LegendaryQuest_3_2_Nosy_Normal"
 msgid "What have you been doing?"
-msgstr ""
+msgstr "뭐하고 있었어요?"
 
 msgctxt "Narration/&LegendaryQuest_3_3_Merton_NPC"
 msgid "Catching up with wildlife."
-msgstr ""
+msgstr "야생을 즐기고 있었지."
 
 msgctxt "Narration/&LegendaryQuest_3_4_Merton_NPC"
 msgid "It used to be my thing."
-msgstr ""
+msgstr "예전에 종종 그랬던 것처럼."
 
 msgctxt "Narration/&LegendaryQuest_3_5_Cynical_Normal"
 msgid "Camping in the Badlands? Really?"
-msgstr ""
+msgstr "황무지에서 야영을 한다고요? 진심?"
 
 msgctxt "Narration/&LegendaryQuest_3_6_Merton_NPC"
 msgid "Yep. Shadow Tamer, they called me."
-msgstr ""
+msgstr "그럼. 섀도테이머, 난 그렇게 불렸지."
 
 msgctxt "Narration/&LegendaryQuest_3_7_Pragmatic_Normal"
 msgid "Fine, Shadow Tamer - where's the temple?"
-msgstr ""
+msgstr "뭐 그랬군요, 섀도테이머 씨 - 사원은 어디있나요?"
 
 msgctxt "Narration/&LegendaryQuest_3_8_Merton_NPC"
 msgid "Behind the mist."
-msgstr ""
+msgstr "안개 너머에."
 
 msgctxt "Narration/&LegendaryQuest_4_1_Pragmatic_Normal"
 msgid "We're through the mist!"
-msgstr ""
+msgstr "안개를 뚫고 가는군요!"
 
 msgctxt "Narration/&LegendaryQuest_4_2_Merton_NPC"
 msgid "Don't get too cocky. This is where my friends died last time."
-msgstr ""
+msgstr "너무 자만하지 말게나. 여기가 지난 번에 내 친구들이 죽어나갔던 곳이야."
 
 msgctxt "Narration/&LegendaryQuest_4_3_Religion_Einar_Normal"
 msgid "Einar will guide us."
-msgstr ""
+msgstr "에이나르께서 우리를 인도하시길."
 
 msgctxt "Narration/&LegendaryQuest_4_4_Religion_Maraike_Normal"
 msgid "Maraike is with us."
-msgstr ""
+msgstr "마라이케시여 저희와 함께 하소서."
 
 msgctxt "Narration/&LegendaryQuest_4_5_Religion_Pakri_Normal"
 msgid "Pakri will clear our minds."
-msgstr ""
+msgstr "파크리께서 우리를 밝히시리라."
 
 msgctxt "Narration/&LegendaryQuest_4_6_Religion_Arun_Normal"
 msgid "Arun will guide our hearts."
-msgstr ""
+msgstr "아룬께서 우리의 마음을 인도하시리라."
 
 msgctxt "Narration/&LegendaryQuest_4_7_Sellsword_Normal"
 msgid "No pain, no gain."
-msgstr ""
+msgstr "고통 없이는 아무 것도 얻을 수 없지."
 
 msgctxt "Narration/&LegendaryQuest_4_8_Selpres_Normal"
 msgid "Thanks for the encouragement."
-msgstr ""
+msgstr "격려 감사하군요."
 
 msgctxt "Narration/&LegendaryQuest_4_9_Merton_NPC"
 msgid "Just saying…"
-msgstr ""
+msgstr "그냥 얘기해 준 거지…"
 
 msgctxt "Narration/&LegendaryQuest_5_1_Selfpres_Normal"
 msgid "We did it!"
-msgstr ""
+msgstr "해냈어요!"
 
 msgctxt "Narration/&LegendaryQuest_5_2_Merton_NPC"
 msgid "Yeah, we did!"
-msgstr ""
+msgstr "그래 우리가 해냈네!"
 
 msgctxt "Narration/&LegendaryQuest_5_3_Merton_NPC"
 msgid "There's still the big one, in there!"
-msgstr ""
+msgstr "안에 가면 큰 거 하나 또 온다!"
 
 msgctxt "Narration/&LegendaryQuest_5_4_Pragmatic_Normal"
 msgid "Sure. It's not over yet."
-msgstr ""
+msgstr "맞아요. 아직 안 끝났죠."
 
 msgctxt "Narration/&LegendaryQuest_5_5_Any_Normal"
 msgid "This is weird. I don't recognize any of these symbols."
-msgstr ""
+msgstr "이상해. 이 문양들, 본 적도 없어."
 
 msgctxt "Narration/&LegendaryQuest_5_6_Any_Normal"
 msgid "Was there really a lost god?"
-msgstr ""
+msgstr "잃어버린 신이 정말로 있긴 했을까?"
 
 msgctxt "Narration/&LegendaryQuest_5_7_History_Normal"
 msgid "I think I know what this was:"
-msgstr ""
+msgstr "내가 아는 것 같은데:"
 
 msgctxt "Narration/&LegendaryQuest_5_8_History_Normal"
 msgid "A temple of Arivad!"
-msgstr ""
+msgstr "아리바드의 신전이야!"
 
 msgctxt "Narration/&LegendaryQuest_5_9_Einar_Normal"
 msgid "Einar protect us!"
-msgstr ""
+msgstr "에이나르시여 저희를 보호하소서!"
 
 msgctxt "Narration/&LegendaryQuest_5_10_Any_Normal"
 msgid "Isn't that one of the names of the Sorak god?"
-msgstr ""
+msgstr "그거 소락의 신들 중 하나 아니었나?"
 
 msgctxt "Narration/&LegendaryQuest_5_11_History_Normal"
 msgid "Not before the Cataclysm."
-msgstr ""
+msgstr "대격변 이전에는 아니었지."
 
 msgctxt "Narration/&LegendaryQuest_5_12_History_Normal"
 msgid "Arivad was fierce and just on Tirmar - a god of inquisitors."
