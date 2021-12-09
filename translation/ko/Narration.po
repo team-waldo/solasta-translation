@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-12-08 13:33+0000\n"
+"PO-Revision-Date: 2021-12-09 12:33+0000\n"
 "Last-Translator: Nickel <psb3421@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
@@ -20146,68 +20146,69 @@ msgstr "여기야!"
 
 msgctxt "Narration/&AbjurationQuest_Tower_2_SpyOrRangerOrElse_Normal"
 msgid "And it's had recent visitors. Look here in the mud - a boot print."
-msgstr ""
+msgstr "최근에 방문자가 있었군. 여기 진흙탕을 봐, 족적이 있군."
 
 msgctxt "Narration/&AbjurationQuest_Tower_3_Perception15Success_Normal"
 msgid "And the rain has only just stopped! Let's be careful!"
-msgstr ""
+msgstr "그리고 지금 막 비가 그쳤어! 조심하자구!"
 
 msgctxt "Narration/&AbjurationQuest_Tower_4_Perception15Failure_Normal"
 msgid "Difficult to read anything here."
-msgstr ""
+msgstr "뭐 하나라도 알아먹기가 힘들구만."
 
 msgctxt "Narration/&AbjurationQuest_Tower_5_SpyOrRangerOrElse_Normal"
 msgid "Lady Kythaela! Do you know how to enter the Tower?"
-msgstr ""
+msgstr "키타엘라양! 탑에 들어가는법을 알고있습니까?"
 
 msgctxt "Narration/&AbjurationQuest_Tower_6_Kythaela_NPC"
 msgid "Yes!"
-msgstr "맞아!"
+msgstr "알아요!"
 
 msgctxt "Narration/&AbjurationQuest_Tower_7_Crownbearer_Normal"
 msgid "Let's head there now! "
-msgstr ""
+msgstr "그럼 당장 그곳으로 향합시다! "
 
 msgctxt "Narration/&AbjurationQuest_Tower_8_BroodB_NPC"
 msgid "Not so fast!"
-msgstr ""
+msgstr "그렇게 이르지는 않군!"
 
 msgctxt "Narration/&AbjurationQuest_Tower_9_BroodD_NPC"
 msgid "The feast is just starting!"
-msgstr ""
+msgstr "지금 막 축제가 시작되려던 참이야!"
 
 msgctxt "Narration/&AbjurationQuest_Tower_10_BroodF_NPC"
 msgid "And you will make a nice main dish!"
-msgstr ""
+msgstr "그리고 넌 멋진 메인요리를 만들거야!"
 
 msgctxt "Narration/&AbjurationQuest_Razan_1_Kythaela_NPC"
 msgid "Master, here I am, at last!"
-msgstr ""
+msgstr "주인님, 마침내 제가 이곳에 왔습니다!"
 
 msgctxt "Narration/&AbjurationQuest_Razan_2_Adrasteia_NPC"
 msgid "Kythaela, come to me! "
-msgstr ""
+msgstr "키타엘라, 내게로 오게! "
 
 msgctxt "Narration/&AbjurationQuest_Razan_3_Starter_Normal"
 msgid "Kythaela could use some healing, I think!"
-msgstr ""
+msgstr "키타엘라에게 치유가 필요한 거 같은데요!"
 
+#, fuzzy
 msgctxt "Narration/&AbjurationQuest_Razan_6_Razan_NPC"
 msgid "Yes, dazzle us! Allow me to thank you for your actions!"
-msgstr ""
+msgstr "그래, 눈부심이여! 행동에 감사함을 표하게 하소서!"
 
 msgctxt "Narration/&AbjurationQuest_Razan_7_Razan_NPC"
 msgid "I have tried for years to open that door! And here you are!"
-msgstr ""
+msgstr "그 문을 열려고 몇 년이나 시도해 봤다네! 이제야 자네가 왔군!"
 
 msgctxt "Narration/&AbjurationQuest_Razan_8_Razan_NPC"
 msgid "An answer to my prayers! It would almost lead me to believe…"
-msgstr ""
+msgstr "내 기도에 답해주신거야! 이거 정말 나를 거의…"
 
 msgctxt "Narration/&AbjurationQuest_Razan_9_Razan_NPC"
 msgid ""
 "…in the benevolence of the gods! Albeit my very existence proves otherwise!"
-msgstr ""
+msgstr "... 신들의 자비를 믿게 만들었어! 비록 내 존재를 다른 식으로 증명했지만 말이지!"
 
 msgctxt "Narration/&AbjurationEnding_1_Adrasteia_NPC"
 msgid "You have my thanks, whoever you are."
@@ -20223,11 +20224,11 @@ msgstr "나와 키타엘라가 재결합하게 도와줬잖니."
 
 msgctxt "Narration/&AbjurationEnding_4_Adrasteia_NPC"
 msgid "For dealing with this… foulness when I was incapacitated."
-msgstr ""
+msgstr "이걸 해결하려고... 내가 무력할 때 부정해졌구나."
 
 msgctxt "Narration/&AbjurationEnding_5_Adrasteia_NPC"
 msgid "This evil was new to me, not something Manacalon ever knew."
-msgstr ""
+msgstr "이 악은 새롭구나, 마나칼론에서 알던 것과는 달리."
 
 msgctxt "Narration/&AbjurationEnding_6_ChoiceA_WRITTEN"
 msgid "Reuniting? "
@@ -20239,7 +20240,7 @@ msgstr "재결합이라는 게 무슨 뜻이죠?"
 
 msgctxt "Narration/&AbjurationEnding_8_Adrasteia_NPC"
 msgid "Yes, Kythaela was - or even is - a part of me! "
-msgstr ""
+msgstr "그래, 키타엘라는 내 일부였으며 나 이기도 했지! "
 
 msgctxt "Narration/&AbjurationEnding_9_Judgmental_Normal"
 msgid "Did you kill her? "
@@ -20247,80 +20248,80 @@ msgstr "그녀를 죽인 거에요? "
 
 msgctxt "Narration/&AbjurationEnding_10_Self_PreservationOrElse_Normal"
 msgid "Careful, now!"
-msgstr ""
+msgstr "조심!"
 
 msgctxt "Narration/&AbjurationEnding_11_Adrasteia_NPC"
 msgid ""
 "No, It is also me speaking, my friend, and your care is much appreciated!"
-msgstr ""
+msgstr "아니지, 친구여, 그녀 또한 나라고 말하는거라네. 그리고 자네의 보살핌은 꽤 고마웠지!"
 
 msgctxt "Narration/&AbjurationEnding_12_Insight_20_Success_Normal"
 msgid "Kythaela was your clone? "
-msgstr ""
+msgstr "키타엘라가 당신의 복제품이었다고요? "
 
 msgctxt "Narration/&AbjurationEnding_13_Insight_20_Failure_Normal"
 msgid "I don't understand what happened here!"
-msgstr ""
+msgstr "아직도 무슨 일이 벌어지는지 모르겠어요!"
 
 msgctxt "Narration/&AbjurationEnding_14_Adrasteia_NPC"
 msgid ""
 "Kythaela was a last-ditch contingency - one I didn't truly think I would "
 "ever need!"
-msgstr ""
+msgstr "키타엘라는 최후의 보루였어. 정말 필요할 거라고 생각지도 못한 거였지!"
 
 msgctxt "Narration/&AbjurationEnding_15_Adrasteia_NPC"
 msgid "A vessel for my knowledge and memories!"
-msgstr ""
+msgstr "내 지식과 기억을 담은 그릇이였어!"
 
 msgctxt "Narration/&AbjurationEnding_16_AcademicOrElse_Normal"
 msgid "But how did she awaken, a thousand years after the Cataclysm? "
-msgstr ""
+msgstr "하지만 어떻게 대격변이 일어난 지 천년 뒤에나 깨어난 건가요? "
 
 msgctxt "Narration/&AbjurationEnding_17_Adrasteia_NPC"
 msgid "The revival process was tied to an ambient level of mana."
-msgstr ""
+msgstr "부활 과정은 주변의 마나 농도에 달려있었지."
 
 msgctxt "Narration/&AbjurationEnding_18_AcademicOrElse_Normal"
 msgid "Very high-level magic, then!"
-msgstr ""
+msgstr "아주 높은 수준의 마법이군요!"
 
 msgctxt "Narration/&AbjurationEnding_19_Adrasteia_NPC"
 msgid "One of the secrets of the Arcaneum, yes!"
-msgstr ""
+msgstr "그래, 아케니움의 비밀 중 하나야!"
 
 msgctxt "Narration/&AbjurationEnding_20_ChoiceB_WRITTEN"
 msgid "Incapacitated? "
-msgstr ""
+msgstr "무력화? "
 
 msgctxt "Narration/&AbjurationEnding_21_ChoiceB_Normal"
 msgid "Incapacitated? "
-msgstr ""
+msgstr "무력화 됐었다구요? "
 
 msgctxt "Narration/&AbjurationEnding_22_Adrasteia_Spoken"
 msgid ""
 "Yes, the merging process takes time - time during which I was almost "
 "helpless!"
-msgstr ""
+msgstr "그래, 합쳐지는 과정은 시간이 걸려. 그 동안 나는 빈틈투성이지!"
 
 msgctxt "Narration/&AbjurationEnding_23_ChoiceC_WRITTEN"
 msgid "Never seen such a creature?"
-msgstr ""
+msgstr "저런 놈들을 본 적 없었다?"
 
 msgctxt "Narration/&AbjurationEnding_24_ChoiceC_Normal"
 msgid "Never met such a creature before? "
-msgstr ""
+msgstr "전에는 저런 괴물을 본 적 없었다고요? "
 
 msgctxt "Narration/&AbjurationEnding_25_Adrasteia_NPC"
 msgid "No. Manacalon, for all its faults, revered life!"
-msgstr ""
+msgstr "전혀. 마나칼론은 사고를 좀 많이 쳤지만, 생명은 존중했었어!"
 
 msgctxt "Narration/&AbjurationEnding_26_Adrasteia_NPC"
 msgid "This was a negation of life, an abomination!"
-msgstr ""
+msgstr "이건 생명을 모독하는 흉물이야!"
 
 msgctxt "Narration/&AbjurationEnding_27_AcademicOrElse_Normal"
 msgid "Manacalon? Are you one of the… ?"
-msgstr ""
+msgstr "마나칼론? 거기 소속이였...?"
 
 msgctxt "Narration/&AbjurationEnding_28_Adrasteia_NPC"
 msgid ""
@@ -20334,21 +20335,21 @@ msgstr "균열 전투에 계셨었나요?"
 
 msgctxt "Narration/&AbjurationEnding_30_Adrasteia_NPC"
 msgid "Yes, and there I must apologize for Kythaela's misconceptions."
-msgstr ""
+msgstr "있었지. 그러면 키타엘라의 오해에 대해 사과를 해야만겠구나."
 
 msgctxt "Narration/&AbjurationEnding_31_AcademicOrElse_Normal"
 msgid "Misconceptions? "
-msgstr ""
+msgstr "오해요? "
 
 msgctxt "Narration/&AbjurationEnding_32_Adrasteia_NPC"
 msgid ""
 "Yes. She was created with an elven personality, and carried certain… "
 "prejudices."
-msgstr ""
+msgstr "그래. 그녀는 엘프 인격에, 특정한... 편견도 가지고 만들어졌지."
 
 msgctxt "Narration/&AbjurationEnding_33_AcademicOrElse_Normal"
 msgid "Oh, that."
-msgstr ""
+msgstr "아, 그거요."
 
 msgctxt "Narration/&AbjurationEnding_34_Adrasteia_NPC"
 msgid "The Empire wasn't kind to… other races."
@@ -20356,75 +20357,76 @@ msgstr "제국은 다른 종족들을 참... 대우하지 못했지."
 
 msgctxt "Narration/&AbjurationEnding_35_AcademicOrElse_Normal"
 msgid "The humans surprised you, it seems."
-msgstr ""
+msgstr "보아하니, 인간이란 존재에 많이 놀라셨군요."
 
 msgctxt "Narration/&AbjurationEnding_36_Adrasteia_NPC"
 msgid "Yes - such bravery, such defiance! "
-msgstr ""
+msgstr "그래. 그 용맹함, 그런 저항심! "
 
 msgctxt "Narration/&AbjurationEnding_37_Adrasteia_NPC"
 msgid "They all came together to save Solasta! "
-msgstr ""
+msgstr "그 모든 것들이 하나 되어 솔라스타를 구했어! "
 
 msgctxt "Narration/&AbjurationEnding_38_Adrasteia_NPC"
 msgid "The Golden Cavalry charging and breaking the lines of the Sorr-Akkath! "
-msgstr ""
+msgstr "황금 기병대가 돌격하여 소라카스의 전선을 무너뜨렸지! "
 
 msgctxt "Narration/&AbjurationEnding_39_Adrasteia_NPC"
 msgid "The Iron Legions and the Shield Wall of the dwarves…"
-msgstr ""
+msgstr "강철 군단과 드워프의 방패벽이…"
 
 msgctxt "Narration/&AbjurationEnding_40_Adrasteia_NPC"
 msgid "…holding the enemy at bay, flank to flank!"
-msgstr ""
+msgstr "... 적을 해안가에 붙들어놓았고, 측면을 노렸어!"
 
 msgctxt "Narration/&AbjurationEnding_41_Adrasteia_NPC"
 msgid "Our shock arcanists and the human paladins together…"
-msgstr ""
+msgstr "전격 비전술사들과 인간 팔라딘들이 함께…"
 
 msgctxt "Narration/&AbjurationEnding_42_Adrasteia_NPC"
 msgid "…giving their lives to give us a chance to close the Rift!"
-msgstr ""
+msgstr "... 목숨을 바쳐서 균열을 닫을 기회를 우리에게 준거야!"
 
 msgctxt "Narration/&AbjurationEnding_43_Adrasteia_NPC"
 msgid "And, as another wave came through…"
-msgstr ""
+msgstr "그리고, 또다른 파도가 밀려오고…"
 
 msgctxt "Narration/&AbjurationEnding_44_Adrasteia_NPC"
 msgid "…one last throw of the dice…"
-msgstr ""
+msgstr "... 마지막 주사위를 던지자…"
 
 msgctxt "Narration/&AbjurationEnding_45_Adrasteia_NPC"
 msgid "…one last surprise for the Sorr-Akkath! "
-msgstr ""
+msgstr "... 소라카스를 위한 마지막 선물이 있었으니! "
 
 msgctxt "Narration/&AbjurationEnding_46_AcademicOrElse_Normal"
 msgid "What was it?"
-msgstr ""
+msgstr "뭐였죠?"
 
 msgctxt "Narration/&AbjurationEnding_47_Adrasteia_NPC"
 msgid "Kaseinax had us walking Solasta in elven form for so long…"
-msgstr ""
+msgstr "카세이낙스는 우리를 엘프 형태로 오랫동안 솔라스타를 걷게 했어…"
 
 msgctxt "Narration/&AbjurationEnding_48_Adrasteia_NPC"
 msgid "…but at this moment we resumed our true forms!"
-msgstr ""
+msgstr "... 하지만 지금 이 순간 우리는 진정한 모습으로 돌아왔지!"
 
 msgctxt "Narration/&AbjurationEnding_49_Adrasteia_NPC"
 msgid "To secure the Rift for a few crucial moments…"
-msgstr ""
+msgstr "균열을 지키기 위한 중대한 순간에…"
 
+#, fuzzy
 msgctxt "Narration/&AbjurationEnding_50_Adrasteia_NPC"
 msgid "…buying time with our lives in a furnace of magic and steel! "
-msgstr ""
+msgstr "...마법과 강철의 용광로에서 우리의 생명을 일궈낸거야! "
 
 msgctxt "Narration/&AbjurationEnding_51_Adrasteia_NPC"
 msgid "So Kaseinax finished his ritual!"
-msgstr ""
+msgstr "카세이낙스가 의식을 끝마친거지!"
 
 msgctxt "Narration/&AbjurationEnding_52_AcademicOrElse_Normal"
 msgid "With the gems."
-msgstr ""
+msgstr "보석들 말이죠."
 
 msgctxt "Narration/&AbjurationEnding_53_Adrasteia_NPC"
 msgid "Take it, old friend, once again."
@@ -20436,23 +20438,23 @@ msgstr "다시? 옛 친구요?"
 
 msgctxt "Narration/&AbjurationEnding_55_Adrasteia_NPC"
 msgid "I feel your spirit in the Crown, Kaseinax! "
-msgstr ""
+msgstr "왕관에서 네 영혼이 느껴진다, 카세이낙스! "
 
 msgctxt "Narration/&AbjurationEnding_56_AcademicOrElse_normal"
 msgid "The Magister is still in the Crown? "
-msgstr ""
+msgstr "마지스터가 아직 왕관에 있다고요? "
 
 msgctxt "Narration/&AbjurationEnding_57_Adrasteia_NPC"
 msgid "Enough talk of the past."
-msgstr ""
+msgstr "옛날 얘기는 그만하지."
 
 msgctxt "Narration/&AbjurationEnding_58_Adrasteia_NPC"
 msgid "Please accept these few tokens of my gratitude!"
-msgstr ""
+msgstr "내 감사의 표시 몇 가지를 받아주길 바래!"
 
 msgctxt "Narration/&AbjurationEnding_58_Adrasteia_NPC2"
 msgid "I must rest now. I foresee one last flight, when the need is greatest…"
-msgstr ""
+msgstr "이젠 쉬어야만 해. 내가 제일 필요할 그 때, 마지막 비행이 될 거 같은데…"
 
 msgctxt "Narration/&AbjurationEnding_59_Adrasteia_NPC"
 msgid "…and for that, I will need all my strength."
