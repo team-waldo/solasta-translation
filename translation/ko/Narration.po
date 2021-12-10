@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-12-09 12:33+0000\n"
-"Last-Translator: Nickel <psb3421@naver.com>\n"
+"PO-Revision-Date: 2021-12-10 10:22+0000\n"
+"Last-Translator: 이름뭘로하지 <sqom3iii@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
 "Language: ko\n"
@@ -20192,10 +20192,9 @@ msgctxt "Narration/&AbjurationQuest_Razan_3_Starter_Normal"
 msgid "Kythaela could use some healing, I think!"
 msgstr "키타엘라에게 치유가 필요한 거 같은데요!"
 
-#, fuzzy
 msgctxt "Narration/&AbjurationQuest_Razan_6_Razan_NPC"
 msgid "Yes, dazzle us! Allow me to thank you for your actions!"
-msgstr "그래, 눈부심이여! 행동에 감사함을 표하게 하소서!"
+msgstr "정말 감명깊군! 자네가 해준 일에 대해 감사를 표하는 바일세!"
 
 msgctxt "Narration/&AbjurationQuest_Razan_7_Razan_NPC"
 msgid "I have tried for years to open that door! And here you are!"
@@ -20458,7 +20457,7 @@ msgstr "이젠 쉬어야만 해. 내가 제일 필요할 그 때, 마지막 비�
 
 msgctxt "Narration/&AbjurationEnding_59_Adrasteia_NPC"
 msgid "…and for that, I will need all my strength."
-msgstr ""
+msgstr "... 그때를 위해서, 힘을 모아놔야겠어."
 
 msgctxt "Narration/&AbjurationEnding_59_Adrasteia_NPC2"
 msgid "Use my Gate freely. I believe you know how."
@@ -20466,24 +20465,24 @@ msgstr "내 관문을 자유롭게 쓰거라. 어떻게 쓰는 지는 잘 알고
 
 msgctxt "Narration/&AbjurationEnding_60_Adrasteia_NPC"
 msgid "We shall meet again, before the end!"
-msgstr ""
+msgstr "끝이 다가오기 전, 우린 다시 만나게 될지니!"
 
 msgctxt "Narration/&AbjurationEnding_60_Adrasteia_NPC2"
 msgid "But before you take your leave, if you would be so kind…"
-msgstr ""
+msgstr "허나 떠나기 전에, 친절한 자네가…"
 
 msgctxt "Narration/&AbjurationEnding_60_Adrasteia_NPC3"
 msgid ""
 "This creature you forced to flee still plagues my grounds with his minions."
-msgstr ""
+msgstr "자네가 강제로 내쫓은 괴물의 하수인들이 여전히 내 땅을 더럽히고 있다네."
 
 msgctxt "Narration/&AbjurationEnding_61_Adrasteia_NPC"
 msgid "Would you deal with them and free their prisoners? "
-msgstr ""
+msgstr "죄수들을 풀어 저들을 처리하게 해주겠나? "
 
 msgctxt "Narration/&AbjurationEnding_62_Adrasteia_NPC"
 msgid "As a courtesy."
-msgstr ""
+msgstr "정중히 말이지."
 
 msgctxt "Narration/&AbjurationEnding_63_Any_Default"
 msgid "We owe you that much. Thank you, Master Adrasteia."
@@ -20515,11 +20514,11 @@ msgstr "제 이름은 아티마 블레이드번, 아룬의 여사제입니다."
 
 msgctxt "Narration/&Abjuration_Coparann_Atima_3_Arun_Default"
 msgid "A herald of fire?"
-msgstr ""
+msgstr "불의 전령?"
 
 msgctxt "Narration/&Abjuration_Coparann_Atima_4_Atima_NPC"
 msgid "It is my honor."
-msgstr ""
+msgstr "영광입니다."
 
 msgctxt "Narration/&Abjuration_Coparann_Atima_5_Atima_NPC"
 msgid "What can I do for you?"
@@ -20527,85 +20526,86 @@ msgstr "무엇을 도와드릴까요?"
 
 msgctxt "Narration/&Abjuration_Coparann_Atima_6_Arun_Default"
 msgid "Just passing by to pay our respects."
-msgstr ""
+msgstr "경의를 표하기 위해 잠시 들렀을 뿐입니다."
 
 msgctxt "Narration/&Abjuration_Coparann_Atima_7_Cynical_Default"
 msgid "Not me."
-msgstr ""
+msgstr "됐어요."
 
 msgctxt "Narration/&Abjuration_Coparann_Atima_8_Atima_NPC"
 msgid "Then good luck and fair weather, friends."
-msgstr ""
+msgstr "행운과 창창한 앞날을 기원합니다, 친구들이여."
 
 msgctxt "Narration/&Abjuration_Coparann_Atima_9_Any_Default"
 msgid "Stay in the light!"
-msgstr ""
+msgstr "빛이 함께 하시길!"
 
 msgctxt "Narration/&Abjuration_Coparann_Atima_10_Any_Default"
 msgid "We need your powers."
-msgstr ""
+msgstr "당신의 힘이 필요합니다."
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Jail_Aftermath_1_Ceannard_NPC"
 msgid "Gromnir! Thank Einar you're safe! "
-msgstr ""
+msgstr "그롬니르! 에이나르님이시여 감사합니다.. 자네 무사했군! "
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Jail_Aftermath_2_BaronStonefist_NPC"
 msgid "Yes, I am - thanks to Joris and these adventurers, it seems!"
-msgstr ""
+msgstr "그렇네. 요리스와 이 모험자분들 덕분일걸세!"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Jail_Aftermath_3_Ceannard_NPC"
 msgid "Now, old friend - go see Atima with Joris! "
-msgstr ""
+msgstr "자, 오랜 친구여.. 요리스와 함께 아티마를 찾아가보게! "
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Jail_Aftermath_4_BaronStonefist_NPC"
 msgid "I'm fine!"
-msgstr ""
+msgstr "난 괜찮다네!"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Jail_Aftermath_5_Ceannard_NPC"
 msgid "I knew you'd say that."
-msgstr ""
+msgstr "그래 그렇게 나올 줄 알았네."
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Jail_Aftermath_6_Ceannard_NPC"
 msgid "I am the Ceannard, and you…"
-msgstr ""
+msgstr "나는 촌장이야. 그리고 자네는…"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Jail_Aftermath_7_Ceannard_NPC"
 msgid ""
 "…you shall resume your duties only if our cleric says you're fit enough."
-msgstr ""
+msgstr "...자네는 일단 우리의 성직자께서 자네가 충분히 건강해졌다고 말씀하셔야 자네의 업무에 복귀할 수 있네."
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Jail_Aftermath_8_BaronStonefist_NPC"
 msgid "But -"
-msgstr ""
+msgstr "하지만 -"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Jail_Aftermath_9_Ceannard_NPC"
 msgid "No buts! I shall secure the Keep and the valley till you're back!"
-msgstr ""
+msgstr "토 달지 말게! 자네가 복귀할 때까지 이 요새와 계곡은 내가 잘 돌보고 있을게야!"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Jail_Aftermath_10_Ceannard_NPC"
 msgid "As for you, my friends, find Lady Kythaela's belongings…"
-msgstr ""
+msgstr "그리고 모험자분들께서는, 키타엘라양의 소유물들을 찾아서…"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Jail_Aftermath_11_Ceannard_NPC"
 msgid "…and meet me in the throne room."
-msgstr ""
+msgstr "...알현실에서 저와 만나시죠."
 
+#, fuzzy
 msgctxt ""
 "Narration/&AbjurationQuest_Kythaela_Jail_Aftermath_12_CrownbearerOrHighestHis"
 "tory_Formal"
 msgid "Strike true!"
-msgstr ""
+msgstr "옳으신 말씀입니다!"
 
 msgctxt ""
 "Narration/&AbjurationQuest_Kythaela_Jail_Aftermath_12_CrownbearerOrHighestHis"
 "tory_Normal"
 msgid "Will do."
-msgstr ""
+msgstr "그렇게 하겠습니다."
 
 msgctxt ""
 "Narration/&AbjurationQuest_Kythaela_Gear_1_CrownbearerOrArcane_Highest_Normal"
 msgid "Tell us, Lady Kythaela, what did you find? A gem? "
-msgstr ""
+msgstr "키타엘라양, 이제 말씀해주세요. 뭘 찾아냈습니까? 보석인가요? "
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Gear_2_Kythaela_NPC"
 msgid "This is my spellbook - I remember!"
@@ -20613,34 +20613,34 @@ msgstr "기억 나, 이건 내 주문책이야!"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Gear_2b_Kythaela_NPC"
 msgid "A wand, a robe, some money, and a piece of paper."
-msgstr ""
+msgstr "마법봉 한자루, 로브 한벌, 약간의 돈, 그리고 종이 쪼가리요."
 
 msgctxt ""
 "Narration/"
 "&AbjurationQuest_Kythaela_Gear_3_CrownbearerOrHighestInsighet_Normal"
 msgid "What does it say?"
-msgstr ""
+msgstr "거기엔 뭐라고 적혀있던가요?"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Gear_4_Kythaela_NPC"
 msgid ""
 "I… don't know. There is only one word written on the paper: \"Adrasteo\""
-msgstr ""
+msgstr "잘...모르겠어요. 그저 단어 하나만 적혀있더군요. \"Adrasteo\""
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Gear_5_SarcasticOrElse_Normal"
 msgid "Is that another place?"
-msgstr ""
+msgstr "다른 어떤 장소를 가리키는걸까요?"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Gear_6_Kythaela_NPC"
 msgid "I… I'm not sure! I feel the pull returning!"
-msgstr ""
+msgstr "확실..하지는 않아요! 이끌림이 느껴지긴 해요!"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Gear_7_InsightOrElse_Normal"
 msgid "I guess we'll soon be on the road again, then."
-msgstr ""
+msgstr "그렇다면 우린 조만간 또다시 길바닥 위에 내몰리겠구만."
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Gear_8_SarcasticOrElse_Normal"
 msgid "More monsters to kill… fantastic…"
-msgstr ""
+msgstr "몬스터들을 잡아죽일 껀덕지가 더 있었다니... 환상적이군…"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Gear_9_PerceptionHighest_Normal"
 msgid "What about that door? Another secret from Imperial times?"
