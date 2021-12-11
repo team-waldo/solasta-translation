@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-12-11 11:51+0000\n"
-"Last-Translator: 홍성원 <hsw2201@naver.com>\n"
+"PO-Revision-Date: 2021-12-11 23:38+0000\n"
+"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
 "Language: ko\n"
@@ -1500,7 +1500,7 @@ msgstr "많은 사람들을 위한 공간은 아닌 것 같네…"
 
 msgctxt "Narration/&Telema_197_Shaft_entrance_Wizard"
 msgid "Students of magic. The Masters taught spells here."
-msgstr "마법 수련생들 이군요. 마스터들이 여기서 주문을 가르쳤을 겁니다."
+msgstr "마법 수련생들이군요. 마스터들이 여기서 주문을 가르쳤을 겁니다."
 
 msgctxt "Narration/&Telema_198_Shaft_entrance_Fighter"
 msgid "Do spiders like magic shows?"
@@ -1512,11 +1512,11 @@ msgstr "여긴 거미줄 투성인데요."
 
 msgctxt "Narration/&Telema_200_Shaft_entrance_Wizard"
 msgid "Deep spiders. We will have to be careful."
-msgstr "깊은 곳 거미들이군요. 조심해야 하겠네요."
+msgstr "지하 거미들이군요. 조심해야 하겠네요."
 
 msgctxt "Narration/&Telema_201_Shaft_entrance_Fighter"
 msgid "Deep Spiders?"
-msgstr "깊은 곳 거미?"
+msgstr "지하 거미?"
 
 msgctxt "Narration/&Telema_202_Shaft_entrance_Cleric"
 msgid "Very large and aggressive, but sensitive to light."
@@ -3194,7 +3194,7 @@ msgstr "그리고 또 치료제나 해독제 같은 다른 물건들도 있답�
 
 msgctxt "Narration/&GeneralStore_Dialog_01_11_StoreOwner_NPC"
 msgid "They might come in handy. Ever heard of deep spiders?"
-msgstr "그게 도움이 될 겁니다. 깊은 곳 거미에 대해 들어본적 있으신가요?"
+msgstr "그게 도움이 될 겁니다. 지하 거미에 대해 들어본적 있으신가요?"
 
 msgctxt "Narration/&Bartender_Dialog_01_1_Bartender_NPC"
 msgid "Hello, adventurers!"
@@ -6079,7 +6079,7 @@ msgstr "파충류... 빠르고, 강력합니다... "
 
 msgctxt "Narration/&Council01_92_PlayerSelection_Authoritative"
 msgid "…they can climb on walls just like spiders!"
-msgstr "... 거미처럼 벽을 오를 수 있습니다!"
+msgstr "...거미처럼 벽을 오를 수 있습니다!"
 
 msgctxt "Narration/&Council01_93_PlayerSelection_Default"
 msgid "…they're tough, too!"
@@ -6668,7 +6668,7 @@ msgctxt "Narration/&TowerOfMagic_8_History_Default"
 msgid ""
 "A tower of magic perhaps, owned by one of the masters of Manacalon's "
 "Arcaneum."
-msgstr "마법의 탑인 것 같아. 마나칼론 아케니움의 마법사 중 한 사람이 그 주인이었겠지."
+msgstr "마법의 탑인 것 같아. 마나칼론 아케니움의 마스터 중 한 사람이 그 주인이었겠지."
 
 msgctxt "Narration/&TowerOfMagic_9_Starter_Default"
 msgid "Who are these people? Scavengers?"
@@ -7175,7 +7175,7 @@ msgstr "그녀는 마나칼론 황실 복식을 걸치고 있지 않아."
 
 msgctxt "Narration/&TowerOfMagicStatueFemWiz_5_History_Default"
 msgid "More likely she was a wizard, a master of the Arcaneum."
-msgstr "아마도 마법사... 아케니움의 마스터일 가능성이 높아."
+msgstr "아마도 마법사... 아케니움의 주인일 가능성이 높아."
 
 msgctxt "Narration/&TowerOfMagicStatueFemWiz_6_Starter_Default"
 msgid "Could this have been her home?"
@@ -8357,7 +8357,7 @@ msgctxt "Narration/&Council03_8_Keenmind_NPC"
 msgid ""
 "At the time, there were eight masters of magic, one for each of the old "
 "schools."
-msgstr "당시에는 여덟개의 고대 마법 학파에서 한 명씩, 총 여덟 명의 마스터가 있었소."
+msgstr "당시에는 옛 학파마다 한 명씩, 총 여덟 명의 마법의 마스터가 있었소."
 
 msgctxt "Narration/&Council03_9_Keenmind_NPC"
 msgid ""
@@ -9184,11 +9184,11 @@ msgstr "그건 계속 소락의 시선을 끌어들일 걸세."
 
 msgctxt "Narration/&Council4_18_Danantar_NPC"
 msgid "The attunement, remember?"
-msgstr "조율때문이죠, 기억합니까?"
+msgstr "결속 때문이죠, 기억합니까?"
 
 msgctxt "Narration/&Council4_19_Faisech_NPC"
 msgid "I'm sorry, senior deputies, but despite the attunement…"
-msgstr "미안한 말이지만, 선임 대리인, 조율이 되어있음에도 불구하고…"
+msgstr "미안한 말이지만, 선임 대리인, 결속이 되어있음에도 불구하고…"
 
 msgctxt "Narration/&Council4_20_Faisech_NPC"
 msgid "…I believe the Crown should be secured…"
@@ -9300,7 +9300,7 @@ msgstr "실례합니다 선임 대리인님."
 
 msgctxt "Narration/&Council4_46_Highclass_Formal"
 msgid "Master Surespell."
-msgstr "마스터 슈어스펠님."
+msgstr "마스터 슈어스펠 님."
 
 msgctxt "Narration/&Council4_47_Any_Normal"
 msgid "Clear skies, Heddlon."
@@ -9904,7 +9904,7 @@ msgstr "좋습니다. 다수 의견이 나왔습니다."
 
 msgctxt "Narration/&Council5_41_Sunblaze_NPC"
 msgid "We'll help you with the… attunement issue."
-msgstr "우리는 조율 문제를 도와드리겠습니다."
+msgstr "우리는 결속 문제를 도와드리겠습니다."
 
 msgctxt "Narration/&Council5_42_Faisech_NPC"
 msgid "Wait! Who's going to take the Crown, and where?"
@@ -10173,7 +10173,7 @@ msgstr "... 그 목소리는 아직도 우리를 부르고 있어요."
 
 msgctxt "Narration/&Council5_After_19_BericSunblaze_NPC"
 msgid "Interesting. So the attunement is unaffected by physical separation?"
-msgstr "흥미롭군요. 그럼 그 조율은 물리적 분리에는 영향받지 않는다는 것이군요?"
+msgstr "흥미롭군요. 그럼 그 결속은 물리적 분리에는 영향받지 않는다는 것이군요?"
 
 msgctxt "Narration/&Council5_After_20_Friendly_Any"
 msgid "Keep the Crown safe, Marshal, will you, please?"
@@ -10432,11 +10432,11 @@ msgstr "마을에 주인 모를 발자국이라? 단서 따위도 못 되지."
 
 msgctxt "Narration/&FightingCultists_2_4_Merton_NPC"
 msgid "Your villagers have claws."
-msgstr "마을 사람들이 발톱을 숨기고 있군."
+msgstr "자네 마을 사람들은 발톱을 달고 있나 보군."
 
 msgctxt "Narration/&FightingCultists_2_5_Any_Default"
 msgid "Your villagers have claws."
-msgstr "마을 사람들이 발톱을 숨기고 있군."
+msgstr "너희 마을 사람들은 발톱이 있나 보네."
 
 msgctxt "Narration/&FightingCultists_2_6_Selfpres_Default"
 msgid "Soraks?"
@@ -10777,11 +10777,11 @@ msgstr "남아 있는 사람이 있기는 합니까?"
 
 msgctxt "Narration/&ReturnToCC_HalmanDaliat23_HeddlonSurespell_NPC"
 msgid "The Antiquarians and the other Snow Alliance people are pulling out."
-msgstr "고고학자들과 다른 설산 동맹 사람들도 철수하고 있죠."
+msgstr "안티쿼리안 길드원들과 다른 설산 동맹 사람들도 철수하고 있죠."
 
 msgctxt "Narration/&ReturnToCC_HalmanDaliat24_HeddlonSurespell_NPC"
 msgid "The Antiquarians are still packing up, though."
-msgstr "고고학자들은 아직 짐 싸는 중이지만요."
+msgstr "안티쿼리안 쪽은 아직 짐 싸는 중이지만요."
 
 msgctxt "Narration/&ReturnToCC_HalmanDaliat25_Pragmatic_Default"
 msgid "He sent after a lead…"
@@ -11237,7 +11237,7 @@ msgstr "도시의 모든 성직자들이 희생자들을 소생시키는데 집�
 
 msgctxt "Narration/&ReturnToCC_Carran_2_19_Greed_Default"
 msgid "More than thirty? That's a lot of diamonds. And clerics."
-msgstr "삼십은 넘나? 엄청 많은 다이아몬드네요. 성직자들도 그렇고."
+msgstr "삼십은 넘나? 다이아몬드가 많이 들어가겠군요. 성직자들도."
 
 msgctxt "Narration/&ReturnToCC_Carran_2_20_Carran_NPC"
 msgid "We didn't really have a choice. The Crown is going to pay."
@@ -11426,7 +11426,7 @@ msgstr "이 열쇠를 가져가시오. 나는... 뛸 수가 없네요."
 
 msgctxt "Narration/&ReturnToCC_Temple2_4_BericSunblaze_NPC"
 msgid "Follow the light!"
-msgstr "빛을 따라가시오!"
+msgstr "빛이 함께하길!"
 
 msgctxt "Narration/&ReturnToCC_Temple2_5_Authority_Default"
 msgid "Let's go!"
@@ -12144,7 +12144,7 @@ msgstr "물론. 죽을 준비가 됐다면 말이지!"
 
 msgctxt "Narration/&LegendaryQuest_5_Any_Default"
 msgid "We're not green anymore, Merton."
-msgstr "우린 초보자가 아니라고요, 머튼."
+msgstr "우린 이제 초보자가 아니라고요, 머튼."
 
 msgctxt "Narration/&LegendaryQuest_6_Merton_NPC"
 msgid "Fine, but the Lost God? That is the stuff of legend."
@@ -12695,7 +12695,7 @@ msgstr "이해가 안 되는 걸."
 
 msgctxt "Narration/&TheAerElai29_Arcana_Default"
 msgid "These are the remains of the Masters of the Arcaneum."
-msgstr "아케니움 주인들의 유해로군."
+msgstr "아케니움 마스터들의 유해로군."
 
 msgctxt "Narration/&TheAerElai30_Pragmatic_Default"
 msgid "Dragons? All of them?"
@@ -12703,7 +12703,7 @@ msgstr "용이라고? 그들 전부가?"
 
 msgctxt "Narration/&TheAerElai31_Arcana_Default"
 msgid "The Master of Abjuration was no exception. They were all dragons."
-msgstr "방호학 마스터도 예외는 아니었군. 전부 용이였어."
+msgstr "방호계의 마스터도 예외는 아니었군. 전부 용이였어."
 
 msgctxt "Narration/&TheAerElai32_Arcana_Default"
 msgid "Even the Magister."
@@ -13569,7 +13569,7 @@ msgstr "잔혹성과 소르타르의 뜻 말일세."
 msgctxt ""
 "Narration/&PhilosopherBackgroundQuest_ThirdMeeting_13_Philosopher_Default"
 msgid "Master! You're scaring me, now!"
-msgstr "스승님! 괜찮으신 거 맞죠?"
+msgstr "스승님! 상태가 안 좋으신 것 같은데!"
 
 msgctxt "Narration/&PhilosopherBackgroundQuest_ThirdMeeting_14_Galeafin_NPC"
 msgid "I need to think! Can you come back tomorrow?"
@@ -17652,7 +17652,7 @@ msgstr "나를 갓난아기라고 생각하는 모양이군…"
 
 msgctxt "Narration/&NecromancyQuest05_20_Persuader_Normal"
 msgid "We believe your master knows about a powerful ancient artifact."
-msgstr "우리는 당신의 마스터가 강력한 고대 유물에 대해 알고 있다고 믿소."
+msgstr "우리는 당신의 주인이 강력한 고대 유물에 대해 알고 있다고 믿소."
 
 msgctxt "Narration/&NecromancyQuest05_20_Persuader_Normal2"
 msgid "We need his knowledge."
@@ -18106,7 +18106,7 @@ msgstr "이게 어디로 이어진 것 같아?"
 
 msgctxt "Narration/&Necromancy_Observable_09_Teleporter7_Any_Default"
 msgid "To the Master's floor, hopefully."
-msgstr "주인의 방이 있는 층으로 이어졌으면 좋겠는데."
+msgstr "마스터의 방이 있는 층으로 이어졌으면 좋겠는데."
 
 msgctxt "Narration/&Necromancy_Observable_09_Teleporter8_Any_Default"
 msgid "Or into the heart of a volcano or somewhere equally unpleasant."
@@ -18114,7 +18114,7 @@ msgstr "아니면 화산 심장부나 뭐 그런 재수없는 곳으로 갈지�
 
 msgctxt "Narration/&Necromancy_Observable_09_Teleporter9_Any_Default"
 msgid "We've heard how paranoid this Master is."
-msgstr "여기 주인이 얼마나 편집증적인지 들었잖아."
+msgstr "이곳의 마스터가 얼마나 편집증적인지 들었잖아."
 
 msgctxt "Narration/&Necromancy_Observable_09_Teleporter10_Any_Default"
 msgid "So - are we going?"
@@ -18375,11 +18375,11 @@ msgstr "고대 엘프어야! 우리는 친구입니다, 부인!"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_5_Kythaela_NPC"
 msgid "The Master sent you?  "
-msgstr "주인님께서 보내셨느냐?  "
+msgstr "마스터께서 보내셨느냐?  "
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_6_Any_Default"
 msgid "Which Master? "
-msgstr "주인님이라뇨? "
+msgstr "마스터라뇨? "
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_7_Kythaela_NPC"
 msgid "How dare you!"
@@ -18407,7 +18407,7 @@ msgstr "그럴 리가! 나는 제국의 중심부 에어 엘라이에 있었건�
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_13_Kythaela_NPC"
 msgid "I must find the Master!"
-msgstr "주인님을 찾아야만 한다!"
+msgstr "마스터를 찾아야만 한다!"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_14_Kythaela_NPC"
 msgid "Kythaela, my name is the shield…"
@@ -18423,7 +18423,7 @@ msgstr "...이 방패가 무엇인지 기억은 나지 않지만. "
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_17_Choice1_WRITTEN"
 msgid "Which Master? "
-msgstr "주인님이라뇨? "
+msgstr "무슨 마스터요? "
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_18_Choice2_WRITTEN"
 msgid "Aer-Elai?"
@@ -18435,7 +18435,7 @@ msgstr "방패요?"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_20_Choice1_Spoken"
 msgid "Which Master are you talking about?"
-msgstr "말씀하신 주인님은 누구죠?"
+msgstr "말씀하신 마스터는 누구죠?"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_21_Choice2_Spoken"
 msgid "Aer-Elai? The heart of the Empire? "
@@ -18447,7 +18447,7 @@ msgstr "말씀하신 방패가 뭐죠?"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_23_Kythaela_NPC"
 msgid "The Master of… I can't remember. "
-msgstr "주인님... 기억이 나질 않는구나. "
+msgstr "…의 마스터… 기억이 나질 않는구나. "
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_24_Kythaela_NPC"
 msgid "Yes, this tower was in the Aer-Elai, a haven of peace!"
@@ -18455,7 +18455,7 @@ msgstr "그래, 이 탑은 평화의 안식처인 에어 엘라이에 위치했�
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_25_Kythaela_NPC"
 msgid "The shield is the master, and the master is the shield! "
-msgstr "방패는 주인님이시요, 주인님은 방패시로다! "
+msgstr "방패는 곧 마스터요, 마스터께서 방패시로다! "
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_26_Kythaela_NPC"
 msgid "But tell me - what happened? "
@@ -18654,7 +18654,7 @@ msgstr "하지만?"
 msgctxt "Narration/&AbjurationQuest_Kythaela_74_Kythaela_NPC"
 msgid ""
 "Yet I recall an elf, a member of the household, trying to kill the Master…"
-msgstr "가문의 일원인 한 엘프가 주인님을 죽이려 한 일이 떠오르는구나…"
+msgstr "가문의 일원인 한 엘프가 마스터를 죽이려 한 일이 떠오르는구나…"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_75_Choice3_WRITTEN"
 msgid "They joined forces."
@@ -18704,7 +18704,7 @@ msgstr "이끌림이요?"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_86_Kythaela_NPC"
 msgid "Yes, a pull to get to the Copper Vale of Remembrance! "
-msgstr "그래, 구릿빛 추모의 골짜기를 향한 이끌림이! "
+msgstr "그래, 추모의 코퍼 계곡을 향한 이끌림이! "
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_87_Kythaela_NPC"
 msgid "Take me there at once and I shall name you favored servants!"
@@ -18712,7 +18712,7 @@ msgstr "나를 그곳으로 데려다 준다면 너희를 총애하는 하인으
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_88_Crownbearer_Default"
 msgid "The Copper Vale of Remembrance? "
-msgstr "구릿빛 추모의 골짜기요? "
+msgstr "추모의 코퍼 계곡이요? "
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_89_Kythaela_NPC"
 msgid ""
@@ -18726,7 +18726,7 @@ msgstr "코파란 계곡?"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_91_Choice1_Spoken"
 msgid "Copper, fortress… hmmm - sounds like the Vale of Coparann!"
-msgstr "구리, 요새... 흠... 코파란 계곡 이야기 같은데!"
+msgstr "코퍼, 요새... 흠... 코파란 계곡 이야기 같은데!"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_92_Choice2_WRITTEN"
 msgid "We're not your servants."
@@ -19059,7 +19059,7 @@ msgstr "촌장은 어디 있는데요? "
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_45_Kythaela_NPC"
 msgid "But we need to talk to the Baron!"
-msgstr "하지만 우린 남작과 할 얘기가 있어요!"
+msgstr "하지만 우린 남작과 할 얘기가 있다!"
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_46_SgtNikannen_NPC"
 msgid "You can find him at the Town Hall at this hour."
@@ -19096,7 +19096,7 @@ msgstr "빛이 함께 하길!"
 msgctxt "Narration/&AbjurationQuest_Ceannard01_1_Ceannard_NPC"
 msgid ""
 "Clear skies! Joris Nikannen says you have an interesting story to tell! "
-msgstr "맑은 하늘이 함께하길! 네가 해줄 재미있는 이야기가 있다고 요리스 니카넨이 그러더군! "
+msgstr "맑은 하늘이 함께하길! 네가 해줄 재미있는 이야기가 있다고 조리스 니카넨이 그러더군! "
 
 msgctxt "Narration/&AbjurationQuest_Ceannard01_2_Any_Default"
 msgid "Clear skies to you, my lord!"
@@ -19240,7 +19240,7 @@ msgctxt "Narration/&AbjurationQuest_Ceannard01_34_Kythaela_NPC"
 msgid ""
 "In a side valley, there is an Imperial mausoleum of Lanaerach, home of the "
 "honored dead!"
-msgstr "옆쪽 계곡에 명예로운 망자들이 잠들어 있는 라네어아크 영묘가 있습니다!"
+msgstr "옆쪽 계곡에 명예로운 망자들이 잠들어 있는 라네어아크 영묘가 있소!"
 
 msgctxt "Narration/&AbjurationQuest_Ceannard01_35_AcademicorElse_WRITTEN"
 msgid "Mausoleum?"
@@ -19252,7 +19252,7 @@ msgstr "망자를 기리는 곳?"
 
 msgctxt "Narration/&AbjurationQuest_Ceannard01_37_Kythaela_NPC"
 msgid "Yes, for the honored dead who fell in battle for the Empire. "
-msgstr "그렇습니다. 제국을 위해 싸우다 죽은 명예로운 망자들이지요. "
+msgstr "그래, 제국을 위해 싸우다 죽은 명예로운 망자들이오. "
 
 msgctxt "Narration/&AbjurationQuest_Ceannard01_38_Ceannard_NPC"
 msgid ""
@@ -19716,7 +19716,7 @@ msgstr "... 요새 어딘가 숨겨진 방에 있는 가보를 말씀하셨습�
 
 msgctxt "Narration/&AbjurationQuest_Baron_Firstmet_10_Kythaela_NPC"
 msgid "With your leave, my lord…"
-msgstr "경께서 허락 해 주신다면…"
+msgstr "남작님께서 허락 해 주신다면…"
 
 msgctxt "Narration/&AbjurationQuest_Baron_Firstmet_11_Kythaela_NPC"
 msgid ""
@@ -19827,7 +19827,7 @@ msgstr "남작님, 그들은 그럴만한 자격이 있음을 제게 보여주�
 msgctxt "Narration/&AbjurationQuest_Baron_Return_3_Baron_NPC"
 msgid ""
 "Credentials? What do credentials have to do with Lady Kythaela's claims? "
-msgstr "자격? 그럴만한 자격이라는 것이 대체 키타엘라양의 요구와 무슨 상관이 있단 말인가? "
+msgstr "자격? 그럴만한 자격이라는 것이 대체 키타엘라 양의 요구와 무슨 상관이 있단 말인가? "
 
 msgctxt ""
 "Narration/&AbjurationQuest_Baron_Return_4_LawkeeperOrDiplomatOrElse_Formal"
@@ -19865,12 +19865,12 @@ msgstr "저희는 꼭 필요한 경우가 아니라면 저희의 충성을 과�
 msgctxt ""
 "Narration/&AbjurationQuest_Baron_Return_11_LawkeeperOrDiplomatOrElse_Normal"
 msgid "Lady Kythaela works for the Legacy Council."
-msgstr "키타엘라양은 유산 평의회에서 일합니다."
+msgstr "키타엘라 양은 유산 평의회에서 일합니다."
 
 msgctxt ""
 "Narration/&AbjurationQuest_Baron_Return_12_LawkeeperOrDiplomatOrElse_Normal"
 msgid "Lady Kythaela has agreed to help the Council…"
-msgstr "키타엘라양은 평의회를 돕기로 합의했습니다…"
+msgstr "키타엘라 양은 평의회를 돕기로 합의했습니다…"
 
 msgctxt "Narration/&AbjurationQuest_Baron_Return_13_AcademicOrElse_Normal"
 msgid "…in a delicate and vital matter."
@@ -19950,7 +19950,7 @@ msgstr "그리고 지하 감옥 근처지. 어찌나 섬세하고 들어맞는�
 
 msgctxt "Narration/&AbjurationQuest_Basement_3_Baron_NPC"
 msgid "Please, Lady Kythaela, before we inventory your heirlooms…"
-msgstr "부탁이네, 키타엘라 양. 가보 목록을 만들기 전에…"
+msgstr "참, 키타엘라 양. 가보 목록을 만들기 전에…"
 
 msgctxt "Narration/&AbjurationQuest_Basement_4_Baron_NPC"
 msgid "…there is something I wish to show you."
@@ -19958,7 +19958,7 @@ msgstr "... 내 보여줄 것이 있지."
 
 msgctxt "Narration/&AbjurationQuest_Basement_5_Baron_NPC"
 msgid "You will find it interesting, hopefully."
-msgstr "바라건대, 흥미로울 것이야."
+msgstr "분명, 흥미로울 것이야."
 
 msgctxt "Narration/&AbjurationQuest_Basement_6_Baron_NPC"
 msgid "So nice of you to drop by. "
@@ -20158,11 +20158,11 @@ msgstr "뭐 하나라도 알아먹기가 힘들구만."
 
 msgctxt "Narration/&AbjurationQuest_Tower_5_SpyOrRangerOrElse_Normal"
 msgid "Lady Kythaela! Do you know how to enter the Tower?"
-msgstr "키타엘라양! 탑에 들어가는법을 알고있습니까?"
+msgstr "키타엘라 양! 탑에 들어가는법을 알고있습니까?"
 
 msgctxt "Narration/&AbjurationQuest_Tower_6_Kythaela_NPC"
 msgid "Yes!"
-msgstr "알아요!"
+msgstr "그럼!"
 
 msgctxt "Narration/&AbjurationQuest_Tower_7_Crownbearer_Normal"
 msgid "Let's head there now! "
@@ -20182,15 +20182,15 @@ msgstr "그리고 넌 멋진 메인요리를 만들거야!"
 
 msgctxt "Narration/&AbjurationQuest_Razan_1_Kythaela_NPC"
 msgid "Master, here I am, at last!"
-msgstr "주인님, 마침내 제가 이곳에 왔습니다!"
+msgstr "마스터, 드디어 제가 왔습니다!"
 
 msgctxt "Narration/&AbjurationQuest_Razan_2_Adrasteia_NPC"
 msgid "Kythaela, come to me! "
-msgstr "키타엘라, 내게로 오게! "
+msgstr "키타엘라, 내게 오너라! "
 
 msgctxt "Narration/&AbjurationQuest_Razan_3_Starter_Normal"
 msgid "Kythaela could use some healing, I think!"
-msgstr "키타엘라에게 치유가 필요한 거 같은데요!"
+msgstr "키타엘라가 어떤 치유를 하는 것 같은데!"
 
 msgctxt "Narration/&AbjurationQuest_Razan_6_Razan_NPC"
 msgid "Yes, dazzle us! Allow me to thank you for your actions!"
@@ -20223,11 +20223,11 @@ msgstr "나와 키타엘라가 재결합하게 도와줬잖니."
 
 msgctxt "Narration/&AbjurationEnding_4_Adrasteia_NPC"
 msgid "For dealing with this… foulness when I was incapacitated."
-msgstr "이걸 해결하려고... 내가 무력할 때 부정해졌구나."
+msgstr "내가 무력할 때 이… 부정한 존재와 맞서지 않았나."
 
 msgctxt "Narration/&AbjurationEnding_5_Adrasteia_NPC"
 msgid "This evil was new to me, not something Manacalon ever knew."
-msgstr "이 악은 새롭구나, 마나칼론에서 알던 것과는 달리."
+msgstr "알지 못하던 악이로군, 마나칼론에서 알던 것과는 달라."
 
 msgctxt "Narration/&AbjurationEnding_6_ChoiceA_WRITTEN"
 msgid "Reuniting? "
@@ -20239,7 +20239,7 @@ msgstr "재결합이라는 게 무슨 뜻이죠?"
 
 msgctxt "Narration/&AbjurationEnding_8_Adrasteia_NPC"
 msgid "Yes, Kythaela was - or even is - a part of me! "
-msgstr "그래, 키타엘라는 내 일부였으며 나 이기도 했지! "
+msgstr "그래, 키타엘라는 내 일부였으며 - 지금 또한 그러하다! "
 
 msgctxt "Narration/&AbjurationEnding_9_Judgmental_Normal"
 msgid "Did you kill her? "
@@ -20320,13 +20320,13 @@ msgstr "이건 생명을 모독하는 흉물이야!"
 
 msgctxt "Narration/&AbjurationEnding_27_AcademicOrElse_Normal"
 msgid "Manacalon? Are you one of the… ?"
-msgstr "마나칼론? 거기 소속이였...?"
+msgstr "마나칼론? 거기 소속이었나요...?"
 
 msgctxt "Narration/&AbjurationEnding_28_Adrasteia_NPC"
 msgid ""
 "Adrasteia the Prudent Shield, Master of Abjuration. In your debt, and at "
 "your service! "
-msgstr "방호계의 대가이자, 신중한 보호자인 아드레스테이아. 당신에게 큰 빚을 지고, 당신의 뜻을 따르겠습니다! "
+msgstr "방호계의 마스터이자, 신중한 방패수 아드레스테이아. 그대들에게 큰 빚을 졌으니, 그대들의 힘이 되겠다! "
 
 msgctxt "Narration/&AbjurationEnding_29_AcademicOrElse_Normal"
 msgid "You were at the battle of the Rift?"
@@ -20380,7 +20380,7 @@ msgstr "... 적을 해안가에 붙들어놓았고, 측면을 노렸어!"
 
 msgctxt "Narration/&AbjurationEnding_41_Adrasteia_NPC"
 msgid "Our shock arcanists and the human paladins together…"
-msgstr "전격 비전술사들과 인간 팔라딘들이 함께…"
+msgstr "우리의 쇼크 아르카니스트들과 인간 팔라딘들이 함께…"
 
 msgctxt "Narration/&AbjurationEnding_42_Adrasteia_NPC"
 msgid "…giving their lives to give us a chance to close the Rift!"
@@ -20388,7 +20388,7 @@ msgstr "... 목숨을 바쳐서 균열을 닫을 기회를 우리에게 준거�
 
 msgctxt "Narration/&AbjurationEnding_43_Adrasteia_NPC"
 msgid "And, as another wave came through…"
-msgstr "그리고, 또다른 파도가 밀려오고…"
+msgstr "그리고, 또다른 파상공세가 밀려오고…"
 
 msgctxt "Narration/&AbjurationEnding_44_Adrasteia_NPC"
 msgid "…one last throw of the dice…"
@@ -20433,7 +20433,7 @@ msgstr "이걸 다시 가져가게, 옛 친구여."
 
 msgctxt "Narration/&AbjurationEnding_54_Crownbearer_Normal"
 msgid "Old friend?"
-msgstr "다시? 옛 친구요?"
+msgstr "옛 친구요?"
 
 msgctxt "Narration/&AbjurationEnding_55_Adrasteia_NPC"
 msgid "I feel your spirit in the Crown, Kaseinax! "
@@ -20550,11 +20550,11 @@ msgstr "그롬니르! 에이나르님이시여 감사합니다.. 자네 무사�
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Jail_Aftermath_2_BaronStonefist_NPC"
 msgid "Yes, I am - thanks to Joris and these adventurers, it seems!"
-msgstr "그렇네. 요리스와 이 모험자분들 덕분일걸세!"
+msgstr "그렇네. 조리스와 이 모험자분들 덕분일걸세!"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Jail_Aftermath_3_Ceannard_NPC"
 msgid "Now, old friend - go see Atima with Joris! "
-msgstr "자, 오랜 친구여.. 요리스와 함께 아티마를 찾아가보게! "
+msgstr "자, 오랜 친구여 - 조리스와 함께 아티마를 찾아가보게! "
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Jail_Aftermath_4_BaronStonefist_NPC"
 msgid "I'm fine!"
@@ -20605,7 +20605,7 @@ msgstr "그렇게 하겠습니다."
 msgctxt ""
 "Narration/&AbjurationQuest_Kythaela_Gear_1_CrownbearerOrArcane_Highest_Normal"
 msgid "Tell us, Lady Kythaela, what did you find? A gem? "
-msgstr "키타엘라양, 이제 말씀해주세요. 뭘 찾아냈습니까? 보석인가요? "
+msgstr "키타엘라 양, 이제 말씀해주세요. 뭘 찾아냈습니까? 보석인가요? "
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Gear_2_Kythaela_NPC"
 msgid "This is my spellbook - I remember!"
@@ -20613,7 +20613,7 @@ msgstr "기억 나, 이건 내 주문책이야!"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Gear_2b_Kythaela_NPC"
 msgid "A wand, a robe, some money, and a piece of paper."
-msgstr "마법봉 한자루, 로브 한벌, 약간의 돈, 그리고 종이 쪼가리요."
+msgstr "마법봉 하나, 로브 한 벌, 약간의 돈, 그리고 종이 쪼가리 하나."
 
 msgctxt ""
 "Narration/"
@@ -20624,7 +20624,7 @@ msgstr "거기엔 뭐라고 적혀있던가요?"
 msgctxt "Narration/&AbjurationQuest_Kythaela_Gear_4_Kythaela_NPC"
 msgid ""
 "I… don't know. There is only one word written on the paper: \"Adrasteo\""
-msgstr "잘...모르겠어요. 그저 단어 하나만 적혀있더군요. \"Adrasteo\""
+msgstr "잘...모르겠다. 그저 단어 하나만 적혀있더군. \"Adrasteo\""
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Gear_5_SarcasticOrElse_Normal"
 msgid "Is that another place?"
@@ -20632,7 +20632,7 @@ msgstr "다른 어떤 장소를 가리키는걸까요?"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Gear_6_Kythaela_NPC"
 msgid "I… I'm not sure! I feel the pull returning!"
-msgstr "확실..하지는 않아요! 이끌림이 느껴지긴 해요!"
+msgstr "확실하진… 않구나! 이끌림이 느껴지긴 하지만!"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Gear_7_InsightOrElse_Normal"
 msgid "I guess we'll soon be on the road again, then."
@@ -20671,7 +20671,7 @@ msgstr "그래, 좀 보라구! 아무 것도 손상되지 않았어."
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_CoparannGateroom_8_Kythaela_NPC"
 msgid "It is locked, though."
-msgstr "잠겨 있지만요."
+msgstr "잠긴 게 흠이지만."
 
 msgctxt ""
 "Narration/&AbjurationQuest_Kythaela_CoparannGateroom_9_InsightHighest_Normal"
@@ -20680,12 +20680,12 @@ msgstr "어떻게 열어야 한담?"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_CoparannGateroom_10_Kythaela_NPC"
 msgid "You need to use its name. "
-msgstr "문의 이름을 사용해야죠. "
+msgstr "문의 이름을 사용해야지. "
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_CoparannGateroom_11_Kythaela_NPC"
 msgid ""
 "It would normally be engraved nearby, but this was a private, secret Gate."
-msgstr "보통은 근처에 새겨놓지만, 이 문은 사적으로 사용되던, 비밀 관문이었어요."
+msgstr "보통은 근처에 새겨놓지만, 이 문은 사적으로 사용되던, 비밀 관문이었어."
 
 msgctxt ""
 "Narration/&AbjurationQuest_Kythaela_CoparannGateroom_12_Pragmatic_Normal"
@@ -20694,7 +20694,7 @@ msgstr "그럼, 못 쓰나요?"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_CoparannGateroom_13_Kythaela_NPC"
 msgid "I know its name, this was my family's."
-msgstr "저는 이름을 알고 있어요, 저희 가문이 사용하던 문이었으니까."
+msgstr "난 이름을 알고 있지, 내 가문이 사용하던 문이었으니까."
 
 msgctxt ""
 "Narration/&AbjurationQuest_Kythaela_CoparannGateroom_14_Pragmatic_Normal"
@@ -20703,7 +20703,7 @@ msgstr "그러면…?"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_CoparannGateroom_15_Kythaela_NPC"
 msgid "Once you get me to my master, I'll give you the name."
-msgstr "저를 제 마스터에게 데려다 준다면 알려드리죠."
+msgstr "나를 내 마스터에게 데려다 준다면 알려주마."
 
 msgctxt ""
 "Narration/&AbjurationQuest_Kythaela_CoparannGateroom_16_Pragmatic_Normal"
@@ -20725,7 +20725,7 @@ msgstr "촌장이 그때까지 기다려줄지 잘 모르겠어요."
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_CoparannGateroom_20_Kythaela_NPC"
 msgid "Then I'll give him the name, but you still have to stay with me."
-msgstr "그럼 그에겐 알려 주겠지만, 여러분은 저와 동행해야만 해요."
+msgstr "그럼 그에겐 알려 주겠지만, 너희는 나와 동행해야만 해."
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_CoparannGateroom_21_Cynical_Default"
 msgid "She's tough, but at least she doesn't sound crazy anymore."
@@ -20737,7 +20737,7 @@ msgstr "감히 어디서 그 입을…"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_CoparannGateroom_23_Kythaela_NPC"
 msgid "…never mind."
-msgstr "…아니, 아닙니다."
+msgstr "…아니, 잊어버리거라."
 
 msgctxt "Narration/&CradleOfFire_Arriving_1_Default_Default"
 msgid "This is the worst place we've been so far."
@@ -20899,7 +20899,7 @@ msgstr "나크 아미 안다."
 
 msgctxt "Narration/&CradleOfFire_FindingKebra_40_Kebra_NPC"
 msgid "A nyark who speaks orc!"
-msgstr "나야크가 오크 말을 한다!"
+msgstr "나크가 오크 말을 한다!"
 
 msgctxt "Narration/&CradleOfFire_FindingKebra_41_Kebra_NPC"
 msgid "Kebra like to know your story."
@@ -21087,7 +21087,7 @@ msgstr "죽여버리기 전에 물러나시지."
 
 msgctxt "Narration/&CradleOfFire_Entrance_14_Orcishspeaker_Default"
 msgid "Nyark ami anda, Karko Arbal."
-msgstr "나크 아미 아느다, 카르코 아르발."
+msgstr "나크 아미 안다, 카르코 아르발."
 
 msgctxt "Narration/&CradleOfFire_Entrance_16_Pragmatic_Default"
 msgid "Is there any way we can get in?"
@@ -21217,7 +21217,7 @@ msgstr "아르발은 싸움 구경 하고 싶다."
 
 msgctxt "Narration/&CradleOfFire_Entrance_44_Arbal_NPC"
 msgid "Let the nyarks go."
-msgstr "나크들을 통과시켜 줘라."
+msgstr "나크 통과시켜 줘라."
 
 msgctxt "Narration/&CradleOfFire_OrcCamp_1_Starter_Default"
 msgid "Look at that."
@@ -21525,7 +21525,7 @@ msgstr "내 나크들은 투기장에서 에드로프를 해치울 수도 있다
 
 msgctxt "Narration/&CradleOfFire_BloodspearMeeting_6_Edrof_NPC"
 msgid "Rhhhhhaaaaaa! I kill all your nyarks!"
-msgstr "르으으아아아! 네 노예들을 모두 죽이겠다!"
+msgstr "르으으아아아! 네 나크들을 모두 죽이겠다!"
 
 msgctxt "Narration/&CradleOfFire_BloodspearMeeting_7_Brok_NPC"
 msgid "Arena challenge. Edrof can't say no."
@@ -21730,7 +21730,7 @@ msgstr "멈춰라, 케브라!"
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_2_Kebra_NPC"
 msgid "Coming in peace with nyark of ancients."
-msgstr "고대 나크들과 평화를 위해 왔다."
+msgstr "고대와 관련된 나크들과 평화를 위해 왔다."
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_3_Radulf_NPC"
 msgid "Brok! You alive! But your tribe dead."
@@ -21767,7 +21767,7 @@ msgstr "아록은 힘의 돌을 갖고 있다."
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_11_Kebra_NPC"
 msgid "Nyarks have stones of power. More than Arrok."
-msgstr "나크들은 힘의 돌이 많다. 아록보다 훨씬 더."
+msgstr "나크들은 힘의 돌 많다. 아록보다 훨씬 더."
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_12_Radulf_NPC"
 msgid "Bladefang not follow Brok - yet."
@@ -22368,10 +22368,9 @@ msgctxt "Narration/&CradleOfFire_Necropolis_Statue01_2_Cynical_Default"
 msgid "Yeah, it's a damned Imperial slaver's tomb."
 msgstr "맞아, 빌어먹을 제국 노예상들의 무덤이지."
 
-#, fuzzy
 msgctxt "Narration/&CradleOfFire_Necropolis_Statue01_3_Lawful_Default"
 msgid "We know…"
-msgstr "알고 있었잖아…"
+msgstr "우리도 알아…"
 
 msgctxt "Narration/&CradleOfFire_Necropolis_Statue01_4_History_Default"
 msgid "This one was Laethar Aerlinn, first of his name."
@@ -22656,7 +22655,7 @@ msgstr "아록의 돌이 필요하다. 정말로."
 
 msgctxt "Narration/&CradleOfFire_BackToBrok_1_Brok_NPC"
 msgid "Nyark friends. You convince the tribes?"
-msgstr "나야크 친구들. 부족들을 설득했나?"
+msgstr "나크 친구들. 부족들을 설득했나?"
 
 msgctxt "Narration/&CradleOfFire_BackToBrok_2_Authority_Default"
 msgid "Bad news. Urka was corrupted by the gaks."
@@ -23518,11 +23517,11 @@ msgstr "그럼 저 안에 들어가서 우리가 찾은 이상현상이 뭔지 �
 msgctxt "Narration/&Conjuration_CastleEntrance_1_Butler_NPC"
 msgid ""
 "Good day to you. My name is Eldorath Smooth-Tongue, the master's housekeeper."
-msgstr "좋은 하루 되시길. 제 이름은 엘도라스 스무스텅, 마스터의 사용인입니다."
+msgstr "좋은 하루 되시길. 제 이름은 엘도라스 스무스텅, 주인님의 사용인입니다."
 
 msgctxt "Narration/&Conjuration_CastleEntrance_2a_1_Butler_ifPlayersLooted_NPC"
 msgid "I see you have purloined some of my master's property…"
-msgstr "마스터의 소유물을 절취하신 듯 보입니다만…"
+msgstr "주인님의 소유물을 절취하신 듯 보입니다만…"
 
 msgctxt "Narration/&Conjuration_CastleEntrance_2a_2_Butler_ifPlayersLooted_NPC"
 msgid "…might I suggest you put those trinkets back where they belong? "
@@ -23543,7 +23542,7 @@ msgstr "맑은 하늘이 함께하길! 어디로 안내하시는 거죠?"
 
 msgctxt "Narration/&Conjuration_CastleEntrance_4_Butler_NPC"
 msgid "To the master, of course! "
-msgstr "물론 마스터가 계신 곳이죠! "
+msgstr "물론 주인님이 계신 곳이죠! "
 
 msgctxt "Narration/&Conjuration_CastleEntrance_5_Crownbearer_Normal"
 msgid "And who would that be? "
@@ -23659,7 +23658,7 @@ msgstr "더한 것도 본걸요, 이런 입조심!"
 
 msgctxt "Narration/&Conjuration_CastleEntrance_22b_Butler_NPC"
 msgid "But now, please follow me. One mustn't keep the master waiting! "
-msgstr "아무튼 지금은, 절 따라오세요. 마스터를 기다리시게 하면 안 되니! "
+msgstr "아무튼 지금은, 절 따라오세요. 주인님을 기다리시게 하면 안 되니! "
 
 msgctxt "Narration/&ConjurationQuest_Master_1_Master_NPC"
 msgid "Well met, strangers!"
@@ -24157,7 +24156,7 @@ msgstr "응접실"
 
 msgctxt "Narration/&Banter_Abjuration_WizardTower_Kythaela_03"
 msgid "These projections are from the master, not ghosts."
-msgstr "이 형상들은 탑의 주인으로부터 나타나는 것이란다. 유령들이 아니지."
+msgstr "이 투영체들의 근원은 마스터지, 유령들이 아니다."
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_36_SellswordOrElse_Default"
 msgid "It was too late for him."
@@ -24169,7 +24168,7 @@ msgstr "이 문양은 읽을 수가 없는데. 다른 데서 다른 걸 찾을 �
 
 msgctxt "Narration/&Banter_Abjuration_WizardTower_Environment_15"
 msgid "The… projections, they're all gone."
-msgstr "그… 유령들, 다 사라졌잖아."
+msgstr "그… 투영체들, 다 사라졌잖아."
 
 msgctxt "Narration/&Banter_Abjuration_WizardTower_Environment_16"
 msgid "This must have something to do with Adrasteia's awakening."
@@ -24221,7 +24220,7 @@ msgstr "아니, 나크가 말도 한다! 케브라 네가 가르쳤냐?"
 
 msgctxt "Narration/&CradleOfFire_Entrance_10_Arbal_NPC"
 msgid "Before Arrok, Arbal would kill nyarks."
-msgstr "아록한테 가기 전에, 아르발이 나크들 죽인다."
+msgstr "아록한테 가기 전에, 아르발이 나크 죽인다."
 
 msgctxt "Narration/&CradleOfFire_Entrance_13_Arbal_NPC"
 msgid "Not nice, no."
@@ -24311,7 +24310,7 @@ msgstr "나크들은 브록 친구. 브록은 강한 족장!"
 
 msgctxt "Narration/&TextOnlyNPCSpeech_BladeFang_Guard_01"
 msgid "Nyarks go see Radulf!"
-msgstr "나크들은 라둘프 보러 가라!"
+msgstr "나크는 라둘프 보러 가라!"
 
 msgctxt "Narration/&TextOnlyNPCSpeech_BladeFang_Guard_02"
 msgid "Radulf great Shaman."
@@ -24319,11 +24318,11 @@ msgstr "라둘프 대단한 주술사다."
 
 msgctxt "Narration/&TextOnlyNPCSpeech_BladeFang_Guard_03"
 msgid "Nyark got mighty axe?"
-msgstr "나크들, 엄청 센 도끼 갖고 왔냐?"
+msgstr "나크, 엄청 센 도끼 갖고 왔냐?"
 
 msgctxt "Narration/&TextOnlyNPCSpeech_BladeFang_Guard_04"
 msgid "Nyarks have spider webs in hair."
-msgstr "나크들 머리털에 거미줄."
+msgstr "나크 머리털에 거미줄."
 
 msgctxt "Narration/&TextOnlyNPCSpeech_BladeFang_Tribe_01"
 msgid "Brok new chief? Brok not dead?"
@@ -24331,7 +24330,7 @@ msgstr "새 족장 브록? 브록 안 죽었냐?"
 
 msgctxt "Narration/&TextOnlyNPCSpeech_BladeFang_Tribe_02"
 msgid "Nyarks need food?"
-msgstr "나크들 배고프냐?"
+msgstr "나크 배고프냐?"
 
 msgctxt "Narration/&TextOnlyNPCSpeech_BladeFang_Tribe_03"
 msgid "Bladefang best tribe. Bladefang got big shaman!"
@@ -25383,9 +25382,10 @@ msgctxt "Narration/&Conjuration_SorakFight6_Starter_Default"
 msgid "The Soraks."
 msgstr "소락이야."
 
+#, fuzzy
 msgctxt "Narration/&Conjuration_SorakFight7_Selfpres_Default"
 msgid "That was fast."
-msgstr ""
+msgstr "순식간이었는데."
 
 msgctxt "Narration/&Conjuration_SorakFight8_Sellsword_Default"
 msgid "You afraid?"
@@ -25399,9 +25399,10 @@ msgctxt "Narration/&Banter_Conjuration_TheID_TheBeast_02"
 msgid "A comfortable golden mattress."
 msgstr "쾌적한 황금 이부자리로군."
 
+#, fuzzy
 msgctxt "Narration/&Banter_Conjuration_TheID_TheSuperEgo_03"
 msgid "Another one of these platforms!"
-msgstr ""
+msgstr "또 새로운 발판이네!"
 
 msgctxt "Narration/&Banter_Conjuration_TheEgo_01"
 msgid "All this movement is making me dizzy."
@@ -25473,11 +25474,11 @@ msgstr "에드로프 강한 족장이다!"
 
 msgctxt "Narration/&TextOnlyNPCSpeech_BloodSpear_Edrof_01"
 msgid "Edrof chief! Bloodspear no alliance with nyarks!"
-msgstr "에드로프 족장! 피묻은창은 나크와 동맹 없다!"
+msgstr "에드로프가 족장! 피묻은창은 나크와 동맹 없다!"
 
 msgctxt "Narration/&TextOnlyNPCSpeech_SandRaven_Guard_01"
 msgid "Urka chief! Nyarks go see Urka."
-msgstr "우르카 족장! 나크들은 가서 우르카를 만나라."
+msgstr "족장은 우르카! 나크는 가서 우르카를 만나라."
 
 msgctxt "Narration/&TextOnlyNPCSpeech_SandRaven_Guard_02"
 msgid "Sandraven mighty tribe!"
@@ -25485,7 +25486,7 @@ msgstr "모래까마귀는 힘센 부족!"
 
 msgctxt "Narration/&TextOnlyNPCSpeech_SandRaven_Guard_03"
 msgid "Nyark see ghost?"
-msgstr "나크는 유령을 보나?"
+msgstr "나크 유령 보이냐?"
 
 msgctxt "Narration/&TextOnlyNPCSpeech_SandRaven_Tribe_01"
 msgid "Sandraven strong!"
@@ -25493,7 +25494,7 @@ msgstr "모래까마귀 강하다!"
 
 msgctxt "Narration/&TextOnlyNPCSpeech_SandRaven_Tribe_02"
 msgid "Kebra strong. Kebra control nyarks!"
-msgstr "케브라 강하다. 케브라는 나크들 지배한다!"
+msgstr "케브라 강하다. 케브라는 나크 부린다!"
 
 msgctxt "Narration/&TextOnlyNPCSpeech_SandRaven_Tribe_03"
 msgid "Sandraven want trade with nyarks."
@@ -25631,7 +25632,7 @@ msgstr "만나서 반갑습니다!"
 
 msgctxt "Narration/&NPC_Banter1_Orc_MarkJane_talk"
 msgid "Urka chief! Nyarks go see Urka."
-msgstr "우르카 족장! 나크는 가서 우르카 봐라."
+msgstr "족장은 우르카! 나크는 가서 우르카를 만나라."
 
 msgctxt "Narration/&NPC_Banter2_Orc_MarkJane_talk"
 msgid "Sandraven mighty tribe!"
@@ -25647,7 +25648,7 @@ msgstr "모래까마귀 강하다!"
 
 msgctxt "Narration/&NPC_Banter5_Orc_MarkJane_talk"
 msgid "Kebra strong. Kebra control nyarks!"
-msgstr "케브라 강하다. 나크는 케브라 따른다!"
+msgstr "케브라 강하다. 케브라는 나크 부린다!"
 
 msgctxt "Narration/&NPC_Banter6_Orc_MarkJane_talk"
 msgid "Sandraven want trade with nyarks."
@@ -25707,7 +25708,7 @@ msgstr "구세주와 싸울 거냐?"
 
 msgctxt "Narration/&NPC_Banter1_Orc_AkilWingate_talk"
 msgid "Urka chief! Nyarks go see Urka."
-msgstr "우르카 족장! 나크는 가서 우르카 봐라."
+msgstr "족장은 우르카! 나크는 가서 우르카를 만나라."
 
 msgctxt "Narration/&NPC_Banter2_Orc_AkilWingate_talk"
 msgid "Sandraven mighty tribe!"
@@ -25723,7 +25724,7 @@ msgstr "모래까마귀 강하다!"
 
 msgctxt "Narration/&NPC_Banter5_Orc_AkilWingate_talk"
 msgid "Kebra strong. Kebra control nyarks!"
-msgstr "케브라 강하다. 나크는 케브라 따른다!"
+msgstr "케브라 강하다. 케브라는 나크 부린다!"
 
 msgctxt "Narration/&NPC_Banter6_Orc_AkilWingate_talk"
 msgid "Sandraven want trade with nyarks."
@@ -25783,7 +25784,7 @@ msgstr "구세주와 싸울 거냐?"
 
 msgctxt "Narration/&NPC_Banter1_Orc_Mirabelle_talk"
 msgid "Urka chief! Nyarks go see Urka."
-msgstr "우르카 족장! 나크는 가서 우르카 봐라."
+msgstr "족장은 우르카! 나크는 가서 우르카를 만나라."
 
 msgctxt "Narration/&NPC_Banter2_Orc_Mirabelle_talk"
 msgid "Sandraven mighty tribe!"
@@ -25799,7 +25800,7 @@ msgstr "모래까마귀 강하다!"
 
 msgctxt "Narration/&NPC_Banter5_Orc_Mirabelle_talk"
 msgid "Kebra strong. Kebra control nyarks!"
-msgstr "케브라 강하다. 케브라는 나크들 지배한다!"
+msgstr "케브라 강하다. 케브라는 나크 부린다!"
 
 msgctxt "Narration/&NPC_Banter6_Orc_Mirabelle_talk"
 msgid "Sandraven want trade with nyarks."
