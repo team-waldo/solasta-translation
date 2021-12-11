@@ -3,13 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-12-11 11:51+0000\n"
+"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/format/ko/>"
+"\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.4.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "Format/&CurrentAndTemporaryHitPointsDescription"
 msgid ""
@@ -77,41 +80,50 @@ msgctxt "Format/&MaxHealthFormat"
 msgid "of {0} HP"
 msgstr "최대체력 {0}"
 
+#, fuzzy
 msgctxt "Format/&Rank1Title"
 msgid "1st"
-msgstr ""
+msgstr "1"
 
+#, fuzzy
 msgctxt "Format/&Rank2Title"
 msgid "2nd"
-msgstr ""
+msgstr "2"
 
+#, fuzzy
 msgctxt "Format/&Rank3Title"
 msgid "3rd"
-msgstr ""
+msgstr "3"
 
+#, fuzzy
 msgctxt "Format/&Rank4Title"
 msgid "4th"
-msgstr ""
+msgstr "4"
 
+#, fuzzy
 msgctxt "Format/&Rank5Title"
 msgid "5th"
-msgstr ""
+msgstr "5"
 
+#, fuzzy
 msgctxt "Format/&Rank6Title"
 msgid "6th"
-msgstr ""
+msgstr "6"
 
+#, fuzzy
 msgctxt "Format/&Rank7Title"
 msgid "7th"
-msgstr ""
+msgstr "7"
 
+#, fuzzy
 msgctxt "Format/&Rank8Title"
 msgid "8th"
-msgstr ""
+msgstr "8"
 
+#, fuzzy
 msgctxt "Format/&Rank9Title"
 msgid "9th"
-msgstr ""
+msgstr "9"
 
 msgctxt "Format/&RevealedEvilTitle"
 msgid "Malign"

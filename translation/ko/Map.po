@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-11-07 10:50+0000\n"
-"Last-Translator: Nickel <psb3421@naver.com>\n"
+"PO-Revision-Date: 2021-12-11 11:51+0000\n"
+"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/map/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -107,7 +107,6 @@ msgctxt "Map/&Location_AerElai_UnvisitedTitle"
 msgid "Should not be displayed"
 msgstr "표시되지 않음"
 
-#, fuzzy
 msgctxt "Map/&Location_BoneKeep_Castle_Title"
 msgid "Keep Entrance"
 msgstr "요새 입구"
@@ -116,7 +115,6 @@ msgctxt "Map/&Location_BoneKeep_Cemetery_Title"
 msgid "Cemetery"
 msgstr "묘지"
 
-#, fuzzy
 msgctxt "Map/&Location_BoneKeep_Courtyard_Title"
 msgid "Courtyard"
 msgstr "안뜰"
@@ -128,22 +126,18 @@ msgid ""
 msgstr ""
 "고대의 강령술 마스터는 이 거대하고 무시무시한 요새에 보석을 가지고 숨어있었다. 요새는 언데드와 다른 위험한 것들로 둘러싸여 있다."
 
-#, fuzzy
 msgctxt "Map/&Location_BoneKeep_DrainPipe_Title"
 msgid "Drains"
 msgstr "하수도"
 
-#, fuzzy
 msgctxt "Map/&Location_BoneKeep_DrainPipeCourtyard_Title"
 msgid "Drain Access from Courtyard"
 msgstr "안뜰에서 하수도로 가는 길"
 
-#, fuzzy
 msgctxt "Map/&Location_BoneKeep_DrainPipeStoreHouse_Title"
 msgid "Drain Access from Storehouse"
 msgstr "창고에서 하수도로 가는 길"
 
-#, fuzzy
 msgctxt "Map/&Location_BoneKeep_DrainPipeWell_Title"
 msgid "Drain Access from Well"
 msgstr "우물에서 하수도로 가는 길"
@@ -362,7 +356,6 @@ msgctxt "Map/&Location_CCyflen_Plaza_Title"
 msgid "Sunblaze Court"
 msgstr "햇볕 정원"
 
-#, fuzzy
 msgctxt "Map/&Location_CCyflen_Promontory_Title"
 msgid "Promontory"
 msgstr "전망대"
@@ -541,12 +534,10 @@ msgctxt "Map/&Location_TowerOfMagic_Library_Title"
 msgid "Library"
 msgstr "도서관"
 
-#, fuzzy
 msgctxt "Map/&Location_WizardTower_Downhill_Title"
 msgid "Downhill"
 msgstr "내리막길"
 
-#, fuzzy
 msgctxt "Map/&Location_WizardTower_MainAlley_Title"
 msgid "Main Alley"
 msgstr "주 통로"
@@ -587,7 +578,6 @@ msgctxt "Map/&Location_WizardTower_MastersChamber_Title"
 msgid "Master's Chamber"
 msgstr "마스터의 방"
 
-#, fuzzy
 msgctxt "Map/&Location_Generic_Mechanism_Title"
 msgid "Mechanism"
 msgstr "기계 장치"
@@ -681,17 +671,14 @@ msgctxt "Map/&Location_CradleOfFire_Bladefang"
 msgid "Bladefang Tribe"
 msgstr "날송곳니 부족"
 
-#, fuzzy
 msgctxt "Map/&Location_CradleOfFire_Bloodspear"
 msgid "Bloodspear Tribe"
 msgstr "피묻은창 부족"
 
-#, fuzzy
 msgctxt "Map/&Location_CradleOfFire_SandRaven"
 msgid "Sandraven Tribe"
 msgstr "모래까마귀 부족"
 
-#, fuzzy
 msgctxt "Map/&Location_CradleOfFire_RedscarGate"
 msgid "Redscar Gate"
 msgstr "붉은흉터 관문"
@@ -734,7 +721,6 @@ msgctxt "Map/&Location_Earcorn_Description"
 msgid "A small farming village not far from Caer Cyflen."
 msgstr "케어 키플렌에서 멀지 않은 작은 농촌 마을입니다."
 
-#, fuzzy
 msgctxt "Map/&Location_Earcorn_Title"
 msgid "Earcorn"
 msgstr "이어콘 마을"
@@ -796,10 +782,9 @@ msgctxt "Map/&Location_TheSuperEgo_TheHall_Title"
 msgid "Entrance"
 msgstr "입구"
 
-#, fuzzy
 msgctxt "Map/&Location_TheSuperEgo_TheLandingPad_Title"
 msgid "Platform"
-msgstr "승강기"
+msgstr "석단"
 
 msgctxt "Map/&Location_TheSuperEgo_TheMastersRoom_Title"
 msgid "Master's Room"
@@ -809,7 +794,6 @@ msgctxt "Map/&Location_TempleOfMisaye_Title"
 msgid "Temple of Misaye"
 msgstr "미사이에의 신전"
 
-#, fuzzy
 msgctxt "Map/&Location_CradleOfFire_RedscarGateHall"
 msgid "Redscar Gate Hall"
 msgstr "붉은흉터 관문 홀"
@@ -875,7 +859,6 @@ msgctxt "Map/&Location_TempleHospital_Title"
 msgid "Main Dispensary"
 msgstr "주 진료소"
 
-#, fuzzy
 msgctxt "Map/&Location_Temple_SafeRoom_Title"
 msgid "Safe Room"
 msgstr "대피소"
