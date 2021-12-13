@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-12-11 23:38+0000\n"
-"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
+"PO-Revision-Date: 2021-12-13 11:33+0000\n"
+"Last-Translator: lull_ <lull_@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
 "Language: ko\n"
@@ -64,7 +64,7 @@ msgstr "아우랄리타스의 실험"
 
 msgctxt "Narration/&NecromancyTextObj16"
 msgid "Necromantic Laboratory Practice, by Master Mardracht"
-msgstr "강령술 연구소 실습, 마스터 마르드라흐트 지음"
+msgstr "사령술 연구소 실습, 마스터 마르드라흐트 지음"
 
 msgctxt "Narration/&NecromancyTextObj17"
 msgid "Caution: Explosive"
@@ -76,7 +76,7 @@ msgstr "주의: 인화성 물질"
 
 msgctxt "Narration/&NecromancyTextObj20"
 msgid "Spirit and Flesh: Advanced Studies in Necromancy"
-msgstr "영혼과 육신: 고급 강령술학"
+msgstr "영혼과 육신: 고급 사령학"
 
 msgctxt "Narration/&NecromancyTextObj21"
 msgid "The Forbidden Testaments of Marbethin"
@@ -112,7 +112,7 @@ msgstr "다리는 현재 막혀 있습니다."
 
 msgctxt "Narration/&TextOnlyNPCSpeech_CityGuard01_02"
 msgid "The Council is in the opposite direction."
-msgstr "의회는 반대 방향입니다."
+msgstr "평의회는 반대 방향입니다."
 
 msgctxt "Narration/&TextOnlyNPCSpeech_CityGuard02_01"
 msgid "There's trouble on the road. Please remain in town for now."
@@ -160,7 +160,7 @@ msgstr "지금은 바빠서요. 나중에 다시 오세요."
 
 msgctxt "Narration/&TextOnlyNPCSpeech_MayorBrightSpark02"
 msgid "Oh, it's you. Well, I'm still busy. Thank you for your service."
-msgstr "오, 당신이군요. 글쎄, 여전히 바쁩니다. 여러가지 도움 감사드립니다."
+msgstr "오, 당신이군요. 글쎄, 여전히 바쁩니다. 여러가지 도움 감사합니다."
 
 msgctxt "Narration/&TextOnlyNPCSpeech_MayorBrightSpark03"
 msgid "Look who's here - Caer Cyflen's rising stars!"
@@ -168,7 +168,7 @@ msgstr "여기 좀 보시게, 케어 키플렌의 새로운 강자들이네!"
 
 msgctxt "Narration/&TextOnlyNPCSpeech_MayorBrightSpark04"
 msgid "Council business is not my business. Be on your way."
-msgstr "의회 업무는 내 소관이 아닙니다. 이만 가 보세요."
+msgstr "평의회 업무는 내 소관이 아닙니다. 이만 가 보세요."
 
 msgctxt "Narration/&TextOnlyNPCSpeech_MayorBrightSpark05"
 msgid "We knew this war was looming. We'll prevail, as always."
@@ -180,11 +180,11 @@ msgstr "황무지에서 개죽음이나 당하라고…"
 
 msgctxt "Narration/&TextOnlyNPCSpeech_ArwinMerton02"
 msgid "You were still filling your diapers when I killed my first ghoul…"
-msgstr "내가 처음으로 구울을 죽였을 때 겨우 너는 기저귀나 차고 있었지…"
+msgstr "내가 처음으로 구울을 죽였을 때 너는 고작 기저귀나 차고 있었겠지…"
 
 msgctxt "Narration/&TextOnlyNPCSpeech_ArwinMerton03"
 msgid "I heard your stories. Not impressive."
-msgstr "네 이야기를 들었다. 별로더군."
+msgstr "네 이야기를 들었다. 시시하더군."
 
 msgctxt "Narration/&TextOnlyNPCSpeech_ArwinMerton04"
 msgid "I know everyone in this city… and everyone knows me."
@@ -194,7 +194,7 @@ msgctxt "Narration/&TextOnlyNPCSpeech_ArwinMerton05"
 msgid ""
 "You're still here? I'm sure there are some rats to kill in some cave "
 "somewhere."
-msgstr "아직도 여기 있나? 어디 동굴에 잡을 만한 쥐라도 있을 텐데."
+msgstr "아직도 여기 있나? 어디 동굴에 쥐라도 잡으러 가라고."
 
 msgctxt "Narration/&TextOnlyNPCSpeech_ArwinMerton06"
 msgid "I know that look. Something happened… something bad."
@@ -226,7 +226,7 @@ msgstr "칼 좀 쓰는 사람을 찾고 있다면... 그게 바로 나야."
 
 msgctxt "Narration/&TextOnlyNPCSpeech_ArwinMerton13"
 msgid "Any time, friends… I mean, any time after I finish this beer."
-msgstr "언제든 문제 없다고 친구... 물론 이 맥주를 다 마시고 난 후에지만 말이야."
+msgstr "언제든 문제 없다고, 친구... 물론 이 맥주를 다 마시고 난 후에 말이야."
 
 msgctxt "Narration/&TextOnlyNPCSpeech_CaravanMerchant01"
 msgid "I'm busy. Go see Galar."
@@ -238,7 +238,7 @@ msgstr "우린 짐 싸는 중입니다. 미안해요!"
 
 msgctxt "Narration/&TextOnlyNPCSpeech_CaravanMerchant03"
 msgid "You want to buy something, ask Galar."
-msgstr "사고 싶은 게 있으면 갈라르에게 얘기해보세요."
+msgstr "사고 싶은 게 있으면 갈라르에게 얘기해 보세요."
 
 msgctxt "Narration/&TextOnlyNPCSpeech_CaravanMerchant04"
 msgid "No time to chat - sorry!"
@@ -270,11 +270,11 @@ msgstr "이 지역을 유심히 살펴야겠어."
 
 msgctxt "Narration/&Banter_Generic_03"
 msgid "Look at this place!"
-msgstr "여기좀 봐!"
+msgstr "여기 좀 봐!"
 
 msgctxt "Narration/&Banter_Generic_04"
 msgid "Doesn't make any sense…"
-msgstr "이건 말도 안돼…"
+msgstr "이건 말도 안 돼…"
 
 msgctxt "Narration/&Banter_Caerlem_01"
 msgid "Where did those goblins come from?"
@@ -282,7 +282,7 @@ msgstr "이 고블린들은 어디서 온 거지?"
 
 msgctxt "Narration/&Banter_Caerlem_02"
 msgid "Some hole in the mountain, I guess."
-msgstr "산속 어딘가에 있는 구멍에서겠지, 아마."
+msgstr "아마, 산속 어딘가에 굴이 있겠지."
 
 msgctxt "Narration/&Banter_Caerlem_03"
 msgid "What's that smell?"
@@ -322,11 +322,11 @@ msgstr "정말 아까웠어."
 
 msgctxt "Narration/&Banter_Caerlem_Beryl_01"
 msgid "I can't believe Lisbath stayed behind…"
-msgstr "리스베스가 뒤에 남았다니 믿을수 없어…"
+msgstr "리스베스가 뒤에 남았다니 믿을 수 없어…"
 
 msgctxt "Narration/&Banter_Caerlem_Beryl_02"
 msgid "We're all gonna die…"
-msgstr "우린 모두 죽을꺼야…"
+msgstr "우린 모두 죽을 거야…"
 
 msgctxt "Narration/&Banter_Caerlem_Beryl_03"
 msgid "I'll have to tell the captain's wife."
@@ -342,7 +342,7 @@ msgstr "지금 우리에게 필요한 것은 리더십이에요."
 
 msgctxt "Narration/&Banter_Caerlem_Lisbath_03"
 msgid "They won't get me without a fight."
-msgstr "절 잡으려면 싸워야만 할 겁니다."
+msgstr "싸우지도 않고 당할 수는 없지."
 
 msgctxt "Narration/&Banter_Caerlem_Robar_01"
 msgid "Up to my knees in the mud, nothing new here."
@@ -370,7 +370,7 @@ msgstr "여기서 떨어지면 어떻게 될까?"
 
 msgctxt "Narration/&Banter_ToM_04"
 msgid "Wanna try?"
-msgstr "해볼래?"
+msgstr "해 볼래?"
 
 msgctxt "Narration/&Banter_ToM_05"
 msgid "All these books floating around and I can't grab them."
@@ -394,7 +394,7 @@ msgstr "좋은 하루 되십시오, 선임 대리인님."
 
 msgctxt "Narration/&Banter_ButlerRavensworth_04"
 msgid "Clear skies… as they say!"
-msgstr "그들이 말하듯이...맑은 하늘이 함께하길!"
+msgstr "그들이 말하듯이... 맑은 하늘이 함께하길!"
 
 msgctxt "Narration/&Banter_BoneKeep_01"
 msgid "This place is so… wet."
@@ -410,15 +410,15 @@ msgstr "음, 어둡긴 해도 그나마 하수도는 벗어났어."
 
 msgctxt "Narration/&Banter_BoneKeep_04"
 msgid "Stay on your guard! We weren't invited here."
-msgstr "조심해! 우리는 불청객이라고."
+msgstr "조심해! 여기서 우리는 불청객이라고."
 
 msgctxt "Narration/&Banter_BoneKeep_05"
 msgid "What's in all those bottles?"
-msgstr "저 많은 병에 뭐가 들어있을까?"
+msgstr "저 많은 병에 뭐가 들어 있을까?"
 
 msgctxt "Narration/&Banter_BoneKeep_06"
 msgid "I wouldn't set them on fire just to find out."
-msgstr "나라면 그걸 알아보기 위해 불을 지르지는 않을거야."
+msgstr "나라면 그걸 알아보기 위해 불을 지르지는 않을 거야."
 
 msgctxt "Narration/&Banter_BoneKeep_07"
 msgid "Smells like death."
@@ -486,7 +486,7 @@ msgstr "뭔가 열렸어."
 
 msgctxt "Narration/&Banter_BoneKeep_23"
 msgid "This guy made it this far… maybe he found a hint."
-msgstr "이 사람은 여기까지 왔어...힌트를 찾았는지도 몰라."
+msgstr "이 사람은 여기까지 왔어... 힌트를 찾았는지도 몰라."
 
 msgctxt "Narration/&Banter_BoneKeep_24"
 msgid "Another victim of the maze…"
@@ -522,7 +522,7 @@ msgstr "이 발판이 뭔가를 작동시킨 것 같아!"
 
 msgctxt "Narration/&Banter_BoneKeep_32"
 msgid "I heard some kind of mechanism!"
-msgstr "어떤 장치가 작동하는걸 들었어!"
+msgstr "어떤 장치가 작동하는 걸 들었어!"
 
 msgctxt "Narration/&Banter_BoneKeep_Talbut"
 msgid "Keep away from my home, strangers!"
@@ -534,7 +534,7 @@ msgstr "망할 대퇴골은 어디로 갔지?"
 
 msgctxt "Narration/&Banter_Abjuration_01"
 msgid "She's crazy…"
-msgstr "그녀는 미친것 같아…"
+msgstr "저 여자, 미친 것 같아…"
 
 msgctxt "Narration/&Banter_Abjuration_02"
 msgid "Shouldn't we go to Coparann?"
@@ -630,11 +630,11 @@ msgstr "그러던 어느 날 균열이 열렸다."
 
 msgctxt "Narration/&LoreTrailer04"
 msgid "Some say it was a magical accident… "
-msgstr "누군가는 이게 마법 때문에 발생한 재앙이라 했고... "
+msgstr "누군가는 이것이 마법 때문에 발생한 재앙이라 했고... "
 
 msgctxt "Narration/&LoreTrailer05"
 msgid "…or the work of an evil god."
-msgstr "...누군가는 사악한 신의 소행이라고 말했다."
+msgstr "... 누군가는 사악한 신의 소행이라고 말했다."
 
 msgctxt "Narration/&LoreTrailer06"
 msgid "No one knows for sure."
@@ -650,7 +650,7 @@ msgstr "마나칼론을 파괴했고,"
 
 msgctxt "Narration/&LoreTrailer09"
 msgid "and twisted the land beyond recognition."
-msgstr "그리고 그 땅을 알아볼 수 없을 정도까지 일그러트렸다."
+msgstr "그리고 그 땅을 알아볼 수 없을 정도까지 일그러뜨렸다."
 
 msgctxt "Narration/&LoreTrailer10"
 msgid ""
@@ -1964,7 +1964,7 @@ msgstr "오는 길에 골칫거리가 좀 생겼거든."
 
 msgctxt "Narration/&Tavern_01_4_Spellcaster_Normal"
 msgid "Take the load off. There's plenty of donkey piss to go around. "
-msgstr "와서 앉아. 모두가 나눌만한 당나귀 오줌이 아주 많다구. "
+msgstr "와서 앉아. 모두가 나눌 만한 당나귀 오줌이 아주 많다고. "
 
 msgctxt "Narration/&Tavern_01_5_Spellcaster_Formal"
 msgid "Sit. Relax. Perhaps you'd enjoy a pint of this obnoxious ale?"
@@ -1972,11 +1972,11 @@ msgstr "앉아서 좀 쉬어. 이 맛없는 맥주나 한 잔 할래?"
 
 msgctxt "Narration/&Tavern_01_6_Fighter_Default"
 msgid "Here for the Council job? Join the club. "
-msgstr "의회 일 때문에 왔나? 같은 처지로군. "
+msgstr "평의회 일 때문에 왔나? 같은 처지로군. "
 
 msgctxt "Narration/&Tavern_01_7_Fighter_Authoritative"
 msgid "If you're here for the Council job, get in line."
-msgstr "의회 일 때문에 온 거라면, 순서를 기다려야 할 거야."
+msgstr "평의회 일 때문에 온 거라면, 순서를 기다려야 할 거야."
 
 msgctxt "Narration/&Tavern_01_8_Fighter_Friendly"
 msgid "You're not too late, friend. We're all here for the same reason. "
@@ -2010,7 +2010,7 @@ msgstr "모두들 애쓰고 있는 듯하군."
 
 msgctxt "Narration/&Tavern_01_13_Explorer_Slang"
 msgid "So is this the job? Getting shitfaced?"
-msgstr "이게 의회 일이야? 꽐라 되는 게?"
+msgstr "이게 평의회 일이야? 꽐라 되는 게?"
 
 msgctxt "Narration/&Tavern_01_14_Spellcaster_Normal"
 msgid ""
@@ -2021,7 +2021,7 @@ msgctxt "Narration/&Tavern_01_15_Spellcaster_Formal"
 msgid ""
 "Indeed. You mentioned something about some trouble. Would you care to "
 "elaborate?"
-msgstr "그럼. 아까 골칫거리라고 했는데, 혹시 자세히 설명해 줄 수 있어?"
+msgstr "그런 셈이지. 아까 골칫거리라고 했는데, 혹시 자세히 설명해 줄 수 있어?"
 
 msgctxt "Narration/&Tavern_01_16_Explorer_Normal"
 msgid "Well, I was making my way here… "
@@ -2049,7 +2049,7 @@ msgstr "... 수풀에서 병신 세 놈이 튀어나와서는, 나를 끌고 가
 
 msgctxt "Narration/&Tavern_01_22_Explorer_Slang"
 msgid "…and threw my ass in this rundown jail."
-msgstr "... 웬 거지같은 감옥에다가 나를 처넣었단 말이지."
+msgstr "... 웬 거지 같은 감옥에다가 나를 처넣었단 말이지."
 
 msgctxt "Narration/&Tavern_01_23_Explorer_Slang"
 msgid "Smelled like some poor bastard had died in there."
@@ -2057,7 +2057,7 @@ msgstr "무슨 시체 썩는 냄새가 났다고."
 
 msgctxt "Narration/&Tavern_01_24_Explorer_Formal"
 msgid "I was heading down the highway, minding my own business…"
-msgstr "생각에 잠겨 길을 따라 걷고 있었는데…"
+msgstr "골똘히 생각에 잠겨 길을 따라 걷고 있었는데…"
 
 msgctxt "Narration/&Tavern_01_25_Explorer_Formal"
 msgid "…when three brigands burst out of the bushes and waylaid me."
@@ -2106,7 +2106,7 @@ msgctxt "Narration/&Tavern_02_5_Explorer_Lawful"
 msgid ""
 "This Council needs to get organized. They have no right to keep us waiting "
 "like this. "
-msgstr "의회는 일을 체계적으로 해야 해. 우리를 이렇게 기다리게 해서는 안 된다고. "
+msgstr "평의회는 일을 체계적으로 해야 해. 우리를 이렇게 기다리게 해서는 안 된다고. "
 
 msgctxt "Narration/&Tavern_02_6_Spellcaster_Normal"
 msgid "Have another ale. It's not like you have anywhere better to be."
@@ -2120,13 +2120,13 @@ msgctxt "Narration/&Tavern_02_8_Spellcaster_Aristocrat"
 msgid ""
 "The Council is likely busy with important matters of state, and we are not, "
 "so have patience."
-msgstr "의회는 국가의 여러 중대사로 바쁠 테지만, 우리는 한가하잖아. 인내심을 가지라고."
+msgstr "평의회는 국가의 여러 중대사로 바쁠 테지만, 우리는 한가하잖아. 인내심을 가지라고."
 
 msgctxt "Narration/&Tavern_02_9_Spellcaster_Lowlife"
 msgid ""
 "You think the Council cares about the likes of us? They'll get to us when "
 "they're good and ready."
-msgstr "의회가 우리같은 놈들한테 신경이나 쓸 것 같아? 때가 되면 어련히 나타나겠지."
+msgstr "평의회가 우리 같은 놈들한테 신경이나 쓸 것 같아? 때가 되면 어련히 나타나겠지."
 
 msgctxt "Narration/&Tavern_02_10_Fighter_Normal"
 msgid ""
@@ -2146,7 +2146,7 @@ msgstr "그럼 뭘 꾸물거리고 있어? 한번 늘어놔 봐."
 
 msgctxt "Narration/&Tavern_02_13_Stealth_Normal"
 msgid "Let's hear it, then. Don't be shy."
-msgstr "그럼 들어 보자고. 어서 말해봐."
+msgstr "그럼 들어 보자고. 어서 말해 봐."
 
 msgctxt "Narration/&Tavern_02_14_Stealth_Formal"
 msgid "Proceed, then. Everyone enjoys a tale well told."
@@ -2175,11 +2175,11 @@ msgstr "황무지는 그 망할 놈들로 가득 차 있어. 변신하는 새끼
 
 msgctxt "Narration/&Tavern_02_20_Stealth_Normal"
 msgid "Never mind him. He's just another drunk Scavenger."
-msgstr "신경쓰지 마. 그냥 술 취한 스캐빈저일 뿐이야."
+msgstr "신경 쓰지 마. 그냥 술 취한 스캐빈저일 뿐이야."
 
 msgctxt "Narration/&Tavern_02_21_Stealth_Cynical"
 msgid "Everyone's a critic."
-msgstr "비평가들 납셨군."
+msgstr "비평가 납셨군."
 
 msgctxt "Narration/&Tavern_02_22_Stealth_Einar"
 msgid "I'm so tired of stupid drunks ranting about mythical creatures."
@@ -2250,7 +2250,7 @@ msgstr "나는 동쪽으로부터 이곳까지 여행해 왔어. 도중에 큰�
 
 msgctxt "Narration/&Tavern_02_38_Spellcaster_Formal"
 msgid "…hoping to save time by traversing the hills."
-msgstr "... 언덕을 가로질러 시간을 절약하기를 바라면서 말야."
+msgstr "... 언덕을 가로질러 시간을 절약하기를 바라면서 말이야."
 
 msgctxt "Narration/&Tavern_02_39_Spellcaster_Formal"
 msgid "The views were magnificent, but I should have kept my eye on the path."
@@ -2287,7 +2287,7 @@ msgstr "캐런 경이 우리를 더 오래 기다리게 하면, 단검으로 환
 
 msgctxt "Narration/&Tavern_03_7_Stealth_Lawful"
 msgid "We should bill the Council for all this wasted time."
-msgstr "허비한 시간에 대한 대가를 의회에 청구해야 해."
+msgstr "허비한 시간에 대한 대가를 평의회에 청구해야 해."
 
 msgctxt "Narration/&Tavern_03_8_Explorer_Default"
 msgid "We've all told a tale of our travels here. All but one of us."
@@ -2296,13 +2296,13 @@ msgstr "여기까지의 여정은 전부 들은 것 같네. 한 사람만 빼고
 msgctxt "Narration/&Tavern_03_9_Stealth_Default"
 msgid ""
 "Yes, but I have a good reason for that. It's none of your damn business."
-msgstr "그래, 하지만 그럴 만한 이유가 있다고. 제길, 당신이 상관할 바가 아니야."
+msgstr "그래, 하지만 그럴 만한 이유가 있다고. 제길, 너희가 상관할 바가 아니야."
 
 msgctxt "Narration/&Tavern_03_10_Fighter_Slang"
 msgid ""
 "Come on, now. Don't be a killjoy. We all sang for our supper. Now it's your "
 "turn!"
-msgstr "자, 자, 흥을 깨지 말라고. 이야기를 들었으면 답례를 해야지. 네차례라고!"
+msgstr "자, 자, 흥을 깨지 말라고. 이야기를 들었으면 답례를 해야지. 네 차례야!"
 
 msgctxt "Narration/&Tavern_03_11_Fighter_Formal"
 msgid "We can't take up arms together if we don't trust each other. "
@@ -2322,7 +2322,7 @@ msgstr "여기 오는 길에 오랜 친구를 보러 갔었어... "
 
 msgctxt "Narration/&Tavern_03_15_Stealth_Default"
 msgid "And discovered he was up to his eyeballs in debt with a loan shark."
-msgstr "그리고 녀석이 고리대금업자에게 몰려 빚더미에 올라앉은 사실을 알게 되었지."
+msgstr "그리고 녀석이 고리대금업자에게 몰려 빚더미에 나앉은 사실을 알게 되었지."
 
 msgctxt "Narration/&Tavern_03_16_Explorer_Normal"
 msgid "Oh, that's not good."
@@ -2364,7 +2364,7 @@ msgstr "싸우러 온 것일 수도 있죠."
 
 msgctxt "Narration/&Tavern_042_Stealth_Cynical"
 msgid "Well, we're not here to drink ourselves to death."
-msgstr "글쎄요, 죽을때까지 술이나 마시러 온 건 아닙니다."
+msgstr "글쎄요, 죽을 때까지 술이나 마시러 온 건 아닙니다."
 
 msgctxt "Narration/&Tavern_043_Stealth_Pragmatic"
 msgid "Depends on who's asking."
@@ -2386,7 +2386,7 @@ msgctxt "Narration/&Tavern_045_Carran_NPC"
 msgid ""
 "Well, if you are here for Lord Carran of the Legacy Council, that would be "
 "me."
-msgstr "음, 당신들이 유산 위원회의 캐런 경을 만나러 온거라면, 제가 캐런 입니다."
+msgstr "음, 당신들이 유산 평의회의 캐런 경을 만나러 온 것이라면, 제가 캐런 입니다."
 
 msgctxt "Narration/&Tavern_046_Fighter_Cynical_WRITTEN"
 msgid "So you're real, then?"
@@ -2424,7 +2424,7 @@ msgstr "아주 좋습니다."
 
 msgctxt "Narration/&Tavern_049_Carran_Greedy"
 msgid "Feel free. The Council's bursary enjoys a good laugh."
-msgstr "원한다면야. 의회 회계원이 박장대소하겠군요."
+msgstr "원한다면야. 평의회 회계원이 박장대소하겠군요."
 
 msgctxt "Narration/&Tavern_049_01_Authority_Formal"
 msgid "Might we ask a bit more about this quest of yours, sir, if you please?"
@@ -2488,7 +2488,7 @@ msgstr "비옥한 땅이 있는 부유한 나라이며, 황무지에 가장 쉽�
 
 msgctxt "Narration/&Tavern_049_04_Principality_Carran04"
 msgid "…through a pass called the Copperhead Road."
-msgstr "...코퍼헤드 길이라는 통로를 통해 말입니다."
+msgstr "... 코퍼헤드 길이라는 통로를 통해 말입니다."
 
 msgctxt "Narration/&Tavern_049_04_Principality_Carran05"
 msgid ""
@@ -2526,11 +2526,11 @@ msgstr "그러므로 여러분은 저랑 의회로 가서 선서를 해야 합�
 
 msgctxt "Narration/&Tavern_049_04_Council_Choice"
 msgid "We hear this is a mission for the Council, but what is it, exactly?"
-msgstr "의회를 위한 임무라고 들었는데, 정확히 어떤 일이죠?"
+msgstr "평의회를 위한 임무라고 들었는데, 정확히 어떤 일이죠?"
 
 msgctxt "Narration/&Tavern_049_04_Council_Carran01"
 msgid "Dear Maraike! You don't know?"
-msgstr "마라이케시여! 모르고 온건가요?"
+msgstr "마라이케시여! 모르고 온 겁니까?"
 
 msgctxt "Narration/&Tavern_049_04_Council_Carran02"
 msgid "I'll try to make it simple, but you know - politics…"
@@ -2648,7 +2648,7 @@ msgstr "이게 다 누구 탓인데요? "
 
 msgctxt "Narration/&Tavern_0411_Stealth_Cynical"
 msgid "Hurry up and wait. The story of my life."
-msgstr "한참 기다리게 해놓곤 늦었대. 내 인생이 그렇지."
+msgstr "한참 기다리게 해 놓곤 늦었대. 내 인생이 그렇지."
 
 msgctxt "Narration/&Tavern_0412_Stealth_Academic"
 msgid "I, for one, am very curious to see the inside of that Council room."
@@ -2761,7 +2761,7 @@ msgstr "다른 도주 수단은 분명치가 않군."
 
 msgctxt "Narration/&Introduction_SpellcastingTuto_SeeingOrcs3_slang"
 msgid "They're camped right by the only exit? It just keeps getting better!"
-msgstr "하나뿐인 출구 옆에 진을 치고 있다고? 드럽게 잘도 풀리네!"
+msgstr "하나뿐인 출구 옆에 진을 치고 있다고? 더럽게 잘 풀리네!"
 
 msgctxt "Narration/&Introduction_SpellcastingTuto_SeeingOrcs4_normal"
 msgid "I just need to be patient. They can't stay there forever."
@@ -2774,7 +2774,7 @@ msgstr "좋아, 놈들이 나갈 때까지 기다려야겠군. 저 녀석들도 
 msgctxt "Narration/&Introduction_SpellcastingTuto_SeeingOrcs4_slang"
 msgid ""
 "Guess I'm waiting them out. At least these rocks are… damned uncomfortable."
-msgstr "놈들이 나갈 때까지 기다려야 하겠군. 그런데 이 바위들... 개같이 불편하네."
+msgstr "놈들이 나갈 때까지 기다려야겠군. 그런데 이 바위들... 개같이 불편하네."
 
 msgctxt "Narration/&Council_00_1_Wow_Default"
 msgid "Look at this size of this Council hall!"
@@ -2782,7 +2782,7 @@ msgstr "회의실 크기 좀 봐!"
 
 msgctxt "Narration/&Council_00_2_Wow_Default"
 msgid "A very impressive edifice indeed."
-msgstr "정말 인상적인 건축물이군그래."
+msgstr "정말 인상적인 건축물이야."
 
 msgctxt "Narration/&Council_00_3_joker_Default"
 msgid "So this is what they spend our taxes on."
@@ -2798,7 +2798,7 @@ msgstr "공주님이네!"
 
 msgctxt "Narration/&Council_00_6_Any_Default"
 msgid "Wait… is she leaving?"
-msgstr "뭐야... 지금 떠나시는거야?"
+msgstr "뭐야... 지금 떠나시는 거야?"
 
 msgctxt "Narration/&Council_00_7_joker_Default"
 msgid "Apparently so… "
@@ -2824,7 +2824,7 @@ msgctxt "Narration/&Council_00_9_joker_Default"
 msgid ""
 "The maid who empties her chamber pot? No, we're not as important as that. "
 "Perhaps her stable boy."
-msgstr "공주님 화장실 청소하는 하녀가? 아니, 우린 그정도로 중요하지 않아. 마구간 소년정도겠네."
+msgstr "공주님 화장실 청소하는 하녀가? 아니, 우린 그 정도로 중요하지 않아. 마구간 소년 정도겠네."
 
 msgctxt "Narration/&Council_00_9_joker_Slang"
 msgid "A lady like her wants nothing to do with drudges like us."
@@ -2840,7 +2840,7 @@ msgstr "공주님 소관인 줄 아셨나요? "
 
 msgctxt "Narration/&Council_00_11_Any_Default_WRITTEN"
 msgid "She doesn't rule the Council?"
-msgstr "그녀가 의회를 이끌지 않나요?"
+msgstr "그녀가 평의회를 이끌지 않나요?"
 
 msgctxt "Narration/&Council_00_11_Any_Default_Who_WRITTEN"
 msgid "If not her, then who?"
@@ -2848,7 +2848,7 @@ msgstr "그분이 아니라면, 누구죠?"
 
 msgctxt "Narration/&Council_00_11_Any_Default"
 msgid "Doesn't she lead the Council?"
-msgstr "공주님이 의회를 다스리는 거 아닌가요?"
+msgstr "공주님이 평의회를 다스리는 것 아닌가요?"
 
 msgctxt "Narration/&Council_00_12_Carran_NPC"
 msgid "No, in this chamber, she's just another delegate."
@@ -2872,7 +2872,7 @@ msgstr "네, 킨 경!"
 
 msgctxt "Narration/&Council_00_17_Chamberlain_NPC"
 msgid "Are these your new deputies?"
-msgstr "이 자들이 당신의 새로운 대리인인가요?"
+msgstr "이 자들이 당신이 데려온 새로운 대리인인가요?"
 
 msgctxt "Narration/&Council_00_18_Carran_NPC"
 msgid "They are, m'lady."
@@ -2884,7 +2884,7 @@ msgstr "좋아. 모두들 집중."
 
 msgctxt "Narration/&Council_00_20_Serious_Slang"
 msgid "Pipe down. "
-msgstr "말 많네. "
+msgstr "입 다물어. "
 
 msgctxt "Narration/&Council_00_20_Serious_Normal"
 msgid "Shhh, quiet everyone!"
@@ -2923,7 +2923,7 @@ msgctxt "Narration/&Council_00_27_Chamberlain_NPC"
 msgid ""
 "…to carry out our mission to protect our alliance from those who would "
 "threaten the common good?"
-msgstr "...공동의 이익을 위협하는 자들로부터 동맹을 보호하기 위해 임무를 수행 할 것입니까?"
+msgstr "...공동의 이익을 위협하는 자들로부터 동맹을 보호하기 위해 임무를 수행할 것입니까?"
 
 msgctxt "Narration/&Council_00_28_All_Default_WRITTEN"
 msgid "I swear."
@@ -2937,11 +2937,11 @@ msgctxt "Narration/&Council_00_29_Chamberlain_NPC"
 msgid ""
 "Excellent. Lord Carran will enter your name into Council's register. Thank "
 "you for your service."
-msgstr "훌륭합니다. 캐런 경이 의회의 등록부에 당신들의 이름을 기록할 것입니다. 당신의 봉사에 감사드립니다."
+msgstr "훌륭합니다. 캐런 경이 평의회의 등록부에 당신들의 이름을 기록할 것입니다. 당신의 봉사에 감사드립니다."
 
 msgctxt "Narration/&Council_00_30_Carran_NPC"
 msgid "Congratulations, deputies."
-msgstr "대리인이 되셨습니다. 축하드립니다."
+msgstr "대리인이 되셨습니다. 축하합니다."
 
 msgctxt "Narration/&Council_00_31_Any_Default"
 msgid "Wait, that's it?"
@@ -3001,7 +3001,7 @@ msgstr "정말 의욕이 넘치는 대리인이군요."
 
 msgctxt "Narration/&Council_00_42_Carran_NPC"
 msgid "So - the mission:"
-msgstr "그러니까, 임무 말이지요:"
+msgstr "그러니까, 임무 말이지요."
 
 msgctxt "Narration/&Council_00_44_Carran_NPC"
 msgid "As I'm sure you know, the Council maintains a number of outposts… "
@@ -3118,7 +3118,7 @@ msgstr "그는 신뢰, 충성, 용기를 북돋우는 이입니다. 그리하여
 
 msgctxt "Narration/&Council_00_54_Any_Default"
 msgid "Right, I guess that's that. It's on to Caer Lem."
-msgstr "좋아요. 그정도면 된 것 같습니다. 케어 렘으로 향할 때입니다."
+msgstr "좋아요. 그 정도면 된 것 같습니다. 케어 렘으로 향할 때입니다."
 
 msgctxt "Narration/&PotionsShop_Dialog_01_1_PotionShopOwner_NPC"
 msgid "Hello! How may I help you?"
@@ -3142,7 +3142,7 @@ msgstr "대부분 물약이죠. 여러분 같은 영웅적인 모험가를 위�
 
 msgctxt "Narration/&PotionsShop_Dialog_01_6_PotionShopOwner_NPC"
 msgid "I also have recipes for customers who like to craft their own."
-msgstr "자신의 물건을 만들고 싶어하는 고객들을 위한 레시피도 가지고 있어요."
+msgstr "스스로 물건을 만들고 싶어하는 고객들을 위한 레시피도 가지고 있어요."
 
 msgctxt "Narration/&PotionsShop_Dialog_01_7_PotionShopOwner_NPC"
 msgid "And ingredients too - even rare flowers from the Badlands."
@@ -3150,7 +3150,7 @@ msgstr "그리고 황무지에서 온 희귀한 꽃 같은 재료들도 있답�
 
 msgctxt "Narration/&PotionsShop_Dialog_01_8_PotionShopOwner_NPC"
 msgid "Come back any time - I'm almost always open!"
-msgstr "언제든지 다시 오십시오 - 저는 거의 항상 열려 있습니다!"
+msgstr "언제든 다시 찾아 주세요. 거의 항상 영업 중이니까요!"
 
 msgctxt "Narration/&GeneralStore_Dialog_01_1_StoreOwner_NPC"
 msgid "Welcome to Gorim's Emporium!"
@@ -3174,7 +3174,7 @@ msgstr "당신이 고림인가요?"
 
 msgctxt "Narration/&GeneralStore_Dialog_01_6_StoreOwner_NPC"
 msgid "That's me! The one and only."
-msgstr "네! 바로 저에요. 세상에 하나 뿐이죠."
+msgstr "네! 바로 저에요. 세상에 하나뿐이죠."
 
 msgctxt "Narration/&GeneralStore_Dialog_01_7_Any_Default"
 msgid "What do you have to sell?"
@@ -3186,7 +3186,7 @@ msgstr "황무지로 향하는 이들에게 필요한 모든 물품을 팔고 �
 
 msgctxt "Narration/&GeneralStore_Dialog_01_9_StoreOwner_NPC"
 msgid "…food, ropes, torches - and of course, armor and weapons."
-msgstr "...음식이나, 밧줄, 횃불, 물론 갑옷과 무기도 있고요."
+msgstr "... 음식이나, 밧줄, 횃불, 물론 갑옷과 무기도 있고요."
 
 msgctxt "Narration/&GeneralStore_Dialog_01_10_StoreOwner_NPC"
 msgid "I also have some other stock, like remedies and antitoxins. "
@@ -3194,7 +3194,7 @@ msgstr "그리고 또 치료제나 해독제 같은 다른 물건들도 있답�
 
 msgctxt "Narration/&GeneralStore_Dialog_01_11_StoreOwner_NPC"
 msgid "They might come in handy. Ever heard of deep spiders?"
-msgstr "그게 도움이 될 겁니다. 지하 거미에 대해 들어본적 있으신가요?"
+msgstr "그게 도움이 될 겁니다. 지하 거미에 대해 들어 본 적 있으신가요?"
 
 msgctxt "Narration/&Bartender_Dialog_01_1_Bartender_NPC"
 msgid "Hello, adventurers!"
@@ -3210,7 +3210,7 @@ msgstr "이곳에 대해 알려 주십시오."
 
 msgctxt "Narration/&Bartender_Dialog_01_4_Any_WRITTEN"
 msgid "Your beer tastes bad."
-msgstr "여기 맥주 맛이 별로에요."
+msgstr "여기 맥주 맛이 별로예요."
 
 msgctxt "Narration/&Bartender_Dialog_01_5_Any_WRITTEN"
 msgid "We need a room."
@@ -3222,17 +3222,17 @@ msgstr "잘 있어요."
 
 msgctxt "Narration/&Bartender_Dialog_01_5_1_Any"
 msgid "We should go."
-msgstr "가볼게요."
+msgstr "가 볼게요."
 
 msgctxt "Narration/&Bartender_Dialog_01_6_Any_Default"
 msgid "Tell us about your tavern."
-msgstr "이 술집에 관해 설명해주세요."
+msgstr "이 술집에 관해 설명해 주세요."
 
 msgctxt "Narration/&Bartender_Dialog_01_7_Bartender_NPC"
 msgid ""
 "The inn? Well, it's not that old, but somehow it feels like it's been here "
 "forever."
-msgstr "여관이요? 흠, 그렇게 오래되진 않았지만, 아주 유서깊고 전통있는 곳처럼 느껴지죠."
+msgstr "여관이요? 흠, 그렇게 오래되진 않았지만, 아주 유서 깊고 전통 있는 곳처럼 느껴지죠."
 
 msgctxt "Narration/&Bartender_Dialog_01_8_Bartender_NPC"
 msgid "You can meet all kinds of people here, that's the good thing."
@@ -3241,7 +3241,7 @@ msgstr "온갖 인간 군상을 만날 수 있습니다. 좋은 점이죠."
 msgctxt "Narration/&Bartender_Dialog_01_9_Bartender_NPC"
 msgid ""
 "An old Scavenger, a diplomat from the Council, a knight, a lord, a beggar…"
-msgstr "늙은 스캐빈저, 의회의 외교관, 기사, 영주, 거지…"
+msgstr "늙은 스캐빈저, 평의회 외교관, 기사, 영주, 거지…"
 
 msgctxt "Narration/&Bartender_Dialog_01_10_Bartender_NPC"
 msgid "We also have rooms to rent by the night."
@@ -3255,7 +3255,7 @@ msgctxt "Narration/&Bartender_Dialog_01_10_2_Bartender_NPC"
 msgid ""
 "It's very old, from Imperial times. Perhaps a historian would know, but I "
 "don't."
-msgstr "제국 시절부터 내려온 오래된 이름이에요. 역사학자라면 알텐데 저는 잘 모릅니다."
+msgstr "제국 시절부터 내려온 오래된 이름이에요. 역사학자라면 알 텐데 저는 잘 모릅니다."
 
 msgctxt "Narration/&Bartender_Dialog_01_11_Any_Default"
 msgid "Your beer is terrible, and that's being polite about it."
@@ -3263,11 +3263,11 @@ msgstr "솔직히 말해서, 당신네 맥주 맛은 최악이야."
 
 msgctxt "Narration/&Bartender_Dialog_01_12_Bartender_NPC"
 msgid "What? I've never had any complaints about the beer before!"
-msgstr "뭐요? 맥주 맛이 별로라는 불만은 생전 처음 들어봅니다만!"
+msgstr "뭐요? 맥주 맛이 별로라는 불만은 생전 처음 들어 봅니다만!"
 
 msgctxt "Narration/&Bartender_Dialog_01_13_Bartender_NPC"
 msgid "Maybe your palate is not refined enough."
-msgstr "당신의 미각이 덜 떨어진 거겠죠."
+msgstr "당신의 미각이 덜떨어진 거겠죠."
 
 msgctxt "Narration/&Bartender_Dialog_01_14_Any_Default"
 msgid "We'd like to stay for the night."
@@ -3309,7 +3309,7 @@ msgstr "벌써 유명해진 건가? 멋진데!"
 
 msgctxt "Narration/&Scavengers_Dialog_01_3_Any_Default"
 msgid "You were in there, too. Are you a member of the Council?"
-msgstr "당신도 그곳에 계셨군요. 의회의 일원이십니까?"
+msgstr "당신도 그곳에 계셨군요. 평의회의 일원이십니까?"
 
 msgctxt "Narration/&Scavengers_Dialog_01_4_Quartermaster_NPC"
 msgid "I'm Annie Bagmordah, Quartermaster of the Scavenger's guild."
@@ -17021,13 +17021,13 @@ msgstr "어쩌려고, 죽이기라도 할꺼야? 그냥 좀 내버려 둬."
 
 msgctxt "Narration/&NecromancyQuest02_17_Starter_Default"
 msgid "What can you tell us about the castle? Who lives there?"
-msgstr "저 성에 대해 말해줄 수 있소? 저기 누가 살고 있지?"
+msgstr "저 성에 대해 말해줄 수 있나요? 저기 누가 살고 있지?"
 
 msgctxt "Narration/&NecromancyQuest02_18_Angbi_NPC"
 msgid ""
 "Two women. A high elf, but living, and quite old. She is a necromancer of "
 "some sort."
-msgstr "여자 둘이오. 하나는 하이 엘프고, 살아 있고, 꽤 늙었지. 사령술사 계통일 거요."
+msgstr "여자 둘이오. 하나는 하이 엘프고, 살아 있고, 꽤 늙었지. 아마 사령술사 같은 걸 겁니다."
 
 msgctxt "Narration/&NecromancyQuest02_19_Starter_Default"
 msgid "And the other?"
@@ -17043,7 +17043,7 @@ msgstr "...그리고 그녀는 구울 무리를 데리고 있소. 끔찍한 짐�
 
 msgctxt "Narration/&NecromancyQuest02_22_Starter_Default"
 msgid "Is there anyone else?"
-msgstr "다른 건 없소?"
+msgstr "다른 사람은 없나요?"
 
 msgctxt "Narration/&NecromancyQuest02_23_Angbi_NPC"
 msgid "There's a garrison - skeletons, mostly. I avoided them, too."
@@ -17055,7 +17055,7 @@ msgstr "사실, 당신들에게 좀 더 큰 부탁을 할 수 있으면 하오."
 
 msgctxt "Narration/&NecromancySubQuest101_02_Starter_Default"
 msgid "How can we help you?"
-msgstr "어떻게 도와주면 되겠소?"
+msgstr "어떻게 도와주면 될까요?"
 
 msgctxt "Narration/&NecromancySubQuest101_03_NPC_Angbi"
 msgid "I was killed in this cemetery. My bones are here somewhere."
@@ -17063,7 +17063,7 @@ msgstr "난 이 공동묘지에서 죽었소. 내 뼈가 여기 어딘가에 있
 
 msgctxt "Narration/&NecromancySubQuest101_04_Partner_Default"
 msgid "And you'd like us to take them home for burial, so you can find peace."
-msgstr "그리고 우리가 그걸 가져와서 장례를 치르면 당신은 안식을 찾을 수 있겠군요."
+msgstr "그리고 우리가 그걸 모아 장례를 치르도록 집으로 가져다주길 원하는 군요. 당신이 안식을 찾을 수 있도록."
 
 msgctxt "Narration/&NecromancySubQuest101_05_NPC_Angbi"
 msgid "Well, yes - but they got a little scattered. The wolves, you see."
@@ -17071,11 +17071,11 @@ msgstr "좋아, 맞아 - 하지만 그게 좀 흩어져 있지. 늑대들, 당�
 
 msgctxt "Narration/&NecromancySubQuest101_06_Joker_Normal"
 msgid "Now, that's just rude. "
-msgstr "버릇없는 짓이네. "
+msgstr "아우... 버릇없는 놈들. "
 
 msgctxt "Narration/&NecromancySubQuest101_07_NPC_Angbi"
 msgid "As far as I can… feel, they are in three separate places."
-msgstr "내가 느낄 수 있는 건... 그것들은 세 곳에 나눠져 있소."
+msgstr "내가 느끼...는 바로, 내 뼈들은 세 곳에 나눠져 있소."
 
 msgctxt "Narration/&NecromancySubQuest101_08_Joker_Normal"
 msgid "Well, that's just you all over!"
@@ -17083,22 +17083,22 @@ msgstr "뭐, 그럼 사방이 당신이네요!"
 
 msgctxt "Narration/&NecromancySubQuest101_09_Helpful_Normal"
 msgid "You can rely on us."
-msgstr "저희를 믿어도 됩니다."
+msgstr "저희를 믿으세요."
 
 msgctxt "Narration/&NecromancySubQuest101_10_NPC_Angbi"
 msgid ""
 "It's not just about burial, although of course I'd be grateful for that, too."
-msgstr "이건 그냥 장례를 치르는 게 아닙니다. 물론 당신들에게는 감사하겠지만요."
+msgstr "이건 단순히 장례에 대한 게 아닙니다. 물론 당신들에게는 감사하겠지만요."
 
 msgctxt "Narration/&NecromancySubQuest101_11_NPC_Angbi"
 msgid "Since I was killed, I've carried on studying this necropolis…"
-msgstr "죽은 후로 나는 이 죽은 자들의 성을 계속 연구해왔소…"
+msgstr "죽은 뒤부터 나는 이 죽은 자들의 성을 계속 연구해왔소…"
 
 msgctxt "Narration/&NecromancySubQuest101_12_NPC_Angbi"
 msgid ""
 "…but I can't touch material things, including pens - so I haven't been able "
 "to update my journal."
-msgstr "하지만 나는 펜 같은 물질을 만질 수 없었고... 그래서 내 일지에 내용을 추가할 수 없었지."
+msgstr "하지만 나는 펜 같은 물리적인 것들을 만질 수 없었고... 그래서 내 일지에 내용을 추가할 수 없었지."
 
 msgctxt "Narration/&NecromancySubQuest101_13_Joker_Normal"
 msgid "Now, that's what I call work ethic."
@@ -17123,11 +17123,11 @@ msgstr "...내가 발견한 지식은 사라지지 않을 거요."
 
 msgctxt "Narration/&NecromancySubQuest101_18_Helpful_Formal"
 msgid "We will do as you ask, Angbi Kramsson of the Antiquarians!"
-msgstr "바라는 대로 해 드리죠, 고고학자 앵그비 크람슨!"
+msgstr "바라는 대로 해 드리죠, 안티쿼리안 길드의 앵그비 크람슨!"
 
 msgctxt "Narration/&NecromancySubQuest102_01_Starter_Default"
 msgid "Delegate Summer! May we speak with you?"
-msgstr "서머 의원! 얘기 좀 할 수 있을까요?"
+msgstr "서머 의원님! 얘기 좀 할 수 있을까요?"
 
 msgctxt "Narration/&NecromancySubQuest102_02_NPC_Halman"
 msgid "Yes - what is it?"
@@ -17152,16 +17152,16 @@ msgstr "그래. 아니 그랬지. 어쨌든, 나다."
 msgctxt "Narration/&NecromancySubQuest102_07_NPC_Angbi"
 msgid ""
 "These kind deputies brought my bones back, and my spirit came with them."
-msgstr "이 친절한 대리인이 내 뼈를 되찾아주었고, 내 영혼도 함께한다."
+msgstr "이 친절한 대리인이 내 뼈를 귀환시켜주었고, 내 영혼도 함께 돌아왔지."
 
 msgctxt "Narration/&NecromancySubQuest102_08_NPC_Halman"
 msgid ""
 "Thank you, deputies. I am in your debt, and so is the Guild of Antiquarians. "
-msgstr "감사합니다, 대리인. 저와 고고학자 길드는 빚을 졌군요. "
+msgstr "감사합니다, 대리인. 저와 안티쿼리안 길드는 빚을 졌군요. "
 
 msgctxt "Narration/&NecromancySubQuest102_09_NPC_Halman"
 msgid "On behalf of the Guild, let me offer you something for your trouble."
-msgstr "길드를 대표하여, 당신의 노고에 무언가 드리고자 합니다."
+msgstr "길드를 대표하여, 당신의 노고에 감사의 표시를 드리고자 합니다."
 
 msgctxt "Narration/&NecromancySubQuest102_10_NPC_Halman"
 msgid "I will make sure you go home to your family for burial, Angbi."
@@ -17198,11 +17198,11 @@ msgstr "음... 그게... 총장님께 모셔드리죠. 알고 싶어 하실 테�
 
 msgctxt "Narration/&NecromancySubQuest102_17_NPC_Angbi"
 msgid "Capital! We're distant cousins, you know."
-msgstr "수도라! 알다시피, 우리랑은 먼 얘기지."
+msgstr "훌륭해! 우리는 먼 친척이지, 알다시피."
 
 msgctxt "Narration/&NecromancySubQuest102_18_NPC_Halman"
 msgid "No, I didn't."
-msgstr "아뇨, 안 그래요."
+msgstr "네? 몰랐는데요."
 
 msgctxt "Narration/&NecromancyQuest03_01_Caerellian_NPC"
 msgid "You there! Stop! Don't move!"
@@ -17214,15 +17214,15 @@ msgstr "너희는 누구지?"
 
 msgctxt "Narration/&NecromancyQuest03_03_LEAVE_CHOICE"
 msgid "We should leave."
-msgstr "떠나야 해."
+msgstr "떠나자."
 
 msgctxt "Narration/&NecromancyQuest03_04_KILL_CHOICE"
 msgid "We should attack."
-msgstr "공격해야 해."
+msgstr "공격하자."
 
 msgctxt "Narration/&NecromancyQuest03_05_PERSUADE_CHOICE"
 msgid "We should negotiate."
-msgstr "협상해야 해."
+msgstr "협상해보자."
 
 msgctxt "Narration/&NecromancyQuest03_06_DECEIVE_CHOICE"
 msgid "We should trick him."
@@ -17240,7 +17240,7 @@ msgstr "스켈레톤 몇 마리뿐이잖아. 잡아버리자고!"
 
 msgctxt "Narration/&NecromancyQuest03_09_Deceive_Default"
 msgid "Look, I can tell you're a very important and, ah…"
-msgstr "저기요, 그러니까 당신이 매우 중요한 사람인 건 알겠습니다, 그게…"
+msgstr "저기요, 그러니까 당신이 매우 중요한 사람이고, 그…"
 
 msgctxt "Narration/&NecromancyQuest03_10_Persuade_Default"
 msgid "Will you at least hear us before we go?"
@@ -17248,7 +17248,7 @@ msgstr "나가기 전에 이야기라도 좀 들어주실 수 있을까요?"
 
 msgctxt "Narration/&NecromancyQuest03_11_Deceiver_Normal"
 msgid "…long-serving officer, so I won't waste your time…"
-msgstr "...장교로 오래 복무 해오셨으니, 시간 낭비는 하지 않겠습니다…"
+msgstr "... 오래 복무하신 장교인 걸 알겠으니, 시간 낭비는 하지 않겠습니다…"
 
 msgctxt "Narration/&NecromancyQuest03_12_Deceiver_Normal"
 msgid "…the fact is, I'm with the Imperial intelligence service. "
@@ -17300,7 +17300,7 @@ msgctxt "Narration/&NecromancyQuest03_21_Caerellian_NPC"
 msgid ""
 "I'll tell you what I told him: your Council has no authority here, and the "
 "master does not receive visitors!"
-msgstr "내가 그에게 했던 말을 해주지. 너희 평의회는 여기 권한이 없고, 주인님은 방문객을 받지 않아!"
+msgstr "내가 그에게 했던 말을 해주지. 너희 평의회는 여기에서 아무 권한도 없고, 주인님은 방문객을 받지 않아!"
 
 msgctxt "Narration/&NecromancyQuest03_22_Caerellian_NPC"
 msgid "I don't know how you got in, but either you leave peacefully, or…"
@@ -17358,7 +17358,7 @@ msgstr "나는 이곳을 잘 알아. 너희는 아니고. 거래를 하자고."
 
 msgctxt "Narration/&NecromancyQuest04_10_Intimidator_Normal"
 msgid "All right - talk."
-msgstr "좋아- 대화군."
+msgstr "좋아- 얘기해 봐."
 
 msgctxt "Narration/&NecromancyQuest04_11_Lizzaria_NPC_Intimidation_25_Failure"
 msgid "Who do you think you're dealing with? "
@@ -17384,7 +17384,7 @@ msgctxt "Narration/&NecromancyQuest04_20_Persuader_Normal"
 msgid ""
 "All we need is to talk to him, and then we'll be on our way and you'll never "
 "see us again."
-msgstr "우린 그저 대화를 원할 뿐, 그리고 나면 갈 길 갈 거고 우릴 다신 보지 못할 거다."
+msgstr "그저 대화를 원할 뿐, 그리고 나서 우리는 갈 길 갈 거고, 다시 볼 일 없을 거다."
 
 msgctxt "Narration/&NecromancyQuest04_21_Lizzaria_NPC_Persuasion_25_Success"
 msgid "I can't get you in to see the master, but I can help."
@@ -17461,7 +17461,7 @@ msgstr "누군가 주인님을 설득할 수 있다면, 그녀뿐이지."
 
 msgctxt "Narration/&NecromancyQuest04_35_Lizzaria_NPC"
 msgid "If you want to talk to Mardracht, you'll have to get past Aksha. "
-msgstr "마드라츠와 이야기하고 싶다면, 아크샤가 있는 곳을 지나가야 해. "
+msgstr "마르드라흐트와 이야기하고 싶다면, 아크샤가 있는 곳을 지나가야 해. "
 
 msgctxt "Narration/&NecromancyQuest04_36_Starter_Normal"
 msgid "Who's Aksha?"
@@ -17475,7 +17475,7 @@ msgctxt "Narration/&NecromancyQuest04_38_Lizzaria_NPC"
 msgid ""
 "She turned up a few years ago, seemed interested in the work, offered to "
 "help out…"
-msgstr "몇 년 전에 나타났는데, 작업에 관심이 있어 보였고, 도와주겠다고 제안했지…"
+msgstr "몇 년 전에 나타났는데, 우리 일에 관심이 있어 보였고, 도와주겠다고 제안했지…"
 
 msgctxt "Narration/&NecromancyQuest04_39_Lizzaria_NPC"
 msgid ""
@@ -17485,7 +17485,7 @@ msgstr "...그리고 갑자기 윗층에 자리를 잡았고, 그녀를 통하�
 
 msgctxt "Narration/&NecromancyQuest04_40_Lizzaria_NPC"
 msgid "I haven't seen Mardracht face to face since she got here. "
-msgstr "그녀가 여기 온 뒤로 마드라츠를 직접 본 적이 없어. "
+msgstr "그녀가 여기 온 뒤로 마르드라흐트를 직접 본 적이 없어. "
 
 msgctxt "Narration/&NecromancyQuest04_41_Lizzaria_NPC"
 msgid "She says she takes messages to him, and she brings messages back…"
@@ -17493,11 +17493,11 @@ msgstr "그녀가 스승님께 메세지를 보내고, 대답을 가져오고…
 
 msgctxt "Narration/&NecromancyQuest04_41_Lizzaria_NPC2"
 msgid "…but they don't sound like him."
-msgstr "...하지만 스승님이 하는 말 같진 않아."
+msgstr "...한다고 말했지만, 메시지들은 스승님이 하는 말 같진 않아."
 
 msgctxt "Narration/&NecromancyQuest04_42_Lizzaria_NPC"
 msgid "I know - knew him."
-msgstr "난 그를 - 스승님을 알아."
+msgstr "난 그를 알아 - 알았지."
 
 msgctxt "Narration/&NecromancyQuest04_42_Lizzaria_NPC2"
 msgid "He was my mentor, my teacher."
@@ -17505,11 +17505,11 @@ msgstr "내 스승이고, 멘토라고."
 
 msgctxt "Narration/&NecromancyQuest04_42_Lizzaria_NPC3"
 msgid "She's holding him prisoner, I'm certain."
-msgstr "그년이 스승님을 붙잡아놓고 있는 게 분명해."
+msgstr "그년이 스승님을 속박하고 있는 게 분명해."
 
 msgctxt "Narration/&NecromancyQuest04_43_Starter_Normal"
 msgid "So we'll have to go through her? "
-msgstr "그럼 우리가 그녀를 살펴봐야 하나? "
+msgstr "그럼 우리가 그녀를 돌파해야 하나? "
 
 msgctxt "Narration/&NecromancyQuest04_44_Lizzaria_NPC"
 msgid "If you can. She's got a pack of ghouls…"
@@ -17533,7 +17533,7 @@ msgstr "경고해 줘서 고마워."
 
 msgctxt "Narration/&NecromancyQuest04_46_Starter_Normal2"
 msgid "Now, suppose we do manage to reach Master Mardracht…"
-msgstr "그럼, 우리가 마스터 마드라츠에게 갔다고 가정해 보자고…"
+msgstr "그럼, 우리가 마스터 마르드라흐트에게 갔다고 가정해 보자고…"
 
 msgctxt "Narration/&NecromancyQuest04_47_Starter_Normal"
 msgid "…what's the best way to approach him? "
@@ -17545,7 +17545,7 @@ msgstr "딱 잘라 말하긴 어려워."
 
 msgctxt "Narration/&NecromancyQuest04_48_Lizzaria_NPC2"
 msgid "The Cataclysm hit him hard…"
-msgstr "대격번이 그를 강타했고…"
+msgstr "대격변이 그를 강타했고…"
 
 msgctxt "Narration/&NecromancyQuest04_48_Lizzaria_NPC3"
 msgid "…and then Aksha - who knows what she's done to him? "
@@ -17554,19 +17554,19 @@ msgstr "...그리고 아크샤 - 그년이 스승님께 무슨 짓을 했는지 
 msgctxt "Narration/&NecromancyQuest04_49_Lizzaria_NPC"
 msgid ""
 "The stairs will take you to her apartments. Good luck getting past her. "
-msgstr "계단을 통해 방으로 갈 수 있을 꺼야. 그녀를 상대할 때 행운을 빌지. "
+msgstr "계단을 통해 그녀 방으로 갈 수 있을 꺼야. 그녀를 상대할 때 행운이 있기를 빌지. "
 
 msgctxt "Narration/&NecromancyQuest05_01_Aksha_NPC"
 msgid "Well. Lizzaria's taste in minions seems to be improving."
-msgstr "좋아. 리자리아의 부하 취향이 좀 더 나아진 것 같네."
+msgstr "좋아. 리자리아의 부하 취향이 좀 더 나아지고 있는 것 같네."
 
 msgctxt "Narration/&NecromancyQuest05_02_Starter"
 msgid "We're no one's minions, lady."
-msgstr "우리는 누구의 부하도 아니오. 아가씨."
+msgstr "우리는 누구의 부하도 아닙니다, 아가씨."
 
 msgctxt "Narration/&NecromancyQuest05_03_Aksha_NPC"
 msgid "You defeated her, then? I'm almost impressed."
-msgstr "그럼 물리쳤다고? 잘하면 감명받을지도 모르겠어."
+msgstr "그럼 걔를 이겼다고? 나 깊은 인상을 받을 것 같네."
 
 msgctxt "Narration/&NecromancyQuest05_04_INTIMIDATE_CHOICE"
 msgid "Step away!"
@@ -17578,45 +17578,45 @@ msgstr "널 박살 내주마!"
 
 msgctxt "Narration/&NecromancyQuest05_06_PERSUADE_CHOICE"
 msgid "We just want to talk to Mardracht."
-msgstr "우리는 단지 마드라츠와 이야기 하고 싶을 뿐이오."
+msgstr "우리는 단지 마르드라흐트와 이야기하고 싶을 뿐입니다."
 
 msgctxt "Narration/&NecromancyQuest05_07_DECEIVE_CHOICE"
 msgid "We can offer you blood."
-msgstr "당신에게 피를 제공할 수 있소."
+msgstr "당신에게 피를 제공할 수 있습니다."
 
 msgctxt "Narration/&NecromancyQuest05_08_Intimidate_Defult"
 msgid "We need to speak to your master."
-msgstr "우리는 당신 주인을 만나야 하오."
+msgstr "우리는 당신 주인을 만나야 해."
 
 msgctxt "Narration/&NecromancyQuest05_08_Intimidate2_Defult"
 msgid "You can get out of our way or try to stop us."
-msgstr "비켜주든지, 우리를 막아서든지 고르시오."
+msgstr "비키든지, 우리를 막아보든지."
 
 msgctxt "Narration/&NecromancyQuest05_09_Deceive_Default"
 msgid "Let's trade. If you help us, we can help you."
-msgstr "거래합시다. 우릴 도와준다면, 당신을 돕겠소."
+msgstr "거래합시다. 우릴 도와준다면, 우리도 당신을 돕겠습니다."
 
 msgctxt "Narration/&NecromancyQuest05_10_Persuade_Default"
 msgid "We ask a simple boon:"
-msgstr "우리는 간단한 것을 바랄뿐이오:"
+msgstr "작은 부탁 하나가 있습니다:"
 
 msgctxt "Narration/&NecromancyQuest05_10_Persuade_Default2"
 msgid "An audience with Master Mardracht, and safe passage out of the castle."
-msgstr "마스터 마드라츠를 알현하는 것과, 성밖으로 나가는 안전한 통로를 바라오."
+msgstr "마스터 마르드라흐트를 알현하는 것과, 성 밖으로 나가는 안전한 통로면 됩니다."
 
 msgctxt "Narration/&NecromancyQuest05_11_Kill_Default"
 msgid "We'll leave an impression on you, too - a deep and bloody one!"
-msgstr "너에게도 피비린내 나는 깊은 상처를 남겨주지!"
+msgstr "너에게도 깊은 인상을 남겨줄게 - 아주 깊고 피비린내 나는 걸로 말이지!"
 
 msgctxt "Narration/&NecromancyQuest05_12_Aksha_NPC_Intimidation_25_Success"
 msgid ""
 "I'm in a generous mood today. Go ahead - but don't expect to get any sense "
 "out of the old coward."
-msgstr "오늘의 나는 관대해. 계속해 봐 - 하지만 늙은 겁쟁이에게 제대로 된 답을 기대하진 말고."
+msgstr "오늘의 나는 관대해. 가 봐 - 하지만 늙은 겁쟁이에게 제대로 된 답을 기대하진 말고."
 
 msgctxt "Narration/&NecromancyQuest05_13_Default_Default"
 msgid "What does that mean - getting sense out of him?"
-msgstr "제대로 된 답을 기대하지 말라니 - 그게 무슨 뜻이오?"
+msgstr "제대로 된 답을 기대하지 말라니 - 그게 무슨 뜻입니까?"
 
 msgctxt "Narration/&NecromancyQuest05_14_Aksha_NPC_Intimidation_25_Failure"
 msgid "Kill them! Kill them all!"
@@ -17628,7 +17628,7 @@ msgstr "거래라니? 내가 원할만한 걸 너희가 가지고 있다고?"
 
 msgctxt "Narration/&NecromancyQuest05_16_Deceiver_Normal"
 msgid "(low voice) How about blood?"
-msgstr "(낮은 목소리로) 피는 어떻소?"
+msgstr "(낮은 목소리로) 피는 어떤가요?"
 
 msgctxt "Narration/&NecromancyQuest05_16_Deceiver_Normal2"
 msgid "Not mine, of course…"
@@ -17636,7 +17636,7 @@ msgstr "물론, 내 피는 아니지만…"
 
 msgctxt "Narration/&NecromancyQuest05_16_Deceiver_Normal3"
 msgid "…but get me in to see Mardracht and the others are all yours."
-msgstr "...나를 마드라츠와 만날 수 있게 들여보내주고, 나머지 사람들은 모두 마음대로 하시오."
+msgstr "...나를 마르드라흐트와 만날 수 있게 들여보내주고, 나머지 사람들은 모두 마음대로 하세요."
 
 msgctxt "Narration/&NecromancyQuest05_17_Aksha_NPC"
 msgid "You'd sell the lives of your companions to see one crazy old wizard?"
@@ -17644,7 +17644,7 @@ msgstr "미친 늙은 마법사 하나를 만나기 위해 네 동료들의 목�
 
 msgctxt "Narration/&NecromancyQuest05_18_Deceiver_Normal"
 msgid "Crazy? What do you mean?"
-msgstr "미쳤다고? 그게 무슨 뜻이오?"
+msgstr "미쳤다고? 그게 무슨 뜻이죠?"
 
 msgctxt "Narration/&NecromancyQuest05_19_Aksha_NPC_Intimidation_25_Failure"
 msgid "You must think I was born yesterday…"
@@ -17652,11 +17652,11 @@ msgstr "나를 갓난아기라고 생각하는 모양이군…"
 
 msgctxt "Narration/&NecromancyQuest05_20_Persuader_Normal"
 msgid "We believe your master knows about a powerful ancient artifact."
-msgstr "우리는 당신의 주인이 강력한 고대 유물에 대해 알고 있다고 믿소."
+msgstr "우리는 당신의 주인이 강력한 고대 유물에 대해 알고 있다고 믿습니다."
 
 msgctxt "Narration/&NecromancyQuest05_20_Persuader_Normal2"
 msgid "We need his knowledge."
-msgstr "우리는 그의 지식이 필요하오."
+msgstr "우리는 그의 지식이 필요하죠."
 
 msgctxt "Narration/&NecromancyQuest05_21_Aksha_NPC_Persuasion_25_Success"
 msgid "Hm. Your puny minds couldn't comprehend what he once knew."
@@ -17664,7 +17664,7 @@ msgstr "흠. 너희들의 보잘것 없는 머리로는 그가 한때 알던 것
 
 msgctxt "Narration/&NecromancyQuest05_22_Aksha_NPC"
 msgid "Now, it's a good day if he knows who I am."
-msgstr "이제, 내가 누군지 기억하는지도 모르겠어."
+msgstr "이제와서는, 그에게는 내가 누군지 기억하는 것도 용한 일이야."
 
 msgctxt "Narration/&NecromancyQuest05_23_Persuader_Normal"
 msgid "What do you mean?"
@@ -17704,7 +17704,7 @@ msgstr "누구냐? 어떻게 여길 들어왔지?"
 
 msgctxt "Narration/&NecromancyQuest06_02_Default_Default"
 msgid "Master Mardracht?"
-msgstr "마스터 마드라츠?"
+msgstr "마스터 마르드라흐트?"
 
 msgctxt "Narration/&NecromancyQuest06_03_Mardracht_NPC"
 msgid "You know my name! How do you know my name?"
@@ -17724,51 +17724,51 @@ msgstr "꺼져라! 난 아직 날 지킬만한 힘은 있다!"
 
 msgctxt "Narration/&NecromancyQuest06_07_INTIMIDATE_CHOICE"
 msgid "Can't you see we're too strong?"
-msgstr "우리가 너무 강하다는걸 알 수 없는 것이오?"
+msgstr "우리가 엄청 강하다는 게 안 보이나?"
 
 msgctxt "Narration/&NecromancyQuest06_08_PERSUADE_CHOICE"
 msgid "We don't want to kill you."
-msgstr "우리는 당신을 죽이고 싶지 않소."
+msgstr "우리는 당신을 죽이고 싶지 않습니다."
 
 msgctxt "Narration/&NecromancyQuest06_09_DECEIVE_CHOICE"
 msgid "We want to save Solasta."
-msgstr "우리는 솔라스타를 구하고 싶소."
+msgstr "우리는 솔라스타를 구하고 싶습니다."
 
 msgctxt "Narration/&NecromancyQuest06_10_Intimidate_Default"
 msgid "We found you and we breached your defenses."
-msgstr "우리는 당신의 방어책들을 뚫고 당신을 찾아냈소."
+msgstr "우리는 당신을 찾았고, 또 당신의 방어책들을 뚫어냈지."
 
 msgctxt "Narration/&NecromancyQuest06_10_Intimidate_Default2"
 msgid "Do you really want to test your power against ours?"
-msgstr "정말로 우리에게 당신의 힘을 시험하고 싶은 것이오?"
+msgstr "정말로 우리에게 당신의 힘을 시험하고 싶은 건가?"
 
 msgctxt "Narration/&NecromancyQuest06_11_Deceive_Default"
 msgid "You are right to fear us, and those who sent us."
-msgstr "당신은 우리와, 우리를 보낸 사람들을 두려워해야 하는게 맞소."
+msgstr "당신은 우리와, 우리를 보낸 사람들을 두려워하는 게 맞습니다."
 
 msgctxt "Narration/&NecromancyQuest06_11_Deceive_Default2"
 msgid "We are powerful - but you don't have to die."
-msgstr "우리는 강력하오 - 하지만 당신이 죽을 필요는 없소."
+msgstr "우리는 강력하지만 - 당신이 죽을 필요는 없습니다."
 
 msgctxt "Narration/&NecromancyQuest06_12_Persuade_Default"
 msgid "All we ask is that you hear what we have to say."
-msgstr "우리는 단지 당신이 우리가 말하는 걸 들어주길 바라오."
+msgstr "우리는 단지 당신이 우리가 말하는 걸 들어주길 바랍니다."
 
 msgctxt "Narration/&NecromancyQuest06_12_Persuade_Default2"
 msgid "After that, we'll leave you in peace if that's what you want."
-msgstr "그 이후에, 우리는 평화롭게 떠날것이오. 그게 당신이 원하는 거라면."
+msgstr "그 이후에, 우리는 평화롭게 떠날 것입니다. 그게 당신이 원하는 거라면."
 
 msgctxt "Narration/&NecromancyQuest06_13_Mardracht_NP"
 msgid "If you are not here to kill me - then what?"
-msgstr "만일 날 죽이러 온게 아니라면 - 왜 온거지?"
+msgstr "만일 날 죽이러 온게 아니라면 - 왜 온 거지?"
 
 msgctxt "Narration/&NecromancyQuest06_14_Intimidator_Normal"
 msgid "I offer you the chance to buy your life."
-msgstr "당신의 목숨을 살 수 있는 기회를 주겠소."
+msgstr "당신의 목숨을 살 수 있는 기회를 주겠어."
 
 msgctxt "Narration/&NecromancyQuest06_14_Intimidator_Normal2"
 msgid "Will you take it? Will you give up your gem?"
-msgstr "당신의 보석을 포기하여 그 기회를 잡을것이오?"
+msgstr "기회를 잡겠어? 당신의 보석을 포기하면서?"
 
 msgctxt "Narration/&NecromancyQuest06_15_Mardracht_NPC_Intimidate_25_Success"
 msgid "For my life? I… "
@@ -17776,11 +17776,11 @@ msgstr "내 목숨값으로? 난... "
 
 msgctxt "Narration/&NecromancyQuest06_16_Mardracht_NPC_Intimidate_25_Failure"
 msgid "Lies! All lies! I know your gods and their treachery!"
-msgstr "거짓이다! 난 네놈들의 신과 그들의 배신에 대해 안단말이다!"
+msgstr "거짓이다! 난 네 놈들의 신과 그들의 배신에 대해 알고 있다!"
 
 msgctxt "Narration/&NecromancyQuest06_17_Deceive_Default"
 msgid "The gods have commanded us to kill you…"
-msgstr "신들께서 당신을 죽이라고 명했소…"
+msgstr "신들께서 당신을 죽이라고 명했습니다…"
 
 msgctxt "Narration/&NecromancyQuest06_18_Mardracht_NPC"
 msgid "I knew it!"
@@ -17788,11 +17788,11 @@ msgstr "역시 그랬군!"
 
 msgctxt "Narration/&NecromancyQuest06_19_Deceiver_Normal"
 msgid "…but we don't need to do that - if you'll help us."
-msgstr "...하지만 반드시 그럴 필요는 없소 - 우릴 도와준다면 말이오."
+msgstr "...하지만 반드시 그럴 필요는 없습니다 - 우릴 도와준다면요."
 
 msgctxt "Narration/&NecromancyQuest06_20_Deceiver_Normal"
 msgid "We must have the Gem of Necromancy."
-msgstr "우리는 강령술의 보석을 가져가야 하오."
+msgstr "우리는 사령술의 보석을 가져가야 합니다."
 
 msgctxt "Narration/&NecromancyQuest06_21_Mardracht_NPC"
 msgid "The gem… ? But…"
@@ -17800,11 +17800,11 @@ msgstr "보석을...? 하지만…"
 
 msgctxt "Narration/&NecromancyQuest06_22_Deceiver_Normal"
 msgid "But without your gem, we can't remake the Crown."
-msgstr "그 보석이 없이는, 왕관을 다시 만들수 없소."
+msgstr "그 보석이 없이는, 왕관을 다시 만들 수 없습니다."
 
 msgctxt "Narration/&NecromancyQuest06_22_Deceiver_Normal2"
 msgid "Without the Crown, we can't defeat the gods."
-msgstr "왕관이 없이는, 우리가 신들을 이길 수 없소."
+msgstr "왕관이 없이는, 우리가 신들을 이길 수 없습니다."
 
 msgctxt "Narration/&NecromancyQuest06_23_Mardracht_NPC_Deception_25_Success"
 msgid "I… The gods? I don't… the Crown?"
@@ -17812,7 +17812,7 @@ msgstr "난...신들을? 이...왕관으로?"
 
 msgctxt "Narration/&NecromancyQuest06_24_Mardracht_NPC_Deception_25_Failure"
 msgid "You have the Crown? No!"
-msgstr "왕관을 가졌단 말이냐? 안돼!"
+msgstr "왕관을 가졌단 말이냐? 안 돼!"
 
 msgctxt "Narration/&NecromancyQuest06_25_Mardracht_NPC"
 msgid "I see through your lies! Your evil gods want its power to destroy me!"
@@ -17824,11 +17824,11 @@ msgstr "솔라스타를 파괴할 힘을!"
 
 msgctxt "Narration/&NecromancyQuest06_26_Persuade_Default"
 msgid "We are here to ask about the Crown of the Magister…"
-msgstr "우리는 마지스터의 왕관에 대해 묻기 위해 왔소…"
+msgstr "우리는 마지스터의 왕관에 대해 묻기 위해 왔습니다…"
 
 msgctxt "Narration/&NecromancyQuest06_26_Persuade_Default2"
 msgid "…specifically, about the Gem of Necromancy."
-msgstr "...특히, 강령술의 보석에 대해 말이오."
+msgstr "...특히, 사령술의 보석에 대해 말입니다."
 
 msgctxt "Narration/&NecromancyQuest06_27_Mardracht_NPC"
 msgid "What? What do you know of the Crown? What are you plotting?"
@@ -17836,15 +17836,15 @@ msgstr "뭐라고? 왕관에 대해 뭘 알고 있지? 네놈들 무슨 음모�
 
 msgctxt "Narration/&NecromancyQuest06_28_Persuader_Normal"
 msgid "We're not plotting anything. We don't really know what's going on."
-msgstr "음모를 꾸미는게 아니오. 어떤 일이 벌어지고 있는지 정말로 모를뿐이오."
+msgstr "음모를 꾸미는 게 아닙니다. 어떤 일이 벌어지고 있는지 정말로 모릅니다."
 
 msgctxt "Narration/&NecromancyQuest06_29_Persuader_Normal"
 msgid "But the Crown found us, and it seems that it wants to be whole again."
-msgstr "그러나 왕관이 우리를 발견했고, 다시 한번 완전하게 되기를 바라는 것 같소."
+msgstr "그러나 왕관이 우리를 발견했고, 다시 한번 완전하게 되기를 바라는 것 같습니다."
 
 msgctxt "Narration/&NecromancyQuest06_30_Mardracht_NPC_Persuasion_25_Success"
 msgid "But wait - the Crown is active?"
-msgstr "잠깐 - 왕관이 활성화되어 움직이고 있다고?"
+msgstr "잠깐 - 왕관이 활성화되어 있다고?"
 
 msgctxt "Narration/&NecromancyQuest06_30_Mardracht_NPC_Persuasion_25_Success2"
 msgid "And it chose you?"
@@ -17852,11 +17852,11 @@ msgstr "그리고 그게 너를 선택했단 말인가?"
 
 msgctxt "Narration/&NecromancyQuest06_31_Persuader_Normal"
 msgid "Well… Yes. We're not sure why."
-msgstr "뭐...그렇소. 왜 그런지는 우리도 모르오."
+msgstr "뭐...그렇죠. 왜 그런지는 모르겠지만요."
 
 msgctxt "Narration/&NecromancyQuest06_32_Mardracht_NPC"
 msgid "The very existence of Solasta must be threatened!"
-msgstr "솔라스타의 존립이 위협받고 있는게 틀림없다!"
+msgstr "솔라스타의 존립이 위협받고 있는 게 틀림없다!"
 
 msgctxt "Narration/&NecromancyQuest06_33_Mardracht_NPC_Persuasion_25_Failure"
 msgid "Give me the Crown!"
@@ -17902,7 +17902,7 @@ msgctxt "Narration/&Necromancy_Observable_01_ViewCastle4_Any_Default"
 msgid ""
 "There's a path to the right. Maybe we can find cover, and size the place up "
 "without being seen."
-msgstr "우측편에 길이 있어. 어쩌면 엄폐물을 찾아서, 눈에 띄지 않고 이 곳의 크기를 가늠해 볼수 있을지도 몰라."
+msgstr "우측 편에 길이 있어. 어쩌면 엄폐물을 찾아서, 눈에 띄지 않고 이 곳의 크기를 가늠해 볼 수 있을지도 몰라."
 
 msgctxt "Narration/&Necromancy_Observable_01_ViewCastle5_Any_Default"
 msgid "We could just show our Legacy Council credentials."
@@ -17938,11 +17938,11 @@ msgstr "우리가 왔던 길을 기억하라구. 여기서 길을 잃고 싶진 
 
 msgctxt "Narration/&Necromancy_Observable_03_Catacombs2_Any_Default"
 msgid "Typical First Expansion architecture, with some embellishments…"
-msgstr "약간의 장식이 추가됬지만, 첫번째 확장시기의 전형적인 건축물들이네…"
+msgstr "약간의 장식이 추가됐지만, 첫번째 확장기의 전형적인 건축물들이네…"
 
 msgctxt "Narration/&Necromancy_Observable_03_Catacombs3_Any_Default"
 msgid "…probably used right up to the Cataclysm."
-msgstr "...대격변 시기에서부터 사용된 걸지도 몰라."
+msgstr "...대격변 시기 직전까지 사용된 걸지도 몰라."
 
 msgctxt "Narration/&Necromancy_Observable_03_Catacombs4_Any_Default"
 msgid "Great idea! Let's walk through the catacombs, talking loudly!"
@@ -17950,7 +17950,7 @@ msgstr "좋은 생각이야! 지하묘지를 시끄럽게 떠들면서 지나가
 
 msgctxt "Narration/&Necromancy_Observable_03_Catacombs5_Any_Default"
 msgid "Everyone knows the undead are deaf!"
-msgstr "언데드가 귀머거리라는건 누구나 알고 있잖아!"
+msgstr "언데드가 귀머거리라는 건 누구나 알고 있잖아!"
 
 msgctxt "Narration/&Necromancy_Observable_04_AtKeepEntry1_Any_Default"
 msgid "Another door."
@@ -17978,7 +17978,7 @@ msgstr "우리가 찾는 건 저 위에 있어."
 
 msgctxt "Narration/&Necromancy_Observable_04_AtKeepEntry7_Any_Default"
 msgid "You're sure?"
-msgstr "정말?"
+msgstr "확실해?"
 
 msgctxt "Narration/&Necromancy_Observable_04_AtKeepEntry8_Any_Default"
 msgid "It's obvious - the best loot gets the best protection."
@@ -17990,11 +17990,11 @@ msgstr "아마 이게 우리가 들어갈 길일거야."
 
 msgctxt "Narration/&Necromancy_Observable_05_Well2_Any_Default"
 msgid "Perfect. We climb down a wet, slippery, stone shaft…"
-msgstr "완벽하군. 축축하고 미끄러운 돌 갱도를 내려가서…"
+msgstr "완벽하군. 축축하고 미끄러운 석벽을 타고…"
 
 msgctxt "Narration/&Necromancy_Observable_05_Well3_Any_Default"
 msgid "…into water that's who knows how deep…"
-msgstr "...얼마나 깊을지도 모르는 물속으로 들어가서…"
+msgstr "...얼마나 깊을지도 모르는 물 속으로 들어가서…"
 
 msgctxt "Narration/&Necromancy_Observable_05_Well4_Any_Default"
 msgid "…and hope there's a way out. What could possibly go wrong?"
@@ -18006,15 +18006,15 @@ msgstr "이 배수관으로 들어갈 수 있을 거야."
 
 msgctxt "Narration/&Necromancy_Observable_06_StormDrain2_Any_Default"
 msgid "Into what? The bathroom's one way, and the cesspool the other?"
-msgstr "뭐? 한 쪽은 화장실이고, 다른 쪽은 정화조겠네?"
+msgstr "뭐 어디로 간다고? 한 쪽은 화장실이고, 다른 쪽은 정화조겠네?"
 
 msgctxt "Narration/&Necromancy_Observable_06_StormDrain3_Any_Default"
 msgid "Suppose we get down there and it's just six-inch pipes?"
-msgstr "우리가 이리로 내려가고 이게 그냥 6인치 파이프라고 가정해볼까?"
+msgstr "우리가 이리로 내려갔는데 이게 그냥 6인치 파이프였다고 가정해볼까?"
 
 msgctxt "Narration/&Necromancy_Observable_06_StormDrain4_Any_Default"
 msgid "Then we'll look for another way in. But let's try it first!"
-msgstr "그럼 그때 다른 방법을 찾으면 되겠지. 일단 해보자고!"
+msgstr "그럼 그 때 다른 방법을 찾으면 되겠지. 일단 해보자고!"
 
 msgctxt "Narration/&Necromancy_Observable_07_StormDrainInside1_Any_Default"
 msgid "That doesn't look right."
@@ -18064,7 +18064,7 @@ msgstr "이게 비밀통로라는 말이야?"
 
 msgctxt "Narration/&Necromancy_Observable_08_EnterCatacombs1_Any_Default"
 msgid "The outside graves were likely for servants and guards."
-msgstr "바깥쪽 무덤에는 하인과 경비들이 있는 것 같네."
+msgstr "바깥쪽 무덤들은 하인과 경비들을 위한 거였겠네."
 
 msgctxt "Narration/&Necromancy_Observable_08_EnterCatacombs2_Any_Default"
 msgid ""
@@ -18082,7 +18082,7 @@ msgstr "그리고 '중요한'이란건 '돈 되는'이라는 뜻이기도 하지
 
 msgctxt "Narration/&Necromancy_Observable_09_Teleporter1_Any_Default"
 msgid "So - this is a Minor Gate?"
-msgstr "그래 - 이게 하급 관문인가?"
+msgstr "그래 - 이게 보조 관문인가?"
 
 msgctxt "Narration/&Necromancy_Observable_09_Teleporter2_Any_Default"
 msgid "And we're sure it goes where the defiler woman said it goes?"
@@ -18098,7 +18098,7 @@ msgstr "그래서 그냥 그녀를 믿어보자고?"
 
 msgctxt "Narration/&Necromancy_Observable_09_Teleporter5_Any_Default"
 msgid "That looks like a Minor Gate."
-msgstr "이건 하급 관문 같은데."
+msgstr "이건 보조 관문 같은데."
 
 msgctxt "Narration/&Necromancy_Observable_09_Teleporter6_Any_Default"
 msgid "Where do you suppose it goes?"
@@ -18106,7 +18106,7 @@ msgstr "이게 어디로 이어진 것 같아?"
 
 msgctxt "Narration/&Necromancy_Observable_09_Teleporter7_Any_Default"
 msgid "To the Master's floor, hopefully."
-msgstr "마스터의 방이 있는 층으로 이어졌으면 좋겠는데."
+msgstr "마스터가 있는 곳으로 이어졌으면 좋겠는데."
 
 msgctxt "Narration/&Necromancy_Observable_09_Teleporter8_Any_Default"
 msgid "Or into the heart of a volcano or somewhere equally unpleasant."
@@ -18132,11 +18132,11 @@ msgstr "이게 그거야?"
 
 msgctxt "Narration/&Necromancy_Observable_10_QuestEnd2_Any_Default"
 msgid "Yes? I can feel its power. It's… incredible!"
-msgstr "응? 이 안의 힘이 느껴져. 이건...믿기 힘들 정도야!"
+msgstr "그런 것 같은데? 이 안의 힘이 느껴져. 이건...믿기 힘들 정도야!"
 
 msgctxt "Narration/&Necromancy_Observable_10_QuestEnd3_Any_Default"
 msgid "Don't let it overwhelm you. Necromancy is dark magic."
-msgstr "널 집어삼키게 두지마. 강령술은 암흑의 마법이라고."
+msgstr "널 집어삼키게 두지마. 사령술은 암흑의 마법이라고."
 
 msgctxt "Narration/&Necromancy_Observable_10_QuestEnd4_Any_Default"
 msgid ""
@@ -18162,17 +18162,17 @@ msgstr "으엑. 순간이동은 기분이 이상하네."
 
 msgctxt "Narration/&Necromancy_Observable_11_EnterSolar2_Any_Default"
 msgid "I wonder what this Mardracht is like?"
-msgstr "이 마르드라흐트라는 사람이 어떤지 궁금하군요?"
+msgstr "이 마르드라흐트라는 사람이 어떤지 궁금하군?"
 
 msgctxt "Narration/&Necromancy_Observable_11_EnterSolar3_Any_Default"
 msgid "If he fought at the Rift, imagine the stories he has to tell!"
-msgstr "그가 균열에서 싸웠었다면, 그가 들려줄 이야기들을 상상해보라구요!"
+msgstr "그가 균열에서 싸웠었다면, 그가 들려줄 이야기들을 상상해보라고!"
 
 msgctxt "Narration/&Necromancy_Observable_11_EnterSolar4_Any_Default"
 msgid ""
 "Dropping in unannounced on a paranoid recluse with untold magical powers. "
 "What could possibly go wrong?"
-msgstr "미지의 마법적 힘을 가진 편집증 은둔자에게 예고 없이 들르는 거군요. 전혀 잘못될 일이 없겠네요?"
+msgstr "미지의 마법적 힘을 가진 편집증 은둔자에게 예고 없이 들르는 거군. 잘못될 일이라곤 없겠네?"
 
 msgctxt "Narration/&Necromancy_Observable_12_Angbisbones011_Any_Default"
 msgid "It's a book!"
@@ -18188,7 +18188,7 @@ msgstr "표지에 있는건 안티쿼리안의 인장이라고!"
 
 msgctxt "Narration/&Necromancy_Observable_12_Angbisbones014_Any_Default"
 msgid "It's in the common tongue: \"The Journal of Angbi Kramsson.\""
-msgstr "공용어로 쓰여져 있네 : \"앙그비 크렘슨의 일지.\""
+msgstr "공용어로 쓰여져 있네 : \"앙그비 크람슨의 일지.\""
 
 msgctxt "Narration/&Necromancy_Observable_12_Angbisbones015_Any_Default"
 msgid "Those must be his bones here."
@@ -18208,11 +18208,11 @@ msgstr "이건 뭐지?"
 
 msgctxt "Narration/&Necromancy_Observable_13_NecroText012_Any_Default"
 msgid "Going out on a limb, here - but I *think* it's a piece of parchment."
-msgstr "잘 모르겠지만, *아마도 어쩌면* 양피지 조각인거 같네."
+msgstr "감히 추측하건대, *아마도 어쩌면* 양피지 조각인거 같네."
 
 msgctxt "Narration/&Necromancy_Observable_13_NecroText013_Any_Default"
 msgid "You're not as funny as you think you are."
-msgstr "넌 네가 재밌다고 생각하는거 만큼 재밌지 않다고."
+msgstr "넌 네가 재밌다고 생각하는 것 만큼 재밌지 않다고."
 
 msgctxt "Narration/&Necromancy_Observable_13_NecroText014_Any_Default"
 msgid "It's high elven. Looks like notes for some kind of experiment."
@@ -18220,7 +18220,7 @@ msgstr "하이엘프어네. 어떤 실험에 대한 메모같아 보여."
 
 msgctxt "Narration/&Necromancy_Observable_13_NecroText015_Any_Default"
 msgid "Like, for example, doing unspeakable magical things to dead bodies?"
-msgstr "예를들어, 시체에 말할 수 없는 마법적인 일들을 하는것에 관한건가?"
+msgstr "예를 들어, 시체에 말할 수 없는 마법적인 일들을 하는것에 관한 건가?"
 
 msgctxt "Narration/&Necromancy_Observable_14_NecroText021_Any_Default"
 msgid "What's this? "
@@ -18236,7 +18236,7 @@ msgstr "이건 무슨 언어로 쓰인거지?"
 
 msgctxt "Narration/&Necromancy_Observable_14_NecroText024_Any_Default"
 msgid "Draconic. They say it's older than high elven."
-msgstr "용언어야. 하이엘프어보다도 오래되었다고 말하지."
+msgstr "용언이야. 하이엘프어보다도 오래되었다고 말하지."
 
 msgctxt "Narration/&Necromancy_Observable_14_NecroText025_Any_Default"
 msgid ""
@@ -18263,7 +18263,7 @@ msgstr "가장 강력한 드래곤은 원하는 어떤 형태로든 변할 수 �
 
 msgctxt "Narration/&Necromancy_Observable_14_NecroText0210_Any_Default"
 msgid "That's pretty far-fetched. He probably just learned draconic."
-msgstr "너무 설득력없는 말인거 같아. 그냥 아마 용언어를 배웠겠지."
+msgstr "너무 설득력없는 말인거 같아. 그냥 아마 용언을 배웠겠지."
 
 msgctxt "Narration/&Necromancy_Observable_15_WeirdSigil1_Any_Default"
 msgid "That looks weird."
@@ -18379,7 +18379,7 @@ msgstr "마스터께서 보내셨느냐?  "
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_6_Any_Default"
 msgid "Which Master? "
-msgstr "마스터라뇨? "
+msgstr "어떤 마스터요? "
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_7_Kythaela_NPC"
 msgid "How dare you!"
@@ -18459,7 +18459,7 @@ msgstr "방패는 곧 마스터요, 마스터께서 방패시로다! "
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_26_Kythaela_NPC"
 msgid "But tell me - what happened? "
-msgstr "말해 다오. 무슨 일이 있었던 거지? "
+msgstr "말해다오. 무슨 일이 있었던 거지? "
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_27_Any_Default"
 msgid "A thousand years ago, the Cataclysm ravaged the Empire."
@@ -18495,7 +18495,7 @@ msgstr "균열? '그' 균열을 말하는 건가요? "
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_35_Kythaela_NPC"
 msgid "Are there more than one?"
-msgstr "그게 둘 이상 있나?"
+msgstr "그게 여러 개가 있나?"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_36_Choice2_WRITTEN"
 msgid "Creatures? The Soraks?"
@@ -18645,7 +18645,7 @@ msgstr "그렇습니다! 위험하고 사악한 도마뱀이죠. 마법을 부�
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_72_Kythaela_NPC"
 msgid "Weak human minds, for sure! And yet…"
-msgstr "인간의 마음은 나약한 게 분명하도다! 하지만…"
+msgstr "인간의 나약한 마음이야 그렇겠지! 그렇긴 하지만…"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_73_AcademicOrElse_Default"
 msgid "And yet?"
@@ -22374,12 +22374,12 @@ msgstr "우리도 알아…"
 
 msgctxt "Narration/&CradleOfFire_Necropolis_Statue01_4_History_Default"
 msgid "This one was Laethar Aerlinn, first of his name."
-msgstr "가문의 시조인, 라에사 아엘린이에요."
+msgstr "가문의 시조인, 래타르 아엘린이야."
 
 msgctxt "Narration/&CradleOfFire_Necropolis_Statue01_5_Pragmatic_Default"
 msgid ""
 "In the middle of the Badlands, and not in the capital city? That's weird."
-msgstr "수도가 아닌 황무지 한복판에요? 이상하군요."
+msgstr "수도가 아닌 황무지 한복판에? 이상한데."
 
 msgctxt "Narration/&CradleOfFire_Necropolis_Statue01_6_History_Default"
 msgid "It might have been displaced during the Cataclysm and sunk down here. "
@@ -22431,7 +22431,7 @@ msgstr "전부 노예상들일 뿐이야."
 
 msgctxt "Narration/&CradleOfFire_Necropolis_EmperorGhost_1_Ghost_NPC"
 msgid "Who dares disturb the eternal rest of Emperor Laethar?"
-msgstr "누가 감히 황제 라사르의 영원한 안식을 방해하느냐?"
+msgstr "누가 감히 황제 래타르의 영원한 안식을 방해하느냐?"
 
 msgctxt "Narration/&CradleOfFire_Necropolis_EmperorGhost_2_Default_WRITTENONLY"
 msgid "We mean no disrespect."
@@ -24550,7 +24550,7 @@ msgstr "진짜 거짓말처럼 추하게 생겼어."
 
 msgctxt "Narration/&CaerLem_InTunnel4c_Cynicism_Default"
 msgid "And certainly not lizardfolk."
-msgstr "확실히 도마뱀족은 아닌 것 같아."
+msgstr "확실히 리저드포크는 아닌 것 같아."
 
 msgctxt "Narration/&CaerLem_Darik21b_Player"
 msgid "So - big, walking lizards with spikes all over their backs?"
