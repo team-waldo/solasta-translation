@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-12-13 11:33+0000\n"
-"Last-Translator: lull_ <lull_@naver.com>\n"
+"PO-Revision-Date: 2021-12-14 02:33+0000\n"
+"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
 "Language: ko\n"
@@ -7047,7 +7047,7 @@ msgstr "고대 티르마르어 같아."
 
 msgctxt "Narration/&TowerOfMagicFindingTheCrown_9_Tirmarian_Default"
 msgid "If you find it, send for… this appears to be a name."
-msgstr "이것을 발견하는 자는, 소환할지어다... 그 다음은 어떤 이름인 것 같아."
+msgstr "이것을 발견하는 자는, 중간은 어떤 이름 같고… 이 자에게 보내라."
 
 msgctxt "Narration/&TowerOfMagicFindingTheCrown_10_Starter_Slang"
 msgid "Is this the language of those damned lizards? "
@@ -7175,7 +7175,7 @@ msgstr "그녀는 마나칼론 황실 복식을 걸치고 있지 않아."
 
 msgctxt "Narration/&TowerOfMagicStatueFemWiz_5_History_Default"
 msgid "More likely she was a wizard, a master of the Arcaneum."
-msgstr "아마도 마법사... 아케니움의 주인일 가능성이 높아."
+msgstr "아마도 마법사... 아케니움의 마스터일 가능성이 높아."
 
 msgctxt "Narration/&TowerOfMagicStatueFemWiz_6_Starter_Default"
 msgid "Could this have been her home?"
@@ -7962,7 +7962,7 @@ msgstr "쳇."
 msgctxt "Narration/&Danantar_Dialog_01_10_JorielFoxeye_NPC"
 msgid ""
 "I just want you to know that our grand master Edvan Danantar has noticed you."
-msgstr "우리 학파의 그랜드 마스터 에드반 다나타르가 자네들의 이야기를 들으셨네."
+msgstr "우리 그랜드 마스터 에드반 다난타르가 자네들의 이야기를 들으셨네."
 
 msgctxt "Narration/&Danantar_Dialog_01_11_Joker_Default"
 msgid "He talked a lot, for sure."
@@ -7970,13 +7970,13 @@ msgstr "분명 일장 연설을 늘어 놓으셨겠구만."
 
 msgctxt "Narration/&Danantar_Dialog_01_12_JorielFoxeye_NPC"
 msgid "He's a man of great authority."
-msgstr "그분은 우리 학파의 큰 어르신일세."
+msgstr "그분은 우리의 큰 어르신일세."
 
 msgctxt "Narration/&Danantar_Dialog_01_13_JorielFoxeye_NPC"
 msgid ""
 "He'd like you to know that our doors are open to you if you'd care to visit "
 "us."
-msgstr "한 번 방문할 생각이 있다면 우리 학파의 문은 언제든 자네들을 위해 열려있다는 것을 말해 달라고 부탁하셨네."
+msgstr "한 번 방문할 생각이 있다면 우리의 문은 언제든 자네들을 위해 열려있다는 것을 말해 달라고 부탁하셨네."
 
 msgctxt "Narration/&Danantar_Dialog_01_13_2_JorielFoxeye_NPC"
 msgid "You can find me at Sunblaze Court."
@@ -8755,7 +8755,7 @@ msgctxt "Narration/&Council03_85_LeiraKean_NPC"
 msgid ""
 "I must remind you that your decisions as head of state are not subject to "
 "Council approval."
-msgstr "이 나라의 수장으로써 공주님이 내리시는 결정은 의회 승인의 대상이 아님을 알려드립니다."
+msgstr "이 나라의 수장으로서 공주님이 내리시는 결정은 의회 승인의 대상이 아님을 알려드립니다."
 
 msgctxt "Narration/&Council03_86_Princess_NPC"
 msgid "Oh! Right…"
@@ -9062,7 +9062,7 @@ msgstr "눈 호강좀 하시죠!"
 
 msgctxt "Narration/&Antiquarians_Dialog_02_4_Any_Default"
 msgid "See what you think of this."
-msgstr "이건 어떻게 보시나요?"
+msgstr "이건 어떻게 보시나요."
 
 msgctxt "Narration/&Antiquarians_Dialog_02_5_HalmanSummer_NPC"
 msgid "Just passing by to say hello."
@@ -9134,7 +9134,7 @@ msgstr "아 - 선임 대리인님! 무슨 소식이 있는지요?"
 
 msgctxt "Narration/&Council4_4_Authority_Normal"
 msgid "We're stuck, my lord."
-msgstr "우린 갇혔습니다, 의원님."
+msgstr "우린 막혔습니다, 의원님."
 
 msgctxt "Narration/&Council4_5_Authority_Formal"
 msgid "My lord, I'm afraid the situation is less than ideal."
@@ -18658,15 +18658,15 @@ msgstr "가문의 일원인 한 엘프가 마스터를 죽이려 한 일이 떠�
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_75_Choice3_WRITTEN"
 msgid "They joined forces."
-msgstr "그들은 힘을 합쳤어."
+msgstr "그들은 군세를 규합했습니다."
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_76_Choice3_Spoken"
 msgid "Their combined forces assaulted the Rift. "
-msgstr "그들의 연합군이 균열을 공격했지. "
+msgstr "그 연합군이 균열을 공격했지요. "
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_77_Kythaela_NPC"
 msgid "There was mention of the Rift in the Aer-Elai."
-msgstr "에어 엘라이의 균열에 대해서는 들어 본 적이 있구나."
+msgstr "에어 엘라이의 균열에 대한 언급이 있었지."
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_78_Any_Default"
 msgid ""
@@ -18718,7 +18718,7 @@ msgctxt "Narration/&AbjurationQuest_Kythaela_89_Kythaela_NPC"
 msgid ""
 "Yes - a fortress and place of rest for fallen heroes, roughly in this "
 "direction!"
-msgstr "그래 - 쓰러진 영웅들을 위한 휴식처와 요새, 대충 이 쪽 방향이야!"
+msgstr "그래 - 요새이자 쓰러진 영웅들을 위한 안식처, 대략 이 쪽 정도겠구나!"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_90_Choice1_WRITTEN"
 msgid "The Vale of Coparann?"
@@ -18759,7 +18759,7 @@ msgstr "물론. 숙녀 혼자 이 황무지를 건너게 내버려 두진 않겠
 
 msgctxt "Narration/&AbjurationQuest_Caravan_1Galar_NPC"
 msgid "A timely arrival! Many thanks for your help! "
-msgstr "적시적기에 도와주셨군요. 감사합니다! "
+msgstr "때맞춰 와주셨군요! 도움에 진심으로 감사드립니다! "
 
 msgctxt "Narration/&AbjurationQuest_Caravan_2_Pragmatism_Default"
 msgid "Clear skies, friend! What's going on here? "
@@ -18771,15 +18771,15 @@ msgstr "저 친구들이... 코파란에서 제 캐러밴에 합류했습니다�
 
 msgctxt "Narration/&AbjurationQuest_Caravan_4Galar_NPC"
 msgid "…a couple of hours ago, this man stumbled on our path, almost dead…"
-msgstr "몇 시간 전 쯤, 이자가 거의 죽기 직전의 몰골인 채로 우리의 행로를 우연히 발견했습니다…"
+msgstr "... 몇 시간 전 쯤, 이 자가 거의 죽기 직전의 몰골인 채로 우리의 행로에 나타났습니다…"
 
 msgctxt "Narration/&AbjurationQuest_Caravan_5Galar_NPC"
 msgid "…no healing could help him, so I put him in a tent…"
-msgstr "아무리 치료해봐도 그에겐 소용이 없었고, 전 그를 텐트 안에 눕혀뒀습니다…"
+msgstr "아무리 치료해봐도 그에겐 소용이 없어서, 그를 텐트 안에서 쉬도록 했습니다…"
 
 msgctxt "Narration/&AbjurationQuest_Caravan_6Galar_NPC"
 msgid "…and I was about to send word to Coparann."
-msgstr "그리고 전 코파란에 그 소식을 전하러 가던 참입니다."
+msgstr "그리고 저는 이제 막 코파란에 그 소식을 전하러 가던 참입니다."
 
 msgctxt "Narration/&AbjurationQuest_Caravan_7_Choice1Pragmatism_WRITTEN"
 msgid "Coparann?"
@@ -18803,7 +18803,7 @@ msgstr "물론 여러분들께 보상해드리겠습니다! "
 
 msgctxt "Narration/&AbjurationQuest_Caravan_12_Choice2Starter_WRITTEN"
 msgid "Almost dead?"
-msgstr "거의 죽은몰골이라고요?"
+msgstr "거의 죽은 몰골이라고요?"
 
 msgctxt "Narration/&AbjurationQuest_Caravan_13_Choice2Starter_Spoken"
 msgid "Almost dead? Sick? "
@@ -18831,7 +18831,7 @@ msgstr "맞습니다. 상처가 계속 벌어지고 있었어요."
 
 msgctxt "Narration/&AbjurationQuest_Caravan_19Galar_NPC"
 msgid "It's a wonder he was still alive."
-msgstr "그가 아직 살아있는 것 자체가 놀라울 정도죠."
+msgstr "그가 아직 살아있었다는 것 자체가 놀라울 정도였죠."
 
 msgctxt "Narration/&AbjurationQuest_Caravan_20_Choice3Spy_WRITTEN"
 msgid "Send word? "
@@ -18847,7 +18847,7 @@ msgstr "왜냐하면 그는 코파란 감시단의 상병이기 때문이죠. "
 
 msgctxt "Narration/&AbjurationQuest_Caravan_23_Starter_Default"
 msgid "You want us to take word of his death to Coparann."
-msgstr "우리가 코파란에 부고 소식을 전달해주길 바라는거군요."
+msgstr "우리가 코파란에 부고를 전달해주길 바라는거군요."
 
 msgctxt "Narration/&AbjurationQuest_Caravan_24Galar_NPC"
 msgid "Yes - take this note and his personal effects to Sergeant Nikannen."
@@ -18855,7 +18855,7 @@ msgstr "네. 이 쪽지와 개인 소지품들을 니카넨 상사에게 전달�
 
 msgctxt "Narration/&AbjurationQuest_Caravan_25Galar_NPC"
 msgid "Have him countersign the note, then see my agent."
-msgstr "이 쪽지에 서명을 받아서 제 대리인을 찾아가시기 바랍니다."
+msgstr "이 쪽지에 그의 서명을 받아서 제 대리인을 찾아가시기 바랍니다."
 
 msgctxt "Narration/&AbjurationQuest_Caravan_26Galar_NPC"
 msgid "He is the owner of the general store. "
@@ -18879,7 +18879,7 @@ msgstr "환대에 감사드립니다!"
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_1_Guard_NPC"
 msgid "Halt! Do you seek entrance to our fair valley?"
-msgstr "정지! 우리 아름다운 계곡 입구를 찾고있나?"
+msgstr "정지! 우리 아름다운 계곡으로 가는 입구를 찾고있습니까?"
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_2_Any_Default"
 msgid "Yes, we do!"
@@ -18887,7 +18887,7 @@ msgstr "그럼요!"
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_3_Guard_Npc"
 msgid "Then go see Sergeant Nikannen in the Guardhouse!"
-msgstr "그럼 경비대에 있는 니카넨 상사에게 가보게!"
+msgstr "그럼 경비대에 있는 니카넨 상사에게 가보십시오!"
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_4_Any_Default"
 msgid "Thank you! Clear skies! "
@@ -18899,7 +18899,7 @@ msgstr "빛이 함께 하시길!"
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_6_SgtNikannen_NPC"
 msgid "Good day! I am Sergeant Nikannen, officer of the day! "
-msgstr "좋은 날이오! 당직인 니카넨 상사일세! "
+msgstr "좋은 날이오! 당직인 니카넨 상사요! "
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_7_SgtNikannen_NPC"
 msgid "What business brings you to Coparann?"
@@ -18911,7 +18911,7 @@ msgstr "뭔가 찾았습니다."
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_9_SellswordOrElse_Slang"
 msgid "Well, Sarge, we found something of yours on our way here!"
-msgstr "음, 상사, 오는 길에 당신 물건 좀 찾아냈지!"
+msgstr "음, 상사, 오는 길에 당신 물건 좀 찾아냈죠!"
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_10_SgtNikannen_NPC"
 msgid "Of mine? What, exactly?"
@@ -18927,7 +18927,7 @@ msgstr "당신에게 특정 물건을 전달하라고 부탁받았습니다! "
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_13_SgtNikannen_NPC"
 msgid "Asked? By whom?"
-msgstr "부탁? 누구 말이오?"
+msgstr "부탁? 누구한테 말이오?"
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_14_SgtNikannen_NPC"
 msgid "And what items?"
@@ -18939,11 +18939,11 @@ msgstr "갈라르가 보냈죠."
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_16_SpyOrElse_Default"
 msgid "Master Galar Goldentongue asked us to see you - and to bring these…"
-msgstr "갈라르 골든텅이 만나라고 부탁했습니다. 그리고 이걸 가져가라고…"
+msgstr "마스터 갈라르 골든텅이 만나달라고 부탁했습니다. 그리고 이걸 가져가라고…"
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_17_SellswordOrElse_Slang"
 msgid "Here they are, Sarge!"
-msgstr "바로 이거다, 상사!"
+msgstr "여깄소, 상사!"
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_18_SgtNikannen_NPC"
 msgid "The ring, the badge, the insignia…"
@@ -18979,7 +18979,7 @@ msgstr "먼저, 진심 어린 애도를 표합니다! "
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_26_SgtNikannen_NPC"
 msgid "Thanks. Now tell me where, when, how - and who!"
-msgstr "고맙소. 이제 언제 어디서 무슨 일이 있었는지 말해주시오!"
+msgstr "고맙소. 이제 언제 어디서 무슨 일이 있었는지 말해주시오, 그리고 대체 누가 그랬는지도!"
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_27_DiplomatOrElse_Default"
 msgid "Two days ago."
@@ -18987,11 +18987,11 @@ msgstr "이틀 전이었어요."
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_28_SpyOrElse_Default"
 msgid "It was at a small camp in some Manacalon ruins. "
-msgstr "마나칼론 유적 근방에 작은 야영지가 있었죠. "
+msgstr "마나칼론 유적 근방에 작은 야영지에서 있었던 일이죠. "
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_29_SpyOrElse_Default"
 msgid "He was found almost dead by the caravan people."
-msgstr "행상인들이 중상을 입은 그를 발견했습니다."
+msgstr "행상인들이 거의 죽어가는 그를 발견했습니다."
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_30_SpyOrElse_Default"
 msgid "They tried to heal him and then…"
@@ -18999,11 +18999,11 @@ msgstr "얼른 치료하려고 했지만…"
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_31_SpyOrElse_Default"
 msgid "…some travelers in the caravan rushed in…"
-msgstr "... 상단에 있던 여행자들이 달려들었고…"
+msgstr "... 상단과 함께하던 몇몇 여행자들이 달려들어…"
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_32_SpyOrElse_Default"
 msgid "…to kill your friend and the guards Master Galar had posted!"
-msgstr "... 갈라르가 배치한 경비들과 당신 친구들을 죽이려고 했죠!"
+msgstr "... 당신 친구와 갈라르가 배치한 경비들을 죽이려고 했죠!"
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_33_SgtNikannen_NPC"
 msgid "And no idea who those guys were? "
@@ -19019,11 +19019,11 @@ msgstr "로알드가 남긴 말 없었소? "
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_37_SgtNikannen_NPC"
 msgid "Dire news. Listen - go and speak to the Ceannard. Tell him everything…"
-msgstr "끔찍한 소식이로군. 잘 들으시오. 촌장에게 가서 전부 말하라고 전해 주시오…"
+msgstr "끔찍한 소식이로군. 그럼 이제, 가서 촌장과 이야기 하시오. 그에게 전부 알려주시오…"
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_38_SgtNikannen_NPC"
 msgid "…but leave Gromnir out of it for now."
-msgstr "... 하지만 그롬니르는 당분간 냅두라고 하고."
+msgstr "... 하지만 지금은 일단 그롬니르에게는 알리지 맙시다."
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_38_AcademicOrElse_WRITTEN"
 msgid "The Ceannard?"
@@ -19051,7 +19051,7 @@ msgstr "먼저 촌장에게 말하고 나서…"
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_43_SgtNikannen_NPC"
 msgid "…perhaps we can discuss some more!"
-msgstr "... 더 의논을 할 수 있을거요!"
+msgstr "... 의논을 좀 더 할 수 있을 거요!"
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_44_AcademicOrElse_Default"
 msgid "And where is the Ceannard? "
@@ -19059,11 +19059,11 @@ msgstr "촌장은 어디 있는데요? "
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_45_Kythaela_NPC"
 msgid "But we need to talk to the Baron!"
-msgstr "하지만 우린 남작과 할 얘기가 있다!"
+msgstr "하지만 우린 남작과 이야기 해야 한다!"
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_46_SgtNikannen_NPC"
 msgid "You can find him at the Town Hall at this hour."
-msgstr "이 시간에 마을 회관에서 찾을 수 있을거요."
+msgstr "이 시간에는 마을 회관에서 찾을 수 있을거요."
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_47_SgtNikannen_NPC"
 msgid "Give him this note from me and tell him exactly what happened."
@@ -19071,7 +19071,7 @@ msgstr "이 쪽지를 전해주고 정확히 무슨 일이 일어났는지 촌�
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_48_SgtNikannen_NPC"
 msgid "You won't talk to him without my leave…"
-msgstr "내 허가 없이는 말을 걸 수 없을 터…"
+msgstr "내 허가 없이는 그와 이야기할 수 없을 터…"
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_49_SgtNikannen_NPC"
 msgid "Talk to the Ceannard first and then…"
@@ -19079,7 +19079,7 @@ msgstr "먼저 촌장에게 말하고 나서…"
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_50_SgtNikannen_NPC"
 msgid "Here - my signature on the letter from Galar…"
-msgstr "여기. 갈라르가 보낸 편지에 내 서명이 있소…"
+msgstr "여기 - 갈라르의 편지에 서명했소…"
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_51_SgtNikannen_NPC"
 msgid "Take it to Master Warmhearth at the general store."
@@ -19096,11 +19096,11 @@ msgstr "빛이 함께 하길!"
 msgctxt "Narration/&AbjurationQuest_Ceannard01_1_Ceannard_NPC"
 msgid ""
 "Clear skies! Joris Nikannen says you have an interesting story to tell! "
-msgstr "맑은 하늘이 함께하길! 네가 해줄 재미있는 이야기가 있다고 조리스 니카넨이 그러더군! "
+msgstr "맑은 하늘이 함께하길! 요리스 니카넨이 당신이 재미있는 이야기를 해줄 거라고 하더군! "
 
 msgctxt "Narration/&AbjurationQuest_Ceannard01_2_Any_Default"
 msgid "Clear skies to you, my lord!"
-msgstr "맑은 하늘이 함께하시길!"
+msgstr "맑은 하늘이 함께하시길, 촌장님!"
 
 msgctxt "Narration/&AbjurationQuest_Ceannard01_3_Any_Default"
 msgid "Well, it all began when we came upon this caravan…"
@@ -19114,19 +19114,19 @@ msgctxt "Narration/&AbjurationQuest_Ceannard01_5_Ceannard_NPC"
 msgid ""
 "Hmm… military matters I usually leave in the more than competent hands of "
 "the Baron…"
-msgstr "흠... 군대와 관련된 일은 보통 유능한 남작의 손에 맡기는데 말이야…"
+msgstr "흠... 군대 관련 일은 보통 그 쪽에 더 적합한 남작의 손에 맡기는데 말이야…"
 
 msgctxt "Narration/&AbjurationQuest_Ceannard01_6_Ceannard_NPC"
 msgid "…but Nikannen sent you to me."
-msgstr "... 하지만 니카넨이 나에게 보낸 건 너로군."
+msgstr "... 하지만 니카넨이 당신을 내게 보냈군."
 
 msgctxt "Narration/&AbjurationQuest_Ceannard01_7_Ceannard_NPC"
 msgid "You see, he is a rarity in the Stonefist Mercenary company…"
-msgstr "스톤피스트 용병단에서도 보기드문 인재거든…"
+msgstr "봤겠지만, 스톤피스트 용병단에서도 보기 드문 인재로…"
 
 msgctxt "Narration/&AbjurationQuest_Ceannard01_8_Ceannard_NPC"
 msgid "…the one old hand who was born here. "
-msgstr "... 바로 이곳에서 실력을 갈고 닦았거든. "
+msgstr "... 바로 이 곳에서 나고 자라 실력을 쌓았거든. "
 
 msgctxt "Narration/&AbjurationQuest_Ceannard01_9_Ceannard_NPC"
 msgid "We have known each other almost all our lives!"
@@ -19150,7 +19150,7 @@ msgstr "스톤피스트 용병단이요? "
 
 msgctxt "Narration/&AbjurationQuest_Ceannard01_14_Ceannard_NPC"
 msgid "Our military force, since they helped us repel the orc invasion!"
-msgstr "오크의 침략을 막는 것을 도와주었으니 우리 군대나 다름 없지!"
+msgstr "우리의 군대지. 오크의 침략을 막아내는 걸 도와줬을 때부터!"
 
 msgctxt "Narration/&AbjurationQuest_Ceannard01_15_Academic_WRITTEN"
 msgid "Orc invasion? "
@@ -19179,7 +19179,7 @@ msgstr "... 외곽지대에 진을 쳤고 마을까지 약탈하기 직전이었
 msgctxt "Narration/&AbjurationQuest_Ceannard01_21_Ceannard_NPC"
 msgid ""
 "Then Gromnir hit them from behind, and they were between hammer and anvil!"
-msgstr "그런데 그롬니르가 오크의 뒤로 접근한거야. 오크 녀석들은 옴짝달싹 할 수 없게 됐지!"
+msgstr "그런데 그롬니르가 오크의 뒤를 친거야. 오크 녀석들은 망치와 모루 전술에 당해버렸지!"
 
 msgctxt "Narration/&AbjurationQuest_Ceannard01_22_SpyOrElse_WRITTEN"
 msgid "Stonefist?"
@@ -19217,18 +19217,18 @@ msgctxt "Narration/&AbjurationQuest_Ceannard01_30_Highclass_Default"
 msgid ""
 "Far from it! One of her ancestors left family heirlooms hidden in the "
 "fortress. "
-msgstr "아니오! 그녀의 조상님 중 한 명이 성에 숨겨져 있는 가문의 유산을 남겨 주었습니다. "
+msgstr "전혀 아닙니다! 그녀의 조상님 중 한 명이 요새에 숨겨져 있는 가문의 유산을 남겼습니다. "
 
 msgctxt "Narration/&AbjurationQuest_Ceannard01_31_Highclass_Default"
 msgid ""
 "Among those heirlooms, we hope to find clues about the next stage of our "
 "quest!"
-msgstr "그 유산 중에 우리가 수행하는 임무의 다음 단계로 인도해줄 물건을 찾고자 합니다!"
+msgstr "그 유산들 가운데, 우리가 수행하는 임무의 다음 단계로 인도해줄 단서를 찾고자 합니다!"
 
 msgctxt "Narration/&AbjurationQuest_Ceannard01_32_Ceannard_NPC"
 msgid ""
 "Old elven nobility! I am sure I have never seen you before, Lady Kythaela. "
-msgstr "오래된 엘프 귀족 가문! 그런데 당신을 본 기억은 없는 것 같군요, 레이디 키타엘라. "
+msgstr "오래된 엘프 귀족이라! 그런데 당신을 본 기억은 없는 것 같군요, 레이디 키타엘라. "
 
 msgctxt "Narration/&AbjurationQuest_Ceannard01_33_Ceannard_NPC"
 msgid ""
@@ -19236,11 +19236,12 @@ msgid ""
 "couldn't know."
 msgstr "그러니 코파란에 처음 오거나 가끔 여행만 하는 사람들은 알 수 없는 것을 하나만 말해 주시지요."
 
+#, fuzzy
 msgctxt "Narration/&AbjurationQuest_Ceannard01_34_Kythaela_NPC"
 msgid ""
 "In a side valley, there is an Imperial mausoleum of Lanaerach, home of the "
 "honored dead!"
-msgstr "옆쪽 계곡에 명예로운 망자들이 잠들어 있는 라네어아크 영묘가 있소!"
+msgstr "옆쪽 계곡에 명예로운 망자들이 잠들어 있는 제국의 라나에어크 영묘가 있소!"
 
 msgctxt "Narration/&AbjurationQuest_Ceannard01_35_AcademicorElse_WRITTEN"
 msgid "Mausoleum?"
@@ -19258,11 +19259,11 @@ msgctxt "Narration/&AbjurationQuest_Ceannard01_38_Ceannard_NPC"
 msgid ""
 "There is indeed an ancient Imperial mausoleum in a side valley, sealed off "
 "since the Fall of Manacalon!"
-msgstr "분명 마나칼론이 무너진 이후 봉인 되어버린 고대의 영묘가 작은 계곡에 하나 있기는 해!"
+msgstr "분명 고대의 제국 영묘가 옆 계곡에 하나 있기는 해. 마나칼론이 무너진 이후 봉인되어버렸지!"
 
 msgctxt "Narration/&AbjurationQuest_Ceannard01_39_Ceannard_NPC"
 msgid "Not many know of it. Thank you, my lady - I am convinced."
-msgstr "그걸 아는 사람은 많지 않지. 감사합니다. 설득이 되었군요."
+msgstr "그걸 아는 사람은 많지 않지. 감사합니다. 이제 확신이 드는군요."
 
 msgctxt "Narration/&AbjurationQuest_Ceannard01_40_Sellsword_WRITTEN"
 msgid "Lanaerach?"
@@ -19282,7 +19283,7 @@ msgstr "명예로운 망자들을 위해 전통적으로 사용되던 돌이야!
 
 msgctxt "Narration/&AbjurationQuest_Ceannard01_44_Ceannard_NPC"
 msgid "As for the rest of you, you said you were sent by the Legacy Council."
-msgstr "그리고 다른 사람들은 분명 유산 평의회가 보내서 왔다고 했지."
+msgstr "그리고 나머지 사람들 말인데, 유산 평의회가 보내서 왔다고 했지."
 
 msgctxt "Narration/&AbjurationQuest_Ceannard01_45_Ceannard_NPC"
 msgid ""
@@ -19304,7 +19305,7 @@ msgstr "정말 다른 자들에게 빙의할 수 있나?"
 
 msgctxt "Narration/&AbjurationQuest_Ceannard01_49_AcademicorElse_Default"
 msgid "Not possess, exactly…"
-msgstr "정확히 말하자면 빙의는…"
+msgstr "정확히 말하자면 빙의는 아니지만…"
 
 msgctxt "Narration/&AbjurationQuest_Ceannard01_50_AcademicorElse_Default"
 msgid "…what they do is worse…"
@@ -19322,7 +19323,7 @@ msgstr "부탁 하나만 하겠네. 도시를 돌아다니며 사람들과 이�
 
 msgctxt "Narration/&AbjurationQuest_Ceannard01_53_Ceannard_NPC"
 msgid "…then report your impressions to Sergeant Nikannen."
-msgstr "... 그리고나서 알게된 것들을 니카넨에게 보고해 주게나."
+msgstr "... 그리고나서 알게된 것들을 니카넨 상사에게 보고해 주게나."
 
 msgctxt "Narration/&AbjurationQuest_Ceannard01_54_Ceannard_NPC"
 msgid "Not a word about what you told me, though."
@@ -19334,7 +19335,7 @@ msgstr "소락들이 코파란에 있다고 믿으십니까?"
 
 msgctxt "Narration/&AbjurationQuest_Ceannard01_56_Ceannard_NPC"
 msgid "I'll say no more for the time being!"
-msgstr "지금은 더 이상 아무 말 않겠네!"
+msgstr "지금은 더 말하지 않겠네!"
 
 msgctxt "Narration/&AbjurationQuest_Ceannard01_57_Ceannard_NPC"
 msgid "Walk the streets, then see Nikannen! Meanwhile, stay in the light! "
@@ -19342,7 +19343,7 @@ msgstr "사람들과 이야기를 나누고 니카넨에게 가게! 빛이 함�
 
 msgctxt "Narration/&AbjurationQuest_Ceannard01_58_Crownbearer_Default"
 msgid "Clear skies to you, Ceannard! "
-msgstr "맑은 하늘이 함께 하시길! "
+msgstr "맑은 하늘이 함께 하시길, 촌장님! "
 
 msgctxt "Narration/&AbjurationQuest_Merchant01_1_Merchant1_NPC"
 msgid "It's rather silly, really. This young man…"
@@ -19629,7 +19630,7 @@ msgctxt "Narration/&AbjurationQuest_Nikannen_25_SergeantNikannen_NPC"
 msgid ""
 "For the last ten years he's always called me Joris. Now, all of a sudden "
 "it's back to Nikannen. "
-msgstr "지난 10년 간 그는 언제나 저를 조리스라고 불렀습니다. 그러더니 지금은 니카넨이라고 남처럼 부르더군요. "
+msgstr "지난 10년 간 그는 언제나 저를 요리스라고 불렀습니다. 그러더니 지금은 니카넨이라고 남처럼 부르더군요. "
 
 msgctxt "Narration/&AbjurationQuest_Nikannen_26_SergeantNikannen_NPC"
 msgid "Something is wrong. I can feel it. "
@@ -20550,11 +20551,11 @@ msgstr "그롬니르! 에이나르님이시여 감사합니다.. 자네 무사�
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Jail_Aftermath_2_BaronStonefist_NPC"
 msgid "Yes, I am - thanks to Joris and these adventurers, it seems!"
-msgstr "그렇네. 조리스와 이 모험자분들 덕분일걸세!"
+msgstr "그렇네. 요리스와 이 모험자분들 덕분일걸세!"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Jail_Aftermath_3_Ceannard_NPC"
 msgid "Now, old friend - go see Atima with Joris! "
-msgstr "자, 오랜 친구여 - 조리스와 함께 아티마를 찾아가보게! "
+msgstr "자, 오랜 친구여 - 요리스와 함께 아티마를 찾아가보게! "
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Jail_Aftermath_4_BaronStonefist_NPC"
 msgid "I'm fine!"
