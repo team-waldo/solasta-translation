@@ -1,0 +1,107 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-17 17:52+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "EffectProxy/&ProxyDancingLightsDescription"
+msgid "Move the lights up to 12 cells"
+msgstr ""
+
+msgctxt "EffectProxy/&ProxyDancingLightsTitle"
+msgid "Dancing Lights"
+msgstr ""
+
+msgctxt "EffectProxy/&ProxyDarknessDescription"
+msgid "An area of magical darkness."
+msgstr ""
+
+msgctxt "EffectProxy/&ProxyDaylightTitle"
+msgid "Daylight"
+msgstr ""
+
+msgctxt "EffectProxy/&ProxyFlamingSphereDescription"
+msgid "Move the sphere up to 6 cells or slam it into an opponent"
+msgstr ""
+
+msgctxt "EffectProxy/&ProxyFlamingSphereTitle"
+msgid "Flaming Sphere"
+msgstr ""
+
+msgctxt "EffectProxy/&ProxyFogCloudDescription"
+msgid "A very thick fog."
+msgstr ""
+
+msgctxt "EffectProxy/&ProxyIndomitableLightTitle"
+msgid "Indomitable Light"
+msgstr ""
+
+msgctxt "EffectProxy/&ProxySleetStormDescription"
+msgid "Sleet Storm"
+msgstr ""
+
+msgctxt "EffectProxy/&ProxySpiritualWeaponDescription"
+msgid "Move the weapon up to 4 cells and strike an opponent"
+msgstr ""
+
+msgctxt "EffectProxy/&ProxySpiritualWeaponTitle"
+msgid "Spiritual Weapon"
+msgstr ""
+
+msgctxt "EffectProxy/&ProxyStinkingCloudDescription"
+msgid "A cloud of incapacitating, noxious gas."
+msgstr ""
+
+msgctxt "EffectProxy/&ProxyWallOfFireDescription"
+msgid "A burning wall that injures creatures in or next to it."
+msgstr ""
+
+msgctxt "EffectProxy/&ProxyWindWallDescription"
+msgid ""
+"A wall of wind that causes damage, pushes creatures and objects away, and "
+"disperses fogs and gases."
+msgstr ""
+
+msgctxt "EffectProxy/&ProxySilenceDescription"
+msgid "An area of complete silence."
+msgstr ""
+
+msgctxt "EffectProxy/&ProxyIceStormDescription"
+msgid "Ice Storm"
+msgstr ""
+
+msgctxt "EffectProxy/&ProxyGuardianOfFaithDescription"
+msgid "Guardian of Faith"
+msgstr ""
+
+msgctxt "EffectProxy/&ProxyCloudKillDescription"
+msgid "A thick and deadly poisonous fog."
+msgstr ""
+
+msgctxt "EffectProxy/&ProxyWallOfForceDescription"
+msgid "Conjures an invisible wall that blocks movement and attacks."
+msgstr ""
+
+msgctxt "EffectProxy/&ProxyMoonBeamTitle"
+msgid "Moon Beam"
+msgstr ""
+
+msgctxt "EffectProxy/&ProxyMoonBeamDescription"
+msgid "Moves the moon beam up to 12 cells."
+msgstr ""
+
+msgctxt "EffectProxy/&ProxyCallLightningTitle"
+msgid "Call Lightning"
+msgstr ""
+
+msgctxt "EffectProxy/&ProxyCallLightningDescription"
+msgid "Strike all targets within 1 cell of the impact with lightning damage."
+msgstr ""

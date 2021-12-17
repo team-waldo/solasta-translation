@@ -1,17 +1,16 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-10-21 12:29+0000\n"
-"Last-Translator: Jin <byungjinjun55@gmail.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/prop/ko/>\n"
-"Language: ko\n"
+"POT-Creation-Date: 2021-12-17 17:52+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "Prop/&CandelabraTitle"
 msgid "Candelabra"
@@ -302,7 +301,6 @@ msgctxt "Prop/&FireplaceTitle"
 msgid "Fireplace"
 msgstr "난로"
 
-#, fuzzy
 msgctxt "Prop/&GlobeTitle"
 msgid "Globe"
 msgstr "전등"
@@ -335,7 +333,6 @@ msgctxt "Prop/&ShelvesTitle"
 msgid "Shelves"
 msgstr "선반"
 
-#, fuzzy
 msgctxt "Prop/&StillTitle"
 msgid "Still"
 msgstr "증류기"
@@ -368,7 +365,6 @@ msgctxt "Prop/&WorkTableTitle"
 msgid "Work Table"
 msgstr "작업대"
 
-#, fuzzy
 msgctxt "Prop/&WallSimpleTitle"
 msgid "Free Wall"
 msgstr "독립벽"
@@ -437,7 +433,6 @@ msgctxt "Prop/&RocksTitle"
 msgid "Rocks"
 msgstr "바위"
 
-#, fuzzy
 msgctxt "Prop/&SkinsTitle"
 msgid "Skins"
 msgstr "가죽"
@@ -470,7 +465,6 @@ msgctxt "Prop/&TotemTitle"
 msgid "Totem"
 msgstr "토템"
 
-#, fuzzy
 msgctxt "Prop/&WoodenPlatformTitle"
 msgid "Wooden Platform"
 msgstr "나무 발판"
@@ -523,7 +517,6 @@ msgctxt "Prop/&FieldBlockedDescription"
 msgid "Field with crops"
 msgstr "작물이 있는 밭"
 
-#, fuzzy
 msgctxt "Prop/&FieldDifficultDescription"
 msgid "An open field with difficult terrain"
 msgstr "어려운 지형으로 뒤덮인 개활지"
@@ -590,7 +583,6 @@ msgid ""
 "combination with an exit/entrance gadget"
 msgstr "던전의 출입구를 표시하는 가짜 사다리입니다. 출입구 장치와 연동하여 사용됩니다"
 
-#, fuzzy
 msgctxt "Prop/&ArchTitle"
 msgid "Arch"
 msgstr "아치 문"
@@ -603,7 +595,6 @@ msgctxt "Prop/&ColumnDestroyedTitle"
 msgid "Destroyed Column"
 msgstr "붕괴된 기둥"
 
-#, fuzzy
 msgctxt "Prop/&ColumnLowgroundTitle"
 msgid "Lowground Column"
 msgstr "장식용 기둥"
@@ -656,7 +647,6 @@ msgctxt "Prop/&CookingStuffTitle"
 msgid "Cooking pot"
 msgstr "요리솥"
 
-#, fuzzy
 msgctxt "Prop/&ArchEndTitle"
 msgid "Destroyed Arch"
 msgstr "붕괴된 아치문"
@@ -665,7 +655,6 @@ msgctxt "Prop/&ColumnTitle"
 msgid "Column"
 msgstr "기둥"
 
-#, fuzzy
 msgctxt "Prop/&RuinedKioskTitle"
 msgid "Ruined kiosk"
 msgstr "파괴된 키오스크"
@@ -689,3 +678,251 @@ msgstr "의식의 돌"
 msgctxt "Prop/&SkullPileTitle"
 msgid "Skull Pile"
 msgstr "해골 더미"
+
+msgctxt "Prop/&Beam_ScreenTitle"
+msgid "Beam Screen"
+msgstr ""
+
+msgctxt "Prop/&Tavern_CounterTitle"
+msgid "Tavern Counter"
+msgstr ""
+
+msgctxt "Prop/&Walls_LowTitle"
+msgid "Low Wall"
+msgstr ""
+
+msgctxt "Prop/&PennantTitle"
+msgid "Pennant"
+msgstr ""
+
+msgctxt "Prop/&HousePatchTitle"
+msgid "Market"
+msgstr ""
+
+msgctxt "Prop/&Drying_ClothesTitle"
+msgid "Hanging Clothes"
+msgstr ""
+
+msgctxt "Prop/&WoodFenceTitle"
+msgid "Wood Fences"
+msgstr ""
+
+msgctxt "Prop/&FountainTitle"
+msgid "Fountain"
+msgstr ""
+
+msgctxt "Prop/&GallowTitle"
+msgid "Gallow"
+msgstr ""
+
+msgctxt "Prop/&Flowers_PatchTitle"
+msgid "Flower Bush"
+msgstr ""
+
+msgctxt "Prop/&Flowerbed_LineTitle"
+msgid "Flowerbed Line"
+msgstr ""
+
+msgctxt "Prop/&Garden_GroundTitle"
+msgid "Garden Ground"
+msgstr ""
+
+msgctxt "Prop/&Garden_HedgeTitle"
+msgid "Garden Hedge"
+msgstr ""
+
+msgctxt "Prop/&KioskTitle"
+msgid "Garden Kiosk"
+msgstr ""
+
+msgctxt "Prop/&Wall_CreeperTitle"
+msgid "Wall Creeper"
+msgstr ""
+
+msgctxt "Prop/&Wall_CreeperDescription"
+msgid "Vegetation patch to place on top of walls"
+msgstr ""
+
+msgctxt "Prop/&HouseTitle"
+msgid "House"
+msgstr ""
+
+msgctxt "Prop/&Paved_Road_StraightTitle"
+msgid "Paved Road Straight"
+msgstr ""
+
+msgctxt "Prop/&Paved_Road_SquareTitle"
+msgid "Paved Road Square"
+msgstr ""
+
+msgctxt "Prop/&Paved_Road_TurnTitle"
+msgid "Paved Road Turn"
+msgstr ""
+
+msgctxt "Prop/&Paved_Road_TShapeTitle"
+msgid "Paved Road T-Shape"
+msgstr ""
+
+msgctxt "Prop/&Paved_Road_CrossTitle"
+msgid "Paved Road Cross Section"
+msgstr ""
+
+msgctxt "Prop/&Paved_Road_DeadEndTitle"
+msgid "Paved Road Dead End"
+msgstr ""
+
+msgctxt "Prop/&Information_BoardTitle"
+msgid "Information Board"
+msgstr ""
+
+msgctxt "Prop/&SeparatorTitle"
+msgid "Separator"
+msgstr ""
+
+msgctxt "Prop/&SeparatorDescription"
+msgid "Wooden beam to place between thin walls"
+msgstr ""
+
+msgctxt "Prop/&JuniperGroundTitle"
+msgid "Juniper Ground Patch"
+msgstr ""
+
+msgctxt "Prop/&ManholeCoverTitle"
+msgid "Manhole Cover"
+msgstr ""
+
+msgctxt "Prop/&Merchant_BannerTitle"
+msgid "Merchant Banner"
+msgstr ""
+
+msgctxt "Prop/&Merchant_SignTitle"
+msgid "Merchant Sign"
+msgstr ""
+
+msgctxt "Prop/&NightStandTitle"
+msgid "Nightstand"
+msgstr ""
+
+msgctxt "Prop/&ShopStructureTitle"
+msgid "Shop Structure"
+msgstr ""
+
+msgctxt "Prop/&ShopBookStandTitle"
+msgid "Book Shop Stand"
+msgstr ""
+
+msgctxt "Prop/&ShopFoodStandTitle"
+msgid "Food Shop Stand"
+msgstr ""
+
+msgctxt "Prop/&ShopGeneralStoreTitle"
+msgid "General Store Stand"
+msgstr ""
+
+msgctxt "Prop/&GenericShopTitle"
+msgid "Generic Shop Stand"
+msgstr ""
+
+msgctxt "Prop/&ShopMagicTitle"
+msgid "Magic Shop Stand"
+msgstr ""
+
+msgctxt "Prop/&ShopBookCounterTitle"
+msgid "Book Shop Counter"
+msgstr ""
+
+msgctxt "Prop/&ShopFoodCounterTitle"
+msgid "Food Shop Counter"
+msgstr ""
+
+msgctxt "Prop/&ShopGeneralCounterTitle"
+msgid "General Shop Counter"
+msgstr ""
+
+msgctxt "Prop/&Shop_WoodenShedTitle"
+msgid "Wooden Shack"
+msgstr ""
+
+msgctxt "Prop/&TownSeparationWallsTitle"
+msgid "Town Inner Walls"
+msgstr ""
+
+msgctxt "Prop/&TownSeparationButressTitle"
+msgid "Town Inner Butress"
+msgstr ""
+
+msgctxt "Prop/&SmallWallsLadderTitle"
+msgid "Easy Climb Ivy"
+msgstr ""
+
+msgctxt "Prop/&SmallWallsLadderDescription"
+msgid "To place on wall blockers ONLY"
+msgstr ""
+
+msgctxt "Prop/&StableTitle"
+msgid "Stable"
+msgstr ""
+
+msgctxt "Prop/&Statue_Little_EmperorTitle"
+msgid "Statue of a young Emperor"
+msgstr ""
+
+msgctxt "Prop/&Statue_Maisy_JadeTitle"
+msgid "Statue of Maisy (jade)"
+msgstr ""
+
+msgctxt "Prop/&Statue_Maisy_StoneTitle"
+msgid "Statue of Maisy (stone)"
+msgstr ""
+
+msgctxt "Prop/&Statue_Maisy_MarbleTitle"
+msgid "Statue of Maisy (marble)"
+msgstr ""
+
+msgctxt "Prop/&Statue_MisayeTitle"
+msgid "Statue of Misaye"
+msgstr ""
+
+msgctxt "Prop/&StreetLampostTitle"
+msgid "Street Lamp"
+msgstr ""
+
+msgctxt "Prop/&StairsConnectorTitle"
+msgid "Stairs Connector"
+msgstr ""
+
+msgctxt "Prop/&StairsConnectorDescription"
+msgid "A stair case to connect low ground to high ground rooms"
+msgstr ""
+
+msgctxt "Prop/&WallButressTitle"
+msgid "Butress"
+msgstr ""
+
+msgctxt "Prop/&WoodPalissadeTitle"
+msgid "Wood Palissade"
+msgstr ""
+
+msgctxt "Prop/&WoodPalissadeDescription"
+msgid "Grants heavy cover"
+msgstr ""
+
+msgctxt "Prop/&House_ExtensionTitle"
+msgid "Extension (house)"
+msgstr ""
+
+msgctxt "Prop/&House_ExtensionDescription"
+msgid "To place along house's walls"
+msgstr ""
+
+msgctxt "Prop/&Wooden_BeamTitle"
+msgid "Wooden Beam"
+msgstr ""
+
+msgctxt "Prop/&Y_SeparatorTitle"
+msgid "Y Shape Wooden Beam"
+msgstr ""
+
+msgctxt "Prop/&Y_SeparatorDescription"
+msgid "To be placed on walls (not thin walls)"
+msgstr ""

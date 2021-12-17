@@ -1,0 +1,103 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-17 17:52+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "Lore/&ObservableText_DLC1_Marches_01"
+msgid "TBC"
+msgstr ""
+
+msgctxt "Lore/&ObservableText_DLC1_Marches_02"
+msgid "TBC"
+msgstr ""
+
+msgctxt "Lore/&ObservableText_DLC1_Marches_03"
+msgid "TBC"
+msgstr ""
+
+msgctxt "Lore/&ObservableText_DLC1_Marches_04"
+msgid "TBC"
+msgstr ""
+
+msgctxt "Lore/&ObservableText_DLC1_Marches_05"
+msgid "TBC"
+msgstr ""
+
+msgctxt "Lore/&ObservableText_DLC1_Marches_06"
+msgid "TBC"
+msgstr ""
+
+msgctxt "Lore/&ObservableText_DLC1_Complex_01"
+msgid "According to this document, this building has an underground level!"
+msgstr ""
+
+msgctxt "Lore/&ObservableText_DLC1_Complex_02"
+msgid "It seems the whole complex using some kind of mana prisms as keys."
+msgstr ""
+
+msgctxt "Lore/&ObservableText_DLC1_Complex_03"
+msgid "A stack of research notes."
+msgstr ""
+
+msgctxt "Lore/&ObservableText_DLC1_Complex_04"
+msgid "Advanced Study of Biology"
+msgstr ""
+
+msgctxt "Lore/&ObservableText_DLC1_Complex_05"
+msgid "Mana and the Principles of Magically-Powered Elements"
+msgstr ""
+
+msgctxt "Lore/&ObservableText_DLC1_Complex_06"
+msgid ""
+"A small note reading: \"Access to the Tunnels is currently blocked. Use the "
+"elevator if you need to reach the lower levels.\""
+msgstr ""
+
+msgctxt "Lore/&ObservableText_Wanderer_01"
+msgid "You need a lever to activate the rail switcher."
+msgstr ""
+
+msgctxt "Lore/&ObservableText_Wanderer_02"
+msgid "You put the lever in. It should work now."
+msgstr ""
+
+msgctxt "Lore/&ObservableText_Wanderer_03"
+msgid ""
+"This door is heavily reinforced and you'll need tremendous force to push it "
+"open."
+msgstr ""
+
+msgctxt "Lore/&ObservableText_Wanderer_04"
+msgid "There's no eternal rest."
+msgstr ""
+
+msgctxt "Lore/&ObservableText_Wanderer_05"
+msgid "Bring light only to those whose souls are not resting."
+msgstr ""
+
+msgctxt "Lore/&ObservableText_Wanderer_06"
+msgid "Leave others in the darkness of death."
+msgstr ""
+
+msgctxt "Lore/&Wanderer_Tomb01"
+msgid ""
+"Lasoriath Strong-Heart\n"
+"Captain of the first century of the 2d Legion\n"
+"Honored Dead of the Empire"
+msgstr ""
+
+msgctxt "Lore/&Wanderer_Tomb02"
+msgid ""
+"Kerathir Swift-Spell\n"
+"Commander of the first Shock Arcanist company of the 2d Legion\n"
+"Honored Dead of the Empire"
+msgstr ""

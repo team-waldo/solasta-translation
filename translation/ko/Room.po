@@ -1,8 +1,9 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-15 05:02+0900\n"
+"POT-Creation-Date: 2021-12-17 17:52+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -90,3 +91,39 @@ msgstr "폐허로 구성된 큰 공터"
 msgctxt "Room/&Ruin_Small_12CTitle"
 msgid "Small Clearing with ruins"
 msgstr "폐허로 구성된 작은 공터"
+
+msgctxt "Room/&Town_Large_24CTitle"
+msgid "Large district"
+msgstr ""
+
+msgctxt "Room/&Town_Medium_12CTitle"
+msgid "Small district"
+msgstr ""
+
+msgctxt "Room/&Town_Corner_12CTitle"
+msgid "Small district with walls"
+msgstr ""
+
+msgctxt "Room/&Town_Entrance_24CTitle"
+msgid "Town entrance"
+msgstr ""
+
+msgctxt "Room/&Town_Exterior_MediumTitle"
+msgid "Small district outside"
+msgstr ""
+
+msgctxt "Room/&Town_OuterWalls_MediumTitle"
+msgid "Small district with walls"
+msgstr ""
+
+msgctxt "Room/&Big_HighGround_24CTitle"
+msgid "Big Room with highground"
+msgstr ""
+
+msgctxt "Room/&Room_12CTitle"
+msgid "Small Room"
+msgstr ""
+
+msgctxt "Room/&Room_High_12CTitle"
+msgid "Small Room with highground"
+msgstr ""

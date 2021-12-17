@@ -1,8 +1,9 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-15 05:02+0900\n"
+"POT-Creation-Date: 2021-12-17 17:52+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,6 +11,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "Feat/&AcuteSensesDescription"
+msgid ""
+msgstr ""
+
+msgctxt "Feat/&AcuteSensesTitle"
+msgid ""
+msgstr ""
 
 msgctxt "Feat/&AlertDescription"
 msgid ""
@@ -178,6 +187,14 @@ msgstr "당신은 튼튼하고 건장하여 건강을 1 얻고(최대 20), 체�
 msgctxt "Feat/&RobustTitle"
 msgid "Robust"
 msgstr "튼튼한 신체"
+
+msgctxt "Feat/&SylvanArcherDescription"
+msgid ""
+msgstr ""
+
+msgctxt "Feat/&SylvanArcherTitle"
+msgid ""
+msgstr ""
 
 msgctxt "Feat/&Creed_Of_EinarDescription"
 msgid ""

@@ -1,18 +1,437 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-10-21 12:29+0000\n"
-"Last-Translator: Jin <byungjinjun55@gmail.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/mainmenu/"
-"ko/>\n"
-"Language: ko\n"
+"POT-Creation-Date: 2021-12-17 17:52+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "MainMenu/&MultiplayerTitle"
+msgid "Multiplayer"
+msgstr ""
+
+msgctxt "MainMenu/&MultiplayerDescription"
+msgid "Allows you to host or join a multiplayer game session."
+msgstr ""
+
+msgctxt "MainMenu/&MultiplayerAlphaTitle"
+msgid "Alpha"
+msgstr ""
+
+msgctxt "MainMenu/&CreateGameToggleTitle"
+msgid "Create Game"
+msgstr ""
+
+msgctxt "MainMenu/&JoinGameToggleTitle"
+msgid "Join Game"
+msgstr ""
+
+msgctxt "MainMenu/&SessionParameterNameTitle"
+msgid "Session Name"
+msgstr ""
+
+msgctxt "MainMenu/&SessionParameterNameDescription"
+msgid "The name used to refer to this game session and to join it."
+msgstr ""
+
+msgctxt "MainMenu/&SessionParameterPasswordTitle"
+msgid "Password"
+msgstr ""
+
+msgctxt "MainMenu/&SessionParameterPasswordDescription"
+msgid ""
+"The password required to join the session. If empty, no password is required"
+msgstr ""
+
+msgctxt "MainMenu/&SessionParameterVisibilityTitle"
+msgid "Visibility"
+msgstr ""
+
+msgctxt "MainMenu/&SessionParameterVisibilityDescription"
+msgid ""
+"Determines whether this game session is visible to other players or is "
+"hidden."
+msgstr ""
+
+msgctxt "MainMenu/&SessionParameterVisibilityPublicTitle"
+msgid "Public"
+msgstr ""
+
+msgctxt "MainMenu/&SessionParameterVisibilityPrivateTitle"
+msgid "Private"
+msgstr ""
+
+msgctxt "MainMenu/&SessionParameterMaxPlayersTitle"
+msgid "Max Players"
+msgstr ""
+
+msgctxt "MainMenu/&SessionParameterMaxPlayersDescription"
+msgid ""
+"The maximum number of players who can join this session, including the host."
+msgstr ""
+
+msgctxt "MainMenu/&CreateGameButtonDescription"
+msgid ""
+"Confirm the creation of the game session and proceed to the New Adventure "
+"panel."
+msgstr ""
+
+msgctxt "MainMenu/&JoinGameButtonDescription"
+msgid "Join the selected game session."
+msgstr ""
+
+msgctxt "MainMenu/&JoinGameSessionNameDescription"
+msgid ""
+"The name of the game session you wish to join. You can type in the name of a "
+"private game if you have it, as the list above only shows public games."
+msgstr ""
+
+msgctxt "MainMenu/&RefreshListButtonTitle"
+msgid "Refresh List"
+msgstr ""
+
+msgctxt "MainMenu/&RefreshListButtonDescription"
+msgid "Click to refresh the list of game sessions."
+msgstr ""
+
+msgctxt "MainMenu/&RefreshingRoomsTitle"
+msgid "Refreshing..."
+msgstr ""
+
+msgctxt "MainMenu/&LockedHeaderTitle"
+msgid "Locked"
+msgstr ""
+
+msgctxt "MainMenu/&LockedHeaderDescription"
+msgid "Some game sessions are locked, requiring a password to join."
+msgstr ""
+
+msgctxt "MainMenu/&PlayersHeaderTitle"
+msgid "Players"
+msgstr ""
+
+msgctxt "MainMenu/&PlayersHeaderDescription"
+msgid "The number of players (current / max) for this game session"
+msgstr ""
+
+msgctxt "MainMenu/&CampaignHeaderTitle"
+msgid "Campaign"
+msgstr ""
+
+msgctxt "MainMenu/&CampaignHeaderDescription"
+msgid "The name of the campaign or location used by this game session."
+msgstr ""
+
+msgctxt "MainMenu/&InvitePlayerButtonTitle"
+msgid "Invite"
+msgstr ""
+
+msgctxt "MainMenu/&InvitePlayerButtonDescription"
+msgid "Invite a player to join the game."
+msgstr ""
+
+msgctxt "MainMenu/&RemotePlayerStatusMissingPlayerTitle"
+msgid "Missing Player"
+msgstr ""
+
+msgctxt "MainMenu/&RemotePlayerStatusSelectingCharacterTitle"
+msgid "Selecting Character"
+msgstr ""
+
+msgctxt "MainMenu/&RemotePlayerStatusReadyTitle"
+msgid "Ready"
+msgstr ""
+
+msgctxt "MainMenu/&ReadyGameTitle"
+msgid "Ready"
+msgstr ""
+
+msgctxt "MainMenu/&ReadyGameDescription"
+msgid "Notify the host that you are ready to start the game."
+msgstr ""
+
+msgctxt "MainMenu/&StopReadyGameTitle"
+msgid "Stop"
+msgstr ""
+
+msgctxt "MainMenu/&StopReadyGameDescription"
+msgid "Cancel your ready status."
+msgstr ""
+
+msgctxt "MainMenu/&LoadMultiplayerGameButtonTitle"
+msgid "Load Game"
+msgstr ""
+
+msgctxt "MainMenu/&LoadMultiplayerGameButtonDescription"
+msgid "Open the loading panel to select a multiplayer game."
+msgstr ""
+
+msgctxt "MainMenu/&SessionTypeHeaderTitle"
+msgid "Type"
+msgstr ""
+
+msgctxt "MainMenu/&SessionTypeNewDescription"
+msgid "This is a new session that is just starting."
+msgstr ""
+
+msgctxt "MainMenu/&SessionTypeSavedDescription"
+msgid ""
+"This session is based on a saved game with a set list of player characters."
+msgstr ""
+
+msgctxt "MainMenu/&UserLocationsTitle"
+msgid "Dungeon Maker"
+msgstr "던전 메이커"
+
+msgctxt "MainMenu/&UserLocationsDescription"
+msgid ""
+"Select dungeons & locations created by the community to edit or play, or "
+"create your own"
+msgstr "유저들이 만든 던전과 맵을 편집 또는 사용해보거나, 직접 만들어봅니다"
+
+msgctxt "MainMenu/&UserLocationsBrowserTitle"
+msgid "User Locations"
+msgstr "유저 제작 맵"
+
+msgctxt "MainMenu/&UserLocationsSortTitleTitle"
+msgid "Title"
+msgstr "제목"
+
+msgctxt "MainMenu/&UserLocationsSortLevelTitle"
+msgid "Level"
+msgstr "레벨"
+
+msgctxt "MainMenu/&UserLocationsSortSizeTitle"
+msgid "Size"
+msgstr "규모"
+
+msgctxt "MainMenu/&UserLocationsSortEnvironmentTitle"
+msgid "Environment"
+msgstr "환경"
+
+msgctxt "MainMenu/&UserLocationsSortOperationalTitle"
+msgid "Ready"
+msgstr "준비"
+
+msgctxt "MainMenu/&UserLocationsSortOperationalYesTitle"
+msgid "Yes"
+msgstr "예"
+
+msgctxt "MainMenu/&UserLocationsSortOperationalNoTitle"
+msgid "No"
+msgstr "아니오"
+
+msgctxt "MainMenu/&UserLocationsNewTitle"
+msgid "New Location"
+msgstr "새로 만들기"
+
+msgctxt "MainMenu/&UserLocationsNewDescription"
+msgid "Creates a new user location"
+msgstr "새로운 커스텀 맵을 생성합니다"
+
+msgctxt "MainMenu/&UserLocationsEditTitle"
+msgid "Edit"
+msgstr "편집"
+
+msgctxt "MainMenu/&UserLocationsEditDescription"
+msgid "Edits the selected user location"
+msgstr "선택한 유저 제작 맵을 편집합니다"
+
+msgctxt "MainMenu/&UserLocationsDeleteTitle"
+msgid "Delete"
+msgstr "삭제"
+
+msgctxt "MainMenu/&UserLocationsDeleteDescription"
+msgid "Deletes the selected user location"
+msgstr "선택한 유저 제작 맵을 삭제합니다"
+
+msgctxt "MainMenu/&UserLocationHeaderTitle"
+msgid "User Location"
+msgstr "유저 제작 맵"
+
+msgctxt "MainMenu/&UserLocationChangeButtonTitle"
+msgid "Change"
+msgstr "변경"
+
+msgctxt "MainMenu/&DungeonMakerBetaTitle"
+msgid "Beta"
+msgstr "베타"
+
+msgctxt "MainMenu/&UserLocationsSortAuthorTitle"
+msgid "Author"
+msgstr "제작자"
+
+msgctxt "MainMenu/&UserLocationSizeFormat"
+msgid "{0}x{1}"
+msgstr "{0}x{1}"
+
+msgctxt "MainMenu/&UserLocationsBrowseFilesTitle"
+msgid "Browse Files"
+msgstr "파일 찾기"
+
+msgctxt "MainMenu/&UserLocationsBrowseFilesDescription"
+msgid "Opens the system folder containing the user location's JSON files"
+msgstr "유저 제작 맵 JSON 파일이 위치한 시스템 폴더를 엽니다"
+
+msgctxt "MainMenu/&UserLocationsPublishTitle"
+msgid "Publish"
+msgstr "게시"
+
+msgctxt "MainMenu/&UserLocationsPlaytestTitle"
+msgid "Playtest"
+msgstr ""
+
+msgctxt "MainMenu/&UserLocationsPlaytestDescription"
+msgid "Quick launch the selected location with a predefined party"
+msgstr ""
+
+msgctxt "MainMenu/&UserLocationsPlayLocationTitle"
+msgid "Play"
+msgstr "플레이"
+
+msgctxt "MainMenu/&UserLocationsPlayLocationDescription"
+msgid "Set up a game with this location and select a party of characters"
+msgstr "이 맵을 탐험할 캐릭터 파티를 선택합니다"
+
+msgctxt "MainMenu/&UserLocationsBrowseWorkshopTitle"
+msgid "Browse Workshop"
+msgstr "창작마당 보기"
+
+msgctxt "MainMenu/&UserLocationsBrowseWorkshopDescription"
+msgid "Opens the workshop to browse locations made by other players"
+msgstr "창작마당을 열어 다른 유저가 만든 맵을 찾아봅니다"
+
+msgctxt "MainMenu/&UserContentSortLocationsCountTitle"
+msgid "Locations"
+msgstr "맵"
+
+msgctxt "MainMenu/&UserCampaignsNewTitle"
+msgid "New Campaign"
+msgstr "새 캠페인"
+
+msgctxt "MainMenu/&UserCampaignsNewDescription"
+msgid "Creates a new user campaign"
+msgstr "새로운 유저 캠페인을 생성합니다"
+
+msgctxt "MainMenu/&UserCampaignsEditTitle"
+msgid "Edit"
+msgstr "편집"
+
+msgctxt "MainMenu/&UserCampaignsEditDescription"
+msgid "Edits the selected user campaign"
+msgstr "선택한 유저 캠페인을 편집합니다"
+
+msgctxt "MainMenu/&UserCampaignsDeleteDescription"
+msgid "Deletes the selected user campaign"
+msgstr "선택한 유저 캠페인을 삭제합니다"
+
+msgctxt "MainMenu/&UserCampaignsPlayTitle"
+msgid "Play"
+msgstr "플레이"
+
+msgctxt "MainMenu/&UserCampaignsPlayDescription"
+msgid "Starts a game session in the selected campaign"
+msgstr "선택한 캠페인으로 게임 세션을 시작합니다"
+
+msgctxt "MainMenu/&UserContentBrowseFilesTitle"
+msgid "Browse Files"
+msgstr "파일 찾아보기"
+
+msgctxt "MainMenu/&UserContentBrowseFilesDescription"
+msgid "Opens the system folder containing the user content JSON files"
+msgstr "유저 제작 JSON 파일이 위치한 시스템 폴더를 엽니다"
+
+msgctxt "MainMenu/&UserItemsNewTitle"
+msgid "New Item"
+msgstr ""
+
+msgctxt "MainMenu/&UserItemsNewDescription"
+msgid "Creates a new custom item"
+msgstr ""
+
+msgctxt "MainMenu/&UserItemsEditDescription"
+msgid "Edits the selected custom item"
+msgstr ""
+
+msgctxt "MainMenu/&UserItemsDeleteDescription"
+msgid "Deletes the selected custom item"
+msgstr ""
+
+msgctxt "MainMenu/&UserMonstersNewTitle"
+msgid "New Monster"
+msgstr ""
+
+msgctxt "MainMenu/&UserMonstersNewDescription"
+msgid "Creates a new custom monster"
+msgstr ""
+
+msgctxt "MainMenu/&UserMonstersEditDescription"
+msgid "Edits the selected custom monster"
+msgstr ""
+
+msgctxt "MainMenu/&UserMonstersDeleteDescription"
+msgid "Deletes the selected custom monster"
+msgstr ""
+
+msgctxt "MainMenu/&UserNpcsNewTitle"
+msgid "New NPC"
+msgstr ""
+
+msgctxt "MainMenu/&UserNpcsNewDescription"
+msgid "Creates a new custom NPC"
+msgstr ""
+
+msgctxt "MainMenu/&UserNpcsEditDescription"
+msgid "Edits the selected custom NPC"
+msgstr ""
+
+msgctxt "MainMenu/&UserNpcsDeleteDescription"
+msgid "Deletes the selected custom NPC"
+msgstr ""
+
+msgctxt "MainMenu/&UserMerchantInventoryNewTitle"
+msgid "New Inventory"
+msgstr ""
+
+msgctxt "MainMenu/&UserMerchantInventoryNewDescription"
+msgid "Creates a new custom Merchant Inventory"
+msgstr ""
+
+msgctxt "MainMenu/&UserMerchantInventoryEditDescription"
+msgid "Edits the selected custom Merchant Inventory"
+msgstr ""
+
+msgctxt "MainMenu/&UserMerchantInventoryDeleteDescription"
+msgid "Deletes the selected custom Merchant Inventory"
+msgstr ""
+
+msgctxt "MainMenu/&UserContentRefreshTitle"
+msgid "Refresh"
+msgstr ""
+
+msgctxt "MainMenu/&UserContentRefreshDescription"
+msgid "Refresh the list of user content gathered through this workshop"
+msgstr ""
+
+msgctxt "MainMenu/&UserContentSubscribedSteamDescription"
+msgid "This content has been subscribed and downloaded from the Steam Workshop"
+msgstr ""
+
+msgctxt "MainMenu/&UserContentSubscribedModIODescription"
+msgid "This content has been subscribed and downloaded from Mod.IO"
+msgstr ""
+
+#, fuzzy
+#| msgid "Opens the interface to publish a location online"
+msgctxt "MainMenu/&UserLocationsPublishDescription"
+msgid "Opens the interface to publish content online"
+msgstr "맵을 온라인에 게시하기 위해 창을 엽니다"
 
 msgctxt "MainMenu/&ChangeCampaignDescription"
 msgid "Click to open a selection of adventures."
@@ -238,168 +657,10 @@ msgctxt "MainMenu/&UserLocationsLoggedInAsTitle"
 msgid "Logged in as:"
 msgstr "현재 계정:"
 
-msgctxt "MainMenu/&UserLocationsTitle"
-msgid "Dungeon Maker"
-msgstr "던전 메이커"
+msgctxt "MainMenu/&RefreshDLCTitle"
+msgid "Refresh DLC"
+msgstr ""
 
-msgctxt "MainMenu/&UserLocationsDescription"
-msgid ""
-"Select dungeons & locations created by the community to edit or play, or "
-"create your own"
-msgstr "유저들이 만든 던전과 맵을 편집 또는 사용해보거나, 직접 만들어봅니다"
-
-msgctxt "MainMenu/&UserLocationsBrowserTitle"
-msgid "User Locations"
-msgstr "유저 제작 맵"
-
-msgctxt "MainMenu/&UserLocationsSortTitleTitle"
-msgid "Title"
-msgstr "제목"
-
-msgctxt "MainMenu/&UserLocationsSortLevelTitle"
-msgid "Level"
-msgstr "레벨"
-
-msgctxt "MainMenu/&UserLocationsSortSizeTitle"
-msgid "Size"
-msgstr "규모"
-
-msgctxt "MainMenu/&UserLocationsSortEnvironmentTitle"
-msgid "Environment"
-msgstr "환경"
-
-msgctxt "MainMenu/&UserLocationsSortOperationalTitle"
-msgid "Ready"
-msgstr "준비"
-
-msgctxt "MainMenu/&UserLocationsSortOperationalYesTitle"
-msgid "Yes"
-msgstr "예"
-
-msgctxt "MainMenu/&UserLocationsSortOperationalNoTitle"
-msgid "No"
-msgstr "아니오"
-
-msgctxt "MainMenu/&UserLocationsNewTitle"
-msgid "New Location"
-msgstr "새로 만들기"
-
-msgctxt "MainMenu/&UserLocationsNewDescription"
-msgid "Creates a new user location"
-msgstr "새로운 커스텀 맵을 생성합니다"
-
-msgctxt "MainMenu/&UserLocationsEditTitle"
-msgid "Edit"
-msgstr "편집"
-
-msgctxt "MainMenu/&UserLocationsEditDescription"
-msgid "Edits the selected user location"
-msgstr "선택한 유저 제작 맵을 편집합니다"
-
-msgctxt "MainMenu/&UserLocationsDeleteTitle"
-msgid "Delete"
-msgstr "삭제"
-
-msgctxt "MainMenu/&UserLocationsDeleteDescription"
-msgid "Deletes the selected user location"
-msgstr "선택한 유저 제작 맵을 삭제합니다"
-
-msgctxt "MainMenu/&UserLocationsPlayTitle"
-msgid "Playtest"
-msgstr "플레이 테스트"
-
-msgctxt "MainMenu/&UserLocationsPlayDescription"
-msgid "Quick launch the selected location with a predefined party"
-msgstr "사전 구성된 파티로 선택 맵을 바로 실행"
-
-msgctxt "MainMenu/&UserLocationHeaderTitle"
-msgid "User Location"
-msgstr "유저 제작 맵"
-
-msgctxt "MainMenu/&UserLocationChangeButtonTitle"
-msgid "Change"
-msgstr "변경"
-
-msgctxt "MainMenu/&DungeonMakerBetaTitle"
-msgid "Beta"
-msgstr "베타"
-
-msgctxt "MainMenu/&UserLocationsSortAuthorTitle"
-msgid "Author"
-msgstr "제작자"
-
-msgctxt "MainMenu/&UserLocationSizeFormat"
-msgid "{0}x{1}"
-msgstr "{0}x{1}"
-
-msgctxt "MainMenu/&UserLocationsBrowseFilesTitle"
-msgid "Browse Files"
-msgstr "파일 찾기"
-
-msgctxt "MainMenu/&UserLocationsBrowseFilesDescription"
-msgid "Opens the system folder containing the user location's JSON files"
-msgstr "유저 제작 맵 JSON 파일이 위치한 시스템 폴더를 엽니다"
-
-msgctxt "MainMenu/&UserLocationsPublishTitle"
-msgid "Publish"
-msgstr "게시"
-
-msgctxt "MainMenu/&UserLocationsPublishDescription"
-msgid "Opens the interface to publish a location online"
-msgstr "맵을 온라인에 게시하기 위해 창을 엽니다"
-
-msgctxt "MainMenu/&UserLocationsPlayLocationTitle"
-msgid "Play"
-msgstr "플레이"
-
-msgctxt "MainMenu/&UserLocationsPlayLocationDescription"
-msgid "Set up a game with this location and select a party of characters"
-msgstr "이 맵을 탐험할 캐릭터 파티를 선택합니다"
-
-msgctxt "MainMenu/&UserLocationsBrowseWorkshopTitle"
-msgid "Browse Workshop"
-msgstr "창작마당 보기"
-
-msgctxt "MainMenu/&UserLocationsBrowseWorkshopDescription"
-msgid "Opens the workshop to browse locations made by other players"
-msgstr "창작마당을 열어 다른 유저가 만든 맵을 찾아봅니다"
-
-msgctxt "MainMenu/&UserContentSortLocationsCountTitle"
-msgid "Locations"
-msgstr "맵"
-
-msgctxt "MainMenu/&UserCampaignsNewTitle"
-msgid "New Campaign"
-msgstr "새 캠페인"
-
-msgctxt "MainMenu/&UserCampaignsNewDescription"
-msgid "Creates a new user campaign"
-msgstr "새로운 유저 캠페인을 생성합니다"
-
-msgctxt "MainMenu/&UserCampaignsEditTitle"
-msgid "Edit"
-msgstr "편집"
-
-msgctxt "MainMenu/&UserCampaignsEditDescription"
-msgid "Edits the selected user campaign"
-msgstr "선택한 유저 캠페인을 편집합니다"
-
-msgctxt "MainMenu/&UserCampaignsDeleteDescription"
-msgid "Deletes the selected user campaign"
-msgstr "선택한 유저 캠페인을 삭제합니다"
-
-msgctxt "MainMenu/&UserCampaignsPlayTitle"
-msgid "Play"
-msgstr "플레이"
-
-msgctxt "MainMenu/&UserCampaignsPlayDescription"
-msgid "Starts a game session in the selected campaign"
-msgstr "선택한 캠페인으로 게임 세션을 시작합니다"
-
-msgctxt "MainMenu/&UserContentBrowseFilesTitle"
-msgid "Browse Files"
-msgstr "파일 찾아보기"
-
-msgctxt "MainMenu/&UserContentBrowseFilesDescription"
-msgid "Opens the system folder containing the user content JSON files"
-msgstr "유저 제작 JSON 파일이 위치한 시스템 폴더를 엽니다"
+msgctxt "MainMenu/&RefreshDLCDescription"
+msgid "This will check your DLC licences from the online store."
+msgstr ""

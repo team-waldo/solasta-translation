@@ -1,18 +1,58 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-12-11 23:38+0000\n"
-"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/tooltip/ko/"
-">\n"
-"Language: ko\n"
+"POT-Creation-Date: 2021-12-17 17:52+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
+
+#, fuzzy
+#| msgid "The cost depends on the spell level"
+msgctxt "Tooltip/&MetamagicVariableCostSpellLevelDescription"
+msgid "The cost depends on the spell level."
+msgstr "가격은 주문 레벨에 따라 다릅니다"
+
+msgctxt "Tooltip/&LootPackContentTitle"
+msgid "Loot Pack Content:"
+msgstr "전리품 꾸러미 콘텐츠:"
+
+msgctxt "Tooltip/&TrapEffectsTitle"
+msgid "Trap Effects"
+msgstr "함정 효과"
+
+msgctxt "Tooltip/&EnvironmentEffectsTitle"
+msgid "Environment Effects"
+msgstr "주변환경 영향"
+
+msgctxt "Tooltip/&RandomItemSingleTitle"
+msgid "Random Item - "
+msgstr "랜덤 아이템 - "
+
+msgctxt "Tooltip/&RandomItemPluralTitle"
+msgid "Random Items - "
+msgstr "랜덤 아이템 - "
+
+msgctxt "Tooltip/&EditorFilterLightsDescription"
+msgid "Show / hide light sources"
+msgstr "광원 표시/숨기기"
+
+msgctxt "Tooltip/&EditorFilterActivatorLinksDescription"
+msgid "Show / hide activator links"
+msgstr "활성장치 링크 표시/숨기기"
+
+msgctxt "Tooltip/&EditorFilterShortcutsDescription"
+msgid "Show/hide keyboard shortcuts"
+msgstr "키보드 단축키 표시/숨기기"
+
+msgctxt "Tooltip/&UserGadgetCanBeActivated"
+msgid "This gadget can be remotely triggered by an activator gadget"
+msgstr "이 장치는 활성장치에 의해 원격으로 작동될 수 있습니다"
 
 msgctxt "Tooltip/&ActiveQuestsAtLocationPluralFormat"
 msgid "{0} active quests: {1}"
@@ -868,7 +908,6 @@ msgctxt "Tooltip/&OutOfDarkvisionRangeFormat"
 msgid "(Out of Darkvision range)"
 msgstr "(어둠시야 범위를 벗어남)"
 
-#, fuzzy
 msgctxt "Tooltip/&TagPerishableTitle"
 msgid "Perishable"
 msgstr "유통기한이 있는"
@@ -881,11 +920,14 @@ msgctxt "Tooltip/&TrendMonsterAttackFormat"
 msgid "{0} attack"
 msgstr "{0} 공격"
 
+msgctxt "Tooltip/&ToHitBonusTrendTitle"
+msgid ""
+msgstr ""
+
 msgctxt "Tooltip/&DamageBonusTrendTitle"
 msgid "Damage Bonus: {0}"
 msgstr "피해 보너스: {0}"
 
-#, fuzzy
 msgctxt "Tooltip/&TrendBaseTitle"
 msgid "Base"
 msgstr "기본"
@@ -1021,42 +1063,6 @@ msgctxt "Tooltip/&TagBleedingTitle"
 msgid "Bleeding"
 msgstr "출혈"
 
-msgctxt "Tooltip/&LootPackContentTitle"
-msgid "Loot Pack Content:"
-msgstr "전리품 꾸러미 콘텐츠:"
-
-msgctxt "Tooltip/&TrapEffectsTitle"
-msgid "Trap Effects"
-msgstr "함정 효과"
-
-msgctxt "Tooltip/&EnvironmentEffectsTitle"
-msgid "Environment Effects"
-msgstr "주변환경 영향"
-
-msgctxt "Tooltip/&RandomItemSingleTitle"
-msgid "Random Item - "
-msgstr "랜덤 아이템 - "
-
-msgctxt "Tooltip/&RandomItemPluralTitle"
-msgid "Random Items - "
-msgstr "랜덤 아이템 - "
-
-msgctxt "Tooltip/&EditorFilterLightsDescription"
-msgid "Show / hide light sources"
-msgstr "광원 표시/숨기기"
-
-msgctxt "Tooltip/&EditorFilterActivatorLinksDescription"
-msgid "Show / hide activator links"
-msgstr "활성장치 링크 표시/숨기기"
-
-msgctxt "Tooltip/&EditorFilterShortcutsDescription"
-msgid "Show/hide keyboard shortcuts"
-msgstr "키보드 단축키 표시/숨기기"
-
-msgctxt "Tooltip/&UserGadgetCanBeActivated"
-msgid "This gadget can be remotely triggered by an activator gadget"
-msgstr "이 장치는 활성장치에 의해 원격으로 작동될 수 있습니다"
-
 msgctxt "Tooltip/&TrendMetamagicFormat"
 msgid "Metamagic: {0}"
 msgstr "메타매직: {0}"
@@ -1078,9 +1084,30 @@ msgctxt "Tooltip/&AdvancementGainAdditionalSubtargetSingleFormat"
 msgid "{0} subtarget "
 msgstr "{0} 하위 타겟 "
 
-msgctxt "Tooltip/&MetamagicVariableCostSpellLevelDescription"
-msgid "The cost depends on the spell level"
-msgstr "가격은 주문 레벨에 따라 다릅니다"
+msgctxt "Tooltip/&ShapeChangeFormSingleChoiceFormat"
+msgid "Changes your shape to:"
+msgstr ""
+
+msgctxt "Tooltip/&ShapeChangeFormRandomFromListFormat"
+msgid "Randomly selects one of these shapes:"
+msgstr ""
+
+msgctxt "Tooltip/&ShapeChangeFormFreeListSelectionFormat"
+msgid "Chose one these shapes:"
+msgstr ""
+
+msgctxt "Tooltip/&ShapeChangeFormClassLevelListSelectionFormat"
+msgid ""
+"Chose one of these shapes provided the character class level is sufficient:"
+msgstr ""
+
+msgctxt "Tooltip/&ShapeChangeFormCreatureLevelFormat"
+msgid "Level {0}: {1}"
+msgstr ""
+
+msgctxt "Tooltip/&TagShapeChangeTitle"
+msgid "Shape Change"
+msgstr ""
 
 msgctxt "Tooltip/&TagArcaneFocusTitle"
 msgid "Arcane Focus"
@@ -1093,3 +1120,21 @@ msgstr "신성 매개체"
 msgctxt "Tooltip/&TagDruidicFocusTitle"
 msgid "Druidic Focus"
 msgstr "드루이드의 매개체"
+
+msgctxt "Tooltip/&TagConjuredTitle"
+msgid "Conjured"
+msgstr ""
+
+msgctxt "Tooltip/&AdvancementGainAdditionalWeaponDieMultipleFormat"
+msgid "{0} weapon damage dice"
+msgstr ""
+
+msgctxt "Tooltip/&AdvancementGainAdditionalWeaponDieSingleFormat"
+msgid "{0} weapon damage die"
+msgstr ""
+
+msgctxt "Tooltip/&LockedContentDescription"
+msgid ""
+"This element is locked because you do not have the matching content. A "
+"replacement value will be used when you validate this panel."
+msgstr ""

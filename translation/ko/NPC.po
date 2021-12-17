@@ -1,17 +1,256 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-12-16 13:08+0000\n"
-"Last-Translator: Nickel <psb3421@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/npc/ko/>\n"
-"Language: ko\n"
+"POT-Creation-Date: 2021-12-17 17:52+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "NPC/&NPC_Marches_01_Title"
+msgid "Lord Hammond"
+msgstr "해먼드 경"
+
+msgctxt "NPC/&NPC_Marches_02_Title"
+msgid "Helia Fairblade"
+msgstr "헬리아 페어블레이드"
+
+msgctxt "NPC/&NPC_Marches_03_Title"
+msgid "Leyrin Catpaw"
+msgstr "레이린 캣포우"
+
+msgctxt "NPC/&NPC_Marches_04_Title"
+msgid "Krim Sunsail"
+msgstr "크림 선세일"
+
+msgctxt "NPC/&NPC_Valley_Telerien_Purevoice_Title"
+msgid "Telerien Purevoice"
+msgstr ""
+
+msgctxt "NPC/&NPC_Valley_Samko_Flint_Title"
+msgid "Samko Flint"
+msgstr ""
+
+msgctxt "NPC/&NPC_Forge_Hasdrubal_Title"
+msgid "Hasdrubal"
+msgstr ""
+
+msgctxt "NPC/&NPC_Forge_Ravener_Title"
+msgid "Ravener"
+msgstr ""
+
+msgctxt "NPC/&NPC_Forge_Charmer_Title"
+msgid "Charmer"
+msgstr ""
+
+msgctxt "NPC/&NPC_Forge_Cook_Title"
+msgid "Cook"
+msgstr ""
+
+msgctxt "NPC/&NPC_Swamp_HillGiant_Title"
+msgid "Rugan"
+msgstr ""
+
+msgctxt "NPC/&NPC_Swamp_Apprentice_Title"
+msgid "Lysantir"
+msgstr ""
+
+msgctxt "NPC/&NPC_ThePeople_Henrik"
+msgid "Henrik Redhand"
+msgstr ""
+
+msgctxt "NPC/&NPC_ThePeople_Rose"
+msgid "Rose Fairwind"
+msgstr ""
+
+msgctxt "NPC/&NPC_ThePeople_Reya"
+msgid "Reya Schildberg"
+msgstr ""
+
+msgctxt "NPC/&NPC_ThePeople_Karelia"
+msgid "Karelia Snowfox"
+msgstr ""
+
+msgctxt "NPC/&NPC_Orenetis"
+msgid "Orenetis"
+msgstr ""
+
+msgctxt "NPC/&NPC_Orenetis_Malariel"
+msgid "Malariel Brogarad"
+msgstr ""
+
+msgctxt "NPC/&NPC_MarinVing"
+msgid "Marin Ving"
+msgstr ""
+
+msgctxt "NPC/&NPC_VandoKlarn"
+msgid "Vando Klarn"
+msgstr ""
+
+msgctxt "NPC/&NPC_Mask_CafrainShadow"
+msgid "Cafrain Shadow"
+msgstr ""
+
+msgctxt "NPC/&NPC_Orenetis_Finaliel"
+msgid "Finaliel Sharp-Mind"
+msgstr ""
+
+msgctxt "NPC/&NPC_Sima_Temple"
+msgid "Sima Temple"
+msgstr ""
+
+msgctxt "NPC/&NPC_Ellaria_Anfarel"
+msgid "Ellaria Anfarel"
+msgstr ""
+
+msgctxt "NPC/&NPC_Renno_Highwater"
+msgid "Renno Highwater"
+msgstr ""
+
+msgctxt "NPC/&NPC_Store_Reya"
+msgid "Clerical services"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC_City_Guard_Title"
+msgid "City Guard"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC_City_Guard_Description"
+msgid "A high elf guard bearing the arms of Orenetis."
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC1_Anfarel_Noble"
+msgid "Elerien Anfarel"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC1_ThePeople_Tortured"
+msgid "Prisoner"
+msgstr ""
+
+msgctxt "NPC/&NPC_Forge_Escorted_01"
+msgid "Robert"
+msgstr ""
+
+msgctxt "NPC/&NPC_Forge_Escorted_02"
+msgid "Gertrude"
+msgstr ""
+
+msgctxt "NPC/&NPC_Tuznut_Title"
+msgid "Tuznut"
+msgstr ""
+
+msgctxt "NPC/&NPC_Tuznut_Description"
+msgid "TBD"
+msgstr ""
+
+msgctxt "NPC/&NPC_Forge_Guard_Title"
+msgid "Guard"
+msgstr ""
+
+msgctxt "NPC/&NPC_Forge_Guard_Description"
+msgid "TBD"
+msgstr ""
+
+msgctxt "NPC/&NPC_Forge_Charmer_Description"
+msgid "TBD"
+msgstr ""
+
+msgctxt "NPC/&NPC_Forge_Hasdrubal_Description"
+msgid "TBD"
+msgstr ""
+
+msgctxt "NPC/&NPC_Forge_Ravener_Description"
+msgid "TBD"
+msgstr ""
+
+msgctxt "NPC/&NPC_Forge_Cook_Description"
+msgid "TBD"
+msgstr ""
+
+msgctxt "NPC/&NPC_Forge_Merchant_Description"
+msgid "TBD"
+msgstr ""
+
+msgctxt "NPC/&NPC_Forge_Escorted_01_Description"
+msgid "TBD"
+msgstr ""
+
+msgctxt "NPC/&NPC_Forge_Escorted_02_Description"
+msgid "TBD"
+msgstr ""
+
+msgctxt "NPC/&NPC_Forge_Merchant_Title"
+msgid "TBD"
+msgstr ""
+
+msgctxt "NPC/&NPC_Swamp_HillGiant_Description"
+msgid "TBD"
+msgstr ""
+
+msgctxt "NPC/&NPC_Swamp_Apprentice_Description"
+msgid "TBD"
+msgstr ""
+
+msgctxt "NPC/&DLC1_NPC_Jakson_Title"
+msgid "Jakkon"
+msgstr ""
+
+msgctxt "NPC/&DLC1_NPC_Jakson_Description"
+msgid "TBD"
+msgstr ""
+
+msgctxt "NPC/&Mana_Scholar_Title"
+msgid "Sitenero"
+msgstr ""
+
+msgctxt "NPC/&Mana_Scholar_Description"
+msgid "TBD Sitenero"
+msgstr ""
+
+msgctxt "NPC/&Sitinero_Title"
+msgid "Sitenero"
+msgstr ""
+
+msgctxt "NPC/&DLC1_NPC_Marin_Ving"
+msgid "Marin Ving"
+msgstr ""
+
+msgctxt "NPC/&DLC1_NPC_Vando_Klarn"
+msgid "Vando Klarn"
+msgstr ""
+
+msgctxt "NPC/&DLC1_NPC_CityGuard_Captain_Sharp"
+msgid "Captain Sharp-Eyes"
+msgstr ""
+
+msgctxt "NPC/&DLC1_NPC_Nobleman_ThePeople03_Title"
+msgid "Noble"
+msgstr ""
+
+msgctxt "NPC/&DLC1_NPC_Nobleman_ThePeople03_Description"
+msgid "Drunken Bully"
+msgstr ""
+
+msgctxt "NPC/&NPC_Red"
+msgid "Red"
+msgstr ""
+
+msgctxt "NPC/&NPC_Valley_Telerien_Purevoice_Speak"
+msgid "Forge quartermaster"
+msgstr ""
+
+msgctxt "NPC/&Prisoner_Title"
+msgid "Prisoner"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC_Armorer"
+msgid "Gail Hunt"
+msgstr ""
 
 msgctxt "NPC/&Kaseinax_Magister_Title"
 msgid "The Magister"
@@ -593,18 +832,58 @@ msgctxt "NPC/&NPC_Adrasteia_Title"
 msgid "Adrasteia"
 msgstr "아드라스테이아"
 
-msgctxt "NPC/&NPC_Marches_01_Title"
-msgid "Lord Hammond"
-msgstr "해먼드 경"
+msgctxt "NPC/&Guard_Captain_Title"
+msgid "Guard Captain"
+msgstr ""
 
-msgctxt "NPC/&NPC_Marches_02_Title"
-msgid "Helia Fairblade"
-msgstr "헬리아 페어블레이드"
+msgctxt "NPC/&Guard_Captain_Description"
+msgid "An officer in the complex's guard."
+msgstr ""
 
-msgctxt "NPC/&NPC_Marches_03_Title"
-msgid "Leyrin Catpaw"
-msgstr "레이린 캣포우"
+msgctxt "NPC/&Guard_Elite_Title"
+msgid "Elite Guard"
+msgstr ""
 
-msgctxt "NPC/&NPC_Marches_04_Title"
-msgid "Krim Sunsail"
-msgstr "크림 선세일"
+msgctxt "NPC/&Guard_Elite_Description"
+msgid "A superior quality guard."
+msgstr ""
+
+msgctxt "NPC/&Guard_Recruit_Title"
+msgid "Guard"
+msgstr ""
+
+msgctxt "NPC/&Guard_Recruit_Description"
+msgid "A guard."
+msgstr ""
+
+msgctxt "NPC/&Guard_Trainer_Title"
+msgid "Guard Trainer"
+msgstr ""
+
+msgctxt "NPC/&Guard_Trainer_Description"
+msgid "A skilled trainer serving the complex's guard."
+msgstr ""
+
+msgctxt "NPC/&Guard_Watcher_Title"
+msgid "Guard Watcher"
+msgstr ""
+
+msgctxt "NPC/&Guard_Watcher_Description"
+msgid "A sentry serving the complex's guard."
+msgstr ""
+
+msgctxt "NPC/&Mana_Crafter_Title"
+msgid "Mana Crafter"
+msgstr ""
+
+msgctxt "NPC/&Mana_Scientist_Title"
+msgid "Mana Scientist"
+msgstr ""
+
+msgctxt "NPC/&NPC_Auroc"
+msgid "Auroc"
+msgstr ""
+
+msgctxt "NPC/&NPC_Lorson"
+msgid "Lorson"
+msgstr ""

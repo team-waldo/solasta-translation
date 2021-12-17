@@ -1,18 +1,448 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-12-16 13:08+0000\n"
-"Last-Translator: Nickel <psb3421@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/monster/ko/"
-">\n"
-"Language: ko\n"
+"POT-Creation-Date: 2021-12-17 17:52+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "Monster/&Oni_Title"
+msgid "Oni"
+msgstr "도깨비"
+
+msgctxt "Monster/&Oni_Description"
+msgid "TBC description"
+msgstr ""
+
+msgctxt "Monster/&BadlandsOni_Title"
+msgid "Badlands Oni"
+msgstr "황무지 도깨비"
+
+msgctxt "Monster/&BadlandsOni_Description"
+msgid "TBC description"
+msgstr ""
+
+msgctxt "Monster/&MutatedMonster_Generic_Description"
+msgid ""
+"This creature has been somehow modified by magic, making it more brutal and "
+"dangerous than it used to be."
+msgstr ""
+
+#, fuzzy
+#| msgid "Ape"
+msgctxt "Monster/&Ape_Title"
+msgid "Gorilla"
+msgstr "원숭이"
+
+msgctxt "Monster/&Ape_Description"
+msgid "A large, powerful ape, typical of the jungles of the old Empire."
+msgstr "구 제국의 정글에서 흔히 볼 수 있는 크고 힘센 영장류입니다."
+
+msgctxt "Monster/&GiantApe_Title"
+msgid "Giant Ape"
+msgstr "거대 원숭이"
+
+msgctxt "Monster/&GiantApe_Description"
+msgid "This monstruous ape is much bigger and tougher than a normal one."
+msgstr ""
+
+msgctxt "Monster/&MutatedGiantApe_Title"
+msgid "Mutated Giant Ape"
+msgstr "변이된 거대 원숭이"
+
+msgctxt "Monster/&MutatedGiantApe_Description"
+msgid ""
+"A mutated version of the Giant Ape, incredibly powerful and able to "
+"regenerate."
+msgstr ""
+
+msgctxt "Monster/&Dryad_Title"
+msgid "Dryad"
+msgstr "드라이어드"
+
+msgctxt "Monster/&Dryad_Description"
+msgid "A typical fey of the forests and jungles of Solasta."
+msgstr ""
+
+msgctxt "Monster/&BadlandsDryad_Title"
+msgid "Badlands Dryad"
+msgstr "황무지 드라이어드"
+
+msgctxt "Monster/&BadlandsDryad_Description"
+msgid ""
+"A strange and powerful Dryad, probably modified by the chaotic magic of the "
+"Badlands."
+msgstr ""
+
+msgctxt "Monster/&MutatedDryad_Title"
+msgid "Mutated Dryad"
+msgstr "변이된 드라이어드"
+
+msgctxt "Monster/&MutatedDryad_Description"
+msgid "TBC description"
+msgstr ""
+
+msgctxt "Monster/&StoneGolem_Title"
+msgid "Stone Golem"
+msgstr "암석 골렘"
+
+msgctxt "Monster/&StoneGolem_Description"
+msgid "TBC description"
+msgstr ""
+
+msgctxt "Monster/&ClayGolem_Title"
+msgid "Clay Golem"
+msgstr "진흙 골렘"
+
+msgctxt "Monster/&ClayGolem_Description"
+msgid "TBC description"
+msgstr ""
+
+msgctxt "Monster/&IronGolem_Title"
+msgid "Iron Golem"
+msgstr "강철 골렘"
+
+msgctxt "Monster/&IronGolem_Description"
+msgid "TBC description"
+msgstr ""
+
+msgctxt "Monster/&Roc_Title"
+msgid "Roc"
+msgstr "괴조"
+
+msgctxt "Monster/&Roc_Description"
+msgid ""
+"A gigantic bird that could swallow a medium sized humanoid, probably another "
+"monstrosity born from the Cataclysm."
+msgstr ""
+
+msgctxt "Monster/&WightLord_Title"
+msgid "Wight Lord"
+msgstr "와이트 로드"
+
+msgctxt "Monster/&WightLord_Description"
+msgid "A powerful wight, trained to withstand the light of day."
+msgstr ""
+
+msgctxt "Monster/&MinotaurElite_Title"
+msgid "Minotaur Elite"
+msgstr "정예 미노타우르스"
+
+msgctxt "Monster/&MinotaurElite_Description"
+msgid ""
+"Among the powerful Minotaur, some arise as superior fighters and get extra "
+"training, enough to master deadly skills and even more strength and power "
+"than their brothers."
+msgstr ""
+"강력한 미노타우르스 가운데 일부는 우수한 전사가 되어 추가적인 훈련을 받아 치명적인 기술과 동족보다 더욱 강한 근력과 능력을 가지게 "
+"되었습니다."
+
+#, fuzzy
+#| msgid "Minotaur Descrition TBC"
+msgctxt "Monster/&MinotaurDescription"
+msgid ""
+"This monstrosity is the result of Manacalon wizards' effort to create yet "
+"another race of slave creatures."
+msgstr "미노타우르스 설명 추가 예정"
+
+msgctxt "Monster/&SpectralMinotaur_Title"
+msgid "Spectral Minotaur"
+msgstr "영체 미노타우르스"
+
+msgctxt "Monster/&SpectralMinotaur_Description"
+msgid ""
+"Such dreadful creatures can only be created by twisted necromancers, who "
+"wish to prolong a Minotaur's slavery indefinitely, in death."
+msgstr "이런 공포스러운 크리쳐는 오직 미노타우르스를 영원히 노예로 두고자 하는 뒤틀린 사령술사에 의해서만 창조될 수 있습니다."
+
+msgctxt "Monster/&FrostGiant_Title"
+msgid "Frost Giant"
+msgstr "서리 거인"
+
+msgctxt "Monster/&FrostGiant_Description"
+msgid ""
+"Made of ice and snow, their heart is also cold. These creatures live for "
+"battle and mayhem."
+msgstr "눈과 얼음으로 만들어져 마음조차 차갑습니다. 전투와 학살을 일삼는 크리쳐입니다."
+
+msgctxt "Monster/&FireGiant_Title"
+msgid "Fire Giant"
+msgstr "화염 거인"
+
+msgctxt "Monster/&FireGiant_Description"
+msgid ""
+"Born in the fires of the volcanos under the Badlands, trained to fight and "
+"forge, these huge creatures are alas generally hostile."
+msgstr "황무지 아래 화산에서 태어난 거대한 크리쳐. 계속 연마하고 싸우도록 훈련받아 일반적으로 호전적인 성향입니다."
+
+msgctxt "Monster/&StoneGiant_Title"
+msgid "Stone Giant"
+msgstr "암석 거인"
+
+msgctxt "Monster/&StoneGiant_Description"
+msgid ""
+"Immense creatures born of the very earth of Solasta, they dwell in gigantic "
+"caves and never feel at home under the sky."
+msgstr ""
+"솔라스타의 대지 그 자체에서 태어난 거대한 크리쳐이며, 이들은 거대한 동굴에 거주하고 하늘 아래에서 결코 편안함을 느끼지 못합니다."
+
+msgctxt "Monster/&HillGiant_Title"
+msgid "Hill Giant"
+msgstr "언덕 거인"
+
+msgctxt "Monster/&HillGiant_Description"
+msgid ""
+"Stupid and voracious, these creatures are in constant search of food, and "
+"that may very well mean you and your friends."
+msgstr "끊임없이 먹이를 찾아 헤메는 어리석고 게걸스러운 크리쳐. 먹이는 당신들 모험가를 의미할 수도 있습니다."
+
+msgctxt "Monster/&Troll_Title"
+msgid "Troll"
+msgstr "트롤"
+
+#, fuzzy
+#| msgid "Regeneration"
+msgctxt "Monster/&Troll_Description"
+msgid "Voracious greenish giants with uncanny regeneration powers."
+msgstr "재생"
+
+#, fuzzy
+#| msgid "Trolls regenerate 10HP per round unless damage by acid."
+msgctxt "Monster/&Troll_Regeneration_Title"
+msgid "Regeneration"
+msgstr "트롤은 산성 피해를 입지 않는 한 라운드당 체력 10을 재생합니다."
+
+#, fuzzy
+#| msgid "Troll"
+msgctxt "Monster/&Troll_Regeneration_Description"
+msgid "Trolls regenerate 10HP per round unless damaged by acid."
+msgstr "트롤"
+
+msgctxt "Monster/&Bulette_Title"
+msgid "Bulette"
+msgstr "뷸렛"
+
+msgctxt "Monster/&Bulette_Description"
+msgid ""
+"Also called a land shark, this monster can burrow beneath your feet and "
+"literally eat your legs."
+msgstr ""
+
+msgctxt "Monster/&Mummy_Title"
+msgid "Mummy"
+msgstr "미라"
+
+msgctxt "Monster/&Mummy_Description"
+msgid ""
+msgstr ""
+
+msgctxt "Monster/&MummyLord_Title"
+msgid "Mummy Lord"
+msgstr "미라 군주"
+
+msgctxt "Monster/&MummyLord_Description"
+msgid ""
+msgstr ""
+
+msgctxt "Monster/&GiantBeetle_Title"
+msgid "Giant Beetle"
+msgstr "거대 딱정벌레"
+
+msgctxt "Monster/&GiantBeetle_Description"
+msgid ""
+"A huge insect from the Badlands. It might have been an ancestor of the "
+"dreadful Redeemers."
+msgstr "황무지에서 나타나는 거대한 곤충. 무서운 구도자 무리의 조상인 것으로 추정됩니다."
+
+msgctxt "Monster/&MummyLordTitle"
+msgid "Mummy Lord"
+msgstr "미라 군주"
+
+#, fuzzy
+#| msgid "TBC descripiton"
+msgctxt "Monster/&MummyLordDescription"
+msgid "A powerful undead spellcaster - very hard to kill."
+msgstr "설명 추가 예정"
+
+msgctxt "Monster/&GiantCrow_Title"
+msgid "Giant Crow"
+msgstr ""
+
+msgctxt "Monster/&GiantCrow_Description"
+msgid ""
+"A huge bird that seems to be agressive enought to attack human-sized threats."
+msgstr ""
+
+msgctxt "Monster/&GiantMerchantTitle"
+msgid "Gartok"
+msgstr ""
+
+msgctxt "Monster/&DLC1_Complex_Trained_Wolf_Title"
+msgid "Trained Wolf"
+msgstr ""
+
+msgctxt "Monster/&DLC1_Complex_Trained_Wolf_Description"
+msgid "A fighting wolf, trained by the complex guard."
+msgstr ""
+
+msgctxt "Monster/&DLC1_Complex_Trained_Direwolf_Title"
+msgid "Trained Dire Wolf"
+msgstr ""
+
+msgctxt "Monster/&DLC1_Complex_Trained_Direwolf_Description"
+msgid "A dire wolf trained by the complex guard."
+msgstr ""
+
+msgctxt "Monster/&Mutated_Direwolf_Title"
+msgid "Mutated Dire Wolf"
+msgstr ""
+
+msgctxt "Monster/&Mutated_Direwolf_Description"
+msgid ""
+"A magically mutated dire wolf, more aggressive and dangerous than the normal "
+"kind."
+msgstr ""
+
+msgctxt "Monster/&Mutated_Bulette_Title"
+msgid "Mutated Bulette"
+msgstr ""
+
+msgctxt "Monster/&Mutated_Bulette_Description"
+msgid ""
+"This bulette is another hybrid born out of the hideous experiments at the "
+"secret facility - and of course, it's even worse than a normal bulette."
+msgstr ""
+
+msgctxt "Monster/&Oni_Regeneration_Title"
+msgid "Regeneration"
+msgstr ""
+
+msgctxt "Monster/&Oni_Regeneration_Description"
+msgid "Oni regenerate 10HP per round when they have 1HP or more."
+msgstr ""
+
+msgctxt "Monster/&Mutated_Zombie_Title"
+msgid "Mutated Zombie"
+msgstr ""
+
+msgctxt "Monster/&Mutated_Zombie_Description"
+msgid "TBD"
+msgstr ""
+
+msgctxt "Monster/&MutatedGiantApe_Regeneration_Title"
+msgid "Mutated Giant Ape Regeneration"
+msgstr ""
+
+msgctxt "Monster/&MutatedGiantApe_Regeneration_Description"
+msgid "Mutated Giant Apes regenerate 5 HP per turn unless damaged by acid."
+msgstr ""
+
+msgctxt "Monster/&MutatedBear_Regeneration_Title"
+msgid "Mutated Bear Regeneration"
+msgstr ""
+
+msgctxt "Monster/&MutatedBear_Regeneration_Description"
+msgid "Mutated Apes regenerate 2 HP per turn."
+msgstr ""
+
+msgctxt "Monster/&ShamblingMound_Title"
+msgid "Shambling Mound"
+msgstr ""
+
+msgctxt "Monster/&ShamblingMound_Description"
+msgid "A huge, living plant."
+msgstr ""
+
+msgctxt "Monster/&FeyApe_Title"
+msgid "Fey Ape"
+msgstr ""
+
+msgctxt "Monster/&FeyApe_Description"
+msgid ""
+"An enormous and powerful ape, found only in the deepest and most ancient "
+"forests of Solasta."
+msgstr ""
+
+msgctxt "Monster/&GreenHag_Title"
+msgid "Green Hag"
+msgstr ""
+
+msgctxt "Monster/&GreenHag_Description"
+msgid ""
+"A fey witch who can change her appearance and vanish into the darkness of "
+"the night."
+msgstr ""
+
+msgctxt "Monster/&DryadQueen_Title"
+msgid "Dryad Queen"
+msgstr ""
+
+msgctxt "Monster/&DryadQueen_Description"
+msgid "A large and powerful dryad, who seems to lead a pack of lesser dryads."
+msgstr ""
+
+msgctxt "Monster/&Werebear_Title"
+msgid "Dryad Queen"
+msgstr ""
+
+msgctxt "Monster/&Werebear_Description"
+msgid "A large and powerful dryad, who seems to lead a pack of lesser dryads."
+msgstr ""
+
+msgctxt "Monster/&Golem_Description"
+msgid ""
+"Golems are constructs created by powerful wizards to as guards and servants. "
+"They are resistant to magic and to most mundane weapons."
+msgstr ""
+
+msgctxt "Monster/&InvisibleStalker_Title"
+msgid "Invisible Stalker"
+msgstr ""
+
+msgctxt "Monster/&InvisibleStalker_Description"
+msgid ""
+"An elemental that can be summoned to serve a master, often in order to kill "
+"someone."
+msgstr ""
+
+msgctxt "Monster/&Mutated_Troll_Title"
+msgid "Mutant Troll"
+msgstr ""
+
+msgctxt "Monster/&Mutated_Troll_Description"
+msgid ""
+"This mutant is clearly different from normal trolls, and almost certainly "
+"more dangerous."
+msgstr ""
+
+msgctxt "Monster/&Redeemer_Juggernaut_Title"
+msgid "Juggernaut"
+msgstr ""
+
+msgctxt "Monster/&Redeemer_Juggernaut_Description"
+msgid ""
+"This gigantic redeemer is clearly at the top of the food chain in the family."
+msgstr ""
+
+msgctxt "Monster/&Swamp_Hag_Title"
+msgid "Swamp Hag"
+msgstr ""
+
+msgctxt "Monster/&Swamp_Hag_Description"
+msgid ""
+"A degenerate fey who learned the arts of arcane magic in the darkness of the "
+"swamps."
+msgstr ""
+
+msgctxt "Monster/&SmartGiant_Description"
+msgid "This hill giant seems smarter than average. A lot smarter, actually."
+msgstr ""
 
 msgctxt "Monster/&Acolyte_Description"
 msgid "A wandering cleric seeking glory and battle."
@@ -146,7 +576,6 @@ msgctxt "Monster/&Generic_ShockArcanist_Description"
 msgid "A powerful battle wizard looking for a challenge."
 msgstr "도전을 찾아다니는 강력한 전투 마법사."
 
-#, fuzzy
 msgctxt "Monster/&Generic_ShockArcanist_Title"
 msgid "Shock Arcanist"
 msgstr "쇼크 아르카니스트"
@@ -252,11 +681,6 @@ msgstr "부드러운 말과 행동으로 믿음을 전하기 위해 땅을 떠�
 msgctxt "Monster/&Highpriest_Title"
 msgid "High Priest"
 msgstr "고위 사제"
-
-#, fuzzy
-msgctxt "Monster/&MinotaurDescription"
-msgid "Minotaur Descrition TBC"
-msgstr "미노타우르스 설명 추가 예정"
 
 msgctxt "Monster/&MinotaurTitle"
 msgid "Minotaur"
@@ -560,7 +984,6 @@ msgctxt "Monster/&VeteranTitle"
 msgid "Veteran"
 msgstr "베테랑"
 
-#, fuzzy
 msgctxt "Monster/&WightDescription"
 msgid "A Wight"
 msgstr "증오과 폭력을 좇아 되살아난 언데드 병사. (원문?)"
@@ -843,7 +1266,6 @@ msgctxt "Monster/&BlackDragon_Title"
 msgid "Black Dragon"
 msgstr "블랙 드래곤"
 
-#, fuzzy
 msgctxt "Monster/&BlackDragon_Description"
 msgid ""
 "It looks like this Black Dragon is actually Mardracht, the Master of "
@@ -939,173 +1361,44 @@ msgid ""
 "more brutal and dangerous than it used to be."
 msgstr "이 황무지 곰은 의도적으로 마법에 의해 변이되어, 기존보다 더 잔혹하고 위험해졌습니다."
 
-msgctxt "Monster/&Oni_Title"
-msgid "Oni"
-msgstr "도깨비"
-
-msgctxt "Monster/&BadlandsOni_Title"
-msgid "Badlands Oni"
-msgstr "황무지 도깨비"
-
-msgctxt "Monster/&MutatedOni_Title"
-msgid "Mutated Oni"
-msgstr "변이된 도깨비"
-
-msgctxt "Monster/&Ape_Title"
-msgid "Ape"
-msgstr "원숭이"
-
-msgctxt "Monster/&Ape_Description"
-msgid "A large, powerful ape, typical of the jungles of the old Empire."
-msgstr "구 제국의 정글에서 흔히 볼 수 있는 크고 힘센 영장류입니다."
-
-msgctxt "Monster/&GiantApe_Title"
-msgid "Giant Ape"
-msgstr "거대 원숭이"
-
-msgctxt "Monster/&MutatedGiantApe_Title"
-msgid "Mutated Giant Ape"
-msgstr "변이된 거대 원숭이"
-
-msgctxt "Monster/&Dryad_Title"
-msgid "Dryad"
-msgstr "드라이어드"
-
-msgctxt "Monster/&BadlandsDryad_Title"
-msgid "Badlands Dryad"
-msgstr "황무지 드라이어드"
-
-msgctxt "Monster/&MutatedDryad_Title"
-msgid "Mutated Dryad"
-msgstr "변이된 드라이어드"
-
-msgctxt "Monster/&StoneGolem_Title"
-msgid "Stone Golem"
-msgstr "암석 골렘"
-
-msgctxt "Monster/&ClayGolem_Title"
-msgid "Clay Golem"
-msgstr "진흙 골렘"
-
-msgctxt "Monster/&IronGolem_Title"
-msgid "Iron Golem"
-msgstr "강철 골렘"
-
-msgctxt "Monster/&Roc_Title"
-msgid "Roc"
-msgstr "괴조"
-
-msgctxt "Monster/&WightLord_Title"
-msgid "Wight Lord"
-msgstr "와이트 로드"
-
-msgctxt "Monster/&MinotaurElite_Title"
-msgid "Minotaur Elite"
-msgstr "정예 미노타우르스"
-
-msgctxt "Monster/&MinotaurElite_Description"
-msgid ""
-"Among the powerful Minotaur, some arise as superior fighters and get extra "
-"training, enough to master deadly skills and even more strength and power "
-"than their brothers."
+msgctxt "Monster/&SpiritDescription"
+msgid "A spirit creature bonded to a druid."
 msgstr ""
-"강력한 미노타우르스 가운데 일부는 우수한 전사가 되어 추가적인 훈련을 받아 치명적인 기술과 동족보다 더욱 강한 근력과 능력을 가지게 "
-"되었습니다."
 
-msgctxt "Monster/&SpectralMinotaur_Title"
-msgid "Spectral Minotaur"
-msgstr "영체 미노타우르스"
-
-msgctxt "Monster/&SpectralMinotaur_Description"
-msgid ""
-"Such dreadful creatures can only be created by twisted necromancers, who "
-"wish to prolong a Minotaur's slavery indefinitely, in death."
-msgstr "이런 공포스러운 크리쳐는 오직 미노타우르스를 영원히 노예로 두고자 하는 뒤틀린 사령술사에 의해서만 창조될 수 있습니다."
-
-msgctxt "Monster/&FrostGiant_Title"
-msgid "Frost Giant"
-msgstr "서리 거인"
-
-msgctxt "Monster/&FrostGiant_Description"
-msgid ""
-"Made of ice and snow, their heart is also cold. These creatures live for "
-"battle and mayhem."
-msgstr "눈과 얼음으로 만들어져 마음조차 차갑습니다. 전투와 학살을 일삼는 크리쳐입니다."
-
-msgctxt "Monster/&FireGiant_Title"
-msgid "Fire Giant"
-msgstr "화염 거인"
-
-msgctxt "Monster/&FireGiant_Description"
-msgid ""
-"Born in the fires of the volcanos under the Badlands, trained to fight and "
-"forge, these huge creatures are alas generally hostile."
-msgstr "황무지 아래 화산에서 태어난 거대한 크리쳐. 계속 연마하고 싸우도록 훈련받아 일반적으로 호전적인 성향입니다."
-
-msgctxt "Monster/&StoneGiant_Title"
-msgid "Stone Giant"
-msgstr "암석 거인"
-
-msgctxt "Monster/&StoneGiant_Description"
-msgid ""
-"Immense creatures born of the very earth of Solasta, they dwell in gigantic "
-"caves and never feel at home under the sky."
+msgctxt "Monster/&CrimsonSpiderling_Title"
+msgid "Crimson Spiderling"
 msgstr ""
-"솔라스타의 대지 그 자체에서 태어난 거대한 크리쳐이며, 이들은 거대한 동굴에 거주하고 하늘 아래에서 결코 편안함을 느끼지 못합니다."
 
-msgctxt "Monster/&HillGiant_Title"
-msgid "Hill Giant"
-msgstr "언덕 거인"
+msgctxt "Monster/&CrimsonSpiderling_Description"
+msgid "A small - relatively speaking - crimson spider."
+msgstr ""
 
-msgctxt "Monster/&HillGiant_Description"
+msgctxt "Monster/&FeyWolf_Title"
+msgid "Fey Wolf"
+msgstr ""
+
+msgctxt "Monster/&FeyWolf_Description"
 msgid ""
-"Stupid and voracious, these creatures are in constant search of food, and "
-"that may very well mean you and your friends."
-msgstr "끊임없이 먹이를 찾아 헤메는 어리석고 게걸스러운 크리쳐. 먹이는 당신들 모험가를 의미할 수도 있습니다."
+"An enormous and powerful wolf, found only in the deepest and most ancient "
+"forests of Solasta."
+msgstr ""
 
-msgctxt "Monster/&Troll_Title"
-msgid "Troll"
-msgstr "트롤"
+msgctxt "Monster/&FeyEagle_Title"
+msgid "Fey Eagle"
+msgstr ""
 
-msgctxt "Monster/&Troll_Description"
-msgid "Regeneration"
-msgstr "재생"
-
-msgctxt "Monster/&Troll_Regeneration_Title"
-msgid "Trolls regenerate 10HP per round unless damage by acid."
-msgstr "트롤은 산성 피해를 입지 않는 한 라운드당 체력 10을 재생합니다."
-
-msgctxt "Monster/&Troll_Regeneration_Description"
-msgid "Troll"
-msgstr "트롤"
-
-msgctxt "Monster/&Bulette_Title"
-msgid "Bulette"
-msgstr "뷸렛"
-
-msgctxt "Monster/&Mummy_Title"
-msgid "Mummy"
-msgstr "미라"
-
-msgctxt "Monster/&MummyLord_Title"
-msgid "Mummy Lord"
-msgstr "미라 군주"
-
-msgctxt "Monster/&GiantBeetle_Title"
-msgid "Giant Beetle"
-msgstr "거대 딱정벌레"
-
-msgctxt "Monster/&GiantBeetle_Description"
+msgctxt "Monster/&FeyEagle_Description"
 msgid ""
-"A huge insect from the Badlands. It might have been an ancestor of the "
-"dreadful Redeemers."
-msgstr "황무지에서 나타나는 거대한 곤충. 무서운 구도자 무리의 조상인 것으로 추정됩니다."
+"An enormous and powerful eagle, found only in the deepest and most ancient "
+"forests of Solasta."
+msgstr ""
 
-msgctxt "Monster/&MummyLordTitle"
-msgid "Mummy Lord"
-msgstr "미라 군주"
+msgctxt "Monster/&FeyBear_Title"
+msgid "Fey Bear"
+msgstr ""
 
-#, fuzzy
-msgctxt "Monster/&MummyLordDescription"
-msgid "TBC descripiton"
-msgstr "설명 추가 예정"
+msgctxt "Monster/&FeyBear_Description"
+msgid ""
+"An old and powerful bear, found only in the deepest and most ancient forests "
+"of Solasta."
+msgstr ""

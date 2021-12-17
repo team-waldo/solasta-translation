@@ -1,0 +1,113 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-17 17:52+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "Merchant/&DLC_Armorer_Title"
+msgid "Armory"
+msgstr ""
+
+msgctxt "Merchant/&DungeonMakerGeneralStoreTitle"
+msgid "General Store"
+msgstr ""
+
+msgctxt "Merchant/&DungeonMakerMagicalDevicesTitle"
+msgid "Magical Devices"
+msgstr ""
+
+msgctxt "Merchant/&DungeonMakerWeaponsmithTitle"
+msgid "Weaponsmith"
+msgstr ""
+
+msgctxt "Merchant/&DungeonMakerArmorerTitle"
+msgid "Armorer"
+msgstr ""
+
+msgctxt "Merchant/&DungeonMakerCrafterTitle"
+msgid "Crafter"
+msgstr ""
+
+msgctxt "Merchant/&CaerCyflen_Annie_Bagmordah_Store_ScavengersTitle"
+msgid "Scavengers' Headquarters"
+msgstr ""
+
+msgctxt "Merchant/&CaerCyflen_Dalon_Lark_Store_EinarTitle"
+msgid "Temple of Einar Contact"
+msgstr ""
+
+msgctxt "Merchant/&CaerCyflen_Gorim_Ironsoot_StoreTitle"
+msgid "General Store for Adventurers"
+msgstr ""
+
+msgctxt "Merchant/&CaerCyflen_Halman_Summer_Store_AntiquariansTitle"
+msgid "Antiquarians Contact"
+msgstr ""
+
+msgctxt "Merchant/&CaerCyflen_Heddlon_Surespell_Store_ArcaneumTitle"
+msgid "Arcaneum Contact"
+msgstr ""
+
+msgctxt "Merchant/&CaerCyflen_Hugo_Requer_StoreTitle"
+msgid "Magic and Curiosities"
+msgstr ""
+
+msgctxt "Merchant/&CaerCyflen_Joriel_Foxeye_Store_CircleOfDanantarTitle"
+msgid "Circle of Danantar Contact"
+msgstr ""
+
+msgctxt "Merchant/&CaerCyflen_Karel_Martel_Store_BartenderTitle"
+msgid "Inn Services"
+msgstr ""
+
+msgctxt "Merchant/&CaerCyflen_Maddy_Greenisle_Store_ToKTitle"
+msgid "Tower of Knowledge Contact"
+msgstr ""
+
+msgctxt "Merchant/&CaerCyflenWeaponsmith2Description"
+msgid "not use atm"
+msgstr ""
+
+msgctxt "Merchant/&CaerCyflenWeaponsmith2Title"
+msgid "Generic Weaponsmith"
+msgstr ""
+
+msgctxt "Merchant/&CaerCyflenWeaponsmithDescription"
+msgid "not use atm"
+msgstr ""
+
+msgctxt "Merchant/&CaerCyflenWeaponsmithTitle"
+msgid "Generic Weaponsmith"
+msgstr ""
+
+msgctxt "Merchant/&Telema_Merchant_Wanderer_TelemaTitle"
+msgid "Wandering Merchant"
+msgstr ""
+
+msgctxt "Merchant/&Coparann_Atima_StoreTitle"
+msgid "Local Cleric of Arun"
+msgstr ""
+
+msgctxt "Merchant/&CC_PriestessPakri"
+msgid "Priestess of Pakri"
+msgstr ""
+
+msgctxt "Merchant/&CC_PriestMaraike"
+msgid "Priest of Maraike"
+msgstr ""
+
+msgctxt "Merchant/&CC_PriestArun"
+msgid "Rogar Ardentfire"
+msgstr ""
+
+msgctxt "Merchant/&Circe_Title"
+msgid "Enchantment Manuals Merchant"
+msgstr ""

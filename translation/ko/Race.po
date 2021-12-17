@@ -1,8 +1,9 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-15 05:02+0900\n"
+"POT-Creation-Date: 2021-12-17 17:52+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,6 +11,18 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "Race/&HumanSurName14Title"
+msgid "Hector"
+msgstr "헥터"
+
+msgctxt "Race/&HalfOrcFemaleName20Title"
+msgid "Preka"
+msgstr ""
+
+msgctxt "Race/&HalfOrcMaleName20Title"
+msgid "Brek"
+msgstr ""
 
 msgctxt "Race/&DwarfDescription"
 msgid ""
@@ -914,10 +927,93 @@ msgctxt "Race/&HumanMaleName13Title"
 msgid "Alderbranch"
 msgstr "앨더브랜치"
 
-msgctxt "Race/&HumanSurName14Title"
-msgid "Hector"
-msgstr "헥터"
+msgctxt "Race/&HalfOrcTitle"
+msgid "Half-Orc"
+msgstr ""
 
-msgctxt "Race/&HalfOrcMaleName01"
+msgctxt "Race/&HalfOrcDescription"
+msgid ""
+"Offspring of humans and orcs, half-orcs often have a history of violence "
+"rather than romance. Rejected by both their parent's families, they tend to "
+"rely on strength to get on in life."
+msgstr ""
+
+msgctxt "Race/&HalfOrcMaleName1Title"
 msgid "Guthrock"
-msgstr "거스록"
+msgstr ""
+
+msgctxt "Race/&HalfOrcMaleName2Title"
+msgid "Hurk"
+msgstr ""
+
+msgctxt "Race/&HalfOrcMaleName3Title"
+msgid "Kaliban"
+msgstr ""
+
+msgctxt "Race/&HalfOrcMaleName4Title"
+msgid "Edrok"
+msgstr ""
+
+msgctxt "Race/&HalfOrcMaleName5Title"
+msgid "Orak"
+msgstr ""
+
+msgctxt "Race/&HalfOrcMaleName6Title"
+msgid "Brak"
+msgstr ""
+
+msgctxt "Race/&HalfOrcMaleName7Title"
+msgid "Parrek"
+msgstr ""
+
+msgctxt "Race/&HalfOrcMaleName8Title"
+msgid "Darak"
+msgstr ""
+
+msgctxt "Race/&HalfOrcMaleName9Title"
+msgid "Jadek"
+msgstr ""
+
+msgctxt "Race/&HalfOrcMaleName10Title"
+msgid "Kran"
+msgstr ""
+
+msgctxt "Race/&HalfOrcFemaleName1Title"
+msgid "Kalia"
+msgstr ""
+
+msgctxt "Race/&HalfOrcFemaleName2Title"
+msgid "Era"
+msgstr ""
+
+msgctxt "Race/&HalfOrcFemaleName3Title"
+msgid "Hesra"
+msgstr ""
+
+msgctxt "Race/&HalfOrcFemaleName4Title"
+msgid "Karra"
+msgstr ""
+
+msgctxt "Race/&HalfOrcFemaleName5Title"
+msgid "Turra"
+msgstr ""
+
+msgctxt "Race/&HalfOrcFemaleName6Title"
+msgid "Ila"
+msgstr ""
+
+msgctxt "Race/&HalfOrcFemaleName7Title"
+msgid "Treka"
+msgstr ""
+
+msgctxt "Race/&HalfOrcFemaleName8Title"
+msgid "Hada"
+msgstr ""
+
+msgctxt "Race/&HalfOrcFemaleName9Title"
+msgid "Prika"
+msgstr ""
+
+msgctxt "Race/&HalfOrcFemaleName10Title"
+msgid "Darra"
+msgstr ""

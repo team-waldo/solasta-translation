@@ -1,18 +1,4267 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-12-16 13:08+0000\n"
-"Last-Translator: Nickel <psb3421@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/quest/ko/>"
-"\n"
-"Language: ko\n"
+"POT-Creation-Date: 2021-12-17 17:52+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
+
+#, fuzzy
+#| msgid "A furry task"
+msgctxt "Quest/&DLC1_Quest_Marches_NPC2_Mercenary_MainTitle"
+msgid "A Furry Task"
+msgstr "털투성이 작업"
+
+msgctxt "Quest/&DLC1_Quest_Marches_NPC2_Mercenary_ReturnPeltTitle"
+msgid "Talk to Krim"
+msgstr "크림과 대화"
+
+#, fuzzy
+#| msgid ""
+#| "Krim has asked to talk to you after your returned from the grotto. Talk to "
+#| "him and see what he has to say."
+msgctxt "Quest/&DLC1_Quest_Marches_NPC2_Mercenary_ReturnPeltDescription"
+msgid ""
+"Krim has asked to talk to you upon your return from the grotto. Talk to him "
+"and see what he has to say."
+msgstr "동굴에서 돌아온 뒤 크림이 대화를 요청했습니다. 무슨 말을 하려는지 만나보십시오."
+
+#, fuzzy
+#| msgid "You did not talk Krim."
+msgctxt "Quest/&DLC1_Quest_Marches_NPC2_Mercenary_ReturnPelt_Outcome1Description"
+msgid "You did not talk to Krim."
+msgstr "크림과 대화하지 않았습니다."
+
+#, fuzzy
+#| msgid ""
+#| "Krim was interested in the bear pelt you brought from the grotto, just a "
+#| "small business affair."
+msgctxt "Quest/&DLC1_Quest_Marches_NPC2_Mercenary_ReturnPelt_Outcome2Description"
+msgid ""
+"Krim was interested in the bear pelt you brought from the grotto, just a "
+"small business transaction."
+msgstr "크림은 동굴에서 가져온 곰 가죽에 관심있어 합니다. 그냥 사소한 사업 얘기군요."
+
+msgctxt "Quest/&DLC1_Quest_Marches_NPC1_Scribe"
+msgid "Archeology"
+msgstr "고고학"
+
+msgctxt "Quest/&DLC1_Quest_Marches_NPC1_Scribe_01_FindAntiquesTitle"
+msgid "Find Antiques"
+msgstr ""
+
+#, fuzzy
+#| msgid ""
+#| "You discussed with Leyrin Catpaw, one of the search party members, who seem "
+#| "interested in antiquities. If you come accross anything of interest, bring "
+#| "it back to her."
+msgctxt "Quest/&DLC1_Quest_Marches_NPC1_Scribe_01_FindAntiquesDescription"
+msgid ""
+"You spoke with Leyrin Catpaw, one of the search party members, who seems "
+"interested in antiquities. If you come across anything of interest, bring it "
+"back to her."
+msgstr ""
+"탐색 파티의 일원이자, 골동품에 관심이 많아 보이는 레이린 캣포우와 대화했습니다. 흥미로워 보이는 어떤 것이든 그녀에게 가져다주십시오."
+
+msgctxt "Quest/&DLC1_Quest_Marches_NPC1_Scribe_02_ReturnToScribeTitle"
+msgid "Return to Leyrin Catpaw"
+msgstr "레이린 캣포우에게 돌아가기"
+
+#, fuzzy
+#| msgid ""
+#| "You found three pieces of what seems to be Manacalon remains. They seem to "
+#| "be linked together, but it would require further study. Bring them back to "
+#| "Leyrin Catpaw, she'll be happy to buy them."
+msgctxt "Quest/&DLC1_Quest_Marches_NPC1_Scribe_02_ReturnToScribeDescription"
+msgid ""
+"You found what looks like three Manacalon relics. They seem connected, but "
+"further study is required. Take them to Leyrin Catpaw - she'll be happy to "
+"buy them."
+msgstr ""
+"마나칼론 유물로 보이는 어떤 조각 3개를 찾았습니다. 서로 연결되어 있는 것처럼 보이는데, 연구를 더 해봐야 합니다. 레이린 캣포우에게 "
+"가져다주면 기꺼이 사 줄 것입니다."
+
+#, fuzzy
+#| msgid ""
+#| "You returned the antique writings to Leyrin Catpaw and she seemed very happy."
+msgctxt ""
+"Quest/&DLC1_Quest_Marches_NPC1_Scribe_02_ReturnToScribe_Outcome1Description"
+msgid "You returned the relics to Leyrin Catpaw, and she was very happy."
+msgstr "유물들을 돌려주었고 레이린 캣포우는 매우 행복해 보입니다."
+
+msgctxt ""
+"Quest/&DLC1_Quest_Marches_NPC1_Scribe_02_ReturnToScribe_Outcome2Description"
+msgid "You never got the chance to bring Leyrin Catpaw anything to study."
+msgstr "레이린 캣포우가 연구할만한 것을 가져올 기회가 없었습니다."
+
+#, fuzzy
+#| msgid "Precious paper"
+msgctxt "Quest/&DLC1_Quest_Marches_NPC2_Spy"
+msgid "Precious Paper"
+msgstr "소중한 논문"
+
+msgctxt "Quest/&DLC1_Quest_Marches"
+msgid "The Merchant Road"
+msgstr "교역로"
+
+#, fuzzy
+#| msgid "Speak to Galar"
+msgctxt "Quest/&DLC1_Quest_Marches_01_Talk_To_GalarTitle"
+msgid "Speak with Galar"
+msgstr "갈라르와 대화"
+
+#, fuzzy
+#| msgid "A group of people just set up camp just besides you."
+msgctxt "Quest/&DLC1_Quest_Marches_01_Talk_To_GalarDescription"
+msgid "A group of people just set up camp right beside you."
+msgstr "한 무리의 사람들이 바로 옆에 야영지를 차렸습니다."
+
+#, fuzzy
+#| msgid ""
+#| "You asked Galar about the group of people who just set camp besides. He "
+#| "instructed you to learn more about them and why they're here."
+msgctxt "Quest/&DLC1_Quest_Marches_01_Talk_To_Galar_Outcome1Description"
+msgid ""
+"You asked Galar about the people who just set camp nearby. He asked you to "
+"find out who they are and why they're here."
+msgstr "갈라르에게 바로 옆 야영지 사람들에 대해 묻자, 그가 저들이 여기 있는 이유를 알아오라고 지시했습니다."
+
+#, fuzzy
+#| msgid "Talk to Lady Fairblade"
+msgctxt "Quest/&DLC1_Quest_Marches_02_Talk_To_NPC2Title"
+msgid "Talk with Lady Fairblade"
+msgstr "페어블레이드와 대화"
+
+msgctxt "Quest/&DLC1_Quest_Marches_02_Talk_To_NPC2Description"
+msgid ""
+"Lady Helia Fairblade is the leader of this little group. Talk to her and "
+"learn more about her mission."
+msgstr "헬리아 페어블레이드는 이 작은 무리의 대표입니다. 대화를 통해 무슨 일인지 알아보십시오."
+
+#, fuzzy
+#| msgid ""
+#| "You spoke to Lady Fairblade and learned that she's looking for a man named "
+#| "Marin Ving."
+msgctxt "Quest/&DLC1_Quest_Marches_02_Talk_To_NPC2_Outcome1Description"
+msgid ""
+"You spoke to Lady Fairblade and learned that she is looking for a human "
+"named Marin Ving."
+msgstr "페어블레이드와 대화했고 마린 빙이라는 사람을 찾고 있다는 걸 알았습니다."
+
+#, fuzzy
+#| msgid "Talk to the nobleman"
+msgctxt "Quest/&DLC1_Quest_Marches_03_Talk_To_NPC1Title"
+msgid "Talk with the Nobleman"
+msgstr "귀족과 대화"
+
+#, fuzzy
+#| msgid ""
+#| "Nearby Lady Fairblade is a very nervous man wearing noble clothes. See what "
+#| "he has to say."
+msgctxt "Quest/&DLC1_Quest_Marches_03_Talk_To_NPC1Description"
+msgid ""
+"Close to Lady Fairblade is a nervous-looking man dressed like a noble. See "
+"what he has to say."
+msgstr "페어블레이드 근처에 고급진 옷을 입고 긴장한 채 서성이는 사람이 있습니다. 얘기를 좀 해보죠."
+
+#, fuzzy
+#| msgid "You spoke to the nobleman."
+msgctxt "Quest/&DLC1_Quest_Marches_03_Talk_To_NPC1_Outcome1Description"
+msgid "You spoke with the nobleman."
+msgstr "귀족과 대화했습니다."
+
+#, fuzzy
+#| msgid "Find Marin Ving's documents"
+msgctxt "Quest/&DLC1_Quest_Marches_NPC2_Spy_01_FindTheGreenBookTitle"
+msgid "Find Marin Ving's Documents"
+msgstr "마린 빙의 문서 찾기"
+
+#, fuzzy
+#| msgid ""
+#| "According to Helia Fairblade, Marin Ving transported valuable documents and "
+#| "the council would pay to recover them. If you find anything, report to her."
+msgctxt "Quest/&DLC1_Quest_Marches_NPC2_Spy_01_FindTheGreenBookDescription"
+msgid ""
+"According to Helia Fairblade, Marin Ving was carrying valuable documents and "
+"the Council will pay to recover them. If you find anything, report to her."
+msgstr ""
+"헬리아 페어블레이드에 따르면, 마린 빙은 귀중한 문서를 운반했으며, 평의회는 그것을 되찾기 위해 돈을 낼 것입니다. 뭐든 찾으면 "
+"보고하십시오."
+
+#, fuzzy
+#| msgid "You didn't return any document to Lady Fairblade."
+msgctxt ""
+"Quest/&DLC1_Quest_Marches_NPC2_Spy_01_FindTheGreenBook_Outcome1Description"
+msgid "You didn't bring Lady Fairblade any documents."
+msgstr "페어블레이드에게 문서를 돌려주지 않았습니다."
+
+msgctxt ""
+"Quest/&DLC1_Quest_Marches_NPC2_Spy_01_FindTheGreenBook_Outcome2Description"
+msgid "You found a notebook in Ving's backpack."
+msgstr "빙의 배낭에서 공책을 찾았습니다."
+
+#, fuzzy
+#| msgid "Return the notebook"
+msgctxt "Quest/&DLC1_Quest_Marches_NPC2_Spy_02_ReturnGreenBookTitle"
+msgid "Return the Notebook"
+msgstr "문서 돌려주기"
+
+#, fuzzy
+#| msgid ""
+#| "You found a notebook belonging to Marin Ving. Maybe that's what Lady "
+#| "Fairblade is looking for, return it to her."
+msgctxt "Quest/&DLC1_Quest_Marches_NPC2_Spy_02_ReturnGreenBookDescription"
+msgid ""
+"You found a notebook belonging to Marin Ving. Maybe that's what Lady "
+"Fairblade is looking for. Take it to her."
+msgstr "마린 빙의 문서를 찾았습니다. 페어블레이드가 찾고 있던 걸지도 모릅니다. 돌려주십시오."
+
+#, fuzzy
+#| msgid ""
+#| "You returned a notebook belonging to Ving. Not the documents Lady Fairblade "
+#| "hoped for, but she still rewarded you."
+msgctxt ""
+"Quest/&DLC1_Quest_Marches_NPC2_Spy_02_ReturnGreenBook_Outcome2Description"
+msgid ""
+"You brought back a notebook belonging to Marin Ving. Not the documents Lady "
+"Fairblade hoped for, but she still rewarded you."
+msgstr "빙의 문서를 돌려주었습니다. 페어블레이드가 찾던 건 아니었지만, 어쨌든 보상은 주었습니다."
+
+#, fuzzy
+#| msgid "Explore the surroundings"
+msgctxt "Quest/&DLC1_Quest_Marches_04_ExploreTitle"
+msgid "Explore the Area"
+msgstr "주변 탐색"
+
+#, fuzzy
+#| msgid ""
+#| "You accepted to help Lady Fairblade's search party to look for Marin Ving. "
+#| "For now, her people are resting, but you can start exploring the "
+#| "surroundings. Report anything you find."
+msgctxt "Quest/&DLC1_Quest_Marches_04_ExploreDescription"
+msgid ""
+"You agreed to help Lady Fairblade's search party look for Marin Ving. For "
+"now, her people are resting, but you can start exploring the surroundings. "
+"Report anything you find."
+msgstr ""
+"마린 빙을 찾기 위한 페어블레이드의 수색대를 돕기로 했습니다. 그들은 지금은 쉬고 있으나, 당신은 주변 탐색을 시작 수 있습니다. 무언가 "
+"찾으면 보고하세요."
+
+#, fuzzy
+#| msgid ""
+#| "You went to explore further down the mountainside and into a grotto, where "
+#| "you found a abandoned camp and a backpack : it belonged to Marin Ving!"
+msgctxt "Quest/&DLC1_Quest_Marches_04_Explore_Outcome1Description"
+msgid ""
+"You went to explore further down the mountainside and discovered a grotto, "
+"where you found a abandoned camp and a backpack - it belonged to Marin Ving!"
+msgstr "좀 더 탐색해보며 산비탈의 동굴까지 들어갔고 버려진 캠프와 배낭을 발견했습니다. 그것은 마린 빙의 것이었습니다!"
+
+#, fuzzy
+#| msgid ""
+#| "You have proof that the VIP was in the nearby grotto. Report to the search "
+#| "party's officer."
+msgctxt "Quest/&DLC1_Quest_Marches_05_FoundBag_Now_ReportDescription"
+msgid ""
+"You have proof that Marin Ving was in the nearby grotto. Report to the "
+"search party's leader."
+msgstr "VIP가 동굴 근처에 있다는 증거를 얻었습니다. 수색대에 보고하십시오."
+
+#, fuzzy
+#| msgid "Report your findings"
+msgctxt "Quest/&DLC1_Quest_Marches_05_FoundBag_Now_ReportTitle"
+msgid "Report your Findings"
+msgstr "조사 결과 보고"
+
+#, fuzzy
+#| msgid ""
+#| "You reported your findings. Helia Fairblade was happy and asked you to rest "
+#| "before resuming the search."
+msgctxt "Quest/&DLC1_Quest_Marches_05_FoundBag_Now_Report_Outcome1Description"
+msgid ""
+"You reported your findings. Helia Fairblade was happy and advised you to "
+"rest before resuming the search."
+msgstr "조사 결과를 보고했습니다. 헬리아 페어블레이드는 기뻐하며 수색 개시 전 휴식을 취하라고 했습니다."
+
+msgctxt "Quest/&DLC1_Quest_Marches_06_LevelUpTitle"
+msgid "Level Up"
+msgstr "레벨 업"
+
+#, fuzzy
+#| msgid "Use the Campfire to Take a Long Rest and level up."
+msgctxt "Quest/&DLC1_Quest_Marches_06_LevelUpDescription"
+msgid "Take a Long Rest at the Campfire and Level Up."
+msgstr "모닥불을 이용하여 긴 휴식을 취하고 레벨을 올리세요."
+
+#, fuzzy
+#| msgid "You rested well and prepared to search the grotto again."
+msgctxt "Quest/&DLC1_Quest_Marches_06_LevelUp_Outcome1Description"
+msgid "You are rested, and ready to search the grotto again."
+msgstr "당신은 충분한 휴식을 취했고 다시 동굴을 탐색할 준비가 되었습니다."
+
+#, fuzzy
+#| msgid "Explore the grotto carefully"
+msgctxt "Quest/&DLC1_Quest_Marches_07_ExploreBeyondTitle"
+msgid "Careful Exploration"
+msgstr "조심스럽게 동굴 탐험하기"
+
+#, fuzzy
+#| msgid ""
+#| "Return in the grotto and find what happened to Marin Ving. Hire some of Lady "
+#| "Fairblade's people, if needed. Use Cautious mode to make your party more "
+#| "aware of hidden objects."
+msgctxt "Quest/&DLC1_Quest_Marches_07_ExploreBeyondDescription"
+msgid ""
+"Return to the grotto and find out what happened to Marin Ving. Hire some of "
+"Lady Fairblade's people, if needed. Use Cautious mode to make hidden objects "
+"easier to spot."
+msgstr ""
+"동굴로 돌아가 마린 빙에게 무슨 일이 일어났는지 알아내십시오. 필요하다면 페어블레이드 쪽 사람을 고용할 수 있습니다. 숨겨진 것을 더 잘 "
+"찾아보려면 경계 모드를 사용하십시오."
+
+#, fuzzy
+#| msgid ""
+#| "You found a hidden passage through the cave's walls. Ving has probably used "
+#| "this to escape the bear."
+msgctxt "Quest/&DLC1_Quest_Marches_07_ExploreBeyond_Outcome1Description"
+msgid ""
+"You found a hidden passage in the cave wall. Ving probably used this to "
+"escape from the bear."
+msgstr "동굴 벽을 통과하는 숨겨진 통로를 찾았습니다. 아마도 빙은 곰에게서 탈출하기 위해 이 통로를 사용했을 것입니다."
+
+#, fuzzy
+#| msgid "Follow the tracks"
+msgctxt "Quest/&DLC1_Quest_Marches_08_EnteredNestTitle"
+msgid "Follow the Tracks"
+msgstr "흔적 따라가기"
+
+msgctxt "Quest/&DLC1_Quest_Marches_08_EnteredNestDescription"
+msgid ""
+"There's no doubt Ving went this way. Follow the tracks until you find him."
+msgstr "빙은 틀림없이 이쪽으로 갔을 겁니다. 그를 찾을 때까지 흔적을 따라가세요."
+
+#, fuzzy
+#| msgid ""
+#| "You found a door to what appears to be a Manacalon ruin, but doing so, you "
+#| "cut yourself for a way back. How did Ving pass through this? You have no "
+#| "idea."
+msgctxt "Quest/&DLC1_Quest_Marches_08_EnteredNest_Outcome1Description"
+msgid ""
+"You found a door to what seems to be a Manacalon ruin, but your way back is "
+"cut off. How did Ving make it through this? You have no idea."
+msgstr "마나칼론 유적으로 보이는 문을 찾았지만 들어섰다간 두 동강 나고 말 겁니다. 빙은 여길 어떻게 통과했죠? 알 수가 없군요."
+
+#, fuzzy
+#| msgid "Escape the nest"
+msgctxt "Quest/&DLC1_Quest_Marches_09_FindAnExitTitle"
+msgid "Escape the Nest"
+msgstr "둥지 탈출하기"
+
+#, fuzzy
+#| msgid ""
+#| "Somehow, this place has been overtaken by Redeemers, legendary insects of "
+#| "dreadful power. If you don't want to end feeding their queen, you better "
+#| "find a way out."
+msgctxt "Quest/&DLC1_Quest_Marches_09_FindAnExitDescription"
+msgid ""
+"This place has been overrun by redeemers, legendary insects of dreadful "
+"power. If you don't want to end up feeding their queen, you'd better find a "
+"way out."
+msgstr ""
+"어찌 된 일인지 무시무시한 힘을 지닌 전설적인 곤충, 구도자에 의해 점령되었습니다. 여왕 밥으로 바쳐지기 싫다면 출구를 찾는 게 좋을 "
+"겁니다."
+
+msgctxt "Quest/&DLC1_Quest_Marches_09_FindAnExit_Outcome1Description"
+msgid ""
+"You finally found a way out, but on the wrong side of the mountain: you're "
+"in the Badlands!"
+msgstr "탈출구를 통해 나왔지만, 산 반대편으로 나왔습니다. 여긴 황무지예요!"
+
+#, fuzzy
+#| msgid "Key to freedom"
+msgctxt "Quest/&DLC1_Quest_Marches_FindNestKey"
+msgid "Key to Freedom"
+msgstr "자유를 향한 열쇠"
+
+msgctxt "Quest/&DLC1_Quest_Secondary_FindNestKey_01_FindKeyTitle"
+msgid "Find the key"
+msgstr "열쇠 찾기"
+
+#, fuzzy
+#| msgid ""
+#| "You are blocked by a door, a tough one. Look around, you may find a key to "
+#| "open it…maybe in the dead hands of another antique corpse."
+msgctxt "Quest/&DLC1_Quest_Secondary_FindNestKey_01_FindKeyDescription"
+msgid ""
+"Your way is blocked by a door - a tough one. Look around, you may find a key "
+"to open it…perhaps in the dead hands of another ancient corpse."
+msgstr "단단한 문에 막혔습니다. 주변을 뒤지면, 열쇠가 있을 겁니다... 썩어가는 시체 손에 쥐어져 있을지도 모르죠."
+
+#, fuzzy
+#| msgid ""
+#| "You found an old Manacalon key in a pile of trash…considering that ghouls "
+#| "have been roaming around, you never know, it might what you're looking for."
+msgctxt "Quest/&DLC1_Quest_Secondary_FindNestKey_01_FindKey_Outcome1Description"
+msgid ""
+"You found an old Manacalon key in a pile of trash. Since ghouls have been "
+"roaming around, you never know - it might what you're looking for."
+msgstr "쓰레기 더미에서 오래된 마나칼론 열쇠를 찾았습니다… 구울들이 돌아다니는걸 생각하면, 아마 제대로 찾았을 겁니다."
+
+#, fuzzy
+#| msgid "Follow Ving's tracks"
+msgctxt "Quest/&DLC1_Quest_Marches_10_PursueVingTitle"
+msgid "Follow Ving's Tracks"
+msgstr "빙의 흔적 따라가기"
+
+#, fuzzy
+#| msgid ""
+#| "You have safely escaped the Redeemer's nest, but you are now trapped inside "
+#| "the Badlands. Apparently, Marin Ving was here, too, which means you can "
+#| "still find him. Explore further and find out what happened to him."
+msgctxt "Quest/&DLC1_Quest_Marches_10_PursueVingDescription"
+msgid ""
+"You have escaped the redeemer nest, but you are trapped in the Badlands. "
+"Apparently, Marin Ving was here, too, which means you can still find him. "
+"Explore further and find out what happened to him."
+msgstr ""
+"무사히 구도자의 둥지에서 탈출했지만 이젠 황무지에 갇힌 신세입니다. 마린 빙 역시 여기 있었던 것이 분명하므로, 여전히 그를 찾아볼 수 "
+"있습니다. 무슨 일을 겪은 건지 알아보러 가십시오."
+
+#, fuzzy
+#| msgid "You started exploring the valley, hoping to find Marin Ving."
+msgctxt "Quest/&DLC1_Quest_Marches_10_PursueVing_Outcome1Description"
+msgid "You started to explore the valley, searching for Marin Ving."
+msgstr "당신은 마린 빙을 찾길 바라며 계곡 탐험을 시작했습니다."
+
+msgctxt "Quest/&DLC1_Quest_Valley"
+msgid "The Emerald Forest"
+msgstr "에메랄드 숲"
+
+#, fuzzy
+#| msgid "Search Party"
+msgctxt "Quest/&DLC1_Quest_Valley_Step_01_FollowVip_Title"
+msgid "Look for Marin Ving"
+msgstr "파티 찾기"
+
+#, fuzzy
+#| msgid "Cross the jungle to find Marin Ving"
+msgctxt "Quest/&DLC1_Quest_Valley_Step_01_FollowVip_Description"
+msgid "Explore the jungle and find Marin Ving."
+msgstr "정글을 가로질러 마린 빙을 찾으세요"
+
+msgctxt "Quest/&DLC1_Quest_Valley_Step_01_FollowVip__Outcome1Description"
+msgid "You have discovered some old ruins in the jungle."
+msgstr "당신은 정글에서 오래된 유적을 발견했습니다."
+
+#, fuzzy
+#| msgid "Explore the ruins"
+msgctxt "Quest/&DLC1_Quest_Valley_Step_02_ExploreRuins_Title"
+msgid "Explore the Ruins"
+msgstr "유적 탐사"
+
+#, fuzzy
+#| msgid "Look around the ruins for traces of Marin's Party"
+msgctxt "Quest/&DLC1_Quest_Valley_Step_02_ExploreRuins_Description"
+msgid "Search the ruins for traces of Marin Ving's party"
+msgstr "마린 일행의 흔적을 찾아 유적을 둘러보세요"
+
+#, fuzzy
+#| msgid "You found the corpse of one of Marin Ving bodyguard."
+msgctxt "Quest/&DLC1_Quest_Valley_Step_02_ExploreRuins__Outcome1Description"
+msgid "You found the corpse of one of Marin Ving's bodyguards."
+msgstr "마린 빙의 경호원 중 한 명의 시신을 찾았습니다."
+
+msgctxt "Quest/&DLC1_Quest_Valley_Step_03_ExitJungle_Title"
+msgid "Leave the Jungle"
+msgstr ""
+
+#, fuzzy
+#| msgid "Exit the jungle and keep looking for Marin"
+msgctxt "Quest/&DLC1_Quest_Valley_Step_03_ExitJungle_Description"
+msgid ""
+"You can hear a waterfall not far away. Leave the jungle and keep looking for "
+"Marin Ving."
+msgstr "정글을 빠져나와 마린을 계속 찾으세요"
+
+#, fuzzy
+#| msgid ""
+#| "Marin Ving was not in the jungle. You have decided to go further away and "
+#| "found more clue about where he might be heading to."
+msgctxt "Quest/&DLC1_Quest_Valley_Step_03_ExitJungle__Outcome1Description"
+msgid ""
+"Marin Ving was not in the jungle. You have decided to head for the Waterfall "
+"and look for clues to where he went."
+msgstr "마린 빙은 정글에 없었습니다. 당신은 더 멀리 가보기로 결정했고, 그가 향한 곳에 대한 단서를 더 찾을 수 있었습니다."
+
+msgctxt "Quest/&DLC1_Quest_Valley_Step_04_ReachPlain_Title"
+msgid "Explore the Plain"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Valley_Step_04_ReachPlain_Description"
+msgid "Leave the waterfall and follow Marin Ving's tracks onto the plain."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Valley_Step_04_ReachPlain__Outcome1Description"
+msgid "You have found proof that Ving's party headed onto the plain."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Valley_Step_05_SearchPlateau_Title"
+msgid "Search the Plateau for Marin Ving"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Valley_Step_05_SearchPlateau_Description"
+msgid "Search the plateau for evidence of Ving's presence."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Valley_Step_05_SearchPlateau__Outcome1Description"
+msgid "You have found no evidence that Ving is still in the Valley."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Valley_Step_05A_SearchPlateau_Title"
+msgid "Search the bird nests for remains"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Valley_Step_05A_SearchPlateau_Description"
+msgid "Search the plateau for evidence of Ving's presence."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Valley_Step_05B_SearchPlateau_Title"
+msgid "Search the plateau for remains"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Valley_Step_05B_SearchPlateau_Description"
+msgid "Search the plateau for evidence of Ving's presence."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Valley_Step_05C_SearchPlateau_Title"
+msgid "Search the bird nests for remains"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Valley_Step_05C_SearchPlateau_Description"
+msgid "Search the plateau for evidence of Ving's presence."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Valley_Step_06_QuitValley_Title"
+msgid "Leave the Valley"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Valley_Step_06_QuitValley_Description"
+msgid "Leave the Valley and Keep Looking for Ving."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Valley_Step_06_QuitValley__Outcome1Description"
+msgid ""
+"You didn't find Ving's corpse in the valley. He must have moved on somewhere "
+"else."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex"
+msgid "The Research Complex"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_01_FindWay_Title"
+msgid "Find a Way In"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_01_FindWay_Description"
+msgid "Cross the swamp to find an entrance to the complex."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_01_FindWay__Outcome1Description"
+msgid "You managed to enter the complex."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_02_ExploreBuilding_Title"
+msgid "Explore the Complex"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_02_ExploreBuilding_Description"
+msgid "Look around the Complex for research note and other documents."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_02_ExploreBuilding__Outcome1Description"
+msgid "You found that the Complex has some underground levels."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_02A_ExploreBuilding_Title"
+msgid "Search for Documents "
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_02A_ExploreBuilding_Description"
+msgid "Look around the complex for information."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_02A_ExploreBuilding__Outcome1Description"
+msgid "You have found some plans of the complex."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_02B_ExploreBuilding_Title"
+msgid "Search for Notes"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_02B_ExploreBuilding_Description"
+msgid "Search the complex to learn more about the place."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_02B_ExploreBuilding__Outcome1Description"
+msgid "You discovered that the complex serve as a research facility."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_02C_ExploreBuilding_Title"
+msgid "Find more information about the complex."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_02C_ExploreBuilding_Description"
+msgid "Look around the building for more information."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_02C_ExploreBuilding__Outcome1Description"
+msgid "You found out that the complex uses mana-infused crystals as keys."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_03_FindAccess_Title"
+msgid "Access the Underground Levels"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_03_FindAccess_Description"
+msgid "Find a way into the complex's underground levels."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_03_FindAccess__Outcome1Description"
+msgid "You found an entrance to the underground levels!"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_04_SearchFacilities_Title"
+msgid "Explore"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_04_SearchFacilities_Description"
+msgid "Search for information about the place."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_04_SearchFacilities__Outcome1Description"
+msgid "You arrived in the middle of a security lockdown!"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_05_ReachLab_Title"
+msgid "Navigate through the Tunnels"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_05_ReachLab_Description"
+msgid "Follow the tunnels and find the underground laboratory."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_05_ReachLab__Outcome1Description"
+msgid "You have entered the underground laboratory!"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_06_ExploreLab_Title"
+msgid "Explore the Underground Lab"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_06_ExploreLab_Description"
+msgid "Search the Laboratory and learn more about the experiments."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_06_ExploreLab__Outcome1Description"
+msgid "You have found some research notes on mutant experiments!"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_06A_ExploreLab_Title"
+msgid "Look for Research Notes"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_06A_ExploreLab_Description"
+msgid "Explore the lab and find out about the experiments conducted here."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_06A_ExploreLab__Outcome1Description"
+msgid "You have found some research notes on mutant experiments!"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_06B_ExploreLab_Title"
+msgid "Search for Clues"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_06B_ExploreLab_Description"
+msgid "Investigate the lab and find out what happened."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_06B_ExploreLab__Outcome1Description"
+msgid "You learn that some of the mutants have escaped!"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_08_LeaveComplex_Title"
+msgid "Leave the Complex"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_08_LeaveComplex_Description"
+msgid "Retrace your steps and leave the complex."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_08_LeaveComplex__Outcome1Description"
+msgid "You have left the complex."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_Locked_Elevator"
+msgid "Elevator"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_Locked_Elevator_Step_01_Title"
+msgid "Activate the Elevator"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_Locked_Elevator_Step_01_Description"
+msgid ""
+"The Elevator seems to need some kind of activation key. Search the place for "
+"it."
+msgstr ""
+
+msgctxt ""
+"Quest/"
+"&DLC1_Secondary_Quest_Complex_Locked_Elevator_Step_01__Outcome1Description"
+msgid "You found a crystal key!"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_Locked_Elevator_Step_02_Title"
+msgid "Use the Crystal Key"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_Locked_Elevator_Step_02_Description"
+msgid "Activate the elevator using the crystal key."
+msgstr ""
+
+msgctxt ""
+"Quest/"
+"&DLC1_Secondary_Quest_Complex_Locked_Elevator_Step_02__Outcome1Description"
+msgid "You have activated the elevator!"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_Open_Gate"
+msgid "The Security Gate"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_Open_Gate_STEP_01_Title"
+msgid "Find the Key for the Security Gate"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_Open_Gate_STEP_01_Description"
+msgid ""
+"The security gate requires a special key. Look around the building for it."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Complex_Open_Gate_STEP_01__Outcome1Description"
+msgid "You found the key for the security gate."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_Open_Gate_STEP_02_Title"
+msgid "Open the Security Gate"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_Open_Gate_STEP_02_Description"
+msgid "Open the security gate to access the trapdoor room."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Complex_Open_Gate_STEP_02__Outcome1Description"
+msgid "You opened the security gate."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Swamp_Orenetis_Apprentice_Quest_Title"
+msgid "The Lost Apprentice"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Swamp_Orenetis_Apprentice_Quest_Description"
+msgid ""
+"Orenetis has not heard from his apprentice Lysantir. Go to the swamp and try "
+"to find what happened to him."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Swamp_Orenetis_Apprentice_Quest_GoToSwampTitle"
+msgid "Go to the Swamp"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Swamp_Orenetis_Apprentice_Quest_GoToSwampDescription"
+msgid "Go to the swamp and find out what happened to Lysantir."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Swamp_Orenetis_Apprentice_Quest_GoToSwamp_Outcome1Description"
+msgid "You have reached the swamp."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Swamp_Orenetis_Apprentice_Quest_FindApprenticeTitle"
+msgid "Find the Apprentice"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Swamp_Orenetis_Apprentice_Quest_FindApprenticeDescription"
+msgid "Find out what happened to Lysantir"
+msgstr ""
+
+msgctxt ""
+"Quest/"
+"&DLC1_Swamp_Orenetis_Apprentice_Quest_FindApprentice_Outcome1Description"
+msgid "You found an old, ruined fort in which Lysantir might be a prisoner."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Swamp_Orenetis_Apprentice_Quest_FreeApprenticeTitle"
+msgid "Free the Apprentice"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Swamp_Orenetis_Apprentice_Quest_FreeApprenticeDescription"
+msgid "Find a way to open Lysantir's cell."
+msgstr ""
+
+msgctxt ""
+"Quest/"
+"&DLC1_Swamp_Orenetis_Apprentice_Quest_FreeApprentice_Outcome1Description"
+msgid "You found a key to Lysantir's cell and freed him."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Swamp_Orenetis_Apprentice_Quest_ChooseApprenticeDestinyTitle"
+msgid "The Apprentice's Destiny"
+msgstr ""
+
+msgctxt ""
+"Quest/"
+"&DLC1_Swamp_Orenetis_Apprentice_Quest_ChooseApprenticeDestinyDescription"
+msgid ""
+"Lysantir does not want to go back to Orenetis. Instead, he wants to join "
+"your party and search for a new place in the world. What will you do?"
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Swamp_Orenetis_Apprentice_Quest_ChooseApprenticeDestiny_Outcome1D"
+"escription"
+msgid "Lysantir died before you could find a new home for him."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Swamp_Orenetis_Apprentice_Quest_ChooseApprenticeDestiny_Outcome2D"
+"escription"
+msgid "You brought Lysantir back to his master."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Swamp_Orenetis_Apprentice_Quest_ChooseApprenticeDestiny_Outcome3D"
+"escription"
+msgid "You brought Lysantir back to the city."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Swamp_Orenetis_Apprentice_Quest_ChooseApprenticeDestiny_Outcome4D"
+"escription"
+msgid "Lysantir has joined the Forge."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Swamp_Forge_Kill_Dryad_Quest_Title"
+msgid "The Dryad Queen"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Swamp_Forge_Kill_Dryad_Quest_FindTheGiantTreeTitle"
+msgid "Find the Giant Tree."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Swamp_Forge_Kill_Dryad_Quest_FindTheGiantTreeDescription"
+msgid ""
+"Hasdrubal asked you to locate the Dryad. They are roaming around the Giant "
+"Tree. "
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Swamp_Forge_Kill_Dryad_Quest_FindTheGiantTree_Outcome1Description"
+msgid "You have found the Giant Tree."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Swamp_Forge_Kill_Dryad_Quest_LongRestUnderTheGiantTreeTitle"
+msgid "Rest beneath the Giant Tree"
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Swamp_Forge_Kill_Dryad_Quest_LongRestUnderTheGiantTreeDescription"
+msgid "Take a long rest beneath the giant tree to attract the Dryad Queen."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Swamp_Forge_Kill_Dryad_Quest_LongRestUnderTheGiantTree_Outcome1De"
+"scription"
+msgid "Resting beneath the Giant Tree has successfully attracted the Dryads."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Swamp_Forge_Kill_Dryad_Quest_KillTheQueenDryadTitle"
+msgid "Eliminate the Dryad Queen"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Swamp_Forge_Kill_Dryad_Quest_KillTheQueenDryadDescription"
+msgid "Kill all the dryads to secure the Forge Camp."
+msgstr ""
+
+msgctxt ""
+"Quest/"
+"&DLC1_Swamp_Forge_Kill_Dryad_Quest_KillTheQueenDryad_Outcome1Description"
+msgid "You have eliminated all the Dryads and managed to kill the Dryad Queen."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Swamp_Forge_Kill_Dryad_Quest_BringBackToForgeTitle"
+msgid "Give Hasdrubal the Dryad Queen's Head"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Swamp_Forge_Kill_Dryad_Quest_BringBackToForgeDescription"
+msgid "Report to Hasdrubal and give him the dryad queen's head."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Swamp_Forge_Kill_Dryad_Quest_BringBackToForge_Outcome1Description"
+msgid "You brought the dryad queen's head to the Forge Camp."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Swamp_Forge_Kill_Dryad_Quest_BringBackToForge_Outcome2Description"
+msgid "You chose to keep the dryad queen's head."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Forge_04_Title"
+msgid "The Swamp Base"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Forge_04_Description"
+msgid "Visit Hasdrubal in the swamp."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Forge_04_STEP_01Title"
+msgid "Reach the Forge Base"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Forge_04_STEP_01Description"
+msgid "Travel to the Forge base in the swamp."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Forge_04_STEP_01_Outcome1Description"
+msgid "You have reached the swamp."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Forge_04_STEP_02Title"
+msgid "Deliver the package to Hasdrubal."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Forge_04_STEP_02Description"
+msgid ""
+"Talk to Hasdrubal in the Forge base and give him the package from Telerien."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Forge_04_STEP_02_Outcome1Description"
+msgid "You have delivered the package to Hasdrubal."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Forge_04_STEP_02_Outcome2Description"
+msgid ""
+"You decided to keep the package from Telerien, and only gave the letter to "
+"Hasdrubal."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_ThePeople_10_Title"
+msgid "Love Story"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_ThePeople_10_STEP_01Title"
+msgid "Deliver the Letter"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_ThePeople_10_STEP_01Description"
+msgid ""
+"You found a letter on a dead body in the spider cave in the Swamp. Take it "
+"to its addressee in the city."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Swamp_ThePeople_10_STEP_01_Outcome1Description"
+msgid "You delivered the letter to a beloved wife. What a sad story."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_Rebellion_03_Title"
+msgid "Shallow Grave"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_Rebellion_03_STEP_01Title"
+msgid "Kill Charmer"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_Rebellion_03_STEP_01Description"
+msgid ""
+"Go to the Forge camp in the swamps and kill Charmer - ideally in a quiet "
+"place."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_City_Rebellion_03_STEP_01_Outcome1Description"
+msgid "You've killed Charmer! Go back and claim your reward"
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_City_Rebellion_03_STEP_01_Outcome2Description"
+msgid ""
+"You've decided to spare Charmer. The Rebellion won't appreciate it, but the "
+"Forge is happy. Quest canceled."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_Rebellion_03_STEP_02Title"
+msgid "Return to City "
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_Rebellion_03_STEP_02Description"
+msgid "Return to the City and claim your reward."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_City_Rebellion_03_STEP_02_Outcome1Description"
+msgid "You've got your reward, and the Rebellion likes you."
+msgstr ""
+
+msgctxt ""
+"Quest/"
+"&DLC1_Quest_Complex_Step_02Shortcut_SearchFacilities__Outcome1Description"
+msgid "You have gained access to the underground facilities."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_Open_Gate_Underground"
+msgid "The Cubic Prism"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_Open_Gate_Underground_STEP_01_Title"
+msgid "Find the Cube Prism Key."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Complex_Open_Gate_Underground_STEP_01_Description"
+msgid "The east tunnel gate requires a special key. Look around to find it."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Complex_Open_Gate_Underground_STEP_01__Outcome1De"
+"scription"
+msgid "You found the cube prism key."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_Open_Gate_Underground_STEP_02_Title"
+msgid "Use the Cube Prism Key"
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Complex_Open_Gate_Underground_STEP_02_Description"
+msgid "Use the cube prism key to open the east tunnel gate."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Complex_Open_Gate_Underground_STEP_02__Outcome1De"
+"scription"
+msgid "You have opened the east tunnel gate!"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_Rebellion_01_01_StartQuestLogTitle"
+msgid "Ask around for Marin Ving"
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_City_Rebellion_01_01_StartQuestLogDescription"
+msgid ""
+"Question people in the city and find out whether Marin Ving has been seen."
+msgstr ""
+
+msgctxt ""
+"Quest/"
+"&DLC1_Secondary_Quest_City_Rebellion_01_01_StartQuestLog_Outcome1Description"
+msgid "You met with Sima Temple…TBC "
+msgstr ""
+
+msgctxt ""
+"Quest/"
+"&DLC1_Secondary_Quest_City_Rebellion_01_01_StartQuestLog_Outcome2Description"
+msgid "You did not speak with the man near the chimney in the Inn."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_ThePeople02_01_StartQuestLogTitle"
+msgid "Ask the Butcher about Marin Ving"
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_City_ThePeople02_01_StartQuestLogDescription"
+msgid ""
+"There's a butcher's shop near the city's entrance. Check out the owner and "
+"ask if he knows of Marin Ving."
+msgstr ""
+
+msgctxt ""
+"Quest/"
+"&DLC1_Secondary_Quest_City_ThePeople02_01_StartQuestLog_Outcome1Description"
+msgid ""
+"You spoke to Henrik Redhand, the butcher. He asked you to hunt some Badlands "
+"Bears in a nearby clearing and bring back their valuable meat for a good "
+"reward."
+msgstr ""
+
+msgctxt ""
+"Quest/"
+"&DLC1_Secondary_Quest_City_ThePeople02_01_StartQuestLog_Outcome2Description"
+msgid "You did not speak to the butcher."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_ThePeople02_02_HuntTitle"
+msgid "Hunt Badlands Bears"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_ThePeople02_02_HuntDescription"
+msgid ""
+"Leave the city and go to the clearing mentioned by Henrik Redhand. Once "
+"there, hunt badlands bears for their meat."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_City_ThePeople02_02_Hunt_Outcome1Description"
+msgid "You have gathered enough badlands bear meat for Henrik!"
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_City_ThePeople02_02_Hunt_Outcome2Description"
+msgid "You did not hunt and badlands bears."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_City_ThePeople02_03_ReturnToHenrikWithStuffTitle"
+msgid "Take the Meat to Henrik"
+msgstr ""
+
+msgctxt ""
+"Quest/"
+"&DLC1_Secondary_Quest_City_ThePeople02_03_ReturnToHenrikWithStuffDescription"
+msgid "Return to the city and deliver the badlands bear meat to Henrik."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_City_ThePeople02_03_ReturnToHenrikWithStuff_Outco"
+"me1Description"
+msgid "You concluded your business with Henrik."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_City_ThePeople02_03_ReturnToHenrikWithStuff_Outco"
+"me2Description"
+msgid "You did not bring any meat to Henrik."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_ThePeople02_TITLE"
+msgid "The Butcher"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_Rebellion_01_TITLE"
+msgid "A Simple Job"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_Rebellion_03_TITLE"
+msgid "A view to a kill"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_Rebellion_01_02_StealTitle"
+msgid "Pickpocket the Guard"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_Rebellion_01_02_StealDescription"
+msgid ""
+"Sima Temple asked you to recover some things confiscated by a city guard. "
+"It's a  risky move, but she said he might help you with your research in "
+"return."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_City_Rebellion_01_02_Steal_Outcome1Description"
+msgid "You managed to steal the item from the guard."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_Rebellion_01_03_ReturnTitle"
+msgid "Return to Sima"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_Rebellion_01_03_ReturnDescription"
+msgid "You did what Sima asked. Now take the item to her and close the deal."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_City_Rebellion_01_03_Return_Outcome1Description"
+msgid "TBC"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_Orenetis_01_TITLE"
+msgid "The Lord Protector"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_Orenetis_01_01_StartQuestLogTitle"
+msgid "Meet the City's Master"
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_City_Orenetis_01_01_StartQuestLogDescription"
+msgid ""
+"Rose told you it would be a good idea to introduce yourself formally to the "
+"city's Lord Protector. Find a way to meet him - and make sure he knows "
+"you're not rebels."
+msgstr ""
+
+msgctxt ""
+"Quest/"
+"&DLC1_Secondary_Quest_City_Orenetis_01_01_StartQuestLog_Outcome1Description"
+msgid "You passed through the city's Low Gate."
+msgstr ""
+
+msgctxt ""
+"Quest/"
+"&DLC1_Secondary_Quest_City_Orenetis_01_01_StartQuestLog_Outcome2Description"
+msgid "You did not meet with the Lord Protector."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_City_Orenetis_01_01_MeetGuardsFirstGateTitle"
+msgid "The High Gate"
+msgstr ""
+
+msgctxt ""
+"Quest/"
+"&DLC1_Secondary_Quest_City_Orenetis_01_01_MeetGuardsFirstGateDescription"
+msgid ""
+"You need to pass through the high gate to reach the palace of the Lord "
+"Protector."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_City_Orenetis_01_01_MeetGuardsFirstGate_Outcome1D"
+"escription"
+msgid "You passed through the High Gate."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_Orenetis_01_03_MeetOrenetisTitle"
+msgid "Request an Audience"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_Orenetis_01_03_MeetOrenetisDescription"
+msgid "You're in the palace! Ask for an audience with the Lord Protector."
+msgstr ""
+
+msgctxt ""
+"Quest/"
+"&DLC1_Secondary_Quest_City_Orenetis_01_03_MeetOrenetis_Outcome1Description"
+msgid "You met with Orenetis, the city's Lord Protector of the city…TBC"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_Open_Gate_03"
+msgid "The Cylindrical Prism"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_Open_Gate_03_STEP_01_Title"
+msgid "Find the Cylinder Prism Key"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_Open_Gate_03_STEP_01_Description"
+msgid ""
+"The tunnel gate requires a special key. Look around the building to find it."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Complex_Open_Gate_03_STEP_01__Outcome1Description"
+msgid "You found the Cylinder Prism key."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_Open_Gate_03_STEP_02_Title"
+msgid "Use the Cylinder Prism Key"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_Open_Gate_03_STEP_02_Description"
+msgid "Use the cylinder prism key to open the gate to the tunnels. "
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Complex_Open_Gate_03_STEP_02__Outcome1Description"
+msgid "You successfully opened the tunnel gate."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Forge_05_BringBackToForge_Outcome2Description"
+msgid "You gave the Dryad Queen's head to Orenetis. The Forge is very unhappy."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_03_Title"
+msgid "Magical Ingredients"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_03_MAINTitle"
+msgid "Find magical ingredients for Orenetis."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_03_MAINDescription"
+msgid "TBD"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_03_MAIN_Outcome1Description"
+msgid "You brought back everything Orenetis needed. He is happy. Well done!"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_03_STEP_01ATitle"
+msgid "Find a Dryad Queen's Head"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_03_STEP_01ADescription"
+msgid ""
+"Orenetis asked you to find a special ingredient: the head of a dryad queen."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_03_STEP_01A_Outcome1Description"
+msgid "You have found a dryad queen's head."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_03_STEP_01BTitle"
+msgid "Take the Dryad Queen's Head to Graymas"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_03_STEP_01BDescription"
+msgid "Report to Esfalad Graymas and give him the dryad queen's head"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_03_STEP_01B_Outcome1Description"
+msgid "You gave Esfalad the dryad queen's head."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_03_STEP_01B_Outcome2Description"
+msgid "You gave the dryad queen's head to Hasdrubal."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_03_STEP_02ATitle"
+msgid "Find a Smart Giant's Head"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_03_STEP_02ADescription"
+msgid "Orenetis wants you to find a smart giant's head."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_03_STEP_02A_Outcome1Description"
+msgid "You have found a smart giant's head."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_03_STEP_02BTitle"
+msgid "Take the Smart Giant's Head to Esfalad"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_03_STEP_02BDescription"
+msgid "Report to Chancellor Esfalad and give him the smart giant's head."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_03_STEP_02B_Outcome1Description"
+msgid "You gave Esfalad the smart giant's head."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_03_STEP_03ATitle"
+msgid "Find an Albino Minotaur's Head"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_03_STEP_03ADescription"
+msgid "Orenetis is looking for an albino minotaur's head."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_03_STEP_03A_Outcome1Description"
+msgid "You have found the albino minotaur's head."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_03_STEP_03BTitle"
+msgid "Give Esfalad the Albino Minotaur's Head"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_03_STEP_03BDescription"
+msgid "Report to chancellor Esfalad and give him the albino minotaur's head."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_03_STEP_03B_Outcome1Description"
+msgid "You gave Esfalad the albino minotaur's head."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_02_Title"
+msgid "Suspicious Ingredients"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_02_STEP_01Title"
+msgid "Find Ingredients"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_02_STEP_01Description"
+msgid "You might find them in a cave."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_02_STEP_01_Outcome1Description"
+msgid "You found some ingredients."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_02_STEP_02Title"
+msgid "Deliver the Ingredients"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_02_STEP_02Description"
+msgid "Telerien wants the ingredients you found in the spider nest."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_02_STEP_02_Outcome1Description"
+msgid "You gave the ingredients to Telerien. He is happy."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_02_Title"
+msgid "Garden Party"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_02_STEP_01Title"
+msgid "Harvest Ingredients for Orenetis"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_02_STEP_01Description"
+msgid ""
+"Lord Protector Orenetis asked you to retrieve some ingredients from a nearby "
+"location. Chancellor Graymas gave you a map to get there and a list of "
+"things to bring back."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_02_STEP_01_Outcome1Description"
+msgid "You retrieved the required ingredients."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_02_STEP_02Title"
+msgid "Take the Ingredients to Orenetis"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_02_STEP_02Description"
+msgid "Return to the city with the ingredients Orenetis needs."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_02_STEP_02_Outcome1Description"
+msgid ""
+"The Lord Protector is pleased at your success, and wants you to do more for "
+"him."
+msgstr ""
+
+msgctxt ""
+"Quest/"
+"&DLC1_Secondary_Quest_City_Orenetis_01_03_MeetOrenetis_Outcome2Description"
+msgid "You met Orenetis, but had the very bad idea of insulting him."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_Orenetis_01_04_SpeakToEsfaladTitle"
+msgid "Speak to the Chancellor"
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_City_Orenetis_01_04_SpeakToEsfaladDescription"
+msgid ""
+"Orenetis told you to ask his Chancellor for a list of ingredients he wants "
+"you to gather."
+msgstr ""
+
+msgctxt ""
+"Quest/"
+"&DLC1_Secondary_Quest_City_Orenetis_01_04_SpeakToEsfalad_Outcome1Description"
+msgid "You spoke to the Chancellor and received the list of ingredients."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_04B_LeaveFacilities_Title"
+msgid "Leave the Facility"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_04B_LeaveFacilities_Description"
+msgid "Find a way out of the lockdown to reach the next area."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_04B_LeaveFacilities__Outcome1Description"
+msgid "You opened a passage out of the lockdown."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_07_EnterLab_Title"
+msgid "Enter the Dark Lab"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_07_EnterLab_Description"
+msgid ""
+"The main door appears to be blocked. Find another way into the Dark "
+"Laboratory."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_07_EnterLab__Outcome1Description"
+msgid "You entered the Dark Laboratory and found the remaining Scientist."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_05_Title"
+msgid "Blue Blood"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_05_STEP_01Title"
+msgid "Reach Caer Anfrel"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_05_STEP_01Description"
+msgid ""
+"Orenetis asked you to punish a nobleman called Elerien Anfarel. He marked "
+"his location on your map."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_05_STEP_01_Outcome1Description"
+msgid "You have reached Caer Anfrel."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_05_STEP_02Title"
+msgid "Punish Elerien Anfarel"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_05_STEP_02Description"
+msgid ""
+"Caer Anfrel seems well defended. Speak to Elerien Anfarel, but be ready for "
+"anything!"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_05_STEP_02_Outcome1Description"
+msgid "You punished Elerien Anfarel without killing him."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_05_STEP_02_Outcome2Description"
+msgid "Elerien Anfarel did not survive."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_05_STEP_03_REPORTTitle"
+msgid "Report to Orenetis"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_05_STEP_03_REPORTDescription"
+msgid "Return to Orenetis and report on your dealings with Elerien Anfarel."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Orenetis_05_STEP_03_REPORT_Outcome1Description"
+msgid "You reported to Orenetis on mission, and he seemed pleased enough."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_07_Title"
+msgid "Under His Eyes"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_07_STEP_01Title"
+msgid "Take control of all the outposts."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_07_STEP_01Description"
+msgid ""
+"The Lord Protector wants his banner flying over all the outposts in the "
+"valley. No rebel or rival must control a single inch of his territory."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_07_STEP_01_Outcome1Description"
+msgid "The outpost is under control of the Lord Protector."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_07_STEP_02Title"
+msgid "Report to Orenetis"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_07_STEP_02Description"
+msgid "Report to Orenetis that all outposts are now under his banner."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_07_STEP_02_Outcome1Description"
+msgid ""
+"The Lord Protector was pleased with your actions and promised to reward you."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_07_STEP_03Title"
+msgid "Take control of all the outposts"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_07_STEP_03Description"
+msgid ""
+"Not all the outposts are under the flag of the Lord Protector. Make sure "
+"it's done before you return to him."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_07_STEP_03_Outcome1Description"
+msgid ""
+"The Lord Protector was pleased with your actions and promised to reward you."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_05_Title"
+msgid "Tortured"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_05_STEP_01Title"
+msgid "Travel to the Feleg Outpost"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_05_STEP_01Description"
+msgid ""
+"Reya asked you to save a citizen who is being tortured in the Feleg outpost. "
+"Get there and free the prisoner by any means necessary."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_05_STEP_01_Outcome1Description"
+msgid "You reached the outpost."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_05_STEP_02Title"
+msgid "Save the Prisoner"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_05_STEP_02Description"
+msgid "Save the prisoner from being tortured."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_05_STEP_02_Outcome1Description"
+msgid "You saved the prisoner!"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_05_STEP_02_Outcome2Description"
+msgid "The prisoner has been killed!"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_05_STEP_03Title"
+msgid "Report to Rose"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_05_STEP_03Description"
+msgid "Tell Rose that you rescued the prisoner who was being tortured."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_05_STEP_03_Outcome1Description"
+msgid ""
+"You didn't even have time to tell Rose what you did, she was too panicked "
+"about Reya being arrested by Orenetis' praetorians."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_06C_ExploreLab_Title"
+msgid "Find the Lab's Scientists"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_06C_ExploreLab_Description"
+msgid "Find out where the scientists are."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_06C_ExploreLab__Outcome1Description"
+msgid "You found tracks leading to a locked door. "
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_07_Title"
+msgid "Raid for Rose"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_07_STEP_01Title"
+msgid "Reach the Outpost"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_07_STEP_01Description"
+msgid ""
+"Rose asked you to raid an outpost controlled by Orenetis and recover loot "
+"for the People."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_07_STEP_01_Outcome1Description"
+msgid "You reached the outpost."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_07_STEP_02Title"
+msgid "Gain Control of the Outpost"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_07_STEP_02Description"
+msgid "Kill all the defenders and take control of the outpost for the People."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_07_STEP_02_Outcome1Description"
+msgid "Success!"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_07_STEP_03Title"
+msgid "Report to Rose"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_07_STEP_03Description"
+msgid "Report to Rose in the city."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_07_STEP_03_Outcome1Description"
+msgid "Well done!"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_06_Title"
+msgid "Jungle Escort"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_06_STEP_01Title"
+msgid "Reach the Outpost"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_06_STEP_01Description"
+msgid ""
+"Hasdrubal asks you to escort two peple to a meeting point in the jungle."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_06_STEP_01_Outcome1Description"
+msgid "You were ambushed on the way, but managed to reach the outpost."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_06_STEP_01_Outcome2Description"
+msgid "The NPCs did not survive."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_06_STEP_02Title"
+msgid "Report to Hasdrubal"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_06_STEP_02Description"
+msgid "Go back to Hasdrubal for your reward."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_06_STEP_02_Outcome1Description"
+msgid "You have your reward."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_Open_Gate_DarkLab"
+msgid "The Sphere Prism Key"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_Open_Gate_DarkLab_STEP_01_Title"
+msgid "Find the Sphere Prism Key."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Complex_Open_Gate_DarkLab_STEP_01_Description"
+msgid "The east tunnel gate requires a special key. Look around to find it."
+msgstr ""
+
+msgctxt ""
+"Quest/"
+"&DLC1_Secondary_Quest_Complex_Open_Gate_DarkLab_STEP_01__Outcome1Description"
+msgid "You found the Sphere Prism Key."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_Open_Gate_DarkLab_STEP_02_Title"
+msgid "Use the Sphere Prism Key"
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Complex_Open_Gate_DarkLab_STEP_02_Description"
+msgid "Use the Sphere Prism Key to open the way to the east tunnels."
+msgstr ""
+
+msgctxt ""
+"Quest/"
+"&DLC1_Secondary_Quest_Complex_Open_Gate_DarkLab_STEP_02__Outcome1Description"
+msgid "You successfully opened the east tunnel gate."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_02_Title"
+msgid "A Thief's Work"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_02_STEP_01Title"
+msgid "Reach the Outpost"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_02_STEP_01Description"
+msgid "Sima asked you to steal a package from an outpost."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_02_STEP_01_Outcome1Description"
+msgid "You reached the outpost."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_02_STEP_02Title"
+msgid "Steal the Package"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_02_STEP_02Description"
+msgid "Steal the package. You can take it by force or by stealth."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_02_STEP_02_Outcome1Description"
+msgid "You've got the package!"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_02_STEP_03Title"
+msgid "Report to Sema"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_02_STEP_03Description"
+msgid "Take the package to Sima."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_02_STEP_03_Outcome1Description"
+msgid "You gave Sema the package and got your reward."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_06_Title"
+msgid "Primal Threat"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_06_STEP_01Title"
+msgid "Go to the Primal Wood"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_06_STEP_01Description"
+msgid ""
+"According to Ellaria Anfarel, someone or something is sending woodland "
+"creatures to invade the ruins, harassing the rebels and causing a continual "
+"threat. Scouts sent to explore the area never came back. Go there, find the "
+"threat and get rid of it."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_06_STEP_01_Outcome1Description"
+msgid "You entered the primal wood."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_06_STEP_02Title"
+msgid "Kill the Monster"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_06_STEP_02Description"
+msgid "You found the cause of the constant attacks. Kill the monster!"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_06_STEP_02_Outcome1Description"
+msgid ""
+"You killed the monster and freed the rebel hideout from further attacks from "
+"the primal wood."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_06_STEP_03Title"
+msgid "Report to Ellaria Anfarel"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_06_STEP_03Description"
+msgid "Provide proof of your deeds by taking the monster's head to Ellaria."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_06_STEP_03_Outcome1Description"
+msgid ""
+"Ellaria Anfarel was pleased that you braved such danger to protect her "
+"people. She seems to  have start trusting you."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_04_Title"
+msgid "Rebel Outpost"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_04_STEP_01Title"
+msgid "Reach the Outpost"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_04_STEP_01Description"
+msgid "Go to an outpost that Sima Temple asked you to capture."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_04_STEP_01_Outcome1Description"
+msgid "You have reached the outpost."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_04_STEP_02Title"
+msgid "Take the Outpost"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_04_STEP_02Description"
+msgid ""
+"Kill all the defenders and take control of the outpost by changing its "
+"banner."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_04_STEP_02_Outcome1Description"
+msgid "You successfully changed the outpost's banner."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_04_STEP_03Title"
+msgid "Report to Sima"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_04_STEP_03Description"
+msgid "Go back and report to Sima Temple."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_04_STEP_03_Outcome1Description"
+msgid "Sima has rewarded you."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_04_STEP_03_Outcome2Description"
+msgid "Control of OUTPOST 4 has changed since last time."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_04_STEP_04Title"
+msgid "Retake the Outpost"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_04_STEP_04Description"
+msgid "Control of OUTPOST 4 has changed since last time. Go and take it back."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_04_STEP_04_Outcome1Description"
+msgid "Sima has rewarded you."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_08_Title"
+msgid "The Rebellion rises!"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_08_STEP_01Title"
+msgid "Seize all outposts"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_08_STEP_01Description"
+msgid ""
+"Ellaria Anfarel, or her superior, whoever he may be, wants you to take "
+"control of all the outposts in the valley and raise Rebellion banners on "
+"them."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_08_STEP_01_Outcome1Description"
+msgid "You raised the Rebellion's banner over all the outposts in the valley!"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_08_STEP_02Title"
+msgid "Report to Ellaria Anfarel"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_08_STEP_02Description"
+msgid ""
+"Report to Ellaria that all outposts are now controlled by the Rebellion."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_08_STEP_02_Outcome1Description"
+msgid ""
+"When you returned to Dinas Gessa, you found out that the Dominion troops "
+"were invading!"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_08_STEP_02_Outcome2Description"
+msgid "You returned to Dinas Gessa"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_08_STEP_03Title"
+msgid "Wait for Ellaria in the Rebellion's HQ"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_08_STEP_03Description"
+msgid "While waiting for Ellaria, rest in the Rebellion's HQ"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_08_STEP_03_Outcome1Description"
+msgid "When you woke up, you found out that the Dominion troops were invading!"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_05_STEP_00Title"
+msgid "Meet with Orenetis"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_05_STEP_00Description"
+msgid "The Lord Protector has commanded you to meet him in his palace."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_05_STEP_00_Outcome1Description"
+msgid "You have received a new task from Orenetis."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_01_EnterPrison_Title"
+msgid "A Strange Prisoner"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_01_EnterPrison_STEP_01ATitle"
+msgid "Enter the Prison"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_01_EnterPrison_STEP_01ADescription"
+msgid "The Forge has captured someone. Find a way into the prison."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Swamp_01_EnterPrison_STEP_01A_Outcome1Description"
+msgid "Hasdrubal allowed you into the prison."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Swamp_01_EnterPrison_STEP_01A_Outcome2Description"
+msgid "Hasdrubal does not trust you enough."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Swamp_01_EnterPrison_STEP_01A_Outcome3Description"
+msgid "You found another way into the prison."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_01_EnterPrison_STEP_01BTitle"
+msgid "Come Back Later"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_01_EnterPrison_STEP_01BDescription"
+msgid ""
+"Maybe Hasdrubal will let you into the prison later, when you have a better "
+"relationship with the Forge."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Swamp_01_EnterPrison_STEP_01B_Outcome1Description"
+msgid "This time, Hasdrubal allowed you into the prison."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_01_EnterPrison_STEP_02Title"
+msgid "Meet the Prisoner"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_01_EnterPrison_STEP_02Description"
+msgid "Talk with the prisoner and find out what happened."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Swamp_01_EnterPrison_STEP_02_Outcome1Description"
+msgid ""
+"You have learned that Rugan, the prisoner, is a giant. He's not very "
+"dangerous, but the Forge does not trust him."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_01_FreeRugan_Title"
+msgid "Rugan's Faith"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_01_FreeRugan_STEP_01ATitle"
+msgid "Free Rugan"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_01_FreeRugan_STEP_01ADescription"
+msgid "Find a way to free the giant."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Swamp_01_FreeRugan_STEP_01A_Outcome1Description"
+msgid "You managed to unlock Rugan's chain without being spotted."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_01_FreeRugan_STEP_01BTitle"
+msgid "Talk with Hasdrubal"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_01_FreeRugan_STEP_01BDescription"
+msgid ""
+"Convince Hasdrubal that Rugan is not dangerous and deserves another chance."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Swamp_01_FreeRugan_STEP_01B_Outcome1Description"
+msgid "Hasdrubal trusts you, and has allowed Rugan a second trial."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Swamp_01_FreeRugan_STEP_01B_Outcome2Description"
+msgid "Hasdrubal does not trust you enough."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_01_FreeRugan_STEP_01CTitle"
+msgid "Come Back Later"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_01_FreeRugan_STEP_01CDescription"
+msgid ""
+"Try to talk with Hasdrubal later, on when your relationship with the Forge "
+"is better."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Swamp_01_FreeRugan_STEP_01C_Outcome1Description"
+msgid "This time, Hasdrubal gave Rugan another chance."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Swamp_01_FreeRugan_STEP_01C_Outcome2Description"
+msgid "Hasdrubal still wasn't willing to let the Giant off the hook."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_01_FreeRugan_STEP_02ATitle"
+msgid "Wait for the Trial"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_01_FreeRugan_STEP_02ADescription"
+msgid ""
+"The trial will take place tomorrow. You should rest a little before it "
+"starts."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Swamp_01_FreeRugan_STEP_02A_Outcome1Description"
+msgid "The trial will start soon."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_01_FreeRugan_STEP_02BTitle"
+msgid "Talk to Rugan"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_01_FreeRugan_STEP_02BDescription"
+msgid "Talk to Rugan and convince him to let you can handle his defense."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Swamp_01_FreeRugan_STEP_02B_Outcome1Description"
+msgid "Rugan accepted your offer."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Swamp_01_FreeRugan_STEP_02B_Outcome2Description"
+msgid "Rugan refused your offer and will represent himself."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Swamp_01_FreeRugan_STEP_02B_Outcome3Description"
+msgid "You didn't talk to Rugan, so he must represent himself."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_01_FreeRugan_STEP_03Title"
+msgid "The Trial"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_01_FreeRugan_STEP_03Description"
+msgid "The trial starts soon. Join Hasdrubal at the Forge camp."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Swamp_01_FreeRugan_STEP_03_Outcome1Description"
+msgid ""
+"The court decided that Rugan is not a threat to the Forge. Free to leave, he "
+"set out from the swamp to find a new home. Before leaving, he marked your "
+"map with a new location to explore."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Swamp_01_FreeRugan_STEP_03_Outcome2Description"
+msgid ""
+"The court was not swayed by the defense. Rugan will remain a prisoner of the "
+"Forge."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_01_FreeRugan_STEP_04Title"
+msgid "Sneak Out of the Forge Camp"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_01_FreeRugan_STEP_04Description"
+msgid "Help Rugan to sneak out of the forge camp without being spotted."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Swamp_01_FreeRugan_STEP_04_Outcome1Description"
+msgid ""
+"You reached the camp exit. Rugan left the swamp to find a new home. Before "
+"leaving, he marked your map with a new location to explore."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Swamp_01_FreeRugan_STEP_04_Outcome2Description"
+msgid ""
+"You've been spotted by the Forge! Rugan had enough time to get away, but "
+"your relationship with the Forge faction has worsened considerably."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_02_Title"
+msgid "The Witch Hunt"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_02_STEP_01Title"
+msgid "Investigate"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_02_STEP_01Description"
+msgid "You found a strange hut in the middle of the swamp. Find a way inside."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_02_STEP_01_Outcome1Description"
+msgid ""
+"You met a ghost that claimed to be from the Jakkon family. Learn more about "
+"him in the city."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_02_STEP_02Title"
+msgid "Find a Jakkon Family Member"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_02_STEP_02Description"
+msgid "Find more information about the ghost you met in the swamps."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_02_STEP_02_Outcome1Description"
+msgid ""
+"You met a Jakkon brother who tells you that the hut is owned by a witch. He "
+"gave you the password to enter it : \"Rotten Carrots for Rotten People\""
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_02_STEP_03Title"
+msgid "Enter the Witch's Hut"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_02_STEP_03Description"
+msgid "Now that you have the password, you can enter the hut."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_02_STEP_03_Outcome1Description"
+msgid "You entered the witch's hut."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_02_STEP_04Title"
+msgid "Explore"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_02_STEP_04Description"
+msgid "The hut is far bigger than it seems. Check every corner."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_02_STEP_04_Outcome1Description"
+msgid "You found a secret passage behind a big statue."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_02_STEP_05Title"
+msgid "The Secret Passage"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_02_STEP_05Description"
+msgid "Explore the place further. Maybe there's some kind of secret here."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_02_STEP_05_Outcome1Description"
+msgid "You found out that the place is just an illusion."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_02_STEP_06Title"
+msgid "Find a Way Out"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_02_STEP_06Description"
+msgid "Find a way out of the secret passage."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_02_STEP_06_Outcome1Description"
+msgid "You managed to escape the secret passage."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_02_STEP_07Title"
+msgid "Kill the Witch"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_02_STEP_07Description"
+msgid "Find the witch and kill her."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_02_STEP_07_Outcome1Description"
+msgid ""
+"You've met the witch on her true form. She attacked you, but you managed to "
+"kill her. "
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_02_STEP_08Title"
+msgid "Return to Jakkon"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_02_STEP_08Description"
+msgid ""
+"Jakkon will be glad to know that the witch is not a problem any more. Go "
+"back to him and claim yourreward."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_02_STEP_08_Outcome1Description"
+msgid "Jakkon was pleased and rewarded you for killing the witch."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Underground_Ruins"
+msgid "The Underground Ruins"
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Underground_Ruins_Open_Stone_GateTitle"
+msgid "Open the Stone Gate."
+msgstr ""
+
+msgctxt ""
+"Quest/"
+"&DLC1_Secondary_Quest_Valley_Underground_Ruins_Open_Stone_GateDescription"
+msgid "The massive stone gate is locked. You will need two keys to open it."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Underground_Ruins_Open_Stone_Gate_Outcome1"
+"Description"
+msgid ""
+"You have discovered a massive stone gate, but it requires two special keys."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Underground_Ruins_Find_Key_01Title"
+msgid "Find the First Beetle Key."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Underground_Ruins_Find_Key_01Description"
+msgid "You must find the first beetle-shaped key."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Underground_Ruins_Find_Key_01_Outcome1Desc"
+"ription"
+msgid "You have found a beetle key!"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Underground_Ruins_Find_Key_02Title"
+msgid "Find the Second Beetle key."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Underground_Ruins_Find_Key_02Description"
+msgid "You must find the second beetle-shaped key."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Underground_Ruins_Find_Key_02_Outcome1Desc"
+"ription"
+msgid "You have found the second beetle key!"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Underground_Ruins_Enter_RuinsTitle"
+msgid "Beyond the Stone Gate"
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Underground_Ruins_Enter_RuinsDescription"
+msgid "Use both beetle keys to open the stone gate."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Underground_Ruins_Enter_Ruins_Outcome1Desc"
+"ription"
+msgid "You have entered the underground ruins."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_03_Title"
+msgid "Old Stones for Old People"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_03_STEP_01Title"
+msgid "Learn About the Ruins "
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_03_STEP_01Description"
+msgid ""
+"You discovered some strange ruins in the swamp. Find someone in the city who "
+"is able to give you more information about them."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_03_STEP_01_Outcome1Description"
+msgid ""
+"You've met Tuznut, a dwarf mage who is interested in studying the ruins."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_03_STEP_02Title"
+msgid "Escort Tuznut"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_03_STEP_02Description"
+msgid "Escort Tuznut to the ruins so he can study them."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_03_STEP_02_Outcome1Description"
+msgid "You successfully reached the ruins with Tuznut."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_03_STEP_02_Outcome2Description"
+msgid "Unfortunately, Tuznut died before reaching the ruins."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_03_STEP_03Title"
+msgid "Wait for Tuznut"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_03_STEP_03Description"
+msgid "Wait while Tuznut studies the ruins."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_03_STEP_03_Outcome1Description"
+msgid "Tuznut began a black ritual while studying the ruins!"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_03_STEP_03_Outcome2Description"
+msgid "Unfortunately, Tuznut died before he could study the ruins."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_03_STEP_04Title"
+msgid "Stop the Ritual"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_03_STEP_04Description"
+msgid ""
+"The black ritual is about to destroy the place! Kill Tuznut before the "
+"ritual is complete!"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Swamp_03_STEP_04_Outcome1Description"
+msgid "You stopped the ritual, killed Tuznut, and saved everyone!"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_06_Title"
+msgid "Rescuing Reya"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_06_STEP_01Title"
+msgid "Find Reya"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_06_STEP_01Description"
+msgid "Reya has been captured! Find out where she is being held and save her!"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_06_STEP_01_Outcome1Description"
+msgid "You found Reya!"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_06_STEP_02Title"
+msgid "Save Reya "
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_06_STEP_02Description"
+msgid "Save Reya from the guards."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_06_STEP_02_Outcome1Description"
+msgid "You have saved Reya!"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_06_STEP_02_Outcome2Description"
+msgid "Unfortunately, Reya did not survive the fight"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Locked_Grotto"
+msgid "The Blocked Cave"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Locked_Grotto_Find_Way_Title"
+msgid "Find a Way In"
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Locked_Grotto_Step_01_Find_Way_Description"
+msgid ""
+"A large rock is blocking the cave entrance. Find a way to remove it or find "
+"another way in."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Locked_Grotto_Step_01_Find_Way__Outcome1De"
+"scription"
+msgid "You successfully removed the large rock."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Locked_Grotto_Step_01_Find_Way__Outcome2De"
+"scription"
+msgid "You have found another entrance to the cave."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Locked_Grotto_Step_02_Enter_Cave_Title"
+msgid "Explore the Cave"
+msgstr ""
+
+msgctxt ""
+"Quest/"
+"&DLC1_Secondary_Quest_Valley_Locked_Grotto_Step_02_Enter_Cave_Description"
+msgid "Enter the grotto and look around."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Locked_Grotto_Step_02_Enter_Cave__Outcome1"
+"Description"
+msgid "You have found traces of an old shelter in the caves."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_05_STEP04_REPORTTitle"
+msgid "Meet with Orenetis"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_05_STEP04_REPORTDescription"
+msgid ""
+"You must report to the Lord Protector that your mission was accomplished."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Orenetis_05_STEP04_REPORT_Outcome1Description"
+msgid ""
+"The Lord Protector has rewarded you for your service - but you have a "
+"growing reputation as his ruthless enforcers."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_07_Outpost01_Title"
+msgid "Take control of the Chenna Outpost"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_07_Outpost02_Title"
+msgid "Take control of the Satils Outpost"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_07_Outpost03_Title"
+msgid "Take control of the Pertal Outpost"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_07_Outpost04_Title"
+msgid "Take control of the Gartis Outpost"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_07_Outpost05_Title"
+msgid "Take control of the Feleg Outpost"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_07_Outpost06_Title"
+msgid "Take control of the Noren Outpost"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_07_STEP_02_Outcome2Description"
+msgid ""
+"The Lord Protector was not pleased that you returned without completing your "
+"mission. He sent you back to retake all outposts in his name."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_08_Leave_Complex_Title"
+msgid "Exit the Complex"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_08_Leave_Complex_Description"
+msgid "Leave the lab and find a way out of the Complex."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Quest_Complex_Step_08_Leave_Complex__Outcome1Description"
+msgid "You have left the underground Complex."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Forge_01_STEP_01_Title"
+msgid "Fresh Meat"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Forge_01_STEP_01_Description"
+msgid ""
+"Telerien asked you to take a pack of dried meat to a butcher named Henrik in "
+"the valley's capital city. Being dried, it won't spoil so you don't need to "
+"hurry."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Forge_01_STEP_01__Outcome1Description"
+msgid "You delivered the meat to Henrik."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Forge_01_STEP_02_Title"
+msgid "Return to Telerien"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Forge_01_STEP_02_Description"
+msgid ""
+"Henrik gave you a receipt. Take it back to Telerien in the Forge outpost "
+"down in the valley."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Forge_01_STEP_02__Outcome1Description"
+msgid "You brought the receipt to Telerien."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Forge_01"
+msgid "Meat boy"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Forge_02"
+msgid "A Venomous Situation"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Forge_03"
+msgid "The Messenger"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Giant_01"
+msgid "A new cushion"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Giant_01_Step_01_Title"
+msgid "Find 2 Dire Wolf Pelts"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Giant_01_Step_01_Description"
+msgid "Gartok wants some dire wolf pelts to make a new cushion. "
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Giant_01_Step_01__Outcome1Description"
+msgid "You found the dire wolf pelts."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Giant_01_Step_02_Title"
+msgid "Find 4 Giant Crow Feathers"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Giant_01_Step_02_Description"
+msgid ""
+"The giant trader Gartok wants 4 giant crow feathers to stitch a new cushion."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Giant_01_Step_02__Outcome1Description"
+msgid "You have found the giant crow feathers."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Giant_01_Step_03_Title"
+msgid "Take the Ingredients to Gartok"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Giant_03_Step_03_Description"
+msgid ""
+"Return to the giant camp and give Gartok the ingredients you have gathered."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Giant_03_Step_03__Outcome1Description"
+msgid "You have delivered the ingredients."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Giant_02"
+msgid "A small favor"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Giant_02_Step_01_Title"
+msgid "Cross the plateau to the city"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Giant_02_Step_01_Description"
+msgid "Reach the city and find a merchant."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Giant_02_Step_01__Outcome1Description"
+msgid "You have reached the city."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Giant_02_Step_02_Title"
+msgid "Shopping"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Giant_02_Step_02_Description"
+msgid "Sell the dry meat and buy three balls of sewing thread for Gartok."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Giant_02_Step_02__Outcome1Description"
+msgid "You have bought the required balls of sewing thread."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Giant_02_Step_03_Title"
+msgid "Take the sewing thread to Gartok"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Giant_02_Step_03_Description"
+msgid "Return to the giant camp and give Gartok the sewing thread."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Giant_02_Step_03__Outcome1Description"
+msgid "You have delivered the sewing thread."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Giant_03"
+msgid "A new seat"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Giant_03_Step_01_Title"
+msgid "Find a rock for a giant seat"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Giant_03_Step_01_Description"
+msgid "Gartok asked you to find a rock big enough to make a seat for a giant."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Giant_03_Step_01__Outcome1Description"
+msgid ""
+"You have found the perfect rock, but it is far too heavy for you to bring "
+"back."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Giant_03_Step_02_Title"
+msgid "Return to Gartok and tell him where you found the rock."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Giant_03_Step_02_Description"
+msgid ""
+"The rock is too heavy for you to carry. Go back to the giant camp and give "
+"Gartok its location."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Giant_03_Step_02__Outcome1Description"
+msgid "You helped the giant make a new seat."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Forge_03_STEP_01_Title"
+msgid "Deal with the Giants."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Forge_03_STEP_01_Description"
+msgid ""
+"Telerien asked you to get rid ofthe Giants that are living on the plain. "
+"Peacefully or otherwise - it's up to you."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Forge_03_STEP_01__Outcome1Description"
+msgid "You have successfully cleared the giants from the plain."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Forge_03_STEP_01__Outcome2Description"
+msgid "You negotiated with the Giants and gained access to their camp."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Forge_03_STEP_02_Title"
+msgid "Return to Telerien"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Forge_03_STEP_02_Description"
+msgid ""
+"Go back to the Forge outpost and inform Telerien that you have solved the "
+"problem."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Forge_03_STEP_02__Outcome1Description"
+msgid ""
+"You have spoken with Telerien, and he is happy about the solution you found."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_01_STEP_01_Title"
+msgid "The Missing Adventurers"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_01_STEP_01_Description"
+msgid ""
+"Samko asked you to find the missing party he sent to the city. They never "
+"reached their destination. Something bad may have happened to them."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_01_STEP_01__Outcome1Description"
+msgid "You found the adventurers' remains."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_01_STEP_02_Title"
+msgid "Take the amulet to Samko."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_01_STEP_02_Description"
+msgid ""
+"Return to Samko to give her the amulet and let her know that his adventurers "
+"perished on the plain."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_01_STEP_02__Outcome1Description"
+msgid ""
+"You brought back the amulet and told Samko that your found the remains of "
+"the missing party."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_01"
+msgid "The Missing Party"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_02"
+msgid "The Wolf Menace"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_03"
+msgid "A Trusted Carrier"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_02_STEP_01_Title"
+msgid "Clear the Den"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_02_STEP_01_Description"
+msgid ""
+"Samko has asked you to clear the wolf den on the plain, to make the area "
+"safer for travelers."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_02_STEP_01__Outcome1Description"
+msgid "You have cleared the wolf den."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_02_STEP_02_Title"
+msgid "Report to Samko"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_02_STEP_02_Description"
+msgid "Tell Samko that the wolf den has been cleared."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_02_STEP_02__Outcome1Description"
+msgid "You have told Samko that the wolf menace is finished."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_03_STEP_01_Title"
+msgid "Go to the City"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_03_STEP_01_Description"
+msgid "Samko has asked you to take a package to Cafrain in the city."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_03_STEP_01__Outcome1Description"
+msgid "You have reached the city."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_03_STEP_02_Title"
+msgid "Deliver the Package"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_03_STEP_02_Description"
+msgid "Take the package to Cafrain."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_03_STEP_02__Outcome1Description"
+msgid "You have delivered the package."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_04_STEP_01_Title"
+msgid "Meet with Cafrain's Contact"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_04_STEP_01_Description"
+msgid "Cafrain wants you to get a document from a guard in the High City."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_04_STEP_01__Outcome1Description"
+msgid "You got the guard report!"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_04_STEP_02_Title"
+msgid "Take the Report to Cafrain"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_04_STEP_02_Description"
+msgid "Return to Cafrain and give him the guard report."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_04_STEP_02__Outcome1Description"
+msgid "You gave back the guard report to Cafrain."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_04_STEP_02__Outcome2Description"
+msgid ""
+"You gave back the guard report to Cafrain after taking a a look - but the "
+"report was blank..."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_04"
+msgid "Secret Report"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_05_STEP_01_Title"
+msgid "A Package from Cafrain"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_05_STEP_01_Description"
+msgid "Go to the valley and deliver a package to Samko."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_05_STEP_01__Outcome1Description"
+msgid "You have reached the valley."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_05_STEP_02_Title"
+msgid "Take the Package to Samko"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_05_STEP_02_Description"
+msgid "Take the package to Samko at the Waterfall outpost."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_05_STEP_02__Outcome1Description"
+msgid "You have successfully delivered the package."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_05"
+msgid "A Small Detour"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_06_STEP_01_Title"
+msgid "Go to Feleg Outpost."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_06_STEP_01_Description"
+msgid ""
+"Cafrain has asked you to go to the Feleg outpost and put the banner of the "
+"Mask on it."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_06_STEP_01__Outcome1Description"
+msgid "You have reached the Outpost."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_06_STEP_02_Title"
+msgid "Claim the Outpost"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_06_STEP_02_Description"
+msgid ""
+"Cafrain wants you to clear the bandits from the outpost and raise a new flag "
+"there."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_06_STEP_02__Outcome1Description"
+msgid "You have eliminated the bandits."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_06_STEP_03_Title"
+msgid "Raise the Mask banner."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_06_STEP_03_Description"
+msgid "Raise the new banner to reclaim the outpost for the Mask."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_06_STEP_03__Outcome1Description"
+msgid "You have raised the Mask banner and reclaimed the outpost."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_06_STEP_04_Title"
+msgid "Report to Cafrain at the music hall"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_06_STEP_04_Description"
+msgid ""
+"Return to the city and report your success to Cafrain. She moved to the "
+"music hall, just on the other side of the streets from the Merry Remorhaz. "
+"You can ask her if she knew the Feleg outpost was occupied by rebels."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_06_STEP_04__Outcome1Description"
+msgid ""
+"You have reported to Cafrain. She told you she ignored that the outpost was "
+"occupied by rebels."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_06"
+msgid "The Conquest"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_07_STEP_01_Title"
+msgid "Plan documents at the Inn"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_07_STEP_01_Description"
+msgid ""
+"Cafrain wants you to plant an incriminating document at the Merry Remorhaz. "
+"Put them somewhere upstairs, near to where Cafrain herself stood earlier."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_07_STEP_01__Outcome1Description"
+msgid "You have planted the evidence."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_07_STEP_02_Title"
+msgid "Report to Cafrain"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_07_STEP_02_Description"
+msgid "Go back to Cafrain and let her know the document has been planted."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_07_STEP_02__Outcome1Description"
+msgid "You have made your report to Cafrain."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_07"
+msgid "Wind of Change"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_08_STEP_01_Title"
+msgid "Travel to the Buried City."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_08_STEP_01_Description"
+msgid "Reach the buried city."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_08_STEP_01__Outcome1Description"
+msgid "You have reached the buried city."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_08_STEP_02_Title"
+msgid "Find the Rebellion HQ."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_08_STEP_02_Description"
+msgid "Look for a way into the Rebellion's headquarters."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_08_STEP_02__Outcome1Description"
+msgid "You have found a way into the Rebellion's headquarters."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_08_STEP_03_Title"
+msgid "Report to Vando"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_08_STEP_03_Description"
+msgid ""
+"Return to the city and let Vando know you have found a way into the "
+"Rebellion's headquarters."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_08_STEP_03__Outcome1Description"
+msgid "You have made your report to Vando."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_08"
+msgid "Reconaissance"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_05_STEP_01Title"
+msgid "The Rebel Hideout"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_05_STEP_01Description"
+msgid "Meet the Rebellion's leader."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_05_STEP_01_Outcome1Description"
+msgid ""
+"The rebel woman called \"Red\" gave you the location of the Rebellion's "
+"headquarters. Go to the hidden city in the jungle and meet her superior."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_05_Title"
+msgid "Join the Rebellion"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_07_STEP_01Title"
+msgid "Speak with Ellaria"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_07_STEP_01Description"
+msgid ""
+"Return to Ellaria and ask herto speak with her superior - whoever that is."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_07_STEP_01_Outcome1Description"
+msgid "You met with Ellaria."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_07_Title"
+msgid "The Wizard's Den"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_07_STEP_02Title"
+msgid "Enter the Wizard's Lair"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_07_STEP_02Description"
+msgid ""
+"Ellaria asked you to secure an ancient Manacalon palace, containing magic "
+"knowledge and guarded by powerful creatures. Enter the palace and be ready "
+"for a tough battle."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_07_STEP_02_Outcome1Description"
+msgid "You entered the wizard's lair."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_07_STEP_03Title"
+msgid "Defeat the Guardians"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_07_STEP_03Description"
+msgid "Find and destroy the guardians left by the wizard."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_07_STEP_03_Outcome1Description"
+msgid "You destroyed the guardians."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_07_STEP_00_Title"
+msgid "Talk with Cafrain Tomorrow"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_07_STEP_00_Description"
+msgid "Pass the night and join Cafrain in the morning."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_07_STEP_00__Outcome1Description"
+msgid "You have waited long enough for Cafrain to be ready to talk."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_07_STEP_00B_Title"
+msgid "Talk with Cafrain"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_07_STEP_00B_Description"
+msgid "Meet with Cafrain and talk to her."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Mask_07_STEP_00B__Outcome1Description"
+msgid "You spoke with Cafrain and she gave you a new mission."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_07_STEP_04Title"
+msgid "Report to Ellaria Anfarel"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_07_STEP_04Description"
+msgid ""
+"The wizard's lair is cleared, and the guardian is no more. You can leave the "
+"laboratory to the Rebellion - but grab some loot first!"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_07_STEP_04_Outcome1Description"
+msgid "You reported to Ellaria Anfarel."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_07_STEP_03_Title"
+msgid "Find the Secret Entrance"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_07_STEP_03_Description"
+msgid "Locate the Mask's secret door near the entrance to the city."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_07_STEP_03__Outcome1Description"
+msgid "You have found the secret entrance."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_07_STEP_03B_Title"
+msgid "Meet Vando"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_07_STEP_03B_Description"
+msgid "Talk to Vando at the Mask HQ"
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Mask_07_STEP_03B__Outcome1Description"
+msgid "You have met Vando Klarn."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_08B_STEP_01_Title"
+msgid "Get some Rest"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_08B_STEP_01_Description"
+msgid "Spend the night at the city's inn and meet with Vando tomorrow morning."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Mask_08B_STEP_01__Outcome1Description"
+msgid "You are fully rested."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_08B_STEP_02_Title"
+msgid "Talk with Vando."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_08B_STEP_02_Description"
+msgid "Go the the Mask headquarters and talk with Vando."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Mask_08B_STEP_02__Outcome1Description"
+msgid "You have met with Vando."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_08B"
+msgid "Rest for the Brave ?"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_GIANT_04"
+msgid "The Lost Giants"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_GIANT_04_Step_01_Title"
+msgid "Travel to the City"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_GIANT_04_Step_01_Description"
+msgid "Gartok asked you to find some clues about the missing giants."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_GIANT_04_Step_01__Outcome1Description"
+msgid "Rose told you that the giants have not been seen around the city."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_GIANT_04_Step_02_Title"
+msgid "Return to Gartok"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_GIANT_04_Step_02_Description"
+msgid ""
+"Return to the giant outpost and inform Gartok that the giants are not near "
+"the city."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_GIANT_04_Step_02__Outcome1Description"
+msgid "You have told Gartok about the missing giants."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Giant_05"
+msgid "A Giant Step"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Giant_05_Step_01_Title"
+msgid "Reach the Swamp"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Giant_05_Step_01_Description"
+msgid "Gartok asked you to look for the missing giants in the swamp."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Giant_05_Step_01__Outcome1Description"
+msgid "You have reached the swamp."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Giant_05_Step_02_Title"
+msgid "Find the Missing Giants"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Giant_05_Step_02_Description"
+msgid "Explore the swamp and find out what happened to the missing giants."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Giant_05_Step_02__Outcome1Description"
+msgid "You found an imprisoned giant!"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Giant_05_Step_03_Title"
+msgid "Free the Giant"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Giant_05_Step_03_Description"
+msgid "Find a way to free the prisoner."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Giant_05_Step_03__Outcome1Description"
+msgid "You freed Rugan the giant!"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Giant_05_Step_04_Title"
+msgid "Return to Gartok"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Giant_05_Step_04_Description"
+msgid ""
+"Return to the giant enclave and tell Gartok what happened to the missing "
+"giants."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Giant_05_Step_04__Outcome1Description"
+msgid "You have reported to Gartok."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_09"
+msgid "Into the Depths"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_09_STEP_01_Title"
+msgid "Travel to the Valley"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_09_STEP_01_Description"
+msgid "Vando asked you to travel to the valley and find a cave entrance."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_09_STEP_01__Outcome1Description"
+msgid "You have reached the valley."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_09_STEP_02_Title"
+msgid "Find the Entrance"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_09_STEP_02_Description"
+msgid "Follow Vando's instructions and find the underground entrance."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_09_STEP_02__Outcome1Description"
+msgid ""
+"You have found the underground entrance, but the gate seems to be magically "
+"locked."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_09_STEP_03_Title"
+msgid "Report to Vando"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_09_STEP_03_Description"
+msgid ""
+"Go back to the city and tell Vando that the underground access is locked."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_09_STEP_03__Outcome1Description"
+msgid "You have reported to Vando."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_09_STEP_04_Title"
+msgid "Meet with Marin Ving"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_09_STEP_04_Description"
+msgid ""
+"Return to the ruins in the valley and meet with Marin Ving - alias Vando."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_09_STEP_04__Outcome1Description"
+msgid "You have met with Marin Ving."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_09_STEP_05_Title"
+msgid "Open the Stone Gate"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_09_STEP_05_Description"
+msgid "Use Marin Ving's key to open the stone gate."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_09_STEP_05__Outcome1Description"
+msgid "You have opened the stone gate."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_09_STEP_06_Title"
+msgid "Find the Lost Temple"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_09_STEP_06_Description"
+msgid ""
+"Explore the underground ruins and find the lost temple that Marin Ving is "
+"looking for."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_09_STEP_06__Outcome1Descriptio"
+msgid "You have found the lost temple and reconsecrated it."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_09_STEP_07_Title"
+msgid "Return to Base"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_09_STEP_07_Description"
+msgid "Return to the Mask headquarters in the city and talk with Marin Ving."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_09_STEP_07__Outcome1Description"
+msgid "You have spoken with Ving."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_09B_STEP_01_Title"
+msgid "Meet Marin Ving in the Valley"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_09B_STEP_01_Description"
+msgid ""
+"Marin Ving - alias Vando - asked to meet him in the valley, near the "
+"entrance to the underground ruins."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Mask_09B_STEP_01__Outcome1Description"
+msgid "You have joined Ving near the ruins."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_09B_STEP_02_Title"
+msgid "Open the Stone Gate"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_09B_STEP_02_Description"
+msgid "Use Marin Ving's key to open the stone gate."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Mask_09B_STEP_02__Outcome1Description"
+msgid "You have opened the stone gate."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_09B_STEP_03_Title"
+msgid "Find the Lost Temple"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_09B_STEP_03_Description"
+msgid ""
+"Explore the underground ruins and find the lost temple that Marin Ving is "
+"looking for."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Mask_09B_STEP_03__Outcome1Description"
+msgid "You have found the lost temple and reconsecrated it."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_09B_STEP_04_Title"
+msgid "Return to Base"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_09B_STEP_04_Description"
+msgid "Return to the Mask headquarters in the city and talk with Marin Ving."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Mask_09B_STEP_04__Outcome1Description"
+msgid "You have spoken with Ving."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_09_Quest_01_FIGHTTitle"
+msgid "Defend the Rebel HQ"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_09_Quest_01_FIGHTDescription"
+msgid ""
+"Orenetis' troops are attacking! Either fight with the rebels or flee through "
+"the secret exit."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Rebellion_09_Quest_01_FIGHT_Outcome1Description"
+msgid "You rejoined Ellaria and fought at her side."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Rebellion_09_Quest_01_FIGHT_Outcome2Description"
+msgid "You fled and left the rebels to fight without you."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_08_Retake_Description"
+msgid "Take control of this outpost in the name of the Rebellion."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_08_Retake_Complete"
+msgid "You took control of this outpost in the name of the Rebellion."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_09_QuestTitle"
+msgid "The Dominion Strikes Back"
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Rebellion_09_Quest_01_FIGHT_Outcome3Description"
+msgid "You fought alongside the rebels but couldn't save Ellaria from death."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_09_Quest_FightWithEllariaTitle"
+msgid "United against Tyranny"
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Rebellion_09_Quest_FightWithEllariaDescription"
+msgid "You fought the Dominion shock troops alongside Ellaria."
+msgstr ""
+
+msgctxt ""
+"Quest/"
+"&DLC1_Secondary_Quest_Rebellion_09_Quest_FightWithEllaria_Outcome1Description"
+msgid ""
+"Ellaria is grateful that you helped her save the Rebellion's headquarters."
+msgstr ""
+
+msgctxt ""
+"Quest/"
+"&DLC1_Secondary_Quest_Rebellion_09_Quest_FightWithEllaria_Outcome2Description"
+msgid ""
+"Unfortunately, Ellaria died even though you repelled the attack. The Rebels "
+"have locked down their headquarters."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_10_Quest_01_TalkToHannoTitle"
+msgid "Speak to Renno "
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Rebellion_10_Quest_01_TalkToHannoDescription"
+msgid ""
+"Ellaria asked you to speak to Renno while she takes care of the dead rebels. "
+"He will send you to meet the Rebellion's true leader at last."
+msgstr ""
+
+msgctxt ""
+"Quest/"
+"&DLC1_Secondary_Quest_Rebellion_10_Quest_01_TalkToHanno_Outcome1Description"
+msgid ""
+"You spoke to Renno, you told you how to reach the leader of the Rebellion."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_10_Quest_02_Meet_HendeolasTitle"
+msgid "Meet Hendeolas Anfarel"
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Rebellion_10_Quest_02_Meet_HendeolasDescription"
+msgid ""
+"Renno told you how to meet his king : follow the corridor to a Minor Gate "
+"and use it."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Rebellion_10_Quest_02_Meet_Hendeolas_Outcome1Desc"
+"ription"
+msgid ""
+"You have finally met with Hendeolas Anfarel, the true leader of the "
+"Rebellion. You could hardly believe that he is a Mummy Lord! He tasked you "
+"to find and destroy Orenetis' weakness, but he wasn't very clear about what "
+"it was."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_10_Quest_03_Find_ComplexTitle"
+msgid "Go to the Secret Complex"
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Rebellion_10_Quest_03_Find_ComplexDescription"
+msgid "Follow the map to Orenitis' secret complex and find out his weakness."
+msgstr ""
+
+msgctxt ""
+"Quest/"
+"&DLC1_Secondary_Quest_Rebellion_10_Quest_03_Find_Complex_Outcome1Description"
+msgid "You followed Hendeolas Anfarel's map to Orenetis' secret complex."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_10_QuestTitle"
+msgid "The Last Endeavor"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_10_Quest_03b_FightHendeolasTitle"
+msgid "Destroy the Mummy Lord"
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Rebellion_10_Quest_03b_FightHendeolasDescription"
+msgid ""
+"You have angered Hendeolas Anfarel. Now your only way out of the Rebellion "
+"base is by the sword."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Rebellion_10_Quest_03b_FightHendeolas_Outcome1Des"
+"cription"
+msgid ""
+"You have destroyed the mummy lord. You will no longer be on good terms with "
+"the Rebellion."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Rebellion_10_Quest_02_Meet_Hendeolas_Outcome2Desc"
+"ription"
+msgid ""
+"Having met the mummy lord Hendeolas Anfarel, you realize that the Rebellion "
+"is fighting in the name of another would-be tyrant. "
+msgstr ""
+
+msgctxt ""
+"Quest/"
+"&DLC1_Secondary_Quest_Rebellion_10_Quest_03_Find_Complex_Outcome2Description"
+msgid "You decided to attack Hendeolas Anfarel."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Giant_05_Step_03B_Title"
+msgid "Free the Giant"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Giant_05_Step_03B_Description"
+msgid "Find a way to unlock the prisoner's chains."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Giant_05_Step_03B__Outcome1Description"
+msgid "You successfully unlocked the prisoner's chains."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Giant_05_Step_04B_Title"
+msgid "Escape from the prison with Rugan. Be careful!"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Giant_05_Step_04B_Description"
+msgid "Find a side exit from the Forge Camp without been seen by the guards."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_Valley_Giant_05_Step_04B__Outcome1Description"
+msgid "You manage to escape the Forge prison with Rugan."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_05_STEP_00Title"
+msgid "Talk with Reya"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_05_STEP_00Description"
+msgid "Rose asked you to talk with Reya. She has a mission for you."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_05_STEP_00_Outcome1Description"
+msgid "You have spoken to Reya"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_06_STEP_03Title"
+msgid "Talk to Rose."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_06_STEP_03Description"
+msgid "Let Rose know that you have saved Reya."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_06_STEP_03_Outcome1Description"
+msgid "You have made your report to Rose."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_02_STEP_01A_Title"
+msgid "Harvest Troll Tongue"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_02_STEP_01B_Title"
+msgid "Harvest Manacalon Orchid"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_02_STEP_01C_Title"
+msgid "Harvest Queen Ivy"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_05_STEP_00Title"
+msgid "A Woman in Red"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_05_STEP_00Description"
+msgid "Look for a woman in red near the temple"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Rebellion_05_STEP_00_Outcome1Description"
+msgid ""
+"The rebel woman called \"Red\" gave you the location of the Rebellion's "
+"headquarters. Go to the hidden city in the jungle and meet her superior."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_03_STEP_04ATitle"
+msgid "Find a Giant Ape Head"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_03_STEP_04ADescription"
+msgid "Orenetis is looking for a special ingredient : a giant ape head."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_03_STEP_04A_Outcome1Description"
+msgid "You found a giant ape head."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_03_STEP_04BTitle"
+msgid "Bring Back the Giant Ape Head"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_03_STEP_04BDescription"
+msgid "Bring Chancellor Esfalad the giant ape head."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_03_STEP_04B_Outcome1Description"
+msgid "You brought the giant ape head to chancellor Esfalad."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Swamp_Orenetis_Apprentice_Quest_Back_City_Title"
+msgid "Return to Orenetis"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Swamp_Orenetis_Apprentice_Quest_Back_City_Description"
+msgid "Lead Lysantir back to Orenetis."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Swamp_Orenetis_Apprentice_Quest_Back_Forge_Title"
+msgid "Meet with the Forge."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Swamp_Orenetis_Apprentice_Quest_Back_Forge_Description"
+msgid "Lead Lysantir to the Forge camp in the swamp."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_03"
+msgid "The Head Collector"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_ThePeople03_TITLE"
+msgid "The Bully"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_ThePeople03_01_TalkToRoseTitle"
+msgid "Talk to Rose"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_ThePeople03_01_TalkToRoseDescription"
+msgid "Rose wants to talk to you. Go and see her."
+msgstr ""
+
+msgctxt ""
+"Quest/"
+"&DLC1_Secondary_Quest_City_ThePeople03_01_TalkToRose_Outcome1Description"
+msgid ""
+"You spoke to Rose. A noble elf is blocking the exit of the Merry Remorhaz "
+"and is bullying the customers. Something must be done."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_ThePeople03_02_DealWithBullyTitle"
+msgid "Deal with the Bully"
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_City_ThePeople03_02_DealWithBullyDescription"
+msgid "Talk to the bully and  make him go away… or remove him yourself."
+msgstr ""
+
+msgctxt ""
+"Quest/"
+"&DLC1_Secondary_Quest_City_ThePeople03_02_DealWithBully_Outcome1Description"
+msgid "You dealt with the bully. He shouldn't be a problem any more."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_ThePeople03_03_ReportTitle"
+msgid "Report to Rose"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_ThePeople03_03_ReportDescription"
+msgid "Return to Rose and tell her that you dealt with the problem."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_City_ThePeople03_03_Report_Outcome1Description"
+msgid "Rose thanked you for helping the community."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_08_Title"
+msgid "The Prisoners"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_08_STEP_01Title"
+msgid "Reach the secret complex"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_08_STEP_01Description"
+msgid "Go to the secret place where Orenetis keeps his prisoners."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_08_STEP_01_Outcome1Description"
+msgid ""
+"You have reached the place that Rose and Reya told you about. The prisoners "
+"must be somewhere inside."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_08_STEP_02Title"
+msgid "Free the Prisoners"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_08_STEP_02Description"
+msgid "Search the complex for prisoners and free them."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_08_STEP_02_Outcome1Description"
+msgid ""
+"You have found and freed the prisoners. Unfortunately, some of them did not "
+"survive."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_08_STEP_03Title"
+msgid "Report to Rose"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_08_STEP_03Description"
+msgid "Return to Caer Hyfrid and talk to Rose."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_08_STEP_03_Outcome1Description"
+msgid ""
+"Rose was waiting for you outside the complex. The leader is glad to have had "
+"your help. You have definitely strengthened your ties with the People."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_08_STEP_03_Outcome2Description"
+msgid ""
+"Rose was waiting for you outside the complex. She and Sitenero have agreed "
+"to bring peace to the valley. She tells you of a secret passage into enter "
+"Orenetis' palace, through the nearby family necropolis."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_09_Title"
+msgid "The Palace"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_09_Step_01Title"
+msgid "Meet Rose in the City"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_09_Step_01Description"
+msgid "Meet Rose at the safe house."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_09_Step_01_Outcome1Description"
+msgid ""
+"After your returned to Caer Hyfrid, Rose told you how to infiltrate the "
+"palace of Orenetis."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_09_Step_02Title"
+msgid "Enter the Palace"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_09_Step_02Description"
+msgid "Infiltrate the palace."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_ThePeople_09_Step_02_Outcome1Description"
+msgid ""
+"You have entered the palace through a secret entrance. It's time to confront "
+"Orenetis."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_ThePeople04_TITLE"
+msgid "Rough Diplomacy"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_ThePeople04_01_TalkToHenrikTitle"
+msgid "Talk to Henrik"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_ThePeople04_01_TalkToHenrikDescription"
+msgid ""
+"Henrik asked to talk to you. Go there and ask him what you can do for him."
+msgstr ""
+
+msgctxt ""
+"Quest/"
+"&DLC1_Secondary_Quest_City_ThePeople04_01_TalkToHenrik_Outcome1Description"
+msgid ""
+"Henrik told about about Lieutenant Sharp-Eyes, a particularly nasty officer "
+"of the City Guard. Find a way to get her away from town. She has a weakness :"
+" Henrik thinks she stole from the Palace, maybe this can be used against her."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_ThePeople04_02_DealWithSharpeyesTitle"
+msgid "Pickpocket Sharp-Eyes"
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_City_ThePeople04_02_DealWithSharpeyesDescription"
+msgid "Recover whatever Sharp-Eyes stole from Orenetis by pickpocketing her."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_City_ThePeople04_02_DealWithSharpeyes_Outcome1Des"
+"cription"
+msgid ""
+"You found the ring Henrik told you about. It's a personal gift to an officer "
+"of the guard, but not her. She was probably jealous and took it from its "
+"truthful owner."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_ThePeople04_02b_SpeakToSharpEyesTitle"
+msgid "Speak to Sharp-Eyes"
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_City_ThePeople04_02b_SpeakToSharpEyesDescription"
+msgid ""
+"Confront lieutenant Sharp-Eyes and find a way to convince her to leave town. "
+"Use any means necessary."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_City_ThePeople04_02b_SpeakToSharpEyes_Outcome1Des"
+"cription"
+msgid "You convinced Sharp-Eyes to step down."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_City_ThePeople04_02b_SpeakToSharpEyes_Outcome2Des"
+"cription"
+msgid ""
+"You could not convince Sharp-Eyes to step down. You can only denounce her "
+"for her theft."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_ThePeople04_03_DenounceTitle"
+msgid "Denounce Sharp-Eyes"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_ThePeople04_03_DenounceDescription"
+msgid ""
+"This is a harsh thing to do, but you could go to Malariel Brogarad and tell "
+"her what Sharp-Eyes did. Stealing from the palace is probably a major "
+"offense and she won't stay posted in Caer Hyfrid, for sure. Obviously, solid "
+"proof would be useful to support the accusation."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_City_ThePeople04_03_Denounce_Outcome1Description"
+msgid ""
+"You denounced Sharp-Eyes to Malariel Brogarad. Clearly, she's going to pay "
+"dearly for her crime."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_ThePeople04_02c_SpeakToSharpEyesTitle"
+msgid "Threaten Sharp-Eyes"
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_City_ThePeople04_02c_SpeakToSharpEyesDescription"
+msgid ""
+"You have proof that Sharp-Eyes stole from the Palace. Talk to her and use it "
+"against her to force her to leave town."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_ThePeople04_04_ReportTitle"
+msgid "Report to Henrik"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_ThePeople04_04_ReportDescription"
+msgid ""
+"You solved the Sharp-Eyes situation. Return to Henrik and tell him the good "
+"news."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_City_ThePeople04_04_Report_Outcome1Description"
+msgid "You told Henrik that you've taken care of Sharp-Eyes."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_07_Title"
+msgid "Meeting the Rebellion"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_07_STEP_01Title"
+msgid "Escort Hasdrubal to the Rebellion HQ"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_07_STEP_01Description"
+msgid "Travel to Dinas Gessa"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_07_STEP_01_Outcome1Description"
+msgid "You've reached the place where the Rebellion is set"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_07_STEP_01_Outcome2Description"
+msgid "Hasdrubal did not survived"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_07_STEP_02Title"
+msgid "Meet the Rebellion leader"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_07_STEP_02Description"
+msgid "Meet the leader of the Rebellion in Dinas Gessa"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_07_STEP_02_Outcome1Description"
+msgid "You've convinced both the Forge and the Rebellion to make peace"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_07_STEP_02_Outcome2Description"
+msgid "You’ve betrayed the Rebellion"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_07_STEP_02_Outcome3Description"
+msgid "You’ve betrayed both the Forge and the Rebellion"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_07_STEP_02_Outcome4Description"
+msgid "You’ve betrayed the Forge"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_07_STEP_03Title"
+msgid "Go to the Forge HQ"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_07_STEP_03Description"
+msgid "Travel back with Hasdrubal."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_07_STEP_03_Outcome1Description"
+msgid "You've reached the swamp."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_07_STEP_03_Outcome2Description"
+msgid "Hasdrubal did not survive."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_ThePeople04_02c_KillTitle"
+msgid "Kill Sharp-Eyes"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_City_ThePeople04_02c_KillDescription"
+msgid ""
+"One simple way to solve the Sharp-Eyes situation is to kill the officer. "
+"Obviously, that's a pretty radical plan, not without repercussions."
+msgstr ""
+
+msgctxt ""
+"Quest/&DLC1_Secondary_Quest_City_ThePeople04_02c_Kill_Outcome1Description"
+msgid "You killed lieutenant Sharp-Eyes."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_01"
+msgid "The blue potion."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_01_STEP_01_Title"
+msgid "Find the medication."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_01_STEP_01_Description"
+msgid "Look for the medication potion to help the scientist."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_01_STEP_01__Outcome1Description"
+msgid "You have found the medication potion."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_01_STEP_02_Title"
+msgid "Give the potion to the scientist."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_01_STEP_02_Description"
+msgid "Bring back the potion and give it back to the scientist."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_01_STEP_02__Outcome1Description"
+msgid "You brought back the medication to the scientist."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_02"
+msgid "The lost book."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_02_STEP_01_Title"
+msgid "Search for the lost book."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_02_STEP_01_Description"
+msgid "Look around the complex for the missing book."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_02_STEP_01__Outcome1Description"
+msgid "You have located the lost book."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_02_STEP_02_Title"
+msgid "Bring back the book."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_02_STEP_02_Description"
+msgid "Return the book to the Scholar."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_02_STEP_02__Outcome1Description"
+msgid "You gave back the missing book to the Scholar."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_03"
+msgid "Sabotage."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_03_STEP_01_Title"
+msgid "Find the Dark Lab."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_03_STEP_01_Description"
+msgid "Locate the dark Lab scientist to give them a message."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_03_STEP_01__Outcome1Description"
+msgid "You have entered the Dark Lab."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_03_STEP_02_Title"
+msgid "Deliver the message."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_03_STEP_02_Description"
+msgid "Give the important message to the Dark Lab Scientist."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_03_STEP_02__Outcome1Description"
+msgid "You have delivered the message to the Scientist."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_04"
+msgid "Crowded Tunnels."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_04_STEP_01_Title"
+msgid "Enter the Tunnels"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_04_STEP_01_Description"
+msgid "Find a way into the tunnels."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_04_STEP_01__Outcome1Description"
+msgid "You manage to enter the tunnels."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_04_STEP_02_Title"
+msgid "Clear the Tunnels."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_04_STEP_02_Description"
+msgid "Fight you way through the tunnels."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Complex_04_STEP_02__Outcome1Description"
+msgid "You manage to clear a path to the tunnels."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_08_Title"
+msgid "Manacalon riches"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_08_STEP_01Title"
+msgid "Use the minor portal"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_08_STEP_01Description"
+msgid "Find the minor portal and use it"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_08_STEP_01_Outcome1Description"
+msgid "You've reached the Manacalon place that you have to explore."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_08_STEP_02Title"
+msgid "Explore the place"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_08_STEP_02Description"
+msgid ""
+"Hasdrubal asked you to secure an ancient Manacalon palace, containing magic "
+"knowledge and guarded by powerful creatures. Enter the place and be ready "
+"for a tough battle."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_08_STEP_02_Outcome1Description"
+msgid "You’ve destroyed the guardian and cleared the place"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_08_STEP_02_Outcome2Description"
+msgid "You’ve already cleared the place with the Rebellion."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_08_STEP_03Title"
+msgid "Report to Hasdrubal"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_08_STEP_03Description"
+msgid "Go report what you found."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_08_STEP_03_Outcome1Description"
+msgid ""
+"You told Hasdrubal that you had found a blocked access in the Palace, which "
+"you don't know where it leads."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_08_STEP_03_Outcome2Description"
+msgid ""
+"You told Hasdrubral that you found another access in the Palace, and that it "
+"leads to the Rebellion HQ."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_06_Title"
+msgid "Confrontation."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_06_STEP_01Title"
+msgid "Find and arrest the Innkeeper."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_06_STEP_01Description"
+msgid ""
+"Orenetis asked you to confront Karelia the Innkeeper.  Arrest or eliminate "
+"her."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_06_STEP_01_Outcome1Description"
+msgid "You have put Karelia under arrest."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_06_STEP_01_Outcome2Description"
+msgid "Karelia has fought against her arrestation, you had to kill her."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_06_STEP_02Title"
+msgid "Report to Malariel."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_06_STEP_02Description"
+msgid ""
+"Return to Malariel to let him know you have resolved the Innkeeper issue."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_06_STEP_02_Outcome1Description"
+msgid "You have made your report to Malariel."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_People_00_STEP_00_Title"
+msgid "Talk with Rose"
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_People_00_STEP_00_Description"
+msgid "Rose is looking for you. Go and talk to her."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_People_00_STEP_00__Outcome1Description"
+msgid "You have spoken to Rose."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_00_STEP_00_Title"
+msgid "Talk with Orenetis."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_00_STEP_00_Description"
+msgid "The lord protector has summoned you. Go and speak with him."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Orenetis_00_STEP_00__Outcome1Description"
+msgid "You have spoken with Orenetis."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Mask_00_STEP_00_Title"
+msgid "Meet with Cafrain."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Mask_00_STEP_00_Description"
+msgid "Cafrain wants to speak with you. Go and talk with him."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Mask_00_STEP_00__Outcome1Description"
+msgid "You have spoken to Cafrain."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_00_STEP_00_Title"
+msgid "Talk with Hasdrubal."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_00_STEP_00_Description"
+msgid "Hasdrubal is requesting your services. Find him and talk to him."
+msgstr ""
+
+msgctxt "Quest/&DLC1_Secondary_Quest_Forge_00_STEP_00__Outcome1Description"
+msgid "You have met with Hasdrubal."
+msgstr ""
 
 msgctxt "Quest/&Abjuration_Quest_00_FirstStep"
 msgid ""
@@ -1074,6 +5323,10 @@ msgstr "달리앗과 대화하고 현 상황에 대한 그의 견해를 들으�
 msgctxt "Quest/&Caer_Lem_Quest_04c_TalkToDaliatTitle"
 msgid "Talk to Daliat"
 msgstr "달리앗과 대화하기"
+
+msgctxt "Quest/&Caer_Lem_Quest_05_ChooseStrategy_Outcome1Description"
+msgid ""
+msgstr ""
 
 msgctxt "Quest/&Caer_Lem_Quest_05_ChooseStrategyDescription"
 msgid ""
@@ -6300,363 +10553,229 @@ msgctxt "Quest/&Quest_Background_Spy_Optional_GoToTavernDaliat_Title"
 msgid "Meet Daliat in Lane Ends"
 msgstr "도로 끝에서 달리앗 만나기"
 
-msgctxt "Quest/&DLC1_Quest_Marches_NPC2_Mercenary_MainTitle"
-msgid "A furry task"
-msgstr "털투성이 작업"
-
-msgctxt "Quest/&DLC1_Quest_Marches_NPC2_Mercenary_ReturnPeltTitle"
-msgid "Talk to Krim"
-msgstr "크림과 대화"
-
-msgctxt "Quest/&DLC1_Quest_Marches_NPC2_Mercenary_ReturnPeltDescription"
-msgid ""
-"Krim has asked to talk to you after your returned from the grotto. Talk to "
-"him and see what he has to say."
-msgstr "동굴에서 돌아온 뒤 크림이 대화를 요청했습니다. 무슨 말을 하려는지 만나보십시오."
-
-msgctxt "Quest/&DLC1_Quest_Marches_NPC2_Mercenary_ReturnPelt_Outcome1Description"
-msgid "You did not talk Krim."
-msgstr "크림과 대화하지 않았습니다."
-
-msgctxt "Quest/&DLC1_Quest_Marches_NPC2_Mercenary_ReturnPelt_Outcome2Description"
-msgid ""
-"Krim was interested in the bear pelt you brought from the grotto, just a "
-"small business affair."
-msgstr "크림은 동굴에서 가져온 곰 가죽에 관심있어 합니다. 그냥 사소한 사업 얘기군요."
-
-msgctxt "Quest/&DLC1_Quest_Marches_NPC1_Scribe"
-msgid "Archeology"
-msgstr "고고학"
-
-msgctxt "Quest/&DLC1_Quest_Marches_NPC1_Scribe_01_FindAntiquesDescription"
-msgid ""
-"You discussed with Leyrin Catpaw, one of the search party members, who seem "
-"interested in antiquities. If you come accross anything of interest, bring "
-"it back to her."
-msgstr ""
-"탐색 파티의 일원이자, 골동품에 관심이 많아 보이는 레이린 캣포우와 대화했습니다. 흥미로워 보이는 어떤 것이든 그녀에게 가져다주십시오."
-
-msgctxt "Quest/&DLC1_Quest_Marches_NPC1_Scribe_02_ReturnToScribeTitle"
-msgid "Return to Leyrin Catpaw"
-msgstr "레이린 캣포우에게 돌아가기"
-
-msgctxt "Quest/&DLC1_Quest_Marches_NPC1_Scribe_02_ReturnToScribeDescription"
-msgid ""
-"You found three pieces of what seems to be Manacalon remains. They seem to "
-"be linked together, but it would require further study. Bring them back to "
-"Leyrin Catpaw, she'll be happy to buy them."
-msgstr ""
-"마나칼론 유물로 보이는 어떤 조각 3개를 찾았습니다. 서로 연결되어 있는 것처럼 보이는데, 연구를 더 해봐야 합니다. 레이린 캣포우에게 "
-"가져다주면 기꺼이 사 줄 것입니다."
-
-msgctxt ""
-"Quest/&DLC1_Quest_Marches_NPC1_Scribe_02_ReturnToScribe_Outcome1Description"
-msgid ""
-"You returned the antique writings to Leyrin Catpaw and she seemed very happy."
-msgstr "유물들을 돌려주었고 레이린 캣포우는 매우 행복해 보입니다."
-
-msgctxt ""
-"Quest/&DLC1_Quest_Marches_NPC1_Scribe_02_ReturnToScribe_Outcome2Description"
-msgid "You never got the chance to bring Leyrin Catpaw anything to study."
-msgstr "레이린 캣포우가 연구할만한 것을 가져올 기회가 없었습니다."
-
-msgctxt "Quest/&DLC1_Quest_Marches_NPC2_Spy"
-msgid "Precious paper"
-msgstr "소중한 논문"
-
-msgctxt "Quest/&DLC1_Quest_Marches"
-msgid "The Merchant Road"
-msgstr "교역로"
-
-msgctxt "Quest/&DLC1_Quest_Marches_01_Talk_To_GalarTitle"
-msgid "Speak to Galar"
-msgstr "갈라르와 대화"
-
-msgctxt "Quest/&DLC1_Quest_Marches_01_Talk_To_GalarDescription"
-msgid "A group of people just set up camp just besides you."
-msgstr "한 무리의 사람들이 바로 옆에 야영지를 차렸습니다."
-
-msgctxt "Quest/&DLC1_Quest_Marches_01_Talk_To_Galar_Outcome1Description"
-msgid ""
-"You asked Galar about the group of people who just set camp besides. He "
-"instructed you to learn more about them and why they're here."
-msgstr "갈라르에게 바로 옆 야영지 사람들에 대해 묻자, 그가 저들이 여기 있는 이유를 알아오라고 지시했습니다."
-
-msgctxt "Quest/&DLC1_Quest_Marches_02_Talk_To_NPC2Title"
-msgid "Talk to Lady Fairblade"
-msgstr "페어블레이드와 대화"
-
-msgctxt "Quest/&DLC1_Quest_Marches_02_Talk_To_NPC2Description"
-msgid ""
-"Lady Helia Fairblade is the leader of this little group. Talk to her and "
-"learn more about her mission."
-msgstr "헬리아 페어블레이드는 이 작은 무리의 대표입니다. 대화를 통해 무슨 일인지 알아보십시오."
-
-msgctxt "Quest/&DLC1_Quest_Marches_02_Talk_To_NPC2_Outcome1Description"
-msgid ""
-"You spoke to Lady Fairblade and learned that she's looking for a man named "
-"Marin Ving."
-msgstr "페어블레이드와 대화했고 마린 빙이라는 사람을 찾고 있다는 걸 알았습니다."
-
-msgctxt "Quest/&DLC1_Quest_Marches_03_Talk_To_NPC1Title"
-msgid "Talk to the nobleman"
-msgstr "귀족과 대화"
-
-msgctxt "Quest/&DLC1_Quest_Marches_03_Talk_To_NPC1Description"
-msgid ""
-"Nearby Lady Fairblade is a very nervous man wearing noble clothes. See what "
-"he has to say."
-msgstr "페어블레이드 근처에 고급진 옷을 입고 긴장한 채 서성이는 사람이 있습니다. 얘기를 좀 해보죠."
-
-msgctxt "Quest/&DLC1_Quest_Marches_03_Talk_To_NPC1_Outcome1Description"
-msgid "You spoke to the nobleman."
-msgstr "귀족과 대화했습니다."
-
-msgctxt "Quest/&DLC1_Quest_Marches_NPC2_Spy_01_FindTheGreenBookTitle"
-msgid "Find Marin Ving's documents"
-msgstr "마린 빙의 문서 찾기"
-
-msgctxt "Quest/&DLC1_Quest_Marches_NPC2_Spy_01_FindTheGreenBookDescription"
-msgid ""
-"According to Helia Fairblade, Marin Ving transported valuable documents and "
-"the council would pay to recover them. If you find anything, report to her."
-msgstr ""
-"헬리아 페어블레이드에 따르면, 마린 빙은 귀중한 문서를 운반했으며, 평의회는 그것을 되찾기 위해 돈을 낼 것입니다. 뭐든 찾으면 "
-"보고하십시오."
-
-msgctxt ""
-"Quest/&DLC1_Quest_Marches_NPC2_Spy_01_FindTheGreenBook_Outcome1Description"
-msgid "You didn't return any document to Lady Fairblade."
-msgstr "페어블레이드에게 문서를 돌려주지 않았습니다."
-
-msgctxt ""
-"Quest/&DLC1_Quest_Marches_NPC2_Spy_01_FindTheGreenBook_Outcome2Description"
-msgid "You found a notebook in Ving's backpack."
-msgstr "빙의 배낭에서 공책을 찾았습니다."
-
-msgctxt "Quest/&DLC1_Quest_Marches_NPC2_Spy_02_ReturnGreenBookTitle"
-msgid "Return the notebook"
-msgstr "문서 돌려주기"
-
-msgctxt "Quest/&DLC1_Quest_Marches_NPC2_Spy_02_ReturnGreenBookDescription"
-msgid ""
-"You found a notebook belonging to Marin Ving. Maybe that's what Lady "
-"Fairblade is looking for, return it to her."
-msgstr "마린 빙의 문서를 찾았습니다. 페어블레이드가 찾고 있던 걸지도 모릅니다. 돌려주십시오."
-
-msgctxt ""
-"Quest/&DLC1_Quest_Marches_NPC2_Spy_02_ReturnGreenBook_Outcome2Description"
-msgid ""
-"You returned a notebook belonging to Ving. Not the documents Lady Fairblade "
-"hoped for, but she still rewarded you."
-msgstr "빙의 문서를 돌려주었습니다. 페어블레이드가 찾던 건 아니었지만, 어쨌든 보상은 주었습니다."
-
-msgctxt "Quest/&DLC1_Quest_Marches_04_ExploreTitle"
-msgid "Explore the surroundings"
-msgstr "주변 탐색"
-
-msgctxt "Quest/&DLC1_Quest_Marches_04_ExploreDescription"
-msgid ""
-"You accepted to help Lady Fairblade's search party to look for Marin Ving. "
-"For now, her people are resting, but you can start exploring the "
-"surroundings. Report anything you find."
-msgstr ""
-"마린 빙을 찾기 위한 페어블레이드의 수색대를 돕기로 했습니다. 그들은 지금은 쉬고 있으나, 당신은 주변 탐색을 시작 수 있습니다. 무언가 "
-"찾으면 보고하세요."
-
-msgctxt "Quest/&DLC1_Quest_Marches_04_Explore_Outcome1Description"
-msgid ""
-"You went to explore further down the mountainside and into a grotto, where "
-"you found a abandoned camp and a backpack : it belonged to Marin Ving!"
-msgstr "좀 더 탐색해보며 산비탈의 동굴까지 들어갔고 버려진 캠프와 배낭을 발견했습니다. 그것은 마린 빙의 것이었습니다!"
-
-msgctxt "Quest/&DLC1_Quest_Marches_05_FoundBag_Now_ReportDescription"
-msgid ""
-"You have proof that the VIP was in the nearby grotto. Report to the search "
-"party's officer."
-msgstr "VIP가 동굴 근처에 있다는 증거를 얻었습니다. 수색대에 보고하십시오."
-
-msgctxt "Quest/&DLC1_Quest_Marches_05_FoundBag_Now_ReportTitle"
-msgid "Report your findings"
-msgstr "조사 결과 보고"
-
-msgctxt "Quest/&DLC1_Quest_Marches_05_FoundBag_Now_Report_Outcome1Description"
-msgid ""
-"You reported your findings. Helia Fairblade was happy and asked you to rest "
-"before resuming the search."
-msgstr "조사 결과를 보고했습니다. 헬리아 페어블레이드는 기뻐하며 수색 개시 전 휴식을 취하라고 했습니다."
-
-msgctxt "Quest/&DLC1_Quest_Marches_06_LevelUpTitle"
-msgid "Level Up"
-msgstr "레벨 업"
-
-msgctxt "Quest/&DLC1_Quest_Marches_06_LevelUpDescription"
-msgid "Use the Campfire to Take a Long Rest and level up."
-msgstr "모닥불을 이용하여 긴 휴식을 취하고 레벨을 올리세요."
-
-msgctxt "Quest/&DLC1_Quest_Marches_06_LevelUp_Outcome1Description"
-msgid "You rested well and prepared to search the grotto again."
-msgstr "당신은 충분한 휴식을 취했고 다시 동굴을 탐색할 준비가 되었습니다."
-
-msgctxt "Quest/&DLC1_Quest_Marches_07_ExploreBeyondTitle"
-msgid "Explore the grotto carefully"
-msgstr "조심스럽게 동굴 탐험하기"
-
-msgctxt "Quest/&DLC1_Quest_Marches_07_ExploreBeyondDescription"
-msgid ""
-"Return in the grotto and find what happened to Marin Ving. Hire some of Lady "
-"Fairblade's people, if needed. Use Cautious mode to make your party more "
-"aware of hidden objects."
-msgstr ""
-"동굴로 돌아가 마린 빙에게 무슨 일이 일어났는지 알아내십시오. 필요하다면 페어블레이드 쪽 사람을 고용할 수 있습니다. 숨겨진 것을 더 잘 "
-"찾아보려면 경계 모드를 사용하십시오."
-
-msgctxt "Quest/&DLC1_Quest_Marches_07_ExploreBeyond_Outcome1Description"
-msgid ""
-"You found a hidden passage through the cave's walls. Ving has probably used "
-"this to escape the bear."
-msgstr "동굴 벽을 통과하는 숨겨진 통로를 찾았습니다. 아마도 빙은 곰에게서 탈출하기 위해 이 통로를 사용했을 것입니다."
-
-msgctxt "Quest/&DLC1_Quest_Marches_08_EnteredNestTitle"
-msgid "Follow the tracks"
-msgstr "흔적 따라가기"
-
-msgctxt "Quest/&DLC1_Quest_Marches_08_EnteredNestDescription"
-msgid ""
-"There's no doubt Ving went this way. Follow the tracks until you find him."
-msgstr "빙은 틀림없이 이쪽으로 갔을 겁니다. 그를 찾을 때까지 흔적을 따라가세요."
-
-msgctxt "Quest/&DLC1_Quest_Marches_08_EnteredNest_Outcome1Description"
-msgid ""
-"You found a door to what appears to be a Manacalon ruin, but doing so, you "
-"cut yourself for a way back. How did Ving pass through this? You have no "
-"idea."
-msgstr "마나칼론 유적으로 보이는 문을 찾았지만 들어섰다간 두 동강 나고 말 겁니다. 빙은 여길 어떻게 통과했죠? 알 수가 없군요."
-
-msgctxt "Quest/&DLC1_Quest_Marches_09_FindAnExitTitle"
-msgid "Escape the nest"
-msgstr "둥지 탈출하기"
-
-msgctxt "Quest/&DLC1_Quest_Marches_09_FindAnExitDescription"
-msgid ""
-"Somehow, this place has been overtaken by Redeemers, legendary insects of "
-"dreadful power. If you don't want to end feeding their queen, you better "
-"find a way out."
-msgstr ""
-"어찌 된 일인지 무시무시한 힘을 지닌 전설적인 곤충, 구도자에 의해 점령되었습니다. 여왕 밥으로 바쳐지기 싫다면 출구를 찾는 게 좋을 "
-"겁니다."
-
-msgctxt "Quest/&DLC1_Quest_Marches_09_FindAnExit_Outcome1Description"
-msgid ""
-"You finally found a way out, but on the wrong side of the mountain: you're "
-"in the Badlands!"
-msgstr "탈출구를 통해 나왔지만, 산 반대편으로 나왔습니다. 여긴 황무지예요!"
-
-msgctxt "Quest/&DLC1_Quest_Marches_FindNestKey"
-msgid "Key to freedom"
-msgstr "자유를 향한 열쇠"
-
-msgctxt "Quest/&DLC1_Quest_Secondary_FindNestKey_01_FindKeyTitle"
-msgid "Find the key"
-msgstr "열쇠 찾기"
-
-msgctxt "Quest/&DLC1_Quest_Secondary_FindNestKey_01_FindKeyDescription"
-msgid ""
-"You are blocked by a door, a tough one. Look around, you may find a key to "
-"open it…maybe in the dead hands of another antique corpse."
-msgstr "단단한 문에 막혔습니다. 주변을 뒤지면, 열쇠가 있을 겁니다... 썩어가는 시체 손에 쥐어져 있을지도 모르죠."
-
-msgctxt "Quest/&DLC1_Quest_Secondary_FindNestKey_01_FindKey_Outcome1Description"
-msgid ""
-"You found an old Manacalon key in a pile of trash…considering that ghouls "
-"have been roaming around, you never know, it might what you're looking for."
-msgstr "쓰레기 더미에서 오래된 마나칼론 열쇠를 찾았습니다… 구울들이 돌아다니는걸 생각하면, 아마 제대로 찾았을 겁니다."
-
-msgctxt "Quest/&DLC1_Quest_Marches_10_PursueVingTitle"
-msgid "Follow Ving's tracks"
-msgstr "빙의 흔적 따라가기"
-
-msgctxt "Quest/&DLC1_Quest_Marches_10_PursueVingDescription"
-msgid ""
-"You have safely escaped the Redeemer's nest, but you are now trapped inside "
-"the Badlands. Apparently, Marin Ving was here, too, which means you can "
-"still find him. Explore further and find out what happened to him."
-msgstr ""
-"무사히 구도자의 둥지에서 탈출했지만 이젠 황무지에 갇힌 신세입니다. 마린 빙 역시 여기 있었던 것이 분명하므로, 여전히 그를 찾아볼 수 "
-"있습니다. 무슨 일을 겪은 건지 알아보러 가십시오."
-
-msgctxt "Quest/&DLC1_Quest_Marches_10_PursueVing_Outcome1Description"
-msgid "You started exploring the valley, hoping to find Marin Ving."
-msgstr "당신은 마린 빙을 찾길 바라며 계곡 탐험을 시작했습니다."
-
 msgctxt "Quest/&Wanderer_BGQuest_MainTitle"
 msgid "A History of Violence"
 msgstr "폭력의 역사"
 
+msgctxt "Quest/&Quest_Background_Wanderer_Quest_Cancel"
+msgid "You couldn't help Auroc and left the mine to pursue your own quest."
+msgstr ""
+
+#, fuzzy
+#| msgid "Meet with NPC TBC"
 msgctxt "Quest/&Wanderer_BGQuest_Quest_01_Meet_NPCTitle"
-msgid "Meet with NPC TBC"
+msgid "Meet with Auroc"
 msgstr "알 수 없는 NPC 만나기"
 
+#, fuzzy
+#| msgid ""
+#| "You received word that an old acquaintance, NPC TBC, is in Coparann and "
+#| "wants to talk to you."
 msgctxt "Quest/&Wanderer_BGQuest_Quest_01_Meet_NPCDescription"
 msgid ""
-"You received word that an old acquaintance, NPC TBC, is in Coparann and "
-"wants to talk to you."
+"You received word that an old acquaintance, Auroc, is in Coparann and wants "
+"to talk to you."
 msgstr "오랜 지인인, 알 수 없는 NPC가 코파란에서 한 번 만나고 싶다는 연락을 받았습니다."
 
+#, fuzzy
+#| msgid "You met with NPC TBC"
 msgctxt "Quest/&Wanderer_BGQuest_Quest_01_Meet_NPC_Outcome1Description"
-msgid "You met with NPC TBC"
+msgid "You met with Auroc."
 msgstr "알 수 없는 NPC를 만났습니다"
 
+#, fuzzy
+#| msgid "Enter the mine"
 msgctxt "Quest/&Quest_Background_Wanderer_Quest_02_EnterMineTitle"
-msgid "Enter the mine"
+msgid "Enter the Mine"
 msgstr "광산 들어가기"
 
+#, fuzzy
+#| msgid "Go to the mine's entrance and gather your party."
 msgctxt "Quest/&Quest_Background_Wanderer_Quest_02_EnterMineDescription"
-msgid "Go to the mine's entrance and gather your party."
+msgid "Gather your party at the mine entrance."
 msgstr "광산 입구로 가서 일행을 모으세요."
 
 msgctxt "Quest/&Quest_Background_Wanderer_Quest_02_EnterMine_Outcome1Description"
 msgid "You entered the mine."
 msgstr "광산에 들어갔습니다."
 
-msgctxt "Quest/&DLC1_Quest_Valley"
-msgid "The Emerald Forest"
-msgstr "에메랄드 숲"
+msgctxt "Quest/&Quest_Background_Wanderer_Quest_03_ExploreTheMinesTitle"
+msgid "Explore the Mines"
+msgstr ""
 
-msgctxt "Quest/&DLC1_Quest_Valley_Step_01_FollowVip_Title"
-msgid "Search Party"
-msgstr "파티 찾기"
+msgctxt "Quest/&Quest_Background_Wanderer_Quest_03_ExploreTheMinesDescription"
+msgid "The bandits are hiding somewhere in the mines. Find their hideout."
+msgstr ""
 
-msgctxt "Quest/&DLC1_Quest_Valley_Step_01_FollowVip_Description"
-msgid "Cross the jungle to find Marin Ving"
-msgstr "정글을 가로질러 마린 빙을 찾으세요"
+msgctxt ""
+"Quest/&Quest_Background_Wanderer_Quest_03_ExploreTheMines_Outcome1Description"
+msgid "You found an old tomb in the mines. The hideout should be nearby."
+msgstr ""
 
-msgctxt "Quest/&DLC1_Quest_Valley_Step_01_FollowVip__Outcome1Description"
-msgid "You have discovered some old ruins in the jungle."
-msgstr "당신은 정글에서 오래된 유적을 발견했습니다."
+msgctxt "Quest/&Quest_Background_Wanderer_Quest_04_FindLeverTitle"
+msgid "Find the Switcher Lever"
+msgstr ""
 
-msgctxt "Quest/&DLC1_Quest_Valley_Step_02_ExploreRuins_Title"
-msgid "Explore the ruins"
-msgstr "유적 탐사"
-
-msgctxt "Quest/&DLC1_Quest_Valley_Step_02_ExploreRuins_Description"
-msgid "Look around the ruins for traces of Marin's Party"
-msgstr "마린 일행의 흔적을 찾아 유적을 둘러보세요"
-
-msgctxt "Quest/&DLC1_Quest_Valley_Step_02_ExploreRuins__Outcome1Description"
-msgid "You found the corpse of one of Marin Ving bodyguard."
-msgstr "마린 빙의 경호원 중 한 명의 시신을 찾았습니다."
-
-msgctxt "Quest/&DLC1_Quest_Valley_Step_03_ExitJungleTitle"
-msgid "Leave the jungle"
-msgstr "정글 떠나기"
-
-msgctxt "Quest/&DLC1_Quest_Valley_Step_03_ExitJungle_Description"
-msgid "Exit the jungle and keep looking for Marin"
-msgstr "정글을 빠져나와 마린을 계속 찾으세요"
-
-msgctxt "Quest/&DLC1_Quest_Valley_Step_03_ExitJungle__Outcome1Description"
+msgctxt "Quest/&Quest_Background_Wanderer_Quest_04_FindLeverDescription"
 msgid ""
-"Marin Ving was not in the jungle. You have decided to go further away and "
-"found more clue about where he might be heading to."
-msgstr "마린 빙은 정글에 없었습니다. 당신은 더 멀리 가보기로 결정했고, 그가 향한 곳에 대한 단서를 더 찾을 수 있었습니다."
+"The path to the North is blocked by a locked door, and clearly it should be "
+"possible to push a heavy cart into it to force it open, but you may have to "
+"activate a rail switcher first. But it has no lever."
+msgstr ""
+
+msgctxt "Quest/&Quest_Background_Wanderer_Quest_04_FindLever_Outcome1Description"
+msgid ""
+"You found the rail switcher's lever. Now find a way to break the door open."
+msgstr ""
+
+msgctxt "Quest/&Quest_Background_Wanderer_Quest_06_LaunchChariotAndOpenDoorTitle"
+msgid "Launch the Cart"
+msgstr ""
+
+msgctxt ""
+"Quest/&Quest_Background_Wanderer_Quest_06_LaunchChariotAndOpenDoorDescription"
+msgid ""
+"Set the switcher correctly and launch the cart through the door. If you send "
+"the cart the wrong way, follow the tracks and bring it back."
+msgstr ""
+
+msgctxt ""
+"Quest/&Quest_Background_Wanderer_Quest_06_LaunchChariotAndOpenDoor_Outcome1De"
+"scription"
+msgid "You finally opened the door and gained access deeper into the mines."
+msgstr ""
+
+msgctxt "Quest/&Quest_Background_Wanderer_Quest_06b_OpenDoorTitle"
+msgid "Explore Beyond the Door"
+msgstr ""
+
+msgctxt "Quest/&Quest_Background_Wanderer_Quest_06b_OpenDoorDescription"
+msgid "Search for the bandits."
+msgstr ""
+
+msgctxt "Quest/&Quest_Background_Wanderer_Quest_06b_OpenDoor_Outcome1Description"
+msgid "You found the entrance to the necropolis."
+msgstr ""
+
+msgctxt "Quest/&Quest_Background_Wanderer_Quest_06_FindKeyTitle"
+msgid "Find the Key"
+msgstr ""
+
+msgctxt "Quest/&Quest_Background_Wanderer_Quest_06_FindKeyDescription"
+msgid ""
+"Find the key that opens the door to the necropolis. It might be on one of "
+"the undead creatures you fought."
+msgstr ""
+
+msgctxt "Quest/&Quest_Background_Wanderer_Quest_06_FindKey_Outcome1Description"
+msgid "The fallen undead has the key to the necropolis!"
+msgstr ""
+
+msgctxt "Quest/&Quest_Background_Wanderer_Quest_07_FindTheBanditsTitle"
+msgid "Find the Bandits"
+msgstr ""
+
+msgctxt "Quest/&Quest_Background_Wanderer_Quest_07_FindTheBanditsDescription"
+msgid ""
+"The bandits you're looking for are trapped somewhere in this necropolis. "
+"Find them!"
+msgstr ""
+
+msgctxt ""
+"Quest/&Quest_Background_Wanderer_Quest_07_FindTheBandits_Outcome1Description"
+msgid "This room seems to be a dead end."
+msgstr ""
+
+msgctxt ""
+"Quest/&Quest_Background_Wanderer_Quest_07_FindTheBandits_Outcome2Description"
+msgid "You found a way out of the locked room."
+msgstr ""
+
+msgctxt "Quest/&Quest_Background_Wanderer_Quest_08_Fight_AurocTitle"
+msgid "Fight Auroc"
+msgstr ""
+
+msgctxt "Quest/&Quest_Background_Wanderer_Quest_08_Fight_AurocDescription"
+msgid "Auroc lured you here to kill you! Defend yourselves!"
+msgstr ""
+
+msgctxt ""
+"Quest/&Quest_Background_Wanderer_Quest_08_Fight_Auroc_Outcome1Description"
+msgid ""
+"You killed the bandits who ravaged your home - and Auroc, who turned out to "
+"be a traitor. Leave the mines and resume your mission for the Council."
+msgstr ""
+
+msgctxt "Quest/&Quest_Background_Wanderer_Quest_08b_Fight_Auroc_deadTitle"
+msgid "Kill the Bandits"
+msgstr ""
+
+msgctxt "Quest/&Quest_Background_Wanderer_Quest_08b_Fight_Auroc_deadDescription"
+msgid ""
+"It is done. The bandits who ravaged your home are dead. Leave the mines and "
+"resume your mission for the Council."
+msgstr ""
+
+msgctxt "Quest/&Quest_Background_Wanderer_Quest_05_UseSwitcherTitle"
+msgid "Repair the Switcher"
+msgstr ""
+
+msgctxt "Quest/&Quest_Background_Wanderer_Quest_05_UseSwitcherDescription"
+msgid "You have the lever! Return to the switcher and fix it."
+msgstr ""
+
+msgctxt ""
+"Quest/&Quest_Background_Wanderer_Quest_05_UseSwitcher_Outcome1Description"
+msgid "The rail switcher is working again!"
+msgstr ""
+
+msgctxt "Quest/&Quest_Background_Wanderer_Quest_07a_OpenNecroDoorTitle"
+msgid "Open the Necropolis Door"
+msgstr ""
+
+msgctxt "Quest/&Quest_Background_Wanderer_Quest_07a_OpenNecroDoorDescription"
+msgid ""
+"You have found a key that might unlock the door to the necropolis. Use it - "
+"and find those damn bandits!"
+msgstr ""
+
+msgctxt ""
+"Quest/&Quest_Background_Wanderer_Quest_07a_OpenNecroDoor_Outcome1Description"
+msgid "You entered the necropolis!"
+msgstr ""
+
+msgctxt "Quest/&Quest_Background_Wanderer_Quest_13_FindBanditsTitle"
+msgid "Find the Bandits"
+msgstr ""
+
+msgctxt "Quest/&Quest_Background_Wanderer_Quest_13_FindBanditsDescription"
+msgid ""
+"They can't be far away now. Find the bandits and put an end to their crimes!"
+msgstr ""
+
+msgctxt ""
+"Quest/&Quest_Background_Wanderer_Quest_13_FindBandits_Outcome1Description"
+msgid ""
+"You found and killed the bandits, but Auroc was not who you thought he was. "
+"He was with the bandits, and lured you to the mine to kill you!"
+msgstr ""
+
+msgctxt ""
+"Quest/&Quest_Background_Wanderer_Quest_13_FindBandits_Outcome2Description"
+msgid "You killed the bandits, but Auroc was not here to witness it."
+msgstr ""
+
+msgctxt "Quest/&Quest_Background_Wanderer_Quest_12_SolvePuzzleTitle"
+msgid "Solve the Puzzle"
+msgstr ""
+
+msgctxt "Quest/&Quest_Background_Wanderer_Quest_12_SolvePuzzleDescription"
+msgid ""
+"This room looks like a dead end, but there might be a way out. Look out for "
+"clues!"
+msgstr ""
+
+msgctxt ""
+"Quest/&Quest_Background_Wanderer_Quest_12_SolvePuzzle_Outcome1Description"
+msgid "You found a way out of the locked room."
+msgstr ""

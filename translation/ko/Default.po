@@ -1,22 +1,440 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-12-16 13:08+0000\n"
-"Last-Translator: Nickel <psb3421@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/default/ko/"
-">\n"
-"Language: ko\n"
+"POT-Creation-Date: 2021-12-17 17:52+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
-msgctxt "holy axe"
-msgid "Note from Nikannen"
-msgstr "니카넨의 메모"
+msgctxt "Rugan"
+msgid "If you agree to go, I can give you a map."
+msgstr ""
+
+msgctxt "CharacterTemplate/&RosLastName"
+msgid "Ros"
+msgstr "로스"
+
+msgctxt "ContentPack/&LostValleyTitle"
+msgid "The Lost Valley"
+msgstr ""
+
+msgctxt "ContentPack/&LostValleyDescription"
+msgid "TBD"
+msgstr ""
+
+msgctxt "ContentPack/&BackerItemsTitle"
+msgid "Backer Item Pack"
+msgstr "후원자 아이템 꾸러미"
+
+msgctxt "ContentPack/&BackerItemsDescription"
+msgid ""
+"Unlocks the One Ring, Dwarven Bread, 6 League Boots, Spoon of Discord and "
+"Early Bird items. Can be found in a chest near the Monument next to the "
+"Council."
+msgstr ""
+"반지 하나, 드워프 빵, 6개의 리그 부츠, 디스코드 숟가락, 그리고 얼리버드 아이템을 잠금 해제합니다. 의회 옆 기념비 근처 궤짝에서 "
+"찾을 수 있습니다."
+
+msgctxt "ContentPack/&DigitalBackerContentTitle"
+msgid "Digital Edition Pack"
+msgstr "디지털 에디션 꾸러미"
+
+msgctxt "ContentPack/&DigitalBackerContentDescription"
+msgid ""
+"Unlocks the Everlasting Torch item and special VFX versions of Burning Hands "
+"and Sacred Flame. Can be found in a chest near the Monument next to the "
+"Council."
+msgstr ""
+"꺼지지 않는 횃불 아이템, 불타는 손과 신성한 불꽃의 특별 VFX 버전을 잠금 해제합니다. 의회 옆 기념비 근처 궤짝에서 찾을 수 "
+"있습니다."
+
+msgctxt "ContentPack/&LoadedDiceTitle"
+msgid "Loaded Dice Pack"
+msgstr "준비된 주사위 전리품"
+
+msgctxt "ContentPack/&LoadedDiceDescription"
+msgid ""
+"Unlock the Loaded Dice item. Can be found near the Monument in a chest next "
+"to the Council."
+msgstr "준비된 주사위 아이템을 잠금 해제합니다. 의회 옆 기념비 근처 궤짝에서 찾을 수 있습니다."
+
+msgctxt "ContentPack/&SorcererUpdateTitle"
+msgid "Sorcerer Update"
+msgstr "소서러 업데이트"
+
+msgctxt "ContentPack/&SorcererUpdateDescription"
+msgid ""
+"Unlocks the Sorcerer class and its 3 subclasses, iron man mode and new "
+"Dungeon Maker content"
+msgstr "소서러 클래스와 서브클래스 3개, 철인 모드와 새로운 던전 메이커 컨텐츠 추가"
+
+msgctxt "ContentPack/&SupporterPackTitle"
+msgid "Supporter Pack"
+msgstr "서포터 꾸러미"
+
+msgctxt "ContentPack/&SupporterPackDescription"
+msgid ""
+"Unlocks exclusive dice, a vast amount of high resolution Concept Art, and "
+"the eternal love of the Tactical Adventures team"
+msgstr "특별한 주사위, 방대한 양의 고해상도 컨셉 아트 및 택티컬 어드벤쳐 팀의 영원한 사랑을 잠금 해제합니다"
+
+msgctxt "ContentPack/&PrimalCallingTitle"
+msgid "Primal Calling"
+msgstr ""
+
+msgctxt "ContentPack/&PrimalCallingDescription"
+msgid ""
+"Unlocks the Barbarian & Druid character classes, the Half-orc ancestry, and "
+"the Wanderer background, for any adventure in Solasta."
+msgstr ""
+
+msgctxt "Tutorials/&Tuto_Attack_Neutral_Title"
+msgid "Attacking Neutral Characters"
+msgstr ""
+
+msgctxt "Tutorials/&Tuto_Attack_Neutral_Description"
+msgid ""
+"To attack a neutral character, put your party in Cautious mode, approach the "
+"target, and select an attack option or spell. Aim at the target character, "
+"then validate. If the target is friendly, your relationship will be damaged, "
+"and that character may hate you enough to retaliate."
+msgstr ""
+
+msgctxt "Powers/&Mummy_Lord_BlasphemousWords_Title"
+msgid "Blasphemous Words"
+msgstr ""
+
+msgctxt "Powers/&Mummy_Lord_BlasphemousWords_Description"
+msgid ""
+"Each creature within 2 cells of the mummy lord must succeed on a DC 16 CON "
+"saving throw of be Stunned until the end of their next turn."
+msgstr ""
+
+msgctxt "Powers/&Mummy_Lord_ChannelNegativeEnergy_Title"
+msgid "Channel Negative Energy"
+msgstr ""
+
+msgctxt "Powers/&Mummy_Lord_ChannelNegativeEnergy_Description"
+msgid ""
+"Creatures within 12 cells of the mummy lord cannot regain Hit Points until "
+"the end of tir next turn."
+msgstr ""
+
+msgctxt "Powers/&Mummy_Lord_BlindingDust_Title"
+msgid "Blinding Dust"
+msgstr ""
+
+msgctxt "Powers/&Mummy_Lord_BlindingDust_Description"
+msgid ""
+"Creatures within one cell must succeed on a DC 16 CON saving throw or be "
+"Blinded until the end of their next turn."
+msgstr ""
+
+msgctxt "Powers/&Mummy_Lord_WhirlwindOfSand_Title"
+msgid "Whirlwind Of Sand"
+msgstr ""
+
+msgctxt "Powers/&Mummy_Lord_WhirlwindOfSand_Description"
+msgid ""
+"The Mummy Lord moves to 12 cells in the form of a whirlwind of sand, immune "
+"to all attacks."
+msgstr ""
+
+msgctxt "Powers/&ActioneStopTitle"
+msgid "Stop Raging"
+msgstr ""
+
+msgctxt "Environment/&CatacombsTitle"
+msgid "Catacombs"
+msgstr "지하 묘지"
+
+msgctxt "Environment/&CatacombsDescription"
+msgid "An underground network of tombs & crypts"
+msgstr "지하에 거미줄처럼 펼쳐져있는 무덤과 지하실들"
+
+msgctxt "Environment/&NecropolisTitle"
+msgid "Necropolis"
+msgstr "공동묘지"
+
+msgctxt "Environment/&NecropolisDescription"
+msgid "An underground domain of the dead"
+msgstr "지하에 있는 죽은 자의 영역"
+
+msgctxt "Environment/&SewersTitle"
+msgid "Sewers"
+msgstr "하수도"
+
+msgctxt "Environment/&SewersDescription"
+msgid "A collection of sewer tunnels & drainage"
+msgstr "하수 터널 및 배수 장치 모음"
+
+msgctxt "Environment/&StrongholdTitle"
+msgid "Stronghold"
+msgstr "요새"
+
+msgctxt "Environment/&StrongholdDescription"
+msgid "The interior of a stone castle"
+msgstr "석조 성 내부"
+
+msgctxt "Environment/&ElvenPalaceTitle"
+msgid "Elven Palace"
+msgstr "엘프 궁전"
+
+msgctxt "Environment/&ElvenPalaceDescription"
+msgid "A luxurious vestige of the realm of Manacalon"
+msgstr "마나칼론 시대의 호화로운 유물"
+
+msgctxt "Environment/&LavaCavesTitle"
+msgid "Lava Caves"
+msgstr "용암 동굴"
+
+msgctxt "Environment/&LavaCavesDescription"
+msgid "An underground network of caves inhabited by tribal creatures"
+msgstr "지하에 거미줄처럼 펼쳐져있는 부족생물들의 서식 동굴"
+
+msgctxt "Environment/&WoodlandTitle"
+msgid "Woodland"
+msgstr "삼림지"
+
+msgctxt "Environment/&WoodlandDescription"
+msgid "Navigate through a series of clearings inside a temperate forest"
+msgstr "온대 숲 안에 위치한 여러 공터를 탐색하십시오"
+
+msgctxt "Environment/&TownTitle"
+msgid "Town"
+msgstr ""
+
+msgctxt "Environment/&TownDescription"
+msgid "Explore the streets of a medieval city"
+msgstr ""
+
+msgctxt "Environment/&TownInteriorTitle"
+msgid "Town Interiors"
+msgstr ""
+
+msgctxt "Environment/&TownInteriorDescription"
+msgid ""
+"A set of house / building interiors used to represent what is inside the "
+"buildings of a town"
+msgstr ""
+
+msgctxt "LootPack/&CR0_Loot_PackTitle"
+msgid "CR0 Loot"
+msgstr "CR0 전리품"
+
+msgctxt "LootPack/&CR1_Loot_PackTitle"
+msgid "CR1 Loot"
+msgstr "CR1 전리품"
+
+msgctxt "LootPack/&CR2_Loot_PackTitle"
+msgid "CR2 Loot"
+msgstr "CR2 전리품"
+
+msgctxt "LootPack/&CR3_Loot_PackTitle"
+msgid "CR3 Loot"
+msgstr "CR3 전리품"
+
+msgctxt "LootPack/&CR4_Loot_PackTitle"
+msgid "CR4 Loot"
+msgstr "CR4 전리품"
+
+msgctxt "LootPack/&CR5_Loot_PackTitle"
+msgid "CR5 Loot"
+msgstr "CR5 전리품"
+
+msgctxt "LootPack/&1D2Scrolls"
+msgid "1D2 Scrolls"
+msgstr ""
+
+msgctxt "LootPack/&1Potion1Poison"
+msgid "1 Potion + 1 Poison"
+msgstr ""
+
+msgctxt "LootPack/&1WondrousItem"
+msgid "1 Wondrous Item"
+msgstr ""
+
+msgctxt "LootPack/&1Recipe1Ingredient"
+msgid "1 Recipe + 1 Ingredient"
+msgstr ""
+
+msgctxt "LootPack/&1D3Food1D3MundaneItems"
+msgid "1D3 Food + 1D3 Mundane Items"
+msgstr ""
+
+msgctxt "LootPack/&1LegendaryItem"
+msgid "1 Legendary Item"
+msgstr ""
+
+msgctxt "LootPack/&1MagicArmorPlus1"
+msgid "1 Magic Armor +1"
+msgstr ""
+
+msgctxt "LootPack/&1MagicArmorPlus2"
+msgid "1 Magic Armor +2"
+msgstr ""
+
+msgctxt "LootPack/&1MagicWeaponPlus1"
+msgid "1 Magic Weapon +1"
+msgstr ""
+
+msgctxt "LootPack/&1MagicWeaponPlus2"
+msgid "1 Magic Weapon +2"
+msgstr ""
+
+msgctxt "LootPack/&RandomAmmo"
+msgid "Random Ammunition"
+msgstr ""
+
+msgctxt "Music/&NoneTitle"
+msgid "<None>"
+msgstr "배경음악 없음"
+
+msgctxt "Music/&CaerLemTitle"
+msgid "Caer Lem"
+msgstr "Caer Lem"
+
+msgctxt "Music/&CaerCyflenTitle"
+msgid "Caer Cyflen"
+msgstr "Caer Cyflen"
+
+msgctxt "Music/&DarkCastleExteriorTitle"
+msgid "Dark Castle (Exterior)"
+msgstr "어둠의 성(외부)"
+
+msgctxt "Music/&CoparanTitle"
+msgid "Coparann"
+msgstr "Coparann"
+
+msgctxt "Music/&WizardsTowerTitle"
+msgid "Wizard's Tower"
+msgstr "Wizard's Tower"
+
+msgctxt "Music/&MastermindTitle"
+msgid "Mastermind"
+msgstr "Mastermind"
+
+msgctxt "Music/&CradleOfFireTitle"
+msgid "Cradle of Fire"
+msgstr "Cradle of Fire"
+
+msgctxt "Music/&AerElaiTitle"
+msgid "Aer Elai"
+msgstr "Aer Elai"
+
+msgctxt "Music/&TheNecromancerTitle"
+msgid "The Necromancer"
+msgstr "The Necromancer"
+
+msgctxt "Music/&RuinsOfTelemaTitle"
+msgid "Ruins of Telema"
+msgstr "Ruins of Telema"
+
+msgctxt "Music/&PrisonEscapeTitle"
+msgid "Prison Escape"
+msgstr "Prison Escape"
+
+msgctxt "Music/&TheLightBringersTitle"
+msgid "The Lightbringers"
+msgstr "The Lightbringers"
+
+msgctxt "Music/&ShadowsTitle"
+msgid "Shadows"
+msgstr "Shadows"
+
+msgctxt "EnvironmentEffect/&CollapsingRoofTitle"
+msgid "Collapsing Roof"
+msgstr "무너지는 지붕"
+
+msgctxt "EnvironmentEffect/&CollapsingRoofDescription"
+msgid "Several rocks and boulders fall to the ground"
+msgstr "많은 돌과 바위가 땅에 떨어집니다"
+
+msgctxt "EnvironmentEffect/&DisturbingRunesTitle"
+msgid "Disturbing Runes"
+msgstr "불안정한 룬"
+
+msgctxt "EnvironmentEffect/&DisturbingRunesDescription"
+msgid "Mind-affecting runes damage the soul and cause random behavior"
+msgstr "정신에 영향을 미치는 룬은 영혼을 손상시키고 무작위 행동을 유발합니다"
+
+msgctxt "EnvironmentEffect/&DeathGlyphTitle"
+msgid "Death Glyph"
+msgstr "죽음의 문양"
+
+msgctxt "EnvironmentEffect/&DeathGlyphDescription"
+msgid "Stepping on this causes necrotic damage and terror"
+msgstr "밟으면 사령 피해와 공포가 발생합니다"
+
+msgctxt "EnvironmentEffect/&FireBurstTitle"
+msgid "Fire Burst"
+msgstr "화염 폭발"
+
+msgctxt "EnvironmentEffect/&FireBurstDescription"
+msgid "An eruption causes fire damage"
+msgstr "폭발로 인해 화재 피해가 발생합니다"
+
+msgctxt "EnvironmentEffect/&GroundSpikesTitle"
+msgid "Ground Spikes"
+msgstr "쇠못 덫"
+
+msgctxt "EnvironmentEffect/&GroundSpikesDescription"
+msgid "Spikes rise from the ground, causing piercing damage"
+msgstr "쇠못이 지면에서 솟아올라 관통 피해를 입힙니다"
+
+msgctxt "EnvironmentEffect/&LightningDischargeTitle"
+msgid "Lightning Discharge"
+msgstr "번개 방출"
+
+msgctxt "EnvironmentEffect/&LightningDischargeDescription"
+msgid "Discharges electricity in the vicinity, causing electrical damage"
+msgstr "전기를 방출하여 주변에 전기 피해를 입힙니다"
+
+msgctxt "EnvironmentEffect/&PoisonCloudTitle"
+msgid "Poison Cloud"
+msgstr "독 구름"
+
+msgctxt "EnvironmentEffect/&PoisonCloudDescription"
+msgid "A noxious cloud inflicts poison damage and the poisoned condition"
+msgstr "유독 구름이 독 피해를 입히고 중독 상태를 유발합니다"
+
+msgctxt "TreasureTable/&GemsTitle"
+msgid "Gems"
+msgstr "보석"
+
+msgctxt "TreasureTable/&ConsumablesTitle"
+msgid "Consumables"
+msgstr "소모품"
+
+msgctxt "TreasureTable/&MagicWeapons_ArmorsTitle"
+msgid "Magic Weapons and Armor"
+msgstr "마법 무기와 갑옷"
+
+msgctxt "TreasureTable/&Wondrous_ItemsTitle"
+msgid "Wondrous Items"
+msgstr "굉장한 아이템"
+
+msgctxt "TreasureTable/&IngredientsTitle"
+msgid "Ingredients"
+msgstr "재료"
+
+msgctxt "TreasureTable/&Mundane_GearTitle"
+msgid "Mundane Gear"
+msgstr "평범한 장비"
+
+msgctxt "TreasureTable/&25_GP_Art_ItemsTitle"
+msgid "25 gp Art Items"
+msgstr "25gp 아트 아이템"
+
+msgctxt "TreasureTable/&50_GP_Art_ItemsTitle"
+msgid "50 gp Art Items"
+msgstr "50gp 아트 아이템"
 
 msgctxt "BodyHairStyle/&Hairstyle_A"
 msgid "Pixie Cut"
@@ -241,84 +659,6 @@ msgctxt "DieStyle/&DieStyleDiamondSupporterTitle"
 msgid "Diamond"
 msgstr "다이아몬드"
 
-msgctxt "EffectProxy/&ProxyDancingLightsDescription"
-msgid "Move the lights up to 12 cells"
-msgstr "빛들을 최대 12칸까지 이동시킵니다"
-
-msgctxt "EffectProxy/&ProxyDancingLightsTitle"
-msgid "Dancing Lights"
-msgstr "춤추는 빛"
-
-msgctxt "EffectProxy/&ProxyDarknessDescription"
-msgid "An area of magical darkness."
-msgstr "어둠 마법의 영역."
-
-msgctxt "EffectProxy/&ProxyDaylightTitle"
-msgid "Daylight"
-msgstr "일광"
-
-msgctxt "EffectProxy/&ProxyFlamingSphereDescription"
-msgid "Move the sphere up to 6 cells or slam it into an opponent"
-msgstr "구체를 최대 6칸까지 이동하거나 적에게 내리칩니다"
-
-msgctxt "EffectProxy/&ProxyFlamingSphereTitle"
-msgid "Flaming Sphere"
-msgstr "불타는 구체"
-
-msgctxt "EffectProxy/&ProxyFogCloudDescription"
-msgid "A very thick fog."
-msgstr "매우 짙은 안개."
-
-msgctxt "EffectProxy/&ProxyIndomitableLightTitle"
-msgid "Indomitable Light"
-msgstr "불굴의 빛"
-
-msgctxt "EffectProxy/&ProxySleetStormDescription"
-msgid "Sleet Storm"
-msgstr "진눈깨비"
-
-msgctxt "EffectProxy/&ProxySpiritualWeaponDescription"
-msgid "Move the weapon up to 4 cells and strike an opponent"
-msgstr "무기를 최대 4칸까지 이동하여 적을 공격"
-
-msgctxt "EffectProxy/&ProxySpiritualWeaponTitle"
-msgid "Spiritual Weapon"
-msgstr "영체 무기"
-
-msgctxt "EffectProxy/&ProxyStinkingCloudDescription"
-msgid "A cloud of incapacitating, noxious gas."
-msgstr "무력화시키는 독가스 구름."
-
-msgctxt "EffectProxy/&ProxyWallOfFireDescription"
-msgid "A burning wall that injures creatures in or next to it."
-msgstr "벽 안이나 옆에 있는 생물에게 피해를 주는 불타는 벽."
-
-msgctxt "EffectProxy/&ProxyWindWallDescription"
-msgid ""
-"A wall of wind that causes damage, pushes creatures and objects away, and "
-"disperses fogs and gases."
-msgstr "피해를 입히고 생물과 물체를 밀어내고 안개와 가스를 분산시키는 바람의 벽."
-
-msgctxt "EffectProxy/&ProxySilenceDescription"
-msgid "An area of complete silence."
-msgstr "완전침묵의 영역."
-
-msgctxt "EffectProxy/&ProxyIceStormDescription"
-msgid "Ice Storm"
-msgstr "얼음 폭풍"
-
-msgctxt "EffectProxy/&ProxyGuardianOfFaithDescription"
-msgid "Guardian of Faith"
-msgstr "믿음의 수호자"
-
-msgctxt "EffectProxy/&ProxyCloudKillDescription"
-msgid "A thick and deadly poisonous fog."
-msgstr "짙고 치명적인 독안개."
-
-msgctxt "EffectProxy/&ProxyWallOfForceDescription"
-msgid "Conjures an invisible wall that blocks movement and attacks."
-msgstr "이동과 공격을 막는 투명벽을 생성."
-
 msgctxt "Environment Effect/&ExplosiveRunesDescription"
 msgid ""
 "Explosive Runes are inscribed on objects and trigger a fiery blast when this "
@@ -508,6 +848,22 @@ msgstr "이 크리쳐를 만나본 적이 없습니다."
 msgctxt "KnowledgeLevel/&UnknownTitle"
 msgid "Unknown (0)"
 msgstr "미확인 (0)"
+
+msgctxt "Label/&CampfireLocationRestDescription"
+msgid ""
+msgstr ""
+
+msgctxt "Label/&CampfireLocationRestTitle"
+msgid ""
+msgstr ""
+
+msgctxt "Label/&CampfireResumeTravelRestDescription"
+msgid ""
+msgstr ""
+
+msgctxt "Label/&CampfireResumeTravelRestTitle"
+msgid ""
+msgstr ""
 
 msgctxt "Label/&EnterLocationDescription"
 msgid "Have the party enter this location."
@@ -720,82 +1076,6 @@ msgctxt "Marketing/&YoutubeTitle"
 msgid "Subscribe on YouTube"
 msgstr "YouTube 구독하기"
 
-msgctxt "Merchant/&CaerCyflen_Annie_Bagmordah_Store_ScavengersTitle"
-msgid "Scavengers' Headquarters"
-msgstr "스캐빈저 본부"
-
-msgctxt "Merchant/&CaerCyflen_Dalon_Lark_Store_EinarTitle"
-msgid "Temple of Einar Contact"
-msgstr "에이나르 신전 연락책"
-
-msgctxt "Merchant/&CaerCyflen_Gorim_Ironsoot_StoreTitle"
-msgid "General Store for Adventurers"
-msgstr "모험가를 위한 잡화점"
-
-msgctxt "Merchant/&CaerCyflen_Halman_Summer_Store_AntiquariansTitle"
-msgid "Antiquarians Contact"
-msgstr "고고학 관계인"
-
-msgctxt "Merchant/&CaerCyflen_Heddlon_Surespell_Store_ArcaneumTitle"
-msgid "Arcaneum Contact"
-msgstr "아케니움 관계인"
-
-msgctxt "Merchant/&CaerCyflen_Hugo_Requer_StoreTitle"
-msgid "Magic and Curiosities"
-msgstr "마법과 진귀한 물건"
-
-msgctxt "Merchant/&CaerCyflen_Joriel_Foxeye_Store_CircleOfDanantarTitle"
-msgid "Circle of Danantar Contact"
-msgstr "다난타르 서클 관계인"
-
-msgctxt "Merchant/&CaerCyflen_Karel_Martel_Store_BartenderTitle"
-msgid "Inn Services"
-msgstr "숙박 서비스"
-
-msgctxt "Merchant/&CaerCyflen_Maddy_Greenisle_Store_ToKTitle"
-msgid "Tower of Knowledge Contact"
-msgstr "지식의 탑 관계인"
-
-msgctxt "Merchant/&CaerCyflenWeaponsmith2Description"
-msgid "not use atm"
-msgstr "추가 예정"
-
-msgctxt "Merchant/&CaerCyflenWeaponsmith2Title"
-msgid "Generic Weaponsmith"
-msgstr "일반 무기제작자"
-
-msgctxt "Merchant/&CaerCyflenWeaponsmithDescription"
-msgid "not use atm"
-msgstr "추가 예정"
-
-msgctxt "Merchant/&CaerCyflenWeaponsmithTitle"
-msgid "Generic Weaponsmith"
-msgstr "일반 무기제작자"
-
-msgctxt "Merchant/&Telema_Merchant_Wanderer_TelemaTitle"
-msgid "Wandering Merchant"
-msgstr "방랑 상인"
-
-msgctxt "Merchant/&Coparann_Atima_StoreTitle"
-msgid "Local Cleric of Arun"
-msgstr "아룬의 지역 성직자"
-
-msgctxt "Merchant/&CC_PriestessPakri"
-msgid "Priestess of Pakri"
-msgstr "파크리의 여사제"
-
-msgctxt "Merchant/&CC_PriestMaraike"
-msgid "Priest of Maraike"
-msgstr "마라이케의 사제"
-
-msgctxt "Merchant/&CC_PriestArun"
-msgid "Rogar Ardentfire"
-msgstr "로가 아덴파이어"
-
-msgctxt "Merchant/&Circe_Title"
-msgid "Enchantment Manuals Merchant"
-msgstr "마법부여 안내서 상인"
-
 msgctxt "MerchantCategory/&AdventuringTitle"
 msgid "Adventuring Gear"
 msgstr "모험 장비"
@@ -823,6 +1103,10 @@ msgstr "마법 장치"
 msgctxt "MerchantCategory/&WeaponTitle"
 msgid "Weapons"
 msgstr "무기"
+
+msgctxt "MerchantCategory/&DocumentTitle"
+msgid "Documents"
+msgstr ""
 
 msgctxt "MonsterAttack/&LifeDrainTitle"
 msgid "Life Drain"
@@ -1331,6 +1615,34 @@ msgctxt "TutorialSubsection/&Exploration_MagicTitle"
 msgid "Magic"
 msgstr "마법"
 
+msgctxt "Voice/&Female1Title"
+msgid ""
+msgstr ""
+
+msgctxt "Voice/&Female2Title"
+msgid ""
+msgstr ""
+
+msgctxt "Voice/&Male1Title"
+msgid ""
+msgstr ""
+
+msgctxt "Voice/&Male2Title"
+msgid ""
+msgstr ""
+
+msgctxt "Voice/&Voice1Title"
+msgid "Voice 1"
+msgstr "목소리 1"
+
+msgctxt "Voice/&Voice2Title"
+msgid "Voice 2"
+msgstr "목소리 2"
+
+msgctxt "Voice/&Voice3Title"
+msgid "Voice 3"
+msgstr "목소리 3"
+
 msgctxt "Tutorial/&Factions_Title"
 msgid "Faction Relations"
 msgstr "세력 관계"
@@ -1436,18 +1748,6 @@ msgstr ""
 "회전하는 형형색색의 3D 퍼즐에 도전할 준비가 되었다면 정신의 지배자의 전리품을 좇아 왼쪽으로 가십시오. 중간에 마음이 바뀐다면 다시 "
 "로드해야합니다. 지금 당신을 위해 자동저장한 세이브 파일을 말이지요."
 
-msgctxt "Voice/&Voice1Title"
-msgid "Voice 1"
-msgstr "목소리 1"
-
-msgctxt "Voice/&Voice2Title"
-msgid "Voice 2"
-msgstr "목소리 2"
-
-msgctxt "Voice/&Voice3Title"
-msgid "Voice 3"
-msgstr "목소리 3"
-
 msgctxt "Condition/&ChildOfDarkness_Title"
 msgid "Child of Darkness"
 msgstr "어둠의 아이"
@@ -1508,300 +1808,10 @@ msgctxt "Document/&Lightfiller_02_Content"
 msgid "Communicate at the discretion of the warden"
 msgstr "감시인의 재량에 따라 의사소통합니다"
 
+msgctxt "ABOVE/& : SENT TO ALTAGRAM ON 21/04/2021"
+msgid ""
+msgstr ""
+
 msgctxt "Internal/&ChineseCaracters"
 msgid "Not used"
 msgstr "사용 안 함"
-
-msgctxt "Environment/&CatacombsTitle"
-msgid "Catacombs"
-msgstr "지하 묘지"
-
-msgctxt "Environment/&CatacombsDescription"
-msgid "An underground network of tombs & crypts"
-msgstr "지하에 거미줄처럼 펼쳐져있는 무덤과 지하실들"
-
-msgctxt "Environment/&NecropolisTitle"
-msgid "Necropolis"
-msgstr "공동묘지"
-
-msgctxt "Environment/&NecropolisDescription"
-msgid "An underground domain of the dead"
-msgstr "지하에 있는 죽은 자의 영역"
-
-msgctxt "Environment/&SewersTitle"
-msgid "Sewers"
-msgstr "하수도"
-
-msgctxt "Environment/&SewersDescription"
-msgid "A collection of sewer tunnels & drainage"
-msgstr "하수 터널 및 배수 장치 모음"
-
-msgctxt "Environment/&StrongholdTitle"
-msgid "Stronghold"
-msgstr "요새"
-
-msgctxt "Environment/&StrongholdDescription"
-msgid "The interior of a stone castle"
-msgstr "석조 성 내부"
-
-msgctxt "Environment/&ElvenPalaceTitle"
-msgid "Elven Palace"
-msgstr "엘프 궁전"
-
-msgctxt "Environment/&ElvenPalaceDescription"
-msgid "A luxurious vestige of the realm of Manacalon"
-msgstr "마나칼론 시대의 호화로운 유물"
-
-msgctxt "Environment/&LavaCavesTitle"
-msgid "Lava Caves"
-msgstr "용암 동굴"
-
-msgctxt "Environment/&LavaCavesDescription"
-msgid "An underground network of caves inhabited by tribal creatures"
-msgstr "지하에 거미줄처럼 펼쳐져있는 부족생물들의 서식 동굴"
-
-msgctxt "Environment/&WoodlandTitle"
-msgid "Woodland"
-msgstr "삼림지"
-
-msgctxt "Environment/&WoodlandDescription"
-msgid "Navigate through a series of clearings inside a temperate forest"
-msgstr "온대 숲 안에 위치한 여러 공터를 탐색하십시오"
-
-msgctxt "LootPack/&CR0_Loot_PackTitle"
-msgid "CR0 Loot"
-msgstr "CR0 전리품"
-
-msgctxt "LootPack/&CR1_Loot_PackTitle"
-msgid "CR1 Loot"
-msgstr "CR1 전리품"
-
-msgctxt "LootPack/&CR2_Loot_PackTitle"
-msgid "CR2 Loot"
-msgstr "CR2 전리품"
-
-msgctxt "LootPack/&CR3_Loot_PackTitle"
-msgid "CR3 Loot"
-msgstr "CR3 전리품"
-
-msgctxt "LootPack/&CR4_Loot_PackTitle"
-msgid "CR4 Loot"
-msgstr "CR4 전리품"
-
-msgctxt "LootPack/&CR5_Loot_PackTitle"
-msgid "CR5 Loot"
-msgstr "CR5 전리품"
-
-msgctxt "Music/&NoneTitle"
-msgid "<None>"
-msgstr "배경음악 없음"
-
-msgctxt "Music/&CaerLemTitle"
-msgid "Caer Lem"
-msgstr "Caer Lem"
-
-msgctxt "Music/&CaerCyflenTitle"
-msgid "Caer Cyflen"
-msgstr "Caer Cyflen"
-
-msgctxt "Music/&DarkCastleExteriorTitle"
-msgid "Dark Castle (Exterior)"
-msgstr "어둠의 성(외부)"
-
-msgctxt "Music/&CoparanTitle"
-msgid "Coparann"
-msgstr "Coparann"
-
-msgctxt "Music/&WizardsTowerTitle"
-msgid "Wizard's Tower"
-msgstr "Wizard's Tower"
-
-msgctxt "Music/&MastermindTitle"
-msgid "Mastermind"
-msgstr "Mastermind"
-
-msgctxt "Music/&CradleOfFireTitle"
-msgid "Cradle of Fire"
-msgstr "Cradle of Fire"
-
-msgctxt "Music/&AerElaiTitle"
-msgid "Aer Elai"
-msgstr "Aer Elai"
-
-msgctxt "Music/&TheNecromancerTitle"
-msgid "The Necromancer"
-msgstr "The Necromancer"
-
-msgctxt "Music/&RuinsOfTelemaTitle"
-msgid "Ruins of Telema"
-msgstr "Ruins of Telema"
-
-msgctxt "Music/&PrisonEscapeTitle"
-msgid "Prison Escape"
-msgstr "Prison Escape"
-
-msgctxt "Music/&TheLightBringersTitle"
-msgid "The Lightbringers"
-msgstr "The Lightbringers"
-
-msgctxt "Music/&ShadowsTitle"
-msgid "Shadows"
-msgstr "Shadows"
-
-msgctxt "EnvironmentEffect/&CollapsingRoofTitle"
-msgid "Collapsing Roof"
-msgstr "무너지는 지붕"
-
-msgctxt "EnvironmentEffect/&CollapsingRoofDescription"
-msgid "Several rocks and boulders fall to the ground"
-msgstr "많은 돌과 바위가 땅에 떨어집니다"
-
-msgctxt "EnvironmentEffect/&DisturbingRunesTitle"
-msgid "Disturbing Runes"
-msgstr "불안정한 룬"
-
-msgctxt "EnvironmentEffect/&DisturbingRunesDescription"
-msgid "Mind-affecting runes damage the soul and cause random behavior"
-msgstr "정신에 영향을 미치는 룬은 영혼을 손상시키고 무작위 행동을 유발합니다"
-
-msgctxt "EnvironmentEffect/&DeathGlyphTitle"
-msgid "Death Glyph"
-msgstr "죽음의 문양"
-
-msgctxt "EnvironmentEffect/&DeathGlyphDescription"
-msgid "Stepping on this causes necrotic damage and terror"
-msgstr "밟으면 사령 피해와 공포가 발생합니다"
-
-msgctxt "EnvironmentEffect/&FireBurstTitle"
-msgid "Fire Burst"
-msgstr "화염 폭발"
-
-msgctxt "EnvironmentEffect/&FireBurstDescription"
-msgid "An eruption causes fire damage"
-msgstr "폭발로 인해 화재 피해가 발생합니다"
-
-msgctxt "EnvironmentEffect/&GroundSpikesTitle"
-msgid "Ground Spikes"
-msgstr "쇠못 덫"
-
-msgctxt "EnvironmentEffect/&GroundSpikesDescription"
-msgid "Spikes rise from the ground, causing piercing damage"
-msgstr "쇠못이 지면에서 솟아올라 관통 피해를 입힙니다"
-
-msgctxt "EnvironmentEffect/&LightningDischargeTitle"
-msgid "Lightning Discharge"
-msgstr "번개 방출"
-
-msgctxt "EnvironmentEffect/&LightningDischargeDescription"
-msgid "Discharges electricity in the vicinity, causing electrical damage"
-msgstr "전기를 방출하여 주변에 전기 피해를 입힙니다"
-
-msgctxt "EnvironmentEffect/&PoisonCloudTitle"
-msgid "Poison Cloud"
-msgstr "독 구름"
-
-msgctxt "EnvironmentEffect/&PoisonCloudDescription"
-msgid "A noxious cloud inflicts poison damage and the poisoned condition"
-msgstr "유독 구름이 독 피해를 입히고 중독 상태를 유발합니다"
-
-msgctxt "TreasureTable/&GemsTitle"
-msgid "Gems"
-msgstr "보석"
-
-msgctxt "TreasureTable/&ConsumablesTitle"
-msgid "Consumables"
-msgstr "소모품"
-
-msgctxt "TreasureTable/&MagicWeapons_ArmorsTitle"
-msgid "Magic Weapons and Armor"
-msgstr "마법 무기와 갑옷"
-
-msgctxt "TreasureTable/&Wondrous_ItemsTitle"
-msgid "Wondrous Items"
-msgstr "굉장한 아이템"
-
-msgctxt "TreasureTable/&IngredientsTitle"
-msgid "Ingredients"
-msgstr "재료"
-
-msgctxt "TreasureTable/&Mundane_GearTitle"
-msgid "Mundane Gear"
-msgstr "평범한 장비"
-
-msgctxt "TreasureTable/&25_GP_Art_ItemsTitle"
-msgid "25 gp Art Items"
-msgstr "25gp 아트 아이템"
-
-msgctxt "TreasureTable/&50_GP_Art_ItemsTitle"
-msgid "50 gp Art Items"
-msgstr "50gp 아트 아이템"
-
-msgctxt "ContentPack/&BackerItemsTitle"
-msgid "Backer Item Pack"
-msgstr "후원자 아이템 꾸러미"
-
-msgctxt "ContentPack/&BackerItemsDescription"
-msgid ""
-"Unlocks the One Ring, Dwarven Bread, 6 League Boots, Spoon of Discord and "
-"Early Bird items. Can be found in a chest near the Monument next to the "
-"Council."
-msgstr ""
-"반지 하나, 드워프 빵, 6개의 리그 부츠, 디스코드 숟가락, 그리고 얼리버드 아이템을 잠금 해제합니다. 의회 옆 기념비 근처 궤짝에서 "
-"찾을 수 있습니다."
-
-msgctxt "ContentPack/&DigitalBackerContentTitle"
-msgid "Digital Edition Pack"
-msgstr "디지털 에디션 꾸러미"
-
-msgctxt "ContentPack/&DigitalBackerContentDescription"
-msgid ""
-"Unlocks the Everlasting Torch item and special VFX versions of Burning Hands "
-"and Sacred Flame. Can be found in a chest near the Monument next to the "
-"Council."
-msgstr ""
-"꺼지지 않는 횃불 아이템, 불타는 손과 신성한 불꽃의 특별 VFX 버전을 잠금 해제합니다. 의회 옆 기념비 근처 궤짝에서 찾을 수 "
-"있습니다."
-
-msgctxt "ContentPack/&LoadedDiceTitle"
-msgid "Loaded Dice Pack"
-msgstr "준비된 주사위 전리품"
-
-msgctxt "ContentPack/&LoadedDiceDescription"
-msgid ""
-"Unlock the Loaded Dice item. Can be found near the Monument in a chest next "
-"to the Council."
-msgstr "준비된 주사위 아이템을 잠금 해제합니다. 의회 옆 기념비 근처 궤짝에서 찾을 수 있습니다."
-
-msgctxt "ContentPack/&SorcererUpdateTitle"
-msgid "Sorcerer Update"
-msgstr "소서러 업데이트"
-
-msgctxt "ContentPack/&SorcererUpdateDescription"
-msgid ""
-"Unlocks the Sorcerer class and its 3 subclasses, iron man mode and new "
-"Dungeon Maker content"
-msgstr "소서러 클래스와 서브클래스 3개, 철인 모드와 새로운 던전 메이커 컨텐츠 추가"
-
-msgctxt "ContentPack/&SupporterPackTitle"
-msgid "Supporter Pack"
-msgstr "서포터 꾸러미"
-
-msgctxt "ContentPack/&SupporterPackDescription"
-msgid ""
-"Unlocks exclusive dice, a vast amount of high resolution Concept Art, and "
-"the eternal love of the Tactical Adventures team"
-msgstr "특별한 주사위, 방대한 양의 고해상도 컨셉 아트 및 택티컬 어드벤쳐 팀의 영원한 사랑을 잠금 해제합니다"
-
-msgctxt "ContentPack/&PrimalPowerTitle"
-msgid "Primal Power"
-msgstr "근원의 힘"
-
-msgctxt "ContentPack/&PrimalPowerDescription"
-msgid ""
-"Unlocks the Barbarian & Druid character classes, to play with any adventure "
-"of Solasta"
-msgstr "바바리안과 드루이드 클래스를 잠금해제하여 솔라스타의 어떤 모험이든 함께 하십시오"
-
-msgctxt "CharacterTemplate/&RosLastName"
-msgid "Ros"
-msgstr "로스"

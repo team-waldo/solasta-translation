@@ -1,8 +1,9 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-15 05:02+0900\n"
+"POT-Creation-Date: 2021-12-17 17:52+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,6 +11,170 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "Failure/&FailureFlagInvalidSessionName"
+msgid "Session name is empty or invalid."
+msgstr ""
+
+#, fuzzy
+#| msgid "The destination location has a Major Gate."
+msgctxt "Failure/&FailureTeleportNoPortalAtDestination"
+msgid "The destination location does not have a Major Gate."
+msgstr "목적지 지역에 주 관문이 있습니다."
+
+msgctxt "Failure/&FailureFlagFunctionNotWhileRaging"
+msgid "Not while raging"
+msgstr ""
+
+msgctxt "Failure/&FailureFlagMissingUserLocation"
+msgid "You must select a user location"
+msgstr "사용자 지역을 선택해야 합니다"
+
+msgctxt "Failure/&FailureLocationMustHaveEntrance"
+msgid "The location must have an entrance"
+msgstr "지역에 하나의 입구는 있어야 합니다"
+
+msgctxt "Failure/&FailureLocationMustContainOneRoom"
+msgid "The location must contain at least one room"
+msgstr "지역에 최소한 하나 이상의 방이 있어야 합니다"
+
+msgctxt "Failure/&FailureLocationInconsistentCharacterLevels"
+msgid "The min./max. character levels are inconsistent"
+msgstr "최소/최대 캐릭터 레벨이 일치하지 않습니다"
+
+msgctxt "Failure/&FailureGadgetNotInRoom"
+msgid "The gadget must be placed inside an existing room"
+msgstr "장치는 기존 방 안에 배치되어야 합니다"
+
+msgctxt "Failure/&FailureGadgetOutOfRoomBounds"
+msgid "The gadget is outside the bounds of this room"
+msgstr "장치가 이 방의 범위를 벗어났습니다"
+
+msgctxt "Failure/&FailureGadgetOverlapExisting"
+msgid "The gadget is overlapping another gadget or prop"
+msgstr "장치가 다른 장치 또는 물체와 겹칩니다"
+
+msgctxt "Failure/&FailurePropNotInRoom"
+msgid "The prop must be placed inside an existing room"
+msgstr "물체는 기존 방 안에 배치되어야 합니다"
+
+msgctxt "Failure/&FailurePropOutOfRoomBounds"
+msgid "The prop is outside the bounds of this room"
+msgstr "물체가 이 방의 범위를 벗어났습니다"
+
+msgctxt "Failure/&FailurePropOverlapExisting"
+msgid "The prop is overlapping another gadget or prop"
+msgstr "물체가 다른 장치 또는 물체와 겹칩니다"
+
+msgctxt "Failure/&FailureInvalidPosition"
+msgid "Invalid Position"
+msgstr "잘못된 위치입니다"
+
+msgctxt "Failure/&FailureGadgetInvalidParameters"
+msgid "Some of the parameters of this gadget are invalid"
+msgstr "이 장치의 일부 값이 잘못되었습니다"
+
+msgctxt "Failure/&FailureRoomOverlapExisting"
+msgid "The room is overlapping another room"
+msgstr "방이 다른 방과 겹칩니다"
+
+msgctxt "Failure/&FailureRoomOutOfBounds"
+msgid "The room is outside the bounds of the location"
+msgstr "방이 지역 범위 밖에 있습니다"
+
+msgctxt "Failure/&FailureFlagCopyrightInfringementTitle"
+msgid "The title of the location uses the copyrighted term \"{0}\""
+msgstr "지역의 이름은 저작권 용어 \"{0}\"을(를) 사용합니다"
+
+msgctxt "Failure/&FailureFlagCopyrightInfringementDescription"
+msgid "The description of the location uses the copyrighted term \"{0}\""
+msgstr "지역에 대한 설명은 저작권 용어 \"{0}\"을(를) 사용합니다"
+
+msgctxt "Failure/&FailureFlagCopyrightInfringementLoreGadget"
+msgid "The \"{0}\" gadget uses the copyrighted term \"{1}\""
+msgstr "\"{0}\" 장치는 저작권 용어 \"{1}\"을(를) 사용합니다"
+
+msgctxt "Failure/&FailureFlagMustMoveToRotate"
+msgid "This object is not square. You must move it to rotate it"
+msgstr "이 물체는 정사각형이 아닙니다. 회전하려면 움직여야 합니다"
+
+msgctxt "Failure/&FailureFlagMustSaveToPlaytest"
+msgid "You must save your location before you can playtest it"
+msgstr "플레이 테스트를 하기 전에 당신의 지역을 저장해야 합니다"
+
+msgctxt "Failure/&EditorCannotSelectSourceGadget"
+msgid "Cannot select the source gadget"
+msgstr "근본 장치를 선택할 수 없습니다"
+
+msgctxt "Failure/&FailureFlagOnlyInBattle"
+msgid "Only in battle"
+msgstr "전투 중에만 가능합니다"
+
+msgctxt "Failure/&FailureLocationMustHaveEntranceIndex0"
+msgid "The location must have one of its entrances with entrance index 0"
+msgstr "지역에는 입구 인덱스가 0인 입구가 하나 있어야 합니다"
+
+msgctxt "Failure/&FailureGadgetInvalidPlacement"
+msgid "The gadget placement is invalid"
+msgstr "장치 배치가 잘못되었습니다"
+
+msgctxt "Failure/&FailurePropInvalidPlacement"
+msgid "The prop placement is invalid"
+msgstr "물건 배치가 잘못되었습니다"
+
+msgctxt "Failure/&FailureEditorCannotSelectIncompatibleGadget"
+msgid "Cannot be activated"
+msgstr "활성화할 수 없습니다"
+
+msgctxt "Failure/&FailureEditorCannotSelectDuplicateGadget"
+msgid "Already activated by this gadget"
+msgstr "이미 이 장치에 의해 활성화되었습니다"
+
+msgctxt "Failure/&FailureCampaignMustContainOneLocation"
+msgid "The campaign must have at least one location"
+msgstr "캠페인에는 하나 이상의 지역이 있어야 합니다"
+
+msgctxt "Failure/&FailureCampaignMustHaveStartLocation"
+msgid "The campaign must have a start location"
+msgstr "캠페인에는 시작 지역이 있어야 합니다"
+
+msgctxt "Failure/&FailureCampaignInconsistentCharacterLevels"
+msgid "Inconsistent min/max character levels"
+msgstr "최소/최대 캐릭터 레벨이 일치하지 않습니다"
+
+#, fuzzy
+#| msgid "Invalid Title"
+msgctxt "Failure/&FailureCampaignEmptyTitle"
+msgid "Empty Title"
+msgstr "잘못된 제목입니다"
+
+#, fuzzy
+#| msgid "You must enter a valid title for your user campaign"
+msgctxt "Failure/&FailureCampaignDuplicateTitle"
+msgid "Duplicate Title"
+msgstr "유효한 제목을 입력해 주세요"
+
+#, fuzzy
+#| msgid "Duplicate Title"
+msgctxt "Failure/&FailureCampaignNothingModified"
+msgid "Nothing modified"
+msgstr "중복된 제목입니다"
+
+msgctxt "Failure/&FailureFlagCopyrightInfringementAuthor"
+msgid "The content Author uses the copyrighted term \"{0}\""
+msgstr ""
+
+msgctxt "Failure/&FailureFlagCopyrightInfringementAuthorVersion"
+msgid "The content Author version uses the copyrighted term \"{0}\""
+msgstr ""
+
+msgctxt "Failure/&FailureFlagCopyrightInfringementDocumentContent"
+msgid "The item document fragments contains the copyrighted term \"{0}\""
+msgstr ""
+
+msgctxt "Failure/&FailureEditorInvalidTargetGadgetTag"
+msgid "The gadget does not match the correct type: {0}"
+msgstr ""
 
 msgctxt "Failure/&FailureFlagAlreadyWieldingLightSource"
 msgid "You are already holding a light source."
@@ -50,6 +215,10 @@ msgstr "이 캐릭터는 주문책에 두루마리를 옮겨적을 수 없습니
 msgctxt "Failure/&FailureFlagCannotUseAnyPower"
 msgid "You cannot use any powers at this time."
 msgstr "지금은 어떤 능력도 사용할 수 없습니다."
+
+msgctxt "Failure/&FailureFlagCannotUseScroll"
+msgid ""
+msgstr ""
 
 msgctxt "Failure/&FailureFlagConditionNotMatching"
 msgid "The target does not have the right condition."
@@ -97,8 +266,10 @@ msgctxt "Failure/&FailureFlagHardLockedDoor"
 msgid "Door cannot be opened."
 msgstr "문을 열 수 없습니다."
 
+#, fuzzy
+#| msgid "There is no visible lock. This door cannot be opened from here."
 msgctxt "Failure/&FailureFlagHardLockedDoorNoLock"
-msgid "There is no visible lock. This door cannot be opened from here."
+msgid "This door has no visible lock. "
 msgstr "자물쇠가 보이지 않습니다. 이 문은 여기에서 열 수 없습니다."
 
 msgctxt "Failure/&FailureFlagHardLockedDoorTutorialOrcHideout"
@@ -344,10 +515,6 @@ msgctxt "Failure/&FailureTeleportNoPortalAtOrigin"
 msgid "The current party location does not have a Major Gate."
 msgstr "현재 파티가 있는 지역에는 주 관문이 없습니다."
 
-msgctxt "Failure/&FailureTeleportNoPortalAtDestination"
-msgid "The destination location has a Major Gate."
-msgstr "목적지 지역에 주 관문이 있습니다."
-
 msgctxt "Failure/&FailureFlagDeityMarkAreadyPresent"
 msgid "The mark of this character's deity is only present on this item"
 msgstr "이 캐릭터의 신의 표식은 이 아이템에만 있습니다"
@@ -377,134 +544,6 @@ msgid ""
 "The crafted item is too heavy to fit into the crafting character's inventory"
 msgstr "제작된 아이템이 너무 무거워서 제작 캐릭터의 인벤토리에 들어갈 수 없습니다"
 
-msgctxt "Failure/&FailureFlagMissingUserLocation"
-msgid "You must select a user location"
-msgstr "사용자 지역을 선택해야 합니다"
-
-msgctxt "Failure/&FailureLocationMustHaveEntrance"
-msgid "The location must have an entrance"
-msgstr "지역에 하나의 입구는 있어야 합니다"
-
-msgctxt "Failure/&FailureLocationMustContainOneRoom"
-msgid "The location must contain at least one room"
-msgstr "지역에 최소한 하나 이상의 방이 있어야 합니다"
-
-msgctxt "Failure/&FailureLocationInconsistentCharacterLevels"
-msgid "The min./max. character levels are inconsistent"
-msgstr "최소/최대 캐릭터 레벨이 일치하지 않습니다"
-
-msgctxt "Failure/&FailureGadgetNotInRoom"
-msgid "The gadget must be placed inside an existing room"
-msgstr "장치는 기존 방 안에 배치되어야 합니다"
-
-msgctxt "Failure/&FailureGadgetOutOfRoomBounds"
-msgid "The gadget is outside the bounds of this room"
-msgstr "장치가 이 방의 범위를 벗어났습니다"
-
-msgctxt "Failure/&FailureGadgetOverlapExisting"
-msgid "The gadget is overlapping another gadget or prop"
-msgstr "장치가 다른 장치 또는 물체와 겹칩니다"
-
-msgctxt "Failure/&FailurePropNotInRoom"
-msgid "The prop must be placed inside an existing room"
-msgstr "물체는 기존 방 안에 배치되어야 합니다"
-
-msgctxt "Failure/&FailurePropOutOfRoomBounds"
-msgid "The prop is outside the bounds of this room"
-msgstr "물체가 이 방의 범위를 벗어났습니다"
-
-msgctxt "Failure/&FailurePropOverlapExisting"
-msgid "The prop is overlapping another gadget or prop"
-msgstr "물체가 다른 장치 또는 물체와 겹칩니다"
-
-msgctxt "Failure/&FailureInvalidPosition"
-msgid "Invalid Position"
-msgstr "잘못된 위치입니다"
-
-msgctxt "Failure/&FailureGadgetInvalidParameters"
-msgid "Some of the parameters of this gadget are invalid"
-msgstr "이 장치의 일부 값이 잘못되었습니다"
-
-msgctxt "Failure/&FailureRoomOverlapExisting"
-msgid "The room is overlapping another room"
-msgstr "방이 다른 방과 겹칩니다"
-
-msgctxt "Failure/&FailureRoomOutOfBounds"
-msgid "The room is outside the bounds of the location"
-msgstr "방이 지역 범위 밖에 있습니다"
-
-msgctxt "Failure/&FailureFlagCopyrightInfringementTitle"
-msgid "The title of the location uses the copyrighted term \"{0}\""
-msgstr "지역의 이름은 저작권 용어 \"{0}\"을(를) 사용합니다"
-
-msgctxt "Failure/&FailureFlagCopyrightInfringementDescription"
-msgid "The description of the location uses the copyrighted term \"{0}\""
-msgstr "지역에 대한 설명은 저작권 용어 \"{0}\"을(를) 사용합니다"
-
-msgctxt "Failure/&FailureFlagCopyrightInfringementLoreGadget"
-msgid "The \"{0}\" gadget uses the copyrighted term \"{1}\""
-msgstr "\"{0}\" 장치는 저작권 용어 \"{1}\"을(를) 사용합니다"
-
-msgctxt "Failure/&FailureFlagMustMoveToRotate"
-msgid "This object is not square. You must move it to rotate it"
-msgstr "이 물체는 정사각형이 아닙니다. 회전하려면 움직여야 합니다"
-
-msgctxt "Failure/&FailureFlagMustSaveToPlaytest"
-msgid "You must save your location before you can playtest it"
-msgstr "플레이 테스트를 하기 전에 당신의 지역을 저장해야 합니다"
-
-msgctxt "Failure/&EditorCannotSelectSourceGadget"
-msgid "Cannot select the source gadget"
-msgstr "근본 장치를 선택할 수 없습니다"
-
-msgctxt "Failure/&FailureFlagOnlyInBattle"
-msgid "Only in battle"
-msgstr "전투 중에만 가능합니다"
-
-msgctxt "Failure/&FailureLocationMustHaveEntranceIndex0"
-msgid "The location must have one of its entrances with entrance index 0"
-msgstr "지역에는 입구 인덱스가 0인 입구가 하나 있어야 합니다"
-
-msgctxt "Failure/&FailureGadgetInvalidPlacement"
-msgid "The gadget placement is invalid"
-msgstr "장치 배치가 잘못되었습니다"
-
-msgctxt "Failure/&FailurePropInvalidPlacement"
-msgid "The prop placement is invalid"
-msgstr "물건 배치가 잘못되었습니다"
-
-msgctxt "Failure/&FailureEditorCannotSelectIncompatibleGadget"
-msgid "Cannot be activated"
-msgstr "활성화할 수 없습니다"
-
-msgctxt "Failure/&FailureEditorCannotSelectDuplicateGadget"
-msgid "Already activated by this gadget"
-msgstr "이미 이 장치에 의해 활성화되었습니다"
-
-msgctxt "Failure/&FailureCampaignMustContainOneLocation"
-msgid "The campaign must have at least one location"
-msgstr "캠페인에는 하나 이상의 지역이 있어야 합니다"
-
-msgctxt "Failure/&FailureCampaignMustHaveStartLocation"
-msgid "The campaign must have a start location"
-msgstr "캠페인에는 시작 지역이 있어야 합니다"
-
-msgctxt "Failure/&FailureCampaignInconsistentCharacterLevels"
-msgid "Inconsistent min/max character levels"
-msgstr "최소/최대 캐릭터 레벨이 일치하지 않습니다"
-
-msgctxt "Failure/&FailureCampaignEmptyTitle"
-msgid "Invalid Title"
-msgstr "잘못된 제목입니다"
-
-msgctxt "Failure/&FailureCampaignDuplicateTitle"
-msgid "You must enter a valid title for your user campaign"
-msgstr "유효한 제목을 입력해 주세요"
-
-msgctxt "Failure/&FailureCampaignNothingModified"
-msgid "Duplicate Title"
-msgstr "중복된 제목입니다"
-
 msgctxt "Failure/&FailureFlagInvalidSingleTarget"
 msgid "The spell must have a single target"
 msgstr "이 주문은 하나의 대상이 있어야 합니다"
@@ -524,3 +563,31 @@ msgstr "주문 범위는 \"자체\"일 수 없습니다"
 msgctxt "Failure/&FailureFlagUnavailableBonusAction"
 msgid "Unavailable bonus action"
 msgstr "사용할 수 없는 추가 행동입니다"
+
+msgctxt "Failure/&FailureFlagTargetMustBeMetalArmored"
+msgid "The target must be wear a metal armor"
+msgstr ""
+
+msgctxt "Failure/&FailureFlagHardLockedDoorNoKey"
+msgid "You need a specific key to open this door!"
+msgstr ""
+
+msgctxt "Failure/&FailureInsufficientCapital"
+msgid "You total capital is insufficient to recover a slot of this level."
+msgstr ""
+
+msgctxt "Failure/&FailureSpentCapital"
+msgid "All of your recovery capital has been spent."
+msgstr ""
+
+msgctxt "Failure/&FailureSlotsOfLevelFull"
+msgid "All the spell slots of this level are fully available."
+msgstr ""
+
+msgctxt "Failure/&FailureFlagHardLockedDoorNeedKey"
+msgid "This lock requires a special key."
+msgstr ""
+
+msgctxt "Failure/&FailureFlagHardLockedDoorNotFromHere"
+msgid "This door cannot be opened from here."
+msgstr ""

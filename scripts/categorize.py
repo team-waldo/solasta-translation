@@ -1,25 +1,24 @@
 import csv
 import collections
+import json
 import os
 
 from typing import Dict
 
 CATEGORY_NAME_DEFAULT = "Default"
 
-input_filename = "locale/en.csv"
+input_filename = "locale/en.json"
 output_directory = "template"
 
 
 category_dict: Dict[str, list] = collections.defaultdict(list)
 
 with open(input_filename, "r", encoding="utf-8") as f:
-    r = csv.reader(f)
-    header = next(r)
-    data = list(r)
+    j = json.load(f)
 
-for row in data:
-    parts = row[0].split('/&', maxsplit=1)
-    key = row[0]
+for key, src in j.items():
+    parts = key.split('/&', maxsplit=1)
+
     if len(parts) == 2:
         category = parts[0]
     else:
@@ -28,8 +27,7 @@ for row in data:
     if category == "Credits":
         continue
     
-    source = row[1]
-    category_dict[category].append((key, source))
+    category_dict[category].append((key, src))
 
 counts = [(k, len(v)) for k, v in category_dict.items()]
 counts.sort(key=lambda x: x[1], reverse=True)

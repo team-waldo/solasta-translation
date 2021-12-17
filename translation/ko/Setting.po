@@ -1,18 +1,20 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-12-16 13:30+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/setting/ko/"
-">\n"
-"Language: ko\n"
+"POT-Creation-Date: 2021-12-17 17:52+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "Setting/&VocalSpellIncantationTitle"
+msgid "Enable vocalization for verbal spell components."
+msgstr ""
 
 msgctxt "Setting/&ApplyDescription"
 msgid "Apply the changes you have selected."
@@ -257,6 +259,14 @@ msgstr "치유 효과에 사용되는 주사위 스타일."
 msgctxt "Setting/&HealingStyleTitle"
 msgid "Healing Style"
 msgstr "치유 특화"
+
+msgctxt "Setting/&MainD20StyleDescription"
+msgid ""
+msgstr ""
+
+msgctxt "Setting/&MainD20StyleTitle"
+msgid ""
+msgstr ""
 
 msgctxt "Setting/&MainTitle"
 msgid "Settings"
@@ -508,6 +518,14 @@ msgstr "내성 굴림 주사위를 표시하거나 숨깁니다."
 msgctxt "Setting/&RollSavingThrowDieTitle"
 msgid "Show Saving Throw Die"
 msgstr "내성 굴림 주사위 표시"
+
+msgctxt "Setting/&SecondaryD20StyleDescription"
+msgid ""
+msgstr ""
+
+msgctxt "Setting/&SecondaryD20StyleTitle"
+msgid ""
+msgstr ""
 
 msgctxt "Setting/&ShowHelmetInPortraitDescription"
 msgid "Check this to show/hide helmets in character portraits."
@@ -1300,6 +1318,14 @@ msgstr "비어 있는 손이 없어도 동작 구성 요소가 있는 주문을 
 msgctxt "Setting/&SomaticComponentDisabledTitle"
 msgid "Disabled"
 msgstr "해제"
+
+msgctxt "Setting/&SomaticComponentBasicDescription"
+msgid ""
+msgstr ""
+
+msgctxt "Setting/&SomaticComponentBasicTitle"
+msgid ""
+msgstr ""
 
 msgctxt "Setting/&SomaticComponentFullTitle"
 msgid "Full"

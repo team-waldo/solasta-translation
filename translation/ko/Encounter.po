@@ -1,18 +1,112 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-10-26 11:43+0000\n"
-"Last-Translator: BaMoT <tree0074@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/encounter/"
-"ko/>\n"
-"Language: ko\n"
+"POT-Creation-Date: 2021-12-17 17:52+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "Encounter/&CR3_Woodland_Creatures_Title"
+msgid "Woodland Creatures"
+msgstr ""
+
+msgctxt "Encounter/&CR3_Woodland_Creatures_Description"
+msgid "Wild animals, driven by hunger or territorial instinct."
+msgstr ""
+
+msgctxt "Encounter/&CR3_GiantCrows_Title"
+msgid "Giant Crows"
+msgstr ""
+
+msgctxt "Encounter/&CR3_GiantCrows_Description"
+msgid "These huge carrion birds are too hungry to wait for you to die."
+msgstr ""
+
+msgctxt "Encounter/&CR3_AgressiveGorillas_Title"
+msgid "Agressive Gorillas"
+msgstr ""
+
+msgctxt "Encounter/&CR3_AgressiveGorillas_Description"
+msgid "These highly territorial animals are not uncommon in the valley."
+msgstr ""
+
+msgctxt "Encounter/&CR4_BerserkerAndBeasts_Title"
+msgid "Berserk Beastmaster"
+msgstr ""
+
+msgctxt "Encounter/&CR4_BerserkerAndBeasts_Description"
+msgid "A crazed beastmaster and his pets are on the hunt!"
+msgstr ""
+
+msgctxt "Encounter/&CR4_GiantBettles_Title"
+msgid "Giant Beetles"
+msgstr ""
+
+msgctxt "Encounter/&CR4_GiantBettles_Description"
+msgid "Oversized insects - and hungry ones, at that."
+msgstr ""
+
+msgctxt "Encounter/&CR4_MutantHorde_Title"
+msgid "Mutant Horde"
+msgstr ""
+
+msgctxt "Encounter/&CR4_MutantHorde_Description"
+msgid "A group of local beasts including some strange, unnatural individuals."
+msgstr ""
+
+msgctxt "Encounter/&CR4_TigerDrakes_Title"
+msgid "Tiger Drakes"
+msgstr ""
+
+msgctxt "Encounter/&CR4_TigerDrakes_Description"
+msgid "A group of flying pests."
+msgstr ""
+
+msgctxt "Encounter/&CR4_Werewolf_Title"
+msgid "Werewolf and Pet"
+msgstr ""
+
+msgctxt "Encounter/&CR4_Werewolf_Description"
+msgid "A werewolf in human form and his pet."
+msgstr ""
+
+msgctxt "Encounter/&CR4_MummyAndPawnsTitle"
+msgid "Mummy and Pawns"
+msgstr ""
+
+msgctxt "Encounter/&CR4_MummyAndPawnsDescription"
+msgid "A wandering mummy with her followers."
+msgstr ""
+
+msgctxt "Encounter/&CR5_OrcsBear_Title"
+msgid "Orcs and Bear"
+msgstr ""
+
+msgctxt "Encounter/&CR5_OrcsBear_Description"
+msgid "A couple of orc berserkers and their totem animal."
+msgstr ""
+
+msgctxt "Encounter/&CR5_Mummies_Title"
+msgid "Mummies"
+msgstr ""
+
+msgctxt "Encounter/&CR5_Mummies_Description"
+msgid "A couple of wandering mummies."
+msgstr ""
+
+msgctxt "Encounter/&CR5_UndeadHorde_Title"
+msgid "Undead Horde"
+msgstr ""
+
+msgctxt "Encounter/&CR5_UndeadHorde_Description"
+msgid "A motley group of undead looking for victims."
+msgstr ""
 
 msgctxt "Encounter/&Abjuration_Caravan_EncounterDescription"
 msgid "You came across a caravan, a rare thing in these desolate lands."

@@ -1,8 +1,9 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-15 05:02+0900\n"
+"POT-Creation-Date: 2021-12-17 17:52+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -10,6 +11,243 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "Message/&NetworkWaitingForPlayerTitle"
+msgid "Waiting for players"
+msgstr ""
+
+msgctxt "Message/&NetworkPlayerLeftRoomFormat"
+msgid "{0} left the room."
+msgstr ""
+
+msgctxt "Message/&NetworkPlayerJoinedRoomFormat"
+msgid "{0} joined the room."
+msgstr ""
+
+msgctxt "Message/&NetworkWaitingForHostTitle"
+msgid "Waiting for host"
+msgstr ""
+
+msgctxt "Message/&NetworkFeatureUnavailableShortTitle"
+msgid "Unavailable in multiplayer"
+msgstr ""
+
+msgctxt "Message/&NetworkFeatureTemporarilyUnavailableTitle"
+msgid "Feature temporarily unavailable in multiplayer"
+msgstr ""
+
+msgctxt "Message/&NetworkWaitingForPlayerTitleFormat"
+msgid "Waiting for {0}"
+msgstr ""
+
+msgctxt "Message/&NetworkRoomLeftTitle"
+msgid "Room Left"
+msgstr ""
+
+msgctxt "Message/&NetworkRoomLeftDescription"
+msgid ""
+"Connection to room lost. Please check your internet connexion before trying "
+"again."
+msgstr ""
+
+msgctxt "Message/&CannotQuickLoadInMultiplayer"
+msgid "Cannot Quick Load in Multiplayer"
+msgstr ""
+
+msgctxt "Message/&NetworkKickPlayerTitle"
+msgid "Kick player from the room"
+msgstr ""
+
+msgctxt "Message/&NetworkKickPlayerDescription"
+msgid "Do you really want to kick the player?"
+msgstr ""
+
+msgctxt "Message/&UserLocationDeleteConfirmationTitle"
+msgid "Location Deletion"
+msgstr "지역 삭제"
+
+msgctxt "Message/&UserLocationDeleteConfirmationDescription"
+msgid "Are you sure you want to delete this user location?"
+msgstr "이 사용자 지역을 삭제하시겠습니까?"
+
+msgctxt "Message/&UserLocationOverwriteConfirmationTitle"
+msgid "Location Overwrite"
+msgstr "지역 덮어쓰기"
+
+msgctxt "Message/&UserLocationOverwriteConfirmationDescription"
+msgid ""
+"Saving this location with this name will overwrite another location with the "
+"same name. Are you sure you want to proceed?"
+msgstr "이 지역을 이 이름으로 저장하면 같은 이름의 다른 지역을 덮어씁니다. 계속하시겠습니까?"
+
+msgctxt "Message/&EditorLeaveConfirmationTitle"
+msgid "Leaving Editor"
+msgstr "에디터 나가기"
+
+msgctxt "Message/&EditorLeaveConfirmationDescription"
+msgid "Are you sure you want to leave without saving your location?"
+msgstr "지역을 저장하지 않고 나가시겠습니까?"
+
+msgctxt "Message/&HiddenDoorTitle"
+msgid "Hidden Door!"
+msgstr "숨겨진 문!"
+
+msgctxt "Message/&UnknownUserLocationDescription"
+msgid "Unknown user location: {0}"
+msgstr "알 수 없는 사용자 지역 : {0}"
+
+msgctxt "Message/&InvalidUserLocationEntranceIndexDescription"
+msgid "The target entrance index is invalid: {0}"
+msgstr "목표 입구 번호가 올바르지 않습니다 : {0}"
+
+msgctxt "Message/&UserLocationSizeReductionTitle"
+msgid "Size Reduction"
+msgstr "크기 축소"
+
+msgctxt "Message/&UserLocationSizeReductionDescription"
+msgid ""
+"Reducing the size of this location may destroy some rooms and props, "
+"starting from the top right. Are you sure you want to proceed?"
+msgstr "이 맵의 크기를 줄이면 우측 상단에 있는 일부 방과 물체가 삭제될 수 있습니다. 계속하시겠습니까?"
+
+msgctxt "Message/&UserLocationOutdatedTitle"
+msgid "Outdated Location"
+msgstr "오래된 맵"
+
+msgctxt "Message/&UserLocationOutdatedDescription"
+msgid ""
+"One or more locations has outdated content (room, gadget, prop) which has "
+"been removed"
+msgstr "일부 지역에 기한이 지나 삭제된 컨텐츠(방, 장치, 물체)가 있습니다"
+
+msgctxt "Message/&UserLocationEnvironmentChangeTitle"
+msgid "Environment Change"
+msgstr "환경 변경"
+
+msgctxt "Message/&UserLocationEnvironmentChangeDescription"
+msgid ""
+"Changing the location of this environment will remove some incompatible "
+"rooms, props, and/or gadgets. Are you sure you want to proceed?"
+msgstr "이 환경의 위치를 변경하면 일부 호환되지 않는 방, 물체 또는 장치가 제거됩니다. 계속하시겠습니까?"
+
+msgctxt "Message/&UserLocationEmptyTitleTitle"
+msgid "Invalid Title"
+msgstr "잘못된 제목"
+
+msgctxt "Message/&UserLocationEmptyTitleDescription"
+msgid "You must enter a valid title for your user location"
+msgstr "사용자 지역에 대한 유효한 제목을 입력해야 합니다"
+
+msgctxt "Message/&EditorLocationSwitchConfirmationTitle"
+msgid "User Location Switch"
+msgstr "사용자 지역 전환"
+
+msgctxt "Message/&EditorLocationSwitchConfirmationDescription"
+msgid ""
+"The location \"{0}\" has unsaved changes. Are you sure you want to open the "
+"location \"{1}\" and lose these changes?"
+msgstr ""
+"\"{0}\" 지역에 저장되지 않은 변경 사항이 있습니다. \"{1}\" 지역을 열고 저장되지 않은 변경 사항을 삭제하시겠습니까?"
+
+msgctxt "Message/&UserLocationDuplicateTitleTitle"
+msgid "Duplicate Title"
+msgstr "중복된 제목"
+
+msgctxt "Message/&UserLocationDuplicateTitleDescription"
+msgid "A location bearing the same name already exists"
+msgstr "같은 이름의 지역이 이미 존재합니다"
+
+msgctxt "Message/&UserCampaignDeleteConfirmationTitle"
+msgid "Campaign Deletion"
+msgstr "캠페인 삭제"
+
+msgctxt "Message/&UserCampaignDeleteConfirmationDescription"
+msgid "Are you sure you want to delete this user campaign?"
+msgstr "이 사용자 캠페인을 삭제하시겠습니까?"
+
+msgctxt "Message/&UserCampaignOverwriteConfirmationTitle"
+msgid "Campaign Overwrite"
+msgstr "캠페인 덮어쓰기"
+
+msgctxt "Message/&UserCampaignOverwriteConfirmationDescription"
+msgid ""
+"Saving this campaign with this name will overwrite another campaign with the "
+"same name. Are you sure you want to proceed?"
+msgstr "이 이름으로 저장하면 같은 이름의 다른 캠페인을 덮어씁니다. 계속하시겠습니까?"
+
+msgctxt "Message/&UserCampaignLosingChangesTitle"
+msgid "Losing Changes"
+msgstr "변경 사항 손실"
+
+msgctxt "Message/&UserCampaignLosingChangesDescription"
+msgid ""
+"You are about to lose the changes to this campaign. Are you sure you want to "
+"proceed?"
+msgstr "이 캠페인의 변경 사항을 잃게 됩니다. 계속하시겠습니까?"
+
+msgctxt "Message/&UnknownUserCampaignDescription"
+msgid "Unknown user campaign: {0}"
+msgstr "알 수 없는 사용자 캠페인 : {0}"
+
+msgctxt "Message/&UserItemDeleteConfirmationTitle"
+msgid "Custom Item Deletion"
+msgstr ""
+
+msgctxt "Message/&UserItemDeleteConfirmationDescription"
+msgid "Are you sure you want to delete this custom item?"
+msgstr ""
+
+msgctxt "Message/&UserMonsterDeleteConfirmationTitle"
+msgid "Custom Monster Deletion"
+msgstr ""
+
+msgctxt "Message/&UserMonsterDeleteConfirmationDescription"
+msgid "Are you sure you want to delete this custom monster?"
+msgstr ""
+
+msgctxt "Message/&UserNpcDeleteConfirmationTitle"
+msgid "Custom NPC Deletion"
+msgstr ""
+
+msgctxt "Message/&UserNpcDeleteConfirmationDescription"
+msgid "Are you sure you want to delete this custom NPC?"
+msgstr ""
+
+msgctxt "Message/&UserMerchantInventoryDeleteConfirmationTitle"
+msgid "Custom Inventory Deletion"
+msgstr ""
+
+msgctxt "Message/&UserMerchantInventoryDeleteConfirmationDescription"
+msgid "Are you sure you want to delete this custom Merchant Inventory?"
+msgstr ""
+
+msgctxt "Message/&UserContentStockUnitDeleteConfirmationTitle"
+msgid "Stock Unity Deletion"
+msgstr ""
+
+msgctxt "Message/&UserContentStockUnitDeleteConfirmationDescription"
+msgid ""
+"Are you sure you want to delete this stock unit from the Merchant Inventory?"
+msgstr ""
+
+msgctxt "Message/&OutdatedLocationLoadingTitle"
+msgid "Content Version Mismatch"
+msgstr ""
+
+msgctxt "Message/&OutdatedLocationLoadingDescriptionFormat"
+msgid ""
+"The save was made on content version {0} while the content version on disk "
+"is {1}. Which content would you like to load?\n"
+"Note that loading from disk can prevent the save from loading."
+msgstr ""
+
+msgctxt "Message/&OutdatedLocationLoadSaveDescription"
+msgid "From Save"
+msgstr ""
+
+msgctxt "Message/&OutdatedLocationLoadDiskDescription"
+msgid "From Disk"
+msgstr ""
 
 msgctxt "Message/&AbortCreationDescription"
 msgid "Do you want to cancel character creation?"
@@ -26,6 +264,10 @@ msgstr "캐릭터 레벨 업 과정을 취소하시겠습니까?"
 msgctxt "Message/&AbortLevelUpTitle"
 msgid "Canceling Character Level Up"
 msgstr "캐릭터 레벨 업 취소"
+
+msgctxt "Message/&AmountGainedFormat"
+msgid ""
+msgstr ""
 
 msgctxt "Message/&AttunementLostDescription"
 msgid "The item \"{0}\" is no longer attuned."
@@ -423,133 +665,6 @@ msgid ""
 "again later.]"
 msgstr "클라우드 서버에서 콘텐츠를 삭제하는 중에 오류가 발생했습니다. [나중에 다시 시도 해주십시오.]"
 
-msgctxt "Message/&UserLocationDeleteConfirmationTitle"
-msgid "Location Deletion"
-msgstr "지역 삭제"
-
-msgctxt "Message/&UserLocationDeleteConfirmationDescription"
-msgid "Are you sure you want to delete this user location?"
-msgstr "이 사용자 지역을 삭제하시겠습니까?"
-
-msgctxt "Message/&UserLocationOverwriteConfirmationTitle"
-msgid "Location Overwrite"
-msgstr "지역 덮어쓰기"
-
-msgctxt "Message/&UserLocationOverwriteConfirmationDescription"
-msgid ""
-"Saving this location with this name will overwrite another location with the "
-"same name. Are you sure you want to proceed?"
-msgstr "이 지역을 이 이름으로 저장하면 같은 이름의 다른 지역을 덮어씁니다. 계속하시겠습니까?"
-
-msgctxt "Message/&EditorLeaveConfirmationTitle"
-msgid "Leaving Editor"
-msgstr "에디터 나가기"
-
-msgctxt "Message/&EditorLeaveConfirmationDescription"
-msgid "Are you sure you want to leave without saving your location?"
-msgstr "지역을 저장하지 않고 나가시겠습니까?"
-
-msgctxt "Message/&HiddenDoorTitle"
-msgid "Hidden Door!"
-msgstr "숨겨진 문!"
-
-msgctxt "Message/&UnknownUserLocationDescription"
-msgid "Unknown user location: {0}"
-msgstr "알 수 없는 사용자 지역 : {0}"
-
-msgctxt "Message/&InvalidUserLocationEntranceIndexDescription"
-msgid "The target entrance index is invalid: {0}"
-msgstr "목표 입구 번호가 올바르지 않습니다 : {0}"
-
-msgctxt "Message/&UserLocationSizeReductionTitle"
-msgid "Size Reduction"
-msgstr "크기 축소"
-
-msgctxt "Message/&UserLocationSizeReductionDescription"
-msgid ""
-"Reducing the size of this location may destroy some rooms and props, "
-"starting from the top right. Are you sure you want to proceed?"
-msgstr "이 맵의 크기를 줄이면 우측 상단에 있는 일부 방과 물체가 삭제될 수 있습니다. 계속하시겠습니까?"
-
-msgctxt "Message/&UserLocationOutdatedTitle"
-msgid "Outdated Location"
-msgstr "오래된 맵"
-
-msgctxt "Message/&UserLocationOutdatedDescription"
-msgid ""
-"One or more locations has outdated content (room, gadget, prop) which has "
-"been removed"
-msgstr "일부 지역에 기한이 지나 삭제된 컨텐츠(방, 장치, 물체)가 있습니다"
-
-msgctxt "Message/&UserLocationEnvironmentChangeTitle"
-msgid "Environment Change"
-msgstr "환경 변경"
-
-msgctxt "Message/&UserLocationEnvironmentChangeDescription"
-msgid ""
-"Changing the location of this environment will remove some incompatible "
-"rooms, props, and/or gadgets. Are you sure you want to proceed?"
-msgstr "이 환경의 위치를 변경하면 일부 호환되지 않는 방, 물체 또는 장치가 제거됩니다. 계속하시겠습니까?"
-
-msgctxt "Message/&UserLocationEmptyTitleTitle"
-msgid "Invalid Title"
-msgstr "잘못된 제목"
-
-msgctxt "Message/&UserLocationEmptyTitleDescription"
-msgid "You must enter a valid title for your user location"
-msgstr "사용자 지역에 대한 유효한 제목을 입력해야 합니다"
-
-msgctxt "Message/&EditorLocationSwitchConfirmationTitle"
-msgid "User Location Switch"
-msgstr "사용자 지역 전환"
-
-msgctxt "Message/&EditorLocationSwitchConfirmationDescription"
-msgid ""
-"The location \"{0}\" has unsaved changes. Are you sure you want to open the "
-"location \"{1}\" and lose these changes?"
-msgstr ""
-"\"{0}\" 지역에 저장되지 않은 변경 사항이 있습니다. \"{1}\" 지역을 열고 저장되지 않은 변경 사항을 삭제하시겠습니까?"
-
-msgctxt "Message/&UserLocationDuplicateTitleTitle"
-msgid "Duplicate Title"
-msgstr "중복된 제목"
-
-msgctxt "Message/&UserLocationDuplicateTitleDescription"
-msgid "A location bearing the same name already exists"
-msgstr "같은 이름의 지역이 이미 존재합니다"
-
-msgctxt "Message/&UserCampaignDeleteConfirmationTitle"
-msgid "Campaign Deletion"
-msgstr "캠페인 삭제"
-
-msgctxt "Message/&UserCampaignDeleteConfirmationDescription"
-msgid "Are you sure you want to delete this user campaign?"
-msgstr "이 사용자 캠페인을 삭제하시겠습니까?"
-
-msgctxt "Message/&UserCampaignOverwriteConfirmationTitle"
-msgid "Campaign Overwrite"
-msgstr "캠페인 덮어쓰기"
-
-msgctxt "Message/&UserCampaignOverwriteConfirmationDescription"
-msgid ""
-"Saving this campaign with this name will overwrite another campaign with the "
-"same name. Are you sure you want to proceed?"
-msgstr "이 이름으로 저장하면 같은 이름의 다른 캠페인을 덮어씁니다. 계속하시겠습니까?"
-
-msgctxt "Message/&UserCampaignLosingChangesTitle"
-msgid "Losing Changes"
-msgstr "변경 사항 손실"
-
-msgctxt "Message/&UserCampaignLosingChangesDescription"
-msgid ""
-"You are about to lose the changes to this campaign. Are you sure you want to "
-"proceed?"
-msgstr "이 캠페인의 변경 사항을 잃게 됩니다. 계속하시겠습니까?"
-
-msgctxt "Message/&UnknownUserCampaignDescription"
-msgid "Unknown user campaign: {0}"
-msgstr "알 수 없는 사용자 캠페인 : {0}"
-
 msgctxt "Message/&QuitWithoutSavingIronManTitle"
 msgid "Impossible to save"
 msgstr "저장 불가"
@@ -559,3 +674,40 @@ msgid ""
 "The game cannot be saved at the moment and some progress may be lost. Quit "
 "anyway?"
 msgstr "현재 게임을 저장할 수 없으며 일부 진행 상황을 잃을 수 있습니다. 종료하시겠습니까?"
+
+msgctxt "Message/&NotFreeSlotToConjureItemFormat"
+msgid "Missing a free space in one of these slot(s): {0}"
+msgstr ""
+
+msgctxt "Message/&SpellSlotRecoveryUnspentCapitalTitle"
+msgid "Unspent Recovery Capital"
+msgstr ""
+
+msgctxt "Message/&SpellSlotRecoveryUnspentCapitalDescription"
+msgid "You have not spent all of your recovery capital. Proceed anyway?"
+msgstr ""
+
+msgctxt "Message/&MerchantLockedTitle"
+msgid "Someone else is already interacting with this merchant"
+msgstr ""
+
+msgctxt "Message/&UserCampaignLoadErrorTitle"
+msgid "Loading Error"
+msgstr ""
+
+msgctxt "Message/&UserCampaignLoadErrorDescription"
+msgid ""
+"Could not load the campaign that was used to save this game. Returning to "
+"main menu."
+msgstr ""
+
+msgctxt "Message/&ModErrorWarningTitle"
+msgid "Mod warning"
+msgstr ""
+
+msgctxt "Message/&ModErrorWarningDescription"
+msgid ""
+"Solasta has detected an instability that may have been caused by a mod. If "
+"you run into any issues, consider uninstalling your mods. Save files from "
+"campaigns with mods may not load correctly if mods are removed or outdated."
+msgstr ""

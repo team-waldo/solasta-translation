@@ -1,18 +1,16 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-15 05:02+0900\n"
-"PO-Revision-Date: 2021-10-21 12:29+0000\n"
-"Last-Translator: Jin <byungjinjun55@gmail.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/feedback/"
-"ko/>\n"
-"Language: ko\n"
+"POT-Creation-Date: 2021-12-17 17:52+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "Feedback/&AbilityCheckConsoleAnyAdvantageLine"
 msgid "{0} rolls a {1} ability check against DC {2}, rolls {3} {4}, {5}"
@@ -600,6 +598,10 @@ msgctxt "Feedback/&MagicalHitPointsPoolRolledLine"
 msgid "{0} rolls a pool of {1} hit points for {2}"
 msgstr "{0}은(는) 주사위를 굴립니다. 체력 합계 {1}까지 {2} 영향을 받습니다"
 
+msgctxt "Feedback/&MoneyGainedLine"
+msgid ""
+msgstr ""
+
 msgctxt "Feedback/&NeedFlamingTagFormat"
 msgid "Need a flaming item"
 msgstr "불타고 있는 아이템이 필요합니다"
@@ -822,9 +824,17 @@ msgctxt "Feedback/&SpellDissipatedSuccessLine"
 msgid "{0} dispels the effect of the {1} spell"
 msgstr "{0}은(는} {1} 주문을 무효화합니다"
 
+msgctxt "Feedback/&SpellScribedFailure"
+msgid ""
+msgstr ""
+
 msgctxt "Feedback/&SpellScribedLine"
 msgid "{0} tries to copy the {1} spell into a spellbook {2}"
 msgstr "{0}은(는) {1} 주문을 주문책 {2}에 옮겨 적으려고 합니다"
+
+msgctxt "Feedback/&SpellScribedSuccess"
+msgid ""
+msgstr ""
 
 msgctxt "Feedback/&SpellSlotsRecoveredLine"
 msgid "{0} recovers spell slots: {1}"
@@ -1189,3 +1199,75 @@ msgstr "잔인한 치명타!"
 msgctxt "Feedback/&AdditionalDamageBrutalCriticalLine"
 msgid "{0} inflict more damage with Brutal Critical on {1} (+{2})"
 msgstr "{0}은(는) 잔인한 치명타로 {1}에게 더 많은 피해를 줍니다. (+{2})"
+
+msgctxt "Feedback/&AdditionalDamageEnemyOfMagicFormat"
+msgid "Enemy Of Magic !"
+msgstr ""
+
+msgctxt "Feedback/&AdditionalDamageEnemyOfMagicLine"
+msgid "{0} is an Enemy of Magic and inflicts more damage to {1} (+{2})"
+msgstr ""
+
+msgctxt "Feedback/&AdditionalDamageSavageAttacksFormat"
+msgid "Savage Attacks!"
+msgstr ""
+
+msgctxt "Feedback/&AdditionalDamageSavageAttacksLine"
+msgid "{0} inflicts more damage with Savage Attacks on {1} (+{2})"
+msgstr ""
+
+msgctxt "Feedback/&AdditionalAttackDieRolledLine"
+msgid "{0}: {1} adds {2} to the attack and rolls {3}"
+msgstr ""
+
+msgctxt "Feedback/&SubstractedAttackDieRolledLine"
+msgid "{0}: {1} subtracts {2} from the attack and rolls {3}"
+msgstr ""
+
+msgctxt "Feedback/&AdditionalSaveDieRolledLine"
+msgid "{0}: {1} adds {2} to the saving throw and rolls {3}"
+msgstr ""
+
+msgctxt "Feedback/&SubstractedSaveDieRolledLine"
+msgid "{0}: {1} subtracts {2} from the saving throw and rolls {3}"
+msgstr ""
+
+msgctxt "Feedback/&AdditionalAbilityCheckDieRolledLine"
+msgid "{0}: {1} adds {2} to the ability check and rolls {3}"
+msgstr ""
+
+msgctxt "Feedback/&SubstractedAbilityCheckDieRolledLine"
+msgid "{0}: {1} subtracts {2} from the ability check and rolls {3}"
+msgstr ""
+
+msgctxt "Feedback/&MonsterIdentificationUnknownSuccessLine"
+msgid "{0} has identified an unknown creature as a {1}"
+msgstr ""
+
+msgctxt "Feedback/&MonsterIdentificationUnknownFailureLine"
+msgid "{0} has failed to identify an unknown creature"
+msgstr ""
+
+msgctxt "Feedback/&MonsterIdentificationIncreaseSuccessLine"
+msgid "{0} has increased the bestiary knowledge of {1} to {2}"
+msgstr ""
+
+msgctxt "Feedback/&MonsterIdentificationIncreaseFailureLine"
+msgid "{0} has failed to increase the bestiary knowledge of {1}"
+msgstr ""
+
+msgctxt "Feedback/&KeyLockedDoor"
+msgid "You need the key to open this door."
+msgstr ""
+
+msgctxt "Feedback/&GateNotActivated"
+msgid "Deactivated"
+msgstr ""
+
+msgctxt "Feedback/&UsedKeyToOpenDoor"
+msgid "Opened with Key"
+msgstr ""
+
+msgctxt "Feedback/&SharedDamageLine"
+msgid "{0} damage is shared between {1} ({2} damage) and {3} ({4} damage)."
+msgstr ""
