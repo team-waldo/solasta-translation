@@ -1,16 +1,18 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-12-18 14:49+0000\n"
+"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/feedback/"
+"ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.4.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "Feedback/&AbilityCheckConsoleAnyAdvantageLine"
 msgid "{0} rolls a {1} ability check against DC {2}, rolls {3} {4}, {5}"
@@ -600,7 +602,7 @@ msgstr "{0}은(는) 주사위를 굴립니다. 체력 합계 {1}까지 {2} 영�
 
 msgctxt "Feedback/&MoneyGainedLine"
 msgid ""
-msgstr ""
+msgstr " "
 
 msgctxt "Feedback/&NeedFlamingTagFormat"
 msgid "Need a flaming item"
@@ -826,7 +828,7 @@ msgstr "{0}은(는} {1} 주문을 무효화합니다"
 
 msgctxt "Feedback/&SpellScribedFailure"
 msgid ""
-msgstr ""
+msgstr " "
 
 msgctxt "Feedback/&SpellScribedLine"
 msgid "{0} tries to copy the {1} spell into a spellbook {2}"
@@ -834,7 +836,7 @@ msgstr "{0}은(는) {1} 주문을 주문책 {2}에 옮겨 적으려고 합니다
 
 msgctxt "Feedback/&SpellScribedSuccess"
 msgid ""
-msgstr ""
+msgstr " "
 
 msgctxt "Feedback/&SpellSlotsRecoveredLine"
 msgid "{0} recovers spell slots: {1}"
@@ -1210,64 +1212,64 @@ msgstr ""
 
 msgctxt "Feedback/&AdditionalDamageSavageAttacksFormat"
 msgid "Savage Attacks!"
-msgstr ""
+msgstr "야만적인 공격!"
 
 msgctxt "Feedback/&AdditionalDamageSavageAttacksLine"
 msgid "{0} inflicts more damage with Savage Attacks on {1} (+{2})"
-msgstr ""
+msgstr "{0}은 야만적인 공격으로 {1}에게 더 많은 피해(+{2})를 가했습니다"
 
 msgctxt "Feedback/&AdditionalAttackDieRolledLine"
 msgid "{0}: {1} adds {2} to the attack and rolls {3}"
-msgstr ""
+msgstr "{0}: {1}은 명중 굴림에 {2}를 더해 최종 굴림값이 {3}이 됐습니다"
 
 msgctxt "Feedback/&SubstractedAttackDieRolledLine"
 msgid "{0}: {1} subtracts {2} from the attack and rolls {3}"
-msgstr ""
+msgstr "{0}: {1}은 명중 굴림에서 {2}를 빼 최종 굴림값이 {3}이 됐습니다"
 
 msgctxt "Feedback/&AdditionalSaveDieRolledLine"
 msgid "{0}: {1} adds {2} to the saving throw and rolls {3}"
-msgstr ""
+msgstr "{0}: {1}은 내성 굴림에 {2}를 더해 최종 굴림값이 {3}이 됐습니다"
 
 msgctxt "Feedback/&SubstractedSaveDieRolledLine"
 msgid "{0}: {1} subtracts {2} from the saving throw and rolls {3}"
-msgstr ""
+msgstr "{0}: {1}은 내성 굴림에서 {2}를 빼 최종 굴림값이 {3}이 됐습니다"
 
 msgctxt "Feedback/&AdditionalAbilityCheckDieRolledLine"
 msgid "{0}: {1} adds {2} to the ability check and rolls {3}"
-msgstr ""
+msgstr "{0}: {1}은 능력치 판정에 {2}를 더해 최종 굴림값이 {3}이 됐습니다"
 
 msgctxt "Feedback/&SubstractedAbilityCheckDieRolledLine"
 msgid "{0}: {1} subtracts {2} from the ability check and rolls {3}"
-msgstr ""
+msgstr "{0}: {1}은 능력치 판정에서 {2}를 빼 최종 굴림값이 {3}이 됐습니다"
 
 msgctxt "Feedback/&MonsterIdentificationUnknownSuccessLine"
 msgid "{0} has identified an unknown creature as a {1}"
-msgstr ""
+msgstr "{0}은(는) 미식별 크리쳐가 {1}이란 걸 알아냈습니다"
 
 msgctxt "Feedback/&MonsterIdentificationUnknownFailureLine"
 msgid "{0} has failed to identify an unknown creature"
-msgstr ""
+msgstr "{0}은 미식별 크리쳐를 알아보는 데 실패했습니다"
 
 msgctxt "Feedback/&MonsterIdentificationIncreaseSuccessLine"
 msgid "{0} has increased the bestiary knowledge of {1} to {2}"
-msgstr ""
+msgstr "{0}은(는) {1}에 대한 지식을 {2}로 상승시켰습니다"
 
 msgctxt "Feedback/&MonsterIdentificationIncreaseFailureLine"
 msgid "{0} has failed to increase the bestiary knowledge of {1}"
-msgstr ""
+msgstr "{0}은 {1}에 대한 지식을 상승시키는 데 실패했습니다"
 
 msgctxt "Feedback/&KeyLockedDoor"
 msgid "You need the key to open this door."
-msgstr ""
+msgstr "문을 열기 위한 열쇠가 필요합니다."
 
 msgctxt "Feedback/&GateNotActivated"
 msgid "Deactivated"
-msgstr ""
+msgstr "비활성화"
 
 msgctxt "Feedback/&UsedKeyToOpenDoor"
 msgid "Opened with Key"
-msgstr ""
+msgstr "열쇠로 열렸습니다"
 
 msgctxt "Feedback/&SharedDamageLine"
 msgid "{0} damage is shared between {1} ({2} damage) and {3} ({4} damage)."
-msgstr ""
+msgstr "{0} 피해량이 {1}과 ({2} 피해) {3} ({4} 피해) 사이에 분배되었습니다."

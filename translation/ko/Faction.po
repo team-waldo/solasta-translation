@@ -1,70 +1,58 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-12-18 14:49+0000\n"
+"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/faction/ko/"
+">\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.4.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
-#, fuzzy
-#| msgid "Orenetis"
 msgctxt "Faction/&DLC1_Orenitis_Title"
 msgid "Dominion"
-msgstr "오레네티스"
+msgstr "자치령"
 
-#, fuzzy
-#| msgid "The faction of the ruler of the valley"
 msgctxt "Faction/&DLC1_Orenitis_Description"
 msgid "The faction of the valley's ruler."
-msgstr "계곡의 지배자 세력"
+msgstr "계곡의 지배자 세력."
 
 msgctxt "Faction/&DLC1_Forge_Title"
 msgid "Forge"
 msgstr "포지"
 
-#, fuzzy
-#| msgid "The faction who lives in the jungle, does crafting and scavenger stuff"
 msgctxt "Faction/&DLC1_Forge_Description"
 msgid "A faction of crafters and scavengers, based in the jungle."
-msgstr "정글에 살며 제작과 스캐빈져 일을 하는 세력"
+msgstr "밀림에 근거지를 둔, 제작자와 스캐빈저들의 세력."
 
 msgctxt "Faction/&DLC1_Mask_Title"
 msgid "Mask"
 msgstr "마스크"
 
-#, fuzzy
-#| msgid "Actually a secret cult of Misaye"
 msgctxt "Faction/&DLC1_Mask_Description"
 msgid "An elusive group with unclear motives."
-msgstr "현실은 미사이에의 비밀 숭배 집단"
+msgstr "목적을 알 수 없는 종잡을 수 없는 집단."
 
 msgctxt "Faction/&DLC1_ThePeople_Title"
 msgid "The People"
 msgstr "더 피플"
 
-#, fuzzy
-#| msgid "The actual people who live in the city ruled by Orenetis"
 msgctxt "Faction/&DLC1_ThePeople_Description"
 msgid "Citizens of the valley's capital."
-msgstr "오레네티스가 다스리는 도시에 사는 실제 사람들"
+msgstr "계곡의 수도에 거주하는 시민들."
 
-#, fuzzy
-#| msgid "Rebellion"
 msgctxt "Faction/&DLC1_Rebellion_Title"
 msgid "The Rebellion"
 msgstr "리벨리온"
 
-#, fuzzy
-#| msgid "The enemies of Orenetis who aim at freeing the valley from him"
 msgctxt "Faction/&DLC1_Rebellion_Description"
 msgid "Enemies of the Dominion, determined to overthrow it."
-msgstr "계곡을 해방시키려는 오레네티스의 적들"
+msgstr "체제를 전복시키려는, 자치령의 적들."
 
 msgctxt "Faction/&AntiquariansDescription"
 msgid ""

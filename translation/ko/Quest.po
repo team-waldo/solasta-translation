@@ -1,19 +1,19 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-12-18 14:49+0000\n"
+"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/quest/ko/>"
+"\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.4.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
-#, fuzzy
-#| msgid "A furry task"
 msgctxt "Quest/&DLC1_Quest_Marches_NPC2_Mercenary_MainTitle"
 msgid "A Furry Task"
 msgstr "털투성이 작업"
@@ -22,26 +22,16 @@ msgctxt "Quest/&DLC1_Quest_Marches_NPC2_Mercenary_ReturnPeltTitle"
 msgid "Talk to Krim"
 msgstr "크림과 대화"
 
-#, fuzzy
-#| msgid ""
-#| "Krim has asked to talk to you after your returned from the grotto. Talk to "
-#| "him and see what he has to say."
 msgctxt "Quest/&DLC1_Quest_Marches_NPC2_Mercenary_ReturnPeltDescription"
 msgid ""
 "Krim has asked to talk to you upon your return from the grotto. Talk to him "
 "and see what he has to say."
 msgstr "동굴에서 돌아온 뒤 크림이 대화를 요청했습니다. 무슨 말을 하려는지 만나보십시오."
 
-#, fuzzy
-#| msgid "You did not talk Krim."
 msgctxt "Quest/&DLC1_Quest_Marches_NPC2_Mercenary_ReturnPelt_Outcome1Description"
 msgid "You did not talk to Krim."
 msgstr "크림과 대화하지 않았습니다."
 
-#, fuzzy
-#| msgid ""
-#| "Krim was interested in the bear pelt you brought from the grotto, just a "
-#| "small business affair."
 msgctxt "Quest/&DLC1_Quest_Marches_NPC2_Mercenary_ReturnPelt_Outcome2Description"
 msgid ""
 "Krim was interested in the bear pelt you brought from the grotto, just a "
@@ -54,13 +44,8 @@ msgstr "고고학"
 
 msgctxt "Quest/&DLC1_Quest_Marches_NPC1_Scribe_01_FindAntiquesTitle"
 msgid "Find Antiques"
-msgstr ""
+msgstr "골동품 찾기"
 
-#, fuzzy
-#| msgid ""
-#| "You discussed with Leyrin Catpaw, one of the search party members, who seem "
-#| "interested in antiquities. If you come accross anything of interest, bring "
-#| "it back to her."
 msgctxt "Quest/&DLC1_Quest_Marches_NPC1_Scribe_01_FindAntiquesDescription"
 msgid ""
 "You spoke with Leyrin Catpaw, one of the search party members, who seems "
@@ -73,23 +58,15 @@ msgctxt "Quest/&DLC1_Quest_Marches_NPC1_Scribe_02_ReturnToScribeTitle"
 msgid "Return to Leyrin Catpaw"
 msgstr "레이린 캣포우에게 돌아가기"
 
-#, fuzzy
-#| msgid ""
-#| "You found three pieces of what seems to be Manacalon remains. They seem to "
-#| "be linked together, but it would require further study. Bring them back to "
-#| "Leyrin Catpaw, she'll be happy to buy them."
 msgctxt "Quest/&DLC1_Quest_Marches_NPC1_Scribe_02_ReturnToScribeDescription"
 msgid ""
 "You found what looks like three Manacalon relics. They seem connected, but "
 "further study is required. Take them to Leyrin Catpaw - she'll be happy to "
 "buy them."
 msgstr ""
-"마나칼론 유물로 보이는 어떤 조각 3개를 찾았습니다. 서로 연결되어 있는 것처럼 보이는데, 연구를 더 해봐야 합니다. 레이린 캣포우에게 "
+"마나칼론 유물로 보이는 물건 3개를 찾았습니다. 서로 연결되어 있는 것처럼 보이는데, 연구를 더 해봐야 합니다. 레이린 캣포우에게 "
 "가져다주면 기꺼이 사 줄 것입니다."
 
-#, fuzzy
-#| msgid ""
-#| "You returned the antique writings to Leyrin Catpaw and she seemed very happy."
 msgctxt ""
 "Quest/&DLC1_Quest_Marches_NPC1_Scribe_02_ReturnToScribe_Outcome1Description"
 msgid "You returned the relics to Leyrin Catpaw, and she was very happy."
@@ -100,8 +77,6 @@ msgctxt ""
 msgid "You never got the chance to bring Leyrin Catpaw anything to study."
 msgstr "레이린 캣포우가 연구할만한 것을 가져올 기회가 없었습니다."
 
-#, fuzzy
-#| msgid "Precious paper"
 msgctxt "Quest/&DLC1_Quest_Marches_NPC2_Spy"
 msgid "Precious Paper"
 msgstr "소중한 논문"
@@ -110,30 +85,20 @@ msgctxt "Quest/&DLC1_Quest_Marches"
 msgid "The Merchant Road"
 msgstr "교역로"
 
-#, fuzzy
-#| msgid "Speak to Galar"
 msgctxt "Quest/&DLC1_Quest_Marches_01_Talk_To_GalarTitle"
 msgid "Speak with Galar"
 msgstr "갈라르와 대화"
 
-#, fuzzy
-#| msgid "A group of people just set up camp just besides you."
 msgctxt "Quest/&DLC1_Quest_Marches_01_Talk_To_GalarDescription"
 msgid "A group of people just set up camp right beside you."
 msgstr "한 무리의 사람들이 바로 옆에 야영지를 차렸습니다."
 
-#, fuzzy
-#| msgid ""
-#| "You asked Galar about the group of people who just set camp besides. He "
-#| "instructed you to learn more about them and why they're here."
 msgctxt "Quest/&DLC1_Quest_Marches_01_Talk_To_Galar_Outcome1Description"
 msgid ""
 "You asked Galar about the people who just set camp nearby. He asked you to "
 "find out who they are and why they're here."
-msgstr "갈라르에게 바로 옆 야영지 사람들에 대해 묻자, 그가 저들이 여기 있는 이유를 알아오라고 지시했습니다."
+msgstr "갈라르에게 바로 옆 야영지 사람들에 대해 묻자, 그가 저들의 정체와 목적을 알아와 달라 부탁했습니다."
 
-#, fuzzy
-#| msgid "Talk to Lady Fairblade"
 msgctxt "Quest/&DLC1_Quest_Marches_02_Talk_To_NPC2Title"
 msgid "Talk with Lady Fairblade"
 msgstr "페어블레이드와 대화"
@@ -144,48 +109,30 @@ msgid ""
 "learn more about her mission."
 msgstr "헬리아 페어블레이드는 이 작은 무리의 대표입니다. 대화를 통해 무슨 일인지 알아보십시오."
 
-#, fuzzy
-#| msgid ""
-#| "You spoke to Lady Fairblade and learned that she's looking for a man named "
-#| "Marin Ving."
 msgctxt "Quest/&DLC1_Quest_Marches_02_Talk_To_NPC2_Outcome1Description"
 msgid ""
 "You spoke to Lady Fairblade and learned that she is looking for a human "
 "named Marin Ving."
-msgstr "페어블레이드와 대화했고 마린 빙이라는 사람을 찾고 있다는 걸 알았습니다."
+msgstr "페어블레이드와 대화해 그녀가 마린 빙이라는 인간을 찾고 있다는 걸 알았습니다."
 
-#, fuzzy
-#| msgid "Talk to the nobleman"
 msgctxt "Quest/&DLC1_Quest_Marches_03_Talk_To_NPC1Title"
 msgid "Talk with the Nobleman"
 msgstr "귀족과 대화"
 
-#, fuzzy
-#| msgid ""
-#| "Nearby Lady Fairblade is a very nervous man wearing noble clothes. See what "
-#| "he has to say."
 msgctxt "Quest/&DLC1_Quest_Marches_03_Talk_To_NPC1Description"
 msgid ""
 "Close to Lady Fairblade is a nervous-looking man dressed like a noble. See "
 "what he has to say."
-msgstr "페어블레이드 근처에 고급진 옷을 입고 긴장한 채 서성이는 사람이 있습니다. 얘기를 좀 해보죠."
+msgstr "페어블레이드 근처에 고급진 옷을 입고 긴장한 듯 보이는 사람이 있습니다. 얘기를 좀 해보죠."
 
-#, fuzzy
-#| msgid "You spoke to the nobleman."
 msgctxt "Quest/&DLC1_Quest_Marches_03_Talk_To_NPC1_Outcome1Description"
 msgid "You spoke with the nobleman."
 msgstr "귀족과 대화했습니다."
 
-#, fuzzy
-#| msgid "Find Marin Ving's documents"
 msgctxt "Quest/&DLC1_Quest_Marches_NPC2_Spy_01_FindTheGreenBookTitle"
 msgid "Find Marin Ving's Documents"
 msgstr "마린 빙의 문서 찾기"
 
-#, fuzzy
-#| msgid ""
-#| "According to Helia Fairblade, Marin Ving transported valuable documents and "
-#| "the council would pay to recover them. If you find anything, report to her."
 msgctxt "Quest/&DLC1_Quest_Marches_NPC2_Spy_01_FindTheGreenBookDescription"
 msgid ""
 "According to Helia Fairblade, Marin Ving was carrying valuable documents and "
@@ -194,56 +141,37 @@ msgstr ""
 "헬리아 페어블레이드에 따르면, 마린 빙은 귀중한 문서를 운반했으며, 평의회는 그것을 되찾기 위해 돈을 낼 것입니다. 뭐든 찾으면 "
 "보고하십시오."
 
-#, fuzzy
-#| msgid "You didn't return any document to Lady Fairblade."
 msgctxt ""
 "Quest/&DLC1_Quest_Marches_NPC2_Spy_01_FindTheGreenBook_Outcome1Description"
 msgid "You didn't bring Lady Fairblade any documents."
-msgstr "페어블레이드에게 문서를 돌려주지 않았습니다."
+msgstr "페어블레이드에게 문서를 가져다 주지 않았습니다."
 
 msgctxt ""
 "Quest/&DLC1_Quest_Marches_NPC2_Spy_01_FindTheGreenBook_Outcome2Description"
 msgid "You found a notebook in Ving's backpack."
 msgstr "빙의 배낭에서 공책을 찾았습니다."
 
-#, fuzzy
-#| msgid "Return the notebook"
 msgctxt "Quest/&DLC1_Quest_Marches_NPC2_Spy_02_ReturnGreenBookTitle"
 msgid "Return the Notebook"
 msgstr "문서 돌려주기"
 
-#, fuzzy
-#| msgid ""
-#| "You found a notebook belonging to Marin Ving. Maybe that's what Lady "
-#| "Fairblade is looking for, return it to her."
 msgctxt "Quest/&DLC1_Quest_Marches_NPC2_Spy_02_ReturnGreenBookDescription"
 msgid ""
 "You found a notebook belonging to Marin Ving. Maybe that's what Lady "
 "Fairblade is looking for. Take it to her."
-msgstr "마린 빙의 문서를 찾았습니다. 페어블레이드가 찾고 있던 걸지도 모릅니다. 돌려주십시오."
+msgstr "마린 빙의 문서를 찾았습니다. 페어블레이드가 찾고 있던 걸지도 모릅니다. 가져가십시오."
 
-#, fuzzy
-#| msgid ""
-#| "You returned a notebook belonging to Ving. Not the documents Lady Fairblade "
-#| "hoped for, but she still rewarded you."
 msgctxt ""
 "Quest/&DLC1_Quest_Marches_NPC2_Spy_02_ReturnGreenBook_Outcome2Description"
 msgid ""
 "You brought back a notebook belonging to Marin Ving. Not the documents Lady "
 "Fairblade hoped for, but she still rewarded you."
-msgstr "빙의 문서를 돌려주었습니다. 페어블레이드가 찾던 건 아니었지만, 어쨌든 보상은 주었습니다."
+msgstr "마린 빙의 문서를 가져 왔습니다. 페어블레이드가 찾던 건 아니었지만, 어쨌든 보상은 받았습니다."
 
-#, fuzzy
-#| msgid "Explore the surroundings"
 msgctxt "Quest/&DLC1_Quest_Marches_04_ExploreTitle"
 msgid "Explore the Area"
 msgstr "주변 탐색"
 
-#, fuzzy
-#| msgid ""
-#| "You accepted to help Lady Fairblade's search party to look for Marin Ving. "
-#| "For now, her people are resting, but you can start exploring the "
-#| "surroundings. Report anything you find."
 msgctxt "Quest/&DLC1_Quest_Marches_04_ExploreDescription"
 msgid ""
 "You agreed to help Lady Fairblade's search party look for Marin Ving. For "
@@ -253,69 +181,44 @@ msgstr ""
 "마린 빙을 찾기 위한 페어블레이드의 수색대를 돕기로 했습니다. 그들은 지금은 쉬고 있으나, 당신은 주변 탐색을 시작 수 있습니다. 무언가 "
 "찾으면 보고하세요."
 
-#, fuzzy
-#| msgid ""
-#| "You went to explore further down the mountainside and into a grotto, where "
-#| "you found a abandoned camp and a backpack : it belonged to Marin Ving!"
 msgctxt "Quest/&DLC1_Quest_Marches_04_Explore_Outcome1Description"
 msgid ""
 "You went to explore further down the mountainside and discovered a grotto, "
 "where you found a abandoned camp and a backpack - it belonged to Marin Ving!"
 msgstr "좀 더 탐색해보며 산비탈의 동굴까지 들어갔고 버려진 캠프와 배낭을 발견했습니다. 그것은 마린 빙의 것이었습니다!"
 
-#, fuzzy
-#| msgid ""
-#| "You have proof that the VIP was in the nearby grotto. Report to the search "
-#| "party's officer."
 msgctxt "Quest/&DLC1_Quest_Marches_05_FoundBag_Now_ReportDescription"
 msgid ""
 "You have proof that Marin Ving was in the nearby grotto. Report to the "
 "search party's leader."
-msgstr "VIP가 동굴 근처에 있다는 증거를 얻었습니다. 수색대에 보고하십시오."
+msgstr "마린 빙이 동굴 근처에 있다는 증거를 얻었습니다. 수색대의 지도자에게 보고하십시오."
 
-#, fuzzy
-#| msgid "Report your findings"
 msgctxt "Quest/&DLC1_Quest_Marches_05_FoundBag_Now_ReportTitle"
 msgid "Report your Findings"
 msgstr "조사 결과 보고"
 
-#, fuzzy
-#| msgid ""
-#| "You reported your findings. Helia Fairblade was happy and asked you to rest "
-#| "before resuming the search."
 msgctxt "Quest/&DLC1_Quest_Marches_05_FoundBag_Now_Report_Outcome1Description"
 msgid ""
 "You reported your findings. Helia Fairblade was happy and advised you to "
 "rest before resuming the search."
-msgstr "조사 결과를 보고했습니다. 헬리아 페어블레이드는 기뻐하며 수색 개시 전 휴식을 취하라고 했습니다."
+msgstr "조사 결과를 보고했습니다. 헬리아 페어블레이드는 기뻐하며 수색 개시 전 휴식을 취하라고 조언했습니다."
 
 msgctxt "Quest/&DLC1_Quest_Marches_06_LevelUpTitle"
 msgid "Level Up"
 msgstr "레벨 업"
 
-#, fuzzy
-#| msgid "Use the Campfire to Take a Long Rest and level up."
 msgctxt "Quest/&DLC1_Quest_Marches_06_LevelUpDescription"
 msgid "Take a Long Rest at the Campfire and Level Up."
 msgstr "모닥불을 이용하여 긴 휴식을 취하고 레벨을 올리세요."
 
-#, fuzzy
-#| msgid "You rested well and prepared to search the grotto again."
 msgctxt "Quest/&DLC1_Quest_Marches_06_LevelUp_Outcome1Description"
 msgid "You are rested, and ready to search the grotto again."
 msgstr "당신은 충분한 휴식을 취했고 다시 동굴을 탐색할 준비가 되었습니다."
 
-#, fuzzy
-#| msgid "Explore the grotto carefully"
 msgctxt "Quest/&DLC1_Quest_Marches_07_ExploreBeyondTitle"
 msgid "Careful Exploration"
-msgstr "조심스럽게 동굴 탐험하기"
+msgstr "조심스럽게 탐험하기"
 
-#, fuzzy
-#| msgid ""
-#| "Return in the grotto and find what happened to Marin Ving. Hire some of Lady "
-#| "Fairblade's people, if needed. Use Cautious mode to make your party more "
-#| "aware of hidden objects."
 msgctxt "Quest/&DLC1_Quest_Marches_07_ExploreBeyondDescription"
 msgid ""
 "Return to the grotto and find out what happened to Marin Ving. Hire some of "
@@ -325,18 +228,12 @@ msgstr ""
 "동굴로 돌아가 마린 빙에게 무슨 일이 일어났는지 알아내십시오. 필요하다면 페어블레이드 쪽 사람을 고용할 수 있습니다. 숨겨진 것을 더 잘 "
 "찾아보려면 경계 모드를 사용하십시오."
 
-#, fuzzy
-#| msgid ""
-#| "You found a hidden passage through the cave's walls. Ving has probably used "
-#| "this to escape the bear."
 msgctxt "Quest/&DLC1_Quest_Marches_07_ExploreBeyond_Outcome1Description"
 msgid ""
 "You found a hidden passage in the cave wall. Ving probably used this to "
 "escape from the bear."
-msgstr "동굴 벽을 통과하는 숨겨진 통로를 찾았습니다. 아마도 빙은 곰에게서 탈출하기 위해 이 통로를 사용했을 것입니다."
+msgstr "동굴 벽에서 숨겨진 통로를 찾았습니다. 아마도 빙은 곰에게서 탈출하기 위해 이 통로를 사용했을 것입니다."
 
-#, fuzzy
-#| msgid "Follow the tracks"
 msgctxt "Quest/&DLC1_Quest_Marches_08_EnteredNestTitle"
 msgid "Follow the Tracks"
 msgstr "흔적 따라가기"
@@ -357,17 +254,10 @@ msgid ""
 "cut off. How did Ving make it through this? You have no idea."
 msgstr "마나칼론 유적으로 보이는 문을 찾았지만 들어섰다간 두 동강 나고 말 겁니다. 빙은 여길 어떻게 통과했죠? 알 수가 없군요."
 
-#, fuzzy
-#| msgid "Escape the nest"
 msgctxt "Quest/&DLC1_Quest_Marches_09_FindAnExitTitle"
 msgid "Escape the Nest"
 msgstr "둥지 탈출하기"
 
-#, fuzzy
-#| msgid ""
-#| "Somehow, this place has been overtaken by Redeemers, legendary insects of "
-#| "dreadful power. If you don't want to end feeding their queen, you better "
-#| "find a way out."
 msgctxt "Quest/&DLC1_Quest_Marches_09_FindAnExitDescription"
 msgid ""
 "This place has been overrun by redeemers, legendary insects of dreadful "
@@ -383,8 +273,6 @@ msgid ""
 "in the Badlands!"
 msgstr "탈출구를 통해 나왔지만, 산 반대편으로 나왔습니다. 여긴 황무지예요!"
 
-#, fuzzy
-#| msgid "Key to freedom"
 msgctxt "Quest/&DLC1_Quest_Marches_FindNestKey"
 msgid "Key to Freedom"
 msgstr "자유를 향한 열쇠"
@@ -393,37 +281,22 @@ msgctxt "Quest/&DLC1_Quest_Secondary_FindNestKey_01_FindKeyTitle"
 msgid "Find the key"
 msgstr "열쇠 찾기"
 
-#, fuzzy
-#| msgid ""
-#| "You are blocked by a door, a tough one. Look around, you may find a key to "
-#| "open it…maybe in the dead hands of another antique corpse."
 msgctxt "Quest/&DLC1_Quest_Secondary_FindNestKey_01_FindKeyDescription"
 msgid ""
 "Your way is blocked by a door - a tough one. Look around, you may find a key "
 "to open it…perhaps in the dead hands of another ancient corpse."
-msgstr "단단한 문에 막혔습니다. 주변을 뒤지면, 열쇠가 있을 겁니다... 썩어가는 시체 손에 쥐어져 있을지도 모르죠."
+msgstr "단단한 문에 막혔습니다. 주변을 뒤지면, 열쇠가 있을 겁니다... 고대의 시체 손에 쥐어져 있을지도 모르죠."
 
-#, fuzzy
-#| msgid ""
-#| "You found an old Manacalon key in a pile of trash…considering that ghouls "
-#| "have been roaming around, you never know, it might what you're looking for."
 msgctxt "Quest/&DLC1_Quest_Secondary_FindNestKey_01_FindKey_Outcome1Description"
 msgid ""
 "You found an old Manacalon key in a pile of trash. Since ghouls have been "
 "roaming around, you never know - it might what you're looking for."
 msgstr "쓰레기 더미에서 오래된 마나칼론 열쇠를 찾았습니다… 구울들이 돌아다니는걸 생각하면, 아마 제대로 찾았을 겁니다."
 
-#, fuzzy
-#| msgid "Follow Ving's tracks"
 msgctxt "Quest/&DLC1_Quest_Marches_10_PursueVingTitle"
 msgid "Follow Ving's Tracks"
 msgstr "빙의 흔적 따라가기"
 
-#, fuzzy
-#| msgid ""
-#| "You have safely escaped the Redeemer's nest, but you are now trapped inside "
-#| "the Badlands. Apparently, Marin Ving was here, too, which means you can "
-#| "still find him. Explore further and find out what happened to him."
 msgctxt "Quest/&DLC1_Quest_Marches_10_PursueVingDescription"
 msgid ""
 "You have escaped the redeemer nest, but you are trapped in the Badlands. "
@@ -433,95 +306,77 @@ msgstr ""
 "무사히 구도자의 둥지에서 탈출했지만 이젠 황무지에 갇힌 신세입니다. 마린 빙 역시 여기 있었던 것이 분명하므로, 여전히 그를 찾아볼 수 "
 "있습니다. 무슨 일을 겪은 건지 알아보러 가십시오."
 
-#, fuzzy
-#| msgid "You started exploring the valley, hoping to find Marin Ving."
 msgctxt "Quest/&DLC1_Quest_Marches_10_PursueVing_Outcome1Description"
 msgid "You started to explore the valley, searching for Marin Ving."
-msgstr "당신은 마린 빙을 찾길 바라며 계곡 탐험을 시작했습니다."
+msgstr "당신은 마린 빙을 찾아 계곡 탐험을 시작했습니다."
 
 msgctxt "Quest/&DLC1_Quest_Valley"
 msgid "The Emerald Forest"
 msgstr "에메랄드 숲"
 
-#, fuzzy
-#| msgid "Search Party"
 msgctxt "Quest/&DLC1_Quest_Valley_Step_01_FollowVip_Title"
 msgid "Look for Marin Ving"
-msgstr "파티 찾기"
+msgstr "마린 빙 찾기"
 
-#, fuzzy
-#| msgid "Cross the jungle to find Marin Ving"
 msgctxt "Quest/&DLC1_Quest_Valley_Step_01_FollowVip_Description"
 msgid "Explore the jungle and find Marin Ving."
-msgstr "정글을 가로질러 마린 빙을 찾으세요"
+msgstr "정글을 탐색하고 마린 빙을 찾으세요."
 
 msgctxt "Quest/&DLC1_Quest_Valley_Step_01_FollowVip__Outcome1Description"
 msgid "You have discovered some old ruins in the jungle."
 msgstr "당신은 정글에서 오래된 유적을 발견했습니다."
 
-#, fuzzy
-#| msgid "Explore the ruins"
 msgctxt "Quest/&DLC1_Quest_Valley_Step_02_ExploreRuins_Title"
 msgid "Explore the Ruins"
 msgstr "유적 탐사"
 
-#, fuzzy
-#| msgid "Look around the ruins for traces of Marin's Party"
 msgctxt "Quest/&DLC1_Quest_Valley_Step_02_ExploreRuins_Description"
 msgid "Search the ruins for traces of Marin Ving's party"
 msgstr "마린 일행의 흔적을 찾아 유적을 둘러보세요"
 
-#, fuzzy
-#| msgid "You found the corpse of one of Marin Ving bodyguard."
 msgctxt "Quest/&DLC1_Quest_Valley_Step_02_ExploreRuins__Outcome1Description"
 msgid "You found the corpse of one of Marin Ving's bodyguards."
 msgstr "마린 빙의 경호원 중 한 명의 시신을 찾았습니다."
 
 msgctxt "Quest/&DLC1_Quest_Valley_Step_03_ExitJungle_Title"
 msgid "Leave the Jungle"
-msgstr ""
+msgstr "정글 떠나기"
 
-#, fuzzy
-#| msgid "Exit the jungle and keep looking for Marin"
 msgctxt "Quest/&DLC1_Quest_Valley_Step_03_ExitJungle_Description"
 msgid ""
 "You can hear a waterfall not far away. Leave the jungle and keep looking for "
 "Marin Ving."
-msgstr "정글을 빠져나와 마린을 계속 찾으세요"
+msgstr "근처에서 폭포 소리가 들립니다. 정글을 빠져나와 마린을 계속 찾으세요."
 
-#, fuzzy
-#| msgid ""
-#| "Marin Ving was not in the jungle. You have decided to go further away and "
-#| "found more clue about where he might be heading to."
 msgctxt "Quest/&DLC1_Quest_Valley_Step_03_ExitJungle__Outcome1Description"
 msgid ""
 "Marin Ving was not in the jungle. You have decided to head for the Waterfall "
 "and look for clues to where he went."
-msgstr "마린 빙은 정글에 없었습니다. 당신은 더 멀리 가보기로 결정했고, 그가 향한 곳에 대한 단서를 더 찾을 수 있었습니다."
+msgstr "마린 빙은 정글에 없었습니다. 당신은 폭포로 가 그가 간 곳에 대한 단서를 찾기로 결정했습니다."
 
 msgctxt "Quest/&DLC1_Quest_Valley_Step_04_ReachPlain_Title"
 msgid "Explore the Plain"
-msgstr ""
+msgstr "평원 탐색"
 
 msgctxt "Quest/&DLC1_Quest_Valley_Step_04_ReachPlain_Description"
 msgid "Leave the waterfall and follow Marin Ving's tracks onto the plain."
-msgstr ""
+msgstr "폭포를 떠나 평원에서 마린 빙의 흔적 추적하기."
 
 msgctxt "Quest/&DLC1_Quest_Valley_Step_04_ReachPlain__Outcome1Description"
 msgid "You have found proof that Ving's party headed onto the plain."
-msgstr ""
+msgstr "빙의 일행이 평원으로 향했다는 증거를 찾았습니다."
 
 msgctxt "Quest/&DLC1_Quest_Valley_Step_05_SearchPlateau_Title"
 msgid "Search the Plateau for Marin Ving"
-msgstr ""
+msgstr "마린 빙을 찾기 위해 고원 탐색하기"
 
 msgctxt "Quest/&DLC1_Quest_Valley_Step_05_SearchPlateau_Description"
 msgid "Search the plateau for evidence of Ving's presence."
-msgstr ""
+msgstr "빙이 있다는 증거를 위해 고원 탐색하기."
 
 msgctxt "Quest/&DLC1_Quest_Valley_Step_05_SearchPlateau__Outcome1Description"
 msgid "You have found no evidence that Ving is still in the Valley."
-msgstr ""
+msgstr "빙이 아직 계곡에 있을 거란 증거를 찾지 못했습니다."
 
 msgctxt "Quest/&DLC1_Quest_Valley_Step_05A_SearchPlateau_Title"
 msgid "Search the bird nests for remains"
@@ -6370,11 +6225,11 @@ msgctxt ""
 msgid ""
 "Return to the residence and check whether the document has reached the upper "
 "ranks of the Snow Alliance nobility."
-msgstr "저택으로 돌아가서 서류가 설산 동맹 귀족들의 상원들에게 닿았는지 확인하십시오."
+msgstr "거주지로 돌아가서 서류가 설산 동맹 귀족들의 상원들에게 닿았는지 확인하십시오."
 
 msgctxt "Quest/&Quest_Background_Spy_Optional_Go back to the residenceTitle"
 msgid "Return to the Residence"
-msgstr "저택으로 돌아가기"
+msgstr "거주지로 돌아가기"
 
 msgctxt "Quest/&Quest_Background_Spy_Optional_KilltraitorsDescription"
 msgid ""
@@ -9258,13 +9113,13 @@ msgstr "촌장은 사과하며 부모님에 대한 추모관을 세울 것을 �
 
 msgctxt "Quest/&Caer_Cyflen_Quest_Council03_03_Visit_The_ResidenceTitle"
 msgid "Visit the Residence"
-msgstr "주거지 방문하기"
+msgstr "거주지 방문하기"
 
 msgctxt "Quest/&Caer_Cyflen_Quest_Council03_03_Visit_The_ResidenceDescription"
 msgid ""
 "Go to Sunblaze Court and speak to Butler Ravensworth, and take your quarters "
 "at the residence."
-msgstr "선블레이즈 정원으로 가서 버틀러 레이븐스워스와 이야기 하고, 주거지에서 당신 몫을 얻으십시오."
+msgstr "선블레이즈 정원으로 가서 버틀러 레이븐스워스와 이야기 하고, 거주지에서 당신 몫을 얻으십시오."
 
 msgctxt ""
 "Quest/&Caer_Cyflen_Quest_Council03_03_Visit_The_Residence_Outcome1Description"
@@ -9273,7 +9128,7 @@ msgid ""
 "great honor. You can now sleep there at your discretion and find fresh food "
 "every day."
 msgstr ""
-"공주의 손님을 맞이하는 별채를 방문했습니다. 크나큰 영광이지요. 이제 이곳에서 마음껏 자거나 신선한 음식을 찾을 수 있을 겁니다."
+"공주의 손님을 맞이하는 거주지를 방문했습니다. 크나큰 영광이지요. 이제 이곳에서 마음껏 자거나 신선한 음식을 찾을 수 있을 겁니다."
 
 msgctxt "Quest/&Caer_Cyflen_Quest_Council03_04_FindOtherGemsTitle"
 msgid "Find the Remaining Gems"
@@ -10096,7 +9951,7 @@ msgctxt "Quest/&Caer_Cyflen_Quest_Council04_03b_GoToCouncil_Outcome1Description"
 msgid ""
 "Before you were able to exit the Gravekeep's Cask, Captain Ironshell caught "
 "you and told you about an attack on your quarters at the residence!"
-msgstr "묘지기의 술통을 나서기 전에, 아이언셸 대위가 거주구역의 저택에서 습격이 있었다고 말해주었습니다!"
+msgstr "묘지기의 술통을 나서기 전에, 아이언셸 대위가 거주지의 저택에서 습격이 있었다고 말해주었습니다!"
 
 msgctxt ""
 "Quest/&Caer_Cyflen_Quest_Council04_05_ReturnToTheCouncil_Outcome1Description"

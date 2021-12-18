@@ -1,316 +1,330 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-12-18 14:49+0000\n"
+"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
+"ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.4.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "Narration/&CS_Title_ThePeople01"
 msgid "Townspeople"
-msgstr ""
+msgstr "마을사람"
 
+#, fuzzy
 msgctxt "Narration/&CS_Title_ThePeople02"
 msgid "The Butcher"
-msgstr ""
+msgstr "정육점"
 
 msgctxt "Narration/&CS_Title_Orenetis_01"
 msgid "The City Gates"
-msgstr ""
+msgstr "도시 관문"
 
 msgctxt "Narration/&CS_Title_Orenetis_02"
 msgid "The Palace Gate"
-msgstr ""
+msgstr "왕성 관문"
 
+#, fuzzy
 msgctxt "Narration/&CS_Title_Orenetis_04"
 msgid "The Harvest"
-msgstr ""
+msgstr "수확"
 
+#, fuzzy
 msgctxt "Narration/&Complex_CS_01"
 msgid "The Strange Complex"
-msgstr ""
+msgstr "낯선 구조물"
 
 msgctxt "Narration/&Complex_CS_02"
 msgid "A Hungry Scientist"
-msgstr ""
+msgstr "배고픈 과학자"
 
 msgctxt "Narration/&Complex_CS_03"
 msgid "The Lost Book"
-msgstr ""
+msgstr "잊혀진 책"
 
 msgctxt "Narration/&Complex_CS_04"
 msgid "Weird Experience"
-msgstr ""
+msgstr "기묘한 경험"
 
 msgctxt "Narration/&Complex_CS_05"
 msgid "An Unsafe Route"
-msgstr ""
+msgstr "위험한 경로"
 
 msgctxt "Narration/&Complex_CS_06"
 msgid "The Lockdown"
-msgstr ""
+msgstr "제재"
 
+#, fuzzy
 msgctxt "Narration/&Complex_CS_07"
 msgid "Are you Sitenero ?"
-msgstr ""
+msgstr "당신이 시테네로입니까?"
 
 msgctxt "Narration/&Complex_CS_08"
 msgid "A Scholar's Point of View"
-msgstr ""
+msgstr "학자의 관점"
 
 msgctxt "Narration/&Complex_CS_09"
 msgid "The Horrible Truth"
-msgstr ""
+msgstr "끔찍한 진실"
 
 msgctxt "Narration/&Complex_CS_10"
 msgid "The Broken Gate"
-msgstr ""
+msgstr "파괴된 관문"
 
 msgctxt "Narration/&Valley_CS_01"
 msgid "A Verdant Valley"
-msgstr ""
+msgstr "신록의 계곡"
 
 msgctxt "Narration/&Valley_CS_02"
 msgid "Meeting Telerien"
-msgstr ""
+msgstr "텔레리엔 조우"
 
 msgctxt "Narration/&Valley_CS_03"
 msgid "A Venomous Situation"
-msgstr ""
+msgstr "위험한 상황"
 
 msgctxt "Narration/&Valley_CS_04"
 msgid "The Messenger"
-msgstr ""
+msgstr "배달부"
 
 msgctxt "Narration/&Valley_CS_05"
 msgid "A very big problem"
-msgstr ""
+msgstr "아주 큰 문제"
 
 msgctxt "Narration/&Valley_CS_06"
 msgid "The trove"
-msgstr ""
+msgstr "발견물"
 
 msgctxt "Narration/&Valley_CS_07"
 msgid "Treasure Galore"
-msgstr ""
+msgstr "수많은 보물들"
 
 msgctxt "Narration/&Valley_CS_08"
 msgid "Dark Secrets"
-msgstr ""
+msgstr "어두운 비밀"
 
 msgctxt "Narration/&Valley_CS_09"
 msgid "Search and rescue"
-msgstr ""
+msgstr "수색구조"
 
 msgctxt "Narration/&Valley_CS_10"
 msgid "Dark News"
-msgstr ""
+msgstr "암울한 소식"
 
 msgctxt "Narration/&Valley_CS_11"
 msgid "Making new friends"
-msgstr ""
+msgstr "새 친구 사귀기"
 
 msgctxt "Narration/&Valley_CS_12"
 msgid "Is this a joke?"
-msgstr ""
+msgstr "이거 농담인가?"
 
 msgctxt "Narration/&Valley_CS_13"
 msgid "The secret club"
-msgstr ""
+msgstr "비밀 클럽"
 
 msgctxt "Narration/&Valley_CS_14"
 msgid "Planting the flag"
-msgstr ""
+msgstr "깃발 세우기"
 
+#, fuzzy
 msgctxt "Narration/&Valley_CS_15"
 msgid "Vando"
-msgstr ""
+msgstr "반도"
 
 msgctxt "Narration/&Valley_CS_16"
 msgid "Lady of luck"
-msgstr ""
+msgstr "행운의 여성"
 
 msgctxt "Narration/&Valley_CS_17"
 msgid "Walk in the shadows"
-msgstr ""
+msgstr "그림자 속의 발걸음"
 
 msgctxt "Narration/&DLC1_Marches_CS01"
 msgid "The Camp on the Hill"
-msgstr ""
+msgstr "언덕 위의 캠프"
 
 msgctxt "Narration/&DLC1_Marches_CS02"
 msgid "Lady Fairblade"
-msgstr ""
+msgstr "페어블레이드 아가씨"
 
 msgctxt "Narration/&DLC1_Marches_CS03"
 msgid "An Angry Lord"
-msgstr ""
+msgstr "분노한 주군"
 
 msgctxt "Narration/&DLC1_Marches_CS04"
 msgid "A Walk on the Dark Side"
-msgstr ""
+msgstr "어둠 위의 발걸음"
 
 msgctxt "Narration/&DLC1_Marches_CS05"
 msgid "The Would-Be Historian"
-msgstr ""
+msgstr "역사학자 지망생"
 
 msgctxt "Narration/&DLC1_Marches_CS06"
 msgid "Money for Nothing"
-msgstr ""
+msgstr "불로소득"
 
+#, fuzzy
 msgctxt "Narration/&DLC1_Marches_CS07"
 msgid "Where in the World is Marin Ving?"
-msgstr ""
+msgstr "마린 빙은 도대체 어디에?"
 
 msgctxt "Narration/&DLC1_Marches_CS08"
 msgid "History All Around Us"
-msgstr ""
+msgstr "우리들 주변의 역사"
 
 msgctxt "Narration/&DLC1_Marches_CS09"
 msgid "A Cheap Trade"
-msgstr ""
+msgstr "저렴한 거래"
 
 msgctxt "Narration/&DLC1_Marches_CS10"
 msgid "Remains of What Used to Be"
-msgstr ""
+msgstr "옛것의 잔재들"
 
 msgctxt "Narration/&DLC1_Marches_CS11"
 msgid "Trapped!"
-msgstr ""
+msgstr "함정에 빠졌다!"
 
 msgctxt "Narration/&DLC1_Marches_CS12"
 msgid "The Only Way is Forward"
-msgstr ""
+msgstr "전진만이 유일한 길"
 
 msgctxt "Narration/&Swamp_CS_05"
 msgid "The Forge"
-msgstr ""
+msgstr "대장간"
 
 msgctxt "Narration/&Swamp_CS_06"
 msgid "The Queen is dead…long live the Queen!"
-msgstr ""
+msgstr "여왕이 죽었다... 여왕이여 만수무강 하소서!"
 
 msgctxt "Narration/&Swamp_CS_07"
 msgid "Missing in Action"
-msgstr ""
+msgstr "행방불명"
 
 msgctxt "Narration/&Swamp_CS_08"
 msgid "An Affront to Majesty"
-msgstr ""
+msgstr "왕권 모독"
 
 msgctxt "Narration/&Swamp_CS_09"
 msgid "The Envoys"
-msgstr ""
+msgstr "사절들"
 
 msgctxt "Narration/&Swamp_CS_10"
 msgid "A Suspicious Ambush"
-msgstr ""
+msgstr "수상한 매복"
 
 msgctxt "Narration/&Swamp_CS_11"
 msgid "Mistrust"
-msgstr ""
+msgstr "불신"
 
 msgctxt "Narration/&Swamp_CS_12"
 msgid "Ill Tidings"
-msgstr ""
+msgstr "나쁜 소식들"
 
+#, fuzzy
 msgctxt "Narration/&Swamp_CS_13"
 msgid "Parlay"
-msgstr ""
+msgstr "협상"
 
 msgctxt "Narration/&Swamp_CS_14"
 msgid "Face to Face"
-msgstr ""
+msgstr "대면"
 
 msgctxt "Narration/&Orenetis_CS_04"
 msgid "Monster Hunters"
-msgstr ""
+msgstr "괴물 사냥꾼들"
 
+#, fuzzy
 msgctxt "Narration/&Orenetis_CS_05"
 msgid "The Runaway Assistant"
-msgstr ""
+msgstr "탈주 도우미"
 
+#, fuzzy
 msgctxt "Narration/&Orenetis_CS_06"
 msgid "A Defiant Lord"
-msgstr ""
+msgstr "저항군주"
 
 msgctxt "Narration/&Orenetis_CS_07"
 msgid "Bend the Knee or Die"
-msgstr ""
+msgstr "복종하거나 죽거나"
 
 msgctxt "Narration/&Orenetis_CS_08"
 msgid "The Inner Circle"
-msgstr ""
+msgstr "핵심세력"
 
 msgctxt "Narration/&Orenetis_CS_09"
 msgid "Punisher"
-msgstr ""
+msgstr "징벌자"
 
+#, fuzzy
 msgctxt "Narration/&Orenetis_CS_10"
 msgid "Welcome Home"
-msgstr ""
+msgstr "귀환"
 
 msgctxt "Narration/&Orenetis_CS_11"
 msgid "Crush the Rebellion"
-msgstr ""
+msgstr "반란 진압"
 
 msgctxt "Narration/&Orenetis_CS_12"
 msgid "The Secret"
-msgstr ""
+msgstr "비밀"
 
 msgctxt "Narration/&Orenetis_CS_13"
 msgid "Free at Last"
-msgstr ""
+msgstr "마침내 자유를"
 
+#, fuzzy
 msgctxt "Narration/&CS_Title_ThePeople03"
 msgid "Bully"
-msgstr ""
+msgstr "양아치"
 
+#, fuzzy
 msgctxt "Narration/&CS_Title_ThePeople04"
 msgid "Vicious"
-msgstr ""
+msgstr "악랄한"
 
 msgctxt "Narration/&CS_Title_ThePeople05"
 msgid "The Faithful One"
-msgstr ""
+msgstr "믿음직한자"
 
 msgctxt "Narration/&CS_Title_ThePeople06"
 msgid "Breakers of Chains"
-msgstr ""
+msgstr "사슬 파괴자들"
 
 msgctxt "Narration/&CS_Title_ThePeople07"
 msgid "Saving Reya"
-msgstr ""
+msgstr "레야 구출"
 
 msgctxt "Narration/&CS_Title_ThePeople08"
 msgid "Anger Rises"
-msgstr ""
+msgstr "분노 유발"
 
 msgctxt "Narration/&CS_Title_ThePeople09"
 msgid "Food for the People"
-msgstr ""
+msgstr "사람들을 위한 음식"
 
 msgctxt "Narration/&CS_Title_ThePeople10"
 msgid "Truth Revealed"
-msgstr ""
+msgstr "드러난 진실"
 
 msgctxt "Narration/&CS_Title_ThePeople03_Denounce"
 msgid "Whistleblowers"
-msgstr ""
+msgstr "내부고발자들"
 
 msgctxt "Narration/&Orenetis_CS_04_FoundLysantir"
 msgid "He's alive."
-msgstr ""
+msgstr "그는 살아있다."
 
 msgctxt "Narration/&Orenetis_CS_06_Mid"
 msgid "Karelia's issue."
-msgstr ""
+msgstr "카렐리아의 골칫거리."
 
 msgctxt "Narration/&Orenetis_CS_06_End"
 msgid "Inn and out."
@@ -17638,7 +17652,7 @@ msgstr "죄송합니다만, 머튼. 저희에겐 해야 할 일이 있습니다.
 
 msgctxt "Narration/&Council02_1_21_Merton_NPC"
 msgid "Right. Say hello to the old lady for me, Carran!"
-msgstr "그래. 할멈에게 안부나 전해 달라고, 캐런!"
+msgstr "그래. 노부인에게 안부나 전해 달라고, 캐런!"
 
 msgctxt "Narration/&Council02_1_22_Default_Default"
 msgid "Who's this guy again?"
@@ -17654,7 +17668,7 @@ msgstr "하지만 지금은.. 음, 보시다시피죠."
 
 msgctxt "Narration/&Council02_1_25_Curious_Default"
 msgid "Who's this old lady?"
-msgstr "할멈이라뇨?"
+msgstr "노부인이라뇨?"
 
 msgctxt "Narration/&Council02_1_26_Merton_NPC"
 msgid "Just ignore him."
@@ -17678,7 +17692,7 @@ msgstr "음, 그렇다면, 문제가 생긴 것이로군요."
 
 msgctxt "Narration/&Council02_2_4_EinarBoss_NPC"
 msgid "It's a disaster! We all know what the Sorr-Akkath did on Tirmar!"
-msgstr "이건 재앙입니다! 우리 모두는 소르아카스가 티르마르에서 저지른 일을 알고 있습니다!"
+msgstr "이건 재앙입니다! 우리 모두는 소라카스가 티르마르에서 저지른 일을 알고 있습니다!"
 
 msgctxt "Narration/&Council02_2_5_Partner_Default"
 msgid "There's something else."
@@ -18908,7 +18922,7 @@ msgstr "그렇단 말이지?"
 
 msgctxt "Narration/&HostOfPrincess_8_Any_Default"
 msgid "Where is this residence?"
-msgstr "이 집은 어디에 있지?"
+msgstr "그 거주지는 어디에 있지?"
 
 msgctxt "Narration/&HostOfPrincess_9_Captain_NPC"
 msgid "In the Palace. Ask for Ravensworth, the royal butler. He'll show you."
@@ -19890,7 +19904,7 @@ msgctxt "Narration/&Council5_18_Crownbearer_Default"
 msgid ""
 "What security? Just last night, Soraks attacked our quarters in the "
 "residence!"
-msgstr "무슨 놈의 안전입니까? 바로 어젯밤, 소락이 우리 저택을 공격했다고요!"
+msgstr "무슨 놈의 안전입니까? 바로 어젯밤, 소락이 거주지에 있는 우리 저택을 공격했다고요!"
 
 msgctxt "Narration/&Council5_19_Faisech_NPC"
 msgid "What?"
@@ -21065,7 +21079,7 @@ msgstr "가문 문장도 명패도 뭐 아무 것도 없네."
 
 msgctxt "Narration/&ReturnToCC_CovenOfArivad4_Nosy_Formal"
 msgid "Nothing to say this is Halman Summer's residence."
-msgstr "여기가 할만 서머의 주거지라는 것을 보여주는 게 아무 것도 없군."
+msgstr "할만 서머가 이곳에 거주했다는 걸 보여주는 게 아무 것도 없군."
 
 msgctxt "Narration/&ReturnToCC_CovenOfArivad5_Spy_Normal"
 msgid "Not bad for a secret home."
@@ -21604,7 +21618,7 @@ msgstr "언젠가는요, 아르윈 머튼…"
 
 msgctxt "Narration/&ReturnToCC_Teleporter1_Princess_NPC"
 msgid "Don't look at me like that."
-msgstr "날 그런식으로 바라보지 마세요."
+msgstr "날 그런 식으로 바라보지 마세요."
 
 msgctxt "Narration/&ReturnToCC_Teleporter2_Any_Default"
 msgid "Your Royal Highness…"
@@ -24326,7 +24340,7 @@ msgstr "네가 찾아올 줄은 정말 몰랐어."
 
 msgctxt "Narration/&Optional_Spy_Quest27_Spy_Default"
 msgid "I bumped into Belmont at the Palace residence."
-msgstr "궁전의 거처에서 벨몬트 가의 사람을 만났어."
+msgstr "궁전의 거주지에서 벨몬트 가의 사람을 만났어."
 
 msgctxt "Narration/&Optional_Spy_Quest28_Joran_NPC"
 msgid "And?"
@@ -30557,11 +30571,11 @@ msgstr "저들을 처리하고 그들에게 잡힌 포로들을 풀어 줄 수 �
 
 msgctxt "Narration/&AbjurationEnding_62_Adrasteia_NPC"
 msgid "As a courtesy."
-msgstr "정중히 말이지."
+msgstr "부탁함세."
 
 msgctxt "Narration/&AbjurationEnding_63_Any_Default"
 msgid "We owe you that much. Thank you, Master Adrasteia."
-msgstr "덕분에 큰 빚을 졌습니다. 감사합니다, 아드라스테이아."
+msgstr "그 정도는 충분히 해드릴 수 있죠. 감사합니다, 아드라스테이아."
 
 msgctxt "Narration/&AbjurationMildred_Tavern_Welcome"
 msgid "Welcome to the inn!"
@@ -30605,7 +30619,7 @@ msgstr "경의를 표하기 위해 잠시 들렀을 뿐입니다."
 
 msgctxt "Narration/&Abjuration_Coparann_Atima_7_Cynical_Default"
 msgid "Not me."
-msgstr "됐어요."
+msgstr "저는 됐어요."
 
 msgctxt "Narration/&Abjuration_Coparann_Atima_8_Atima_NPC"
 msgid "Then good luck and fair weather, friends."
@@ -30646,7 +30660,7 @@ msgstr "나는 촌장이야. 그리고 자네는…"
 msgctxt "Narration/&AbjurationQuest_Kythaela_Jail_Aftermath_7_Ceannard_NPC"
 msgid ""
 "…you shall resume your duties only if our cleric says you're fit enough."
-msgstr "...자네는 일단 우리의 성직자께서 자네가 충분히 건강해졌다고 말씀하셔야 자네의 업무에 복귀할 수 있네."
+msgstr "...자네는 우리 성직자가 자네가 충분히 건강해졌다고 확인한 뒤에나 업무에 복귀할 수 있네."
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Jail_Aftermath_8_BaronStonefist_NPC"
 msgid "But -"
@@ -30658,7 +30672,7 @@ msgstr "토 달지 말게! 자네가 복귀할 때까지 이 요새와 계곡은
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Jail_Aftermath_10_Ceannard_NPC"
 msgid "As for you, my friends, find Lady Kythaela's belongings…"
-msgstr "그리고 모험자분들께서는, 키타엘라양의 소유물들을 찾아서…"
+msgstr "그리고 모험자분들께서는, 레이디 키타엘라의 물건들을 찾아서…"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Jail_Aftermath_11_Ceannard_NPC"
 msgid "…and meet me in the throne room."
@@ -30679,7 +30693,7 @@ msgstr "그렇게 하겠습니다."
 msgctxt ""
 "Narration/&AbjurationQuest_Kythaela_Gear_1_CrownbearerOrArcane_Highest_Normal"
 msgid "Tell us, Lady Kythaela, what did you find? A gem? "
-msgstr "키타엘라 양, 이제 말씀해주세요. 뭘 찾아냈습니까? 보석인가요? "
+msgstr "레이디 키타엘라, 이제 말씀해주세요. 뭘 찾아냈습니까? 보석인가요? "
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Gear_2_Kythaela_NPC"
 msgid "This is my spellbook - I remember!"
@@ -30706,15 +30720,15 @@ msgstr "다른 어떤 장소를 가리키는걸까요?"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Gear_6_Kythaela_NPC"
 msgid "I… I'm not sure! I feel the pull returning!"
-msgstr "확실하진… 않구나! 이끌림이 느껴지긴 하지만!"
+msgstr "확실하진… 않구나! 이끌림이 다시 느껴지긴 하지만!"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Gear_7_InsightOrElse_Normal"
 msgid "I guess we'll soon be on the road again, then."
-msgstr "그렇다면 우린 조만간 또다시 길바닥 위에 내몰리겠구만."
+msgstr "그렇다면 우린 조만간 다시 여정을 떠나게 되겠구만."
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Gear_8_SarcasticOrElse_Normal"
 msgid "More monsters to kill… fantastic…"
-msgstr "몬스터들을 잡아죽일 껀덕지가 더 있었다니... 환상적이군…"
+msgstr "몬스터들을 또 죽여야 한다니... 아주 환상적이군…"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Gear_9_PerceptionHighest_Normal"
 msgid "What about that door? Another secret from Imperial times?"
@@ -30741,7 +30755,7 @@ msgstr "먼지 풀풀 날리는 이 낡아빠진 방이?   "
 msgctxt ""
 "Narration/&AbjurationQuest_Kythaela_CoparannGateroom_5_ArcanaHighest_Normal"
 msgid "Yes, look at it! It's perfectly intact."
-msgstr "그래, 좀 보라구! 아무 것도 손상되지 않았어."
+msgstr "그래, 좀 보라구! 원형 그대로 보존되어 있어."
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_CoparannGateroom_8_Kythaela_NPC"
 msgid "It is locked, though."
@@ -30759,7 +30773,7 @@ msgstr "문의 이름을 사용해야지. "
 msgctxt "Narration/&AbjurationQuest_Kythaela_CoparannGateroom_11_Kythaela_NPC"
 msgid ""
 "It would normally be engraved nearby, but this was a private, secret Gate."
-msgstr "보통은 근처에 새겨놓지만, 이 문은 사적으로 사용되던, 비밀 관문이었어."
+msgstr "보통은 근처에 새겨 놓지만, 이 문은 사적으로 사용되던, 비밀 관문이었다네."
 
 msgctxt ""
 "Narration/&AbjurationQuest_Kythaela_CoparannGateroom_12_Pragmatic_Normal"
@@ -30823,7 +30837,7 @@ msgstr "냄새 좀 봐 - 유황 냄새 같은데."
 
 msgctxt "Narration/&CradleOfFire_Arriving_3_Reactor_Slang"
 msgid "And it stinks like an orc's backside."
-msgstr "망할 오크 땀 냄새 같잖아."
+msgstr "망할 오크 똥구녕 냄새 같잖아."
 
 msgctxt "Narration/&CradleOfFire_Arriving_4_Reactor_Formal"
 msgid "Indeed, the smell here is awful."
@@ -30831,7 +30845,7 @@ msgstr "확실히 끔찍한 냄새네."
 
 msgctxt "Narration/&CradleOfFire_Arriving_5_Pragmatic_Default"
 msgid "We're deep in the Badlands, sure - but there is a gem around here."
-msgstr "우리가 황무지 깊이 들어온 건 분명해 - 하지만 보석이 여기 어딘가에 있겠지."
+msgstr "우리가 황무지 깊이 들어온 건 분명해 - 하지만 보석이 여기 어딘가에 있어."
 
 msgctxt "Narration/&CradleOfFire_Arriving_6_Selfpres_Default"
 msgid "You never know. Remember the Gem of Abjuration? "
@@ -30843,7 +30857,7 @@ msgstr "왕관의 신호는 키타엘라를 찾기 위한 미끼에 불과했지
 
 msgctxt "Narration/&CradleOfFire_Arriving_8_Default_Default"
 msgid "Look, is that an orc totem?"
-msgstr "저거 봐, 오크 토템이잖아?"
+msgstr "저거, 오크 토템이야?"
 
 msgctxt "Narration/&CradleOfFire_FindingKebra_9_Default_Default"
 msgid "An orc… woman?"
@@ -30879,7 +30893,7 @@ msgstr "저항할 수 없는 상태야. 자비를 베풀자고."
 
 msgctxt "Narration/&CradleOfFire_FindingKebra_17_Kill_Slang"
 msgid "No glory in slaughtering someone who's already down."
-msgstr "이미 쓰러진 상대를 도살하는 건 명예롭지 못해."
+msgstr "이미 쓰러진 상대를 죽여버리는 데에 명예란 없지."
 
 msgctxt "Narration/&CradleOfFire_FindingKebra_18_Kill_Formal"
 msgid ""
@@ -30896,7 +30910,7 @@ msgstr "우리 알 바야? 보석이나 수색하자."
 
 msgctxt "Narration/&CradleOfFire_FindingKebra_21_Speak_Default"
 msgid "What's the risk, here? She's alone and wounded."
-msgstr "위험할 게 뭐 있어? 숫자도 하나에 부상까지 입었는데."
+msgstr "위험할 게 뭐 있어? 혼자인 데다가 부상까지 입었는데."
 
 msgctxt "Narration/&CradleOfFire_FindingKebra_22_Arcana_Default"
 msgid "She's a shaman. She could cast a spell on us."
@@ -30913,7 +30927,7 @@ msgstr "까놓고 말해서, 난 여기서 뭔 일이 벌어진지 알고 싶어
 
 msgctxt "Narration/&CradleOfFire_FindingKebra_25_Kebra_NPC"
 msgid "You… healed me?"
-msgstr "너... 날 치료했나?"
+msgstr "네가... 날 치료했나?"
 
 msgctxt "Narration/&CradleOfFire_FindingKebra_26_Kebra_NPC"
 msgid "Why not kill me?"
@@ -30973,7 +30987,7 @@ msgstr "나크 아미 안다."
 
 msgctxt "Narration/&CradleOfFire_FindingKebra_40_Kebra_NPC"
 msgid "A nyark who speaks orc!"
-msgstr "나크가 오크 말을 한다!"
+msgstr "오크 말을 하는 나크라니!"
 
 msgctxt "Narration/&CradleOfFire_FindingKebra_41_Kebra_NPC"
 msgid "Kebra like to know your story."
@@ -30993,7 +31007,7 @@ msgstr "아록이 그랬다."
 
 msgctxt "Narration/&CradleOfFire_FindingKebra_45_Kebra_NPC"
 msgid "Arrok is Redscar tribe shaman, powerful."
-msgstr "아록, 레드스카 부족의 주술사다. 강하다."
+msgstr "아록, 붉은흉터 부족의 주술사다. 강하다."
 
 msgctxt "Narration/&CradleOfFire_FindingKebra_46_Kebra_NPC"
 msgid "But so powerful… I not know."
@@ -31077,7 +31091,7 @@ msgstr "어쨌든, 우리는 이 브록이라는 친구를 찾아야 해."
 
 msgctxt "Narration/&CradleOfFire_FindingKebra_66_Kill_CHOICE"
 msgid "Take us to Arrok."
-msgstr "아록에게 데려다주시오."
+msgstr "아록에게 데려다줘."
 
 msgctxt "Narration/&CradleOfFire_FindingKebra_67_Help_CHOICE"
 msgid "We'll avenge your tribe."
@@ -31085,7 +31099,7 @@ msgstr "당신 부족의 복수를 해 주지."
 
 msgctxt "Narration/&CradleOfFire_FindingKebra_68_Kill_Default"
 msgid "Help us to find Arrok."
-msgstr "아록을 찾는 걸 도와주시오."
+msgstr "아록을 찾는 걸 도와줘."
 
 msgctxt "Narration/&CradleOfFire_FindingKebra_69_Help_Default"
 msgid "Lead us to Arrok and we'll avenge your tribe."
@@ -31121,7 +31135,7 @@ msgstr "대화로 풀어도 되고."
 
 msgctxt "Narration/&CradleOfFire_Entrance_7_Stealthy_Default"
 msgid "Or sneak around."
-msgstr "돌아 들어가도 되겠지."
+msgstr "침투해도 되겠지."
 
 msgctxt "Narration/&CradleOfFire_Entrance_1_Arbal_NPC"
 msgid "Kebra."
@@ -31129,7 +31143,7 @@ msgstr "케브라."
 
 msgctxt "Narration/&CradleOfFire_Entrance_2_Arbal_NPC"
 msgid "Good you not dead."
-msgstr "안 죽었다니 다행이다."
+msgstr "다행. 안 죽어서."
 
 msgctxt "Narration/&CradleOfFire_Entrance_5_Cynical_CHOICE"
 msgid "Nice to meet you too."
@@ -31141,7 +31155,7 @@ msgstr "우린 친구다, 힘 센 아르발. (오크어로)"
 
 msgctxt "Narration/&CradleOfFire_Entrance_7_Pragmatic_CHOICE"
 msgid "Is there any way we can get in?"
-msgstr "우리가 들어갈 방법 있나요?"
+msgstr "우리가 들어갈 방법이 있나?"
 
 msgctxt "Narration/&CradleOfFire_Entrance_8_Intimidation_CHOICE"
 msgid "Move away or you die."
@@ -31149,11 +31163,12 @@ msgstr "죽기 싫으면 비키는 게 좋을 거야."
 
 msgctxt "Narration/&CradleOfFire_Entrance_9_Cynical_Default"
 msgid "Nice to meet you too, Arbal."
-msgstr "만나서 반갑소, 아르발."
+msgstr "우리도 만나서 반가워, 아르발."
 
+#, fuzzy
 msgctxt "Narration/&CradleOfFire_Entrance_11_Cynical_Default"
 msgid "Please yourself."
-msgstr "원하시는대로 하시죠."
+msgstr "마음대로 해보시지."
 
 msgctxt "Narration/&CradleOfFire_Entrance_12_Intimidation_Default"
 msgid "You should step away before we kill you."
@@ -31165,19 +31180,19 @@ msgstr "나크 아미 안다, 카르코 아르발."
 
 msgctxt "Narration/&CradleOfFire_Entrance_16_Pragmatic_Default"
 msgid "Is there any way we can get in?"
-msgstr "우리가 들어갈 방법이 있나요?"
+msgstr "우리가 들어갈 방법이 있나?"
 
 msgctxt "Narration/&CradleOfFire_Entrance_17_Arbal_NPC"
 msgid "To kill orcs inside? Think not."
-msgstr "들어가서 오크들을 죽이려고? 꿈 깨라."
+msgstr "안에 오크들 죽이려고? 꿈 깨."
 
 msgctxt "Narration/&CradleOfFire_Entrance_18_Friendly_Default"
 msgid "We want to help Kebra."
-msgstr "우린 케브라를 돕고 싶어요."
+msgstr "우린 케브라를 도우려고 해."
 
 msgctxt "Narration/&CradleOfFire_Entrance_19_Arbal_NPC"
 msgid "Suncloud dead. Brok hanging in market."
-msgstr "태양구름은 죽었다. 브록은 장터에 내걸렸어."
+msgstr "태양구름 죽었다. 브록 장터에 내걸렸다."
 
 msgctxt "Narration/&CradleOfFire_Entrance_20_Friendly_CHOICE"
 msgid "Brok is alive?"
@@ -31185,7 +31200,7 @@ msgstr "브록이 살아있어?"
 
 msgctxt "Narration/&CradleOfFire_Entrance_21_Nosy_CHOICE"
 msgid "What tribe are you from?"
-msgstr "당신은 어느 부족 출신이죠?"
+msgstr "너는 어느 부족 출신이지?"
 
 msgctxt "Narration/&CradleOfFire_Entrance_21_Violence_CHOICE"
 msgid "Why not stand against Arrok?"
@@ -31197,15 +31212,15 @@ msgstr "넌 강하잖아, 왜 아록이랑 안 싸워?"
 
 msgctxt "Narration/&CradleOfFire_Entrance_23_Arbal_NPC"
 msgid "Him too powerful."
-msgstr "그놈도 매우 강하다."
+msgstr "그놈 너무 강하다."
 
 msgctxt "Narration/&CradleOfFire_Entrance_24_Arbal_NPC"
 msgid "Maybe with all tribes together."
-msgstr "모든 부족이 힘을 합해야 가능할지도 몰라."
+msgstr "모든 부족 함께면 될 지도."
 
 msgctxt "Narration/&CradleOfFire_Entrance_25_Arbal_NPC"
 msgid "Not possible."
-msgstr "불가능한 일이다."
+msgstr "그건 불가능."
 
 msgctxt "Narration/&CradleOfFire_Entrance_25_Nosy_Default"
 msgid "What tribe are you from, Arbal?"
@@ -31221,13 +31236,13 @@ msgstr "이 화산에 부족은 얼마나 있지?"
 
 msgctxt "Narration/&CradleOfFire_Entrance_28_Arbal_NPC"
 msgid "Four, Suncloud is dead."
-msgstr "넷, 태양구름 부족은 죽었다."
+msgstr "넷, 태양구름은 죽었다."
 
 msgctxt "Narration/&CradleOfFire_Entrance_29_Arbal_NPC"
 msgid ""
 "Other tribes: Redscar, tribe of Arrok. Also Sandraven, Bladefang, and "
 "Bloodspear."
-msgstr "나머지는 모래까마귀, 날송곳니, 피묻은창 그리고 아록이 태어난 붉은흉터 부족이다."
+msgstr "나머지는 모래까마귀, 날송곳니, 피묻은창, 그리고 아록 부족 붉은흉터다."
 
 msgctxt "Narration/&CradleOfFire_Entrance_30_Cynical_Default"
 msgid "Such poetic names! I'm quite moved."
@@ -31239,7 +31254,7 @@ msgstr "브록이 살아있다고? 아록이랑 싸우고 나서도?"
 
 msgctxt "Narration/&CradleOfFire_Entrance_31_Arbal_NPC"
 msgid "Brok not want to die. Plenty tough."
-msgstr "브록은 죽을 생각 없으니까. 아주 질기다."
+msgstr "브록 죽을 생각 없다. 아주 질기다."
 
 msgctxt "Narration/&CradleOfFire_Entrance_32_Arbal_NPC"
 msgid "Arrok put him on display in market."
@@ -31251,7 +31266,7 @@ msgstr "그럼 우리가 풀어주면, 태양구름은… 더 이상 죽은 게 
 
 msgctxt "Narration/&CradleOfFire_Entrance_34_Arbal_NPC"
 msgid "Two-orc tribe? Ha! Plenty strong, that tribe! Ha, ha!"
-msgstr "오크 둘짜리 부족? 하! 퍽이나 강하겠다, 그 부족! 하, 하!"
+msgstr "오크 둘 부족? 하! 매우 강하다, 그 부족! 하, 하!"
 
 msgctxt "Narration/&CradleOfFire_Entrance_35_Persuasion_CHOICE"
 msgid "Let's go and free this Brok."
@@ -31279,11 +31294,11 @@ msgstr "나크 리베르 브록 반투?"
 
 msgctxt "Narration/&CradleOfFire_Entrance_41_Deception_Default"
 msgid "Stupid. Brok prisoner - has nothing!"
-msgstr "멍청이. 브록은 죄수다 - 갚을래도 가진 게 없다!"
+msgstr "멍청이. 브록 죄수다 - 가진 게 없다!"
 
 msgctxt "Narration/&CradleOfFire_Entrance_42_Arbal_NPC"
 msgid "Lots of Redscar orcs in there."
-msgstr "붉은흉터 오크가 많을 거다."
+msgstr "붉은흉터 오크 많다."
 
 msgctxt "Narration/&CradleOfFire_Entrance_43_Arbal_NPC"
 msgid "Arbal like to see that fight."
@@ -31307,16 +31322,17 @@ msgstr "보이는 건 군사 거점 같은데 말야."
 
 msgctxt "Narration/&CradleOfFire_OrcCamp_4_Kebra_NPC"
 msgid "Redscar take, to control entrance to volcano."
-msgstr "붉은 흉터가 뺏었다, 화산으로 들어가는 입구를 쥐락펴락하려고."
+msgstr "붉은 흉터가 뺏었다, 화산으로 들어가는 입구 통제하려고."
 
 msgctxt "Narration/&CradleOfFire_OrcCamp_5_Nosy_Default"
 msgid "Is that your chieftain? That Brok, there?"
-msgstr "이쪽이 너네 족장이야? 당신은, 브록 맞고?"
+msgstr "저쪽이 너희 족장이야? 그 브록, 저기 있는 게?"
 
 msgctxt "Narration/&CradleOfFire_OrcCamp_6_Nosy_Formal"
 msgid "Is this orc your chieftain, Kebra?"
-msgstr "이 오크가 네 족장이야, 케브라?"
+msgstr "이 오크가 너희 족장이야, 케브라?"
 
+#, fuzzy
 msgctxt "Narration/&CradleOfFire_OrcCamp_7_Kebra_NPC"
 msgid "That Brok. Suncloud chief. Arrok show him off as prisoner."
 msgstr "브록 맞다. 태양구름 족장. 애록이 조리돌렸다."
@@ -31333,23 +31349,23 @@ msgstr "가자!"
 
 msgctxt "Narration/&CradleOfFire_SavedBrok_1_Brok_NPC"
 msgid "Kebra, you alive!"
-msgstr "케브라, 살아있었군!"
+msgstr "케브라, 살았군!"
 
 msgctxt "Narration/&CradleOfFire_SavedBrok_2_Kebra_NPC"
 msgid "Alive. These nyarks helped me, Brok."
-msgstr "살아있었다. 이 나크들이 날 도와줬어, 브록."
+msgstr "살았다. 이 나크들이 날 도와줬어, 브록."
 
 msgctxt "Narration/&CradleOfFire_SavedBrok_3_Brok_NPC"
 msgid "Why? Nyarks hate orcs."
-msgstr "왜? 나크들은 오크들 싫어할 텐데."
+msgstr "왜? 나크들은 오크들 싫어한다."
 
 msgctxt "Narration/&CradleOfFire_SavedBrok_4_Kebra_NPC"
 msgid "They want Arrok. His power."
-msgstr "이들은 아록을 찾고 있다. 그의 힘을 원한다."
+msgstr "이들은 아록 원한다. 그의 힘을."
 
 msgctxt "Narration/&CradleOfFire_SavedBrok_5_Brok_NPC"
 msgid "Orcs and nyarks not friends."
-msgstr "오크랑 나크는 친구가 아니지만."
+msgstr "오크랑 나크 친구가 아니다."
 
 msgctxt "Narration/&CradleOfFire_SavedBrok_6_Brok_NPC"
 msgid "But Arrok… he bring doom to Cradle of Fire. All tribes."
@@ -31373,15 +31389,15 @@ msgstr "아록에 대해 아는 것 있어?"
 
 msgctxt "Narration/&CradleOfFire_SavedBrok_11_Brok_NPC"
 msgid "Arrok shaman of Redscar, never big orc."
-msgstr "아록은 붉은 흉터의 주술사다, 덩치 큰 오크도 아니다."
+msgstr "아록 붉은 흉터의 주술사다, 덩치 큰 오크 아니다."
 
 msgctxt "Narration/&CradleOfFire_SavedBrok_12_Brok_NPC"
 msgid "Arrok search in sunken city, find new power."
-msgstr "아록은 새로운 힘을 찾아서, 가라앉은 도시를 수색했다."
+msgstr "아록은 가라앉은 도시 수색했고, 새로운 힘을 찾았다."
 
 msgctxt "Narration/&CradleOfFire_SavedBrok_13_Brok_NPC"
 msgid "Power of fire. Unstoppable."
-msgstr "누구도 막을 수 없는, 불의 힘 말이다."
+msgstr "불의 힘. 막을 수 없다."
 
 msgctxt "Narration/&CradleOfFire_SavedBrok_14_Selfpres_Default"
 msgid "Tell us how Arrok destroyed your tribe."
@@ -31393,11 +31409,11 @@ msgstr "아록은 불의 힘을 쓴다."
 
 msgctxt "Narration/&CradleOfFire_SavedBrok_16_Brok_NPC"
 msgid "More fire, stronger fire. No orc shaman can do such fire."
-msgstr "더 많고, 더 강력한 불. 어떤 오크 주술사도 그런 불은 못 부린다."
+msgstr "더 많은 불, 더 강력한 불. 어떤 오크 주술사도 그런 불은 못 부린다."
 
 msgctxt "Narration/&CradleOfFire_SavedBrok_17_Brok_NPC"
 msgid "All tribes kneel."
-msgstr "모든 부족이 조아렸다."
+msgstr "모든 부족이 무릎 꿇었다."
 
 msgctxt "Narration/&CradleOfFire_SavedBrok_18_Pragmatic_Default"
 msgid "We'd like to meet this Arrok. Can you help?"
@@ -31405,15 +31421,15 @@ msgstr "그 아록을 만나보고 싶은데. 도와줄 수 있어?"
 
 msgctxt "Narration/&CradleOfFire_SavedBrok_19_Brok_NPC"
 msgid "Help kill Arrok. Yes."
-msgstr "아록을 죽이겠다? 좋다."
+msgstr "아록 죽이겠다? 좋다."
 
 msgctxt "Narration/&CradleOfFire_SavedBrok_20_Brok_NPC"
 msgid "Arrok behind Redscar Gate, in sunken city."
-msgstr "아록은 가라앉은 도시의, 붉은흉터 관문 뒤에 있다."
+msgstr "아록 가라앉은 도시의, 붉은흉터 관문 뒤에 있다."
 
 msgctxt "Narration/&CradleOfFire_SavedBrok_21_Brok_NPC"
 msgid "Arrok and Redscar hard to fight. Need all tribes together."
-msgstr "아록과 붉은흉터는 상대하기 힘들다. 모든 부족 필요하다."
+msgstr "아록과 붉은흉터 상대하기 힘들다. 모든 부족 필요하다."
 
 msgctxt "Narration/&CradleOfFire_SavedBrok_22_Nosy_CHOICE"
 msgid "What is this sunken city?"
@@ -31437,7 +31453,7 @@ msgstr "아록과 붉은흉터 강하다. 너희 나크만으로는 모자라."
 
 msgctxt "Narration/&CradleOfFire_SavedBrok_27_Default_Normal"
 msgid "But with all tribes together, maybe win."
-msgstr "하지만 모든 부족을 규합하면, 승산이 있다."
+msgstr "하지만 모든 부족과 함께면, 승산 있다."
 
 msgctxt "Narration/&CradleOfFire_SavedBrok_28_Nosy_Default"
 msgid "What is the sunken city you spoke of?"
@@ -34716,7 +34732,7 @@ msgctxt "Narration/&TowerOfMagicFight1over_26_Einar_Default"
 msgid ""
 "The Soraks call him Sorr-Tarr. \"Sorr-Akkath\" means \"beloved of Sorr-Tarr\""
 " in their tongue."
-msgstr "소락들은 그를 소르타르라고 불러. 저들의 언어로 \"소르아카스\"는 \"소르타르의 사랑을 받는 자\"를 뜻하지."
+msgstr "소락들은 아리바드를 소르타르라고 불러. 저들의 언어로 \"소라카스\"는 \"소르타르의 사랑을 받는 자\"를 뜻하지."
 
 msgctxt "Narration/&TowerOfMagicFight1over_27_Lowlife_Default"
 msgid "I've heard whispers of cultists with an \"A\" tattoo."
