@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2021-12-19 04:16+0000\n"
+"PO-Revision-Date: 2021-12-19 07:11+0000\n"
 "Last-Translator: Sh K. <wjswn244@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/monster/ko/"
 ">\n"
@@ -337,10 +337,9 @@ msgctxt "Monster/&MutatedBear_Regeneration_Title"
 msgid "Mutated Bear Regeneration"
 msgstr "변이된 곰 재생"
 
-#, fuzzy
 msgctxt "Monster/&MutatedBear_Regeneration_Description"
 msgid "Mutated Apes regenerate 2 HP per turn."
-msgstr "변이된 유인원(문맥은 곰)은 자신 턴마다 HP 2를 회복합니다."
+msgstr "변이된 곰은 자신 턴마다 HP 2를 회복합니다."
 
 msgctxt "Monster/&ShamblingMound_Title"
 msgid "Shambling Mound"
@@ -378,15 +377,13 @@ msgctxt "Monster/&DryadQueen_Description"
 msgid "A large and powerful dryad, who seems to lead a pack of lesser dryads."
 msgstr "하위 드라이어드 무리를 이끄는 것으로 보이는, 크고 강력한 드라이어드."
 
-#, fuzzy
 msgctxt "Monster/&Werebear_Title"
 msgid "Dryad Queen"
-msgstr "드라이어드 여왕 (문맥은 웨어베어)"
+msgstr "웨어베어"
 
-#, fuzzy
 msgctxt "Monster/&Werebear_Description"
 msgid "A large and powerful dryad, who seems to lead a pack of lesser dryads."
-msgstr "문맥은 웨어베어 설명."
+msgstr "웨어베어 설명."
 
 msgctxt "Monster/&Golem_Description"
 msgid ""
@@ -417,12 +414,12 @@ msgstr "이 돌연변이는 일반 트롤과 확연히 다르고, 대부분은 �
 
 msgctxt "Monster/&Redeemer_Juggernaut_Title"
 msgid "Juggernaut"
-msgstr ""
+msgstr "멈출 수 없는 자"
 
 msgctxt "Monster/&Redeemer_Juggernaut_Description"
 msgid ""
 "This gigantic redeemer is clearly at the top of the food chain in the family."
-msgstr ""
+msgstr "이 비대한 구원자는 친족 내의 먹이사슬 중 정점에 있는 게 명백해 보입니다."
 
 msgctxt "Monster/&Swamp_Hag_Title"
 msgid "Swamp Hag"
