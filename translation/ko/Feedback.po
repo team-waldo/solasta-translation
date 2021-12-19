@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2021-12-18 14:49+0000\n"
+"PO-Revision-Date: 2021-12-19 04:15+0000\n"
 "Last-Translator: Sh K. <wjswn244@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/feedback/"
 "ko/>\n"
@@ -1204,11 +1204,11 @@ msgstr "{0}은(는) 잔인한 치명타로 {1}에게 더 많은 피해를 줍니
 
 msgctxt "Feedback/&AdditionalDamageEnemyOfMagicFormat"
 msgid "Enemy Of Magic !"
-msgstr ""
+msgstr "마법의 천적!"
 
 msgctxt "Feedback/&AdditionalDamageEnemyOfMagicLine"
 msgid "{0} is an Enemy of Magic and inflicts more damage to {1} (+{2})"
-msgstr ""
+msgstr "마법의 천적 {0}은(는) {1}에게 추가 피해(+{2})를 가합니다"
 
 msgctxt "Feedback/&AdditionalDamageSavageAttacksFormat"
 msgid "Savage Attacks!"

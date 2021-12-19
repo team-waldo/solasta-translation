@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2021-12-18 14:49+0000\n"
+"PO-Revision-Date: 2021-12-19 04:15+0000\n"
 "Last-Translator: Sh K. <wjswn244@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/feature/ko/"
 ">\n"
@@ -3666,7 +3666,7 @@ msgstr "전투의 함성"
 
 msgctxt "Feature/&EnemyOfMagicTitle"
 msgid "Enemy Of Magic"
-msgstr "마법의 적"
+msgstr "마법의 천적"
 
 msgctxt "Feature/&RejectMagicTitle"
 msgid "Reject Magic"
@@ -3772,10 +3772,9 @@ msgid ""
 "well as to poison and disease."
 msgstr "정령이나 페이에 의한 매혹 또는 공포 상태에 면역됩니다. 또한 독과 질병에도 면역됩니다."
 
-#, fuzzy
 msgctxt "Feature/&FeatureSetSpiritChoiceTitle"
 msgid "Spirit Choice"
-msgstr "Spirit 선택"
+msgstr "영의 형태 선택"
 
 msgctxt "Feature/&FeatureSetSpiritChoiceDescription"
 msgid "Choose a spirit to bond to. Grants a bonus to the bonded druid."
@@ -3783,7 +3782,7 @@ msgstr "유대를 맺을 Spirit을 선택하십시오. 유형에 따라 연결�
 
 msgctxt "Feature/&PowerSpiritBearTitle"
 msgid "Spirit Bear"
-msgstr ""
+msgstr "곰의 영"
 
 msgctxt "Feature/&PowerSpiritBearDescription"
 msgid ""
@@ -3801,7 +3800,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerSpiritWolfTitle"
 msgid "Spirit Wolf"
-msgstr ""
+msgstr "늑대의 영"
 
 msgctxt "Feature/&PowerSpiritWolfDescription"
 msgid ""
@@ -3819,7 +3818,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerSpiritApeTitle"
 msgid "Spirit Ape"
-msgstr ""
+msgstr "유인원의 영"
 
 msgctxt "Feature/&PowerSpiritApeDescription"
 msgid ""
@@ -3837,7 +3836,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerSpiritViperTitle"
 msgid "Spirit Viper"
-msgstr ""
+msgstr "독사의 영"
 
 msgctxt "Feature/&PowerSpiritViperDescription"
 msgid ""
@@ -3855,7 +3854,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerSpiritSpiderTitle"
 msgid "Spirit Spider"
-msgstr ""
+msgstr "거미의 영"
 
 msgctxt "Feature/&PowerSpiritSpiderDescription"
 msgid ""
@@ -3873,7 +3872,7 @@ msgstr ""
 
 msgctxt "Feature/&PowerSpiritEagleTitle"
 msgid "Spirit Eagle"
-msgstr ""
+msgstr "독수리의 영"
 
 msgctxt "Feature/&PowerSpiritEagleDescription"
 msgid ""
@@ -3891,7 +3890,7 @@ msgstr ""
 
 msgctxt "Feature/&FeatureSetSpiritCallTitle"
 msgid "Spirit Call"
-msgstr ""
+msgstr "영의 부름"
 
 #, fuzzy
 msgctxt "Feature/&FeatureSetSpiritCallDescription"
@@ -3903,7 +3902,7 @@ msgstr ""
 
 msgctxt "Feature/&FeatureSetSpiritBondTitle"
 msgid "Spirit Bond"
-msgstr ""
+msgstr "영의 유대"
 
 #, fuzzy
 msgctxt "Feature/&FeatureSetSpiritBondDescription"
@@ -3930,8 +3929,9 @@ msgstr ""
 
 msgctxt "Feature/&FeatureSetMagicalSpiritTitle"
 msgid "Magical Spirit"
-msgstr ""
+msgstr "마력의 영"
 
+#, fuzzy
 msgctxt "Feature/&FeatureSetMagicalSpiritDescription"
 msgid ""
 "The attacks of the kindred spirit are considered magical.\n"
@@ -3939,6 +3939,9 @@ msgid ""
 "kindred spirit, letting it regain a number of HP equal to your spellcasting "
 "ability bonus."
 msgstr ""
+"결속령이 가하는 공격은 마법적으로 간주됩니다.\n"
+"더 나아가 당신이 스스로를 치유할 때마다 치유의 힘이 결속령에게도 퍼져, 결속령이 당신의 주문 시전 능력치 수정치와 같은 양의 HP를 "
+"회복합니다."
 
 msgctxt "Feature/&FeatureSetSharedPainTitle"
 msgid "Shared Pain"
@@ -4081,7 +4084,7 @@ msgstr ""
 
 msgctxt "Feature/&SummoningAffinitySpiritBondTitle"
 msgid "Spirit Bond"
-msgstr ""
+msgstr "영의 유대"
 
 msgctxt "Feature/&WandererSkillsLoneWolfTitle"
 msgid "Lone Wolf"

@@ -1,16 +1,17 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-12-19 04:15+0000\n"
+"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/npc/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.4.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "NPC/&NPC_Marches_01_Title"
 msgid "Lord Hammond"
@@ -28,181 +29,211 @@ msgctxt "NPC/&NPC_Marches_04_Title"
 msgid "Krim Sunsail"
 msgstr "크림 선세일"
 
+#, fuzzy
 msgctxt "NPC/&NPC_Valley_Telerien_Purevoice_Title"
 msgid "Telerien Purevoice"
-msgstr ""
+msgstr "테레리언 퓨어보이스"
 
+#, fuzzy
 msgctxt "NPC/&NPC_Valley_Samko_Flint_Title"
 msgid "Samko Flint"
-msgstr ""
+msgstr "샘코 플린트"
 
+#, fuzzy
 msgctxt "NPC/&NPC_Forge_Hasdrubal_Title"
 msgid "Hasdrubal"
-msgstr ""
+msgstr "하스드루발"
 
+#, fuzzy
 msgctxt "NPC/&NPC_Forge_Ravener_Title"
 msgid "Ravener"
-msgstr ""
+msgstr "굶주린 자"
 
+#, fuzzy
 msgctxt "NPC/&NPC_Forge_Charmer_Title"
 msgid "Charmer"
-msgstr ""
+msgstr "멋쟁이"
 
+#, fuzzy
 msgctxt "NPC/&NPC_Forge_Cook_Title"
 msgid "Cook"
-msgstr ""
+msgstr "요리사"
 
+#, fuzzy
 msgctxt "NPC/&NPC_Swamp_HillGiant_Title"
 msgid "Rugan"
-msgstr ""
+msgstr "루간"
 
+#, fuzzy
 msgctxt "NPC/&NPC_Swamp_Apprentice_Title"
 msgid "Lysantir"
-msgstr ""
+msgstr "리산티르"
 
+#, fuzzy
 msgctxt "NPC/&NPC_ThePeople_Henrik"
 msgid "Henrik Redhand"
-msgstr ""
+msgstr "헨릭 레드핸드"
 
+#, fuzzy
 msgctxt "NPC/&NPC_ThePeople_Rose"
 msgid "Rose Fairwind"
-msgstr ""
+msgstr "로즈 페어윈드"
 
+#, fuzzy
 msgctxt "NPC/&NPC_ThePeople_Reya"
 msgid "Reya Schildberg"
-msgstr ""
+msgstr "레야 쉴드버그"
 
+#, fuzzy
 msgctxt "NPC/&NPC_ThePeople_Karelia"
 msgid "Karelia Snowfox"
-msgstr ""
+msgstr "카렐리아 스노우폭스"
 
+#, fuzzy
 msgctxt "NPC/&NPC_Orenetis"
 msgid "Orenetis"
-msgstr ""
+msgstr "오레네티스"
 
+#, fuzzy
 msgctxt "NPC/&NPC_Orenetis_Malariel"
 msgid "Malariel Brogarad"
-msgstr ""
+msgstr "말라리엘 브로가라드"
 
+#, fuzzy
 msgctxt "NPC/&NPC_MarinVing"
 msgid "Marin Ving"
-msgstr ""
+msgstr "마린 빙"
 
+#, fuzzy
 msgctxt "NPC/&NPC_VandoKlarn"
 msgid "Vando Klarn"
-msgstr ""
+msgstr "반도 클란"
 
+#, fuzzy
 msgctxt "NPC/&NPC_Mask_CafrainShadow"
 msgid "Cafrain Shadow"
-msgstr ""
+msgstr "카프레인 섀도"
 
+#, fuzzy
 msgctxt "NPC/&NPC_Orenetis_Finaliel"
 msgid "Finaliel Sharp-Mind"
-msgstr ""
+msgstr "피나리엘 샤프마인드"
 
+#, fuzzy
 msgctxt "NPC/&NPC_Sima_Temple"
 msgid "Sima Temple"
-msgstr ""
+msgstr "시마 신전"
 
+#, fuzzy
 msgctxt "NPC/&NPC_Ellaria_Anfarel"
 msgid "Ellaria Anfarel"
-msgstr ""
+msgstr "엘라리아 안파렐"
 
+#, fuzzy
 msgctxt "NPC/&NPC_Renno_Highwater"
 msgid "Renno Highwater"
-msgstr ""
+msgstr "레노 하이워터"
 
+#, fuzzy
 msgctxt "NPC/&NPC_Store_Reya"
 msgid "Clerical services"
-msgstr ""
+msgstr "성직 서비스"
 
+#, fuzzy
 msgctxt "NPC/&NPC_DLC_City_Guard_Title"
 msgid "City Guard"
-msgstr ""
+msgstr "도시 경비병"
 
+#, fuzzy
 msgctxt "NPC/&NPC_DLC_City_Guard_Description"
 msgid "A high elf guard bearing the arms of Orenetis."
-msgstr ""
+msgstr "오레네티스의 무기를 든 하이 엘프 경비병."
 
+#, fuzzy
 msgctxt "NPC/&NPC_DLC1_Anfarel_Noble"
 msgid "Elerien Anfarel"
-msgstr ""
+msgstr "엘레리엔 안파렐"
 
+#, fuzzy
 msgctxt "NPC/&NPC_DLC1_ThePeople_Tortured"
 msgid "Prisoner"
-msgstr ""
+msgstr "수감자"
 
+#, fuzzy
 msgctxt "NPC/&NPC_Forge_Escorted_01"
 msgid "Robert"
-msgstr ""
+msgstr "로버트"
 
+#, fuzzy
 msgctxt "NPC/&NPC_Forge_Escorted_02"
 msgid "Gertrude"
-msgstr ""
+msgstr "게트루드"
 
+#, fuzzy
 msgctxt "NPC/&NPC_Tuznut_Title"
 msgid "Tuznut"
-msgstr ""
+msgstr "터즈넛"
 
 msgctxt "NPC/&NPC_Tuznut_Description"
 msgid "TBD"
-msgstr ""
+msgstr "추후 추가"
 
 msgctxt "NPC/&NPC_Forge_Guard_Title"
 msgid "Guard"
-msgstr ""
+msgstr "경비병"
 
 msgctxt "NPC/&NPC_Forge_Guard_Description"
 msgid "TBD"
-msgstr ""
+msgstr "추후 추가"
 
 msgctxt "NPC/&NPC_Forge_Charmer_Description"
 msgid "TBD"
-msgstr ""
+msgstr "추후 추가"
 
 msgctxt "NPC/&NPC_Forge_Hasdrubal_Description"
 msgid "TBD"
-msgstr ""
+msgstr "추후 추가"
 
 msgctxt "NPC/&NPC_Forge_Ravener_Description"
 msgid "TBD"
-msgstr ""
+msgstr "추후 추가"
 
 msgctxt "NPC/&NPC_Forge_Cook_Description"
 msgid "TBD"
-msgstr ""
+msgstr "추후 추가"
 
 msgctxt "NPC/&NPC_Forge_Merchant_Description"
 msgid "TBD"
-msgstr ""
+msgstr "추후 추가"
 
 msgctxt "NPC/&NPC_Forge_Escorted_01_Description"
 msgid "TBD"
-msgstr ""
+msgstr "추후 추가"
 
 msgctxt "NPC/&NPC_Forge_Escorted_02_Description"
 msgid "TBD"
-msgstr ""
+msgstr "추후 추가"
 
 msgctxt "NPC/&NPC_Forge_Merchant_Title"
 msgid "TBD"
-msgstr ""
+msgstr "추후 추가"
 
 msgctxt "NPC/&NPC_Swamp_HillGiant_Description"
 msgid "TBD"
-msgstr ""
+msgstr "추후 추가"
 
 msgctxt "NPC/&NPC_Swamp_Apprentice_Description"
 msgid "TBD"
-msgstr ""
+msgstr "추후 추가"
 
+#, fuzzy
 msgctxt "NPC/&DLC1_NPC_Jakson_Title"
 msgid "Jakkon"
-msgstr ""
+msgstr "잭슨"
 
 msgctxt "NPC/&DLC1_NPC_Jakson_Description"
 msgid "TBD"
-msgstr ""
+msgstr "추후 추가"
 
 msgctxt "NPC/&Mana_Scholar_Title"
 msgid "Sitenero"
@@ -218,39 +249,46 @@ msgstr ""
 
 msgctxt "NPC/&DLC1_NPC_Marin_Ving"
 msgid "Marin Ving"
-msgstr ""
+msgstr "마린 빙"
 
+#, fuzzy
 msgctxt "NPC/&DLC1_NPC_Vando_Klarn"
 msgid "Vando Klarn"
-msgstr ""
+msgstr "반도 클란"
 
+#, fuzzy
 msgctxt "NPC/&DLC1_NPC_CityGuard_Captain_Sharp"
 msgid "Captain Sharp-Eyes"
-msgstr ""
+msgstr "샤프아이즈 대위"
 
+#, fuzzy
 msgctxt "NPC/&DLC1_NPC_Nobleman_ThePeople03_Title"
 msgid "Noble"
-msgstr ""
+msgstr "귀족"
 
+#, fuzzy
 msgctxt "NPC/&DLC1_NPC_Nobleman_ThePeople03_Description"
 msgid "Drunken Bully"
-msgstr ""
+msgstr "술 취한 양아치"
 
 msgctxt "NPC/&NPC_Red"
 msgid "Red"
 msgstr ""
 
+#, fuzzy
 msgctxt "NPC/&NPC_Valley_Telerien_Purevoice_Speak"
 msgid "Forge quartermaster"
-msgstr ""
+msgstr "포지 보급관"
 
+#, fuzzy
 msgctxt "NPC/&Prisoner_Title"
 msgid "Prisoner"
-msgstr ""
+msgstr "수감자"
 
+#, fuzzy
 msgctxt "NPC/&NPC_DLC_Armorer"
 msgid "Gail Hunt"
-msgstr ""
+msgstr "게일 헌트"
 
 msgctxt "NPC/&Kaseinax_Magister_Title"
 msgid "The Magister"
@@ -832,58 +870,64 @@ msgctxt "NPC/&NPC_Adrasteia_Title"
 msgid "Adrasteia"
 msgstr "아드라스테이아"
 
+#, fuzzy
 msgctxt "NPC/&Guard_Captain_Title"
 msgid "Guard Captain"
-msgstr ""
+msgstr "경비대장"
 
+#, fuzzy
 msgctxt "NPC/&Guard_Captain_Description"
 msgid "An officer in the complex's guard."
-msgstr ""
+msgstr "복합단지 경비 장교."
 
 msgctxt "NPC/&Guard_Elite_Title"
 msgid "Elite Guard"
-msgstr ""
+msgstr "정예 경비병"
 
 msgctxt "NPC/&Guard_Elite_Description"
 msgid "A superior quality guard."
-msgstr ""
+msgstr "뛰어난 실력의 경비병."
 
 msgctxt "NPC/&Guard_Recruit_Title"
 msgid "Guard"
-msgstr ""
+msgstr "경비병"
 
 msgctxt "NPC/&Guard_Recruit_Description"
 msgid "A guard."
-msgstr ""
+msgstr "그냥 경비."
 
 msgctxt "NPC/&Guard_Trainer_Title"
 msgid "Guard Trainer"
-msgstr ""
+msgstr "경비병 훈련가"
 
 msgctxt "NPC/&Guard_Trainer_Description"
 msgid "A skilled trainer serving the complex's guard."
-msgstr ""
+msgstr "복합단지의 경비를 위해 일하는 숙련된 훈련가."
 
 msgctxt "NPC/&Guard_Watcher_Title"
 msgid "Guard Watcher"
-msgstr ""
+msgstr "경비 감시자"
 
 msgctxt "NPC/&Guard_Watcher_Description"
 msgid "A sentry serving the complex's guard."
-msgstr ""
+msgstr "복합단지의 경비를 위해 일하는 보초."
 
+#, fuzzy
 msgctxt "NPC/&Mana_Crafter_Title"
 msgid "Mana Crafter"
-msgstr ""
+msgstr "마나 제작자"
 
+#, fuzzy
 msgctxt "NPC/&Mana_Scientist_Title"
 msgid "Mana Scientist"
-msgstr ""
+msgstr "마나 과학자"
 
+#, fuzzy
 msgctxt "NPC/&NPC_Auroc"
 msgid "Auroc"
-msgstr ""
+msgstr "오로크"
 
+#, fuzzy
 msgctxt "NPC/&NPC_Lorson"
 msgid "Lorson"
-msgstr ""
+msgstr "로슨"

@@ -1,16 +1,17 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-12-19 04:16+0000\n"
+"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/map/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.4.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "Map/&Location_Uncharted_Title_Marches"
 msgid "Marches"
@@ -32,15 +33,11 @@ msgctxt "Map/&Location_Explored_Title_Marches"
 msgid "Merchant campsite"
 msgstr "상단 야영지"
 
-#, fuzzy
-#| msgid ""
-#| "A place that travelling merchants commonly use to stay for the night, "
-#| "especially Galar Goldentongue."
 msgctxt "Map/&Location_Explored_Description_Marches"
 msgid ""
 "A place where travelling merchants often stay for the night, including Galar "
 "Goldentongue. However, access is blocked by a nest of redeemers."
-msgstr "여행하는 상인들, 특히 갈라르 골든텅이 보통 하룻밤을 나기 위해 사용하는 곳입니다."
+msgstr "갈라르 골든텅 같이, 여로에 오른 상인들이 자주 하룻밤을 나는 곳입니다. 하지만 현재는 구원자들의 둥지에 막혀 갈 수 없습니다."
 
 msgctxt "Map/&Location_Presentation_Title_Marches"
 msgid "Marches"
@@ -280,7 +277,7 @@ msgstr "버려진 야영지"
 
 msgctxt "Map/&Waypoint_DLC1_Marches_Nest"
 msgid "Redeemer nest"
-msgstr "구도자 둥지"
+msgstr "구원자 둥지"
 
 #, fuzzy
 #| msgid "Exit to valley"
