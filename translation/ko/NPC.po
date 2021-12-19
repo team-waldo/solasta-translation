@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2021-12-19 07:11+0000\n"
+"PO-Revision-Date: 2021-12-19 12:13+0000\n"
 "Last-Translator: Sh K. <wjswn244@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/npc/ko/>\n"
 "Language: ko\n"
@@ -122,7 +122,7 @@ msgstr "피나리엘 샤프마인드"
 #, fuzzy
 msgctxt "NPC/&NPC_Sima_Temple"
 msgid "Sima Temple"
-msgstr "시마 신전"
+msgstr "시마 템플"
 
 #, fuzzy
 msgctxt "NPC/&NPC_Ellaria_Anfarel"

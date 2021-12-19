@@ -1,16 +1,17 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-12-19 12:13+0000\n"
+"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/prop/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.4.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "Prop/&CandelabraTitle"
 msgid "Candelabra"
@@ -681,107 +682,107 @@ msgstr "해골 더미"
 
 msgctxt "Prop/&Beam_ScreenTitle"
 msgid "Beam Screen"
-msgstr ""
+msgstr "기둥 가리개"
 
 msgctxt "Prop/&Tavern_CounterTitle"
 msgid "Tavern Counter"
-msgstr ""
+msgstr "여관 카운터"
 
 msgctxt "Prop/&Walls_LowTitle"
 msgid "Low Wall"
-msgstr ""
+msgstr "낮은 벽"
 
 msgctxt "Prop/&PennantTitle"
 msgid "Pennant"
-msgstr ""
+msgstr "깃발"
 
 msgctxt "Prop/&HousePatchTitle"
 msgid "Market"
-msgstr ""
+msgstr "장터"
 
 msgctxt "Prop/&Drying_ClothesTitle"
 msgid "Hanging Clothes"
-msgstr ""
+msgstr "걸린 옷들"
 
 msgctxt "Prop/&WoodFenceTitle"
 msgid "Wood Fences"
-msgstr ""
+msgstr "목제 울타리"
 
 msgctxt "Prop/&FountainTitle"
 msgid "Fountain"
-msgstr ""
+msgstr "분수"
 
 msgctxt "Prop/&GallowTitle"
 msgid "Gallow"
-msgstr ""
+msgstr "교수대"
 
 msgctxt "Prop/&Flowers_PatchTitle"
 msgid "Flower Bush"
-msgstr ""
+msgstr "꽃덤불"
 
 msgctxt "Prop/&Flowerbed_LineTitle"
 msgid "Flowerbed Line"
-msgstr ""
+msgstr "직선 화단"
 
 msgctxt "Prop/&Garden_GroundTitle"
 msgid "Garden Ground"
-msgstr ""
+msgstr "정원 지면"
 
 msgctxt "Prop/&Garden_HedgeTitle"
 msgid "Garden Hedge"
-msgstr ""
+msgstr "정원 생울타리"
 
 msgctxt "Prop/&KioskTitle"
 msgid "Garden Kiosk"
-msgstr ""
+msgstr "정원 정자"
 
 msgctxt "Prop/&Wall_CreeperTitle"
 msgid "Wall Creeper"
-msgstr ""
+msgstr "담쟁이넝쿨"
 
 msgctxt "Prop/&Wall_CreeperDescription"
 msgid "Vegetation patch to place on top of walls"
-msgstr ""
+msgstr "벽 위에 부착하는 식물"
 
 msgctxt "Prop/&HouseTitle"
 msgid "House"
-msgstr ""
+msgstr "집"
 
 msgctxt "Prop/&Paved_Road_StraightTitle"
 msgid "Paved Road Straight"
-msgstr ""
+msgstr "직선 포장로"
 
 msgctxt "Prop/&Paved_Road_SquareTitle"
 msgid "Paved Road Square"
-msgstr ""
+msgstr "정사각형 포장로"
 
 msgctxt "Prop/&Paved_Road_TurnTitle"
 msgid "Paved Road Turn"
-msgstr ""
+msgstr "굽은 포장로"
 
 msgctxt "Prop/&Paved_Road_TShapeTitle"
 msgid "Paved Road T-Shape"
-msgstr ""
+msgstr "T자형 포장로"
 
 msgctxt "Prop/&Paved_Road_CrossTitle"
 msgid "Paved Road Cross Section"
-msgstr ""
+msgstr "교차로 포장로"
 
 msgctxt "Prop/&Paved_Road_DeadEndTitle"
 msgid "Paved Road Dead End"
-msgstr ""
+msgstr "막다른 포장로"
 
 msgctxt "Prop/&Information_BoardTitle"
 msgid "Information Board"
-msgstr ""
+msgstr "정보 게시판"
 
 msgctxt "Prop/&SeparatorTitle"
 msgid "Separator"
-msgstr ""
+msgstr "분리기둥"
 
 msgctxt "Prop/&SeparatorDescription"
 msgid "Wooden beam to place between thin walls"
-msgstr ""
+msgstr "얇은 벽 사이에 두는 목제 기둥"
 
 msgctxt "Prop/&JuniperGroundTitle"
 msgid "Juniper Ground Patch"
@@ -789,119 +790,122 @@ msgstr ""
 
 msgctxt "Prop/&ManholeCoverTitle"
 msgid "Manhole Cover"
-msgstr ""
+msgstr "하수구 뚜껑"
 
 msgctxt "Prop/&Merchant_BannerTitle"
 msgid "Merchant Banner"
-msgstr ""
+msgstr "상인 현수막"
 
 msgctxt "Prop/&Merchant_SignTitle"
 msgid "Merchant Sign"
-msgstr ""
+msgstr "상인 간판"
 
 msgctxt "Prop/&NightStandTitle"
 msgid "Nightstand"
-msgstr ""
+msgstr "침실용 탁자"
 
 msgctxt "Prop/&ShopStructureTitle"
 msgid "Shop Structure"
-msgstr ""
+msgstr "점포 구조물"
 
 msgctxt "Prop/&ShopBookStandTitle"
 msgid "Book Shop Stand"
-msgstr ""
+msgstr "서점 거치대"
 
 msgctxt "Prop/&ShopFoodStandTitle"
 msgid "Food Shop Stand"
-msgstr ""
+msgstr "식료품점 거치대"
 
 msgctxt "Prop/&ShopGeneralStoreTitle"
 msgid "General Store Stand"
-msgstr ""
+msgstr "일반 점포 거치대"
 
 msgctxt "Prop/&GenericShopTitle"
 msgid "Generic Shop Stand"
-msgstr ""
+msgstr "잡화점 거치대"
 
 msgctxt "Prop/&ShopMagicTitle"
 msgid "Magic Shop Stand"
-msgstr ""
+msgstr "마법상점 거치대"
 
 msgctxt "Prop/&ShopBookCounterTitle"
 msgid "Book Shop Counter"
-msgstr ""
+msgstr "서점 카운터"
 
 msgctxt "Prop/&ShopFoodCounterTitle"
 msgid "Food Shop Counter"
-msgstr ""
+msgstr "식료품점 거치대"
 
 msgctxt "Prop/&ShopGeneralCounterTitle"
 msgid "General Shop Counter"
-msgstr ""
+msgstr "일반 점포 카운터"
 
 msgctxt "Prop/&Shop_WoodenShedTitle"
 msgid "Wooden Shack"
-msgstr ""
+msgstr "목제 오두막"
 
 msgctxt "Prop/&TownSeparationWallsTitle"
 msgid "Town Inner Walls"
-msgstr ""
+msgstr "마을 내벽"
 
 msgctxt "Prop/&TownSeparationButressTitle"
 msgid "Town Inner Butress"
-msgstr ""
+msgstr "마을 부벽"
 
 msgctxt "Prop/&SmallWallsLadderTitle"
 msgid "Easy Climb Ivy"
-msgstr ""
+msgstr "사다리 담쟁이넝쿨"
 
 msgctxt "Prop/&SmallWallsLadderDescription"
 msgid "To place on wall blockers ONLY"
-msgstr ""
+msgstr "벽 위에만 설치 가능"
 
 msgctxt "Prop/&StableTitle"
 msgid "Stable"
-msgstr ""
+msgstr "마구간"
 
 msgctxt "Prop/&Statue_Little_EmperorTitle"
 msgid "Statue of a young Emperor"
-msgstr ""
+msgstr "젊은 황제 조각상"
 
+#, fuzzy
 msgctxt "Prop/&Statue_Maisy_JadeTitle"
 msgid "Statue of Maisy (jade)"
-msgstr ""
+msgstr "메이지 조각상 (옥)"
 
+#, fuzzy
 msgctxt "Prop/&Statue_Maisy_StoneTitle"
 msgid "Statue of Maisy (stone)"
-msgstr ""
+msgstr "메이지 조각상 (돌)"
 
+#, fuzzy
 msgctxt "Prop/&Statue_Maisy_MarbleTitle"
 msgid "Statue of Maisy (marble)"
-msgstr ""
+msgstr "메이지 조각상 (대리석)"
 
 msgctxt "Prop/&Statue_MisayeTitle"
 msgid "Statue of Misaye"
-msgstr ""
+msgstr "미사이에 조각상"
 
 msgctxt "Prop/&StreetLampostTitle"
 msgid "Street Lamp"
-msgstr ""
+msgstr "가로등"
 
 msgctxt "Prop/&StairsConnectorTitle"
 msgid "Stairs Connector"
-msgstr ""
+msgstr "계단 연결부"
 
 msgctxt "Prop/&StairsConnectorDescription"
 msgid "A stair case to connect low ground to high ground rooms"
-msgstr ""
+msgstr "저지대와 고지대 방을 연결하는 계단"
 
 msgctxt "Prop/&WallButressTitle"
 msgid "Butress"
-msgstr ""
+msgstr "부벽"
 
 msgctxt "Prop/&WoodPalissadeTitle"
 msgid "Wood Palissade"
-msgstr ""
+msgstr "나무 생울타리"
 
 msgctxt "Prop/&WoodPalissadeDescription"
 msgid "Grants heavy cover"
@@ -909,20 +913,20 @@ msgstr ""
 
 msgctxt "Prop/&House_ExtensionTitle"
 msgid "Extension (house)"
-msgstr ""
+msgstr "증축 (집)"
 
 msgctxt "Prop/&House_ExtensionDescription"
 msgid "To place along house's walls"
-msgstr ""
+msgstr "집의 벽을 따라 설치"
 
 msgctxt "Prop/&Wooden_BeamTitle"
 msgid "Wooden Beam"
-msgstr ""
+msgstr "목제 기둥"
 
 msgctxt "Prop/&Y_SeparatorTitle"
 msgid "Y Shape Wooden Beam"
-msgstr ""
+msgstr "Y자 목제 기둥"
 
 msgctxt "Prop/&Y_SeparatorDescription"
 msgid "To be placed on walls (not thin walls)"
-msgstr ""
+msgstr "벽 위에 설치 (얇은 벽 제외)"
