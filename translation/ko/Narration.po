@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2021-12-19 07:11+0000\n"
+"PO-Revision-Date: 2021-12-20 11:55+0000\n"
 "Last-Translator: lull_ <lull_@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
@@ -29464,7 +29464,7 @@ msgstr "경비 임무 갔다잖냐! 일주일 내내! 그리고 이제 순찰 �
 
 msgctxt "Narration/&AbjurationQuest_Seargent_1_YoungMaid_NPC"
 msgid "Sergeant, when can I see my Erik? He is due some liberty!"
-msgstr "상사님, 대체 언제 에릭을 볼 수 있죠? 이제 좀 쉴 때도 됐잖아요!"
+msgstr "하사님, 대체 언제 에릭을 볼 수 있죠? 이제 좀 쉴 때도 됐잖아요!"
 
 msgctxt "Narration/&AbjurationQuest_Seargent_2_Sergeant_NPC"
 msgid "Gal, I already told ya! He's assigned to guard duty!"
@@ -29472,7 +29472,7 @@ msgstr "아가씨, 내가 말했잖아! 그는 경비 임무에 배정됐다고!
 
 msgctxt "Narration/&AbjurationQuest_Seargent_3_YoungMaid_NPC"
 msgid "A whole week of it - and that after two weeks on patrol! "
-msgstr "한 주 내내요 - 그것도 2주간 순찰을 돌고 난 다음에 말이예요! "
+msgstr "한 주 내내요. 그것도 2주간 순찰을 돌고 난 다음에 말이에요! "
 
 msgctxt "Narration/&AbjurationQuest_Seargent_4_YoungMaid_NPC"
 msgid "No - he just doesn't want to see me anymore."
