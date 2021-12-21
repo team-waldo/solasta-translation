@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2021-12-20 11:55+0000\n"
-"Last-Translator: lull_ <lull_@naver.com>\n"
+"PO-Revision-Date: 2021-12-21 11:14+0000\n"
+"Last-Translator: Jin <byungjinjun55@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
 "Language: ko\n"
@@ -31711,24 +31711,24 @@ msgstr "다른 부족도 찾아가서 결투로 죽여야 되는 건가?"
 
 msgctxt "Narration/&CradleOfFire_BloodspearBeaten_16_Brok_NPC"
 msgid "Other tribes different. Not want challenge."
-msgstr "다른 이들은 결투가 아니다. 다른 방식을 추구한다."
+msgstr "다른 부족 다르다. 도전 원하지 않는다."
 
 msgctxt "Narration/&CradleOfFire_BloodspearBeaten_17_Brok_NPC"
 msgid "Kebra explain."
-msgstr "케브라가 설명해줄 것이다."
+msgstr "케브라 설명한다."
 
 msgctxt "Narration/&CradleOfFire_BloodspearBeaten_18_Choice2_Default"
 msgid ""
 "Seriously, can't we just go ahead and, you know, find Arrok and kill him?"
-msgstr "그냥 바로 아록 찾아간 다음에, 죽여버리면 되는 거 아냐?"
+msgstr "그냥 진짜로, 바로 아록 찾아간 다음에, 죽여버리면 되는 거 아냐?"
 
 msgctxt "Narration/&CradleOfFire_BloodspearBeaten_19_Brok_NPC"
 msgid "Arrok has many warriors. We need all tribes."
-msgstr "아록에겐 전사들이 많다. 우린 모든 부족이 필요하다."
+msgstr "아록에겐 전사들 많다. 우린 모든 부족 필요하다."
 
 msgctxt "Narration/&CradleOfFire_BloodspearBeaten_20_Brok_NPC"
 msgid "But if you not trust Brok, go find Arrok and see."
-msgstr "브록의 말을 믿지 못하겠으면, 한 번 아록을 찾아가봐라."
+msgstr "브록 말 믿지 못하겠으면, 아록 찾아가봐라."
 
 msgctxt "Narration/&CradleOfFire_BloodspearBeaten_21_Choice3_Default"
 msgid "Fine, let's go."
@@ -31744,7 +31744,7 @@ msgstr "절반은 마나칼론 양식에, 절반은 오크 흔적이라, 미쳐 
 
 msgctxt "Narration/&CradleOfFire_Bladefang_3_Violent_Default"
 msgid "Another tribe we need to make friends with?"
-msgstr "우리가 친해져야 될 또다른 부족이야?"
+msgstr "우리가 친해져야 될 또 다른 부족인가?"
 
 msgctxt "Narration/&CradleOfFire_Bladefang_4_acolyte_Default"
 msgid "Converting them seems unlikely, so…"
@@ -31752,11 +31752,11 @@ msgstr "얘네를 설득하는 건 진짜, 말도 안 될 것 같은데…"
 
 msgctxt "Narration/&CradleOfFire_Bladefang_5_Kebra_NPC"
 msgid "Bladefang is tribe of faithful."
-msgstr "날송곳니는 신앙의 부족이다."
+msgstr "날송곳니 신앙의 부족이다."
 
 msgctxt "Narration/&CradleOfFire_Bladefang_6_Kebra_NPC"
 msgid "They worship relics of times before."
-msgstr "옛 시대의 유물을 숭상한다."
+msgstr "옛 시대의 유물 숭상한다."
 
 msgctxt "Narration/&CradleOfFire_Bladefang_7_Default_Default"
 msgid "Meaning… before the Cataclysm?"
@@ -31772,7 +31772,7 @@ msgstr "걔네는 자기 엄마랑도 안 친했어."
 
 msgctxt "Narration/&CradleOfFire_Bladefang_10_Kebra_NPC"
 msgid "Bladefang shaman build cult with relics. Treats old stones like holy."
-msgstr "날송곳니 주술사는 유물들로 새 종파를 만들었다. 낡은 돌들을 성물처럼 여긴다."
+msgstr "날송곳니 주술사 유물들로 예식 만들었다. 낡은 돌들 성물처럼 여긴다."
 
 msgctxt "Narration/&CradleOfFire_Bladefang_11_Cynical_Default"
 msgid "Just like the Antiquarians. We should introduce them to Halman Summer."
@@ -31800,7 +31800,7 @@ msgstr "그 힘을 느낄 수 있다고?"
 
 msgctxt "Narration/&CradleOfFire_Bladefang_17_Kebra_NPC"
 msgid "Orc shamans can detect magic like you…"
-msgstr "오크 주술사들도 너희처럼 마법을 느낄 수 있다…"
+msgstr "오크 주술사들도 너희처럼 마법 느낄 수 있다…"
 
 msgctxt "Narration/&CradleOfFire_Bladefang_18_Pragmatic_Default"
 msgid "Of course…"
@@ -31808,7 +31808,7 @@ msgstr "하기야…"
 
 msgctxt "Narration/&CradleOfFire_Bladefang_19_Kebra_NPC"
 msgid "I know shaman wants something found."
-msgstr "내가 알기로 주술사는 뭔가 찾기를 원한다."
+msgstr "나는 안다. 주술사는 뭔가 찾기 원한다."
 
 msgctxt "Narration/&CradleOfFire_Bladefang_20_Any_Default"
 msgid "Fine, let's go."
@@ -31820,11 +31820,11 @@ msgstr "멈춰라, 케브라!"
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_2_Kebra_NPC"
 msgid "Coming in peace with nyark of ancients."
-msgstr "고대와 관련된 나크들과 평화를 위해 왔다."
+msgstr "고대의 나크들과 평화를 위해 왔다."
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_3_Radulf_NPC"
 msgid "Brok! You alive! But your tribe dead."
-msgstr "브록! 살아있었군! 하지만 네 부족은 죽었잖나."
+msgstr "브록! 살았군! 하지만 네 부족 죽었다."
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_4_Brok_Default"
 msgid "Not dead yet. Powerful allies now."
@@ -31832,20 +31832,20 @@ msgstr "아직 죽지 않았다. 이제 강한 아군 있다."
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_5_Radulf_Default"
 msgid "Not enough to stop Arrok."
-msgstr "아록을 멈추기엔 모자라."
+msgstr "아록 멈추기엔 모자라다."
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_6_Joker_Default"
 msgid "With Bladefang, Brok may be strong enough."
-msgstr "날송곳니가 함께한다면, 브록은 충분히 강해질 수 있다."
+msgstr "날송곳니 함께한다면, 브록 충분히 강할 것이다."
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_7_Radulf_Default"
 msgid "Signs are with Arrok."
-msgstr "길조는 아록 쪽에 있다."
+msgstr "가능성 아록에게 있다."
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_8_Cynical_Default"
 msgid ""
 "He's good, this shaman. Guy burns down a whole tribe, and he sees the signs."
-msgstr "실력 죽이는 주술사네. 온 부족을 태워버린 놈한테서, 길조가 보인다 이거지."
+msgstr "훌륭하네, 이 주술사. 온 부족을 태워버린 놈한테서 가능성이 보인다 이거지."
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_9_Authority_Default"
 msgid "Shut up."
@@ -31853,23 +31853,23 @@ msgstr "입 닫아."
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_10_Radulf_NPC"
 msgid "Arrok has stone of power."
-msgstr "아록은 힘의 돌을 갖고 있다."
+msgstr "아록 힘의 돌 갖고 있다."
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_11_Kebra_NPC"
 msgid "Nyarks have stones of power. More than Arrok."
-msgstr "나크들은 힘의 돌 많다. 아록보다 훨씬 더."
+msgstr "나크들 힘의 돌 많다. 아록보다 훨씬 더."
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_12_Radulf_NPC"
 msgid "Bladefang not follow Brok - yet."
-msgstr "날송곳니는 브록 따르지 않는다 - 아직은 말야."
+msgstr "날송곳니 브록 따르지 않는다 - 아직은."
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_13_Radulf_NPC"
 msgid "Nyarks prove power first."
-msgstr "나크들은 힘을 먼저 증명해라."
+msgstr "나크들 힘 먼저 증명해라."
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_14_Radulf_NPC"
 msgid "Bring back the holy axe of the ancients."
-msgstr "고대인들의 성스러운 도끼를 되찾아와라."
+msgstr "고대인들의 성스러운 도끼 되찾아와라."
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_15_Kebra_NPC"
 msgid "Can't ask that! Kralshe-Renn has holy axe in lair."
