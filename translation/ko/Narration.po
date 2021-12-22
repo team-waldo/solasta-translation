@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2021-12-22 12:15+0000\n"
+"PO-Revision-Date: 2021-12-22 23:51+0000\n"
 "Last-Translator: Nickel <psb3421@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
@@ -58,7 +58,6 @@ msgctxt "Narration/&Complex_CS_06"
 msgid "The Lockdown"
 msgstr "제재"
 
-#, fuzzy
 msgctxt "Narration/&Complex_CS_07"
 msgid "Are you Sitenero ?"
 msgstr "당신이 시테네로입니까?"
@@ -223,10 +222,9 @@ msgctxt "Narration/&Swamp_CS_12"
 msgid "Ill Tidings"
 msgstr "나쁜 소식들"
 
-#, fuzzy
 msgctxt "Narration/&Swamp_CS_13"
 msgid "Parlay"
-msgstr "협상"
+msgstr "판돈 두 배"
 
 msgctxt "Narration/&Swamp_CS_14"
 msgid "Face to Face"
@@ -322,95 +320,95 @@ msgstr ""
 
 msgctxt "Narration/&Valley_CS_18"
 msgid "The herald"
-msgstr ""
+msgstr "전령"
 
 msgctxt "Narration/&Valley_CS_19"
 msgid "Still laughing"
-msgstr ""
+msgstr "계속 웃으리"
 
 msgctxt "Narration/&Valley_CS_20"
 msgid "The backdoor"
-msgstr ""
+msgstr "뒷문"
 
 msgctxt "Narration/&Valley_CS_21"
 msgid "The grand showdown"
-msgstr ""
+msgstr "장엄한 결전"
 
 msgctxt "Narration/&Valley_CS_22"
 msgid "Kissed by Misaye"
-msgstr ""
+msgstr "미사이에의 입맞춤"
 
 msgctxt "Narration/&Valley_CS_23"
 msgid "Big business"
-msgstr ""
+msgstr "큰 건"
 
 msgctxt "Narration/&Valley_CS_24"
 msgid "Shopping list"
-msgstr ""
+msgstr "구매 목록"
 
 msgctxt "Narration/&Valley_CS_25"
 msgid "Sit tight"
-msgstr ""
+msgstr "버티기"
 
 msgctxt "Narration/&Valley_CS_26"
 msgid "Welcome to the tribe"
-msgstr ""
+msgstr "부족에 온 걸 환영한다"
 
 msgctxt "Narration/&Valley_CS_27"
 msgid "Looking for giants"
-msgstr ""
+msgstr "거인 찾기"
 
 msgctxt "Narration/&Valley_CS_28"
 msgid "Nothing to report"
-msgstr ""
+msgstr "보고할 것 없음"
 
 msgctxt "Narration/&Valley_CS_29"
 msgid "Change of plans"
-msgstr ""
+msgstr "작전 변경"
 
 msgctxt "Narration/&Valley_CS_30"
 msgid "Rugan is back"
-msgstr ""
+msgstr "루간의 귀환"
 
 msgctxt "Narration/&Valley_CS_31"
 msgid "A friendship ends"
-msgstr ""
+msgstr "우정의 끝"
 
 msgctxt "Narration/&Valley_CS_32"
 msgid "The Innkeeper"
-msgstr ""
+msgstr "여관주인"
 
 msgctxt "Narration/&Valley_CS_33"
 msgid "Under Arrest"
-msgstr ""
+msgstr "체포"
 
 msgctxt "Narration/&Valley_CS_34"
 msgid "House of debauchery"
-msgstr ""
+msgstr "방탕의 집"
 
 msgctxt "Narration/&Valley_CS_35"
 msgid "The choice"
-msgstr ""
+msgstr "선택"
 
 msgctxt "Narration/&Valley_CS_36"
 msgid "Prove your worth"
-msgstr ""
+msgstr "가치 증명"
 
 msgctxt "Narration/&Valley_CS_37"
 msgid "He's a spy!"
-msgstr ""
+msgstr "스파이야!"
 
 msgctxt "Narration/&Valley_CS_38"
 msgid "He was a spy!"
-msgstr ""
+msgstr "스파이였어!"
 
 msgctxt "Narration/&Valley_CS_39"
 msgid "That's the guy"
-msgstr ""
+msgstr "그놈이야"
 
 msgctxt "Narration/&Valley_CS_40"
 msgid "Counter Intelligence"
-msgstr ""
+msgstr "방첩 활동"
 
 msgctxt "Narration/&New_Player_Banters1_Normal_Hello"
 msgid "Hello."
@@ -558,119 +556,119 @@ msgstr "보니까 어떠세요?"
 
 msgctxt "Narration/&New_Player_Banters37_Normal_Yes"
 msgid "Yes."
-msgstr ""
+msgstr "예."
 
 msgctxt "Narration/&New_Player_Banters38_Slang_Yes"
 msgid "Yep."
-msgstr ""
+msgstr "오냐."
 
 msgctxt "Narration/&New_Player_Banters39_Formal_Yes"
 msgid "Indeed."
-msgstr ""
+msgstr "그렇습니다."
 
 msgctxt "Narration/&New_Player_Banters40_Normal_No"
 msgid "No."
-msgstr ""
+msgstr "아뇨."
 
 msgctxt "Narration/&New_Player_Banters41_Formal_Yes"
 msgid "Certainly not."
-msgstr ""
+msgstr "당치 않군요."
 
 msgctxt "Narration/&New_Player_Banters42_Slang_Yes"
 msgid "Nah."
-msgstr ""
+msgstr "별로."
 
 msgctxt "Narration/&New_Player_Banters43_Normal_FairEnough"
 msgid "Fair enough."
-msgstr ""
+msgstr "어쩔 수 없네요."
 
 msgctxt "Narration/&New_Player_Banters44_Normal_Fine"
 msgid "Fine."
-msgstr ""
+msgstr "좋습니다."
 
 msgctxt "Narration/&New_Player_Banters45_Normal_Alright"
 msgid "Alright."
-msgstr ""
+msgstr "좋아요."
 
 msgctxt "Narration/&New_Player_Banters46_Normal_FineBored"
 msgid "Fine…"
-msgstr ""
+msgstr "좋군요…"
 
 msgctxt "Narration/&New_Player_Banters47_Normal_AlrightBored"
 msgid "Alright…"
-msgstr ""
+msgstr "좋네요…"
 
 msgctxt "Narration/&New_Player_Banters48_Normal_Noted1"
 msgid "Duly noted."
-msgstr ""
+msgstr "강조 해 놓죠."
 
 msgctxt "Narration/&New_Player_Banters49_Normal_Noted2"
 msgid "We'll keep that in mind."
-msgstr ""
+msgstr "명심 해 두죠."
 
 msgctxt "Narration/&New_Player_Banters50_Normal_SorryNo"
 msgid "Sorry, no."
-msgstr ""
+msgstr "미안하지만, 안됩니다."
 
 msgctxt "Narration/&New_Player_Banters51_Normal_SorryNo2"
 msgid "We can't do that."
-msgstr ""
+msgstr "그럴 수는 없겠네요."
 
 msgctxt "Narration/&New_Player_Banters52_Normal_BuggerOff1"
 msgid "Get lost!"
-msgstr ""
+msgstr "꺼져!"
 
 msgctxt "Narration/&New_Player_Banters53_Normal_BuggerOff2"
 msgid "Out of the question!"
-msgstr ""
+msgstr "불가능해!"
 
 msgctxt "Narration/&New_Player_Banters54_Normal_Sure"
 msgid "Sure."
-msgstr ""
+msgstr "물론이죠."
 
 msgctxt "Narration/&New_Player_Banters55_Annoyed_Sure"
 msgid "Sure…"
-msgstr ""
+msgstr "무울론…"
 
 msgctxt "Narration/&New_Player_Banters56_Normal_Wellsee"
 msgid "We'll see what we can do."
-msgstr ""
+msgstr "우리가 뭘 할 수 있을지 살펴봐야지."
 
 msgctxt "Narration/&New_Player_Banters57_Normal_Deal"
 msgid "We have a deal."
-msgstr ""
+msgstr "거래를 하죠."
 
 msgctxt "Narration/&New_Player_Banters58_Soldierlike_Agree"
 msgid "Yes, Lord Protector."
-msgstr ""
+msgstr "예, 섭정님."
 
 msgctxt "Narration/&New_Player_Banters59_Soldierlike_Agree1"
 msgid "Of course, Lord Protector."
-msgstr ""
+msgstr "물론입니다, 섭정님."
 
 msgctxt "Narration/&New_Player_Banters60_Soldierlike_WillDo"
 msgid "We will, Lord Protector."
-msgstr ""
+msgstr "그리하겠습니다, 섭정님."
 
 msgctxt "Narration/&New_Player_Banters61_Soldierlike_WillDo2"
 msgid "As you wish, Lord Protector."
-msgstr ""
+msgstr "뜻대로 하겠습니다, 섭정님."
 
 msgctxt "Narration/&New_Player_Banters62_Soldierlike_Thanks"
 msgid "Thank you, Lord Protector."
-msgstr ""
+msgstr "감사합니다, 섭정님."
 
 msgctxt "Narration/&New_Player_Banters63_Normal_Maybe"
 msgid "Can't promise anything."
-msgstr ""
+msgstr "약속은 못 드리겠네요."
 
 msgctxt "Narration/&New_Player_Banters64_StrongAgreement_OfCourse"
 msgid "Of course!"
-msgstr ""
+msgstr "물론이죠!"
 
 msgctxt "Narration/&New_Player_Banters65_IgetIt_OfCourse"
 msgid "Of course…"
-msgstr ""
+msgstr "알았어요…"
 
 msgctxt "Narration/&New_Player_Banters66_QuestAlreadyDone_Normal"
 msgid "We've done that already."
