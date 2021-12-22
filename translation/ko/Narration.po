@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2021-12-21 11:14+0000\n"
-"Last-Translator: Jin <byungjinjun55@gmail.com>\n"
+"PO-Revision-Date: 2021-12-22 12:15+0000\n"
+"Last-Translator: Nickel <psb3421@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
 "Language: ko\n"
@@ -18,10 +18,9 @@ msgctxt "Narration/&CS_Title_ThePeople01"
 msgid "Townspeople"
 msgstr "마을사람"
 
-#, fuzzy
 msgctxt "Narration/&CS_Title_ThePeople02"
 msgid "The Butcher"
-msgstr "정육점"
+msgstr "도축업자"
 
 msgctxt "Narration/&CS_Title_Orenetis_01"
 msgid "The City Gates"
@@ -31,15 +30,13 @@ msgctxt "Narration/&CS_Title_Orenetis_02"
 msgid "The Palace Gate"
 msgstr "왕성 관문"
 
-#, fuzzy
 msgctxt "Narration/&CS_Title_Orenetis_04"
 msgid "The Harvest"
-msgstr "수확"
+msgstr "농부"
 
-#, fuzzy
 msgctxt "Narration/&Complex_CS_01"
 msgid "The Strange Complex"
-msgstr "낯선 구조물"
+msgstr "낯선 연구단지"
 
 msgctxt "Narration/&Complex_CS_02"
 msgid "A Hungry Scientist"
@@ -134,7 +131,6 @@ msgctxt "Narration/&Valley_CS_14"
 msgid "Planting the flag"
 msgstr "깃발 세우기"
 
-#, fuzzy
 msgctxt "Narration/&Valley_CS_15"
 msgid "Vando"
 msgstr "반도"
@@ -171,7 +167,6 @@ msgctxt "Narration/&DLC1_Marches_CS06"
 msgid "Money for Nothing"
 msgstr "불로소득"
 
-#, fuzzy
 msgctxt "Narration/&DLC1_Marches_CS07"
 msgid "Where in the World is Marin Ving?"
 msgstr "마린 빙은 도대체 어디에?"
@@ -214,7 +209,7 @@ msgstr "왕권 모독"
 
 msgctxt "Narration/&Swamp_CS_09"
 msgid "The Envoys"
-msgstr "사절들"
+msgstr "사절"
 
 msgctxt "Narration/&Swamp_CS_10"
 msgid "A Suspicious Ambush"
@@ -239,17 +234,15 @@ msgstr "대면"
 
 msgctxt "Narration/&Orenetis_CS_04"
 msgid "Monster Hunters"
-msgstr "괴물 사냥꾼들"
+msgstr "괴물 사냥꾼"
 
-#, fuzzy
 msgctxt "Narration/&Orenetis_CS_05"
 msgid "The Runaway Assistant"
 msgstr "탈주 도우미"
 
-#, fuzzy
 msgctxt "Narration/&Orenetis_CS_06"
 msgid "A Defiant Lord"
-msgstr "저항군주"
+msgstr "저항하는 군주"
 
 msgctxt "Narration/&Orenetis_CS_07"
 msgid "Bend the Knee or Die"
@@ -263,7 +256,6 @@ msgctxt "Narration/&Orenetis_CS_09"
 msgid "Punisher"
 msgstr "징벌자"
 
-#, fuzzy
 msgctxt "Narration/&Orenetis_CS_10"
 msgid "Welcome Home"
 msgstr "귀환"
@@ -280,23 +272,21 @@ msgctxt "Narration/&Orenetis_CS_13"
 msgid "Free at Last"
 msgstr "마침내 자유를"
 
-#, fuzzy
 msgctxt "Narration/&CS_Title_ThePeople03"
 msgid "Bully"
-msgstr "양아치"
+msgstr "깡패"
 
-#, fuzzy
 msgctxt "Narration/&CS_Title_ThePeople04"
 msgid "Vicious"
 msgstr "악랄한"
 
 msgctxt "Narration/&CS_Title_ThePeople05"
 msgid "The Faithful One"
-msgstr "믿음직한자"
+msgstr "독실한 자"
 
 msgctxt "Narration/&CS_Title_ThePeople06"
 msgid "Breakers of Chains"
-msgstr "사슬 파괴자들"
+msgstr "사슬 파괴자"
 
 msgctxt "Narration/&CS_Title_ThePeople07"
 msgid "Saving Reya"
@@ -316,7 +306,7 @@ msgstr "드러난 진실"
 
 msgctxt "Narration/&CS_Title_ThePeople03_Denounce"
 msgid "Whistleblowers"
-msgstr "내부고발자들"
+msgstr "내부고발자"
 
 msgctxt "Narration/&Orenetis_CS_04_FoundLysantir"
 msgid "He's alive."
@@ -31019,7 +31009,7 @@ msgstr "다른 오크들이 한 짓이라고?"
 
 msgctxt "Narration/&CradleOfFire_FindingKebra_48_Kebra_NPC"
 msgid "Many tribes in the Cradle of Fire, always fighting."
-msgstr "불꽃의 요람에 많은 부족 있다, 항상 싸운다."
+msgstr "불의 요람에 많은 부족 있다, 항상 싸운다."
 
 msgctxt "Narration/&CradleOfFire_FindingKebra_49_Kebra_NPC"
 msgid "Arrok always ambitious."
@@ -31031,7 +31021,7 @@ msgstr "하지만 아록, 이제 불의 힘을 가졌다."
 
 msgctxt "Narration/&CradleOfFire_FindingKebra_51_Nosy_CHOICE"
 msgid "The Cradle of Fire?"
-msgstr "불꽃의 요람?"
+msgstr "불의 요람?"
 
 msgctxt "Narration/&CradleOfFire_FindingKebra_52_Pragmatic_CHOICE"
 msgid "Power of fire?"
@@ -31039,7 +31029,7 @@ msgstr "불의 힘?"
 
 msgctxt "Narration/&CradleOfFire_FindingKebra_53_Nosy_Default"
 msgid "The Cradle of Fire?"
-msgstr "불꽃의 요람?"
+msgstr "불의 요람?"
 
 msgctxt "Narration/&CradleOfFire_FindingKebra_54_Pragmatic_Default"
 msgid "New power? You said Arrok was more powerful than you thought?"
@@ -31071,7 +31061,7 @@ msgstr "그렇게 강한 오크 주술사는 본 적 없다."
 
 msgctxt "Narration/&CradleOfFire_FindingKebra_61_Kebra_NPC"
 msgid "Arrok said he found power in Cradle of Fire, heart of mountain."
-msgstr "아록은 불꽃의 요람, 산의 심장의 힘을 얻었다고 말했다."
+msgstr "아록은 불의 요람, 산의 심장의 힘을 얻었다고 말했다."
 
 msgctxt "Narration/&CradleOfFire_FindingKebra_62_Pragmatic_Default"
 msgid "Are you thinking what I'm thinking?"
@@ -31369,7 +31359,7 @@ msgstr "오크랑 나크 친구가 아니다."
 
 msgctxt "Narration/&CradleOfFire_SavedBrok_6_Brok_NPC"
 msgid "But Arrok… he bring doom to Cradle of Fire. All tribes."
-msgstr "하지만 아록은… 불꽃의 요람에, 온 부족에 파괴를 가져왔다."
+msgstr "하지만 아록은… 불의 요람에, 온 부족에 파괴를 가져왔다."
 
 msgctxt "Narration/&CradleOfFire_SavedBrok_7_Nosy_CHOICE"
 msgid "Tell us about Arrok."
@@ -31873,19 +31863,19 @@ msgstr "고대인들의 성스러운 도끼 되찾아와라."
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_15_Kebra_NPC"
 msgid "Can't ask that! Kralshe-Renn has holy axe in lair."
-msgstr "말도 안 돼! 도끼는 크랄셰렌이 제 둥지에 갖고 있잖아."
+msgstr "그건 안 된다! 성스러운 도끼는 크랄셰렌 둥지에 있다."
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_16_Radulf_NPC"
 msgid "If nyarks have power to defeat Arrok…"
-msgstr "나크들이 아록을 죽일 힘이 있다면…"
+msgstr "나크들 아록 죽일 힘 있다면…"
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_17_Radulf_NPC"
 msgid "…then nyarks can kill Kralshe-Renn."
-msgstr "...크랄셰렌도 무찌를 수 있을 것이다."
+msgstr "...크랄셰렌도 죽일 수 있다."
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_18_Orcish_Default"
 msgid "Kralshe-Renn means 'Old Queen'"
-msgstr "크랄셰렌은 '옛 여왕'이라는 뜻이야."
+msgstr "크랄셰렌은 '늙은 여왕'이라는 뜻이야."
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_19_Cynical_Default"
 msgid "Everything's about old stuff around here, isn't it?"
@@ -31893,7 +31883,7 @@ msgstr "그럼 그렇지, 다 옛날 뭐시기. 여기에 새로운 게 있을�
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_20_Radulf_NPC"
 msgid "Also, beware of gaks."
-msgstr "그리고, 가크를 조심해라."
+msgstr "그리고, 가크 조심해라."
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_21_Default_Default"
 msgid "The what?"
@@ -31925,7 +31915,7 @@ msgstr "어쨌거나, 다른 수단은 없는 것 같네."
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_28_Pragmatic_Default"
 msgid "We'll get your holy axe."
-msgstr "신성한 도끼를 가져다주도록 하지."
+msgstr "성스러운 도끼를 가져다주도록 하지."
 
 msgctxt "Narration/&CradleOfFire_BladefangMeeting_29_Radulf_NPC"
 msgid "Praise be."
@@ -31945,11 +31935,11 @@ msgstr "비꼬는 게 아니라 칭찬이야."
 
 msgctxt "Narration/&CradleOfFire_BladefangQuest_1_Choice1_WRITTEN"
 msgid "Who's the Old Queen?"
-msgstr "옛 여왕이 누구지?"
+msgstr "늙은 여왕이 누구지?"
 
 msgctxt "Narration/&CradleOfFire_BladefangQuest_2_Choice2_WRITTEN"
 msgid "What's the holy axe?"
-msgstr "신성한 도끼가 뭐지?"
+msgstr "성스러운 도끼가 뭐지?"
 
 msgctxt "Narration/&CradleOfFire_BladefangQuest_3_Choice3_WRITTEN"
 msgid "Let's go."
@@ -31957,11 +31947,11 @@ msgstr "갑시다."
 
 msgctxt "Narration/&CradleOfFire_BladefangQuest_4_Choice1_Default"
 msgid "So, who's this Old Queen?"
-msgstr "그래서 옛 여왕이 누군데?"
+msgstr "그래서 늙은 여왕이 누군데?"
 
 msgctxt "Narration/&CradleOfFire_BladefangQuest_5_Kebra_NPC"
 msgid "Monster. Strong. Hates light."
-msgstr "강력한. 괴물. 빛 싫어한다."
+msgstr "괴물. 강력한. 빛 싫어한다."
 
 msgctxt "Narration/&CradleOfFire_BladefangQuest_6_Selfpres_Default"
 msgid "What kind of monster?"
@@ -31969,21 +31959,21 @@ msgstr "어떤 종류의 괴물이지?"
 
 msgctxt "Narration/&CradleOfFire_BladefangQuest_7_Kebra_NPC"
 msgid "Do not know. Plenty go after holy axe, no one comes back to tell."
-msgstr "모른다. 성스러운 도끼를 찾아간 놈은 많았지만, 설명해줄 누가 돌아온 적은 없어."
+msgstr "모른다. 성스러운 도끼 찾아간 놈 많지만, 돌아와 말 해 준 놈 없다."
 
 msgctxt "Narration/&CradleOfFire_BladefangQuest_8_Selfpres_Default"
 msgid "Encouraging…"
-msgstr "고양감이 막 드네…"
+msgstr "참 힘이 되는 말이네…"
 
 msgctxt "Narration/&CradleOfFire_BladefangQuest_9_Selfpres_Default"
 msgid "About this so-called holy axe… what is it?"
-msgstr "그 신성한 도끼라는 거... 어떤 건데?"
+msgstr "그 성스러운 도끼라는 거... 어떤 건데?"
 
 msgctxt "Narration/&CradleOfFire_BladefangQuest_10_Kebra_NPC"
 msgid ""
 "Holy axe was of ancestor of orcs, legend says, brought from the Endless "
 "Range."
-msgstr "성스러운 도끼는 오크들의 조상이, 전설에 이르길, 끝없는 구릉에서 가져왔다."
+msgstr "성스러운 도끼 오크들 조상이, 전설에 이르길, 끝없는 구릉에서 가져왔다."
 
 msgctxt "Narration/&CradleOfFire_BladefangQuest_11_ChoiceA_WRITTEN"
 msgid "Ancestors?"
@@ -32035,7 +32025,7 @@ msgstr "알 만큼 알았네."
 
 msgctxt "Narration/&CradleOfFire_BladefangQuest_23_Choice3_Default"
 msgid "Let's find this Old Queen, then."
-msgstr "옛 여왕님을, 찾아보시자고."
+msgstr "그럼, 늙은 여왕님을 찾아보시자고."
 
 msgctxt "Narration/&CradleOfFire_OldQueen_01_1_Default_NPC"
 msgid "Webs?"
@@ -32043,7 +32033,7 @@ msgstr "거미줄?"
 
 msgctxt "Narration/&CradleOfFire_OldQueen_01_2_Selfpres_NPC"
 msgid "Oh, no? That's what the Old Queen is? Another spider?"
-msgstr "아니, 진짜? 옛 여왕도? 또 거미란 말야?"
+msgstr "아니, 진짜? 늙은 여왕도? 또 거미란 말야?"
 
 msgctxt "Narration/&CradleOfFire_OldQueen_01_3_Violent_Default"
 msgid "We can deal with a spider."
@@ -32071,7 +32061,7 @@ msgstr "뭐였지?"
 
 msgctxt "Narration/&CradleOfFire_OldQueen_02_2_Arcana_Default"
 msgid "It's magical darkness."
-msgstr "마법의 어둠이야."
+msgstr "마법적 어둠이야."
 
 msgctxt "Narration/&CradleOfFire_OldQueen_02_3_Selfpres_Default"
 msgid "We need light! It's an extra-super big deep spider!"
@@ -32118,7 +32108,7 @@ msgstr "이거 안 보여? 걸작 중의 걸작이라고!"
 
 msgctxt "Narration/&CradleOfFire_OldQueen_03_6_Nosy_Default"
 msgid "Tirmarian smiths were just as good as the elves of Manacalon!"
-msgstr "티르마르 대장장이 솜씨가 마나칼론의 엘프들에 버금갔나 본데!"
+msgstr "티르마르 대장장이 솜씨가 마나칼론의 엘프들에 버금 갔나 본데!"
 
 msgctxt "Narration/&CradleOfFire_OldQueen_03_7_Nosy_Default"
 msgid "This axe is fantastic!"
@@ -32136,7 +32126,7 @@ msgstr "보석이 훨씬 더 중요해 - 보석을 위해선, 도끼를 날송�
 
 msgctxt "Narration/&CradleOfFire_OldQueen_04_1_Radulf_NPC"
 msgid "Brok is back with nyarks?"
-msgstr "브록이 나크들과 돌아왔나?"
+msgstr "브록 나크들과 돌아왔나?"
 
 msgctxt "Narration/&CradleOfFire_OldQueen_04_2_Radulf_NPC"
 msgid "Have the…"
@@ -32168,11 +32158,11 @@ msgstr "한 어휘력 하는데."
 
 msgctxt "Narration/&CradleOfFire_OldQueen_04_9_Radulf_NPC"
 msgid "You made Bladefang more powerful than ever!"
-msgstr "너희가 날송곳니를 그 어느 때보다 강하게 만들었다!"
+msgstr "너희가 날송곳니 어느 때보다 강하게 만들었다!"
 
 msgctxt "Narration/&CradleOfFire_OldQueen_04_10_Radulf_NPC"
 msgid "We follow you against Arrok!"
-msgstr "우린 너희를 따라 아록과 싸운다!"
+msgstr "우린 너희 따라 아록과 싸운다!"
 
 msgctxt "Narration/&CradleOfFire_OldQueen_04_11_Greed_Default"
 msgid "It was too hard to get it, it's ours now."
@@ -32180,7 +32170,7 @@ msgstr "얻는 데 고생 깨나 했으니, 이젠 우리 거야."
 
 msgctxt "Narration/&CradleOfFire_OldQueen_04_12_Radulf_NPC"
 msgid "But axe is orc inheritance."
-msgstr "하지만 도끼는 오크들이 물려준 거다."
+msgstr "하지만 도끼 오크들 유산이다."
 
 msgctxt "Narration/&CradleOfFire_OldQueen_04_13_Greed_Default"
 msgid "It's Tirmarian, not orc."
@@ -32188,11 +32178,11 @@ msgstr "오크가 아니라, 티르마르인이겠지."
 
 msgctxt "Narration/&CradleOfFire_OldQueen_04_14_Radulf_NPC"
 msgid "Pah! Should know better than trust nyarks!"
-msgstr "파하! 나크를 믿지 말았어야 했는데!"
+msgstr "파하! 나크 믿지 말았어야 했다!"
 
 msgctxt "Narration/&CradleOfFire_OldQueen_04_15_Radulf_NPC"
 msgid "Leave Bladefang. Now."
-msgstr "날송곳니에서 나가라. 당장."
+msgstr "날송곳니 떠나라. 당장."
 
 msgctxt "Narration/&CradleOfFire_SandRaven_1_Default_Default"
 msgid "Look at that! Another library!"
@@ -32204,11 +32194,11 @@ msgstr "우리가 왕관을 찾았던 탑과 아주 흡사한걸."
 
 msgctxt "Narration/&CradleOfFire_SandRaven_3_History_Default"
 msgid "But it's makeshift, not Manacalon."
-msgstr "그래도 마나칼론 것과 다르게, 구색만 갖췄는데."
+msgstr "그래도 진짜 마나칼론 것은 아니고, 구색만 갖췄네."
 
 msgctxt "Narration/&CradleOfFire_SandRaven_4_Kebra_NPC"
 msgid "Home of Sandraven, and Shaman Urka."
-msgstr "모래까마귀, 그리고 주술사 우르카의 터전이다."
+msgstr "모래까마귀, 그리고 주술사 우르카 집이다."
 
 msgctxt "Narration/&CradleOfFire_SandRaven_5_Nosy_WRITTEN"
 msgid "Why the Manacalon style?"
@@ -32228,11 +32218,11 @@ msgstr "왜 여긴 마나칼론의 잔재로 만들어진 거지?"
 
 msgctxt "Narration/&CradleOfFire_SandRaven_9_Kebra_NPC"
 msgid "Urka very wise shaman."
-msgstr "우르카는 아주 현명한 주술사다."
+msgstr "우르카 아주 현명한 주술사다."
 
 msgctxt "Narration/&CradleOfFire_SandRaven_10_Kebra_NPC"
 msgid "Reads books."
-msgstr "책을 읽는다."
+msgstr "책 읽는다."
 
 msgctxt "Narration/&CradleOfFire_SandRaven_11_Nosy_Default"
 msgid "Orcs can read?"
@@ -32240,7 +32230,7 @@ msgstr "오크도 글을 읽을 줄 알아?"
 
 msgctxt "Narration/&CradleOfFire_SandRaven_12_Cynical_Default"
 msgid "Amaaazing."
-msgstr "거 참 대단하셔라."
+msgstr "거 참 대~단하시군."
 
 msgctxt "Narration/&CradleOfFire_SandRaven_13_Pragmatic_Default"
 msgid "What should we know about Sandraven?"
@@ -32248,15 +32238,15 @@ msgstr "모래까마귀에 대해 알아둬야 할 건?"
 
 msgctxt "Narration/&CradleOfFire_SandRaven_14_Kebra_NPC"
 msgid "Urka loves old elf stuff."
-msgstr "우르카는 낡은 엘프 물건을 좋아한다."
+msgstr "우르카 낡은 엘프 물건 좋아한다."
 
 msgctxt "Narration/&CradleOfFire_SandRaven_15_Kebra_NPC"
 msgid "Ask you to bring back some, for sure."
-msgstr "너희 더러 뭘 가져오라 할 거다, 틀림없어."
+msgstr "너희더러 뭘 가져오라 할 거다, 틀림없어."
 
 msgctxt "Narration/&CradleOfFire_SandRaven_16_Kebra_NPC"
 msgid "But his tribe can fight, useful for facing Arrok."
-msgstr "하지만 우르카의 부족도 싸울 줄은 아니, 아록과 맞서는 데 쓸모 있을 거다."
+msgstr "하지만 우르카 부족 싸울 줄 아니, 아록 맞서는 데 쓸모 있을 거다."
 
 msgctxt "Narration/&CradleOfFire_SandRaven_17_Authority_Default"
 msgid "Let's do this. I think they've seen us, anyway."
@@ -32272,11 +32262,11 @@ msgstr "죽은 줄만 알았다."
 
 msgctxt "Narration/&CradleOfFire_SandRaven_20_Urka_NPC"
 msgid "Who are your nyark… friends?"
-msgstr "옆의 나크 무리는... 누구인가?"
+msgstr "옆의 나크... 친구들은 누구인가?"
 
 msgctxt "Narration/&CradleOfFire_SandRaven_21_Kebra_NPC"
 msgid "They help me and Brok. We gather all tribes against Arrok."
-msgstr "이들이 나와 브록을 도왔다. 우린 아록에 맞서 부족들을 규합하고 있다."
+msgstr "이들이 나와 브록 도왔다. 우린 아록에 맞서 부족들 모으고 있다."
 
 msgctxt "Narration/&CradleOfFire_SandRaven_22_Urka_NPC"
 msgid "Oh, Arrok."
@@ -32284,7 +32274,7 @@ msgstr "오, 아록이라."
 
 msgctxt "Narration/&CradleOfFire_SandRaven_23_Authority_Default"
 msgid "Urka, eh?"
-msgstr "이봐, 우르카."
+msgstr "이봐, 우르카?"
 
 msgctxt "Narration/&CradleOfFire_SandRaven_24_Urka_NPC"
 msgid "Yes."
@@ -32292,7 +32282,7 @@ msgstr "그래."
 
 msgctxt "Narration/&CradleOfFire_SandRaven_25_Authority_Default"
 msgid "We need your tribe to support Brok's challenge against Arrok."
-msgstr "브록이 아록에게 도전하는 데 댁네 부족의 도움이 필요해."
+msgstr "브록이 아록에게 도전하는 데 당신 부족의 도움이 필요해."
 
 msgctxt "Narration/&CradleOfFire_SandRaven_26_Urka_NPC"
 msgid "Hmmm. First, bring me the key to the sunken city."
@@ -32304,7 +32294,7 @@ msgstr "그게 뭔데?"
 
 msgctxt "Narration/&CradleOfFire_SandRaven_28_Urka_NPC"
 msgid "Down in the Cradle of Fire is a Manacalon city called Sentharyllian."
-msgstr "불꽃의 요람 아래에 센타릴리안이라 불리는 마나칼론 도시가 있다."
+msgstr "불의 요람 아래에 센타릴리안이라 불리는 마나칼론 도시가 있다."
 
 msgctxt "Narration/&CradleOfFire_SandRaven_29_Urka_NPC"
 msgid "It melted into the mountain, since the Great Collapse."
