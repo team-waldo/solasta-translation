@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2021-12-19 12:13+0000\n"
+"PO-Revision-Date: 2021-12-24 01:38+0000\n"
 "Last-Translator: Sh K. <wjswn244@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/monster/ko/"
 ">\n"
@@ -68,7 +68,7 @@ msgstr "드라이어드"
 
 msgctxt "Monster/&Dryad_Description"
 msgid "A typical fey of the forests and jungles of Solasta."
-msgstr "솔라스타의 숲과 밀림에서 볼 수 있는 전형적인 요정입니다."
+msgstr "솔라스타의 숲과 밀림에서 볼 수 있는 전형적인 페이입니다."
 
 msgctxt "Monster/&BadlandsDryad_Title"
 msgid "Badlands Dryad"
@@ -351,7 +351,7 @@ msgstr "거대한 살아있는 식물."
 
 msgctxt "Monster/&FeyApe_Title"
 msgid "Fey Ape"
-msgstr "요정 유인원"
+msgstr "페이 유인원"
 
 msgctxt "Monster/&FeyApe_Description"
 msgid ""
@@ -367,7 +367,7 @@ msgctxt "Monster/&GreenHag_Description"
 msgid ""
 "A fey witch who can change her appearance and vanish into the darkness of "
 "the night."
-msgstr "자신의 외모를 바꾸거나 밤의 어둠 속으로 사라질 수 있는 요정 마녀."
+msgstr "자신의 외모를 바꾸거나 밤의 어둠 속으로 사라질 수 있는 페이 마녀."
 
 msgctxt "Monster/&DryadQueen_Title"
 msgid "Dryad Queen"
@@ -379,11 +379,11 @@ msgstr "하위 드라이어드 무리를 이끄는 것으로 보이는, 크고 �
 
 msgctxt "Monster/&Werebear_Title"
 msgid "Dryad Queen"
-msgstr "웨어베어"
+msgstr "드라이어드 여왕"
 
 msgctxt "Monster/&Werebear_Description"
 msgid "A large and powerful dryad, who seems to lead a pack of lesser dryads."
-msgstr "웨어베어 설명."
+msgstr "하위 드라이어드 무리를 이끄는 것으로 보이는, 크고 강력한 드라이어드."
 
 msgctxt "Monster/&Golem_Description"
 msgid ""
@@ -429,7 +429,7 @@ msgctxt "Monster/&Swamp_Hag_Description"
 msgid ""
 "A degenerate fey who learned the arts of arcane magic in the darkness of the "
 "swamps."
-msgstr "늪지 속 어둠에서 비전을 익힌 타락한 요정."
+msgstr "늪지 속 어둠에서 비전을 익힌 타락한 페이."
 
 msgctxt "Monster/&SmartGiant_Description"
 msgid "This hill giant seems smarter than average. A lot smarter, actually."
@@ -629,7 +629,7 @@ msgstr "황무지 깊숙한 곳에 살고 빛에 민감한 매우 큰 거미."
 
 msgctxt "Monster/&GiantSpiderTitle"
 msgid "Deep Spider"
-msgstr "깊은 곳 거미"
+msgstr "지하 거미"
 
 msgctxt "Monster/&GoblinDescription"
 msgid "A greenish, evil little creature."
@@ -1017,7 +1017,7 @@ msgstr "좀비"
 
 msgctxt "Monster/&Werewolf_Title"
 msgid "Werewolf"
-msgstr "늑대 인간"
+msgstr "늑대인간"
 
 msgctxt "Monster/&Werewolf_Description"
 msgid ""
@@ -1325,7 +1325,7 @@ msgstr "동굴이나 숲 속에서 흔히 볼 수 있는 흉포한 짐승입니�
 
 msgctxt "Monster/&WereBear_Title"
 msgid "Werebear"
-msgstr "웨어베어"
+msgstr "곰인간"
 
 msgctxt "Monster/&WereBear_Description"
 msgid ""
@@ -1366,7 +1366,7 @@ msgstr "비교적 - 작은 진홍 거미."
 
 msgctxt "Monster/&FeyWolf_Title"
 msgid "Fey Wolf"
-msgstr "요정 늑대"
+msgstr "페이 늑대"
 
 msgctxt "Monster/&FeyWolf_Description"
 msgid ""
@@ -1376,7 +1376,7 @@ msgstr "솔라스타의 가장 깊은 고대의 숲에서만 찾아볼 수 있�
 
 msgctxt "Monster/&FeyEagle_Title"
 msgid "Fey Eagle"
-msgstr "요정 독수리"
+msgstr "페이 독수리"
 
 msgctxt "Monster/&FeyEagle_Description"
 msgid ""
@@ -1386,7 +1386,7 @@ msgstr "솔라스타의 가장 깊은 고대의 숲에서만 찾아볼 수 있�
 
 msgctxt "Monster/&FeyBear_Title"
 msgid "Fey Bear"
-msgstr "요정 곰"
+msgstr "페이 곰"
 
 msgctxt "Monster/&FeyBear_Description"
 msgid ""

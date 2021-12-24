@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2021-12-18 14:49+0000\n"
+"PO-Revision-Date: 2021-12-24 01:38+0000\n"
 "Last-Translator: Sh K. <wjswn244@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/subclass/"
 "ko/>\n"
@@ -382,10 +382,9 @@ msgstr ""
 "이 길을 좇는 자는 마법과 이를 사용하는 이들에 대한 증오를 쌓아 왔습니다. 이들의 온당한 길이란, 오직 육체적 기량뿐입니다. 이들은 "
 "마법과 그 사용자를 경멸하고 불신합니다."
 
-#, fuzzy
 msgctxt "Subclass/&PathMagebaneTitle"
 msgid "Path of the Magebane"
-msgstr "항마의 길"
+msgstr "반마법의 길"
 
 msgctxt "Subclass/&PathStoneDescription"
 msgid ""
@@ -414,7 +413,6 @@ msgctxt "Subclass/&CircleLandTitle"
 msgid "Circle of the Land"
 msgstr "땅의 서클"
 
-#, fuzzy
 msgctxt "Subclass/&CircleKindredDescription"
 msgid ""
 "At the beginning of time, there was harmony between animals and sentient "
@@ -427,7 +425,6 @@ msgstr ""
 "하나로 녹여 두 몸이 그들의 유대를 공유하도록 했습니다. 이러한 태고의 유대는 성스러운 유대를 보존하는 드루이드 집단, 결속령의 서클 "
 "안에서 지켜 내려오고 있습니다."
 
-#, fuzzy
 msgctxt "Subclass/&CircleKindredTitle"
 msgid "Circle of the Kindred Spirit"
 msgstr "결속령의 서클"

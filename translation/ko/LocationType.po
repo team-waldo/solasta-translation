@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2021-12-19 07:11+0000\n"
-"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
+"PO-Revision-Date: 2021-12-24 01:38+0000\n"
+"Last-Translator: Nickel <psb3421@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/"
 "locationtype/ko/>\n"
 "Language: ko\n"
@@ -100,10 +100,9 @@ msgctxt "LocationType/&Encounter_Jungle_Outpost2_Title"
 msgid "Satils Outpost"
 msgstr "사틀리스 전초기지"
 
-#, fuzzy
 msgctxt "LocationType/&Encounter_Jungle_Outpost3_Title"
 msgid "Pertal Outpost"
-msgstr "퍼탈 전초기지"
+msgstr "페르탈 전초기지"
 
 #, fuzzy
 msgctxt "LocationType/&Encounter_Jungle_Outpost4_Title"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2021-12-22 23:51+0000\n"
-"Last-Translator: Nickel <psb3421@naver.com>\n"
+"PO-Revision-Date: 2021-12-24 01:38+0000\n"
+"Last-Translator: Jin <byungjinjun55@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
 "Language: ko\n"
@@ -26841,7 +26841,7 @@ msgstr "누구지? 마치 늑대처럼 보이는데."
 
 msgctxt "Narration/&NecromancyQuest01_02_Insight_10_Success"
 msgid "Could be a ranger. Could be a werewolf. Could be something else."
-msgstr "레인저거나, 웨어울프거나, 그 외의 뭔가일 수 있겠지."
+msgstr "레인저거나, 늑대인간이거나, 그 외의 뭔가일 수 있겠지."
 
 msgctxt "Narration/&NecromancyQuest01_03_Kill-CHOICE"
 msgid "Let's kill them!"
@@ -32312,7 +32312,7 @@ msgstr "이젠, 누구도 들어갈 수 없다, 적어도…"
 
 msgctxt "Narration/&CradleOfFire_SandRaven_33_Urka_NPC"
 msgid "…unless you go through the Necropolis."
-msgstr "…적어도 너희가 그 죽음의 도시를 뚫지 못하는 한은."
+msgstr "…적어도 너희가 죽음의 도시를 뚫고 가지 못하는 한은."
 
 msgctxt "Narration/&CradleOfFire_SandRaven_34_Urka_NPC"
 msgid "Find the Emperor's key."
@@ -32370,7 +32370,7 @@ msgstr "아록은 도시의 일부분만 발견했다."
 
 msgctxt "Narration/&CradleOfFire_SandRaven_47_Urka_NPC"
 msgid "The key will open many more rooms… to me."
-msgstr "그 열쇠는 내게… 더 많은 방들을 열어줄 수 있다."
+msgstr "그 열쇠는 내게… 더 많은 방들을 열어줄 수 있을 것이다."
 
 msgctxt "Narration/&CradleOfFire_SandRaven_48_Choice1_Default"
 msgid "All right, we'll bring you the key."
@@ -32398,7 +32398,7 @@ msgstr "멋진걸! 천 년 전의 시간을 여행하는 느낌이야!"
 
 msgctxt "Narration/&CradleOfFire_Necropolis_Hall_3_Selfpres_Default"
 msgid "Well, it still stinks of sulfur."
-msgstr "뭐, 아직 유황내는 나지만."
+msgstr "뭐, 아직 유황 냄새는 나지만."
 
 msgctxt "Narration/&CradleOfFire_Necropolis_Map_1_Default_Default"
 msgid "So far, this looks more like a museum than a crypt."
@@ -32408,17 +32408,17 @@ msgctxt "Narration/&CradleOfFire_Necropolis_Map_2_History_Default"
 msgid ""
 "Manacalon custom. The tombs of the powerful have a hall of honor before the "
 "burial chamber."
-msgstr "마나칼론의 풍습이야. 권력층의 묘는 매장실 앞에 영예의 전당을 세웠거든."
+msgstr "마나칼론의 풍습이야. 권력층의 묘에는 매장실 앞에 명예의 전당이 있지."
 
 msgctxt "Narration/&CradleOfFire_Necropolis_Map_3_Greed_Default"
 msgid ""
 "It's a map of the Manacalon Empire! It must be a thousand years old - maybe "
 "more!"
-msgstr "마나칼론 제국 지도잖아! 천 년 - 아니 이상은 됐겠어!"
+msgstr "마나칼론 제국 지도잖아! 천 년 - 아니 그 이상은 됐겠어!"
 
 msgctxt "Narration/&CradleOfFire_Necropolis_Map_4_Cynical_Default"
 msgid "So, they really did rule the world."
-msgstr "이거, 진짜 세상을 지배했었네."
+msgstr "이거, 진짜 그들이 세상을 지배했었네."
 
 msgctxt "Narration/&CradleOfFire_Necropolis_Map_5_Greed_Default"
 msgid "This is invaluable. I should compare it to our own map."
@@ -32469,7 +32469,7 @@ msgstr "난 좀 더 크고, 화려할 거라고 기대했는데."
 
 msgctxt "Narration/&CradleOfFire_Necropolis_Statue01_8_Cynical_Default"
 msgid "Maybe he was a modest Emperor - if such a thing's possible."
-msgstr "만약 그게 가능하다 치면 - 검소한 황제였을 수도 있다고."
+msgstr "검소한 황제였을 수도 있지 - 만약 그게 가능하다 치면."
 
 msgctxt "Narration/&CradleOfFire_Necropolis_Statue01_9_Authority_Default"
 msgid "We still need to find an entrance to the city. Let's go!"
@@ -32501,7 +32501,7 @@ msgstr "귀엽네."
 
 msgctxt "Narration/&CradleOfFire_Necropolis_Statue03_3_Lawful_Default"
 msgid "Show some respect."
-msgstr "예의를 갖추라고."
+msgstr "예의는 좀 갖추라고."
 
 msgctxt "Narration/&CradleOfFire_Necropolis_Statue03_4_Carver_Default"
 msgid "Slavers, the whole lot of them."
@@ -32531,7 +32531,7 @@ msgstr "우리는 우리가 가고 싶은 곳에 간다."
 
 msgctxt "Narration/&CradleOfFire_Necropolis_EmperorGhost_6_Intimidation_Answer01"
 msgid "This isn't your world anymore - we can go wherever we like!"
-msgstr "여긴 더 이상 네 세상이 아냐 - 우린 원하는대로 갈 거야!"
+msgstr "여긴 더 이상 네 세상이 아냐 - 우린 어디든지 갈 수 있어!"
 
 msgctxt "Narration/&CradleOfFire_Necropolis_EmperorGhost_7_Ghost_NPC"
 msgid "Fool!"
@@ -32587,7 +32587,7 @@ msgstr "이만하면 충분히 참았어. 이 개자식을 죽이자 - 또 죽�
 
 msgctxt "Narration/&CradleOfFire_Necropolis_EmperorGhost_20_Violent_Normal"
 msgid "Enough of this! Let's wipe this slaver's ghost from Solasta!"
-msgstr "그쯤 해 둬! 이 노예상의 유령을 솔라스에서 쓸어버리자고!"
+msgstr "그쯤 해 둬! 이 노예상의 유령을 솔라스타에서 지워버리자고!"
 
 msgctxt "Narration/&CradleOfFire_Necropolis_EmperorGhost_21_Persuasion_Default"
 msgid "We call them orcs, they're like… dwarves, but worse."
@@ -32599,7 +32599,7 @@ msgstr "정말인가?"
 
 msgctxt "Narration/&CradleOfFire_Necropolis_EmperorGhost_23_Ghost_NPC"
 msgid "Then you are on a sacred mission."
-msgstr "그렇다면 너희는 신성한 임무중인 거로군."
+msgstr "그렇다면 너희는 신성한 임무 중인 것이로군."
 
 msgctxt "Narration/&CradleOfFire_Necropolis_EmperorGhost_24_Ghost_NPC"
 msgid "Monsters must not defile a city of the Emperors."
@@ -32613,11 +32613,11 @@ msgctxt "Narration/&CradleOfFire_Necropolis_EmperorGhost_26_Ghost_NPC"
 msgid ""
 "There is Minor Gate by the tapestry of the Aer Elai. Use it to reach the "
 "inner city."
-msgstr "에어 엘라이의 태피스트리 옆에 마이너 게이트가 있다. 그것을 통해 도시 내부에 도달할 수 있을 것이다."
+msgstr "에어 엘라이의 태피스트리 옆에 보조 관문이 있다. 그것을 통해 도시 내부에 도달할 수 있을 것이다."
 
 msgctxt "Narration/&CradleOfFire_Necropolis_EmperorGhost_27_Persuasion_Default"
 msgid "Thank you, your Imperial Majesty."
-msgstr "감사드립니다. 폐하."
+msgstr "감사드립니다. 황제 폐하."
 
 msgctxt "Narration/&CradleOfFire_Necropolis_AfterGhost_1_Pragmatic_Default"
 msgid "Did you see that?"
@@ -32665,11 +32665,11 @@ msgstr "송구합니다, 폐하. 댁이 가진 열쇠가 필요해서 말입죠.
 
 msgctxt "Narration/&CradleOfFire_Necropolis_GhostReturn_3_Cynical_Formal"
 msgid "Our apologies, Emperor, but your time has long gone."
-msgstr "무례를 용서하길, 폐하. 당신의 시대는 진작에 끝났어."
+msgstr "무례를 용서하시길, 황제이시여. 당신의 시대는 진작에 끝났습니다."
 
 msgctxt "Narration/&CradleOfFire_Necropolis_GhostReturn_4_Cynical_Slang"
 msgid "Time to die for good, dead boy!"
-msgstr "곱게 죽자, 시체놈아!"
+msgstr "곱게 죽자, 시체 놈아!"
 
 msgctxt "Narration/&CradleOfFire_Necropolis_GhostReturn_5_Ghost_NPC"
 msgid "Liars! Traitors!"
@@ -32689,15 +32689,15 @@ msgstr "우리를 따라온 건가?"
 
 msgctxt "Narration/&CradleOfFire_Necropolis_UrkaReveals_4_Urka_NPC"
 msgid "So you don't have to bring the key back to me."
-msgstr "그러니 열쇠를 나한테 도로 가져올 필요는 없지."
+msgstr "열쇠를 나한테 도로 가져오는 수고를 덜어주기 위해서지."
 
 msgctxt "Narration/&CradleOfFire_Necropolis_UrkaReveals_5_Selfpres_Default"
 msgid "You really want that key, don't you?"
-msgstr "이 열쇠를 원하는 거 맞지, 응?"
+msgstr "정말 이 열쇠를 원하는 거 맞지, 아닌가?"
 
 msgctxt "Narration/&CradleOfFire_Necropolis_UrkaReveals_6_Urka_NPC"
 msgid "Actually, I wanted the ghost to weaken you."
-msgstr "정확하게는, 유령이 너희를 약하게 만들길 바랬지."
+msgstr "정확하게는, 유령이 너희를 약하게 만들길 바랐지."
 
 msgctxt "Narration/&CradleOfFire_Necropolis_UrkaReveals_7_Urka_NPC"
 msgid "Make it easier to take that Crown from you."
@@ -32721,7 +32721,7 @@ msgstr "소락은 티르마르에서 세계 전체를 빼앗은 적이 있지."
 
 msgctxt "Narration/&CradleOfFire_Necropolis_UrkaKilled_5_Kebra_NPC"
 msgid "The Crown? It can stop them?"
-msgstr "그 왕관? 그게 그들을 멈출 수 있나?"
+msgstr "왕관? 그게 그들 멈출 수 있나?"
 
 msgctxt "Narration/&CradleOfFire_Necropolis_UrkaKilled_6_Authority_Default"
 msgid "We think so - hope so."
@@ -32729,7 +32729,7 @@ msgstr "그렇게 생각해 - 그랬으면 좋겠네."
 
 msgctxt "Narration/&CradleOfFire_Necropolis_UrkaKilled_7_Kebra_NPC"
 msgid "You need Arrok's stone, for real."
-msgstr "아록의 돌이 필요하다. 정말로."
+msgstr "아록의 돌 필요하다. 정말로."
 
 msgctxt "Narration/&CradleOfFire_BackToBrok_1_Brok_NPC"
 msgid "Nyark friends. You convince the tribes?"
@@ -32745,7 +32745,7 @@ msgstr "우르카? 그 똑똑한 자가?"
 
 msgctxt "Narration/&CradleOfFire_BackToBrok_4_Kebra_NPC"
 msgid "I saw him. Like crazy. The gaks can do this."
-msgstr "내가 봤다. 미친 것 같았다. 가크는 그렇게 할 수 있다."
+msgstr "내가 봤다. 미친 것 같다. 가크 그렇게 할 수 있다."
 
 msgctxt "Narration/&CradleOfFire_BackToBrok_5_Brok_NPC"
 msgid "Maybe Arrok is gak, too?"
@@ -32761,7 +32761,7 @@ msgstr "그럼 모래까마귀는?"
 
 msgctxt "Narration/&CradleOfFire_BackToBrok_8_Kebra_NPC"
 msgid "You choose a chief for them, and they follow you."
-msgstr "네가 그들 중에서 족장을 선택하면, 그들은 따른다."
+msgstr "당신이 족장 선택하면, 그들은 따른다."
 
 msgctxt "Narration/&CradleOfFire_BackToBrok_9_Default_Default"
 msgid "Also, Radulf will not come."
@@ -32781,7 +32781,7 @@ msgstr "저건 뭐지?"
 
 msgctxt "Narration/&CradleOfFire_NearRedScarGate_13_Brok_NPC"
 msgid "Redscar gate. Arrok's fortress."
-msgstr "붉은흉터 관문. 아록의 요새다."
+msgstr "붉은흉터 관문. 아록 요새다."
 
 msgctxt "Narration/&CradleOfFire_NearRedScarGate_14_Violence_Player"
 msgid "Can't we just kill the guards and go in?"
@@ -32789,20 +32789,20 @@ msgstr "보초를 죽이고 그냥 들어가면 안 돼?"
 
 msgctxt "Narration/&CradleOfFire_NearRedScarGate_15_Brok_NPC"
 msgid "Door is magic. "
-msgstr "문에 마법이 걸렸다. "
+msgstr "문에 마법 걸렸다. "
 
 msgctxt "Narration/&CradleOfFire_NearRedScarGate_16_Brok_NPC"
 msgid "But Arrok will open if challenged."
-msgstr "하지만 도전을 받을 경우 아록이 열 거다."
+msgstr "하지만 도전 받으면 아록이 열 거다."
 
 msgctxt "Narration/&CradleOfFire_NearRedScarGate_17_Brok_NPC"
 msgid "We need the tribes."
-msgstr "부족들이 필요하다."
+msgstr "부족들 필요하다."
 
 msgctxt "Narration/&CradleOfFire_InsideCity_1_History_NPC"
 msgid ""
 "Can't get used to these Minor Gates. To think they had these everywhere!"
-msgstr "보조 관문엔 익숙해지지가 않네. 어디든 만들어 놨나 봐!"
+msgstr "보조 관문엔 익숙해지지가 않네. 어디에든 만들어 놨나 봐!"
 
 msgctxt "Narration/&CradleOfFire_InsideCity_2_Pragmatic_Default"
 msgid "Now's not the time for Manacalon nostalgia."
@@ -32834,11 +32834,11 @@ msgstr "오크들. 내 생각엔, 아록의 마음에 안 든 녀석들이다."
 
 msgctxt "Narration/&CradleOfFire_InsideCity_9_Cynical_Default"
 msgid "Well, looks like he did half the job for us."
-msgstr "오, 우리갈 할 일을 반쯤 해치웠나 보네."
+msgstr "오, 아록이 우리가 할 일을 반쯤 해치워줬나 보네."
 
 msgctxt "Narration/&CradleOfFire_InsideCity_10_Authority_NPC"
 msgid "Do we need the tribes, now?"
-msgstr "이젠 부족이 필요없는 거, 아냐?"
+msgstr "이젠 부족이 필요없는 거 아냐?"
 
 msgctxt "Narration/&CradleOfFire_InsideCity_11_Violent_NPC"
 msgid "I reckon we can take him - we have the advantage of surprise."
@@ -32846,7 +32846,7 @@ msgstr "우리가 잡을 수 있겠는데 - 기습의 이점은 우리한테 있
 
 msgctxt "Narration/&CradleOfFire_InsideCity_12_Kebra_NPC"
 msgid "Arrok still very powerful."
-msgstr "아록은 그래도 정말 강하다."
+msgstr "아록 그래도 정말 강하다."
 
 msgctxt "Narration/&CradleOfFire_InsideCity_13_Violent_NPC"
 msgid "Sure. So we need to take him down fast."
@@ -32866,7 +32866,7 @@ msgstr "오, 태양구름의 케브라…"
 
 msgctxt "Narration/&CradleOfFire_FaceArrok_3_Arrok_NPC"
 msgid "…you walk with nyarks? Shame on you."
-msgstr "...나크와 함께하다니? 부끄러운 줄 알아라."
+msgstr "...나크와 함께? 부끄러운 줄 알아라."
 
 msgctxt "Narration/&CradleOfFire_FaceArrok_4_Authority_Default"
 msgid "You're finished, Arrok. Give us the stone!"
@@ -32874,7 +32874,7 @@ msgstr "넌 끝났어, 아록. 돌을 내놔라!"
 
 msgctxt "Narration/&CradleOfFire_FaceArrok_5_Arrok_NPC"
 msgid "Funny nyark. No, you give me yours."
-msgstr "재밌는 나크군. 아니지, 너희가 네 것을 내놔야지."
+msgstr "재밌는 나크군. 아니지, 너희 것을 내놔야지."
 
 msgctxt "Narration/&CradleOfFire_FaceArrok_6_Authority_Default"
 msgid "You're alone. Looks like you killed your tribe all by yourself."
@@ -32886,7 +32886,7 @@ msgstr "쓸모없는 버러지일 뿐이다."
 
 msgctxt "Narration/&CradleOfFire_FaceArrok_8_Arrok_NPC"
 msgid "Arrok needs no orcs. Arrok is fire! Arrok is volcano!"
-msgstr "아록은 오크의 도움 따위 필요 없다. 아록은 불꽃이다! 아록은 화산이다!"
+msgstr "아록은 오크 도움 필요 없다. 아록은 불꽃이다! 아록은 화산이다!"
 
 msgctxt "Narration/&CradleOfFire_FaceArrok_9_Selfpres_Default"
 msgid "What the…"
@@ -32918,7 +32918,7 @@ msgstr "그럼 멋진 연설은 없는 건가?"
 
 msgctxt "Narration/&CradleOfFire_TribesUnite_7_Brok_NPC"
 msgid "No, but door still closed."
-msgstr "없다. 하지만 문은 여전히 잠겨 있지."
+msgstr "없다. 하지만 문 여전히 잠겨 있다."
 
 msgctxt "Narration/&CradleOfFire_TribesUnite_8_Crownbearer_Default"
 msgid "Do you see that?"
@@ -32938,7 +32938,7 @@ msgstr "그냥, 내 생각에는... 왕관이 있으면.. 저기 들어갈 수 �
 
 msgctxt "Narration/&CradleOfFire_TribesUnite_12_Selfpres_Default"
 msgid "It's a trap. Arrok wants us in there alone."
-msgstr "함정이야. 아록은 저기서 혼자 우리가 들어오길 원하는 거야."
+msgstr "함정이야. 아록은 저기서 우리만 들어오길 원하는 거야."
 
 msgctxt "Narration/&CradleOfFire_TribesUnite_13_Pragmatic_Default"
 msgid "Do we have a choice?"
@@ -32990,7 +32990,7 @@ msgstr "오크는 내가 생각했던 것보다 훨씬 문명화됐어."
 
 msgctxt "Narration/&CradleOfFire_Ending_7_Violent_Default"
 msgid "Next time we run into some, you can tell them that."
-msgstr "다음에도 이런 일이 있으면, 걔네한테 꼭 말해줘."
+msgstr "다음에 다른 오크 만나면 그렇게 말해줘."
 
 msgctxt "Narration/&CradleOfFire_Ending_8_Authority_Default"
 msgid "All right, let's get out of here. It's not safe!"
@@ -33021,7 +33021,7 @@ msgctxt ""
 "Narration/"
 "&Conjuration_Entrance_4c_HighestCharismaIfNotCynicOrnotCynic_Default"
 msgid "Oh, come on! Less bitching and more hacking!"
-msgstr "아, 좀! 불평만 말고 더 열심히 베어내!"
+msgstr "아, 좀! 불평 그만하고 더 쳐내기나 해!"
 
 msgctxt "Narration/&Conjuration_Entrance_5_LowestSTRorElse_Default"
 msgid "I so love manual labor! "
@@ -33050,7 +33050,7 @@ msgstr "내 생애 빌어먹을 울타리를 또 베나 봐라! "
 
 msgctxt "Narration/&Conjuration_Jungle_5_RogueOrFollowerMaraikeOrElse_Default"
 msgid "Misaye's laughing!"
-msgstr "마사이에께서 미소짓길!"
+msgstr "미사이에께서 미소짓길!"
 
 msgctxt "Narration/&Conjuration_Lava_1_LowestSTRorElse_Default"
 msgid ""
@@ -33133,7 +33133,7 @@ msgctxt ""
 msgid ""
 "The Inquisition? Pah! Nothing you can do to me can beat the horrors of this "
 "place!"
-msgstr "이단심문이라고? 하! 너희가 할 수 있는 게 뭐든 이곳의 공포를 이길 순 없을걸!"
+msgstr "이단심문이라고? 하! 너희가 할 수 있는 게 뭐든 이곳의 공포보다 더하진 않을 걸!"
 
 msgctxt "Narration/&Conjuration_Interrogation_5b_PaladinEinarOrSpyOrElse_Default"
 msgid "This place is cursed? "
@@ -33163,7 +33163,7 @@ msgstr "누가 뭐라고 했다고? "
 
 msgctxt "Narration/&Conjuration_Interrogation_10b_Sorak_Prisoner_NPC"
 msgid "The voice! It said we would all die!"
-msgstr "목소리야! 그게 우리가 다 죽을 거라고 했다고!"
+msgstr "그 목소리! 그게 우리가 다 죽을 거라고 했다고!"
 
 msgctxt "Narration/&Conjuration_Interrogation_11b_Sorak_Prisoner_NPC"
 msgid "Because I know we will all die here! It said so! "
@@ -33175,7 +33175,7 @@ msgstr "충격적인 이야기인걸! "
 
 msgctxt "Narration/&Conjuration_Interrogation_13_SpyOrCautious_Default"
 msgid "Sure, all these dead Soraks, and no trace of what killed them…"
-msgstr "확실히, 여기 있는 죽은 소락을 전부, 뭐에 죽었는지 흔적이 없어…"
+msgstr "확실히, 여기 있는 죽은 소락들 전부, 뭐에 죽었는지 흔적이 없어…"
 
 msgctxt "Narration/&Conjuration_Interrogation_14_SpyOrCautious_Default"
 msgid "…but we saw dead Soraks everywhere…"
@@ -33183,7 +33183,7 @@ msgstr "...하지만 우리는 죽은 소락이 사방에 널려 있는 걸 봤�
 
 msgctxt "Narration/&Conjuration_Interrogation_15_SpyOrCautious_Default"
 msgid "…and not one single enemy body among them! "
-msgstr "…그리고 그 중엔 적들의 시신이라곤 아무것도 없었고! "
+msgstr "…그리고 그 중엔 적들의 시신이라곤 하나도 없었고! "
 
 msgctxt "Narration/&Conjuration_Interrogation_16_Lawkeeper_Default"
 msgid "They could have taken their dead, just like the Soraks do."
@@ -33195,7 +33195,7 @@ msgstr "그럼 여기 이 친구는 어쩌지? "
 
 msgctxt "Narration/&Conjuration_Interrogation_18_PaladinEinarOrSpyOrElse_Default"
 msgid "He is a Sorak pawn - there is only one thing to do! "
-msgstr "이 자는 소락의 장기말이야 - 우리가 해줄 수 있는 건 하나뿐이라고! "
+msgstr "이 자는 소락의 졸개야 - 우리가 해줄 수 있는 건 하나뿐이지! "
 
 msgctxt "Narration/&Conjuration_Interrogation_19_LawkeeperOrElse_Default"
 msgid "And yet, we have laws! "
@@ -33207,7 +33207,7 @@ msgstr "이 자는 너무 위험해! "
 
 msgctxt "Narration/&Conjuration_Interrogation_21_LawkeeperOrElse_Default"
 msgid "Who are we, to call ourselves judges and executioners?"
-msgstr "우리가 뭔데, 즉결처형을 자처하는 거지?"
+msgstr "우리가 뭔데, 심판자나 처형자를 자처하는 거지?"
 
 msgctxt "Narration/&Conjuration_Interrogation_22_AnyPriestOrPaladin_Default"
 msgid "Servants of the gods!"
@@ -33215,7 +33215,7 @@ msgstr "신들의 종이지!"
 
 msgctxt "Narration/&Conjuration_Interrogation_23_AnyNonHuman_Default"
 msgid "Protectors of Solasta!"
-msgstr "솔라스타의 보호자고!"
+msgstr "솔라스타의 수호자고!"
 
 msgctxt "Narration/&Conjuration_Treasure_Beast_1_HighestPerceptionOrElse_Default"
 msgid "Those statues look weird!"
@@ -33223,7 +33223,7 @@ msgstr "저 조각상들 이상한데!"
 
 msgctxt "Narration/&Conjuration_Treasure_Beast_2_Sellsword_Slang"
 msgid "Perhaps - but those chests look mighty real to me!"
-msgstr "그럴지도 - 그래도 저 상자는 진짜 같아 보여!"
+msgstr "그럴지도 - 그래도 저 상자는 정말 진짜 같아 보여!"
 
 msgctxt "Narration/&Conjuration_Treasure_Beast_3_LawkeeperOrElse_Default"
 msgid "But are we entitled to it? "

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2021-12-20 11:55+0000\n"
-"Last-Translator: Nickel <psb3421@naver.com>\n"
+"PO-Revision-Date: 2021-12-24 01:38+0000\n"
+"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/feature/ko/"
 ">\n"
 "Language: ko\n"
@@ -3157,7 +3157,7 @@ msgstr "거미 여왕의 몸에 솟아있는 독이 든 작은 가시를 일제�
 
 msgctxt "Feature/&Power_Phase_Spider_Teleport_Title"
 msgid "Ethereal Jaunt"
-msgstr "영계 왕복"
+msgstr "에테르계 왕복"
 
 msgctxt "Feature/&Power_Phase_Spider_Teleport_Description"
 msgid "Phase spiders can change planes at will."
@@ -3502,7 +3502,7 @@ msgstr "레벨 3이 되면 분노의 본질을 형성하는 경로를 선택합�
 
 msgctxt "Feature/&PrimalPathTitle"
 msgid "Primal Path"
-msgstr "원시적 경로"
+msgstr "원시의 길"
 
 msgctxt "Feature/&FeatureSetRageDescription"
 msgid ""
@@ -3649,14 +3649,13 @@ msgctxt "Feature/&PowerBerserkerIntimidatingPresenceTitle"
 msgid "Intimidating Presence"
 msgstr "위협적인 존재감"
 
-#, fuzzy
 msgctxt "Feature/&PowerMagebaneWarCryDescription"
 msgid ""
 "While raging, a Magebane who takes damage from spells or other magical "
 "attacks  can use their reaction to unleash a powerful warcry, dealing "
 "psychic damage, equal to 1d6 + CON modifier, to all enemies within 6 cells."
 msgstr ""
-"격노 중 주문이나 마법적 공격에 의해 피해를 입은 Magebane은, 반응 행동을 사용해 강력한 함성을 질러 6칸 이내의 모든 적에게 "
+"격노 중 주문이나 마법적 공격에 의해 피해를 입은 반마법의 바바리안은, 반응 행동을 사용해 강력한 함성을 질러 6칸 이내의 모든 적에게 "
 "1D6 + 건강 수정치와 같은 양의 정신 피해를 가할 수 있습니다."
 
 msgctxt "Feature/&PowerMagebaneWarCryTitle"
@@ -3671,13 +3670,12 @@ msgctxt "Feature/&RejectMagicTitle"
 msgid "Reject Magic"
 msgstr "마력 배격"
 
-#, fuzzy
 msgctxt "Feature/&EnemyOfMagicDescription"
 msgid ""
 "While raging, Magebanes roll an additional weapon damage die when making a "
 "successful melee attack against a creature capable of spellcasting."
 msgstr ""
-"Magebane이 격노 중 주문 시전이 가능한 크리쳐에게 근접 공격을 성공시켰다면, 무기 피해 주사위 하나를 더 굴려 피해량에 더합니다."
+"반마법의 바바리안이 격노 중 주문 시전이 가능한 크리쳐에게 근접 공격을 성공시켰다면, 무기 피해 주사위 하나를 더 굴려 피해량에 더합니다."
 
 msgctxt "Feature/&DruidWeaponProficiencyTitle"
 msgid "Druid  Weapon Proficiencies"
@@ -3703,7 +3701,7 @@ msgstr "2레벨이 되면 당신과 자연의 관계를 나타내는 드루이�
 
 msgctxt "Feature/&PowerDruidWildShapeTitle"
 msgid "Wild Shape"
-msgstr ""
+msgstr "변신"
 
 msgctxt "Feature/&PowerDruidWildShapeDescription"
 msgid ""
@@ -3891,7 +3889,6 @@ msgctxt "Feature/&FeatureSetSpiritCallTitle"
 msgid "Spirit Call"
 msgstr "영의 부름"
 
-#, fuzzy
 msgctxt "Feature/&FeatureSetSpiritCallDescription"
 msgid ""
 "Use an action to call your kindred spirit to a spot within 6 cells. If the "
@@ -3903,7 +3900,6 @@ msgctxt "Feature/&FeatureSetSpiritBondTitle"
 msgid "Spirit Bond"
 msgstr "영의 유대"
 
-#, fuzzy
 msgctxt "Feature/&FeatureSetSpiritBondDescription"
 msgid ""
 "Your kindred spirit has the following features:\n"
@@ -3930,7 +3926,6 @@ msgctxt "Feature/&FeatureSetMagicalSpiritTitle"
 msgid "Magical Spirit"
 msgstr "마력의 영"
 
-#, fuzzy
 msgctxt "Feature/&FeatureSetMagicalSpiritDescription"
 msgid ""
 "The attacks of the kindred spirit are considered magical.\n"
@@ -3946,7 +3941,6 @@ msgctxt "Feature/&FeatureSetSharedPainTitle"
 msgid "Shared Pain"
 msgstr "고통 분담"
 
-#, fuzzy
 msgctxt "Feature/&FeatureSetSharedPainDescription"
 msgid ""
 "As a reaction, the damage inflicted  to the druid or the kindred spirit can "
