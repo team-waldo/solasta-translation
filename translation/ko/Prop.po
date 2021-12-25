@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2021-12-24 01:38+0000\n"
+"PO-Revision-Date: 2021-12-25 15:57+0000\n"
 "Last-Translator: Sh K. <wjswn244@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/prop/ko/>\n"
 "Language: ko\n"
@@ -868,20 +868,17 @@ msgctxt "Prop/&Statue_Little_EmperorTitle"
 msgid "Statue of a young Emperor"
 msgstr "젊은 황제 조각상"
 
-#, fuzzy
 msgctxt "Prop/&Statue_Maisy_JadeTitle"
 msgid "Statue of Maisy (jade)"
-msgstr "메이지 조각상 (옥)"
+msgstr "메이시 조각상 (옥)"
 
-#, fuzzy
 msgctxt "Prop/&Statue_Maisy_StoneTitle"
 msgid "Statue of Maisy (stone)"
-msgstr "메이지 조각상 (돌)"
+msgstr "메이시 조각상 (돌)"
 
-#, fuzzy
 msgctxt "Prop/&Statue_Maisy_MarbleTitle"
 msgid "Statue of Maisy (marble)"
-msgstr "메이지 조각상 (대리석)"
+msgstr "메이시 조각상 (대리석)"
 
 msgctxt "Prop/&Statue_MisayeTitle"
 msgid "Statue of Misaye"

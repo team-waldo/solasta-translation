@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2021-12-24 01:38+0000\n"
-"Last-Translator: Nickel <psb3421@naver.com>\n"
+"PO-Revision-Date: 2021-12-25 15:57+0000\n"
+"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/"
 "locationtype/ko/>\n"
 "Language: ko\n"
@@ -90,36 +90,30 @@ msgctxt "LocationType/&DLC1_Encounter_SpiderNest_Description"
 msgid "TBD"
 msgstr "추후 추가"
 
-#, fuzzy
 msgctxt "LocationType/&Encounter_Jungle_Outpost1_Title"
 msgid "Chenna Outpost"
 msgstr "첸나 전초기지"
 
-#, fuzzy
 msgctxt "LocationType/&Encounter_Jungle_Outpost2_Title"
 msgid "Satils Outpost"
-msgstr "사틀리스 전초기지"
+msgstr "사틸즈 전초기지"
 
 msgctxt "LocationType/&Encounter_Jungle_Outpost3_Title"
 msgid "Pertal Outpost"
 msgstr "페르탈 전초기지"
 
-#, fuzzy
 msgctxt "LocationType/&Encounter_Jungle_Outpost4_Title"
 msgid "Gartis Outpost"
 msgstr "가르티스 전초기지"
 
-#, fuzzy
 msgctxt "LocationType/&Encounter_Jungle_Outpost5_Title"
 msgid "Feleg Outpost"
 msgstr "펠렉 전초기지"
 
-#, fuzzy
 msgctxt "LocationType/&Encounter_Jungle_Outpost6_Title"
 msgid "Noren Outpost"
 msgstr "노렌 전초기지"
 
-#, fuzzy
 msgctxt "LocationType/&DLC1_Encounter_Anfarel_Town_Title"
 msgid "Caer Anfrel"
 msgstr "케어 앤프렐"

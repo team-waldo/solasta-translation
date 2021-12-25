@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2021-12-24 01:38+0000\n"
+"PO-Revision-Date: 2021-12-25 15:57+0000\n"
 "Last-Translator: Sh K. <wjswn244@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/gadget/ko/>"
 "\n"
@@ -860,7 +860,6 @@ msgctxt "Gadget/&TeleportIndividualTitle"
 msgid "Teleporter (individual)"
 msgstr "순간이동기 (개별)"
 
-#, fuzzy
 msgctxt "Gadget/&TeleportIndividualDescription"
 msgid ""
 "Transports a character stepping on this to the destination gadget position ("
@@ -877,7 +876,6 @@ msgid ""
 "for example). Requires the full party on the gadget to activate"
 msgstr "파티를 목적지 장치로 순간이동시킵니다 (예: 입구 장치). 모든 파티원이 장치 위에 위치해야 활성화됩니다"
 
-#, fuzzy
 msgctxt "Gadget/&NodeTitle"
 msgid "Node"
 msgstr "노드"
@@ -938,12 +936,11 @@ msgctxt "Gadget/&VirtualExitTitle"
 msgid "Virtual Exit"
 msgstr "가상 출구"
 
-#, fuzzy
 msgctxt "Gadget/&VirtualExitDescription"
 msgid ""
 "An exit gadget which can be placed over walls and doors, and activated when "
 "interacting with the hovered volume"
-msgstr "벽이나 문 위에 배치 가능한 출구 장치입니다. 공중에 떠있는 물체와 상호작용하여 활성화됩니다"
+msgstr "벽이나 문 위에 배치 가능한 출구 장치입니다. 공중에 떠 있는 물체와 상호작용하여 활성화됩니다"
 
 msgctxt "Gadget/&ExitMultipleTitle"
 msgid "Exit (Multiple)"

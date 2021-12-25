@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2021-12-19 12:14+0000\n"
+"PO-Revision-Date: 2021-12-25 15:57+0000\n"
 "Last-Translator: Sh K. <wjswn244@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/map/ko/>\n"
 "Language: ko\n"
@@ -63,19 +63,15 @@ msgctxt "Map/&Location_Known_Description_City"
 msgid "The heart of the valley"
 msgstr "골짜기의 심장"
 
-#, fuzzy
-#| msgid "Known City name"
 msgctxt "Map/&Location_Explored_Title_City"
 msgid "Caer Hyfrid"
 msgstr "케어 하이프리드"
 
-#, fuzzy
-#| msgid "You've explored the city"
 msgctxt "Map/&Location_Explored_Description_City"
 msgid ""
 "The valley's capital city, ruled by the Lord Protector Orenetis, is a good "
 "place to meet people and learn about the situation in the valley."
-msgstr "섭정 오레네티스가 다스리는 계곡의 수도 격인 도시로, 사람들을 만나거나 계곡 내의 사건을 알아보기에 제격인 곳입니다."
+msgstr "섭정 오레네티스가 다스리는 계곡의 중심도시로, 사람들을 만나거나 계곡 내의 사건을 알아보기에 제격인 곳입니다."
 
 msgctxt "Map/&Location_Presentation_Title_City"
 msgid "City"
@@ -471,7 +467,6 @@ msgctxt "Map/&Waypoint_DLC1_Complex_Workshop"
 msgid "Workshop"
 msgstr "작업장"
 
-#, fuzzy
 msgctxt "Map/&Waypoint_DLC1_Complex_Test_Arena"
 msgid "Test Subject Arena"
 msgstr "실험체 시험용 투기장"
@@ -512,7 +507,6 @@ msgctxt "Map/&Waypoint_DLC1_BuriedCity_Crossroad"
 msgid "Crossroads"
 msgstr "교차로"
 
-#, fuzzy
 msgctxt "Map/&Waypoint_DLC1_BuriedCity_Windroom"
 msgid "Wind Room"
 msgstr "통풍실"
@@ -599,7 +593,7 @@ msgstr "낡은 감옥"
 
 msgctxt "Map/&Waypoint_DLC1_Valley_Living_Quarters"
 msgid "Living Quarters"
-msgstr ""
+msgstr "살아있는 방"
 
 msgctxt "Map/&Waypoint_DLC1_Valley_Mausoleum"
 msgid "The Mausoleum"
