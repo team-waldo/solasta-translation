@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2021-12-24 01:38+0000\n"
+"PO-Revision-Date: 2021-12-26 14:46+0000\n"
 "Last-Translator: Sh K. <wjswn244@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/monster/ko/"
 ">\n"
@@ -414,12 +414,12 @@ msgstr "이 돌연변이는 일반 트롤과 확연히 다르고, 대부분은 �
 
 msgctxt "Monster/&Redeemer_Juggernaut_Title"
 msgid "Juggernaut"
-msgstr "멈출 수 없는 자"
+msgstr "폭주자"
 
 msgctxt "Monster/&Redeemer_Juggernaut_Description"
 msgid ""
 "This gigantic redeemer is clearly at the top of the food chain in the family."
-msgstr "이 비대한 구원자는 친족 내의 먹이사슬 중 정점에 있는 게 명백해 보입니다."
+msgstr "이 비대한 구원자는 구원자 친족 내의 먹이사슬 중 정점에 있는 게 명백해 보입니다."
 
 msgctxt "Monster/&Swamp_Hag_Title"
 msgid "Swamp Hag"

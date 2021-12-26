@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2021-12-25 15:57+0000\n"
+"PO-Revision-Date: 2021-12-26 14:46+0000\n"
 "Last-Translator: Sh K. <wjswn244@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/npc/ko/>\n"
 "Language: ko\n"
@@ -23,7 +23,7 @@ msgstr "헬리아 페어블레이드"
 
 msgctxt "NPC/&NPC_Marches_03_Title"
 msgid "Leyrin Catpaw"
-msgstr "레이린 캣포우"
+msgstr "레이린 캣파우"
 
 msgctxt "NPC/&NPC_Marches_04_Title"
 msgid "Krim Sunsail"
@@ -31,7 +31,7 @@ msgstr "크림 선세일"
 
 msgctxt "NPC/&NPC_Valley_Telerien_Purevoice_Title"
 msgid "Telerien Purevoice"
-msgstr "텔레리언 퓨어보이스"
+msgstr "텔레리엔 퓨어보이스"
 
 msgctxt "NPC/&NPC_Valley_Samko_Flint_Title"
 msgid "Samko Flint"
@@ -47,7 +47,7 @@ msgstr "굶주린 자"
 
 msgctxt "NPC/&NPC_Forge_Charmer_Title"
 msgid "Charmer"
-msgstr "멋쟁이"
+msgstr "매력가"
 
 msgctxt "NPC/&NPC_Forge_Cook_Title"
 msgid "Cook"
@@ -97,10 +97,9 @@ msgctxt "NPC/&NPC_Mask_CafrainShadow"
 msgid "Cafrain Shadow"
 msgstr "카프레인 섀도"
 
-#, fuzzy
 msgctxt "NPC/&NPC_Orenetis_Finaliel"
 msgid "Finaliel Sharp-Mind"
-msgstr "피나리엘 샤프마인드"
+msgstr "피날리엘 샤프마인드"
 
 msgctxt "NPC/&NPC_Sima_Temple"
 msgid "Sima Temple"
@@ -228,7 +227,7 @@ msgstr "반도 클란"
 
 msgctxt "NPC/&DLC1_NPC_CityGuard_Captain_Sharp"
 msgid "Captain Sharp-Eyes"
-msgstr "샤프아이즈 대위"
+msgstr "샤프아이즈 대장"
 
 msgctxt "NPC/&DLC1_NPC_Nobleman_ThePeople03_Title"
 msgid "Noble"
