@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2021-12-25 15:57+0000\n"
-"Last-Translator: Inbird <inbird81@gmail.com>\n"
+"PO-Revision-Date: 2021-12-26 03:03+0000\n"
+"Last-Translator: Jin <byungjinjun55@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
 "Language: ko\n"
@@ -33343,7 +33343,7 @@ msgstr "그럼 조심해서, 전진하자! "
 
 msgctxt "Narration/&Conjuration_Coward_10_RogueOrAcolyte_Normal"
 msgid "Today is Misaye's birthday! "
-msgstr "오늘은 미사이에의 탄신일이야! "
+msgstr "오늘 미사이에의 탄신일만큼 웃음이 넘치길! "
 
 msgctxt "Narration/&Conjuration_Coward_11_ClericOrWorshipMaraike_Normal"
 msgid "Maraike's will be done! "
@@ -33351,7 +33351,7 @@ msgstr "마라이케의 뜻대로! "
 
 msgctxt "Narration/&Conjuration_Coward_12_SelfPreservationOrElse_Normal"
 msgid "Next time, pray harder for a miracle! "
-msgstr "기적을 원하면, 다음엔 더 간절히 기도하자고! "
+msgstr "기적을 원하면, 다음엔 더 간절히 기도하라고! "
 
 msgctxt "Narration/&Conjuration_MansionArrival_1_HighestPerception_Slang"
 msgid "Einar's sword! What a sight! "
@@ -33395,11 +33395,11 @@ msgstr "꼭 그렇게… 밝혀야 돼?"
 
 msgctxt "Narration/&Conjuration_MansionArrival_11_CynicOrElse_Normal"
 msgid "Not greedy; practical! We do things…"
-msgstr "밝히는 게 아니라 실용적이라고 해 줘! 우리가 하는 일이야…"
+msgstr "밝히는 게 아니라 실용적이라고 해 줘! 우리가 하는 일은…"
 
 msgctxt "Narration/&Conjuration_MansionArrival_12_CynicOrElse_Normal"
 msgid "…that no one in their right minds would attempt…"
-msgstr "…정신 똑바로 박힌 사람들은 안 할 법한 일을 해주는 건데…"
+msgstr "…정신 똑바로 박힌 사람들은 안 할 법한 일인데…"
 
 msgctxt "Narration/&Conjuration_MansionArrival_13_CynicOrElse_Normal"
 msgid "…and we don't do it for nothing!"
@@ -33417,7 +33417,7 @@ msgstr "그럼 저 안에 들어가서 우리가 찾은 이상현상이 뭔지 �
 msgctxt "Narration/&Conjuration_CastleEntrance_1_Butler_NPC"
 msgid ""
 "Good day to you. My name is Eldorath Smooth-Tongue, the master's housekeeper."
-msgstr "좋은 하루 되시길. 제 이름은 엘도라스 스무스텅, 주인님의 사용인입니다."
+msgstr "좋은 하루 되시길. 제 이름은 엘도라스 스무스텅, 주인님의 집사입니다."
 
 msgctxt "Narration/&Conjuration_CastleEntrance_2a_1_Butler_ifPlayersLooted_NPC"
 msgid "I see you have purloined some of my master's property…"
@@ -33470,7 +33470,7 @@ msgstr "그런데 환대라뇨? "
 
 msgctxt "Narration/&Conjuration_CastleEntrance_10a_Butler_NPC"
 msgid "We aim to please. The household has certain standards, after all."
-msgstr "저희는 여러분의 편의를 위해 최선을 다할 겁니다. 사용인들의 기준이, 있기는 합니다만."
+msgstr "저희는 여러분의 편의를 위해 최선을 다할 겁니다. 저희들의 기준이 있기는 합니다만."
 
 msgctxt "Narration/&Conjuration_CastleEntrance_11a_Butler_NPC"
 msgid "We have not seen guests of your… quality for some time."
@@ -33482,7 +33482,7 @@ msgstr "꽤요? 정확히 어느 정도죠? "
 
 msgctxt "Narration/&Conjuration_CastleEntrance_13a_Butler_NPC"
 msgid "Well, it must be… forgive me, the date eludes me for the moment."
-msgstr "글쎄요, 분명… 아 용서하시길, 날짜 탓에 좀 멍해 있었군요."
+msgstr "글쎄요, 최소한… 아 용서하시길, 날짜 탓에 좀 멍해 있었군요."
 
 msgctxt "Narration/&Conjuration_CastleEntrance_14a_DiplomatOrElse_Formal"
 msgid "Do you remember any… prominent guests? "
@@ -33502,7 +33502,7 @@ msgstr "똑똑히 기억한답니다. 지금과는 형태가 조금 다르셨지
 
 msgctxt "Narration/&Conjuration_CastleEntrance_9b_DiplomatOrElse_Formal"
 msgid "We would never dream of abusing your hospitality!"
-msgstr "결코 여러분의 접대를 나쁜 뜻으로 이용하진 않겠습니다!"
+msgstr "환대를 악용할 생각조차 절대 하지 않겠습니다!"
 
 msgctxt "Narration/&Conjuration_CastleEntrance_9b_written_DiplomatOrElse_Formal"
 msgid "Someone abused your hospitality in the past?"
@@ -33530,7 +33530,7 @@ msgstr "…여러분이 그런 실례를 저지르리라 생각한 적은 없지
 
 msgctxt "Narration/&Conjuration_CastleEntrance_15b_DiplomatOrElse_Formal"
 msgid "Of course not! And yet, customs being different everywhere…"
-msgstr "그럼요! 그리고 행여, 관습은 곳곳에 따라 다르니 드리는 말씀인데…"
+msgstr "그럼요! 그리고 행여, 관습은 지역에 따라 다르니 드리는 말씀인데…"
 
 msgctxt "Narration/&Conjuration_CastleEntrance_16b_DiplomatOrElse_Formal"
 msgid "…might I ask what would be considered rude here? "
@@ -33554,7 +33554,7 @@ msgstr "진짜로요? "
 
 msgctxt "Narration/&Conjuration_CastleEntrance_21b_Butler_NPC"
 msgid "I have seen worse, I'm sorry to say!"
-msgstr "더한 것도 본걸요, 이런 입조심!"
+msgstr "더한 것도 본걸요, 말하기조차 민망하지만!"
 
 msgctxt "Narration/&Conjuration_CastleEntrance_22b_Butler_NPC"
 msgid "But now, please follow me. One mustn't keep the master waiting! "
@@ -33718,7 +33718,7 @@ msgstr "그러니 원한다면…"
 
 msgctxt "Narration/&ConjurationQuest_Master_40_Master_NPC"
 msgid "…you'll have to pry it from my dead claws!"
-msgstr "…내 죽어간 손톱 사이에서 낚아채가야 할 걸세!"
+msgstr "…날 죽이고 내 손톱 사이에서 낚아채가야 할 걸세!"
 
 msgctxt "Narration/&Banter_ToM_07"
 msgid "Kill them!"
@@ -33936,11 +33936,11 @@ msgstr "이 벽들은 최근에 보강된 것 같은데."
 
 msgctxt "Narration/&Banter_Abjuration_WizardTower_Observable_04"
 msgid "Lore text"
-msgstr "Lore text"
+msgstr "지식의 구절"
 
 msgctxt "Narration/&Banter_Abjuration_WizardTower_Observable_05"
 msgid "Lore Text"
-msgstr "Lore text"
+msgstr "지식의 구절"
 
 msgctxt "Narration/&Banter_Abjuration_WizardTower_Observable_06"
 msgid ""
@@ -33950,7 +33950,7 @@ msgstr "저 정복 입고 있는 엘프는 군에서 일하나 본데, 외투에
 
 msgctxt "Narration/&Banter_Abjuration_WizardTower_Observable_07"
 msgid "Lore about the hall"
-msgstr "Lore about the hall"
+msgstr "홀에 대한 구전"
 
 msgctxt "Narration/&Banter_Abjuration_PuzzleLight_01"
 msgid "It doesn't do anything. Maybe we're missing something."
@@ -34002,7 +34002,7 @@ msgctxt "Narration/&Banter_Abjuration_WizardTower_Observable_10"
 msgid ""
 "This harp - look at the grain of this wood, the patina… it hasn't aged a "
 "day, seems anachronistic… And a 48-stringer!"
-msgstr "이 하프 - 그윽한 이 나뭇결… 하루이틀 된 게 아냐, 완전히 다른 시대의… 그리고 현이 무려 48개야!"
+msgstr "이 하프 - 고색창연한 이 나뭇결… 하루이틀 된 게 아냐, 완전히 다른 시대의… 그리고 현이 무려 48개야!"
 
 msgctxt "Narration/&Banter_Abjuration_WizardTower_Observable_11"
 msgid ""
@@ -34096,7 +34096,7 @@ msgctxt "Narration/&Banter_Abjuration_WizardTower_Observable_17"
 msgid ""
 "This is… Eiradir Fairmind, the justicar, as he presents the first codex of "
 "imperial law to the Court!"
-msgstr "이건... 법정에 제국법 초본을 제출하는 최고 사법관 에라디르 페어마인드야!"
+msgstr "이건... 최초의 제국법을 법정에 제시했던 최고 사법관 에라디르 페어마인드야!"
 
 msgctxt "Narration/&Banter_Conjuration_LavaRiver_01"
 msgid "Wait? Have you ever seen this kind of plant?"
@@ -34112,11 +34112,11 @@ msgstr "이럴 줄 알았어, 저 끈적거리는 장비엔 손도 대지 말았
 
 msgctxt "Narration/&CradleOfFire_Entrance_3_Arbal_NPC"
 msgid "Who your nyark friends?"
-msgstr "네 나크 친구들은 뭐냐?"
+msgstr "네 나크 친구들 뭐냐?"
 
 msgctxt "Narration/&CradleOfFire_Entrance_4_Arbal_NPC"
 msgid "Eh, nyark speaks! Kebra teach them?"
-msgstr "아니, 나크가 말도 한다! 케브라 네가 가르쳤냐?"
+msgstr "아니, 나크 말도 한다! 케브라가 가르쳤냐?"
 
 msgctxt "Narration/&CradleOfFire_Entrance_10_Arbal_NPC"
 msgid "Before Arrok, Arbal would kill nyarks."
@@ -34142,15 +34142,15 @@ msgctxt "Narration/&Banter_Conjuration_TheID_Gate_00"
 msgid ""
 "Go back to where you came from, you insignificant beings. You are not worthy "
 "to enter."
-msgstr "온 곳으로 돌아가거라, 하찮은 존재들아. 너희는 들어갈 자격이 없노라."
+msgstr "온 곳으로 돌아가거라, 하찮은 존재들아. 너희는 들어갈 자격이 없다."
 
 msgctxt "Narration/&Banter_Conjuration_TheID_Gate_01"
 msgid "I laugh at the emptiness of your actions."
-msgstr "네놈 꼴의 공허함을 비웃노라."
+msgstr "너희 행동의 공허함이 우습구나."
 
 msgctxt "Narration/&Banter_Conjuration_TheID_Gate_02"
 msgid "Play the wise, you fools. Go ahead."
-msgstr "슬기롭게 행동해, 바보들아. 어서 움직여."
+msgstr "슬기롭게 행동하라, 어리석은 것들. 지나가거라."
 
 msgctxt "Narration/&Banter_Conjuration_TheID_DarkCave_1"
 msgid "Let's stay together. These caves are dark and full of terrors."
@@ -34178,11 +34178,11 @@ msgstr "금화를 손에 쥐면 사라지잖아!"
 
 msgctxt "Narration/&TextOnlyNPCSpeech_BloodSpear_Guard_01"
 msgid "Edrof says gate closed for now."
-msgstr "에드로프가 관문은 지금 닫아놓으라고 했다."
+msgstr "에드로프가 관문 지금 닫아놓으라고 했다."
 
 msgctxt "Narration/&TextOnlyNPCSpeech_BloodSpear_Guard_02"
 msgid "Bloodspear tribe is strong!"
-msgstr "피묻은창은 강하다!"
+msgstr "피묻은창 부족 강하다!"
 
 msgctxt "Narration/&TextOnlyNPCSpeech_BloodSpear_Guard_03"
 msgid "Nyark go talk to Edrof. Only he give order to open passage."
@@ -34190,11 +34190,11 @@ msgstr "나크, 에드로프한테 가서 말해라. 열려면 에드로프 명�
 
 msgctxt "Narration/&TextOnlyNPCSpeech_BloodSpear_Guard_04"
 msgid "Brok strong chief! He defeated Edrof."
-msgstr "브록이 에드로프를 물리쳤다. 브록은 강한 지도자다!"
+msgstr "브록 강한 지도자다! 브록 에드로프 물리쳤다."
 
 msgctxt "Narration/&TextOnlyNPCSpeech_BloodSpear_Tribe_01"
 msgid "Kebra survived! Kebra strong."
-msgstr "케브라가 살아남았다! 케브라는 강하다."
+msgstr "케브라 살아남았다! 케브라 강하다."
 
 msgctxt "Narration/&TextOnlyNPCSpeech_BloodSpear_Tribe_02"
 msgid "Nyark want to trade?"
@@ -34206,11 +34206,11 @@ msgstr "피묻은창 강하다! 피묻은창 쪽수 많다."
 
 msgctxt "Narration/&TextOnlyNPCSpeech_BloodSpear_Tribe_04"
 msgid "Nyarks friend with Brok. Brok strong chief!"
-msgstr "나크들은 브록 친구. 브록은 강한 족장!"
+msgstr "나크들 브록 친구. 브록 강한 족장!"
 
 msgctxt "Narration/&TextOnlyNPCSpeech_BladeFang_Guard_01"
 msgid "Nyarks go see Radulf!"
-msgstr "나크는 라둘프 보러 가라!"
+msgstr "나크들 라둘프 보러 가라!"
 
 msgctxt "Narration/&TextOnlyNPCSpeech_BladeFang_Guard_02"
 msgid "Radulf great Shaman."
@@ -34218,7 +34218,7 @@ msgstr "라둘프 대단한 주술사다."
 
 msgctxt "Narration/&TextOnlyNPCSpeech_BladeFang_Guard_03"
 msgid "Nyark got mighty axe?"
-msgstr "나크, 엄청 센 도끼 갖고 왔냐?"
+msgstr "나크, 엄청 센 도끼 갖고 왔나?"
 
 msgctxt "Narration/&TextOnlyNPCSpeech_BladeFang_Guard_04"
 msgid "Nyarks have spider webs in hair."
@@ -34226,19 +34226,19 @@ msgstr "나크 머리털에 거미줄."
 
 msgctxt "Narration/&TextOnlyNPCSpeech_BladeFang_Tribe_01"
 msgid "Brok new chief? Brok not dead?"
-msgstr "새 족장 브록? 브록 안 죽었냐?"
+msgstr "새 족장 브록? 브록 안 죽었나?"
 
 msgctxt "Narration/&TextOnlyNPCSpeech_BladeFang_Tribe_02"
 msgid "Nyarks need food?"
-msgstr "나크 배고프냐?"
+msgstr "나크 배고픈가?"
 
 msgctxt "Narration/&TextOnlyNPCSpeech_BladeFang_Tribe_03"
 msgid "Bladefang best tribe. Bladefang got big shaman!"
-msgstr "날송곳니 최고. 날송곳니는 커다란 주술사 있다!"
+msgstr "날송곳니 최고. 날송곳니 커다란 주술사 있다!"
 
 msgctxt "Narration/&TextOnlyNPCSpeech_BladeFang_Tribe_04"
 msgid "Kebra friend with nyarks?"
-msgstr "케브라, 나크와 친구인가?"
+msgstr "케브라, 나크와 친구?"
 
 msgctxt "Narration/&TextOnlyNPCSpeech_BladeFang_Radulf_01"
 msgid "Bring back the greataxe and I will consider an alliance."
@@ -34254,7 +34254,7 @@ msgstr "그레이트액스 없으면 우리 부족 도움 없다."
 
 msgctxt "Narration/&Tavern_02_41_Player_Default"
 msgid "Go easy on him. He's just a harmless, old drunk."
-msgstr "신경 쓰지 마. 그냥 주정뱅이 할아범이니까."
+msgstr "신경 쓰지 마. 그냥 힘없는 주정뱅이 할아범이니까."
 
 msgctxt "Narration/&Tavern_02_42_Player_Default"
 msgid "Probably saw lizardfolk, or dragonborn, or something…"
