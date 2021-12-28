@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2021-12-26 14:46+0000\n"
-"Last-Translator: Nickel <psb3421@naver.com>\n"
+"PO-Revision-Date: 2021-12-28 04:39+0000\n"
+"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/quest/ko/>"
 "\n"
 "Language: ko\n"
@@ -3232,7 +3232,7 @@ msgstr "지하의 폐허를 탐사하고 마린 빙이 찾는 잊혀진 신전�
 
 msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_09_STEP_06__Outcome1Descriptio"
 msgid "You have found the lost temple and reconsecrated it."
-msgstr "잊혀진 신전을 찾아 다시 헌당했습니다."
+msgstr "잊혀진 신전을 찾아 다시 정화했습니다."
 
 msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_09_STEP_07_Title"
 msgid "Return to Base"
@@ -3287,7 +3287,7 @@ msgstr "지하의 폐허를 탐사하고 마린 빙이 찾는 잊혀진 신전�
 msgctxt ""
 "Quest/&DLC1_Secondary_Quest_Valley_Mask_09B_STEP_03__Outcome1Description"
 msgid "You have found the lost temple and reconsecrated it."
-msgstr "잊혀진 신전을 찾아 다시 헌당했습니다."
+msgstr "잊혀진 신전을 찾아 다시 정화했습니다."
 
 msgctxt "Quest/&DLC1_Secondary_Quest_Valley_Mask_09B_STEP_04_Title"
 msgid "Return to Base"
