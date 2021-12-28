@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2021-12-28 04:39+0000\n"
+"PO-Revision-Date: 2021-12-28 10:28+0000\n"
 "Last-Translator: Sh K. <wjswn244@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
@@ -20,7 +20,7 @@ msgstr "마을사람"
 
 msgctxt "Narration/&CS_Title_ThePeople02"
 msgid "The Butcher"
-msgstr "도축업자"
+msgstr "푸주한"
 
 msgctxt "Narration/&CS_Title_Orenetis_01"
 msgid "The City Gates"
@@ -28,7 +28,7 @@ msgstr "도시 관문"
 
 msgctxt "Narration/&CS_Title_Orenetis_02"
 msgid "The Palace Gate"
-msgstr "왕성 관문"
+msgstr "궁궐 관문"
 
 msgctxt "Narration/&CS_Title_Orenetis_04"
 msgid "The Harvest"
@@ -44,7 +44,7 @@ msgstr "배고픈 과학자"
 
 msgctxt "Narration/&Complex_CS_03"
 msgid "The Lost Book"
-msgstr "잊혀진 책"
+msgstr "사라진 책"
 
 msgctxt "Narration/&Complex_CS_04"
 msgid "Weird Experience"
@@ -56,7 +56,7 @@ msgstr "위험한 경로"
 
 msgctxt "Narration/&Complex_CS_06"
 msgid "The Lockdown"
-msgstr "제재"
+msgstr "봉쇄"
 
 msgctxt "Narration/&Complex_CS_07"
 msgid "Are you Sitenero ?"
@@ -84,11 +84,11 @@ msgstr "텔레리엔 조우"
 
 msgctxt "Narration/&Valley_CS_03"
 msgid "A Venomous Situation"
-msgstr "위험한 상황"
+msgstr "독기 가득한 상황"
 
 msgctxt "Narration/&Valley_CS_04"
 msgid "The Messenger"
-msgstr "배달부"
+msgstr "전령"
 
 msgctxt "Narration/&Valley_CS_05"
 msgid "A very big problem"
@@ -108,7 +108,7 @@ msgstr "어두운 비밀"
 
 msgctxt "Narration/&Valley_CS_09"
 msgid "Search and rescue"
-msgstr "수색구조"
+msgstr "수색과 구조"
 
 msgctxt "Narration/&Valley_CS_10"
 msgid "Dark News"
@@ -136,7 +136,7 @@ msgstr "반도"
 
 msgctxt "Narration/&Valley_CS_16"
 msgid "Lady of luck"
-msgstr "행운의 여성"
+msgstr "행운의 여인"
 
 msgctxt "Narration/&Valley_CS_17"
 msgid "Walk in the shadows"
@@ -152,7 +152,7 @@ msgstr "페어블레이드 아가씨"
 
 msgctxt "Narration/&DLC1_Marches_CS03"
 msgid "An Angry Lord"
-msgstr "분노한 주군"
+msgstr "분노한 군주"
 
 msgctxt "Narration/&DLC1_Marches_CS04"
 msgid "A Walk on the Dark Side"
@@ -204,11 +204,11 @@ msgstr "행방불명"
 
 msgctxt "Narration/&Swamp_CS_08"
 msgid "An Affront to Majesty"
-msgstr "왕권 모독"
+msgstr "권위 모독"
 
 msgctxt "Narration/&Swamp_CS_09"
 msgid "The Envoys"
-msgstr "사절"
+msgstr "사절단"
 
 msgctxt "Narration/&Swamp_CS_10"
 msgid "A Suspicious Ambush"
@@ -272,7 +272,7 @@ msgstr "마침내 자유를"
 
 msgctxt "Narration/&CS_Title_ThePeople03"
 msgid "Bully"
-msgstr "깡패"
+msgstr "괴롭힘"
 
 msgctxt "Narration/&CS_Title_ThePeople04"
 msgid "Vicious"
@@ -296,7 +296,7 @@ msgstr "분노 유발"
 
 msgctxt "Narration/&CS_Title_ThePeople09"
 msgid "Food for the People"
-msgstr "사람들을 위한 음식"
+msgstr "민중을 위한 음식"
 
 msgctxt "Narration/&CS_Title_ThePeople10"
 msgid "Truth Revealed"
@@ -312,11 +312,11 @@ msgstr "그는 살아있다."
 
 msgctxt "Narration/&Orenetis_CS_06_Mid"
 msgid "Karelia's issue."
-msgstr "카렐리아의 골칫거리."
+msgstr "카렐리아 문제."
 
 msgctxt "Narration/&Orenetis_CS_06_End"
 msgid "Inn and out."
-msgstr ""
+msgstr "여관과 바깥."
 
 msgctxt "Narration/&Valley_CS_18"
 msgid "The herald"
@@ -324,7 +324,7 @@ msgstr "전령"
 
 msgctxt "Narration/&Valley_CS_19"
 msgid "Still laughing"
-msgstr "계속 웃으리"
+msgstr "계속 미소가 함께하길"
 
 msgctxt "Narration/&Valley_CS_20"
 msgid "The backdoor"
@@ -360,7 +360,7 @@ msgstr "거인 찾기"
 
 msgctxt "Narration/&Valley_CS_28"
 msgid "Nothing to report"
-msgstr "보고할 것 없음"
+msgstr "보고 사항 무"
 
 msgctxt "Narration/&Valley_CS_29"
 msgid "Change of plans"
@@ -384,7 +384,7 @@ msgstr "체포"
 
 msgctxt "Narration/&Valley_CS_34"
 msgid "House of debauchery"
-msgstr "방탕의 집"
+msgstr "방탕한 집"
 
 msgctxt "Narration/&Valley_CS_35"
 msgid "The choice"
@@ -428,7 +428,7 @@ msgstr "맑은 하늘이 함께하길, 친구들."
 
 msgctxt "Narration/&New_Player_Banters5_Formal_Hello"
 msgid "Clear skies, my lord."
-msgstr "경께, 맑은 하늘이 함께하길."
+msgstr "나리, 맑은 하늘이 함께하길."
 
 msgctxt "Narration/&New_Player_Banters6_Formal_Hello"
 msgid "Clear skies, my lady."
@@ -448,7 +448,7 @@ msgstr "빛이 함께하길!"
 
 msgctxt "Narration/&New_Player_Banters10_Formal_Goodbye"
 msgid "Stay in the light, my lord."
-msgstr "경께, 빛이 함께하길."
+msgstr "나리, 빛이 함께하길."
 
 msgctxt "Narration/&New_Player_Banters11_Formal_Goodbye"
 msgid "Stay in the light, my lady."
@@ -788,7 +788,7 @@ msgstr "좋아."
 
 msgctxt "Narration/&DLC1_Marches_CS01_15_Galar_NPC"
 msgid "The man here is Lord Hammond, also from the capital."
-msgstr "이쪽은 해몬드 경으로, 마찬가지로 수도에서 왔소."
+msgstr "이쪽은 해몬드 공으로, 마찬가지로 수도에서 왔소."
 
 msgctxt "Narration/&DLC1_Marches_CS01_16_Galar_NPC"
 msgid "I spoke with the half-elf briefly. Her name is Leyrin Catpaw."
@@ -2041,7 +2041,7 @@ msgstr "그렇다 하나…"
 
 msgctxt "Narration/&DLC1_Orenetis_03_9_Malariel_NPC"
 msgid "…our Lord Protector Orenetis will receive you."
-msgstr "…오레네티스 섭정께서 너희를 받아들였다."
+msgstr "…오레네티스 각하께서 너희를 받아들였다."
 
 msgctxt "Narration/&DLC1_Orenetis_03_10_Malariel_NPC"
 msgid "I advise you to show respect."
@@ -2881,7 +2881,7 @@ msgstr "온 계곡에서, 놈들이 내게 맞서 일어서고 있어!"
 
 msgctxt "Narration/&DLC1_Orenetis_07_5_Orenetis_NPC"
 msgid "They took my outposts - in the jungle, in the marshes!"
-msgstr "정글에서, 슾지에서 - 내 전초기지들을 앗아가고 있다!"
+msgstr "정글에서, 습지에서 - 내 전초기지들을 앗아가고 있다!"
 
 msgctxt "Narration/&DLC1_Orenetis_07_6_Orenetis_NPC"
 msgid "Retake my guard towers and cleanse them of the stench of rebellion!"
@@ -2940,7 +2940,7 @@ msgstr "여태까지, 놈들은 비밀리에 이 모반을 준비한 게야."
 msgctxt "Narration/&DLC1_Orenetis_08_12_Orenetis_NPC"
 msgid ""
 "They are led by one of their ancient warlords. I don't know which one..."
-msgstr "놈들은 자신들의 고대 시절의 군벌을 따르고 있네. 그 중 누군지는 모르나…"
+msgstr "놈들은 고대 시절 자신들이 모시던 군벌을 따르고 있네. 그 중 누군지는 모르나…"
 
 msgctxt "Narration/&DLC1_Orenetis_08_13_Orenetis_NPC"
 msgid "...but I know they have a base in the swamps far to the west."
@@ -3035,7 +3035,7 @@ msgstr "경이로워!"
 
 msgctxt "Narration/&DLC1_Orenetis_10_3_Any_Default"
 msgid "The Major Gate is functional again, Lord Protector."
-msgstr "주 관문이 다시 작동합니다, 섭정 각하."
+msgstr "주 관문이 다시 작동합니다, 섭정님."
 
 msgctxt "Narration/&DLC1_Orenetis_10_4_Any_Default"
 msgid "There was a problem at the complex, though."
@@ -3416,7 +3416,7 @@ msgstr "그럴 수도 있겠지, 내가 그때 안 살아봐서 모르겠지만!
 
 msgctxt "Narration/&DLC1_Forge_01_60_Any_History"
 msgid "Unlikely, surprising, and yet - fascinating!"
-msgstr "뜻밖의, 놀랍고도 - 매력적인걸!"
+msgstr "뜻밖에, 놀랍고도 - 매력적인걸!"
 
 msgctxt "Narration/&DLC1_Forge_01_62_Telerien_NPC"
 msgid "We meet again! I hope the valley treated you well!"
@@ -6677,7 +6677,7 @@ msgstr "지도 있잖아. 해 보자고!"
 
 msgctxt "Narration/&DLC1_Rebellion_08_Start_1_Player_Default"
 msgid "It is done! Orenetis is no more!"
-msgstr "끝입니다! 오렌티스는 더 이상 없어요!"
+msgstr "끝입니다! 오레네티스는 더 이상 없어요!"
 
 msgctxt "Narration/&DLC1_Rebellion_08_Start_2_Hendeolas_NPC"
 msgid "Oh, most welcome tidings!"
@@ -6701,7 +6701,7 @@ msgstr "그래, 내 마음이 동하길..."
 
 msgctxt "Narration/&DLC1_Rebellion_08_Start_7_Hendeolas_NPC"
 msgid "...will such low creatures as you keep faith with me?"
-msgstr "...자네 같은 미물이 나에 대한 믿음이 여전한지 묻는군?"
+msgstr "...자네들 같은 미물의 나에 대한 믿음이 여전한지 묻는군?"
 
 msgctxt "Narration/&DLC1_Rebellion_08_Start_8_Player_Default"
 msgid "Of course!"
@@ -6725,7 +6725,7 @@ msgstr "난 다시 잠에 들 것이고, 필요하다면 다시 일어서리라.
 
 msgctxt "Narration/&DLC1_Rebellion_08_Start_13_Hendeolas_NPC"
 msgid "And let none of your Masgarth treasure hunters disturb my home!"
-msgstr "그리고 마스가르스 보물 사냥꾼들 그 누구도 내 집을 더럽히지 못하게 하라!"
+msgstr "그리고 마스가르스의 보물 사냥꾼 중 그 누구도 내 집을 더럽히지 못하게 하라!"
 
 msgctxt "Narration/&DLC1_Rebellion_08_Start_14_Player_Default"
 msgid "We'll never speak of you to anyone."
@@ -6737,11 +6737,11 @@ msgstr "마린 빙을 더 주의하셔야 합니다."
 
 msgctxt "Narration/&DLC1_Rebellion_08_Start_16_Player_Default"
 msgid "We could have betrayed you to support Orenetis. We did not."
-msgstr "오렌티스를 지지하기 위해 배신할 수도 있었지만, 안 했어요."
+msgstr "오레네티스를 지지하기 위해 배신할 수도 있었지만, 안 했어요."
 
 msgctxt "Narration/&DLC1_Rebellion_08_Start_17_Hendeolas_NPC"
 msgid "Your words are empty."
-msgstr "공허한 말이로군."
+msgstr "너희들의 말은 뜻 없이 공허하군."
 
 msgctxt "Narration/&DLC1_Rebellion_08_Start_18_Hendeolas_NPC"
 msgid "The words of slaves!"
@@ -6749,7 +6749,7 @@ msgstr "노예들이나 할 말이다!"
 
 msgctxt "Narration/&DLC1_Rebellion_08_Start_19_Hendeolas_NPC"
 msgid "Very well."
-msgstr "잘 했다."
+msgstr "잘했다."
 
 msgctxt "Narration/&DLC1_Rebellion_08_Start_20_Hendeolas_NPC"
 msgid ""
@@ -6759,15 +6759,15 @@ msgstr "받거라. 이걸 만들면, 계곡을 떠날 때 구원자들이 방해
 
 msgctxt "Narration/&DLC1_Mask_02_1_Samko_NPC"
 msgid "Clear skies!"
-msgstr "맑은 하늘이 함께하길!"
+msgstr "맑은 하늘!"
 
 msgctxt "Narration/&DLC1_Mask_02_2_Player_Default"
 msgid "Bad news…we found their stuff."
-msgstr "나쁜 소식이에요... 우리가 물건을 찾았지만."
+msgstr "나쁜 소식이에요... 그들의 물건을 찾긴 했지만."
 
 msgctxt "Narration/&DLC1_Mask_02_3_Player_Default"
 msgid "They're most likely dead, killed by roaming monsters."
-msgstr "돌아다니는 괴물들한테, 대부분 사망했어요."
+msgstr "그들은 돌아다니는 괴물들한테, 대부분 사망했어요."
 
 msgctxt "Narration/&DLC1_Mask_02_4_Samko_NPC"
 msgid "I was afraid so…"
@@ -6775,7 +6775,7 @@ msgstr "그럴 줄 알았어…"
 
 msgctxt "Narration/&DLC1_Mask_02_5_Samko_NPC"
 msgid "You still earned your reward."
-msgstr "그래도 네 몫은 여전할 꺼야."
+msgstr "그래도 네 몫은 여전할 거야."
 
 msgctxt "Narration/&DLC1_Mask_02_6_Samko_NPC"
 msgid "Now…maybe you could help us with something else."
@@ -6872,20 +6872,19 @@ msgstr "개는 직감이 뛰어나지. 너도 그래야 할 텐데, 사냥꾼이
 
 msgctxt "Narration/&DLC1_Mask_04_6_Cafrain_NPC"
 msgid "And sometimes, you have to take a chance."
-msgstr "가끔은, 위험도 감수해야 하고."
+msgstr "가끔은, 위험을 감수하고 도박도 벌여야 하고."
 
 msgctxt "Narration/&DLC1_Mask_04_7_Player_Default"
 msgid "A chance?"
-msgstr "위험요?"
+msgstr "도박이요?"
 
-#, fuzzy
 msgctxt "Narration/&DLC1_Mask_04_8_Cafrain_NPC"
 msgid "Yes. Are you aware of the...shall we say, the dynamics of the Valley? "
-msgstr "그래. 너도 알 텐데... 계곡의 역동성이라고나 할까? "
+msgstr "그래. 너도 일종의… 계곡의 알력 관계에 대해선 알고 있나? "
 
 msgctxt "Narration/&DLC1_Mask_04_9_Player_Default"
 msgid "The fact that your beloved Lord Protector isn't that beloved? "
-msgstr "사랑받는 섭정님이 사실 그렇게 사랑받지 않는다는 거요? "
+msgstr "경애하는 섭정님께서 사실 그렇게 사랑받진 않는다는 거요? "
 
 msgctxt "Narration/&DLC1_Mask_04_10_Cafrain_NPC"
 msgid "Exactly! There are many who...oppose him."
@@ -6893,11 +6892,11 @@ msgstr "정확해! 많이들 반대... 하지."
 
 msgctxt "Narration/&DLC1_Mask_04_11_NOAUDIO_ChoiceA"
 msgid "The Rebellion?"
-msgstr "리벨리온 말이에요?"
+msgstr "반란분자들 말이에요?"
 
 msgctxt "Narration/&DLC1_Mask_04_12_NOAUDIO_ChoiceB"
 msgid "The people?"
-msgstr "피플이요?"
+msgstr "민중들이요?"
 
 msgctxt "Narration/&DLC1_Mask_04_13_NOAUDIO_ChoiceC"
 msgid "The Forge?"
@@ -6905,11 +6904,11 @@ msgstr "포지요?"
 
 msgctxt "Narration/&DLC1_Mask_04_14_Player_ChoiceA"
 msgid "We heard about a rebellion."
-msgstr "리벨리온에 대해 들어봤죠."
+msgstr "반란 세력에 대해 들어봤죠."
 
 msgctxt "Narration/&DLC1_Mask_04_15_Player_ChoiceB"
 msgid "The people seem unhappy with the Lord Protector. "
-msgstr "피플은 섭정에 불만이 있어 보이던데요. "
+msgstr "사람들은 섭정에 불만이 있어 보이던데요. "
 
 msgctxt "Narration/&DLC1_Mask_04_16_Player_ChoiceC"
 msgid "The Forge seems to be a force to be reckoned with…"
@@ -6921,7 +6920,7 @@ msgstr "그렇지, 그래도 널 가지고 놀게 두진 말라고…"
 
 msgctxt "Narration/&DLC1_Mask_04_18_Cafrain_NPc"
 msgid "…in their own ways, they are as bad as Orenetis."
-msgstr "...개들은 나름대로, 오렌티스만큼 구리거든."
+msgstr "...개들은 나름대로, 오레네티스만큼 구리거든."
 
 msgctxt "Narration/&DLC1_Mask_04_19_Player_Default"
 msgid "How come?"
@@ -6961,7 +6960,7 @@ msgstr "포지는 강하지, 분명하게!"
 
 msgctxt "Narration/&DLC1_Mask_04_27_Player_Default"
 msgid "Why do I hear an unspoken 'but', there? "
-msgstr "'하지만'이라는 소리가 들리는데요? "
+msgstr "입에 담지 않은 '하지만'이 들리는데요? "
 
 msgctxt "Narration/&DLC1_Mask_04_28_Cafrain_NPC"
 msgid "Because there is one."
@@ -6971,7 +6970,7 @@ msgctxt "Narration/&DLC1_Mask_04_29_Cafrain_NPC"
 msgid ""
 "The Forge is too interested in its business deals to risk everything by "
 "taking sides."
-msgstr "포지는 사업에 너무 빠져서 편을 드는 위험을 다 질 순 없어."
+msgstr "포지는 너무 사업 중심이라 한쪽 편을 드는 위험을 질 순 없어."
 
 msgctxt "Narration/&DLC1_Mask_04_30_Cafrain_NPC"
 msgid "They walk a tightrope the whole time, always hedging their bets… "
@@ -6989,10 +6988,9 @@ msgctxt "Narration/&DLC1_Mask_04_33_Player_Default"
 msgid "So critical of every group. Are you an independent? "
 msgstr "모두에 대해 비판적이시네요. 무소속인 겁니까? "
 
-#, fuzzy
 msgctxt "Narration/&DLC1_Mask_04_34_Cafrain_NPC"
 msgid "There's my gamble. Samko and I work for... another party."
-msgstr "이게 내 도박판이지. 샘코와 나는... 다른 애들과 놀거든."
+msgstr "그게 내 승부수지. 샘코와 나는... 다른 애들과 놀거든."
 
 msgctxt "Narration/&DLC1_Mask_04_35_Player_NPC"
 msgid "And what makes this one different? "
@@ -7012,15 +7010,15 @@ msgstr "그리고 우리는 이 계곡을 모두에게 더 나은 곳으로 만�
 
 msgctxt "Narration/&DLC1_Mask_04_39_Cafrain_NPC"
 msgid "Except, of course, for the Lord Protector and his goons."
-msgstr "물론, 섭정과 그 아래는 제외하고."
+msgstr "물론, 섭정과 그 똘마니들은 제외하고."
 
 msgctxt "Narration/&DLC1_Mask_04_40_Cafrain_NPC"
 msgid "And talking about goons…"
-msgstr "그 아래에 관해서 말인데…"
+msgstr "그 똘마니들 말인데…"
 
 msgctxt "Narration/&DLC1_Mask_04_41_Player_Default"
 msgid "Yes? "
-msgstr "관해서? "
+msgstr "그래서요? "
 
 msgctxt "Narration/&DLC1_Mask_04_42_Cafrain_NPC"
 msgid "Well, do you want to help us? "
@@ -7028,7 +7026,7 @@ msgstr "뭐, 우릴 돕겠다는 거지? "
 
 msgctxt "Narration/&DLC1_Mask_04_43_Cafrain_NPC"
 msgid "Then fetch a particular document from the Ice Princess' officers."
-msgstr "그럼 얼음 공주의 장교들한테서 특별 문서를 가져와 줘."
+msgstr "그럼 얼음 공주의 장교들한테서 어떤 문서를 가져와 줘."
 
 msgctxt "Narration/&DLC1_Mask_04_44_Player_Default"
 msgid "The Ice Princess?"
@@ -7180,7 +7178,7 @@ msgstr "진짜 이름이 있어. 우린 가면을 쓰고, 그림자 속에 숨�
 
 msgctxt "Narration/&DLC1_Mask_06_9_Player_Default"
 msgid "Masked?"
-msgstr "가면?"
+msgstr "가면을 써요?"
 
 msgctxt "Narration/&DLC1_Mask_06_10_Cafrain_NPC"
 msgid "Do you want to hear about the job or not?"
@@ -7294,7 +7292,7 @@ msgstr "그동안 기억하라고 - 미사이에가 오늘 너희에게 입을 �
 
 msgctxt "Narration/&DLC1_Mask_07_1_Cafrain_NPC"
 msgid "Still laughing, friends? I have another job for you!"
-msgstr "아직도 웃고 있나, 친구들? 새 일감을 가져왔지!"
+msgstr "아직 웃음과 함께하나, 친구들? 새 일감을 가져왔지!"
 
 msgctxt "Narration/&DLC1_Mask_07_2_Player_Default"
 msgid "Another bad apple? "
@@ -7756,7 +7754,7 @@ msgctxt "Narration/&DLC1_Mask_11_End_7_Klarn_NPC"
 msgid ""
 "I am the Lord Protector now! And I pledge that I will to keep the people "
 "safe!"
-msgstr "난 이제 섭정이네! 그리고 백성들을 지키겠다 맹세하는 바야!"
+msgstr "난 이제 섭정이네! 그리고 백성들을 지키겠다 엄숙히 맹세하겠어!"
 
 msgctxt "Narration/&DLC1_Mask_11_End_8_Player_Default"
 msgid "The same title as Orenetis. That's a debatable choice…"
@@ -8581,1342 +8579,1342 @@ msgstr "우린 혼종 몬스터의 특성을 시험 중이에요."
 
 msgctxt "Narration/&DLC1_Complex_02_End_6_Scientist2_NPC"
 msgid "Specifically their combat capabilities and their obedience."
-msgstr ""
+msgstr "특히 복종성과 전투 역량을 위주로요."
 
 msgctxt "Narration/&DLC1_Complex_02_End_7_Player_Default"
 msgid "Hybrid?"
-msgstr ""
+msgstr "혼종?"
 
 msgctxt "Narration/&DLC1_Complex_02_End_8_Scientist2_NPC"
 msgid "Right. We mix two species and create something new."
-msgstr ""
+msgstr "네. 두 종을 섞어서 새로운 뭔가를 만들고 있죠."
 
 msgctxt "Narration/&DLC1_Complex_02_End_9_Player_Default"
 msgid "That's unnatural!"
-msgstr ""
+msgstr "자연을 거스르는 짓이잖아!"
 
 msgctxt "Narration/&DLC1_Complex_02_End_10_Scientist2_NPC"
 msgid "Of course not, it happens all the time in nature."
-msgstr ""
+msgstr "무슨 소리세요, 자연에서도 늘 일어나는 일이에요."
 
 msgctxt "Narration/&DLC1_Complex_02_End_11_Scientist2_NPC"
 msgid "We just…push it a little."
-msgstr ""
+msgstr "우린 그냥… 좀 떠밀어주는 거지."
 
 msgctxt "Narration/&DLC1_Complex_03_1_Player_Default"
 msgid "What are you doing?"
-msgstr ""
+msgstr "뭐 하고 있어요?"
 
 msgctxt "Narration/&DLC1_Complex_03_2_Scientist3_NPC"
 msgid "Staying alive - or trying to!"
-msgstr ""
+msgstr "살아있거나 - 적어도 그러려고 애쓰잖아요!"
 
 msgctxt "Narration/&DLC1_Complex_03_3_Scientist3_NPC"
 msgid "Since we can't stop this."
-msgstr ""
+msgstr "이걸 멈출 수가 없으니까."
 
 msgctxt "Narration/&DLC1_Complex_03_4_Player_Default"
 msgid "Stop what?"
-msgstr ""
+msgstr "뭘 멈춰요?"
 
 msgctxt "Narration/&DLC1_Complex_03_5_Scientist3_NPC"
 msgid "We need the Lord Protector!"
-msgstr ""
+msgstr "섭정님이 필요해요!"
 
 msgctxt "Narration/&DLC1_Complex_03_6_Scientist3_NPC"
 msgid "Only him can fight these…things."
-msgstr ""
+msgstr "그분만이… 이것들이랑 싸울 수 있으니까."
 
 msgctxt "Narration/&DLC1_Complex_03_7_Player_Default"
 msgid "He sent us to fix the Major Gate."
-msgstr ""
+msgstr "섭정님이 주 관문을 고치라고 우릴 보내셨어요."
 
 msgctxt "Narration/&DLC1_Complex_03_8_Scientist3_NPC"
 msgid "Well, the mana flow is cut, so, no gating."
-msgstr ""
+msgstr "그건, 마나의 흐름이 끊겨서, 관문이 안 되고 있어요."
 
 msgctxt "Narration/&DLC1_Complex_03_9_Player_Default"
 msgid "How do we fix it?"
-msgstr ""
+msgstr "어떻게 고치죠?"
 
 msgctxt "Narration/&DLC1_Complex_03_10_Scientist3_NPC"
 msgid "Fix it? You'd need to reach the generators."
-msgstr ""
+msgstr "고치려면? 마나 발생기에 접근해야죠."
 
 msgctxt "Narration/&DLC1_Complex_03_11_Scientist3_NPC"
 msgid "Good luck with that!"
-msgstr ""
+msgstr "행운이 있어야 하겠지만!"
 
 msgctxt "Narration/&DLC1_Complex_03_12_Player_Default"
 msgid "We'll do it!"
-msgstr ""
+msgstr "우리가 하죠!"
 
 msgctxt "Narration/&DLC1_Complex_03_13_Scientist3_NPC"
 msgid "Well, if you make it, take this note to my colleagues there."
-msgstr ""
+msgstr "아, 혹시 성공한다면 이 공책을 거기 있는 제 동료에게 주세요."
 
 msgctxt "Narration/&DLC1_Complex_03_14_Scientist3_NPC"
 msgid "They might be able to help you with the procedure."
-msgstr ""
+msgstr "수리 과정에서 도움을 줄 수 있을 거예요."
 
 msgctxt "Narration/&DLC1_Complex_03_end_1_Player_Default"
 msgid "Can you tell us how to fix the mana flow?"
-msgstr ""
+msgstr "마나 공급을 어떻게 고칠지 설명해줄 수 있어요?"
 
 msgctxt "Narration/&DLC1_Complex_03_end_2_Scientist3_NPC"
 msgid "Well, one of the generators seems to be out."
-msgstr ""
+msgstr "음, 생성기 중 하나가 꺼진 것 같아요."
 
 msgctxt "Narration/&DLC1_Complex_03_end_3_Scientist3_NPC"
 msgid "You need to re-start it manually."
-msgstr ""
+msgstr "수동으로 다시 가동하셔야겠네요."
 
 msgctxt "Narration/&DLC1_Complex_03_end_4_Player_Default"
 msgid "How do we do that?"
-msgstr ""
+msgstr "어떻게 하면 되죠?"
 
 msgctxt "Narration/&DLC1_Complex_03_end_5_Scientist3_NPC"
 msgid "If you just need to get there, it's just pulling up a lever."
-msgstr ""
+msgstr "도착하시면, 그냥 레버를 당기세요."
 
 msgctxt "Narration/&DLC1_Complex_04_1_ComplexGuard_NPC"
 msgid "Waiting for them to come out."
-msgstr ""
+msgstr "그 녀석들이 나오는 걸 기다리면서요."
 
 msgctxt "Narration/&DLC1_Complex_04_2_Player_Default"
 msgid "Who?"
-msgstr ""
+msgstr "그 녀석들?"
 
 msgctxt "Narration/&DLC1_Complex_04_3_ComplexGuard_NPC"
 msgid "Test subjects! They escaped from the arena somehow!"
-msgstr ""
+msgstr "시험체들이요! 어떻게 한 건지 투기장에서 탈출했다니까요!"
 
 msgctxt "Narration/&DLC1_Complex_04_4_ComplexGuard_NPC"
 msgid "They're everywhere in the tunnels! We've lost a lot of elves already!"
-msgstr ""
+msgstr "터널마다 놈들 투성이예요! 벌써 많은 엘프들이 죽었습니다!"
 
 msgctxt "Narration/&DLC1_Complex_04_5_Player_Default"
 msgid "We need to get to the vault."
-msgstr ""
+msgstr "지하실에 들어가야 해요."
 
 msgctxt "Narration/&DLC1_Complex_04_6_ComplexGuard_NPC"
 msgid "You're welcome to try. It'll help us if you can clear the way."
-msgstr ""
+msgstr "저희야 환영이죠. 길을 치워주시면 큰 도움이 될 겁니다."
 
 msgctxt "Narration/&DLC1_WitchPalace_1_Player_Default"
 msgid "This place is bigger than I thought!"
-msgstr ""
+msgstr "생각보다 엄청 큰데!"
 
 msgctxt "Narration/&DLC1_WitchPalace_2_Player_Default"
 msgid "Magic! Careful, everyone!"
-msgstr ""
+msgstr "마법이야! 다들 조심해!"
 
 msgctxt "Narration/&DLC1_WitchPalace_Inside_1_Player_Default"
 msgid "All the doors are closed."
-msgstr ""
+msgstr "문이 전부 닫혔네."
 
 msgctxt "Narration/&DLC1_WitchPalace_Inside_2_Player_Default"
 msgid "I see no sign of witchery."
-msgstr ""
+msgstr "마법의 흔적은 안 보여."
 
 msgctxt "Narration/&DLC1_WitchPalace_Inside_3_Player_Default"
 msgid "Did you hear that?"
-msgstr ""
+msgstr "들었어?"
 
 msgctxt "Narration/&DLC1_WitchPalace_Locked_1_Player_Default"
 msgid "No one here."
-msgstr ""
+msgstr "여긴 아무도 없어."
 
 msgctxt "Narration/&DLC1_WitchPalace_Locked_2_Player_Default"
 msgid "This is magically sealed."
-msgstr ""
+msgstr "마법으로 봉인됐어."
 
 msgctxt "Narration/&DLC1_WitchPalace_Ghost_1_Ghost_NPC"
 msgid "Please!"
-msgstr ""
+msgstr "아 진짜!"
 
 msgctxt "Narration/&DLC1_WitchPalace_Ghost_2_Player_Default"
 msgid "Damn! A ghost!"
-msgstr ""
+msgstr "젠장! 유령이다!"
 
 msgctxt "Narration/&DLC1_WitchPalace_Ghost_3_Ghost_NPC"
 msgid "Don't be scared!"
-msgstr ""
+msgstr "겁 먹지 마요!"
 
 msgctxt "Narration/&DLC1_WitchPalace_Ghost_4_Ghost_NPC"
 msgid "I just want you to tell my brother that I died here."
-msgstr ""
+msgstr "그냥 형제에게 제 부고를 전해줬으면 할 뿐이에요."
 
 msgctxt "Narration/&DLC1_WitchPalace_Ghost_5_Player_Default"
 msgid "Who are…were you?"
-msgstr ""
+msgstr "당신이… 누구였는데?"
 
 msgctxt "Narration/&DLC1_WitchPalace_Ghost_6_Ghost_NPC"
 msgid "Joson. I was killed by the witch."
-msgstr ""
+msgstr "조슨. 마녀에게 살해당했죠."
 
 msgctxt "Narration/&DLC1_WitchPalace_Ghost_7_Player_Default"
 msgid "A witch?"
-msgstr ""
+msgstr "마녀?"
 
 msgctxt "Narration/&DLC1_WitchPalace_Ghost_8_Ghost_NPC"
 msgid "I'm cursed to say no more."
-msgstr ""
+msgstr "저주에 걸려 더는 말할 수가 없어요."
 
 msgctxt "Narration/&DLC1_WitchPalace_Ghost_9_Ghost_NPC"
 msgid ""
 "Ask my brother Hannik in Caer Hyfryd. He's a performer at the music hall."
-msgstr ""
+msgstr "케어 하이프리드에 있는 내 형제 하닉에게 말해줘요. 음악관의 공연을 맡고 있습니다."
 
 msgctxt "Narration/&DLC1_WitchPalace_Ghost_10_Player_Default"
 msgid "That was weird."
-msgstr ""
+msgstr "등골이 오싹했네."
 
 msgctxt "Narration/&DLC1_WitchPalace_Hannik_1_Player_Default"
 msgid "Are you Hannik?"
-msgstr ""
+msgstr "당신이 하닉이에요?"
 
 msgctxt "Narration/&DLC1_WitchPalace_Hannik_2_Hannik_NPC"
 msgid "That's me."
-msgstr ""
+msgstr "맞는데요."
 
 msgctxt "Narration/&DLC1_WitchPalace_Hannik_3_Player_Default"
 msgid "Bad news, I'm afraid. We found your brother's ghost in the swamps."
-msgstr ""
+msgstr "미안하지만 나쁜 소식이에요. 늪지대에서 당신 형제의 유령을 찾았어요."
 
 msgctxt "Narration/&DLC1_WitchPalace_Hannik_4_Hannik_NPC"
 msgid "Oh, no!"
-msgstr ""
+msgstr "그럴 수가!"
 
 msgctxt "Narration/&DLC1_WitchPalace_Hannik_5_Hannik_NPC"
 msgid "I told him not to…"
-msgstr ""
+msgstr "내가 그렇게 하지 말라고…"
 
 msgctxt "Narration/&DLC1_WitchPalace_Hannik_6_Player_Default"
 msgid "He says he was killed by a witch. Do you know anything about that?"
-msgstr ""
+msgstr "본인이 마녀에게 죽었다더군요. 뭐 알고 있는 게 있나요?"
 
 msgctxt "Narration/&DLC1_WitchPalace_Hannik_7_Hannik_NPC"
 msgid "Yes…he was hunting her."
-msgstr ""
+msgstr "네… 형은 마녀를 해치우려 했어요."
 
 msgctxt "Narration/&DLC1_WitchPalace_Hannik_8_Hannik_NPC"
 msgid "Said he found the password to her palace."
-msgstr ""
+msgstr "마녀의 저택에 들어갈 암호를 찾았다면서요."
 
 msgctxt "Narration/&DLC1_WitchPalace_Hannik_9_Player_Default"
 msgid "Palace?"
-msgstr ""
+msgstr "저택?"
 
 msgctxt "Narration/&DLC1_WitchPalace_Hannik_10_Hannik_NPC"
 msgid "He kept repeating, 'hail Agatha, spider queen'"
-msgstr ""
+msgstr "계속 중얼거리더군요, '거미 여왕, 아가사 만세'라면서"
 
 msgctxt "Narration/&DLC1_WitchPalace_Hannik_11_Player_Default"
 msgid "Well, that's more of a pass-phrase"
-msgstr ""
+msgstr "평범한 암호문 정도가 아니네"
 
 msgctxt "Narration/&DLC1_WitchPalace_Hannik_12_Player_Default"
 msgid "We'll try to avenge your brother, Hannik."
-msgstr ""
+msgstr "우린 당신 형의 복수를 하려고 해요, 하닉."
 
 msgctxt "Narration/&DLC1_WitchPalace_Hannik_13_Hannik_NPC"
 msgid "Thank you, friends."
-msgstr ""
+msgstr "고맙습니다, 여러분."
 
 msgctxt "Narration/&DLC1_WitchPalace_MeetWitch_1_Witch_NPC"
 msgid "Welcome, strangers!"
-msgstr ""
+msgstr "어서 오게, 낯선 이들이여!"
 
 msgctxt "Narration/&DLC1_WitchPalace_MeetWitch_2_Player_Default"
 msgid "Who are you?"
-msgstr ""
+msgstr "당신은 누구죠?"
 
 msgctxt "Narration/&DLC1_WitchPalace_MeetWitch_3_Witch_NPC"
 msgid "I'm but a humble servant of queen Agatha."
-msgstr ""
+msgstr "아가사 여왕님의 초라한 종복이지."
 
 msgctxt "Narration/&DLC1_WitchPalace_MeetWitch_4_Witch_NPC"
 msgid "She'll be along shortly."
-msgstr ""
+msgstr "그분께서도 곧 오실 거야."
 
 msgctxt "Narration/&DLC1_WitchPalace_MeetWitch_5_Witch_NPC"
 msgid "Feel free to explore the palace, as long as you don't touch anything."
-msgstr ""
+msgstr "아무것도 만지지 않는다면, 마음껏 저택을 구경해도 좋네."
 
 msgctxt "Narration/&DLC1_WitchPalace_Revealed_1_Witch_NPC"
 msgid "Manners maketh man, you know."
-msgstr ""
+msgstr "매너가 사람을 만든다, 잘 알 거라 믿네."
 
 msgctxt "Narration/&DLC1_WitchPalace_Revealed_2_Witch_NPC"
 msgid "You were told not to rummage through my things!"
-msgstr ""
+msgstr "내 물건들을 뒤지지 않겠다고 했을 텐데!"
 
 msgctxt "Narration/&DLC1_WitchPalace_Revealed_3_Player_Default"
 msgid "Agatha, is it?"
-msgstr ""
+msgstr "아가사 맞죠?"
 
 msgctxt "Narration/&DLC1_WitchPalace_Revealed_4_Witch_NPC"
 msgid "Your souls will wander through the swamp forever!"
-msgstr ""
+msgstr "너희 영혼들은 영원히 늪지를 헤매게 될 거다!"
 
 msgctxt "Narration/&DLC1_WitchPalace_Conclusion_1_Player_Default"
 msgid "This is for you. Proof that the witch was real."
-msgstr ""
+msgstr "받아요. 마녀가 정말 있었다는 증거예요."
 
 msgctxt "Narration/&DLC1_WitchPalace_Conclusion_2_Hannik_NPC"
 msgid "You avenged him!"
-msgstr ""
+msgstr "복수에 성공했군요!"
 
 msgctxt "Narration/&DLC1_WitchPalace_Conclusion_3_Hannik_NPC"
 msgid "I don't know how to Thank you!"
-msgstr ""
+msgstr "어떻게 감사를 드려야 할지!"
 
 msgctxt "Narration/&DLC1_WitchPalace_Conclusion_4_Hannik_NPC"
 msgid "Take this - please."
-msgstr ""
+msgstr "사양 말고 받아주세요."
 
 msgctxt "Narration/&DLC1_WitchPalace_Touch_1_Player_Default"
 msgid "She said not to touch anything."
-msgstr ""
+msgstr "아무것도 만지지 말랬잖아."
 
 msgctxt "Narration/&DLC1_WitchPalace_Touch_2_Player_Default"
 msgid "Did she?"
-msgstr ""
+msgstr "그랬었나?"
 
 msgctxt "Narration/&DLC1_WitchPalace_Truth_1_Player_Default"
 msgid "By all the gods, what is this place?"
-msgstr ""
+msgstr "신들이여, 여긴 대체 뭐지?"
 
 msgctxt "Narration/&DLC1_WitchPalace_Truth_2_Player_Default"
 msgid "I'm pretty sure she didn't want us to see that."
-msgstr ""
+msgstr "우리가 보길 원하진 않았을 것 같은데."
 
 msgctxt "Narration/&DLC1_Swamp_Prisoner_1_ForgeGuard_NPC"
 msgid "Stay away from the prisoner!"
-msgstr ""
+msgstr "수감자한테서 물러나!"
 
 msgctxt "Narration/&DLC1_Swamp_Prisoner_2_Player_Default"
 msgid "Why are you keeping a giant as a prisoner?"
-msgstr ""
+msgstr "왜 거인을 가둬놓은 거죠?"
 
 msgctxt "Narration/&DLC1_Swamp_Prisoner_3_ForgeGuard_NPC"
 msgid "Hasdrubal's orders."
-msgstr ""
+msgstr "하스드루발 님의 명령입니다."
 
 msgctxt "Narration/&DLC1_Swamp_Prisoner_4_Hasdrubal_NPC"
 msgid "Yes, this giant is too smart to go free…"
-msgstr ""
+msgstr "그래, 이 거인은 풀어놓기엔 지나치게 영리하고…"
 
 msgctxt "Narration/&DLC1_Swamp_Prisoner_5_Hasdrubal_NPC"
 msgid "…and too dangerous."
-msgstr ""
+msgstr "…지나치게 위험해."
 
 msgctxt "Narration/&DLC1_Swamp_Prisoner_6_Player_Default"
 msgid "If you don't want to kill him, you should set him free!"
-msgstr ""
+msgstr "죽이고 싶지 않은 거라면, 풀어주세요!"
 
 msgctxt "Narration/&DLC1_Swamp_Prisoner_7_Hasdrubal_NPC"
 msgid "It's cruel to keep him there."
-msgstr ""
+msgstr "계속 가두는 건 너무 잔혹합니다."
 
 msgctxt "Narration/&DLC1_Swamp_Prisoner_8_Hasdrubal_NPC"
 msgid "I can't take that risk."
-msgstr ""
+msgstr "위험을 감수할 수는 없어."
 
 msgctxt "Narration/&DLC1_Swamp_Prisoner_9_Hasdrubal_NPC"
 msgid "Fine, he walks, but I'll hold you responsible if he hurts anyone."
-msgstr ""
+msgstr "좋아, 풀어주겠지만 누군가 다친다면 자네들이 책임을 물 걸세."
 
 msgctxt "Narration/&DLC1_Swamp_Prisoner_Free_1_Rugan_NPC"
 msgid "Thank you little ones."
-msgstr ""
+msgstr "고맙다, 작은 이들이여."
 
 msgctxt "Narration/&DLC1_Swamp_Prisoner_Free_2_Player_Default"
 msgid "Are you Gartok's friend?"
-msgstr ""
+msgstr "당신이 가르톡의 친구예요?"
 
 msgctxt "Narration/&DLC1_Swamp_Prisoner_Free_3_Rugan_NPC"
 msgid "Oh, yes."
-msgstr ""
+msgstr "어, 맞아."
 
 msgctxt "Narration/&DLC1_Swamp_Prisoner_Free_4_Player_Default"
 msgid "He's worried about you."
-msgstr ""
+msgstr "당신 걱정을 하더군요."
 
 msgctxt "Narration/&DLC1_Swamp_Prisoner_Free_5_Rugan_NPC"
 msgid "I need to go home, have things to tell."
-msgstr ""
+msgstr "집에 가야 해, 할 얘기가 있어."
 
 msgctxt "Narration/&DLC1_Swamp_Prisoner_Escape_1_ForgeGuard_NPC"
 msgid "Hey! How did you get out?"
-msgstr ""
+msgstr "이봐! 어떻게 나온 거야?"
 
 msgctxt "Narration/&DLC1_Swamp_Prisoner_Escape_2_Player_Default"
 msgid "We freed him."
-msgstr ""
+msgstr "우리가 풀어줬어요."
 
 msgctxt "Narration/&DLC1_Swamp_Prisoner_Escape_3_ForgeGuard_NPC"
 msgid "Guards!"
-msgstr ""
+msgstr "경비병!"
 
 msgctxt "Narration/&DLC1_Swamp_Prisoner_Escape_4_ForgeGuard_NPC"
 msgid "They freed the giant!"
-msgstr ""
+msgstr "저들이 거인을 풀었다!"
 
 msgctxt "Narration/&DLC1_Swamp_Prisoner_Escape_5_Hasdrubal_NPC"
 msgid "You have no authority to do that! This is our camp!"
-msgstr ""
+msgstr "너희가 무슨 권한으로! 여긴 우리 땅이야!"
 
 msgctxt "Narration/&DLC1_Swamp_Prisoner_Escape_6_Player_Default"
 msgid "You had no right to keep him prisoner!"
-msgstr ""
+msgstr "당신도 저 자를 가둘 권한은 없어요!"
 
 msgctxt "Narration/&DLC1_Swamp_Prisoner_Escape_7_Hasdrubal_NPC"
 msgid "I thought you were smarter than that!"
-msgstr ""
+msgstr "이렇게 바보 같을 줄은 몰랐군!"
 
 msgctxt "Narration/&DLC1_Karelia_Inn_1_Karelia_NPC"
 msgid "Clear skies, adventurers!"
-msgstr ""
+msgstr "맑은 하늘이 함께하길, 모험가들!"
 
 msgctxt "Narration/&DLC1_Karelia_Inn_2_Karelia_NPC"
 msgid "What can this lady get ya?"
-msgstr ""
+msgstr "뭘 도와드릴까요?"
 
 msgctxt "Narration/&DLC1_Karelia_Inn_3_NOAUDIO_ChoiceA"
 msgid "We need a room."
-msgstr ""
+msgstr "방이 필요해요."
 
 msgctxt "Narration/&DLC1_Karelia_Inn_4_NOAUDIO_ChoiceB"
 msgid "Just looking around."
-msgstr ""
+msgstr "그냥 둘러보고 있어요."
 
 msgctxt "Narration/&DLC1_Karelia_Inn_5_NOAUDIO_ChoiceC"
 msgid "How's life here?"
-msgstr ""
+msgstr "여기 생활은 좀 어때요?"
 
 msgctxt "Narration/&DLC1_Karelia_Inn_6_Player_Default"
 msgid "We need a room."
-msgstr ""
+msgstr "방이 하나 필요해요."
 
 msgctxt "Narration/&DLC1_Karelia_Inn_7_Karelia_AskForRoom"
 msgid "Sure thing! Ten gold pieces."
-msgstr ""
+msgstr "좋아요! 10GP입니다."
 
 msgctxt "Narration/&DLC1_Karelia_Inn_8_Karelia_NoMoney"
 msgid "You don't look that poor."
-msgstr ""
+msgstr "그렇게 가난할 줄은 몰랐는데."
 
 msgctxt "Narration/&DLC1_Karelia_Inn_9_Karelia_Getroom"
 msgid "Room ten. Kidding, we only have three."
-msgstr ""
+msgstr "10호실이에요. 속았죠? 방은 셋뿐이라."
 
 msgctxt "Narration/&DLC1_Karelia_Inn_10_Player_Default"
 msgid "Just passing by. We hear this is the place to be."
-msgstr ""
+msgstr "그냥 지나던 길이에요. 한 번 봐야 하는 곳이라길래."
 
 msgctxt "Narration/&DLC1_Karelia_Inn_11_Karelia_NPC"
 msgid "Uh-huh, sure is! The only tavern for regular folks, you mean?"
-msgstr ""
+msgstr "아하, 그렇군요! 평민들이 묵을 수 있는 유일한 여관이란 뜻이겠죠?"
 
 msgctxt "Narration/&DLC1_Karelia_Inn_12_Player_Default"
 msgid "How are things around here?"
-msgstr ""
+msgstr "요즘 좀 어때요?"
 
 msgctxt "Narration/&DLC1_Karelia_Inn_13_Karelia_NPC"
 msgid "The usual. Soldiers making trouble..."
-msgstr ""
+msgstr "평소 같죠. 병사들이 문제를 벌이고…"
 
 msgctxt "Narration/&DLC1_Karelia_Inn_14_Karelia_NPC"
 msgid "…nobles coming down to bully my clients."
-msgstr ""
+msgstr "…귀족들은 제 고객들을 괴롭히려고 내려오고."
 
 msgctxt "Narration/&DLC1_Karelia_Inn_15_Karelia_NPC"
 msgid "Backed-up by His Lordship the Non-Protector."
-msgstr ""
+msgstr "백성들한테만 섭하게 구는 섭정놈 뒷배만 믿구요."
 
 msgctxt "Narration/&DLC1_Karelia_Inn_16_Player_Default"
 msgid "Dangerous words!"
-msgstr ""
+msgstr "위험한 발언인데!"
 
 msgctxt "Narration/&DLC1_Karelia_Inn_17_Karelia_NPC"
 msgid "Like I care!"
-msgstr ""
+msgstr "들을 테면 들으라지!"
 
 msgctxt "Narration/&DLC1_Karelia_Inn_18_Karelia_NPC"
 msgid "I've got myself a good axe here. Let 'em come for me!"
-msgstr ""
+msgstr "나한테는 잘 드는 도끼도 있다구요. 와 보라 해요!"
 
 msgctxt "Narration/&DLC1_Karelia_Inn_19_Karelia_NPC"
 msgid "Strike true!"
-msgstr ""
+msgstr "행운이 함께하길!"
 
 msgctxt "Narration/&DLC1_Pickpocketed_1_Henrik_NPC"
 msgid "I'll remember that. Get out of my shop!"
-msgstr ""
+msgstr "똑똑히 기억하죠. 내 가게에서 썩 꺼져!"
 
 msgctxt "Narration/&DLC1_FactionOpposed_2_Henrik_NPC"
 msgid "I didn't think you were like that."
-msgstr ""
+msgstr "그런 사람인 줄 몰랐는데."
 
 msgctxt "Narration/&DLC1_FactionOpposed_3_Henrik_NPC"
 msgid "I don't need your gold."
-msgstr ""
+msgstr "당신 돈은 필요 없어요."
 
 msgctxt "Narration/&DLC1_Hello1_4_Henrik_NPC"
 msgid "Hey, there!"
-msgstr ""
+msgstr "잘 지내죠!"
 
 msgctxt "Narration/&DLC1_Hello2_5_Henrik_NPC"
 msgid "I've got me some fresh meat!"
-msgstr ""
+msgstr "신선한 고기가 들어왔습니다!"
 
 msgctxt "Narration/&DLC1_Random1_6_Henrik_NPC"
 msgid "Ever tasted smoked bear?"
-msgstr ""
+msgstr "훈제 곰고기 맛보신 적 있나요?"
 
 msgctxt "Narration/&DLC1_Random2_7_Henrik_NPC"
 msgid "I got some new sausages!"
-msgstr ""
+msgstr "새 소시지 입고됐어요!"
 
 msgctxt "Narration/&DLC1_Pickpocketed_1_Reya_NPC"
 msgid "There goes your reputation."
-msgstr ""
+msgstr "좋은 평판은 물 건너갔군요."
 
 msgctxt "Narration/&DLC1_FactionOpposed_2_Reya_NPC"
 msgid "You're free to serve who you want."
-msgstr ""
+msgstr "누굴 위해 일할지는 자유죠."
 
 msgctxt "Narration/&DLC1_FactionOpposed_3_Reya_NPC"
 msgid "I have no more spells for you."
-msgstr ""
+msgstr "더는 주문을 제공할 수 없겠네요."
 
 msgctxt "Narration/&DLC1_Hello1_4_Reya_NPC"
 msgid "There's life yet!"
-msgstr ""
+msgstr "삶엔 늘 희망이 있어요!"
 
 msgctxt "Narration/&DLC1_Hello2_5_Reya_NPC"
 msgid "Maraike smile on you!"
-msgstr ""
+msgstr "마라이케가 미소짓길!"
 
 msgctxt "Narration/&DLC1_Random1_6_Reya_NPC"
 msgid "All souls come to Maraike for soothing."
-msgstr ""
+msgstr "모든 영혼들이 위로를 위해 마라이케께 오죠."
 
 msgctxt "Narration/&DLC1_Random2_7_Reya_NPC"
 msgid "The lady of life protect us!"
-msgstr ""
+msgstr "생명의 여인이 우릴 지켜주시길!"
 
 msgctxt "Narration/&DLC1_Pickpocketed_1_Telerien_NPC"
 msgid "Back home we cut off people's hands for that!"
-msgstr ""
+msgstr "고향에 있을 적엔 손모가지를 잘라버렸는데!"
 
 msgctxt "Narration/&DLC1_FactionOpposed_2_Telerien_NPC"
 msgid "I'm not authorized to deal with you anymore."
-msgstr ""
+msgstr "여러분과 더는 거래할 수 없어요."
 
 msgctxt "Narration/&DLC1_Hello1_3_Telerien_NPC"
 msgid "Stay in the light!"
-msgstr ""
+msgstr "빛이 함께하길!"
 
 msgctxt "Narration/&DLC1_Hello2_4_Telerien_NPC"
 msgid "Strike true!"
-msgstr ""
+msgstr "행운이 함께하길!"
 
 msgctxt "Narration/&DLC1_Random1_5_Telerien_NPC"
 msgid "I'm still hearing howls at night."
-msgstr ""
+msgstr "아직도 밤에 울부짖는 소리가 들려요."
 
 msgctxt "Narration/&DLC1_Random2_6_Telerien_NPC"
 msgid "Giants will never be good neighbors."
-msgstr ""
+msgstr "거인들은 결코 좋은 이웃은 아니에요."
 
 msgctxt "Narration/&DLC1_Pickpocketed_1_Samko_NPC"
 msgid "Hope you liked what you found there."
-msgstr ""
+msgstr "원하던 걸 찾았으면 좋겠군."
 
 msgctxt "Narration/&DLC1_FactionOpposed_2_Samko_NPC"
 msgid "I serve the Forge."
-msgstr ""
+msgstr "난 포지를 위해 일하네."
 
 msgctxt "Narration/&DLC1_FactionOpposed_3_Samko_NPC"
 msgid "What are you still doing here?"
-msgstr ""
+msgstr "아직도 여기서 뭘 할 생각인가?"
 
 msgctxt "Narration/&DLC1_Hello1_4_Samko_NPC"
 msgid "Hey, there!"
-msgstr ""
+msgstr "잘 지내나!"
 
 msgctxt "Narration/&DLC1_Hello2_5_Samko_NPC"
 msgid "Safe travels!"
-msgstr ""
+msgstr "안전한 여로 되길!"
 
 msgctxt "Narration/&DLC1_Pickpocketed_1_Malariel_NPC"
 msgid "We'd be foolish to trust thieves!"
-msgstr ""
+msgstr "도둑들을 믿었다니 우리가 한심하군!"
 
 msgctxt "Narration/&DLC1_FactionOpposed_2_Malariel_NPC"
 msgid "The Lord Protector no longer wishes to see you."
-msgstr ""
+msgstr "섭정께선 더 보실 생각이 없으시네."
 
 msgctxt "Narration/&DLC1_FactionOpposed_3_Malariel_NPC"
 msgid "Leave at once!"
-msgstr ""
+msgstr "당장 떠나!"
 
 msgctxt "Narration/&DLC1_Hello1_4_Malariel_NPC"
 msgid "I've got my eye on you."
-msgstr ""
+msgstr "자네들을 주시하고 있네."
 
 msgctxt "Narration/&DLC1_Hello2_5_Malariel_NPC"
 msgid "Serve, and you will be rewarded."
-msgstr ""
+msgstr "충성하면, 상이 있을 거야."
 
 msgctxt "Narration/&DLC1_Random1_6_Malariel_NPC"
 msgid "I'm busy. Rebels everywhere."
-msgstr ""
+msgstr "좀 바쁘군. 사방이 반군 투성이니."
 
 msgctxt "Narration/&DLC1_Random2_7_Malariel_NPC"
 msgid "This city needs more security."
-msgstr ""
+msgstr "도시의 안보가 충분치 않아."
 
 msgctxt "Narration/&DLC1_FactionOpposed_1_Esfalad_NPC"
 msgid "I wonder how they let you in."
-msgstr ""
+msgstr "누가 들여보낸 건지 모르겠군."
 
 msgctxt "Narration/&DLC1_Hello1_2_Esfalad_NPC"
 msgid "Salutations, dear friends!"
-msgstr ""
+msgstr "경례 받게, 친구들!"
 
 msgctxt "Narration/&DLC1_Random1_3_Esfalad_NPC"
 msgid "So many papers, I'm lost!"
-msgstr ""
+msgstr "그 서류들이 다 어디 갔는지!"
 
 msgctxt "Narration/&DLC1_Random2_4_Esfalad_NPC"
 msgid "Where's my schedule?"
-msgstr ""
+msgstr "일정이 어떻게 되더라?"
 
 msgctxt "Narration/&DLC1_Meeting_1_Finaliel_NPC"
 msgid "Yes, I heard, you have access to my…room."
-msgstr ""
+msgstr "그래 들었어, 내 방에 들어갔다고."
 
 msgctxt "Narration/&DLC1_Meeting2_2_Finaliel_NPC"
 msgid "Just don't….break anything."
-msgstr ""
+msgstr "그냥… 아무것도 부수지 말게."
 
 msgctxt "Narration/&DLC1_Meeting3_3_Finaliel_NPC"
 msgid "And don't eat near the books."
-msgstr ""
+msgstr "책 근처에선 뭐 먹지 말고."
 
 msgctxt "Narration/&DLC1_Hello1_4_Finaliel_NPC"
 msgid "I doubt you have the skills to use my laboratory."
-msgstr ""
+msgstr "내 연구실을 쓸 재주가 있어 보이진 않는데."
 
 msgctxt "Narration/&DLC1_Hello2_5_Finaliel_NPC"
 msgid "What did you craft already? A potion to regrow hair?"
-msgstr ""
+msgstr "벌써 뭘 만든 건가? 탈모 치료제라고?"
 
 msgctxt "Narration/&DLC1_Random1_6_Finaliel_NPC"
 msgid "I'm sure I had a soulstone somewhere."
-msgstr ""
+msgstr "어딘가 영혼석이 있었는데."
 
 msgctxt "Narration/&DLC1_Random2_7_Finaliel_NPC"
 msgid "Who writes these crafting recipes? They're riddled with errors!"
-msgstr ""
+msgstr "이 제조법은 누가 썼지? 오류 투성이군!"
 
 msgctxt "Narration/&DLC1_Hello1_1_Klarn_NPC"
 msgid "Still laughing?"
-msgstr ""
+msgstr "아직 웃음과 함께하나?"
 
 msgctxt "Narration/&DLC1_Hello2_2_Klarn_NPC"
 msgid "Misaye's smiling!"
-msgstr ""
+msgstr "미사이에께서 웃고 계시네!"
 
 msgctxt "Narration/&DLC1_Random1_3_Klarn_NPC"
 msgid "I love this place. So many opportunities."
-msgstr ""
+msgstr "난 여기가 좋아. 기회의 땅이지."
 
 msgctxt "Narration/&DLC1_Random2_4_Klarn_NPC"
 msgid "Any news?"
-msgstr ""
+msgstr "새 소식 있나?"
 
 msgctxt "Narration/&DLC1_Meeting_1_Cafrain_NPC"
 msgid "Amateurs."
-msgstr ""
+msgstr "아마추어들."
 
 msgctxt "Narration/&DLC1_FactionOpposed_2_Cafrain_NPC"
 msgid "I've got nothing to say to you."
-msgstr ""
+msgstr "해줄 말 없어."
 
 msgctxt "Narration/&DLC1_FactionOpposed_3_Cafrain_NPC"
 msgid "Get out of my sight!"
-msgstr ""
+msgstr "눈 밖으로 사라져!"
 
 msgctxt "Narration/&DLC1_Hello1_4_Cafrain_NPC"
 msgid "Clear skies!"
-msgstr ""
+msgstr "맑은 하늘이 함께하길!"
 
 msgctxt "Narration/&DLC1_Hello2_5_Cafrain_NPC"
 msgid "Everything all right?"
-msgstr ""
+msgstr "아무 문제 없지?"
 
 msgctxt "Narration/&DLC1_Random1_6_Cafrain_NPC"
 msgid "Just having a drink."
-msgstr ""
+msgstr "그냥 한 잔 했어."
 
 msgctxt "Narration/&DLC1_Random2_7_Cafrain_NPC"
 msgid "Those guards are so boring."
-msgstr ""
+msgstr "저 경비들은 너무 지루해."
 
 msgctxt "Narration/&DLC1_Meeting_1_Sima_NPC"
 msgid "Try that again and I'll kill you."
-msgstr ""
+msgstr "한 번만 더 그러면 죽여주지."
 
 msgctxt "Narration/&DLC1_FactionOpposed_2_Sima_NPC"
 msgid "I know who you serve, lackeys."
-msgstr ""
+msgstr "누구 밑에 있는지 알아, 앞잡이들아."
 
 msgctxt "Narration/&DLC1_FactionOpposed_3_Sima_NPC"
 msgid "Leave me be!"
-msgstr ""
+msgstr "쫓아내기 전에 꺼져!"
 
 msgctxt "Narration/&DLC1_Hello1_4_Sima_NPC"
 msgid "Clear skies!"
-msgstr ""
+msgstr "맑은 하늘이 함께하길!"
 
 msgctxt "Narration/&DLC1_Hello2_5_Sima_NPC"
 msgid "Strike true, friends!"
-msgstr ""
+msgstr "행운이 함께하길, 친구들!"
 
 msgctxt "Narration/&DLC1_Random1_6_Sima_NPC"
 msgid "I like it near the fire."
-msgstr ""
+msgstr "불가 근처에 있는 게 좋아."
 
 msgctxt "Narration/&DLC1_Random2_7_Sima_NPC"
 msgid "This place could be so much better…"
-msgstr ""
+msgstr "더 나아질 수 있는 곳인데…"
 
 msgctxt "Narration/&DLC1_Meeting_1_Ellaria_NPC"
 msgid "If you're so desperate for gold, just ask."
-msgstr ""
+msgstr "돈이 급하면, 말을 해."
 
 msgctxt "Narration/&DLC1_Hello1_2_Ellaria_NPC"
 msgid "Stay true!"
-msgstr ""
+msgstr "진실이 함께하길!"
 
 msgctxt "Narration/&DLC1_Hello2_3_Ellaria_NPC"
 msgid "We keep watch."
-msgstr ""
+msgstr "지켜보고 있어."
 
 msgctxt "Narration/&DLC1_Random1_4_Ellaria_NPC"
 msgid "The rebellion will soon rise."
-msgstr ""
+msgstr "곧 반군이 일어설 것이다."
 
 msgctxt "Narration/&DLC1_Random2_5_Ellaria_NPC"
 msgid "The tyrant will fall, eventually."
-msgstr ""
+msgstr "폭군은 이윽고 추락할 것이다."
 
 msgctxt "Narration/&DLC1_Meeting_1_Hasdrubal_NPC"
 msgid "A stupid thing to do."
-msgstr ""
+msgstr "헛짓거리군."
 
 msgctxt "Narration/&DLC1_FactionOpposed_2_Hasdrubal_NPC"
 msgid "Stay away. I won't do business with you."
-msgstr ""
+msgstr "저리 가게. 자네랑은 사업 안 해."
 
 msgctxt "Narration/&DLC1_FactionOpposed_3_Hasdrubal_NPC"
 msgid "Don't do anything stupid!"
-msgstr ""
+msgstr "멍청한 짓일랑 마!"
 
 msgctxt "Narration/&DLC1_Hello1_4_Hasdrubal_NPC"
 msgid "Clear skies!"
-msgstr ""
+msgstr "맑은 하늘이 함께하길!"
 
 msgctxt "Narration/&DLC1_Hello2_5_Hasdrubal_NPC"
 msgid "Stay in the light!"
-msgstr ""
+msgstr "빛이 함께하길!"
 
 msgctxt "Narration/&DLC1_Random1_6_Hasdrubal_NPC"
 msgid "Business is hard, but we're still here!"
-msgstr ""
+msgstr "사업히 힘들긴 해도, 아직 여기서 버티고 있네!"
 
 msgctxt "Narration/&DLC1_Random2_7_Hasdrubal_NPC"
 msgid "The swamp stinks, but at least we're free!"
-msgstr ""
+msgstr "늪지가 냄새가 구리긴 해도, 자유가 있지!"
 
 msgctxt "Narration/&DLC1_Giant_04_Rose_1_Player_Default"
 msgid "We're looking for…giants."
-msgstr ""
+msgstr "우린… 거인을 찾고 있어요."
 
 msgctxt "Narration/&DLC1_Giant_04_Rose_2_Rose_NPC"
 msgid "What? Giants?"
-msgstr ""
+msgstr "누구? 거인이요?"
 
 msgctxt "Narration/&DLC1_Giant_04_Rose_3_Player_Default"
 msgid "A bunch of them, probably more intelligent than most…"
-msgstr ""
+msgstr "수가 좀 되는데, 아마 좀 더 똑똑할 거고…"
 
 msgctxt "Narration/&DLC1_Giant_04_Rose_4_Player_Default"
 msgid "…they'd be roaming around."
-msgstr ""
+msgstr "…주변을 돌아다닐 거예요."
 
 msgctxt "Narration/&DLC1_Giant_04_Rose_5_Rose_NPC"
 msgid "I haven't heard of one giant, so…a bunch?"
-msgstr ""
+msgstr "거인 하나도 들어본 적이 없는데… 수가 많기까지 해요?"
 
 msgctxt "Narration/&DLC1_Giant_04_Rose_6_Player_Default"
 msgid "It was worth a try."
-msgstr ""
+msgstr "안 물어보는 것보단 낫지."
 
 msgctxt "Narration/&DLC1_Meeting_1_Renno_NPC"
 msgid "Hello, mates! Name's Renno Highwater."
-msgstr ""
+msgstr "안녕, 친구들! 난 레노 하이워터."
 
 msgctxt "Narration/&DLC1_Meeting_2_Renno_NPC"
 msgid "I'm at the helm here - weapons, potions, you name it."
-msgstr ""
+msgstr "내가 여기 키를 꽉 잡고 있지 - 무기든 물약이든, 말만 해."
 
 msgctxt "Narration/&DLC1_Meeting_3_Renno_NPC"
 msgid "You need something, you come to me!"
-msgstr ""
+msgstr "필요한 게 있으면 나한테 오라고!"
 
 msgctxt "Narration/&DLC1_FactionOpposed_4_Renno_NPC"
 msgid "That ship has sailed, mates."
-msgstr ""
+msgstr "배는 진작 떠났네, 친구들."
 
 msgctxt "Narration/&DLC1_FactionOpposed_5_Renno_NPC"
 msgid "I don't talk to turncoats."
-msgstr ""
+msgstr "배신자랑 할 말 없네."
 
 msgctxt "Narration/&DLC1_Hello1_6_Renno_NPC"
 msgid "Fair winds, mates!"
-msgstr ""
+msgstr "순풍이 함께하길, 친구들!"
 
 msgctxt "Narration/&DLC1_Hello2_7_Renno_NPC"
 msgid "The storm'll pass."
-msgstr ""
+msgstr "폭풍은 지나가리라."
 
 msgctxt "Narration/&DLC1_Random1_8_Renno_NPC"
 msgid "I miss the sun and the wind, stuck down here."
-msgstr ""
+msgstr "이 아래 틀어박혀, 햇빛과 바람을 그리워하네."
 
 msgctxt "Narration/&DLC1_Random2_9_Renno_NPC"
 msgid "Someday I'll sail away."
-msgstr ""
+msgstr "언젠간 다시 돛을 펼치리."
 
 msgctxt "Narration/&DLC1_Meeting_1_Hanno_NPC"
 msgid "I'm Hanno Mustrider."
-msgstr ""
+msgstr "난 하노 머스트라이더야."
 
 msgctxt "Narration/&DLC1_FactionOpposed_2_Hanno_NPC"
 msgid "Shop's closed."
-msgstr ""
+msgstr "가게 닫았어."
 
 msgctxt "Narration/&DLC1_FactionOpposed_3_Hanno_NPC"
 msgid "Not selling to you."
-msgstr ""
+msgstr "댁한테는 안 팔아."
 
 msgctxt "Narration/&DLC1_Hello1_4_Hanno_NPC"
 msgid "Hey."
-msgstr ""
+msgstr "여."
 
 msgctxt "Narration/&DLC1_Hello2_5_Hanno_NPC"
 msgid "Yep."
-msgstr ""
+msgstr "그래."
 
 msgctxt "Narration/&DLC1_Forge_08_1_Hasdrubal_NPC"
 msgid "Thanks again for your help with the Rebellion!"
-msgstr ""
+msgstr "반군 문제를 도와줘서 고맙네!"
 
 msgctxt "Narration/&DLC1_Forge_08_2_Player_Default"
 msgid "That's what friends are for!"
-msgstr ""
+msgstr "친구 좋은 게 뭐겠어요!"
 
 msgctxt "Narration/&DLC1_Forge_08_3_Hasdrubal_NPC"
 msgid "Now that we're family, there's something I need to tell you."
-msgstr ""
+msgstr "이제 한가족이 됐으니, 자네들에게 해야 할 말이 있네."
 
 msgctxt "Narration/&DLC1_Forge_08_4_Hasdrubal_NPC"
 msgid "We actually settled because we found a Minor Gate."
-msgstr ""
+msgstr "우리가 여기 정착한 이유는 보조 관문을 찾았기 때문이야."
 
 msgctxt "Narration/&DLC1_Forge_08_5_Player_Academic"
 msgid "And it wasn't locked? "
-msgstr ""
+msgstr "잠기지 않은 관문이요? "
 
 msgctxt "Narration/&DLC1_Forge_08_6_Hasdrubal_NPC"
 msgid "No - and it gave us access to an area where we found enormous riches!"
-msgstr ""
+msgstr "아니 - 그리고 엄청난 재물이 쌓인 곳으로 이어지더군!"
 
 msgctxt "Narration/&DLC1_Forge_08_7_Player_Academic"
 msgid "A treasure trove of lore, I gather!"
-msgstr ""
+msgstr "보석 같이 귀중한 지식들 말이군요!"
 
 msgctxt "Narration/&DLC1_Forge_08_8_Hasdrubal_NPC"
 msgid "Not only that! Materials, recipes..."
-msgstr ""
+msgstr "그뿐만이겠어! 갖가지 재료들에, 제조법에…"
 
 msgctxt "Narration/&DLC1_Forge_08_9_Hasdrubal_NPC"
 msgid "But we've only explored a small part."
-msgstr ""
+msgstr "하지만 우리가 탐사한 건 극히 일부분이네."
 
 msgctxt "Narration/&DLC1_Forge_08_10_Hasdrubal_NPC"
 msgid ""
 "We were deterred by the guardians that the place's Manacalon owners left "
 "behind."
-msgstr ""
+msgstr "마나칼론 시절의 주인들이 남긴 수호자들 때문에 턱 막혀있어."
 
 msgctxt "Narration/&DLC1_Forge_08_11_Player_Default"
 msgid "What kind of guardians?"
-msgstr ""
+msgstr "무슨 수호자요?"
 
 msgctxt "Narration/&DLC1_Forge_08_12_Hasdrubal_NPC"
 msgid "My people reported at least one greater elemental."
-msgstr ""
+msgstr "내 사람들이 보고하기론 적어도 거대한 정령 하나가 있다더군."
 
 msgctxt "Narration/&DLC1_Forge_08_13_Player_Academic"
 msgid "Not something you feel ready to face, I suppose."
-msgstr ""
+msgstr "아직 해치우긴 어려울 것 같았을 테고 말이죠."
 
 msgctxt "Narration/&DLC1_Forge_08_14_Hasdrubal_NPC"
 msgid ""
 "There's no rush, and I'd understand if you felt it was too much - even for "
 "you."
-msgstr ""
+msgstr "급한 것도 아니고, 자네 같은 실력자들이 부담스럽다 해도 이해할 수 있네."
 
 msgctxt "Narration/&DLC1_Forge_08_15_Player_Default"
 msgid "Tell us where the Gate is. We'll prepare and go when we're ready."
-msgstr ""
+msgstr "위치를 말해주세요. 준비되는대로 출발하죠."
 
 msgctxt "Narration/&DLC1_Forge_08_End_1_Hasdrubal_NPC"
 msgid "Greetings! Are you done? "
-msgstr ""
+msgstr "어서 오게! 다 끝났나? "
 
 msgctxt "Narration/&DLC1_Forge_08_End_2_Player_Default"
 msgid "Yes! The place is now secure. "
-msgstr ""
+msgstr "네! 거긴 이제 안전해요. "
 
 msgctxt "Narration/&DLC1_Forge_08_End_3_Player_Default"
 msgid "It's full of stuff left behind by this wizard."
-msgstr ""
+msgstr "위저드가 남긴 물건들로 가득하더군요."
 
 msgctxt "Narration/&DLC1_Forge_08_End_4_Player_Default"
 msgid "You'll love it!"
-msgstr ""
+msgstr "마음에 들 겁니다!"
 
 msgctxt "Narration/&DLC1_Forge_08_End_5_Player_Default"
 msgid "There's one door that we couldn't open."
-msgstr ""
+msgstr "열지 못한 문이 하나 있었어요."
 
 msgctxt "Narration/&DLC1_Forge_08_End_6_Player_Default"
 msgid "So there's no way to know what's on the other side."
-msgstr ""
+msgstr "그래서 반대편에 뭐가 있는지는 알 수 없었죠."
 
 msgctxt "Narration/&DLC1_Forge_08_End_7_Player_Default"
 msgid "We know where it leads. "
-msgstr ""
+msgstr "어디로 이어질지는 알아요. "
 
 msgctxt "Narration/&DLC1_Forge_08_End_8_Player_Default"
 msgid "To the headquarters of the Rebellion."
-msgstr ""
+msgstr "반군 사령부로 이어집니다."
 
 msgctxt "Narration/&DLC1_Forge_08_End_9_Hasdrubal_NPC"
 msgid "Oh... that might be a problem."
-msgstr ""
+msgstr "오… 그거 문제의 소지가 있군."
 
 msgctxt "Narration/&DLC1_Forge_09_1_Hasdrubal_NPC"
 msgid "Things have been heating up in the Valley!"
-msgstr ""
+msgstr "계곡이 온통 달궈지고 있네!"
 
 msgctxt "Narration/&DLC1_Forge_09_2_Hasdrubal_NPC"
 msgid "And Orenetis seems quite upset! "
-msgstr ""
+msgstr "오레네티스가 상당히 화난 모양이고! "
 
 msgctxt "Narration/&DLC1_Forge_09_3_Player_Default"
 msgid "Well, yes! He doesn't like upstart newcomers apparently!"
-msgstr ""
+msgstr "뭐, 그렇죠! 신흥 세력들을 꽤 싫어하나 봐요!"
 
 msgctxt "Narration/&DLC1_Forge_09_4_Hasdrubal_NPC"
 msgid "We found a heavily protected building, deep in the swamps."
-msgstr ""
+msgstr "늪지 깊은 곳에서 삼엄히 경비되는 건물을 찾았네."
 
 msgctxt "Narration/&DLC1_Forge_09_5_Hasdrubal_NPC"
 msgid "Orenetis' best troops are stationed there."
-msgstr ""
+msgstr "오레네티스의 최정예 부대가 주둔 중이지."
 
 msgctxt "Narration/&DLC1_Forge_09_6_Hasdrubal_NPC"
 msgid ""
 "According to our contacts in town, it's where he conducts his most secret "
 "experiments."
-msgstr ""
+msgstr "마을 내 접선책에 따르면, 오레네티스가 가장 비밀스러운 실험을 진행하는 곳이라더군."
 
 msgctxt "Narration/&DLC1_Forge_09_7_Player_Default"
 msgid "Let's go! It's time we got some answers! "
-msgstr ""
+msgstr "갑시다! 답을 얻을 때가 왔군요! "
 
 msgctxt "Narration/&DLC1_Forge_09_8_Hasdrubal_NPC"
 msgid "Answers to what? "
-msgstr ""
+msgstr "답이라니? "
 
 msgctxt "Narration/&DLC1_Forge_09_9_Player_Default"
 msgid "The question of whether our beloved Lord Protector…"
-msgstr ""
+msgstr "경애하는 지도자, 섭정 각하께서…"
 
 msgctxt "Narration/&DLC1_Forge_09_10_Player_Default"
 msgid "...is really a protector…"
-msgstr ""
+msgstr "…정말 백성들을 아끼는지…"
 
 msgctxt "Narration/&DLC1_Forge_09_11_Player_Default"
 msgid "...or something more sinister! "
-msgstr ""
+msgstr "…아니면 악당인지! "
 
 msgctxt "Narration/&DLC1_Forge_09_12_Hasdrubal_NPC"
 msgid "The Forge is with you! "
-msgstr ""
+msgstr "포지가 자네들과 함께할 걸세! "
 
 msgctxt "Narration/&DLC1_Forge_09_13_Player_Default"
 msgid "We'll take all the blessings we can get! "
-msgstr ""
+msgstr "받을 수 있는 축복은 다 환영이에요! "
 
 msgctxt "Narration/&DLC1_Giant_5_End_1_Player_Default"
 msgid "Hey, Gartok!"
-msgstr ""
+msgstr "이봐, 가르톡!"
 
 msgctxt "Narration/&DLC1_Giant_5_End_2_Gortek_NPC"
 msgid "Little friends."
-msgstr ""
+msgstr "작은 친구들."
 
 msgctxt "Narration/&DLC1_Giant_5_End_3_Player_Default"
 msgid "We're sorry, we found your friend in the makers prison."
-msgstr ""
+msgstr "미안한데, 네 친구를 제조자의 감옥에서 찾았어."
 
 msgctxt "Narration/&DLC1_Giant_5_End_4_Player_Default"
 msgid "He was dead."
-msgstr ""
+msgstr "이미 죽어있었고."
 
 msgctxt "Narration/&DLC1_Giant_5_End_5_Gortek_NPC"
 msgid "Oh, sad. Medication did that, sure."
-msgstr ""
+msgstr "으, 이럴 수가. 약 때문이 틀림없어."
 
 msgctxt "Narration/&DLC1_Giant_5_End_6_Player_Default"
 msgid "That is probably the case, yes."
-msgstr ""
+msgstr "그럴 가능성도 충분하지."
 
 msgctxt "Narration/&DLC1_Giant_FreeRugan_1_Rugan_NPC"
 msgid "Little ones, help me."
-msgstr ""
+msgstr "작은 이들이여, 도와줘."
 
 msgctxt "Narration/&DLC1_Giant_FreeRugan_2_Player_Default"
 msgid "You speak?"
-msgstr ""
+msgstr "말을 하네?"
 
 msgctxt "Narration/&DLC1_Giant_FreeRugan_3_Rugan_NPC"
 msgid "Name is Rugan."
-msgstr ""
+msgstr "난 루간이다."
 
 msgctxt "Narration/&DLC1_Giant_FreeRugan_4_Rugan_NPC"
 msgid "Other little ones caught me."
-msgstr ""
+msgstr "다른 작은 이들이 날 잡았어."
 
 msgctxt "Narration/&DLC1_Giant_FreeRugan_5_Rugan_NPC"
 msgid "Rugan nice giant."
-msgstr ""
+msgstr "루간은 좋은 거인이다."
 
 msgctxt "Narration/&DLC1_Giant_FreeRugan_6_Player_Default"
 msgid "We could lead you away from here."
-msgstr ""
+msgstr "우리가 여기서 벗어나게 해줄게."
 
 msgctxt "Narration/&DLC1_Giant_FreeRugan_7_Rugan_NPC"
 msgid "Yes!"
-msgstr ""
+msgstr "좋아!"
 
 msgctxt "Narration/&DLC1_Mask_Backup_1_Klarn_NPC"
 msgid "Looks like you've made enemies of pretty much everyone around."
-msgstr ""
+msgstr "사방에 적을 만든 모양이군."
 
 msgctxt "Narration/&DLC1_Mask_Backup_2_Klarn_NPC"
 msgid "Let me introduce myself."
-msgstr ""
+msgstr "내 소개를 하지."
 
 msgctxt "Narration/&DLC1_Mask_Backup_3_Klarn_NPC"
 msgid "My name is Marin Ving."
-msgstr ""
+msgstr "내 이름은 마린 빙."
 
 msgctxt "Narration/&DLC1_Mask_Backup_4_Klarn_NPC"
 msgid "And here's my offer:"
-msgstr ""
+msgstr "그리고 내 제안은 다음과 같다:"
 
 msgctxt "Narration/&DLC1_Mask_Backup_5_Klarn_NPC"
 msgid "I give you everything I know about the valley."
-msgstr ""
+msgstr "내가 계곡에 대해 아는 모든 걸 알려주겠다."
 
 msgctxt "Narration/&DLC1_Mask_Backup_6_Klarn_NPC"
 msgid "You get me rid of the Lord Protector."
-msgstr ""
+msgstr "그 대신 날 위해 섭정을 제거해라."
 
 msgctxt "Narration/&DLC1_Mask_Backup_7_Klarn_NPC"
 msgid "Steal his secret to pass the redeemer's nest."
-msgstr ""
+msgstr "구원자의 둥지를 통과할 수 있는 그의 비밀을 훔쳐라."
 
 msgctxt "Narration/&DLC1_Mask_Backup_8_Klarn_NPC"
 msgid "And you leave me be."
-msgstr ""
+msgstr "그 후 내게 간섭하지 말고."
 
 msgctxt "Narration/&DLC1_Mask_Backup_9_Klarn_NPC"
 msgid "Like you had a choice."
-msgstr ""
+msgstr "선택권이 있었건만."
 
 msgctxt "Narration/&DLC1_Mask_Backup_10_Klarn_NPC"
 msgid "Well then I doubt you ever see the Principality again."
-msgstr ""
+msgstr "그렇다면 너희가 다시 공국 땅을 볼 일은 없겠군."
 
 msgctxt "Narration/&DLC1_Orenetis_06_end_1_Orenetis_NPC"
 msgid ""
 "Do you think I take pleasure in asking strangers to enforce my law, Malariel?"
-msgstr ""
+msgstr "내가 이방인에게 내 법을 집행하는 것을 즐긴다 생각하나, 말라리엘?"
 
 msgctxt "Narration/&DLC1_Orenetis_06_end_2_Orenetis_NPC"
 msgid "Yes, yes…I have need of you again."
-msgstr ""
+msgstr "그래, 그렇지… 다시 너희들이 필요해졌다."
 
 msgctxt "Narration/&DLC1_Orenetis_06_end_3_Orenetis_NPC"
 msgid "Rebellion is spreading in my own city…"
-msgstr ""
+msgstr "내 도시로 반군이 퍼지고 있다…"
 
 msgctxt "Narration/&DLC1_Orenetis_06_end_4_Orenetis_NPC"
 msgid "…I get reports of sedition, sabotage…"
-msgstr ""
+msgstr "…폭동과 파괴 행위에 대한 보고가 올라오고 있지…"
 
 msgctxt "Narration/&DLC1_Orenetis_06_end_5_Orenetis_NPC"
 msgid "…I know where this happens."
-msgstr ""
+msgstr "…어디서 일어나는지도 알고 있고."
 
 msgctxt "Narration/&DLC1_Orenetis_06_end_6_Orenetis_NPC"
 msgid "In that damn house of debauchery, the Merry Remorhaz!"
-msgstr ""
+msgstr "그 방탕한 집, 메리 레모라즈에서 말야!"
 
 msgctxt "Narration/&DLC1_Orenetis_06_end_7_Orenetis_NPC"
 msgid "Go there and arrest the Innkeeper -  a dwarf, I think."
-msgstr ""
+msgstr "가서 여관의 주인을 체포하라 - 내가 알기로는, 드워프다."
 
 msgctxt "Narration/&DLC1_Orenetis_06_end_8_Orenetis_NPC"
 msgid "Bring her to Malariel."
-msgstr ""
+msgstr "그 여자를 말라리엘에게 넘기거라."
 
 msgctxt "Narration/&DLC1_Orenetis_06_end_9_Orenetis_NPC"
 msgid "If she resists…"
-msgstr ""
+msgstr "만약 반항할 경우…"
 
 msgctxt "Narration/&DLC1_Orenetis_06_end_10_Orenetis_NPC"
 msgid "…well, you know what to do."
-msgstr ""
+msgstr "…어찌 해야 될지, 잘 알고 있겠지."
 
 msgctxt "Narration/&DLC1_Orenetis_06_end_11_Orenetis_NPC"
 msgid "No one denies my authority."
-msgstr ""
+msgstr "누구도 내 권위를 능멸할 수 없다."
 
 msgctxt "Narration/&DLC1_Orenetis_06_end_12_Orenetis_NPC"
 msgid "NO ONE!"
-msgstr ""
+msgstr "그 누구도!"
 
 msgctxt "Narration/&DLC1_Orenetis_06_end_13_Any_Selfpres"
 msgid "Can we agree that he's crazy?"
-msgstr ""
+msgstr "미친 건 확실해 보이지?"
 
 msgctxt "Narration/&DLC1_Orenetis_06_end_14_Any_Friendly"
 msgid "He's getting worse, for sure."
-msgstr ""
+msgstr "미쳐도 단단히 미쳤지."
 
 msgctxt "Narration/&DLC1_Orenetis_06_end_15_Any_Selfpres"
 msgid "We're going to end up hated by everyone but him."
-msgstr ""
+msgstr "저 양반 빼고는 다 우릴 싫어하게 되겠는데."
 
 msgctxt "Narration/&DLC1_Orenetis_06_end_16_Any_Pragmatic"
 msgid "This doesn't really help our mission, so far."
-msgstr ""
+msgstr "이런다고 우리 임무에 도움이 되는 것도 아니잖아."
 
 msgctxt "Narration/&DLC1_Orenetis_06_end_17_Any_Sneaky"
 msgid "Let's not talk about this in here."
-msgstr ""
+msgstr "여기선 그 얘기 하지 말자."
 
 msgctxt "Narration/&DLC1_Sitenero_Orenetis_1_Orenetis_NPC"
 msgid "You?"
-msgstr ""
+msgstr "너?"
 
 msgctxt "Narration/&DLC1_Sitenero_Orenetis_2_Orenetis_NPC"
 msgid "How did you…?"
-msgstr ""
+msgstr "네가 어떻게…?"
 
 msgctxt "Narration/&DLC1_Sitenero_Orenetis_3_Sitenero_NPC"
 msgid "I'm here. That's all that matters."
-msgstr ""
+msgstr "그 이유가 아니라, 내가 여기 있다는 사실이 중요하지."
 
 msgctxt "Narration/&DLC1_Sitenero_Orenetis_4_Orenetis_NPC"
 msgid "I should have known outsiders would only betray me!"
-msgstr ""
+msgstr "이방인들은 결국 배신하리란 걸 알았어야 했는데!"
 
 msgctxt "Narration/&DLC1_Sitenero_Orenetis_5_Sitenero_NPC"
 msgid "We need to become one again, you know it."
-msgstr ""
+msgstr "이미 알겠지만, 우린 하나가 돼야 한다."
 
 msgctxt "Narration/&DLC1_Sitenero_Orenetis_6_Orenetis_NPC"
 msgid "No!"
-msgstr ""
+msgstr "어딜 감히!"
 
 msgctxt "Narration/&DLC1_Sitenero_Orenetis_7_Sitenero_NPC"
 msgid "The valley is in a state of civil war. Surely that's not what you want."
-msgstr ""
+msgstr "계곡에 내전이 번지고 있다. 그걸 원한 건 아닐 테지."
 
 msgctxt "Narration/&DLC1_Sitenero_Orenetis_8_Orenetis_NPC"
 msgid "You don't even know what will happen if we do that!"
-msgstr ""
+msgstr "무슨 후폭풍이 일어날지 너도 모르지 않느냐!"
 
 msgctxt "Narration/&DLC1_Sitenero_Orenetis_9_Sitenero_NPC"
 msgid "Let's find out!"
-msgstr ""
+msgstr "그걸 알아내야지 않겠어!"
 
 msgctxt "Narration/&DLC1_Sitenero_Orenetis_10_Orenetis_NPC"
 msgid "I would rather die!"
-msgstr ""
+msgstr "굴복하느니 죽을 것이다!"
 
 msgctxt "Narration/&DLC1_Sitenero_Orenetis_11_Orenetis_NPC"
 msgid "Fine. I agree."
-msgstr ""
+msgstr "좋아. 동의하지."
 
 msgctxt "Narration/&DLC1_Sitenero_Orenetis_12_United_NPC"
 msgid "It worked! I am... whole again!"
-msgstr ""
+msgstr "됐군! 내가 다시… 완전해졌어!"
 
 msgctxt "Narration/&DLC1_Sitenero_Orenetis_13_Orenetis_NPC"
 msgid "Even so, I'm still an elf, not a dragon."
-msgstr ""
+msgstr "그럼에도, 아직 드래곤이 아닌 엘프로군."
 
 msgctxt "Narration/&DLC1_Sitenero_Orenetis_14_Orenetis_NPC"
 msgid ""
 "But surely, the many scholars of Solasta can help me become what I once was."
-msgstr ""
+msgstr "하지만 분명, 솔라스타의 많은 학자들이 내 본래 형태로 돌아가는 걸 도울 수 있을 게야."
 
 msgctxt "Narration/&DLC1_Sitenero_Orenetis_15_Orenetis_NPC"
 msgid "You've done well, strangers."
-msgstr ""
+msgstr "고생했네, 이방인들이여."
 
 msgctxt "Narration/&DLC1_Sitenero_Orenetis_16_Orenetis_NPC"
 msgid "Take this. It will let you pass safely by the redeemers' nests."
-msgstr ""
+msgstr "이걸 받게. 구원자의 둥지를 무사히 지날 수 있을 걸세."
 
 msgctxt "Narration/&DLC1_Sitenero_Orenetis_17_Orenetis_NPC"
 msgid ""
 "Tell those who rule where you come from that we are willign to establish "
 "diplomatic relations."
-msgstr ""
+msgstr "자네들이 온 곳을 다스리는 자들에게, 우린 기꺼이 외교 관계를 맺을 의향이 있다 전해주게."
 
 msgctxt "Narration/&DLC1_Sitenero_Orenetis_18_Orenetis_NPC"
 msgid "I must rest, now. I have much to ponder."
-msgstr ""
+msgstr "당장은, 쉬어야겠군. 숙고할 일이 너무 많아."
 
 msgctxt "Narration/&DLC1_Sitenero_Orenetis_19_Player_Persuasion"
 msgid "Come on! You need this - you know it!"
-msgstr ""
+msgstr "이봐! 당신도 이래야 한다는 걸 알잖아!"
 
 msgctxt "Narration/&DLC1_Sitenero_Orenetis_20_Player_Intimidation"
 msgid "You don't have a choice. Look around you - we won!"
-msgstr ""
+msgstr "네게 선택권은 없어. 주변을 봐 - 우리가 이겼다!"
 
 msgctxt "Narration/&DLC1_Sitenero_Orenetis_21_Player_Deception"
 msgid "We saw the documents in your complex."
-msgstr ""
+msgstr "네 연구단지에서 서류를 봤어."
 
 msgctxt "Narration/&DLC1_Sitenero_Orenetis_22_Player_Deception"
 msgid "You and Sitenero are both degenerating."
-msgstr ""
+msgstr "당신과 시테네로 둘 다 퇴화하고 있더군."
 
 msgctxt "Narration/&DLC1_Sitenero_Orenetis_23_WRITTEN_Persuasion"
 msgid "It's in your own interests to agree."
-msgstr ""
+msgstr "다 당신을 위한 일이야."
 
 msgctxt "Narration/&DLC1_Sitenero_Orenetis_24_WRITTEN_Intimidation"
 msgid "If you refuse, we kill you."
-msgstr ""
+msgstr "거절한다면, 죽일 수밖에."
 
 msgctxt "Narration/&DLC1_Sitenero_Orenetis_25_WRITTEN_Deception"
 msgid "If you refuse, you'll degenerate and die."
-msgstr ""
+msgstr "거부한다면, 당신은 퇴화 끝에 죽을 거야."
 
 msgctxt "Narration/&NPC_Banter_Swamp_Forge_Guard_01"
 msgid "Sorry. I can't let you enter."
-msgstr ""
+msgstr "죄송합니다. 들여보낼 수 없군요."
 
 msgctxt "Narration/&NPC_Banter_Swamp_Forge_Guard_02"
 msgid "You may enter. Be careful, though. This guy is dangerous."
-msgstr ""
+msgstr "들어가시되, 조심하십시오. 이 자는 위험합니다."
 
 msgctxt "Narration/&NPC_Banter_Swamp_Forge_Guard_03"
 msgid "The prisoner escaped!"
-msgstr ""
+msgstr "수감자가 탈출했다!"
 
 msgctxt "Narration/&NPC_Banter_Swamp_Forge_Guard_04"
 msgid "Who'll get locked up now?"
-msgstr ""
+msgstr "이제 누가 갇혔지?"
 
 msgctxt "Narration/&NPC_Banter_Valley_Marin_Ving_01"
 msgid "Take this key. I'll meet you inside."
-msgstr ""
+msgstr "열쇠 받아. 안에서 만나지."
 
 msgctxt "Narration/&NPC_Banter_Valley_Marin_Ving_02"
 msgid "Meet me back to the HQ in the city."
-msgstr ""
+msgstr "도시 사령부에서 다시 만나자고."
 
 msgctxt "Narration/&NPC_Banter_Swamp_Forge_Guard_00"
 msgid "Sorry, I'm busy right now. Talk with Hasdrubal. "
-msgstr ""
+msgstr "죄송한데 지금은 바쁘군요. 하스드루발 님과 얘기해 보십시오. "
 
 msgctxt "Narration/&NPC_Banter_Swamp_Rugan_00"
 msgid "Rugan sad ! Rugan prisonner."
-msgstr ""
+msgstr "루간 슬프다! 루간은 갇혔어."
 
 msgctxt "Narration/&NPC_Banter_Swamp_Rugan_01"
 msgid "Chains blocking Rugan !"
-msgstr ""
+msgstr "사슬이 루간을 막고 있다!"
 
 msgctxt "Narration/&NPC_Banter_Swamp_Rugan_02"
 msgid "Thank you little one ! I'll see you at the Giant camp."
-msgstr ""
+msgstr "고맙다 작은 이여! 거인 야영지에서 보자."
 
 msgctxt "Narration/&DLC1_Forge_05_End8_NOAUDIO_ChoiceA"
 msgid "You can have it."
-msgstr ""
+msgstr "가져요."
 
 msgctxt "Narration/&DLC1_Forge_05_End9_NOAUDIO_ChoiceB"
 msgid "We want to keep it."
-msgstr ""
+msgstr "우리가 갖고 있죠."
 
 msgctxt "Narration/&NPC_Banter_Location_Swamp_01"
 msgid "Something's blocking the fence."
-msgstr ""
+msgstr "뭔가 울타리를 막고 있어."
 
 msgctxt "Narration/&NPC_Banter_Location_Swamp_02"
 msgid "Let's find an alternate way out of this camp."
-msgstr ""
+msgstr "야영지로 들어갈 다른 길을 찾자."
 
 msgctxt "Narration/&NPC_Banter_Location_Swamp_03"
 msgid "I think we should avoid being seen running away with Rugan."
-msgstr ""
+msgstr "루간이랑 도망치는 걸 목격되면 안 될 것 같은데."
 
 msgctxt "Narration/&NPC_Banter_Location_Swamp_04"
 msgid "I guess Rugan won't fit on that bridge. We need to find another exit !"
-msgstr ""
+msgstr "루간은 저 다리를 못 지나가겠어. 다른 출구를 찾자!"
 
 msgctxt "Narration/&DLC1_ThePeople_04_EndBanter_01"
 msgid "Commander Brogarad had lieutenant Sharp-Eyes arrested."
-msgstr ""
+msgstr "브로가라드 사령관이 샤프아이즈 중위를 체포했어."
 
 msgctxt "Narration/&DLC1_ThePeople_04_EndBanter_02"
 msgid "Well…we all know what that means."
-msgstr ""
+msgstr "그럼… 다들 그게 무슨 의미인지 알지."
 
 msgctxt "Narration/&DLC1_ThePeople_04_EndBanter_03"
 msgid "Lieutenant Sharp-Eyes has been posted elsewhere…I think."
-msgstr ""
+msgstr "샤프아이즈 중위는 다른 곳으로 배속받겠지… 아마."
 
 msgctxt "Narration/&NecromancyTextObj01"
 msgid "Caer Tenarion. Iron Legion XXV. Year 24, Emperor Gwaltrian III"
@@ -12290,7 +12288,7 @@ msgctxt "Narration/&Tavern_045_Carran_NPC"
 msgid ""
 "Well, if you are here for Lord Carran of the Legacy Council, that would be "
 "me."
-msgstr "음, 당신들이 유산 평의회의 캐런 경을 만나러 온 것이라면, 제가 캐런 입니다."
+msgstr "음, 당신들이 유산 평의회의 캐런 경을 만나러 온 것이라면, 제가 캐런입니다."
 
 msgctxt "Narration/&Tavern_046_Fighter_Cynical_WRITTEN"
 msgid "So you're real, then?"
@@ -34674,10 +34672,9 @@ msgctxt "Narration/&InTemple_Added_15_Beric_AkilWingate_NPC"
 msgid "Distrust broke humanity. Sorr-Tarr had won. "
 msgstr "불신이 인간성을 무너뜨렸습니다. 소르-타르가 승리한 것이죠. "
 
-#, fuzzy
 msgctxt "Narration/&InTemple_Added_16_Beric_AkilWingate_NPC"
 msgid "He corrupted even Arivad, god of the inquisitors."
-msgstr "그들은 심지어 심문관의 신, 아리바드마저 타락시켰습니다."
+msgstr "그는 심지어 심문관들의 신, 아리바드마저 타락시켰습니다."
 
 msgctxt "Narration/&InTemple_Added_17_Beric_AkilWingate_NPC"
 msgid "The gods themselves decided to run away from Tirmar."
@@ -35844,238 +35841,238 @@ msgstr "여기 봐! 도적 소굴이 틀림없어!"
 
 msgctxt "Narration/&Background_Quest_Wanderer1_Auroc_NPC"
 msgid "You look just like your father!"
-msgstr ""
+msgstr "네 아버지와 똑 닮았구나!"
 
 msgctxt "Narration/&Background_Quest_Wanderer2_Wanderer_Default"
 msgid "Auroc? Is that really you?"
-msgstr ""
+msgstr "오로크? 진짜 당신 맞아요?"
 
 msgctxt "Narration/&Background_Quest_Wanderer3_Auroc_NPC"
 msgid "Who else would it be? "
-msgstr ""
+msgstr "그럼 누구겠어? "
 
 msgctxt "Narration/&Background_Quest_Wanderer4_Auroc_NPC"
 msgid "And you - you were just a kid the last time I saw you!"
-msgstr ""
+msgstr "그러는 너야말로 - 마지막에 봤을 때는 꼬맹이였는데!"
 
 msgctxt "Narration/&Background_Quest_Wanderer5_Auroc_NPC"
 msgid "And when I came back, well…"
-msgstr ""
+msgstr "그리고 내가 돌아왔을 때는…"
 
 msgctxt "Narration/&Background_Quest_Wanderer6_Auroc_NPC"
 msgid "…the village was in ruins."
-msgstr ""
+msgstr "…마을이 폐허가 됐더군."
 
 msgctxt "Narration/&Background_Quest_Wanderer7_Auroc_NPC"
 msgid "I thought you were dead. Then I heard you were in Coparann."
-msgstr ""
+msgstr "네가 죽은 줄로만 알았지. 그런데 코파란에 있다는 얘기가 들렸고."
 
 msgctxt "Narration/&Background_Quest_Wanderer8_Wanderer_Default"
 msgid "I was away, too. Otherwise I'd be dead like all the others."
-msgstr ""
+msgstr "나도 다른 곳에 있었어. 아니었으면 나도 다른 사람들처럼 죽었겠지."
 
 msgctxt "Narration/&Background_Quest_Wanderer9_Auroc_NPC"
 msgid "That was lucky. Now..."
-msgstr ""
+msgstr "운이 좋았군. 그래서…"
 
 msgctxt "Narration/&Background_Quest_Wanderer10_Auroc_NPC"
 msgid "...do you want to avenge them?"
-msgstr ""
+msgstr "…놈들에게 복수할 생각 있어?"
 
 msgctxt "Narration/&Background_Quest_Wanderer11_Auroc_NPC"
 msgid "I slept in the charred ruins of the village as I buried my people."
-msgstr ""
+msgstr "마을 사람들을 매장하고, 불타버린 마을의 잔해 위에서 잠들었지."
 
 msgctxt "Narration/&Background_Quest_Wanderer12_Auroc_NPC"
 msgid ""
 "There were marks on the bodies - marks made by weapons, not by claws or "
 "teeth!"
-msgstr ""
+msgstr "시신들엔 발톱이나 이빨이 아닌 - 무기로 만든 상흔들이 가득했어!"
 
 msgctxt "Narration/&Background_Quest_Wanderer13_Auroc_NPC"
 msgid "So I realized that those monsters...were just bandits…"
-msgstr ""
+msgstr "몬스터들이 아니라… 강도떼에게 당했던 거야…"
 
 msgctxt "Narration/&Background_Quest_Wanderer14_Wanderer_Default"
 msgid "You mean…"
-msgstr ""
+msgstr "그럼 네 말은…"
 
 msgctxt "Narration/&Background_Quest_Wanderer15_Auroc_NPC"
 msgid "Yes, kid. They're just bandits - and I found them."
-msgstr ""
+msgstr "그래, 꼬마. 놈들은 강도떼였어 - 그리고 누군지 찾아냈다."
 
 msgctxt "Narration/&Background_Quest_Wanderer16_Wanderer_Default"
 msgid "What are we waiting for?"
-msgstr ""
+msgstr "그럼 여기서 뭐 하는 건데?"
 
 msgctxt "Narration/&Background_Quest_Wanderer17_Auroc_NPC"
 msgid "Easy, now! I'll tell you!"
-msgstr ""
+msgstr "지금은 기다려! 설명할 테니!"
 
 msgctxt "Narration/&Background_Quest_Wanderer18_Auroc_NPC"
 msgid "I tracked them to one of the elf ruins in the mountains."
-msgstr ""
+msgstr "산 속의 한 엘프 유적까지 놈들을 쫓았다."
 
 msgctxt "Narration/&Background_Quest_Wanderer19_Auroc_NPC"
 msgid "There were too many of them, so I sealed them in with a rockfall."
-msgstr ""
+msgstr "수가 너무 많아서, 바위 사태를 일으켜 놈들을 가둬놨지."
 
 msgctxt "Narration/&Background_Quest_Wanderer20_Wanderer_Default"
 msgid "So, what - we just wait for them to die?"
-msgstr ""
+msgstr "그래서 - 그 속에서 죽는 걸 기다리자고?"
 
 msgctxt "Narration/&Background_Quest_Wanderer21_Auroc_NPC"
 msgid "No. They might find a way out, or someone might help them."
-msgstr ""
+msgstr "아니. 탈출할 수도 있고, 누군가 놈들을 구해줄지도 몰라."
 
 msgctxt "Narration/&Background_Quest_Wanderer22_Auroc_NPC"
 msgid "I know their hideout connects to Coparann's old mines."
-msgstr ""
+msgstr "내가 알기로 놈들의 아지트는 코파란의 낡은 광산으로 이어져 있다."
 
 msgctxt "Narration/&Background_Quest_Wanderer23_Auroc_NPC"
 msgid "They're trapped somewhere in there."
-msgstr ""
+msgstr "그 안 어딘가에 갇혀있을 거야."
 
 msgctxt "Narration/&Background_Quest_Wanderer24_Auroc_NPC"
 msgid "I asked the Ceannard to let you enter the mines."
-msgstr ""
+msgstr "촌장에게 말해 광산 출입 권한은 얻어놨어."
 
 msgctxt "Narration/&Background_Quest_Wanderer25_Auroc_NPC"
 msgid "And me along with you."
-msgstr ""
+msgstr "나도 따라갈 거고."
 
 msgctxt "Narration/&Background_Quest_Wanderer26_Wanderer_Default"
 msgid "All right - let's go! "
-msgstr ""
+msgstr "좋아 - 출발하자고! "
 
 msgctxt "Narration/&Background_Quest_Wanderer27_Auroc_NPC"
 msgid "Good! Meet me in front of the mine!"
-msgstr ""
+msgstr "좋았어! 광산 앞에서 보자고!"
 
 msgctxt "Narration/&Background_Quest_Wanderer_End1_Larson_NPC"
 msgid "You have my Thanks, adventurers!"
-msgstr ""
+msgstr "감사합니다, 모험가 여러분!"
 
 msgctxt "Narration/&Background_Quest_Wanderer_End2_Wanderer_Default"
 msgid "What for? "
-msgstr ""
+msgstr "뭣 때문에? "
 
 msgctxt "Narration/&Background_Quest_Wanderer_End3_Larson_NPC"
 msgid "For getting rid of those undead…"
-msgstr ""
+msgstr "그 언데드들을 처리하기도 하셨고…"
 
 msgctxt "Narration/&Background_Quest_Wanderer_End4_Larson_NPC"
 msgid "…not to mention the redeemers!"
-msgstr ""
+msgstr "…구원자는 말할 것도 없겠지요!"
 
 msgctxt "Narration/&Background_Quest_Wanderer_End5_Larson_NPC"
 msgid "Thanks to you, we can leave now and find another way out… "
-msgstr ""
+msgstr "감사합니다, 덕분에 이곳을 떠나 다른 길을 찾을 수 있게 됐어요… "
 
 msgctxt "Narration/&Background_Quest_Wanderer_End6_Wanderer_Default"
 msgid "You were never trapped by a landslide?"
-msgstr ""
+msgstr "바위 사태에 갇힌 적 없어요?"
 
 msgctxt "Narration/&Background_Quest_Wanderer_End7_Auroc_NPC"
 msgid "Of course not!"
-msgstr ""
+msgstr "아뇨 전혀요!"
 
 msgctxt "Narration/&Background_Quest_Wanderer_End8_Wanderer_Default"
 msgid "Auroc!"
-msgstr ""
+msgstr "오로크!"
 
 msgctxt "Narration/&Background_Quest_Wanderer_End9_Auroc_NPC"
 msgid "Well…"
-msgstr ""
+msgstr "이런…"
 
 msgctxt "Narration/&Background_Quest_Wanderer_End10_Auroc_NPC"
 msgid "I wanted revenge, yes - but not for the burned village."
-msgstr ""
+msgstr "복수를 원한 건 맞지만 - 불타버린 마을을 위해서는 아니었어."
 
 msgctxt "Narration/&Background_Quest_Wanderer_End11_Larson_NPC"
 msgid "Wait - revenge against me?"
-msgstr ""
+msgstr "그럼 - 나한테 복수하려는 거야?"
 
 msgctxt "Narration/&Background_Quest_Wanderer_End12_Auroc_NPC"
 msgid "Of course!"
-msgstr ""
+msgstr "당연하지!"
 
 msgctxt "Narration/&Background_Quest_Wanderer_End13_Auroc_NPC"
 msgid "Your mother - she rejected me!"
-msgstr ""
+msgstr "네 어미가 날 거부했고!"
 
 msgctxt "Narration/&Background_Quest_Wanderer_End14_Auroc_NPC"
 msgid "Your father - he banished me from the village, he humiliated me."
-msgstr ""
+msgstr "네 아비는 날 마을에서 추방해, 수치를 줬다."
 
 msgctxt "Narration/&Background_Quest_Wanderer_End15_Auroc_NPC"
 msgid "I swore they'd pay for that!"
-msgstr ""
+msgstr "그 값을 치르게 해주겠다 맹세했지!"
 
 msgctxt "Narration/&Background_Quest_Wanderer_End16_Larson_NPC"
 msgid "Did you think Auroc was really out for revenge? "
-msgstr ""
+msgstr "오로크가 정말 복수를 원한다고 생각하셨나요? "
 
 msgctxt "Narration/&Background_Quest_Wanderer_End17_Larson_NPC"
 msgid "Well, he was - just not against us."
-msgstr ""
+msgstr "그렇기는 했지만 - 그 대상은 우리가 아니었어요."
 
 msgctxt "Narration/&Background_Quest_Wanderer_End18_Wanderer_Default"
 msgid "Me?"
-msgstr ""
+msgstr "나라구요?"
 
 msgctxt "Narration/&Background_Quest_Wanderer_End19_Larson_NPC"
 msgid "You don't even know why your father banished him."
-msgstr ""
+msgstr "당신의 아버지가 왜 그를 추방했는지도 모르는군요."
 
 msgctxt "Narration/&Background_Quest_Wanderer_End20_Larson_NPC"
 msgid "He fell in love with your mother. Ha!"
-msgstr ""
+msgstr "그는 당신의 어머니에게 흠뻑 빠졌었죠. 하!"
 
 msgctxt "Narration/&Background_Quest_Wanderer_End21_Larson_NPC"
 msgid "Your old man couldn't take it, so Auroc had to go."
-msgstr ""
+msgstr "당신의 부친은 당연히 용납하지 못했고, 오로크는 떠났어요."
 
 msgctxt "Narration/&Background_Quest_Wanderer_End22_Larson_NPC"
 msgid "Not that your sweet mommy would let an half-orc into her bed, I'm sure."
-msgstr ""
+msgstr "모친께서도 그 하프오크를 자기 침대에 들일 생각은 없었을 테구요."
 
 msgctxt "Narration/&Background_Quest_Wanderer_End23_Wanderer_Default"
 msgid "I had... no idea."
-msgstr ""
+msgstr "전혀… 몰랐군요."
 
 msgctxt "Narration/&Background_Quest_Wanderer_End24_Wanderer_Default"
 msgid "But you did burn down my village - right?"
-msgstr ""
+msgstr "하지만 당신이 내 마을을 불태운 건 맞지 않나요?"
 
 msgctxt "Narration/&Background_Quest_Wanderer_End25_Larson_NPC"
 msgid "For a very paltry bit of loot - but yes, I confess…"
-msgstr ""
+msgstr "그렇게 얻은 것들이 보잘것 없긴 했지만 - 사실대로 말하자면, 그렇죠…"
 
 msgctxt "Narration/&Background_Quest_Wanderer_End26_Larson_NPC"
 msgid "You'll die for that!"
-msgstr ""
+msgstr "그러니 죽어줘야겠군!"
 
 msgctxt "Narration/&Background_Quest_Wanderer_Conclusion1_Partner_Cynical"
 msgid "That was…awkward."
-msgstr ""
+msgstr "이거 참… 불편하네."
 
 msgctxt "Narration/&Background_Quest_Wanderer_Conclusion2_Partner_Friendly"
 msgid "I'm sorry."
-msgstr ""
+msgstr "유감이야."
 
 msgctxt "Narration/&Background_Quest_Wanderer_Conclusion3_Partner_Lawful"
 msgid "So much for friendship."
-msgstr ""
+msgstr "우정 강조는 그쯤 하자고."
 
 msgctxt "Narration/&Background_Quest_Wanderer_Conclusion4_Partner_Slanglish"
 msgid "That Auroc - what an asshole."
-msgstr ""
+msgstr "오로크란 놈 - 완전 개자식이었군."
 
 msgctxt "Narration/&Background_Quest_Wanderer_Conclusion5_Wanderer_Default"
 msgid "It was a long time ago, but…"
-msgstr ""
+msgstr "아주 오래 된 일이긴 하지만…"
 
 msgctxt "Narration/&Background_Quest_Wanderer_Conclusion6_Wanderer_Default"
 msgid "…I guess it's some kind of closure."
-msgstr ""
+msgstr "…어떻게든 매듭이 지어진 것 같아."
