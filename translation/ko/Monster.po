@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2021-12-26 14:46+0000\n"
+"PO-Revision-Date: 2021-12-30 12:34+0000\n"
 "Last-Translator: Sh K. <wjswn244@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/monster/ko/"
 ">\n"
@@ -218,7 +218,7 @@ msgstr "트롤은 산성 피해를 입지 않는 한, 라운드마다 HP 10을 �
 
 msgctxt "Monster/&Bulette_Title"
 msgid "Bulette"
-msgstr "뷸렛"
+msgstr "불렛"
 
 msgctxt "Monster/&Bulette_Description"
 msgid ""
@@ -451,7 +451,7 @@ msgstr "끔찍한 실험을 간섭 없이 수행하기 위해 고립된 장소�
 
 msgctxt "Monster/&Archmage_Title"
 msgid "Archmage"
-msgstr "대마법사"
+msgstr "대마도사"
 
 msgctxt "Monster/&Badlands Hunter_Description"
 msgid "A wandering ranger seeking glory and battle."
@@ -1169,7 +1169,7 @@ msgstr "마법적인 정령의 힘에 의해 움직이는 덩치 큰 돌덩어�
 
 msgctxt "Monster/&WindSnake_Title"
 msgid "Wind Snake"
-msgstr "바람뱀"
+msgstr "바람 뱀"
 
 msgctxt "Monster/&WindSnake_Description"
 msgid "A small air elemental that can freeze you to death."
@@ -1344,7 +1344,7 @@ msgstr "긴 세월에 걸쳐 황무지의 마법으로 기괴하게 변이되어
 
 msgctxt "Monster/&MutatedBear_Title"
 msgid "Mutated Bear"
-msgstr "돌연변이 곰"
+msgstr "변이된 곰"
 
 msgctxt "Monster/&MutatedBear_Description"
 msgid ""

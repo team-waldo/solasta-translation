@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2021-12-28 10:28+0000\n"
+"PO-Revision-Date: 2021-12-30 12:34+0000\n"
 "Last-Translator: Sh K. <wjswn244@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
@@ -16570,7 +16570,7 @@ msgctxt "Narration/&TowerOfMagic_8_History_Default"
 msgid ""
 "A tower of magic perhaps, owned by one of the masters of Manacalon's "
 "Arcaneum."
-msgstr "마법의 탑인 것 같아. 마나칼론 아케니움의 마스터 중 한 사람이 그 주인이었겠지."
+msgstr "마탑인 것 같아. 마나칼론 아케니움의 마스터 중 한 사람이 그 주인이었겠지."
 
 msgctxt "Narration/&TowerOfMagic_9_Starter_Default"
 msgid "Who are these people? Scavengers?"
@@ -17598,7 +17598,7 @@ msgstr "확실히 의회에 깊은 인상을 준 것 같아."
 
 msgctxt "Narration/&Council02_3_7_Pragmatic_Default"
 msgid "They believe you're attuned to the Crown… "
-msgstr "너와 왕관이 결속되어서... "
+msgstr "너와 왕관이 조율되어서... "
 
 msgctxt "Narration/&Council02_3_8_Pragmatic_Default"
 msgid "…that you can't be separated from it."
@@ -17949,11 +17949,11 @@ msgstr "고맙소."
 msgctxt "Narration/&Council02_4_5_Danantar_NPC"
 msgid ""
 "I have confirmed that our deputy is indeed magically attuned to the Crown."
-msgstr "나는 우리의 대리인이 확실히 왕관과 마법적으로 결속되어 있음을 확인했소."
+msgstr "나는 우리의 대리인이 확실히 왕관과 마법적으로 조율되어 있음을 확인했소."
 
 msgctxt "Narration/&Council02_4_6_Danantar_NPC"
 msgid "It is… an uncommonly powerful attunement, unlike anything I've seen."
-msgstr "이건... 드물게 강력한 결속이오. 내가 본 어떤 것과도 다르오."
+msgstr "이건... 드물게 강력한 조율이오. 내가 본 어떤 것과도 다르오."
 
 msgctxt "Narration/&Council02_4_7_Danantar_NPC"
 msgid "I strongly recommend against forcing a separation."
@@ -19086,11 +19086,11 @@ msgstr "그건 계속 소락의 시선을 끌어들일 걸세."
 
 msgctxt "Narration/&Council4_18_Danantar_NPC"
 msgid "The attunement, remember?"
-msgstr "결속 때문이죠, 기억합니까?"
+msgstr "조율 때문이죠, 기억합니까?"
 
 msgctxt "Narration/&Council4_19_Faisech_NPC"
 msgid "I'm sorry, senior deputies, but despite the attunement…"
-msgstr "미안한 말이지만, 선임 대리인, 결속이 되어있음에도 불구하고…"
+msgstr "미안한 말이지만, 선임 대리인, 조율이 되어있음에도 불구하고…"
 
 msgctxt "Narration/&Council4_20_Faisech_NPC"
 msgid "…I believe the Crown should be secured…"
@@ -19806,7 +19806,7 @@ msgstr "좋습니다. 다수 의견이 나왔습니다."
 
 msgctxt "Narration/&Council5_41_Sunblaze_NPC"
 msgid "We'll help you with the… attunement issue."
-msgstr "우리는 결속 문제를 도와드리겠습니다."
+msgstr "우리는 조율 문제를 도와드리겠습니다."
 
 msgctxt "Narration/&Council5_42_Faisech_NPC"
 msgid "Wait! Who's going to take the Crown, and where?"
@@ -20075,7 +20075,7 @@ msgstr "... 그 목소리는 아직도 우리를 부르고 있어요."
 
 msgctxt "Narration/&Council5_After_19_BericSunblaze_NPC"
 msgid "Interesting. So the attunement is unaffected by physical separation?"
-msgstr "흥미롭군요. 그럼 그 결속은 물리적 분리에는 영향받지 않는다는 것이군요?"
+msgstr "흥미롭군요. 그럼 그 조율은 물리적 분리에는 영향받지 않는다는 것이군요?"
 
 msgctxt "Narration/&Council5_After_20_Friendly_Any"
 msgid "Keep the Crown safe, Marshal, will you, please?"
@@ -26244,7 +26244,7 @@ msgstr "혹시 잠시 시간을 내 주실 수 있습니까, 대리인님!"
 
 msgctxt "Narration/&Optional_Aristocrat_Start2_Aristocrat_Default"
 msgid "Lady Bright-Spark? How may we help you?"
-msgstr "레이디 브라이트-스파크? 무엇을 도와드리면 되겠습니까?"
+msgstr "레이디 브라이트스파크? 무엇을 도와드리면 되겠습니까?"
 
 msgctxt "Narration/&Optional_Aristocrat_Start3_Mayor_NPC"
 msgid "You could start by not calling me that."
@@ -26284,7 +26284,7 @@ msgstr "오. 알겠군요."
 
 msgctxt "Narration/&Optional_Aristocrat_Start12_Anyother_Default"
 msgid "Family?"
-msgstr "가족이에요?"
+msgstr "가족이야?"
 
 msgctxt "Narration/&Optional_Aristocrat_Start13_Aristocrat_Default"
 msgid "She was… my mentor. A renowned lawyer."
@@ -26336,7 +26336,7 @@ msgstr "알겠습니다. 감사합니다... 레이디."
 
 msgctxt "Narration/&Optional_Aristocrat_Start25_Mayor_NPC"
 msgid "Tsss…"
-msgstr "우씨…"
+msgstr "씁…"
 
 msgctxt "Narration/&Optional_Aristocrat_Drew11_Aristocrat_Default"
 msgid "Drew! How are you holding up?"
@@ -26364,15 +26364,15 @@ msgstr "내 변호사와 이야기하시죠. 오, 잠깐…"
 
 msgctxt "Narration/&Optional_Aristocrat_Drew17_Violent_Default"
 msgid "He needs a smack in the mouth."
-msgstr "저 양반 아가리 한대 후려쳐줘야겠는데."
+msgstr "저 양반 아가리 한 대 쳐 줘야겠는데."
 
 msgctxt "Narration/&Optional_Aristocrat_Drew18_Aristocrat_Default"
 msgid "He's… grieving."
-msgstr "그는... 비통해하고있어."
+msgstr "그는... 비통해하고 있잖아."
 
 msgctxt "Narration/&Optional_Aristocrat_Drew19_Violent_Default"
 msgid "I'll give him something to grieve over."
-msgstr "난 그에게 슬픔을 극복할만한 무언가를 줄거야."
+msgstr "슬픔을 훌훌 털어내라는 뜻이라고."
 
 msgctxt "Narration/&Optional_Aristocrat_Lyria11_Aristocrat_Default"
 msgid "Lyria, I'm so very sorry for your loss."
@@ -26444,11 +26444,11 @@ msgstr "그럼 당신은 그 유산으로 뭘 하실겁니까?"
 
 msgctxt "Narration/&Optional_Aristocrat_Adria112_Adria_NPC"
 msgid "Me? Share it with the two other sharks, just to stay alive."
-msgstr "저요? 저는 그냥 다른 두마리의 상어와 그 유산을 나눌 거에요. 그게 안전하겠죠."
+msgstr "저요? 저는 그냥 다른 두마리의 상어와 그 유산을 나눌 거에요. 살아남기 위해서요."
 
 msgctxt "Narration/&Optional_Aristocrat_Adria113_Aristocrat_Default"
 msgid "Fair enough."
-msgstr "알만 합니다."
+msgstr "알 만합니다."
 
 msgctxt "Narration/&Optional_Aristocrat_Attack1_Anyother_Default"
 msgid "They're not bandits."
@@ -26456,11 +26456,11 @@ msgstr "그들은 강도가 아니야."
 
 msgctxt "Narration/&Optional_Aristocrat_Attack2_Aristocrat_Default"
 msgid "No. More like hired assassins."
-msgstr "아니지. 고용된 암살자에 가까워."
+msgstr "그래. 좀 정확히는 고용된 암살자."
 
 msgctxt "Narration/&Optional_Aristocrat_Attack3_Anyother_Default"
 msgid "You know what this means."
-msgstr "너도 그게 무슨 뜻인지는 알고 있겠지."
+msgstr "너도 이게 무슨 뜻인지는 알고 있겠지."
 
 msgctxt "Narration/&Optional_Aristocrat_Attack4_Aristocrat_Default"
 msgid "Stay alert. The notary's mansion might not be safe either."
@@ -26769,7 +26769,7 @@ msgstr "저기 누가 살고 있지?"
 
 msgctxt "Narration/&NecromancyQuest01_28_Fighter_CHOICE"
 msgid "How strong is the garrison?"
-msgstr "주둔군의 규모는 어느 정도지?"
+msgstr "방어는 어느 정도 수준이지?"
 
 msgctxt "Narration/&NecromancyQuest01_29_Authority_CHOICE"
 msgid "Who is its ruler?"
@@ -26781,7 +26781,7 @@ msgstr "저기에 누가 살고 있지? 말해줄 수 있는 게 있소?"
 
 msgctxt "Narration/&NecromancyQuest01_31_Talbut_NPC"
 msgid "I deal with the guard captain. Name's Adam the Twelfth. Undead now."
-msgstr "경비 대장은 내가 처리하지. 이름은 아담 12세. 지금은 언데드야."
+msgstr "난 경비대장과 거래하는 사이야. 이름은 아담 12세. 지금은 언데드야."
 
 msgctxt "Narration/&NecromancyQuest01_32_Talbut_NPC"
 msgid "He lets us hunt here and we tell him who comes and goes."
@@ -26810,7 +26810,7 @@ msgstr "주둔군은 어떻소? 강한가? 약한가? 몬스터요?"
 msgctxt "Narration/&NecromancyQuest01_38_Talbut_NPC"
 msgid ""
 "The captain's a wraith, or something similar. The guard's mostly skeletons."
-msgstr "대장의 망령이나 그 비슷한 것이오. 대부분의 경비는 스켈레톤들이지."
+msgstr "대장은 망령 비스무리해. 대부분의 경비는 스켈레톤들이지."
 
 msgctxt "Narration/&NecromancyQuest01_39_Fighter_Default"
 msgid "Mostly?"
@@ -27002,7 +27002,7 @@ msgstr "하지만 나는 펜 같은 물리적인 것들을 만질 수 없었고.
 
 msgctxt "Narration/&NecromancySubQuest101_13_Joker_Normal"
 msgid "Now, that's what I call work ethic."
-msgstr "이게 진짜 직업윤리지."
+msgstr "이게 진짜 직업 의식이지."
 
 msgctxt "Narration/&NecromancySubQuest101_14_NPC_Angbi"
 msgid "And since my spirit is bound to my mortal remains…"
@@ -27437,7 +27437,7 @@ msgstr "그럼, 우리가 마스터 마르드라흐트에게 갔다고 가정해
 
 msgctxt "Narration/&NecromancyQuest04_47_Starter_Normal"
 msgid "…what's the best way to approach him? "
-msgstr "... 접근할 수 있는 가장 좋은 방법은 뭐지? "
+msgstr "... 가까워질 수 있는 가장 좋은 방법은 뭐지? "
 
 msgctxt "Narration/&NecromancyQuest04_48_Lizzaria_NPC"
 msgid "Hard to say."
@@ -27910,7 +27910,7 @@ msgstr "뭐 어디로 간다고? 한 쪽은 화장실이고, 다른 쪽은 정�
 
 msgctxt "Narration/&Necromancy_Observable_06_StormDrain3_Any_Default"
 msgid "Suppose we get down there and it's just six-inch pipes?"
-msgstr "우리가 이리로 내려갔는데 이게 그냥 6인치 파이프였다고 가정해볼까?"
+msgstr "우리가 이리로 내려갔는데 이게 그냥 한 뼘짜리 폭의 관이면 어쩌고?"
 
 msgctxt "Narration/&Necromancy_Observable_06_StormDrain4_Any_Default"
 msgid "Then we'll look for another way in. But let's try it first!"
@@ -28171,7 +28171,7 @@ msgstr "저건 좀 수상하네."
 
 msgctxt "Narration/&Necromancy_Observable_15_WeirdSigil2_Any_Default"
 msgid "It's similar to some magical wards I've seen, but…"
-msgstr "내가 봤던 마법 와드들과 비슷하지만…"
+msgstr "내가 봤던 마법 방어술과 비슷한데…"
 
 msgctxt "Narration/&Necromancy_Observable_15_WeirdSigil3_Any_Default"
 msgid "Don't touch it! Don't go near it! Don't even look at it!"
@@ -34702,7 +34702,7 @@ msgstr "균열은 거대한 폭발과 함께 닫혔습니다."
 
 msgctxt "Narration/&InTemple_Added_23_Beric_AkilWingate_NPC"
 msgid "Our kings and heroes, Manacalon's masters of magic, were all wiped out."
-msgstr "우리의 왕도, 영웅도, 마나칼론의 대마법사들도, 모조리 사라졌죠."
+msgstr "우리의 왕도, 영웅도, 마나칼론의 마법의 마스터도, 모조리 사라졌죠."
 
 msgctxt "Narration/&InTemple_Added_24_Beric_AkilWingate_NPC"
 msgid ""
