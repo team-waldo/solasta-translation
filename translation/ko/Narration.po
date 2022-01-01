@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2021-12-31 11:11+0000\n"
-"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
+"PO-Revision-Date: 2022-01-01 01:47+0000\n"
+"Last-Translator: Nickel <psb3421@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
 "Language: ko\n"
@@ -20,7 +20,7 @@ msgstr "마을사람"
 
 msgctxt "Narration/&CS_Title_ThePeople02"
 msgid "The Butcher"
-msgstr "푸주한"
+msgstr "도축업자"
 
 msgctxt "Narration/&CS_Title_Orenetis_01"
 msgid "The City Gates"
@@ -676,7 +676,7 @@ msgstr "이미 끝냈어요."
 
 msgctxt "Narration/&New_Player_Banters67_QuestAlreadyDone_Slang"
 msgid "Already done."
-msgstr "진작 끝났죠."
+msgstr "진작 끝났지."
 
 msgctxt "Narration/&New_Player_Banters68_QuestAlreadyDone_Formal"
 msgid "We have already done that."
@@ -692,11 +692,11 @@ msgstr "그를 알아요."
 
 msgctxt "Narration/&New_Player_Banters71_KnowThatPerson_Slang"
 msgid "We met her already."
-msgstr "그녀와 진작에 만났어요."
+msgstr "그녀와 진작에 만났지."
 
 msgctxt "Narration/&New_Player_Banters72_KnowThatPerson_Slang"
 msgid "We met him already."
-msgstr "그와 진작에 만났어요."
+msgstr "그와 진작에 만났지."
 
 msgctxt "Narration/&New_Player_Banters73_KnowThatPerson_Formal"
 msgid "We are acquainted with her."
@@ -736,7 +736,7 @@ msgstr "이런 일이 자주 있나요?"
 
 msgctxt "Narration/&DLC1_Marches_CS01_2_Starter_Default"
 msgid "Wounded strangers setting up camp near the caravan?"
-msgstr "부상당한 낯선 이들이 상단 근처에 야영지를 까는 게?"
+msgstr "부상 입은 수상한 자들이 상단 근처에 야영지를 차리는 일이?"
 
 msgctxt "Narration/&DLC1_Marches_CS01_3_Galar_NPC"
 msgid "Oh, yes. These sites are well known to all who travel in the Marches."
@@ -768,11 +768,11 @@ msgstr "그 숙녀분이 뭘 좀 알지 않을까 싶네요."
 
 msgctxt "Narration/&DLC1_Marches_CS01_10_Reactor_Default"
 msgid "Why don't you do it?"
-msgstr "왜 당신이 안 하고?"
+msgstr "왜 직접 안 나서죠?"
 
 msgctxt "Narration/&DLC1_Marches_CS01_11_Reactor_Default"
 msgid "Okay, you're the boss."
-msgstr "좋아, 당신이 대장이니까."
+msgstr "좋아요, 당신이 대장이니까."
 
 msgctxt "Narration/&DLC1_Marches_CS01_12_Galar_NPC"
 msgid "It's a strategy."
@@ -784,11 +784,11 @@ msgstr "보면 알게 될 겁니다."
 
 msgctxt "Narration/&DLC1_Marches_CS01_14_Partner_Default"
 msgid "Fine."
-msgstr "좋아."
+msgstr "좋습니다."
 
 msgctxt "Narration/&DLC1_Marches_CS01_15_Galar_NPC"
 msgid "The man here is Lord Hammond, also from the capital."
-msgstr "이쪽은 해몬드 공으로, 마찬가지로 수도에서 왔소."
+msgstr "이쪽은 해몬드 공으로, 마찬가지로 수도에서 왔지요."
 
 msgctxt "Narration/&DLC1_Marches_CS01_16_Galar_NPC"
 msgid "I spoke with the half-elf briefly. Her name is Leyrin Catpaw."
@@ -880,7 +880,7 @@ msgstr "마린 빙이란 남자야. 죽었다고 알려졌는데."
 
 msgctxt "Narration/&DLC1_Marches_CS02_NPC2_FirstVisit_21_HeliaFairblade_NPC"
 msgid "But recently, Coparann opened a diplomatic channel with Caer Cyflen."
-msgstr "하지만 최근에, 코파란은 케어 키플렌과 외교적 창구를 개방했어."
+msgstr "하지만 최근에, 코파란은 케어 키플렌과 외교 창구를 개방했어."
 
 msgctxt "Narration/&DLC1_Marches_CS02_NPC2_FirstVisit_22_HeliaFairblade_NPC"
 msgid ""
@@ -890,7 +890,7 @@ msgstr "빙이 최근 여기에서, 골든텅한테서 식료품을 샀다는 �
 
 msgctxt "Narration/&DLC1_Marches_CS02_NPC2_FirstVisit_23_Starter_Default"
 msgid "Who is he?"
-msgstr "뭐 하는 작자인데?"
+msgstr "뭐 하는 사람인데요?"
 
 msgctxt "Narration/&DLC1_Marches_CS02_NPC2_FirstVisit_24_HeliaFairblade_NPC"
 msgid "I'm not at liberty to say more. My apologies."
@@ -898,15 +898,15 @@ msgstr "그 이상은 말할 권한이 없어, 양해해 줘."
 
 msgctxt "Narration/&DLC1_Marches_CS02_NPC2_FirstVisit_25_NOAUDIO_ChoiceA"
 msgid "Understood."
-msgstr "이해해."
+msgstr "알겠어요."
 
 msgctxt "Narration/&DLC1_Marches_CS02_NPC2_FirstVisit_26_NOAUDIO_ChoiceB_Spy"
 msgid "He's in trouble."
-msgstr "문제에 처한 거군."
+msgstr "곤경에 빠졌나 보군요."
 
 msgctxt "Narration/&DLC1_Marches_CS02_NPC2_FirstVisit_27_Spy_Default"
 msgid "This search party isn't looking for a friend to save, right?"
-msgstr "이 수색대의 목적은 친구의 구출 같은 게 아닌 거지?"
+msgstr "이 수색대 목적은 친구 구출 같은 게 아닌 거죠?"
 
 msgctxt "Narration/&DLC1_Marches_CS02_NPC2_FirstVisit_28_HeliaFairblade_NPC"
 msgid "He carried…documents, that the Council values."
@@ -914,7 +914,7 @@ msgstr "그 남자는… 평의회의 자산인, 어떤 서류들을 갖고 있�
 
 msgctxt "Narration/&DLC1_Marches_CS02_NPC2_FirstVisit_29_Spy_Default"
 msgid "What if we were to find them?"
-msgstr "찾으면 어떻게 되는데?"
+msgstr "찾으면 어떻게 됩니까?"
 
 msgctxt "Narration/&DLC1_Marches_CS02_NPC2_FirstVisit_30_HeliaFairblade_NPC"
 msgid "Then you'd be rewarded."
@@ -922,12 +922,12 @@ msgstr "그럼 보상이 있겠지."
 
 msgctxt "Narration/&DLC1_Marches_CS02_NPC2_FirstVisit_31_Starter_Default"
 msgid "Who's the man you're looking for?"
-msgstr "누굴 찾는 건데?"
+msgstr "누굴 찾는 겁니까?"
 
 msgctxt "Narration/&DLC1_Marches_CS02_NPC2_FirstVisit_32_Starter_Default"
 msgid ""
 "No but you might miss one or two things that are going to make a difference."
-msgstr "그건 아니지만 결과에 영향을 줄 요인 한두 개를 깜빡할 수도 있으니까."
+msgstr "그건 아니지만 결과에 영향을 줄 요인 한두 개를 깜빡할 수도 있는 거죠."
 
 msgctxt "Narration/&DLC1_Marches_CS02_Mercenary0_Mercenary_NPC"
 msgid "Hi there. Name's Krim Sunsail."
@@ -971,7 +971,7 @@ msgstr "그건 모르지."
 
 msgctxt "Narration/&DLC1_Marches_CS02_Mercenary10_NOAUDIO_ChoiceA_Lowlife"
 msgid "You know something."
-msgstr "뭔가 아는 거잖아요."
+msgstr "뭔가 아는군."
 
 msgctxt "Narration/&DLC1_Marches_CS02_Mercenary11_Lowlife_Default"
 msgid "There's more about him."
@@ -1007,11 +1007,11 @@ msgstr "우리 동업하지."
 
 msgctxt "Narration/&DLC1_Marches_CS02_Mercenary19_Sellsword_Default"
 msgid "We should team up."
-msgstr "같이 일해야 돼."
+msgstr "같이 재미 좀 보지."
 
 msgctxt "Narration/&DLC1_Marches_CS02_Mercenary20_Mercenary_NPC"
 msgid "Maybe tomorrow. Right now, I've got wounds to tend to."
-msgstr "내일쯤 보지, 지금은 상처를 봐야 돼서."
+msgstr "내일쯤 보자고, 지금은 상처를 봐야 돼서."
 
 msgctxt "Narration/&DLC1_Marches_CS02_Mercenary21_NOAUDIO_ChoiceC"
 msgid "Need some equipment?"
@@ -3428,7 +3428,7 @@ msgstr "맑은 하늘, 친구!"
 
 msgctxt "Narration/&DLC1_Forge_01_64_Any_Slang"
 msgid "Can't complain!"
-msgstr "불평하지 마!"
+msgstr "징징대지 마!"
 
 msgctxt "Narration/&DLC1_Forge_01_65_Telerien_NPC"
 msgid "I still have this small errand, if you're interested! "
@@ -21644,7 +21644,7 @@ msgstr "공주님께서 마지스터를 안다고 생각하는 것 말입니까?
 
 msgctxt "Narration/&ReturnToCC_Teleporter54_Lowlife_Default"
 msgid "That's more than enough, Princess. We'll do your dirty work."
-msgstr "그정도면 필요 이상입니다, 공주님. 손을 더럽히는 건 저희가 하겠습니다."
+msgstr "그정도면 필요 이상입니다, 공주님. 손을 더럽히는 건 저희가 합죠."
 
 msgctxt "Narration/&ReturnToCC_Teleporter55_Lawkeeper_Default"
 msgid "We will prevail or die, your royal highness."
@@ -25278,7 +25278,7 @@ msgstr "당신도요!"
 
 msgctxt "Narration/&Optional_Lowlife_Quest_Start1_Merton_NPC"
 msgid "Hey! Interested in a little side-job?"
-msgstr "이봐! 작은 부업에 관심있나?"
+msgstr "이봐! 작은 부업에 관심 있나?"
 
 msgctxt "Narration/&Optional_Lowlife_Quest_Start2_Player_Default"
 msgid "What kind of side-job?"
@@ -28667,7 +28667,7 @@ msgstr "맑은 하늘이 함께하시길, 친구여! 무슨 일입니까? "
 
 msgctxt "Narration/&AbjurationQuest_Caravan_3Galar_NPC"
 msgid "Those… fellows joined my caravan at Coparann…"
-msgstr "저 친구들이... 코파란에서 제 캐러밴에 합류했습니다…"
+msgstr "저 친구들이... 코파란에서 제 상단에 합류했습니다…"
 
 msgctxt "Narration/&AbjurationQuest_Caravan_4Galar_NPC"
 msgid "…a couple of hours ago, this man stumbled on our path, almost dead…"
@@ -28891,7 +28891,7 @@ msgstr "마나칼론 유적 근방에 작은 야영지에서 있었던 일이죠
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_29_SpyOrElse_Default"
 msgid "He was found almost dead by the caravan people."
-msgstr "행상인들이 거의 죽어가는 그를 발견했습니다."
+msgstr "상단 사람들이 죽어가는 그를 발견했습니다."
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_30_SpyOrElse_Default"
 msgid "They tried to heal him and then…"
@@ -29004,7 +29004,7 @@ msgstr "맑은 하늘이 함께하시길, 촌장님!"
 
 msgctxt "Narration/&AbjurationQuest_Ceannard01_3_Any_Default"
 msgid "Well, it all began when we came upon this caravan…"
-msgstr "어떤 캐러밴을 만나면서 시작되었습니다…"
+msgstr "어떤 상단을 만나면서 시작되었습니다…"
 
 msgctxt "Narration/&AbjurationQuest_Ceannard01_4_Ceannard_NPC"
 msgid "Go on."
@@ -29558,7 +29558,7 @@ msgstr "...돌아와서 내용을 비교해볼 수 있을 겁니다. "
 msgctxt "Narration/&AbjurationQuest_Nikannen_32_SergeantNikannen_NPC"
 msgid ""
 "And if I were you, I wouldn't mention Roald, the caravan, or anything else…"
-msgstr "그리고 제가 당신들이라면 로알드나 캐러밴이나, 다른 건 언급하지 않을 겁니다…"
+msgstr "그리고 제가 당신들이라면 로알드니, 상단이니, 뭐가 됐던 언급하지 않을 겁니다…"
 
 msgctxt "Narration/&AbjurationQuest_Nikannen_33_DiplomatOrSpyOrElse_Slang"
 msgid ""
