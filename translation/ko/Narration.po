@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2022-01-01 01:47+0000\n"
-"Last-Translator: Nickel <psb3421@naver.com>\n"
+"PO-Revision-Date: 2022-01-02 02:31+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
 "Language: ko\n"
@@ -15233,7 +15233,7 @@ msgstr "바보 같이 굴지 마세요, 이건 소락 때문에 벌어진 일입
 
 msgctxt "Narration/&CaerLem_RobarKilled7_Einar_Default"
 msgid "…and many others will fall if we don't report to the Council."
-msgstr "...그리고 우리가 위원회에 보고하지 않는 다면 더 많은 사람들이 쓰러지게 될 겁니다."
+msgstr "...그리고 우리가 위원회에 보고하지 않으면 더 많은 사람들이 죽게 될 겁니다."
 
 msgctxt "Narration/&CaerLem_RobarKilled8_Jugdmental_Default"
 msgid "Don't you think it's time to stop bickering?"
@@ -24574,7 +24574,7 @@ msgctxt ""
 msgid ""
 "A seemingly innocent remark, but it led the Ceannard's spymaster to suspect "
 "your parents."
-msgstr "겉보기에는 순진한 말이었겠지만, 그 말을 듣고 촌장님의 첩보 대장은 당신 부모님을 의심하게 되었죠."
+msgstr "겉보기에는 순진한 말이었겠지만, 그 말을 듣고 감독관님의 첩보 대장은 당신 부모님을 의심하게 되었죠."
 
 msgctxt "Narration/&Optional_Sellsword_Quest_CoparannInn_37_Sellsword_Sellsword"
 msgid "How is it possible that I don't remember any of it?"
@@ -24585,7 +24585,7 @@ msgctxt ""
 "&Optional_Sellsword_Quest_CoparannInn_38_MildredWarmhearth_MildredWarmhearth"
 msgid ""
 "The Ceannard took pity on you and made you drink an elixir of forgetfulness."
-msgstr "촌장님은 당신을 불쌍히 여기고는 망각의 물약을 지어 당신에게 마시게 했습니다."
+msgstr "감독관님은 당신을 불쌍히 여기고는 망각의 물약을 지어 당신에게 마시게 했습니다."
 
 msgctxt "Narration/&Optional_Sellsword_Quest_CoparannInn_39_Sellsword_Sellsword"
 msgid "Very potent, clearly. I don't remember shit from my childhood."
@@ -24595,7 +24595,7 @@ msgctxt ""
 "Narration/"
 "&Optional_Sellsword_Quest_CoparannInn_40_MildredWarmhearth_MildredWarmhearth"
 msgid "Yes. The Ceannard miscalculated the dose."
-msgstr "그래요. 촌장님이 복용량을 잘못 계산한 거죠."
+msgstr "그래요. 감독관님이 복용량을 잘못 계산한 거죠."
 
 msgctxt ""
 "Narration/"
@@ -24752,7 +24752,7 @@ msgstr "놀랍다구요? "
 
 msgctxt "Narration/&Optional_Sellsword_Quest_BackToInn_5_MildredWarmhearth_NPC"
 msgid "Well, why hide it? They could have shown it to the Ceannard!"
-msgstr "글쎄요, 왜 이걸 숨기죠? 그들은 이걸 촌장에게 보여줄 수도 있었는데요!"
+msgstr "글쎄요, 왜 이걸 숨기죠? 그들은 이걸 감독관에게 보여줄 수도 있었는데요!"
 
 msgctxt "Narration/&Optional_Sellsword_Quest_BackToInn_6_Sellsword_Normal"
 msgid "Anyway, this was written by the real spy."
@@ -24798,7 +24798,7 @@ msgstr "당신도 알잖습니까... 행정 처리 절차라는게 있습니다.
 
 msgctxt "Narration/&Optional_Sellsword_Quest_BackToInn_16_MildredWarmhearth_NPC"
 msgid "The Ceannard, he swears by the rule of law! "
-msgstr "촌장님은 법에 의해 다스릴것을 맹세했어요! "
+msgstr "감독관님은 법에 의해 다스릴 것을 맹세했어요! "
 
 msgctxt "Narration/&Optional_Sellsword_Quest_BackToInn_17_MildredWarmhearth_NPC"
 msgid "Every trial is recorded. It's all in the archives!"
@@ -24847,7 +24847,7 @@ msgstr "아, 올 줄 알고 있었네."
 
 msgctxt "Narration/&Background_Sellsword_End_2_Sellsword_Default"
 msgid "Ceannard. "
-msgstr "촌장님. "
+msgstr "감독관님. "
 
 msgctxt "Narration/&Background_Sellsword_End_3_Ceannard_NPC"
 msgid "You know the truth. I hope you can forgive me."
@@ -28919,7 +28919,7 @@ msgstr "로알드가 남긴 말 없었소? "
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_37_SgtNikannen_NPC"
 msgid "Dire news. Listen - go and speak to the Ceannard. Tell him everything…"
-msgstr "끔찍한 소식이로군. 그럼 이제, 가서 촌장과 이야기 하시오. 그에게 전부 알려주시오…"
+msgstr "끔찍한 소식이로군. 그럼 이제, 가서 감독관과 이야기 하시오. 그에게 전부 알려주시오…"
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_38_SgtNikannen_NPC"
 msgid "…but leave Gromnir out of it for now."
@@ -28927,11 +28927,11 @@ msgstr "... 하지만 지금은 일단 그롬니르에게는 알리지 맙시다
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_38_AcademicOrElse_WRITTEN"
 msgid "The Ceannard?"
-msgstr "촌장이요?"
+msgstr "감독관에게?"
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_39_AcademicOrElse_Spoken"
 msgid "The Ceannard?"
-msgstr "촌장이요?"
+msgstr "그 감독관에게요?"
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_39_AristocratOrElse_WRITTEN"
 msgid "Not the Baron?"
@@ -28943,11 +28943,11 @@ msgstr "남작은 왜 안 되고요?"
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_41_SgtNikannen_NPC"
 msgid "The Ceannard is the ruler of the Vale of Coparann."
-msgstr "촌장은 코파란 계곡의 지배자요."
+msgstr "감독관은 코파란 계곡의 지배자요."
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_42_SgtNikannen_NPC"
 msgid "Talk to the Ceannard first and then…"
-msgstr "먼저 촌장에게 말하고 나서…"
+msgstr "먼저 감독관에게 말하고 나서…"
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_43_SgtNikannen_NPC"
 msgid "…perhaps we can discuss some more!"
@@ -28955,7 +28955,7 @@ msgstr "... 의논을 좀 더 할 수 있을 거요!"
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_44_AcademicOrElse_Default"
 msgid "And where is the Ceannard? "
-msgstr "촌장은 어디 있는데요? "
+msgstr "감독관은 어디 있는데요? "
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_45_Kythaela_NPC"
 msgid "But we need to talk to the Baron!"
@@ -28967,7 +28967,7 @@ msgstr "이 시간에는 마을 회관에서 찾을 수 있을거요."
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_47_SgtNikannen_NPC"
 msgid "Give him this note from me and tell him exactly what happened."
-msgstr "이 쪽지를 전해주고 정확히 무슨 일이 일어났는지 촌장에게 전해주시오."
+msgstr "이 쪽지를 전해주고 정확히 무슨 일이 일어났는지 감독관에게 전해주시오."
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_48_SgtNikannen_NPC"
 msgid "You won't talk to him without my leave…"
@@ -28975,7 +28975,7 @@ msgstr "내 허가 없이는 그와 이야기할 수 없을 터…"
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_49_SgtNikannen_NPC"
 msgid "Talk to the Ceannard first and then…"
-msgstr "먼저 촌장에게 말하고 나서…"
+msgstr "먼저 감독관에게 말하고 나서…"
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_50_SgtNikannen_NPC"
 msgid "Here - my signature on the letter from Galar…"
@@ -28987,7 +28987,7 @@ msgstr "잡화점에 있는 웜하스에게 전하시오."
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_52_SgtNikannen_NPC"
 msgid "And here's a note for the Ceannard!"
-msgstr "그리고 여기 촌장에게 보내는 쪽지도!"
+msgstr "그리고 여기 감독관에게 보내는 쪽지도!"
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_53_Any_Default"
 msgid "Stay in the light!"
@@ -29000,7 +29000,7 @@ msgstr "맑은 하늘이 함께하길! 조리스 니카넨이 당신이 재미�
 
 msgctxt "Narration/&AbjurationQuest_Ceannard01_2_Any_Default"
 msgid "Clear skies to you, my lord!"
-msgstr "맑은 하늘이 함께하시길, 촌장님!"
+msgstr "맑은 하늘이 함께하시길, 감독관님!"
 
 msgctxt "Narration/&AbjurationQuest_Ceannard01_3_Any_Default"
 msgid "Well, it all began when we came upon this caravan…"
@@ -29242,7 +29242,7 @@ msgstr "사람들과 이야기를 나누고 니카넨에게 가게! 빛이 함�
 
 msgctxt "Narration/&AbjurationQuest_Ceannard01_58_Crownbearer_Default"
 msgid "Clear skies to you, Ceannard! "
-msgstr "맑은 하늘이 함께 하시길, 촌장님! "
+msgstr "맑은 하늘이 함께 하시길, 감독관님! "
 
 msgctxt "Narration/&AbjurationQuest_Merchant01_1_Merchant1_NPC"
 msgid "It's rather silly, really. This young man…"
@@ -29328,7 +29328,7 @@ msgstr "빈 통 두 개 가져가고 새로 두 통 받아와요. 그게 지금 
 
 msgctxt "Narration/&AbjurationQuest_Patrons_1_Patron1_NPC"
 msgid "Oh, the Ceannard's hopping mad!"
-msgstr "오, 촌장이 미쳐 날뛰고 있어!"
+msgstr "오, 감독관이 미쳐 날뛰고 있어!"
 
 msgctxt "Narration/&AbjurationQuest_Patrons_2_Patron2_NPC"
 msgid "Why's that?"
@@ -29356,7 +29356,7 @@ msgstr "편지가 왔네요."
 
 msgctxt "Narration/&AbjurationQuest_GeneralStore_3_ChoiceB_WRITTEN"
 msgid "The Ceannard sent us."
-msgstr "촌장이 우릴 보냈습니다."
+msgstr "감독관이 우릴 보냈습니다."
 
 msgctxt "Narration/&AbjurationQuest_GeneralStore_4_ChoiceC_WRITTEN"
 msgid "Let's see your wares."
@@ -29396,7 +29396,7 @@ msgstr "거래하게 되어 기쁩니다! 빛이 함께 하시길! "
 
 msgctxt "Narration/&AbjurationQuest_GeneralStore_12_Any_Normal"
 msgid "The Ceannard sent us to talk to you."
-msgstr "촌장이 얘기하라고 보냈습니다."
+msgstr "감독관이 얘기하라고 보냈습니다."
 
 msgctxt "Narration/&AbjurationQuest_GeneralStore_13_Any_Normal"
 msgid "Anything unusual in recent days?"
@@ -29541,7 +29541,7 @@ msgstr "그래서 계획이 있습니까, 상사? "
 
 msgctxt "Narration/&AbjurationQuest_Nikannen_28_SergeantNikannen_NPC"
 msgid "The Ceannard mentioned your mission. He and I go way back. "
-msgstr "촌장이 당신들의 임무를 언급했죠. 그와 저는 일단 물러날 겁니다. "
+msgstr "감독관이 당신들의 임무를 언급했죠. 그와 저는 일단 물러날 겁니다. "
 
 msgctxt "Narration/&AbjurationQuest_Nikannen_29_SergeantNikannen_NPC"
 msgid "So - go see the baron and tell him your heirloom story."
@@ -29984,7 +29984,7 @@ msgstr "국가 간의 문제는 이만하면 됐네!"
 
 msgctxt "Narration/&AbjurationQuest_BaronSaved_24_Baron_NPC"
 msgid "The Ceannard has the right of it! "
-msgstr "촌장에겐 권리가 있지! "
+msgstr "감독관에겐 그럴 권리가 있지! "
 
 msgctxt "Narration/&AbjurationQuest_BaronSaved_25_Baron_NPC"
 msgid "The only benefit of power is the ability to reward friends!"
@@ -30000,7 +30000,7 @@ msgstr "친절한 말씀 감사합니다! 참 엄청난 보상이군요."
 
 msgctxt "Narration/&AbjurationQuest_BaronSaved_28_DiplomatOrElse_Normal"
 msgid "Hush, you! Ceannard, Lord Stonefist - many thanks for your kind words!"
-msgstr "조용해, 임마! 촌장님, 스톤피스트 남작님. 친절한 말씀에 감사드립니다!"
+msgstr "조용해, 임마! 감독관님, 스톤피스트 남작님. 친절한 말씀에 감사드립니다!"
 
 msgctxt "Narration/&AbjurationQuest_BaronSaved_29_DiplomatOrElse_Normal"
 msgid "And praise be your resilience, so we could rescue you alive!"
@@ -30465,7 +30465,7 @@ msgstr "그래 그렇게 나올 줄 알았네."
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Jail_Aftermath_6_Ceannard_NPC"
 msgid "I am the Ceannard, and you…"
-msgstr "나는 촌장이야. 그리고 자네는…"
+msgstr "나는 감독관이야. 그리고 자네는…"
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_Jail_Aftermath_7_Ceannard_NPC"
 msgid ""
@@ -30619,7 +30619,7 @@ msgstr "끝내주는데!"
 msgctxt ""
 "Narration/&AbjurationQuest_Kythaela_CoparannGateroom_19_Pragmatic_Normal"
 msgid "I'm not sure the Ceannard will want to wait."
-msgstr "촌장이 그때까지 기다려줄지 잘 모르겠어요."
+msgstr "감독관이 그때까지 기다려줄지 잘 모르겠어요."
 
 msgctxt "Narration/&AbjurationQuest_Kythaela_CoparannGateroom_20_Kythaela_NPC"
 msgid "Then I'll give him the name, but you still have to stay with me."
@@ -35935,7 +35935,7 @@ msgstr "그 안 어딘가에 갇혀있을 거야."
 
 msgctxt "Narration/&Background_Quest_Wanderer24_Auroc_NPC"
 msgid "I asked the Ceannard to let you enter the mines."
-msgstr "촌장에게 말해 광산 출입 권한은 얻어놨어."
+msgstr "감독관에게 말해 광산 출입 권한은 얻어놨어."
 
 msgctxt "Narration/&Background_Quest_Wanderer25_Auroc_NPC"
 msgid "And me along with you."
