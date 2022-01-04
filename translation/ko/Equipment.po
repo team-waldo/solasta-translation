@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2022-01-02 02:31+0000\n"
+"PO-Revision-Date: 2022-01-04 03:43+0000\n"
 "Last-Translator: Nickel <psb3421@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/equipment/"
 "ko/>\n"
@@ -3068,7 +3068,7 @@ msgstr "이 마법 무기는 마나칼론 대장장이 명인들의 고대 지�
 
 msgctxt "Equipment/&Enchanted_GreatAxe_of_Sharpness_Title"
 msgid "Greataxe of Sharpness"
-msgstr "날카로움의 그레이트액스"
+msgstr "날카로움의 대형 도끼"
 
 msgctxt "Equipment/&Enchanted_Greataxe_Stormblade_Description"
 msgid ""
@@ -3078,7 +3078,7 @@ msgstr "이 마법 무기는 마나칼론 대장장이 명인들의 고대 지�
 
 msgctxt "Equipment/&Enchanted_Greataxe_Stormblade_Title"
 msgid "Stormblade Greataxe"
-msgstr "폭풍의 그레이트액스"
+msgstr "폭풍의 대형 도끼"
 
 msgctxt "Equipment/&Enchanted_Greatsword_Doom_Title"
 msgid "Doomblade Greatsword"
@@ -3533,7 +3533,7 @@ msgstr "글레이브"
 
 msgctxt "Equipment/&GreataxeTypeTitle"
 msgid "Greataxe"
-msgstr "그레이트액스"
+msgstr "대형 도끼"
 
 msgctxt "Equipment/&GreatclubTypeTitle"
 msgid "Greatclub"
@@ -3998,7 +3998,7 @@ msgstr ""
 
 msgctxt "Equipment/&Ingredient_Primed_GreatAxe_Title"
 msgid "Primed Greataxe"
-msgstr "준비된 그레이트액스"
+msgstr "준비된 대형 도끼"
 
 msgctxt "Equipment/&Ingredient_Primed_Greatsword_Description"
 msgid ""
@@ -4584,7 +4584,7 @@ msgstr "오크 화살"
 
 msgctxt "Equipment/&OrcGreataxeTypeTitle"
 msgid "Orc Greataxe"
-msgstr "오크 그레이트액스"
+msgstr "오크 대형 도끼"
 
 msgctxt "Equipment/&OrcJavelinTitle"
 msgid "Orc Javelin"
@@ -8465,7 +8465,7 @@ msgstr "장식되고 조각이 새겨진 자루에 우수한 품질의 칼날이
 
 msgctxt "Equipment/&Greataxe_plus_1_Title"
 msgid "Superb Greataxe"
-msgstr "뛰어난 그레이트액스"
+msgstr "뛰어난 대형 도끼"
 
 msgctxt "Equipment/&Greataxe_plus_1_Description"
 msgid "TBC"
@@ -8473,11 +8473,11 @@ msgstr "알 수 없음"
 
 msgctxt "Equipment/&Greataxe_plus_1_unidentified_Title"
 msgid "Greataxe +1"
-msgstr "그레이트액스 +1"
+msgstr "대형 도끼 +1"
 
 msgctxt "Equipment/&Greataxe_plus_1_unidentified_Description"
 msgid "A finely decorated greataxe with runic engravings."
-msgstr "룬이 새겨지고 정교하게 장식된 그레이트액스입니다."
+msgstr "룬이 새겨지고 정교하게 장식된 대형 도끼입니다."
 
 msgctxt "Equipment/&Maul_Title"
 msgid "Maul"
@@ -8869,7 +8869,7 @@ msgstr ""
 
 msgctxt "Equipment/&Tirmarian_GreataxeTypeTitle"
 msgid "Sandraven Holy Axe"
-msgstr "산드레이븐 성도끼"
+msgstr "산드레이븐 신성한 도끼"
 
 msgctxt "Equipment/&BoltStuff_Title"
 msgid "Projectile Parts"
@@ -10667,7 +10667,7 @@ msgstr "이 무기는 일반적으로 황금 기병대의 베테랑들이 최전
 
 msgctxt "Equipment/&Greataxe_plus_01_Title"
 msgid "Greataxe +1"
-msgstr "그레이트액스 +1"
+msgstr "대형 도끼 +1"
 
 msgctxt "Equipment/&Greataxe_plus_01_Description"
 msgid ""
@@ -10677,15 +10677,15 @@ msgstr "설산 동맹의 대장장이가 만든 것으로 추정되는 전형적
 
 msgctxt "Equipment/&Greataxe_plus_01_unidentified_Title"
 msgid "Superb Greataxe"
-msgstr "뛰어난 그레이트액스"
+msgstr "뛰어난 대형 도끼"
 
 msgctxt "Equipment/&Greataxe_plus_01_unidentified_Description"
 msgid "A finely decorated greataxe with runic engravings."
-msgstr "룬이 새겨지고 정교하게 장식된 그레이트액스입니다."
+msgstr "룬이 새겨지고 정교하게 장식된 대형 도끼입니다."
 
 msgctxt "Equipment/&Greataxe_plus_2_Title"
 msgid "Greataxe +2"
-msgstr "그레이트액스 +2"
+msgstr "대형 도끼 +2"
 
 msgctxt "Equipment/&BattleAxe_plus_2_Title"
 msgid ""
@@ -10758,7 +10758,7 @@ msgstr "이 아이템은 특정 주문들을 위한 구성요소로 사용할 �
 
 msgctxt "Equipment/&ItemFlag_Flash_Description"
 msgid "Deals 1d6 radiant damage."
-msgstr "1d6의 빛 피해를 줍니다."
+msgstr "1d6의 광휘 피해를 줍니다."
 
 msgctxt "Equipment/&ItemFlag_Corrosive_Description"
 msgid "Deals 1d6 acid damage."

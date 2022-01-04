@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2022-01-03 03:08+0000\n"
+"PO-Revision-Date: 2022-01-04 03:43+0000\n"
 "Last-Translator: Nickel <psb3421@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
@@ -17920,7 +17920,7 @@ msgstr "... 의회에 있는 많은 사람들이 걱정하겠군."
 
 msgctxt "Narration/&Danantar_Dialog_01_21_Lawful_Default"
 msgid "Neutrality means we don't treat you any differently than we treat them."
-msgstr "중립이라는 건 당신들이던 그쪽이던 모두 똑같이 대하는 걸 의미하는 거야."
+msgstr "중립이라는 건 당신들이든 그쪽이든 모두 똑같이 대하는 걸 의미하는 거야."
 
 msgctxt "Narration/&Danantar_Dialog_01_22_JorielFoxeye_NPC"
 msgid "Of course. Neutrality is the rule."
@@ -34240,7 +34240,7 @@ msgstr "케브라, 나크와 친구?"
 
 msgctxt "Narration/&TextOnlyNPCSpeech_BladeFang_Radulf_01"
 msgid "Bring back the greataxe and I will consider an alliance."
-msgstr "그레이트액스를 가져오면 동맹을 고려해보겠다."
+msgstr "대형 도끼를 가져오면 동맹을 고려해보겠다."
 
 msgctxt "Narration/&TextOnlyNPCSpeech_BladeFang_Radulf_02"
 msgid "This sigil will unlock the door to my challenge."
@@ -34248,7 +34248,7 @@ msgstr "이 인장이 도전으로 향하는 문을 열어줄 것이다."
 
 msgctxt "Narration/&TextOnlyNPCSpeech_BladeFang_Radulf_03"
 msgid "No greataxe means we are not joining you."
-msgstr "그레이트액스 없으면 우리 부족 도움 없다."
+msgstr "대형 도끼 없으면 우리 부족 도움 없다."
 
 msgctxt "Narration/&Tavern_02_41_Player_Default"
 msgid "Go easy on him. He's just a harmless, old drunk."
@@ -34686,7 +34686,7 @@ msgstr "그들은 인간들이 도망칠 수 있도록 균열을 열었습니다
 
 msgctxt "Narration/&InTemple_Added_19_Beric_AkilWingate_NPC"
 msgid "Many of them didn't make it. It was a tragedy."
-msgstr "그들 중 상당수는 제 때 도망치지 못했습니다. 끔찍한 일이었지요."
+msgstr "그들 중 상당수는 제때 도망치지 못했습니다. 끔찍한 일이었지요."
 
 msgctxt "Narration/&InTemple_Added_20_Beric_AkilWingate_NPC"
 msgid "At the site of the rift, thousands of Soraks tried to cross."
