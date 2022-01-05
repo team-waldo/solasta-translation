@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2022-01-04 03:43+0000\n"
-"Last-Translator: Nickel <psb3421@naver.com>\n"
+"PO-Revision-Date: 2022-01-05 13:11+0000\n"
+"Last-Translator: 박준하 <rarkar@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
 "Language: ko\n"
@@ -27910,11 +27910,11 @@ msgstr "뭐 어디로 간다고? 한 쪽은 화장실이고, 다른 쪽은 정�
 
 msgctxt "Narration/&Necromancy_Observable_06_StormDrain3_Any_Default"
 msgid "Suppose we get down there and it's just six-inch pipes?"
-msgstr "우리가 이리로 내려갔는데 이게 그냥 한 뼘짜리 폭의 관이면 어쩌고?"
+msgstr "여기로 내려갔더니 한 칸짜리 배관이면 어쩌게?"
 
 msgctxt "Narration/&Necromancy_Observable_06_StormDrain4_Any_Default"
 msgid "Then we'll look for another way in. But let's try it first!"
-msgstr "그럼 그 때 다른 방법을 찾으면 되겠지. 일단 해보자고!"
+msgstr "그럼 그 때 가서 방법을 찾으면 되겠지. 일단 해보자고!"
 
 msgctxt "Narration/&Necromancy_Observable_07_StormDrainInside1_Any_Default"
 msgid "That doesn't look right."
@@ -28054,7 +28054,7 @@ msgstr "우린 이걸 의회에 가져가야 해."
 
 msgctxt "Narration/&Necromancy_Observable_10_QuestEnd7_Any_Default"
 msgid "Can't blame me for trying."
-msgstr "한번쯤 해볼만한 말이었다구."
+msgstr "한번쯤 해볼 만한 말이었다구."
 
 msgctxt "Narration/&Necromancy_Observable_11_EnterSolar1_Any_Default"
 msgid "Ugh. Teleporting feels weird."
