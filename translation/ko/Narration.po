@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2022-01-08 11:45+0000\n"
-"Last-Translator: 이름뭘로하지 <sqom3iii@naver.com>\n"
+"PO-Revision-Date: 2022-01-09 06:44+0000\n"
+"Last-Translator: E잡불어 <rarkar@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
 "Language: ko\n"
@@ -12073,7 +12073,7 @@ msgstr "아저씨 말이 맞아. 운이 좋은 건 언제나 좋지."
 
 msgctxt "Narration/&Tavern_02_19_Merton_Default"
 msgid "The Badlands are thick with 'em. Shapeshifting bastards!"
-msgstr "황무지는 그 망할 놈들로 가득 차 있어. 변신하는 새끼들!"
+msgstr "황무지는 그 망할 놈들로 가득차 있어. 변신하는 새끼들!"
 
 msgctxt "Narration/&Tavern_02_20_Stealth_Normal"
 msgid "Never mind him. He's just another drunk Scavenger."
@@ -13599,7 +13599,7 @@ msgstr "눈 똑바로 뜨고 무기 꽉 잡으라고, 친구들. 이곳이 바�
 
 msgctxt "Narration/&CaerLem_Arrival8_Authority_Formal"
 msgid "Hold formation, all! The Marches are full of perils."
-msgstr "모두 대형을 유지해! 접경지는 위험으로 가득 차 있다고."
+msgstr "모두 대형을 유지해! 접경지는 위험으로 가득차 있다고."
 
 msgctxt "Narration/&CaerLem_Arrival9_Selfish_Cynical_Normal"
 msgid "Who put you in charge?"
@@ -16929,7 +16929,7 @@ msgstr "소락은 이 왕관과 일정한 거리를 유지하려는 듯했어."
 
 msgctxt "Narration/&TowerOfMagicFindingTheCrown_4_Selpres_Default"
 msgid "Maybe it's cursed."
-msgstr "저주받은 것일 수도 있지."
+msgstr "저주 받은 것일 수도 있지."
 
 msgctxt "Narration/&TowerOfMagicFindingTheCrown_5_PlayerChoice_Default"
 msgid "Look what I found."
@@ -17221,11 +17221,11 @@ msgstr "막 좋지는 않네. "
 
 msgctxt "Narration/&CrownOwned_4_Cynical_Selfpres_Default"
 msgid "I knew that old Crown was cursed."
-msgstr "그 낡은 왕관이 저주받았을 줄 알았어."
+msgstr "그 낡은 왕관이 저주 받았을 줄 알았어."
 
 msgctxt "Narration/&CrownOwned_5_Cynical_Selfpres_Slang"
 msgid "Shit, I knew that hunk of junk was cursed."
-msgstr "젠장, 그 고물이 저주받았을 줄 알았어."
+msgstr "젠장, 그 고물이 저주 받았을 줄 알았어."
 
 msgctxt "Narration/&CrownOwned_6_Cynical_Selfpres_Formal"
 msgid "Just as I feared. The crown is Cursed."
@@ -22411,7 +22411,7 @@ msgstr "나쁜 면은 소르타르에게 흡수되었고 그들은 하나가 되
 
 msgctxt "Narration/&LegendaryQuest_5_16_Einar_Normal"
 msgid "The name of Arivad is cursed. This place is… evil."
-msgstr "아리바드의 이름은 저주받았다. 이곳은... 사악함으로 가득찼어."
+msgstr "아리바드의 이름은 저주 받았다. 이곳은... 사악함으로 가득찼어."
 
 msgctxt "Narration/&LegendaryQuest_5_17_History_Normal"
 msgid "This is just stone, transported here from Tirmar."
@@ -23840,7 +23840,7 @@ msgstr "그걸로 충분한가요?"
 
 msgctxt "Narration/&BackgroundQuest_Acolyte_Rogar_23_Rogar_NPC"
 msgid "Not if Emtan is indeed cursed, his soul will be too angry."
-msgstr "아닙니다. 엠탄이 정말로 저주받았다면, 그의 영혼은 굉장히 화가 났을 터입니다."
+msgstr "아닙니다. 엠탄이 정말로 저주 받았다면, 그의 영혼은 굉장히 화가 났을 터입니다."
 
 msgctxt "Narration/&BackgroundQuest_Acolyte_Rogar_24_Rogar_NPC"
 msgid ""
@@ -32908,11 +32908,11 @@ msgstr "얼굴 두 짝인 놈은 여기 없어. 하지만 난 네 눈 앞에 있
 msgctxt "Narration/&Conjuration_Interrogation_4_Sorak_Prisoner_NPC"
 msgid ""
 "This place will be the death of you, too! It is cursed! Its magic is twisted!"
-msgstr "이 장소는 너희의 죽음이 될 거다! 여기는 저주받았어! 마법은 뒤틀렸지!"
+msgstr "이 장소는 너희의 죽음이 될 거다! 여기는 저주 받았어! 마법은 뒤틀렸지!"
 
 msgctxt "Narration/&Conjuration_Interrogation_5a_PaladinEinarOrSpyOrElse_Default"
 msgid "This place? How did you get here? "
-msgstr "여기까지? 어떻게 여기 온 거냐? "
+msgstr "이곳까지는 어떻게 온 거냐? "
 
 msgctxt ""
 "Narration/"
@@ -32957,7 +32957,7 @@ msgstr "이단심문이라고? 하! 너희가 할 수 있는 게 뭐든 이곳�
 
 msgctxt "Narration/&Conjuration_Interrogation_5b_PaladinEinarOrSpyOrElse_Default"
 msgid "This place is cursed? "
-msgstr "이곳이 저주받았다고? "
+msgstr "이곳이 저주 받았다고? "
 
 msgctxt ""
 "Narration/"
@@ -32987,7 +32987,7 @@ msgstr "그 목소리! 그게 우리가 다 죽을 거라고 했다고!"
 
 msgctxt "Narration/&Conjuration_Interrogation_11b_Sorak_Prisoner_NPC"
 msgid "Because I know we will all die here! It said so! "
-msgstr "왜냐 하면 우리 모두가 여기서 죽을 거라는 걸 아니까! 그게 그렇게 말했어! "
+msgstr "왜냐면 우리 모두가 여기서 죽을 거라는 걸 아니까! 그게 그렇게 말했어! "
 
 msgctxt "Narration/&Conjuration_Interrogation_12_PaladinEinarOrSpyOrElse_Default"
 msgid "Disturbing claims! "
@@ -33218,7 +33218,7 @@ msgstr "난 스캐빈저 아냐, 알면서."
 
 msgctxt "Narration/&Conjuration_ShiftingMaze_8_SellswordOrGreed_Normal"
 msgid "Stop it!"
-msgstr "멈춰 봐!"
+msgstr "그만들 해!"
 
 msgctxt "Narration/&Conjuration_ShiftingMaze_9_SellswordOrGreed_Normal"
 msgid "…while we wait for you to finish pondering all the…"
@@ -33325,11 +33325,11 @@ msgstr "이렇게 매혹적일 수가! 전에 없던 신비 그 자체야! "
 
 msgctxt "Narration/&Conjuration_Coward_6_RogueOrElse_Normal"
 msgid "Not so fast! There have been enough traps so far to…"
-msgstr "서두르지 마! 여태까지 함정도 많았고…"
+msgstr "서두르지 마! 여태까지 나온 함정들 때문에…"
 
 msgctxt "Narration/&Conjuration_Coward_7_RogueOrElse_Normal"
 msgid "…make me really nervous!"
-msgstr "…나 진짜 긴장돼 죽겠어!"
+msgstr "…불안해 죽겠으니까!"
 
 msgctxt "Narration/&Conjuration_Coward_8_SelfPreservationOrElse_Normal"
 msgid "You and me both, my friend! "
@@ -33652,7 +33652,7 @@ msgstr "카세이낙스 그리고 우리, 마스터들이 신들과 함께…"
 
 msgctxt "Narration/&ConjurationQuest_Master_24_Master_NPC"
 msgid "…we poured everything we had to close and seal that Rift! "
-msgstr "…균열을 막고 봉인하기 위해 우리가 가진 모든 것들을 부어넣었으니까! "
+msgstr "…균열을 막고 봉인하기 위해 우리가 가진 모든 것들을 쏟아부었으니까! "
 
 msgctxt "Narration/&ConjurationQuest_Master_25_AcademicianOrAcolyte_Normal"
 msgid "So the Cataclysm is… your fault? "
@@ -34423,7 +34423,7 @@ msgstr "모독자? 피를 마시는 비탄의 자식들?"
 
 msgctxt "Narration/&NecromancyQuest04_37c_Player"
 msgid "Twice-cursed defilers! They are the worst of the undead!"
-msgstr "저주받고 또 저주받을 모독자놈들! 그것들은 언데드 중 최악이야!"
+msgstr "저주 받고 또 저주 받을 모독자놈들! 그것들은 언데드 중 최악이야!"
 
 msgctxt "Narration/&NecromancyQuest04_44_Player"
 msgid "Stay in the light! It is our only protection."
@@ -34440,7 +34440,7 @@ msgstr "혐오체 놈들! 에이나르의 빛이 널 파괴하리라!"
 
 msgctxt "Narration/&NecromancyQuest05_11c_Kill_Default"
 msgid "Twice-cursed monster! Prepare to die - again!"
-msgstr "지독히 저주받은 괴물아! 다시 한 번 죽을 준비나 해라!"
+msgstr "지독히 저주 받은 괴물아! 다시 한 번 죽을 준비나 해라!"
 
 msgctxt "Narration/&CaerLem_InTunnel4b_Cynicism_Default"
 msgid "Right out of a fairytale, as ugly as life."
@@ -35184,7 +35184,7 @@ msgstr "어떻게 생각해? 싸울까 도망칠까?"
 msgctxt ""
 "Narration/&Conjuration_ShiftingMaze_2_Self_PreservationOrSelfishness_Normal"
 msgid "You had to touch it!"
-msgstr "(맥락 상으론 만지지 말았어야 된다고 할 것 같은데) 그걸 만졌어야지!"
+msgstr "그걸 꼭 만지셨어야만 했지!?"
 
 msgctxt ""
 "Narration/&Conjuration_ShiftingMaze_3_Self_PreservationOrSelfishness_Normal"
@@ -35785,7 +35785,7 @@ msgstr "…진정한 고귀함이라 할 수 있지!"
 
 msgctxt "Narration/&ConjurationQuest_Servants_8_CynicOrElse_Normal"
 msgid "I shall remind you at the next camp…"
-msgstr "다음 야영 때 설거지거리가 생기면…"
+msgstr "다음 야영 때 설거짓거리가 생기면…"
 
 msgctxt "Narration/&ConjurationQuest_Servants_9_CynicOrElse_Normal"
 msgid "…when the dishes come up! "

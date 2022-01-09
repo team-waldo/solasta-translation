@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2022-01-08 11:45+0000\n"
+"PO-Revision-Date: 2022-01-09 06:44+0000\n"
 "Last-Translator: E잡불어 <rarkar@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/feedback/"
 "ko/>\n"
@@ -72,11 +72,11 @@ msgstr "{0}은(는) 비전 격노로 {1}에게 더 많은 피해를 줍니다. (
 
 msgctxt "Feedback/&AdditionalDamageBestowCurseFormat"
 msgid "Attack on Cursed!"
-msgstr "저주받은 자 공격!"
+msgstr "저주 받은 자 공격!"
 
 msgctxt "Feedback/&AdditionalDamageBestowCurseLine"
 msgid "{0} deals more damage to cursed {1} (+{2})"
-msgstr "{0}은(는) 저주받은 {1}에게 더 많은 피해를 줍니다. (+{2})"
+msgstr "{0}은(는) 저주 받은 {1}에게 더 많은 피해를 줍니다. (+{2})"
 
 msgctxt "Feedback/&AdditionalDamageBrandingSmiteFormat"
 msgid "Branding Smite!"
