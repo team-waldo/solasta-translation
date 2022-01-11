@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2022-01-10 13:42+0000\n"
+"PO-Revision-Date: 2022-01-11 14:23+0000\n"
 "Last-Translator: E잡불어 <rarkar@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
@@ -10749,7 +10749,7 @@ msgstr "진정해."
 
 msgctxt "Narration/&Telema_43_MeetingScavs_Answer"
 msgid "Calm down, now. This won't help."
-msgstr "이제 그만 진정해. 이런건 아무 도움도 안돼."
+msgstr "이제 그만 진정해. 이런건 아무 도움도 안 돼."
 
 msgctxt "Narration/&Telema_44_MeetingScavs_Choice"
 msgid "We'll help you."
@@ -10949,7 +10949,7 @@ msgstr "고맙습니다, 리나."
 
 msgctxt "Narration/&Telema_93_MeetingScavs_Dekcheckfailed"
 msgid "No."
-msgstr "안돼."
+msgstr "안 돼."
 
 msgctxt "Narration/&Telema_94_MeetingScavs_Roguecheckfailed"
 msgid "Nice try."
@@ -11189,7 +11189,7 @@ msgstr "잠깐만요! 난 이걸 기록해 놔야겠어요."
 
 msgctxt "Narration/&Telema_150_Room01_Statue_Wizard"
 msgid "The Tower will find this interesting."
-msgstr "지식의 탑에서 이걸 매우 흥미로워 할 거에요."
+msgstr "지식의 탑에서 이걸 매우 흥미로워 할 거예요."
 
 msgctxt "Narration/&Telema_151_Room01_Statue_Fighter"
 msgid "Are you done?"
@@ -11370,7 +11370,7 @@ msgstr "오크들이 헥터를 이보다 더 안쪽으로 데려갔다고 생각
 
 msgctxt "Narration/&Telema_190_Vertical_exit_Wizard"
 msgid "Not the orcs, no… "
-msgstr "오크들은 안 그럴 거에요... "
+msgstr "오크들은 안 그럴 거예요... "
 
 msgctxt "Narration/&Telema_191_Vertical_exit_Wizard"
 msgid "…but something else… maybe."
@@ -11814,7 +11814,7 @@ msgstr "이거 봐! 그들이 돌아왔어!"
 
 msgctxt "Narration/&Telema_298_Exit_Temple_Dek"
 msgid "I'll be damned… they're alive!"
-msgstr "말도 안돼....살아 있잖아!"
+msgstr "말도 안 돼....살아 있잖아!"
 
 msgctxt "Narration/&Telema_299_Exit_Temple_Fighter"
 msgid "We told you we'd find him."
@@ -13476,13 +13476,13 @@ msgctxt "Narration/&Scavengers_Dialog_02_40_Quartermaster_NPC"
 msgid ""
 "Instead, you tell us about your misfortune, and we'll go get your friend's "
 "body."
-msgstr "그 대신에 우리에게 그 불행한 사건에 대해 이야기하면, 우리가 친구의 시신을 찾아올거에요."
+msgstr "그 대신에 우리에게 그 불행한 사건에 대해 이야기하면, 우리가 친구의 시신을 찾아올 거예요."
 
 msgctxt "Narration/&Scavengers_Dialog_02_41_Quartermaster_NPC"
 msgid ""
 "We take it to a cleric we know, and praise be! He raises your friend from "
 "the dead."
-msgstr "우리가 아는 성직자에게 그 시신을 가져가면, 신을 찬양하라! 그가 그를 되살릴 거에요."
+msgstr "우리가 아는 성직자에게 그 시신을 가져가면, 신을 찬양하라! 그가 그를 되살릴 거예요."
 
 msgctxt "Narration/&Scavengers_Dialog_02_42_Quartermaster_NPC"
 msgid "It's a flat fee, and very reasonably priced."
@@ -13549,7 +13549,7 @@ msgstr "그래주면 고맙겠어요. "
 
 msgctxt "Narration/&Scavengers_Dialog_02_56_Quartermaster_NPC"
 msgid "The more you do for us, the more we do for you."
-msgstr "우리를 위해 많이 일해준다면, 우리도 당신을 위해 더 많이 일할거에요."
+msgstr "우리를 위해 많이 일해준다면, 우리도 당신을 위해 더 많이 일할 거예요."
 
 msgctxt "Narration/&Scavengers_Dialog_02_57_Greed_Default"
 msgid "Oh? So this… business relationship can get better?"
@@ -14349,7 +14349,7 @@ msgstr "폐허를 발견하곤, 거기서 전리품을 들고 돌아왔죠. "
 
 msgctxt "Narration/&CaerLem_Lisbath16_Lisbath_NPC"
 msgid "The next day, this happens. "
-msgstr "그 다음 날, 이렇게 된 거에요. "
+msgstr "그 다음날, 이렇게 된 거예요. "
 
 msgctxt "Narration/&CaerLem_Lisbath17_Lisbath_NPC"
 msgid "Coincidence? You tell me. "
@@ -15197,7 +15197,7 @@ msgstr "나도."
 
 msgctxt "Narration/&CaerLem_DaliatKilled8_Beryl_NPC"
 msgid "That's it? So when it's your turn to be killed, I should just say that?"
-msgstr "그게 다야? 만일 당신이 살해당하면, 나도 그렇게만 말하면 되는거야?"
+msgstr "그게 다야? 만일 당신이 살해당하면, 나도 그렇게만 말하면 되는 거야?"
 
 msgctxt "Narration/&CaerLem_DaliatKilled9_Robar_NPC"
 msgid "Wait… what… ?"
@@ -18347,7 +18347,7 @@ msgstr "바로 이곳, 마스가르스 공국도 포함해서 말이오."
 
 msgctxt "Narration/&Council03_28_Towerboss_NPC"
 msgid "Impossible!"
-msgstr "말도 안돼!"
+msgstr "말도 안 돼!"
 
 msgctxt "Narration/&Council03_29_Einarboss_NPC"
 msgid ""
@@ -20266,7 +20266,7 @@ msgstr "하하! 드디어 말이 통하는구만!"
 
 msgctxt "Narration/&FightingCultists_1_1_Authority_Default"
 msgid "This is it? Earcorn!"
-msgstr "이게 단가? 이어콘!"
+msgstr "이곳이 이어콘이로군!"
 
 msgctxt "Narration/&FightingCultists_1_2_Merton_NPC"
 msgid "Look, a farm! And another! High adventure - I love it!"
@@ -20278,7 +20278,7 @@ msgstr "대규모 습격을 위한 본부라곤 느껴지지 않네."
 
 msgctxt "Narration/&FightingCultists_1_4_Cynical_Slang"
 msgid "Some headquarters. Dark cults used to be better."
-msgstr "이딴게 본부라. 다른 광신도들이 훨씬 더 나았지."
+msgstr "이딴 게 본부라. 다른 광신도들이 훨씬 더 나았지."
 
 msgctxt "Narration/&FightingCultists_1_5_Cynical_Formal"
 msgid "Not exactly how I imagined the lair of evil Sorr-Akkath worshippers."
@@ -20306,7 +20306,7 @@ msgstr "여관도 없다? 시작부터 수상하네요."
 
 msgctxt "Narration/&FightingCultists_1_11_Merton_NPC"
 msgid "That was my line!"
-msgstr "내가 할 말이야!"
+msgstr "내 대사 뺏지 마!"
 
 msgctxt "Narration/&FightingCultists_1_12_Authority_Slang"
 msgid "Shut up! We're trying to be stealthy!"
@@ -20314,7 +20314,7 @@ msgstr "닥쳐! 우린 은밀해야 한다고!"
 
 msgctxt "Narration/&FightingCultists_1_13_Authority_Normal"
 msgid "You'd better be quiet if you don't want us to be spotted."
-msgstr "들키고 싶지 않으면 조용하는 게 좋을 겁니다."
+msgstr "들키고 싶지 않으면 조용히 하는 게 좋을 겁니다."
 
 msgctxt "Narration/&FightingCultists_1_14_Authority_Format"
 msgid "Quiet, if you please. Let discretion be our watchword."
@@ -20438,7 +20438,7 @@ msgstr "친구라곤 없을 줄 알았는데."
 
 msgctxt "Narration/&ReturnToCC_8_Cynical_Default"
 msgid "His brewer, maybe?"
-msgstr "양조업자를 만난다던가?"
+msgstr "양조업자를 만난다든가?"
 
 msgctxt "Narration/&ReturnToCC_Bartender_1_Any_Normal"
 msgid "Hello, Karel! Have you seen Lord Carran?"
@@ -20531,7 +20531,7 @@ msgstr "베릴? 무슨 일이에요?"
 
 msgctxt "Narration/&ReturnToCC_Beryl1_Highclass_Default"
 msgid "Lady Stonebeard, what is happening?"
-msgstr "스톤비어드양, 무슨 일입니까?"
+msgstr "스톤비어드 양, 무슨 일입니까?"
 
 msgctxt "Narration/&ReturnToCC_Beryl2_Beryl_NPC"
 msgid "You still here? I suppose we owe this mess to you?"
@@ -20559,7 +20559,7 @@ msgstr "우리는 마스가르스 공국과 갈리반 왕국 사이에 굳이 �
 
 msgctxt "Narration/&ReturnToCC_Beryl8_Any_Default"
 msgid "How about maintaining peace?"
-msgstr "평화를 유지하는건 어떻습니까?"
+msgstr "평화를 유지하는 건 어떻습니까?"
 
 msgctxt "Narration/&ReturnToCC_Beryl9_Beryl_NPC"
 msgid "I did my part. Didn't work."
@@ -20707,7 +20707,7 @@ msgstr "그렇게 능력자인가요?"
 
 msgctxt "Narration/&ReturnToCC_HalmanDaliat30_HeddlonSurespell_NPC"
 msgid "Or he had help. Magical."
-msgstr "아니면 도움을 받았겠죠. 마법이라던가."
+msgstr "아니면 도움을 받았겠죠. 마법이라든가."
 
 msgctxt "Narration/&ReturnToCC_HalmanDaliat31_Selfpres_NPC"
 msgid "Soraks?"
@@ -20735,7 +20735,7 @@ msgstr "마라이케의 이름으로! 오셨군요!"
 
 msgctxt "Narration/&ReturnToCC_Carran_2_Any_Default"
 msgid "What is happening?"
-msgstr "무슨 일 입니까?"
+msgstr "무슨 일입니까?"
 
 msgctxt "Narration/&ReturnToCC_Carran_3_Carran_NPC"
 msgid "The whole delegation from the Tower of Knowledge - they were poisoned!"
@@ -20761,7 +20761,7 @@ msgstr "...공국에 대한 편애라고 비난한 뒤였죠."
 
 msgctxt "Narration/&ReturnToCC_Carran_8_Pragmatic_Default"
 msgid "At the Temple of Einar, which is not affiliated with the Principality."
-msgstr "에이나르 신전에 두기로 했었죠. 공국과는 관련 없는 곳인데요."
+msgstr "에이나르 신전에 두기로 했었죠. 공국과는 관련없는 곳인데요."
 
 msgctxt "Narration/&ReturnToCC_Carran_9_Carran_NPC"
 msgid "I know that, of course."
@@ -20873,7 +20873,7 @@ msgstr "거기 가봐야겠군요."
 
 msgctxt "Narration/&ReturnToCC_Carran_35_Carran_NPC"
 msgid "I might need you when you're done with this errand."
-msgstr "이 일이 끝나면 당신이 필요할 거예요."
+msgstr "이 일이 끝나면 당신들이 필요할 거예요."
 
 msgctxt "Narration/&ReturnToCC_CovenOfArivad1_Authority_Normal"
 msgid "Is that it?"
@@ -20885,11 +20885,11 @@ msgstr "여기가 그 장소인가요?"
 
 msgctxt "Narration/&ReturnToCC_CovenOfArivad3_Nosy_Normal"
 msgid "I don't see a sign, or a coat of arms, or anything."
-msgstr "가문 문장도 명패도 뭐 아무 것도 없네."
+msgstr "가문 문장도 명패도 뭐 아무것도 없네."
 
 msgctxt "Narration/&ReturnToCC_CovenOfArivad4_Nosy_Formal"
 msgid "Nothing to say this is Halman Summer's residence."
-msgstr "할만 서머가 이곳에 거주했다는 걸 보여주는 게 아무 것도 없군."
+msgstr "할만 서머가 이곳에 거주했다는 걸 보여주는 게 아무것도 없군."
 
 msgctxt "Narration/&ReturnToCC_CovenOfArivad5_Spy_Normal"
 msgid "Not bad for a secret home."
@@ -20921,7 +20921,7 @@ msgstr "그럴 시점은 지났어, 안 그래?"
 
 msgctxt "Narration/&ReturnToCC_CovenOfArivad12_Violent_Default"
 msgid "Since I intend to kill him, I believe we are."
-msgstr "내가 그 놈을 죽이기로 마음 먹었을 때부터 그랬다고 봐야지."
+msgstr "내가 그놈을 죽이기로 마음먹었을 때부터 그랬다고 봐야지."
 
 msgctxt "Narration/&ReturnToCC_CovenOfArivad13_Spy_Default"
 msgid "Come on - they're all preparing for war, no one's paying attention."
@@ -20953,7 +20953,7 @@ msgstr "파크리께서 우리와 함께하시길, 우리의 적을 마침내 �
 
 msgctxt "Narration/&ReturnToCC_CovenOfArivadInside7_Lawful_Default"
 msgid "In the middle of Caer Cyflen! How could they…?"
-msgstr "케어 키플렌 한 가운데 말이지! 대체 어떻게...?"
+msgstr "케어 키플렌 한가운데에서 말이지! 대체 어떻게...?"
 
 msgctxt "Narration/&ReturnToCC_CovenOfArivadInside8_Pragmatic_Default"
 msgid "Dissimulation is their creed."
@@ -20965,11 +20965,11 @@ msgstr "여기서 끝내자. 다 죽여버려야 해!"
 
 msgctxt "Narration/&ReturnToCC_CovenOfArivadInside10_Pragmatic_Default"
 msgid "Maybe they have the gems."
-msgstr "아마 그들이 보석들을 가지고 있을거야."
+msgstr "아마 그들이 보석들을 가지고 있을 거야."
 
 msgctxt "Narration/&ReturnToCC_CovenOfArivadEnded1_Friendly_Normal"
 msgid "Hey - I've seen this man at the Gravekeep's Cask!"
-msgstr "이거 봐 - 나 이 남자 묘지기의 술통해서 봤었다고!"
+msgstr "이거 봐 - 나 이 남자 묘지기의 술통에서 봤었다고!"
 
 msgctxt "Narration/&ReturnToCC_CovenOfArivadEnded_Friendly_Formal"
 msgid "I know that face! He was at the Gravekeep's Cask."
@@ -20981,7 +20981,7 @@ msgstr "전부 도시 사람들이네!"
 
 msgctxt "Narration/&ReturnToCC_CovenOfArivadEnded3_EinarAuthority_Normal"
 msgid "Corrupted by the Soraks!"
-msgstr "소락때문에 타락한!"
+msgstr "소락 때문에 타락한!"
 
 msgctxt "Narration/&ReturnToCC_CovenOfArivadEnded4_Selfpres_Normal"
 msgid "For years, maybe. They were preparing."
@@ -21093,7 +21093,7 @@ msgstr "여기요! 거기 모두가 소락의 영향 아래 있거나 곧 있게
 
 msgctxt "Narration/&ReturnToCC_Carran_2_8_Carran_NPC"
 msgid "What? Where did you find this?"
-msgstr "뭐? 이걸 어디서 찾았어요?"
+msgstr "네? 이걸 어디서 찾았나요?"
 
 msgctxt "Narration/&ReturnToCC_Carran_2_9_Player_Normal"
 msgid "Halman Summer's mansion. He was one of them!"
@@ -21101,7 +21101,7 @@ msgstr "할만 서머의 저택에서요. 그도 일부였습니다!"
 
 msgctxt "Narration/&ReturnToCC_Carran_2_10_Carran_NPC"
 msgid "I can't believe it… all this time…"
-msgstr "믿을 수 없어... 모든 게 이렇게…"
+msgstr "믿을 수 없어… 여태껏 줄곧…"
 
 msgctxt "Narration/&ReturnToCC_Carran_2_11_Player_Normal"
 msgid "There's more!"
@@ -21135,7 +21135,7 @@ msgctxt "Narration/&ReturnToCC_Carran_2_18_Carran_NPC"
 msgid ""
 "All the city's clerics are working to resurrect the victims. I hope it's "
 "enough."
-msgstr "도시의 모든 성직자들이 희생자들을 소생시키는데 집중하고 있어요. 부족하지 않기를 바랄 따름이죠."
+msgstr "도시의 모든 성직자들이 희생자들을 소생시키는 데 집중하고 있어요. 부족하지 않기를 바랄 따름이죠."
 
 msgctxt "Narration/&ReturnToCC_Carran_2_19_Greed_Default"
 msgid "More than thirty? That's a lot of diamonds. And clerics."
@@ -21213,15 +21213,15 @@ msgstr "그래서.. 당신은 페이세크를 되살리고 있나요?"
 
 msgctxt "Narration/&ReturnToCC_Carran_2_37_Greed_Default"
 msgid "How much is that? A thousand gold pieces?"
-msgstr "그 댓가는 얼마나 되는 겁니까? 금화 천 닢?"
+msgstr "그 대가는 얼마나 되는 겁니까? 금화 천 닢?"
 
 msgctxt "Narration/&ReturnToCC_Carran_2_38_Carran_NPC"
 msgid "I know what you're going to say. So don't."
-msgstr "나는 당신이 무슨 말을 할 지 압니다. 그러니까 그만두세요."
+msgstr "무슨 말을 하려는지 압니다. 그러니까 그만두세요."
 
 msgctxt "Narration/&ReturnToCC_Carran_2_39_Cynical_Default"
 msgid "And someone must pray for his soul… Imagine that!"
-msgstr "그리고 누군가는 그의 영혼을 위해 기도 해야겠지... 한번 상상해 봐!"
+msgstr "그리고 누군가는 그의 영혼을 위해 기도해야겠지… 한번 상상해 봐!"
 
 msgctxt "Narration/&ReturnToCC_Carran_2_40_Carran_NPC"
 msgid "Marshal Sunblaze is taking care of the senior delegates personally."
@@ -21237,7 +21237,7 @@ msgstr "이 일이 벌어지는곳이 어디죠?"
 
 msgctxt "Narration/&ReturnToCC_Carran_2_43_Carran_NPC"
 msgid "In the Temple of Einar. You've been in their dispensary…"
-msgstr "에이나르의 사원입니다. 당신은 그들의 진료소에 있었어요…"
+msgstr "에이나르의 사원입니다. 당신들도 그곳 진료소에 가본 적 있을 거예요…"
 
 msgctxt "Narration/&ReturnToCC_Carran_2_44_Carran_NPC"
 msgid "Wait, you don't… they died!"
@@ -21264,11 +21264,11 @@ msgstr "... 그것도 마지스터의 왕관 가까이에 있다?"
 
 msgctxt "Narration/&ReturnToCC_Carran_2_49_Carran_NPC"
 msgid "No! No, no, no!"
-msgstr "안돼! 안돼, 안돼, 안돼!"
+msgstr "안 돼! 안 돼, 안 돼, 안 돼!"
 
 msgctxt "Narration/&ReturnToCC_Carran_2_50_Authority_NPC"
 msgid "What are we waiting for?"
-msgstr "뭘 기다리고 있는거야?"
+msgstr "뭘 기다리고 있는 거야?"
 
 msgctxt "Narration/&ReturnToCC_Temple1_1_Authority_Default"
 msgid "Marshal!"
@@ -21352,11 +21352,11 @@ msgstr "사원의 한복판에?"
 
 msgctxt "Narration/&ReturnToCC_Temple3_5_Authority_Default"
 msgid "How did they miss that?"
-msgstr "그들이 대체 어쩌다 이런걸 놓친거지?"
+msgstr "어떻게 이런 걸 놓칠 수 있었던 거지?"
 
 msgctxt "Narration/&ReturnToCC_Temple3_6_Pragmatic_Default"
 msgid "Doesn't matter now!"
-msgstr "지금은 그게 중요한게 아냐!"
+msgstr "지금은 그게 중요한 게 아냐!"
 
 msgctxt "Narration/&ReturnToCC_Temple3_7_Pragmatic_Default"
 msgid "This is ancient - from the first centuries after the Cataclysm!"
@@ -21364,7 +21364,7 @@ msgstr "이건 고대 유물이야 - 대격변 직후부터 전해 내려온 거
 
 msgctxt "Narration/&ReturnToCC_Temple3_8_Pragmatic_Default"
 msgid "No time for a history lesson!"
-msgstr "역사 수업따위 들을 시간은 없어!"
+msgstr "역사 수업 따위 들을 시간은 없어!"
 
 msgctxt "Narration/&ReturnToCC_Temple3_7_Any_Default"
 msgid "They went this way!"
@@ -21376,11 +21376,11 @@ msgstr "도시의 제국 관문!"
 
 msgctxt "Narration/&ReturnToCC_Temple4_2_Any_Default"
 msgid "They're here!"
-msgstr "여기있다!"
+msgstr "여기 있다!"
 
 msgctxt "Narration/&ReturnToCC_Temple4_3_Any_Default"
 msgid "They're trying to get away with the Crown!"
-msgstr "왕관을 가지고 떠나려 하고있어!"
+msgstr "왕관을 가지고 떠나려 하고 있어!"
 
 msgctxt "Narration/&ReturnToCC_Temple4_4_Any_Default"
 msgid "Protector!"
@@ -21392,15 +21392,15 @@ msgstr "실패했습니다! 그들은 왕관을 갖고 떠나버렸어요!"
 
 msgctxt "Narration/&ReturnToCC_Temple4_6_Any_Default"
 msgid "No!"
-msgstr "안돼!"
+msgstr "안 돼!"
 
 msgctxt "Narration/&ReturnToCC_Temple4_7_Merton_NPC"
 msgid "They must not destroy the gate!"
-msgstr "그들이 관문을 파괴하게 놔둬선 안돼!"
+msgstr "그들이 관문을 파괴하게 놔둬선 안 돼!"
 
 msgctxt "Narration/&ReturnToCC_Temple4_8_Any_Default"
 msgid "It's not over! They must not destroy the gate!"
-msgstr "아직 끝나지 않았어! 그들이 관문을 파괴하게 둬선 안돼!"
+msgstr "아직 끝나지 않았어! 그들이 관문을 파괴하게 둬선 안 돼!"
 
 msgctxt "Narration/&ReturnToCC_Temple4_9_Merton_NPC"
 msgid "There's too many of them!"
@@ -21448,11 +21448,11 @@ msgstr "그들이 왕관을 탈취했습니다."
 
 msgctxt "Narration/&ReturnToCC_Teleporter6_Princess_NPC"
 msgid "Is this… evil god coming?"
-msgstr "악신을 불러들이게 되는건가요?"
+msgstr "악신을 불러들이게 되는 건가요?"
 
 msgctxt "Narration/&ReturnToCC_Teleporter7_Authority_Default"
 msgid "I suppose that's their plan."
-msgstr "그게 그들의 계획일거라고 봅니다."
+msgstr "그게 그들의 계획일 거라고 봅니다."
 
 msgctxt "Narration/&ReturnToCC_Teleporter8_Pragmatic_Default"
 msgid "Can we follow them? "
@@ -21574,11 +21574,11 @@ msgstr "오... 적들은 이것까지도 계획에 포함시켰었군요. 그렇
 
 msgctxt "Narration/&ReturnToCC_Teleporter37_Princess_NPC"
 msgid "All my best fighters and spellblades are on the border."
-msgstr "내 최고의 전사들과 스펠블레이드들은 국경지역에 나가있습니다."
+msgstr "내 최고의 전사들과 스펠블레이드들은 국경 지역에 나가 있습니다."
 
 msgctxt "Narration/&ReturnToCC_Teleporter38_Princess_NPC"
 msgid "Protector Kean is not what she used to be."
-msgstr "수호자 킨은 예전같지 않고요."
+msgstr "수호자 킨은 예전 같지 않고요."
 
 msgctxt "Narration/&ReturnToCC_Teleporter39_Authority_Default"
 msgid "Merton? You coming?"
@@ -21588,7 +21588,7 @@ msgctxt "Narration/&ReturnToCC_Teleporter40_Princess_NPC"
 msgid ""
 "He's staying with me. Caer Cyflen is on fire, its streets full of Sorak "
 "pawns on a murder spree."
-msgstr "머튼은 나와 여기 남을 거에요. 케어 키플렌이 불타고 있고, 거리에는 소락 꼭두각시들이 사람들을 죽이고 있어요."
+msgstr "머튼은 나와 여기 남을 거예요. 케어 키플렌이 불타고 있고, 거리에는 소락 꼭두각시들이 사람들을 죽이고 있어요."
 
 msgctxt "Narration/&ReturnToCC_Teleporter41_Princess_NPC"
 msgid "The Crown needs you. I felt it, from the beginning."
@@ -21620,7 +21620,7 @@ msgstr "알겠습니다."
 
 msgctxt "Narration/&ReturnToCC_Teleporter48_Princess_NPC"
 msgid "I can only give you a few trinkets to help you in your endeavor."
-msgstr "나는 당신들의 노고에 도움이 될 만한 몇가지 잡다한 물건들 정도만 제공해 드릴 수 있습니다."
+msgstr "나는 당신들의 노고에 도움이 될 만한 몇 가지 잡다한 물건들 정도만 제공해 드릴 수 있습니다."
 
 msgctxt "Narration/&ReturnToCC_Teleporter49_Princess_NPC"
 msgid "And my blessing."
@@ -21708,7 +21708,7 @@ msgstr "난 지금 잘 수 있을 것 같지가 않아."
 
 msgctxt "Narration/&ReturnToCC_TimeLapse4_Authority_Default"
 msgid "You know what's at stake. "
-msgstr "뭐가 중요한 지 알고 있잖아. "
+msgstr "뭐가 중요한지 알고 있잖아. "
 
 msgctxt "Narration/&ReturnToCC_TimeLapse5_Authority_Default"
 msgid "We'll need to be ready for anything."
@@ -21824,7 +21824,7 @@ msgstr "롱소드."
 
 msgctxt "Narration/&Mertonswife27_Pragmatic_Normal"
 msgid "Not too heavy. We could do that."
-msgstr "그렇게까지 무거운 물건은 아니군요. 우리가 해드릴 수 있을거에요."
+msgstr "그렇게까지 무거운 물건은 아니군요. 우리가 해드릴 수 있을 거예요."
 
 msgctxt "Narration/&Mertonswife28_Greed_Normal"
 msgid "But what's the reward?"
@@ -22247,7 +22247,7 @@ msgstr "그건 그냥 옛날 마나칼론식 이름이죠."
 
 msgctxt "Narration/&LegendaryQuest_2_13_Merton_NPC"
 msgid "Maybe, but there is a ruin - you'll see it. It's Tirmarian."
-msgstr "그럴지도, 거기엔 폐허가 있는데, 쉽게 찾을 수 있을거야. 그건 티르마르의 것일세."
+msgstr "그럴지도, 거기엔 폐허가 있는데, 쉽게 찾을 수 있을 거야. 그건 티르마르의 것일세."
 
 msgctxt "Narration/&LegendaryQuest_2_14_Merton_NPC"
 msgid "I'll be waiting for you."
@@ -22339,7 +22339,7 @@ msgstr "아룬께서 우리의 마음을 인도하시리라."
 
 msgctxt "Narration/&LegendaryQuest_4_7_Sellsword_Normal"
 msgid "No pain, no gain."
-msgstr "대가 없이는 아무 것도 얻을 수 없지."
+msgstr "대가 없이는 아무것도 얻을 수 없지."
 
 msgctxt "Narration/&LegendaryQuest_4_8_Selpres_Normal"
 msgid "Thanks for the encouragement."
@@ -22576,7 +22576,7 @@ msgstr "용 뼈가 더 있네?"
 
 msgctxt "Narration/&TheAerElai24_Pragmatic_Default"
 msgid "That's really what they were doing - cleaning up the place!"
-msgstr "진짜 저것들이 하던 일이었네. 여길 청소하는 거!"
+msgstr "저것들이 진짜로 하고 있던 일은 여길 청소하는 거였네!"
 
 msgctxt "Narration/&TheAerElai25_Authority_Default"
 msgid "They were destroying the bones!"
@@ -22588,7 +22588,7 @@ msgstr "어떻게 알아?"
 
 msgctxt "Narration/&TheAerElai27_Arcana_Default"
 msgid "The bones are a threat to them!"
-msgstr "저 뼈들이 위협이 되는거야!"
+msgstr "저 뼈들이 위협이 되는 거야!"
 
 msgctxt "Narration/&TheAerElai28_Pragmatic_Default"
 msgid "I don't follow."
@@ -22624,7 +22624,7 @@ msgstr "분명해."
 
 msgctxt "Narration/&TheAerElai36_Authority_Default"
 msgid "We need to search the bones."
-msgstr "저 뼛더미를 뒤져봐야 해."
+msgstr "저 뼈 더미를 뒤져봐야 해."
 
 msgctxt "Narration/&TheAerElai37_Any_Default"
 msgid "Here!"
@@ -25302,7 +25302,7 @@ msgstr "털어놔보세요 - 뒷골목의 일이죠, 그렇죠?"
 
 msgctxt "Narration/&Optional_Lowlife_Quest_Start7_Merton_NPC"
 msgid "And there I was trying to be discreet."
-msgstr "그래서 조심하려고 하고있잖나."
+msgstr "그래서 조심하려고 하고 있잖나."
 
 msgctxt "Narration/&Optional_Lowlife_Quest_Start8_Lowlife_Default"
 msgid ""
@@ -25347,7 +25347,7 @@ msgstr "검. 제국의 검이요."
 
 msgctxt "Narration/&Optional_Lowlife_Quest_MeetAnnie7_Annie_NPC"
 msgid "The guard has three diamonds. Probably magical."
-msgstr "가드 부분에 세 개의 다이아몬드가 박혀있죠. 아마 마력이 있을거에요."
+msgstr "가드 부분에 세 개의 다이아몬드가 박혀 있죠. 아마 마력이 있을 거예요."
 
 msgctxt "Narration/&Optional_Lowlife_Quest_MeetAnnie8_Curious_Default"
 msgid "Probably? What does it probably do?"
@@ -25423,7 +25423,7 @@ msgstr "얼마나 특별한데?"
 
 msgctxt "Narration/&Optional_Lowlife_Quest_MeetAnnie4_Lowlife_Default"
 msgid "Imperial, three diamonds in the guard, probably magical."
-msgstr "제국식 검이고 가드 부분에 다이아몬드가 세개 박혀있어. 아마 마법이 부여되어 있을거야."
+msgstr "제국식 검이고 가드 부분에 다이아몬드가 세 개 박혀 있어. 아마 마법이 부여되어 있을 거야."
 
 msgctxt "Narration/&Optional_Lowlife_Quest_MeetAnnie5_Lowlife_Default"
 msgid "Sound familiar?"
@@ -26444,7 +26444,7 @@ msgstr "그럼 당신은 그 유산으로 뭘 하실 겁니까?"
 
 msgctxt "Narration/&Optional_Aristocrat_Adria112_Adria_NPC"
 msgid "Me? Share it with the two other sharks, just to stay alive."
-msgstr "저요? 저는 그냥 다른 두 마리의 상어와 그 유산을 나눌 거에요. 살아남기 위해서요."
+msgstr "저요? 저는 그냥 다른 두 마리의 상어와 그 유산을 나눌 거예요. 살아남기 위해서요."
 
 msgctxt "Narration/&Optional_Aristocrat_Adria113_Aristocrat_Default"
 msgid "Fair enough."
@@ -26602,7 +26602,7 @@ msgstr "뭐? 대체 왜?"
 
 msgctxt "Narration/&Optional_Aristocrat_Quest_Ending34_Adria_NPC"
 msgid "Thank you! I'll share with you both, you know it."
-msgstr "감사합니다! 아시다시피, 저는 그걸 여기 있는 두 사람과 나눌 거에요."
+msgstr "감사합니다! 아시다시피, 저는 그걸 여기 있는 두 사람과 나눌 거예요."
 
 msgctxt "Narration/&Optional_Aristocrat_Quest_Ending35_Notary_NPC"
 msgid "Well, that's settled, then."
@@ -27031,7 +27031,7 @@ msgstr "서머 의원님! 얘기 좀 할 수 있을까요?"
 
 msgctxt "Narration/&NecromancySubQuest102_02_NPC_Halman"
 msgid "Yes - what is it?"
-msgstr "예. 무슨 일 입니까?"
+msgstr "예. 무슨 일입니까?"
 
 msgctxt "Narration/&NecromancySubQuest102_03_Starter_Default"
 msgid "We have something for you. "
@@ -27870,7 +27870,7 @@ msgstr "뭔가의 마법적 결계 종류 같네."
 
 msgctxt "Narration/&Necromancy_Observable_04_AtKeepEntry5_Any_Default"
 msgid "Some sort? How many sorts are there?"
-msgstr "뭔가의 종류? 대체 얼마나 많은 종류가 있는거야?"
+msgstr "뭔가의 종류? 대체 얼마나 많은 종류가 있는 거야?"
 
 msgctxt "Narration/&Necromancy_Observable_04_AtKeepEntry6_Any_Default"
 msgid "What we're looking for is up there."
@@ -28963,7 +28963,7 @@ msgstr "하지만 우린 남작과 이야기 해야 한다!"
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_46_SgtNikannen_NPC"
 msgid "You can find him at the Town Hall at this hour."
-msgstr "이 시간에는 마을 회관에서 찾을 수 있을거요."
+msgstr "이 시간에는 마을 회관에서 찾을 수 있을 거요."
 
 msgctxt "Narration/&AbjurationQuest_CoparannArrival_47_SgtNikannen_NPC"
 msgid "Give him this note from me and tell him exactly what happened."
@@ -30143,7 +30143,7 @@ msgstr "그래, 키타엘라는 내 일부였으며 - 지금 또한 그러하다
 
 msgctxt "Narration/&AbjurationEnding_9_Judgmental_Normal"
 msgid "Did you kill her? "
-msgstr "그녀를 죽인 거에요? "
+msgstr "그녀를 죽인 거예요? "
 
 msgctxt "Narration/&AbjurationEnding_10_Self_PreservationOrElse_Normal"
 msgid "Careful, now!"
