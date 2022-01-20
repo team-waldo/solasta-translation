@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2022-01-20 13:50+0000\n"
-"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
+"PO-Revision-Date: 2022-01-20 18:59+0000\n"
+"Last-Translator: E잡불어 <rarkar@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/equipment/"
 "ko/>\n"
 "Language: ko\n"
@@ -1901,7 +1901,7 @@ msgstr ""
 
 msgctxt "Equipment/&Armor_BreastplateTitle"
 msgid "Breastplate"
-msgstr "흉갑"
+msgstr "브레스트플레이트"
 
 msgctxt "Equipment/&Armor_ChainMailDescription"
 msgid ""
@@ -1909,12 +1909,12 @@ msgid ""
 "fabric worn underneath the mail to prevent chafing and to cushion the impact "
 "of blows. The suit includes gauntlets."
 msgstr ""
-"금속 사슬을 엮은 보호구입니다. 쓸림을 방지하고 타격으로부터 보호하기 위해 아래에 받쳐 입는 누빈 천 옷이 포함되어 있습니다. 사슬 "
-"건틀릿이 포함됩니다."
+"금속 사슬을 엮은 보호구입니다. 쓸림을 방지하고 타격으로부터 보호하기 위해 아래에 받쳐 입는 누빈 천 옷이 포함되어 있습니다. 건틀릿이 "
+"포함됩니다."
 
 msgctxt "Equipment/&Armor_ChainMailTitle"
 msgid "Chain Mail"
-msgstr "사슬 갑옷"
+msgstr "체인 메일"
 
 msgctxt "Equipment/&Armor_ChainShirtDescription"
 msgid ""
@@ -1944,8 +1944,8 @@ msgid ""
 "body. It does not include leg protection beyond simple greaves that are "
 "attached with leather straps. This armor is decorated in the dwarven style."
 msgstr ""
-"하프 플레이트는 착용자의 신체 대부분을 덮는 금속 플레이트로 구성되어 있습니다. 가죽 끈으로 매달린 단순한 경갑 외에는 특별히 다리를 "
-"보호하는 효과는 없습니다. 이 갑옷은 드워프 스타일로 장식되어 있습니다."
+"하프 플레이트는 착용자의 신체 대부분을 덮는 금속판으로 구성되어 있습니다. 가죽 끈으로 매달린 단순한 경갑 외에는 특별히 다리를 보호하는 "
+"효과는 없습니다. 이 갑옷은 드워프 스타일로 장식되어 있습니다."
 
 msgctxt "Equipment/&Armor_Dwarven_HalfPlateTitle"
 msgid "Dwarven Half Plate"
@@ -1957,8 +1957,8 @@ msgid ""
 "body. It does not include leg protection beyond simple greaves that are "
 "attached with leather straps."
 msgstr ""
-"하프 플레이트는 착용자의 신체 대부분을 덮는 금속 플레이트로 구성되어 있습니다. 가죽 끈으로 매달린 단순한 경갑 외에는 특별히 다리를 "
-"보호하는 효과는 없습니다."
+"하프 플레이트는 착용자의 신체 대부분을 덮는 금속판으로 구성되어 있습니다. 가죽끈으로 매달린 단순한 경갑 외에는 특별히 다리를 보호하는 "
+"효과는 없습니다."
 
 msgctxt "Equipment/&Armor_HalfPlateTitle"
 msgid "Half Plate"
@@ -2001,7 +2001,7 @@ msgstr "귀족 의복"
 
 msgctxt "Equipment/&Armor_PaddedDescription"
 msgid "Padded armor consists of quilted layers of cloth and batting."
-msgstr "패디드 갑옷은 여러 층의 천과 솜을 덧대어 만들어졌습니다."
+msgstr "패디드 아머는 여러 층의 천과 솜을 덧대어 만들어졌습니다."
 
 msgctxt "Equipment/&Armor_PaddedTitle"
 msgid "Padded"
@@ -2019,7 +2019,7 @@ msgstr ""
 
 msgctxt "Equipment/&Armor_PlateTitle"
 msgid "Plate"
-msgstr "플레이트"
+msgstr "플레이트 아머"
 
 msgctxt "Equipment/&Armor_RingMailDescription"
 msgid ""
@@ -2028,8 +2028,8 @@ msgid ""
 "inferior to chain mail, and it's usually worn only by those who can't afford "
 "better armor."
 msgstr ""
-"두꺼운 고리들이 꿰매어진 가죽 갑옷입니다. 고리들이 착용자에게 칼과 도끼 공격에 대한 추가적인 방어력을 제공합니다. 고리 갑옷은 사슬 "
-"갑옷보다 아래이며 더 나은 갑옷을 구할 여력이 없는 사람들이 사용합니다."
+"두꺼운 고리들이 꿰매어진 가죽 갑옷입니다. 고리들이 착용자에게 칼과 도끼 공격에 대한 추가적인 방어력을 제공합니다. 링 메일은 체인 "
+"메일보다 아래이며 더 나은 갑옷을 구할 여력이 없는 사람들이 사용합니다."
 
 msgctxt "Equipment/&Armor_RingMailTitle"
 msgid "Ring Mail"
@@ -2082,7 +2082,7 @@ msgid ""
 "of leather that is worn over cloth padding. Flexible chain mail protects the "
 "joints."
 msgstr ""
-"얇고 기다란 철조각들이 가죽에 리벳으로 고정되어 있는 갑옷이며 이것을 옷 위에 착용합니다. 유연한 사슬 갑옷이 관절을 보호합니다."
+"얇고 기다란 철조각들이 가죽에 리벳으로 고정되어 있는 갑옷이며 이것을 옷 위에 착용합니다. 유연한 체인 메일이 관절을 보호합니다."
 
 msgctxt "Equipment/&Armor_SplintTitle"
 msgid "Splint"
@@ -3066,7 +3066,7 @@ msgstr "이 마법 무기는 마나칼론 대장장이 명인들의 고대 지�
 
 msgctxt "Equipment/&Enchanted_GreatAxe_of_Sharpness_Title"
 msgid "Greataxe of Sharpness"
-msgstr "날카로움의 대형 도끼"
+msgstr "날카로움의 그레이트액스"
 
 msgctxt "Equipment/&Enchanted_Greataxe_Stormblade_Description"
 msgid ""
@@ -3076,7 +3076,7 @@ msgstr "이 마법 무기는 마나칼론 대장장이 명인들의 고대 지�
 
 msgctxt "Equipment/&Enchanted_Greataxe_Stormblade_Title"
 msgid "Stormblade Greataxe"
-msgstr "폭풍의 대형 도끼"
+msgstr "폭풍의 그레이트액스"
 
 msgctxt "Equipment/&Enchanted_Greatsword_Doom_Title"
 msgid "Doomblade Greatsword"
@@ -3531,7 +3531,7 @@ msgstr "글레이브"
 
 msgctxt "Equipment/&GreataxeTypeTitle"
 msgid "Greataxe"
-msgstr "대형 도끼"
+msgstr "그레이트액스"
 
 msgctxt "Equipment/&GreatclubTypeTitle"
 msgid "Greatclub"
@@ -3996,7 +3996,7 @@ msgstr ""
 
 msgctxt "Equipment/&Ingredient_Primed_GreatAxe_Title"
 msgid "Primed Greataxe"
-msgstr "준비된 대형 도끼"
+msgstr "준비된 그레이트액스"
 
 msgctxt "Equipment/&Ingredient_Primed_Greatsword_Description"
 msgid ""
@@ -4582,7 +4582,7 @@ msgstr "오크 화살"
 
 msgctxt "Equipment/&OrcGreataxeTypeTitle"
 msgid "Orc Greataxe"
-msgstr "오크 대형 도끼"
+msgstr "오크 그레이트액스"
 
 msgctxt "Equipment/&OrcJavelinTitle"
 msgid "Orc Javelin"
@@ -6834,11 +6834,11 @@ msgctxt "Equipment/&HalpfPlatePlus1_Description"
 msgid ""
 "This magical armor was made for a knight of Gallivan. His name is engraved "
 "underneath the breastplate: Ramsay."
-msgstr "갈리반의 기사를 위해 제작된 마법의 갑옷입니다. 그의 이름이 흉갑 아래에 새겨져 있습니다: 램지."
+msgstr "갈리반의 기사를 위해 제작된 마법의 갑옷입니다. 그의 이름이 흉판 아래에 새겨져 있습니다: 램지."
 
 msgctxt "Equipment/&HalpfPlatePlus1_Unidentified_Title"
 msgid "Splendid Half Plate Armor"
-msgstr "훌륭한 하프 플레이트 갑옷"
+msgstr "훌륭한 하프 플레이트"
 
 msgctxt "Equipment/&HalpfPlatePlus1_Unidentified_Description"
 msgid ""
@@ -8329,7 +8329,7 @@ msgstr "금색 안감을 댄 녹색 린넨으로 제작한 멋지고 화려한 �
 
 msgctxt "Equipment/&Plate_plus_one_Title"
 msgid "Plate+1"
-msgstr "플레이트+1"
+msgstr "플레이트 아머 +1"
 
 msgctxt "Equipment/&Plate_plus_one_Description"
 msgid "A full Plate Armor made with enchanted metal."
@@ -8462,7 +8462,7 @@ msgstr "장식되고 조각이 새겨진 자루에 우수한 품질의 칼날이
 
 msgctxt "Equipment/&Greataxe_plus_1_Title"
 msgid "Superb Greataxe"
-msgstr "뛰어난 대형 도끼"
+msgstr "뛰어난 그레이트액스"
 
 msgctxt "Equipment/&Greataxe_plus_1_Description"
 msgid "TBC"
@@ -8470,11 +8470,11 @@ msgstr "알 수 없음"
 
 msgctxt "Equipment/&Greataxe_plus_1_unidentified_Title"
 msgid "Greataxe +1"
-msgstr "대형 도끼 +1"
+msgstr "그레이트액스 +1"
 
 msgctxt "Equipment/&Greataxe_plus_1_unidentified_Description"
 msgid "A finely decorated greataxe with runic engravings."
-msgstr "룬이 새겨지고 정교하게 장식된 대형 도끼입니다."
+msgstr "룬이 새겨지고 정교하게 장식된 그레이트액스입니다."
 
 msgctxt "Equipment/&Maul_Title"
 msgid "Maul"
@@ -8542,7 +8542,7 @@ msgstr "적을 향해 발사할 수 있는 날카로운 다트입니다."
 
 msgctxt "Equipment/&PlatePlus1_Title"
 msgid "Plate +1"
-msgstr "플레이트 +1"
+msgstr "플레이트 아머 +1"
 
 msgctxt "Equipment/&PlatePlus1_Description"
 msgid "TBC"
@@ -9403,17 +9403,17 @@ msgctxt "Equipment/&ElvenChain_Description"
 msgid ""
 "This magical chain mail was designed for the sylvan fighters of Colthannin, "
 "who were not proficient with heavy armor."
-msgstr "마법이 깃든 이 사슬 갑옷은 무거운 갑옷에 익숙치 않은 콜사닌의 실반 전사들을 위해 설계되었습니다."
+msgstr "마법이 깃든 이 체인 메일은 무거운 갑옷에 익숙치 않은 콜사닌의 실반 전사들을 위해 설계되었습니다."
 
 msgctxt "Equipment/&ElvenChain_Unidentified_Title"
 msgid "Elven Chain Mail"
-msgstr "엘프제 사슬 갑옷"
+msgstr "엘프제 체인 메일"
 
 msgctxt "Equipment/&ElvenChain_Unidentified_Description"
 msgid ""
 "This chain mail is magnificently decorated in the elvish style, and is much "
 "lighter than it appears."
-msgstr "이 사슬 갑옷은 엘프의 방식으로 화려하게 장식되어 있으며, 보기보다 훨씬 가볍습니다."
+msgstr "이 체인 메일은 엘프의 방식으로 화려하게 장식되어 있으며, 보기보다 훨씬 가볍습니다."
 
 msgctxt "Equipment/&AdamantinePlate_Title"
 msgid "Adamantine Plate Armor"
@@ -9563,7 +9563,7 @@ msgstr "마법으로 보존된 미노타우로스의 피에 씻겨진 루비는 
 
 msgctxt "Equipment/&Armor_DwarvenPlate_Title"
 msgid "Dwarven Plate"
-msgstr "드워프 플레이트"
+msgstr "드워프제 플레이트 아머"
 
 msgctxt "Equipment/&Armor_DwarvenPlate_Description"
 msgid ""
@@ -9831,15 +9831,15 @@ msgstr "이 두루마리를 사용하면 얽힘 주문을 시전합니다."
 
 msgctxt "Equipment/&Breastplate_Unidentified_Title"
 msgid "Magnificent Breastplate"
-msgstr "화려한 흉갑"
+msgstr "화려한 브레스트플레이트"
 
 msgctxt "Equipment/&Breastplate_Unidentified_Description"
 msgid "A nicely decorated breastplate with runic engravings."
-msgstr "룬이 새겨지고 멋지게 장식된 흉갑입니다."
+msgstr "룬이 새겨지고 멋지게 장식된 브레스트플레이트입니다."
 
 msgctxt "Equipment/&Breastplate_plus_one_Title"
 msgid "Breastplate +1"
-msgstr "흉갑 +1"
+msgstr "브레스트플레이트 +1"
 
 msgctxt "Equipment/&Breastplate_plus_one_Description"
 msgid "This armor was forged by Ildurial for the Emperor's personal guard."
@@ -10143,17 +10143,17 @@ msgstr "이 두루마리를 사용하면 방패 주문을 시전합니다."
 
 msgctxt "Equipment/&LeatherArmorPlus+2_Title"
 msgid "Leather Armor +2"
-msgstr "가죽 갑옷 +2"
+msgstr "레더 아머 +2"
 
 msgctxt "Equipment/&ChainmailPlus1_Unidentified_Title"
 msgid "Magnificent Chainmail"
-msgstr "화려한 사슬 갑옷"
+msgstr "화려한 체인 메일"
 
 msgctxt "Equipment/&ChainmailPlus1_Unidentified_Description"
 msgid ""
 "This finely crafted chainmail is light and extremely sturdy, and probably "
 "magical."
-msgstr "정교하게 제작된 이 사슬 갑옷은 가볍고 매우 견고하며, 아마도 마법이 깃들어 있습니다."
+msgstr "정교하게 제작된 이 체인 메일은 가볍고 매우 견고하며, 아마도 마법이 깃들어 있습니다."
 
 msgctxt "Equipment/&Poison_BrimstoneFangPoisonedArrow_Title"
 msgid "Brimstone Fang Poisoned Arrow"
@@ -10664,7 +10664,7 @@ msgstr "이 무기는 일반적으로 황금 기병대의 베테랑들이 최전
 
 msgctxt "Equipment/&Greataxe_plus_01_Title"
 msgid "Greataxe +1"
-msgstr "대형 도끼 +1"
+msgstr "그레이트액스 +1"
 
 msgctxt "Equipment/&Greataxe_plus_01_Description"
 msgid ""
@@ -10674,15 +10674,15 @@ msgstr "설산 동맹의 대장장이가 만든 것으로 추정되는 전형적
 
 msgctxt "Equipment/&Greataxe_plus_01_unidentified_Title"
 msgid "Superb Greataxe"
-msgstr "뛰어난 대형 도끼"
+msgstr "뛰어난 그레이트액스"
 
 msgctxt "Equipment/&Greataxe_plus_01_unidentified_Description"
 msgid "A finely decorated greataxe with runic engravings."
-msgstr "룬이 새겨지고 정교하게 장식된 대형 도끼입니다."
+msgstr "룬이 새겨지고 정교하게 장식된 그레이트액스입니다."
 
 msgctxt "Equipment/&Greataxe_plus_2_Title"
 msgid "Greataxe +2"
-msgstr "대형 도끼 +2"
+msgstr "그레이트액스 +2"
 
 msgctxt "Equipment/&BattleAxe_plus_2_Title"
 msgid ""
@@ -11092,7 +11092,7 @@ msgstr "스터디드 레더 아머 +1"
 
 msgctxt "Equipment/&StuddedLeatherPlusOneDescription"
 msgid "A beautiful, magically imbued studded leather armor."
-msgstr "아름다우며, 마법 충만한 징 박힌 가죽 갑옷."
+msgstr "아름다우며, 마법 충만한 스터디드 레더 아머."
 
 msgctxt "Equipment/&StuddedLeatherPlusTwoTitle"
 msgid "Studded Leather +2"
@@ -11162,12 +11162,12 @@ msgid ""
 "Druid-style leather armor, covered with leaves and wooden splints. Despite "
 "its look, it provides the same protection as any other leather armor."
 msgstr ""
-"드루이드의 방식으로 만들어진 가죽 갑옷이며, 나무가 덧대어져있고 잎으로 덮여있습니다. 생긴건 이래도 다른 가죽갑옷만큼의 방호력을 "
+"드루이드의 방식으로 만들어진 레더 아머이며, 나무가 덧대어져있고 잎으로 덮여있습니다. 생긴건 이래도 다른 레더 아머만큼의 방호력을 "
 "제공합니다."
 
 msgctxt "Equipment/&Druid_Leather_Title"
 msgid "Druid Leather Armor"
-msgstr "드루이드 가죽 갑옷"
+msgstr "드루이드 레더 아머"
 
 msgctxt "Equipment/&PotionOfComprehendLanguages_Title"
 msgid "Potion of Comprehend Languages"
@@ -11187,7 +11187,7 @@ msgstr "물약 제조에 활용 가능한, 강력한 산성독입니다."
 
 msgctxt "Equipment/&Enchanted_Chainmail_plus_one"
 msgid "Chainmail +1"
-msgstr "사슬갑옷 +1"
+msgstr "체인 메일 +1"
 
 msgctxt "Equipment/&Background_Quest_Wanderer_WagonLever_Title"
 msgid "Switcher lever"
