@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2022-01-14 05:46+0000\n"
-"Last-Translator: E잡불어 <rarkar@naver.com>\n"
+"PO-Revision-Date: 2022-01-20 13:50+0000\n"
+"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
 "Language: ko\n"
@@ -9938,7 +9938,7 @@ msgstr "고상한 대장님께선 지 좆같은 말 정도는 알아서 목욕�
 
 msgctxt "Narration/&NecromancyTextObj09"
 msgid "Ellivir Malorian, Guard Captain, 1875-2367"
-msgstr "엘리비르 말로리안, 근위대 대장, 1875-2367"
+msgstr "엘리비르 말로리안, 경비대장, 1875-2367"
 
 msgctxt "Narration/&NecromancyTextObj10"
 msgid "Faorilith Goriel, Apprentice, 2206-2293"
@@ -9950,7 +9950,7 @@ msgstr "할리시르 마르빌로르, 숙련생, 2615-3210"
 
 msgctxt "Narration/&NecromancyTextObj12"
 msgid "Dariel Fallithir, Guard, 1120-1536"
-msgstr "다리엘 팔리시르, 근위병, 1120-1536"
+msgstr "다리엘 팔리시르, 경비병, 1120-1536"
 
 msgctxt "Narration/&NecromancyTextObj13"
 msgid "Larillir Saotharin, Cook, 1347-2512"
@@ -26056,7 +26056,7 @@ msgstr "꽃?"
 
 msgctxt "Narration/&Optional_Lawkeeper_Quest_Drunk65_Herbalism_Default"
 msgid "Angry Violets, hundreds of them."
-msgstr "성난 바이올렛, 백 송이는 되겠어."
+msgstr "앵그리 제비꽃, 백 송이는 되겠어."
 
 msgctxt "Narration/&Optional_Lawkeeper_Quest_Drunk66_Drunk_NPC"
 msgid "Hey! What are you doing?"
