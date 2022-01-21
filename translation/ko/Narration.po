@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2022-01-20 13:50+0000\n"
+"PO-Revision-Date: 2022-01-21 11:20+0000\n"
 "Last-Translator: Sh K. <wjswn244@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
@@ -34256,7 +34256,7 @@ msgstr "신경 쓰지 마. 그냥 힘없는 주정뱅이 할아범이니까."
 
 msgctxt "Narration/&Tavern_02_42_Player_Default"
 msgid "Probably saw lizardfolk, or dragonborn, or something…"
-msgstr "도마뱀족이나 용인같은 걸 본 거겠지…"
+msgstr "리저드포크나 드래곤본 같은 걸 본 거겠지…"
 
 msgctxt "Narration/&Tavern_02_43_Merton"
 msgid "You think I don't know the difference?"
@@ -34270,7 +34270,7 @@ msgstr "등에 돋친 그 가시들과 그 주둥이는... 어디에서도 볼 �
 
 msgctxt "Narration/&Tavern_02_45_Merton"
 msgid "Not lizardfolk, not troglodyte, not dragonborn. I'm telling you!"
-msgstr "도마뱀족도, 야만인도, 용인도 아니야. 내가 장담하지!"
+msgstr "리저드포크도, 트로글로다이트도, 드래곤본도 아니야. 내가 장담하지!"
 
 msgctxt "Narration/&Tavern_02_46_Player_Default"
 msgid "No one believes in Soraks anymore."
