@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2022-01-21 11:20+0000\n"
-"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
+"PO-Revision-Date: 2022-01-22 13:20+0000\n"
+"Last-Translator: E잡불어 <rarkar@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
 "ko/>\n"
 "Language: ko\n"
@@ -21516,7 +21516,7 @@ msgstr "어떻게 생각하십니까?"
 
 msgctxt "Narration/&ReturnToCC_Teleporter23_Princess_NPC"
 msgid "This is Sunset Peak, south of Aer Elai. "
-msgstr "에어 엘라이 남쪽의 선셋 봉우리군요. "
+msgstr "에어 엘라이 남쪽의 노을 봉우리군요. "
 
 msgctxt "Narration/&ReturnToCC_Teleporter24_Princess_NPC"
 msgid "I recognize this tower… or what's left of it."
@@ -21688,7 +21688,7 @@ msgstr "이제 쉬십시오. 시간은 당신을 기다려줄겁니다, 내 약�
 
 msgctxt "Narration/&ReturnToCC_Teleporter65_Princess_NPC"
 msgid "I will speak the words that will activate the gate for Sunset Peak."
-msgstr "내가 선셋 봉우리의 관문을 활성화할 수 있는 단어를 읊을 것입니다."
+msgstr "내가 노을 봉우리의 관문을 활성화할 수 있는 단어를 읊을 것입니다."
 
 msgctxt "Narration/&ReturnToCC_Teleporter66_Princess_NPC"
 msgid "When you are ready, step onto the gate, and fulfill your destiny."
