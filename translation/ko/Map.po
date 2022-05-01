@@ -1,720 +1,16 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2022-01-14 05:46+0000\n"
-"Last-Translator: E잡불어 <rarkar@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/map/ko/>\n"
-"Language: ko\n"
+"POT-Creation-Date: 2022-05-01 18:44+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
-
-msgctxt "Map/&Location_Uncharted_Title_Marches"
-msgid "Marches"
-msgstr "접경지"
-
-msgctxt "Map/&Location_Uncharted_Description_Marches"
-msgid "A campsite in the Marches, on top of a mountain."
-msgstr "접경지 산 꼭대기에 있는 야영지입니다."
-
-msgctxt "Map/&Location_Known_Title_Marches"
-msgid "Merchant campsite"
-msgstr "상단 야영지"
-
-msgctxt "Map/&Location_Known_Description_Marches"
-msgid "A place that travelling merchants commonly use to stay for the night."
-msgstr "여행하는 상인들이 보통 하룻밤을 나기 위해 사용하는 곳입니다."
-
-msgctxt "Map/&Location_Explored_Title_Marches"
-msgid "Merchant campsite"
-msgstr "상단 야영지"
-
-msgctxt "Map/&Location_Explored_Description_Marches"
-msgid ""
-"A place where travelling merchants often stay for the night, including Galar "
-"Goldentongue. However, access is blocked by a nest of redeemers."
-msgstr "갈라르 골든텅 같이, 여로에 오른 상인들이 자주 하룻밤을 나는 곳입니다. 하지만 현재는 구원자들의 둥지에 막혀 갈 수 없습니다."
-
-msgctxt "Map/&Location_Presentation_Title_Marches"
-msgid "Marches"
-msgstr "접경지"
-
-msgctxt "Map/&Location_Presentation_Description_Marches"
-msgid "A campsite in the Marches, on top of a mountain."
-msgstr "접경지 산 꼭대기에 있는 야영지입니다."
-
-msgctxt "Map/&Location_Uncharted_Title_City"
-msgid "City"
-msgstr "도시"
-
-msgctxt "Map/&Location_Uncharted_Description_City"
-msgid "A city on a plateau, in the middle of the jungle"
-msgstr "정글 한가운데, 고원 위에 있는 도시"
-
-msgctxt "Map/&Location_Known_Title_City"
-msgid "The City"
-msgstr "도시"
-
-msgctxt "Map/&Location_Known_Description_City"
-msgid "The heart of the valley"
-msgstr "골짜기의 심장"
-
-msgctxt "Map/&Location_Explored_Title_City"
-msgid "Caer Hyfrid"
-msgstr "케어 하이프리드"
-
-msgctxt "Map/&Location_Explored_Description_City"
-msgid ""
-"The valley's capital city, ruled by the Lord Protector Orenetis, is a good "
-"place to meet people and learn about the situation in the valley."
-msgstr "섭정 오레네티스가 다스리는 계곡의 중심도시로, 사람들을 만나거나 계곡 내의 사건을 알아보기에 제격인 곳입니다."
-
-msgctxt "Map/&Location_Presentation_Title_City"
-msgid "City"
-msgstr "도시"
-
-msgctxt "Map/&Location_Presentation_Description_City"
-msgid "Presentation of the city"
-msgstr "도시 외관"
-
-msgctxt "Map/&Waypoint_DLC1_Marches_Camp"
-msgid "Merchant campsite"
-msgstr "상단 야영지"
-
-msgctxt "Map/&Waypoint_DLC1_Marches_GrottoEntrance"
-msgid "Grotto entrance"
-msgstr "동굴 입구"
-
-msgctxt "Map/&Waypoint_DLC1_City_Entrance"
-msgid "City Entrance"
-msgstr "도시 입구"
-
-msgctxt "Map/&Waypoint_DLC1_City_MiddleGate"
-msgid "Middle Gate"
-msgstr "중앙 관문"
-
-msgctxt "Map/&Waypoint_DLC1_City_MaskHQ_Low"
-msgid "Fairview"
-msgstr "페어뷰"
-
-msgctxt "Map/&Waypoint_DLC1_City_ThePeople_Low"
-msgid "Market"
-msgstr "시장"
-
-msgctxt "Map/&Location_Uncharted_Title_Complex"
-msgid "Secret facility"
-msgstr "비밀 시설"
-
-msgctxt "Map/&Location_Uncharted_Description_Complex"
-msgid "A secret building deep in the jungle."
-msgstr "정글 깊숙한 곳에 은밀히 세워진 건물입니다."
-
-msgctxt "Map/&Location_Known_Title_Complex"
-msgid "Secret Facility"
-msgstr "비밀 시설"
-
-msgctxt "Map/&Location_Known_Description_Complex"
-msgid "A secret facility deep in the jungle."
-msgstr "정글 깊숙한 곳에 은밀히 세워진 시설입니다."
-
-msgctxt "Map/&Location_Explored_Title_Complex"
-msgid "Magical Research Complex"
-msgstr "마법 연구단지"
-
-msgctxt "Map/&Location_Explored_Description_Complex"
-msgid ""
-"Orenetis' little secret - a secret complex researching monster hybridization."
-msgstr "오레네티스의 작은 비밀 - 몬스터 교잡을 연구하는 비밀 연구단지입니다."
-
-msgctxt "Map/&Location_Presentation_Title_Complex"
-msgid "Magical Research Complex"
-msgstr "마법 연구단지"
-
-msgctxt "Map/&Location_Presentation_Description_Complex"
-msgid ""
-"Orenetis' little secret - a secret complex researching monster hybridization."
-msgstr "오레네티스의 작은 비밀 - 몬스터 교잡을 연구하는 비밀 연구단지입니다."
-
-msgctxt "Map/&Location_Uncharted_Title_Valley"
-msgid "Valley"
-msgstr "계곡"
-
-msgctxt "Map/&Location_Uncharted_Description_Valley"
-msgid "Valley"
-msgstr "계곡"
-
-msgctxt "Map/&Location_Known_Title_Valley"
-msgid "Verdant Valley"
-msgstr "초목의 계곡"
-
-msgctxt "Map/&Location_Known_Description_Valley"
-msgid "Verdant Valley"
-msgstr "초목의 계곡"
-
-msgctxt "Map/&Location_Explored_Title_Valley"
-msgid "The Verdant Valley"
-msgstr "초목의 계곡"
-
-msgctxt "Map/&Location_Explored_Description_Valley"
-msgid "The Verdant Valley"
-msgstr "초목의 계곡"
-
-msgctxt "Map/&Location_Presentation_Title_Valley"
-msgid "Verdant Valley"
-msgstr "초목의 계곡"
-
-msgctxt "Map/&Location_Presentation_Description_Valley"
-msgid "Verdant Valley"
-msgstr "초목의 계곡"
-
-msgctxt "Map/&Location_Uncharted_Title_Complex_Indoor"
-msgid "Complex Indoor"
-msgstr "연구단지 내부"
-
-msgctxt "Map/&Location_Uncharted_Description_Complex_Indoor"
-msgid "TBD"
-msgstr "TBD"
-
-msgctxt "Map/&Location_Known_Title_Complex_Indoor"
-msgid "TBD"
-msgstr "TBD"
-
-msgctxt "Map/&Location_Known_Description_Complex_Indoor"
-msgid "TBD"
-msgstr "TBD"
-
-msgctxt "Map/&Location_Explored_Title_Complex_Indoor"
-msgid "TBD"
-msgstr "TBD"
-
-msgctxt "Map/&Location_Explored_Description_Complex_Indoor"
-msgid "TBD"
-msgstr "TBD"
-
-msgctxt "Map/&Location_Presentation_Title_Complex_Indoor"
-msgid "TBD"
-msgstr "TBD"
-
-msgctxt "Map/&Location_Presentation_Description_Complex_Indoor"
-msgid "TBD"
-msgstr "TBD"
-
-msgctxt "Map/&Location_Uncharted_Title_Complex_Underground"
-msgid "Underground Facilities"
-msgstr "지하 시설"
-
-msgctxt "Map/&Location_Uncharted_Description_Complex_Underground"
-msgid "TBD"
-msgstr "TBD"
-
-msgctxt "Map/&Location_Known_Title_Complex_Underground"
-msgid "TBD"
-msgstr "TBD"
-
-msgctxt "Map/&Location_Known_Description_Complex_Underground"
-msgid "TBD"
-msgstr "TBD"
-
-msgctxt "Map/&Location_Explored_Title_Complex_Underground"
-msgid "TBD"
-msgstr "TBD"
-
-msgctxt "Map/&Location_Explored_Description_Complex_Underground"
-msgid "TBD"
-msgstr "TBD"
-
-msgctxt "Map/&Location_Presentation_Title_Complex_Underground"
-msgid "TBD"
-msgstr "TBD"
-
-msgctxt "Map/&Location_Presentation_Description_Complex_Underground"
-msgid "TBD"
-msgstr "TBD"
-
-msgctxt "Map/&Waypoint_DLC1_Marches_Vip_Camp"
-msgid "Abandoned Campsite"
-msgstr "버려진 야영지"
-
-msgctxt "Map/&Waypoint_DLC1_Marches_Nest"
-msgid "Redeemer nest"
-msgstr "구원자 둥지"
-
-msgctxt "Map/&Waypoint_DLC1_Marches_MapExit"
-msgid "Valley Exit"
-msgstr "계곡의 출구"
-
-msgctxt "Map/&Waypoint_DLC1_Marches_RuinEntrance"
-msgid "Ruin Entrance"
-msgstr "유적 입구"
-
-msgctxt "Map/&Waypoint_DLC1_Marches_GrottoExit"
-msgid "Grotto Exit"
-msgstr "동굴 출구"
-
-msgctxt "Map/&Waypoint_DLC1_Marches_NestExit"
-msgid "Nest Exit"
-msgstr "둥지 출구"
-
-msgctxt "Map/&Location_Presentation_Title_BuriedCity_Tomb"
-msgid "Marches"
-msgstr "접경지"
-
-msgctxt "Map/&Location_Presentation_Description_BuriedCity_Tomb"
-msgid "A campsite in the Marches, on top of a mountain."
-msgstr "접경지 산 꼭대기에 위치한 야영지입니다."
-
-msgctxt "Map/&Location_Presentation_Title_BuriedCity_Palace"
-msgid "Marches"
-msgstr "접경지"
-
-msgctxt "Map/&Location_Presentation_Description_BuriedCity_Palace"
-msgid "A campsite in the Marches, on top of a mountain."
-msgstr "접경지 산 꼭대기에 위치한 야영지입니다."
-
-msgctxt "Map/&Waypoint_DLC1_Valley_CampFire"
-msgid "River Camp"
-msgstr "강가 야영지"
-
-msgctxt "Map/&Waypoint_DLC1_Valley_Ruins"
-msgid "Old Ruins"
-msgstr "낡은 폐허"
-
-msgctxt "Map/&Waypoint_DLC1_Valley_GiantCamp"
-msgid "Giant Enclave"
-msgstr "거인 거주지"
-
-msgctxt "Map/&Waypoint_DLC1_Valley_Waterfall"
-msgid "Waterfall Grotto"
-msgstr "폭포 동굴"
-
-msgctxt "Map/&Waypoint_DLC1_Valley_PlateauExit"
-msgid "Leave the Valley"
-msgstr "계곡 떠나기"
-
-msgctxt "Map/&Waypoint_DLC1_Valley_GrottoExit"
-msgid "Exit Grotto"
-msgstr "동굴 떠나기"
-
-msgctxt "Map/&Waypoint_DLC1_Valley_BrokenBridge"
-msgid "The Broken Bridge"
-msgstr "부서진 다리"
-
-msgctxt "Map/&Waypoint_DLC1_Valley_Outpost"
-msgid "The Outpost"
-msgstr "전초기지"
-
-msgctxt "Map/&Waypoint_DLC1_Valley_Plateau"
-msgid "The Heights"
-msgstr "고지"
-
-msgctxt "Map/&Waypoint_DLC1_Complex_DarkLab"
-msgid "Dark Laboratory"
-msgstr "어둠의 연구소"
-
-msgctxt "Map/&Waypoint_DLC1_Complex_Elevator"
-msgid "Elevator"
-msgstr "승강기"
-
-msgctxt "Map/&Waypoint_DLC1_Complex_Facilities"
-msgid "Underground Facilities"
-msgstr "지하 시설"
-
-msgctxt "Map/&Waypoint_DLC1_Complex_GroundFloor"
-msgid "Ground Floor"
-msgstr "1층"
-
-msgctxt "Map/&Waypoint_DLC1_Complex_MainEntrance"
-msgid "Main Entrance"
-msgstr "주 입구"
-
-msgctxt "Map/&Waypoint_DLC1_Complex_OutdoorExit"
-msgid "Outdoor Exit"
-msgstr "외부 출구"
-
-msgctxt "Map/&Waypoint_DLC1_Complex_SecondFloor"
-msgid "Second Floor"
-msgstr "2층"
-
-msgctxt "Map/&Waypoint_DLC1_Complex_ServiceTunnels"
-msgid "Service tunnels"
-msgstr "서비스 터널"
-
-msgctxt "Map/&Waypoint_DLC1_Complex_Trapdoor"
-msgid "Trapdoor"
-msgstr "함정문"
-
-msgctxt "Map/&Waypoint_DLC1_Swamp_River"
-msgid "River"
-msgstr "하천"
-
-msgctxt "Map/&Waypoint_DLC1_Swamp_Forge"
-msgid "Forge Camp"
-msgstr "포지 야영지"
-
-msgctxt "Map/&Waypoint_DLC1_Swamp_Entrance"
-msgid "Swamp Entrance"
-msgstr "늪지 입구"
-
-msgctxt "Map/&Waypoint_DLC1_Swamp_OldHut"
-msgid "Abandoned Hut"
-msgstr "방치된 오두막"
-
-msgctxt "Map/&Waypoint_DLC1_Swamp_SpiderCave"
-msgid "Cave Entrance"
-msgstr "동굴 입구"
-
-msgctxt "Map/&Waypoint_DLC1_Swamp_GiantTree"
-msgid "Giant Tree"
-msgstr "거목"
-
-msgctxt "Map/&Waypoint_DLC1_Swamp_Temple"
-msgid "Ruined Temple"
-msgstr "무너진 신전"
-
-msgctxt "Map/&Waypoint_DLC1_Swamp_Fort"
-msgid "Ruined Fort"
-msgstr "무너진 진지"
-
-msgctxt "Map/&Waypoint_DLC1_Swamp_WitchHouse"
-msgid "Strange House"
-msgstr "수상한 집"
-
-msgctxt "Map/&Waypoint_DLC1_Swamp_Exit_South"
-msgid "South Exit"
-msgstr "남쪽 출구"
-
-msgctxt "Map/&Waypoint_DLC1_Swamp_Exit_East"
-msgid "East Exit"
-msgstr "동쪽 출구"
-
-msgctxt "Map/&Waypoint_DLC1_Complex_LivingRoom"
-msgid "Living Room"
-msgstr "거실"
-
-msgctxt "Map/&Waypoint_DLC1_Complex_GuardQuarters"
-msgid "Guard Quarters"
-msgstr "경비병 숙소"
-
-msgctxt "Map/&Waypoint_DLC1_Complex_StudyRoom"
-msgid "Study Room"
-msgstr "연구실"
-
-msgctxt "Map/&Waypoint_DLC1_Complex_TestLaboratory"
-msgid "Test Laboratory"
-msgstr "시험용 실험실"
-
-msgctxt "Map/&Waypoint_DLC1_Complex_GuardRoom"
-msgid "Security Room"
-msgstr "보안실"
-
-msgctxt "Map/&Waypoint_DLC1_Complex_RearLobby"
-msgid "Rear Lobby"
-msgstr "뒷쪽 로비"
-
-msgctxt "Map/&Location_Presentation_Title_Swamp"
-msgid "Marshland"
-msgstr "습지대"
-
-msgctxt "Map/&Location_Presentation_Description_Swamp"
-msgid "An extensive and mysterious marshy area in the valley."
-msgstr "계곡 내의 넓고 신비로운 습지 구역입니다."
-
-msgctxt "Map/&Waypoint_DLC1_City_PeoplesShelter"
-msgid "People's shelter"
-msgstr "피플 은신처"
-
-msgctxt "Map/&Waypoint_DLC1_City_MaskShelter"
-msgid "Mask Shelter"
-msgstr "마스크 은신처"
-
-msgctxt "Map/&Waypoint_DLC1_City_MaskOutpost"
-msgid "Mask Outpost"
-msgstr "마스크 전초기지"
-
-msgctxt "Map/&Waypoint_DLC1_City_Inn"
-msgid "Inn"
-msgstr "여인숙"
-
-msgctxt "Map/&Waypoint_DLC1_City_Palace"
-msgid "Palace Gate"
-msgstr "궁궐 입구"
-
-msgctxt "Map/&Waypoint_DLC1_City_Lab"
-msgid "Laboratory"
-msgstr "연구소"
-
-msgctxt "Map/&Waypoint_DLC1_City_SecretEntrance"
-msgid "Secret Entrance"
-msgstr "비밀 입구"
-
-msgctxt "Map/&Waypoint_DLC1_City_PeopleHideout"
-msgid "People's Hideout"
-msgstr "피플 아지트"
-
-msgctxt "Map/&Waypoint_DLC1_City_HighGate"
-msgid "High Gate"
-msgstr "높다란 관문"
-
-msgctxt "Map/&Waypoint_DLC1_City_ThroneRoom"
-msgid "Throne Room"
-msgstr "알현실"
-
-msgctxt "Map/&Waypoint_DLC1_Complex_Workshop"
-msgid "Workshop"
-msgstr "작업장"
-
-msgctxt "Map/&Waypoint_DLC1_Complex_Test_Arena"
-msgid "Test Subject Arena"
-msgstr "실험체 시험용 투기장"
-
-msgctxt "Map/&Waypoint_DLC1_Complex_ServiceTunnelsSouth"
-msgid "Southern Section"
-msgstr "남부 구획"
-
-msgctxt "Map/&Waypoint_DLC1_Complex_ServiceTunnelsNorth"
-msgid "Northern Section"
-msgstr "북부 구획"
-
-msgctxt "Map/&Waypoint_DLC1_Complex_Minor_Gate"
-msgid "Minor Gate Room"
-msgstr "보조 관문실"
-
-msgctxt "Map/&Waypoint_DLC1_Complex_Mana_Generator"
-msgid "Mana Generator"
-msgstr "마나 생성기"
-
-msgctxt "Map/&Waypoint_DLC1_Complex_Captivity_Quarters"
-msgid "Captive Quarters"
-msgstr "포로 숙소"
-
-msgctxt "Map/&Waypoint_DLC1_Complex_Isolation_Unit"
-msgid "Isolation Unit"
-msgstr "격리동"
-
-msgctxt "Map/&Waypoint_DLC1_Complex_Major_Gate"
-msgid "Major Gate"
-msgstr "주 관문"
-
-msgctxt "Map/&Waypoint_DLC1_BuriedCity_Entrance"
-msgid "Entrance"
-msgstr "입구"
-
-msgctxt "Map/&Waypoint_DLC1_BuriedCity_Crossroad"
-msgid "Crossroads"
-msgstr "교차로"
-
-msgctxt "Map/&Waypoint_DLC1_BuriedCity_Windroom"
-msgid "Wind Room"
-msgstr "통풍실"
-
-msgctxt "Map/&Waypoint_DLC1_BuriedCity_Puzzle"
-msgid "Puzzle"
-msgstr "퍼즐"
-
-msgctxt "Map/&Waypoint_DLC1_BuriedCity_RebelHQ"
-msgid "Rebel Headquarters"
-msgstr "반군 사령부"
-
-msgctxt "Map/&Waypoint_DLC1_BuriedCity_DangerCorridor"
-msgid "Dangerous Corridor"
-msgstr "위험한 복도"
-
-msgctxt "Map/&Waypoint_DLC1_BuriedCity_Town"
-msgid "Rebel Town"
-msgstr "반군 마을"
-
-msgctxt "Map/&Waypoint_DLC1_BuriedCity_MinorGate"
-msgid "Minor Gate"
-msgstr "보조 관문"
-
-msgctxt "Map/&Waypoint_DLC1_BuriedCity_Palace_Lab"
-msgid "Laboratory"
-msgstr "연구소"
-
-msgctxt "Map/&Waypoint_DLC1_BuriedCity_Palace_Gate"
-msgid "Gate to Swamp"
-msgstr "늪지로 이어지는 관문"
-
-msgctxt "Map/&Waypoint_DLC1_BuriedCity_Palace_Door"
-msgid "Stairs to Rebel Town"
-msgstr "반군 마을로 이어지는 계단"
-
-msgctxt "Map/&Waypoint_DLC1_Valley_Waterfall_Entrance"
-msgid "Waterfall Entrance"
-msgstr "폭포 입구"
-
-msgctxt "Map/&Waypoint_DLC1_Valley_The_Nest"
-msgid "The Nest"
-msgstr "둥지"
-
-msgctxt "Map/&Waypoint_DLC1_Valley_The_Walled_Camp"
-msgid "The Walled Camp"
-msgstr "장벽을 세운 야영지"
-
-msgctxt "Map/&Waypoint_DLC1_Valley_Adventurer_Camp"
-msgid "Adventurer's Camp"
-msgstr "모험가 야영지"
-
-msgctxt "Map/&Waypoint_DLC1_Valley_Bears_Den"
-msgid "Bear's Den"
-msgstr "곰 소굴"
-
-msgctxt "Map/&Waypoint_DLC1_Valley_Deserted_Refuge"
-msgid "Deserted Refuge"
-msgstr "버림받은 도피처"
-
-msgctxt "Map/&Waypoint_DLC1_Valley_GiantCamp_Entrance"
-msgid "Entrance to Giants' Camp"
-msgstr "거인 야영지 입구"
-
-msgctxt "Map/&Waypoint_DLC1_Valley_Mining_Vein"
-msgid "Mining Vein"
-msgstr "광맥"
-
-msgctxt "Map/&Waypoint_DLC1_Valley_Ruins_Entrance"
-msgid "Ruins Entrance"
-msgstr "폐허 입구"
-
-msgctxt "Map/&Waypoint_DLC1_Valley_Treasure_Room"
-msgid "Treasure Room"
-msgstr "보물고"
-
-msgctxt "Map/&Waypoint_DLC1_Valley_Lost_Temple"
-msgid "Lost Temple"
-msgstr "잊혀진 신전"
-
-msgctxt "Map/&Waypoint_DLC1_Valley_Old_Jail"
-msgid "The Old Jail"
-msgstr "낡은 감옥"
-
-msgctxt "Map/&Waypoint_DLC1_Valley_Living_Quarters"
-msgid "Living Quarters"
-msgstr "살아있는 방"
-
-msgctxt "Map/&Waypoint_DLC1_Valley_Mausoleum"
-msgid "The Mausoleum"
-msgstr "능묘"
-
-msgctxt "Map/&Waypoint_DLC1_Valley_Warden_Quarters"
-msgid "Wardens' Quarters"
-msgstr "교도관 숙소"
-
-msgctxt "Map/&Waypoint_DLC1_Tomb"
-msgid "Anfarel Crypt"
-msgstr "안파렐 묘지"
-
-msgctxt "Map/&Location_Uncharted_Title_BuriedCity"
-msgid "Buried City"
-msgstr "매장당한 도시"
-
-msgctxt "Map/&Location_Uncharted_Description_BuriedCity"
-msgid "A city buried beneath the jungle."
-msgstr "정글 아래에 묻힌 도시입니다."
-
-msgctxt "Map/&Location_Known_Title_BuriedCity"
-msgid "Dinas Gessa"
-msgstr "디나스 게사"
-
-msgctxt "Map/&Location_Known_Description_BuriedCity"
-msgid "An ancient Manacalon city, buried by the Cataclysm."
-msgstr "대격변으로 매장된 고대 마나칼론 도시입니다."
-
-msgctxt "Map/&Location_Explored_Title_BuriedCity"
-msgid "Dinas Gessa"
-msgstr "디나스 게사"
-
-msgctxt "Map/&Location_Explored_Description_BuriedCity"
-msgid ""
-"An ancient Manacalon city, buried by the Cataclysm, is the home of the "
-"Rebellion."
-msgstr "대격변으로 매장된 고대 마나칼론 도시로, 반군의 터전입니다."
-
-msgctxt "Map/&Location_Presentation_Title_BuriedCity"
-msgid "Dinas Gessa"
-msgstr "디나스 게사"
-
-msgctxt "Map/&Location_Presentation_Description_BuriedCity"
-msgid "An ancient Manacalon city, buried by the Cataclysm."
-msgstr "대격변으로 매장된 고대 마나칼론 도시입니다."
-
-msgctxt "Map/&Waypoint_DLC1_Swamp_Exit_West"
-msgid "West Exit"
-msgstr "서쪽 출구"
-
-msgctxt "Map/&Waypoint_DLC1_Entrance_Valley_Jungle_Title"
-msgid "Jungle"
-msgstr "정글"
-
-msgctxt "Map/&Waypoint_DLC1_Entrance_Valley_Jungle_Description"
-msgid "A track in the jungle, between the valley and the Marches."
-msgstr "계곡과 접경지 사이에 위치한 정글 내부의 길입니다."
-
-msgctxt "Map/&Waypoint_DLC1_Entrance_Valley_Plateau_Title"
-msgid "Plateau"
-msgstr "고원"
-
-msgctxt "Map/&Waypoint_DLC1_Entrance_Valley_Plateau_Description"
-msgid "A large open area, between the waterfalls and the road to the capital."
-msgstr "폭포와 수도로 이어지는 가도 사이에 위치한 개활지입니다."
-
-msgctxt "Map/&Waypoint_DLC1_Entrance_City_Entrance_Title"
-msgid "City Entrance"
-msgstr "도시 입구"
-
-msgctxt "Map/&Waypoint_DLC1_Entrance_City_Entrance_Description"
-msgid "The gates of the capital."
-msgstr "수도의 관문입니다."
-
-msgctxt "Map/&Waypoint_DLC1_Entrance_City_Secret_Title"
-msgid "Secret Palace Entrance"
-msgstr "궁궐 비밀 입구"
-
-msgctxt "Map/&Waypoint_DLC1_Entrance_City_Secret_Description"
-msgid "A secret way into the palace."
-msgstr "궁궐로 이어지는 비밀 통로입니다."
-
-msgctxt "Map/&Waypoint_DLC1_Entrance_City_MinorGate_Title"
-msgid "Minor Gate Entrance"
-msgstr "보조 관문 입구"
-
-msgctxt "Map/&Waypoint_DLC1_Entrance_City_MinorGate_Description"
-msgid "A shorter way into the Palace, only for loyal servants of Orenetis."
-msgstr "오레네티스의 충실한 종복들만 사용할 수 있는 궁으로 이어지는 지름길입니다."
-
-msgctxt "Map/&Waypoint_DLC1_Entrance_Buried_Entrance_Title"
-msgid "Ruin Entrance"
-msgstr "폐허 입구"
-
-msgctxt "Map/&Waypoint_DLC1_Entrance_Buried_Entrance_Description"
-msgid "The toughest passage into the Buried City."
-msgstr "매장된 도시로 이어지는 거친 통로입니다."
-
-msgctxt "Map/&Waypoint_DLC1_Entrance_Buried_RebelEntrance_Title"
-msgid "Rebel Shortcut Entrance"
-msgstr "반군 지름길 입구"
-
-msgctxt "Map/&Waypoint_DLC1_Entrance_Buried_RebelEntrance_Description"
-msgid ""
-"A shoter way into the Rebellion headquarters, from inside a dark cave nearby."
-msgstr "근처의 어두운 동굴에서 이어지는, 반군 사령부로 통하는 보다 짧은 길입니다."
-
-msgctxt "Map/&Waypoint_DLC1_Entrance_City_Hideout_Title"
-msgid "People's Hideout Secret Entrance"
-msgstr "피플 아지트 비밀 입구"
-
-msgctxt "Map/&Waypoint_DLC1_Entrance_City_Hideout_Description"
-msgid ""
-"A secret entrance running under the City and leading to the People's secret "
-"hideout."
-msgstr "도시 아래를 가로질러 피플의 비밀 아지트로 이어지는 비밀 입구입니다."
-
-msgctxt "Map/&Waypoint_DLC1_Valley_Minotaur"
-msgid "Minotaur's Corner"
-msgstr "미노타우로스 모퉁이"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "Map/&Location_AbjurationRiverPass_Description"
 msgid ""
@@ -1707,6 +1003,182 @@ msgctxt "Map/&Location_Marsh_Description"
 msgid "A lonely hunting cabin in the middle of a grim marsh."
 msgstr "음산한 습지 한가운데 있는 외딴 사냥용 오두막입니다."
 
+msgctxt "Map/&Location_Known_Title_Mysterious"
+msgid "Mysterious Ruin"
+msgstr ""
+
+msgctxt "Map/&Location_Known_Description_Mysterious"
+msgid "Hanno Mudstrider asked you to check this place for his lost cousin."
+msgstr ""
+
+msgctxt "Map/&Location_Explored_Title_Mysterious"
+msgid "Palace of Illusions"
+msgstr ""
+
+msgctxt "Map/&Location_Explored_Description_Mysterious"
+msgid "Full of magic and trickery, this place was probably a Manacalon palace."
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_Title_Mysterious"
+msgid "Mysterious Palace"
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_Description_Mysterious"
+msgid "Hanno Mudstrider asked you to check this place for his lost cousin."
+msgstr ""
+
+msgctxt "Map/&Location_Generic_Moveable_Title"
+msgid "Moveable Object"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC1_Entrance_Valley_Forge_Title"
+msgid "Forge Outpost"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC1_Entrance_Valley_Forge_Description"
+msgid "Enter the valley directly towards the Forge's outpost."
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC1_City_Temple"
+msgid "Temple"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC1_Entrance_Valley_Giant_Title"
+msgid "Giant Enclave"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC1_Entrance_Valley_Giant_Description"
+msgid "Enter the valley directly by the giant's camp."
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC1_Entrance_Swamp_Forge_Title"
+msgid "Forge Camp"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC1_Entrance_Swamp_Forge_Description"
+msgid "Enter the swamp right by the Forge camp."
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC1_Entrance_Valley_River_Title"
+msgid "Ruins entrance"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC1_Entrance_Valley_River_Entrance_Description"
+msgid "A shortcut to the ruins nearby the river."
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC1_Entrance_City_PeopleHideout_Title"
+msgid "People's hideout"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC1_Entrance_City_PeopleHideout_Description"
+msgid "A shortcut inside to people's secret hideout in the middle city."
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC1_Valley_Adventurers_Camp"
+msgid "Camp Fire"
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_Telema_Title"
+msgid "Ruins of Telema"
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_Telema_Description"
+msgid ""
+"A famous archaeological site from the Manacalon era, Telema became a "
+"Scavenger outpost in the Badlands."
+msgstr ""
+
+msgctxt "Map/&Gadget_Feedback_MinorGateDisabled"
+msgid "Minor Gate not powered"
+msgstr ""
+
+msgctxt "Map/&Location_Uncharted_Title_Marches"
+msgid "Marches"
+msgstr "접경지"
+
+msgctxt "Map/&Location_Uncharted_Description_Marches"
+msgid "A campsite in the Marches, on top of a mountain."
+msgstr "접경지 산 꼭대기에 있는 야영지입니다."
+
+#, fuzzy
+#| msgid "Merchant campsite"
+msgctxt "Map/&Location_Known_Title_Marches"
+msgid "Merchant Campsite"
+msgstr "상단 야영지"
+
+#, fuzzy
+#| msgid "A place that travelling merchants commonly use to stay for the night."
+msgctxt "Map/&Location_Known_Description_Marches"
+msgid "A place commonly used by traveling merchants to stay the night."
+msgstr "여행하는 상인들이 보통 하룻밤을 나기 위해 사용하는 곳입니다."
+
+#, fuzzy
+#| msgid "Merchant campsite"
+msgctxt "Map/&Location_Explored_Title_Marches"
+msgid "Merchant Campsite"
+msgstr "상단 야영지"
+
+#, fuzzy
+#| msgid ""
+#| "A place where travelling merchants often stay for the night, including Galar "
+#| "Goldentongue. However, access is blocked by a nest of redeemers."
+msgctxt "Map/&Location_Explored_Description_Marches"
+msgid ""
+"A place where traveling merchants, including Galar Goldentongue, often stay "
+"for the night. However, access is blocked by a nest of redeemers."
+msgstr "갈라르 골든텅 같이, 여로에 오른 상인들이 자주 하룻밤을 나는 곳입니다. 하지만 현재는 구원자들의 둥지에 막혀 갈 수 없습니다."
+
+msgctxt "Map/&Location_Presentation_Title_Marches"
+msgid "Marches"
+msgstr "접경지"
+
+msgctxt "Map/&Location_Presentation_Description_Marches"
+msgid "A campsite in the Marches, on top of a mountain."
+msgstr "접경지 산 꼭대기에 있는 야영지입니다."
+
+msgctxt "Map/&Location_Uncharted_Title_City"
+msgid "City"
+msgstr "도시"
+
+#, fuzzy
+#| msgid "A city on a plateau, in the middle of the jungle"
+msgctxt "Map/&Location_Uncharted_Description_City"
+msgid "A city on a plateau, in the middle of the jungle."
+msgstr "정글 한가운데, 고원 위에 있는 도시"
+
+msgctxt "Map/&Location_Known_Title_City"
+msgid "The City"
+msgstr "도시"
+
+#, fuzzy
+#| msgid "The heart of the valley"
+msgctxt "Map/&Location_Known_Description_City"
+msgid "The heart of the valley."
+msgstr "골짜기의 심장"
+
+#, fuzzy
+#| msgid "Caer Hyfrid"
+msgctxt "Map/&Location_Explored_Title_City"
+msgid "Caer Hyfryd"
+msgstr "케어 하이프리드"
+
+msgctxt "Map/&Location_Explored_Description_City"
+msgid ""
+"The valley's capital city, ruled by the Lord Protector Orenetis, is a good "
+"place to meet people and learn about the situation in the valley."
+msgstr "섭정 오레네티스가 다스리는 계곡의 중심도시로, 사람들을 만나거나 계곡 내의 사건을 알아보기에 제격인 곳입니다."
+
+msgctxt "Map/&Location_Presentation_Title_City"
+msgid "City"
+msgstr "도시"
+
+#, fuzzy
+#| msgid "Presentation of the city"
+msgctxt "Map/&Location_Presentation_Description_City"
+msgid "An overview of the city."
+msgstr "도시 외관"
+
 msgctxt "Map/&Waypoint_Coparran_Mines_Entrance"
 msgid "Mine Entrance"
 msgstr "광산 입구"
@@ -1746,3 +1218,747 @@ msgstr "광부 야영지"
 msgctxt "Map/&Waypoint_Coparran_Mines_NecroDoor"
 msgid "Necropolis Door"
 msgstr "공동묘지 문"
+
+#, fuzzy
+#| msgid "Merchant campsite"
+msgctxt "Map/&Waypoint_DLC1_Marches_Camp"
+msgid "Merchant Campsite"
+msgstr "상단 야영지"
+
+#, fuzzy
+#| msgid "Grotto entrance"
+msgctxt "Map/&Waypoint_DLC1_Marches_GrottoEntrance"
+msgid "Grotto Entrance"
+msgstr "동굴 입구"
+
+msgctxt "Map/&Waypoint_DLC1_City_Entrance"
+msgid "City Entrance"
+msgstr "도시 입구"
+
+msgctxt "Map/&Waypoint_DLC1_City_MiddleGate"
+msgid "Middle Gate"
+msgstr "중앙 관문"
+
+msgctxt "Map/&Waypoint_DLC1_City_MaskHQ_Low"
+msgid "Fairview"
+msgstr "페어뷰"
+
+msgctxt "Map/&Waypoint_DLC1_City_ThePeople_Low"
+msgid "Market"
+msgstr "시장"
+
+#, fuzzy
+#| msgid "Secret facility"
+msgctxt "Map/&Location_Uncharted_Title_Complex"
+msgid "Secret Facility"
+msgstr "비밀 시설"
+
+msgctxt "Map/&Location_Uncharted_Description_Complex"
+msgid "A secret building deep in the jungle."
+msgstr "정글 깊숙한 곳에 은밀히 세워진 건물입니다."
+
+msgctxt "Map/&Location_Known_Title_Complex"
+msgid "Secret Facility"
+msgstr "비밀 시설"
+
+msgctxt "Map/&Location_Known_Description_Complex"
+msgid "A secret facility deep in the jungle."
+msgstr "정글 깊숙한 곳에 은밀히 세워진 시설입니다."
+
+#, fuzzy
+#| msgid "Magical Research Complex"
+msgctxt "Map/&Location_Explored_Title_Complex"
+msgid "Magic Research Complex"
+msgstr "마법 연구단지"
+
+msgctxt "Map/&Location_Explored_Description_Complex"
+msgid ""
+"Orenetis' little secret - a secret complex researching monster hybridization."
+msgstr "오레네티스의 작은 비밀 - 몬스터 교잡을 연구하는 비밀 연구단지입니다."
+
+#, fuzzy
+#| msgid "Magical Research Complex"
+msgctxt "Map/&Location_Presentation_Title_Complex"
+msgid "Magic Research Complex"
+msgstr "마법 연구단지"
+
+msgctxt "Map/&Location_Presentation_Description_Complex"
+msgid ""
+"Orenetis' little secret - a secret complex researching monster hybridization."
+msgstr "오레네티스의 작은 비밀 - 몬스터 교잡을 연구하는 비밀 연구단지입니다."
+
+msgctxt "Map/&Location_Uncharted_Title_Valley"
+msgid "Valley"
+msgstr "계곡"
+
+msgctxt "Map/&Location_Uncharted_Description_Valley"
+msgid "Valley"
+msgstr "계곡"
+
+msgctxt "Map/&Location_Known_Title_Valley"
+msgid "Verdant Valley"
+msgstr "초목의 계곡"
+
+msgctxt "Map/&Location_Known_Description_Valley"
+msgid "Verdant Valley"
+msgstr "초목의 계곡"
+
+msgctxt "Map/&Location_Explored_Title_Valley"
+msgid "The Verdant Valley"
+msgstr "초목의 계곡"
+
+msgctxt "Map/&Location_Explored_Description_Valley"
+msgid "The Verdant Valley"
+msgstr "초목의 계곡"
+
+msgctxt "Map/&Location_Presentation_Title_Valley"
+msgid "Verdant Valley"
+msgstr "초목의 계곡"
+
+msgctxt "Map/&Location_Presentation_Description_Valley"
+msgid "Verdant Valley"
+msgstr "초목의 계곡"
+
+#, fuzzy
+#| msgid "Complex Indoor"
+msgctxt "Map/&Location_Uncharted_Title_Complex_Indoor"
+msgid "Unknown Site"
+msgstr "연구단지 내부"
+
+#, fuzzy
+#| msgid "TBD"
+msgctxt "Map/&Location_Uncharted_Description_Complex_Indoor"
+msgid "A collection of buildings located deep in the jungle."
+msgstr "TBD"
+
+#, fuzzy
+#| msgid "TBD"
+msgctxt "Map/&Location_Known_Title_Complex_Indoor"
+msgid "Secret Complex"
+msgstr "TBD"
+
+#, fuzzy
+#| msgid "TBD"
+msgctxt "Map/&Location_Known_Description_Complex_Indoor"
+msgid "A collection of buildings located deep in the jungle."
+msgstr "TBD"
+
+#, fuzzy
+#| msgid "TBD"
+msgctxt "Map/&Location_Explored_Title_Complex_Indoor"
+msgid "Orenetis' Secret Facility"
+msgstr "TBD"
+
+#, fuzzy
+#| msgid "TBD"
+msgctxt "Map/&Location_Explored_Description_Complex_Indoor"
+msgid "A secret place that Orenetis really wants to protect."
+msgstr "TBD"
+
+#, fuzzy
+#| msgid "TBD"
+msgctxt "Map/&Location_Presentation_Title_Complex_Indoor"
+msgid "Orenetis' Secret Facility"
+msgstr "TBD"
+
+#, fuzzy
+#| msgid "TBD"
+msgctxt "Map/&Location_Presentation_Description_Complex_Indoor"
+msgid "A secret place that Orenetis really wants to protect."
+msgstr "TBD"
+
+msgctxt "Map/&Location_Uncharted_Title_Complex_Underground"
+msgid "Underground Facilities"
+msgstr "지하 시설"
+
+#, fuzzy
+#| msgid "TBD"
+msgctxt "Map/&Location_Uncharted_Description_Complex_Underground"
+msgid "A lower level of the secret complex."
+msgstr "TBD"
+
+#, fuzzy
+#| msgid "TBD"
+msgctxt "Map/&Location_Known_Title_Complex_Underground"
+msgid "Underground Facilities"
+msgstr "TBD"
+
+#, fuzzy
+#| msgid "TBD"
+msgctxt "Map/&Location_Known_Description_Complex_Underground"
+msgid ""
+"A lower level of the secret complex where experiments are conducted on "
+"monsters."
+msgstr "TBD"
+
+#, fuzzy
+#| msgid "TBD"
+msgctxt "Map/&Location_Explored_Title_Complex_Underground"
+msgid "Underground Facilities"
+msgstr "TBD"
+
+#, fuzzy
+#| msgid "TBD"
+msgctxt "Map/&Location_Explored_Description_Complex_Underground"
+msgid "A secret place where Orenetis conducts magical experiments."
+msgstr "TBD"
+
+#, fuzzy
+#| msgid "TBD"
+msgctxt "Map/&Location_Presentation_Title_Complex_Underground"
+msgid "Underground Facilities"
+msgstr "TBD"
+
+#, fuzzy
+#| msgid "TBD"
+msgctxt "Map/&Location_Presentation_Description_Complex_Underground"
+msgid ""
+"A secret place where Orenetis experiments on the monsters of the valley, "
+"making them even more dangerous and disgusting."
+msgstr "TBD"
+
+msgctxt "Map/&Waypoint_DLC1_Marches_Vip_Camp"
+msgid "Abandoned Campsite"
+msgstr "버려진 야영지"
+
+#, fuzzy
+#| msgid "Redeemer nest"
+msgctxt "Map/&Waypoint_DLC1_Marches_Nest"
+msgid "Redeemers' Nest"
+msgstr "구원자 둥지"
+
+msgctxt "Map/&Waypoint_DLC1_Marches_MapExit"
+msgid "Valley Exit"
+msgstr "계곡의 출구"
+
+msgctxt "Map/&Waypoint_DLC1_Marches_RuinEntrance"
+msgid "Ruin Entrance"
+msgstr "유적 입구"
+
+msgctxt "Map/&Waypoint_DLC1_Marches_GrottoExit"
+msgid "Grotto Exit"
+msgstr "동굴 출구"
+
+msgctxt "Map/&Waypoint_DLC1_Marches_NestExit"
+msgid "Nest Exit"
+msgstr "둥지 출구"
+
+msgctxt "Map/&Location_Presentation_Title_BuriedCity_Tomb"
+msgid "Marches"
+msgstr "접경지"
+
+msgctxt "Map/&Location_Presentation_Description_BuriedCity_Tomb"
+msgid "A campsite in the Marches, on top of a mountain."
+msgstr "접경지 산 꼭대기에 위치한 야영지입니다."
+
+#, fuzzy
+#| msgid "Marches"
+msgctxt "Map/&Location_Presentation_Title_BuriedCity_Palace"
+msgid "Wizard's palace"
+msgstr "접경지"
+
+#, fuzzy
+#| msgid "A campsite in the Marches, on top of a mountain."
+msgctxt "Map/&Location_Presentation_Description_BuriedCity_Palace"
+msgid "A abandoned Manacalon palace, guarded by magical guardians."
+msgstr "접경지 산 꼭대기에 위치한 야영지입니다."
+
+msgctxt "Map/&Waypoint_DLC1_Valley_CampFire"
+msgid "River Camp"
+msgstr "강가 야영지"
+
+msgctxt "Map/&Waypoint_DLC1_Valley_Ruins"
+msgid "Old Ruins"
+msgstr "낡은 폐허"
+
+msgctxt "Map/&Waypoint_DLC1_Valley_GiantCamp"
+msgid "Giant Enclave"
+msgstr "거인 거주지"
+
+msgctxt "Map/&Waypoint_DLC1_Valley_Waterfall"
+msgid "Waterfall Grotto"
+msgstr "폭포 동굴"
+
+#, fuzzy
+#| msgid "Leave the Valley"
+msgctxt "Map/&Waypoint_DLC1_Valley_PlateauExit"
+msgid "Exit to Valley"
+msgstr "계곡 떠나기"
+
+msgctxt "Map/&Waypoint_DLC1_Valley_GrottoExit"
+msgid "Exit Grotto"
+msgstr "동굴 떠나기"
+
+msgctxt "Map/&Waypoint_DLC1_Valley_BrokenBridge"
+msgid "The Broken Bridge"
+msgstr "부서진 다리"
+
+msgctxt "Map/&Waypoint_DLC1_Valley_Outpost"
+msgid "The Outpost"
+msgstr "전초기지"
+
+msgctxt "Map/&Waypoint_DLC1_Valley_Plateau"
+msgid "The Heights"
+msgstr "고지"
+
+msgctxt "Map/&Waypoint_DLC1_Complex_DarkLab"
+msgid "Dark Laboratory"
+msgstr "어둠의 연구소"
+
+msgctxt "Map/&Waypoint_DLC1_Complex_Elevator"
+msgid "Elevator"
+msgstr "승강기"
+
+msgctxt "Map/&Waypoint_DLC1_Complex_Facilities"
+msgid "Underground Facilities"
+msgstr "지하 시설"
+
+#, fuzzy
+#| msgid "Ground Floor"
+msgctxt "Map/&Waypoint_DLC1_Complex_GroundFloor"
+msgid "First Floor"
+msgstr "1층"
+
+msgctxt "Map/&Waypoint_DLC1_Complex_MainEntrance"
+msgid "Main Entrance"
+msgstr "주 입구"
+
+msgctxt "Map/&Waypoint_DLC1_Complex_OutdoorExit"
+msgid "Outdoor Exit"
+msgstr "외부 출구"
+
+msgctxt "Map/&Waypoint_DLC1_Complex_SecondFloor"
+msgid "Second Floor"
+msgstr "2층"
+
+#, fuzzy
+#| msgid "Service tunnels"
+msgctxt "Map/&Waypoint_DLC1_Complex_ServiceTunnels"
+msgid "Service Tunnels"
+msgstr "서비스 터널"
+
+msgctxt "Map/&Waypoint_DLC1_Complex_Trapdoor"
+msgid "Trapdoor"
+msgstr "함정문"
+
+msgctxt "Map/&Waypoint_DLC1_Swamp_River"
+msgid "River"
+msgstr "하천"
+
+msgctxt "Map/&Waypoint_DLC1_Swamp_Forge"
+msgid "Forge Camp"
+msgstr "포지 야영지"
+
+msgctxt "Map/&Waypoint_DLC1_Swamp_Entrance"
+msgid "Swamp Entrance"
+msgstr "늪지 입구"
+
+msgctxt "Map/&Waypoint_DLC1_Swamp_OldHut"
+msgid "Abandoned Hut"
+msgstr "방치된 오두막"
+
+msgctxt "Map/&Waypoint_DLC1_Swamp_SpiderCave"
+msgid "Cave Entrance"
+msgstr "동굴 입구"
+
+msgctxt "Map/&Waypoint_DLC1_Swamp_GiantTree"
+msgid "Giant Tree"
+msgstr "거목"
+
+msgctxt "Map/&Waypoint_DLC1_Swamp_Temple"
+msgid "Ruined Temple"
+msgstr "무너진 신전"
+
+msgctxt "Map/&Waypoint_DLC1_Swamp_Fort"
+msgid "Ruined Fort"
+msgstr "무너진 진지"
+
+msgctxt "Map/&Waypoint_DLC1_Swamp_WitchHouse"
+msgid "Strange House"
+msgstr "수상한 집"
+
+msgctxt "Map/&Waypoint_DLC1_Swamp_Exit_South"
+msgid "South Exit"
+msgstr "남쪽 출구"
+
+msgctxt "Map/&Waypoint_DLC1_Swamp_Exit_East"
+msgid "East Exit"
+msgstr "동쪽 출구"
+
+msgctxt "Map/&Waypoint_DLC1_Complex_LivingRoom"
+msgid "Living Room"
+msgstr "거실"
+
+msgctxt "Map/&Waypoint_DLC1_Complex_GuardQuarters"
+msgid "Guard Quarters"
+msgstr "경비병 숙소"
+
+msgctxt "Map/&Waypoint_DLC1_Complex_StudyRoom"
+msgid "Study Room"
+msgstr "연구실"
+
+msgctxt "Map/&Waypoint_DLC1_Complex_TestLaboratory"
+msgid "Test Laboratory"
+msgstr "시험용 실험실"
+
+msgctxt "Map/&Waypoint_DLC1_Complex_GuardRoom"
+msgid "Security Room"
+msgstr "보안실"
+
+msgctxt "Map/&Waypoint_DLC1_Complex_RearLobby"
+msgid "Rear Lobby"
+msgstr "뒷쪽 로비"
+
+#, fuzzy
+#| msgid "Marshland"
+msgctxt "Map/&Location_Presentation_Title_Swamp"
+msgid "Swamp"
+msgstr "습지대"
+
+msgctxt "Map/&Location_Presentation_Description_Swamp"
+msgid "An extensive and mysterious marshy area in the valley."
+msgstr "계곡 내의 넓고 신비로운 습지 구역입니다."
+
+#, fuzzy
+#| msgid "People's shelter"
+msgctxt "Map/&Waypoint_DLC1_City_PeoplesShelter"
+msgid "People's Shelter"
+msgstr "피플 은신처"
+
+msgctxt "Map/&Waypoint_DLC1_City_MaskShelter"
+msgid "Mask Shelter"
+msgstr "마스크 은신처"
+
+msgctxt "Map/&Waypoint_DLC1_City_MaskOutpost"
+msgid "Mask Outpost"
+msgstr "마스크 전초기지"
+
+msgctxt "Map/&Waypoint_DLC1_City_Inn"
+msgid "Inn"
+msgstr "여인숙"
+
+msgctxt "Map/&Waypoint_DLC1_City_Palace"
+msgid "Palace Gate"
+msgstr "궁궐 입구"
+
+msgctxt "Map/&Waypoint_DLC1_City_Lab"
+msgid "Laboratory"
+msgstr "연구소"
+
+msgctxt "Map/&Waypoint_DLC1_City_SecretEntrance"
+msgid "Secret Entrance"
+msgstr "비밀 입구"
+
+msgctxt "Map/&Waypoint_DLC1_City_PeopleHideout"
+msgid "People's Hideout"
+msgstr "피플 아지트"
+
+msgctxt "Map/&Waypoint_DLC1_City_HighGate"
+msgid "High Gate"
+msgstr "높다란 관문"
+
+msgctxt "Map/&Waypoint_DLC1_City_ThroneRoom"
+msgid "Throne Room"
+msgstr "알현실"
+
+msgctxt "Map/&Waypoint_DLC1_Complex_Workshop"
+msgid "Workshop"
+msgstr "작업장"
+
+msgctxt "Map/&Waypoint_DLC1_Complex_Test_Arena"
+msgid "Test Subject Arena"
+msgstr "실험체 시험용 투기장"
+
+msgctxt "Map/&Waypoint_DLC1_Complex_ServiceTunnelsSouth"
+msgid "Southern Section"
+msgstr "남부 구획"
+
+msgctxt "Map/&Waypoint_DLC1_Complex_ServiceTunnelsNorth"
+msgid "Northern Section"
+msgstr "북부 구획"
+
+#, fuzzy
+#| msgid "Minor Gate Room"
+msgctxt "Map/&Waypoint_DLC1_Complex_Minor_Gate"
+msgid "Major Gate Room"
+msgstr "보조 관문실"
+
+msgctxt "Map/&Waypoint_DLC1_Complex_Mana_Generator"
+msgid "Mana Generator"
+msgstr "마나 생성기"
+
+msgctxt "Map/&Waypoint_DLC1_Complex_Captivity_Quarters"
+msgid "Captive Quarters"
+msgstr "포로 숙소"
+
+msgctxt "Map/&Waypoint_DLC1_Complex_Isolation_Unit"
+msgid "Isolation Unit"
+msgstr "격리동"
+
+msgctxt "Map/&Waypoint_DLC1_Complex_Major_Gate"
+msgid "Major Gate"
+msgstr "주 관문"
+
+msgctxt "Map/&Waypoint_DLC1_BuriedCity_Entrance"
+msgid "Entrance"
+msgstr "입구"
+
+msgctxt "Map/&Waypoint_DLC1_BuriedCity_Crossroad"
+msgid "Crossroads"
+msgstr "교차로"
+
+msgctxt "Map/&Waypoint_DLC1_BuriedCity_Windroom"
+msgid "Wind Room"
+msgstr "통풍실"
+
+msgctxt "Map/&Waypoint_DLC1_BuriedCity_Puzzle"
+msgid "Puzzle"
+msgstr "퍼즐"
+
+#, fuzzy
+#| msgid "Rebel Headquarters"
+msgctxt "Map/&Waypoint_DLC1_BuriedCity_RebelHQ"
+msgid "Rebellion's Headquarters"
+msgstr "반군 사령부"
+
+msgctxt "Map/&Waypoint_DLC1_BuriedCity_DangerCorridor"
+msgid "Dangerous Corridor"
+msgstr "위험한 복도"
+
+msgctxt "Map/&Waypoint_DLC1_BuriedCity_Town"
+msgid "Rebel Town"
+msgstr "반군 마을"
+
+msgctxt "Map/&Waypoint_DLC1_BuriedCity_MinorGate"
+msgid "Minor Gate"
+msgstr "보조 관문"
+
+msgctxt "Map/&Waypoint_DLC1_BuriedCity_Palace_Lab"
+msgid "Laboratory"
+msgstr "연구소"
+
+msgctxt "Map/&Waypoint_DLC1_BuriedCity_Palace_Gate"
+msgid "Gate to Swamp"
+msgstr "늪지로 이어지는 관문"
+
+msgctxt "Map/&Waypoint_DLC1_BuriedCity_Palace_Door"
+msgid "Stairs to Rebel Town"
+msgstr "반군 마을로 이어지는 계단"
+
+msgctxt "Map/&Waypoint_DLC1_Valley_Waterfall_Entrance"
+msgid "Waterfall Entrance"
+msgstr "폭포 입구"
+
+msgctxt "Map/&Waypoint_DLC1_Valley_The_Nest"
+msgid "The Nest"
+msgstr "둥지"
+
+msgctxt "Map/&Waypoint_DLC1_Valley_The_Walled_Camp"
+msgid "The Walled Camp"
+msgstr "장벽을 세운 야영지"
+
+msgctxt "Map/&Waypoint_DLC1_Valley_Adventurer_Camp"
+msgid "Adventurer's Camp"
+msgstr "모험가 야영지"
+
+#, fuzzy
+#| msgid "Bear's Den"
+msgctxt "Map/&Waypoint_DLC1_Valley_Bears_Den"
+msgid "Minotaur Crossing"
+msgstr "곰 소굴"
+
+msgctxt "Map/&Waypoint_DLC1_Valley_Deserted_Refuge"
+msgid "Deserted Refuge"
+msgstr "버림받은 도피처"
+
+msgctxt "Map/&Waypoint_DLC1_Valley_GiantCamp_Entrance"
+msgid "Entrance to Giants' Camp"
+msgstr "거인 야영지 입구"
+
+msgctxt "Map/&Waypoint_DLC1_Valley_Mining_Vein"
+msgid "Mining Vein"
+msgstr "광맥"
+
+msgctxt "Map/&Waypoint_DLC1_Valley_Ruins_Entrance"
+msgid "Ruins Entrance"
+msgstr "폐허 입구"
+
+msgctxt "Map/&Waypoint_DLC1_Valley_Treasure_Room"
+msgid "Treasure Room"
+msgstr "보물고"
+
+msgctxt "Map/&Waypoint_DLC1_Valley_Lost_Temple"
+msgid "Lost Temple"
+msgstr "잊혀진 신전"
+
+msgctxt "Map/&Waypoint_DLC1_Valley_Old_Jail"
+msgid "The Old Jail"
+msgstr "낡은 감옥"
+
+msgctxt "Map/&Waypoint_DLC1_Valley_Living_Quarters"
+msgid "Living Quarters"
+msgstr "살아있는 방"
+
+msgctxt "Map/&Waypoint_DLC1_Valley_Mausoleum"
+msgid "The Mausoleum"
+msgstr "능묘"
+
+msgctxt "Map/&Waypoint_DLC1_Valley_Warden_Quarters"
+msgid "Wardens' Quarters"
+msgstr "교도관 숙소"
+
+msgctxt "Map/&Waypoint_DLC1_Tomb"
+msgid "Anfarel Crypt"
+msgstr "안파렐 묘지"
+
+msgctxt "Map/&Location_Uncharted_Title_BuriedCity"
+msgid "Buried City"
+msgstr "매장당한 도시"
+
+msgctxt "Map/&Location_Uncharted_Description_BuriedCity"
+msgid "A city buried beneath the jungle."
+msgstr "정글 아래에 묻힌 도시입니다."
+
+msgctxt "Map/&Location_Known_Title_BuriedCity"
+msgid "Dinas Gessa"
+msgstr "디나스 게사"
+
+#, fuzzy
+#| msgid "An ancient Manacalon city, buried by the Cataclysm."
+msgctxt "Map/&Location_Known_Description_BuriedCity"
+msgid "An ancient Manacalon city buried in the Cataclysm."
+msgstr "대격변으로 매장된 고대 마나칼론 도시입니다."
+
+msgctxt "Map/&Location_Explored_Title_BuriedCity"
+msgid "Dinas Gessa"
+msgstr "디나스 게사"
+
+#, fuzzy
+#| msgid ""
+#| "An ancient Manacalon city, buried by the Cataclysm, is the home of the "
+#| "Rebellion."
+msgctxt "Map/&Location_Explored_Description_BuriedCity"
+msgid ""
+"An ancient Manacalon city buried in the Cataclysm is home to the Rebellion."
+msgstr "대격변으로 매장된 고대 마나칼론 도시로, 반군의 터전입니다."
+
+msgctxt "Map/&Location_Presentation_Title_BuriedCity"
+msgid "Dinas Gessa"
+msgstr "디나스 게사"
+
+#, fuzzy
+#| msgid "An ancient Manacalon city, buried by the Cataclysm."
+msgctxt "Map/&Location_Presentation_Description_BuriedCity"
+msgid "An ancient Manacalon city buried in the Cataclysm."
+msgstr "대격변으로 매장된 고대 마나칼론 도시입니다."
+
+msgctxt "Map/&Waypoint_DLC1_Swamp_Exit_West"
+msgid "West Exit"
+msgstr "서쪽 출구"
+
+msgctxt "Map/&Waypoint_DLC1_Entrance_Valley_Jungle_Title"
+msgid "Jungle"
+msgstr "정글"
+
+msgctxt "Map/&Waypoint_DLC1_Entrance_Valley_Jungle_Description"
+msgid "A track in the jungle, between the valley and the Marches."
+msgstr "계곡과 접경지 사이에 위치한 정글 내부의 길입니다."
+
+msgctxt "Map/&Waypoint_DLC1_Entrance_Valley_Plateau_Title"
+msgid "Plateau"
+msgstr "고원"
+
+msgctxt "Map/&Waypoint_DLC1_Entrance_Valley_Plateau_Description"
+msgid "A large open area, between the waterfalls and the road to the capital."
+msgstr "폭포와 수도로 이어지는 가도 사이에 위치한 개활지입니다."
+
+msgctxt "Map/&Waypoint_DLC1_Entrance_City_Entrance_Title"
+msgid "City Entrance"
+msgstr "도시 입구"
+
+msgctxt "Map/&Waypoint_DLC1_Entrance_City_Entrance_Description"
+msgid "The gates of the capital."
+msgstr "수도의 관문입니다."
+
+msgctxt "Map/&Waypoint_DLC1_Entrance_City_Secret_Title"
+msgid "Secret Palace Entrance"
+msgstr "궁궐 비밀 입구"
+
+msgctxt "Map/&Waypoint_DLC1_Entrance_City_Secret_Description"
+msgid "A secret way into the palace."
+msgstr "궁궐로 이어지는 비밀 통로입니다."
+
+msgctxt "Map/&Waypoint_DLC1_Entrance_City_MinorGate_Title"
+msgid "Minor Gate Entrance"
+msgstr "보조 관문 입구"
+
+#, fuzzy
+#| msgid "A shorter way into the Palace, only for loyal servants of Orenetis."
+msgctxt "Map/&Waypoint_DLC1_Entrance_City_MinorGate_Description"
+msgid "A shorter way into the palace, only for loyal servants of Orenetis."
+msgstr "오레네티스의 충실한 종복들만 사용할 수 있는 궁으로 이어지는 지름길입니다."
+
+msgctxt "Map/&Waypoint_DLC1_Entrance_Buried_Entrance_Title"
+msgid "Ruin Entrance"
+msgstr "폐허 입구"
+
+#, fuzzy
+#| msgid "The toughest passage into the Buried City."
+msgctxt "Map/&Waypoint_DLC1_Entrance_Buried_Entrance_Description"
+msgid "The toughest passage into the buried city."
+msgstr "매장된 도시로 이어지는 거친 통로입니다."
+
+msgctxt "Map/&Waypoint_DLC1_Entrance_Buried_RebelEntrance_Title"
+msgid "Rebel Shortcut Entrance"
+msgstr "반군 지름길 입구"
+
+#, fuzzy
+#| msgid ""
+#| "A shoter way into the Rebellion headquarters, from inside a dark cave nearby."
+msgctxt "Map/&Waypoint_DLC1_Entrance_Buried_RebelEntrance_Description"
+msgid ""
+"A shorter way into the Rebellion's headquarters, from inside a dark cave "
+"nearby."
+msgstr "근처의 어두운 동굴에서 이어지는, 반군 사령부로 통하는 보다 짧은 길입니다."
+
+msgctxt "Map/&Waypoint_DLC1_Entrance_City_Hideout_Title"
+msgid "People's Hideout Secret Entrance"
+msgstr "피플 아지트 비밀 입구"
+
+#, fuzzy
+#| msgid ""
+#| "A secret entrance running under the City and leading to the People's secret "
+#| "hideout."
+msgctxt "Map/&Waypoint_DLC1_Entrance_City_Hideout_Description"
+msgid ""
+"A secret entrance running under the city and leading to the people's secret "
+"hideout."
+msgstr "도시 아래를 가로질러 피플의 비밀 아지트로 이어지는 비밀 입구입니다."
+
+msgctxt "Map/&Waypoint_DLC1_Valley_Minotaur"
+msgid "Minotaur's Corner"
+msgstr "미노타우로스 모퉁이"
+
+msgctxt "Map/&Waypoint_DLC1_Entrance_Swamp_01_Title"
+msgid "South Path"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC1_Entrance_Swamp_01_Description"
+msgid "A muddy road leading to the swamp."
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC1_Entrance_Swamp_02_Title"
+msgid "West Path"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC1_Entrance_Swamp_02_Description"
+msgid "A shortcut to the Forge camp."
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC1_Entrance_Swamp_03_Title"
+msgid "East Path"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC1_Entrance_Swamp_03_Description"
+msgid "A shortcut to the orc camp."
+msgstr ""

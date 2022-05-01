@@ -1,17 +1,16 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2022-01-01 01:47+0000\n"
-"Last-Translator: Nickel <psb3421@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/prop/ko/>\n"
-"Language: ko\n"
+"POT-Creation-Date: 2022-05-01 18:44+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "Prop/&CandelabraTitle"
 msgid "Candelabra"
@@ -927,3 +926,111 @@ msgstr "Y자 목제 기둥"
 msgctxt "Prop/&Y_SeparatorDescription"
 msgid "To be placed on walls (not thin walls)"
 msgstr "벽 위에 설치 (얇은 벽 제외)"
+
+msgctxt "Prop/&BurningDebrisTitle"
+msgid "Burning Debris"
+msgstr ""
+
+msgctxt "Prop/&CastleInnerWallTitle"
+msgid "Castle Inner Wall"
+msgstr ""
+
+msgctxt "Prop/&CastleWallFillerTitle"
+msgid "Castle Inner Wall Filler"
+msgstr ""
+
+msgctxt "Prop/&CastleWallDoorwayTitle"
+msgid "Castle Inner Wall Doorway"
+msgstr ""
+
+msgctxt "Prop/&CastleWallObstacleTitle"
+msgid "Castle Inner Wall Obstacle"
+msgstr ""
+
+msgctxt "Prop/&CastleTowerTitle"
+msgid "Castle Tower"
+msgstr ""
+
+msgctxt "Prop/&CastleWallTitle"
+msgid "Castle Wall"
+msgstr ""
+
+msgctxt "Prop/&BrokenFurnituresTitle"
+msgid "Broken Furniture"
+msgstr ""
+
+msgctxt "Prop/&PalaceTitle"
+msgid "Elven Palace"
+msgstr ""
+
+msgctxt "Prop/&BarraksTitle"
+msgid "Barrack"
+msgstr ""
+
+msgctxt "Prop/&TreeTitle"
+msgid "Single Tree"
+msgstr ""
+
+msgctxt "Prop/&CaveWallDoorwaysTitle"
+msgid "Free Wall - Doorway"
+msgstr ""
+
+msgctxt "Prop/&TrophyTitle"
+msgid "Hunting Trophy"
+msgstr ""
+
+msgctxt "Prop/&TrophyDescription"
+msgid "To be placed on walls (not thin walls)"
+msgstr ""
+
+msgctxt "Prop/&BoatTitle"
+msgid "Boat"
+msgstr ""
+
+msgctxt "Prop/&DresserTitle"
+msgid "Dresser"
+msgstr ""
+
+msgctxt "Prop/&HutWitchTitle"
+msgid "Hut Witch"
+msgstr ""
+
+msgctxt "Prop/&LakeTitle"
+msgid "Small Lake"
+msgstr ""
+
+msgctxt "Prop/&PuddleTitle"
+msgid "Puddle"
+msgstr ""
+
+msgctxt "Prop/&Trunk_CrawlingTitle"
+msgid "Fallen Trees"
+msgstr ""
+
+msgctxt "Prop/&Trunk_CrawlingDescription"
+msgid "You can crawl under the fallen trees."
+msgstr ""
+
+msgctxt "Prop/&WoodenHouseTitle"
+msgid "Wooden House"
+msgstr ""
+
+msgctxt "Prop/&SuspendingLanternTitle"
+msgid "Hanging Lantern"
+msgstr ""
+
+msgctxt "Prop/&NestGiantTitle"
+msgid "A Giant Nest"
+msgstr ""
+
+msgctxt "Prop/&SquarePlantTitle"
+msgid "Globe Map Garden"
+msgstr ""
+
+msgctxt "Prop/&ThroneTitle"
+msgid "Throne"
+msgstr ""
+
+msgctxt "Prop/&SuspendingPlanterTitle"
+msgid "Hanging Plant"
+msgstr ""

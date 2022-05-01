@@ -1,18 +1,16 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2022-01-17 12:46+0000\n"
-"Last-Translator: E잡불어 <rarkar@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/spell/ko/>"
-"\n"
-"Language: ko\n"
+"POT-Creation-Date: 2022-05-01 18:44+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "Spell/&AcidArrowDescription"
 msgid "Launch an acid arrow that deals some damage even if you miss your shot."
@@ -1274,8 +1272,12 @@ msgstr ""
 "마법이 깃든 열매 10개를 생성합니다. 열매를 먹으면 1 체력이 회복되고 긴 휴식 동안 영양분을 제공합니다. 열매는 긴 휴식 이후 "
 "사라집니다."
 
+#, fuzzy
+#| msgid "Spray a luminous crone that briefly blinds your enemies."
 msgctxt "Spell/&ColorSprayDescription"
-msgid "Spray a luminous crone that briefly blinds your enemies."
+msgid ""
+"Spray a luminous cone that briefly blinds your enemies. Roll 6d10: the total "
+"is how many hit points of creatures this spell can affect."
 msgstr "적들을 일시적으로 실명시키는 빛나는 원뿔을 방출합니다."
 
 msgctxt "Spell/&ConjureAnimalsDescription"
@@ -1518,8 +1520,12 @@ msgctxt "Spell/&WallOfFireRingOuterTitle"
 msgid "Wall of Fire (Ring/Outer)"
 msgstr "화염 장벽(링/외부)"
 
+#, fuzzy
+#| msgid "Put a number of creatures to sleep for a limited time."
 msgctxt "Spell/&SleepDescription"
-msgid "Put a number of creatures to sleep for a limited time."
+msgid ""
+"Put a number of creatures to sleep for a limited time. Roll 5d8: the total "
+"is how many hit points of creatures this spell can affect."
 msgstr "제한된 시간 동안 대상 생물들을 잠들게 합니다."
 
 msgctxt "Spell/&CloudKillTitle"
@@ -1742,6 +1748,79 @@ msgstr "주문 지속 시간 동안 당신으로부터 당신이 선택한 방�
 msgctxt "Spell/&SacredFlameTitle_backer"
 msgid "Sacred Flame*"
 msgstr "신성한 불꽃*"
+
+msgctxt "Spell/&ConjureCelestialDescription"
+msgid ""
+"Conjures a celestial creature of challenge rating 4 that fights alongside "
+"you. If you lose concentration, the creature is dismissed."
+msgstr ""
+
+msgctxt "Spell/&ConjureCelestialTitle"
+msgid "Conjure Celestial"
+msgstr ""
+
+msgctxt "Spell/&ArcaneSwordTitle"
+msgid "Arcane Sword"
+msgstr ""
+
+msgctxt "Spell/&ArcaneSwordDescription"
+msgid "Summon a weapon that fights for you."
+msgstr ""
+
+msgctxt "Spell/&FingerOfDeathTitle"
+msgid "Finger of Death"
+msgstr ""
+
+msgctxt "Spell/&FingerOfDeathDescription"
+msgid "Send negative energy coursing through a creature within range."
+msgstr ""
+
+msgctxt "Spell/&RegenerateTitle"
+msgid "Regenerate"
+msgstr ""
+
+msgctxt "Spell/&RegenerateDescription"
+msgid "Touch a creature and stimulate its natural healing ability."
+msgstr ""
+
+msgctxt "Spell/&FireStormTitle"
+msgid "Fire Storm"
+msgstr ""
+
+msgctxt "Spell/&FireStormDescription"
+msgid ""
+"A wide wall of roaring flames bursts in a location you choose within range."
+msgstr ""
+
+msgctxt "Spell/&DelayedBlastFireballTitle"
+msgid "Delayed Blast Fireball"
+msgstr ""
+
+msgctxt "Spell/&DelayedBlastFireballDescription"
+msgid ""
+"Prepare a fireball that will detonate on your command, or whenever you lose "
+"concentration."
+msgstr ""
+
+msgctxt "Spell/&DivineWordTitle"
+msgid "Divine Word"
+msgstr ""
+
+msgctxt "Spell/&DivineWordDescription"
+msgid ""
+"Utter a divine word that inflicts various detrimental conditions on enemies "
+"you can see based on their HP, and also banishes all celestials."
+msgstr ""
+
+msgctxt "Spell/&PrismaticSprayTitle"
+msgid "Prismatic Spray"
+msgstr ""
+
+msgctxt "Spell/&PrismaticSprayDescription"
+msgid ""
+"Eight rays of light shoot from your hand, each with a different color and "
+"purpose."
+msgstr ""
 
 msgctxt "Spell/&DominateBeastTitle"
 msgid "Dominate Beast"

@@ -1,46 +1,16 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2022-01-09 06:44+0000\n"
-"Last-Translator: E잡불어 <rarkar@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/"
-"monsterattacks/ko/>\n"
-"Language: ko\n"
+"POT-Creation-Date: 2022-05-01 18:44+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
-
-msgctxt "MonsterAttacks/&Attack_Charge_Title"
-msgid "Charge"
-msgstr "돌격"
-
-msgctxt "MonsterAttacks/&Attack_Gore_Title"
-msgid "Gore"
-msgstr "뿔엄니"
-
-msgctxt "MonsterAttacks/&Attack_Necrotic_Axe_Title"
-msgid "Necrotic Greataxe"
-msgstr "사령의 그레이트액스"
-
-msgctxt "MonsterAttacks/&Attack_WightLordSword_Title"
-msgid "Necrotic Blade"
-msgstr "사령의 칼날"
-
-msgctxt "MonsterAttacks/&Attack_Beetle_Spray_Title"
-msgid "Acid Spray"
-msgstr "산성 분출"
-
-msgctxt "MonsterAttacks/&Attack_Beetle_Spray_Description"
-msgid "Giant beetles can spit a short cloud of acid with their mouth."
-msgstr "자이언트 비틀은 주둥이를 통해 작은 산성 액체를 내뱉을 수 있습니다."
-
-msgctxt "MonsterAttacks/&Attack_TossRock_Title"
-msgid "Rock"
-msgstr "바위"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "MonsterAttacks/&Attack_Bite_Title"
 msgid "Bite"
@@ -170,6 +140,40 @@ msgstr "꼬리"
 msgctxt "MonsterAttacks/&AttackNecroticBite_Title"
 msgid "Necrotic Bite"
 msgstr "사령의 물어뜯기"
+
+msgctxt "MonsterAttacks/&Attack_Orenetis_Touch_Title"
+msgid "Shocking Touch"
+msgstr ""
+
+msgctxt "MonsterAttacks/&Attack_Charge_Title"
+msgid "Charge"
+msgstr "돌격"
+
+msgctxt "MonsterAttacks/&Attack_Gore_Title"
+msgid "Gore"
+msgstr "뿔엄니"
+
+msgctxt "MonsterAttacks/&Attack_Necrotic_Axe_Title"
+msgid "Necrotic Greataxe"
+msgstr "사령의 그레이트액스"
+
+msgctxt "MonsterAttacks/&Attack_WightLordSword_Title"
+msgid "Necrotic Blade"
+msgstr "사령의 칼날"
+
+msgctxt "MonsterAttacks/&Attack_Beetle_Spray_Title"
+msgid "Acid Spray"
+msgstr "산성 분출"
+
+#, fuzzy
+#| msgid "Giant beetles can spit a short cloud of acid with their mouth."
+msgctxt "MonsterAttacks/&Attack_Beetle_Spray_Description"
+msgid "Giant beetles can spit a small cloud of acid from their mouth."
+msgstr "자이언트 비틀은 주둥이를 통해 작은 산성 액체를 내뱉을 수 있습니다."
+
+msgctxt "MonsterAttacks/&Attack_TossRock_Title"
+msgid "Rock"
+msgstr "바위"
 
 msgctxt "MonsterAttacks/&Attack_Punch_Title"
 msgid "Punch"

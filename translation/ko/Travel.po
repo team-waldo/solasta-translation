@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-17 17:52+0900\n"
+"POT-Creation-Date: 2022-05-01 18:44+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -416,3 +416,107 @@ msgstr "약한 괴물들은 모험자들을 마주치면 도망칩니다."
 msgctxt "Travel/&TravelEventEncounterOther2Title"
 msgid "An encounter! The monsters are frightened by the party and scurry away."
 msgstr "적 마주침! 몬스터들이 파티에 겁을 먹고 도망칩니다."
+
+msgctxt "Travel/&DLC1_StandardRandomEvents1"
+msgid "The party passes what seems to be a redeemer's broken egg."
+msgstr ""
+
+msgctxt "Travel/&DLC1_StandardRandomEvents2"
+msgid "The party passes an ancient Manacalon runestone."
+msgstr ""
+
+msgctxt "Travel/&DLC1_StandardRandomEvents3"
+msgid "The party passes what seems to be a ruined Tirmarian house."
+msgstr ""
+
+msgctxt "Travel/&DLC1_StandardRandomEvents4"
+msgid ""
+"The party passes an ancient tree, old enough to have survived the Cataclysm."
+msgstr ""
+
+msgctxt "Travel/&DLC1_StandardRandomEvents5"
+msgid ""
+"The party passes an old Imperial marketplace, now used as a meeting point "
+"for traveling merchants."
+msgstr ""
+
+msgctxt "Travel/&DLC1_StandardRandomEvents6"
+msgid "The party passes the fallen statue of some Manacalon emperor."
+msgstr ""
+
+msgctxt "Travel/&DLC1_StandardRandomEvents7"
+msgid "The party passes a ruined village that seems to have been burned down."
+msgstr ""
+
+msgctxt "Travel/&DLC1_StandardRandomEvents8"
+msgid ""
+"The party passes a bunch of Forge collectors pulling a cart full of stuff."
+msgstr ""
+
+msgctxt "Travel/&DLC1_StandardRandomEvents9"
+msgid "The party passes a band of hooded travelers who avoid their path."
+msgstr ""
+
+msgctxt "Travel/&DLC1_StandardRandomEvents10"
+msgid "The party passes a merchant caravan with empty stocks."
+msgstr ""
+
+msgctxt "Travel/&DLC1_StandardRandomEvents11"
+msgid "The party passes a destroyed Dominion checkpoint."
+msgstr ""
+
+msgctxt "Travel/&DLC1_StandardRandomEvents12"
+msgid "The party passes gallows with hanging corpses labeled as rebels."
+msgstr ""
+
+msgctxt "Travel/&DLC1_StandardRandomEvents13"
+msgid "The party passes a post with shredded Dominion flags."
+msgstr ""
+
+msgctxt "Travel/&DLC1_StandardRandomEvents14"
+msgid "The party passes a milestone with a mask-shaped tag."
+msgstr ""
+
+msgctxt "Travel/&DLC1_StandardRandomEvents15"
+msgid "The party passes a signpost with a mask-shaped tag."
+msgstr ""
+
+msgctxt "Travel/&DLC1_StandardRandomEvents16"
+msgid "The party passes the corpse of a deformed creature."
+msgstr ""
+
+msgctxt "Travel/&DLC1_StandardRandomEvents17"
+msgid "The party passes the skeleton of a misshapen animal."
+msgstr ""
+
+msgctxt "Travel/&DLC1_StandardRandomEvents18"
+msgid "The party passes a pile of skulls."
+msgstr ""
+
+msgctxt "Travel/&DLC1_StandardRandomEvents19"
+msgid "The party passes an ancient Manacalon building, half-sunk in the swamp."
+msgstr ""
+
+msgctxt "Travel/&DLC1_StandardRandomEvents20"
+msgid "The party passes a lake of quicksand."
+msgstr ""
+
+msgctxt "Travel/&DLC1_StandardRandomEvents21"
+msgid "{0} skips a few stones on a stream."
+msgstr ""
+
+msgctxt "Travel/&DLC1_StandardRandomEvents22"
+msgid "{0} slaps out at a swarm of mosquitos that is harassing the party."
+msgstr ""
+
+msgctxt "Travel/&DLC1_StandardRandomEvents23"
+msgid "{0} empties their boots of sand and rocks."
+msgstr ""
+
+msgctxt "Travel/&DLC1_StandardRandomEvents24"
+msgid "{0} skips a few stones on a stream."
+msgstr ""
+
+msgctxt "Travel/&DLC1_StandardRandomEvents25"
+msgid "{0} whistles a tune from Masgarth."
+msgstr ""

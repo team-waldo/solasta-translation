@@ -1,18 +1,16 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2022-01-09 06:44+0000\n"
-"Last-Translator: E잡불어 <rarkar@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/feedback/"
-"ko/>\n"
-"Language: ko\n"
+"POT-Creation-Date: 2022-05-01 18:44+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "Feedback/&AbilityCheckConsoleAnyAdvantageLine"
 msgid "{0} rolls a {1} ability check against DC {2}, rolls {3} {4}, {5}"
@@ -66,8 +64,10 @@ msgctxt "Feedback/&AdditionalDamageArcaneFuryFormat"
 msgid "Arcane Fury!"
 msgstr "비전 격노!"
 
+#, fuzzy
+#| msgid "{0} deals more damage to {1} from Arcane Furry (+{2})"
 msgctxt "Feedback/&AdditionalDamageArcaneFuryLine"
-msgid "{0} deals more damage to {1} from Arcane Furry (+{2})"
+msgid "{0} deals more damage to {1} from Arcane Fury (+{2})"
 msgstr "{0}은(는) 비전 격노로 {1}에게 더 많은 피해를 줍니다. (+{2})"
 
 msgctxt "Feedback/&AdditionalDamageBestowCurseFormat"
@@ -770,8 +770,10 @@ msgctxt "Feedback/&SleightOfHandSuccessCaptionFormat"
 msgid "Success!"
 msgstr "성공!"
 
+#, fuzzy
+#| msgid "Challenge"
 msgctxt "Feedback/&SleightOfHandSuccessLine"
-msgid "Challenge"
+msgid "Successful Sleight of Hand!"
 msgstr "시도"
 
 msgctxt "Feedback/&SpellcastingFailedCaption"
@@ -1138,6 +1140,40 @@ msgctxt "Feedback/&Unlock_Door_With_Key"
 msgid "You unlocked the door with the adequate key."
 msgstr "알맞은 열쇠로 문을 열었습니다."
 
+msgctxt "Feedback/&FactionRelationChangeSameStatusLine"
+msgid "Your relations with the {0} faction have changed from {1} to {2}."
+msgstr ""
+
+msgctxt "Feedback/&FactionRelationChangeNewStatusLine"
+msgid ""
+"Your relations with the {0} faction have changed from {1} to {2}. Your new "
+"status with this faction is {3}."
+msgstr ""
+
+msgctxt "Feedback/&PowerAppliesNoAdditionalConditionLine"
+msgid "The {0} power gives no additional effect or condition."
+msgstr ""
+
+msgctxt "Feedback/&AttackConsoleLineAutomaticCritical"
+msgid "{0} is paralyzed: automatic critical"
+msgstr ""
+
+msgctxt "Feedback/&PlayerLeftTheGameLine"
+msgid "{0} has left the multiplayer session."
+msgstr ""
+
+msgctxt "Feedback/&GameLoadClickTitle"
+msgid "Click to Load"
+msgstr ""
+
+msgctxt "Feedback/&InvalidSaveFileDescription"
+msgid "Invalid Saved Game File"
+msgstr ""
+
+msgctxt "Feedback/&AdditionalDamageLine"
+msgid "Divine weapon damage!"
+msgstr ""
+
 msgctxt "Feedback/&MetamagicActivatedLine"
 msgid "{0} activates the {1} metamagic on the {2} spell"
 msgstr "{0}은(는) {2} 주문에 {1} 메타매직을 활성화합니다"
@@ -1273,3 +1309,54 @@ msgstr "열쇠로 열렸습니다"
 msgctxt "Feedback/&SharedDamageLine"
 msgid "{0} damage is shared between {1} ({2} damage) and {3} ({4} damage)."
 msgstr "{0} 피해량이 {1}과 ({2} 피해) {3} ({4} 피해) 사이에 분배되었습니다."
+
+msgctxt "Feedback/&BorrowedLuckLine"
+msgid ""
+"{0} has borrowed luck and tries to reroll the failed saving throw. Success "
+"means the saving throw will be performed with disadvantage."
+msgstr ""
+
+msgctxt "Feedback/&BorrowedLuckCaption"
+msgid "Borrow Luck!"
+msgstr ""
+
+msgctxt "Feedback/&AdditionalDamageBattleFocusFormat"
+msgid "Battle Focus!"
+msgstr ""
+
+msgctxt "Feedback/&AdditionalDamageBattleFocusLine"
+msgid "{0} is battle focused and deals more damage to {1} (+{2})"
+msgstr ""
+
+msgctxt "Feedback/&AdditionalDamageAuraOfRighteousnessFormat"
+msgid "Aura of Righteousness!"
+msgstr ""
+
+msgctxt "Feedback/&AdditionalDamageAuraOfRighteousnessLine"
+msgid ""
+"{0} is affected by Aura of Righteousness and deals more damage to {1} (+{2})"
+msgstr ""
+
+msgctxt "Feedback/&AdditionalDamageDragonsBlessingFormat"
+msgid "Dragon's Blessing!"
+msgstr ""
+
+msgctxt "Feedback/&AdditionalDamageDragonsBlessingLine"
+msgid "{0} is blessed by the dragon and deals more damage to {1} (+{2})"
+msgstr ""
+
+msgctxt "Feedback/&AdditionalDamageColdEmbraceFormat"
+msgid "Cold Embrace!"
+msgstr ""
+
+msgctxt "Feedback/&AdditionalDamageColdEmbraceLine"
+msgid "{0} prevents {1} from healing with Cold Embrace."
+msgstr ""
+
+msgctxt "Feedback/&DLC_Plaque_Orenetis_Lab"
+msgid "Lady Finaliel Sharpmind - Magic Laboratory"
+msgstr ""
+
+msgctxt "Feedback/&DLC_Plaque_Orenetis_Guestroom"
+msgid "Guest Room"
+msgstr ""

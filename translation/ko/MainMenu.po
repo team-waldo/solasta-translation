@@ -1,193 +1,244 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2021-12-18 14:49+0000\n"
-"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/mainmenu/"
-"ko/>\n"
-"Language: ko\n"
+"POT-Creation-Date: 2022-05-01 18:44+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
-msgctxt "MainMenu/&MultiplayerTitle"
-msgid "Multiplayer"
-msgstr "멀티플레이어"
+msgctxt "MainMenu/&ChangeCampaignDescription"
+msgid "Click to open a selection of adventures."
+msgstr "다른 모험을 선택하려면 클릭하십시오."
 
-msgctxt "MainMenu/&MultiplayerDescription"
-msgid "Allows you to host or join a multiplayer game session."
-msgstr "멀티플레이어 게임 세션을 열거나 입장할 수 있게 합니다."
+msgctxt "MainMenu/&ChangeCampaignTitle"
+msgid "Change Campaign"
+msgstr "캠페인 변경"
 
-msgctxt "MainMenu/&MultiplayerAlphaTitle"
-msgid "Alpha"
-msgstr "알파"
+msgctxt "MainMenu/&ChangeCharacterSlotDescription"
+msgid "Click to select a different character."
+msgstr "다른 캐릭터를 선택하려면 클릭하십시오."
 
-msgctxt "MainMenu/&CreateGameToggleTitle"
-msgid "Create Game"
-msgstr "게임 생성"
+msgctxt "MainMenu/&ChangeCharacterSlotTitle"
+msgid "Change"
+msgstr "변경"
 
-msgctxt "MainMenu/&JoinGameToggleTitle"
-msgid "Join Game"
-msgstr "게임 입장"
+msgctxt "MainMenu/&ContinueTitle"
+msgid "Continue"
+msgstr "계속하기"
 
-msgctxt "MainMenu/&SessionParameterNameTitle"
-msgid "Session Name"
-msgstr "세션 이름"
+msgctxt "MainMenu/&DeleteCharacterDescription"
+msgid "Click to delete this character from the pool."
+msgstr "이 캐릭터를 목록에서 삭제하려면 클릭하십시오."
 
-msgctxt "MainMenu/&SessionParameterNameDescription"
-msgid "The name used to refer to this game session and to join it."
-msgstr "이 게임 세션을 나타내거나 입장하기 위한 이름."
+msgctxt "MainMenu/&EmptySlotTitle"
+msgid "Empty"
+msgstr "비어있음"
 
-msgctxt "MainMenu/&SessionParameterPasswordTitle"
-msgid "Password"
-msgstr "비밀번호"
+msgctxt "MainMenu/&ExportPdfDescription"
+msgid "Exports the selected character to a printer-friendly pdf file"
+msgstr "선택한 캐릭터를 출력하기에 적합한 pdf 파일로 저장합니다"
 
-msgctxt "MainMenu/&SessionParameterPasswordDescription"
+msgctxt "MainMenu/&ExportPdfTitle"
+msgid "Export PDF"
+msgstr "PDF 내보내기"
+
+msgctxt "MainMenu/&InspectCharacterDescription"
+msgid "Open the character's inventory and character sheet."
+msgstr "캐릭터의 인벤토리와 캐릭터 시트를 엽니다."
+
+msgctxt "MainMenu/&InspectCharacterTitle"
+msgid "Inspect"
+msgstr "조사"
+
+msgctxt "MainMenu/&LevelUpCharacterDescription"
 msgid ""
-"The password required to join the session. If empty, no password is required"
-msgstr "세션에 입장하기 위한 비밀번호. 비울 경우, 비밀번호가 필요하지 않습니다"
+"Starts the character's level-up sequence. Some campaigns require or prohibit "
+"characters of levels higher than 1."
+msgstr "캐릭터의 레벨을 올립니다. 몇몇 캠페인은 1보다 높은 레벨의 캐릭터를 요구하거나 금지합니다."
 
-msgctxt "MainMenu/&SessionParameterVisibilityTitle"
-msgid "Visibility"
-msgstr "공개 여부"
+msgctxt "MainMenu/&LevelUpCharacterTitle"
+msgid "Level Up"
+msgstr "레벨 업"
 
-msgctxt "MainMenu/&SessionParameterVisibilityDescription"
-msgid ""
-"Determines whether this game session is visible to other players or is "
-"hidden."
-msgstr "다른 플레이어들에게 이 게임 세션을 공개할지에 대한 여부."
+msgctxt "MainMenu/&LicenseDescription"
+msgid "Display license information for this game."
+msgstr "이 게임에 대한 라이센스 정보를 표시합니다."
 
-msgctxt "MainMenu/&SessionParameterVisibilityPublicTitle"
-msgid "Public"
-msgstr "공개"
+msgctxt "MainMenu/&LicenseTitle"
+msgid "License"
+msgstr "라이센스"
 
-msgctxt "MainMenu/&SessionParameterVisibilityPrivateTitle"
-msgid "Private"
-msgstr "비공개"
+msgctxt "MainMenu/&LoadGameDescription"
+msgid "Load a previously saved game."
+msgstr "이전에 저장한 게임을 불러옵니다."
 
-msgctxt "MainMenu/&SessionParameterMaxPlayersTitle"
-msgid "Max Players"
-msgstr "최대 플레이어 수"
-
-msgctxt "MainMenu/&SessionParameterMaxPlayersDescription"
-msgid ""
-"The maximum number of players who can join this session, including the host."
-msgstr "방장을 포함해, 해당 세션에 참가 가능한 최대 플레이어 수."
-
-msgctxt "MainMenu/&CreateGameButtonDescription"
-msgid ""
-"Confirm the creation of the game session and proceed to the New Adventure "
-"panel."
-msgstr "게임 세션 생성을 확정하고 새 어드벤처 창으로 넘어갑니다."
-
-msgctxt "MainMenu/&JoinGameButtonDescription"
-msgid "Join the selected game session."
-msgstr "선택한 게임 세션에 입장합니다."
-
-msgctxt "MainMenu/&JoinGameSessionNameDescription"
-msgid ""
-"The name of the game session you wish to join. You can type in the name of a "
-"private game if you have it, as the list above only shows public games."
-msgstr ""
-"입장하려는 게임 세션의 이름. 상단 목록에선 공개된 게임만 확인할 수 있으므로, 비공개 게임에 입장하려 할 경우 이름을 입력할 수 "
-"있습니다."
-
-msgctxt "MainMenu/&RefreshListButtonTitle"
-msgid "Refresh List"
-msgstr "목록 새로고침"
-
-msgctxt "MainMenu/&RefreshListButtonDescription"
-msgid "Click to refresh the list of game sessions."
-msgstr "게임 세션 목록을 새로고침하려면 클릭하십시오."
-
-msgctxt "MainMenu/&RefreshingRoomsTitle"
-msgid "Refreshing..."
-msgstr "새로고침 중…"
-
-msgctxt "MainMenu/&LockedHeaderTitle"
-msgid "Locked"
-msgstr "잠김"
-
-msgctxt "MainMenu/&LockedHeaderDescription"
-msgid "Some game sessions are locked, requiring a password to join."
-msgstr "특정 게임 세션들은 잠금 상태이므로, 입장하려면 비밀번호를 입력해야 합니다."
-
-msgctxt "MainMenu/&PlayersHeaderTitle"
-msgid "Players"
-msgstr "플레이어"
-
-msgctxt "MainMenu/&PlayersHeaderDescription"
-msgid "The number of players (current / max) for this game session"
-msgstr "이 게임 세션의 (현재 / 최대) 플레이어 수"
-
-msgctxt "MainMenu/&CampaignHeaderTitle"
-msgid "Campaign"
-msgstr "캠페인"
-
-msgctxt "MainMenu/&CampaignHeaderDescription"
-msgid "The name of the campaign or location used by this game session."
-msgstr "이 게임 세션에 사용되는 캠페인 또는 지역 이름."
-
-msgctxt "MainMenu/&InvitePlayerButtonTitle"
-msgid "Invite"
-msgstr "초대"
-
-msgctxt "MainMenu/&InvitePlayerButtonDescription"
-msgid "Invite a player to join the game."
-msgstr "게임에 입장시키려는 플레이어를 초대합니다."
-
-msgctxt "MainMenu/&RemotePlayerStatusMissingPlayerTitle"
-msgid "Missing Player"
-msgstr "사라진 플레이어"
-
-msgctxt "MainMenu/&RemotePlayerStatusSelectingCharacterTitle"
-msgid "Selecting Character"
-msgstr "캐릭터 선택"
-
-msgctxt "MainMenu/&RemotePlayerStatusReadyTitle"
-msgid "Ready"
-msgstr "준비"
-
-msgctxt "MainMenu/&ReadyGameTitle"
-msgid "Ready"
-msgstr "준비"
-
-msgctxt "MainMenu/&ReadyGameDescription"
-msgid "Notify the host that you are ready to start the game."
-msgstr "방장에게 자신이 게임을 시작할 준비가 됐다고 알립니다."
-
-msgctxt "MainMenu/&StopReadyGameTitle"
-msgid "Stop"
-msgstr "준비 취소"
-
-msgctxt "MainMenu/&StopReadyGameDescription"
-msgid "Cancel your ready status."
-msgstr "준비 상태를 취소합니다."
-
-msgctxt "MainMenu/&LoadMultiplayerGameButtonTitle"
+msgctxt "MainMenu/&LoadGameTitle"
 msgid "Load Game"
-msgstr "게임 불러오기"
+msgstr "불러오기"
 
-msgctxt "MainMenu/&LoadMultiplayerGameButtonDescription"
-msgid "Open the loading panel to select a multiplayer game."
-msgstr "멀티플레이어 게임을 선택하기 위해 불러오기 창을 엽니다."
+msgctxt "MainMenu/&ManageCharactersDescription"
+msgid "Create/view/edit your pool of characters."
+msgstr "캐릭터 목록에서 캐릭터를 확인하고 생성 / 편집합니다."
 
-msgctxt "MainMenu/&SessionTypeHeaderTitle"
-msgid "Type"
-msgstr "종류"
+msgctxt "MainMenu/&ManageCharactersTitle"
+msgid "Characters"
+msgstr "캐릭터"
 
-msgctxt "MainMenu/&SessionTypeNewDescription"
-msgid "This is a new session that is just starting."
-msgstr "이 세션은 새롭게 시작됩니다."
+msgctxt "MainMenu/&NewAdventureDescription"
+msgid "Launch a new game with a party of adventurers."
+msgstr "모험가 파티를 구성해 새 게임을 시작합니다."
 
-msgctxt "MainMenu/&SessionTypeSavedDescription"
+msgctxt "MainMenu/&NewAdventureTitle"
+msgid "New Adventure"
+msgstr "새로운 모험"
+
+msgctxt "MainMenu/&NewCharacterDescription"
+msgid "Create a new character and choose ancestry, class, background, etc."
+msgstr "새로운 캐릭터를 생성하고 종족, 클래스, 배경 등을 선택하십시오."
+
+msgctxt "MainMenu/&NewCharacterTitle"
+msgid "New Character"
+msgstr "새로운 캐릭터"
+
+msgctxt "MainMenu/&PredefinedPartyTitle"
+msgid "Predefined Party"
+msgstr "사전 구성된 파티"
+
+msgctxt "MainMenu/&PrivacyDescription"
+msgid "Manage your privacy settings."
+msgstr "개인 정보 설정을 관리합니다."
+
+msgctxt "MainMenu/&PrivacyTitle"
+msgid "Privacy"
+msgstr "개인정보"
+
+msgctxt "MainMenu/&QuitDescription"
+msgid "Quit the game and return to the desktop."
+msgstr "게임을 종료하고 바탕 화면으로 돌아갑니다."
+
+msgctxt "MainMenu/&QuitTitle"
+msgid "Quit"
+msgstr "종료"
+
+msgctxt "MainMenu/&SaveDateHeader"
+msgid "Save Date"
+msgstr "저장 날짜"
+
+msgctxt "MainMenu/&SelectCharacterSlotDescription"
+msgid "Select a character from the character pool."
+msgstr "캐릭터 목록에서 캐릭터를 선택합니다."
+
+msgctxt "MainMenu/&SelectCharacterSlotTitle"
+msgid "Select"
+msgstr "선택"
+
+msgctxt "MainMenu/&SettingsDescription"
+msgid "Adjust application settings."
+msgstr "게임 설정을 변경합니다."
+
+msgctxt "MainMenu/&SettingsTitle"
+msgid "Settings"
+msgstr "설정"
+
+msgctxt "MainMenu/&StartGameDescription"
+msgid "Launch the campaign with the selected characters."
+msgstr "선택한 캐릭터로 캠페인을 시작합니다."
+
+msgctxt "MainMenu/&StartGameTitle"
+msgid "Start Game"
+msgstr "게임 시작"
+
+msgctxt "MainMenu/&StartingLevelRange"
+msgid "{0}-{1}"
+msgstr "{0}-{1}"
+
+msgctxt "MainMenu/&StartingLevelTitle"
+msgid "Starting Level:"
+msgstr "시작 레벨:"
+
+msgctxt "MainMenu/&CharacterSourceTogglePregenDescription"
+msgid "Only display characters pre-generated by the game."
+msgstr "게임이 미리 생성한 캐릭터만 표시합니다."
+
+msgctxt "MainMenu/&CharacterSourceTogglePregenTitle"
+msgid "Pregen"
+msgstr "견본"
+
+msgctxt "MainMenu/&CharacterSourceTogglePersonalDescription"
+msgid "Only display characters created personally."
+msgstr "직접 생성한 캐릭터만 표시합니다."
+
+msgctxt "MainMenu/&CharacterSourceTogglePersonalTitle"
+msgid "Personal"
+msgstr "개인"
+
+msgctxt "MainMenu/&CharacterSourceToggleAllDescription"
+msgid "Display all characters."
+msgstr "모든 캐릭터를 표시합니다."
+
+msgctxt "MainMenu/&CharacterSourceToggleAllTitle"
+msgid "All"
+msgstr "전체"
+
+msgctxt "MainMenu/&CharacterSortAlphaneticalTitle"
+msgid "Name"
+msgstr "이름"
+
+msgctxt "MainMenu/&CharacterSortCharacterLevelTitle"
+msgid "Level"
+msgstr "레벨"
+
+msgctxt "MainMenu/&CharacterSortCharacterClassTitle"
+msgid "Class"
+msgstr "클래스"
+
+msgctxt "MainMenu/&CharacterSortCharacterAncestryTitle"
+msgid "Ancestry"
+msgstr "종족"
+
+msgctxt "MainMenu/&DifficultySettingCustomizationLabel"
+msgid "Detailed options can be customized in the Game Settings menu."
+msgstr "세부 옵션은 설정 메뉴에서 조정할 수 있습니다."
+
+msgctxt "MainMenu/&CreditsTitle"
+msgid "Game Credits"
+msgstr "제작진"
+
+msgctxt "MainMenu/&CreditsDescription"
+msgid "Display the game credits of Solasta: Crown of the Magister."
+msgstr "Solasta: Crown of the Magister의 제작진을 봅니다."
+
+msgctxt "MainMenu/&UserLocationsBrowseModIOTitle"
+msgid "Browse Mod.IO"
+msgstr "Mod.IO에서 찾아보기"
+
+#, fuzzy
+#| msgid ""
+#| "Refresh subscribed locations (wait a couple of seconds after subscribing/"
+#| "unsubscribing before refreshing)"
+msgctxt "MainMenu/&UserLocationsRefreshDescription"
 msgid ""
-"This session is based on a saved game with a set list of player characters."
-msgstr "이 세션은 지정된 플레이어 캐릭터로 저장된 게임을 불러옵니다."
+"Refresh subscribed locations. Wait a couple of seconds between subscribing/"
+"unsubscribing and refreshing."
+msgstr "구독 맵 새로고침 (구독/구독 취소 후 몇 초 기다렸다가 새로고침하세요)"
+
+msgctxt "MainMenu/&UserLocationsLogoutTitle"
+msgid "Log Out"
+msgstr "로그아웃"
+
+msgctxt "MainMenu/&UserLocationsLogoutDescription"
+msgid "Log out of Mod.IO"
+msgstr "Mod.IO에서 로그아웃"
+
+msgctxt "MainMenu/&UserLocationsLoggedInAsTitle"
+msgid "Logged in as:"
+msgstr "현재 계정:"
 
 msgctxt "MainMenu/&UserLocationsTitle"
 msgid "Dungeon Maker"
@@ -435,229 +486,41 @@ msgctxt "MainMenu/&UserLocationsPublishDescription"
 msgid "Opens the interface to publish content online"
 msgstr "맵을 온라인에 게시하기 위해 창을 엽니다"
 
-msgctxt "MainMenu/&ChangeCampaignDescription"
-msgid "Click to open a selection of adventures."
-msgstr "다른 모험을 선택하려면 클릭하십시오."
+msgctxt "MainMenu/&SessionTypeHeaderDescription"
+msgid "Game sessions are either new games or saved games."
+msgstr ""
 
-msgctxt "MainMenu/&ChangeCampaignTitle"
-msgid "Change Campaign"
-msgstr "캠페인 변경"
+msgctxt "MainMenu/&RequestCharacterSlotTitle"
+msgid "REQUEST"
+msgstr ""
 
-msgctxt "MainMenu/&ChangeCharacterSlotDescription"
-msgid "Click to select a different character."
-msgstr "다른 캐릭터를 선택하려면 클릭하십시오."
+msgctxt "MainMenu/&RequestCharacterSlotDescription"
+msgid "Ask to play this character"
+msgstr ""
 
-msgctxt "MainMenu/&ChangeCharacterSlotTitle"
-msgid "Change"
-msgstr "변경"
+msgctxt "MainMenu/&SessionPlayersTitle"
+msgid "Players in room:"
+msgstr ""
 
-msgctxt "MainMenu/&ContinueTitle"
-msgid "Continue"
-msgstr "계속하기"
+msgctxt "MainMenu/&CreateGameToggleTitle"
+msgid "Create Game"
+msgstr "게임 생성"
 
-msgctxt "MainMenu/&DeleteCharacterDescription"
-msgid "Click to delete this character from the pool."
-msgstr "이 캐릭터를 목록에서 삭제하려면 클릭하십시오."
+msgctxt "MainMenu/&JoinGameToggleTitle"
+msgid "Join Game"
+msgstr "게임 입장"
 
-msgctxt "MainMenu/&EmptySlotTitle"
-msgid "Empty"
-msgstr "비어있음"
+msgctxt "MainMenu/&AutoNetworkRegionTitle"
+msgid "Auto"
+msgstr ""
 
-msgctxt "MainMenu/&ExportPdfDescription"
-msgid "Exports the selected character to a printer-friendly pdf file"
-msgstr "선택한 캐릭터를 출력하기에 적합한 pdf 파일로 저장합니다"
+msgctxt "MainMenu/&RequestedByDescription"
+msgid "Requested by:"
+msgstr ""
 
-msgctxt "MainMenu/&ExportPdfTitle"
-msgid "Export PDF"
-msgstr "PDF 내보내기"
-
-msgctxt "MainMenu/&InspectCharacterDescription"
-msgid "Open the character's inventory and character sheet."
-msgstr "캐릭터의 인벤토리와 캐릭터 시트를 엽니다."
-
-msgctxt "MainMenu/&InspectCharacterTitle"
-msgid "Inspect"
-msgstr "조사"
-
-msgctxt "MainMenu/&LevelUpCharacterDescription"
-msgid ""
-"Starts the character's level-up sequence. Some campaigns require or prohibit "
-"characters of levels higher than 1."
-msgstr "캐릭터의 레벨을 올립니다. 몇몇 캠페인은 1보다 높은 레벨의 캐릭터를 요구하거나 금지합니다."
-
-msgctxt "MainMenu/&LevelUpCharacterTitle"
-msgid "Level Up"
-msgstr "레벨 업"
-
-msgctxt "MainMenu/&LicenseDescription"
-msgid "Display license information for this game."
-msgstr "이 게임에 대한 라이센스 정보를 표시합니다."
-
-msgctxt "MainMenu/&LicenseTitle"
-msgid "License"
-msgstr "라이센스"
-
-msgctxt "MainMenu/&LoadGameDescription"
-msgid "Load a previously saved game."
-msgstr "이전에 저장한 게임을 불러옵니다."
-
-msgctxt "MainMenu/&LoadGameTitle"
-msgid "Load Game"
-msgstr "불러오기"
-
-msgctxt "MainMenu/&ManageCharactersDescription"
-msgid "Create/view/edit your pool of characters."
-msgstr "캐릭터 목록에서 캐릭터를 확인하고 생성 / 편집합니다."
-
-msgctxt "MainMenu/&ManageCharactersTitle"
-msgid "Characters"
-msgstr "캐릭터"
-
-msgctxt "MainMenu/&NewAdventureDescription"
-msgid "Launch a new game with a party of adventurers."
-msgstr "모험가 파티를 구성해 새 게임을 시작합니다."
-
-msgctxt "MainMenu/&NewAdventureTitle"
-msgid "New Adventure"
-msgstr "새로운 모험"
-
-msgctxt "MainMenu/&NewCharacterDescription"
-msgid "Create a new character and choose ancestry, class, background, etc."
-msgstr "새로운 캐릭터를 생성하고 종족, 클래스, 배경 등을 선택하십시오."
-
-msgctxt "MainMenu/&NewCharacterTitle"
-msgid "New Character"
-msgstr "새로운 캐릭터"
-
-msgctxt "MainMenu/&PredefinedPartyTitle"
-msgid "Predefined Party"
-msgstr "사전 구성된 파티"
-
-msgctxt "MainMenu/&PrivacyDescription"
-msgid "Manage your privacy settings."
-msgstr "개인 정보 설정을 관리합니다."
-
-msgctxt "MainMenu/&PrivacyTitle"
-msgid "Privacy"
-msgstr "개인정보"
-
-msgctxt "MainMenu/&QuitDescription"
-msgid "Quit the game and return to the desktop."
-msgstr "게임을 종료하고 바탕 화면으로 돌아갑니다."
-
-msgctxt "MainMenu/&QuitTitle"
-msgid "Quit"
-msgstr "종료"
-
-msgctxt "MainMenu/&SaveDateHeader"
-msgid "Save Date"
-msgstr "저장 날짜"
-
-msgctxt "MainMenu/&SelectCharacterSlotDescription"
-msgid "Select a character from the character pool."
-msgstr "캐릭터 목록에서 캐릭터를 선택합니다."
-
-msgctxt "MainMenu/&SelectCharacterSlotTitle"
-msgid "Select"
-msgstr "선택"
-
-msgctxt "MainMenu/&SettingsDescription"
-msgid "Adjust application settings."
-msgstr "게임 설정을 변경합니다."
-
-msgctxt "MainMenu/&SettingsTitle"
-msgid "Settings"
-msgstr "설정"
-
-msgctxt "MainMenu/&StartGameDescription"
-msgid "Launch the campaign with the selected characters."
-msgstr "선택한 캐릭터로 캠페인을 시작합니다."
-
-msgctxt "MainMenu/&StartGameTitle"
-msgid "Start Game"
-msgstr "게임 시작"
-
-msgctxt "MainMenu/&StartingLevelRange"
-msgid "{0}-{1}"
-msgstr "{0}-{1}"
-
-msgctxt "MainMenu/&StartingLevelTitle"
-msgid "Starting Level:"
-msgstr "시작 레벨:"
-
-msgctxt "MainMenu/&CharacterSourceTogglePregenDescription"
-msgid "Only display characters pre-generated by the game."
-msgstr "게임이 미리 생성한 캐릭터만 표시합니다."
-
-msgctxt "MainMenu/&CharacterSourceTogglePregenTitle"
-msgid "Pregen"
-msgstr "견본"
-
-msgctxt "MainMenu/&CharacterSourceTogglePersonalDescription"
-msgid "Only display characters created personally."
-msgstr "직접 생성한 캐릭터만 표시합니다."
-
-msgctxt "MainMenu/&CharacterSourceTogglePersonalTitle"
-msgid "Personal"
-msgstr "개인"
-
-msgctxt "MainMenu/&CharacterSourceToggleAllDescription"
-msgid "Display all characters."
-msgstr "모든 캐릭터를 표시합니다."
-
-msgctxt "MainMenu/&CharacterSourceToggleAllTitle"
-msgid "All"
-msgstr "전체"
-
-msgctxt "MainMenu/&CharacterSortAlphaneticalTitle"
-msgid "Name"
-msgstr "이름"
-
-msgctxt "MainMenu/&CharacterSortCharacterLevelTitle"
-msgid "Level"
-msgstr "레벨"
-
-msgctxt "MainMenu/&CharacterSortCharacterClassTitle"
-msgid "Class"
-msgstr "클래스"
-
-msgctxt "MainMenu/&CharacterSortCharacterAncestryTitle"
-msgid "Ancestry"
-msgstr "종족"
-
-msgctxt "MainMenu/&DifficultySettingCustomizationLabel"
-msgid "Detailed options can be customized in the Game Settings menu."
-msgstr "세부 옵션은 설정 메뉴에서 조정할 수 있습니다."
-
-msgctxt "MainMenu/&CreditsTitle"
-msgid "Game Credits"
-msgstr "제작진"
-
-msgctxt "MainMenu/&CreditsDescription"
-msgid "Display the game credits of Solasta: Crown of the Magister."
-msgstr "Solasta: Crown of the Magister의 제작진을 봅니다."
-
-msgctxt "MainMenu/&UserLocationsBrowseModIOTitle"
-msgid "Browse Mod.IO"
-msgstr "Mod.IO에서 찾아보기"
-
-msgctxt "MainMenu/&UserLocationsRefreshDescription"
-msgid ""
-"Refresh subscribed locations (wait a couple of seconds after subscribing/"
-"unsubscribing before refreshing)"
-msgstr "구독 맵 새로고침 (구독/구독 취소 후 몇 초 기다렸다가 새로고침하세요)"
-
-msgctxt "MainMenu/&UserLocationsLogoutTitle"
-msgid "Log Out"
-msgstr "로그아웃"
-
-msgctxt "MainMenu/&UserLocationsLogoutDescription"
-msgid "Log out of Mod.IO"
-msgstr "Mod.IO에서 로그아웃"
-
-msgctxt "MainMenu/&UserLocationsLoggedInAsTitle"
-msgid "Logged in as:"
-msgstr "현재 계정:"
+msgctxt "MainMenu/&LoadAdventureTitle"
+msgid "Continue Adventure"
+msgstr ""
 
 msgctxt "MainMenu/&RefreshDLCTitle"
 msgid "Refresh DLC"
@@ -666,3 +529,199 @@ msgstr "DLC 새로고침"
 msgctxt "MainMenu/&RefreshDLCDescription"
 msgid "This will check your DLC licences from the online store."
 msgstr "온라인 스토어에서 당신의 DLC 라이센스를 점검합니다."
+
+msgctxt "MainMenu/&MultiplayerTitle"
+msgid "Multiplayer"
+msgstr "멀티플레이어"
+
+msgctxt "MainMenu/&MultiplayerDescription"
+msgid "Allows you to host or join a multiplayer game session."
+msgstr "멀티플레이어 게임 세션을 열거나 입장할 수 있게 합니다."
+
+msgctxt "MainMenu/&MultiplayerAlphaTitle"
+msgid "Alpha"
+msgstr "알파"
+
+msgctxt "MainMenu/&SessionParameterNameTitle"
+msgid "Session Name"
+msgstr "세션 이름"
+
+msgctxt "MainMenu/&SessionParameterNameDescription"
+msgid "The name used to refer to this game session and to join it."
+msgstr "이 게임 세션을 나타내거나 입장하기 위한 이름."
+
+msgctxt "MainMenu/&SessionParameterPasswordTitle"
+msgid "Password"
+msgstr "비밀번호"
+
+msgctxt "MainMenu/&SessionParameterPasswordDescription"
+msgid ""
+"The password required to join the session. If empty, no password is required"
+msgstr "세션에 입장하기 위한 비밀번호. 비울 경우, 비밀번호가 필요하지 않습니다"
+
+msgctxt "MainMenu/&SessionParameterVisibilityTitle"
+msgid "Visibility"
+msgstr "공개 여부"
+
+msgctxt "MainMenu/&SessionParameterVisibilityDescription"
+msgid ""
+"Determines whether this game session is visible to other players or is "
+"hidden."
+msgstr "다른 플레이어들에게 이 게임 세션을 공개할지에 대한 여부."
+
+msgctxt "MainMenu/&SessionParameterVisibilityPublicTitle"
+msgid "Public"
+msgstr "공개"
+
+msgctxt "MainMenu/&SessionParameterVisibilityPrivateTitle"
+msgid "Private"
+msgstr "비공개"
+
+#, fuzzy
+#| msgid "Max Players"
+msgctxt "MainMenu/&SessionParameterMaxPlayersTitle"
+msgid "Max. Players"
+msgstr "최대 플레이어 수"
+
+msgctxt "MainMenu/&SessionParameterMaxPlayersDescription"
+msgid ""
+"The maximum number of players who can join this session, including the host."
+msgstr "방장을 포함해, 해당 세션에 참가 가능한 최대 플레이어 수."
+
+msgctxt "MainMenu/&CreateGameButtonDescription"
+msgid ""
+"Confirm the creation of the game session and proceed to the New Adventure "
+"panel."
+msgstr "게임 세션 생성을 확정하고 새 어드벤처 창으로 넘어갑니다."
+
+msgctxt "MainMenu/&JoinGameButtonDescription"
+msgid "Join the selected game session."
+msgstr "선택한 게임 세션에 입장합니다."
+
+msgctxt "MainMenu/&JoinGameSessionNameDescription"
+msgid ""
+"The name of the game session you wish to join. You can type in the name of a "
+"private game if you have it, as the list above only shows public games."
+msgstr ""
+"입장하려는 게임 세션의 이름. 상단 목록에선 공개된 게임만 확인할 수 있으므로, 비공개 게임에 입장하려 할 경우 이름을 입력할 수 "
+"있습니다."
+
+msgctxt "MainMenu/&RefreshListButtonTitle"
+msgid "Refresh List"
+msgstr "목록 새로고침"
+
+msgctxt "MainMenu/&RefreshListButtonDescription"
+msgid "Click to refresh the list of game sessions."
+msgstr "게임 세션 목록을 새로고침하려면 클릭하십시오."
+
+#, fuzzy
+#| msgid "Refreshing..."
+msgctxt "MainMenu/&RefreshingRoomsTitle"
+msgid "Refreshing…"
+msgstr "새로고침 중…"
+
+msgctxt "MainMenu/&LockedHeaderTitle"
+msgid "Locked"
+msgstr "잠김"
+
+#, fuzzy
+#| msgid "Some game sessions are locked, requiring a password to join."
+msgctxt "MainMenu/&LockedHeaderDescription"
+msgid "Some game sessions are locked and require a password to join them."
+msgstr "특정 게임 세션들은 잠금 상태이므로, 입장하려면 비밀번호를 입력해야 합니다."
+
+msgctxt "MainMenu/&PlayersHeaderTitle"
+msgid "Players"
+msgstr "플레이어"
+
+#, fuzzy
+#| msgid "The number of players (current / max) for this game session"
+msgctxt "MainMenu/&PlayersHeaderDescription"
+msgid "The number of players (current/max.) for this game session"
+msgstr "이 게임 세션의 (현재 / 최대) 플레이어 수"
+
+msgctxt "MainMenu/&CampaignHeaderTitle"
+msgid "Campaign"
+msgstr "캠페인"
+
+msgctxt "MainMenu/&CampaignHeaderDescription"
+msgid "The name of the campaign or location used by this game session."
+msgstr "이 게임 세션에 사용되는 캠페인 또는 지역 이름."
+
+msgctxt "MainMenu/&InvitePlayerButtonTitle"
+msgid "Invite"
+msgstr "초대"
+
+msgctxt "MainMenu/&InvitePlayerButtonDescription"
+msgid "Invite a player to join the game."
+msgstr "게임에 입장시키려는 플레이어를 초대합니다."
+
+msgctxt "MainMenu/&RemotePlayerStatusMissingPlayerTitle"
+msgid "Missing Player"
+msgstr "사라진 플레이어"
+
+msgctxt "MainMenu/&RemotePlayerStatusSelectingCharacterTitle"
+msgid "Selecting Character"
+msgstr "캐릭터 선택"
+
+msgctxt "MainMenu/&RemotePlayerStatusReadyTitle"
+msgid "Ready"
+msgstr "준비"
+
+msgctxt "MainMenu/&ReadyGameTitle"
+msgid "Ready"
+msgstr "준비"
+
+#, fuzzy
+#| msgid "Notify the host that you are ready to start the game."
+msgctxt "MainMenu/&ReadyGameDescription"
+msgid "Notify the others that you are ready to start the game."
+msgstr "방장에게 자신이 게임을 시작할 준비가 됐다고 알립니다."
+
+msgctxt "MainMenu/&StopReadyGameTitle"
+msgid "Stop"
+msgstr "준비 취소"
+
+msgctxt "MainMenu/&StopReadyGameDescription"
+msgid "Cancel your ready status."
+msgstr "준비 상태를 취소합니다."
+
+msgctxt "MainMenu/&LoadMultiplayerGameButtonTitle"
+msgid "Load Game"
+msgstr "게임 불러오기"
+
+#, fuzzy
+#| msgid "Open the loading panel to select a multiplayer game."
+msgctxt "MainMenu/&LoadMultiplayerGameButtonDescription"
+msgid "Open the load panel to select a multiplayer game."
+msgstr "멀티플레이어 게임을 선택하기 위해 불러오기 창을 엽니다."
+
+msgctxt "MainMenu/&SessionTypeHeaderTitle"
+msgid "Type"
+msgstr "종류"
+
+msgctxt "MainMenu/&SessionTypeNewDescription"
+msgid "This is a new session that is just starting."
+msgstr "이 세션은 새롭게 시작됩니다."
+
+msgctxt "MainMenu/&SessionTypeSavedDescription"
+msgid ""
+"This session is based on a saved game with a set list of player characters."
+msgstr "이 세션은 지정된 플레이어 캐릭터로 저장된 게임을 불러옵니다."
+
+msgctxt "MainMenu/&SessionParameterAllowCrossplayTitle"
+msgid "Allow Crossplay"
+msgstr ""
+
+msgctxt "MainMenu/&SessionParameterAllowCrossplayDescription"
+msgid ""
+"Determines whether this game allows players from other gaming platforms."
+msgstr ""
+
+msgctxt "MainMenu/&CrossplayHeaderTitle"
+msgid "Crossplay"
+msgstr ""
+
+msgctxt "MainMenu/&CrossplayHeaderDescription"
+msgid "Some games allow players from other gaming platforms."
+msgstr ""

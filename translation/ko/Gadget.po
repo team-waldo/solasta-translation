@@ -1,18 +1,16 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2021-12-28 10:28+0000\n"
-"Last-Translator: 홍성원 <hsw2201@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/gadget/ko/>"
-"\n"
-"Language: ko\n"
+"POT-Creation-Date: 2022-05-01 18:44+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "Gadget/&CampfireTitle"
 msgid "Campfire"
@@ -42,8 +40,10 @@ msgctxt "Gadget/&EntranceTitle"
 msgid "Entrance"
 msgstr "입구"
 
+#, fuzzy
+#| msgid "The starting point for the party "
 msgctxt "Gadget/&EntranceDescription"
-msgid "The starting point for the party "
+msgid "The starting point for the party"
 msgstr "파티의 시작 지점 "
 
 msgctxt "Gadget/&ExitTitle"
@@ -630,15 +630,6 @@ msgctxt "Gadget/&ActivatorEntryTitle"
 msgid "Entry Activator"
 msgstr "입장 활성화 장치"
 
-msgctxt "Gadget/&ActivatorEntryDescription"
-msgid ""
-"An activator that is triggered when the dungeon is entered. Since this "
-"gadget does not react to character positions or interactions, it can be "
-"placed anywhere in the dungeon"
-msgstr ""
-"던전에 입장했을 때 작동되는 활성화 장치입니다. 장치가 캐릭터의 위치나 상호작용에 반응하지 않기 때문에 던전 어느 곳이든 위치시킬 수 "
-"있습니다"
-
 msgctxt "Gadget/&ParameterParam_EntryOnceTitle"
 msgid "Entry Once"
 msgstr "첫번째 입장"
@@ -816,8 +807,10 @@ msgctxt "Gadget/&Bridge_EntranceDescription"
 msgid "The be used only with the Town Entrance room"
 msgstr "마을 입구 방에만 사용 가능"
 
+#, fuzzy
+#| msgid "Stairs double door "
 msgctxt "Gadget/&DoubleStairsDoorTitle"
-msgid "Stairs double door "
+msgid "Stairs double door"
 msgstr "계단용 이중문 "
 
 msgctxt "Gadget/&DoubleStairsDoorDescription"
@@ -828,12 +821,18 @@ msgctxt "Gadget/&CreatureDestroyerTitle"
 msgid "Creature Destroyer"
 msgstr "크리쳐 제거기"
 
+#, fuzzy
+#| msgid ""
+#| "Destroys all creatures (Monsters or NPCs) matching the specified Encounter "
+#| "Index, as the defined in the creature spawner gadget. The creatures are "
+#| "destroyed permanently and cannot be respawned. This gadget must be triggered "
+#| "by an activator"
 msgctxt "Gadget/&CreatureDestroyerDescription"
 msgid ""
-"Destroys all creatures (Monsters or NPCs) matching the specified Encounter "
-"Index, as the defined in the creature spawner gadget. The creatures are "
+"Destroys all creatures (monsters or NPCs) matching the specified encounter "
+"index, as defined in the creature spawner gadget. The creatures are "
 "destroyed permanently and cannot be respawned. This gadget must be triggered "
-"by an activator"
+"by an activator."
 msgstr ""
 "크리쳐 생성 장치에서 정의된 특정 인카운터 번호와 일치하는 모든 크리쳐(몬스터, NPC 모두)를 제거합니다. 대상들은 영구히 제거되며 "
 "재생성될 수 없습니다. 이 장치는 활성화 장치에 의해서만 발동됩니다"
@@ -1213,3 +1212,308 @@ msgid ""
 "Determines whether the activators restarts once its has trigger, to lapse "
 "the same duration"
 msgstr "활성화 장치가 한 번 작동한 이상 다시 시작해, 동일한 지속시간을 반복할지를 결정합니다"
+
+msgctxt "Gadget/&ActivatorEntryDescription"
+msgid ""
+"An activator that is triggered when the dungeon is entered. Since this "
+"gadget does not react to character positions or interactions, it can be "
+"placed anywhere in the dungeon"
+msgstr ""
+"던전에 입장했을 때 작동되는 활성화 장치입니다. 장치가 캐릭터의 위치나 상호작용에 반응하지 않기 때문에 던전 어느 곳이든 위치시킬 수 "
+"있습니다"
+
+msgctxt "Gadget/&QuestOperationTitle"
+msgid "Quest Operation"
+msgstr ""
+
+msgctxt "Gadget/&QuestOperationDescription"
+msgid ""
+"Enables you to start a quest or update its progress. Useful for advancing "
+"quest steps with a \"Delegated\" validator"
+msgstr ""
+
+msgctxt "Gadget/&ActivatorQuestUpdateTitle"
+msgid "Quest Update Activator"
+msgstr ""
+
+msgctxt "Gadget/&ActivatorQuestUpdateDescription"
+msgid "An activator that is triggered when a quest is updated in a certain way"
+msgstr ""
+
+msgctxt "Gadget/&ParameterQuestOperationTypeTitle"
+msgid "Operation Type"
+msgstr ""
+
+msgctxt "Gadget/&ParameterQuestOperationTypeDescription"
+msgid "The type of operation performed on the specified quest"
+msgstr ""
+
+msgctxt "Gadget/&ParameterQuestOperationTypeStartQuestTitle"
+msgid "Start Quest"
+msgstr ""
+
+msgctxt "Gadget/&ParameterQuestOperationTypeStartQuestDescription"
+msgid ""
+"Starts the specified quest. No effect if the quest has already been started"
+msgstr ""
+
+msgctxt "Gadget/&ParameterQuestOperationTypeAchieveStepTitle"
+msgid "Achieve Step"
+msgstr ""
+
+msgctxt "Gadget/&ParameterQuestOperationTypeAchieveStepDescription"
+msgid ""
+"Achieve a quest step with the specified outcome number (1, 2, ...). This can "
+"mean success or failure, depending on how the outcome is flagged"
+msgstr ""
+
+msgctxt "Gadget/&ParameterQuestOperationTypeFailQuestTitle"
+msgid "Fail Quest"
+msgstr ""
+
+msgctxt "Gadget/&ParameterQuestOperationTypeFailQuestDescription"
+msgid "Immediately marks the quest as failed and stops all its active steps"
+msgstr ""
+
+msgctxt "Gadget/&ParameterQuestNameTitle"
+msgid "Quest Name"
+msgstr ""
+
+msgctxt "Gadget/&ParameterQuestNameDescription"
+msgid ""
+"The internal name (not exposed to the user) of the quest upon which the "
+"operation is performed. Nothing happens if the quest name is not found in "
+"the campaign"
+msgstr ""
+
+msgctxt "Gadget/&ParameterQuestStepNameTitle"
+msgid "Step Name"
+msgstr ""
+
+msgctxt "Gadget/&ParameterQuestStepNameDescription"
+msgid ""
+"The internal name (not exposed to the user) of the quest step being "
+"modified. No effect if the step is not active"
+msgstr ""
+
+msgctxt "Gadget/&ParameterQuestStepOutcomeTitle"
+msgid "Outcome Number"
+msgstr ""
+
+msgctxt "Gadget/&ParameterQuestStepOutcomeDescription"
+msgid ""
+"The outcome number to trigger in the current quest step. 1 = first outcome, "
+"2 = second, etc."
+msgstr ""
+
+msgctxt "Gadget/&ParameterQuestUpdateTypeTitle"
+msgid "Update Type"
+msgstr ""
+
+msgctxt "Gadget/&ParameterQuestUpdateTypeDescription"
+msgid "The type of update to the quest"
+msgstr ""
+
+msgctxt "Gadget/&ParameterQuestUpdateTypeQuestStartedTitle"
+msgid "Quest Started"
+msgstr ""
+
+msgctxt "Gadget/&ParameterQuestUpdateTypeQuestStartedDescription"
+msgid "The specified quest has been started"
+msgstr ""
+
+msgctxt "Gadget/&ParameterQuestUpdateTypeQuestCompletedTitle"
+msgid "Quest Completed"
+msgstr ""
+
+msgctxt "Gadget/&ParameterQuestUpdateTypeQuestCompletedDescription"
+msgid "The specified quest has been completed"
+msgstr ""
+
+msgctxt "Gadget/&ParameterQuestUpdateTypeQuestFailedTitle"
+msgid "Quest Failed"
+msgstr ""
+
+msgctxt "Gadget/&ParameterQuestUpdateTypeQuestFailedDescription"
+msgid "The specified quest has been failed"
+msgstr ""
+
+msgctxt "Gadget/&ParameterQuestUpdateTypeQuestStepStartedTitle"
+msgid "Quest Step Started"
+msgstr ""
+
+msgctxt "Gadget/&ParameterQuestUpdateTypeQuestStepStartedDescription"
+msgid "The specified quest step has been started"
+msgstr ""
+
+msgctxt "Gadget/&ParameterQuestUpdateTypeQuestStepAchievedTitle"
+msgid "Quest Step Achieved"
+msgstr ""
+
+msgctxt "Gadget/&ParameterQuestUpdateTypeQuestStepAchievedDescription"
+msgid ""
+"The specified quest step has been achieved, whether it is a success or "
+"failure outcome"
+msgstr ""
+
+msgctxt "Gadget/&TrapDoorTitle"
+msgid "Trap Door"
+msgstr ""
+
+msgctxt "Gadget/&TrapDoorDescription"
+msgid "Can transport the party to another location"
+msgstr ""
+
+msgctxt "Gadget/&VariableOperationTitle"
+msgid "Variable Operation"
+msgstr ""
+
+msgctxt "Gadget/&VariableOperationDescription"
+msgid ""
+"Enables you to perform an operation on a game variable defined by the "
+"campaign"
+msgstr ""
+
+msgctxt "Gadget/&ActivatorVariableChangedTitle"
+msgid "Variable Changed Activator"
+msgstr ""
+
+msgctxt "Gadget/&ActivatorVariableChangedDescription"
+msgid ""
+"An activator that is triggered when a variable is changed and validates the "
+"specified condition. Also tested whenever a new location is entered"
+msgstr ""
+
+msgctxt "Gadget/&ParameterVariableTitle"
+msgid "Variable"
+msgstr ""
+
+msgctxt "Gadget/&ParameterVariableDescription"
+msgid "The campaign variable used by this gadget"
+msgstr ""
+
+msgctxt "Gadget/&ParameterVariableOperationTypeTitle"
+msgid "Operation Type"
+msgstr ""
+
+msgctxt "Gadget/&ParameterVariableOperationTypeDescription"
+msgid "The type of operation performed on the specified variable"
+msgstr ""
+
+msgctxt "Gadget/&ParameterVariableValueIntTitle"
+msgid "Value"
+msgstr ""
+
+msgctxt "Gadget/&ParameterVariableValueIntDescription"
+msgid "The integer value considered for the variable"
+msgstr ""
+
+msgctxt "Gadget/&ParameterVariableValueBoolTitle"
+msgid "Value"
+msgstr ""
+
+msgctxt "Gadget/&ParameterVariableValueBoolDescription"
+msgid "The Boolean value considered for the variable"
+msgstr ""
+
+msgctxt "Gadget/&ParameterVariableValueStringTitle"
+msgid "Value"
+msgstr ""
+
+msgctxt "Gadget/&ParameterVariableValueStringDescription"
+msgid "The character string value considered for the variable"
+msgstr ""
+
+msgctxt "Gadget/&ParameterCustomDurationTitle"
+msgid "Custom Duration"
+msgstr ""
+
+msgctxt "Gadget/&ParameterCustomDurationDescription"
+msgid ""
+"Check this to input a specific duration. Otherwise, it is automatically "
+"computed"
+msgstr ""
+
+msgctxt "Gadget/&ParameterLoreDurationSecondsTitle"
+msgid "Duration (s)"
+msgstr ""
+
+msgctxt "Gadget/&ParameterLoreDurationSecondsDescription"
+msgid "The duration in seconds for which the text is displayed"
+msgstr ""
+
+msgctxt "Gadget/&ParameterVariableTestTypeTitle"
+msgid "Test Type"
+msgstr ""
+
+msgctxt "Gadget/&ParameterVariableTestTypeDescription"
+msgid "The test type to perform on the variable"
+msgstr ""
+
+msgctxt "Gadget/&ManholeCoverTitle"
+msgid "Manhole Cover"
+msgstr ""
+
+msgctxt "Gadget/&ManholeCoverDescription"
+msgid "Can transport the party to another location"
+msgstr ""
+
+msgctxt "Gadget/&CastleInnerWallsDoorTitle"
+msgid "Castle Inner Wall Door"
+msgstr ""
+
+msgctxt "Gadget/&CastleInnerWallsDoorDescription"
+msgid "A simple door to open (to be used with castle inner wall doorways)"
+msgstr ""
+
+msgctxt "Gadget/&WeaponRackTitle"
+msgid "Weapon Rack"
+msgstr ""
+
+msgctxt "Gadget/&ArmorStandTitle"
+msgid "Armor Stand"
+msgstr ""
+
+msgctxt "Gadget/&CavesInnerWallsDoorTitle"
+msgid "Lava Caves Inner Wall Door"
+msgstr ""
+
+msgctxt "Gadget/&CavesInnerWallsDoorDescription"
+msgid "A simple door to open (to be used with Free Wall - Doorway)"
+msgstr ""
+
+msgctxt "Gadget/&NpcDialogTitle"
+msgid "Dialog NPC"
+msgstr ""
+
+msgctxt "Gadget/&NpcDialogDescription"
+msgid ""
+"A non-player character that can be linked to a user dialog. This can be used "
+"for more complex social interactions in your campaign."
+msgstr ""
+
+msgctxt "Gadget/&ParameterDialogTitle"
+msgid "Dialog"
+msgstr ""
+
+msgctxt "Gadget/&ParameterDialogDescription"
+msgid ""
+"The player character/NPC interaction graph that you have edited in the "
+"campaign"
+msgstr ""
+
+msgctxt "Gadget/&ParameterVariableValueDieTitle"
+msgid "Die Type"
+msgstr ""
+
+msgctxt "Gadget/&ParameterVariableValueDieDescription"
+msgid "The type of die used for the roll."
+msgstr ""
+
+msgctxt "Gadget/&VirtualDialogTitle"
+msgid "Virtual Dialog"
+msgstr ""
+
+msgctxt "Gadget/&VirtualDialogDescription"
+msgid "Allows you to start a dialog with an inanimate object / structure."
+msgstr ""

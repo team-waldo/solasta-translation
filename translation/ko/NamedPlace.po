@@ -1,0 +1,111 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-01 18:44+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "NamedPlace/&AerElai_Title"
+msgid "THE AER-ELAI"
+msgstr ""
+
+msgctxt "NamedPlace/&BADLANDS_Title"
+msgid "THE BADLANDS"
+msgstr ""
+
+msgctxt "NamedPlace/&CopperheadRoad_Title"
+msgid ""
+"COPPERHEAD\\n"
+"ROAD"
+msgstr ""
+
+msgctxt "NamedPlace/&DUCHY_caercyflen_Title"
+msgid ""
+"Duchy of\\n"
+"Caer Cyflen"
+msgstr ""
+
+msgctxt "NamedPlace/&DUCHY_easternforests_Title"
+msgid ""
+"Duchy of\\n"
+"the Eastern Forests"
+msgstr ""
+
+msgctxt "NamedPlace/&DUCHY_northernhills_Title"
+msgid ""
+"Duchy of\\n"
+"the Northern Hills"
+msgstr ""
+
+msgctxt "NamedPlace/&DUCHY_northernplains_Title"
+msgid ""
+"Duchy of\\n"
+"the Northern Plains"
+msgstr ""
+
+msgctxt "NamedPlace/&DUCHY_southmarsh_Title"
+msgid ""
+"Duchy of\\n"
+"the South Marsh"
+msgstr ""
+
+msgctxt "NamedPlace/&DUCHY_westernfields_Title"
+msgid ""
+"Duchy of\\n"
+"the Western Fields"
+msgstr ""
+
+msgctxt "NamedPlace/&Einarium_Title"
+msgid "THE Einareum"
+msgstr ""
+
+msgctxt "NamedPlace/&GALLIVAN_Title"
+msgid ""
+"KINGDOM OF\\n"
+"GALLIVAN"
+msgstr ""
+
+msgctxt "NamedPlace/&Kaupaapunki_Title"
+msgid "KAUPAAPUNKI"
+msgstr ""
+
+msgctxt "NamedPlace/&MASGARTH_Title"
+msgid ""
+"PRINCIPALITY\\n"
+"OF MASGARTH"
+msgstr ""
+
+msgctxt "NamedPlace/&NEWEMPIRE_Title"
+msgid "THE NEW EMPIRE"
+msgstr ""
+
+msgctxt "NamedPlace/&Sandreed_Title"
+msgid "SANDREED"
+msgstr ""
+
+msgctxt "NamedPlace/&SNOWALLIANCE_Title"
+msgid "THE SNOW ALLIANCE"
+msgstr ""
+
+msgctxt "NamedPlace/&MARCHES_Title"
+msgid "The Marches"
+msgstr ""
+
+msgctxt "NamedPlace/&Jungle_Title"
+msgid "Jungle"
+msgstr ""
+
+msgctxt "NamedPlace/&City_Title"
+msgid "Hyfryd Mounts"
+msgstr ""
+
+msgctxt "NamedPlace/&Swamp_Title"
+msgid "Gessa Swamps"
+msgstr ""

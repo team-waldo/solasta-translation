@@ -1,749 +1,16 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2021-12-28 13:41+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/modal/ko/>"
-"\n"
-"Language: ko\n"
+"POT-Creation-Date: 2022-05-01 18:44+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
-
-msgctxt "Modal/&MultiplayerRoomCreationErrorTitle"
-msgid "Room Creation Error"
-msgstr "방 생성 오류"
-
-msgctxt "Modal/&MultiplayerRoomCreationErrorDuplicateDescription"
-msgid "A room with this name already exists, please try another."
-msgstr "같은 이름의 방이 이미 존재합니다, 다른 이름으로 시도해 보십시오."
-
-msgctxt "Modal/&MultiplayerRoomCreationErrorUnknownDescriptionFormat"
-msgid "Room could not be created: code {0}."
-msgstr "방을 생성할 수 없습니다: 코드 {0}."
-
-msgctxt "Modal/&MultiplayerConnexionErrorTitle"
-msgid "Connection Failed"
-msgstr "연결 실패"
-
-msgctxt "Modal/&MultiplayerConnexionErrorDescription"
-msgid ""
-"Could not connect to the multiplayer services. Please ensure that you have a "
-"stable connection and try again."
-msgstr "멀티플레이어 서비스에 연결할 수 없습니다. 연결 상태를 점검하고 다시 시도해 보십시오."
-
-msgctxt "Modal/&MultiplayerRoomJoinErrorTitle"
-msgid "Join Room Failed"
-msgstr "방 입장 실패"
-
-msgctxt "Modal/&MultiplayerRoomJoinErrorFullDescription"
-msgid "The room is full."
-msgstr "인원이 모두 찼습니다."
-
-msgctxt "Modal/&MultiplayerRoomJoinErrorClosedDescription"
-msgid "The room is closed."
-msgstr "방이 닫혔습니다."
-
-msgctxt "Modal/&MultiplayerRoomJoinErrorInexistantDescription"
-msgid "The room does not exist."
-msgstr "방이 존재하지 않습니다."
-
-msgctxt "Modal/&MultiplayerRoomJoinErrorUnknownDescriptionFormat"
-msgid "The room could not be joined: code {0}."
-msgstr "방에 입장할 수 없습니다: 코드 {0}."
-
-msgctxt "Modal/&MultiplayerRoomJoinErrorNotFoundDescription"
-msgid "The room could not be found. Check the name and try again."
-msgstr "방을 찾을 수 없습니다. 이름을 확인하고 다시 시도해 주십시오."
-
-msgctxt "Modal/&MultiplayerRoomJoinErrorWrongPasswordDescription"
-msgid "The password is incorrect."
-msgstr "비밀번호가 일치하지 않습니다."
-
-msgctxt "Modal/&SelectUserLocationTitle"
-msgid "Select a Location"
-msgstr "지역 선택"
-
-msgctxt "Modal/&UserLocationSettingsTitle"
-msgid "Location Settings"
-msgstr "지역 설정"
-
-msgctxt "Modal/&UserLocationSettingsApplyTitle"
-msgid "Apply"
-msgstr "적용"
-
-msgctxt "Modal/&CheatsTitle"
-msgid "Playtest Cheats"
-msgstr "치트 옵션"
-
-msgctxt "Modal/&IdleMonstersToggleTitle"
-msgid "Idle Monsters"
-msgstr "게으른 몬스터"
-
-msgctxt "Modal/&IdleMonstersToggleDescription"
-msgid "Monsters do not engage a battle when spotting you. {0}"
-msgstr "몬스터가 당신을 발견해도 전투가 시작되지 않습니다. {0}"
-
-msgctxt "Modal/&InviciblePartyToggleTitle"
-msgid "Invincible Party"
-msgstr "파티 무적"
-
-msgctxt "Modal/&InviciblePartyToggleDescription"
-msgid "The party characters are invicible in battle. {0}"
-msgstr "파티원들이 전투에서 무적이 됩니다. {0}"
-
-msgctxt "Modal/&RevealFogOfWarButtonTitle"
-msgid "Reveal Fog of War"
-msgstr "전장의 안개 제거"
-
-msgctxt "Modal/&RevealFogOfWarButtonDescription"
-msgid ""
-"Clears the fog of war in the whole location, so you can see inside every "
-"room. {0}"
-msgstr "전장의 안개를 제거하여 모든 장소를 볼 수 있습니다. {0}"
-
-msgctxt "Modal/&KIllBattleEnemiesButtonTitle"
-msgid "KIll Battle Enemies"
-msgstr "전투 중인 적 처치"
-
-msgctxt "Modal/&KIllBattleEnemiesButtonDescription"
-msgid "KIll all enemies in battle. {0}"
-msgstr "현재 전투 상태인 모든 적을 죽입니다. {0}"
-
-msgctxt "Modal/&IdleMonstersOnDescription"
-msgid "The monster are now idle"
-msgstr "이제 몬스터들이 게을러졌습니다"
-
-msgctxt "Modal/&IdleMonstersOffDescription"
-msgid "The monsters are active again"
-msgstr "몬스터들이 다시 활동적이 되었습니다"
-
-msgctxt "Modal/&InviciblePartyOnDescription"
-msgid "The party is now invicible"
-msgstr "파티는 이제 무적입니다"
-
-msgctxt "Modal/&InviciblePartyOffDescription"
-msgid "The party is no longer invicible"
-msgstr "파티는 더 이상 무적이 아닙니다"
-
-msgctxt "Modal/&RevealFogOfWarOnDescription"
-msgid "The fog of war is now fully revealed"
-msgstr "전장의 안개가 제거되었습니다"
-
-msgctxt "Modal/&RevealFogOfWarOffDescription"
-msgid "The fog of war is active again"
-msgstr "전장의 안개가 활성화되었습니다"
-
-msgctxt "Modal/&MonsterFilterAllTitle"
-msgid "All Monsters"
-msgstr "전체"
-
-msgctxt "Modal/&FilterKeywordTitle"
-msgid "Filter"
-msgstr "검색"
-
-msgctxt "Modal/&FilterKeywordDescription"
-msgid "Filter the list with elements that match the specified keyword"
-msgstr "검색어와 일치하는 요소로 찾기"
-
-msgctxt "Modal/&ClearKeywordDescription"
-msgid "Clears the selected keyword and cancels the filtering"
-msgstr "검색어를 지우고 검색 취소"
-
-msgctxt "Modal/&InputKeywordTitle"
-msgid "Enter keyword:"
-msgstr "검색어 입력:"
-
-msgctxt "Modal/&UserItemEditionTitle"
-msgid "User Item Edition"
-msgstr "사용자 아이템 편집"
-
-msgctxt "Modal/&UserContentReferenceTitle"
-msgid "Reference"
-msgstr "참조"
-
-msgctxt "Modal/&UserContentReferenceDescription"
-msgid ""
-"The reference content (from Solasta) upon which this custom content is "
-"created"
-msgstr "해당 커스텀 컨텐츠 생성 시 (솔라스타로부터) 참조한 컨텐츠"
-
-msgctxt "Modal/&UserContentInternalNameTitle"
-msgid "Internal Name"
-msgstr "내부 이름"
-
-msgctxt "Modal/&UserContentInternalNameDescription"
-msgid ""
-"The internal name used to reference this custom content. This is not exposed "
-"to the end player, which will read Title and Description instead. The "
-"internal name is used by gadgets to reference user content. You can keep the "
-"auto-generated internal name or type a new one (has to be unique)"
-msgstr ""
-"이 커스텀 컨텐츠를 참조하는 데 쓰이는 내부 이름. 이는 제목과 설명을 읽는 실제 플레이어에겐 표시되지 않습니다. 내부 이름은 유저 "
-"컨텐츠를 참조하는 장치에 의해 사용됩니다. 자동 생성되는 내부 이름을 사용하거나, 새로운 이름(식별이 쉽도록 특별하게)을 입력할 수 "
-"있습니다"
-
-msgctxt "Modal/&UserContentOverridesTitle"
-msgid "Content Overrides"
-msgstr "컨텐츠 덮어쓰기"
-
-msgctxt "Modal/&UserContentOverridesDescription"
-msgid "Allows changing values of the referenced content by custom values."
-msgstr "참조 컨텐츠 값을 커스텀 값으로 변경하는 것을 허용합니다."
-
-msgctxt "Modal/&UserContentOverrideToggleDescription"
-msgid "Click to override the default value or to reactivate it"
-msgstr "클릭하여 기본값을 덮어쓰거나 재활성화하십시오"
-
-msgctxt "Modal/&ProcessingContentTitle"
-msgid "Processing Content..."
-msgstr "컨텐츠 처리 중…"
-
-msgctxt "Modal/&ContentPropertyTitleTitle"
-msgid "Title"
-msgstr "제목"
-
-msgctxt "Modal/&ContentPropertyTitleDescription"
-msgid ""
-"The name of this content element, as it will be displayed to the end player"
-msgstr "실제 플레이어에게 표시되는 이 컨텐츠 요소의 이름입니다"
-
-msgctxt "Modal/&ContentPropertyDescriptionTitle"
-msgid "Description"
-msgstr "설명"
-
-msgctxt "Modal/&ContentPropertyDescriptionDescription"
-msgid ""
-"The description of the content, as displayed to the end player in in-game "
-"tooltips"
-msgstr "실제 플레이어에게 인게임 툴팁으로 표시되는 컨텐츠의 설명입니다"
-
-msgctxt "Modal/&ContentPropertyCostsTitle"
-msgid "Costs"
-msgstr "가격"
-
-msgctxt "Modal/&ContentPropertyCostsDescription"
-msgid ""
-"The table of raw costs (for each currency) for this content. Merchant "
-"parameters can modify the costs displayed in store."
-msgstr "이 컨텐츠를 구입하는 데 필요한 (화폐당) 순가격 표. 상인 파라미터로 가게에 표시되는 비용을 조절할 수 있습니다."
-
-msgctxt "Modal/&ContentPropertyDocumentFragmentsTitle"
-msgid "Document Fragments"
-msgstr "서류 조각"
-
-msgctxt "Modal/&ContentPropertyDocumentFragmentsDescription"
-msgid ""
-"This is only available when inspecting a document item (scroll, book, plaque)"
-", and allows filling your own paragraphs of texts, which will be displayed "
-"in the document examination interface"
-msgstr ""
-"이는 서류형 아이템(두루마리, 책, 명판)을 점검할 때만 쓰이며, 서류 확인 인터페이스에 표시될 당신의 텍스트를 입력하도록 쓰입니다"
-
-msgctxt "Modal/&CustomContentTitle"
-msgid "Custom"
-msgstr "커스텀"
-
-msgctxt "Modal/&ContentPropertyAbilityScoresTitle"
-msgid "Ability Scores"
-msgstr "능력치"
-
-msgctxt "Modal/&ContentPropertyAbilityScoresDescription"
-msgid ""
-"Input here custome ability score values. \n"
-"Note that modifying these values does not alter the monster attack rolls, or "
-"the ability check & saving throw where the monster has an explicit "
-"proficiency ; neither are Armor Class or Hit Points mdified by custom "
-"ability scores."
-msgstr ""
-"이곳에 커스텀 능력치를 입력하십시오.\n"
-"이 값을 변경하여도 몬스터의 명중 굴림, 능력치 판정, 내성 굴림 등 정해진 숙련치를 사용하는 값은 바뀌지 않습니다; 방어도와 HP 또한 "
-"커스텀 능력치에 의해 바뀌지 않습니다."
-
-msgctxt "Modal/&ContentPropertyHitPointsTitle"
-msgid "Hit Points"
-msgstr "HP"
-
-msgctxt "Modal/&ContentPropertyHitPointsDescription"
-msgid ""
-"You can override the maximum hit points of this creature when it is spawned"
-msgstr "생성 시 이 크리쳐의 최대 HP를 덮어쓸 수 있습니다"
-
-msgctxt "Modal/&ContentPropertyArmorClassTitle"
-msgid "Armor Class"
-msgstr "방어도"
-
-msgctxt "Modal/&ContentPropertyArmorClassDescription"
-msgid "You can override the armor class  of this creature when it is spawned"
-msgstr "생성 시 이 크리쳐의 방어도를 덮어쓸 수 있습니다"
-
-msgctxt "Modal/&UserMonsterEditionTitle"
-msgid "User Monster Edition"
-msgstr "사용자 몬스터 편집"
-
-msgctxt "Modal/&UserNpcEditionTitle"
-msgid "Custom NPC Edition"
-msgstr "커스텀 NPC 편집"
-
-msgctxt "Modal/&ContentPropertyBooleanTrueTitle"
-msgid "True"
-msgstr "허용"
-
-msgctxt "Modal/&ContentPropertyBooleanFalseTitle"
-msgid "False"
-msgstr "불가"
-
-msgctxt "Modal/&UserMerchantInventoryEditionTitle"
-msgid "Custom Merchant Inventory"
-msgstr "커스텀 상인 인벤토리"
-
-msgctxt "Modal/&UserContentValuesTitle"
-msgid "Content Values"
-msgstr "컨텐츠 값"
-
-msgctxt "Modal/&UserContentValuesDescription"
-msgid "Allows changing values of the custom content"
-msgstr "커스텀 컨텐츠의 값을 바꾸는 걸 허용합니다"
-
-msgctxt "Modal/&ContentPropertyOverchargePercentTitle"
-msgid "Overcharge Percent"
-msgstr "백분율 청구"
-
-msgctxt "Modal/&ContentPropertyOverchargePercentDescription"
-msgid "The extra cost (percentage) when buying an item from this merchant"
-msgstr "이 상인에게서 아이템 구매 시 백분율 추가 비용을 냅니다"
-
-msgctxt "Modal/&ContentPropertyBuyBackPercentTitle"
-msgid "Buy Back Percent"
-msgstr "백분율 환급"
-
-msgctxt "Modal/&ContentPropertyBuyBackPercentDescription"
-msgid ""
-"The percentage of the raw cost that this merchant will give when you sell an "
-"item."
-msgstr "이 상인에게 아이템 판매 시 백분율 추가 비용을 받습니다."
-
-msgctxt "Modal/&ContentPropertyCanDetectMagicTitle"
-msgid "Can Detect Magic"
-msgstr "마법 탐지 서비스 허용"
-
-msgctxt "Modal/&ContentPropertyCanDetectMagicDescription"
-msgid "Can this merchant detect magical items in the party inventory?"
-msgstr "이 상인이 파티 인벤토리의 마법 아이템을 탐지할 수 있도록 허용합니까?"
-
-msgctxt "Modal/&ContentPropertyDetectMagicCostGpTitle"
-msgid "Detect Magic Cost (GP)"
-msgstr "마법 탐지 서비스 가격 (GP)"
-
-msgctxt "Modal/&ContentPropertyDetectMagicCostGpDescription"
-msgid "The cost to detect magical items"
-msgstr "마법 아이템 탐지 비용"
-
-msgctxt "Modal/&ContentPropertyCanIdentifyTitle"
-msgid "Can Identify Items"
-msgstr "식별 서비스 허용"
-
-msgctxt "Modal/&ContentPropertyCanIdentifyDescription"
-msgid "Can this merchant identify a magical item functions?"
-msgstr "이 상인이 마법 아이템의 성능을 식별할 수 있도록 허용합니까?"
-
-msgctxt "Modal/&ContentPropertyIdentifyCostGpTitle"
-msgid "Identify Cost (GP)"
-msgstr "식별 서비스 가격 (GP)"
-
-msgctxt "Modal/&ContentPropertyIdentifyCostGpDescription"
-msgid "The cost to identify a magical item"
-msgstr "마법 아이템 식별 비용"
-
-msgctxt "Modal/&ContentPropertyStockUnitsTitle"
-msgid "Stock Units"
-msgstr "재고 단위"
-
-msgctxt "Modal/&ContentPropertyStockUnitsDescription"
-msgid ""
-"This is the list of inventory items provided by the merchant, and their "
-"refurbishing parameters"
-msgstr "상인이 제공하는 인벤토리 아이템과 갱신 파라미터 목록입니다"
-
-msgctxt "Modal/&UserContentStockUnitsDescription"
-msgid ""
-"This allows you to fill the list of stock units offered in a merchant "
-"inventory"
-msgstr "상인 인벤토리에 제공되는 재고 단위 목록을 채울 수 있도록 허용합니다"
-
-msgctxt "Modal/&UserContentStockUnitItemTitle"
-msgid "Item"
-msgstr "아이템"
-
-msgctxt "Modal/&UserContentStockUnitItemSelectTitle"
-msgid "Select"
-msgstr "선택"
-
-msgctxt "Modal/&UserContentStockUnitItemSelectDescription"
-msgid "Click to select the item of this merchant inventory slot"
-msgstr "클릭하여 이 상인 인벤토리 슬롯의 아이템을 선택하십시오"
-
-msgctxt "Modal/&UserContentStockUnitStackCountTitle"
-msgid "Stack Count"
-msgstr "중첩수"
-
-msgctxt "Modal/&UserContentStockUnitStackCountDescription"
-msgid ""
-"When an item can be stacked (such as food units), this defines the stack "
-"size of this stock unit"
-msgstr "음식처럼 중첩 가능한 아이템일 경우, 이 재고 단위가 중첩 가능한 최대치를 설정합니다"
-
-msgctxt "Modal/&UserContentStockStockLineTitle"
-msgid "Stock"
-msgstr "재고"
-
-msgctxt "Modal/&UserContentStockInitialTitle"
-msgid "Initial"
-msgstr "초기값"
-
-msgctxt "Modal/&UserContentStockInitialDescription"
-msgid "The initial amount of units of this item when the merchant is spawned"
-msgstr "상인 생성 시 이 아이템의 초기 단위값"
-
-msgctxt "Modal/&UserContentStockMinTitle"
-msgid "Min"
-msgstr "최소값"
-
-msgctxt "Modal/&UserContentStockMinDescription"
-msgid ""
-"The minimal amount of available items of this type, if you want to make sure "
-"it is always present"
-msgstr "상시 아이템으로 설정하려 할 경우, 이 유형의 아이템의 구입 가능한 최소 개수"
-
-msgctxt "Modal/&UserContentStockMaxTitle"
-msgid "Max"
-msgstr "최대값"
-
-msgctxt "Modal/&UserContentStockMaxDescription"
-msgid "The maximal amount of available items of this type"
-msgstr "이 유형의 아이템의 구입 가능한 최대 개수"
-
-msgctxt "Modal/&UserContentStockReassortLineTitle"
-msgid "Reassort"
-msgstr "재반입"
-
-msgctxt "Modal/&UserContentStockReassortAmountTitle"
-msgid "Amount"
-msgstr "수량"
-
-msgctxt "Modal/&UserContentStockReassortAmountDescription"
-msgid "The number of units which are added when the merchant is reassorted"
-msgstr "상인이 재반입 시 추가되는 단위수"
-
-msgctxt "Modal/&UserContentStockReassortHoursTitle"
-msgid "Hours"
-msgstr "시간"
-
-msgctxt "Modal/&UserContentStockReassortHoursDescription"
-msgid "The number of hours required to trigger a reassort of the merchant"
-msgstr "상인이 재반입을 하기 위해 필요한 시간"
-
-msgctxt "Modal/&UserContentStockUnitUpButtonDescription"
-msgid "Move the stock unit up in the list"
-msgstr "목록에서 재고 단위를 위로 이동"
-
-msgctxt "Modal/&UserContentStockUnitDownButtonDescription"
-msgid "Move the stock unit down in the list"
-msgstr "목록에서 재고 단위를 아래로 이동"
-
-msgctxt "Modal/&UserContentStockUnitDeleteButtonDescription"
-msgid "Deletes the stock unit from the list"
-msgstr "목록에서 제거 단위를 삭제"
-
-msgctxt "Modal/&UserContentAddStockUnitButtonTitle"
-msgid "Add Stock Unit"
-msgstr "재고 단위 추가"
-
-msgctxt "Modal/&UserContentAddStockUnitButtonDescription"
-msgid ""
-"Add a new stock unit to the merchant inventory, to specify an item that can "
-"be purchased at the merchant"
-msgstr "상인으로부터 아이템을 구매할 수 있도록, 상인 인벤토리에 새 재고 단위를 추가합니다"
-
-msgctxt "Modal/&UserContentProficiencyUpButtonDescription"
-msgid "Move the proficiency up in the list"
-msgstr "목록에서 숙련을 위로 이동"
-
-msgctxt "Modal/&UserContentProficiencyDownButtonDescription"
-msgid "Move the proficiency down in the list"
-msgstr "목록에서 숙련을 아래로 이동"
-
-msgctxt "Modal/&UserContentProficiencyDeleteButtonDescription"
-msgid "Deletes the proficiency from the list"
-msgstr "목록에서 숙련 삭제"
-
-msgctxt "Modal/&UserContentAddProficiencyButtonTitle"
-msgid "Add Proficiency"
-msgstr "숙련 추가"
-
-msgctxt "Modal/&UserContentAddProficiencyButtonDescription"
-msgid "Add a new proficiency information for this actor"
-msgstr "이 역할에게 새로운 숙련 정보를 추가합니다"
-
-msgctxt "Modal/&ContentPropertySavingThrowsTitle"
-msgid "Saving Throws"
-msgstr "내성 굴림"
-
-msgctxt "Modal/&ContentPropertySavingThrowsDescription"
-msgid ""
-"This is the list of saving throw proficiencies (and their bonus added to the "
-"d20 save roll) mastered by this character"
-msgstr "이 캐릭터가 통달한 내성 굴림 숙련 및 D20 내성 굴림에 추가되는 수정치 목록입니다"
-
-msgctxt "Modal/&ContentPropertySkillsTitle"
-msgid "Skills"
-msgstr "기술"
-
-msgctxt "Modal/&ContentPropertySkillsDescription"
-msgid ""
-"This is the list of skills proficiencies (and their bonus added to the d20 "
-"ability check roll) mastered by this character"
-msgstr "이 캐릭터가 통달한 내성 기술 숙련 및 D20 능력 판정에 추가되는 수정치 목록입니다"
-
-msgctxt "Modal/&ContentPropertyInformationIndividualAttacksTitle"
-msgid "Individual Attacks"
-msgstr "개별 공격"
-
-msgctxt "Modal/&ContentPropertyInformationIndividualAttacksDescription"
-msgid ""
-"The creature will select one of the attacks and use it exclusively in the "
-"combat turn"
-msgstr "이 크리쳐는 전투 턴에만 공격 중 하나를 선택해 사용합니다"
-
-msgctxt "Modal/&ContentPropertyInformationGroupedAttacksTitle"
-msgid "Grouped Attacks"
-msgstr "그룹 공격"
-
-msgctxt "Modal/&ContentPropertyInformationGroupedAttacksDescription"
-msgid "The creature can use all the listed attacks in one combat round"
-msgstr "이 크리쳐는 목록상의 모든 공격을 한 전투 라운드에 사용할 수 있습니다"
-
-msgctxt "Modal/&UserContentAddEffectFormButtonTitle"
-msgid "Add Effect Form"
-msgstr "효과 유형 추가"
-
-msgctxt "Modal/&UserContentAddEffectFormButtonDescription"
-msgid ""
-"Adds a new effect form to determines the effects of this content (damage, "
-"condition, etc)"
-msgstr "이 컨텐츠(피해, 상태이상 등)의 이펙트를 결정하는 새 효과 유형을 추가합니다"
-
-msgctxt "Modal/&ContentPropertyAttackToHitTitle"
-msgid "To Hit"
-msgstr "명중 보정치"
-
-msgctxt "Modal/&ContentPropertyAttackToHitDescription"
-msgid ""
-"The bonus attack to the d20 roll to determine the success of this attack"
-msgstr "공격의 성공을 결정짓는 명중 D20 굴림 보너스 수치"
-
-msgctxt "Modal/&ContentPropertyAttackIterationsTitle"
-msgid "Iterations"
-msgstr "반복수"
-
-msgctxt "Modal/&ContentPropertyAttackIterationsDescription"
-msgid "The number of times this attack can be used per turn"
-msgstr "이 공격이 턴당 사용될 수 있는 횟수"
-
-msgctxt "Modal/&ContentPropertyAttack1Title"
-msgid "Attack 1: "
-msgstr "공격 1: "
-
-msgctxt "Modal/&ContentPropertyAttack1Description"
-msgid "The parameters of the first attack of this creature"
-msgstr "이 크리쳐의 첫 번째 공격 파라미터"
-
-msgctxt "Modal/&ContentPropertyAttack2Title"
-msgid "Attack 2: "
-msgstr "공격 2: "
-
-msgctxt "Modal/&ContentPropertyAttack2Description"
-msgid "The parameters of the second attack of this creature"
-msgstr "이 크리쳐의 두 번째 공격 파라미터"
-
-msgctxt "Modal/&ContentPropertyAttack3Title"
-msgid "Attack 3: "
-msgstr "공격 3: "
-
-msgctxt "Modal/&ContentPropertyAttack3Description"
-msgid "The parameters of the third attack of this creature"
-msgstr "이 크리쳐의 세 번째 공격 파라미터"
-
-msgctxt "Modal/&ContentPropertyHasSavingThrowTitle"
-msgid "Has Saving Throw?"
-msgstr "내성 굴림 여부?"
-
-msgctxt "Modal/&ContentPropertyHasSavingThrowDescription"
-msgid "Determines if a saving throw is present for this effect"
-msgstr "이 효과에 노출 시 내성 굴림을 해야 하는지 결정합니다"
-
-msgctxt "Modal/&ContentPropertyDifficultyClassTitle"
-msgid "DC"
-msgstr "DC"
-
-msgctxt "Modal/&ContentPropertyDifficultyClassDescription"
-msgid "The difficulty class to succeed the saving throw"
-msgstr "내성 굴림에 성공하기 위한 난이도입니다"
-
-msgctxt "Modal/&ContentPropertyDurationTitle"
-msgid "Duration"
-msgstr "지속시간"
-
-msgctxt "Modal/&ContentPropertyDurationDescription"
-msgid "The duration for the added conditions"
-msgstr "추가된 상태이상의 지속시간"
-
-msgctxt "Modal/&ContentPropertyEffectFormsTitle"
-msgid "Effect Forms"
-msgstr "효과 유형"
-
-msgctxt "Modal/&ContentPropertyEffectFormsDescription"
-msgid "The list of effects applied to the target, such as damage or confition"
-msgstr "피해나 상태이상 등, 대상에게 적용되는 효과의 목록"
-
-msgctxt "Modal/&ContentPropertyFormTypeTitle"
-msgid "Form Type"
-msgstr "유형 타입"
-
-msgctxt "Modal/&ContentPropertyFormTypeDescription"
-msgid "The type of this effect form, such as damage or condition"
-msgstr "피해나 상태이상 등, 이 효과 유형의 타입"
-
-msgctxt "Modal/&ContentPropertyFormTypeDamageTitle"
-msgid "Damage"
-msgstr "피해"
-
-msgctxt "Modal/&ContentPropertyFormTypeDamageDescription"
-msgid "This type of effect form applies damage to the target"
-msgstr "이 타입의 효과 유형은 대상에게 피해를 가합니다"
-
-msgctxt "Modal/&ContentPropertyFormTypeConditionTitle"
-msgid "Condition"
-msgstr "상태이상"
-
-msgctxt "Modal/&ContentPropertyFormTypeConditionDescription"
-msgid "This type of effect form applies a condition to a target"
-msgstr "이 타입의 효과 유형은 대상에게 상태이상을 가합니다"
-
-msgctxt "Modal/&ContentPropertySaveAffinityTitle"
-msgid "Save Affinity"
-msgstr "성공 시 효과"
-
-msgctxt "Modal/&ContentPropertySaveAffinityDescription"
-msgid "Determines how this effect form reacts to a successful saving throw"
-msgstr "대상이 내성 굴림에 성공 시 어떤 효과가 있는지 결정합니다"
-
-msgctxt "Modal/&ContentPropertySaveAffinityNoneTitle"
-msgid "None"
-msgstr "없음"
-
-msgctxt "Modal/&ContentPropertySaveAffinityNoneDescription"
-msgid "This effect is not impacted by a successful saving throw"
-msgstr "내성 굴림 성공은 이 효과에 아무런 영향도 주지 않습니다"
-
-msgctxt "Modal/&ContentPropertySaveAffinityHalfDamageTitle"
-msgid "Half"
-msgstr "반감"
-
-msgctxt "Modal/&ContentPropertySaveAffinityHalfDamageDescription"
-msgid "A successful saving throw will halve the damage of this effect"
-msgstr "대상이 내성 굴림 성공 시 절반의 피해를 가합니다"
-
-msgctxt "Modal/&ContentPropertySaveAffinityNegatesTitle"
-msgid "Negates"
-msgstr "무효화"
-
-msgctxt "Modal/&ContentPropertySaveAffinityNegatesDescription"
-msgid "A successful saving throw will completely negate this effect"
-msgstr "대상은 내성 굴림 성공 시 아무런 효과도 받지 않습니다"
-
-msgctxt "Modal/&ContentPropertyDamageDiceNumberDescription"
-msgid "The number of dice rolled for the damage"
-msgstr "피해를 위해 굴리는 주사위 개수"
-
-msgctxt "Modal/&ContentPropertyDamageDieTypeDescription"
-msgid "The type of die rolled for the damage"
-msgstr "피해를 위해 굴리는 주사위 유형"
-
-msgctxt "Modal/&ContentPropertyDamageBonusDescription"
-msgid "The bonus damage added to the rolled dice"
-msgstr "주사위 굴림값에 더해지는 추가 피해량"
-
-msgctxt "Modal/&ContentPropertyDamageTypeDescription"
-msgid "The type of inflicted damage"
-msgstr "가하는 피해의 유형"
-
-msgctxt "Modal/&UserContentEffectFormUpButtonDescription"
-msgid "Move the effect form up in the list"
-msgstr "목록에서 효과 유형을 위로 이동"
-
-msgctxt "Modal/&UserContentEffectFormDownButtonDescription"
-msgid "Move the effect form down in the list"
-msgstr "목록에서 효과 유형을 아래로 이동"
-
-msgctxt "Modal/&UserContentEffectFormDeleteButtonDescription"
-msgid "Deletes the effect form from the list"
-msgstr "목록에서 효과 유형을 삭제"
-
-msgctxt "Modal/&UserContentEffectFormConditionSelectDescription"
-msgid "Click to select a condition added by this effect form"
-msgstr "클릭하여 효과 유형에 더해진 상태이상을 선택하십시오"
-
-msgctxt "Modal/&ContentPropertyDurationRoundTitle"
-msgid "Round"
-msgstr "라운드"
-
-msgctxt "Modal/&ContentPropertyDurationMinuteTitle"
-msgid "Minute"
-msgstr "분"
-
-msgctxt "Modal/&ContentPropertyDurationHourTitle"
-msgid "Hour"
-msgstr "시간"
-
-msgctxt "Modal/&ContentPropertyDurationDayTitle"
-msgid "Day"
-msgstr "일"
-
-msgctxt "Modal/&ContentPropertyEndOfEffectTitle"
-msgid "Effect Ends"
-msgstr "효과 종료"
-
-msgctxt "Modal/&ContentPropertyEndOfEffectDescription"
-msgid ""
-"The occurence in the turn when then effect will end, and also when a saving "
-"throw can be re-attempted, if available"
-msgstr "효과가 종료되는 턴 혹은 내성 굴림 재시도가 가능할 경우 발생합니다"
-
-msgctxt "Modal/&ContentPropertyEndOfEffectStartOfTurnTitle"
-msgid "Start Of Turn"
-msgstr "턴 시작 시"
-
-msgctxt "Modal/&ContentPropertyEndOfEffectEndOfTurnTitle"
-msgid "End Of Turn"
-msgstr "턴 종료 시"
-
-msgctxt "Modal/&ContentPropertyCanSaveToCancelTitle"
-msgid "Can Save To Cancel?"
-msgstr "성공 시 효과 종료 여부?"
-
-msgctxt "Modal/&ContentPropertyCanSaveToCancelDescription"
-msgid ""
-"Determines if the target affected by this effect can save each turn to "
-"cancel the effect. The occurence of the saving throw is determined by the "
-"End of Effect field."
-msgstr ""
-"이 효과에 영향을 받은 대상이 턴마다 내성 굴림을 해 성공 시 효과를 제거할 수 있는지 결정합니다. 내성 굴림 발생은 효과 종료 종류에 "
-"따라 결정됩니다."
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "Modal/&AssertionFailedTtitle"
 msgid "Assertion Failed"
@@ -1327,6 +594,1174 @@ msgctxt "Modal/&ContinueDescription"
 msgid "Return to the main menu"
 msgstr "메인 메뉴로 돌아가기"
 
+msgctxt "Modal/&SelectUserLocationTitle"
+msgid "Select a Location"
+msgstr "지역 선택"
+
+msgctxt "Modal/&UserLocationSettingsTitle"
+msgid "Location Settings"
+msgstr "지역 설정"
+
+msgctxt "Modal/&UserLocationSettingsApplyTitle"
+msgid "Apply"
+msgstr "적용"
+
+msgctxt "Modal/&CheatsTitle"
+msgid "Playtest Cheats"
+msgstr "치트 옵션"
+
+msgctxt "Modal/&IdleMonstersToggleTitle"
+msgid "Idle Monsters"
+msgstr "게으른 몬스터"
+
+msgctxt "Modal/&IdleMonstersToggleDescription"
+msgid "Monsters do not engage a battle when spotting you. {0}"
+msgstr "몬스터가 당신을 발견해도 전투가 시작되지 않습니다. {0}"
+
+msgctxt "Modal/&InviciblePartyToggleTitle"
+msgid "Invincible Party"
+msgstr "파티 무적"
+
+msgctxt "Modal/&InviciblePartyToggleDescription"
+msgid "The party characters are invicible in battle. {0}"
+msgstr "파티원들이 전투에서 무적이 됩니다. {0}"
+
+msgctxt "Modal/&RevealFogOfWarButtonTitle"
+msgid "Reveal Fog of War"
+msgstr "전장의 안개 제거"
+
+msgctxt "Modal/&RevealFogOfWarButtonDescription"
+msgid ""
+"Clears the fog of war in the whole location, so you can see inside every "
+"room. {0}"
+msgstr "전장의 안개를 제거하여 모든 장소를 볼 수 있습니다. {0}"
+
+msgctxt "Modal/&KIllBattleEnemiesButtonTitle"
+msgid "KIll Battle Enemies"
+msgstr "전투 중인 적 처치"
+
+msgctxt "Modal/&KIllBattleEnemiesButtonDescription"
+msgid "KIll all enemies in battle. {0}"
+msgstr "현재 전투 상태인 모든 적을 죽입니다. {0}"
+
+msgctxt "Modal/&IdleMonstersOnDescription"
+msgid "The monster are now idle"
+msgstr "이제 몬스터들이 게을러졌습니다"
+
+msgctxt "Modal/&IdleMonstersOffDescription"
+msgid "The monsters are active again"
+msgstr "몬스터들이 다시 활동적이 되었습니다"
+
+msgctxt "Modal/&InviciblePartyOnDescription"
+msgid "The party is now invicible"
+msgstr "파티는 이제 무적입니다"
+
+msgctxt "Modal/&InviciblePartyOffDescription"
+msgid "The party is no longer invicible"
+msgstr "파티는 더 이상 무적이 아닙니다"
+
+msgctxt "Modal/&RevealFogOfWarOnDescription"
+msgid "The fog of war is now fully revealed"
+msgstr "전장의 안개가 제거되었습니다"
+
+msgctxt "Modal/&RevealFogOfWarOffDescription"
+msgid "The fog of war is active again"
+msgstr "전장의 안개가 활성화되었습니다"
+
+msgctxt "Modal/&MonsterFilterAllTitle"
+msgid "All Monsters"
+msgstr "전체"
+
+msgctxt "Modal/&FilterKeywordTitle"
+msgid "Filter"
+msgstr "검색"
+
+msgctxt "Modal/&FilterKeywordDescription"
+msgid "Filter the list with elements that match the specified keyword"
+msgstr "검색어와 일치하는 요소로 찾기"
+
+msgctxt "Modal/&ClearKeywordDescription"
+msgid "Clears the selected keyword and cancels the filtering"
+msgstr "검색어를 지우고 검색 취소"
+
+msgctxt "Modal/&InputKeywordTitle"
+msgid "Enter keyword:"
+msgstr "검색어 입력:"
+
+msgctxt "Modal/&UserItemEditionTitle"
+msgid "User Item Edition"
+msgstr "사용자 아이템 편집"
+
+msgctxt "Modal/&UserContentReferenceTitle"
+msgid "Reference"
+msgstr "참조"
+
+msgctxt "Modal/&UserContentReferenceDescription"
+msgid ""
+"The reference content (from Solasta) upon which this custom content is "
+"created"
+msgstr "해당 커스텀 컨텐츠 생성 시 (솔라스타로부터) 참조한 컨텐츠"
+
+msgctxt "Modal/&UserContentInternalNameTitle"
+msgid "Internal Name"
+msgstr "내부 이름"
+
+msgctxt "Modal/&UserContentInternalNameDescription"
+msgid ""
+"The internal name used to reference this custom content. This is not exposed "
+"to the end player, which will read Title and Description instead. The "
+"internal name is used by gadgets to reference user content. You can keep the "
+"auto-generated internal name or type a new one (has to be unique)"
+msgstr ""
+"이 커스텀 컨텐츠를 참조하는 데 쓰이는 내부 이름. 이는 제목과 설명을 읽는 실제 플레이어에겐 표시되지 않습니다. 내부 이름은 유저 "
+"컨텐츠를 참조하는 장치에 의해 사용됩니다. 자동 생성되는 내부 이름을 사용하거나, 새로운 이름(식별이 쉽도록 특별하게)을 입력할 수 "
+"있습니다"
+
+msgctxt "Modal/&UserContentOverridesTitle"
+msgid "Content Overrides"
+msgstr "컨텐츠 덮어쓰기"
+
+msgctxt "Modal/&UserContentOverridesDescription"
+msgid "Allows changing values of the referenced content by custom values."
+msgstr "참조 컨텐츠 값을 커스텀 값으로 변경하는 것을 허용합니다."
+
+msgctxt "Modal/&UserContentOverrideToggleDescription"
+msgid "Click to override the default value or to reactivate it"
+msgstr "클릭하여 기본값을 덮어쓰거나 재활성화하십시오"
+
+msgctxt "Modal/&ProcessingContentTitle"
+msgid "Processing Content..."
+msgstr "컨텐츠 처리 중…"
+
+msgctxt "Modal/&ContentPropertyTitleTitle"
+msgid "Title"
+msgstr "제목"
+
+msgctxt "Modal/&ContentPropertyTitleDescription"
+msgid ""
+"The name of this content element, as it will be displayed to the end player"
+msgstr "실제 플레이어에게 표시되는 이 컨텐츠 요소의 이름입니다"
+
+msgctxt "Modal/&ContentPropertyDescriptionTitle"
+msgid "Description"
+msgstr "설명"
+
+msgctxt "Modal/&ContentPropertyDescriptionDescription"
+msgid ""
+"The description of the content, as displayed to the end player in in-game "
+"tooltips"
+msgstr "실제 플레이어에게 인게임 툴팁으로 표시되는 컨텐츠의 설명입니다"
+
+msgctxt "Modal/&ContentPropertyCostsTitle"
+msgid "Costs"
+msgstr "가격"
+
+msgctxt "Modal/&ContentPropertyCostsDescription"
+msgid ""
+"The table of raw costs (for each currency) for this content. Merchant "
+"parameters can modify the costs displayed in store."
+msgstr "이 컨텐츠를 구입하는 데 필요한 (화폐당) 순가격 표. 상인 파라미터로 가게에 표시되는 비용을 조절할 수 있습니다."
+
+msgctxt "Modal/&ContentPropertyDocumentFragmentsTitle"
+msgid "Document Fragments"
+msgstr "서류 조각"
+
+msgctxt "Modal/&ContentPropertyDocumentFragmentsDescription"
+msgid ""
+"This is only available when inspecting a document item (scroll, book, plaque)"
+", and allows filling your own paragraphs of texts, which will be displayed "
+"in the document examination interface"
+msgstr ""
+"이는 서류형 아이템(두루마리, 책, 명판)을 점검할 때만 쓰이며, 서류 확인 인터페이스에 표시될 당신의 텍스트를 입력하도록 쓰입니다"
+
+msgctxt "Modal/&CustomContentTitle"
+msgid "Custom"
+msgstr "커스텀"
+
+msgctxt "Modal/&ContentPropertyAbilityScoresTitle"
+msgid "Ability Scores"
+msgstr "능력치"
+
+#, fuzzy
+#| msgid ""
+#| "Input here custome ability score values. \n"
+#| "Note that modifying these values does not alter the monster attack rolls, or "
+#| "the ability check & saving throw where the monster has an explicit "
+#| "proficiency ; neither are Armor Class or Hit Points mdified by custom "
+#| "ability scores."
+msgctxt "Modal/&ContentPropertyAbilityScoresDescription"
+msgid ""
+"Input here custome ability score values. \n"
+" Note that modifying these values does not alter the monster attack rolls, "
+"or the ability check & saving throw where the monster has an explicit "
+"proficiency ; neither are Armor Class or Hit Points mdified by custom "
+"ability scores."
+msgstr ""
+"이곳에 커스텀 능력치를 입력하십시오.\n"
+"이 값을 변경하여도 몬스터의 명중 굴림, 능력치 판정, 내성 굴림 등 정해진 숙련치를 사용하는 값은 바뀌지 않습니다; 방어도와 HP 또한 "
+"커스텀 능력치에 의해 바뀌지 않습니다."
+
+msgctxt "Modal/&ContentPropertyHitPointsTitle"
+msgid "Hit Points"
+msgstr "HP"
+
+msgctxt "Modal/&ContentPropertyHitPointsDescription"
+msgid ""
+"You can override the maximum hit points of this creature when it is spawned"
+msgstr "생성 시 이 크리쳐의 최대 HP를 덮어쓸 수 있습니다"
+
+msgctxt "Modal/&ContentPropertyArmorClassTitle"
+msgid "Armor Class"
+msgstr "방어도"
+
+#, fuzzy
+#| msgid "You can override the armor class  of this creature when it is spawned"
+msgctxt "Modal/&ContentPropertyArmorClassDescription"
+msgid "You can override the armor class of this creature when it is spawned"
+msgstr "생성 시 이 크리쳐의 방어도를 덮어쓸 수 있습니다"
+
+msgctxt "Modal/&UserMonsterEditionTitle"
+msgid "User Monster Edition"
+msgstr "사용자 몬스터 편집"
+
+msgctxt "Modal/&UserNpcEditionTitle"
+msgid "Custom NPC Edition"
+msgstr "커스텀 NPC 편집"
+
+#, fuzzy
+#| msgid "True"
+msgctxt "Modal/&ContentPropertyBooleanTrueTitle"
+msgid "TRUE"
+msgstr "허용"
+
+#, fuzzy
+#| msgid "False"
+msgctxt "Modal/&ContentPropertyBooleanFalseTitle"
+msgid "FALSE"
+msgstr "불가"
+
+msgctxt "Modal/&UserMerchantInventoryEditionTitle"
+msgid "Custom Merchant Inventory"
+msgstr "커스텀 상인 인벤토리"
+
+msgctxt "Modal/&UserContentValuesTitle"
+msgid "Content Values"
+msgstr "컨텐츠 값"
+
+msgctxt "Modal/&UserContentValuesDescription"
+msgid "Allows changing values of the custom content"
+msgstr "커스텀 컨텐츠의 값을 바꾸는 걸 허용합니다"
+
+msgctxt "Modal/&ContentPropertyOverchargePercentTitle"
+msgid "Overcharge Percent"
+msgstr "백분율 청구"
+
+msgctxt "Modal/&ContentPropertyOverchargePercentDescription"
+msgid "The extra cost (percentage) when buying an item from this merchant"
+msgstr "이 상인에게서 아이템 구매 시 백분율 추가 비용을 냅니다"
+
+msgctxt "Modal/&ContentPropertyBuyBackPercentTitle"
+msgid "Buy Back Percent"
+msgstr "백분율 환급"
+
+msgctxt "Modal/&ContentPropertyBuyBackPercentDescription"
+msgid ""
+"The percentage of the raw cost that this merchant will give when you sell an "
+"item."
+msgstr "이 상인에게 아이템 판매 시 백분율 추가 비용을 받습니다."
+
+msgctxt "Modal/&ContentPropertyCanDetectMagicTitle"
+msgid "Can Detect Magic"
+msgstr "마법 탐지 서비스 허용"
+
+msgctxt "Modal/&ContentPropertyCanDetectMagicDescription"
+msgid "Can this merchant detect magical items in the party inventory?"
+msgstr "이 상인이 파티 인벤토리의 마법 아이템을 탐지할 수 있도록 허용합니까?"
+
+msgctxt "Modal/&ContentPropertyDetectMagicCostGpTitle"
+msgid "Detect Magic Cost (GP)"
+msgstr "마법 탐지 서비스 가격 (GP)"
+
+msgctxt "Modal/&ContentPropertyDetectMagicCostGpDescription"
+msgid "The cost to detect magical items"
+msgstr "마법 아이템 탐지 비용"
+
+msgctxt "Modal/&ContentPropertyCanIdentifyTitle"
+msgid "Can Identify Items"
+msgstr "식별 서비스 허용"
+
+msgctxt "Modal/&ContentPropertyCanIdentifyDescription"
+msgid "Can this merchant identify a magical item functions?"
+msgstr "이 상인이 마법 아이템의 성능을 식별할 수 있도록 허용합니까?"
+
+msgctxt "Modal/&ContentPropertyIdentifyCostGpTitle"
+msgid "Identify Cost (GP)"
+msgstr "식별 서비스 가격 (GP)"
+
+msgctxt "Modal/&ContentPropertyIdentifyCostGpDescription"
+msgid "The cost to identify a magical item"
+msgstr "마법 아이템 식별 비용"
+
+msgctxt "Modal/&ContentPropertyStockUnitsTitle"
+msgid "Stock Units"
+msgstr "재고 단위"
+
+msgctxt "Modal/&ContentPropertyStockUnitsDescription"
+msgid ""
+"This is the list of inventory items provided by the merchant, and their "
+"refurbishing parameters"
+msgstr "상인이 제공하는 인벤토리 아이템과 갱신 파라미터 목록입니다"
+
+msgctxt "Modal/&UserContentStockUnitsDescription"
+msgid ""
+"This allows you to fill the list of stock units offered in a merchant "
+"inventory"
+msgstr "상인 인벤토리에 제공되는 재고 단위 목록을 채울 수 있도록 허용합니다"
+
+msgctxt "Modal/&UserContentStockUnitItemTitle"
+msgid "Item"
+msgstr "아이템"
+
+msgctxt "Modal/&UserContentStockUnitItemSelectTitle"
+msgid "Select"
+msgstr "선택"
+
+msgctxt "Modal/&UserContentStockUnitItemSelectDescription"
+msgid "Click to select the item of this merchant inventory slot"
+msgstr "클릭하여 이 상인 인벤토리 슬롯의 아이템을 선택하십시오"
+
+msgctxt "Modal/&UserContentStockUnitStackCountTitle"
+msgid "Stack Count"
+msgstr "중첩수"
+
+msgctxt "Modal/&UserContentStockUnitStackCountDescription"
+msgid ""
+"When an item can be stacked (such as food units), this defines the stack "
+"size of this stock unit"
+msgstr "음식처럼 중첩 가능한 아이템일 경우, 이 재고 단위가 중첩 가능한 최대치를 설정합니다"
+
+msgctxt "Modal/&UserContentStockStockLineTitle"
+msgid "Stock"
+msgstr "재고"
+
+msgctxt "Modal/&UserContentStockInitialTitle"
+msgid "Initial"
+msgstr "초기값"
+
+msgctxt "Modal/&UserContentStockInitialDescription"
+msgid "The initial amount of units of this item when the merchant is spawned"
+msgstr "상인 생성 시 이 아이템의 초기 단위값"
+
+msgctxt "Modal/&UserContentStockMinTitle"
+msgid "Min"
+msgstr "최소값"
+
+msgctxt "Modal/&UserContentStockMinDescription"
+msgid ""
+"The minimal amount of available items of this type, if you want to make sure "
+"it is always present"
+msgstr "상시 아이템으로 설정하려 할 경우, 이 유형의 아이템의 구입 가능한 최소 개수"
+
+msgctxt "Modal/&UserContentStockMaxTitle"
+msgid "Max"
+msgstr "최대값"
+
+msgctxt "Modal/&UserContentStockMaxDescription"
+msgid "The maximal amount of available items of this type"
+msgstr "이 유형의 아이템의 구입 가능한 최대 개수"
+
+msgctxt "Modal/&UserContentStockReassortLineTitle"
+msgid "Reassort"
+msgstr "재반입"
+
+msgctxt "Modal/&UserContentStockReassortAmountTitle"
+msgid "Amount"
+msgstr "수량"
+
+msgctxt "Modal/&UserContentStockReassortAmountDescription"
+msgid "The number of units which are added when the merchant is reassorted"
+msgstr "상인이 재반입 시 추가되는 단위수"
+
+msgctxt "Modal/&UserContentStockReassortHoursTitle"
+msgid "Hours"
+msgstr "시간"
+
+msgctxt "Modal/&UserContentStockReassortHoursDescription"
+msgid "The number of hours required to trigger a reassort of the merchant"
+msgstr "상인이 재반입을 하기 위해 필요한 시간"
+
+msgctxt "Modal/&UserContentStockUnitUpButtonDescription"
+msgid "Move the stock unit up in the list"
+msgstr "목록에서 재고 단위를 위로 이동"
+
+msgctxt "Modal/&UserContentStockUnitDownButtonDescription"
+msgid "Move the stock unit down in the list"
+msgstr "목록에서 재고 단위를 아래로 이동"
+
+msgctxt "Modal/&UserContentStockUnitDeleteButtonDescription"
+msgid "Deletes the stock unit from the list"
+msgstr "목록에서 제거 단위를 삭제"
+
+msgctxt "Modal/&UserContentAddStockUnitButtonTitle"
+msgid "Add Stock Unit"
+msgstr "재고 단위 추가"
+
+msgctxt "Modal/&UserContentAddStockUnitButtonDescription"
+msgid ""
+"Add a new stock unit to the merchant inventory, to specify an item that can "
+"be purchased at the merchant"
+msgstr "상인으로부터 아이템을 구매할 수 있도록, 상인 인벤토리에 새 재고 단위를 추가합니다"
+
+msgctxt "Modal/&UserContentProficiencyUpButtonDescription"
+msgid "Move the proficiency up in the list"
+msgstr "목록에서 숙련을 위로 이동"
+
+msgctxt "Modal/&UserContentProficiencyDownButtonDescription"
+msgid "Move the proficiency down in the list"
+msgstr "목록에서 숙련을 아래로 이동"
+
+msgctxt "Modal/&UserContentProficiencyDeleteButtonDescription"
+msgid "Deletes the proficiency from the list"
+msgstr "목록에서 숙련 삭제"
+
+msgctxt "Modal/&UserContentAddProficiencyButtonTitle"
+msgid "Add Proficiency"
+msgstr "숙련 추가"
+
+msgctxt "Modal/&UserContentAddProficiencyButtonDescription"
+msgid "Add a new proficiency information for this actor"
+msgstr "이 역할에게 새로운 숙련 정보를 추가합니다"
+
+msgctxt "Modal/&ContentPropertySavingThrowsTitle"
+msgid "Saving Throws"
+msgstr "내성 굴림"
+
+msgctxt "Modal/&ContentPropertySavingThrowsDescription"
+msgid ""
+"This is the list of saving throw proficiencies (and their bonus added to the "
+"d20 save roll) mastered by this character"
+msgstr "이 캐릭터가 통달한 내성 굴림 숙련 및 D20 내성 굴림에 추가되는 수정치 목록입니다"
+
+msgctxt "Modal/&ContentPropertySkillsTitle"
+msgid "Skills"
+msgstr "기술"
+
+msgctxt "Modal/&ContentPropertySkillsDescription"
+msgid ""
+"This is the list of skills proficiencies (and their bonus added to the d20 "
+"ability check roll) mastered by this character"
+msgstr "이 캐릭터가 통달한 내성 기술 숙련 및 D20 능력 판정에 추가되는 수정치 목록입니다"
+
+msgctxt "Modal/&ContentPropertyInformationIndividualAttacksTitle"
+msgid "Individual Attacks"
+msgstr "개별 공격"
+
+msgctxt "Modal/&ContentPropertyInformationIndividualAttacksDescription"
+msgid ""
+"The creature will select one of the attacks and use it exclusively in the "
+"combat turn"
+msgstr "이 크리쳐는 전투 턴에만 공격 중 하나를 선택해 사용합니다"
+
+msgctxt "Modal/&ContentPropertyInformationGroupedAttacksTitle"
+msgid "Grouped Attacks"
+msgstr "그룹 공격"
+
+msgctxt "Modal/&ContentPropertyInformationGroupedAttacksDescription"
+msgid "The creature can use all the listed attacks in one combat round"
+msgstr "이 크리쳐는 목록상의 모든 공격을 한 전투 라운드에 사용할 수 있습니다"
+
+msgctxt "Modal/&UserContentAddEffectFormButtonTitle"
+msgid "Add Effect Form"
+msgstr "효과 유형 추가"
+
+msgctxt "Modal/&UserContentAddEffectFormButtonDescription"
+msgid ""
+"Adds a new effect form to determines the effects of this content (damage, "
+"condition, etc)"
+msgstr "이 컨텐츠(피해, 상태이상 등)의 이펙트를 결정하는 새 효과 유형을 추가합니다"
+
+msgctxt "Modal/&ContentPropertyAttackToHitTitle"
+msgid "To Hit"
+msgstr "명중 보정치"
+
+msgctxt "Modal/&ContentPropertyAttackToHitDescription"
+msgid ""
+"The bonus attack to the d20 roll to determine the success of this attack"
+msgstr "공격의 성공을 결정짓는 명중 D20 굴림 보너스 수치"
+
+msgctxt "Modal/&ContentPropertyAttackIterationsTitle"
+msgid "Iterations"
+msgstr "반복수"
+
+msgctxt "Modal/&ContentPropertyAttackIterationsDescription"
+msgid "The number of times this attack can be used per turn"
+msgstr "이 공격이 턴당 사용될 수 있는 횟수"
+
+#, fuzzy
+#| msgid "Attack 1: "
+msgctxt "Modal/&ContentPropertyAttack1Title"
+msgid "Attack 1:"
+msgstr "공격 1: "
+
+msgctxt "Modal/&ContentPropertyAttack1Description"
+msgid "The parameters of the first attack of this creature"
+msgstr "이 크리쳐의 첫 번째 공격 파라미터"
+
+#, fuzzy
+#| msgid "Attack 2: "
+msgctxt "Modal/&ContentPropertyAttack2Title"
+msgid "Attack 2:"
+msgstr "공격 2: "
+
+msgctxt "Modal/&ContentPropertyAttack2Description"
+msgid "The parameters of the second attack of this creature"
+msgstr "이 크리쳐의 두 번째 공격 파라미터"
+
+#, fuzzy
+#| msgid "Attack 3: "
+msgctxt "Modal/&ContentPropertyAttack3Title"
+msgid "Attack 3:"
+msgstr "공격 3: "
+
+msgctxt "Modal/&ContentPropertyAttack3Description"
+msgid "The parameters of the third attack of this creature"
+msgstr "이 크리쳐의 세 번째 공격 파라미터"
+
+msgctxt "Modal/&ContentPropertyHasSavingThrowTitle"
+msgid "Has Saving Throw?"
+msgstr "내성 굴림 여부?"
+
+msgctxt "Modal/&ContentPropertyHasSavingThrowDescription"
+msgid "Determines if a saving throw is present for this effect"
+msgstr "이 효과에 노출 시 내성 굴림을 해야 하는지 결정합니다"
+
+msgctxt "Modal/&ContentPropertyDifficultyClassTitle"
+msgid "DC"
+msgstr "DC"
+
+msgctxt "Modal/&ContentPropertyDifficultyClassDescription"
+msgid "The difficulty class to succeed the saving throw"
+msgstr "내성 굴림에 성공하기 위한 난이도입니다"
+
+msgctxt "Modal/&ContentPropertyDurationTitle"
+msgid "Duration"
+msgstr "지속시간"
+
+msgctxt "Modal/&ContentPropertyDurationDescription"
+msgid "The duration for the added conditions"
+msgstr "추가된 상태이상의 지속시간"
+
+msgctxt "Modal/&ContentPropertyEffectFormsTitle"
+msgid "Effect Forms"
+msgstr "효과 유형"
+
+msgctxt "Modal/&ContentPropertyEffectFormsDescription"
+msgid "The list of effects applied to the target, such as damage or confition"
+msgstr "피해나 상태이상 등, 대상에게 적용되는 효과의 목록"
+
+msgctxt "Modal/&ContentPropertyFormTypeTitle"
+msgid "Form Type"
+msgstr "유형 타입"
+
+msgctxt "Modal/&ContentPropertyFormTypeDescription"
+msgid "The type of this effect form, such as damage or condition"
+msgstr "피해나 상태이상 등, 이 효과 유형의 타입"
+
+msgctxt "Modal/&ContentPropertyFormTypeDamageTitle"
+msgid "Damage"
+msgstr "피해"
+
+msgctxt "Modal/&ContentPropertyFormTypeDamageDescription"
+msgid "This type of effect form applies damage to the target"
+msgstr "이 타입의 효과 유형은 대상에게 피해를 가합니다"
+
+msgctxt "Modal/&ContentPropertyFormTypeConditionTitle"
+msgid "Condition"
+msgstr "상태이상"
+
+msgctxt "Modal/&ContentPropertyFormTypeConditionDescription"
+msgid "This type of effect form applies a condition to a target"
+msgstr "이 타입의 효과 유형은 대상에게 상태이상을 가합니다"
+
+msgctxt "Modal/&ContentPropertySaveAffinityTitle"
+msgid "Save Affinity"
+msgstr "성공 시 효과"
+
+msgctxt "Modal/&ContentPropertySaveAffinityDescription"
+msgid "Determines how this effect form reacts to a successful saving throw"
+msgstr "대상이 내성 굴림에 성공 시 어떤 효과가 있는지 결정합니다"
+
+msgctxt "Modal/&ContentPropertySaveAffinityNoneTitle"
+msgid "None"
+msgstr "없음"
+
+msgctxt "Modal/&ContentPropertySaveAffinityNoneDescription"
+msgid "This effect is not impacted by a successful saving throw"
+msgstr "내성 굴림 성공은 이 효과에 아무런 영향도 주지 않습니다"
+
+msgctxt "Modal/&ContentPropertySaveAffinityHalfDamageTitle"
+msgid "Half"
+msgstr "반감"
+
+msgctxt "Modal/&ContentPropertySaveAffinityHalfDamageDescription"
+msgid "A successful saving throw will halve the damage of this effect"
+msgstr "대상이 내성 굴림 성공 시 절반의 피해를 가합니다"
+
+msgctxt "Modal/&ContentPropertySaveAffinityNegatesTitle"
+msgid "Negates"
+msgstr "무효화"
+
+msgctxt "Modal/&ContentPropertySaveAffinityNegatesDescription"
+msgid "A successful saving throw will completely negate this effect"
+msgstr "대상은 내성 굴림 성공 시 아무런 효과도 받지 않습니다"
+
+msgctxt "Modal/&ContentPropertyDamageDiceNumberDescription"
+msgid "The number of dice rolled for the damage"
+msgstr "피해를 위해 굴리는 주사위 개수"
+
+msgctxt "Modal/&ContentPropertyDamageDieTypeDescription"
+msgid "The type of die rolled for the damage"
+msgstr "피해를 위해 굴리는 주사위 유형"
+
+msgctxt "Modal/&ContentPropertyDamageBonusDescription"
+msgid "The bonus damage added to the rolled dice"
+msgstr "주사위 굴림값에 더해지는 추가 피해량"
+
+msgctxt "Modal/&ContentPropertyDamageTypeDescription"
+msgid "The type of inflicted damage"
+msgstr "가하는 피해의 유형"
+
+msgctxt "Modal/&UserContentEffectFormUpButtonDescription"
+msgid "Move the effect form up in the list"
+msgstr "목록에서 효과 유형을 위로 이동"
+
+msgctxt "Modal/&UserContentEffectFormDownButtonDescription"
+msgid "Move the effect form down in the list"
+msgstr "목록에서 효과 유형을 아래로 이동"
+
+msgctxt "Modal/&UserContentEffectFormDeleteButtonDescription"
+msgid "Deletes the effect form from the list"
+msgstr "목록에서 효과 유형을 삭제"
+
+msgctxt "Modal/&UserContentEffectFormConditionSelectDescription"
+msgid "Click to select a condition added by this effect form"
+msgstr "클릭하여 효과 유형에 더해진 상태이상을 선택하십시오"
+
+msgctxt "Modal/&ContentPropertyDurationRoundTitle"
+msgid "Round"
+msgstr "라운드"
+
+msgctxt "Modal/&ContentPropertyDurationMinuteTitle"
+msgid "Minute"
+msgstr "분"
+
+msgctxt "Modal/&ContentPropertyDurationHourTitle"
+msgid "Hour"
+msgstr "시간"
+
+msgctxt "Modal/&ContentPropertyDurationDayTitle"
+msgid "Day"
+msgstr "일"
+
+msgctxt "Modal/&ContentPropertyEndOfEffectTitle"
+msgid "Effect Ends"
+msgstr "효과 종료"
+
+msgctxt "Modal/&ContentPropertyEndOfEffectDescription"
+msgid ""
+"The occurence in the turn when then effect will end, and also when a saving "
+"throw can be re-attempted, if available"
+msgstr "효과가 종료되는 턴 혹은 내성 굴림 재시도가 가능할 경우 발생합니다"
+
+msgctxt "Modal/&ContentPropertyEndOfEffectStartOfTurnTitle"
+msgid "Start Of Turn"
+msgstr "턴 시작 시"
+
+msgctxt "Modal/&ContentPropertyEndOfEffectEndOfTurnTitle"
+msgid "End Of Turn"
+msgstr "턴 종료 시"
+
+msgctxt "Modal/&ContentPropertyCanSaveToCancelTitle"
+msgid "Can Save To Cancel?"
+msgstr "성공 시 효과 종료 여부?"
+
+msgctxt "Modal/&ContentPropertyCanSaveToCancelDescription"
+msgid ""
+"Determines if the target affected by this effect can save each turn to "
+"cancel the effect. The occurence of the saving throw is determined by the "
+"End of Effect field."
+msgstr ""
+"이 효과에 영향을 받은 대상이 턴마다 내성 굴림을 해 성공 시 효과를 제거할 수 있는지 결정합니다. 내성 굴림 발생은 효과 종료 종류에 "
+"따라 결정됩니다."
+
+msgctxt "Modal/&ContentPropertyChallengeRatingTitle"
+msgid "Challenge Rating"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyChallengeRatingDescription"
+msgid ""
+"You can override the armor class of this creature when it is spawned. Values "
+"of 0, 0.125, 0.25, & 0.5 are valid; everything else must be above 1 and an "
+"integer (not a decimal value)"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyWeaponEffectsTitle"
+msgid "Weapon Effects"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyWeaponEffectsDescription"
+msgid "Use this to override the damage or special effects of this weapon"
+msgstr ""
+
+msgctxt "Modal/&UserQuestSettingsTitle"
+msgid "Quest Settings"
+msgstr ""
+
+msgctxt "Modal/&UserVariableEditionTitle"
+msgid "Campaign Variable Edition"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyVariableTypeTitle"
+msgid "Variable Type"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyVariableTypeDescription"
+msgid "The type of data stored by this variable"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyVariableTypeIntTitle"
+msgid "Integer"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyVariableTypeIntDescription"
+msgid "An integer value that can be altered by mathematical operations"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyVariableTypeBoolTitle"
+msgid "Boolean"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyVariableTypeBoolDescription"
+msgid "A value that can be true or false"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyVariableTypeStringTitle"
+msgid "String"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyVariableTypeStringDescription"
+msgid "A plain string of characters"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyVariableDefaultValueIntTitle"
+msgid "Default Value"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyVariableDefaultValueIntDescription"
+msgid "The default integer value of this variable when the campaign starts"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyVariableDefaultValueBoolTitle"
+msgid "Default Value"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyVariableDefaultValueBoolDescription"
+msgid "The default Boolean value of this variable when the campaign starts"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyVariableDefaultValueStringTitle"
+msgid "Default Value"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyVariableDefaultValueStringDescription"
+msgid "The default string value of this variable when the campaign starts"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyVariableBoolFalseTitle"
+msgid "FALSE"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyVariableBoolTrueTitle"
+msgid "TRUE"
+msgstr ""
+
+msgctxt "Modal/&SelectUserVariableTitle"
+msgid "Select a Variable"
+msgstr ""
+
+msgctxt "Modal/&UserDialogSettingsTitle"
+msgid "Dialog Settings"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyDamageAffinitiesTitle"
+msgid "Damage Affinities"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyDamageAffinitiesDescription"
+msgid ""
+"This allows you to add specific affinities (resistance, immunity, "
+"vulnerability) to a damage type."
+msgstr ""
+
+msgctxt "Modal/&DamageAffinityDamageTypeTitle"
+msgid "Damage"
+msgstr ""
+
+msgctxt "Modal/&DamageAffinityDamageTypeDescription"
+msgid "The type of damage for which the affinity is applied."
+msgstr ""
+
+msgctxt "Modal/&DamageAffinityTypeTitle"
+msgid "Affinity"
+msgstr ""
+
+msgctxt "Modal/&DamageAffinityTypeDescription"
+msgid ""
+"The type of affinity to the damage impacting the amount of received damage."
+msgstr ""
+
+msgctxt "Modal/&DamageAffinityTypeNoneTitle"
+msgid "None"
+msgstr ""
+
+msgctxt "Modal/&DamageAffinityTypeNoneDescription"
+msgid "No specific affinity to damage."
+msgstr ""
+
+msgctxt "Modal/&DamageAffinityTypeResistanceTitle"
+msgid "Resistance"
+msgstr ""
+
+msgctxt "Modal/&DamageAffinityTypeResistanceDescription"
+msgid "Damage is halved."
+msgstr ""
+
+msgctxt "Modal/&DamageAffinityTypeVulnerabilityTitle"
+msgid "Vulnerability"
+msgstr ""
+
+msgctxt "Modal/&DamageAffinityTypeVulnerabilityDescription"
+msgid "Damage is doubled."
+msgstr ""
+
+msgctxt "Modal/&DamageAffinityTypeImmunityTitle"
+msgid "Immunity"
+msgstr ""
+
+msgctxt "Modal/&DamageAffinityTypeImmunityDescription"
+msgid "All damage is ignored."
+msgstr ""
+
+msgctxt "Modal/&SavingThrowAdvantageTitle"
+msgid "Save Advantage"
+msgstr ""
+
+msgctxt "Modal/&SavingThrowAdvantageDescription"
+msgid ""
+"The type of advantage/disadvantage for saving throws against this damage "
+"type."
+msgstr ""
+
+msgctxt "Modal/&SavingThrowAdvantageNoneTitle"
+msgid "None"
+msgstr ""
+
+msgctxt "Modal/&SavingThrowAdvantageNoneDescription"
+msgid "No specific advantage/disadvantage."
+msgstr ""
+
+msgctxt "Modal/&SavingThrowAdvantageAdvantageTitle"
+msgid "Advantage"
+msgstr ""
+
+msgctxt "Modal/&SavingThrowAdvantageAdvantageDescription"
+msgid "Advantage to saving throws."
+msgstr ""
+
+msgctxt "Modal/&SavingThrowAdvantageDisadvantageTitle"
+msgid "Disadvantage"
+msgstr ""
+
+msgctxt "Modal/&SavingThrowAdvantageDisadvantageDescription"
+msgid "Disadvantage to saving throws."
+msgstr ""
+
+msgctxt "Modal/&UserContentSelectionTitle"
+msgid "User Content Selection"
+msgstr ""
+
+msgctxt "Modal/&UserContentSelectAllButtonTitle"
+msgid "Select All"
+msgstr ""
+
+msgctxt "Modal/&UserContentSelectAllButtonDescription"
+msgid "Select all the user content of this campaign."
+msgstr ""
+
+msgctxt "Modal/&UserContentDeselectAllButtonTitle"
+msgid "Deselect All"
+msgstr ""
+
+msgctxt "Modal/&UserContentDeselectAllButtonDescription"
+msgid "Deselect all the user content of this campaign."
+msgstr ""
+
+msgctxt "Modal/&UserContentImportButtonTitle"
+msgid "Import"
+msgstr ""
+
+msgctxt "Modal/&UserContentImportButtonDescription"
+msgid "Import the selected content into the current campaign."
+msgstr ""
+
+msgctxt "Modal/&UserContentExportButtonTitle"
+msgid "Export"
+msgstr ""
+
+msgctxt "Modal/&UserContentExportButtonDescription"
+msgid ""
+"Export the selected content of the current campaign into another campaign, "
+"which you will select in the next panel."
+msgstr ""
+
+msgctxt "Modal/&UserContentOverwriteToggleTitle"
+msgid "Overwrite Duplicates"
+msgstr ""
+
+msgctxt "Modal/&UserContentOverwriteToggleDescription"
+msgid ""
+"If this is checked, all content bearing the same name will be overwritten in "
+"the target campaign."
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyDroppedLootTitle"
+msgid "Dropped Loot"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyDroppedLootDescription"
+msgid ""
+"This allows you to specify the loot pack dropped by a user monster. Some "
+"default monster loot packs are internal to the game data and cannot be "
+"accessed, but user loot packs can be created."
+msgstr ""
+
+msgctxt "Modal/&UserLootPackEditionTitle"
+msgid "Edit Loot Pack"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyItemOccurencesTitle"
+msgid "Item Occurrences"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyItemOccurencesDescription"
+msgid ""
+"This allows you to edit the contents of this loot pack, including quantity "
+"and probability."
+msgstr ""
+
+msgctxt "Modal/&UserContentAddItemOccurenceButtonTitle"
+msgid "Add Item"
+msgstr ""
+
+msgctxt "Modal/&UserContentAddItemOccurenceButtonDescription"
+msgid "Add an item to the loot pack, including quantity and probability."
+msgstr ""
+
+msgctxt "Modal/&UserContentItemOccurenceDiceNumberDescription"
+msgid "The number of dice rolled to determine the quantity of this item."
+msgstr ""
+
+msgctxt "Modal/&UserContentItemOccurenceDiceTypeDescription"
+msgid "The type of die rolled to determine the quantity of this item."
+msgstr ""
+
+msgctxt "Modal/&UserContentItemOccurenceAdditiveModifierDescription"
+msgid ""
+"The modifier applied to the dice roll to determine the quantity of this "
+"item. Negative values are allowed: for example, 1d4-3 will have a 25% chance "
+"of spawning this item."
+msgstr ""
+
+msgctxt "Modal/&DialogSettingsAdditionalNpcsTitle"
+msgid "Additional NPCs"
+msgstr ""
+
+msgctxt "Modal/&DialogSettingsAdditionalNpcsDescription"
+msgid ""
+"In addition to the main NPC with whom the party is talking, you can choose "
+"other NPCs who will add new role options to the NPC speech boxes. Make sure "
+"those NPCs are spawned when the dialog is started."
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyMagicOvercomesTitle"
+msgid "Magic Overcomes?"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyMagicOvercomesDescription"
+msgid ""
+"Selecting this option means that the damage affinity will be cancelled by a "
+"magical effect or attack."
+msgstr ""
+
+msgctxt "Modal/&MapWaypointNavigateVoteTitle"
+msgid "Waypoint Travel Vote"
+msgstr ""
+
+msgctxt "Modal/&MapWaypointNavigateVoteHostDescription"
+msgid "You suggest to move to:"
+msgstr ""
+
+msgctxt "Modal/&MapWaypointNavigateVoteClientDescription"
+msgid ""
+"{0} has suggested moving to the {1} waypoint. This requires your agreement."
+msgstr ""
+
+msgctxt "Modal/&MultiplayerVotePlayerAnswersTitle"
+msgid "Waiting for other players to respond"
+msgstr ""
+
+msgctxt "Modal/&MultiplayerVoteCancelTitle"
+msgid "Cancel Vote"
+msgstr ""
+
+msgctxt "Modal/&MultiplayerVoteCancelDescription"
+msgid "Cancel the vote in progress."
+msgstr ""
+
+msgctxt "Modal/&MultiplayerVoteAcceptTitle"
+msgid "Accept"
+msgstr ""
+
+msgctxt "Modal/&MultiplayerVoteRejectTitle"
+msgid "Reject"
+msgstr ""
+
+msgctxt "Modal/&MultiplayerVoteClientStatusPendingTitle"
+msgid "Pending..."
+msgstr ""
+
+msgctxt "Modal/&MultiplayerVoteClientStatusPendingDescription"
+msgid "Waiting for the player to accept the request."
+msgstr ""
+
+msgctxt "Modal/&MultiplayerVoteClientStatusAcceptedTitle"
+msgid "Accepted"
+msgstr ""
+
+msgctxt "Modal/&MultiplayerVoteClientStatusAcceptedDescription"
+msgid "The player has accepted the request."
+msgstr ""
+
+msgctxt "Modal/&MultiplayerWaitNotifyTitle"
+msgid "Notify"
+msgstr ""
+
+msgctxt "Modal/&MultiplayerWaitNotifyDescription"
+msgid "Notify this player that you are waiting for him."
+msgstr ""
+
+msgctxt "Modal/&MultiplayerWaitKickTitle"
+msgid "Kick"
+msgstr ""
+
+msgctxt "Modal/&MultiplayerWaitKickDescription"
+msgid "Kick this player from the game."
+msgstr ""
+
+msgctxt "Modal/&MultiplayerWaitYouTitle"
+msgid "You are Ready"
+msgstr ""
+
+msgctxt "Modal/&PostRestWaitTitle"
+msgid "Post-Rest Synchronization"
+msgstr ""
+
+msgctxt "Modal/&PostRestWaitDescription"
+msgid "Waiting for other players to finish their rest sequence:"
+msgstr ""
+
+msgctxt "Modal/&MultiplayerWaitClientStatusPendingTitle"
+msgid "Pending..."
+msgstr ""
+
+msgctxt "Modal/&MultiplayerWaitClientStatusPendingDescription"
+msgid "Waiting for the player to accept the request."
+msgstr ""
+
+msgctxt "Modal/&MultiplayerWaitClientStatusReadyTitle"
+msgid "Ready"
+msgstr ""
+
+msgctxt "Modal/&MultiplayerWaitClientStatusReadyDescription"
+msgid "The player is ready to proceed."
+msgstr ""
+
+msgctxt "Modal/&MultiplayerWaitQuitGameTitle"
+msgid "Quit Game"
+msgstr ""
+
+msgctxt "Modal/&MultiplayerWaitQuitGameDescription"
+msgid ""
+"In case something is preventing the multiplayer game from continuing, you "
+"can still quit the game from here."
+msgstr ""
+
+msgctxt "Modal/&DefaultTextInputTitle"
+msgid "Type some text"
+msgstr ""
+
+msgctxt "Modal/&DefaultPasswordInputTitle"
+msgid "Type a password"
+msgstr ""
+
+msgctxt "Modal/&ClearTitle"
+msgid "Clear"
+msgstr ""
+
+msgctxt "Modal/&PostRestReadyPlayersDescription"
+msgid "Players ready:"
+msgstr ""
+
+msgctxt "Modal/&KickTitle"
+msgid "Kick a player"
+msgstr ""
+
+msgctxt "Modal/&KickDescription"
+msgid "Kick a player from your session:"
+msgstr ""
+
+msgctxt "Modal/&ModioLoginTitle"
+msgid "Log in to manage your mods"
+msgstr ""
+
+msgctxt "Modal/&ModioLoginEmail"
+msgid "Input your email"
+msgstr ""
+
+msgctxt "Modal/&ModioLoginSecurityCode"
+msgid "Input the Security Code"
+msgstr ""
+
+msgctxt "Modal/&ModioLoginRequest"
+msgid "Request Security Code"
+msgstr ""
+
+msgctxt "Modal/&ModioLoginAuthenticate"
+msgid "Authenticate"
+msgstr ""
+
+msgctxt "Modal/&ModioLoginPoweredModio"
+msgid "Powered by mod.io"
+msgstr ""
+
+msgctxt "Modal/&ModioLoginAbout"
+msgid "About"
+msgstr ""
+
+msgctxt "Modal/&ModioLoginPrivacy"
+msgid "Privacy"
+msgstr ""
+
 msgctxt "Modal/&CreateSpellSlotTitle"
 msgid "Spell Slot Creation"
 msgstr "주문 슬롯 생성"
@@ -1425,3 +1860,87 @@ msgstr "회복"
 msgctxt "Modal/&SpellSlotRecoverButtonDescription"
 msgid "Confirm to recover the selected spell slots."
 msgstr "지정한 주문 슬롯 회복을 확정합니다."
+
+msgctxt "Modal/&MultiplayerRoomCreationErrorTitle"
+msgid "Room Creation Error"
+msgstr "방 생성 오류"
+
+#, fuzzy
+#| msgid "A room with this name already exists, please try another."
+msgctxt "Modal/&MultiplayerRoomCreationErrorDuplicateDescription"
+msgid "A room with this name already exists. Please try another one."
+msgstr "같은 이름의 방이 이미 존재합니다, 다른 이름으로 시도해 보십시오."
+
+msgctxt "Modal/&MultiplayerRoomCreationErrorUnknownDescriptionFormat"
+msgid "Room could not be created: code {0}."
+msgstr "방을 생성할 수 없습니다: 코드 {0}."
+
+msgctxt "Modal/&MultiplayerConnexionErrorTitle"
+msgid "Connection Failed"
+msgstr "연결 실패"
+
+#, fuzzy
+#| msgid ""
+#| "Could not connect to the multiplayer services. Please ensure that you have a "
+#| "stable connection and try again."
+msgctxt "Modal/&MultiplayerConnexionErrorDescription"
+msgid ""
+"Could not connect to the Photon multiplayer services. Please ensure that you "
+"have a stable connection and try again."
+msgstr "멀티플레이어 서비스에 연결할 수 없습니다. 연결 상태를 점검하고 다시 시도해 보십시오."
+
+msgctxt "Modal/&MultiplayerRoomJoinErrorTitle"
+msgid "Join Room Failed"
+msgstr "방 입장 실패"
+
+msgctxt "Modal/&MultiplayerRoomJoinErrorFullDescription"
+msgid "The room is full."
+msgstr "인원이 모두 찼습니다."
+
+msgctxt "Modal/&MultiplayerRoomJoinErrorClosedDescription"
+msgid "The room is closed."
+msgstr "방이 닫혔습니다."
+
+msgctxt "Modal/&MultiplayerRoomJoinErrorInexistantDescription"
+msgid "The room does not exist."
+msgstr "방이 존재하지 않습니다."
+
+msgctxt "Modal/&MultiplayerRoomJoinErrorUnknownDescriptionFormat"
+msgid "The room could not be joined: code {0}."
+msgstr "방에 입장할 수 없습니다: 코드 {0}."
+
+msgctxt "Modal/&MultiplayerRoomJoinErrorNotFoundDescription"
+msgid "The room could not be found. Check the name and try again."
+msgstr "방을 찾을 수 없습니다. 이름을 확인하고 다시 시도해 주십시오."
+
+msgctxt "Modal/&MultiplayerRoomJoinErrorWrongPasswordDescription"
+msgid "The password is incorrect."
+msgstr "비밀번호가 일치하지 않습니다."
+
+msgctxt "Modal/&MultiplayerDisconnectedTitle"
+msgid "Cannot Connect to Photon"
+msgstr ""
+
+msgctxt "Modal/&MultiplayerDisconnectedDescription"
+msgid ""
+"Sorry, Photon Cloud is currently not available. Please check your internet "
+"connection and try again later."
+msgstr ""
+
+msgctxt "Modal/&MultiplayerDisconnectedReturnToMenuDescription"
+msgid ""
+"Sorry, Photon Cloud is currently not available. You can either keep playing "
+"offline or return to the main menu to try again later."
+msgstr ""
+
+msgctxt "Modal/&SessionPasswordInputTitle"
+msgid "Game Session Password"
+msgstr ""
+
+msgctxt "Modal/&SessionPasswordInputDescription"
+msgid "You must input a valid password to enter the \"{0}\" game session."
+msgstr ""
+
+msgctxt "Modal/&MultiplayerRoomJoinErrorGameAlreadyStartedDescription"
+msgid "The session has already started and cannot be joined."
+msgstr ""

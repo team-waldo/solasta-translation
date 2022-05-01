@@ -1,114 +1,16 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2021-12-31 11:11+0000\n"
-"Last-Translator: Nickel <psb3421@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/encounter/"
-"ko/>\n"
-"Language: ko\n"
+"POT-Creation-Date: 2022-05-01 18:44+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
-
-msgctxt "Encounter/&CR3_Woodland_Creatures_Title"
-msgid "Woodland Creatures"
-msgstr "삼림지대 크리쳐"
-
-msgctxt "Encounter/&CR3_Woodland_Creatures_Description"
-msgid "Wild animals, driven by hunger or territorial instinct."
-msgstr "영역권을 지키기 위해서나 굶주림에 의해 행동하는 야생동물들."
-
-msgctxt "Encounter/&CR3_GiantCrows_Title"
-msgid "Giant Crows"
-msgstr "거대 까마귀"
-
-msgctxt "Encounter/&CR3_GiantCrows_Description"
-msgid "These huge carrion birds are too hungry to wait for you to die."
-msgstr "시체를 파먹는 이 거대한 새들은 당신이 죽기만을 기다리기엔 너무 많이 굶주렸습니다."
-
-msgctxt "Encounter/&CR3_AgressiveGorillas_Title"
-msgid "Agressive Gorillas"
-msgstr "공격적인 고릴라"
-
-msgctxt "Encounter/&CR3_AgressiveGorillas_Description"
-msgid "These highly territorial animals are not uncommon in the valley."
-msgstr "자신들의 구역에 매우 민감한 이 짐승들은 계곡에서 쉽게 찾을 수 있습니다."
-
-msgctxt "Encounter/&CR4_BerserkerAndBeasts_Title"
-msgid "Berserk Beastmaster"
-msgstr "광분한 비스트마스터"
-
-msgctxt "Encounter/&CR4_BerserkerAndBeasts_Description"
-msgid "A crazed beastmaster and his pets are on the hunt!"
-msgstr "광기에 찬 비스트마스터와 그의 애완동물들 사냥에 나섰습니다!"
-
-msgctxt "Encounter/&CR4_GiantBettles_Title"
-msgid "Giant Beetles"
-msgstr "거대 딱정벌레"
-
-msgctxt "Encounter/&CR4_GiantBettles_Description"
-msgid "Oversized insects - and hungry ones, at that."
-msgstr "거대하고 - 굶주린 곤충들."
-
-msgctxt "Encounter/&CR4_MutantHorde_Title"
-msgid "Mutant Horde"
-msgstr "돌연변이 무리"
-
-msgctxt "Encounter/&CR4_MutantHorde_Description"
-msgid "A group of local beasts including some strange, unnatural individuals."
-msgstr "낯설고, 부자연스러운 개체를 포함한 근방 지역의 짐승 무리."
-
-msgctxt "Encounter/&CR4_TigerDrakes_Title"
-msgid "Tiger Drakes"
-msgstr "타이거 드레이크 떼"
-
-msgctxt "Encounter/&CR4_TigerDrakes_Description"
-msgid "A group of flying pests."
-msgstr "유해동물 무리."
-
-msgctxt "Encounter/&CR4_Werewolf_Title"
-msgid "Werewolf and Pet"
-msgstr "늑대인간과 애완동물"
-
-msgctxt "Encounter/&CR4_Werewolf_Description"
-msgid "A werewolf in human form and his pet."
-msgstr "인간 형태의 늑대인간과 그의 애완동물."
-
-msgctxt "Encounter/&CR4_MummyAndPawnsTitle"
-msgid "Mummy and Pawns"
-msgstr "미라와 졸개 무리"
-
-msgctxt "Encounter/&CR4_MummyAndPawnsDescription"
-msgid "A wandering mummy with her followers."
-msgstr "떠돌이 미라와 그녀의 추종자들."
-
-msgctxt "Encounter/&CR5_OrcsBear_Title"
-msgid "Orcs and Bear"
-msgstr "오크 무리와 곰"
-
-msgctxt "Encounter/&CR5_OrcsBear_Description"
-msgid "A couple of orc berserkers and their totem animal."
-msgstr "오크 광전사 몇 명과 그들의 토템 짐승."
-
-msgctxt "Encounter/&CR5_Mummies_Title"
-msgid "Mummies"
-msgstr "미라 무리"
-
-msgctxt "Encounter/&CR5_Mummies_Description"
-msgid "A couple of wandering mummies."
-msgstr "몇몇의 떠돌이 미라들."
-
-msgctxt "Encounter/&CR5_UndeadHorde_Title"
-msgid "Undead Horde"
-msgstr "언데드 무리"
-
-msgctxt "Encounter/&CR5_UndeadHorde_Description"
-msgid "A motley group of undead looking for victims."
-msgstr "희생양을 찾아다니는 잡다한 언데드 무리."
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "Encounter/&Abjuration_Caravan_EncounterDescription"
 msgid "You came across a caravan, a rare thing in these desolate lands."
@@ -997,3 +899,1008 @@ msgstr "위험한 오크 암살자와 그의 호위입니다."
 msgctxt "Encounter/&CR8_Tamed_Minotaur_Description"
 msgid "A band of goblins who tamed a powerful minotaur."
 msgstr "강력한 미노타우로스를 길들인 고블린 무리입니다."
+
+msgctxt "Encounter/&CR4_WanderingHag_Title"
+msgid "Wandering Hag"
+msgstr ""
+
+msgctxt "Encounter/&CR3_LoneBeastermaster_Title"
+msgid "Orc Hermit"
+msgstr ""
+
+msgctxt "Encounter/&CR5_RedeemerScout_Title"
+msgid "Redeemer Scout"
+msgstr ""
+
+msgctxt "Encounter/&CR7_RedeemerDuo_Title"
+msgid "Roaming Redeemers"
+msgstr ""
+
+msgctxt "Encounter/&CR3_LoneBulette_Title"
+msgid "Lone Bulette"
+msgstr ""
+
+msgctxt "Encounter/&CR10_BuletteAndFlyers_Title"
+msgid "Band of Bulettes"
+msgstr ""
+
+msgctxt "Encounter/&CR4_GiantAndWolves_Huge_Title"
+msgid "Lonely Giant"
+msgstr ""
+
+msgctxt "Encounter/&CR10_ElementalTrio_Title"
+msgid "Elemental Trio"
+msgstr ""
+
+msgctxt "Encounter/&CR9_GiantsAndWinterWolves_Huge_Title"
+msgid "Giant Duo"
+msgstr ""
+
+msgctxt "Encounter/&CR10_FeyIncursion_Title"
+msgid "Fey Incursion"
+msgstr ""
+
+msgctxt "Encounter/&CR4_LoneShambling_Title"
+msgid "Roaming Shambling Mound"
+msgstr ""
+
+msgctxt "Encounter/&CR6_ShamblingDuo_Title"
+msgid "Shambling Mounds"
+msgstr ""
+
+msgctxt "Encounter/&CR10_ShamblingTrio_Title"
+msgid "Shambling Mound Pack"
+msgstr ""
+
+msgctxt "Encounter/&CR7_StalkerDuo_Title"
+msgid "Invisible Stalkers"
+msgstr ""
+
+msgctxt "Encounter/&CR7_HagWithGuards_Title"
+msgid "Hag on the Hunt"
+msgstr ""
+
+msgctxt "Encounter/&CR8_HagDuoWithGuards_Title"
+msgid "Roaming Hags"
+msgstr ""
+
+msgctxt "Encounter/&CR11_HagCircleWithBulette_Title"
+msgid "Circle of Hags"
+msgstr ""
+
+msgctxt "Encounter/&CR8_GiantAndOrcs_Huge_Title"
+msgid "Orcs and Giant"
+msgstr ""
+
+msgctxt "Encounter/&CR6_LoneGiant_Huge_Title"
+msgid "Angry Giant"
+msgstr ""
+
+msgctxt "Encounter/&CR11_IronGolem_Title"
+msgid "Masterless Iron Golem"
+msgstr ""
+
+msgctxt "Encounter/&CR8_Remorhaz_Huge_Title"
+msgid "Roaming Remorhaz"
+msgstr ""
+
+msgctxt "Encounter/&CR7_StoneGolem_Title"
+msgid "Wandering Stone Golem"
+msgstr ""
+
+msgctxt "Encounter/&CR6_ClayGolem_Title"
+msgid "Clay Golem"
+msgstr ""
+
+msgctxt "Encounter/&CR10_DragonDuo_Huge_Title"
+msgid "Dragon Duo"
+msgstr ""
+
+msgctxt "Encounter/&CR4_WanderingHag_Description"
+msgid ""
+"An old lady wanders around with her aide and two dogs... Or do your eyes "
+"deceive you?"
+msgstr ""
+
+msgctxt "Encounter/&CR3_LoneBeastermaster_Description"
+msgid ""
+"An old orc draws his bowstring as you approach, his giant wolf companion "
+"ready to pounce on you."
+msgstr ""
+
+msgctxt "Encounter/&CR5_RedeemerScout_Description"
+msgid ""
+"Giant beetles, led by a Pilgrim. Once they spot you, there is no escape."
+msgstr ""
+
+msgctxt "Encounter/&CR7_RedeemerDuo_Description"
+msgid ""
+"Luck isn't on your side. Stumbling onto two redeemers definitely isn't a "
+"good thing. Prepare yourself!"
+msgstr ""
+
+msgctxt "Encounter/&CR3_LoneBulette_Description"
+msgid ""
+"The earth rumbles as you spot a bulette coming out of the ground, its large "
+"maw ready to snap at you."
+msgstr ""
+
+msgctxt "Encounter/&CR10_BuletteAndFlyers_Description"
+msgid ""
+"The earth shakes as multiple bulettes appear from the ground, followed by "
+"giant crows looking to share their prey."
+msgstr ""
+
+msgctxt "Encounter/&CR4_GiantAndWolves_Huge_Description"
+msgid ""
+"A huge figure walks in the distance, with two wolves close to it. Is this "
+"giant walking his pets?"
+msgstr ""
+
+msgctxt "Encounter/&CR10_ElementalTrio_Description"
+msgid ""
+"Storm, Earth and Fire, heed my call! If I die upon this day, in battle I "
+"will fall!"
+msgstr ""
+
+msgctxt "Encounter/&CR9_GiantsAndWinterWolves_Huge_Description"
+msgid ""
+"Two giants are roaming around with their winter wolves, and they don't seem "
+"happy to see you."
+msgstr ""
+
+msgctxt "Encounter/&CR10_FeyIncursion_Description"
+msgid ""
+"Feys have appeared in animal shapes and seem eager to \"play\" with you. "
+"Unfortunately they don't seem to know the meaning of restraint!"
+msgstr ""
+
+msgctxt "Encounter/&CR4_LoneShambling_Description"
+msgid ""
+"A large pile of vines and dirt slowly shuffles towards you. You realize in "
+"horror that it's a shambling mound!"
+msgstr ""
+
+msgctxt "Encounter/&CR6_ShamblingDuo_Description"
+msgid ""
+"Out of the woods and swamps come two large masses, moving right towards you!"
+msgstr ""
+
+msgctxt "Encounter/&CR10_ShamblingTrio_Description"
+msgid ""
+"Are... are those vines moving? It seems they are, get ready for a fight!"
+msgstr ""
+
+msgctxt "Encounter/&CR7_StalkerDuo_Description"
+msgid ""
+"Hairs stand up on the back of your neck. You are being watched - worse, "
+"hunted. But by what?"
+msgstr ""
+
+msgctxt "Encounter/&CR7_HagWithGuards_Description"
+msgid ""
+"An ugly hag prowls the area looking for food. Unfortunately, she seems to "
+"think you look tasty!"
+msgstr ""
+
+msgctxt "Encounter/&CR8_HagDuoWithGuards_Description"
+msgid ""
+"Two decrepit figures are accompanied by a few dryads. And them seem very "
+"hostile!"
+msgstr ""
+
+msgctxt "Encounter/&CR11_HagCircleWithBulette_Description"
+msgid ""
+"There is a saying that goes, \"everything that comes in threes is perfect\". "
+"Hags are the exception to that rule."
+msgstr ""
+
+msgctxt "Encounter/&CR8_GiantAndOrcs_Huge_Description"
+msgid ""
+"You don't know if it's friendship or fear that makes these orcs follow the "
+"giant, but that's the least of your worries for now!"
+msgstr ""
+
+msgctxt "Encounter/&CR6_LoneGiant_Huge_Description"
+msgid ""
+"This giant looks very displeased - and very interested inventing that anger "
+"on you."
+msgstr ""
+
+msgctxt "Encounter/&CR11_IronGolem_Description"
+msgid "A lone golem wanders around, programmed to attack anything it sees."
+msgstr ""
+
+msgctxt "Encounter/&CR8_Remorhaz_Huge_Description"
+msgid ""
+"Remorhaz are beasts of legend. Most would consider themselves lucky to have "
+"seen one - if they survive the encounter."
+msgstr ""
+
+msgctxt "Encounter/&CR7_StoneGolem_Description"
+msgid ""
+"Without a master to give it instructions, this stone golem seems to be "
+"attacking anything that moves."
+msgstr ""
+
+msgctxt "Encounter/&CR6_ClayGolem_Description"
+msgid ""
+"One wouldn't expect a clay statue to be that much of a challenge. One would "
+"be wrong about that, though."
+msgstr ""
+
+msgctxt "Encounter/&CR10_DragonDuo_Huge_Description"
+msgid "What's more dangerous than a dragon? Two dragons."
+msgstr ""
+
+msgctxt "Encounter/&CR3_Woodland_Creatures_Title"
+msgid "Woodland Creatures"
+msgstr "삼림지대 크리쳐"
+
+msgctxt "Encounter/&CR3_Woodland_Creatures_Description"
+msgid "Wild animals, driven by hunger or territorial instinct."
+msgstr "영역권을 지키기 위해서나 굶주림에 의해 행동하는 야생동물들."
+
+msgctxt "Encounter/&CR3_GiantCrows_Title"
+msgid "Giant Crows"
+msgstr "거대 까마귀"
+
+#, fuzzy
+#| msgid "These huge carrion birds are too hungry to wait for you to die."
+msgctxt "Encounter/&CR3_GiantCrows_Description"
+msgid "These huge carrion-eating birds are too hungry to wait for you to die."
+msgstr "시체를 파먹는 이 거대한 새들은 당신이 죽기만을 기다리기엔 너무 많이 굶주렸습니다."
+
+#, fuzzy
+#| msgid "Agressive Gorillas"
+msgctxt "Encounter/&CR3_AgressiveGorillas_Title"
+msgid "Aggressive Gorillas"
+msgstr "공격적인 고릴라"
+
+msgctxt "Encounter/&CR3_AgressiveGorillas_Description"
+msgid "These highly territorial animals are not uncommon in the valley."
+msgstr "자신들의 구역에 매우 민감한 이 짐승들은 계곡에서 쉽게 찾을 수 있습니다."
+
+msgctxt "Encounter/&CR4_BerserkerAndBeasts_Title"
+msgid "Berserk Beastmaster"
+msgstr "광분한 비스트마스터"
+
+msgctxt "Encounter/&CR4_BerserkerAndBeasts_Description"
+msgid "A crazed beastmaster and his pets are on the hunt!"
+msgstr "광기에 찬 비스트마스터와 그의 애완동물들 사냥에 나섰습니다!"
+
+msgctxt "Encounter/&CR4_GiantBettles_Title"
+msgid "Giant Beetles"
+msgstr "거대 딱정벌레"
+
+msgctxt "Encounter/&CR4_GiantBettles_Description"
+msgid "Oversized insects - and hungry ones, at that."
+msgstr "거대하고 - 굶주린 곤충들."
+
+msgctxt "Encounter/&CR4_MutantHorde_Title"
+msgid "Mutant Horde"
+msgstr "돌연변이 무리"
+
+msgctxt "Encounter/&CR4_MutantHorde_Description"
+msgid "A group of local beasts including some strange, unnatural individuals."
+msgstr "낯설고, 부자연스러운 개체를 포함한 근방 지역의 짐승 무리."
+
+msgctxt "Encounter/&CR4_TigerDrakes_Title"
+msgid "Tiger Drakes"
+msgstr "타이거 드레이크 떼"
+
+msgctxt "Encounter/&CR4_TigerDrakes_Description"
+msgid "A group of flying pests."
+msgstr "유해동물 무리."
+
+msgctxt "Encounter/&CR4_Werewolf_Title"
+msgid "Werewolf and Pet"
+msgstr "늑대인간과 애완동물"
+
+msgctxt "Encounter/&CR4_Werewolf_Description"
+msgid "A werewolf in human form and his pet."
+msgstr "인간 형태의 늑대인간과 그의 애완동물."
+
+msgctxt "Encounter/&CR4_MummyAndPawnsTitle"
+msgid "Mummy and Pawns"
+msgstr "미라와 졸개 무리"
+
+msgctxt "Encounter/&CR4_MummyAndPawnsDescription"
+msgid "A wandering mummy with her followers."
+msgstr "떠돌이 미라와 그녀의 추종자들."
+
+msgctxt "Encounter/&CR5_OrcsBear_Title"
+msgid "Orcs and Bear"
+msgstr "오크 무리와 곰"
+
+msgctxt "Encounter/&CR5_OrcsBear_Description"
+msgid "A couple of orc berserkers and their totem animal."
+msgstr "오크 광전사 몇 명과 그들의 토템 짐승."
+
+msgctxt "Encounter/&CR5_Mummies_Title"
+msgid "Mummies"
+msgstr "미라 무리"
+
+msgctxt "Encounter/&CR5_Mummies_Description"
+msgid "A couple of wandering mummies."
+msgstr "몇몇의 떠돌이 미라들."
+
+msgctxt "Encounter/&CR5_UndeadHorde_Title"
+msgid "Undead Horde"
+msgstr "언데드 무리"
+
+msgctxt "Encounter/&CR5_UndeadHorde_Description"
+msgid "A motley group of undead looking for victims."
+msgstr "희생양을 찾아다니는 잡다한 언데드 무리."
+
+msgctxt "Encounter/&DLC_CR4_MinorElementals_Description"
+msgid "A couple of windsnakes on the prowl."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR4_MinorElementals_Title"
+msgid "Minor Air Elementals"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR1_BlackBears_Description"
+msgid "A couple of angry black bears."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR1_BlackBears_Title"
+msgid "Black Bear"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR3_BrownBears_Description"
+msgid "A lone, old Bear."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR3_BrownBears_Title"
+msgid "Brown Bears"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR3_AngryBears_Description"
+msgid "A group of angry Bears."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR3_AngryBears_Title"
+msgid "Angry Bears"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR5_HunterAndBearPet_Description"
+msgid "A lone hunter and his pet bear."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR5_HunterAndBearPet_Title"
+msgid "Hunter and Bear"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR6_HunterAndDireWolfPet_Description"
+msgid "A lone hunter and his pet dire wolf."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR6_HunterAndDireWolfPet_Title"
+msgid "Hunter and Dire Wolf"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR6_AngryFeys_Description"
+msgid "A bunch of dryads, including some very strange ones."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR6_AngryFeys_Title"
+msgid "Angry Fey"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR3_WildApes_Description"
+msgid "A group of aggressive apes."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR3_WildApes_Title"
+msgid "Wild Apes"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR10_ApeKing_Description"
+msgid "An incredible giant ape and his cohort of followers."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR10_ApeKing_Title"
+msgid "Ape King"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR3_Fliers_Description"
+msgid "A group of poisonous flying beasts."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR3_Fliers_Title"
+msgid "Fliers"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR6_PoisonousPests_Description"
+msgid "A band of flying and creeping monsters."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR6_PoisonousPests_Title"
+msgid "Poisonous Pests"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR6_FlyingArmada_Description"
+msgid "A trio of dangerous tiger drakes."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR6_FlyingArmada_Title"
+msgid "Flying Armada"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR3_AngryDryads_Description"
+msgid "A group of dryads, ready to defend their territory."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR3_AngryDryads_Title"
+msgid "Angry dryads"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR3_CreepingPests_Description"
+msgid "A bunch of horrible, creeping monsters."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR3_CreepingPests_Title"
+msgid "Creeping Pests"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR6_GiantBeetles_Description"
+msgid "A group of insects, particularly large in size."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR6_GiantBeetles_Title"
+msgid "Giant Beetles"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR2_EightLeggedFreaks_Description"
+msgid "Spiders, and yet more spiders."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR2_EightLeggedFreaks_Title"
+msgid "Eight-Legged Freaks"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR5_CrimsonSpider_Description"
+msgid "A dreadful crimson spider hunting for prey."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR5_CrimsonSpider_Title"
+msgid "Crimson Spider"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR10_CrimsonSpiders_Description"
+msgid "A couple of deadly crimson spiders."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR10_CrimsonSpiders_Title"
+msgid "Crimson Spiders"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR14_CrimsonInvasion_Description"
+msgid "A dreadful crimson spider and its disgusting offspring."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR14_CrimsonInvasion_Title"
+msgid "Crimson Invasion"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR10_MutantDryads_Description"
+msgid "A group of dryads led by some strange individuals."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR10_MutantDryads_Title"
+msgid "Mutant Dryads"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR5_WeirdDryad_Description"
+msgid "A couple of strange dryads protecting their home."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR5_WeirdDryad_Title"
+msgid "Weird Dryads"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR5_Werebear_Description"
+msgid "A lonely lycanthrope in its preferred shape."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR5_Werebear_Title"
+msgid "Werebear"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR4_BadlandsBear_Description"
+msgid "A deadly bear that has adapted to the Badlands."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR4_BadlandsBear_Title"
+msgid "Badlands Bear"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR12_BadlandsBears_Description"
+msgid "A group of dangerous bears that have adapted to the Badlands."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR12_BadlandsBears_Title"
+msgid "Badlands Bears"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR6_MutantBear_Description"
+msgid "A monstrous and disgusting mutant bear hunting for food."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR6_MutantBear_Title"
+msgid "Mutant Bear"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR13_MutantHoard_Description"
+msgid "A strange group of mutant monsters."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR13_MutantHoard_Title"
+msgid "Mutant Horde"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR3_MutantDirewolf_Description"
+msgid "A weirdly mutated dire wolf on the hunt."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR3_MutantDirewolf_Title"
+msgid "Mutant Dire Wolf"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR3_Winterwolf_Description"
+msgid "A lone winter wolf on the hunt."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR3_Winterwolf_Title"
+msgid "Winter Wolf"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR6_WinterWolfpackleader_Description"
+msgid "A pack of wolves led by a deadly winter wolf."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR6_WinterWolfpackleader_Title"
+msgid "Winter Wolf Pack Leader"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR10_WightLordTroop_Description"
+msgid "An undead lord with an escort looking for lives to end."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR10_WightLordTroop_Title"
+msgid "Wight Lord Troop"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR12_WightSquad_Description"
+msgid "A wight lord and its followers on the hunt for live prey."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR12_WightSquad_Title"
+msgid "Wight Squad"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR5_DeathSquad_Description"
+msgid "A group of undead looking for lives to end."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR5_DeathSquad_Title"
+msgid "Death Squad"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR8_DeathTroop_Description"
+msgid "A group of powerful skeletons hunting the living."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR8_DeathTroop_Title"
+msgid "Death Troop"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR12_DeathArmy_Description"
+msgid "A group of powerful skeletons hunting the living."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR12_DeathArmy_Title"
+msgid "Death Army"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR5_Roaming Zombies_Description"
+msgid "A group of slow but restless zombies on the hunt for flesh."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR5_Roaming Zombies_Title"
+msgid "Roaming Zombies"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR4_Roaming Ghouls_Description"
+msgid "Ghouls looking for flesh to eat."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR4_Roaming Ghouls_Title"
+msgid "Roaming Ghouls"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR6_Ghoul Squad_Description"
+msgid "Flesh eaters on the hunt for their next meal."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR6_Ghoul Squad_Title"
+msgid "Ghoul Squad"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR9_Flesh Eaters_Description"
+msgid "Flesh eaters on the hunt for their next meal."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR9_Flesh Eaters_Title"
+msgid "Flesh Eaters"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR8_AngryGhosts_Description"
+msgid "Wandering ghosts looking to take revenge on the living."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR8_AngryGhosts_Title"
+msgid "Angry Ghosts"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR9_GhostlyAvengers_Description"
+msgid "Wandering ghosts looking to take revenge on the living."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR9_GhostlyAvengers_Title"
+msgid "Ghostly Avengers"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR10_GhostlyCouple_Description"
+msgid "Wandering ghosts looking to take revenge on the living."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR10_GhostlyCouple_Title"
+msgid "Ghostly Couple"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR12_GhostSlaver_Description"
+msgid "A slaver's ghost and his servant minotaur."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR12_GhostSlaver_Title"
+msgid "Ghost Slaver"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR5_RoamingGiant_Description"
+msgid "A roaming giant with a hunger for killing."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR5_RoamingGiant_Title"
+msgid "Roaming Giant"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR9_FireGiant_Description"
+msgid "A roaming giant with a hunger for killing."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR9_FireGiant_Title"
+msgid "Fire Giant"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR8_FrostGiant_Description"
+msgid "A roaming giant with a hunger for killing."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR8_FrostGiant_Title"
+msgid "Frost Giant"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR14_GiantBand_Description"
+msgid "A terrifying group of giants ready to smash everything in their path."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR14_GiantBand_Title"
+msgid "Giant Band"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR10_MasterlessGolem_Description"
+msgid "A masterless golem, ready to destroy anything it meets."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR10_MasterlessGolem_Title"
+msgid "Masterless Golem"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR6_WanderingMummies_Description"
+msgid "Wandering mummies, eager to serve death."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR6_WanderingMummies_Title"
+msgid "Wandering Mummies"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR12_Mummified Avengers_Description"
+msgid "An undead sorcerer and its servants."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR12_Mummified Avengers_Title"
+msgid "Mummified Avengers"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR5_Bulette_Description"
+msgid "A hungry land shark with an empty stomach."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR5_Bulette_Title"
+msgid "Bulette"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR6_InvisibleStalker_Description"
+msgid "A magical assassin without a target."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR6_InvisibleStalker_Title"
+msgid "Invisible Stalker"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR4_Giant Crows_Description"
+msgid "Flying scavengers with a hunger for rotting bones."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR4_Giant Crows_Title"
+msgid "Giant Crows"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR5_Troll_Description"
+msgid "A wandering troll itching for a fight."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR5_Troll_Title"
+msgid "Troll"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR15_TrollBand_Description"
+msgid "A trio of deadly trolls."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR15_TrollBand_Title"
+msgid "Troll Band"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR8_MutantTroll_Description"
+msgid "A weird and frightening mutant troll on the hunt."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR8_MutantTroll_Title"
+msgid "Mutant Troll"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR4,25_BadlandEagles_Description"
+msgid "A group of Badlands predators on the hunt."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR4,25_BadlandEagles_Title"
+msgid "Badland Eagles"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR10_HagAndEscort_Description"
+msgid "An evil hag preparing dirty deeds with her ogre servant."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR10_HagAndEscort_Title"
+msgid "Hag and Escort"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR9_GiantLord_Description"
+msgid "A giant and his ogre servant."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR9_GiantLord_Title"
+msgid "Giant Lord"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR7_Specters_Description"
+msgid "Ghosts on the prowl for the living."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR7_Specters_Title"
+msgid "Specters"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR6_PhaseSpiders_Description"
+msgid "Phase spiders defending their territory."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR6_PhaseSpiders_Title"
+msgid "Phase Spiders"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR9_PhaseSpidersTrio_Description"
+msgid "Phase spiders defending their territory."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR9_PhaseSpidersTrio_Title"
+msgid "Phase Spider Trio"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR8_FireSpiders_Description"
+msgid "Fire elementals looking to burn the whole world."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR8_FireSpiders_Title"
+msgid "Fire Spiders"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR9_FireElementals_Description"
+msgid "Fire elementals looking to burn the whole world."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR9_FireElementals_Title"
+msgid "Fire Elementals"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR9_EarthElementals_Description"
+msgid "Earth elementals looking for a fight."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR9_EarthElementals_Title"
+msgid "Earth Elementals"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR9_AirElementals_Description"
+msgid "Air elementals looking for a fight."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR9_AirElementals_Title"
+msgid "Air Elementals"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR4_FireSpider_Description"
+msgid "An aggressive fire elemental hunting for something to consume."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR4_FireSpider_Title"
+msgid "Fire Spider"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR2_SkarnGhoul_Description"
+msgid "A lone earth elemental looking for prey."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR2_SkarnGhoul_Title"
+msgid "Skarn Ghoul"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR3_FireJesters_Description"
+msgid "Minor fire elementals hunting for something to consume."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR3_FireJesters_Title"
+msgid "Fire Jesters"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR3_FireOsprey_Description"
+msgid "Fire elementals hunting for something to consume."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR3_FireOsprey_Title"
+msgid "Fire Osprey"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR2_OrcBand_Description"
+msgid "A group of wandering orcs looking for blood."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR2_OrcBand_Title"
+msgid "Orc Band"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR4_OrcHuntingParty_Description"
+msgid "A group of wandering orcs looking for blood."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR4_OrcHuntingParty_Title"
+msgid "Orc Hunting Party"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR6_OrcWarParty_Description"
+msgid "A group of wandering orcs looking for blood."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR6_OrcWarParty_Title"
+msgid "Orc War Party"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR4_OrcRaiders_Description"
+msgid "A group of wandering orcs looking for blood."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR4_OrcRaiders_Title"
+msgid "Orc Raiders"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR8_OrcCrusaders_Description"
+msgid "A group of wandering orcs looking for blood."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR8_OrcCrusaders_Title"
+msgid "Orc Crusaders"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR9_OrcHorde_Description"
+msgid "A group of wandering orcs looking for blood."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR9_OrcHorde_Title"
+msgid "Orc Horde"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR9_GoblinRaiders_Description"
+msgid "A group of goblins looking for enemies to kill."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR9_GoblinRaiders_Title"
+msgid "Goblin Raiders"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR1_GoblinMarauders_Description"
+msgid "A group of goblins looking for enemies to kill."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR1_GoblinMarauders_Title"
+msgid "Goblin Marauders"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR3_GoblinCrusaders_Description"
+msgid "A group of goblins looking for enemies to kill."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR3_GoblinCrusaders_Title"
+msgid "Goblin Crusaders"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR5_GoblinAssassins_Description"
+msgid "A group of goblins looking for enemies to kill."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR5_GoblinAssassins_Title"
+msgid "Goblin Assassins"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR3_WanderingBroodDread_Description"
+msgid "A wandering cursed brood with a hunger for blood."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR3_WanderingBroodDread_Title"
+msgid "Wandering Brood of Dread"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR5_WanderingBroodFlesh_Description"
+msgid "A wandering cursed brood with a hunger for blood."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR5_WanderingBroodFlesh_Title"
+msgid "Wandering Brood of Flesh"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR5_WanderingBroodBlood_Description"
+msgid "A wandering cursed brood with a hunger for blood."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR5_WanderingBroodBlood_Title"
+msgid "Wandering Brood of Blood"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR13_BroodBand_Description"
+msgid "A bunch of wandering cursed broods with a hunger for blood."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR13_BroodBand_Title"
+msgid "Brood Band"
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR11_Minotaur Lord_Description"
+msgid "An experienced minotaur and his escort looking for battle and glory."
+msgstr ""
+
+msgctxt "Encounter/&DLC_CR11_Minotaur Lord_Title"
+msgid "Minotaur Lord"
+msgstr ""

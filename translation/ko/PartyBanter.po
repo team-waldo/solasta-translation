@@ -1,34 +1,16 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2022-01-11 14:23+0000\n"
-"Last-Translator: E잡불어 <rarkar@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/"
-"partybanter/ko/>\n"
-"Language: ko\n"
+"POT-Creation-Date: 2022-05-01 18:44+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
-
-msgctxt "PartyBanter/&None1_Thief_Detected_Self"
-msgid "Leave me be, you thief!"
-msgstr "날 내버려 둬, 이 도둑놈아!"
-
-msgctxt "PartyBanter/&None2_Thief_Detected_Self"
-msgid "Damn thieves…"
-msgstr "망할 도둑놈들…"
-
-msgctxt "PartyBanter/&None3_Thief_Detected_Self"
-msgid "Hands off!"
-msgstr "손 떼!"
-
-msgctxt "PartyBanter/&None4_Thief_Detected_Self"
-msgid "So this is who you are?"
-msgstr "그러니까 도둑님이시구만?"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "PartyBanter/&Cynical1_Trap_Detected_Self"
 msgid "Wait! A trap!"
@@ -1261,3 +1243,21 @@ msgstr "그야 말로 제대로 보내버렸어."
 msgctxt "PartyBanter/&Formal3_Kill_Enemy_Other"
 msgid "One less enemy!"
 msgstr "적 하나 제거!"
+
+msgctxt "PartyBanter/&None1_Thief_Detected_Self"
+msgid "Leave me be, you thief!"
+msgstr "날 내버려 둬, 이 도둑놈아!"
+
+msgctxt "PartyBanter/&None2_Thief_Detected_Self"
+msgid "Damn thieves…"
+msgstr "망할 도둑놈들…"
+
+msgctxt "PartyBanter/&None3_Thief_Detected_Self"
+msgid "Hands off!"
+msgstr "손 떼!"
+
+#, fuzzy
+#| msgid "So this is who you are?"
+msgctxt "PartyBanter/&None4_Thief_Detected_Self"
+msgid "So, this is who you are."
+msgstr "그러니까 도둑님이시구만?"

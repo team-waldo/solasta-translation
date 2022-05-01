@@ -1,58 +1,16 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2022-01-03 03:08+0000\n"
-"Last-Translator: Nickel <psb3421@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/tooltip/ko/"
-">\n"
-"Language: ko\n"
+"POT-Creation-Date: 2022-05-01 18:44+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
-
-msgctxt "Tooltip/&MetamagicVariableCostSpellLevelDescription"
-msgid "The cost depends on the spell level."
-msgstr "가격은 주문 레벨에 따라 다릅니다."
-
-msgctxt "Tooltip/&LootPackContentTitle"
-msgid "Loot Pack Content:"
-msgstr "전리품 꾸러미 콘텐츠:"
-
-msgctxt "Tooltip/&TrapEffectsTitle"
-msgid "Trap Effects"
-msgstr "함정 효과"
-
-msgctxt "Tooltip/&EnvironmentEffectsTitle"
-msgid "Environment Effects"
-msgstr "주변환경 영향"
-
-msgctxt "Tooltip/&RandomItemSingleTitle"
-msgid "Random Item - "
-msgstr "랜덤 아이템 - "
-
-msgctxt "Tooltip/&RandomItemPluralTitle"
-msgid "Random Items - "
-msgstr "랜덤 아이템 - "
-
-msgctxt "Tooltip/&EditorFilterLightsDescription"
-msgid "Show / hide light sources"
-msgstr "광원 표시/숨기기"
-
-msgctxt "Tooltip/&EditorFilterActivatorLinksDescription"
-msgid "Show / hide activator links"
-msgstr "활성장치 링크 표시/숨기기"
-
-msgctxt "Tooltip/&EditorFilterShortcutsDescription"
-msgid "Show/hide keyboard shortcuts"
-msgstr "키보드 단축키 표시/숨기기"
-
-msgctxt "Tooltip/&UserGadgetCanBeActivated"
-msgid "This gadget can be remotely triggered by an activator gadget"
-msgstr "이 장치는 활성장치에 의해 원격으로 작동될 수 있습니다"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "Tooltip/&ActiveQuestsAtLocationPluralFormat"
 msgid "{0} active quests: {1}"
@@ -1053,15 +1011,116 @@ msgctxt "Tooltip/&WeaponNoAmmunitionWarningDescription"
 msgid "No valid ammunition."
 msgstr "맞는 탄약이 없습니다."
 
+msgctxt "Tooltip/&TagBleedingTitle"
+msgid "Bleeding"
+msgstr "출혈"
+
+msgctxt "Tooltip/&LootPackContentTitle"
+msgid "Loot Pack Content:"
+msgstr "전리품 꾸러미 콘텐츠:"
+
+msgctxt "Tooltip/&TrapEffectsTitle"
+msgid "Trap Effects"
+msgstr "함정 효과"
+
+msgctxt "Tooltip/&EnvironmentEffectsTitle"
+msgid "Environment Effects"
+msgstr "주변환경 영향"
+
+#, fuzzy
+#| msgid "Random Item - "
+msgctxt "Tooltip/&RandomItemSingleTitle"
+msgid "Random Item -"
+msgstr "랜덤 아이템 - "
+
+#, fuzzy
+#| msgid "Random Items - "
+msgctxt "Tooltip/&RandomItemPluralTitle"
+msgid "Random Items -"
+msgstr "랜덤 아이템 - "
+
+msgctxt "Tooltip/&EditorFilterLightsDescription"
+msgid "Show / hide light sources"
+msgstr "광원 표시/숨기기"
+
+msgctxt "Tooltip/&EditorFilterActivatorLinksDescription"
+msgid "Show / hide activator links"
+msgstr "활성장치 링크 표시/숨기기"
+
+msgctxt "Tooltip/&EditorFilterShortcutsDescription"
+msgid "Show/hide keyboard shortcuts"
+msgstr "키보드 단축키 표시/숨기기"
+
+msgctxt "Tooltip/&UserGadgetCanBeActivated"
+msgid "This gadget can be remotely triggered by an activator gadget"
+msgstr "이 장치는 활성장치에 의해 원격으로 작동될 수 있습니다"
+
+msgctxt "Tooltip/&CampaignContentShortcutTooltip"
+msgid ""
+"Click to focus and expand this category of content, and collapse all other "
+"categories"
+msgstr ""
+
+msgctxt "Tooltip/&CampaignOnly"
+msgid ""
+"This is only valid when editing a user location in the context of a user "
+"campaign."
+msgstr ""
+
+msgctxt "Tooltip/&NetworkPlayerMustBeAssignedTitle"
+msgid "This player has no character slot assigned."
+msgstr ""
+
+msgctxt "Tooltip/&MultiplayerSessionNewDescription"
+msgid "This multiplayer game begins a new adventure."
+msgstr ""
+
+msgctxt "Tooltip/&ActiveQuestsNearEntrancePluralFormat"
+msgid "{0} active quests near entrance: {1}"
+msgstr ""
+
+msgctxt "Tooltip/&ActiveQuestsNearEntranceSingleFormat"
+msgid "{0} active quest near entrance: {1}"
+msgstr ""
+
+msgctxt "Tooltip/&UnusedInCOTMButValleyYesDescription"
+msgid ""
+"Although part of the ruleset and valid for roleplaying purposes, this "
+"element is not used in the Crown of the Magister main campaign - but it is "
+"used in the Lost Valley DLC."
+msgstr ""
+
+msgctxt "Tooltip/&TagDamageAncestryTitle"
+msgid "Ancestry Damage"
+msgstr ""
+
+msgctxt "Tooltip/&HalfClassTitle"
+msgid "half-class x"
+msgstr ""
+
+msgctxt "Tooltip/&OfficialCampaignDescription"
+msgid ""
+"This is an official campaign created by Tactical Adventures, fully "
+"translated into all supported languages."
+msgstr ""
+
+msgctxt "Tooltip/&TrendMissingProficiencyTitle"
+msgid "Not Proficient"
+msgstr ""
+
+msgctxt "Tooltip/&SpellEffectsRandomTitle"
+msgid "Spell Effects (picked at random)"
+msgstr ""
+
+msgctxt "Tooltip/&TagRerollRandomTitle"
+msgid "Reroll"
+msgstr ""
+
 msgctxt "Tooltip/&SorceryPointsDescription"
 msgid ""
 "The pool of sorcery points can be used to perform metamagic actions and "
 "alter spell effects"
 msgstr "소서리 포인트는 메타매직으로 주문 효과를 변경하는데 사용할 수 있습니다"
-
-msgctxt "Tooltip/&TagBleedingTitle"
-msgid "Bleeding"
-msgstr "출혈"
 
 msgctxt "Tooltip/&TrendMetamagicFormat"
 msgid "Metamagic: {0}"
@@ -1083,6 +1142,10 @@ msgstr "{0} 하위 타겟 "
 msgctxt "Tooltip/&AdvancementGainAdditionalSubtargetSingleFormat"
 msgid "{0} subtarget "
 msgstr "{0} 하위 타겟 "
+
+msgctxt "Tooltip/&MetamagicVariableCostSpellLevelDescription"
+msgid "The cost depends on the spell level."
+msgstr "가격은 주문 레벨에 따라 다릅니다."
 
 msgctxt "Tooltip/&ShapeChangeFormSingleChoiceFormat"
 msgid "Changes your shape to:"
@@ -1138,3 +1201,7 @@ msgid ""
 "This element is locked because you do not have the matching content. A "
 "replacement value will be used when you validate this panel."
 msgstr "일치하는 컨텐츠를 소유하고 있지 않아 이 요소는 잠겨 있습니다. 이 창을 활성화할 경우 대체값이 사용됩니다."
+
+msgctxt "Tooltip/&MissingDLCFormat"
+msgid "- Missing DLC: \"{0}\""
+msgstr ""

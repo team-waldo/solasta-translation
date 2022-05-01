@@ -1,257 +1,16 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2022-01-02 02:31+0000\n"
-"Last-Translator: Nickel <psb3421@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/npc/ko/>\n"
-"Language: ko\n"
+"POT-Creation-Date: 2022-05-01 18:44+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
-
-msgctxt "NPC/&NPC_Marches_01_Title"
-msgid "Lord Hammond"
-msgstr "해먼드 경"
-
-msgctxt "NPC/&NPC_Marches_02_Title"
-msgid "Helia Fairblade"
-msgstr "헬리아 페어블레이드"
-
-msgctxt "NPC/&NPC_Marches_03_Title"
-msgid "Leyrin Catpaw"
-msgstr "레이린 캣파우"
-
-msgctxt "NPC/&NPC_Marches_04_Title"
-msgid "Krim Sunsail"
-msgstr "크림 선세일"
-
-msgctxt "NPC/&NPC_Valley_Telerien_Purevoice_Title"
-msgid "Telerien Purevoice"
-msgstr "텔레리엔 퓨어보이스"
-
-msgctxt "NPC/&NPC_Valley_Samko_Flint_Title"
-msgid "Samko Flint"
-msgstr "샘코 플린트"
-
-msgctxt "NPC/&NPC_Forge_Hasdrubal_Title"
-msgid "Hasdrubal"
-msgstr "하스드루발"
-
-msgctxt "NPC/&NPC_Forge_Ravener_Title"
-msgid "Ravener"
-msgstr "굶주린 자"
-
-msgctxt "NPC/&NPC_Forge_Charmer_Title"
-msgid "Charmer"
-msgstr "매력가"
-
-msgctxt "NPC/&NPC_Forge_Cook_Title"
-msgid "Cook"
-msgstr "요리사"
-
-msgctxt "NPC/&NPC_Swamp_HillGiant_Title"
-msgid "Rugan"
-msgstr "루간"
-
-msgctxt "NPC/&NPC_Swamp_Apprentice_Title"
-msgid "Lysantir"
-msgstr "리산티르"
-
-msgctxt "NPC/&NPC_ThePeople_Henrik"
-msgid "Henrik Redhand"
-msgstr "헨릭 레드핸드"
-
-msgctxt "NPC/&NPC_ThePeople_Rose"
-msgid "Rose Fairwind"
-msgstr "로즈 페어윈드"
-
-msgctxt "NPC/&NPC_ThePeople_Reya"
-msgid "Reya Schildberg"
-msgstr "레야 쉴드버그"
-
-msgctxt "NPC/&NPC_ThePeople_Karelia"
-msgid "Karelia Snowfox"
-msgstr "카렐리아 스노우폭스"
-
-msgctxt "NPC/&NPC_Orenetis"
-msgid "Orenetis"
-msgstr "오레네티스"
-
-msgctxt "NPC/&NPC_Orenetis_Malariel"
-msgid "Malariel Brogarad"
-msgstr "말라리엘 브로가라드"
-
-msgctxt "NPC/&NPC_MarinVing"
-msgid "Marin Ving"
-msgstr "마린 빙"
-
-msgctxt "NPC/&NPC_VandoKlarn"
-msgid "Vando Klarn"
-msgstr "반도 클란"
-
-msgctxt "NPC/&NPC_Mask_CafrainShadow"
-msgid "Cafrain Shadow"
-msgstr "카프레인 섀도"
-
-msgctxt "NPC/&NPC_Orenetis_Finaliel"
-msgid "Finaliel Sharp-Mind"
-msgstr "피날리엘 샤프마인드"
-
-msgctxt "NPC/&NPC_Sima_Temple"
-msgid "Sima Temple"
-msgstr "시마 템플"
-
-msgctxt "NPC/&NPC_Ellaria_Anfarel"
-msgid "Ellaria Anfarel"
-msgstr "엘라리아 안파렐"
-
-msgctxt "NPC/&NPC_Renno_Highwater"
-msgid "Renno Highwater"
-msgstr "레노 하이워터"
-
-msgctxt "NPC/&NPC_Store_Reya"
-msgid "Clerical services"
-msgstr "성직 서비스"
-
-msgctxt "NPC/&NPC_DLC_City_Guard_Title"
-msgid "City Guard"
-msgstr "도시 경비병"
-
-msgctxt "NPC/&NPC_DLC_City_Guard_Description"
-msgid "A high elf guard bearing the arms of Orenetis."
-msgstr "오레네티스의 무기를 든 하이 엘프 경비병."
-
-msgctxt "NPC/&NPC_DLC1_Anfarel_Noble"
-msgid "Elerien Anfarel"
-msgstr "엘레리엔 안파렐"
-
-msgctxt "NPC/&NPC_DLC1_ThePeople_Tortured"
-msgid "Prisoner"
-msgstr "수감자"
-
-msgctxt "NPC/&NPC_Forge_Escorted_01"
-msgid "Robert"
-msgstr "로버트"
-
-msgctxt "NPC/&NPC_Forge_Escorted_02"
-msgid "Gertrude"
-msgstr "게트루드"
-
-msgctxt "NPC/&NPC_Tuznut_Title"
-msgid "Tuznut"
-msgstr "터즈넛"
-
-msgctxt "NPC/&NPC_Tuznut_Description"
-msgid "TBD"
-msgstr "추후 추가"
-
-msgctxt "NPC/&NPC_Forge_Guard_Title"
-msgid "Guard"
-msgstr "경비병"
-
-msgctxt "NPC/&NPC_Forge_Guard_Description"
-msgid "TBD"
-msgstr "추후 추가"
-
-msgctxt "NPC/&NPC_Forge_Charmer_Description"
-msgid "TBD"
-msgstr "추후 추가"
-
-msgctxt "NPC/&NPC_Forge_Hasdrubal_Description"
-msgid "TBD"
-msgstr "추후 추가"
-
-msgctxt "NPC/&NPC_Forge_Ravener_Description"
-msgid "TBD"
-msgstr "추후 추가"
-
-msgctxt "NPC/&NPC_Forge_Cook_Description"
-msgid "TBD"
-msgstr "추후 추가"
-
-msgctxt "NPC/&NPC_Forge_Merchant_Description"
-msgid "TBD"
-msgstr "추후 추가"
-
-msgctxt "NPC/&NPC_Forge_Escorted_01_Description"
-msgid "TBD"
-msgstr "추후 추가"
-
-msgctxt "NPC/&NPC_Forge_Escorted_02_Description"
-msgid "TBD"
-msgstr "추후 추가"
-
-msgctxt "NPC/&NPC_Forge_Merchant_Title"
-msgid "TBD"
-msgstr "추후 추가"
-
-msgctxt "NPC/&NPC_Swamp_HillGiant_Description"
-msgid "TBD"
-msgstr "추후 추가"
-
-msgctxt "NPC/&NPC_Swamp_Apprentice_Description"
-msgid "TBD"
-msgstr "추후 추가"
-
-msgctxt "NPC/&DLC1_NPC_Jakson_Title"
-msgid "Jakkon"
-msgstr "자콘"
-
-msgctxt "NPC/&DLC1_NPC_Jakson_Description"
-msgid "TBD"
-msgstr "추후 추가"
-
-msgctxt "NPC/&Mana_Scholar_Title"
-msgid "Sitenero"
-msgstr "시테네로"
-
-msgctxt "NPC/&Mana_Scholar_Description"
-msgid "TBD Sitenero"
-msgstr "미정 시테네로"
-
-msgctxt "NPC/&Sitinero_Title"
-msgid "Sitenero"
-msgstr "시테네로"
-
-msgctxt "NPC/&DLC1_NPC_Marin_Ving"
-msgid "Marin Ving"
-msgstr "마린 빙"
-
-msgctxt "NPC/&DLC1_NPC_Vando_Klarn"
-msgid "Vando Klarn"
-msgstr "반도 클란"
-
-msgctxt "NPC/&DLC1_NPC_CityGuard_Captain_Sharp"
-msgid "Captain Sharp-Eyes"
-msgstr "샤프아이즈 대장"
-
-msgctxt "NPC/&DLC1_NPC_Nobleman_ThePeople03_Title"
-msgid "Noble"
-msgstr "귀족"
-
-msgctxt "NPC/&DLC1_NPC_Nobleman_ThePeople03_Description"
-msgid "Drunken Bully"
-msgstr "술 취한 양아치"
-
-msgctxt "NPC/&NPC_Red"
-msgid "Red"
-msgstr "레드"
-
-msgctxt "NPC/&NPC_Valley_Telerien_Purevoice_Speak"
-msgid "Forge quartermaster"
-msgstr "포지 보급관"
-
-msgctxt "NPC/&Prisoner_Title"
-msgid "Prisoner"
-msgstr "수감자"
-
-msgctxt "NPC/&NPC_DLC_Armorer"
-msgid "Gail Hunt"
-msgstr "게일 헌트"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "NPC/&Kaseinax_Magister_Title"
 msgid "The Magister"
@@ -833,6 +592,136 @@ msgctxt "NPC/&NPC_Adrasteia_Title"
 msgid "Adrasteia"
 msgstr "아드라스테이아"
 
+msgctxt "NPC/&NPC_DLC_Mask_Fighter_Title"
+msgid "Mask Fighter"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC_Mask_Fighter_Description"
+msgid "A combatant serving the mysterious organization known as The Mask."
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC_Mask_Cleric_Title"
+msgid "Mask Cleric"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC_Mask_Cleric_Description"
+msgid "A cleric serving the mysterious organization known as The Mask."
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC_Mask_Spy_Title"
+msgid "Mask Spy"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC_Mask_Spy_Description"
+msgid "A spy serving the mysterious organization known as The Mask."
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC_Rebellion_Marksman_Title"
+msgid "Rebel Marksman"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC_Rebellion_Marksman_Description"
+msgid "An archer of the rebel army."
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC_Tower_Watchman_Title"
+msgid "Watchman"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC_Tower_Watchman_Description"
+msgid "A soldier posted to stop intruders."
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC_Praetorian_Title"
+msgid "Praetorian"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC_Praetorian_Description"
+msgid "An elite soldier serving Orenetis as a personal guard."
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC_ShoutingStone"
+msgid "Shouting Stone"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC_ShoutingStone_Description"
+msgid "You don't want to know."
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC_TownCrier"
+msgid "Town Crier"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC_TownCrier_Description"
+msgid "An official speaker of the Dominion who announces the latest news."
+msgstr ""
+
+msgctxt "NPC/&NPC_Hendeolas_Title"
+msgid "Hendeolas Anfarel"
+msgstr ""
+
+msgctxt "NPC/&NPC_Hendeolas_Description"
+msgid "The leader of the Rebellion is actually... a mummy lord!"
+msgstr ""
+
+msgctxt "NPC/&NPC_Orenetis_RealName"
+msgid "Periphanos the Inquisitive Mind"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_Violet_Title"
+msgid "Master Violet Goodcheer"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_Violet_Description"
+msgid ""
+"Violet is a reknowned Shock Arcanist of the Circle of Danantar, famous for "
+"her discoveries in the ruins of Telema, in the Badlands."
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_Vigdis_Title"
+msgid "Vigdis Kaikonnen"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_Vigdis_Description"
+msgid ""
+"Daughter of the clan head of the Kaikonnen clan in the Snow Alliance, Vigdis "
+"is a renowned Battle Cleric of Einar."
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_Garrad_Title"
+msgid "Garrad Miles"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_Garrad_Description"
+msgid ""
+"A former mercenary, Garrad Miles become a close friend to the Kaikonnen clan "
+"and enlisted as officer in the army of the Snow Alliance, where he formed a "
+"corps of ex-mercenaries looking for a cause greater than just gold."
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_Rhuad_Title"
+msgid "Quartermaster Swifthand"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_Rhuad_Description"
+msgid ""
+"A former adventurer and rapacious looter, Rhuad Swifthand found love during "
+"his raid on the ruins of Telema, and stayed with the Scavengers to become "
+"head of the local outpost."
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_Lena_Title"
+msgid "Lena Swifthand"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_Lena_Description"
+msgid ""
+"Lena is a seasoned Scavenger who survived a bloody battle against orcs "
+"during her first mission, and fought Soraks during the battle of Telema. She "
+"later married Rhuad Swifthand and stayed at Telema to create a Scavenger "
+"outpost."
+msgstr ""
+
 msgctxt "NPC/&Guard_Captain_Title"
 msgid "Guard Captain"
 msgstr "경비대장"
@@ -877,6 +766,12 @@ msgctxt "NPC/&Mana_Crafter_Title"
 msgid "Mana Crafter"
 msgstr "마나 공예가"
 
+#, fuzzy
+#| msgid "Sitenero"
+msgctxt "NPC/&Mana_Scholar_Title"
+msgid "Mana Scholar"
+msgstr "시테네로"
+
 msgctxt "NPC/&Mana_Scientist_Title"
 msgid "Mana Scientist"
 msgstr "마나 과학자"
@@ -888,3 +783,383 @@ msgstr "오로크"
 msgctxt "NPC/&NPC_Lorson"
 msgid "Lorson"
 msgstr "로슨"
+
+msgctxt "NPC/&NPC_Sima_Temple"
+msgid "Sima Temple"
+msgstr "시마 템플"
+
+msgctxt "NPC/&NPC_Ellaria_Anfarel"
+msgid "Ellaria Anfarel"
+msgstr "엘라리아 안파렐"
+
+msgctxt "NPC/&NPC_Renno_Highwater"
+msgid "Renno Highwater"
+msgstr "레노 하이워터"
+
+msgctxt "NPC/&NPC_Store_Reya"
+msgid "Clerical services"
+msgstr "성직 서비스"
+
+msgctxt "NPC/&NPC_Marches_01_Title"
+msgid "Lord Hammond"
+msgstr "해먼드 경"
+
+msgctxt "NPC/&NPC_Marches_02_Title"
+msgid "Helia Fairblade"
+msgstr "헬리아 페어블레이드"
+
+msgctxt "NPC/&NPC_Marches_03_Title"
+msgid "Leyrin Catpaw"
+msgstr "레이린 캣파우"
+
+msgctxt "NPC/&NPC_Marches_04_Title"
+msgid "Krim Sunsail"
+msgstr "크림 선세일"
+
+msgctxt "NPC/&NPC_Valley_Telerien_Purevoice_Title"
+msgid "Telerien Purevoice"
+msgstr "텔레리엔 퓨어보이스"
+
+msgctxt "NPC/&NPC_Valley_Samko_Flint_Title"
+msgid "Samko Flint"
+msgstr "샘코 플린트"
+
+msgctxt "NPC/&NPC_Forge_Hasdrubal_Title"
+msgid "Hasdrubal"
+msgstr "하스드루발"
+
+msgctxt "NPC/&NPC_Forge_Ravener_Title"
+msgid "Ravener"
+msgstr "굶주린 자"
+
+msgctxt "NPC/&NPC_Forge_Charmer_Title"
+msgid "Charmer"
+msgstr "매력가"
+
+#, fuzzy
+#| msgid "Cook"
+msgctxt "NPC/&NPC_Forge_Cook_Title"
+msgid "Badri"
+msgstr "요리사"
+
+msgctxt "NPC/&NPC_Swamp_HillGiant_Title"
+msgid "Rugan"
+msgstr "루간"
+
+msgctxt "NPC/&NPC_Swamp_Apprentice_Title"
+msgid "Lysantir"
+msgstr "리산티르"
+
+msgctxt "NPC/&NPC_ThePeople_Henrik"
+msgid "Henrik Redhand"
+msgstr "헨릭 레드핸드"
+
+msgctxt "NPC/&NPC_ThePeople_Rose"
+msgid "Rose Fairwind"
+msgstr "로즈 페어윈드"
+
+msgctxt "NPC/&NPC_ThePeople_Reya"
+msgid "Reya Schildberg"
+msgstr "레야 쉴드버그"
+
+msgctxt "NPC/&NPC_ThePeople_Karelia"
+msgid "Karelia Snowfox"
+msgstr "카렐리아 스노우폭스"
+
+msgctxt "NPC/&NPC_Orenetis"
+msgid "Orenetis"
+msgstr "오레네티스"
+
+msgctxt "NPC/&NPC_Orenetis_Malariel"
+msgid "Malariel Brogarad"
+msgstr "말라리엘 브로가라드"
+
+msgctxt "NPC/&NPC_MarinVing"
+msgid "Marin Ving"
+msgstr "마린 빙"
+
+msgctxt "NPC/&NPC_VandoKlarn"
+msgid "Vando Klarn"
+msgstr "반도 클란"
+
+msgctxt "NPC/&NPC_Mask_CafrainShadow"
+msgid "Cafrain Shadow"
+msgstr "카프레인 섀도"
+
+#, fuzzy
+#| msgid "Finaliel Sharp-Mind"
+msgctxt "NPC/&NPC_Orenetis_Finaliel"
+msgid "Finaliel Sharpmind"
+msgstr "피날리엘 샤프마인드"
+
+msgctxt "NPC/&NPC_DLC_City_Guard_Title"
+msgid "City Guard"
+msgstr "도시 경비병"
+
+msgctxt "NPC/&NPC_DLC_City_Guard_Description"
+msgid "A high elf guard bearing the arms of Orenetis."
+msgstr "오레네티스의 무기를 든 하이 엘프 경비병."
+
+msgctxt "NPC/&NPC_DLC1_Anfarel_Noble"
+msgid "Elerien Anfarel"
+msgstr "엘레리엔 안파렐"
+
+msgctxt "NPC/&NPC_DLC1_ThePeople_Tortured"
+msgid "Prisoner"
+msgstr "수감자"
+
+#, fuzzy
+#| msgid "Robert"
+msgctxt "NPC/&NPC_Forge_Escorted_01"
+msgid "Badri"
+msgstr "로버트"
+
+#, fuzzy
+#| msgid "Gertrude"
+msgctxt "NPC/&NPC_Forge_Escorted_02"
+msgid "Gerta"
+msgstr "게트루드"
+
+#, fuzzy
+#| msgid "Tuznut"
+msgctxt "NPC/&NPC_Tuznut_Title"
+msgid "Tuznan Anfarel"
+msgstr "터즈넛"
+
+#, fuzzy
+#| msgid "TBD"
+msgctxt "NPC/&NPC_Tuznut_Description"
+msgid "An adventurer without much experience."
+msgstr "추후 추가"
+
+msgctxt "NPC/&NPC_Forge_Guard_Title"
+msgid "Guard"
+msgstr "경비병"
+
+#, fuzzy
+#| msgid "TBD"
+msgctxt "NPC/&NPC_Forge_Guard_Description"
+msgid "A typical guard at the Forge camp."
+msgstr "추후 추가"
+
+#, fuzzy
+#| msgid "TBD"
+msgctxt "NPC/&NPC_Forge_Charmer_Description"
+msgid "A member of the Forge camp."
+msgstr "추후 추가"
+
+#, fuzzy
+#| msgid "TBD"
+msgctxt "NPC/&NPC_Forge_Hasdrubal_Description"
+msgid "Leader of the Forge."
+msgstr "추후 추가"
+
+#, fuzzy
+#| msgid "TBD"
+msgctxt "NPC/&NPC_Forge_Ravener_Description"
+msgid "The Forge's master hunter."
+msgstr "추후 추가"
+
+#, fuzzy
+#| msgid "TBD"
+msgctxt "NPC/&NPC_Forge_Cook_Description"
+msgid "The Forge's master cook."
+msgstr "추후 추가"
+
+#, fuzzy
+#| msgid "TBD"
+msgctxt "NPC/&NPC_Forge_Merchant_Description"
+msgid "The Forge camp's merchant."
+msgstr "추후 추가"
+
+#, fuzzy
+#| msgid "TBD"
+msgctxt "NPC/&NPC_Forge_Escorted_01_Description"
+msgid "Badri, the Forge envoy."
+msgstr "추후 추가"
+
+#, fuzzy
+#| msgid "TBD"
+msgctxt "NPC/&NPC_Forge_Escorted_02_Description"
+msgid "Gerta, the Forge bodyguard."
+msgstr "추후 추가"
+
+#, fuzzy
+#| msgid "TBD"
+msgctxt "NPC/&NPC_Forge_Merchant_Title"
+msgid "Hanno Mudstrider"
+msgstr "추후 추가"
+
+#, fuzzy
+#| msgid "TBD"
+msgctxt "NPC/&NPC_Swamp_HillGiant_Description"
+msgid "A friendly giant."
+msgstr "추후 추가"
+
+#, fuzzy
+#| msgid "TBD"
+msgctxt "NPC/&NPC_Swamp_Apprentice_Description"
+msgid "An odd-looking elf wizard."
+msgstr "추후 추가"
+
+#, fuzzy
+#| msgid "Jakkon"
+msgctxt "NPC/&DLC1_NPC_Jakson_Title"
+msgid "Hannik"
+msgstr "자콘"
+
+#, fuzzy
+#| msgid "TBD"
+msgctxt "NPC/&DLC1_NPC_Jakson_Description"
+msgid "Hannik is a popular musician in the capital."
+msgstr "추후 추가"
+
+#, fuzzy
+#| msgid "TBD Sitenero"
+msgctxt "NPC/&Mana_Scholar_Description"
+msgid "This elf looks exactly like Orenetis…"
+msgstr "미정 시테네로"
+
+msgctxt "NPC/&Sitinero_Title"
+msgid "Sitenero"
+msgstr "시테네로"
+
+msgctxt "NPC/&DLC1_NPC_Marin_Ving"
+msgid "Marin Ving"
+msgstr "마린 빙"
+
+msgctxt "NPC/&DLC1_NPC_Vando_Klarn"
+msgid "Vando Klarn"
+msgstr "반도 클란"
+
+#, fuzzy
+#| msgid "Captain Sharp-Eyes"
+msgctxt "NPC/&DLC1_NPC_CityGuard_Captain_Sharp"
+msgid "Lieutenant Sharpeyes"
+msgstr "샤프아이즈 대장"
+
+#, fuzzy
+#| msgid "Noble"
+msgctxt "NPC/&DLC1_NPC_Nobleman_ThePeople03_Title"
+msgid "Nobleman"
+msgstr "귀족"
+
+msgctxt "NPC/&DLC1_NPC_Nobleman_ThePeople03_Description"
+msgid "Drunken Bully"
+msgstr "술 취한 양아치"
+
+msgctxt "NPC/&NPC_Red"
+msgid "Red"
+msgstr "레드"
+
+#, fuzzy
+#| msgid "Forge quartermaster"
+msgctxt "NPC/&NPC_Valley_Telerien_Purevoice_Speak"
+msgid "Forge Quartermaster"
+msgstr "포지 보급관"
+
+msgctxt "NPC/&Prisoner_Title"
+msgid "Prisoner"
+msgstr "수감자"
+
+msgctxt "NPC/&NPC_DLC_Armorer"
+msgid "Gail Hunt"
+msgstr "게일 헌트"
+
+msgctxt "NPC/&NPC_Dominion_Soldier_Title"
+msgid "Dominion Soldier"
+msgstr ""
+
+msgctxt "NPC/&NPC_Dominion_Soldier_Description"
+msgid "A trooper in the Dominion's military forces."
+msgstr ""
+
+msgctxt "NPC/&NPC_Dominion_Archer_Title"
+msgid "Dominion Archer"
+msgstr ""
+
+msgctxt "NPC/&NPC_Dominion_Archer_Description"
+msgid "An archer in the Dominion's military forces."
+msgstr ""
+
+msgctxt "NPC/&NPC_Dominion_Arcanist_Title"
+msgid "Dominion Arcanist"
+msgstr ""
+
+msgctxt "NPC/&NPC_Dominion_Arcanist_Description"
+msgid "A battle mage in the Dominion's military forces."
+msgstr ""
+
+msgctxt "NPC/&NPC_Dominion_Praetorian_Title"
+msgid "Dominion Praetorian"
+msgstr ""
+
+msgctxt "NPC/&NPC_Dominion_Praetorian_Description"
+msgid "An elite warrior from the Lord Protector's personal guard."
+msgstr ""
+
+msgctxt "NPC/&NPC_Rebellion_Blue"
+msgid "Blue"
+msgstr ""
+
+msgctxt "NPC/&NPC_Rebellion_Blue_Description"
+msgid "Rebellion Negotiator"
+msgstr ""
+
+msgctxt "NPC/&NPC_Dominion_Rookie_Title"
+msgid "Dominion Rookie"
+msgstr ""
+
+msgctxt "NPC/&NPC_Dominion_Rookie_Description"
+msgid "A young and inexperienced fighter serving the Dominion."
+msgstr ""
+
+msgctxt "NPC/&MaskMerchant_Yasmin_Title"
+msgid "Yasmin"
+msgstr ""
+
+msgctxt "NPC/&MaskMerchant_Yasmin_Description"
+msgid "The Mask's Quartermaster"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC_Rebellion_Soldier_Title"
+msgid "Rebel Fighter"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC_Rebellion_Soldier_Description"
+msgid "A member of the Rebellion, ready to die fighting the Dominion."
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC1_Drooly_Title"
+msgid "Drooly"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC1_Drooly_Description"
+msgid ""
+"Some kind of pet wolf. It looks like a nice little doggy - but with big "
+"fangs."
+msgstr ""
+
+msgctxt "NPC/&NPC_Forge_Guard_HalflingScout_Title"
+msgid "Forge Scout"
+msgstr ""
+
+msgctxt "NPC/&NPC_Forge_Guard_HalflingScout_Description"
+msgid "A typical member of the Forge: small, sneaky, and stout."
+msgstr ""
+
+msgctxt "NPC/&NPC_Forge_Guard_HalfElfRanger_Title"
+msgid "Forge Ranger"
+msgstr ""
+
+msgctxt "NPC/&NPC_Forge_Guard_HalfElfRanger_Description"
+msgid "A typical member of the Forge: an excellent combatant and archer."
+msgstr ""
+
+msgctxt "NPC/&NPC_Forge_Guard_HumanDruid_Title"
+msgid "Forge Druid"
+msgstr ""
+
+msgctxt "NPC/&NPC_Forge_Guard_HumanDruid_Description"
+msgid "A typical member of the Forge, linking the faction with nature."
+msgstr ""

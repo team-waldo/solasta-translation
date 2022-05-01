@@ -1,0 +1,119 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-01 18:44+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "Environment/&CatacombsTitle"
+msgid "Catacombs"
+msgstr ""
+
+msgctxt "Environment/&CatacombsDescription"
+msgid "An underground network of tombs & crypts"
+msgstr ""
+
+msgctxt "Environment/&NecropolisTitle"
+msgid "Necropolis"
+msgstr ""
+
+msgctxt "Environment/&NecropolisDescription"
+msgid "An underground domain of the dead"
+msgstr ""
+
+msgctxt "Environment/&SewersTitle"
+msgid "Sewers"
+msgstr ""
+
+msgctxt "Environment/&SewersDescription"
+msgid "A collection of sewer tunnels & drainage"
+msgstr ""
+
+msgctxt "Environment/&StrongholdTitle"
+msgid "Stronghold"
+msgstr ""
+
+msgctxt "Environment/&StrongholdDescription"
+msgid "The interior of a stone castle"
+msgstr ""
+
+msgctxt "Environment/&ElvenPalaceTitle"
+msgid "Elven Palace"
+msgstr ""
+
+msgctxt "Environment/&ElvenPalaceDescription"
+msgid "A luxurious vestige of the realm of Manacalon"
+msgstr ""
+
+msgctxt "Environment/&LavaCavesTitle"
+msgid "Lava Caves"
+msgstr ""
+
+msgctxt "Environment/&LavaCavesDescription"
+msgid "An underground network of caves inhabited by tribal creatures"
+msgstr ""
+
+msgctxt "Environment/&WoodlandTitle"
+msgid "Woodland"
+msgstr ""
+
+msgctxt "Environment/&WoodlandDescription"
+msgid "Navigate through a series of clearings inside a temperate forest"
+msgstr ""
+
+msgctxt "Environment/&TownTitle"
+msgid "Town"
+msgstr ""
+
+msgctxt "Environment/&TownDescription"
+msgid "Explore the streets of a medieval city"
+msgstr ""
+
+msgctxt "Environment/&TownInteriorTitle"
+msgid "Town Interiors"
+msgstr ""
+
+msgctxt "Environment/&TownInteriorDescription"
+msgid ""
+"A set of house / building interiors used to represent what is inside the "
+"buildings of a town"
+msgstr ""
+
+msgctxt "Environment/&JungleTitle"
+msgid "Jungle"
+msgstr ""
+
+msgctxt "Environment/&JungleDescription"
+msgid "A deep & moist tropical forest"
+msgstr ""
+
+msgctxt "Environment/&SwampTitle"
+msgid "Swamp"
+msgstr ""
+
+msgctxt "Environment/&SwampDescription"
+msgid "The mud and humidity make travel in the swamp less than pleasant."
+msgstr ""
+
+msgctxt "Environment/&CityValleyTitle"
+msgid "City Valley"
+msgstr ""
+
+msgctxt "Environment/&CityValleyDescription"
+msgid "Explore the streets of a lost city hidden in the heart of the jungle."
+msgstr ""
+
+msgctxt "Environment/&ValleyPalaceTitle"
+msgid "Valley Palace"
+msgstr ""
+
+msgctxt "Environment/&ValleyPalaceDescription"
+msgid "A luxurious palace, deep within the valley."
+msgstr ""

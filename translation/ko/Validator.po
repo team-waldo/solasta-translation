@@ -1,0 +1,177 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-01 18:44+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "Validator/&ParameterMonsterTitle"
+msgid "Monster"
+msgstr ""
+
+msgctxt "Validator/&ParameterMonsterDescription"
+msgid "Select a monster for this validator"
+msgstr ""
+
+msgctxt "Validator/&ParameterItemTitle"
+msgid "Item"
+msgstr ""
+
+msgctxt "Validator/&ParameterItemDescription"
+msgid "Select an item for this validator"
+msgstr ""
+
+msgctxt "Validator/&ParameterMonsterQuantityTitle"
+msgid "How many?"
+msgstr ""
+
+msgctxt "Validator/&ParameterMonsterQuantityDescription"
+msgid "Determines the quantity of the specified element"
+msgstr ""
+
+msgctxt "Validator/&ParameterItemQuantityTitle"
+msgid "How many?"
+msgstr ""
+
+msgctxt "Validator/&ParameterItemQuantityDescription"
+msgid "Determines the quantity of the specified element"
+msgstr ""
+
+msgctxt "Validator/&ParameterLocationTitle"
+msgid "Location"
+msgstr ""
+
+msgctxt "Validator/&ParameterLocationDescription"
+msgid "The title of the location to track"
+msgstr ""
+
+msgctxt "Validator/&ParameterRestTypeTitle"
+msgid "Short=0 Long=1"
+msgstr ""
+
+msgctxt "Validator/&ParameterRestTypeDescription"
+msgid "The type of expected rest"
+msgstr ""
+
+msgctxt "Validator/&ParameterSpellNameTitle"
+msgid "Spell Name"
+msgstr ""
+
+msgctxt "Validator/&ParameterSpellNameDescription"
+msgid ""
+"The exact internal name (in English & enforcing caps) of the spell to specify"
+msgstr ""
+
+msgctxt "Validator/&ParameterCompletionDelayTitle"
+msgid "Delay (s)"
+msgstr ""
+
+msgctxt "Validator/&ParameterCompletionDelayDescription"
+msgid ""
+"The delay in seconds before this is completed. Decimal values are allowed"
+msgstr ""
+
+msgctxt "Validator/&ParameterVariableTitle"
+msgid "Variable"
+msgstr ""
+
+msgctxt "Validator/&ParameterVariableDescription"
+msgid "The variable to test"
+msgstr ""
+
+msgctxt "Validator/&ParameterVariableTestVariableTitle"
+msgid "Variable"
+msgstr ""
+
+msgctxt "Validator/&ParameterVariableTestVariableDescription"
+msgid "The variable to evaluate"
+msgstr ""
+
+msgctxt "Validator/&ParameterVariableTestTypeTitle"
+msgid "Test Type"
+msgstr ""
+
+msgctxt "Validator/&ParameterVariableTestTypeDescription"
+msgid "The test type to perform on the variable"
+msgstr ""
+
+msgctxt "Validator/&ParameterVariableTestTypeIsEqualToTitle"
+msgid "Is Equal To"
+msgstr ""
+
+msgctxt "Validator/&ParameterVariableTestTypeIsEqualToDescription"
+msgid "Valid if the variable value matches the specified value"
+msgstr ""
+
+msgctxt "Validator/&ParameterVariableTestTypeIsDifferentFromTitle"
+msgid "Is Different From"
+msgstr ""
+
+msgctxt "Validator/&ParameterVariableTestTypeIsDifferentFromDescription"
+msgid "Valid if the variable value differs from the specified value"
+msgstr ""
+
+msgctxt "Validator/&ParameterVariableTestTypeIsGreaterThanTitle"
+msgid "Is Greater Than"
+msgstr ""
+
+msgctxt "Validator/&ParameterVariableTestTypeIsGreaterThanDescription"
+msgid "Valid if the variable value is superior or equal to the specified value"
+msgstr ""
+
+msgctxt "Validator/&ParameterVariableTestTypeIsGreaterStrictlyThanTitle"
+msgid "Is Strictly Greater Than"
+msgstr ""
+
+msgctxt "Validator/&ParameterVariableTestTypeIsGreaterStrictlyThanDescription"
+msgid ""
+"Valid if the variable value is strictly greater than the specified value"
+msgstr ""
+
+msgctxt "Validator/&ParameterVariableTestTypeInferiorToTitle"
+msgid "Is Less Than"
+msgstr ""
+
+msgctxt "Validator/&ParameterVariableTestTypeInferiorToDescription"
+msgid ""
+"Valid if the variable value is less than or equal to the specified value"
+msgstr ""
+
+msgctxt "Validator/&ParameterVariableTestTypeIsInferiorStrictlyToTitle"
+msgid "Is Strictly Less Than"
+msgstr ""
+
+msgctxt "Validator/&ParameterVariableTestTypeIsInferiorStrictlyToDescription"
+msgid "Valid if the variable value is strictly less than the specified value"
+msgstr ""
+
+msgctxt "Validator/&ParameterVariableTestValueIntTitle"
+msgid "Test Value"
+msgstr ""
+
+msgctxt "Validator/&ParameterVariableTestValueIntDescription"
+msgid "The integer value to compare in the test"
+msgstr ""
+
+msgctxt "Validator/&ParameterVariableTestValueBoolTitle"
+msgid "Test Value"
+msgstr ""
+
+msgctxt "Validator/&ParameterVariableTestValueBoolDescription"
+msgid "The Boolean value to compare in the test"
+msgstr ""
+
+msgctxt "Validator/&ParameterVariableTestValueStringTitle"
+msgid "Test Value"
+msgstr ""
+
+msgctxt "Validator/&ParameterVariableTestValueStringDescription"
+msgid "The string value to compare in the test"
+msgstr ""

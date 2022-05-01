@@ -1,0 +1,369 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-01 18:44+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "Functor/&GrantExperienceTitle"
+msgid "Grant Experience"
+msgstr ""
+
+msgctxt "Functor/&GrantExperienceDescription"
+msgid "Provides party members with experience points"
+msgstr ""
+
+msgctxt "Functor/&ParameterGrantExperienceModeTitle"
+msgid "Gain Mode"
+msgstr ""
+
+msgctxt "Functor/&ParameterGrantExperienceModeDescription"
+msgid "The mode used to grant experience"
+msgstr ""
+
+msgctxt "Functor/&ParameterGrantExperienceModeFlatTitle"
+msgid "Flat"
+msgstr ""
+
+msgctxt "Functor/&ParameterGrantExperienceModeFlatDescription"
+msgid "A flat value of experience points is granted to each party member"
+msgstr ""
+
+msgctxt "Functor/&ParameterGrantExperienceModeReachLevelTitle"
+msgid "Reach Level"
+msgstr ""
+
+msgctxt "Functor/&ParameterGrantExperienceModeReachLevelDescription"
+msgid ""
+"Enough experience is granted to each party member. Nothing is gained if the "
+"character is already at this level"
+msgstr ""
+
+msgctxt "Functor/&ParameterExperienceAmountTitle"
+msgid "Experience Amount"
+msgstr ""
+
+msgctxt "Functor/&ParameterExperienceAmountDescription"
+msgid "The amount of experience to be earned"
+msgstr ""
+
+msgctxt "Functor/&ParameterWantedLevelTitle"
+msgid "Required Level"
+msgstr ""
+
+msgctxt "Functor/&ParameterWantedLevelDescription"
+msgid "The level the party is required to reach"
+msgstr ""
+
+msgctxt "Functor/&InventoryOperationTitle"
+msgid "Inventory Operation"
+msgstr ""
+
+msgctxt "Functor/&InventoryOperationDescription"
+msgid ""
+"Allows you to perform a variety of operations related to items and treasury"
+msgstr ""
+
+msgctxt "Functor/&ParameterInventoryOperationTitle"
+msgid "Operation Type"
+msgstr ""
+
+msgctxt "Functor/&ParameterInventoryOperationDescription"
+msgid "The type of inventory operation to perform"
+msgstr ""
+
+msgctxt "Functor/&ParameterInventoryOperationGrantItemTitle"
+msgid "Grant Item"
+msgstr ""
+
+msgctxt "Functor/&ParameterInventoryOperationGrantItemDescription"
+msgid "Grants the selected item to the target characters"
+msgstr ""
+
+msgctxt "Functor/&ParameterInventoryOperationLoseItemTitle"
+msgid "Lose Item"
+msgstr ""
+
+msgctxt "Functor/&ParameterInventoryOperationLoseItemDescription"
+msgid "Removes the selected item from the target characters"
+msgstr ""
+
+msgctxt "Functor/&ParameterInventoryOperationStashAllTitle"
+msgid "Stash All"
+msgstr ""
+
+msgctxt "Functor/&ParameterInventoryOperationStashAllDescription"
+msgid "Hide all of the character's belongings in a special stash"
+msgstr ""
+
+msgctxt "Functor/&ParameterInventoryOperationRecoverStashTitle"
+msgid "Recover Stash"
+msgstr ""
+
+msgctxt "Functor/&ParameterInventoryOperationRecoverStashDescription"
+msgid ""
+"Recover the stashed item in addition to the items owned since the previous "
+"inventory was stashed"
+msgstr ""
+
+msgctxt "Functor/&ParameterInventoryOperationTargetTitle"
+msgid "Target"
+msgstr ""
+
+msgctxt "Functor/&ParameterInventoryOperationTargetDescription"
+msgid "Who is targeted by this operation"
+msgstr ""
+
+msgctxt "Functor/&ParameterInventoryOperationTargetFirstConsciousCharacterTitle"
+msgid "First Conscious Character"
+msgstr ""
+
+msgctxt ""
+"Functor/&ParameterInventoryOperationTargetFirstConsciousCharacterDescription"
+msgid "The first conscious character in the party will be selected"
+msgstr ""
+
+msgctxt "Functor/&ParameterInventoryOperationTargetAllPartyMembersTitle"
+msgid "All Party Members"
+msgstr ""
+
+msgctxt "Functor/&ParameterInventoryOperationTargetAllPartyMembersDescription"
+msgid "All Party Members will be targeted by this operation"
+msgstr ""
+
+msgctxt "Functor/&ParameterInventoryOperationOverrideQuantityTitle"
+msgid "Override Quantity?"
+msgstr ""
+
+msgctxt "Functor/&ParameterInventoryOperationOverrideQuantityDescription"
+msgid "Allows you to specify a quantity for the item"
+msgstr ""
+
+msgctxt "Functor/&ParameterInventoryOperationQuantityValueTitle"
+msgid "Quantity Value"
+msgstr ""
+
+msgctxt "Functor/&ParameterInventoryOperationQuantityValueDescription"
+msgid "The number of items of this kind"
+msgstr ""
+
+msgctxt "Functor/&ParameterInventoryOperationItemTitle"
+msgid "Item"
+msgstr ""
+
+msgctxt "Functor/&ParameterInventoryOperationItemDescription"
+msgid "The item to use for this operation"
+msgstr ""
+
+msgctxt "Functor/&QuestOperationTitle"
+msgid "Quest Operation"
+msgstr ""
+
+msgctxt "Functor/&QuestOperationDescription"
+msgid "Executes an operation on the specified quest"
+msgstr ""
+
+msgctxt "Functor/&VariableOperationTitle"
+msgid "Variable Operation"
+msgstr ""
+
+msgctxt "Functor/&VariableOperationDescription"
+msgid "Allows you to modify the value of a campaign variable"
+msgstr ""
+
+msgctxt "Functor/&ParameterVariableOperationVariableTitle"
+msgid "Variable"
+msgstr ""
+
+msgctxt "Functor/&ParameterVariableOperationVariableDescription"
+msgid "The variable upon which the operation is performed"
+msgstr ""
+
+msgctxt "Functor/&ParameterVariableOperationTypeTitle"
+msgid "Type"
+msgstr ""
+
+msgctxt "Functor/&ParameterVariableOperationTypeDescription"
+msgid ""
+"The type of operation that is performed. Some variable types only allow you "
+"to set the value"
+msgstr ""
+
+msgctxt "Functor/&ParameterVariableOperationTypeSetTitle"
+msgid "Set"
+msgstr ""
+
+msgctxt "Functor/&ParameterVariableOperationTypeSetDescription"
+msgid "The variable is set to the specified value"
+msgstr ""
+
+msgctxt "Functor/&ParameterVariableOperationTypeAddTitle"
+msgid "Add"
+msgstr ""
+
+msgctxt "Functor/&ParameterVariableOperationTypeAddDescription"
+msgid "The specified value is added to the variable"
+msgstr ""
+
+msgctxt "Functor/&ParameterVariableOperationTypeSubstractTitle"
+msgid "Subtract"
+msgstr ""
+
+msgctxt "Functor/&ParameterVariableOperationTypeSubstractDescription"
+msgid "The specified value is subtracted from the variable"
+msgstr ""
+
+msgctxt "Functor/&ParameterVariableOperationTypeIncrementTitle"
+msgid "Increment"
+msgstr ""
+
+msgctxt "Functor/&ParameterVariableOperationTypeIncrementDescription"
+msgid "The value increases by 1"
+msgstr ""
+
+msgctxt "Functor/&ParameterVariableOperationTypeDecrementTitle"
+msgid "Decrement"
+msgstr ""
+
+msgctxt "Functor/&ParameterVariableOperationTypeDecrementDescription"
+msgid "The value decreases by 1"
+msgstr ""
+
+msgctxt "Functor/&ParameterVariableOperationTypeMultiplyTitle"
+msgid "Multiply"
+msgstr ""
+
+msgctxt "Functor/&ParameterVariableOperationTypeMultiplyDescription"
+msgid "The variable is multiplied by the specified value"
+msgstr ""
+
+msgctxt "Functor/&ParameterVariableOperationTypeDivideTitle"
+msgid "Divide"
+msgstr ""
+
+msgctxt "Functor/&ParameterVariableOperationTypeDivideDescription"
+msgid "The variable is divided by the specified value"
+msgstr ""
+
+msgctxt "Functor/&ParameterVariableOperationValueIntTitle"
+msgid "Value"
+msgstr ""
+
+msgctxt "Functor/&ParameterVariableOperationValueIntDescription"
+msgid "The integer value used for the operation"
+msgstr ""
+
+msgctxt "Functor/&ParameterVariableOperationValueBoolTitle"
+msgid "Value"
+msgstr ""
+
+msgctxt "Functor/&ParameterVariableOperationValueBoolDescription"
+msgid "The Boolean value used for the operation"
+msgstr ""
+
+msgctxt "Functor/&ParameterVariableOperationValueStringTitle"
+msgid "Value"
+msgstr ""
+
+msgctxt "Functor/&ParameterVariableOperationValueStringDescription"
+msgid "The string value used for the operation"
+msgstr ""
+
+msgctxt "Functor/&ParameterVariableOperationTypeRollTitle"
+msgid "Roll"
+msgstr ""
+
+msgctxt "Functor/&ParameterVariableOperationTypeRollDescription"
+msgid "The variable is set with the result of a die roll."
+msgstr ""
+
+msgctxt "Functor/&ParameterVariableOperationValueDieTitle"
+msgid "Die Type"
+msgstr ""
+
+msgctxt "Functor/&ParameterVariableOperationValueDieDescription"
+msgid "The type of die used for the roll."
+msgstr ""
+
+msgctxt "Functor/&SetLocationStatusTitle"
+msgid "Set Location Status"
+msgstr ""
+
+msgctxt "Functor/&SetLocationStatusDescription"
+msgid ""
+"Change the status of a location to make it hidden/locked or available, "
+"reflected in multiple exit gadgets."
+msgstr ""
+
+msgctxt "Functor/&ParameterLocationTitle"
+msgid "Location"
+msgstr ""
+
+msgctxt "Functor/&ParameterLocationDescription"
+msgid "The name of the target location"
+msgstr ""
+
+msgctxt "Functor/&ParameterLocationStatusTitle"
+msgid "Location Status"
+msgstr ""
+
+msgctxt "Functor/&ParameterLocationStatusDescription"
+msgid "The status of the specified location."
+msgstr ""
+
+msgctxt "Functor/&ParameterLocationStatusHiddenTitle"
+msgid "Hidden"
+msgstr ""
+
+msgctxt "Functor/&ParameterLocationStatusHiddenDescription"
+msgid "The location will be hidden in multiple exit popups."
+msgstr ""
+
+msgctxt "Functor/&ParameterLocationStatusLockedTitle"
+msgid "Locked"
+msgstr ""
+
+msgctxt "Functor/&ParameterLocationStatusLockedDescription"
+msgid "The location is visible but cannot be used in multiple exit popups."
+msgstr ""
+
+msgctxt "Functor/&ParameterLocationStatusAvailableTitle"
+msgid "Available"
+msgstr ""
+
+msgctxt "Functor/&ParameterLocationStatusAvailableDescription"
+msgid "The location is available and can be used in multiple exit popups."
+msgstr ""
+
+msgctxt "Functor/&ParameterInventoryOperationGrantTreasuryTitle"
+msgid "Grant Treasury"
+msgstr ""
+
+msgctxt "Functor/&ParameterInventoryOperationGrantTreasuryDescription"
+msgid "The type of inventory operation to perform"
+msgstr ""
+
+msgctxt "Functor/&ParameterInventoryOperationLoseTreasuryTitle"
+msgid "Lose Treasury"
+msgstr ""
+
+msgctxt "Functor/&ParameterInventoryOperationLoseTreasuryDescription"
+msgid ""
+"The type of inventory operation to perform. If no quantity is specified, all "
+"items of this kind are removed from the target"
+msgstr ""
+
+msgctxt "Functor/&ParameterInventoryOperationTreasuryTitle"
+msgid "Treasury"
+msgstr ""
+
+msgctxt "Functor/&ParameterInventoryOperationTreasuryDescription"
+msgid "The amount of treasury for this operation"
+msgstr ""

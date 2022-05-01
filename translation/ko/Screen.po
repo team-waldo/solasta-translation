@@ -1,658 +1,16 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2022-01-20 01:27+0000\n"
-"Last-Translator: E잡불어 <rarkar@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/screen/ko/>"
-"\n"
-"Language: ko\n"
+"POT-Creation-Date: 2022-05-01 18:44+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
-
-msgctxt "Screen/&DefaultRoomNameFormat"
-msgid "{0}'s game"
-msgstr "{0}의 게임"
-
-msgctxt "Screen/&AllyTurnTitleFormat"
-msgid "{0} is playing"
-msgstr "{0}이(가) 플레이 중"
-
-msgctxt "Screen/&ChooseFromMultipleEntrancesTitle"
-msgid "Multiple Entrances"
-msgstr "다중 입구"
-
-msgctxt "Screen/&ChooseFromMultipleEntrancesDescription"
-msgid "Select which entrance the party will arrive through."
-msgstr "파티가 어느 입구로 도착할지 선택하십시오."
-
-msgctxt "Screen/&EditorSaveTitle"
-msgid "Save"
-msgstr "저장"
-
-msgctxt "Screen/&EditorUndoTitle"
-msgid "Undo"
-msgstr "되돌리기"
-
-msgctxt "Screen/&EditorCategoryLocationTitle"
-msgid "Location"
-msgstr "지역"
-
-msgctxt "Screen/&EditorCategoryRoomDescription"
-msgid "Available Room Blueprints"
-msgstr "가능한 방 배치도"
-
-msgctxt "Screen/&EditorCategoryPropDescription"
-msgid "Available Prop Blueprints"
-msgstr "가능한 물체 배치도"
-
-msgctxt "Screen/&EditorCategoryGadgetDescription"
-msgid "Available Gadget Blueprints"
-msgstr "가능한 장치 배치도"
-
-msgctxt "Screen/&EditorLocationTitleTitle"
-msgid "Title"
-msgstr "제목"
-
-msgctxt "Screen/&EditorLocationDescriptionTitle"
-msgid "Description"
-msgstr "설명"
-
-msgctxt "Screen/&EditorLocationAuthorTitle"
-msgid "Author"
-msgstr "제작자"
-
-msgctxt "Screen/&EditorLocationMinCharLevelTitle"
-msgid "Min. Character Level"
-msgstr "최소 캐릭터 레벨"
-
-msgctxt "Screen/&EditorLocationMaxCharLevelTitle"
-msgid "Max. Character Level"
-msgstr "최대 캐릭터 레벨"
-
-msgctxt "Screen/&EditorLocationEnvironmentTitle"
-msgid "Environment"
-msgstr "환경"
-
-msgctxt "Screen/&EditorLocationSizeTitle"
-msgid "Size"
-msgstr "규모"
-
-msgctxt "Screen/&EditorLocationSizeSmallTitle"
-msgid "Small"
-msgstr "소형"
-
-msgctxt "Screen/&EditorLocationSizeMediumTitle"
-msgid "Medium"
-msgstr "중형"
-
-msgctxt "Screen/&EditorLocationSizeLargeTitle"
-msgid "Large"
-msgstr "대형"
-
-msgctxt "Screen/&EditorLocationMusicTitle"
-msgid "Ambient Music"
-msgstr "배경 음악"
-
-msgctxt "Screen/&EditorCaptionXTitle"
-msgid "X"
-msgstr "X"
-
-msgctxt "Screen/&EditorCaptionYTitle"
-msgid "Y"
-msgstr "Y"
-
-msgctxt "Screen/&EditorCaptionOrientationTitle"
-msgid "Orientation"
-msgstr "방향"
-
-msgctxt "Screen/&EditorCaptionCancelButtonTitle"
-msgid "Cancel"
-msgstr "취소"
-
-msgctxt "Screen/&EditorCaptionCancelButtonDescription"
-msgid "Cancels the selection of the current element"
-msgstr "현재 선택한 항목을 취소합니다"
-
-msgctxt "Screen/&EditorCaptionMoveButtonTitle"
-msgid "Move"
-msgstr "이동"
-
-msgctxt "Screen/&EditorCaptionMoveButtonDescription"
-msgid "Moves this element by dragging the mouse"
-msgstr "마우스를 움직여서 이 요소를 이동합니다"
-
-msgctxt "Screen/&EditorCaptionRotateButtonTitle"
-msgid "Rotate"
-msgstr "회전"
-
-msgctxt "Screen/&EditorCaptionRotateButtonDescription"
-msgid "Rotates the selected element 90° clockwise"
-msgstr "선택한 요소를 시계 방향으로 90° 회전합니다"
-
-msgctxt "Screen/&EditorCaptionDeleteButtonTitle"
-msgid "Delete"
-msgstr "삭제"
-
-msgctxt "Screen/&EditorCaptionDeleteButtonDescription"
-msgid "Deletes the selected element"
-msgstr "선택한 요소를 삭제합니다"
-
-msgctxt "Screen/&MonsterSelectionTitle"
-msgid "Select a Creature"
-msgstr "크리쳐 선택"
-
-msgctxt "Screen/&MonsterSortAlphabeticalTitle"
-msgid "Name"
-msgstr "이름"
-
-msgctxt "Screen/&MonsterSortAlphabeticalDescription"
-msgid "Sort by monster name"
-msgstr "크리쳐 이름 순으로 정렬"
-
-msgctxt "Screen/&MonsterSortCRTitle"
-msgid "Challenge"
-msgstr "도전등급"
-
-msgctxt "Screen/&MonsterSortCRDescription"
-msgid "Sort by monster Challenge Rating"
-msgstr "몬스터 도전 등급을 기준으로 정렬합니다"
-
-msgctxt "Screen/&ItemSortAlphabeticalTitle"
-msgid "Name"
-msgstr "이름"
-
-msgctxt "Screen/&ItemSortAlphabeticalDescription"
-msgid "Sort by item name"
-msgstr "아이템 이름 순으로 정렬"
-
-msgctxt "Screen/&ItemSortValueTitle"
-msgid "Cost"
-msgstr "가격"
-
-msgctxt "Screen/&ItemSortValueDescription"
-msgid "Sort by item cost"
-msgstr "아이템 가격을 기준으로 정렬합니다"
-
-msgctxt "Screen/&LootPackSelectionTitle"
-msgid "Select a Loot Pack"
-msgstr "전리품 꾸러미 선택"
-
-msgctxt "Screen/&ItemSelectionTitle"
-msgid "Select an Item"
-msgstr "아이템 선택"
-
-msgctxt "Screen/&TrapEffectSelectionTitle"
-msgid "Select a Trap Effect"
-msgstr "함정 효과 선택"
-
-msgctxt "Screen/&LocationSavedDescription"
-msgid "Content saved"
-msgstr "내용 저장됨"
-
-msgctxt "Screen/&ClearElementTitle"
-msgid "Clear"
-msgstr "초기화"
-
-msgctxt "Screen/&ClearElementDescription"
-msgid "Clears the selected database entry"
-msgstr "선택된 데이터 입력을 초기화합니다"
-
-msgctxt "Screen/&EditorLocationVisualMoodTitle"
-msgid "Visual Mood"
-msgstr "맵 분위기"
-
-msgctxt "Screen/&FeatureUnavailableTitle"
-msgid "Unavailable, coming soon"
-msgstr "이용 불가, 곧 출시"
-
-msgctxt "Screen/&EditorSettingsTitle"
-msgid "Settings"
-msgstr "설정"
-
-msgctxt "Screen/&EditorSettingsDescription"
-msgid "Edit the user location's settings (name, description, etc.)"
-msgstr "사용자 지역 설정(이름, 설명 등)을 수정합니다"
-
-msgctxt "Screen/&EditorSaveDescription"
-msgid "Save this user location to disk ({0})"
-msgstr "이 유저 제작 맵을 디스크에 저장 ({0})"
-
-msgctxt "Screen/&EditorUndoDescription"
-msgid "Undo the last modification ({0})"
-msgstr "마지막 변경사항 실행 취소 ({0})"
-
-msgctxt "Screen/&EditorPrevisTitle"
-msgid "Preview"
-msgstr "미리보기"
-
-msgctxt "Screen/&EditorPrevisDescription"
-msgid "Previsualize the location rendering in a separate window (coming soon)"
-msgstr "별개의 창에 지역 개괄을 표시합니다(업데이트 예정)"
-
-msgctxt "Screen/&MoveShortcutFormat"
-msgid "Move ({0})"
-msgstr "이동 ({0})"
-
-msgctxt "Screen/&RotateShortcutFormat"
-msgid "Rotate ({0})"
-msgstr "회전 ({0})"
-
-msgctxt "Screen/&CopyShortcutFormat"
-msgid "Copy ({0})"
-msgstr "복사 ({0})"
-
-msgctxt "Screen/&DeleteShortcutFormat"
-msgid "Delete ({0})"
-msgstr "삭제 ({0})"
-
-msgctxt "Screen/&EditorLibraryTitle"
-msgid "Library"
-msgstr "라이브러리"
-
-msgctxt "Screen/&EditorCategoryRoomTitle"
-msgid "Rooms"
-msgstr "방"
-
-msgctxt "Screen/&EditorCategoryPropTitle"
-msgid "Props"
-msgstr "소품"
-
-msgctxt "Screen/&EditorCategoryGadgetTitle"
-msgid "Gadgets"
-msgstr "장치"
-
-msgctxt "Screen/&EditorCaptionPositionTitle"
-msgid "Position"
-msgstr "위치"
-
-msgctxt "Screen/&EditorCaptionCopyButtonTitle"
-msgid "Duplicate"
-msgstr "복제"
-
-msgctxt "Screen/&EditorCaptionCopyButtonDescription"
-msgid "Duplicates the selected element"
-msgstr "선택한 요소를 복제합니다"
-
-msgctxt "Screen/&BackDungeonMakerTitle"
-msgid "Dungeon Maker"
-msgstr "던전 메이커"
-
-msgctxt "Screen/&BackDungeonMakerDescription"
-msgid "Opens the Dungeon Maker to resume editing this location"
-msgstr "던전 메이커를 열어 이 지역의 편집을 재개합니다"
-
-msgctxt "Screen/&EditorLocationSwitchDescription"
-msgid "Click to switch to this user location"
-msgstr "클릭하여 이 사용자 지역으로 전환합니다"
-
-msgctxt "Screen/&EditorLocationAuthorVersionTitle"
-msgid "Version"
-msgstr "버전"
-
-msgctxt "Screen/&UserLocationsPublishButtonDescription"
-msgid "Publish your location on Steam Workshop"
-msgstr "스팀 창작마당에 당신의 지역을 업로드합니다"
-
-msgctxt "Screen/&UserLocationsPublishingWorshopLegalLabel"
-msgid "By submitting this item, you agree to the workshop terms of service."
-msgstr "이 항목을 제출함으로써 창작마당 서비스 약관에 동의합니다."
-
-msgctxt "Screen/&UserLocationsPublishingWorshopLegalLinkLabel"
-msgid "Read the terms of service here."
-msgstr "여기서 서비스 약관을 확인하십시오."
-
-msgctxt "Screen/&UserLocationsPublishedItemLinkLabel"
-msgid "Browse the published item."
-msgstr "업로드된 항목을 확인합니다."
-
-msgctxt "Screen/&UserLocationsPublishHeaderTitle"
-msgid "Publish Content"
-msgstr "공개 컨텐츠"
-
-msgctxt "Screen/&CheatsButtonTitle"
-msgid "Cheats"
-msgstr "치트"
-
-msgctxt "Screen/&CheatsButtonDescription"
-msgid "Opens the Dungeon Maker playtest cheats. {0}"
-msgstr "던전 메이커 플레이 테스트 치트를 엽니다. {0}"
-
-msgctxt "Screen/&EditorFoldAllButtonTitle"
-msgid "Fold All"
-msgstr "모두 접기"
-
-msgctxt "Screen/&EditorFoldAllButtonDescription"
-msgid "Collapse all folders of this library"
-msgstr "이 라이브러리의 모든 폴더 접기"
-
-msgctxt "Screen/&EditorUnfoldAllButtonTitle"
-msgid "Unfold All"
-msgstr "모두 펼치기"
-
-msgctxt "Screen/&EditorUnfoldAllButtonDescription"
-msgid "Open all folders of this library"
-msgstr "이 라이브러리의 모든 폴더 펼치기"
-
-msgctxt "Screen/&EditorCustomDimensionsTitle"
-msgid "Custom Dimensions"
-msgstr "사용자 지정 크기"
-
-msgctxt "Screen/&EditorCustomDimensionsDescription"
-msgid ""
-"This gadget can be set with custom dimensions. Select your preferred valued"
-msgstr "장치를 사용자 지정 크기로 설정할 수 있습니다. 원하는 값을 선택하세요"
-
-msgctxt "Screen/&EditorCustomDimensionsWidthTitle"
-msgid "Width"
-msgstr "너비"
-
-msgctxt "Screen/&EditorCustomDimensionsHeightTitle"
-msgid "Height"
-msgstr "높이"
-
-msgctxt "Screen/&KnudgeNorthShortcutFormat"
-msgid "Nudge North ({0})"
-msgstr "북쪽으로 이동({0})"
-
-msgctxt "Screen/&KnudgeEastShortcutFormat"
-msgid "Nudge East ({0})"
-msgstr "동쪽으로 이동({0})"
-
-msgctxt "Screen/&KnudgeSouthShortcutFormat"
-msgid "Nudge South ({0})"
-msgstr "남쪽으로 이동({0})"
-
-msgctxt "Screen/&KnudgeWestShortcutFormat"
-msgid "Nudge West ({0})"
-msgstr "서쪽으로 이동({0})"
-
-msgctxt "Screen/&EditorCaptionPositionFormat"
-msgid "X: {0}, Y: {1}"
-msgstr "X: {0}, Y: {1}"
-
-msgctxt "Screen/&UserLocationsPublishWaitingLabel"
-msgid "New content will be published."
-msgstr "새로운 지역이 업로드됩니다."
-
-msgctxt "Screen/&EditorPlacementInstructionDescription"
-msgid "This element can be placed on the following cell types: {0}"
-msgstr "이 요소는 다음 유형의 칸에 배치할 수 있습니다: {0}"
-
-msgctxt "Screen/&EditorPlacementWallTitle"
-msgid "Wall"
-msgstr "벽"
-
-msgctxt "Screen/&EditorPlacementOpeningTitle"
-msgid "Opening"
-msgstr "출입구"
-
-msgctxt "Screen/&EditorPlacementGroundLowTitle"
-msgid "GroundLow"
-msgstr "낮은 지대"
-
-msgctxt "Screen/&EditorPlacementGroundHighTitle"
-msgid "GroundHigh"
-msgstr "높은 지대"
-
-msgctxt "Screen/&EditorPlacementGroundTitle"
-msgid "Ground"
-msgstr "일반 지대"
-
-msgctxt "Screen/&EditorGroundLowSuffix"
-msgid " (low)"
-msgstr " (낮음)"
-
-msgctxt "Screen/&EditorGroundHighSuffix"
-msgid " (high)"
-msgstr " (높음)"
-
-msgctxt "Screen/&ContentToggleLocationTitle"
-msgid "Locations"
-msgstr "지역 리스트"
-
-msgctxt "Screen/&ContentToggleCampaignTitle"
-msgid "Campaigns"
-msgstr "캠페인"
-
-msgctxt "Screen/&CampaignCreatorTitle"
-msgid "Campaign Creator"
-msgstr "캠페인 제작자"
-
-msgctxt "Screen/&CampaignSettingsTitle"
-msgid "Campaign Settings"
-msgstr "캠페인 설정"
-
-msgctxt "Screen/&CampaignContentTitle"
-msgid "Embedded Content"
-msgstr "저장된 컨텐츠"
-
-msgctxt "Screen/&CampaignContentDescrition"
-msgid "The following content is stored inside the user campaign file"
-msgstr "다음의 컨텐츠가 사용자 캠페인 파일 내에 저장되었습니다"
-
-msgctxt "Screen/&CampaignEditorLocationHeaderTitle"
-msgid "Locations"
-msgstr "지역 리스트"
-
-msgctxt "Screen/&CampaignEditorItemHeaderTitle"
-msgid "Custom Items"
-msgstr "커스텀 아이템"
-
-msgctxt "Screen/&CampaignEditorMonsterHeaderTitle"
-msgid "Custom Monsters"
-msgstr "사용자 정의 몬스터"
-
-msgctxt "Screen/&CampaignEditorImportContentTitle"
-msgid "Import"
-msgstr "불러오기"
-
-msgctxt "Screen/&CampaignEditorImportLocationDescrition"
-msgid ""
-"Import a location from your common pool of locations, to store it inside the "
-"JSON file of this campaign. The original location is preserved."
-msgstr "지역 리스트에서 지역을 불러와 캠페인의 JSON 파일 내에 저장합니다. 기존 지역은 유지됩니다."
-
-msgctxt "Screen/&CampaignEditorExportContentTitle"
-msgid "Export"
-msgstr "내보내기"
-
-msgctxt "Screen/&CampaignEditorExportLocationDescrition"
-msgid ""
-"Export a location from this campaign file to your common pool of locations. "
-"Can override an existing location in the common pool. Default values will be "
-"assigned for the author / required levels."
-msgstr ""
-"이 캠페인 파일의 선택된 지역을 지역 리스트에 저장합니다. 지역 리스트 내 기존 지역을 덮어쓸 수 있습니다. 제작자/요구 레벨이 없다면 "
-"기본값이 할당됩니다."
-
-msgctxt "Screen/&CampaignEditorUpTitle"
-msgid "Up"
-msgstr "위로"
-
-msgctxt "Screen/&CampaignEditorUpDescrition"
-msgid "Move this content Up one line"
-msgstr "이 컨텐츠를 한 줄 위로 올립니다"
-
-msgctxt "Screen/&CampaignEditorDownTitle"
-msgid "Down"
-msgstr "아래로"
-
-msgctxt "Screen/&CampaignEditorDownDescrition"
-msgid "Move this content Down one line"
-msgstr "이 컨텐츠를 한 줄 아래로 내립니다"
-
-msgctxt "Screen/&CampaignEditorSetStartTitle"
-msgid "Set Start"
-msgstr "시작지점으로"
-
-msgctxt "Screen/&CampaignEditorSetStartDescrition"
-msgid ""
-"Click to set this location as the start location (entrance index 0) for the "
-"campaign"
-msgstr "클릭하여 이 지역을 캠페인의 시작 지점(출구 번호 0)으로 설정하세요"
-
-msgctxt "Screen/&CampaignEditorCampaignStartTitle"
-msgid "Campaign Start"
-msgstr "캠페인 시작"
-
-msgctxt "Screen/&CampaignEditorCampaignStartDescrition"
-msgid "The campaign will start at this location"
-msgstr "캠페인이 이 지역에서 시작됩니다"
-
-msgctxt "Screen/&CampaignMustSaveDescription"
-msgid "You must save your campaign first"
-msgstr "먼저 캠페인을 저장해야 합니다"
-
-msgctxt "Screen/&CampaignReferenceImageTitle"
-msgid "Reference Image"
-msgstr "참조 이미지"
-
-msgctxt "Screen/&CampaignReferenceImageDescrition"
-msgid "The default background for this campaign when represented in game. "
-msgstr "게임 내에서 표시되는 이 캠페인의 기본 배경화면입니다. "
-
-msgctxt "Screen/&CampaignEditorImportItemDescrition"
-msgid ""
-"Import an item from your common pool of items, to store it inside the JSON "
-"file of this campaign. The original item is preserved."
-msgstr "공유 아이템 풀에서 아이템을 가져와, 이 캠페인의 JSON 파일 내부에 저장하십시오. 원본 아이템은 보존됩니다."
-
-msgctxt "Screen/&CampaignEditorExportItemDescrition"
-msgid ""
-"Export an item from this campaign file to your common pool of items. Can "
-"override an existing itemin the common pool. "
-msgstr "이 캠페인 파일에서 당신의 공유 아이템 풀로 아이템을 내보내십시오. 공유 아이템 풀 내의 기존 아이템을 덮어쓸 수 있습니다. "
-
-msgctxt "Screen/&EditorCampaignSaveDescription"
-msgid "Save this user campaign to disk ({0})"
-msgstr "이 사용자 캠페인을 ({0}) 디스크에 저장합니다"
-
-msgctxt "Screen/&CampaignEditorImportMonsterDescrition"
-msgid ""
-"Import a monster from your common pool of monsters, to store it inside the "
-"JSON file of this campaign. The original monster is preserved."
-msgstr "공유 몬스터 풀에서 아이템을 가져와, 이 캠페인의 JSON 파일 내부에 저장하십시오. 원본 몬스터는 보존됩니다."
-
-msgctxt "Screen/&CampaignEditorExportMonsterDescrition"
-msgid ""
-"Export a Merchant Inventory from this campaign file to your common pool of "
-"inventories. Can override an existing Merchant Inventory in the common pool. "
-msgstr ""
-"이 캠페인 파일에서 당신의 공유 인벤토리 풀로 상인 인벤토리를 내보내십시오. 공유 풀 내의 기존 상인 인벤토리를 덮어쓸 수 있습니다. "
-
-msgctxt "Screen/&NpcSelectionTitle"
-msgid "Select a Non Playing Character"
-msgstr "NPC 선택"
-
-msgctxt "Screen/&CampaignEditorNpcHeaderTitle"
-msgid "Custom NPCs"
-msgstr "커스텀 NPC"
-
-msgctxt "Screen/&CampaignEditorImportNpcDescrition"
-msgid ""
-"Import a Merchant Inventory from your common pool of inventories, to store "
-"it inside the JSON file of this campaign. The original Merchant Inventory is "
-"preserved."
-msgstr ""
-"당신의 공유 인벤토리 풀에서 상인 인벤토리를 가져와 이 캠페인의 JSON 파일 내부에 저장하십시오. 기존 상인 인벤토리는 보존됩니다."
-
-msgctxt "Screen/&MerchantSelectionTitle"
-msgid "Select a Merchant Inventory"
-msgstr "상인 인벤토리 선택"
-
-msgctxt "Screen/&CampaignEditorMerchantInventoryHeaderTitle"
-msgid "Custom Merchant Inventories"
-msgstr "커스텀 상인 인벤토리"
-
-msgctxt "Screen/&EditorPlacementOpeningHighTitle"
-msgid "Opening high"
-msgstr "상부 개방"
-
-msgctxt "Screen/&ConditionSelectionTitle"
-msgid "Select a Condition"
-msgstr "상태 지정"
-
-msgctxt "Screen/&EditorPlacementOpeningLowTitle"
-msgid "Opening low"
-msgstr "하부 개방"
-
-msgctxt "Screen/&AddDestinationTitle"
-msgid "Add Destination"
-msgstr "목적지 추가"
-
-msgctxt "Screen/&AddDestinationDescription"
-msgid "Add a new destination location to this exit"
-msgstr "이 출구에 새로운 목적지 지역을 추가합니다"
-
-msgctxt "Screen/&DestinationLocationUpButtonDescription"
-msgid "Move the location up in the list"
-msgstr "목록 내에서 지역을 위로 이동"
-
-msgctxt "Screen/&DestinationLocationDownButtonDescription"
-msgid "Move the location down in the list"
-msgstr "목록 내에서 지역을 아래로 이동"
-
-msgctxt "Screen/&DestinationLocationDeleteButtonDescription"
-msgid "Deletes the location from the list"
-msgstr "목록 내에서 지역을 삭제"
-
-msgctxt "Screen/&NavigateTitle"
-msgid "Navigate"
-msgstr "탐사"
-
-msgctxt "Screen/&DestinationSelectionTitle"
-msgid "Destination Selection"
-msgstr "목적지 선택"
-
-msgctxt "Screen/&DestinationSelectionDescription"
-msgid "Select a destination to navigate to"
-msgstr "탐사할 목적지를 지정합니다"
-
-msgctxt "Screen/&GadgetTagRestrictionFormat"
-msgid "You must select gadgets of this type: {0}"
-msgstr "{0} 타입의 장치를 선택해야만 합니다"
-
-msgctxt "Screen/&UserLocationsPublishingLabel"
-msgid "Content publishing started. Please wait."
-msgstr "컨텐츠 공개를 개시했습니다. 잠시만 기다려주십시오."
-
-msgctxt "Screen/&UserLocationsUpdateWaitingLabel"
-msgid "Existing content will be updated."
-msgstr "기존 컨텐츠가 업데이트됩니다."
-
-msgctxt "Screen/&UserLocationsPublishingFailedLabel"
-msgid "Could not publish content."
-msgstr "컨텐츠를 업로드할 수 없습니다."
-
-msgctxt "Screen/&UserLocationsPublishingFailedReasonLabelFormat"
-msgid ""
-"Could not publish new content.\\n"
-"Error {0}."
-msgstr ""
-"새로운 컨텐츠를 업로드할 수 없습니다.\\n"
-"오류 {0}."
-
-msgctxt "Screen/&UserLocationsUpdatingFailedReasonLabelFormat"
-msgid ""
-"Could not update existing content's data.\\n"
-"Error {0}."
-msgstr ""
-"기존 컨텐츠 데이터를 업데이트할 수 없습니다.\\n"
-"오류 {0}."
-
-msgctxt "Screen/&UserLocationsItemPublishedLabelFormat"
-msgid ""
-"User content was created in the workshop. Updating content. Please wait."
-msgstr "사용자 컨텐츠가 창작마당에 생성되었습니다. 컨텐츠 정보 업데이트 중입니다. 잠시만 기다려주십시오."
-
-msgctxt "Screen/&UserLocationsItemUpdatedLabelFormat"
-msgid "User content published successfully. Congratulations!"
-msgstr "사용자 컨텐츠가 성공적으로 업로드되었습니다. 축하합니다!"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "Screen/&AbilityScoreBonusDescription"
 msgid "The bonus to this ability score, based on your current choices."
@@ -934,8 +292,10 @@ msgctxt "Screen/&ClassHitDiceTitle"
 msgid "Hit Dice"
 msgstr "체력 주사위"
 
+#, fuzzy
+#| msgid "OR"
 msgctxt "Screen/&ClassOrMarkerTitle"
-msgid "OR"
+msgid "OR "
 msgstr "또는"
 
 msgctxt "Screen/&ClassSelectionTitle"
@@ -3457,6 +2817,10 @@ msgctxt "Screen/&LegendaryActionTitle"
 msgid "Legendary Action"
 msgstr "전설적 행동"
 
+msgctxt "Screen/&EditorLocationVisualMoodTitle"
+msgid "Visual Mood"
+msgstr "맵 분위기"
+
 msgctxt "Screen/&JournalBestiaryPowersTitle"
 msgid "Special Features"
 msgstr "보유 특성"
@@ -3538,6 +2902,1564 @@ msgid ""
 msgstr ""
 "이 아이템을 주문의 물질 구성요소로 사용하거나, 물질 구성요소를 이용하여 동작 주문의 빈 손 요구사항을 제거하기 위해서는, 아이템에 "
 "성표를 그리거나 새기십시오."
+
+msgctxt "Screen/&EditorSaveTitle"
+msgid "Save"
+msgstr "저장"
+
+msgctxt "Screen/&EditorUndoTitle"
+msgid "Undo"
+msgstr "되돌리기"
+
+msgctxt "Screen/&EditorCategoryLocationTitle"
+msgid "Location"
+msgstr "지역"
+
+msgctxt "Screen/&EditorCategoryRoomDescription"
+msgid "Available Room Blueprints"
+msgstr "가능한 방 배치도"
+
+msgctxt "Screen/&EditorCategoryPropDescription"
+msgid "Available Prop Blueprints"
+msgstr "가능한 물체 배치도"
+
+msgctxt "Screen/&EditorCategoryGadgetDescription"
+msgid "Available Gadget Blueprints"
+msgstr "가능한 장치 배치도"
+
+msgctxt "Screen/&EditorLocationTitleTitle"
+msgid "Title"
+msgstr "제목"
+
+msgctxt "Screen/&EditorLocationDescriptionTitle"
+msgid "Description"
+msgstr "설명"
+
+msgctxt "Screen/&EditorLocationAuthorTitle"
+msgid "Author"
+msgstr "제작자"
+
+msgctxt "Screen/&EditorLocationMinCharLevelTitle"
+msgid "Min. Character Level"
+msgstr "최소 캐릭터 레벨"
+
+msgctxt "Screen/&EditorLocationMaxCharLevelTitle"
+msgid "Max. Character Level"
+msgstr "최대 캐릭터 레벨"
+
+msgctxt "Screen/&EditorLocationEnvironmentTitle"
+msgid "Environment"
+msgstr "환경"
+
+msgctxt "Screen/&EditorLocationSizeTitle"
+msgid "Size"
+msgstr "규모"
+
+msgctxt "Screen/&EditorLocationSizeSmallTitle"
+msgid "Small"
+msgstr "소형"
+
+msgctxt "Screen/&EditorLocationSizeMediumTitle"
+msgid "Medium"
+msgstr "중형"
+
+msgctxt "Screen/&EditorLocationSizeLargeTitle"
+msgid "Large"
+msgstr "대형"
+
+msgctxt "Screen/&EditorLocationMusicTitle"
+msgid "Ambient Music"
+msgstr "배경 음악"
+
+msgctxt "Screen/&EditorCaptionXTitle"
+msgid "X"
+msgstr "X"
+
+msgctxt "Screen/&EditorCaptionYTitle"
+msgid "Y"
+msgstr "Y"
+
+msgctxt "Screen/&EditorCaptionOrientationTitle"
+msgid "Orientation"
+msgstr "방향"
+
+msgctxt "Screen/&EditorCaptionCancelButtonTitle"
+msgid "Cancel"
+msgstr "취소"
+
+msgctxt "Screen/&EditorCaptionCancelButtonDescription"
+msgid "Cancels the selection of the current element"
+msgstr "현재 선택한 항목을 취소합니다"
+
+msgctxt "Screen/&EditorCaptionMoveButtonTitle"
+msgid "Move"
+msgstr "이동"
+
+msgctxt "Screen/&EditorCaptionMoveButtonDescription"
+msgid "Moves this element by dragging the mouse"
+msgstr "마우스를 움직여서 이 요소를 이동합니다"
+
+msgctxt "Screen/&EditorCaptionRotateButtonTitle"
+msgid "Rotate"
+msgstr "회전"
+
+msgctxt "Screen/&EditorCaptionRotateButtonDescription"
+msgid "Rotates the selected element 90° clockwise"
+msgstr "선택한 요소를 시계 방향으로 90° 회전합니다"
+
+msgctxt "Screen/&EditorCaptionDeleteButtonTitle"
+msgid "Delete"
+msgstr "삭제"
+
+msgctxt "Screen/&EditorCaptionDeleteButtonDescription"
+msgid "Deletes the selected element"
+msgstr "선택한 요소를 삭제합니다"
+
+msgctxt "Screen/&MonsterSelectionTitle"
+msgid "Select a Creature"
+msgstr "크리쳐 선택"
+
+msgctxt "Screen/&MonsterSortAlphabeticalTitle"
+msgid "Name"
+msgstr "이름"
+
+msgctxt "Screen/&MonsterSortAlphabeticalDescription"
+msgid "Sort by monster name"
+msgstr "크리쳐 이름 순으로 정렬"
+
+msgctxt "Screen/&MonsterSortCRTitle"
+msgid "Challenge"
+msgstr "도전등급"
+
+msgctxt "Screen/&MonsterSortCRDescription"
+msgid "Sort by monster Challenge Rating"
+msgstr "몬스터 도전 등급을 기준으로 정렬합니다"
+
+msgctxt "Screen/&ItemSortAlphabeticalTitle"
+msgid "Name"
+msgstr "이름"
+
+msgctxt "Screen/&ItemSortAlphabeticalDescription"
+msgid "Sort by item name"
+msgstr "아이템 이름 순으로 정렬"
+
+msgctxt "Screen/&ItemSortValueTitle"
+msgid "Cost"
+msgstr "가격"
+
+msgctxt "Screen/&ItemSortValueDescription"
+msgid "Sort by item cost"
+msgstr "아이템 가격을 기준으로 정렬합니다"
+
+msgctxt "Screen/&LootPackSelectionTitle"
+msgid "Select a Loot Pack"
+msgstr "전리품 꾸러미 선택"
+
+msgctxt "Screen/&ItemSelectionTitle"
+msgid "Select an Item"
+msgstr "아이템 선택"
+
+msgctxt "Screen/&TrapEffectSelectionTitle"
+msgid "Select a Trap Effect"
+msgstr "함정 효과 선택"
+
+msgctxt "Screen/&LocationSavedDescription"
+msgid "Content saved"
+msgstr "내용 저장됨"
+
+msgctxt "Screen/&ClearElementTitle"
+msgid "Clear"
+msgstr "초기화"
+
+msgctxt "Screen/&ClearElementDescription"
+msgid "Clears the selected database entry"
+msgstr "선택된 데이터 입력을 초기화합니다"
+
+msgctxt "Screen/&FeatureUnavailableTitle"
+msgid "Unavailable, coming soon"
+msgstr "이용 불가, 곧 출시"
+
+msgctxt "Screen/&EditorSettingsTitle"
+msgid "Settings"
+msgstr "설정"
+
+msgctxt "Screen/&EditorSettingsDescription"
+msgid "Edit the user location's settings (name, description, etc.)"
+msgstr "사용자 지역 설정(이름, 설명 등)을 수정합니다"
+
+msgctxt "Screen/&EditorSaveDescription"
+msgid "Save this user location to disk ({0})"
+msgstr "이 유저 제작 맵을 디스크에 저장 ({0})"
+
+msgctxt "Screen/&EditorUndoDescription"
+msgid "Undo the last modification ({0})"
+msgstr "마지막 변경사항 실행 취소 ({0})"
+
+msgctxt "Screen/&EditorPrevisTitle"
+msgid "Preview"
+msgstr "미리보기"
+
+msgctxt "Screen/&EditorPrevisDescription"
+msgid "Previsualize the location rendering in a separate window (coming soon)"
+msgstr "별개의 창에 지역 개괄을 표시합니다(업데이트 예정)"
+
+msgctxt "Screen/&MoveShortcutFormat"
+msgid "Move ({0})"
+msgstr "이동 ({0})"
+
+msgctxt "Screen/&RotateShortcutFormat"
+msgid "Rotate ({0})"
+msgstr "회전 ({0})"
+
+msgctxt "Screen/&CopyShortcutFormat"
+msgid "Copy ({0})"
+msgstr "복사 ({0})"
+
+msgctxt "Screen/&DeleteShortcutFormat"
+msgid "Delete ({0})"
+msgstr "삭제 ({0})"
+
+msgctxt "Screen/&EditorLibraryTitle"
+msgid "Library"
+msgstr "라이브러리"
+
+msgctxt "Screen/&EditorCategoryRoomTitle"
+msgid "Rooms"
+msgstr "방"
+
+msgctxt "Screen/&EditorCategoryPropTitle"
+msgid "Props"
+msgstr "소품"
+
+msgctxt "Screen/&EditorCategoryGadgetTitle"
+msgid "Gadgets"
+msgstr "장치"
+
+msgctxt "Screen/&EditorCaptionPositionTitle"
+msgid "Position"
+msgstr "위치"
+
+msgctxt "Screen/&EditorCaptionCopyButtonTitle"
+msgid "Duplicate"
+msgstr "복제"
+
+msgctxt "Screen/&EditorCaptionCopyButtonDescription"
+msgid "Duplicates the selected element"
+msgstr "선택한 요소를 복제합니다"
+
+msgctxt "Screen/&BackDungeonMakerTitle"
+msgid "Dungeon Maker"
+msgstr "던전 메이커"
+
+msgctxt "Screen/&BackDungeonMakerDescription"
+msgid "Opens the Dungeon Maker to resume editing this location"
+msgstr "던전 메이커를 열어 이 지역의 편집을 재개합니다"
+
+msgctxt "Screen/&EditorLocationSwitchDescription"
+msgid "Click to switch to this user location"
+msgstr "클릭하여 이 사용자 지역으로 전환합니다"
+
+msgctxt "Screen/&EditorLocationAuthorVersionTitle"
+msgid "Version"
+msgstr "버전"
+
+msgctxt "Screen/&UserLocationsPublishButtonDescription"
+msgid "Publish your location on Steam Workshop"
+msgstr "스팀 창작마당에 당신의 지역을 업로드합니다"
+
+msgctxt "Screen/&UserLocationsPublishingWorshopLegalLabel"
+msgid "By submitting this item, you agree to the workshop terms of service."
+msgstr "이 항목을 제출함으로써 창작마당 서비스 약관에 동의합니다."
+
+msgctxt "Screen/&UserLocationsPublishingWorshopLegalLinkLabel"
+msgid "Read the terms of service here."
+msgstr "여기서 서비스 약관을 확인하십시오."
+
+msgctxt "Screen/&UserLocationsPublishedItemLinkLabel"
+msgid "Browse the published item."
+msgstr "업로드된 항목을 확인합니다."
+
+msgctxt "Screen/&UserLocationsPublishHeaderTitle"
+msgid "Publish Content"
+msgstr "공개 컨텐츠"
+
+msgctxt "Screen/&CheatsButtonTitle"
+msgid "Cheats"
+msgstr "치트"
+
+msgctxt "Screen/&CheatsButtonDescription"
+msgid "Opens the Dungeon Maker playtest cheats. {0}"
+msgstr "던전 메이커 플레이 테스트 치트를 엽니다. {0}"
+
+msgctxt "Screen/&EditorFoldAllButtonTitle"
+msgid "Fold All"
+msgstr "모두 접기"
+
+msgctxt "Screen/&EditorFoldAllButtonDescription"
+msgid "Collapse all folders of this library"
+msgstr "이 라이브러리의 모든 폴더 접기"
+
+msgctxt "Screen/&EditorUnfoldAllButtonTitle"
+msgid "Unfold All"
+msgstr "모두 펼치기"
+
+msgctxt "Screen/&EditorUnfoldAllButtonDescription"
+msgid "Open all folders of this library"
+msgstr "이 라이브러리의 모든 폴더 펼치기"
+
+msgctxt "Screen/&EditorCustomDimensionsTitle"
+msgid "Custom Dimensions"
+msgstr "사용자 지정 크기"
+
+msgctxt "Screen/&EditorCustomDimensionsDescription"
+msgid ""
+"This gadget can be set with custom dimensions. Select your preferred valued"
+msgstr "장치를 사용자 지정 크기로 설정할 수 있습니다. 원하는 값을 선택하세요"
+
+msgctxt "Screen/&EditorCustomDimensionsWidthTitle"
+msgid "Width"
+msgstr "너비"
+
+msgctxt "Screen/&EditorCustomDimensionsHeightTitle"
+msgid "Height"
+msgstr "높이"
+
+msgctxt "Screen/&KnudgeNorthShortcutFormat"
+msgid "Nudge North ({0})"
+msgstr "북쪽으로 이동({0})"
+
+msgctxt "Screen/&KnudgeEastShortcutFormat"
+msgid "Nudge East ({0})"
+msgstr "동쪽으로 이동({0})"
+
+msgctxt "Screen/&KnudgeSouthShortcutFormat"
+msgid "Nudge South ({0})"
+msgstr "남쪽으로 이동({0})"
+
+msgctxt "Screen/&KnudgeWestShortcutFormat"
+msgid "Nudge West ({0})"
+msgstr "서쪽으로 이동({0})"
+
+msgctxt "Screen/&EditorCaptionPositionFormat"
+msgid "X: {0}, Y: {1}"
+msgstr "X: {0}, Y: {1}"
+
+msgctxt "Screen/&UserLocationsPublishWaitingLabel"
+msgid "New content will be published."
+msgstr "새로운 지역이 업로드됩니다."
+
+msgctxt "Screen/&EditorPlacementInstructionDescription"
+msgid "This element can be placed on the following cell types: {0}"
+msgstr "이 요소는 다음 유형의 칸에 배치할 수 있습니다: {0}"
+
+msgctxt "Screen/&EditorPlacementWallTitle"
+msgid "Wall"
+msgstr "벽"
+
+msgctxt "Screen/&EditorPlacementOpeningTitle"
+msgid "Opening"
+msgstr "출입구"
+
+msgctxt "Screen/&EditorPlacementGroundLowTitle"
+msgid "GroundLow"
+msgstr "낮은 지대"
+
+msgctxt "Screen/&EditorPlacementGroundHighTitle"
+msgid "GroundHigh"
+msgstr "높은 지대"
+
+msgctxt "Screen/&EditorPlacementGroundTitle"
+msgid "Ground"
+msgstr "일반 지대"
+
+#, fuzzy
+#| msgid " (low)"
+msgctxt "Screen/&EditorGroundLowSuffix"
+msgid "(low)"
+msgstr " (낮음)"
+
+#, fuzzy
+#| msgid " (high)"
+msgctxt "Screen/&EditorGroundHighSuffix"
+msgid "(high)"
+msgstr " (높음)"
+
+msgctxt "Screen/&ContentToggleLocationTitle"
+msgid "Locations"
+msgstr "지역 리스트"
+
+msgctxt "Screen/&ContentToggleCampaignTitle"
+msgid "Campaigns"
+msgstr "캠페인"
+
+msgctxt "Screen/&CampaignCreatorTitle"
+msgid "Campaign Creator"
+msgstr "캠페인 제작자"
+
+msgctxt "Screen/&CampaignSettingsTitle"
+msgid "Campaign Settings"
+msgstr "캠페인 설정"
+
+msgctxt "Screen/&CampaignContentTitle"
+msgid "Embedded Content"
+msgstr "저장된 컨텐츠"
+
+msgctxt "Screen/&CampaignContentDescrition"
+msgid "The following content is stored inside the user campaign file"
+msgstr "다음의 컨텐츠가 사용자 캠페인 파일 내에 저장되었습니다"
+
+msgctxt "Screen/&CampaignEditorLocationHeaderTitle"
+msgid "Locations"
+msgstr "지역 리스트"
+
+msgctxt "Screen/&CampaignEditorItemHeaderTitle"
+msgid "Custom Items"
+msgstr "커스텀 아이템"
+
+msgctxt "Screen/&CampaignEditorMonsterHeaderTitle"
+msgid "Custom Monsters"
+msgstr "사용자 정의 몬스터"
+
+msgctxt "Screen/&CampaignEditorImportContentTitle"
+msgid "Import"
+msgstr "불러오기"
+
+msgctxt "Screen/&CampaignEditorImportLocationDescrition"
+msgid ""
+"Import a location from your common pool of locations, to store it inside the "
+"JSON file of this campaign. The original location is preserved."
+msgstr "지역 리스트에서 지역을 불러와 캠페인의 JSON 파일 내에 저장합니다. 기존 지역은 유지됩니다."
+
+msgctxt "Screen/&CampaignEditorExportContentTitle"
+msgid "Export"
+msgstr "내보내기"
+
+msgctxt "Screen/&CampaignEditorExportLocationDescrition"
+msgid ""
+"Export a location from this campaign file to your common pool of locations. "
+"Can override an existing location in the common pool. Default values will be "
+"assigned for the author / required levels."
+msgstr ""
+"이 캠페인 파일의 선택된 지역을 지역 리스트에 저장합니다. 지역 리스트 내 기존 지역을 덮어쓸 수 있습니다. 제작자/요구 레벨이 없다면 "
+"기본값이 할당됩니다."
+
+msgctxt "Screen/&CampaignEditorUpTitle"
+msgid "Up"
+msgstr "위로"
+
+msgctxt "Screen/&CampaignEditorUpDescrition"
+msgid "Move this content Up one line"
+msgstr "이 컨텐츠를 한 줄 위로 올립니다"
+
+msgctxt "Screen/&CampaignEditorDownTitle"
+msgid "Down"
+msgstr "아래로"
+
+msgctxt "Screen/&CampaignEditorDownDescrition"
+msgid "Move this content Down one line"
+msgstr "이 컨텐츠를 한 줄 아래로 내립니다"
+
+msgctxt "Screen/&CampaignEditorSetStartTitle"
+msgid "Set Start"
+msgstr "시작지점으로"
+
+msgctxt "Screen/&CampaignEditorSetStartDescrition"
+msgid ""
+"Click to set this location as the start location (entrance index 0) for the "
+"campaign"
+msgstr "클릭하여 이 지역을 캠페인의 시작 지점(출구 번호 0)으로 설정하세요"
+
+msgctxt "Screen/&CampaignEditorCampaignStartTitle"
+msgid "Campaign Start"
+msgstr "캠페인 시작"
+
+msgctxt "Screen/&CampaignEditorCampaignStartDescrition"
+msgid "The campaign will start at this location"
+msgstr "캠페인이 이 지역에서 시작됩니다"
+
+msgctxt "Screen/&CampaignMustSaveDescription"
+msgid "You must save your campaign first"
+msgstr "먼저 캠페인을 저장해야 합니다"
+
+msgctxt "Screen/&CampaignReferenceImageTitle"
+msgid "Reference Image"
+msgstr "참조 이미지"
+
+#, fuzzy
+#| msgid "The default background for this campaign when represented in game. "
+msgctxt "Screen/&CampaignReferenceImageDescrition"
+msgid "The default background for this campaign when represented in game."
+msgstr "게임 내에서 표시되는 이 캠페인의 기본 배경화면입니다. "
+
+msgctxt "Screen/&CampaignEditorImportItemDescrition"
+msgid ""
+"Import an item from your common pool of items, to store it inside the JSON "
+"file of this campaign. The original item is preserved."
+msgstr "공유 아이템 풀에서 아이템을 가져와, 이 캠페인의 JSON 파일 내부에 저장하십시오. 원본 아이템은 보존됩니다."
+
+#, fuzzy
+#| msgid ""
+#| "Export an item from this campaign file to your common pool of items. Can "
+#| "override an existing itemin the common pool. "
+msgctxt "Screen/&CampaignEditorExportItemDescrition"
+msgid ""
+"Export an item from this campaign file to your common pool of items. Can "
+"override an existing itemin the common pool."
+msgstr "이 캠페인 파일에서 당신의 공유 아이템 풀로 아이템을 내보내십시오. 공유 아이템 풀 내의 기존 아이템을 덮어쓸 수 있습니다. "
+
+msgctxt "Screen/&EditorCampaignSaveDescription"
+msgid "Save this user campaign to disk ({0})"
+msgstr "이 사용자 캠페인을 ({0}) 디스크에 저장합니다"
+
+msgctxt "Screen/&CampaignEditorImportMonsterDescrition"
+msgid ""
+"Import a monster from your common pool of monsters, to store it inside the "
+"JSON file of this campaign. The original monster is preserved."
+msgstr "공유 몬스터 풀에서 아이템을 가져와, 이 캠페인의 JSON 파일 내부에 저장하십시오. 원본 몬스터는 보존됩니다."
+
+#, fuzzy
+#| msgid ""
+#| "Export a Merchant Inventory from this campaign file to your common pool of "
+#| "inventories. Can override an existing Merchant Inventory in the common pool. "
+msgctxt "Screen/&CampaignEditorExportMonsterDescrition"
+msgid ""
+"Export a Merchant Inventory from this campaign file to your common pool of "
+"inventories. Can override an existing Merchant Inventory in the common pool."
+msgstr ""
+"이 캠페인 파일에서 당신의 공유 인벤토리 풀로 상인 인벤토리를 내보내십시오. 공유 풀 내의 기존 상인 인벤토리를 덮어쓸 수 있습니다. "
+
+msgctxt "Screen/&NpcSelectionTitle"
+msgid "Select a Non Playing Character"
+msgstr "NPC 선택"
+
+msgctxt "Screen/&CampaignEditorNpcHeaderTitle"
+msgid "Custom NPCs"
+msgstr "커스텀 NPC"
+
+msgctxt "Screen/&CampaignEditorImportNpcDescrition"
+msgid ""
+"Import a Merchant Inventory from your common pool of inventories, to store "
+"it inside the JSON file of this campaign. The original Merchant Inventory is "
+"preserved."
+msgstr ""
+"당신의 공유 인벤토리 풀에서 상인 인벤토리를 가져와 이 캠페인의 JSON 파일 내부에 저장하십시오. 기존 상인 인벤토리는 보존됩니다."
+
+msgctxt "Screen/&MerchantSelectionTitle"
+msgid "Select a Merchant Inventory"
+msgstr "상인 인벤토리 선택"
+
+msgctxt "Screen/&CampaignEditorMerchantInventoryHeaderTitle"
+msgid "Custom Merchant Inventories"
+msgstr "커스텀 상인 인벤토리"
+
+msgctxt "Screen/&EditorPlacementOpeningHighTitle"
+msgid "Opening high"
+msgstr "상부 개방"
+
+msgctxt "Screen/&ConditionSelectionTitle"
+msgid "Select a Condition"
+msgstr "상태 지정"
+
+msgctxt "Screen/&EditorPlacementOpeningLowTitle"
+msgid "Opening low"
+msgstr "하부 개방"
+
+msgctxt "Screen/&AddDestinationTitle"
+msgid "Add Destination"
+msgstr "목적지 추가"
+
+msgctxt "Screen/&AddDestinationDescription"
+msgid "Add a new destination location to this exit"
+msgstr "이 출구에 새로운 목적지 지역을 추가합니다"
+
+msgctxt "Screen/&DestinationLocationUpButtonDescription"
+msgid "Move the location up in the list"
+msgstr "목록 내에서 지역을 위로 이동"
+
+msgctxt "Screen/&DestinationLocationDownButtonDescription"
+msgid "Move the location down in the list"
+msgstr "목록 내에서 지역을 아래로 이동"
+
+msgctxt "Screen/&DestinationLocationDeleteButtonDescription"
+msgid "Deletes the location from the list"
+msgstr "목록 내에서 지역을 삭제"
+
+msgctxt "Screen/&NavigateTitle"
+msgid "Navigate"
+msgstr "탐사"
+
+msgctxt "Screen/&DestinationSelectionTitle"
+msgid "Destination Selection"
+msgstr "목적지 선택"
+
+msgctxt "Screen/&DestinationSelectionDescription"
+msgid "Select a destination to navigate to"
+msgstr "탐사할 목적지를 지정합니다"
+
+msgctxt "Screen/&GadgetTagRestrictionFormat"
+msgid "You must select gadgets of this type: {0}"
+msgstr "{0} 타입의 장치를 선택해야만 합니다"
+
+msgctxt "Screen/&UserLocationsPublishingLabel"
+msgid "Content publishing started. Please wait."
+msgstr "컨텐츠 공개를 개시했습니다. 잠시만 기다려주십시오."
+
+msgctxt "Screen/&UserLocationsUpdateWaitingLabel"
+msgid "Existing content will be updated."
+msgstr "기존 컨텐츠가 업데이트됩니다."
+
+msgctxt "Screen/&UserLocationsPublishingFailedLabel"
+msgid "Could not publish content."
+msgstr "컨텐츠를 업로드할 수 없습니다."
+
+msgctxt "Screen/&UserLocationsPublishingFailedReasonLabelFormat"
+msgid ""
+"Could not publish new content.\\n"
+"Error {0}."
+msgstr ""
+"새로운 컨텐츠를 업로드할 수 없습니다.\\n"
+"오류 {0}."
+
+msgctxt "Screen/&UserLocationsUpdatingFailedReasonLabelFormat"
+msgid ""
+"Could not update existing content's data.\\n"
+"Error {0}."
+msgstr ""
+"기존 컨텐츠 데이터를 업데이트할 수 없습니다.\\n"
+"오류 {0}."
+
+msgctxt "Screen/&UserLocationsItemPublishedLabelFormat"
+msgid ""
+"User content was created in the workshop. Updating content. Please wait."
+msgstr "사용자 컨텐츠가 창작마당에 생성되었습니다. 컨텐츠 정보 업데이트 중입니다. 잠시만 기다려주십시오."
+
+msgctxt "Screen/&UserLocationsItemUpdatedLabelFormat"
+msgid "User content published successfully. Congratulations!"
+msgstr "사용자 컨텐츠가 성공적으로 업로드되었습니다. 축하합니다!"
+
+msgctxt "Screen/&CampaignEditorQuestHeaderTitle"
+msgid "Quests"
+msgstr ""
+
+msgctxt "Screen/&CampaignEditorQuestsNewTitle"
+msgid "New Quest"
+msgstr ""
+
+msgctxt "Screen/&CampaignEditorQuestsNewDescription"
+msgid "Creates a new user quest for this campaign"
+msgstr ""
+
+msgctxt "Screen/&CampaignEditorQuestsEditDescription"
+msgid "Edits the selected quest"
+msgstr ""
+
+msgctxt "Screen/&CampaignEditorQuestsDeleteDescription"
+msgid "Deletes the selected quest"
+msgstr ""
+
+msgctxt "Screen/&QuestSavedDescription"
+msgid "Quest Saved"
+msgstr ""
+
+msgctxt "Screen/&QuestEditorSettingsDescription"
+msgid "Edit the quest's settings (title, description, etc.)"
+msgstr ""
+
+msgctxt "Screen/&QuestEditorSaveDescription"
+msgid "Save this quest into the campaign ({0})"
+msgstr ""
+
+msgctxt "Screen/&QuestEditorUndoDescription"
+msgid "Undo the last modification ({0})"
+msgstr ""
+
+msgctxt "Screen/&EditorQuestCategoryTitle"
+msgid "Quest Category"
+msgstr ""
+
+msgctxt "Screen/&EditorQuestAutoStartTitle"
+msgid "Auto Start"
+msgstr ""
+
+msgctxt "Screen/&EditorQuestAutoStartDescription"
+msgid ""
+"Defines whether the quest is automatically started when the campaign is "
+"launched. Useful for hidden/scenario quests"
+msgstr ""
+
+msgctxt "Screen/&HiddenQuestTypeTitle"
+msgid "Hidden"
+msgstr ""
+
+msgctxt "Screen/&HiddenQuestTypeDescription"
+msgid ""
+"This type of quest is hidden to the player, but can be useful to drive a "
+"scenario \"under the hood\""
+msgstr ""
+
+msgctxt "Screen/&QuestEditorQuestStepTitle"
+msgid "Quest Step"
+msgstr ""
+
+msgctxt "Screen/&QuestEditorQuestEndTitle"
+msgid "Quest End"
+msgstr ""
+
+msgctxt "Screen/&QuestEditorQuestStepDescription"
+msgid ""
+"A quest step is a node in the path that a quest can follow when resolved by "
+"the player"
+msgstr ""
+
+msgctxt "Screen/&QuestStepDisplayTypeTitle"
+msgid "Display"
+msgstr ""
+
+msgctxt "Screen/&QuestStepDisplayTypeDescription"
+msgid ""
+"Determines if this step is displayed in a specific way in the Party Journal"
+msgstr ""
+
+msgctxt "Screen/&QuestStepDisplayTypeStandardTitle"
+msgid "Standard"
+msgstr ""
+
+msgctxt "Screen/&QuestStepDisplayTypeStandardDescription"
+msgid "The step is displayed as a standard step"
+msgstr ""
+
+msgctxt "Screen/&QuestStepDisplayTypeChoiceTitle"
+msgid "Choice"
+msgstr ""
+
+msgctxt "Screen/&QuestStepDisplayTypeChoiceDescription"
+msgid "The step is displayed as a choice between several steps"
+msgstr ""
+
+msgctxt "Screen/&QuestStepDisplayTypeOptionalTitle"
+msgid "Optional"
+msgstr ""
+
+msgctxt "Screen/&QuestStepDisplayTypeOptionalDescription"
+msgid "The step is displayed as optional"
+msgstr ""
+
+msgctxt "Screen/&QuestStepNeededParentsTitle"
+msgid "Needed Parents"
+msgstr ""
+
+msgctxt "Screen/&QuestStepNeededParentsDescription"
+msgid ""
+"When a step has multiple parents, this determines which parents need to be "
+"completed to reach this step"
+msgstr ""
+
+msgctxt "Screen/&QuestStepNeededParentsAnyTitle"
+msgid "Any"
+msgstr ""
+
+msgctxt "Screen/&QuestStepNeededParentsAnyDescription"
+msgid "Achieving any of the parent steps will start this step"
+msgstr ""
+
+msgctxt "Screen/&QuestStepNeededParentsAllTitle"
+msgid "All"
+msgstr ""
+
+msgctxt "Screen/&QuestStepNeededParentsAllDescription"
+msgid "Achieving all parent steps is required to start this step"
+msgstr ""
+
+msgctxt "Screen/&QuestEditorQuestStepOutcomesTitle"
+msgid "Step Outcomes"
+msgstr ""
+
+msgctxt "Screen/&QuestEditorQuestStepOutcomesDescription"
+msgid ""
+"The possible ways to achieve/fail this step, and advance the quest to a "
+"connected step"
+msgstr ""
+
+msgctxt "Screen/&QuestEditorQuestStepAddOutcomeTitle"
+msgid "Add"
+msgstr ""
+
+msgctxt "Screen/&QuestEditorQuestStepAddOutcomeDescription"
+msgid "Adds a new outcome to this quest step, advancing to another step"
+msgstr ""
+
+msgctxt "Screen/&QuestEditorQuestStepDeleteOutcomeDescription"
+msgid "Deletes this outcome from the quest step"
+msgstr ""
+
+msgctxt "Screen/&QuestEditorQuestStepOutcomeTypeTitle"
+msgid "Outcome Type"
+msgstr ""
+
+msgctxt "Screen/&QuestEditorQuestStepOutcomeTypeDescription"
+msgid "Determines whether achieving this step is a success or not"
+msgstr ""
+
+msgctxt "Screen/&QuestStepOutcomeTypeSuccessTitle"
+msgid "Success"
+msgstr ""
+
+msgctxt "Screen/&QuestStepOutcomeTypeFailureTitle"
+msgid "Failure"
+msgstr ""
+
+msgctxt "Screen/&QuestEditorQuestStepValidatorTitle"
+msgid "Validator"
+msgstr ""
+
+msgctxt "Screen/&QuestEditorQuestStepValidatorDescription"
+msgid "Determines how this step is validated, whether it is a success or not"
+msgstr ""
+
+msgctxt "Screen/&QuestStepValidatorDelegatedTitle"
+msgid "Delegated"
+msgstr ""
+
+msgctxt "Screen/&QuestStepValidatorDelegatedDescription"
+msgid ""
+"This quest step achievement is delegated to something else, for example, a "
+"Quest Operation gadget"
+msgstr ""
+
+msgctxt "Screen/&QuestStepValidatorKillCreaturesTitle"
+msgid "Kill Creatures"
+msgstr ""
+
+msgctxt "Screen/&QuestStepValidatorKillCreaturesDescription"
+msgid "The party must kill X creatures of the specified type"
+msgstr ""
+
+msgctxt "Screen/&QuestStepValidatorOwnItemsTitle"
+msgid "Own Items"
+msgstr ""
+
+msgctxt "Screen/&QuestStepValidatorOwnItemsDescription"
+msgid "The party must own X items of the specified type"
+msgstr ""
+
+msgctxt "Screen/&QuestStepValidatorEnterLocationTitle"
+msgid "Enter Location"
+msgstr ""
+
+msgctxt "Screen/&QuestStepValidatorEnterLocationDescription"
+msgid "The party must enter the specified location"
+msgstr ""
+
+msgctxt "Screen/&QuestStepValidatorLeaveLocationTitle"
+msgid "Leave Location"
+msgstr ""
+
+msgctxt "Screen/&QuestStepValidatorLeaveLocationDescription"
+msgid "The party must leave the specified location"
+msgstr ""
+
+msgctxt "Screen/&QuestStepValidatorItemEquipedTitle"
+msgid "Item Equipped"
+msgstr ""
+
+msgctxt "Screen/&QuestStepValidatorItemEquipedDescription"
+msgid "The specified item must be equipped by one of the party members"
+msgstr ""
+
+msgctxt "Screen/&QuestStepValidatorItemUsedTitle"
+msgid "Item Used"
+msgstr ""
+
+msgctxt "Screen/&QuestStepValidatorItemUsedDescription"
+msgid "The specified item must be used by one of the party members"
+msgstr ""
+
+msgctxt "Screen/&QuestStepValidatorRestCompletedTitle"
+msgid "Rest Completed"
+msgstr ""
+
+msgctxt "Screen/&QuestStepValidatorRestCompletedDescription"
+msgid "The party has just completed a short or long rest"
+msgstr ""
+
+msgctxt "Screen/&QuestEditorQuestStepOutcomeDescriptionDescription"
+msgid "The description of the outcome when it is achieved"
+msgstr ""
+
+msgctxt "Screen/&QuestEditorQuestStepNameTitle"
+msgid "Step Name"
+msgstr ""
+
+msgctxt "Screen/&QuestEditorDefaultQuestTitle"
+msgid "My Quest Title"
+msgstr ""
+
+msgctxt "Screen/&QuestEditorDefaultQuestStepTitle"
+msgid "My Quest Step Title"
+msgstr ""
+
+msgctxt "Screen/&QuestEditorDefaultQuestStepDescription"
+msgid "My Quest Step Description"
+msgstr ""
+
+msgctxt "Screen/&QuestEditorDefaultQuestStepOutcomeDescription"
+msgid "My Quest Step Outcome Description"
+msgstr ""
+
+msgctxt "Screen/&QuestEditorQuestStartTitle"
+msgid "Quest Start"
+msgstr ""
+
+msgctxt "Screen/&QuestEditorDeleteLinkButtonDescription"
+msgid "Click to delete this link"
+msgstr ""
+
+msgctxt "Screen/&QuestEditorNewQuestStepTitle"
+msgid "New Quest Step"
+msgstr ""
+
+msgctxt "Screen/&QuestEditorNewQuestStepDescription"
+msgid "Click to add a new step to this quest"
+msgstr ""
+
+msgctxt "Screen/&QuestEditorNewQuestEndTitle"
+msgid "New Quest End"
+msgstr ""
+
+msgctxt "Screen/&QuestEditorNewQuestEndDescription"
+msgid "Click to add an end to this quest, terminating a flow of steps"
+msgstr ""
+
+msgctxt "Screen/&QuestEditorDeleteQuestStepTitle"
+msgid "Delete Quest Step"
+msgstr ""
+
+msgctxt "Screen/&QuestEditorDeleteQuestStepDescription"
+msgid "Click to delete the selected quest step(s)"
+msgstr ""
+
+msgctxt "Screen/&QuestEditorInConnectorTitle"
+msgid "IN"
+msgstr ""
+
+msgctxt "Screen/&QuestEditorInConnectorDescription"
+msgid "This connector is used to receive a link attachment from a parent box"
+msgstr ""
+
+msgctxt "Screen/&QuestEditorOutConnectorDescription"
+msgid "Click this connector to start dragging a link to another box"
+msgstr ""
+
+msgctxt "Screen/&PasteShortcutFormat"
+msgid "Paste ({0})"
+msgstr ""
+
+msgctxt "Screen/&DragSelectFormat"
+msgid "Hold the left mouse button & drag to select quest steps"
+msgstr ""
+
+msgctxt "Screen/&PanViewFormat"
+msgid "Hold the middle/right mouse button & drag to pan the view"
+msgstr ""
+
+msgctxt "Screen/&QuestEditorCenterViewTitle"
+msgid "Center View"
+msgstr ""
+
+msgctxt "Screen/&QuestEditorCenterViewDescription"
+msgid "Centers the view on the quest start"
+msgstr ""
+
+msgctxt "Screen/&QuestSelectionTitle"
+msgid "Select a Quest"
+msgstr ""
+
+msgctxt "Screen/&StepStartFunctorsTitle"
+msgid "Start Functors"
+msgstr ""
+
+msgctxt "Screen/&StepStartFunctorsDescription"
+msgid "The list of functors that are executed when this quest step is started"
+msgstr ""
+
+msgctxt "Screen/&AddFunctorButtonTitle"
+msgid "Add"
+msgstr ""
+
+msgctxt "Screen/&AddFunctorButtonDescription"
+msgid "Add a new functor to the list"
+msgstr ""
+
+msgctxt "Screen/&DeleteFunctorButtonDescription"
+msgid "Remove this functor from the list"
+msgstr ""
+
+msgctxt "Screen/&StepOutcomeFunctorsTitle"
+msgid "Outcome Functors"
+msgstr ""
+
+msgctxt "Screen/&StepOutcomeFunctorsDescription"
+msgid ""
+"The list of functors that are executed when this step outcome is achieved ("
+"whether it is a success or a failure)"
+msgstr ""
+
+msgctxt "Screen/&CampaignEditorVariableHeaderTitle"
+msgid "Variables"
+msgstr ""
+
+msgctxt "Screen/&CampaignEditorVariablesNewTitle"
+msgid "New Variable"
+msgstr ""
+
+msgctxt "Screen/&CampaignEditorVariablesNewDescription"
+msgid ""
+"Creates a new variable that can be used to store/transfer information across "
+"this campaign"
+msgstr ""
+
+msgctxt "Screen/&CampaignEditorVariablesEditDescription"
+msgid "Edits the selected variable"
+msgstr ""
+
+msgctxt "Screen/&CampaignEditorVariablesDeleteDescription"
+msgid "Deletes the selected variable"
+msgstr ""
+
+msgctxt "Screen/&VariableSavedDescription"
+msgid "Variable Saved"
+msgstr ""
+
+msgctxt "Screen/&QuestStepValidatorSpellCastTitle"
+msgid "Spell Cast"
+msgstr ""
+
+msgctxt "Screen/&QuestStepValidatorSpellCastDescription"
+msgid "The specified spell has been cast"
+msgstr ""
+
+msgctxt "Screen/&QuestStepValidatorAutomaticCompletionTitle"
+msgid "Automatic Completion"
+msgstr ""
+
+msgctxt "Screen/&QuestStepValidatorAutomaticCompletionDescription"
+msgid ""
+"This step is automatically completed, possibly after a delay. Useful for "
+"hidden/scenario quests that drive a script"
+msgstr ""
+
+msgctxt "Screen/&QuestStepValidatorVariableChangedTitle"
+msgid "Variable Changed"
+msgstr ""
+
+msgctxt "Screen/&QuestStepValidatorVariableChangedDescription"
+msgid "The validator is completed if the variable has the specified value"
+msgstr ""
+
+msgctxt "Screen/&EditorTechnicalInfoTitle"
+msgid "Technical Info"
+msgstr ""
+
+msgctxt "Screen/&CampaignEditorDialogsHeaderTitle"
+msgid "Dialogs"
+msgstr ""
+
+msgctxt "Screen/&CampaignEditorDialogsNewTitle"
+msgid "New Dialog"
+msgstr ""
+
+msgctxt "Screen/&CampaignEditorDialogsNewDescription"
+msgid "Create a dialog used for discussions with NPCs"
+msgstr ""
+
+msgctxt "Screen/&CampaignEditorDialogsEditDescription"
+msgid "Edit the selected dialog"
+msgstr ""
+
+msgctxt "Screen/&CampaignEditorDialogsDeleteDescription"
+msgid "Delete the selected dialog"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorSaveDescription"
+msgid "Save this dialog into the campaign ({0})"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorUndoDescription"
+msgid "Undo the last modification ({0})"
+msgstr ""
+
+msgctxt "Screen/&DialogSavedDescription"
+msgid "Dialog Saved"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorNewStateTitle"
+msgid "New State"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorNewStateDescription"
+msgid "Click to add a new state to this dialog"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorStateTypeTitle"
+msgid "State Type:"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorStateTypeDescription"
+msgid "Allows you to select the type of dialog state"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorDeleteStateTitle"
+msgid "Delete State"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorDeleteStateDescription"
+msgid "Click to delete the selected dialog state(s)"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorDialogStartTitle"
+msgid "Dialog Start"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorSettingsDescription"
+msgid "Edit the dialog's settings (internal name, title, etc.)"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorRoleTitle"
+msgid "Role:"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorRoleDescription"
+msgid ""
+"In Solasta, you do not make a specific character talk. Instead, you assign "
+"\"roles\" to characters and specify which role is going to say what. Custom "
+"roles can be created with personality flags so that the party characters "
+"speak phrases relevant to them."
+msgstr ""
+
+msgctxt "Screen/&DialogEditorStateFunctorsTitle"
+msgid "Functors"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorStateFunctorsDescription"
+msgid "The list of functors to execute when this dialog state is played"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorDefaultCharacterSpeechTitle"
+msgid "Hello there!"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorDefaultNpcSpeechTitle"
+msgid "Welcome!"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorDefaultDialogTitle"
+msgid "My Dialog"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorStateCharacterSpeechTitle"
+msgid "Character Speech"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorStateCharacterSpeechDescription"
+msgid ""
+"Makes the party character bearing the specified role speak the dialog text"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorStateNpcSpeechTitle"
+msgid "NPC Speech"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorStateNpcSpeechDescription"
+msgid "Makes the non-player character speak the dialog text"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorStateFinishTitle"
+msgid "Finish"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorStateFinishDescription"
+msgid "Terminates the dialog sequence"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorStatePlayerRoleAssignmentTitle"
+msgid "Player Role Assignment"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorStatePlayerRoleAssignmentDescription"
+msgid "Allows the assignment of all roles to player characters"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorStateAnswerChoiceTitle"
+msgid "Answer Choice"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorStateAnswerChoiceDescription"
+msgid ""
+"Acts as a switch to chose possible dialog answers, leading to different "
+"dialog branches"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorStateVariableTestTitle"
+msgid "Variable Test"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorStateVariableTestDescription"
+msgid ""
+"Depending on the test result, the state will lead to two different dialog "
+"branches"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorStateAbilityCheckTitle"
+msgid "Ability Check"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorStateAbilityCheckDescription"
+msgid ""
+"Depending on the ability check result by the character role executing the "
+"check, the state will lead to two different dialog branches"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorRoleStarterTitle"
+msgid "Starter"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorRoleStarterDescription"
+msgid ""
+"A preset role that can be used by the player character starting the "
+"conversation with the NPC"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorRolePartnerTitle"
+msgid "Partner"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorRolePartnerDescription"
+msgid ""
+"A preset role that can be used by the player character to speak alongside "
+"the starter role"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorRoleCommentatorTitle"
+msgid "Commentator"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorRoleCommentatorDescription"
+msgid "A preset role that can be used to comment on the starter character"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorRoleReactorTitle"
+msgid "Reactor"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorRoleReactorDescription"
+msgid "A preset role that can be used to react to another character"
+msgstr ""
+
+msgctxt "Screen/&DialogSelectionTitle"
+msgid "Select a Dialog"
+msgstr ""
+
+msgctxt "Screen/&QuestEditorOutConnectorTitle"
+msgid "OUT"
+msgstr ""
+
+msgctxt "Screen/&DragSelectDialogFormat"
+msgid "Hold the left mouse button down & drag to select dialog states."
+msgstr ""
+
+msgctxt "Screen/&DialogEditorStateAnswerChoicesTitle"
+msgid "Answer Choices"
+msgstr ""
+
+msgctxt "Screen/&AddAnswerChoiceButtonDescription"
+msgid "Adds a new answer choice (maximum: {0})."
+msgstr ""
+
+msgctxt "Screen/&DeleteAnswerChoiceButtonDescription"
+msgid ""
+"Remove this answer choice from the list. At least one answer must remain."
+msgstr ""
+
+msgctxt "Screen/&AbilityCheckSuccessTitle"
+msgid "Success"
+msgstr ""
+
+msgctxt "Screen/&AbilityCheckFailureTitle"
+msgid "Failure"
+msgstr ""
+
+msgctxt "Screen/&AddPlayerRoleAssignmentButtonDescription"
+msgid "Adds a new role (maximum: {0})."
+msgstr ""
+
+msgctxt "Screen/&DeletePlayerRoleAssignmentButtonDescription"
+msgid "Remove this role from the list. At least one role must remain."
+msgstr ""
+
+msgctxt "Screen/&AddRollFlagButtonDescription"
+msgid ""
+"Add a new flag to qualify for this role. The party member with the highest "
+"scores in the list of flags will be selected for this role."
+msgstr ""
+
+msgctxt "Screen/&PersonalityFlagSelectionTitle"
+msgid "Select a Personality Flag"
+msgstr ""
+
+msgctxt "Screen/&DialogEditorDefaultNewRoleTitle"
+msgid "MyRole"
+msgstr ""
+
+msgctxt "Screen/&DialogFlagPersonalityTitle"
+msgid ""
+"This flag filters characters based on the personality flags selected at "
+"character creation."
+msgstr ""
+
+msgctxt "Screen/&DialogFlagBackgroundTitle"
+msgid ""
+"This flag filters characters of a specific background. The character MUST "
+"have the specific background to be selected for this role."
+msgstr ""
+
+msgctxt "Screen/&DialogFlagDeityTitle"
+msgid ""
+"This flag filters clerics of a certain deity. The character MUST follow the "
+"specific deity to be selected for this role."
+msgstr ""
+
+msgctxt "Screen/&DialogFlagAncestryTitle"
+msgid ""
+"This flag filters characters of a specific ancestry. The character MUST have "
+"the specific ancestry to be selected for this role."
+msgstr ""
+
+msgctxt "Screen/&DialogFlagSkillTitle"
+msgid ""
+"This flag filters characters based on their bonus to a skill check. The "
+"character with the highest skill bonus (ability bonus + proficiency bonus) "
+"will be selected."
+msgstr ""
+
+msgctxt "Screen/&DialogFlagClassTitle"
+msgid ""
+"This flag filters characters of a specific class. The character MUST be of "
+"the specific class to be selected for this role."
+msgstr ""
+
+msgctxt "Screen/&DialogCustomPlayerRoleDescription"
+msgid ""
+"This role has been created in this dialog with a \"PlayerRoleAssignment\" "
+"box."
+msgstr ""
+
+msgctxt "Screen/&DialogClearPreviousRolesToggleTitle"
+msgid "Clear Previous Roles"
+msgstr ""
+
+msgctxt "Screen/&DialogClearPreviousRolesToggleDescription"
+msgid ""
+"Removes any roles defined in the dialog prior to this box, including the "
+"four default roles. This allows you to change the roles of characters who "
+"are already assigned a role."
+msgstr ""
+
+msgctxt "Screen/&UserCampaignExportContentsTitle"
+msgid "Export Contents to Campaign"
+msgstr ""
+
+msgctxt "Screen/&UserCampaignExportContentsDescription"
+msgid ""
+"Opens a selector to export contents of this campaign to another campaign."
+msgstr ""
+
+msgctxt "Screen/&UserCampaignImportContentsTitle"
+msgid "Import Contents from Campaign"
+msgstr ""
+
+msgctxt "Screen/&UserCampaignImportContentsDescription"
+msgid ""
+"Opens a selector to import the contents of another campaign into this "
+"campaign."
+msgstr ""
+
+msgctxt "Screen/&CampaignEditorLootPacksHeaderTitle"
+msgid "Loot Packs"
+msgstr ""
+
+msgctxt "Screen/&CampaignEditorLootPacksNewTitle"
+msgid "New Loot Pack"
+msgstr ""
+
+msgctxt "Screen/&CampaignEditorLootPacksNewDescription"
+msgid ""
+"Creates a loot pack (items, quantities, and probability) that can be "
+"assigned to monsters as dropped loot, or to chests as contents."
+msgstr ""
+
+msgctxt "Screen/&CampaignEditorLootPacksEditDescription"
+msgid "Edits the selected loot pack."
+msgstr ""
+
+msgctxt "Screen/&CampaignEditorLootPacksDeleteDescription"
+msgid "Deletes the selected loot pack."
+msgstr ""
+
+msgctxt "Screen/&DialogMainNpcTitle"
+msgid "Main NPC"
+msgstr ""
+
+msgctxt "Screen/&DialogMainNpcDescription"
+msgid ""
+"The main Non-Player Character spawned by the gadget connected to this dialog."
+msgstr ""
+
+msgctxt "Screen/&DialogAdditionalNpcDescription"
+msgid ""
+"Allows this additional NPC to speak with this role, provided that they are "
+"spawned by another gadget and are present before this dialog is started."
+msgstr ""
+
+msgctxt "Screen/&AllyChoosingPositionTitleFormat"
+msgid "{0} is choosing a position"
+msgstr ""
+
+msgctxt "Screen/&AllyChoosingTargetTitleFormat"
+msgid "{0} is choosing a target"
+msgstr ""
+
+msgctxt "Screen/&AllyPlaningAttackTitleFormat"
+msgid "{0} is planning an attack"
+msgstr ""
+
+msgctxt "Screen/&AllyPlaningMagicEffectTitleFormat"
+msgid "{0} is planning a magic effect"
+msgstr ""
+
+msgctxt "Screen/&AllyPlaningReactionTitleFormat"
+msgid "{0} is considering using a reaction"
+msgstr ""
+
+msgctxt "Screen/&AllyCheckingInventoryTitleFormat"
+msgid "{0} is checking inventory"
+msgstr ""
+
+msgctxt "Screen/&FactionQuestTypeTitle"
+msgid "Faction Quest"
+msgstr ""
+
+msgctxt "Screen/&FactionQuestTypeDescription"
+msgid "A quest assigned by a specific faction"
+msgstr ""
+
+msgctxt "Screen/&FactionQuestsListTitle"
+msgid "Faction Quests"
+msgstr ""
+
+msgctxt "Screen/&QuestGiverStepDescription"
+msgid "The character involved in this quest objective"
+msgstr ""
+
+msgctxt "Screen/&QuestLocationStepDescription"
+msgid ""
+"The location (town, dungeon) where this quest objective must be resolved"
+msgstr ""
+
+msgctxt "Screen/&MapWaypointNavigateDescription"
+msgid "Click to move the party to this waypoint."
+msgstr ""
+
+msgctxt "Screen/&MapWaypointNavigateMultiplayerHostDescription"
+msgid "Party movement requires the agreement of the other players."
+msgstr ""
+
+msgctxt "Screen/&MapWaypointNavigateMultiplayerClientDescription"
+msgid ""
+"Only the multiplayer host can request this movement, with your agreement."
+msgstr ""
+
+msgctxt "Screen/&IdentifySpellTitle"
+msgid "Identify (Spell)"
+msgstr ""
+
+msgctxt "Screen/&IdentifySpellDescription"
+msgid "Identify an item by casting the Identify spell and using a spell slot."
+msgstr ""
+
+msgctxt "Screen/&IdentifyRitualTitle"
+msgid "Identify (Ritual)"
+msgstr ""
+
+msgctxt "Screen/&IdentifyRitualDescription"
+msgid ""
+"Identify an item by casting the spell as a ritual, without spending a spell "
+"slot."
+msgstr ""
+
+msgctxt "Screen/&UnknownFactionProminentMembersDescription"
+msgid "Unknown"
+msgstr ""
+
+msgctxt "Screen/&EncounterCombatNoSurpriseDescription"
+msgid "The party has stumbled upon a group of creatures. Combat is inevitable."
+msgstr ""
+
+msgctxt "Screen/&EncounterAmbushButtonTitle"
+msgid "Ambush"
+msgstr ""
+
+msgctxt "Screen/&EncounterAmbushButtonDescription"
+msgid "Attack with the benefit of a surprise round."
+msgstr ""
+
+msgctxt "Screen/&UnavailableContentPackInSessionDescription"
+msgid "This content is not available in the current session."
+msgstr ""
+
+msgctxt "Screen/&MapWaypointNavigateNotInSameSectorDescription"
+msgid "Cannot fast travel to this point from another sector."
+msgstr ""
+
+msgctxt "Screen/&RevealPasswordDescription"
+msgid "Reveal password"
+msgstr ""
+
+msgctxt "Screen/&MaskPasswordDescription"
+msgid "Hide password"
+msgstr ""
+
+msgctxt "Screen/&CopyPasswordDescription"
+msgid "Copy password to clipboard"
+msgstr ""
+
+msgctxt "Screen/&PasswordNoneTitle"
+msgid "None"
+msgstr ""
+
+msgctxt "Screen/&NetworkTooManyPingsTitle"
+msgid "Too many pings - please wait..."
+msgstr ""
+
+msgctxt "Screen/&DashModeConfirmTitle"
+msgid "Confirm"
+msgstr ""
+
+msgctxt "Screen/&KickButtonTitle"
+msgid "Kick players"
+msgstr ""
+
+msgctxt "Screen/&KickButtonDescription"
+msgid "Kick a player from your session"
+msgstr ""
+
+msgctxt "Screen/&PlacePingDescription"
+msgid ""
+"Place a ping marker on screen to let other players what you intend to do."
+msgstr ""
+
+msgctxt "Screen/&AutoRegionTitle"
+msgid "Auto"
+msgstr ""
 
 msgctxt "Screen/&RepertoireKnownSpellsTitle"
 msgid "Known Spells"
@@ -3685,3 +4607,31 @@ msgid ""
 "Solasta has failed to launch due to a mod or data corruption. Please "
 "uninstall all mods and restart the game."
 msgstr "모드 또는 데이터 변질로 인해 솔라스타를 여는 데 실패했습니다. 모든 모드를 삭제하고 게임을 재시작해 주십시오."
+
+msgctxt "Screen/&DefaultRoomNameFormat"
+msgid "{0}'s game"
+msgstr "{0}의 게임"
+
+msgctxt "Screen/&AllyTurnTitleFormat"
+msgid "{0} is playing"
+msgstr "{0}이(가) 플레이 중"
+
+msgctxt "Screen/&ChooseFromMultipleEntrancesTitle"
+msgid "Multiple Entrances"
+msgstr "다중 입구"
+
+msgctxt "Screen/&ChooseFromMultipleEntrancesDescription"
+msgid "Select which entrance the party will arrive through."
+msgstr "파티가 어느 입구로 도착할지 선택하십시오."
+
+msgctxt "Screen/&HostIsAnsweringChoiceTitle"
+msgid "{0} is choosing an answer"
+msgstr ""
+
+msgctxt "Screen/&LeaveGameSessionTitle"
+msgid "Leave Game"
+msgstr ""
+
+msgctxt "Screen/&LeaveGameSessionDescription"
+msgid "Click to leave the online game session."
+msgstr ""

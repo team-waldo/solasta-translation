@@ -1,42 +1,16 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2021-12-22 23:51+0000\n"
-"Last-Translator: Nickel <psb3421@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/merchant/"
-"ko/>\n"
-"Language: ko\n"
+"POT-Creation-Date: 2022-05-01 18:44+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
-
-msgctxt "Merchant/&DLC_Armorer_Title"
-msgid "Armory"
-msgstr "병기고"
-
-msgctxt "Merchant/&DungeonMakerGeneralStoreTitle"
-msgid "General Store"
-msgstr "잡화점"
-
-msgctxt "Merchant/&DungeonMakerMagicalDevicesTitle"
-msgid "Magical Devices"
-msgstr "마법 물품"
-
-msgctxt "Merchant/&DungeonMakerWeaponsmithTitle"
-msgid "Weaponsmith"
-msgstr "병기공"
-
-msgctxt "Merchant/&DungeonMakerArmorerTitle"
-msgid "Armorer"
-msgstr "장갑공"
-
-msgctxt "Merchant/&DungeonMakerCrafterTitle"
-msgid "Crafter"
-msgstr "제작자"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "Merchant/&CaerCyflen_Annie_Bagmordah_Store_ScavengersTitle"
 msgid "Scavengers' Headquarters"
@@ -113,3 +87,39 @@ msgstr "로가 아덴파이어"
 msgctxt "Merchant/&Circe_Title"
 msgid "Enchantment Manuals Merchant"
 msgstr "마법부여 안내서 상인"
+
+msgctxt "Merchant/&DungeonMakerGeneralStoreTitle"
+msgid "General Store"
+msgstr "잡화점"
+
+msgctxt "Merchant/&DungeonMakerMagicalDevicesTitle"
+msgid "Magical Devices"
+msgstr "마법 물품"
+
+msgctxt "Merchant/&DungeonMakerWeaponsmithTitle"
+msgid "Weaponsmith"
+msgstr "병기공"
+
+msgctxt "Merchant/&DungeonMakerArmorerTitle"
+msgid "Armorer"
+msgstr "장갑공"
+
+msgctxt "Merchant/&DungeonMakerCrafterTitle"
+msgid "Crafter"
+msgstr "제작자"
+
+msgctxt "Merchant/&DLC1_GiantTrader_StoreTitle"
+msgid "Giant Trader"
+msgstr ""
+
+msgctxt "Merchant/&DLC_Armorer_Title"
+msgid "Armory"
+msgstr "병기고"
+
+msgctxt "Merchant/&Yasmin_Mask_Title"
+msgid "Mask Secret Shopkeeper"
+msgstr ""
+
+msgctxt "Merchant/&DLC1_Hanno_StoreTitle"
+msgid "Forge Merchant"
+msgstr ""

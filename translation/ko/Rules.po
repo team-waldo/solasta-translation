@@ -1,34 +1,16 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2022-01-17 12:46+0000\n"
-"Last-Translator: E잡불어 <rarkar@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/rules/ko/>"
-"\n"
-"Language: ko\n"
+"POT-Creation-Date: 2022-05-01 18:44+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
-
-msgctxt "Rules/&OrientationNorthTitle"
-msgid "North"
-msgstr "북"
-
-msgctxt "Rules/&OrientationEastTitle"
-msgid "East"
-msgstr "동"
-
-msgctxt "Rules/&OrientationSouthTitle"
-msgid "South"
-msgstr "남"
-
-msgctxt "Rules/&OrientationWestTitle"
-msgid "West"
-msgstr "서"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "Rules/&AbilityAndSkillFormat"
 msgid "{0} ({1})"
@@ -1746,8 +1728,10 @@ msgctxt "Rules/&TopologyFormSightBlockerFormat"
 msgid "Blocks line of sight"
 msgstr "시야 차단"
 
+#, fuzzy
+#| msgid "End of Round"
 msgctxt "Rules/&TurnOccurenceEndOfTurnFormat"
-msgid "End of Round"
+msgid "End of Turn"
 msgstr ""
 "라운드 \n"
 "종료"
@@ -2351,6 +2335,60 @@ msgctxt "Rules/&RateD6_56FormatTitle"
 msgid "on 5 or 6 on 1d6"
 msgstr "1d6에서 5~6"
 
+msgctxt "Rules/&ConditionOnFire_Elemental_Title"
+msgid "On Fire from Fire Elemental"
+msgstr "불의 정령으로부터 불 붙음"
+
+msgctxt "Rules/&ConditionOnFire_Spider_Title"
+msgid "On Fire from Fire Spider"
+msgstr "불 거미로부터 불 붙음"
+
+msgctxt "Rules/&ConditionOnFire_Osprey_Title"
+msgid "On Fire from Fire Osprey"
+msgstr "불 수리로부터 불 붙음"
+
+msgctxt "Rules/&OrientationNorthTitle"
+msgid "North"
+msgstr "북"
+
+msgctxt "Rules/&OrientationEastTitle"
+msgid "East"
+msgstr "동"
+
+msgctxt "Rules/&OrientationSouthTitle"
+msgid "South"
+msgstr "남"
+
+msgctxt "Rules/&OrientationWestTitle"
+msgid "West"
+msgstr "서"
+
+msgctxt "Rules/&ConditionSwallowedShamblingMoundDescription"
+msgid ""
+"Cannot act, and take 2d6+8 bludgeoning damage each turn. A single attack of "
+"15 damage can force the swallower to regurgitate."
+msgstr ""
+
+msgctxt "Rules/&ApplySelfFormat"
+msgid "{0} (self)"
+msgstr ""
+
+msgctxt "Rules/&OnSpecificCreatureTriggerFormat"
+msgid "On {0}:"
+msgstr ""
+
+msgctxt "Rules/&ConditionRegeneratingTitle"
+msgid "Regenerating"
+msgstr ""
+
+msgctxt "Rules/&ConditionRegeneratingDescription"
+msgid "Regain 1 HP every turn for up to an hour."
+msgstr ""
+
+msgctxt "Rules/&RerollRandomFormFormat"
+msgid "Reroll {0} time(s)"
+msgstr ""
+
 msgctxt "Rules/&SpellSlotFormCreateSpellSlotFormat"
 msgid "Create a spell slot"
 msgstr "주문 슬롯 생성"
@@ -2414,14 +2452,6 @@ msgid ""
 "cast another spell during the same turn, except for cantrips."
 msgstr "주 행동 주문을 추가 행동처럼 사용할 수 있습니다. 대신 같은 턴에 캔트립을 제외한 다른 주문을 또 사용할 수는 없습니다."
 
-msgctxt "Rules/&MetamagicOptionSubtleSpellTitle"
-msgid "Subtle Spell"
-msgstr "교묘한 주문"
-
-msgctxt "Rules/&MetamagicOptionSubtleSpellDescription"
-msgid "Can cast a sepll without verbal or somatic component"
-msgstr "음성, 동작 구성 요소 없이 주문을 시전할 수 있습니다."
-
 msgctxt "Rules/&MetamagicOptionTwinnedSpellTitle"
 msgid "Twinned Spell"
 msgstr "쌍둥이 주문"
@@ -2429,18 +2459,6 @@ msgstr "쌍둥이 주문"
 msgctxt "Rules/&MetamagicOptionTwinnedSpellDescription"
 msgid "If the source spell targets one creature only, this adds another target"
 msgstr "하나의 대상만 지정할 수 있는 주문을 쓸 때 대상을 하나 더 추가할 수 있습니다"
-
-msgctxt "Rules/&ConditionOnFire_Elemental_Title"
-msgid "On Fire from Fire Elemental"
-msgstr "불의 정령으로부터 불 붙음"
-
-msgctxt "Rules/&ConditionOnFire_Spider_Title"
-msgid "On Fire from Fire Spider"
-msgstr "불 거미로부터 불 붙음"
-
-msgctxt "Rules/&ConditionOnFire_Osprey_Title"
-msgid "On Fire from Fire Osprey"
-msgstr "불 수리로부터 불 붙음"
 
 msgctxt "Rules/&RateSorceryPointsFormatTitle"
 msgid "sorcery points"
@@ -2627,3 +2645,102 @@ msgctxt "Rules/&ConditionRecklessVulnerabilityDescription"
 msgid ""
 "Attacks against the creature have advantage until the start of its next turn."
 msgstr "이 크리쳐는 다음 자신 턴 시작까지 받는 모든 공격에 이점이 부여됩니다."
+
+msgctxt "Rules/&ConditionDreadfulGlareImmunityTitle"
+msgid "Immune to Mummies' Dreadful Glare"
+msgstr ""
+
+msgctxt "Rules/&ConditionDreadfulGlareImmunityDescription"
+msgid ""
+"You are immune to the dreadful glare of mummies and mummy lords for 24 hours."
+msgstr ""
+
+msgctxt "Rules/&ConditionNegativeEnergyTitle"
+msgid "Touched by Negative Energy"
+msgstr ""
+
+msgctxt "Rules/&ConditionNegativeEnergyDescription"
+msgid "Cannot regain hit points."
+msgstr ""
+
+msgctxt "Rules/&ConditionRousingShoutTitle"
+msgid "Bolstered by Rousing Shout"
+msgstr ""
+
+msgctxt "Rules/&ConditionRousingShoutDescription"
+msgid "Advantage on your next attack."
+msgstr ""
+
+msgctxt "Rules/&ConditionMenacedTargetTitle"
+msgid "Menaced"
+msgstr ""
+
+msgctxt "Rules/&ConditionMenacedTargetDescription"
+msgid "The target has disadvantage on attacks on the source of the menace."
+msgstr ""
+
+msgctxt "Rules/&ConditionBorrowedLuckTitle"
+msgid "Borrowed Luck"
+msgstr ""
+
+msgctxt "Rules/&ConditionBorrowedLuckDescription"
+msgid "You have disadvantage on your next saving throw."
+msgstr ""
+
+msgctxt "Rules/&ConditionFormAddRandomFormat"
+msgid "Inflicts one of these random conditions: {0}"
+msgstr ""
+
+msgctxt "Rules/&ConditionFormNothingTitle"
+msgid "Nothing"
+msgstr ""
+
+msgctxt "Rules/&ConditionRangerSwiftBladeBattleFocusTitle"
+msgid "Battle Focused"
+msgstr ""
+
+msgctxt "Rules/&ConditionRangerSwiftBladeBattleFocusDescription"
+msgid ""
+"All your melee weapon attacks deal an additional 1d8 weapon damage of the "
+"weapon's damage type until the start of your next turn."
+msgstr ""
+
+msgctxt "Rules/&ConditionOathOfJugementWeightOfJusticeTitle"
+msgid "Weight of Justice"
+msgstr ""
+
+msgctxt "Rules/&ConditionOathOfJugementWeightOfJusticeDescription"
+msgid ""
+"The next time you hit a creature with a melee weapon attack, they must make "
+"a charisma saving throw or they will be restrained for up to 1 minute."
+msgstr ""
+
+msgctxt "Rules/&ConditionOathOfJugementAuraOfRighteousnessTitle"
+msgid "Aura of Righteousness"
+msgstr ""
+
+msgctxt "Rules/&ConditionOathOfJugementAuraOfRighteousnessDescription"
+msgid ""
+"You add damage to your attacks equal to the proficiency bonus of the paladin "
+"originating the aura."
+msgstr ""
+
+msgctxt "Rules/&SpellSlotFormRechargePowerFormat"
+msgid "Recharges the {0} power."
+msgstr ""
+
+msgctxt "Rules/&ConditionCircleBalanceGiftOfLifeTitle"
+msgid "Gift of Life"
+msgstr ""
+
+msgctxt "Rules/&ConditionCircleBalanceGiftOfLifeDescription"
+msgid "Regain hit points at the start of the caster's next turn."
+msgstr ""
+
+msgctxt "Rules/&ConditionCircleBalanceEmbracedByColdTitle"
+msgid "Embraced by Cold"
+msgstr ""
+
+msgctxt "Rules/&ConditionCircleBalanceEmbracedByColdDescription"
+msgid "The creature cannot regain hit points."
+msgstr ""

@@ -1,61 +1,16 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-17 17:52+0900\n"
-"PO-Revision-Date: 2021-12-24 01:38+0000\n"
-"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/location/"
-"ko/>\n"
-"Language: ko\n"
+"POT-Creation-Date: 2022-05-01 18:44+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
-
-msgctxt "Location/&Map_DLC1_AnfarelDomain_Title"
-msgid "Anfarel Domain"
-msgstr "안파렐 영지"
-
-msgctxt "Location/&Map_DLC1_AnfarelDomain_Description"
-msgid ""
-"This village is on lands owned by the ancient and noble Anfarel family. It "
-"is ruled by Telas Anfarel."
-msgstr "이 마을은 고대의 귀족가 안파렐 가문이 소유했던 땅 위에 세워졌습니다. 그 땅은 텔라스 안파렐이 지배했었습니다."
-
-msgctxt "Location/&Map_DLC1_HuntingGrounds_Title"
-msgid "Hunting Grounds"
-msgstr "수렵장"
-
-msgctxt "Location/&Map_DLC1_HuntingGrounds_Description"
-msgid "This area should be a good place to hunt game."
-msgstr "이 구역은 사냥을 벌이기 좋은 장소입니다."
-
-msgctxt "Location/&Map_DLC1_HarvestArea_Title"
-msgid "Harvest Area"
-msgstr "벌목지"
-
-msgctxt "Location/&Map_DLC1_HarvestArea_Description"
-msgid ""
-"According to Orenetis, this area is dangerous but contains rare ingredients."
-msgstr "오레네티스에 의하면, 이 구역은 위험하지만 많은 희귀한 재료들이 있다고 합니다."
-
-msgctxt "Location/&Map_DLC1_SpiderNest_Title"
-msgid "Spider Nest"
-msgstr "거미 둥지"
-
-msgctxt "Location/&Map_DLC1_SpiderNest_Description"
-msgid "You've been warned that there is a deep spider nest here."
-msgstr "이곳에 지하 거미 둥지가 있다는 경고를 받았습니다."
-
-msgctxt "Location/&Map_DLC1_JungleNest_Title"
-msgid "Jungle Nest"
-msgstr "정글 둥지"
-
-msgctxt "Location/&Map_DLC1_JungleNest_Description"
-msgid "According to Ellaria Anfarel, a huge monster dwells in this area."
-msgstr "엘라리아 안파렐에 의하면, 거대한 몬스터 하나 이 구역에 산다고 합니다."
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "Location/&Bone_Keep_Scene_Description"
 msgid ""
@@ -244,3 +199,56 @@ msgid ""
 "An old, abandoned mine where you've been granted access, in order to help "
 "Auroc and because of your standing with the Baron."
 msgstr "남작과의 관계와 오로크를 돕기 위해 당신이 접근을 허락받은 버려진 낡은 광산."
+
+msgctxt "Location/&Map_DLC1_AnfarelDomain_Title"
+msgid "Anfarel Domain"
+msgstr "안파렐 영지"
+
+#, fuzzy
+#| msgid ""
+#| "This village is on lands owned by the ancient and noble Anfarel family. It "
+#| "is ruled by Telas Anfarel."
+msgctxt "Location/&Map_DLC1_AnfarelDomain_Description"
+msgid ""
+"This village is on land owned by the ancient and noble Anfarel family. It is "
+"ruled by Eladien Anfarel."
+msgstr "이 마을은 고대의 귀족가 안파렐 가문이 소유했던 땅 위에 세워졌습니다. 그 땅은 텔라스 안파렐이 지배했었습니다."
+
+msgctxt "Location/&Map_DLC1_HuntingGrounds_Title"
+msgid "Hunting Grounds"
+msgstr "수렵장"
+
+msgctxt "Location/&Map_DLC1_HuntingGrounds_Description"
+msgid "This area should be a good place to hunt game."
+msgstr "이 구역은 사냥을 벌이기 좋은 장소입니다."
+
+msgctxt "Location/&Map_DLC1_HarvestArea_Title"
+msgid "Harvest Area"
+msgstr "벌목지"
+
+#, fuzzy
+#| msgid ""
+#| "According to Orenetis, this area is dangerous but contains rare ingredients."
+msgctxt "Location/&Map_DLC1_HarvestArea_Description"
+msgid ""
+"According to Orenetis, this area is dangerous but contains some rare "
+"ingredients."
+msgstr "오레네티스에 의하면, 이 구역은 위험하지만 많은 희귀한 재료들이 있다고 합니다."
+
+msgctxt "Location/&Map_DLC1_SpiderNest_Title"
+msgid "Spider Nest"
+msgstr "거미 둥지"
+
+#, fuzzy
+#| msgid "You've been warned that there is a deep spider nest here."
+msgctxt "Location/&Map_DLC1_SpiderNest_Description"
+msgid "You've been warned that there is a spider nest here."
+msgstr "이곳에 지하 거미 둥지가 있다는 경고를 받았습니다."
+
+msgctxt "Location/&Map_DLC1_JungleNest_Title"
+msgid "Jungle Nest"
+msgstr "정글 둥지"
+
+msgctxt "Location/&Map_DLC1_JungleNest_Description"
+msgid "According to Ellaria Anfarel, a huge monster dwells in this area."
+msgstr "엘라리아 안파렐에 의하면, 거대한 몬스터 하나 이 구역에 산다고 합니다."
