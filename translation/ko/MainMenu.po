@@ -1,16 +1,18 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-01 18:44+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-05-01 15:00+0000\n"
+"Last-Translator: Araghast <kes322@naver.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/mainmenu/"
+"ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.4.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "MainMenu/&ChangeCampaignDescription"
 msgid "Click to open a selection of adventures."
@@ -492,11 +494,11 @@ msgstr ""
 
 msgctxt "MainMenu/&RequestCharacterSlotTitle"
 msgid "REQUEST"
-msgstr ""
+msgstr "참가 요청"
 
 msgctxt "MainMenu/&RequestCharacterSlotDescription"
 msgid "Ask to play this character"
-msgstr ""
+msgstr "이 캐릭터로 참가를 요청합니다"
 
 msgctxt "MainMenu/&SessionPlayersTitle"
 msgid "Players in room:"
@@ -520,7 +522,7 @@ msgstr ""
 
 msgctxt "MainMenu/&LoadAdventureTitle"
 msgid "Continue Adventure"
-msgstr ""
+msgstr "모험 계속하기"
 
 msgctxt "MainMenu/&RefreshDLCTitle"
 msgid "Refresh DLC"
@@ -577,8 +579,6 @@ msgctxt "MainMenu/&SessionParameterVisibilityPrivateTitle"
 msgid "Private"
 msgstr "비공개"
 
-#, fuzzy
-#| msgid "Max Players"
 msgctxt "MainMenu/&SessionParameterMaxPlayersTitle"
 msgid "Max. Players"
 msgstr "최대 플레이어 수"
@@ -614,8 +614,6 @@ msgctxt "MainMenu/&RefreshListButtonDescription"
 msgid "Click to refresh the list of game sessions."
 msgstr "게임 세션 목록을 새로고침하려면 클릭하십시오."
 
-#, fuzzy
-#| msgid "Refreshing..."
 msgctxt "MainMenu/&RefreshingRoomsTitle"
 msgid "Refreshing…"
 msgstr "새로고침 중…"
@@ -672,11 +670,9 @@ msgctxt "MainMenu/&ReadyGameTitle"
 msgid "Ready"
 msgstr "준비"
 
-#, fuzzy
-#| msgid "Notify the host that you are ready to start the game."
 msgctxt "MainMenu/&ReadyGameDescription"
 msgid "Notify the others that you are ready to start the game."
-msgstr "방장에게 자신이 게임을 시작할 준비가 됐다고 알립니다."
+msgstr "다른 플레이어에게 게임을 시작할 준비가 됐다고 알립니다."
 
 msgctxt "MainMenu/&StopReadyGameTitle"
 msgid "Stop"
@@ -690,8 +686,6 @@ msgctxt "MainMenu/&LoadMultiplayerGameButtonTitle"
 msgid "Load Game"
 msgstr "게임 불러오기"
 
-#, fuzzy
-#| msgid "Open the loading panel to select a multiplayer game."
 msgctxt "MainMenu/&LoadMultiplayerGameButtonDescription"
 msgid "Open the load panel to select a multiplayer game."
 msgstr "멀티플레이어 게임을 선택하기 위해 불러오기 창을 엽니다."
@@ -711,17 +705,17 @@ msgstr "이 세션은 지정된 플레이어 캐릭터로 저장된 게임을 �
 
 msgctxt "MainMenu/&SessionParameterAllowCrossplayTitle"
 msgid "Allow Crossplay"
-msgstr ""
+msgstr "크로스플레이 허용"
 
 msgctxt "MainMenu/&SessionParameterAllowCrossplayDescription"
 msgid ""
 "Determines whether this game allows players from other gaming platforms."
-msgstr ""
+msgstr "다른 기종을 통해 게임에 참여하는 걸 허용할지 설정합니다."
 
 msgctxt "MainMenu/&CrossplayHeaderTitle"
 msgid "Crossplay"
-msgstr ""
+msgstr "크로스플레이"
 
 msgctxt "MainMenu/&CrossplayHeaderDescription"
 msgid "Some games allow players from other gaming platforms."
-msgstr ""
+msgstr "일부 게임은 다른 기종의 플레이어도 참가하도록 허용할 수 있습니다."
