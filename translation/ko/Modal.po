@@ -1,16 +1,18 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-01 18:44+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-05-02 04:03+0000\n"
+"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/modal/ko/>"
+"\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.4.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "Modal/&AssertionFailedTtitle"
 msgid "Assertion Failed"
@@ -782,13 +784,6 @@ msgctxt "Modal/&ContentPropertyAbilityScoresTitle"
 msgid "Ability Scores"
 msgstr "능력치"
 
-#, fuzzy
-#| msgid ""
-#| "Input here custome ability score values. \n"
-#| "Note that modifying these values does not alter the monster attack rolls, or "
-#| "the ability check & saving throw where the monster has an explicit "
-#| "proficiency ; neither are Armor Class or Hit Points mdified by custom "
-#| "ability scores."
 msgctxt "Modal/&ContentPropertyAbilityScoresDescription"
 msgid ""
 "Input here custome ability score values. \n"
@@ -814,8 +809,6 @@ msgctxt "Modal/&ContentPropertyArmorClassTitle"
 msgid "Armor Class"
 msgstr "방어도"
 
-#, fuzzy
-#| msgid "You can override the armor class  of this creature when it is spawned"
 msgctxt "Modal/&ContentPropertyArmorClassDescription"
 msgid "You can override the armor class of this creature when it is spawned"
 msgstr "생성 시 이 크리쳐의 방어도를 덮어쓸 수 있습니다"
@@ -828,17 +821,13 @@ msgctxt "Modal/&UserNpcEditionTitle"
 msgid "Custom NPC Edition"
 msgstr "커스텀 NPC 편집"
 
-#, fuzzy
-#| msgid "True"
 msgctxt "Modal/&ContentPropertyBooleanTrueTitle"
 msgid "TRUE"
-msgstr "허용"
+msgstr "참"
 
-#, fuzzy
-#| msgid "False"
 msgctxt "Modal/&ContentPropertyBooleanFalseTitle"
 msgid "FALSE"
-msgstr "불가"
+msgstr "거짓"
 
 msgctxt "Modal/&UserMerchantInventoryEditionTitle"
 msgid "Custom Merchant Inventory"
@@ -1097,31 +1086,25 @@ msgctxt "Modal/&ContentPropertyAttackIterationsDescription"
 msgid "The number of times this attack can be used per turn"
 msgstr "이 공격이 턴당 사용될 수 있는 횟수"
 
-#, fuzzy
-#| msgid "Attack 1: "
 msgctxt "Modal/&ContentPropertyAttack1Title"
 msgid "Attack 1:"
-msgstr "공격 1: "
+msgstr "공격 1:"
 
 msgctxt "Modal/&ContentPropertyAttack1Description"
 msgid "The parameters of the first attack of this creature"
 msgstr "이 크리쳐의 첫 번째 공격 파라미터"
 
-#, fuzzy
-#| msgid "Attack 2: "
 msgctxt "Modal/&ContentPropertyAttack2Title"
 msgid "Attack 2:"
-msgstr "공격 2: "
+msgstr "공격 2:"
 
 msgctxt "Modal/&ContentPropertyAttack2Description"
 msgid "The parameters of the second attack of this creature"
 msgstr "이 크리쳐의 두 번째 공격 파라미터"
 
-#, fuzzy
-#| msgid "Attack 3: "
 msgctxt "Modal/&ContentPropertyAttack3Title"
 msgid "Attack 3:"
-msgstr "공격 3: "
+msgstr "공격 3:"
 
 msgctxt "Modal/&ContentPropertyAttack3Description"
 msgid "The parameters of the third attack of this creature"
@@ -1296,7 +1279,7 @@ msgstr ""
 
 msgctxt "Modal/&ContentPropertyChallengeRatingTitle"
 msgid "Challenge Rating"
-msgstr ""
+msgstr "도전지수"
 
 msgctxt "Modal/&ContentPropertyChallengeRatingDescription"
 msgid ""
@@ -1307,7 +1290,7 @@ msgstr ""
 
 msgctxt "Modal/&ContentPropertyWeaponEffectsTitle"
 msgid "Weapon Effects"
-msgstr ""
+msgstr "무기 효과"
 
 msgctxt "Modal/&ContentPropertyWeaponEffectsDescription"
 msgid "Use this to override the damage or special effects of this weapon"
@@ -1315,87 +1298,87 @@ msgstr ""
 
 msgctxt "Modal/&UserQuestSettingsTitle"
 msgid "Quest Settings"
-msgstr ""
+msgstr "퀘스트 설정"
 
 msgctxt "Modal/&UserVariableEditionTitle"
 msgid "Campaign Variable Edition"
-msgstr ""
+msgstr "캠페인 변수 편집"
 
 msgctxt "Modal/&ContentPropertyVariableTypeTitle"
 msgid "Variable Type"
-msgstr ""
+msgstr "변수 유형"
 
 msgctxt "Modal/&ContentPropertyVariableTypeDescription"
 msgid "The type of data stored by this variable"
-msgstr ""
+msgstr "이 변수에 저장된 데이터 유형"
 
 msgctxt "Modal/&ContentPropertyVariableTypeIntTitle"
 msgid "Integer"
-msgstr ""
+msgstr "상수"
 
 msgctxt "Modal/&ContentPropertyVariableTypeIntDescription"
 msgid "An integer value that can be altered by mathematical operations"
-msgstr ""
+msgstr "계산에 의해 변경될 수 있는 상수값"
 
 msgctxt "Modal/&ContentPropertyVariableTypeBoolTitle"
 msgid "Boolean"
-msgstr ""
+msgstr "논리연산자"
 
 msgctxt "Modal/&ContentPropertyVariableTypeBoolDescription"
 msgid "A value that can be true or false"
-msgstr ""
+msgstr "참 또는 거짓이 될 수 있는 값"
 
 msgctxt "Modal/&ContentPropertyVariableTypeStringTitle"
 msgid "String"
-msgstr ""
+msgstr "문자열"
 
 msgctxt "Modal/&ContentPropertyVariableTypeStringDescription"
 msgid "A plain string of characters"
-msgstr ""
+msgstr "문자로 이루어진 열"
 
 msgctxt "Modal/&ContentPropertyVariableDefaultValueIntTitle"
 msgid "Default Value"
-msgstr ""
+msgstr "디폴트 값"
 
 msgctxt "Modal/&ContentPropertyVariableDefaultValueIntDescription"
 msgid "The default integer value of this variable when the campaign starts"
-msgstr ""
+msgstr "캠페인 시작 시 이 변수가 갖는 기본 상수 값"
 
 msgctxt "Modal/&ContentPropertyVariableDefaultValueBoolTitle"
 msgid "Default Value"
-msgstr ""
+msgstr "디폴트 값"
 
 msgctxt "Modal/&ContentPropertyVariableDefaultValueBoolDescription"
 msgid "The default Boolean value of this variable when the campaign starts"
-msgstr ""
+msgstr "캠페인 시작 시 이 변수가 갖는 기본 논리연산자 값"
 
 msgctxt "Modal/&ContentPropertyVariableDefaultValueStringTitle"
 msgid "Default Value"
-msgstr ""
+msgstr "디폴트 값"
 
 msgctxt "Modal/&ContentPropertyVariableDefaultValueStringDescription"
 msgid "The default string value of this variable when the campaign starts"
-msgstr ""
+msgstr "캠페인 시작 시 이 변수가 갖는 기본 문자열 값"
 
 msgctxt "Modal/&ContentPropertyVariableBoolFalseTitle"
 msgid "FALSE"
-msgstr ""
+msgstr "거짓"
 
 msgctxt "Modal/&ContentPropertyVariableBoolTrueTitle"
 msgid "TRUE"
-msgstr ""
+msgstr "참"
 
 msgctxt "Modal/&SelectUserVariableTitle"
 msgid "Select a Variable"
-msgstr ""
+msgstr "변수 선택"
 
 msgctxt "Modal/&UserDialogSettingsTitle"
 msgid "Dialog Settings"
-msgstr ""
+msgstr "대화 설정"
 
 msgctxt "Modal/&ContentPropertyDamageAffinitiesTitle"
 msgid "Damage Affinities"
-msgstr ""
+msgstr "피해 경향성"
 
 msgctxt "Modal/&ContentPropertyDamageAffinitiesDescription"
 msgid ""
@@ -1405,7 +1388,7 @@ msgstr ""
 
 msgctxt "Modal/&DamageAffinityDamageTypeTitle"
 msgid "Damage"
-msgstr ""
+msgstr "피해"
 
 msgctxt "Modal/&DamageAffinityDamageTypeDescription"
 msgid "The type of damage for which the affinity is applied."
@@ -1422,39 +1405,39 @@ msgstr ""
 
 msgctxt "Modal/&DamageAffinityTypeNoneTitle"
 msgid "None"
-msgstr ""
+msgstr "없음"
 
 msgctxt "Modal/&DamageAffinityTypeNoneDescription"
 msgid "No specific affinity to damage."
-msgstr ""
+msgstr "특별한 피해 경향성이 없습니다."
 
 msgctxt "Modal/&DamageAffinityTypeResistanceTitle"
 msgid "Resistance"
-msgstr ""
+msgstr "저항"
 
 msgctxt "Modal/&DamageAffinityTypeResistanceDescription"
 msgid "Damage is halved."
-msgstr ""
+msgstr "피해가 반감됩니다."
 
 msgctxt "Modal/&DamageAffinityTypeVulnerabilityTitle"
 msgid "Vulnerability"
-msgstr ""
+msgstr "취약"
 
 msgctxt "Modal/&DamageAffinityTypeVulnerabilityDescription"
 msgid "Damage is doubled."
-msgstr ""
+msgstr "피해가 배가됩니다."
 
 msgctxt "Modal/&DamageAffinityTypeImmunityTitle"
 msgid "Immunity"
-msgstr ""
+msgstr "면역"
 
 msgctxt "Modal/&DamageAffinityTypeImmunityDescription"
 msgid "All damage is ignored."
-msgstr ""
+msgstr "모든 피해를 무시합니다."
 
 msgctxt "Modal/&SavingThrowAdvantageTitle"
 msgid "Save Advantage"
-msgstr ""
+msgstr "내성굴림 이점"
 
 msgctxt "Modal/&SavingThrowAdvantageDescription"
 msgid ""
@@ -1464,7 +1447,7 @@ msgstr ""
 
 msgctxt "Modal/&SavingThrowAdvantageNoneTitle"
 msgid "None"
-msgstr ""
+msgstr "없음"
 
 msgctxt "Modal/&SavingThrowAdvantageNoneDescription"
 msgid "No specific advantage/disadvantage."
@@ -1472,43 +1455,43 @@ msgstr ""
 
 msgctxt "Modal/&SavingThrowAdvantageAdvantageTitle"
 msgid "Advantage"
-msgstr ""
+msgstr "이점"
 
 msgctxt "Modal/&SavingThrowAdvantageAdvantageDescription"
 msgid "Advantage to saving throws."
-msgstr ""
+msgstr "내성굴림에 이점을 받습니다."
 
 msgctxt "Modal/&SavingThrowAdvantageDisadvantageTitle"
 msgid "Disadvantage"
-msgstr ""
+msgstr "불리점"
 
 msgctxt "Modal/&SavingThrowAdvantageDisadvantageDescription"
 msgid "Disadvantage to saving throws."
-msgstr ""
+msgstr "내성굴림에 불리점을 받습니다."
 
 msgctxt "Modal/&UserContentSelectionTitle"
 msgid "User Content Selection"
-msgstr ""
+msgstr "유저 컨텐츠 선택"
 
 msgctxt "Modal/&UserContentSelectAllButtonTitle"
 msgid "Select All"
-msgstr ""
+msgstr "모두 선택"
 
 msgctxt "Modal/&UserContentSelectAllButtonDescription"
 msgid "Select all the user content of this campaign."
-msgstr ""
+msgstr "이 캠페인의 모든 유저 컨텐츠를 선택합니다."
 
 msgctxt "Modal/&UserContentDeselectAllButtonTitle"
 msgid "Deselect All"
-msgstr ""
+msgstr "모두 선택 해제"
 
 msgctxt "Modal/&UserContentDeselectAllButtonDescription"
 msgid "Deselect all the user content of this campaign."
-msgstr ""
+msgstr "이 캠페인의 모든 유저 컨텐츠를 선택 해제합니다."
 
 msgctxt "Modal/&UserContentImportButtonTitle"
 msgid "Import"
-msgstr ""
+msgstr "불러오기"
 
 msgctxt "Modal/&UserContentImportButtonDescription"
 msgid "Import the selected content into the current campaign."
@@ -1516,7 +1499,7 @@ msgstr ""
 
 msgctxt "Modal/&UserContentExportButtonTitle"
 msgid "Export"
-msgstr ""
+msgstr "내보내기"
 
 msgctxt "Modal/&UserContentExportButtonDescription"
 msgid ""
@@ -1526,7 +1509,7 @@ msgstr ""
 
 msgctxt "Modal/&UserContentOverwriteToggleTitle"
 msgid "Overwrite Duplicates"
-msgstr ""
+msgstr "중복 덮어쓰기"
 
 msgctxt "Modal/&UserContentOverwriteToggleDescription"
 msgid ""
@@ -1561,7 +1544,7 @@ msgstr ""
 
 msgctxt "Modal/&UserContentAddItemOccurenceButtonTitle"
 msgid "Add Item"
-msgstr ""
+msgstr "아이템 추가"
 
 msgctxt "Modal/&UserContentAddItemOccurenceButtonDescription"
 msgid "Add an item to the loot pack, including quantity and probability."
@@ -1584,7 +1567,7 @@ msgstr ""
 
 msgctxt "Modal/&DialogSettingsAdditionalNpcsTitle"
 msgid "Additional NPCs"
-msgstr ""
+msgstr "추가 NPC"
 
 msgctxt "Modal/&DialogSettingsAdditionalNpcsDescription"
 msgid ""
@@ -1595,7 +1578,7 @@ msgstr ""
 
 msgctxt "Modal/&ContentPropertyMagicOvercomesTitle"
 msgid "Magic Overcomes?"
-msgstr ""
+msgstr "마법 저항성?"
 
 msgctxt "Modal/&ContentPropertyMagicOvercomesDescription"
 msgid ""
@@ -1605,11 +1588,11 @@ msgstr ""
 
 msgctxt "Modal/&MapWaypointNavigateVoteTitle"
 msgid "Waypoint Travel Vote"
-msgstr ""
+msgstr "경로 이동 투표"
 
 msgctxt "Modal/&MapWaypointNavigateVoteHostDescription"
 msgid "You suggest to move to:"
-msgstr ""
+msgstr "당신은 다음으로 이동하기를 제안했습니다:"
 
 msgctxt "Modal/&MapWaypointNavigateVoteClientDescription"
 msgid ""
@@ -1618,87 +1601,87 @@ msgstr ""
 
 msgctxt "Modal/&MultiplayerVotePlayerAnswersTitle"
 msgid "Waiting for other players to respond"
-msgstr ""
+msgstr "다른 플레이어 응답을 기다리는 중"
 
 msgctxt "Modal/&MultiplayerVoteCancelTitle"
 msgid "Cancel Vote"
-msgstr ""
+msgstr "투표 취소"
 
 msgctxt "Modal/&MultiplayerVoteCancelDescription"
 msgid "Cancel the vote in progress."
-msgstr ""
+msgstr "진행 중인 투표를 취소합니다."
 
 msgctxt "Modal/&MultiplayerVoteAcceptTitle"
 msgid "Accept"
-msgstr ""
+msgstr "수락"
 
 msgctxt "Modal/&MultiplayerVoteRejectTitle"
 msgid "Reject"
-msgstr ""
+msgstr "거부"
 
 msgctxt "Modal/&MultiplayerVoteClientStatusPendingTitle"
 msgid "Pending..."
-msgstr ""
+msgstr "기다리는 중…"
 
 msgctxt "Modal/&MultiplayerVoteClientStatusPendingDescription"
 msgid "Waiting for the player to accept the request."
-msgstr ""
+msgstr "다른 플레이어가 요청을 수락할 때까지 기다리는 중입니다."
 
 msgctxt "Modal/&MultiplayerVoteClientStatusAcceptedTitle"
 msgid "Accepted"
-msgstr ""
+msgstr "수락됨"
 
 msgctxt "Modal/&MultiplayerVoteClientStatusAcceptedDescription"
 msgid "The player has accepted the request."
-msgstr ""
+msgstr "플레이어가 요청을 수락했습니다."
 
 msgctxt "Modal/&MultiplayerWaitNotifyTitle"
 msgid "Notify"
-msgstr ""
+msgstr "재촉하기"
 
 msgctxt "Modal/&MultiplayerWaitNotifyDescription"
 msgid "Notify this player that you are waiting for him."
-msgstr ""
+msgstr "다른 플레이어에게 당신이 기다리고 있다는 사실을 알립니다."
 
 msgctxt "Modal/&MultiplayerWaitKickTitle"
 msgid "Kick"
-msgstr ""
+msgstr "추방"
 
 msgctxt "Modal/&MultiplayerWaitKickDescription"
 msgid "Kick this player from the game."
-msgstr ""
+msgstr "해당 플레이어를 게임에서 추방합니다."
 
 msgctxt "Modal/&MultiplayerWaitYouTitle"
 msgid "You are Ready"
-msgstr ""
+msgstr "준비 완료"
 
 msgctxt "Modal/&PostRestWaitTitle"
 msgid "Post-Rest Synchronization"
-msgstr ""
+msgstr "휴식 종료 합의"
 
 msgctxt "Modal/&PostRestWaitDescription"
 msgid "Waiting for other players to finish their rest sequence:"
-msgstr ""
+msgstr "다른 플레이어들이 각자의 휴식 과정을 마무리하는 것을 기다리고 있습니다:"
 
 msgctxt "Modal/&MultiplayerWaitClientStatusPendingTitle"
 msgid "Pending..."
-msgstr ""
+msgstr "기다리는 중…"
 
 msgctxt "Modal/&MultiplayerWaitClientStatusPendingDescription"
 msgid "Waiting for the player to accept the request."
-msgstr ""
+msgstr "다른 플레이어가 요청을 수락할 때까지 기다리는 중입니다."
 
 msgctxt "Modal/&MultiplayerWaitClientStatusReadyTitle"
 msgid "Ready"
-msgstr ""
+msgstr "준비 완료"
 
 msgctxt "Modal/&MultiplayerWaitClientStatusReadyDescription"
 msgid "The player is ready to proceed."
-msgstr ""
+msgstr "이 플레이어는 계속 진행할 준비가 됐습니다."
 
 msgctxt "Modal/&MultiplayerWaitQuitGameTitle"
 msgid "Quit Game"
-msgstr ""
+msgstr "게임 떠나기"
 
 msgctxt "Modal/&MultiplayerWaitQuitGameDescription"
 msgid ""
@@ -1708,11 +1691,11 @@ msgstr ""
 
 msgctxt "Modal/&DefaultTextInputTitle"
 msgid "Type some text"
-msgstr ""
+msgstr "글을 입력하세요"
 
 msgctxt "Modal/&DefaultPasswordInputTitle"
 msgid "Type a password"
-msgstr ""
+msgstr "비밀번호를 입력하세요"
 
 msgctxt "Modal/&ClearTitle"
 msgid "Clear"
@@ -1720,11 +1703,11 @@ msgstr ""
 
 msgctxt "Modal/&PostRestReadyPlayersDescription"
 msgid "Players ready:"
-msgstr ""
+msgstr "준비된 플레이어:"
 
 msgctxt "Modal/&KickTitle"
 msgid "Kick a player"
-msgstr ""
+msgstr "플레이어 추방하기"
 
 msgctxt "Modal/&KickDescription"
 msgid "Kick a player from your session:"
@@ -1736,15 +1719,15 @@ msgstr ""
 
 msgctxt "Modal/&ModioLoginEmail"
 msgid "Input your email"
-msgstr ""
+msgstr "이메일 입력"
 
 msgctxt "Modal/&ModioLoginSecurityCode"
 msgid "Input the Security Code"
-msgstr ""
+msgstr "보안 코드 입력"
 
 msgctxt "Modal/&ModioLoginRequest"
 msgid "Request Security Code"
-msgstr ""
+msgstr "보안 코드 요청"
 
 msgctxt "Modal/&ModioLoginAuthenticate"
 msgid "Authenticate"
@@ -1752,7 +1735,7 @@ msgstr ""
 
 msgctxt "Modal/&ModioLoginPoweredModio"
 msgid "Powered by mod.io"
-msgstr ""
+msgstr "Powered by mod.io"
 
 msgctxt "Modal/&ModioLoginAbout"
 msgid "About"
@@ -1865,11 +1848,9 @@ msgctxt "Modal/&MultiplayerRoomCreationErrorTitle"
 msgid "Room Creation Error"
 msgstr "방 생성 오류"
 
-#, fuzzy
-#| msgid "A room with this name already exists, please try another."
 msgctxt "Modal/&MultiplayerRoomCreationErrorDuplicateDescription"
 msgid "A room with this name already exists. Please try another one."
-msgstr "같은 이름의 방이 이미 존재합니다, 다른 이름으로 시도해 보십시오."
+msgstr "동일한 이름의 방이 이미 존재합니다, 다른 이름으로 시도해 보십시오."
 
 msgctxt "Modal/&MultiplayerRoomCreationErrorUnknownDescriptionFormat"
 msgid "Room could not be created: code {0}."
@@ -1879,15 +1860,11 @@ msgctxt "Modal/&MultiplayerConnexionErrorTitle"
 msgid "Connection Failed"
 msgstr "연결 실패"
 
-#, fuzzy
-#| msgid ""
-#| "Could not connect to the multiplayer services. Please ensure that you have a "
-#| "stable connection and try again."
 msgctxt "Modal/&MultiplayerConnexionErrorDescription"
 msgid ""
 "Could not connect to the Photon multiplayer services. Please ensure that you "
 "have a stable connection and try again."
-msgstr "멀티플레이어 서비스에 연결할 수 없습니다. 연결 상태를 점검하고 다시 시도해 보십시오."
+msgstr "Photon 멀티플레이어 서비스에 연결할 수 없습니다. 연결 상태를 점검하고 다시 시도해 보십시오."
 
 msgctxt "Modal/&MultiplayerRoomJoinErrorTitle"
 msgid "Join Room Failed"
@@ -1919,28 +1896,30 @@ msgstr "비밀번호가 일치하지 않습니다."
 
 msgctxt "Modal/&MultiplayerDisconnectedTitle"
 msgid "Cannot Connect to Photon"
-msgstr ""
+msgstr "Photon에 연결 불가"
 
 msgctxt "Modal/&MultiplayerDisconnectedDescription"
 msgid ""
 "Sorry, Photon Cloud is currently not available. Please check your internet "
 "connection and try again later."
-msgstr ""
+msgstr "죄송합니다, Photon Cloud가 현재 작동하지 않습니다. 인터넷 연결을 확인한 후 다시 시도해 주십시오."
 
 msgctxt "Modal/&MultiplayerDisconnectedReturnToMenuDescription"
 msgid ""
 "Sorry, Photon Cloud is currently not available. You can either keep playing "
 "offline or return to the main menu to try again later."
 msgstr ""
+"죄송합니다, Photon Cloud가 현재 작동하지 않습니다. 오프라인으로 이어서 플레이하거나, 메인 메뉴로 돌아가 나중에 다시 시도할 "
+"수 있습니다."
 
 msgctxt "Modal/&SessionPasswordInputTitle"
 msgid "Game Session Password"
-msgstr ""
+msgstr "게임 세션 비밀번호"
 
 msgctxt "Modal/&SessionPasswordInputDescription"
 msgid "You must input a valid password to enter the \"{0}\" game session."
-msgstr ""
+msgstr "\"{0}\" 게임 세션에 입장하기 위해선 유효한 비밀번호를 입력해야 합니다."
 
 msgctxt "Modal/&MultiplayerRoomJoinErrorGameAlreadyStartedDescription"
 msgid "The session has already started and cannot be joined."
-msgstr ""
+msgstr "세션이 이미 시작되어 입장할 수 없습니다."

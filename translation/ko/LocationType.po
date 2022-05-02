@@ -1,16 +1,18 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-01 18:44+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-05-02 04:03+0000\n"
+"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/"
+"locationtype/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.4.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "LocationType/&CaveDescription"
 msgid ""
@@ -130,8 +132,6 @@ msgctxt "LocationType/&Encounter_Jungle_Ruin_Title"
 msgid "Jungle Ruins"
 msgstr "정글 유적"
 
-#, fuzzy
-#| msgid "Pre-Cataclysmic ruins in the middle of the jungle."
 msgctxt "LocationType/&Encounter_Jungle_Ruin_Description"
 msgid "Pre-Cataclysm ruins in the middle of the jungle."
 msgstr "정글 속 대격변 이전 시대의 유적."
@@ -140,8 +140,6 @@ msgctxt "LocationType/&Encounter_Jungle_Road_Title"
 msgid "Jungle Road"
 msgstr "정글 길"
 
-#, fuzzy
-#| msgid "A road winds through the jungle."
 msgctxt "LocationType/&Encounter_Jungle_Road_Description"
 msgid "A road winding through the jungle."
 msgstr "정글을 감아도는 길."
@@ -150,8 +148,6 @@ msgctxt "LocationType/&Encounter_Jungle_River_Title"
 msgid "Jungle River"
 msgstr "정글 하천"
 
-#, fuzzy
-#| msgid "A clear and fast-flowing streampasses through the jungle."
 msgctxt "LocationType/&Encounter_Jungle_River_Description"
 msgid "A clear and fast-flowing stream passes through the jungle."
 msgstr "정글을 통과하는 깨끗한 급류."
@@ -160,17 +156,13 @@ msgctxt "LocationType/&Encounter_Jungle_Outpost_Description"
 msgid "One of the many outposts established by Orenetis to control the valley."
 msgstr "오레네티스가 계곡을 지배하기 위해 세운 수많은 전초기지 중 하나."
 
-#, fuzzy
-#| msgid "Megalith site"
 msgctxt "LocationType/&Encounter_Stonehenge_Title"
 msgid "Megalith Site"
 msgstr "거석 유적지"
 
-#, fuzzy
-#| msgid "An ancient archaelogical site with huge megaliths forming a circle."
 msgctxt "LocationType/&Encounter_Stonehenge_Description"
 msgid "An ancient archeological site with huge megaliths forming a circle."
-msgstr "원형으로 늘어선 거석들이 있는 오래된 고고학적 부지."
+msgstr "원형으로 늘어선 거석들이 있는 오래된 고고학 사적지."
 
 msgctxt "LocationType/&Encounter_Bridge_Title"
 msgid "Ruined Bridge"
@@ -200,11 +192,9 @@ msgctxt "LocationType/&DLC1_Encounter_SpiderNest_Title"
 msgid "Spider Nest"
 msgstr "거미 둥지"
 
-#, fuzzy
-#| msgid "TBD"
 msgctxt "LocationType/&DLC1_Encounter_SpiderNest_Description"
 msgid "Telerien indicated that this is a spider nest."
-msgstr "추후 추가"
+msgstr "텔레리엔이 이곳은 거미 둥지라 말했었습니다."
 
 msgctxt "LocationType/&Encounter_Jungle_Outpost1_Title"
 msgid "Chenna Outpost"
@@ -234,22 +224,16 @@ msgctxt "LocationType/&DLC1_Encounter_Anfarel_Town_Title"
 msgid "Caer Anfrel"
 msgstr "케어 앤프렐"
 
-#, fuzzy
-#| msgid ""
-#| "A typical Jungle town, and the home of a powerful family from Manacalon era, "
-#| "House Anfarel."
 msgctxt "LocationType/&DLC1_Encounter_Anfarel_Town_Description"
 msgid ""
 "A typical jungle town, and the home of a powerful family from the Manacalon "
 "era, the House of Anfarel."
-msgstr "전형적인 밀림 마을이자, 마나칼론 시대에 유력했던 가문, 안파렐 집안의 터전."
+msgstr "전형적인 정글 마을이자, 마나칼론 시대에 유력했던 가문, 안파렐 집안의 터전."
 
 msgctxt "LocationType/&DLC1_HuntingGrounds_Title"
 msgid "Hunting Grounds"
 msgstr "수렵장"
 
-#, fuzzy
-#| msgid "Henrik told you this is a good place to hunt Badlands Bears."
 msgctxt "LocationType/&DLC1_HuntingGrounds_Description"
 msgid "Henrik told you this is a good place to hunt Badlands bears."
 msgstr "헨릭의 얘기로는 황무지 곰을 잡기에 최고라 합니다."

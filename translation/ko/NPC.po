@@ -1,16 +1,17 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-01 18:44+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-05-02 04:03+0000\n"
+"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/npc/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.4.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "NPC/&Kaseinax_Magister_Title"
 msgid "The Magister"
@@ -594,103 +595,103 @@ msgstr "아드라스테이아"
 
 msgctxt "NPC/&NPC_DLC_Mask_Fighter_Title"
 msgid "Mask Fighter"
-msgstr ""
+msgstr "마스크 전사"
 
 msgctxt "NPC/&NPC_DLC_Mask_Fighter_Description"
 msgid "A combatant serving the mysterious organization known as The Mask."
-msgstr ""
+msgstr "마스크라 알려진 수수께끼의 조직을 섬기는 전투원."
 
 msgctxt "NPC/&NPC_DLC_Mask_Cleric_Title"
 msgid "Mask Cleric"
-msgstr ""
+msgstr "마스크 사제"
 
 msgctxt "NPC/&NPC_DLC_Mask_Cleric_Description"
 msgid "A cleric serving the mysterious organization known as The Mask."
-msgstr ""
+msgstr "마스크라 알려진 수수께끼의 조직을 섬기는 사제."
 
 msgctxt "NPC/&NPC_DLC_Mask_Spy_Title"
 msgid "Mask Spy"
-msgstr ""
+msgstr "마스크 첩자"
 
 msgctxt "NPC/&NPC_DLC_Mask_Spy_Description"
 msgid "A spy serving the mysterious organization known as The Mask."
-msgstr ""
+msgstr "마스크라 알려진 수수께끼의 조직을 섬기는 첩자."
 
 msgctxt "NPC/&NPC_DLC_Rebellion_Marksman_Title"
 msgid "Rebel Marksman"
-msgstr ""
+msgstr "반군 명사수"
 
 msgctxt "NPC/&NPC_DLC_Rebellion_Marksman_Description"
 msgid "An archer of the rebel army."
-msgstr ""
+msgstr "반군의 궁수."
 
 msgctxt "NPC/&NPC_DLC_Tower_Watchman_Title"
 msgid "Watchman"
-msgstr ""
+msgstr "보초병"
 
 msgctxt "NPC/&NPC_DLC_Tower_Watchman_Description"
 msgid "A soldier posted to stop intruders."
-msgstr ""
+msgstr "침입자를 저지하기 위해 세운 병사."
 
 msgctxt "NPC/&NPC_DLC_Praetorian_Title"
 msgid "Praetorian"
-msgstr ""
+msgstr "근위병"
 
 msgctxt "NPC/&NPC_DLC_Praetorian_Description"
 msgid "An elite soldier serving Orenetis as a personal guard."
-msgstr ""
+msgstr "오레네티스를 호위하며 섬기는 정예병."
 
 msgctxt "NPC/&NPC_DLC_ShoutingStone"
 msgid "Shouting Stone"
-msgstr ""
+msgstr "고함치는 돌"
 
 msgctxt "NPC/&NPC_DLC_ShoutingStone_Description"
 msgid "You don't want to know."
-msgstr ""
+msgstr "알고 싶지 않을 겁니다."
 
 msgctxt "NPC/&NPC_DLC_TownCrier"
 msgid "Town Crier"
-msgstr ""
+msgstr "포고자"
 
 msgctxt "NPC/&NPC_DLC_TownCrier_Description"
 msgid "An official speaker of the Dominion who announces the latest news."
-msgstr ""
+msgstr "최신 소식을 알리는 자치령의 공식 대변인."
 
 msgctxt "NPC/&NPC_Hendeolas_Title"
 msgid "Hendeolas Anfarel"
-msgstr ""
+msgstr "헨데올라스 안파렐"
 
 msgctxt "NPC/&NPC_Hendeolas_Description"
 msgid "The leader of the Rebellion is actually... a mummy lord!"
-msgstr ""
+msgstr "반군 우두머리의 정체란 바로… 미이라 군주였습니다!"
 
 msgctxt "NPC/&NPC_Orenetis_RealName"
 msgid "Periphanos the Inquisitive Mind"
-msgstr ""
+msgstr "탐구심 깊은 페리파노스"
 
 msgctxt "NPC/&NPC_DLC3_Violet_Title"
 msgid "Master Violet Goodcheer"
-msgstr ""
+msgstr "마스터 바이올렛 굿치어"
 
 msgctxt "NPC/&NPC_DLC3_Violet_Description"
 msgid ""
 "Violet is a reknowned Shock Arcanist of the Circle of Danantar, famous for "
 "her discoveries in the ruins of Telema, in the Badlands."
-msgstr ""
+msgstr "바이올렛은 다난타르 서클의 저명한 쇼크 아르카니스트로, 황무지에 위치한 텔레마 유적에 대한 발견으로 유명합니다."
 
 msgctxt "NPC/&NPC_DLC3_Vigdis_Title"
 msgid "Vigdis Kaikonnen"
-msgstr ""
+msgstr "비그디스 카이코넨"
 
 msgctxt "NPC/&NPC_DLC3_Vigdis_Description"
 msgid ""
 "Daughter of the clan head of the Kaikonnen clan in the Snow Alliance, Vigdis "
 "is a renowned Battle Cleric of Einar."
-msgstr ""
+msgstr "설산 동맹의 일원인 카이코넨 가문의 가주의 딸로서, 비그디스는 에이나르의 전투사제로도 유명합니다."
 
 msgctxt "NPC/&NPC_DLC3_Garrad_Title"
 msgid "Garrad Miles"
-msgstr ""
+msgstr "가라드 마일즈"
 
 msgctxt "NPC/&NPC_DLC3_Garrad_Description"
 msgid ""
@@ -698,10 +699,12 @@ msgid ""
 "and enlisted as officer in the army of the Snow Alliance, where he formed a "
 "corps of ex-mercenaries looking for a cause greater than just gold."
 msgstr ""
+"전직 용병 가라드 마일즈는 카이코넨 가문과 가까운 친구가 되어 설산 동맹의 장교로 임용되었습니다. 가라드는 돈보다 가치 있는 것들을 "
+"찾아다니는 전직 용병들을 모아, 그곳에서 새로운 부대 하나를 창설했습니다."
 
 msgctxt "NPC/&NPC_DLC3_Rhuad_Title"
 msgid "Quartermaster Swifthand"
-msgstr ""
+msgstr "보급관 스위프트핸드"
 
 msgctxt "NPC/&NPC_DLC3_Rhuad_Description"
 msgid ""
@@ -709,10 +712,12 @@ msgid ""
 "his raid on the ruins of Telema, and stayed with the Scavengers to become "
 "head of the local outpost."
 msgstr ""
+"전직 모험가이자 탐욕스러운 약탈자, 루아드 스위프트핸드는 텔레마 유적을 뒤지던 중 이곳에 애착을 느껴, 스캐빈저들과 이곳 기지의 "
+"우두머리가 되고자 머무르게 됐습니다."
 
 msgctxt "NPC/&NPC_DLC3_Lena_Title"
 msgid "Lena Swifthand"
-msgstr ""
+msgstr "레나 스위프트핸드"
 
 msgctxt "NPC/&NPC_DLC3_Lena_Description"
 msgid ""
@@ -721,6 +726,8 @@ msgid ""
 "later married Rhuad Swifthand and stayed at Telema to create a Scavenger "
 "outpost."
 msgstr ""
+"레나는 그녀의 첫 임무에서 오크들과의 혈전을 벌였음에도 살아남은 노련한 스캐빈저로, 텔레마 전투에서 소락들과 싸웠습니다. 레나는 그 후 "
+"루아드 스위프트핸드과 결혼해 스캐빈저 거점을 만들기 위해 텔레마에 남았습니다."
 
 msgctxt "NPC/&Guard_Captain_Title"
 msgid "Guard Captain"
@@ -766,11 +773,9 @@ msgctxt "NPC/&Mana_Crafter_Title"
 msgid "Mana Crafter"
 msgstr "마나 공예가"
 
-#, fuzzy
-#| msgid "Sitenero"
 msgctxt "NPC/&Mana_Scholar_Title"
 msgid "Mana Scholar"
-msgstr "시테네로"
+msgstr "마나 학자"
 
 msgctxt "NPC/&Mana_Scientist_Title"
 msgid "Mana Scientist"
@@ -836,11 +841,9 @@ msgctxt "NPC/&NPC_Forge_Charmer_Title"
 msgid "Charmer"
 msgstr "매력가"
 
-#, fuzzy
-#| msgid "Cook"
 msgctxt "NPC/&NPC_Forge_Cook_Title"
 msgid "Badri"
-msgstr "요리사"
+msgstr "바드리"
 
 msgctxt "NPC/&NPC_Swamp_HillGiant_Title"
 msgid "Rugan"
@@ -886,8 +889,6 @@ msgctxt "NPC/&NPC_Mask_CafrainShadow"
 msgid "Cafrain Shadow"
 msgstr "카프레인 섀도"
 
-#, fuzzy
-#| msgid "Finaliel Sharp-Mind"
 msgctxt "NPC/&NPC_Orenetis_Finaliel"
 msgid "Finaliel Sharpmind"
 msgstr "피날리엘 샤프마인드"
@@ -908,117 +909,81 @@ msgctxt "NPC/&NPC_DLC1_ThePeople_Tortured"
 msgid "Prisoner"
 msgstr "수감자"
 
-#, fuzzy
-#| msgid "Robert"
 msgctxt "NPC/&NPC_Forge_Escorted_01"
 msgid "Badri"
-msgstr "로버트"
+msgstr "바드리"
 
-#, fuzzy
-#| msgid "Gertrude"
 msgctxt "NPC/&NPC_Forge_Escorted_02"
 msgid "Gerta"
-msgstr "게트루드"
+msgstr "게르타"
 
-#, fuzzy
-#| msgid "Tuznut"
 msgctxt "NPC/&NPC_Tuznut_Title"
 msgid "Tuznan Anfarel"
-msgstr "터즈넛"
+msgstr "터즈넌 안파렐"
 
-#, fuzzy
-#| msgid "TBD"
 msgctxt "NPC/&NPC_Tuznut_Description"
 msgid "An adventurer without much experience."
-msgstr "추후 추가"
+msgstr "경험이 많지 않은 모험가."
 
 msgctxt "NPC/&NPC_Forge_Guard_Title"
 msgid "Guard"
 msgstr "경비병"
 
-#, fuzzy
-#| msgid "TBD"
 msgctxt "NPC/&NPC_Forge_Guard_Description"
 msgid "A typical guard at the Forge camp."
-msgstr "추후 추가"
+msgstr "포지 야영지의 흔한 경비병."
 
-#, fuzzy
-#| msgid "TBD"
 msgctxt "NPC/&NPC_Forge_Charmer_Description"
 msgid "A member of the Forge camp."
-msgstr "추후 추가"
+msgstr "포지 야영지의 일원."
 
-#, fuzzy
-#| msgid "TBD"
 msgctxt "NPC/&NPC_Forge_Hasdrubal_Description"
 msgid "Leader of the Forge."
-msgstr "추후 추가"
+msgstr "포지의 지도자."
 
-#, fuzzy
-#| msgid "TBD"
 msgctxt "NPC/&NPC_Forge_Ravener_Description"
 msgid "The Forge's master hunter."
-msgstr "추후 추가"
+msgstr "포지의 수렵대장."
 
-#, fuzzy
-#| msgid "TBD"
 msgctxt "NPC/&NPC_Forge_Cook_Description"
 msgid "The Forge's master cook."
-msgstr "추후 추가"
+msgstr "포지의 주방장."
 
-#, fuzzy
-#| msgid "TBD"
 msgctxt "NPC/&NPC_Forge_Merchant_Description"
 msgid "The Forge camp's merchant."
-msgstr "추후 추가"
+msgstr "포지 야영지의 상인."
 
-#, fuzzy
-#| msgid "TBD"
 msgctxt "NPC/&NPC_Forge_Escorted_01_Description"
 msgid "Badri, the Forge envoy."
-msgstr "추후 추가"
+msgstr "포지의 사절, 바드리."
 
-#, fuzzy
-#| msgid "TBD"
 msgctxt "NPC/&NPC_Forge_Escorted_02_Description"
 msgid "Gerta, the Forge bodyguard."
-msgstr "추후 추가"
+msgstr "포지 경호원, 게르타."
 
-#, fuzzy
-#| msgid "TBD"
 msgctxt "NPC/&NPC_Forge_Merchant_Title"
 msgid "Hanno Mudstrider"
-msgstr "추후 추가"
+msgstr "하노 머드스트라이더"
 
-#, fuzzy
-#| msgid "TBD"
 msgctxt "NPC/&NPC_Swamp_HillGiant_Description"
 msgid "A friendly giant."
-msgstr "추후 추가"
+msgstr "친근한 거인."
 
-#, fuzzy
-#| msgid "TBD"
 msgctxt "NPC/&NPC_Swamp_Apprentice_Description"
 msgid "An odd-looking elf wizard."
-msgstr "추후 추가"
+msgstr "괴상쩍어 보이는 엘프 위저드."
 
-#, fuzzy
-#| msgid "Jakkon"
 msgctxt "NPC/&DLC1_NPC_Jakson_Title"
 msgid "Hannik"
-msgstr "자콘"
+msgstr "하닉"
 
-#, fuzzy
-#| msgid "TBD"
 msgctxt "NPC/&DLC1_NPC_Jakson_Description"
 msgid "Hannik is a popular musician in the capital."
-msgstr "추후 추가"
+msgstr "하닉은 도읍에서 유명한 음악가입니다."
 
-#, fuzzy
-#| msgid "TBD Sitenero"
 msgctxt "NPC/&Mana_Scholar_Description"
 msgid "This elf looks exactly like Orenetis…"
-msgstr "미정 시테네로"
+msgstr "이 엘프는 오레네티스와 완전히 똑같아 보입니다…"
 
 msgctxt "NPC/&Sitinero_Title"
 msgid "Sitenero"
@@ -1032,14 +997,10 @@ msgctxt "NPC/&DLC1_NPC_Vando_Klarn"
 msgid "Vando Klarn"
 msgstr "반도 클란"
 
-#, fuzzy
-#| msgid "Captain Sharp-Eyes"
 msgctxt "NPC/&DLC1_NPC_CityGuard_Captain_Sharp"
 msgid "Lieutenant Sharpeyes"
-msgstr "샤프아이즈 대장"
+msgstr "샤프아이즈 중위"
 
-#, fuzzy
-#| msgid "Noble"
 msgctxt "NPC/&DLC1_NPC_Nobleman_ThePeople03_Title"
 msgid "Nobleman"
 msgstr "귀족"
@@ -1052,8 +1013,6 @@ msgctxt "NPC/&NPC_Red"
 msgid "Red"
 msgstr "레드"
 
-#, fuzzy
-#| msgid "Forge quartermaster"
 msgctxt "NPC/&NPC_Valley_Telerien_Purevoice_Speak"
 msgid "Forge Quartermaster"
 msgstr "포지 보급관"
@@ -1068,98 +1027,98 @@ msgstr "게일 헌트"
 
 msgctxt "NPC/&NPC_Dominion_Soldier_Title"
 msgid "Dominion Soldier"
-msgstr ""
+msgstr "자치령 병사"
 
 msgctxt "NPC/&NPC_Dominion_Soldier_Description"
 msgid "A trooper in the Dominion's military forces."
-msgstr ""
+msgstr "자치령 군의 부대원입니다."
 
 msgctxt "NPC/&NPC_Dominion_Archer_Title"
 msgid "Dominion Archer"
-msgstr ""
+msgstr "자치령 궁수"
 
 msgctxt "NPC/&NPC_Dominion_Archer_Description"
 msgid "An archer in the Dominion's military forces."
-msgstr ""
+msgstr "자치령 군의 궁수입니다."
 
 msgctxt "NPC/&NPC_Dominion_Arcanist_Title"
 msgid "Dominion Arcanist"
-msgstr ""
+msgstr "자치령 비전술사"
 
 msgctxt "NPC/&NPC_Dominion_Arcanist_Description"
 msgid "A battle mage in the Dominion's military forces."
-msgstr ""
+msgstr "자치령 군의 전투 마도사입니다."
 
 msgctxt "NPC/&NPC_Dominion_Praetorian_Title"
 msgid "Dominion Praetorian"
-msgstr ""
+msgstr "자치령 근위병"
 
 msgctxt "NPC/&NPC_Dominion_Praetorian_Description"
 msgid "An elite warrior from the Lord Protector's personal guard."
-msgstr ""
+msgstr "섭정의 개인 경호를 맡은 정예병입니다."
 
 msgctxt "NPC/&NPC_Rebellion_Blue"
 msgid "Blue"
-msgstr ""
+msgstr "블루"
 
 msgctxt "NPC/&NPC_Rebellion_Blue_Description"
 msgid "Rebellion Negotiator"
-msgstr ""
+msgstr "반군 협상가"
 
 msgctxt "NPC/&NPC_Dominion_Rookie_Title"
 msgid "Dominion Rookie"
-msgstr ""
+msgstr "자치령 신병"
 
 msgctxt "NPC/&NPC_Dominion_Rookie_Description"
 msgid "A young and inexperienced fighter serving the Dominion."
-msgstr ""
+msgstr "도미니언을 위해 싸우는 젊고 경험 부족한 전사입니다."
 
 msgctxt "NPC/&MaskMerchant_Yasmin_Title"
 msgid "Yasmin"
-msgstr ""
+msgstr "야스민"
 
 msgctxt "NPC/&MaskMerchant_Yasmin_Description"
 msgid "The Mask's Quartermaster"
-msgstr ""
+msgstr "마스크의 보급관"
 
 msgctxt "NPC/&NPC_DLC_Rebellion_Soldier_Title"
 msgid "Rebel Fighter"
-msgstr ""
+msgstr "반군 전사"
 
 msgctxt "NPC/&NPC_DLC_Rebellion_Soldier_Description"
 msgid "A member of the Rebellion, ready to die fighting the Dominion."
-msgstr ""
+msgstr "목숨 걸고 자치령과 싸울 각오가 된, 반군의 일원."
 
 msgctxt "NPC/&NPC_DLC1_Drooly_Title"
 msgid "Drooly"
-msgstr ""
+msgstr "드룰리"
 
 msgctxt "NPC/&NPC_DLC1_Drooly_Description"
 msgid ""
 "Some kind of pet wolf. It looks like a nice little doggy - but with big "
 "fangs."
-msgstr ""
+msgstr "일종의 애완 늑대. 작고 귀여운 강아지처럼 보이지만- 커다란 송곳니가 달려 있습니다."
 
 msgctxt "NPC/&NPC_Forge_Guard_HalflingScout_Title"
 msgid "Forge Scout"
-msgstr ""
+msgstr "포지 정찰병"
 
 msgctxt "NPC/&NPC_Forge_Guard_HalflingScout_Description"
 msgid "A typical member of the Forge: small, sneaky, and stout."
-msgstr ""
+msgstr "포지의 흔한 일원: 작고, 은밀하며, 통통합니다."
 
 msgctxt "NPC/&NPC_Forge_Guard_HalfElfRanger_Title"
 msgid "Forge Ranger"
-msgstr ""
+msgstr "포지 유격대원"
 
 msgctxt "NPC/&NPC_Forge_Guard_HalfElfRanger_Description"
 msgid "A typical member of the Forge: an excellent combatant and archer."
-msgstr ""
+msgstr "포지의 흔한 일원: 뛰어난 전투원이자 궁수입니다."
 
 msgctxt "NPC/&NPC_Forge_Guard_HumanDruid_Title"
 msgid "Forge Druid"
-msgstr ""
+msgstr "포지 드루이드"
 
 msgctxt "NPC/&NPC_Forge_Guard_HumanDruid_Description"
 msgid "A typical member of the Forge, linking the faction with nature."
-msgstr ""
+msgstr "포지의 흔한 일원으로, 포지를 자연과 이어줍니다."

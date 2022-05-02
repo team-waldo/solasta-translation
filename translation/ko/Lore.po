@@ -1,16 +1,17 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-01 18:44+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-05-02 04:03+0000\n"
+"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/lore/ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.4.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "Lore/&ObservableText_Wanderer_01"
 msgid "You need a lever to activate the rail switcher."
@@ -62,8 +63,6 @@ msgctxt "Lore/&ObservableText_DLC1_Complex_01"
 msgid "According to this document, this building has an underground level!"
 msgstr "이 서류에 의하면, 이 건물엔 지하층이 있습니다!"
 
-#, fuzzy
-#| msgid "It seems the whole complex using some kind of mana prisms as keys."
 msgctxt "Lore/&ObservableText_DLC1_Complex_02"
 msgid "It seems the whole complex uses some kind of mana prisms as keys."
 msgstr "복합단지 전체가 일종의 마나 프리즘을 열쇠로 사용하는 것 같습니다."
@@ -76,54 +75,36 @@ msgctxt "Lore/&ObservableText_DLC1_Complex_04"
 msgid "Advanced Study of Biology"
 msgstr "생물학에 관한 심화 연구"
 
-#, fuzzy
-#| msgid "Mana and the Principles of Magically-Powered Elements"
 msgctxt "Lore/&ObservableText_DLC1_Complex_05"
 msgid "Mana and the Principles of Magically Powered Elements"
 msgstr "마나와 마력에 의해 구동되는 원소에 대한 기초 원리"
 
-#, fuzzy
-#| msgid ""
-#| "A small note reading: \"Access to the Tunnels is currently blocked. Use the "
-#| "elevator if you need to reach the lower levels.\""
 msgctxt "Lore/&ObservableText_DLC1_Complex_06"
 msgid ""
 "A small note that says: \"Access to the Tunnels is currently blocked. Use "
 "the elevator if you need to reach the lower levels.\""
-msgstr "작은 노트조각에 다음과 같이 적혀있습니다: \"터널 진입로는 현재 막혔습니다. 하층부에 가야 할 경우 승강기를 이용하십시오.\""
+msgstr "작은 노트조각의 내용은 다음과 같습니다: \"터널 진입로는 현재 막혔습니다. 하층부에 가야 할 경우 승강기를 이용하십시오.\""
 
-#, fuzzy
-#| msgid "TBC"
 msgctxt "Lore/&ObservableText_DLC1_Marches_01"
 msgid "Obsolete"
-msgstr "알 수 없음"
+msgstr "폐기"
 
-#, fuzzy
-#| msgid "TBC"
 msgctxt "Lore/&ObservableText_DLC1_Marches_02"
 msgid "Obsolete"
-msgstr "알 수 없음"
+msgstr "폐기"
 
-#, fuzzy
-#| msgid "TBC"
 msgctxt "Lore/&ObservableText_DLC1_Marches_03"
 msgid "Obsolete"
-msgstr "알 수 없음"
+msgstr "폐기"
 
-#, fuzzy
-#| msgid "TBC"
 msgctxt "Lore/&ObservableText_DLC1_Marches_04"
 msgid "Obsolete"
-msgstr "알 수 없음"
+msgstr "폐기"
 
-#, fuzzy
-#| msgid "TBC"
 msgctxt "Lore/&ObservableText_DLC1_Marches_05"
 msgid "Obsolete"
-msgstr "알 수 없음"
+msgstr "폐기"
 
-#, fuzzy
-#| msgid "TBC"
 msgctxt "Lore/&ObservableText_DLC1_Marches_06"
 msgid "Obsolete"
-msgstr "알 수 없음"
+msgstr "폐기"
