@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-01 18:44+0900\n"
-"PO-Revision-Date: 2022-05-02 04:03+0000\n"
+"PO-Revision-Date: 2022-05-05 12:41+0000\n"
 "Last-Translator: Sh K. <wjswn244@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/rules/ko/>"
 "\n"
@@ -2665,7 +2665,7 @@ msgstr "HP를 회복할 수 없습니다."
 
 msgctxt "Rules/&ConditionRousingShoutTitle"
 msgid "Bolstered by Rousing Shout"
-msgstr ""
+msgstr "격려의 함성으로 고취됨"
 
 msgctxt "Rules/&ConditionRousingShoutDescription"
 msgid "Advantage on your next attack."
@@ -2681,7 +2681,7 @@ msgstr "대상은 위협의 원인에게 가하는 공격에 불리점을 받습
 
 msgctxt "Rules/&ConditionBorrowedLuckTitle"
 msgid "Borrowed Luck"
-msgstr "행운 빌리기"
+msgstr "행운 당겨쓰기"
 
 msgctxt "Rules/&ConditionBorrowedLuckDescription"
 msgid "You have disadvantage on your next saving throw."
@@ -2697,7 +2697,7 @@ msgstr "아무것도 아닙니다"
 
 msgctxt "Rules/&ConditionRangerSwiftBladeBattleFocusTitle"
 msgid "Battle Focused"
-msgstr ""
+msgstr "몰입 전투 상태"
 
 msgctxt "Rules/&ConditionRangerSwiftBladeBattleFocusDescription"
 msgid ""
@@ -2707,7 +2707,7 @@ msgstr "당신의 다음 턴 시작까지, 당신이 가하는 모든 근접무�
 
 msgctxt "Rules/&ConditionOathOfJugementWeightOfJusticeTitle"
 msgid "Weight of Justice"
-msgstr ""
+msgstr "정의의 무게"
 
 msgctxt "Rules/&ConditionOathOfJugementWeightOfJusticeDescription"
 msgid ""
@@ -2717,7 +2717,7 @@ msgstr "다음 한 번, 당신이 근접 무기공격으로 크리쳐 하나를 
 
 msgctxt "Rules/&ConditionOathOfJugementAuraOfRighteousnessTitle"
 msgid "Aura of Righteousness"
-msgstr ""
+msgstr "의로움의 아우라"
 
 msgctxt "Rules/&ConditionOathOfJugementAuraOfRighteousnessDescription"
 msgid ""
@@ -2727,11 +2727,11 @@ msgstr "당신이 가하는 공격 피해량에, 아우라를 방출하는 팔�
 
 msgctxt "Rules/&SpellSlotFormRechargePowerFormat"
 msgid "Recharges the {0} power."
-msgstr ""
+msgstr "사용량 {0}회를 충전합니다."
 
 msgctxt "Rules/&ConditionCircleBalanceGiftOfLifeTitle"
 msgid "Gift of Life"
-msgstr ""
+msgstr "생명의 선물"
 
 msgctxt "Rules/&ConditionCircleBalanceGiftOfLifeDescription"
 msgid "Regain hit points at the start of the caster's next turn."
@@ -2739,7 +2739,7 @@ msgstr "시전자의 다음 차례 시작에 HP를 회복합니다."
 
 msgctxt "Rules/&ConditionCircleBalanceEmbracedByColdTitle"
 msgid "Embraced by Cold"
-msgstr ""
+msgstr "냉랭한 포옹"
 
 msgctxt "Rules/&ConditionCircleBalanceEmbracedByColdDescription"
 msgid "The creature cannot regain hit points."

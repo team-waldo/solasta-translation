@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-01 18:44+0900\n"
-"PO-Revision-Date: 2022-05-02 04:03+0000\n"
+"PO-Revision-Date: 2022-05-05 12:41+0000\n"
 "Last-Translator: Sh K. <wjswn244@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/reaction/"
 "ko/>\n"
@@ -519,13 +519,13 @@ msgstr "내성굴림에 성공하기 위해 주사위를 다시 굴립니다."
 
 msgctxt "Reaction/&BorrowLuckTitle"
 msgid "Borrow Luck"
-msgstr "행운 빌리기"
+msgstr "행운 당겨쓰기"
 
 msgctxt "Reaction/&BorrowLuckDescription"
 msgid ""
 "{0} has failed a saving throw against {1}, but can attempt to reroll it at "
 "the cost of disadvantage on the next saving throw."
-msgstr "{0}은(는) {1}로 인한 내성굴림에 실패했지만, 다음 내성굴림에 불리점을 받고 재굴림을 시도할 수 있습니다."
+msgstr "{0}은(는) {1}로 인한 내성굴림에 실패했지만, 다음 내성굴림에 불리점을 받고 이번 굴림을 다시 시도할 시도할 수 있습니다."
 
 msgctxt "Reaction/&SpendPowerPowerDomainMischiefStrikeOfChaosReactTitle"
 msgid "Strike"
@@ -539,7 +539,7 @@ msgstr "신성 변환을 사용해 정신 피해를 더하고 대상에게 무�
 
 msgctxt "Reaction/&SpendPowerPowerDomainMischiefElusiveTargetTitle"
 msgid "Elusive Target"
-msgstr "종잡을 수 없는 목표"
+msgstr "미꾸라지 같은 표적"
 
 msgctxt "Reaction/&SpendPowerPowerDomainMischiefElusiveTargetDescription"
 msgid ""

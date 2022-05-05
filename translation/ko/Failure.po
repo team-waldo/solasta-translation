@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-01 18:44+0900\n"
-"PO-Revision-Date: 2022-05-02 04:03+0000\n"
+"PO-Revision-Date: 2022-05-05 12:41+0000\n"
 "Last-Translator: Sh K. <wjswn244@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/failure/ko/"
 ">\n"
@@ -386,15 +386,15 @@ msgstr "최소/최대 캐릭터 레벨이 일치하지 않습니다"
 
 msgctxt "Failure/&FailureGadgetNotInRoom"
 msgid "The gadget must be placed inside an existing room"
-msgstr "장치는 기존 방 안에 배치되어야 합니다"
+msgstr "도구는 기존 방 안에 배치되어야 합니다"
 
 msgctxt "Failure/&FailureGadgetOutOfRoomBounds"
 msgid "The gadget is outside the bounds of this room"
-msgstr "장치가 이 방의 범위를 벗어났습니다"
+msgstr "도구가 이 방의 범위를 벗어났습니다"
 
 msgctxt "Failure/&FailureGadgetOverlapExisting"
 msgid "The gadget is overlapping another gadget or prop"
-msgstr "장치가 다른 장치 또는 물체와 겹칩니다"
+msgstr "도구가 다른 도구 또는 물체와 겹칩니다"
 
 msgctxt "Failure/&FailurePropNotInRoom"
 msgid "The prop must be placed inside an existing room"
@@ -406,7 +406,7 @@ msgstr "물체가 이 방의 범위를 벗어났습니다"
 
 msgctxt "Failure/&FailurePropOverlapExisting"
 msgid "The prop is overlapping another gadget or prop"
-msgstr "물체가 다른 장치 또는 물체와 겹칩니다"
+msgstr "물체가 다른 도구 또는 물체와 겹칩니다"
 
 msgctxt "Failure/&FailureInvalidPosition"
 msgid "Invalid Position"
@@ -414,7 +414,7 @@ msgstr "잘못된 위치입니다"
 
 msgctxt "Failure/&FailureGadgetInvalidParameters"
 msgid "Some of the parameters of this gadget are invalid"
-msgstr "이 장치의 일부 값이 잘못되었습니다"
+msgstr "이 도구의 일부 값이 잘못되었습니다"
 
 msgctxt "Failure/&FailureRoomOverlapExisting"
 msgid "The room is overlapping another room"
@@ -434,7 +434,7 @@ msgstr "지역에 대한 설명은 저작권 용어 \"{0}\"을(를) 사용합니
 
 msgctxt "Failure/&FailureFlagCopyrightInfringementLoreGadget"
 msgid "The \"{0}\" gadget uses the copyrighted term \"{1}\""
-msgstr "\"{0}\" 장치는 저작권 용어 \"{1}\"을(를) 사용합니다"
+msgstr "\"{0}\" 도구는 저작권 용어 \"{1}\"을(를) 사용합니다"
 
 msgctxt "Failure/&FailureFlagMustMoveToRotate"
 msgid "This object is not square. You must move it to rotate it"
@@ -446,7 +446,7 @@ msgstr "플레이 테스트를 하기 전에 당신의 지역을 저장해야 �
 
 msgctxt "Failure/&EditorCannotSelectSourceGadget"
 msgid "Cannot select the source gadget"
-msgstr "근본 장치를 선택할 수 없습니다"
+msgstr "소스 도구를 선택할 수 없습니다"
 
 msgctxt "Failure/&FailureFlagOnlyInBattle"
 msgid "Only in battle"
@@ -458,7 +458,7 @@ msgstr "지역에는 입구 인덱스가 0인 입구가 하나 있어야 합니�
 
 msgctxt "Failure/&FailureGadgetInvalidPlacement"
 msgid "The gadget placement is invalid"
-msgstr "장치 배치가 잘못되었습니다"
+msgstr "도구 배치가 잘못되었습니다"
 
 msgctxt "Failure/&FailurePropInvalidPlacement"
 msgid "The prop placement is invalid"
@@ -470,7 +470,7 @@ msgstr "활성화할 수 없습니다"
 
 msgctxt "Failure/&FailureEditorCannotSelectDuplicateGadget"
 msgid "Already activated by this gadget"
-msgstr "이미 이 장치에 의해 활성화되었습니다"
+msgstr "이미 이 도구에 의해 활성화되었습니다"
 
 msgctxt "Failure/&FailureCampaignMustContainOneLocation"
 msgid "The campaign must have at least one location"
@@ -510,7 +510,7 @@ msgstr "이 아이템 내용은 저작권이 있는 용어 \"{0}\"을 포함하�
 
 msgctxt "Failure/&FailureEditorInvalidTargetGadgetTag"
 msgid "The gadget does not match the correct type: {0}"
-msgstr "이 장치는 올바른 타입 {0}과 일치하지 않습니다"
+msgstr "이 도구는 올바른 타입 {0}과 일치하지 않습니다"
 
 msgctxt "Failure/&FailureFlagSessionClientCannotRest"
 msgid "Only the host may start a long rest."
