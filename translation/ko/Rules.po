@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-01 18:44+0900\n"
-"PO-Revision-Date: 2022-05-05 12:41+0000\n"
+"PO-Revision-Date: 2022-05-08 12:04+0000\n"
 "Last-Translator: Sh K. <wjswn244@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/rules/ko/>"
 "\n"
@@ -2639,12 +2639,12 @@ msgstr "이 크리쳐는 자신 차례에 수행하는 근접 공격에 이점�
 
 msgctxt "Rules/&ConditionRecklessVulnerabilityTitle"
 msgid "Reckless Vulnerability"
-msgstr "무모한 취약성"
+msgstr "무모함의 대가"
 
 msgctxt "Rules/&ConditionRecklessVulnerabilityDescription"
 msgid ""
 "Attacks against the creature have advantage until the start of its next turn."
-msgstr "이 크리쳐는 다음 자신 턴 시작까지 받는 모든 공격에 이점이 부여됩니다."
+msgstr "이 크리쳐가 다음 자신 턴 시작까지 받는 모든 공격에 이점이 부여됩니다."
 
 msgctxt "Rules/&ConditionDreadfulGlareImmunityTitle"
 msgid "Immune to Mummies' Dreadful Glare"
