@@ -5,6 +5,4 @@ venv
 *.csv
 template/*.csv
 
-*.txt
-
 __pycache__
