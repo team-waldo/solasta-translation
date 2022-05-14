@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-01 18:44+0900\n"
-"PO-Revision-Date: 2022-05-02 04:03+0000\n"
+"PO-Revision-Date: 2022-05-14 13:34+0000\n"
 "Last-Translator: Sh K. <wjswn244@gmail.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/default/ko/"
 ">\n"
@@ -73,7 +73,7 @@ msgstr "에어데어"
 
 msgctxt "Calendar/&SolastanMonth4Title"
 msgid "Isgeun"
-msgstr "이근"
+msgstr "이스균"
 
 msgctxt "Calendar/&SolastanMonth5Title"
 msgid "Isgedwy"
@@ -957,7 +957,7 @@ msgstr ""
 
 msgctxt "TerrainType/&ArcticTitle"
 msgid "Arctic"
-msgstr "북극"
+msgstr "극지"
 
 msgctxt "TerrainType/&BadlandsDescription"
 msgid ""
@@ -1657,7 +1657,7 @@ msgstr "솔라스타의 어느 어드벤처에서도 사용할 수 있는 바바
 
 msgctxt "ContentPack/&LostValleyTitle"
 msgid "The Lost Valley"
-msgstr "잊혀진 계곡"
+msgstr "로스트 밸리"
 
 msgctxt "ContentPack/&LostValleyDescription"
 msgid "A new adventure in the world of Solasta."
