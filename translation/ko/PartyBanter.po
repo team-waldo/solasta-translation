@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-01 18:44+0900\n"
-"PO-Revision-Date: 2022-05-02 04:03+0000\n"
-"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
+"PO-Revision-Date: 2022-11-18 18:56+0000\n"
+"Last-Translator: E잡불어 <rarkar@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/"
 "partybanter/ko/>\n"
 "Language: ko\n"
@@ -48,7 +48,7 @@ msgstr "내가 오기만을 기다리고 있었네!"
 
 msgctxt "PartyBanter/&Cynical3_Trap_Trigerred_Self"
 msgid "I'm smarter than that!"
-msgstr "내가 이정도는 아닌데!"
+msgstr "내가 이 정도는 아닌데!"
 
 msgctxt "PartyBanter/&Cynical1_Trap_Disarmed_Self"
 msgid "Too easy!"
@@ -108,7 +108,7 @@ msgstr "맘에 들어?"
 
 msgctxt "PartyBanter/&Cynical3_Normal_Hit_Given_Self"
 msgid "Too slow!"
-msgstr "느려텨젔군!"
+msgstr "느려 터졌군!"
 
 msgctxt "PartyBanter/&Cynical4_Normal_Hit_Given_Self"
 msgid "That must have hurt."
@@ -152,7 +152,7 @@ msgstr "또 다른 승리군!"
 
 msgctxt "PartyBanter/&Cynical4_Kill_Enemy_Self"
 msgid "You never stood a chance!"
-msgstr "날 이긴다고? 어림도 없지!"
+msgstr "어림도 없지!"
 
 msgctxt "PartyBanter/&Cynical5_Kill_Enemy_Self"
 msgid "Another one bites the dust!"
@@ -272,7 +272,7 @@ msgstr "괜찮아?"
 
 msgctxt "PartyBanter/&Cynical2_Normal_Hit_Received_Other"
 msgid "You've seen worse!"
-msgstr "이정도는 아무것도 아니잖아!"
+msgstr "이 정도는 아무것도 아니잖아!"
 
 msgctxt "PartyBanter/&Cynical1_Critical_Hit_Given_Other"
 msgid "That's the way!"
@@ -292,7 +292,7 @@ msgstr "좋았어!"
 
 msgctxt "PartyBanter/&Cynical2_Normal_Hit_Given_Other"
 msgid "Again!"
-msgstr "한번 더!"
+msgstr "한 번 더!"
 
 msgctxt "PartyBanter/&Cynical3_Normal_Hit_Given_Other"
 msgid "Good!"
@@ -312,7 +312,7 @@ msgstr "또 빗나갔어?"
 
 msgctxt "PartyBanter/&Cynical1_Kill_Enemy_Other"
 msgid "Hey! That was mine!"
-msgstr "야! 내 꺼였다고!"
+msgstr "야! 내 거였다고!"
 
 msgctxt "PartyBanter/&Cynical2_Kill_Enemy_Other"
 msgid "That one didn't even fight back."
@@ -320,7 +320,7 @@ msgstr "그 녀석 반격조차 안 하던걸."
 
 msgctxt "PartyBanter/&Cynical3_Kill_Enemy_Other"
 msgid "Not too bad."
-msgstr "나쁘지 않은 걸."
+msgstr "나쁘지 않은걸."
 
 msgctxt "PartyBanter/&Serious1_Trap_Detected_Self"
 msgid "Damn! A trap!"
@@ -392,7 +392,7 @@ msgstr "안 돼!"
 
 msgctxt "PartyBanter/&Serious3_Break_Stealth_Self"
 msgid "Clumsy idiot!"
-msgstr "이런 병신!"
+msgstr "머저리 같으니!"
 
 msgctxt "PartyBanter/&Serious1_Critical_Hit_Given_Self"
 msgid "Bleed!"
@@ -412,7 +412,7 @@ msgstr "받아라!"
 
 msgctxt "PartyBanter/&Serious2_Normal_Hit_Given_Self"
 msgid "Wait till the next one!"
-msgstr "곧 한대 더 간다!"
+msgstr "곧 한 대 더 간다!"
 
 msgctxt "PartyBanter/&Serious3_Normal_Hit_Given_Self"
 msgid "More coming your way."
@@ -444,7 +444,7 @@ msgstr "다음 공격은 다를 거다!"
 
 msgctxt "PartyBanter/&Serious5_Missed_Attack_Self"
 msgid "You'll die anyway!"
-msgstr "그래봤자 넌 죽은 목숨이야!"
+msgstr "그래 봤자 넌 죽은 목숨이야!"
 
 msgctxt "PartyBanter/&Serious1_Kill_Enemy_Self"
 msgid "I win again."
@@ -516,7 +516,7 @@ msgstr "망할 것들!"
 
 msgctxt "PartyBanter/&Serious1_Long_Jump_Other"
 msgid "That was something!"
-msgstr "방금 좀 멋지군!"
+msgstr "방금 좀 멋진데 그래!"
 
 msgctxt "PartyBanter/&Serious2_Long_Jump_Other"
 msgid "Nice jump!"
@@ -532,7 +532,7 @@ msgstr "팔 힘이 장난 아니네!"
 
 msgctxt "PartyBanter/&Serious2_High_Climb_Other"
 msgid "Didn't think you could do it!"
-msgstr "네가 그걸 할 수 있을 줄 몰랐네!"
+msgstr "기대 이상인데!"
 
 msgctxt "PartyBanter/&Serious3_High_Climb_Other"
 msgid "Okay, you're tough."
@@ -544,7 +544,7 @@ msgstr "서툴기는!"
 
 msgctxt "PartyBanter/&Serious2_Break_Stealth_Other"
 msgid "I don't believe it!"
-msgstr "믿을수가 없군!"
+msgstr "믿을 수가 없군!"
 
 msgctxt "PartyBanter/&Serious3_Break_Stealth_Other"
 msgid "You'll get us all killed!"
@@ -1004,7 +1004,7 @@ msgstr "이런! 내 잘못이야."
 
 msgctxt "PartyBanter/&Formal2_Break_Stealth_Self"
 msgid "I really thought I… never mind."
-msgstr "내가 이럴줄은... 아니, 미안."
+msgstr "아니 진짜... 아니다."
 
 msgctxt "PartyBanter/&Formal3_Break_Stealth_Self"
 msgid "How tiresome."
@@ -1176,7 +1176,7 @@ msgstr "힘내! 젖먹던 힘까지!"
 
 msgctxt "PartyBanter/&Formal1_Crawling_Other"
 msgid "Undignified, but necessary."
-msgstr "품위 없지만, 어쩔 수 없지."
+msgstr "품위는 없지만, 어쩔 수 없지."
 
 msgctxt "PartyBanter/&Formal2_Crawling_Other"
 msgid "Kneel now, rise later."
@@ -1240,7 +1240,7 @@ msgstr "브라보! 승리는 우리 것이다!"
 
 msgctxt "PartyBanter/&Formal2_Kill_Enemy_Other"
 msgid "A good kill, as they say."
-msgstr "그야 말로 제대로 보내버렸어."
+msgstr "그야말로 제대로 보내버렸어."
 
 msgctxt "PartyBanter/&Formal3_Kill_Enemy_Other"
 msgid "One less enemy!"

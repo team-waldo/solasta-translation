@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-01 18:44+0900\n"
-"PO-Revision-Date: 2022-05-14 13:34+0000\n"
-"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
+"PO-Revision-Date: 2022-11-18 18:56+0000\n"
+"Last-Translator: E잡불어 <rarkar@naver.com>\n"
 "Language-Team: Korean <http://akintos.iptime.org/projects/solasta/travel/ko/>"
 "\n"
 "Language: ko\n"
@@ -28,7 +28,7 @@ msgstr "탈진함"
 
 msgctxt "Travel/&FatigueFreshDescription"
 msgid "The party is fresh and can keep on traveling."
-msgstr "파티는 활기가 넘치는 상태이며 여행을 계속할 수 있습니다."
+msgstr "파티가 활기가 넘치는 상태이며 여행을 계속할 수 있습니다."
 
 msgctxt "Travel/&FatigueFreshTitle"
 msgid "Fresh"
@@ -36,7 +36,7 @@ msgstr "활기참"
 
 msgctxt "Travel/&FatigueImpededDescription"
 msgid "The party is slightly tired but can keep traveling."
-msgstr "파티는 약간 지친 상태지만 여행을 계속할 수는 있습니다."
+msgstr "파티가 약간 지친 상태지만 여행을 계속할 수는 있습니다."
 
 msgctxt "Travel/&FatigueImpededTitle"
 msgid "Impeded"
@@ -82,7 +82,7 @@ msgstr "{0}은(는) 방어구를 손질합니다."
 
 msgctxt "Travel/&StandardCampActivity03Title"
 msgid "{0} cooks a nice meal for the party."
-msgstr "{0}은(는) 파티를 위해 맛있는 식사를 준비합니다."
+msgstr "{0}은(는) 일행을 위해 맛있는 식사를 준비합니다."
 
 msgctxt "Travel/&StandardCampActivity04Title"
 msgid "{0} performs mental exercises."
@@ -174,7 +174,7 @@ msgstr "{0}은(는) 플루트를 연주했습니다."
 
 msgctxt "Travel/&TravelActivityCampTitle"
 msgid "Camp"
-msgstr "캠핑"
+msgstr "야영"
 
 msgctxt "Travel/&TravelActivityExplorationTitle"
 msgid "Exploration"
@@ -252,7 +252,7 @@ msgstr "{0}이(가) 새 둥지를 찾아 알 몇 개를 주워담았습니다. �
 
 msgctxt "Travel/&TravelEventFoodSearchSuccess6Title"
 msgid "{0} kills a fallow deer. The party gains {1} food ration(s)."
-msgstr "{0}은(는) 한눈 팔던 사슴을 잡았습니다. 파티는 식량 {1}개를 얻었습니다."
+msgstr "{0}은(는) 한눈팔던 사슴을 잡았습니다. 파티는 식량 {1}개를 얻었습니다."
 
 msgctxt "Travel/&TravelEventFoodSearchSuccess7Title"
 msgid "{0} kills a couple of partridges. The party gains {1} food ration(s)."
@@ -264,7 +264,7 @@ msgstr "{0}이(가) 야생 채소를 찾아내 식량 {1}개를 모았습니다.
 
 msgctxt "Travel/&TravelEventIngredientGatheringFailure1Title"
 msgid "The party did not find any useful ingredients."
-msgstr "파티는 쓸만한 재료를 찾지 못했습니다."
+msgstr "파티는 쓸 만한 재료를 찾지 못했습니다."
 
 msgctxt "Travel/&TravelEventIngredientGatheringSuccess1Title"
 msgid "{0} manages to collect crafting ingredients: {1}"
@@ -280,11 +280,11 @@ msgstr "파티는 긴 휴식을 마치고 {0}개의 식량을 소비했습니다
 
 msgctxt "Travel/&TravelEventLongRestStart1Title"
 msgid "The party starts to rest"
-msgstr "파티가 휴식을 시작합니다"
+msgstr "파티는 휴식을 시작합니다"
 
 msgctxt "Travel/&TravelEventNavigationStarts1Title"
 msgid "The party is on the move"
-msgstr "파티가 이동 중입니다"
+msgstr "파티는 이동 중입니다"
 
 msgctxt "Travel/&TravelEventNewDayTitle"
 msgid "Day {0}"
@@ -292,7 +292,7 @@ msgstr "{0}일차"
 
 msgctxt "Travel/&TravelEventSetCamp1Title"
 msgid "The party sets camp"
-msgstr "파티가 캠프를 설치합니다"
+msgstr "파티는 야영지를 설치합니다"
 
 msgctxt "Travel/&TravelJourneyBeginsTitle"
 msgid "The journey begins!"
@@ -312,7 +312,7 @@ msgstr "파티는 그 위치로 접근할 방법을 찾기 시작했습니다."
 
 msgctxt "Travel/&TravelEventCastFoodSpellTitle"
 msgid "{0} casts the {1} spell and provides food for the whole party."
-msgstr "{0}이(가) {1} 주문을 시전해 파티 전체에 식량을 제공했습니다."
+msgstr "{0}이(가) {1} 주문을 시전해 일행 전체에 식량을 제공했습니다."
 
 msgctxt "Travel/&StandardRandomEvents12Title"
 msgid ""
@@ -413,15 +413,15 @@ msgstr "{0}은(는) 침낭을 펼쳐서 좋은 잠자리를 마련합니다."
 
 msgctxt "Travel/&TravelEventEncounterOther1Title"
 msgid "Weak monsters run away as they see the party approaching."
-msgstr "약한 괴물들이 모험가들을 마주치자 도망칩니다."
+msgstr "약한 괴물들이 파티를 마주치자 도망칩니다."
 
 msgctxt "Travel/&TravelEventEncounterOther2Title"
 msgid "An encounter! The monsters are frightened by the party and scurry away."
-msgstr "적 마주침! 몬스터들이 파티에 겁을 먹고 도망칩니다."
+msgstr "적 마주침! 몬스터들이 파티에게 겁을 먹고 도망칩니다."
 
 msgctxt "Travel/&DLC1_StandardRandomEvents1"
 msgid "The party passes what seems to be a redeemer's broken egg."
-msgstr "일행이 구원자의 부서진 알처럼 보이는 것을 지나쳤습니다."
+msgstr "파티는 구원자의 부서진 알처럼 보이는 것을 지나쳤습니다."
 
 msgctxt "Travel/&DLC1_StandardRandomEvents2"
 msgid "The party passes an ancient Manacalon runestone."
@@ -448,60 +448,60 @@ msgstr "파티는 마나칼론 제국의 동상이 쓰러져있는 곳을 지나
 
 msgctxt "Travel/&DLC1_StandardRandomEvents7"
 msgid "The party passes a ruined village that seems to have been burned down."
-msgstr "일행이 불타 내려앉은 마을의 잔해처럼 보이는 곳을 지나쳤습니다."
+msgstr "파티는 불타 내려앉은 마을의 잔해처럼 보이는 곳을 지나쳤습니다."
 
 msgctxt "Travel/&DLC1_StandardRandomEvents8"
 msgid ""
 "The party passes a bunch of Forge collectors pulling a cart full of stuff."
-msgstr "일행이 가득 찬 수레를 끌고 가는 포지 수집가 무리를 지나쳤습니다."
+msgstr "파티는 가득찬 수레를 끌고 가는 포지 수집가 무리를 지나쳤습니다."
 
 msgctxt "Travel/&DLC1_StandardRandomEvents9"
 msgid "The party passes a band of hooded travelers who avoid their path."
-msgstr "일행이 길에서 마주치기를 기피하는 두건 쓴 모험가 무리를 지나쳤습니다."
+msgstr "파티는 길에서 마주치기 기피되는 두건 쓴 모험가 무리를 지나쳤습니다."
 
 msgctxt "Travel/&DLC1_StandardRandomEvents10"
 msgid "The party passes a merchant caravan with empty stocks."
-msgstr "일행이 재고가 다 떨어진 상단을 지나쳤습니다."
+msgstr "파티는 재고가 다한 상단을 지나쳤습니다."
 
 msgctxt "Travel/&DLC1_StandardRandomEvents11"
 msgid "The party passes a destroyed Dominion checkpoint."
-msgstr "일행이 파괴된 자치령 검문소를 지나쳤습니다."
+msgstr "파티는 파괴된 자치령 검문소를 지나쳤습니다."
 
 msgctxt "Travel/&DLC1_StandardRandomEvents12"
 msgid "The party passes gallows with hanging corpses labeled as rebels."
-msgstr "일행이 반군이라 써진 시체들이 매달린 교수대를 지나쳤습니다."
+msgstr "파티는 반군이라 써진 시체들이 매달린 교수대를 지나쳤습니다."
 
 msgctxt "Travel/&DLC1_StandardRandomEvents13"
 msgid "The party passes a post with shredded Dominion flags."
-msgstr "일행이 찢겨나간 자치령 깃발들이 걸린 전초기지를 지나쳤습니다."
+msgstr "파티는 찢겨나간 자치령 깃발들이 걸린 전초기지를 지나쳤습니다."
 
 msgctxt "Travel/&DLC1_StandardRandomEvents14"
 msgid "The party passes a milestone with a mask-shaped tag."
-msgstr "일행이 마스크 모양의 꼬리표가 붙은 이정표를 지나쳤습니다."
+msgstr "파티는 마스크 모양의 꼬리표가 붙은 이정표를 지나쳤습니다."
 
 msgctxt "Travel/&DLC1_StandardRandomEvents15"
 msgid "The party passes a signpost with a mask-shaped tag."
-msgstr "일행이 마스크 모양의 꼬리표가 붙은 표지판을 지나쳤습니다."
+msgstr "파티는 마스크 모양의 꼬리표가 붙은 표지판을 지나쳤습니다."
 
 msgctxt "Travel/&DLC1_StandardRandomEvents16"
 msgid "The party passes the corpse of a deformed creature."
-msgstr "일행이 뒤틀린 형태의 크리쳐 시체를 지나쳤습니다."
+msgstr "파티는 뒤틀린 형태의 크리쳐 시체를 지나쳤습니다."
 
 msgctxt "Travel/&DLC1_StandardRandomEvents17"
 msgid "The party passes the skeleton of a misshapen animal."
-msgstr "일행이 기형이 된 동물의 해골을 지나쳤습니다."
+msgstr "파티는 기형이 된 동물의 해골을 지나쳤습니다."
 
 msgctxt "Travel/&DLC1_StandardRandomEvents18"
 msgid "The party passes a pile of skulls."
-msgstr "일행이 두개골 더미를 지나쳤습니다."
+msgstr "파티는 두개골 더미를 지나쳤습니다."
 
 msgctxt "Travel/&DLC1_StandardRandomEvents19"
 msgid "The party passes an ancient Manacalon building, half-sunk in the swamp."
-msgstr "일행이 늪지에 반쯤 가라앉은 고대 마나칼론 건물을 지나쳤습니다."
+msgstr "파티는 늪지에 반쯤 가라앉은 고대 마나칼론 건물을 지나쳤습니다."
 
 msgctxt "Travel/&DLC1_StandardRandomEvents20"
 msgid "The party passes a lake of quicksand."
-msgstr "일행이 유사로 이루어진 호수를 지나쳤습니다."
+msgstr "파티는 유사로 이루어진 호수를 지나쳤습니다."
 
 msgctxt "Travel/&DLC1_StandardRandomEvents21"
 msgid "{0} skips a few stones on a stream."
@@ -509,11 +509,11 @@ msgstr "{0}이(가) 개울가에서 물수제비 몇 개를 튕겼습니다."
 
 msgctxt "Travel/&DLC1_StandardRandomEvents22"
 msgid "{0} slaps out at a swarm of mosquitos that is harassing the party."
-msgstr "{0}이(가) 일행을 괴롭히는 모기떼를 잡았습니다."
+msgstr "{0}이(가) 파티를 괴롭히는 모기떼를 잡았습니다."
 
 msgctxt "Travel/&DLC1_StandardRandomEvents23"
 msgid "{0} empties their boots of sand and rocks."
-msgstr "{0}이(가) 모래와 자갈로 가득 찬 장화들을 털어냈습니다."
+msgstr "{0}이(가) 모래와 자갈로 가득찬 장화들을 털어냈습니다."
 
 msgctxt "Travel/&DLC1_StandardRandomEvents24"
 msgid "{0} skips a few stones on a stream."
