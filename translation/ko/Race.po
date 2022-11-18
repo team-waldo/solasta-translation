@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-01 18:44+0900\n"
+"POT-Creation-Date: 2022-11-19 04:14+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1019,3 +1019,195 @@ msgstr "프레카"
 msgctxt "Race/&HalfOrcMaleName20Title"
 msgid "Brek"
 msgstr "브렉"
+
+msgctxt "Race/&DragonbornTitle"
+msgid "Dragonborn"
+msgstr ""
+
+msgctxt "Race/&DragonbornDescription"
+msgid ""
+"The Dragonborn came into being as the fruit of the dalliances of polymorphed "
+"dragons with humanoid lineages. Well accepted in the Manacalon Empire, they "
+"became secretive and reclusive after the Cataclysm, self-reliant but keeping "
+"to themselves."
+msgstr ""
+
+msgctxt "Race/&DragonbornMaleName1Title"
+msgid "Admetos"
+msgstr ""
+
+msgctxt "Race/&DragonbornMaleName2Title"
+msgid "Akilles"
+msgstr ""
+
+msgctxt "Race/&DragonbornMaleName3Title"
+msgid "Chara"
+msgstr ""
+
+msgctxt "Race/&DragonbornMaleName4Title"
+msgid "Dorian"
+msgstr ""
+
+msgctxt "Race/&DragonbornMaleName5Title"
+msgid "Dymek"
+msgstr ""
+
+msgctxt "Race/&DragonbornMaleName6Title"
+msgid "Ezio"
+msgstr ""
+
+msgctxt "Race/&DragonbornMaleName7Title"
+msgid "Hegelochos"
+msgstr ""
+
+msgctxt "Race/&DragonbornMaleName8Title"
+msgid "Hristofor"
+msgstr ""
+
+msgctxt "Race/&DragonbornMaleName9Title"
+msgid "Karan"
+msgstr ""
+
+msgctxt "Race/&DragonbornMaleName10Title"
+msgid "Korragos"
+msgstr ""
+
+msgctxt "Race/&DragonbornMaleName11Title"
+msgid "Melanion"
+msgstr ""
+
+msgctxt "Race/&DragonbornMaleName12Title"
+msgid "Nikanor"
+msgstr ""
+
+msgctxt "Race/&DragonbornMaleName13Title"
+msgid "Prokhor"
+msgstr ""
+
+msgctxt "Race/&DragonbornMaleName14Title"
+msgid "Theron"
+msgstr ""
+
+msgctxt "Race/&DragonbornMaleName15Title"
+msgid "Vanko"
+msgstr ""
+
+msgctxt "Race/&DragonbornFemaleName1Title"
+msgid "Acantha"
+msgstr ""
+
+msgctxt "Race/&DragonbornFemaleName2Title"
+msgid "Berenike"
+msgstr ""
+
+msgctxt "Race/&DragonbornFemaleName3Title"
+msgid "Calandra"
+msgstr ""
+
+msgctxt "Race/&DragonbornFemaleName4Title"
+msgid "Dorcas"
+msgstr ""
+
+msgctxt "Race/&DragonbornFemaleName5Title"
+msgid "Eirini"
+msgstr ""
+
+msgctxt "Race/&DragonbornFemaleName6Title"
+msgid "Eranthe"
+msgstr ""
+
+msgctxt "Race/&DragonbornFemaleName7Title"
+msgid "Ianthe"
+msgstr ""
+
+msgctxt "Race/&DragonbornFemaleName8Title"
+msgid "Kassia"
+msgstr ""
+
+msgctxt "Race/&DragonbornFemaleName9Title"
+msgid "Mahalia"
+msgstr ""
+
+msgctxt "Race/&DragonbornFemaleName10Title"
+msgid "Myra"
+msgstr ""
+
+msgctxt "Race/&DragonbornFemaleName11Title"
+msgid "Polymnia"
+msgstr ""
+
+msgctxt "Race/&DragonbornFemaleName12Title"
+msgid "Rhodanthe"
+msgstr ""
+
+msgctxt "Race/&DragonbornFemaleName13Title"
+msgid "Stasia"
+msgstr ""
+
+msgctxt "Race/&DragonbornFemaleName14Title"
+msgid "Thisbe"
+msgstr ""
+
+msgctxt "Race/&DragonbornFemaleName15Title"
+msgid "Xanthe"
+msgstr ""
+
+msgctxt "Race/&DragonbornSurName1Title"
+msgid "Protogon"
+msgstr ""
+
+msgctxt "Race/&DragonbornSurName2Title"
+msgid "Galagon"
+msgstr ""
+
+msgctxt "Race/&DragonbornSurName3Title"
+msgid "Kokkigon"
+msgstr ""
+
+msgctxt "Race/&DragonbornSurName4Title"
+msgid "Asigon"
+msgstr ""
+
+msgctxt "Race/&DragonbornSurName5Title"
+msgid "Chrysogon"
+msgstr ""
+
+msgctxt "Race/&DragonbornSurName6Title"
+msgid "Maurogon"
+msgstr ""
+
+msgctxt "Race/&DragonbornSurName7Title"
+msgid "Fotiagon"
+msgstr ""
+
+msgctxt "Race/&DragonbornSurName8Title"
+msgid "Skeptogon"
+msgstr ""
+
+msgctxt "Race/&DragonbornSurName9Title"
+msgid "Dynatogon"
+msgstr ""
+
+msgctxt "Race/&DragonbornSurName10Title"
+msgid "Eidogon"
+msgstr ""
+
+msgctxt "Race/&DragonbornSurName11Title"
+msgid "Kryogon"
+msgstr ""
+
+msgctxt "Race/&DragonbornSurName12Title"
+msgid "Nikefogon"
+msgstr ""
+
+msgctxt "Race/&DragonbornSurName13Title"
+msgid "Lambrogon"
+msgstr ""
+
+msgctxt "Race/&DragonbornSurName14Title"
+msgid "Megalogon"
+msgstr ""
+
+msgctxt "Race/&DragonbornSurNameTitle"
+msgid "Clan"
+msgstr ""

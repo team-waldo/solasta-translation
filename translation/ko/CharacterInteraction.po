@@ -1,73 +1,95 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-01 18:44+0900\n"
-"PO-Revision-Date: 2022-11-18 18:55+0000\n"
-"Last-Translator: E잡불어 <rarkar@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/"
-"characterinteraction/ko/>\n"
-"Language: ko\n"
+"POT-Creation-Date: 2022-11-19 04:14+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "CharacterInteraction/&BanditTrackDescription"
 msgid "Human tracks - probably bandits. They look quite fresh."
 msgstr "아마도 도적들의 것으로 보이는 인간의 흔적입니다. 생긴 지 얼마 되지 않은 것 같습니다."
 
+#, fuzzy
+#| msgid "Click to try to disarm this trap."
 msgctxt "CharacterInteraction/&DisarmTrapDescription"
-msgid "Click to try to disarm this trap."
+msgid "Try to disarm this trap."
 msgstr "이 트랩을 해제하려면 클릭하세요."
 
+#, fuzzy
+#| msgid "Click to try to climb."
 msgctxt "CharacterInteraction/&HardClimbDescription"
-msgid "Click to try to climb."
+msgid "Try to climb."
 msgstr "등반을 시도하려면 클릭하세요."
 
+#, fuzzy
+#| msgid "Click to light this light."
 msgctxt "CharacterInteraction/&LightDescription"
-msgid "Click to light this light."
+msgid "Light this light."
 msgstr "이 조명을 켜려면 클릭하세요."
 
+#, fuzzy
+#| msgid "Click to try to pick the lock on this chest."
 msgctxt "CharacterInteraction/&LockPickChestDescription"
-msgid "Click to try to pick the lock on this chest."
+msgid "Try to pick the lock on this chest."
 msgstr "이 상자의 자물쇠를 따려면 클릭하세요."
 
+#, fuzzy
+#| msgid "Click to try to pick this door's lock."
 msgctxt "CharacterInteraction/&LockPickDoorDescription"
-msgid "Click to try to pick this door's lock."
+msgid "Try to pick this door's lock."
 msgstr "이 문의 자물쇠를 따려면 클릭하세요."
 
+#, fuzzy
+#| msgid "Click to loot this container."
 msgctxt "CharacterInteraction/&LootContainerDescription"
-msgid "Click to loot this container."
+msgid "Loot this container."
 msgstr "보관함의 아이템을 획득하려면 클릭하세요."
 
+#, fuzzy
+#| msgid "Click to interact with this character."
 msgctxt "CharacterInteraction/&NpcInteractionDescription"
-msgid "Click to interact with this character."
+msgid "Interact with this character."
 msgstr "이 캐릭터와 상호작용 하려면 클릭하세요."
 
+#, fuzzy
+#| msgid "Click to examine this object."
 msgctxt "CharacterInteraction/&ObserveDescription"
-msgid "Click to examine this object."
+msgid "Examine this object."
 msgstr "이 물체를 조사하려면 클릭하세요."
 
+#, fuzzy
+#| msgid "Click to open/close this door."
 msgctxt "CharacterInteraction/&OpenCloseDoorDescription"
-msgid "Click to open/close this door."
+msgid "Open/close this door."
 msgstr "이 문을 열거나 닫으려면 클릭하세요."
 
+#, fuzzy
+#| msgid "Click to push this object."
 msgctxt "CharacterInteraction/&PushDescription"
-msgid "Click to push this object."
+msgid "Push this object."
 msgstr "이 물체를 밀려면 클릭하세요."
 
+#, fuzzy
+#| msgid "Click to start a long rest for the party."
 msgctxt "CharacterInteraction/&StartLongRestDescription"
-msgid "Click to start a long rest for the party."
+msgid "Start a long rest for the party."
 msgstr "긴 휴식을 시작하려면 클릭하세요."
 
 msgctxt "CharacterInteraction/&TriggerTrapDescription"
 msgid "Trigger collapse."
 msgstr "붕괴시킵니다."
 
+#, fuzzy
+#| msgid "Click to use this object."
 msgctxt "CharacterInteraction/&UseDescription"
-msgid "Click to use this object."
+msgid "Use this object."
 msgstr "이 물건을 사용하려면 클릭하세요."
 
 msgctxt "CharacterInteraction/&GoblinTrackDescription"
@@ -82,41 +104,51 @@ msgctxt "CharacterInteraction/&SorakTrackDescription"
 msgid "Reptilian tracks… Soraks, maybe?"
 msgstr "파충류의 흔적입니다... 소락이겠죠, 아마도?"
 
+#, fuzzy
+#| msgid "Click to open quick shopping."
 msgctxt "CharacterInteraction/&QuickShoppingDescription"
-msgid "Click to open quick shopping."
+msgid "Open quick shopping."
 msgstr "빠른 거래를 하려면 클릭하세요."
 
+#, fuzzy
+#| msgid "Click to wait for the moon to rise."
 msgctxt "CharacterInteraction/&WaitDescription"
-msgid "Click to wait for the moon to rise."
+msgid "Wait for the moon to rise."
 msgstr "밤이 될 때까지 기다리려면 클릭하세요."
 
+#, fuzzy
+#| msgid "Click to use the Scavenger System"
 msgctxt "CharacterInteraction/&UseScavengersDescription"
-msgid "Click to use the Scavenger System"
+msgid "Use the Scavenger system."
 msgstr "스캐빈저 시스템을 사용하려면 클릭하세요"
 
+#, fuzzy
+#| msgid "Click to use the scimitar and the shield for this fight."
 msgctxt "CharacterInteraction/&TakeScimitarDescription"
-msgid "Click to use the scimitar and the shield for this fight."
+msgid "Use the scimitar and the shield for this combat."
 msgstr "이 전투에서 시미터와 방패를 사용하려면 클릭하세요."
 
+#, fuzzy
+#| msgid "Click to use the daggers for this fight."
 msgctxt "CharacterInteraction/&TakeDaggersDescription"
-msgid "Click to use the daggers for this fight."
+msgid "Use the daggers for this combat."
 msgstr "단검을 사용하려면 클릭하세요."
 
+#, fuzzy
+#| msgid "Click to use the greataxe for this fight."
 msgctxt "CharacterInteraction/&TakeGreataxeDescription"
-msgid "Click to use the greataxe for this fight."
+msgid "Use the greataxe for this combat."
 msgstr "이 전투에서 그레이트액스를 사용하려면 클릭하세요."
 
+#, fuzzy
+#| msgid "Click to leave the arena and forfeit the duel."
 msgctxt "CharacterInteraction/&LeaveArenaDescription"
-msgid "Click to leave the arena and forfeit the duel."
+msgid "Leave the arena and forfeit the duel."
 msgstr "결투를 포기하고 경기장을 떠나려면 클릭하십시오."
 
 msgctxt "CharacterInteraction/&PlantDocumentDescription"
 msgid "Plant Document"
 msgstr "식물 도감"
-
-msgctxt "CharacterInteraction/&Unlock_Door_With_Key_Description"
-msgid "Use the adequate key to open the door."
-msgstr "적절한 열쇠를 사용해 문을 여세요."
 
 msgctxt "CharacterInteraction/&NpcInteractionMerchantDMTitle"
 msgid "Merchant"
@@ -134,10 +166,14 @@ msgid ""
 "holding a Tirmarian-style shortbow."
 msgstr "잠시 시간을 내 법률과 지식의 여신, 파크리께 기도하세요. 이 조각상은 티르마르 양식의 단궁을 들고 있습니다."
 
+#, fuzzy
+#| msgid ""
+#| "Take a moment to pray to Misaye, goddess of luck and mischief. The statue is "
+#| "holding a Tirmarian-stlye dagger."
 msgctxt "CharacterInteraction/&PrayDescription_Misaye"
 msgid ""
 "Take a moment to pray to Misaye, goddess of luck and mischief. The statue is "
-"holding a Tirmarian-stlye dagger."
+"holding a Tirmarian-style dagger."
 msgstr "잠시 시간을 내 행운과 장난의 여신, 미사이에께 기도하세요. 이 조각상은 티르마르 양식의 단검을 들고 있습니다."
 
 msgctxt "CharacterInteraction/&PrayDescription_Arun"
@@ -152,8 +188,10 @@ msgid ""
 "holding a Tirmarian-style mace."
 msgstr "잠시 시간을 내 삶과 죽음의 여신, 마라이케께 기도하세요. 이 조각상은 티르마르 양식의 철퇴를 들고 있습니다."
 
+#, fuzzy
+#| msgid "Click to enlist this character as a companion"
 msgctxt "CharacterInteraction/&NpcInteractionEnlistDescription"
-msgid "Click to enlist this character as a companion"
+msgid "Enlist this character as a companion."
 msgstr "이 캐릭터를 동료로 영입하려면 클릭하세요"
 
 msgctxt "CharacterInteraction/&DLC1_VIPTracksDescription"
@@ -168,3 +206,9 @@ msgctxt "CharacterInteraction/&Misayes_Message_Description"
 msgid ""
 "Pick your preferred deity. You only have one chance. Choose wisely - or not."
 msgstr "선호하는 신격을 고르십시오. 기회는 한 번뿐입니다. 신중히 정해도 좋고 - 아니어도 좋습니다."
+
+#, fuzzy
+#| msgid "Use the adequate key to open the door."
+msgctxt "CharacterInteraction/&Unlock_Door_With_Key_Description"
+msgid "Use the correct key to open the door."
+msgstr "적절한 열쇠를 사용해 문을 여세요."

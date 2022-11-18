@@ -1,17 +1,16 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-01 18:44+0900\n"
-"PO-Revision-Date: 2022-05-05 12:41+0000\n"
-"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/prop/ko/>\n"
-"Language: ko\n"
+"POT-Creation-Date: 2022-11-19 04:14+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "Prop/&CandelabraTitle"
 msgid "Candelabra"
@@ -856,8 +855,12 @@ msgctxt "Prop/&SmallWallsLadderTitle"
 msgid "Easy Climb Ivy"
 msgstr "사다리 담쟁이넝쿨"
 
+#, fuzzy
+#| msgid "To place on wall blockers ONLY"
 msgctxt "Prop/&SmallWallsLadderDescription"
-msgid "To place on wall blockers ONLY"
+msgid ""
+"To place on wall blockers or free walls. Does not work on internal walls ("
+"thin walls)."
 msgstr "벽 위에만 설치 가능"
 
 msgctxt "Prop/&StableTitle"
@@ -1035,3 +1038,47 @@ msgstr "왕좌"
 msgctxt "Prop/&SuspendingPlanterTitle"
 msgid "Hanging Plant"
 msgstr "매달린 식물"
+
+msgctxt "Prop/&MagicRuneTitle"
+msgid "Magic Rune"
+msgstr ""
+
+msgctxt "Prop/&BenchDestroyedTitle"
+msgid "Destroyed Bench"
+msgstr ""
+
+msgctxt "Prop/&CorpseClericTitle"
+msgid "Cleric Armor"
+msgstr ""
+
+msgctxt "Prop/&CorpseFullPlateTitle"
+msgid "Full Plate Armor"
+msgstr ""
+
+msgctxt "Prop/&CorpseScaleMailTitle"
+msgid "Scale Mail"
+msgstr ""
+
+msgctxt "Prop/&CorpseSorcererTitle"
+msgid "Sorcerer Corpse"
+msgstr ""
+
+msgctxt "Prop/&OutpostTitle"
+msgid "Ruined Outpost"
+msgstr ""
+
+msgctxt "Prop/&PlateauTitle"
+msgid "Plateau"
+msgstr ""
+
+msgctxt "Prop/&BannerHighTitle"
+msgid "Banner High"
+msgstr ""
+
+msgctxt "Prop/&BannerHighDescription"
+msgid "A banner to be placed at high levels"
+msgstr ""
+
+msgctxt "Prop/&HouseDoorsTitle"
+msgid "House with Doors"
+msgstr ""

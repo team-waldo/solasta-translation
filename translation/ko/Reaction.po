@@ -1,25 +1,25 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-01 18:44+0900\n"
-"PO-Revision-Date: 2022-05-05 12:41+0000\n"
-"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/reaction/"
-"ko/>\n"
-"Language: ko\n"
+"POT-Creation-Date: 2022-11-19 04:14+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "Reaction/&AlterAttackSpellDescription"
 msgid "{0} is attacking {1}! You can cast {2} to block the attack."
 msgstr "{0}이(가) {1}을(를) 공격하고 있습니다! {2}을(를) 시전하여 공격을 차단할 수 있습니다."
 
+#, fuzzy
+#| msgid "Click to cast {0} and block the attack."
 msgctxt "Reaction/&AlterAttackSpellReactDescription"
-msgid "Click to cast {0} and block the attack."
+msgid "Cast {0} and block the attack."
 msgstr "클릭하여 {0}을(를) 시전하고 공격을 차단합니다."
 
 msgctxt "Reaction/&AlterAttackSpellReactTitle"
@@ -35,10 +35,14 @@ msgid ""
 "{0} is attacking {1}! You can react to impose disadvantage upon the enemy."
 msgstr "{0}이(가) {1}을(를) 공격하고 있습니다! 반응 행동을 통해 적에게 불리점을 줄 수 있습니다."
 
+#, fuzzy
+#| msgid ""
+#| "Click to block the attacking character and impose disadvantage. This uses "
+#| "your reaction until your next turn."
 msgctxt "Reaction/&BlockAttackReactDescription"
 msgid ""
-"Click to block the attacking character and impose disadvantage. This uses "
-"your reaction until your next turn."
+"Block the attacking character and impose disadvantage. This uses your "
+"reaction until your next turn."
 msgstr "클릭하여 공격 중인 캐릭터를 막아 명중 굴림에 불리점을 줍니다. 다음 턴까지 반응 행동을 사용합니다."
 
 msgctxt "Reaction/&BlockAttackReactTitle"
@@ -59,8 +63,10 @@ msgid ""
 "{0} is about to fall dangerously! You can cast {1} to prevent any damage."
 msgstr "{0}이(가) 위험하게 떨어집니다! {1}을(를) 시전하여 피해를 막을 수 있습니다."
 
+#, fuzzy
+#| msgid "Click to cast the {0} spell and prevent fall damage."
 msgctxt "Reaction/&CastFallPreventionSpellReactDescription"
-msgid "Click to cast the {0} spell and prevent fall damage."
+msgid "Cast the {0} spell and prevent fall damage."
 msgstr "클릭하여 {0} 주문을 시전하고 낙상 피해를 막습니다."
 
 msgctxt "Reaction/&CastFallPreventionSpellReactTitle"
@@ -75,8 +81,10 @@ msgctxt "Reaction/&CastImmunityToSpellDescription"
 msgid "{0} is casting {3} on {1}! You can cast {2} to counter the spell."
 msgstr "{0}이(가) {1}에 {3}을(를) 시전하고 있습니다! {2}을(를) 시전하여 주문에 대응할 수 있습니다."
 
+#, fuzzy
+#| msgid "Click to cast {0} and counter the spell attack."
 msgctxt "Reaction/&CastImmunityToSpellReactDescription"
-msgid "Click to cast {0} and counter the spell attack."
+msgid "Cast {0} and counter the spell attack."
 msgstr "클릭하여 {0}을(를) 시전하고 주문 공격에 대응하세요."
 
 msgctxt "Reaction/&CastImmunityToSpellReactTitle"
@@ -99,8 +107,10 @@ msgctxt "Reaction/&CounterAttackWithPowerDescription"
 msgid "{0} has hit {1}! You can counterattack with {2}."
 msgstr "{0}이(가) {1}을(를) 공격했습니다! {2}로 반격할 수 있습니다."
 
+#, fuzzy
+#| msgid "Click to use {0} and strike back."
 msgctxt "Reaction/&CounterAttackWithPowerReactDescription"
-msgid "Click to use {0} and strike back."
+msgid "Use {0} and strike back."
 msgstr "클릭하여 {0}을(를) 사용, 반격하세요."
 
 msgctxt "Reaction/&CounterAttackWithPowerReactTitle"
@@ -115,8 +125,10 @@ msgctxt "Reaction/&CounterSpellDescription"
 msgid "{0} is casting a spell! You can react to counter the spell."
 msgstr "{0}이(가) 주문을 시전중입니다! 주문에 대응할 수 있습니다."
 
+#, fuzzy
+#| msgid "Click to cast counterspell and counter the enemy spell."
 msgctxt "Reaction/&CounterSpellReactDescription"
-msgid "Click to cast counterspell and counter the enemy spell."
+msgid "Cast counterspell and counter the enemy spell."
 msgstr "클릭하여 반격주문을 시전, 적의 주문에 대응하세요."
 
 msgctxt "Reaction/&CounterSpellReactTitle"
@@ -132,8 +144,10 @@ msgid ""
 "{0},a {2} creature, has attacked {1}, who can use a reaction to strike back"
 msgstr "{2} 크리쳐인 {0}이(가) 반응 행동으로 반격할 수 있는 {1}을(를) 공격했습니다"
 
+#, fuzzy
+#| msgid "Click to counter-attack. This uses your reaction until your next turn."
 msgctxt "Reaction/&GiantKillerReactDescription"
-msgid "Click to counter-attack. This uses your reaction until your next turn."
+msgid "Counterattack. This uses your reaction until your next turn."
 msgstr "클릭하여 반격합니다. 다음 턴까지 당신의 반응 행동을 소모합니다."
 
 msgctxt "Reaction/&GiantKillerReactTitle"
@@ -152,10 +166,14 @@ msgctxt "Reaction/&OpportunityAttackDescription"
 msgid "{0} is leaving an area threatened by one or more characters."
 msgstr "{0}이(가) 한명 이상의 캐릭터에 의해 위협받는 영역을 떠나고 있습니다."
 
+#, fuzzy
+#| msgid ""
+#| "Click to attack the retreating character/creature. This uses your reaction "
+#| "until your next turn."
 msgctxt "Reaction/&OpportunityAttackReactDescription"
 msgid ""
-"Click to attack the retreating character/creature. This uses your reaction "
-"until your next turn."
+"Attack the retreating character/creature. This uses your reaction until your "
+"next turn."
 msgstr "클릭하여 후퇴하는 캐릭터/크리쳐를 공격하세요. 다음 턴까지의 반응 행동을 사용합니다."
 
 msgctxt "Reaction/&OpportunityAttackReactTitle"
@@ -180,8 +198,10 @@ msgid ""
 "attack."
 msgstr "{0}이(가) 반응 행동으로 원거리 반격할 수 있는 {1}을(를) 공격했습니다."
 
+#, fuzzy
+#| msgid "Click to counterattack. This uses your reaction until your next turn."
 msgctxt "Reaction/&ReactionShotReactDescription"
-msgid "Click to counterattack. This uses your reaction until your next turn."
+msgid "Counterattack. This uses your reaction until your next turn."
 msgstr "클릭하여 반격합니다. 다음 턴까지 당신의 반응 행동을 이용합니다."
 
 msgctxt "Reaction/&ReactionShotReactTitle"
@@ -200,8 +220,10 @@ msgctxt "Reaction/&SpendPowerPowerDomainBattleDecisiveStrikeDescription"
 msgid "{0} can strike with additional damage by using Channel Divinity."
 msgstr "{0}은(는) 신성 변환을 사용하여 추가 피해를 줄 수 있습니다."
 
+#, fuzzy
+#| msgid "Click to boost damage using Channel Divinity: Decisive Strike."
 msgctxt "Reaction/&SpendPowerPowerDomainBattleDecisiveStrikeReactDescription"
-msgid "Click to boost damage using Channel Divinity: Decisive Strike."
+msgid "Boost damage using Channel Divinity: Decisive Strike."
 msgstr "신성 변환: 결정타를 사용하여 피해를 증가시키려면 클릭하세요."
 
 msgctxt "Reaction/&SpendPowerPowerDomainBattleDecisiveStrikeReactTitle"
@@ -212,12 +234,17 @@ msgctxt "Reaction/&SpendPowerPowerDomainBattleDecisiveStrikeTitle"
 msgid "Successful Attack"
 msgstr "명중"
 
+#, fuzzy
+#| msgid "{0} can try to entangle the target by spending a use of Magical Arrow."
 msgctxt "Reaction/&SpendPowerPowerTraditionGreenmageMagicalArrowDescription"
-msgid "{0} can try to entangle the target by spending a use of Magical Arrow."
+msgid ""
+"{0} can try to entangle the target by spending a use of Entangling Shot."
 msgstr "{0}은(는) 마법화살 주문을 사용하여 대상을 얽히게 할 수 있습니다."
 
+#, fuzzy
+#| msgid "Click to try to entangle the target."
 msgctxt "Reaction/&SpendPowerPowerTraditionGreenmageMagicalArrowReactDescription"
-msgid "Click to try to entangle the target."
+msgid "Try to entangle the target."
 msgstr "클릭하여 대상을 붙잡아 놓으세요."
 
 msgctxt "Reaction/&SpendPowerPowerTraditionGreenmageMagicalArrowReactTitle"
@@ -233,8 +260,10 @@ msgid ""
 "{0} can smite his target with additional damage by spending a spell slot."
 msgstr "{0}은(는) 주문 슬롯을 사용하여 추가 피해로 대상을 강타할 수 있습니다."
 
+#, fuzzy
+#| msgid "Click to spend a spell slot and increase damage to the target."
 msgctxt "Reaction/&SpendSpellSlotDivineSmiteReactDescription"
-msgid "Click to spend a spell slot and increase damage to the target."
+msgid "Spend a spell slot and increase damage to the target."
 msgstr "클릭하여 주문 슬롯을 사용, 대상에 대한 피해를 증가시킵니다."
 
 msgctxt "Reaction/&SpendSpellSlotDivineSmiteReactTitle"
@@ -281,8 +310,10 @@ msgctxt "Reaction/&UncannyDodgeDescription"
 msgid "{0} is attacking {1}, who can react to halve incoming damage."
 msgstr "{0}이(가) {1}을(를) 공격합니다. 반응 행동으로 피해를 절반으로 줄일 수 있습니다."
 
+#, fuzzy
+#| msgid "Click to use your reaction and halve the attack's damage."
 msgctxt "Reaction/&UncannyDodgeReactDescription"
-msgid "Click to use your reaction and halve the attack's damage."
+msgid "Use your reaction and halve the attack's damage."
 msgstr "클릭하여 반응 행동을 사용, 피해를 절반으로 줄이십시오."
 
 msgctxt "Reaction/&UncannyDodgeReactTitle"
@@ -297,9 +328,11 @@ msgctxt "Reaction/&UsePowerDomainElementalDiscipleOfTheElementsColdDescription"
 msgid "{0} can become temporarily immune to cold, and recover some hit points."
 msgstr "{0}은(는) 일시적으로 냉기에 면역이 되고 체력 일부를 회복할 수 있습니다."
 
+#, fuzzy
+#| msgid "Click to become immune to cold, and recover hit points."
 msgctxt ""
 "Reaction/&UsePowerDomainElementalDiscipleOfTheElementsColdReactDescription"
-msgid "Click to become immune to cold, and recover hit points."
+msgid "Become immune to cold and recover hit points."
 msgstr "클릭하여 냉기 면역을 얻고 체력을 회복하세요."
 
 msgctxt "Reaction/&UsePowerDomainElementalDiscipleOfTheElementsColdReactTitle"
@@ -314,9 +347,11 @@ msgctxt "Reaction/&UsePowerDomainElementalDiscipleOfTheElementsFireDescription"
 msgid "{0} can become temporarily immune to fire, and recover some hit points."
 msgstr "{0}은(는) 일시적으로 화염에 면역이 되고 체력 일부를 회복할 수 있습니다."
 
+#, fuzzy
+#| msgid "Click to become immune to fire, and recover hit points."
 msgctxt ""
 "Reaction/&UsePowerDomainElementalDiscipleOfTheElementsFireReactDescription"
-msgid "Click to become immune to fire, and recover hit points."
+msgid "Become immune to fire and recover hit points."
 msgstr "클릭하여 화염 면역을 얻고 체력을 회복하세요."
 
 msgctxt "Reaction/&UsePowerDomainElementalDiscipleOfTheElementsFireReactTitle"
@@ -333,10 +368,12 @@ msgid ""
 "{0} can become temporarily immune to lightning, and recover some hit points."
 msgstr "{0}은(는) 일시적으로 번개에 면역이 되고 체력 일부를 회복할 수 있습니다."
 
+#, fuzzy
+#| msgid "Click to become immune to lightning, and recover hit points."
 msgctxt ""
 "Reaction/"
 "&UsePowerDomainElementalDiscipleOfTheElementsLightningReactDescription"
-msgid "Click to become immune to lightning, and recover hit points."
+msgid "Become immune to lightning and recover hit points."
 msgstr "클릭하여 번개 면역을 얻고 체력을 회복하세요."
 
 msgctxt ""
@@ -354,8 +391,10 @@ msgid ""
 "DEX modifier."
 msgstr "{0}이(가) {1}을(를) 공격하고 있으며, 이에 반응하여 1D10 + 민첩 수정치만큼 받는 피해를 줄일 수 있습니다."
 
+#, fuzzy
+#| msgid "Click to use your reaction and reduce the attack's damage."
 msgctxt "Reaction/&DeflectMissileReactDescription"
-msgid "Click to use your reaction and reduce the attack's damage."
+msgid "Use your reaction and reduce the attack's damage."
 msgstr "클릭하여 반응 행동을 사용, 피해를 줄이세요."
 
 msgctxt "Reaction/&DeflectMissileReactTitle"
@@ -373,8 +412,10 @@ msgid ""
 msgstr ""
 "{0}이(가) {1}을(를) 공격하고 있습니다! {2}를 사용하여 공격자의 턴이 끝날 때까지 방어자의 방어도를 높일 수 있습니다."
 
+#, fuzzy
+#| msgid "Click to use {0} and block the attack."
 msgctxt "Reaction/&AlterAttackPowerReactDescription"
-msgid "Click to use {0} and block the attack."
+msgid "Use {0} and block the attack."
 msgstr "클릭하여 {0}을(를) 사용하고 공격을 차단합니다."
 
 msgctxt "Reaction/&AlterAttackPowerReactTitle"
@@ -459,8 +500,10 @@ msgctxt "Reaction/&SpendPowerPowerBerserkerFrenzyTitle"
 msgid "Frenzy"
 msgstr "광란"
 
+#, fuzzy
+#| msgid "Click to enter frenzy with your rage."
 msgctxt "Reaction/&SpendPowerPowerBerserkerFrenzyReactDescription"
-msgid "Click to enter frenzy with your rage."
+msgid "Enter frenzy with your rage."
 msgstr "클릭하면 격노 중 광란 상태에 돌입합니다."
 
 msgctxt "Reaction/&SpendPowerPowerBerserkerFrenzyReactTitle"
@@ -473,8 +516,10 @@ msgid ""
 "damage all enemies within 6 cells."
 msgstr "{0}이(가) 격노 중 마법적 효과 또는 주문에 의해 피해를 입어, 6칸 내의 모든 적에게 피해를 가할 수 있습니다."
 
+#, fuzzy
+#| msgid "Click to damage surrounding enemies"
 msgctxt "Reaction/&WarCryReactDescription"
-msgid "Click to damage surrounding enemies"
+msgid "Damage surrounding enemies"
 msgstr "클릭하면 주변 적들에게 피해를 줍니다"
 
 msgctxt "Reaction/&WarCryReactTitle"
@@ -489,8 +534,10 @@ msgctxt "Reaction/&SharedPainDescription"
 msgid "{0} is receiving damage, which can be shared evenly with {1}"
 msgstr "{0}이(가) 피해를 입었으며, {1}과 반으로 나눠 받을 수 있습니다"
 
+#, fuzzy
+#| msgid "Click to split the damage equally between the druid and kindred spirit."
 msgctxt "Reaction/&SharedPainReactDescription"
-msgid "Click to split the damage equally between the druid and kindred spirit."
+msgid "Split the damage equally between the druid and kindred spirit."
 msgstr "클릭하면 드루이드와 결속령이 피해를 똑같이 나눠 받습니다."
 
 msgctxt "Reaction/&SharedPainReactTitle"
@@ -554,3 +601,307 @@ msgstr "벗어나기"
 msgctxt "Reaction/&SpendPowerPowerDomainMischiefElusiveTargetReactDescription"
 msgid "Gain Dodging & Disengaging"
 msgstr "회피 및 이탈 효과 획득"
+
+msgctxt "Reaction/&SpendPowerPowerInvocationRepellingBlastTitle"
+msgid "Repelling Blast"
+msgstr ""
+
+msgctxt "Reaction/&SpendPowerPowerInvocationRepellingBlastDescription"
+msgid "Hitting the creature allows you to push it 2 cells away."
+msgstr ""
+
+msgctxt "Reaction/&SpendPowerPowerInvocationRepellingBlastReactTitle"
+msgid "Push"
+msgstr ""
+
+msgctxt "Reaction/&SpendPowerPowerInvocationRepellingBlastReactDescription"
+msgid "Push the creature away by 2 cells."
+msgstr ""
+
+msgctxt "Reaction/&HellishRebukeReactTitle"
+msgid "Cast"
+msgstr ""
+
+msgctxt "Reaction/&HellishRebukeReactDescription"
+msgid "Cast the Hellish Rebuke spell on the attacker."
+msgstr ""
+
+msgctxt "Reaction/&SubitemSelectCounterAttackWithSpellDescription"
+msgid "Select a slot level to counterattack."
+msgstr ""
+
+msgctxt "Reaction/&SubitemSelectCounterAttackWithSpellTitle"
+msgid "Slot Level"
+msgstr ""
+
+msgctxt "Reaction/&SpendPowerPowerPatronHiveMagicCounterTitle"
+msgid "Hostile Spellcasting"
+msgstr ""
+
+msgctxt "Reaction/&SpendPowerPowerPatronHiveMagicCounterDescription"
+msgid "{0} can use the Magic Counter power to counter a hostile spell."
+msgstr ""
+
+msgctxt "Reaction/&SpendPowerPowerPatronHiveMagicCounterReactTitle"
+msgid "Counter"
+msgstr ""
+
+msgctxt "Reaction/&SpendPowerPowerPatronHiveMagicCounterReactDescription"
+msgid "Spend the power to counter the spell."
+msgstr ""
+
+msgctxt "Reaction/&ReactiveCarapaceTitle"
+msgid "Reacting to Magical Damage"
+msgstr ""
+
+msgctxt "Reaction/&ReactiveCarapaceDescription"
+msgid ""
+"{0} suffers damage from a magical spell or effect, and can activate a "
+"carapace of temporary hit points."
+msgstr ""
+
+msgctxt "Reaction/&ReactiveCarapaceReactTitle"
+msgid "Carapace"
+msgstr ""
+
+msgctxt "Reaction/&ReactiveCarapaceReactDescription"
+msgid "Gain temporary hit points until the start of your next turn."
+msgstr ""
+
+msgctxt "Reaction/&UsePowerPatronTimekeeperTimeShiftTitle"
+msgid "Time Shift"
+msgstr ""
+
+msgctxt "Reaction/&UsePowerPatronTimekeeperTimeShiftDescription"
+msgid ""
+"{0} has been damaged and can use a reaction to briefly move back in time, "
+"canceling the damage and vanishing until the start of the next turn."
+msgstr ""
+
+msgctxt "Reaction/&UsePowerPatronTimekeeperTimeShiftReactTitle"
+msgid "Shift"
+msgstr ""
+
+msgctxt "Reaction/&UsePowerPatronTimekeeperTimeShiftReactDescription"
+msgid "Cancel the damage and vanish."
+msgstr ""
+
+msgctxt "Reaction/&SlowFallReactTitle"
+msgid "Slow Fall"
+msgstr ""
+
+msgctxt "Reaction/&SlowFallReactDescription"
+msgid "Use your reaction to mitigate fall damage and prevent becoming prone."
+msgstr ""
+
+msgctxt "Reaction/&SlowFallTitle"
+msgid "Slow Fall"
+msgstr ""
+
+msgctxt "Reaction/&SlowFallDescription"
+msgid ""
+"Starting at the 4th level, you can use your reaction when you fall to reduce "
+"any fall damage you take by an amount equal to five times your monk level. "
+"Additionally, you don't become prone when landing."
+msgstr ""
+
+msgctxt "Reaction/&DeflectMissileMonkTitle"
+msgid "Missile Attack"
+msgstr ""
+
+msgctxt "Reaction/&DeflectMissileMonkDescription"
+msgid ""
+"{0} is attacking {1}, who can react to reduce incoming damage by 1d10 + DEX "
+"modifier + monk level."
+msgstr ""
+
+msgctxt "Reaction/&ReturnMissileReactTitle"
+msgid "Return"
+msgstr ""
+
+msgctxt "Reaction/&ReturnMissileReactDescription"
+msgid "Spend 1 Ki point to send the missile back."
+msgstr ""
+
+msgctxt "Reaction/&ReturnMissileTitle"
+msgid "Missile Deflected"
+msgstr ""
+
+msgctxt "Reaction/&ReturnMissileDescription"
+msgid ""
+"{1} completely deflected {0}'s missile! You can spend 1 Ki point to send it "
+"back."
+msgstr ""
+
+msgctxt "Reaction/&BardicInspirationReactTitle"
+msgid "Spend Die"
+msgstr ""
+
+msgctxt "Reaction/&BardicInspirationReactDescription"
+msgid "Spend the inspiration die to attempt to succeed at the roll."
+msgstr ""
+
+msgctxt "Reaction/&BardicInspirationTitle"
+msgid "Bardic Inspiration"
+msgstr ""
+
+msgctxt "Reaction/&BardicInspirationAttackRollDescription"
+msgid ""
+"{0} has failed an attack roll and can attempt to roll a {1} to succeed on "
+"the roll."
+msgstr ""
+
+msgctxt "Reaction/&BardicInspirationSavingThrowDescription"
+msgid ""
+"{0} has failed a saving throw and can attempt to roll a {1} to succeed on "
+"the roll."
+msgstr ""
+
+msgctxt "Reaction/&BardicInspirationAbilityCheckDescription"
+msgid ""
+"{0} has failed an ability check and can attempt to roll a {1} to succeed on "
+"the roll."
+msgstr ""
+
+msgctxt "Reaction/&SwirlingDanceReactTitle"
+msgid "Attack"
+msgstr ""
+
+msgctxt "Reaction/&SwirlingDanceReactDescription"
+msgid "Choose to counterattack with a melee attack."
+msgstr ""
+
+msgctxt "Reaction/&SwirlingDanceTitle"
+msgid "Swirling Dance"
+msgstr ""
+
+msgctxt "Reaction/&SwirlingDanceDescription"
+msgid ""
+"{0} has attacked and missed {1}, who can use a reaction to strike back with "
+"a melee attack."
+msgstr ""
+
+msgctxt "Reaction/&DiamondSoulReactTitle"
+msgid "Reroll"
+msgstr ""
+
+msgctxt "Reaction/&DiamondSoulReactDescription"
+msgid "Reroll the failed saving throw."
+msgstr ""
+
+msgctxt "Reaction/&DiamondSoulTitle"
+msgid "Diamond Soul"
+msgstr ""
+
+msgctxt "Reaction/&DiamondSoulDescription"
+msgid ""
+"{0} has failed a saving throw against {1}, but can attempt to reroll it at "
+"the cost of 1 Ki point."
+msgstr ""
+
+msgctxt "Reaction/&SpendPowerPowerPatronFiendHurlThroughHellTitle"
+msgid "Hurl through Hell"
+msgstr ""
+
+msgctxt "Reaction/&SpendPowerPowerPatronFiendHurlThroughHellDescription"
+msgid ""
+"{0} has successfully hit the target and can hurl it through hell for 1 round."
+msgstr ""
+
+msgctxt "Reaction/&SpendPowerPowerPatronFiendHurlThroughHellReactTitle"
+msgid "Hurl"
+msgstr ""
+
+msgctxt "Reaction/&SpendPowerPowerPatronFiendHurlThroughHellReactDescription"
+msgid "Send the creature to hell."
+msgstr ""
+
+msgctxt "Reaction/&UsePowerPowerFeatBlessingOfTheElementsDescription"
+msgid ""
+"{0} has received fire, cold, or lightning damage, and can use a reaction to "
+"become resistant to these damage types until the start of their next turn."
+msgstr ""
+
+msgctxt "Reaction/&UsePowerPowerFeatBlessingOfTheElementsReactTitle"
+msgid "Resist"
+msgstr ""
+
+msgctxt "Reaction/&UsePowerPowerFeatBlessingOfTheElementsReactDescription"
+msgid "Activate resistance to these damage types for 1 round."
+msgstr ""
+
+msgctxt "Reaction/&SpendPowerPowerMonkStunningStrikeTitle"
+msgid "Stunning Strike"
+msgstr ""
+
+msgctxt "Reaction/&SpendPowerPowerMonkStunningStrikeDescription"
+msgid ""
+"{0} has successfully hit the target and can spend 1 Ki point to attempt a "
+"Stunning Strike."
+msgstr ""
+
+msgctxt "Reaction/&SpendPowerPowerMonkStunningStrikeReactTitle"
+msgid "Stun"
+msgstr ""
+
+msgctxt "Reaction/&SpendPowerPowerMonkStunningStrikeReactDescription"
+msgid "Attempt to stun the creature."
+msgstr ""
+
+msgctxt "Reaction/&UsePowerBardTraditionVerbalOnslaughtTitle"
+msgid "Verbal Onslaught"
+msgstr ""
+
+msgctxt "Reaction/&UsePowerBardTraditionVerbalOnslaughtDescription"
+msgid ""
+"Spend a Bardic Inspiration die to inflict psychic damage to your enemy and "
+"stun them until the end of their next turn if they fail their saving throw."
+msgstr ""
+
+msgctxt "Reaction/&UsePowerBardTraditionVerbalOnslaughtReactTitle"
+msgid "Onslaught"
+msgstr ""
+
+msgctxt "Reaction/&UsePowerBardTraditionVerbalOnslaughtReactDescription"
+msgid ""
+"Inflict psychic damage on your enemy, and stun them until the end of their "
+"next turn if they fail their saving throw."
+msgstr ""
+
+msgctxt "Reaction/&DeflectMissileMonkReactTitle"
+msgid "Deflect"
+msgstr ""
+
+msgctxt "Reaction/&DeflectMissileMonkReactDescription"
+msgid "Use your reaction to reduce the attack's damage."
+msgstr ""
+
+msgctxt "Reaction/&UsePowerBardHeroismAtRoadsEndTitle"
+msgid "At Road's End"
+msgstr ""
+
+msgctxt "Reaction/&UsePowerBardHeroismAtRoadsEndDescription"
+msgid ""
+"An ally has been reduced to 0 hit points, you can use your reaction to make "
+"them fall to 1 hit point instead."
+msgstr ""
+
+msgctxt "Reaction/&UsePowerBardHeroismAtRoadsEndReactTitle"
+msgid "Save"
+msgstr ""
+
+msgctxt "Reaction/&UsePowerBardHeroismAtRoadsEndReactDescription"
+msgid "Heal your fallen ally 1 hit point."
+msgstr ""
+
+msgctxt "Reaction/&SpendPowerPowerDomainLawHolyRetributionTitle"
+msgid "Holy Retribution"
+msgstr ""
+
+msgctxt "Reaction/&SpendPowerPowerDomainLawHolyRetributionDescription"
+msgid "Channel Divinity to strike back using a melee weapon"
+msgstr ""
+
+msgctxt "Reaction/&SpendPowerPowerDomainLawHolyRetributionReactTitle"
+msgid "Retribute"
+msgstr ""

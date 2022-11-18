@@ -1,18 +1,16 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-01 18:44+0900\n"
-"PO-Revision-Date: 2022-11-18 18:55+0000\n"
-"Last-Translator: E잡불어 <rarkar@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/modal/ko/>"
-"\n"
-"Language: ko\n"
+"POT-Creation-Date: 2022-11-19 04:14+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "Modal/&AssertionFailedTtitle"
 msgid "Assertion Failed"
@@ -244,8 +242,10 @@ msgctxt "Modal/&RequiredRestsTitle"
 msgid "Required Rests"
 msgstr "요구 휴식"
 
+#, fuzzy
+#| msgid "Click to reset travel settings to default value."
 msgctxt "Modal/&ResetDefaultsDescription"
-msgid "Click to reset travel settings to default value."
+msgid "Reset travel settings to default value."
 msgstr "여행 설정을 기본값으로 설정하려면 클릭하십시오."
 
 msgctxt "Modal/&ResetDefaultsTitle"
@@ -312,8 +312,10 @@ msgctxt "Modal/&TravelPaceTitle"
 msgid "Travel Pace"
 msgstr "여행 속도"
 
+#, fuzzy
+#| msgid "Click to change the settings of traveling and resting."
 msgctxt "Modal/&TravelSettingsButtonDescriptionTitle"
-msgid "Click to change the settings of traveling and resting."
+msgid "Change the settings of traveling and resting."
 msgstr "여행 및 휴식 설정을 변경하려면 클릭하십시오."
 
 msgctxt "Modal/&TravelSettingsCustomTitle"
@@ -1753,6 +1755,22 @@ msgctxt "Modal/&ModioLoginPrivacy"
 msgid "Privacy"
 msgstr "Privacy"
 
+msgctxt "Modal/&MissingDLCMultiplayerStoreWarningTitle"
+msgid "Warning"
+msgstr ""
+
+msgctxt "Modal/&MissingDLCMultiplayerStoreWarningDescription"
+msgid ""
+"Buying this DLC will not make it available in this multiplayer session. Only "
+"the host's DLCs are available in a multiplayer session."
+msgstr ""
+
+msgctxt "Modal/&MissingDLCMultiplayerAlreadyOwnedDescription"
+msgid ""
+"You already own this DLC, but only the host's DLCs are available in a "
+"multiplayer session. Proceed anyway?"
+msgstr ""
+
 msgctxt "Modal/&CreateSpellSlotTitle"
 msgid "Spell Slot Creation"
 msgstr "주문 슬롯 생성"
@@ -1812,10 +1830,14 @@ msgctxt "Modal/&SpellSlotRecoverLevelButtonTitle"
 msgid "Recover ({0})"
 msgstr "({0})을 회복"
 
+#, fuzzy
+#| msgid ""
+#| "Click to recover a spell slot from this level, for a cost of {0} from your "
+#| "total capital."
 msgctxt "Modal/&SpellSlotRecoverLevelButtonDescription"
 msgid ""
-"Click to recover a spell slot from this level, for a cost of {0} from your "
-"total capital."
+"Recover a spell slot from this level, for a cost of {0} from your total "
+"capital."
 msgstr "클릭하여, 회복량 중 {0}을 소모해 해당 레의 주문 슬롯을 회복하십시오."
 
 msgctxt "Modal/&SpellSlotCancelButtonTitle"
@@ -1931,3 +1953,75 @@ msgstr "\"{0}\" 게임 세션에 입장하기 위해선 유효한 비밀번호�
 msgctxt "Modal/&MultiplayerRoomJoinErrorGameAlreadyStartedDescription"
 msgid "The session has already started and cannot be joined."
 msgstr "세션이 이미 시작되어 입장할 수 없습니다."
+
+msgctxt "Modal/&NewSavedGameTitle"
+msgid "New Saved Game"
+msgstr ""
+
+msgctxt "Modal/&ShortcutConfigATitle"
+msgid "Switch to Config A"
+msgstr ""
+
+msgctxt "Modal/&ShortcutConfigBTitle"
+msgid "Switch to Config B"
+msgstr ""
+
+msgctxt "Modal/&ShortcutConfigCTitle"
+msgid "Switch to Config C"
+msgstr ""
+
+msgctxt "Modal/&ShortcutCastLightingSpellTitle"
+msgid "Cast Light Spell"
+msgstr ""
+
+msgctxt "Modal/&ShortcutStopConcentratingTitle"
+msgid "Dismiss Concentration"
+msgstr ""
+
+msgctxt "Modal/&LoadingProceedButtonConsoleTitle"
+msgid "Press any button to continue"
+msgstr ""
+
+msgctxt "Modal/&GamepadControlsTitle"
+msgid "Controller Mappings"
+msgstr ""
+
+msgctxt "Modal/&GamepadControlsShortTitle"
+msgid "Controller"
+msgstr ""
+
+msgctxt "Modal/&GamepadControlsDescription"
+msgid ""
+"Displays a screen showing how the controller inputs are bound to in-game "
+"actions."
+msgstr ""
+
+msgctxt "Modal/&GamepadControlsToggleExplorationTitle"
+msgid "Exploration"
+msgstr ""
+
+msgctxt "Modal/&GamepadControlsToggleBattleTitle"
+msgid "Battle"
+msgstr ""
+
+msgctxt "Modal/&GamepadControlsToggleMenusTitle"
+msgid "Menus"
+msgstr ""
+
+msgctxt "Modal/&AccessStoreTitle"
+msgid "Access Store"
+msgstr ""
+
+msgctxt "Modal/&AccessStoreMicrosoftTitle"
+msgid "Microsoft Store"
+msgstr ""
+
+msgctxt "Modal/&MultiplayerRoomJoinErrorCrossplayCheckFailedDescription"
+msgid ""
+"This game session is crossplay-restricted and your platform doesn't match "
+"the platform for this session."
+msgstr ""
+
+msgctxt "Modal/&ShortcutStopLightingSpellTitle"
+msgid "Stop a Light Spell"
+msgstr ""

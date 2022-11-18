@@ -1,18 +1,16 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-01 18:44+0900\n"
-"PO-Revision-Date: 2022-11-18 18:56+0000\n"
-"Last-Translator: E잡불어 <rarkar@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/equipment/"
-"ko/>\n"
-"Language: ko\n"
+"POT-Creation-Date: 2022-11-19 04:14+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "Equipment/&_Item_RingOfProtection_plus_one_Title"
 msgid "Ring of Protection +1"
@@ -586,10 +584,6 @@ msgstr "빈 두루마리"
 msgctxt "Equipment/&BlowgunTypeTitle"
 msgid "Blowgun"
 msgstr "바람총"
-
-msgctxt "Equipment/&BoltplusOne"
-msgid "Bolt +1"
-msgstr "볼트 +1"
 
 msgctxt "Equipment/&BoltTypeTitle"
 msgid "Crossbow Bolt"
@@ -3005,10 +2999,12 @@ msgctxt "Equipment/&PotionOfInvisibilityTitle"
 msgid "Potion of Invisibility"
 msgstr "투명의 물약"
 
+#, fuzzy
+#| msgid ""
+#| "Drinking this potion replicates the effect of a haste spell on you. Requires "
+#| "concentration."
 msgctxt "Equipment/&PotionOfSpeedDescription"
-msgid ""
-"Drinking this potion replicates the effect of a haste spell on you. Requires "
-"concentration."
+msgid "Drinking this potion replicates the effect of a haste spell on you."
 msgstr "이 물약을 마시면 가속 주문의 효과를 얻습니다. 집중을 요구합니다."
 
 msgctxt "Equipment/&PotionOfSpeedTitle"
@@ -5399,22 +5395,6 @@ msgstr "이 튼튼한 장갑은 매우 편안하며 마법적인 기능이 있�
 msgctxt "Equipment/&HornOfBlasting_Title"
 msgid "Horn of Blasting"
 msgstr "폭발의 뿔피리"
-
-msgctxt "Equipment/&HornOfBlasting_Description"
-msgid ""
-"You can use an action to speak the horn's Command Word and then blow the "
-"horn, which emits a thunderous blast in a 30-foot cone that is audible 600 "
-"feet away. Each creature in the cone must make a DC 15 Constitution saving "
-"throw. On a failed save, a creature takes 5d6 thunder damage and is deafened "
-"for 1 minute. On a successful save, a creature takes half as much damage and "
-"isn't deafened. Creatures and objects made of glass or crystal have "
-"disadvantage on the saving throw, and take 10d6 thunder damage instead of "
-"5d6."
-msgstr ""
-"행동을 사용하여 시동어를 말한 후 뿔피리를 불면, 600피트까지 닿는 우레 같은 폭발을 일으켜 30피트의 원뿔 범위로 방사합니다. 원뿔 "
-"내의 각 생물은 DC 15 건강 내성 굴림을 해야 합니다. 내성 굴림에 실패하면 생물은 5d6의 천둥 피해를 입고 1분 동안 귀머거리가 "
-"됩니다. 내성 굴림에 성공하면 생물은 절반의 피해를 입고 귀머거리가 되지 않습니다. 유리나 수정으로 만들어진 크리쳐나 물체는 내성 굴림에 "
-"불리점을 받고, 5d6 대신 10d6 천둥 피해를 받습니다."
 
 msgctxt "Equipment/&HornOfBlasting_Unidentified_Title"
 msgid "Lion-headed Horn"
@@ -9117,19 +9097,6 @@ msgctxt "Equipment/&EarlyBird_Function_Description"
 msgid "Increases your initiative by 2 when worn around the neck."
 msgstr "목에 걸었을 때 우선권을 2만큼 추가합니다."
 
-msgctxt "Equipment/&MarkOfTheCrown_Title"
-msgid "Mark of the Crown"
-msgstr "왕관의 흔적"
-
-msgctxt "Equipment/&MarkOfTheCrown_Description"
-msgid ""
-"Since you've been deprived of the crown, you can't put anything else on your "
-"head. It kind of feels like the crown is still here, probably a side effect "
-"of the attunement with its phenomenal magic."
-msgstr ""
-"왕관을 빼앗긴 이래로 머리에 아무것도 얹을 수가 없습니다. 왕관이 여전히 머리 위에 있는 느낌으로, 아마도 왕관에 깃든 경이로운 마법으로 "
-"인한 감정적 부작용일 것입니다."
-
 msgctxt "Equipment/&TagLightWeaponTitle"
 msgid "Light"
 msgstr "경량형"
@@ -9271,6 +9238,10 @@ msgstr ""
 "또, 우리 정찰대 중 하나가 같은 나무에서 머지 않은 곳에서 오레네티스의 제복을 입은 여러 부대의 시체들을 발견했네. 놈들을 위해선 눈물 "
 "한 방울 흘리지 않았지만, 그 나무에 대한 우려가 퍼지고 있네. 어떤 조치를 취해야 한다 내 강력히 권했네. 우리가 전에 그 나무에서 "
 "드라이어드들을 몰아냈으니. 놈들의 보복이 틀림없어."
+
+msgctxt "Equipment/&MagnificientCrossbowGenericPresentation"
+msgid "A magnificient weapon, and probably magical."
+msgstr ""
 
 msgctxt "Equipment/&BlackBearPelt_Title"
 msgid "Black Bear Pelt"
@@ -10937,10 +10908,15 @@ msgctxt "Equipment/&DLC1_Item_PeriaptOfTheMasterEnchanter_Title"
 msgid "Periapt of the Master Enchanter"
 msgstr "마법부여 통달의 부적"
 
+#, fuzzy
+#| msgid ""
+#| "Once owned by the Manacalon master smith Firceidith, this magical charm "
+#| "boosts the wearer's crafting speed."
 msgctxt "Equipment/&DLC1_Item_PeriaptOfTheMasterEnchanter_Description"
 msgid ""
 "Once owned by the Manacalon master smith Firceidith, this magical charm "
-"boosts the wearer's crafting speed."
+"boosts the wearer's crafting speed, but also provides Proficiency with the "
+"Manacalon Rosary and replaces it if you wear the Periapt around the neck."
 msgstr "마나칼론의 야금술의 대가 퍼시디스가 소유했던 적이 있습니다. 이 마법 부적은 착용자의 제작 속도를 가속시킵니다."
 
 msgctxt "Equipment/&DLC1_Item_RingOfTheAmbassador_Title"
@@ -11283,12 +11259,6 @@ msgid ""
 "this cloak and are attuned to it."
 msgstr "당신이 이 망토를 착용하고 조율되었다면, 당신의 매력(설득)굴림에 +2를 얻습니다."
 
-msgctxt "Equipment/&BeltOfTheBarbarianKing_Function_Description"
-msgid ""
-"Your constitution is 19 as long as you are wearing this cloak and are "
-"attuned to it."
-msgstr "당신이 이 망토를 착용하고 조율되었다면, 당신의 건강은 19가 됩니다."
-
 msgctxt "Equipment/&PriaptOfTheMasterEnchanter_Function_Description"
 msgid ""
 "Your crafting speed is increased as long as you are wearing this periapt and "
@@ -11417,8 +11387,12 @@ msgctxt "Equipment/&DLC_Equipment_Complex_ManaGenerator_Fragment"
 msgid "Mana Generator Fragment"
 msgstr "마나 생성기 조각"
 
+#, fuzzy
+#| msgid "A part of the Major Gate's floor, essential to its proper functioning."
 msgctxt "Equipment/&DLC_Equipment_Complex_ManaGenerator_Fragment_Description"
-msgid "A part of the Major Gate's floor, essential to its proper functioning."
+msgid ""
+"A part of the Mana Generator's mechanism, essential to its proper "
+"functioning."
 msgstr "주 관문 바닥의 일부로, 정상적으로 가동하기 위해 꼭 필요합니다."
 
 msgctxt "Equipment/&DLC_Equipment_Complex_Indoor_Book_Title"
@@ -11681,3 +11655,556 @@ msgstr "식별되지 않은 마법 아이템의 숨겨진 특성을 알아낼 �
 msgctxt "Equipment/&MaulOfPower_Description"
 msgid "A simple yet effective enchanted maul."
 msgstr "간단하지만 효과적인 마법이 부여된 마울."
+
+msgctxt "Equipment/&Bacgkground_Artist_Item_Title"
+msgid "Canceled Contract"
+msgstr ""
+
+msgctxt "Equipment/&Bacgkground_Artist_Item_Description"
+msgid ""
+"An old piece of paper of no value... anymore. You used to think this was "
+"your career breakthrough, but after a stroke of bad luck, this contract was "
+"canceled, and you now only keep it to remember never to miss another chance."
+msgstr ""
+
+msgctxt "Equipment/&Bacgkground_Occultist_Item_Title"
+msgid "Old Notebook"
+msgstr ""
+
+msgctxt "Equipment/&Bacgkground_Occultist_Item_Description"
+msgid ""
+"This old notebook, whose secrets you still haven't fully uncovered, reminds "
+"you that the world is full of mysteries just waiting to be revealed."
+msgstr ""
+
+msgctxt "Equipment/&DiplomatPackTitle"
+msgid "Diplomat Pack"
+msgstr ""
+
+msgctxt "Equipment/&EntertainerPackTitle"
+msgid "Entertainer Pack"
+msgstr ""
+
+msgctxt "Equipment/&LuteTitle"
+msgid "Lute"
+msgstr ""
+
+msgctxt "Equipment/&LuteDescription"
+msgid ""
+"A stringed instrument with a neck and a deep, round back enclosing a hollow "
+"cavity. Relatively quiet, but great for accompanying vocals!"
+msgstr ""
+
+msgctxt "Equipment/&FluteTitle"
+msgid "Flute"
+msgstr ""
+
+msgctxt "Equipment/&FluteDescription"
+msgid ""
+"A wind instrument that produces sound from the flow of air across an "
+"opening. One of the oldest musical instruments still in use."
+msgstr ""
+
+msgctxt "Equipment/&PipesOfHauntingUnidentifiedTitle"
+msgid "Blackened Pipes"
+msgstr ""
+
+msgctxt "Equipment/&PipesOfHauntingUnidentifiedDescription"
+msgid "Some faint magic can be felt on the rotten wood of these pipes."
+msgstr ""
+
+msgctxt "Equipment/&PipesOfHauntingDrumsTitle"
+msgid "Pipes of Haunting"
+msgstr ""
+
+msgctxt "Equipment/&PipesOfHauntingDescription"
+msgid ""
+"These pipes let out a magically infused cry that can strike fear even in the "
+"hearts of the bravest warriors."
+msgstr ""
+
+msgctxt "Equipment/&RapierHarmonyTitle"
+msgid "Harmony"
+msgstr ""
+
+msgctxt "Equipment/&RapierHarmonyDescription"
+msgid ""
+"A blade that pierces both the body and soul of its victims. It seems to sing "
+"whenever it strikes."
+msgstr ""
+
+msgctxt "Equipment/&RapierHarmonyUnidentifiedDescription"
+msgid "A finely decorated rapier. Could be magical."
+msgstr ""
+
+msgctxt "Equipment/&FluteOfRespiteUnidentifiedTitle"
+msgid "Beautiful Flute"
+msgstr ""
+
+msgctxt "Equipment/&FluteOfRespiteUnidentifiedDescription"
+msgid "A flute that seems to be more than meets the eye."
+msgstr ""
+
+msgctxt "Equipment/&FluteOfRespiteTitle"
+msgid "Flute of Respite"
+msgstr ""
+
+msgctxt "Equipment/&FluteOfRespiteDescription"
+msgid "A magical flute whose music has healing properties."
+msgstr ""
+
+msgctxt "Equipment/&Enchanted_Gauntlet_of_Acuteness_Title"
+msgid "Gauntlet of Acuteness"
+msgstr ""
+
+msgctxt "Equipment/&Enchanted_Gauntlet_of_Sharpness_Title"
+msgid "Gauntlet of Sharpness"
+msgstr ""
+
+msgctxt "Equipment/&Enchanted_Gauntlet_of_Acuteness_Description"
+msgid "Flawlessly balanced, these gauntlets seemingly never miss their target."
+msgstr ""
+
+msgctxt "Equipment/&Enchanted_Gauntlet_of_Sharpness_Description"
+msgid ""
+"A nigh perfectly crafted gauntlet infused with powerful magic, its "
+"incredible sharpness makes taking down larger foes easy."
+msgstr ""
+
+msgctxt "Equipment/&Enchanted_MonkGauntlet+1_Title"
+msgid "Gauntlet +1"
+msgstr ""
+
+msgctxt "Equipment/&Enchanted_MonkGauntlet+2_Title"
+msgid "Gauntlet +2"
+msgstr ""
+
+msgctxt "Equipment/&Enchanted_MonkGauntlet+1_Unidentified_Title"
+msgid "Magnificent Gauntlet"
+msgstr ""
+
+msgctxt "Equipment/&Enchanted_MonkGauntlet+1_Description"
+msgid "A Gauntlet from the Imperial era, finely crafted and imbued with magic."
+msgstr ""
+
+msgctxt "Equipment/&Enchanted_MonkGauntlet+2_Description"
+msgid ""
+"This apparently simple gauntlet is actually a magical weapon used by "
+"forgotten monastic traditions from Tirmar."
+msgstr ""
+
+msgctxt "Equipment/&Enchanted_MonkGauntlet+1_Unidentified_Description"
+msgid "This rune-engraved gauntlet is clearly of superior workmanship."
+msgstr ""
+
+msgctxt "Equipment/&ChitinousBoonUnindentifiedTitle"
+msgid "Strange Shell"
+msgstr ""
+
+msgctxt "Equipment/&ChitinousBoonUnidentifiedDescription"
+msgid ""
+"A part of a shell that looks like it belonged to a kind of redeemer. A "
+"potent magical aura emanates from it."
+msgstr ""
+
+msgctxt "Equipment/&ChitinousBoonTitle"
+msgid "Chitinous Boon"
+msgstr ""
+
+msgctxt "Equipment/&ChitinousBoonDescription"
+msgid ""
+"This gift from the Hive draws in mana all around it, which allows warlocks "
+"to cast more spells and use it as a focus."
+msgstr ""
+
+msgctxt "Equipment/&WandOfWarMage+1_Title"
+msgid "Wand of the War Mage +1"
+msgstr ""
+
+msgctxt "Equipment/&WandOfWarMage+2_Title"
+msgid "Wand of the War Mage +2"
+msgstr ""
+
+msgctxt "Equipment/&WandOfWarMage+1_Description"
+msgid "A focus that increases a spell's potency."
+msgstr ""
+
+msgctxt "Equipment/&WandOfWarMage+2_Description"
+msgid ""
+"An old and rare wand that was used by some of the brightest shock arcanists "
+"in times of old. This focus grants an even stronger potency to spells."
+msgstr ""
+
+#, fuzzy
+#| msgid ""
+#| "You can use an action to speak the horn's Command Word and then blow the "
+#| "horn, which emits a thunderous blast in a 30-foot cone that is audible 600 "
+#| "feet away. Each creature in the cone must make a DC 15 Constitution saving "
+#| "throw. On a failed save, a creature takes 5d6 thunder damage and is deafened "
+#| "for 1 minute. On a successful save, a creature takes half as much damage and "
+#| "isn't deafened. Creatures and objects made of glass or crystal have "
+#| "disadvantage on the saving throw, and take 10d6 thunder damage instead of "
+#| "5d6."
+msgctxt "Equipment/&HornOfBlasting_Description"
+msgid ""
+"You can use an action to speak the horn's command word, and then blow the "
+"horn, which emits a thunderous blast in a 6-cell cone that is audible 120 "
+"cells away. Each creature in the cone must make a DC 15 constitution saving "
+"throw. On a failed save, a creature takes 5d6 thunder damage and is deafened "
+"for 1 minute. On a successful save, a creature takes half as much damage and "
+"isn't deafened. Creatures and objects made of glass or crystal have "
+"disadvantage on the saving throw, and take 10d6 thunder damage instead of "
+"5d6."
+msgstr ""
+"행동을 사용하여 시동어를 말한 후 뿔피리를 불면, 600피트까지 닿는 우레 같은 폭발을 일으켜 30피트의 원뿔 범위로 방사합니다. 원뿔 "
+"내의 각 생물은 DC 15 건강 내성 굴림을 해야 합니다. 내성 굴림에 실패하면 생물은 5d6의 천둥 피해를 입고 1분 동안 귀머거리가 "
+"됩니다. 내성 굴림에 성공하면 생물은 절반의 피해를 입고 귀머거리가 되지 않습니다. 유리나 수정으로 만들어진 크리쳐나 물체는 내성 굴림에 "
+"불리점을 받고, 5d6 대신 10d6 천둥 피해를 받습니다."
+
+msgctxt "Equipment/&BongoTitle"
+msgid "Bongo"
+msgstr ""
+
+msgctxt "Equipment/&BongoDescription"
+msgid "A pair of small drums played with the hands."
+msgstr ""
+
+msgctxt "Equipment/&ConchTitle"
+msgid "Conch"
+msgstr ""
+
+msgctxt "Equipment/&ConchDescription"
+msgid ""
+"Also known as a \"seashell horn,\" the conch is a wind instrument that is "
+"made from a conch, the shell of several different kinds of sea snails."
+msgstr ""
+
+msgctxt "Equipment/&DrumTitle"
+msgid "Drum"
+msgstr ""
+
+msgctxt "Equipment/&DrumDescription"
+msgid "A percussive instrument played with hands or with sticks."
+msgstr ""
+
+msgctxt "Equipment/&DulcimerTitle"
+msgid "Dulcimer"
+msgstr ""
+
+msgctxt "Equipment/&DulcimerDescription"
+msgid ""
+"A percussion-stringed instrument made of strings stretched over a resonant "
+"soundboard and played with small hammers."
+msgstr ""
+
+msgctxt "Equipment/&HornTitle"
+msgid "Horn"
+msgstr ""
+
+msgctxt "Equipment/&HornDescription"
+msgid ""
+"A horn is a wind instrument made of a tube, usually made of metal and often "
+"curved in various ways."
+msgstr ""
+
+msgctxt "Equipment/&ShawmTitle"
+msgid "Shawm"
+msgstr ""
+
+msgctxt "Equipment/&ShawmDescription"
+msgid "A conical bore, double-reed woodwind instrument."
+msgstr ""
+
+msgctxt "Equipment/&DLC1_Item_BracersOfStunningStrike_Title"
+msgid "Bracers of Stunning Strike"
+msgstr ""
+
+msgctxt "Equipment/&DLC1_Item_BracersOfStunningStrike_Description"
+msgid ""
+"Created by an unknown wandering monk who later created his own school of "
+"martial arts, these bracers provide even more power to your punches."
+msgstr ""
+
+msgctxt "Equipment/&Armor_Warlock_Title"
+msgid "Warlock Armor"
+msgstr ""
+
+msgctxt "Equipment/&Armor_Warlock_Description"
+msgid "Leather armor in a style befitting a warlock."
+msgstr ""
+
+msgctxt "Equipment/&ProducedFlameTitle"
+msgid "Flame"
+msgstr ""
+
+msgctxt "Equipment/&Armor_Bard_Title"
+msgid "Bard Armor"
+msgstr ""
+
+msgctxt "Equipment/&Armor_Bard_Description"
+msgid "Leather armor in a style befitting a bard."
+msgstr ""
+
+msgctxt "Equipment/&Monk_Armor_Title"
+msgid "Monk Outfit"
+msgstr ""
+
+msgctxt "Equipment/&Monk_Armor_Description"
+msgid "The traditional attire of Solastan monks."
+msgstr ""
+
+msgctxt "Equipment/&MarkOfTheCrown_Title"
+msgid "Mark of the Crown"
+msgstr "왕관의 흔적"
+
+#, fuzzy
+#| msgid ""
+#| "Since you've been deprived of the crown, you can't put anything else on your "
+#| "head. It kind of feels like the crown is still here, probably a side effect "
+#| "of the attunement with its phenomenal magic."
+msgctxt "Equipment/&MarkOfTheCrown_Description"
+msgid ""
+"Since you've been deprived of the Crown, you can't put anything else on your "
+"head. It kind of feels like the Crown is still there, probably a side effect "
+"of the attunement with its phenomenal magic."
+msgstr ""
+"왕관을 빼앗긴 이래로 머리에 아무것도 얹을 수가 없습니다. 왕관이 여전히 머리 위에 있는 느낌으로, 아마도 왕관에 깃든 경이로운 마법으로 "
+"인한 감정적 부작용일 것입니다."
+
+msgctxt "Equipment/&ItemTypeSpellFocusSubtypeMusicalInstrumentTitle"
+msgid "Instrument"
+msgstr ""
+
+msgctxt "Equipment/&DwarvenWarDrumsTitle"
+msgid "Dwarven War Drums"
+msgstr ""
+
+msgctxt "Equipment/&DwarvenWarDrumsDescription"
+msgid ""
+"Drums used by dwarven warriors in the far north. Their sound is enhanced "
+"magically and can rupture the eardrums of foes."
+msgstr ""
+
+msgctxt "Equipment/&DwarvenWarDrumsUnidentifiedTitle"
+msgid "Emblazoned Drums"
+msgstr ""
+
+msgctxt "Equipment/&DwarvenWarDrumsUnidentifiedDescription"
+msgid ""
+"These drums are adorned with dwarven markings on their rims. They may be "
+"magical."
+msgstr ""
+
+msgctxt "Equipment/&CloakOfUbiquity_Unidentified_Title"
+msgid "Beautiful Cloak"
+msgstr ""
+
+msgctxt "Equipment/&CloakOfUbiquity_Unidentified_Description"
+msgid "A stylish cloak that smells faintly of brimstone. Probably magical."
+msgstr ""
+
+msgctxt "Equipment/&CloakOfUbiquity_Title"
+msgid "Cloak of Ubiquity"
+msgstr ""
+
+msgctxt "Equipment/&CloakOfUbiquity_Description"
+msgid ""
+"This is a gift from a fiend to his least untrustworthy servant. A warlock "
+"can cast Dimension Door while attuned to it."
+msgstr ""
+
+msgctxt "Equipment/&TheAmendmentUnidentifiedTitle"
+msgid "Arcane Legalese"
+msgstr ""
+
+msgctxt "Equipment/&TheAmendmentUnidentifiedDescription"
+msgid ""
+"A vellum piece describing the results of a curious infernal case. The ink "
+"has the faint scent of brimstone."
+msgstr ""
+
+msgctxt "Equipment/&TheAmendmentTitle"
+msgid "The Amendment"
+msgstr ""
+
+msgctxt "Equipment/&TheAmendmentDescription"
+msgid ""
+"Morphellax the Unquenched is legally bound to provide an Armor of Shadow to "
+"any Warlock attuned to this hellish legal finding."
+msgstr ""
+
+msgctxt "Equipment/&NecklaceOfGrounding_Unidentified_Title"
+msgid "Wooden Necklace"
+msgstr ""
+
+msgctxt "Equipment/&NecklaceOfGrounding_Unidentified_Description"
+msgid ""
+"A necklace made of interlocking wooden beads. It seems to be almost magical."
+msgstr ""
+
+msgctxt "Equipment/&NecklaceOfGrounding_Title"
+msgid "Necklace of Focus"
+msgstr ""
+
+msgctxt "Equipment/&NecklaceOfGrounding_Description"
+msgid ""
+"The beads of this necklace are made of wood from a sylvan grove. They help "
+"the wearer connect to their inner self and heighten their awareness of "
+"attacks."
+msgstr ""
+
+msgctxt "Equipment/&PenitentBeltTitle"
+msgid "Sash of Transmutation"
+msgstr ""
+
+msgctxt "Equipment/&PenitentBeltDescription"
+msgid ""
+"The pain and discomfort of this belt teaches wearers to tap into their inner "
+"strength to soothe their wounds."
+msgstr ""
+
+msgctxt "Equipment/&Enchanted_Rapier_of_Harmony_Title"
+msgid "Rapier of Harmony"
+msgstr ""
+
+msgctxt "Equipment/&Enchanted_Rapier_of_Harmony_Description"
+msgid ""
+"An enchanted rapier that dates back to the Manacalon era. The blade quivers "
+"inside the body when it strikes, which can cause terrible damage to a foe."
+msgstr ""
+
+msgctxt "Equipment/&Enchanted_Dagger_EldritchWounds_Title"
+msgid "Dagger of Eldritch Wounds"
+msgstr ""
+
+msgctxt "Equipment/&Enchanted_Dagger_EldritchWounds_Description"
+msgid "This dagger taps into terrible magic to wound its target."
+msgstr ""
+
+msgctxt "Equipment/&StaffOfSwarmingInsectsTitle"
+msgid "Staff of Swarming Insects"
+msgstr ""
+
+msgctxt "Equipment/&StaffOfSwarmingInsectsDescription"
+msgid "Staves of this kind allow their wielder to guide and control insects."
+msgstr ""
+
+msgctxt "Equipment/&Enchanted_Scimitar_Of_Speed_Title"
+msgid "Scimitar of Speed"
+msgstr ""
+
+msgctxt "Equipment/&Enchanted_ScimitarOfSpeed_Description"
+msgid ""
+"Wielding this magic scimitar in battle blurs the line between dance and "
+"combat."
+msgstr ""
+
+msgctxt "Equipment/&FunctionOintmentSelfHealTitle"
+msgid "Heal Self"
+msgstr ""
+
+msgctxt "Equipment/&RestorativeOintmentTitle"
+msgid "Restorative Ointment"
+msgstr ""
+
+msgctxt "Equipment/&RestorativeOintmentDescription"
+msgid ""
+"This is a thick mixture that smells faintly of aloe. It can be applied to "
+"heal wounds and cure poisons and diseases."
+msgstr ""
+
+msgctxt "Equipment/&DLC2.5_Item_WandOfMagicMissile_Title"
+msgid "Wand of Magic Missile"
+msgstr ""
+
+msgctxt "Equipment/&DLC2.5_Item_WandOfMagicMissile_Description"
+msgid "A fairly simple wand that was used by Court Mage trainees in the past."
+msgstr ""
+
+msgctxt "Equipment/&Ingredient_Primed_Gauntlet_Title"
+msgid "Primed Gauntlets"
+msgstr ""
+
+msgctxt "Equipment/&Ingredient_Primed_Gauntlet_Description"
+msgid ""
+"Created by a Manacalon master smith, these gauntlets are made of enchanted "
+"leather and alloys. They only need a catalyst to unlock their potential."
+msgstr ""
+
+msgctxt "Equipment/&ChargedBlueSapphire_Unidentified_Title"
+msgid "Blue Sapphire"
+msgstr ""
+
+msgctxt "Equipment/&ChargedBlueSapphire_Unidentified_Description"
+msgid "A blue gem that is cold to the touch."
+msgstr ""
+
+msgctxt "Equipment/&ChargedBlueSapphire_Title"
+msgid "Charged Blue Sapphire"
+msgstr ""
+
+msgctxt "Equipment/&ChargedBlueSapphire_Description"
+msgid ""
+"This cold gem houses an air elemental that can be summoned by breaking it."
+msgstr ""
+
+msgctxt "Equipment/&ChargedYellowDiamond_Unidentified_Title"
+msgid "Yellow Diamond"
+msgstr ""
+
+msgctxt "Equipment/&ChargedYellowDiamond_Unidentified_Description"
+msgid "A yellow gem that rumbles ever so slightly."
+msgstr ""
+
+msgctxt "Equipment/&ChargedRedCorundum_Unidentified_Title"
+msgid "Red Corundum"
+msgstr ""
+
+msgctxt "Equipment/&ChargedRedCorundum_Unidentified_Description"
+msgid "A red gem that is strangely warm."
+msgstr ""
+
+msgctxt "Equipment/&ChargedYellowDiamond_Title"
+msgid "Charged Yellow Diamond"
+msgstr ""
+
+msgctxt "Equipment/&ChargedYellowDiamond_Description"
+msgid ""
+"This rumbling gem houses an earth elemental that can be summoned by breaking "
+"it."
+msgstr ""
+
+msgctxt "Equipment/&ChargedRedCorundum_Title"
+msgid "Charged Red Corundum"
+msgstr ""
+
+msgctxt "Equipment/&ChargedRedCorundum_Description"
+msgid ""
+"This warm gem houses a fire elemental that can be summoned by breaking it."
+msgstr ""
+
+#, fuzzy
+#| msgid ""
+#| "Your constitution is 19 as long as you are wearing this cloak and are "
+#| "attuned to it."
+msgctxt "Equipment/&BeltOfTheBarbarianKing_Function_Description"
+msgid ""
+"Your constitution is 19 as long as you are wearing this belt and are attuned "
+"to it."
+msgstr "당신이 이 망토를 착용하고 조율되었다면, 당신의 건강은 19가 됩니다."
+
+msgctxt "Equipment/&BoltplusOne"
+msgid "Bolt +1"
+msgstr "볼트 +1"
+
+msgctxt "Equipment/&ItemTypeSpellFocusSubtypeNoneTitle"
+msgid "Any"
+msgstr ""
+
+msgctxt "Equipment/&WandOfTheWarMage+1_Effect"
+msgid "+1 to Spell Attack"
+msgstr ""
+
+msgctxt "Equipment/&WandOfTheWarMage+2_Effect"
+msgid "+2 to Spell Attack"
+msgstr ""

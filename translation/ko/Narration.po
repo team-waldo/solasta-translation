@@ -1,18 +1,16 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-01 18:44+0900\n"
-"PO-Revision-Date: 2022-11-18 18:56+0000\n"
-"Last-Translator: Araghast <kes322@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/narration/"
-"ko/>\n"
-"Language: ko\n"
+"POT-Creation-Date: 2022-11-19 04:14+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "Narration/&NecromancyTextObj01"
 msgid "Caer Tenarion. Iron Legion XXV. Year 24, Emperor Gwaltrian III"
@@ -17330,8 +17328,10 @@ msgctxt "Narration/&NecromancyQuest04_01_Lizzaria_NPC"
 msgid "Who are you? What do you want?"
 msgstr "너희는 누구지? 뭘 원하는 거야?"
 
+#, fuzzy
+#| msgid "Ask for mercy."
 msgctxt "Narration/&NecromancyQuest04_02_INTIMIDATE_CHOICE"
-msgid "Ask for mercy."
+msgid "to see you beg for your life"
 msgstr "자비를 구해라."
 
 msgctxt "Narration/&NecromancyQuest03_03_KILL_CHOICE"
@@ -25545,10 +25545,6 @@ msgctxt "Narration/&TextOnlyNPCSpeech_Bone_Yard_02"
 msgid "Got it!"
 msgstr "찾았다!"
 
-msgctxt "Narration/&TextOnlyNPCSpeech_Bone_Yard_03"
-msgid "Just bones…"
-msgstr "평범한 뼈야…"
-
 msgctxt "Narration/&TextOnlyNPCSpeech_Bone_Yard_04"
 msgid "Nothing here. Let's move to the next pile of bones."
 msgstr "여긴 아냐. 다음 뼈무더기로 가자."
@@ -26751,8 +26747,10 @@ msgctxt "Narration/&Background_Quest_Wanderer_Conclusion3_Partner_Lawful"
 msgid "So much for friendship."
 msgstr "우정 강조는 그쯤 하자고."
 
+#, fuzzy
+#| msgid "That Auroc - what an asshole."
 msgctxt "Narration/&Background_Quest_Wanderer_Conclusion4_Partner_Slanglish"
-msgid "That Auroc - what an asshole."
+msgid "That Auroc - what a jerk."
 msgstr "오로크란 놈 - 완전 개자식이었군."
 
 msgctxt "Narration/&Background_Quest_Wanderer_Conclusion5_Wanderer_Default"
@@ -29200,8 +29198,10 @@ msgid ""
 "laboratory."
 msgstr "그동안, 자네들의 충성에 대한 보상으로, 내 연구소에 대한 출입권을 부여하지."
 
+#, fuzzy
+#| msgid "Talk to Finaliel Sharpmind. He's in charge of the place."
 msgctxt "Narration/&DLC1_Orenetis_06_48_Orenetis_NPC"
-msgid "Talk to Finaliel Sharpmind. He's in charge of the place."
+msgid "Talk to Finaliel Sharpmind. She's in charge of the place."
 msgstr "피날리엘 샤프마인드에게 얘기하게. 그가 그곳의 책임자일세."
 
 msgctxt "Narration/&DLC1_NPCBanters1_Rose_NPC"
@@ -30106,8 +30106,10 @@ msgctxt "Narration/&DLC1_ThePeople_05_Transition6_Any_Default"
 msgid "We'll talk to her, then."
 msgstr "얘기해 볼게요."
 
+#, fuzzy
+#| msgid "And Thanks again for your support, my friends."
 msgctxt "Narration/&DLC1_ThePeople_05_Transition7_Rose_NPC"
-msgid "And Thanks again for your support, my friends."
+msgid "And thanks again for your support, my friends."
 msgstr "늘 너희의 도움에 감사하고 있어, 친구들."
 
 msgctxt "Narration/&DLC1_ThePeople_05_2_Player_Default"
@@ -30429,8 +30431,10 @@ msgid ""
 "confiscated."
 msgstr "오레네티스는 도를 넘고 있어요. 난 그저 식량 압수에 대해 불만을 표출했죠."
 
+#, fuzzy
+#| msgid "In response, Brogared had me arrested."
 msgctxt "Narration/&DLC1_ThePeople_07_28_Reya_NPC"
-msgid "In response, Brogared had me arrested."
+msgid "In response, Brogarad had me arrested."
 msgstr "그 결과, 브로가라드가 날 체포했구요."
 
 msgctxt "Narration/&DLC1_ThePeople_07_29_Reya_NPC"
@@ -31524,12 +31528,16 @@ msgctxt "Narration/&DLC1_Forge_07_Meeting_8_NOAUDIO_Branch"
 msgid "Take sides"
 msgstr "한쪽 편을 든다"
 
+#, fuzzy
+#| msgid "Initmidate! Side with Forge"
 msgctxt "Narration/&DLC1_Forge_07_Meeting_9_NOAUDIO_ChoiceC"
-msgid "Initmidate! Side with Forge"
+msgid "Side with Forge"
 msgstr "위협한다! 포지 편에 서기"
 
+#, fuzzy
+#| msgid "Initmidate! Side with Rebellion"
 msgctxt "Narration/&DLC1_Forge_07_Meeting_10_NOAUDIO_ChoiceD"
-msgid "Initmidate! Side with Rebellion"
+msgid "Side with Rebellion"
 msgstr "위협한다! 반군 편에 서기"
 
 msgctxt "Narration/&DLC1_Forge_07_Meeting_11_NOAUDIO_ChoiceE_Mask"
@@ -31573,9 +31581,12 @@ msgctxt "Narration/&DLC1_Forge_07_Meeting_20_Ellaria_NPC"
 msgid "This…Mask, who are they working for?"
 msgstr "이건… 마스크라니, 누굴 섬기는 자들이죠?"
 
+#, fuzzy
+#| msgid ""
+#| "Well. Things are clear now, and the Rebellion and the Forge can befriends."
 msgctxt "Narration/&DLC1_Forge_07_Meeting_21_Hasdrubal_NPC"
 msgid ""
-"Well. Things are clear now, and the Rebellion and the Forge can befriends."
+"Well. Things are clear now, and the Rebellion and the Forge can be friends."
 msgstr "이거야 원. 진상이 밝혀졌으니, 반군과 포지가 이젠 친구가 될 수 있겠군."
 
 msgctxt "Narration/&DLC1_Forge_07_Meeting_22_Ellaria_NPC"
@@ -34511,16 +34522,22 @@ msgctxt "Narration/&DLC1_Sitenero_01_45_Player_Default"
 msgid "A tough decision."
 msgstr "어려운 결정인데."
 
+#, fuzzy
+#| msgid "Let's kill him!"
 msgctxt "Narration/&DLC1_Sitenero_01_46_NOAUDIO_ChoiceA"
-msgid "Let's kill him!"
+msgid "Let's kill him! (Fails People quests)"
 msgstr "죽이자!"
 
+#, fuzzy
+#| msgid "Come with us - we'll decide later."
 msgctxt "Narration/&DLC1_Sitenero_01_47_NOAUDIO_ChoiceB"
-msgid "Come with us - we'll decide later."
+msgid "Come with us (Fails Rebellion and Mask quests)"
 msgstr "따라오세요 - 나중에 결정합시다."
 
+#, fuzzy
+#| msgid "You should go free."
 msgctxt "Narration/&DLC1_Sitenero_01_48_NOAUDIO_ChoiceC"
-msgid "You should go free."
+msgid "You should go free. (Fails Rebellion and People quests)"
 msgstr "풀어주자."
 
 msgctxt "Narration/&DLC1_Sitenero_01_49_Player_ChoiceA"
@@ -37736,3 +37753,15 @@ msgstr "잊힌 말들"
 msgctxt "Narration/&Valley_CS_44"
 msgid "The Curse of Dinas Scath"
 msgstr "디나스 스카스의 저주"
+
+msgctxt "Narration/&TextOnlyNPCSpeech_Bone_Yard_03"
+msgid "Just bones…"
+msgstr "평범한 뼈야…"
+
+msgctxt "Narration/&DLC1_Hasdrubal_Banter_05_Welcome_Lysantir"
+msgid "A new misfit for our little gang? Welcome to the Forge!"
+msgstr ""
+
+msgctxt "Narration/&DLC1_Lysantir_Banter_01_Thank_Hasdrubal"
+msgid "Thank you! It's very generous of you."
+msgstr ""

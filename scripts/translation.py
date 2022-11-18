@@ -64,7 +64,7 @@ class TranslationFile(List[TranslationEntry]):
             self.append(entry)
 
     def export(self, path: str) -> None:
-        po = pypo.pofile(width=120)
+        po = pypo.pofile()
 
         for entry in self:
             po.addunit(entry.to_pounit())
@@ -72,15 +72,19 @@ class TranslationFile(List[TranslationEntry]):
         with open(path, "wb") as f:
             po.savefile(f)
 
-    def merge(self, origin: "TranslationFile") -> None:
+    def merge(self, origin: "TranslationFile") -> bool:
+        updated = False
         origin_dict = {e.key: e for e in origin}
         for entry in self:
             old_entry = origin_dict.get(entry.key, None)
             if not old_entry:
+                updated = True
                 continue
             if not old_entry.target:
                 continue
             if old_entry.source != entry.source:
                 entry.prev_source = old_entry.source
                 entry.fuzzy = True
+                updated = True
             entry.target = old_entry.target
+        return updated

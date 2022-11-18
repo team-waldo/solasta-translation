@@ -1,17 +1,16 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-01 18:44+0900\n"
-"PO-Revision-Date: 2022-11-18 18:56+0000\n"
-"Last-Translator: E잡불어 <rarkar@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/feat/ko/>\n"
-"Language: ko\n"
+"POT-Creation-Date: 2022-11-19 04:14+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "Feat/&AcuteSensesDescription"
 msgid ""
@@ -433,3 +432,164 @@ msgid ""
 msgstr ""
 "약초학 도구와 독 제작 도구 숙련을 얻습니다.\n"
 "또 자연학 기술 숙련도 습득합니다. 이미 숙련된 상태라면, 그 대신 자연학 기술 전문화를 얻습니다."
+
+msgctxt "Feat/&BurningTouchTitle"
+msgid "Burning Touch"
+msgstr ""
+
+msgctxt "Feat/&BurningTouchDescription"
+msgid ""
+"The first time each turn that you deal damage with an unarmed attack or "
+"weapon, you deal additional fire damage equal to your proficiency bonus."
+msgstr ""
+
+msgctxt "Feat/&ElectrifyingTouchTitle"
+msgid "Electrifying Touch"
+msgstr ""
+
+msgctxt "Feat/&ElectrifyingTouchDescription"
+msgid ""
+"The first time each turn that you deal damage with an unarmed attack or "
+"weapon, you deal additional lightning damage equal to your proficiency bonus."
+msgstr ""
+
+msgctxt "Feat/&IcyTouchTitle"
+msgid "Icy Touch"
+msgstr ""
+
+msgctxt "Feat/&IcyTouchDescription"
+msgid ""
+"The first time each turn that you deal damage with an unarmed attack or "
+"weapon, you deal additional cold damage equal to your proficiency bonus."
+msgstr ""
+
+msgctxt "Feat/&MeltingTouchTitle"
+msgid "Melting Touch"
+msgstr ""
+
+msgctxt "Feat/&MeltingTouchDescription"
+msgid ""
+"The first time each turn that you deal damage with an unarmed attack or "
+"weapon, you deal additional acid damage equal to your proficiency bonus."
+msgstr ""
+
+msgctxt "Feat/&ToxicTouchTitle"
+msgid "Toxic Touch"
+msgstr ""
+
+msgctxt "Feat/&ToxicTouchDescription"
+msgid ""
+"The first time each turn that you deal damage with an unarmed attack or "
+"weapon, you deal additional poison damage equal to your proficiency bonus."
+msgstr ""
+
+msgctxt "Feat/&BadlandsMarauderTitle"
+msgid "Badlands Marauder"
+msgstr ""
+
+msgctxt "Feat/&BadlandsMarauderDescription"
+msgid ""
+"You gain resistance to poison damage, have advantage on rolls against being "
+"poisoned, and gain +1 CON (to a maximum of 20)."
+msgstr ""
+
+msgctxt "Feat/&CloakAndDaggerTitle"
+msgid "Cloak and Dagger"
+msgstr ""
+
+msgctxt "Feat/&CloakAndDaggerDescription"
+msgid ""
+"After you hit an enemy with a light weapon, you gain +2 AC until the start "
+"of your next turn (doesn't stack)."
+msgstr ""
+
+msgctxt "Feat/&DistractingGambitTitle"
+msgid "Distracting Gambit"
+msgstr ""
+
+msgctxt "Feat/&DistractingGambitDescription"
+msgid ""
+"After you hit an enemy with a one-handed weapon, they lose -1 AC for 1 "
+"minute (doesn't stack)."
+msgstr ""
+
+msgctxt "Feat/&ForestRunnerTitle"
+msgid "Forest Runner"
+msgstr ""
+
+msgctxt "Feat/&ForestRunnerDescription"
+msgid "You gain +2 cells movement speed and +1 DEX (to a maximum of 20)."
+msgstr ""
+
+msgctxt "Feat/&ForestallingStrengthTitle"
+msgid "Forestalling Strength"
+msgstr ""
+
+msgctxt "Feat/&ForestallingStrengthDescription"
+msgid "While you wield a two-handed weapon, you gain +1 AC."
+msgstr ""
+
+msgctxt "Feat/&MightyBlowTitle"
+msgid "Mighty Blow"
+msgstr ""
+
+msgctxt "Feat/&MightyBlowDescription"
+msgid ""
+"When you attack with a two-handed melee weapon, you deal additional damage "
+"equal to half your strength modifier (rounded up)."
+msgstr ""
+
+msgctxt "Feat/&ReadyOrNotTitle"
+msgid "Ready or Not"
+msgstr ""
+
+msgctxt "Feat/&ReadyOrNotDescription"
+msgid "You have advantage on your attack rolls when using Ready Action."
+msgstr ""
+
+msgctxt "Feat/&TripAttackTitle"
+msgid "Trip Attack"
+msgstr ""
+
+msgctxt "Feat/&TripAttackDescription"
+msgid ""
+"When you hit an enemy with a melee weapon ready attack, they must also make "
+"a contested roll as if you used the shove action or be knocked prone."
+msgstr ""
+
+msgctxt "Feat/&MenderTitle"
+msgid "Mender"
+msgstr ""
+
+msgctxt "Feat/&MenderDescription"
+msgid "When you stabilize an ally with a Medicine check, they regain 1 HP."
+msgstr ""
+
+msgctxt "Feat/&DauntingPushTitle"
+msgid "Daunting Push"
+msgstr ""
+
+msgctxt "Feat/&DauntingPushDescription"
+msgid ""
+"When you successfully shove an enemy, they lose half their movement speed ("
+"rounded down) on their next turn."
+msgstr ""
+
+msgctxt "Feat/&BlessingOfTheElementsTitle"
+msgid "Blessing of the Elements"
+msgstr ""
+
+msgctxt "Feat/&BlessingOfTheElementsDescription"
+msgid ""
+"Whenever you take fire, cold, or lightning damage, you can use your reaction "
+"to become resistant to those damage types until the start of your next turn. "
+"This feature recharges on a short rest."
+msgstr ""
+
+msgctxt "Feat/&ArcaneAppraiserTitle"
+msgid "Arcane Appraiser"
+msgstr ""
+
+msgctxt "Feat/&ArcaneAppraiserDescription"
+msgid "Magical items are automatically identified when put your inventory."
+msgstr ""

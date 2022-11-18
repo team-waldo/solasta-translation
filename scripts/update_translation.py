@@ -34,8 +34,9 @@ def merge(template_data, translation_path):
     tr = TranslationFile(path)
 
     if len(tr) != 0:
-        template.merge(tr)
-    template.export(translation_path)
+        merged = template.merge(tr)
+        if merged:
+            template.export(translation_path)
 
 
 def update(filename, langcode):

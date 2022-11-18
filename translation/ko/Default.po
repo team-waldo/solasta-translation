@@ -1,18 +1,16 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-01 18:44+0900\n"
-"PO-Revision-Date: 2022-11-18 18:56+0000\n"
-"Last-Translator: E잡불어 <rarkar@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/default/ko/"
-">\n"
-"Language: ko\n"
+"POT-Creation-Date: 2022-11-19 04:14+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "BodyHairStyle/&Hairstyle_A"
 msgid "Pixie Cut"
@@ -334,11 +332,16 @@ msgctxt "FightingStyle/&GreatWeaponTitle"
 msgid "Great Weapon Fighting"
 msgstr "대형 무기 특화"
 
+#, fuzzy
+#| msgid ""
+#| "When a creature you can see attacks a target other than you that is within 5 "
+#| "feet of you, you can use your reaction to impose disadvantage on the attack "
+#| "roll. You must be wielding a shield."
 msgctxt "FightingStyle/&ProtectionDescription"
 msgid ""
-"When a creature you can see attacks a target other than you that is within 5 "
-"feet of you, you can use your reaction to impose disadvantage on the attack "
-"roll. You must be wielding a shield."
+"When a creature you can see attacks a target other than you that is within "
+"one cell of you, you can use your reaction to impose disadvantage on the "
+"attack roll. You must be wielding a shield."
 msgstr "크리쳐가 5 피트 이내의 아군을 공격하면, 반응 행동을 사용해 적의 명중 굴림에 불리점을 줍니다. 방패 착용 시에만 발동합니다."
 
 msgctxt "FightingStyle/&ProtectionTitle"
@@ -371,8 +374,10 @@ msgctxt "InputBinding/&MainFormat"
 msgid "Shortcut: {0}"
 msgstr "단축키: {0}"
 
+#, fuzzy
+#| msgid "or "
 msgctxt "InputBinding/&OrFormat"
-msgid "or "
+msgid " or "
 msgstr "또는 "
 
 msgctxt "InputBinding/&RightAlt"
@@ -726,8 +731,10 @@ msgctxt "Notification/&LocationRevealedTitle"
 msgid "New Location Revealed"
 msgstr "신규 지역 공개"
 
+#, fuzzy
+#| msgid "Click to open the map."
 msgctxt "Notification/&MapWaypointRevealedDescription"
-msgid "Click to open the map."
+msgid "Open the map."
 msgstr "클릭하여 지도를 엽니다."
 
 msgctxt "Notification/&MapWaypointRevealedTitle"
@@ -839,6 +846,12 @@ msgid ""
 "up."
 msgstr "하루에 한 번 짧은 휴식을 완료하면 소모된 주문 슬롯(최대 5레벨)을 드루이드 레벨의 절반(반올림)만큼 복구할 수 있습니다."
 
+msgctxt "RestActivity/&FiendishResilienceDescription"
+msgid ""
+"Select a new type of damage resistance. This replaces the previous choice of "
+"fiendish resilience."
+msgstr ""
+
 msgctxt "SchoolOfMagic/&AbjurationTitle"
 msgid "Abjuration"
 msgstr "방호계"
@@ -923,12 +936,22 @@ msgctxt "SpellList/&SpellListDruidTitle"
 msgid "Druid Spells"
 msgstr "드루이드 주문"
 
+msgctxt "SpellList/&SpellListWarlockTitle"
+msgid "Warlock Spells"
+msgstr ""
+
+msgctxt "SpellList/&SpellListTraditionLightTitle"
+msgid "Monk (Way of Light) spells"
+msgstr ""
+
 msgctxt "Status/&ConcentrationFormat"
 msgid "{0} is concentrating to maintain the spell \"{1}\"."
 msgstr "{0}은(는) 주문 \"{1}\"을(를) 유지하기 위해 집중하고 있습니다."
 
+#, fuzzy
+#| msgid "Click to stop concentrating."
 msgctxt "Status/&ConcentrationStopDescription"
-msgid "Click to stop concentrating."
+msgid "Stop concentrating."
 msgstr "클릭하면 집중을 중단합니다."
 
 msgctxt "Status/&HealthStatusFormat"
@@ -1238,6 +1261,18 @@ msgstr ""
 "회전하는 형형색색의 3D 퍼즐에 도전할 준비가 되었다면 정신의 지배자의 전리품을 좇아 왼쪽으로 가십시오. 중간에 마음이 바뀐다면 다시 "
 "로드해야합니다. 지금 당신을 위해 자동저장한 세이브 파일을 말이지요."
 
+msgctxt "Tutorial/&PartyStash_Description_DLC3"
+msgid ""
+"This chest is yours to use. No one can loot it, and you can stash up to 50 "
+"items inside it."
+msgstr ""
+
+msgctxt "Tutorial/&Tutorial_HighlightXbox_Description"
+msgid ""
+"Press and hold <sprite index={8}> and <sprite index={9}> together to "
+"highlight various interactable objects: doors, chests, etc."
+msgstr ""
+
 msgctxt "Condition/&ChildOfDarkness_Title"
 msgid "Child of Darkness"
 msgstr "어둠의 아이"
@@ -1346,8 +1381,10 @@ msgctxt "LootPack/&1Recipe1Ingredient"
 msgid "1 Recipe + 1 Ingredient"
 msgstr "제조법 하나 + 재료 하나"
 
+#, fuzzy
+#| msgid "1d3 Food + 1\\d3 Mundane Items"
 msgctxt "LootPack/&1D3Food1D3MundaneItems"
-msgid "1d3 Food + 1\\d3 Mundane Items"
+msgid "1d3 Food + 1d3 Mundane Items"
 msgstr "음식 1d3개 + 평범한 아이템 1/d3개"
 
 msgctxt "LootPack/&1LegendaryItem"
@@ -1585,9 +1622,43 @@ msgid ""
 "immune to all attacks."
 msgstr "해당 미라 군주는 모래 회오리 형태로 최대 12칸까지 이동하며, 그동안 모든 공격에 면역을 얻습니다."
 
+msgctxt "Powers/&Item_PenitentBelt_Title"
+msgid "Ki Healing"
+msgstr ""
+
+msgctxt "Powers/&Item_PenitentBelt_Description"
+msgid "Consume 2 Ki points to regain 1d8+2 hit points."
+msgstr ""
+
+msgctxt "Powers/&Power_Ghast_Stench_Title"
+msgid "Stench"
+msgstr ""
+
+msgctxt "Powers/&Power_Ghast_Stench_Description"
+msgid ""
+"Ghasts emit an unbearable stench in neighboring cells, that can make you "
+"poisoned."
+msgstr ""
+
 msgctxt "Toolitp/&MultiplayerSessionSavedDescription"
 msgid "This multiplayer game resumes a saved game."
 msgstr "이 멀티플레이 게임이 저장된 게임을 재개했습니다."
+
+msgctxt "Power/&PowerStoneGolemSlow_Title"
+msgid "Slow"
+msgstr ""
+
+msgctxt "Power/&PowerStoneGolemSlow_Description"
+msgid "Stone golems can slow nearby enemies."
+msgstr ""
+
+msgctxt "Power/&WightLifeDrain_Description"
+msgid "Wights can drain life essence on a successful melee hit."
+msgstr ""
+
+msgctxt "Power/&WightLordCircleofDeath_Description"
+msgid "A wight lord can drain the life essence from surrounding enemies."
+msgstr ""
 
 msgctxt "ContentPack/&BackerItemsTitle"
 msgid "Backer Item Pack"
@@ -1663,6 +1734,16 @@ msgctxt "ContentPack/&LostValleyDescription"
 msgid "A new adventure in the world of Solasta."
 msgstr "솔라스타의 세계에서 일어나는 새로운 모험."
 
+msgctxt "ContentPack/&InnerStrengthTitle"
+msgid "Inner Strength"
+msgstr ""
+
+msgctxt "ContentPack/&InnerStrengthDescription"
+msgid ""
+"New adventurers join the game, introducing the Monk, Bard, and Warlock "
+"classes, as well as the Dragonborn ancestry"
+msgstr ""
+
 msgctxt "CharacterTemplate/&RosLastName"
 msgid "Ros"
 msgstr "로스"
@@ -1670,3 +1751,31 @@ msgstr "로스"
 msgctxt "NCPC/&NPC_Esfalad_Graymas"
 msgid "Esfalad Graymas"
 msgstr "에스팔라드 그레이마스"
+
+msgctxt "Tag/&PactTomeCantripSpecialTagTitle"
+msgid "Pact Cantrips"
+msgstr ""
+
+msgctxt "Tag/&PactTomeSpellSpecialTagTitle"
+msgid "Pact Spells"
+msgstr ""
+
+msgctxt "Tag/&PactTomeRitualSpellSpecialTagTitle"
+msgid "Pact Rituals"
+msgstr ""
+
+msgctxt "Tag/&MysticArcanumSpellSpecialTagTitle"
+msgid "Mystic Arcanum"
+msgstr ""
+
+msgctxt "Tag/&MagicalSecretsCantripOrSpellSpecialTagTitle"
+msgid "Magical Secrets Cantrip or Spell"
+msgstr ""
+
+msgctxt "Tag/&BonusCantripsCantripSpecialTagTitle"
+msgid "Bonus Cantrips"
+msgstr ""
+
+msgctxt "Factions/&Faction_Orc_COTM_Suncloud"
+msgid "Suncloud tribe"
+msgstr ""
