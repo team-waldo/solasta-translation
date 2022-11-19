@@ -1,16 +1,18 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-19 04:14+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-11-19 02:54+0000\n"
+"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/failure/ko/"
+">\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.4.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "Failure/&FailureFlagAlreadyWieldingLightSource"
 msgid "You are already holding a light source."
@@ -599,43 +601,39 @@ msgstr "이 저장된 게임을 불러오려면 다음 DLC(들)이 필요합니�
 
 msgctxt "Failure/&FailureFlagCannotGiveItem"
 msgid "No valid target character (too far, unconscious, inventory is full)"
-msgstr ""
+msgstr "적절한 대상 캐릭터가 없습니다 (너무 멀거나, 무의식 상태거나, 인벤토리가 가득 찼습니다)"
 
 msgctxt "Failure/&MissingDLCForCampaign"
 msgid "You are missing the following DLC(s) needed to play this: {0}"
-msgstr ""
+msgstr "이를 플레이하려면 다음 DLC가 필요합니다: {0}"
 
 msgctxt "Failure/&ActionCannotPerformFlurryOfBlowsDescription"
 msgid "You must use an Attack action before using Flurry of Blows."
-msgstr ""
+msgstr "연타를 사용하려면 그 전에 공격 행동을 취해야 합니다."
 
 msgctxt "Failure/&ActionOutOfUsesFlurryOfBlowsDescription"
 msgid "You need 1 Ki Point to use Flurry of Blows."
-msgstr ""
+msgstr "연타를 사용하려면 기 1점을 소모해야 합니다."
 
 msgctxt "Failure/&ActionNoLongerAvailableFlurryOfBlowsDescription"
 msgid "You need your bonus action to use Flurry of Blows."
-msgstr ""
+msgstr "연타를 사용하려면 추가행동을 소모해야 합니다."
 
 msgctxt "Failure/&FailureFlagTargetCannotSelectCaster"
 msgid "You cannot target the caster for this effect."
-msgstr ""
+msgstr "이 효과는 주문시전자를 대상으로 삼을 수 없습니다."
 
 msgctxt "Failure/&ActionCannotPerformFlurryOfBlowsSwiftStepDescription"
 msgid "You must use the Attack action before using Flurry of Blows."
-msgstr ""
+msgstr "연타를 사용하려면 그 전에 공격 행동을 취해야 합니다."
 
-#, fuzzy
-#| msgid "The mark of this character's deity is only present on this item"
 msgctxt "Failure/&FailureFlagDeityMarkAreadyPresent"
 msgid "The mark of this character's deity is only present on this item."
-msgstr "이 캐릭터의 신의 표식은 이 아이템에만 있습니다"
+msgstr "이 캐릭터의 신의 표식은 이 아이템에만 있습니다."
 
-#, fuzzy
-#| msgid "You need the adequate key to open this door."
 msgctxt "Failure/&FailureFlagHardLockedDoor_Key"
 msgid "You need the correct key to open this door."
-msgstr "이 문을 열려면 적절한 열쇠가 필요합니다."
+msgstr "이 문을 열려면 이에 맞는 열쇠가 필요합니다."
 
 msgctxt "Failure/&FailureFlagCraftingItemTooHeavy"
 msgid ""
@@ -644,4 +642,4 @@ msgstr "제작된 아이템이 너무 무거워서 제작 캐릭터의 인벤토
 
 msgctxt "Failure/&FailureFlagTransferTooFarAwayConcise"
 msgid "Too far"
-msgstr ""
+msgstr "거리가 너무 멉니다"

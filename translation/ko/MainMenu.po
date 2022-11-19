@@ -1,16 +1,18 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-19 04:14+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-11-19 02:54+0000\n"
+"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/mainmenu/"
+"ko/>\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.4.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "MainMenu/&ChangeCampaignTitle"
 msgid "Change Campaign"
@@ -506,23 +508,17 @@ msgctxt "MainMenu/&LoadAdventureTitle"
 msgid "Continue Adventure"
 msgstr "모험 계속하기"
 
-#, fuzzy
-#| msgid "Click to open a selection of adventures."
 msgctxt "MainMenu/&ChangeCampaignDescription"
 msgid "See the available adventures."
-msgstr "다른 모험을 선택하려면 클릭하십시오."
+msgstr "다른 가능한 어드벤처 살피기."
 
-#, fuzzy
-#| msgid "Click to select a different character."
 msgctxt "MainMenu/&ChangeCharacterSlotDescription"
 msgid "Choose a different character."
-msgstr "다른 캐릭터를 선택하려면 클릭하십시오."
+msgstr "다른 캐릭터 선택하기."
 
-#, fuzzy
-#| msgid "Click to delete this character from the pool."
 msgctxt "MainMenu/&DeleteCharacterDescription"
 msgid "Delete this character from the pool."
-msgstr "이 캐릭터를 목록에서 삭제하려면 클릭하십시오."
+msgstr "목록에서 이 캐릭터 제거하기."
 
 msgctxt "MainMenu/&RefreshDLCTitle"
 msgid "Refresh DLC"
@@ -610,11 +606,9 @@ msgctxt "MainMenu/&RefreshListButtonTitle"
 msgid "Refresh List"
 msgstr "목록 새로고침"
 
-#, fuzzy
-#| msgid "Click to refresh the list of game sessions."
 msgctxt "MainMenu/&RefreshListButtonDescription"
 msgid "Refresh the list of game sessions."
-msgstr "게임 세션 목록을 새로고침하려면 클릭하십시오."
+msgstr "게임 세션 목록 새로고침."
 
 msgctxt "MainMenu/&RefreshingRoomsTitle"
 msgid "Refreshing…"
@@ -720,4 +714,4 @@ msgstr "일부 게임은 다른 기종의 플레이어도 참가하도록 허용
 
 msgctxt "MainMenu/&JoiningGameLockedTitle"
 msgid "Loading in progress - please wait."
-msgstr ""
+msgstr "로딩 중입니다 - 잠시만 기다려 주십시오."

@@ -1,16 +1,18 @@
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-19 04:14+0900\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-11-19 02:54+0000\n"
+"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
+"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/screen/ko/>"
+"\n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 3.4.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.1.1\n"
 
 msgctxt "Screen/&AbilityScoreBonusDescription"
 msgid "The bonus to this ability score, based on your current choices."
@@ -178,13 +180,11 @@ msgctxt "Screen/&CaptionProceedTitle"
 msgid "Proceed"
 msgstr "진행"
 
-#, fuzzy
-#| msgid "Click to cast a light cantrip on one of your hand-held items."
 msgctxt "Screen/&CastLightButtonDescription"
 msgid ""
 "Cast a Light cantrip (or equivalent cantrip, e.g. Hold Flame) on one of your "
 "hand-held items, or torso armor if there is no such item."
-msgstr "클릭하여 휴대 아이템에 가벼운 캔트립을 시전하세요."
+msgstr "들고 있는 아이템 중 하나, 혹은 없다면 몸에 걸친 갑옷에 빛이나 유사한 캔트립을 시전하십시오."
 
 msgctxt "Screen/&ChanelDivinityRecoveredDescription"
 msgid "All uses of Channel Divinity are restored."
@@ -756,11 +756,9 @@ msgctxt "Screen/&FeatureListingProficienciesTitle"
 msgid "Proficiencies"
 msgstr "숙련도"
 
-#, fuzzy
-#| msgid "Click to focus the view on this character."
 msgctxt "Screen/&FocusCharacterDescription"
 msgid "Focus the view on this character."
-msgstr "클릭하여 이 캐릭터에 초점을 맞추세요."
+msgstr "이 캐릭터에 초점을 맞추세요."
 
 msgctxt "Screen/&GameContentButtonDescription"
 msgid ""
@@ -826,17 +824,13 @@ msgctxt "Screen/&InspectInventoryTitle"
 msgid "Inventory"
 msgstr "인벤토리"
 
-#, fuzzy
-#| msgid "Click to give this item to {0}."
 msgctxt "Screen/&InspectionGiveItemToCharacterDescription"
 msgid "Give this item to {0}."
-msgstr "클릭하여 이 아이템을 {0}에게 건네주세요."
+msgstr "이 아이템을 {0}에게 건네주세요."
 
-#, fuzzy
-#| msgid "Click to select this character."
 msgctxt "Screen/&InspectionSelectCharacterDescription"
 msgid "Select this character."
-msgstr "클릭하여 이 캐릭터를 선택하세요."
+msgstr "이 캐릭터를 선택하세요."
 
 msgctxt "Screen/&InspectTitle"
 msgid "Inspect"
@@ -1329,11 +1323,9 @@ msgctxt "Screen/&MerchantIdentifyTitle"
 msgid "Identify"
 msgstr "식별"
 
-#, fuzzy
-#| msgid "Or click to add a new class to this character."
 msgctxt "Screen/&NewClassSelectionTitle"
 msgid "Or add a new class to this character."
-msgstr "또는 클릭하여 이 캐릭터의 새 클래스를 추가하세요."
+msgstr "또는 이 캐릭터에 새 클래스를 추가하세요."
 
 msgctxt "Screen/&NewGameScreenTitle"
 msgid "New Game"
@@ -1811,11 +1803,9 @@ msgid ""
 "proficiency bonus to attack rolls."
 msgstr "이 특정 유형의 무기에 숙련되었으며, 명중 굴림에 숙련도 보너스를 추가합니다."
 
-#, fuzzy
-#| msgid "Click to clear all purchased items."
 msgctxt "Screen/&PurchaseClearAllDescription"
 msgid "Clear all purchased items."
-msgstr "클릭하여 모든 구매 항목을 초기화하세요."
+msgstr "모든 구매 항목을 초기화하세요."
 
 msgctxt "Screen/&PurchaseOrderTitle"
 msgid "You Purchase"
@@ -2077,11 +2067,9 @@ msgctxt "Screen/&RoundStartTitle"
 msgid "Round {0}"
 msgstr "라운드 {0}"
 
-#, fuzzy
-#| msgid "Click to clear all sold items."
 msgctxt "Screen/&SaleClearAllDescription"
 msgid "Clear all sold items."
-msgstr "클릭하여 모든 판매 항목을 초기화하세요."
+msgstr "모든 판매 항목을 초기화하세요."
 
 msgctxt "Screen/&SaleOrderTitle"
 msgid "You Sell"
@@ -2300,11 +2288,9 @@ msgctxt "Screen/&SpellAdvancementCloseDescription"
 msgid "Close the spell advancement option."
 msgstr "주문 진화 옵션을 사용하지 않습니다."
 
-#, fuzzy
-#| msgid "Click to cast this spell with a higher level spell slot."
 msgctxt "Screen/&SpellAdvancementOpenDescription"
 msgid "Cast this spell with a higher level spell slot."
-msgstr "클릭하면 더 높은 레벨의 주문 슬롯을 통해 이 주문을 시전할 수 있습니다."
+msgstr "더 높은 레벨의 주문 슬롯으로 시전합니다."
 
 msgctxt "Screen/&SpellAttackBonusDescription"
 msgid "The bonus added to spells' attack rolls."
@@ -2421,11 +2407,9 @@ msgctxt "Screen/&StagePreviousButtonTitle"
 msgid "Previous"
 msgstr "이전"
 
-#, fuzzy
-#| msgid "Click to start the game with the selected options."
 msgctxt "Screen/&StartGameButtonDescription"
 msgid "Start the game with the selected options."
-msgstr "선택한 설정으로 게임을 시작하려면 클릭하십시오."
+msgstr "선택한 설정으로 게임을 시작하기."
 
 msgctxt "Screen/&StartGameButtonTitle"
 msgid "Start Game"
@@ -2471,11 +2455,9 @@ msgctxt "Screen/&SwitchConfiguration2Title"
 msgid "Light Source"
 msgstr "조명"
 
-#, fuzzy
-#| msgid "Click to switch your equipped items to this configuration: {0}."
 msgctxt "Screen/&SwitchConfigurationDescription"
 msgid "Switch your equipped items to this configuration: {0}."
-msgstr "착용 장비를 다음 구성으로 전환하려면 클릭하세요: {0}."
+msgstr "착용 장비를 다음 구성으로 전환하기: {0}."
 
 msgctxt "Screen/&SwitchConfigurationDualItemFormat"
 msgid "{0} + {1}"
@@ -2533,12 +2515,9 @@ msgctxt "Screen/&TrackedQuestDescription"
 msgid "This quest is currently tracked and displayed on the main game screen. "
 msgstr "현재 추적 중인 퀘스트로, 메인 화면에 표시됩니다. "
 
-#, fuzzy
-#| msgid ""
-#| "Click to start/stop tracking this quest and follow it on the main screen."
 msgctxt "Screen/&TrackQuestDescription"
 msgid "Start/stop tracking this quest and follow it on the main screen."
-msgstr "클릭하여 퀘스트 추적 및 메인 화면 표시를 시작/중지하세요."
+msgstr "퀘스트 추적 및 메인 화면 표시를 시작/중지하세요."
 
 msgctxt "Screen/&TrackQuestTitle"
 msgid "Track Quest"
@@ -3148,11 +3127,9 @@ msgctxt "Screen/&BackDungeonMakerDescription"
 msgid "Opens the Dungeon Maker to resume editing this location"
 msgstr "던전 메이커를 열어 이 지역의 편집을 재개합니다"
 
-#, fuzzy
-#| msgid "Click to switch to this user location"
 msgctxt "Screen/&EditorLocationSwitchDescription"
 msgid "Switch to this user location"
-msgstr "클릭하여 이 사용자 지역으로 전환합니다"
+msgstr "이 사용자 지역으로 전환합니다"
 
 msgctxt "Screen/&EditorLocationAuthorVersionTitle"
 msgid "Version"
@@ -4353,11 +4330,9 @@ msgid ""
 "The location (town, dungeon) where this quest objective must be resolved"
 msgstr "이 퀘스트 목표가 해결돼야 하는 지역 (마을, 던전)"
 
-#, fuzzy
-#| msgid "Click to move the party to this waypoint."
 msgctxt "Screen/&MapWaypointNavigateDescription"
 msgid "Move the party to this waypoint."
-msgstr "파티를 이 분기점으로 이동하려면 클릭하세요."
+msgstr "파티를 이 웨이포인트로 이동하기."
 
 msgctxt "Screen/&MapWaypointNavigateMultiplayerHostDescription"
 msgid "Party movement requires the agreement of the other players."
@@ -4442,9 +4417,6 @@ msgctxt "Screen/&KickButtonDescription"
 msgid "Kick a player from your session"
 msgstr "당신의 세션에서 플레이어를 추방합니다"
 
-#, fuzzy
-#| msgid ""
-#| "Place a ping marker on screen to let other players what you intend to do."
 msgctxt "Screen/&PlacePingDescription"
 msgid ""
 "Place a ping marker on screen to let other players know what you intend to "
@@ -4517,11 +4489,9 @@ msgctxt "Screen/&IronManSaveCosmeticName"
 msgid "Iron Man Campaign"
 msgstr "철인 캠페인"
 
-#, fuzzy
-#| msgid "You do not own this content. Click to access the store page"
 msgctxt "Screen/&UnavailableContentPackDescription"
 msgid "You do not own this content. Go to the store page."
-msgstr "이 DLC를 소유하고 있지 않습니다. 클릭하면 상점 페이지로 이동합니다"
+msgstr "이 DLC를 소유하고 있지 않습니다. 상점 페이지로 이동하세요."
 
 msgctxt "Screen/&MetamagicSelectionDescription"
 msgid "You can spend sorcery points to alter this a metamagic option"
@@ -4539,11 +4509,9 @@ msgctxt "Screen/&ConvertSpendTitle"
 msgid "You spend:"
 msgstr "소모:"
 
-#, fuzzy
-#| msgid "Your remaining pool of spell slots"
 msgctxt "Screen/&PowerRemainingSlotsDescription"
 msgid "Your remaining pool of power slots"
-msgstr "남은 주문 슬롯"
+msgstr "남은 능력 슬롯"
 
 msgctxt "Screen/&NewContendersTitle"
 msgid "New Contenders"
@@ -4630,364 +4598,370 @@ msgctxt "Screen/&LeaveGameSessionTitle"
 msgid "Leave Game"
 msgstr "게임 떠나기"
 
-#, fuzzy
-#| msgid "Click to leave the online game session."
 msgctxt "Screen/&LeaveGameSessionDescription"
 msgid "Leave the online game session."
-msgstr "온라인 게임 세션을 떠나려면 클릭하세요."
+msgstr "온라인 게임 세션 떠나기."
 
 msgctxt "Screen/&AttractStartMouseKeyboardTitle"
 msgid "Press any key to start"
-msgstr ""
+msgstr "시작하려면 아무 키나 누르십시오"
 
 msgctxt "Screen/&AttractStartGamepadTitle"
 msgid "Press <sprite index={0}> to start"
-msgstr ""
+msgstr "<sprite index={0}> 눌러 시작하기"
 
 msgctxt "Screen/&GamepadHintNavigate"
 msgid "Browse"
-msgstr ""
+msgstr "살피기"
 
 msgctxt "Screen/&GamepadHintSubmit"
 msgid "Select"
-msgstr ""
+msgstr "선택"
 
 msgctxt "Screen/&GamepadHintCancel"
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 msgctxt "Screen/&GamepadHintVerticalScroll"
 msgid "Scroll"
-msgstr ""
+msgstr "스크롤"
 
 msgctxt "Screen/&GamepadHintInventoryShortcuts"
 msgid "Equipment Shortcuts"
-msgstr ""
+msgstr "장비 단축설정"
 
 msgctxt "Screen/&GamepadHintInspect"
 msgid "Inspect Character"
-msgstr ""
+msgstr "캐릭터 살피기"
 
 msgctxt "Screen/&GamepadHintShowInteractions"
 msgid "Show Interactions"
-msgstr ""
+msgstr "상호작용 보이기"
 
 msgctxt "Screen/&GamepadHintSelectCharacter"
 msgid "Characters"
-msgstr ""
+msgstr "캐릭터"
 
 msgctxt "Screen/&GamepadHintSelectOption"
 msgid "Quick Access"
-msgstr ""
+msgstr "빠른 접근"
 
 msgctxt "Screen/&GamepadHintCursorMode"
 msgid "Cursor Mode"
-msgstr ""
+msgstr "커서 모드"
 
 msgctxt "Screen/&GamepadHintUpcast"
 msgid "Upcast"
-msgstr ""
+msgstr "강화 시전"
 
 msgctxt "Screen/&GamepadHintOvercharge"
 msgid "Overcharge"
-msgstr ""
+msgstr "과충전"
 
 msgctxt "Screen/&GamepadHintBlueprintMap"
 msgid "Map"
-msgstr ""
+msgstr "지도"
 
 msgctxt "Screen/&GamepadHintViewPan"
 msgid "Move"
-msgstr ""
+msgstr "이동"
 
 msgctxt "Screen/&GamepadHintViewRotate"
 msgid "Camera"
-msgstr ""
+msgstr "카메라"
 
 msgctxt "Screen/&GamepadHintViewZoom"
 msgid "Zoom"
-msgstr ""
+msgstr "확대"
 
 msgctxt "Screen/&GamepadHintViewInteract"
 msgid "Interact"
-msgstr ""
+msgstr "상호작용"
 
 msgctxt "Screen/&GamepadHintItemMenu"
 msgid "Item Menu"
-msgstr ""
+msgstr "아이템 메뉴"
 
 msgctxt "Screen/&GamepadHintRotateCharacter"
 msgid "Rotate Character"
-msgstr ""
+msgstr "캐릭터 회전"
 
 msgctxt "Screen/&GamepadHintPreviousCharacter"
 msgid "Previous Character"
-msgstr ""
+msgstr "이전 캐릭터"
 
 msgctxt "Screen/&GamepadHintNextCharacter"
 msgid "Next Character"
-msgstr ""
+msgstr "다음 캐릭터"
 
 msgctxt "Screen/&GamepadHintIncreaseSpellSlot"
 msgid "Increase Spell Slot"
-msgstr ""
+msgstr "주문 슬롯 증가"
 
 msgctxt "Screen/&GamepadHintDecreaseSpellSlot"
 msgid "Decrease Spell Slot"
-msgstr ""
+msgstr "주문 슬롯 감소"
 
 msgctxt "Screen/&GamepadHintJournal"
 msgid "Party Journal"
-msgstr ""
+msgstr "파티 저널"
 
 msgctxt "Screen/&GamepadHintBack"
 msgid "Back"
-msgstr ""
+msgstr "이전"
 
 msgctxt "Screen/&GamepadHintValidate"
 msgid "Validate"
-msgstr ""
+msgstr "유효"
 
 msgctxt "Screen/&GamepadHintMoveCursor"
 msgid "Move Cursor"
-msgstr ""
+msgstr "커서 이동"
 
 msgctxt "Screen/&GamepadHintScrollConsole"
 msgid "Scroll Console"
-msgstr ""
+msgstr "콘솔 스크롤"
 
 msgctxt "Screen/&GamepadHintFastForward"
 msgid "Fast Forward"
-msgstr ""
+msgstr "앞으로"
 
 msgctxt "Screen/&GamepadHintEngageDetail"
 msgid "Detailed Tooltip"
-msgstr ""
+msgstr "세부 툴팁"
 
 msgctxt "Screen/&GamepadHintGameMenu"
 msgid "Game Menu"
-msgstr ""
+msgstr "게임 메뉴"
 
 msgctxt "Screen/&GamepadHintSelectAction"
 msgid "Select Action"
-msgstr ""
+msgstr "행동 선택"
 
 msgctxt "Screen/&GamepadHintPlanarToggle"
 msgid "Planar Mode"
-msgstr ""
+msgstr "평면 모드"
 
 msgctxt "Screen/&GamepadHintPassTurn"
 msgid "Pass Turn"
-msgstr ""
+msgstr "차례 넘기기"
 
 msgctxt "Screen/&GamepadHintTabLeft"
 msgid "Left Tab"
-msgstr ""
+msgstr "왼쪽 탭"
 
 msgctxt "Screen/&GamepadHintTabRight"
 msgid "Right Tab"
-msgstr ""
+msgstr "오른쪽 탭"
 
 msgctxt "Screen/&GamepadHintGamepadSelector"
 msgid "Change Setting"
-msgstr ""
+msgstr "설정 변경"
 
 msgctxt "Screen/&GamepadHintAction2"
 msgid "Change/Erase"
-msgstr ""
+msgstr "변경/삭제"
 
 msgctxt "Screen/&GamepadHintAction3"
 msgid "Special Action"
-msgstr ""
+msgstr "특수 행동"
 
 msgctxt "Screen/&SkipLineTitle"
 msgid "Skip Line"
-msgstr ""
+msgstr "대화 생략"
 
 msgctxt "Screen/&SkipSequenceTitle"
 msgid "Skip Sequence"
-msgstr ""
+msgstr "과정 생략"
 
 msgctxt "Screen/&GamepadOptionInspectTitle"
 msgid ""
 "Inspect\n"
 " Character"
 msgstr ""
+"캐릭터 \n"
+" 살피기"
 
 msgctxt "Screen/&GamepadOptionJournalTitle"
 msgid ""
 "Party \n"
 " Journal"
 msgstr ""
+"파티 \n"
+" 저널"
 
 msgctxt "Screen/&GamepadOptionShortRestTitle"
 msgid ""
 "Short\n"
 " Rest"
 msgstr ""
+"짧은 \n"
+" 휴식"
 
 msgctxt "Screen/&GamepadOptionBlueprintMapTitle"
 msgid ""
 "Location\n"
 " Map"
 msgstr ""
+"주변 \n"
+" 지도"
 
 msgctxt "Screen/&QuickSaveGameTitle"
 msgid "Quick Save"
-msgstr ""
+msgstr "빠른 저장"
 
 msgctxt "Screen/&QuickSaveGameDescription"
 msgid "Saves the current game under an automatically generated filename"
-msgstr ""
+msgstr "자동생성 파일명으로 현재 게임 저장하기"
 
 msgctxt "Screen/&QuickLoadGameTitle"
 msgid "Quick Load"
-msgstr ""
+msgstr "빠른 불러오기"
 
 msgctxt "Screen/&QuickLoadGameDescription"
 msgid "Loads the most recent quick save"
-msgstr ""
+msgstr "가장 최근의 빠른 저장 불러오기"
 
 msgctxt "Screen/&EditFlagsGamepadTitle"
 msgid "Edit"
-msgstr ""
+msgstr "편집"
 
 msgctxt "Screen/&RandomFlagsGamepadTitle"
 msgid "Random"
-msgstr ""
+msgstr "무작위"
 
 msgctxt "Screen/&ResetFlagsTitle"
 msgid "Reset"
-msgstr ""
+msgstr "초기화"
 
 msgctxt "Screen/&ValidateFlagsTitle"
 msgid "Validate"
-msgstr ""
+msgstr "유효"
 
 msgctxt "Screen/&GamepadHintCycleTarget"
 msgid "Select Target"
-msgstr ""
+msgstr "대상 선택"
 
 msgctxt "Screen/&GamepadHintInviteFriend"
 msgid "Invite Friend"
-msgstr ""
+msgstr "친구 초대"
 
 msgctxt "Screen/&GiveItemTitle"
 msgid "Give Item"
-msgstr ""
+msgstr "아이템 주기"
 
 msgctxt "Screen/&GiveItemDescription"
 msgid "Transfer this item to another party member."
-msgstr ""
+msgstr "이 아이템을 다른 파티 멤버에게 줍니다."
 
 msgctxt "Screen/&GamepadHintSwitchCharacter"
 msgid "Switch Character"
-msgstr ""
+msgstr "캐릭터 전환"
 
 msgctxt "Screen/&GamepadHintCycleLocation"
 msgid "Select Destination"
-msgstr ""
+msgstr "목적지 선택"
 
 msgctxt "Screen/&GamepadHintCycleMapItem"
 msgid "Select Map Item"
-msgstr ""
+msgstr "지도 아이템 선택"
 
 msgctxt "Screen/&PactTomeExtraSpellTitle"
 msgid "Tome"
-msgstr ""
+msgstr "고서"
 
 msgctxt "Screen/&PactTomeExtraSpellDescription"
 msgid ""
 "This spell has been granted by the Pact of the Tome and is considered known "
 "to you"
-msgstr ""
+msgstr "이 주문은 고서의 계약으로 얻었으며, 알고 있는 주문으로 취급됩니다"
 
 msgctxt "Screen/&PactTomeRitualExtraSpellTitle"
 msgid "Tome"
-msgstr ""
+msgstr "고서"
 
 msgctxt "Screen/&PactTomeRitualExtraSpellDescription"
 msgid ""
 "This ritual has been granted by the Pact of the Tome and can only be used as "
 "a ritual"
-msgstr ""
+msgstr "이 의식은 고서의 계약으로 얻었으며, 의식으로만 시전할 수 있습니다"
 
 msgctxt "Screen/&MysticArcanumExtraSpellTitle"
 msgid "Mystic"
-msgstr ""
+msgstr "신비"
 
 msgctxt "Screen/&MysticArcanumExtraSpellDescription"
 msgid ""
 "This spell has been granted by the Mystic Arcanum feature, and can be used "
 "once per long rest without spending a spell slot."
-msgstr ""
+msgstr "이 주문은 신비의 비밀 특성으로 얻었으며, 긴 휴식마다 1회 주문 슬롯을 소모하지 않고 시전할 수 있습니다."
 
 msgctxt "Screen/&SpellsGroupMysticArcanumTitle"
 msgid "Mystic Arcanum"
-msgstr ""
+msgstr "신비의 비밀"
 
 msgctxt "Screen/&SpellsGroupMysticArcanumAvailableDescription"
 msgid "You can cast this Mystic Arcanum spell once per long rest."
-msgstr ""
+msgstr "신비의 비밀 주문은 긴 휴식당 1회만 시전할 수 있습니다."
 
 msgctxt "Screen/&SpellsGroupMysticArcanumUsedDescription"
 msgid ""
 "This Mystic Arcanum has been used and cannot be reactivated until a long "
 "rest is completed."
-msgstr ""
+msgstr "해당 신비의 비밀은 이미 사용했으며, 긴 휴식을 마치기 전까지 재활성화되지 않습니다."
 
 msgctxt "Screen/&LearnRitualTitle"
 msgid "Learn Ritual"
-msgstr ""
+msgstr "의식 습득"
 
 msgctxt "Screen/&LearnRitualDescription"
 msgid ""
 "Learn to cast this spell as a ritual only. This will destroy the scroll."
-msgstr ""
+msgstr "이 주문을 의식으로만 시전할 수 있도록 배웁니다. 시행 시 두루마리는 파괴됩니다."
 
 msgctxt "Screen/&ProficiencyToggleInvocationTitle"
 msgid "Invocations"
-msgstr ""
+msgstr "영창"
 
 msgctxt "Screen/&BardicInspirationDieDescription"
 msgid "Your Bardic Inspiration die is a {0} and you have {1} remaining uses."
-msgstr ""
+msgstr "바드의 고양감 주사위는 {0}이며 {1}개 남았습니다."
 
 msgctxt "Screen/&BonusCantripsExtraSpellTitle"
 msgid "Bonus"
-msgstr ""
+msgstr "보너스"
 
 msgctxt "Screen/&BonusCantripsExtraSpellDescription"
 msgid "This bonus cantrip does not count toward your limit of known cantrips."
-msgstr ""
+msgstr "이 보너스 캔트립은 알고 있는 캔트립 갯수 제한에 영향을 주지 않습니다."
 
 msgctxt "Screen/&MagicalSecretsExtraSpellTitle"
 msgid "Secret"
-msgstr ""
+msgstr "비밀"
 
 msgctxt "Screen/&MagicalSecretsExtraSpellDescription"
 msgid "This spell has been granted through the Magical Secrets feature."
-msgstr ""
+msgstr "이 주문은 마법적 비밀 특성으로 얻었습니다."
 
 msgctxt "Screen/&FlurryOfBlowsModeSelectionDescription"
 msgid ""
 "Select an open hand technique effect to apply to your next Flurry of Blows "
 "attack:"
-msgstr ""
+msgstr "열린 손의 기법을 선택해 다음 연타에 부여할 효과를 고르십시오:"
 
 msgctxt "Screen/&CollegeSpellTitle"
 msgid "College"
-msgstr ""
+msgstr "대학"
 
 msgctxt "Screen/&CollegeSpellDescription"
 msgid ""
 "This spell has been granted by your bard college and is considered known to "
 "you."
-msgstr ""
+msgstr "이 주문은 바드 학파로 얻었으며, 알고 있는 주문으로 취급됩니다."
 
 msgctxt "Screen/&UniqueLevelSlotsTitle"
 msgid "Warlock Spell Slots"
-msgstr ""
+msgstr "워락 주문 슬롯"
 
 msgctxt "Screen/&UniqueLevelSlotsDescription"
 msgid ""
@@ -4997,10 +4971,13 @@ msgid ""
 "are upcast at this new spell level.\n"
 " Level 6 and above spells are gained through Mystic Arcanum."
 msgstr ""
+"워락은 주문 슬롯을 사용해 1레벨 이상의 주문을 시전할 수 있습니다. 하나의 슬롯 풀을 모든 주문에 사용할 수 있습니다. 워락이 새 "
+"주문을 사용할 수 있게 되면, 주문 슬롯의 힘도 성장하고 낮은 레벨의 주문도 새로운 주문 슬롯으로 강화 시전할 수 있게 됩니다.\n"
+" 6레벨 이상의 주문들은 신비의 비밀 특성으로 얻을 수 있습니다."
 
 msgctxt "Screen/&GamepadHintMultiplayerPing"
 msgid "Game pause (Solo)/Ping (Multi)"
-msgstr ""
+msgstr "게임 정지 (솔로) / 핑 (멀티)"
 
 msgctxt "Screen/&MarkDeityTitle"
 msgid "Mark Deity"
@@ -5017,50 +4994,44 @@ msgstr ""
 
 msgctxt "Screen/&InvocationActiveTitle"
 msgid "active bonus"
-msgstr ""
+msgstr "활성화 보너스"
 
 msgctxt "Screen/&InvocationInactiveTitle"
 msgid "inactive"
-msgstr ""
+msgstr "비활성화"
 
 msgctxt "Screen/&StopLightButtonDescription"
 msgid "Stop an ongoing Light cantrip (or equivalent cantrip, e.g. Hold Flame)."
-msgstr ""
+msgstr "사용 중인 빛 캔트립이나 유사한 캔트립을 해제합니다."
 
 msgctxt "Screen/&KiPointsRecoveredDescription"
 msgid "All uses of Ki points are restored."
-msgstr ""
+msgstr "모든 기 점수가 회복됐습니다."
 
 msgctxt "Screen/&SorceryPointsRecoveredDescription"
 msgid "All uses of sorcery points are restored."
-msgstr ""
+msgstr "모든 술법 점수가 회복됐습니다."
 
 msgctxt "Screen/&RagePointsRecoveredDescription"
 msgid "All uses of rage are restored."
-msgstr ""
+msgstr "모든 격노 사용량이 회복됐습니다."
 
 msgctxt "Screen/&ContainerLootHeaderFormat"
 msgid "Looting - {0}"
-msgstr ""
+msgstr "전리품 습득 - {0}"
 
 msgctxt "Screen/&GamepadHintClearAll"
 msgid "Clear all"
-msgstr ""
+msgstr "싹 뒤지기"
 
-#, fuzzy
-#| msgid "Abort this action."
 msgctxt "Screen/&CaptionAbortDescription"
 msgid "Cancel this action."
 msgstr "이 행동을 중지합니다."
 
-#, fuzzy
-#| msgid "Abort"
 msgctxt "Screen/&CaptionAbortTitle"
 msgid "Cancel"
 msgstr "취소"
 
-#, fuzzy
-#| msgid "Abort Crafting"
 msgctxt "Screen/&CraftingAbortButtonTitle"
 msgid "Cancel Crafting"
 msgstr "제작 중단"
@@ -5071,8 +5042,8 @@ msgstr "다음 위치에서 여행 중단"
 
 msgctxt "Screen/&EditorXCoordinateTitle"
 msgid "X"
-msgstr ""
+msgstr "X"
 
 msgctxt "Screen/&EditorYCoordinateTitle"
 msgid "Y"
-msgstr ""
+msgstr "Y"
