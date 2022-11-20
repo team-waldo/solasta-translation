@@ -1,0 +1,248 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-21 04:30+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "Invocation/&AgonizingBlastTitle"
+msgid "Agonizing Blast"
+msgstr ""
+
+msgctxt "Invocation/&AgonizingBlastDescription"
+msgid ""
+"When you cast Eldritch Blast, add your Charisma modifier to the damage it "
+"deals on a hit."
+msgstr ""
+
+msgctxt "Invocation/&ArmorOfShadowsTitle"
+msgid "Armor of Shadows"
+msgstr ""
+
+msgctxt "Invocation/&ArmorOfShadowsDescription"
+msgid ""
+"You can cast Mage Armor on yourself at will, without expending a spell slot "
+"or material components."
+msgstr ""
+
+msgctxt "Invocation/&AscendantStepTitle"
+msgid "Ascendant Step"
+msgstr ""
+
+msgctxt "Invocation/&AscendantStepDescription"
+msgid ""
+"You can cast Levitate on yourself at will, without expending a spell slot or "
+"material components."
+msgstr ""
+
+msgctxt "Invocation/&BeguilingInfluenceTitle"
+msgid "Beguiling Influence"
+msgstr ""
+
+msgctxt "Invocation/&BeguilingInfluenceDescription"
+msgid ""
+"You gain proficiency in the Deception and Persuasion skills. Gain expertise "
+"instead if you are already proficient."
+msgstr ""
+
+msgctxt "Invocation/&BewitchingWhispersTitle"
+msgid "Bewitching Whispers"
+msgstr ""
+
+msgctxt "Invocation/&BewitchingWhispersDescription"
+msgid ""
+"You can cast Dreadful Omen once using a warlock spell slot - but without "
+"spending material components. You can't do so again until you finish a long "
+"rest."
+msgstr ""
+
+msgctxt "Invocation/&BookAncientSecretsTitle"
+msgid "Book of Ancient Secrets"
+msgstr ""
+
+msgctxt "Invocation/&BookAncientSecretsDescription"
+msgid ""
+"Grants you the ability to acquire ritual spells from any spell list (of a "
+"spell level you can cast). Immediately learn two 1st level rituals from any "
+"spell list, which you can only use as rituals."
+msgstr ""
+
+msgctxt "Invocation/&ChainsCarceriTitle"
+msgid "Chains of Carceri"
+msgstr ""
+
+msgctxt "Invocation/&ChainsCarceriDescription"
+msgid ""
+"You can cast Hold Monster at will - targeting a celestial, fiend, or "
+"elemental - without expending a spell slot or material components. You "
+"cannot select the same target until 24 hours have passed."
+msgstr ""
+
+msgctxt "Invocation/&DevilsSightTitle"
+msgid "Devil's Sight"
+msgstr ""
+
+msgctxt "Invocation/&DevilsSightDescription"
+msgid ""
+"You have blindsight up to 16 cells, allowing you to perceive enemies even "
+"through invisibility and magical darkness."
+msgstr ""
+
+msgctxt "Invocation/&DreadfulWordTitle"
+msgid "Dreadful Word"
+msgstr ""
+
+msgctxt "Invocation/&DreadfulWordDescription"
+msgid ""
+"You can cast Confusion once using a warlock spell slot. You can't do so "
+"again until you finish a long rest."
+msgstr ""
+
+msgctxt "Invocation/&EldritchSightTitle"
+msgid "Eldritch Sight"
+msgstr ""
+
+msgctxt "Invocation/&EldritchSightDescription"
+msgid "You can cast Detect Magic at will, without expending a spell slot."
+msgstr ""
+
+msgctxt "Invocation/&EldritchSpearTitle"
+msgid "Eldritch Spear"
+msgstr ""
+
+msgctxt "Invocation/&EldritchSpearDescription"
+msgid "When you cast Eldritch Blast, you ignore any cover on the targets."
+msgstr ""
+
+msgctxt "Invocation/&EyesRuneKeeperTitle"
+msgid "Eyes of the Rune Keeper"
+msgstr ""
+
+msgctxt "Invocation/&EyesRuneKeeperDescription"
+msgid "You understand all languages and writings."
+msgstr ""
+
+msgctxt "Invocation/&FiendishVigorTitle"
+msgid "Fiendish Vigor"
+msgstr ""
+
+msgctxt "Invocation/&FiendishVigorDescription"
+msgid ""
+"You can cast False Life on yourself at will as a 1st level spell, without "
+"expending a spell slot or material components."
+msgstr ""
+
+msgctxt "Invocation/&LifedrinkerTitle"
+msgid "Lifedrinker"
+msgstr ""
+
+msgctxt "Invocation/&LifedrinkerDescription"
+msgid ""
+"When you hit a creature with a weapon attack, the creature takes extra "
+"necrotic damage equal to your Charisma modifier (minimum 1)."
+msgstr ""
+
+msgctxt "Invocation/&MinionsChaosTitle"
+msgid "Minions of Chaos"
+msgstr ""
+
+msgctxt "Invocation/&MinionsChaosDescription"
+msgid ""
+"You can cast conjure elemental once using a warlock spell slot. You can't do "
+"so again until you finish a long rest."
+msgstr ""
+
+msgctxt "Invocation/&MireMindTitle"
+msgid "Mire the Mind"
+msgstr ""
+
+msgctxt "Invocation/&MireMindDescription"
+msgid ""
+"You can cast Slow once using a warlock spell slot. You can't do so again "
+"until you finish a long rest."
+msgstr ""
+
+msgctxt "Invocation/&OneWithShadowsTitle"
+msgid "One with Shadows"
+msgstr ""
+
+msgctxt "Invocation/&OneWithShadowsDescription"
+msgid ""
+"When you are in an area of dim light or darkness, you can use your action to "
+"become invisible until you move or take an action or a reaction."
+msgstr ""
+
+msgctxt "Invocation/&OtherworldlyLeapTitle"
+msgid "Otherworldly Leap"
+msgstr ""
+
+msgctxt "Invocation/&OtherworldlyLeapDescription"
+msgid ""
+"You can cast Jump on yourself at will, without expending a spell slot or "
+"material components."
+msgstr ""
+
+msgctxt "Invocation/&RepellingBlastTitle"
+msgid "Repelling Blast"
+msgstr ""
+
+msgctxt "Invocation/&RepellingBlastDescription"
+msgid ""
+"When you hit a creature with Eldritch Blast, you can push the creature up to "
+"2 cells away from you in a straight line."
+msgstr ""
+
+msgctxt "Invocation/&SignIllOmenTitle"
+msgid "Sign of Ill Omen"
+msgstr ""
+
+msgctxt "Invocation/&SignIllOmenDescription"
+msgid ""
+"You can cast Bestow Curse once using a warlock spell slot. You can't do so "
+"again until you finish a long rest."
+msgstr ""
+
+msgctxt "Invocation/&ThiefFiveFatesTitle"
+msgid "Thief of Five Fates"
+msgstr ""
+
+msgctxt "Invocation/&ThiefFiveFatesDescription"
+msgid ""
+"You can cast Bane once using a warlock spell slot. You can't do so again "
+"until you finish a long rest."
+msgstr ""
+
+msgctxt "Invocation/&ThirstingBladeTitle"
+msgid "Thirsting Blade"
+msgstr ""
+
+msgctxt "Invocation/&ThirstingBladeDescription"
+msgid ""
+"You can attack twice instead of once when you take the Attack action on your "
+"turn."
+msgstr ""
+
+msgctxt "Invocation/&VoiceChainMasterTitle"
+msgid "Voice of the Chain Master"
+msgstr ""
+
+msgctxt "Invocation/&VoiceChainMasterDescription"
+msgid ""
+"You can bind a creature to your warlock one more time between long rests."
+msgstr ""
+
+msgctxt "Invocation/&WitchSightTitle"
+msgid "Witch Sight"
+msgstr ""
+
+msgctxt "Invocation/&WitchSightDescription"
+msgid ""
+"You are permanently under the effect of the See Invisibility spell and all "
+"magic items that come into your possession are automatically identified."
+msgstr ""

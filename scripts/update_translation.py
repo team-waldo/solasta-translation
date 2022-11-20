@@ -30,6 +30,10 @@ def merge(template_data, translation_path):
     for key, source in template_data:
         template.append(TranslationEntry(key=key, source=source))
 
+    if not os.path.isfile(translation_path):
+        template.export(translation_path)
+        return
+
     path = translation_path if os.path.isfile(translation_path) else None
     tr = TranslationFile(path)
 
