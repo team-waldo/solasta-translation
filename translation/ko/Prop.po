@@ -2,16 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-19 04:14+0900\n"
-"PO-Revision-Date: 2022-11-19 02:54+0000\n"
-"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/prop/ko/>\n"
-"Language: ko\n"
+"POT-Creation-Date: 2023-06-05 18:53+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "Prop/&CandelabraTitle"
 msgid "Candelabra"
@@ -1081,3 +1079,91 @@ msgstr "고지대에 설치하기 위한 현수막"
 msgctxt "Prop/&HouseDoorsTitle"
 msgid "House with Doors"
 msgstr "문이 달린 집"
+
+msgctxt "Prop/&CaravanDestroyTitle"
+msgid "Destroyed Caravan"
+msgstr ""
+
+msgctxt "Prop/&HouseDestroyTitle"
+msgid "Destroyed House"
+msgstr ""
+
+msgctxt "Prop/&MilitaryStuffDefensiveSpikersTitle"
+msgid "Defensive Spikes"
+msgstr ""
+
+msgctxt "Prop/&MilitaryStuffDefensiveSpikersDestroyTitle"
+msgid "Destroyed Defensive Spikes"
+msgstr ""
+
+msgctxt "Prop/&MilitaryStuffBallistaDestroyTitle"
+msgid "Destroyed Ballista"
+msgstr ""
+
+msgctxt "Prop/&MilitaryWeaponsRackTitle"
+msgid "Weapons Rack"
+msgstr ""
+
+msgctxt "Prop/&MilitaryWeaponsRackDestroyTitle"
+msgid "Destroyed Weapons Rack"
+msgstr ""
+
+msgctxt "Prop/&MilitaryWeaponsCrateTitle"
+msgid "Weapons Crate"
+msgstr ""
+
+msgctxt "Prop/&MilitaryStructureAssaultTowerTitle"
+msgid "Assault Tower"
+msgstr ""
+
+msgctxt "Prop/&MilitaryStructureTrebuchetTitle"
+msgid "Trebuchet"
+msgstr ""
+
+msgctxt "Prop/&MilitaryStructureCatapultTitle"
+msgid "Catapult"
+msgstr ""
+
+msgctxt "Prop/&SledgeTitle"
+msgid "Sledge"
+msgstr ""
+
+msgctxt "Prop/&SledgePileTitle"
+msgid "Sledge Storage"
+msgstr ""
+
+msgctxt "Prop/&StatueDwarfTitle"
+msgid "Dwarf Statue"
+msgstr ""
+
+msgctxt "Prop/&StoolDwarfTitle"
+msgid "Dwarven Stool"
+msgstr ""
+
+msgctxt "Prop/&groundPattern"
+msgid "Very fine patterns carved into the ground."
+msgstr ""
+
+msgctxt "Prop/&BearCarpetTitle"
+msgid "Bear Fur"
+msgstr ""
+
+msgctxt "Prop/&DwarfWallDeco"
+msgid "Dwarf wall decoration."
+msgstr ""
+
+msgctxt "Prop/&CrystalsTitle"
+msgid "Crystals"
+msgstr ""
+
+msgctxt "Prop/&HoistTitle"
+msgid "Hoist"
+msgstr ""
+
+msgctxt "Prop/&RailsTitle"
+msgid "Rails"
+msgstr ""
+
+msgctxt "Prop/&SnowPileTitle"
+msgid "Snow Pile"
+msgstr ""

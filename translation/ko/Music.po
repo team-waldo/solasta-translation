@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-05 18:53+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "Music/&NoneTitle"
+msgid "<None>"
+msgstr ""
+
+msgctxt "Music/&CaerLemTitle"
+msgid "Caer Lem"
+msgstr ""
+
+msgctxt "Music/&CaerCyflenTitle"
+msgid "Caer Cyflen"
+msgstr ""
+
+msgctxt "Music/&DarkCastleExteriorTitle"
+msgid "Dark Castle (Exterior)"
+msgstr ""
+
+msgctxt "Music/&CoparanTitle"
+msgid "Coparann"
+msgstr ""
+
+msgctxt "Music/&WizardsTowerTitle"
+msgid "Wizard's Tower"
+msgstr ""
+
+msgctxt "Music/&MastermindTitle"
+msgid "Mastermind"
+msgstr ""
+
+msgctxt "Music/&CradleOfFireTitle"
+msgid "Cradle of Fire"
+msgstr ""
+
+msgctxt "Music/&AerElaiTitle"
+msgid "Aer Elai"
+msgstr ""
+
+msgctxt "Music/&TheNecromancerTitle"
+msgid "The Necromancer"
+msgstr ""
+
+msgctxt "Music/&RuinsOfTelemaTitle"
+msgid "Ruins of Telema"
+msgstr ""
+
+msgctxt "Music/&PrisonEscapeTitle"
+msgid "Prison Escape"
+msgstr ""
+
+msgctxt "Music/&TheLightBringersTitle"
+msgid "The Lightbringers"
+msgstr ""
+
+msgctxt "Music/&ShadowsTitle"
+msgid "Shadows"
+msgstr ""
+
+msgctxt "Music/&CityTitle"
+msgid "Ancient City"
+msgstr ""
+
+msgctxt "Music/&LabTitle"
+msgid "Laboratory"
+msgstr ""
+
+msgctxt "Music/&SwampTitle"
+msgid "Swamp"
+msgstr ""
+
+msgctxt "Music/&ValleyTitle"
+msgid "Valley"
+msgstr ""
+
+msgctxt "Music/&PactClawTitle"
+msgid "Pact of the Claw"
+msgstr ""
+
+msgctxt "Music/&DemonsTitle"
+msgid "Demons"
+msgstr ""
+
+msgctxt "Music/&GreatColdTitle"
+msgid "The Great Cold"
+msgstr ""

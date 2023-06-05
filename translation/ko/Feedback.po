@@ -2,17 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-19 04:14+0900\n"
-"PO-Revision-Date: 2022-11-19 02:54+0000\n"
-"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/feedback/"
-"ko/>\n"
-"Language: ko\n"
+"POT-Creation-Date: 2023-06-05 18:53+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "Feedback/&AbilityCheckConsoleAnyAdvantageLine"
 msgid "{0} rolls a {1} ability check against DC {2}, rolls {3} {4}, {5}"
@@ -26,8 +23,10 @@ msgctxt "Feedback/&AbilityCheckConsoleLine"
 msgid "{0} rolls a {1} ability check against DC {2}, rolls {3} = {4}"
 msgstr "{0}은(는) DC{2} {1} 능력치 판정을 합니다. 굴림 {3} = {4}"
 
+#, fuzzy
+#| msgid "{0} rolls a {1} ability check against DC {2}, rolls {3} "
 msgctxt "Feedback/&AbilityCheckConsoleNoModifierLine"
-msgid "{0} rolls a {1} ability check against DC {2}, rolls {3} "
+msgid "{0} rolls a {1} ability check against DC {2}, rolls {3}"
 msgstr "{0}은(는) DC{2} {1} 능력치 판정을 합니다. 굴림 {3} "
 
 msgctxt "Feedback/&AbilityCheckFailedFormat"
@@ -150,13 +149,19 @@ msgctxt "Feedback/&AdditionalDamagePredatorLine"
 msgid "{0} deals more damage to {1} from higher ground (+{2})"
 msgstr "{0}은(는) 더 높은 곳에서 {1}에게 더 많은 피해를 줍니다. (+{2})"
 
+#, fuzzy
+#| msgid "Smite the Hidden!"
 msgctxt "Feedback/&AdditionalDamageSmiteTheHiddenDarkvisionFormat"
-msgid "Smite the Hidden!"
+msgid "Scourge of the Hidden (Darkvision)!"
 msgstr "은둔자 강타!"
 
+#, fuzzy
+#| msgid ""
+#| "{0} deals more damage to {1}, Scourge of the Hidden with Darkvision (+{2})"
 msgctxt "Feedback/&AdditionalDamageSmiteTheHiddenDarkvisionLine"
 msgid ""
-"{0} deals more damage to {1}, Scourge of the Hidden with Darkvision (+{2})"
+"{0} deals more damage to {1}, with Scourge of the Hidden on Darkvision "
+"(+{2})."
 msgstr "{0}은(는) 은둔자의 재앙을 통해 어둠시야를 가진 {1}에게 더 많은 피해를 줍니다. (+{2})"
 
 msgctxt "Feedback/&AdditionalDamageSmiteTheHiddenShapechangerFormat"
@@ -721,8 +726,10 @@ msgctxt "Feedback/&SaveConsoleLine"
 msgid "{0} rolls a {1} save against {2} (DC{3}), rolls {4} = {5}"
 msgstr "{0}은(는) {2}(DC{3})에 대한 {1} 내성 굴림을 합니다, 굴림 {4} = {5}"
 
+#, fuzzy
+#| msgid "{0} rolls a {1} save against {2} (DC {3}), rolls {4} "
 msgctxt "Feedback/&SaveConsoleNoModifierLine"
-msgid "{0} rolls a {1} save against {2} (DC {3}), rolls {4} "
+msgid "{0} rolls a {1} save against {2} (DC {3}), rolls {4}"
 msgstr "{0}은(는) {2}(DC{3})에 대한 {1} 내성 굴림을 합니다, 굴림 {4} "
 
 msgctxt "Feedback/&SaveSuccessFormat"
@@ -802,8 +809,10 @@ msgctxt "Feedback/&SpellCounterSuccessFormat"
 msgid "Counter!"
 msgstr "대응 성공!"
 
+#, fuzzy
+#| msgid "{0} fails to dispel the effect of the {1} spell on  "
 msgctxt "Feedback/&SpellDissipatedFailureLine"
-msgid "{0} fails to dispel the effect of the {1} spell on  "
+msgid "{0} fails to dispel the effect of the {1} spell"
 msgstr "{0}은(는) {1} 주문을 무효화하는데 실패했습니다  "
 
 msgctxt "Feedback/&SpellDissipatedFormat"
@@ -930,16 +939,22 @@ msgid ""
 "network."
 msgstr "주 관문 네트워크를 사용하여 새로운 순간 이동 목적지를 잠금 해제했습니다."
 
+#, fuzzy
+#| msgid "{0} increases his/her {1} score by {2}, and its maximum value by {3}."
 msgctxt "Feedback/&AbilityScoreIncreasedValueAndMaxLine"
-msgid "{0} increases his/her {1} score by {2}, and its maximum value by {3}."
+msgid "{0} increases their {1} score by {2}, and its maximum value by {3}."
 msgstr "{0}은(는) 자신의 {1} 점수를 {2}, 최대값을 {3} 증가시킵니다."
 
+#, fuzzy
+#| msgid "{0} increases his/her {1} score by {2}."
 msgctxt "Feedback/&AbilityScoreIncreasedValueLine"
-msgid "{0} increases his/her {1} score by {2}."
+msgid "{0} increases their {1} score by {2}."
 msgstr "{0}은(는) 자신의 {1} 점수를 {2} 증가시킵니다."
 
+#, fuzzy
+#| msgid "{0} increases his/her {1} score maximum value by {2}."
 msgctxt "Feedback/&AbilityScoreIncreasedMaxLine"
-msgid "{0} increases his/her {1} score maximum value by {2}."
+msgid "{0} increases their {1} score maximum value by {2}."
 msgstr "{0}은(는) 자신의 {1} 점수 최대값을 {2} 증가시킵니다."
 
 msgctxt "Feedback/&ResistantToDamageLine"
@@ -1052,8 +1067,10 @@ msgctxt "Feedback/&InstantDeathPreventedLine"
 msgid "{0} is prevented from being instantly killed, thanks to the {1} effect."
 msgstr "{0}은(는) {1} 효과 덕분에 즉사하지 않았습니다."
 
+#, fuzzy
+#| msgid "{0} rolls a {1} to determine a behavior and rolls {2}: "
 msgctxt "Feedback/&RandomBehaviourRolledLine"
-msgid "{0} rolls a {1} to determine a behavior and rolls {2}: "
+msgid "{0} rolls a {1} to determine a behavior and rolls {2}:"
 msgstr "{0}은(는) {1}을(를) 굴려 행동을 결정합니다. 굴림 {2}: "
 
 msgctxt "Feedback/&LegendaryResistanceUsedLine"
@@ -1611,3 +1628,202 @@ msgstr "{0}은(는) 더 낮은 급의 주문에 영향을 받지 않습니다"
 msgctxt "Feedback/&SaveFailureOutcome"
 msgid "{0} (Failure)"
 msgstr "{0} 실패"
+
+msgctxt "Feedback/&HeatedBody_Feedback"
+msgid "Heated Body"
+msgstr ""
+
+msgctxt "Feedback/&NecroticAura_Feedback"
+msgid "Necrotic Aura"
+msgstr ""
+
+msgctxt "Feedback/&AdditionalDamageSmiteTheHiddenLine"
+msgid "Scourge of the Hidden!"
+msgstr ""
+
+msgctxt "Feedback/&AdditionalDamageSmiteTheHiddenFormat"
+msgid "Scourge of the Hidden!"
+msgstr ""
+
+msgctxt "Feedback/&DLC3_Telema_CustomGate01"
+msgid "Laboratory Selected"
+msgstr ""
+
+msgctxt "Feedback/&DLC3_Telema_CustomGate02"
+msgid "Experimental Destination Selected"
+msgstr ""
+
+msgctxt "Feedback/&DLC3_Telema_CustomGate03"
+msgid "Treasure Room Selected"
+msgstr ""
+
+msgctxt "Feedback/&DLC3_Telema_CustomGate04"
+msgid "Long Distance Mode Selected"
+msgstr ""
+
+msgctxt "Feedback/&MajorGatePasswordUnknown"
+msgid "You need the Sovereign to use the long distance function."
+msgstr ""
+
+msgctxt "Feedback/&DLC3_Telema_Triangle_Needed"
+msgid "You need a triangular key."
+msgstr ""
+
+msgctxt "Feedback/&DLC3_Telema_Square_Needed"
+msgid "You need a square key."
+msgstr ""
+
+msgctxt "Feedback/&DLC3_Telema_Activation"
+msgid "Key activated."
+msgstr ""
+
+msgctxt "Feedback/&DLC3_Telema_ReadManual"
+msgid "You must read the instructions first."
+msgstr ""
+
+msgctxt "Feedback/&DLC3_Telema_SquareKey_Missing"
+msgid "Square key missing."
+msgstr ""
+
+msgctxt "Feedback/&Observe_Draconic_Pillar"
+msgid ""
+"This strange pillar emanates a pulsing magical light, creating an unsettling "
+"sensation."
+msgstr ""
+
+msgctxt "Feedback/&DLC3_CustomMinorGateDestination0"
+msgid "Destination: Laboratory"
+msgstr ""
+
+msgctxt "Feedback/&DLC3_CustomMinorGateDestination1"
+msgid "Destination: Interplanar Laboratory"
+msgstr ""
+
+msgctxt "Feedback/&DLC3_CustomMinorGateDestination2"
+msgid "Destination: Treasure Room"
+msgstr ""
+
+msgctxt "Feedback/&DLC3_CustomMinorGateDestination3"
+msgid "Major Gate Function Activated"
+msgstr ""
+
+msgctxt "Feedback/&DLC3_CustomMinorGateDestination4"
+msgid "New Destination Selected"
+msgstr ""
+
+msgctxt "Feedback/&StandAgainstTheTideLine"
+msgid "{0} forced {1} to retarget their attack on {2}."
+msgstr ""
+
+msgctxt "Feedback/&AdditionalDamageLastStandFormat"
+msgid "Last Stand!"
+msgstr ""
+
+msgctxt "Feedback/&AdditionalDamageLastStandLine"
+msgid "{0} deals more damage to {1} through Last Stand (+{2})."
+msgstr ""
+
+msgctxt "Feedback/&DLC3_Interrogating1"
+msgid "Let's have a little chat."
+msgstr ""
+
+msgctxt "Feedback/&DLC3_Interrogating2"
+msgid "We have questions for you."
+msgstr ""
+
+msgctxt "Feedback/&DLC3_Interrogating3"
+msgid "We need to talk."
+msgstr ""
+
+msgctxt "Feedback/&DLC3_White_City_Warning"
+msgid ""
+"Warning: All destinations locked until Northern Faction quest is completed."
+msgstr ""
+
+msgctxt "Feedback/&InvestigationClueFoundLine"
+msgid "New clue discovered about {0}."
+msgstr ""
+
+msgctxt "Feedback/&InvestigationClueFoundNotificationFormat"
+msgid "New clue discovered about {0}."
+msgstr ""
+
+msgctxt "Feedback/&AdditionalDamageGuardianFormat"
+msgid "Guardian damage!"
+msgstr ""
+
+msgctxt "Feedback/&AdditionalDamageDivineLine"
+msgid "{0} deals more damage to {1} by using a Divine Weapon (+{2})."
+msgstr ""
+
+msgctxt "Feedback/&DLC3_Infernal_Pillars_Damage_Too_Low"
+msgid "Damage inflicted is too low."
+msgstr ""
+
+msgctxt "Feedback/&AdditionalDamageSovereignLine"
+msgid "Sovereign damage!"
+msgstr ""
+
+msgctxt "Feedback/&AdditionalDamageSovereignFormat"
+msgid "Sovereign damage!"
+msgstr ""
+
+msgctxt "Feedback/&AdditionalDamageGuardianLine"
+msgid "Guardian damage!"
+msgstr ""
+
+msgctxt "Feedback/&ChoiceConsequenceMessage"
+msgid "The choice you just made will have consequences later."
+msgstr ""
+
+msgctxt "Feedback/&Choice_Other"
+msgid "Other"
+msgstr ""
+
+msgctxt "Feedback/&Choice_Back"
+msgid "Back"
+msgstr ""
+
+msgctxt "Feedback/&MajorGateHectorDiaryNotDecypheredUnknown"
+msgid "Decipher Hector's diary first."
+msgstr ""
+
+msgctxt "Feedback/&DLC3_NoValidDestination"
+msgid "Invalid combination"
+msgstr ""
+
+msgctxt "Feedback/&MaximalDamageLine"
+msgid "{0} has the \"{1}\" creature type and receives maximum damage from {2}."
+msgstr ""
+
+msgctxt "Feedback/&MaximumDamageFormat"
+msgid "{0} has the \"{1}\" creature type and receives maximum damage from {2}."
+msgstr ""
+
+msgctxt "Feedback/&MultiAttackAffinityLine"
+msgid "{0} has {1} and reduces the attack roll by {2}."
+msgstr ""
+
+msgctxt "Feedback/&AdditionalDamageSmiteTheHiddenSuperiorDarkvisionFormat"
+msgid "Scourge of the Hidden (Superior Darkvision)!"
+msgstr ""
+
+msgctxt "Feedback/&AdditionalDamageSmiteTheHiddenSuperiorDarkvisionLine"
+msgid ""
+"{0} deals more damage to {1}, with Scourge of the Hidden on Superior "
+"Darkvision (+{2})."
+msgstr ""
+
+msgctxt "Feedback/&AdditionalDamageSmiteTheHiddenShapeChangerFormat"
+msgid "Scourge of the Hidden (Shapechanger)!"
+msgstr ""
+
+msgctxt "Feedback/&AdditionalDamageSmiteTheHiddenShapeChangerLine"
+msgid ""
+"{0} deals more damage to {1}, with Scourge of the Hidden on Shapechanger "
+"(+{2})."
+msgstr ""
+
+msgctxt "Feedback/&ShoveAutomaticIncapacitatedLine"
+msgid "The {0} attempt automatically succeeds as {1} is incapacitated."
+msgstr ""

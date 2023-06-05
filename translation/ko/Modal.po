@@ -2,17 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-19 04:14+0900\n"
-"PO-Revision-Date: 2022-11-19 02:54+0000\n"
-"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/modal/ko/>"
-"\n"
-"Language: ko\n"
+"POT-Creation-Date: 2023-06-05 18:53+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "Modal/&AssertionFailedTtitle"
 msgid "Assertion Failed"
@@ -179,8 +176,10 @@ msgctxt "Modal/&LoadGamePlaceholder"
 msgid "Select a saved game."
 msgstr "세이브 파일을 선택하세요."
 
+#, fuzzy
+#| msgid "Click or press any key to start."
 msgctxt "Modal/&LoadingProceedButtonTitle"
-msgid "Click or press any key to start."
+msgid "Click or press any key to proceed."
 msgstr "아무 키나 누르십시오."
 
 msgctxt "Modal/&LoadingTitle"
@@ -195,9 +194,11 @@ msgctxt "Modal/&LoadLastSaveTitle"
 msgid "Restart From Last Save"
 msgstr "마지막 저장에서 다시 시작"
 
+#, fuzzy
+#| msgid ""
+#| "{0} is concentrating to determine the presence of monsters in the area… "
 msgctxt "Modal/&MonsterListingCaption"
-msgid ""
-"{0} is concentrating to determine the presence of monsters in the area… "
+msgid "{0} is concentrating to determine the presence of monsters in the area…"
 msgstr "{0}은(는) 해당 지역의 몬스터를 탐지하고 있습니다… "
 
 msgctxt "Modal/&MonsterListingFavoredEnemyTitle"
@@ -731,8 +732,10 @@ msgctxt "Modal/&UserContentOverrideToggleDescription"
 msgid "Click to override the default value or to reactivate it"
 msgstr "클릭하여 기본값을 덮어쓰거나 재활성화하십시오"
 
+#, fuzzy
+#| msgid "Processing Content..."
 msgctxt "Modal/&ProcessingContentTitle"
-msgid "Processing Content..."
+msgid "Processing Content…"
 msgstr "컨텐츠 처리 중…"
 
 msgctxt "Modal/&ContentPropertyTitleTitle"
@@ -784,10 +787,17 @@ msgctxt "Modal/&ContentPropertyAbilityScoresTitle"
 msgid "Ability Scores"
 msgstr "능력치"
 
+#, fuzzy
+#| msgid ""
+#| "Input here custome ability score values. \n"
+#| " Note that modifying these values does not alter the monster attack rolls, "
+#| "or the ability check & saving throw where the monster has an explicit "
+#| "proficiency ; neither are Armor Class or Hit Points mdified by custom "
+#| "ability scores."
 msgctxt "Modal/&ContentPropertyAbilityScoresDescription"
 msgid ""
 "Input here custome ability score values. \n"
-" Note that modifying these values does not alter the monster attack rolls, "
+"  Note that modifying these values does not alter the monster attack rolls, "
 "or the ability check & saving throw where the monster has an explicit "
 "proficiency ; neither are Armor Class or Hit Points mdified by custom "
 "ability scores."
@@ -821,12 +831,16 @@ msgctxt "Modal/&UserNpcEditionTitle"
 msgid "Custom NPC Edition"
 msgstr "커스텀 NPC 편집"
 
+#, fuzzy
+#| msgid "TRUE"
 msgctxt "Modal/&ContentPropertyBooleanTrueTitle"
-msgid "TRUE"
+msgid "True"
 msgstr "참"
 
+#, fuzzy
+#| msgid "FALSE"
 msgctxt "Modal/&ContentPropertyBooleanFalseTitle"
-msgid "FALSE"
+msgid "False"
 msgstr "거짓"
 
 msgctxt "Modal/&UserMerchantInventoryEditionTitle"
@@ -1362,12 +1376,16 @@ msgctxt "Modal/&ContentPropertyVariableDefaultValueStringDescription"
 msgid "The default string value of this variable when the campaign starts"
 msgstr "캠페인 시작 시 이 변수가 갖는 기본 문자열 값"
 
+#, fuzzy
+#| msgid "FALSE"
 msgctxt "Modal/&ContentPropertyVariableBoolFalseTitle"
-msgid "FALSE"
+msgid "FAUX"
 msgstr "거짓"
 
+#, fuzzy
+#| msgid "TRUE"
 msgctxt "Modal/&ContentPropertyVariableBoolTrueTitle"
-msgid "TRUE"
+msgid "VRAI"
 msgstr "참"
 
 msgctxt "Modal/&SelectUserVariableTitle"
@@ -1627,8 +1645,10 @@ msgctxt "Modal/&MultiplayerVoteRejectTitle"
 msgid "Reject"
 msgstr "거부"
 
+#, fuzzy
+#| msgid "Pending..."
 msgctxt "Modal/&MultiplayerVoteClientStatusPendingTitle"
-msgid "Pending..."
+msgid "Pending…"
 msgstr "기다리는 중…"
 
 msgctxt "Modal/&MultiplayerVoteClientStatusPendingDescription"
@@ -1671,8 +1691,10 @@ msgctxt "Modal/&PostRestWaitDescription"
 msgid "Waiting for other players to finish their rest sequence:"
 msgstr "다른 플레이어들이 각자의 휴식 과정을 마무리하는 것을 기다리고 있습니다:"
 
+#, fuzzy
+#| msgid "Pending..."
 msgctxt "Modal/&MultiplayerWaitClientStatusPendingTitle"
-msgid "Pending..."
+msgid "Pending…"
 msgstr "기다리는 중…"
 
 msgctxt "Modal/&MultiplayerWaitClientStatusPendingDescription"
@@ -2020,3 +2042,205 @@ msgstr "이 게임 세션은 크로스플레이가 제한되어 있으며, 당�
 msgctxt "Modal/&ShortcutStopLightingSpellTitle"
 msgid "Stop a Light Spell"
 msgstr "빛 주문 해제"
+
+msgctxt "Modal/&CampaignVariablesTitle"
+msgid "Campaign Variables"
+msgstr ""
+
+msgctxt "Modal/&CampaignVariablesDescription"
+msgid ""
+"Displays a list of active campaign variables to help content creators debug "
+"their user campaigns. Shortcut: {0}"
+msgstr ""
+
+msgctxt "Modal/&UserBiomeEditionTitle"
+msgid "Biome Edition"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyTerrainTypeTitle"
+msgid "Terrain Type"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyTerrainTypeDescription"
+msgid "The type of terrain, for affinity to certain classes (Rangers)."
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyEncounterTableTitle"
+msgid "Encounter Table"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyEncounterTableDescription"
+msgid ""
+"A table of weighted occurrences of encounters. You can specify one from "
+"Solasta, or create your own."
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyNarrativeEventBasicLinesTitle"
+msgid "Narrative Event Basic Lines"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyNarrativeEventBasicLinesDescription"
+msgid ""
+"The narrative event lines displayed in the travel journal during journeys. "
+"You can use the \\{0\\} specifier to replace it with the name of a random "
+"party member."
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyEncounterLocationsTitle"
+msgid "Encounter Locations"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyEncounterLocationsDescription"
+msgid ""
+"The list of encounter locations which can be randomly rolled when starting "
+"an encounter. \n"
+"  Only Solasta internal encounter locations can be specified."
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyIngredientsTreasureTableTitle"
+msgid "Ingredients Treasure Table"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyIngredientsTreasureTableDescription"
+msgid ""
+"Allows you to specify a \"treasure table\" of ingredients which can be "
+"harvested successfully during travels on the World Map."
+msgstr ""
+
+msgctxt "Modal/&UserEncounterTableEditionTitle"
+msgid "Encounter Table Edition"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyEncounterOccurencesTitle"
+msgid "Encounter Occurrences"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyEncounterOccurencesDescription"
+msgid "A table of encounters, weighted by their chance of occurring."
+msgstr ""
+
+msgctxt "Modal/&UserContentWeightTitle"
+msgid "Weight"
+msgstr ""
+
+msgctxt "Modal/&UserContentAddEncounterOccurenceButtonTitle"
+msgid "Add Encounter"
+msgstr ""
+
+msgctxt "Modal/&UserContentAddEncounterOccurenceButtonDescription"
+msgid "Add a new encounter occurrence to this table."
+msgstr ""
+
+msgctxt "Modal/&UserContenEncounterSelectDescription"
+msgid "Click to select an encounter for this occurrence."
+msgstr ""
+
+msgctxt "Modal/&UserContentEncounterOccurenceUpButtonDescription"
+msgid "Move this encounter occurrence up in the list."
+msgstr ""
+
+msgctxt "Modal/&UserContentEncounterOccurenceDownButtonDescription"
+msgid "Move this encounter occurrence down in the list."
+msgstr ""
+
+msgctxt "Modal/&UserContentEncounterOccurenceDeleteButtonDescription"
+msgid "Deletes this encounter occurrence."
+msgstr ""
+
+msgctxt "Modal/&UserEncounterEditionTitle"
+msgid "Encounter Edition"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyMonsterOccurencesTitle"
+msgid "Monster Occurrences"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyMonsterOccurencesDescription"
+msgid ""
+"The table of monsters along with their wanted number and decision package."
+msgstr ""
+
+msgctxt "Modal/&UserContentMonsterOccurenceNumberTitle"
+msgid "Number"
+msgstr ""
+
+msgctxt "Modal/&UserContentMonsterOccurenceNumberDescription"
+msgid "The number of monsters of this type that the encounter will spawn."
+msgstr ""
+
+msgctxt "Modal/&UserContentMonsterOccurenceDecisionTitle"
+msgid "Decision"
+msgstr ""
+
+msgctxt "Modal/&UserContentMonsterOccurenceDecisionDescription"
+msgid ""
+"This is used to instruct the game as to where it should spawn monsters "
+"during an encounter. Each sub-option describes more information."
+msgstr ""
+
+msgctxt "Modal/&UserContentMonsterOccurenceMonsterTitle"
+msgid "Monster"
+msgstr ""
+
+msgctxt "Modal/&UserContentMonsterOccurenceMonsterDescription"
+msgid "The monster type to spawn for this occurrence."
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyEncounterLocationsBlacklistTitle"
+msgid "Encounter Locations Blacklist"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyEncounterLocationsBlacklistDescription"
+msgid ""
+"Some encounter locations are not compatible with big monsters or those who "
+"do not have the ability to jump over gaps. It may be a good idea to "
+"explicitly blacklist these monsters for this encounter."
+msgstr ""
+
+msgctxt "Modal/&NotCompatibleWithHugeOrSpecialCreaturesDescription"
+msgid ""
+"This encounter location is not compatible with huge or special creatures. It "
+"should be blacklisted for custom encounters using such creatures."
+msgstr ""
+
+msgctxt "Modal/&UserCampaignContentTitle"
+msgid "Campaign Content"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyLanguageTitle"
+msgid "Language"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyLanguageDescription"
+msgid ""
+"You can specify that this document requires the mastery of a specific "
+"language to be read."
+msgstr ""
+
+msgctxt "Modal/&TeleportWarningMessageTitle"
+msgid "Warning"
+msgstr ""
+
+msgctxt "Modal/&VersatileDieTypeTitle"
+msgid "Versatile Die"
+msgstr ""
+
+msgctxt "Modal/&NpcFilterAllTitle"
+msgid "All"
+msgstr ""
+
+msgctxt "Modal/&CompanionNpcTitle"
+msgid "Companions"
+msgstr ""
+
+msgctxt "Modal/&CustomNpcTitle"
+msgid "Custom"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyAttack4Title"
+msgid "Attack 4:"
+msgstr ""
+
+msgctxt "Modal/&ContentPropertyAttack4Description"
+msgid "The parameters of the fourth attack of this creature"
+msgstr ""

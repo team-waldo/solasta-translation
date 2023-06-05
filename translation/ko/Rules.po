@@ -2,17 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-19 04:14+0900\n"
-"PO-Revision-Date: 2022-11-21 02:00+0000\n"
-"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/rules/ko/>"
-"\n"
-"Language: ko\n"
+"POT-Creation-Date: 2023-06-05 18:53+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "Rules/&AbilityAndSkillFormat"
 msgid "{0} ({1})"
@@ -164,8 +161,10 @@ msgctxt "Rules/&ConditionAuraOfCourageTitle"
 msgid "Aura of Courage"
 msgstr "용기의 오라"
 
+#, fuzzy
+#| msgid "Grant a  + CHA modifier bonus to a creature's saving throws"
 msgctxt "Rules/&ConditionAuraOfProtectionDescription"
-msgid "Grant a  + CHA modifier bonus to a creature's saving throws"
+msgid "Grant a + CHA modifier bonus to a creature's saving throws"
 msgstr "크리쳐의 내성 굴림에 매력 수정치만큼 보너스를 부여합니다"
 
 msgctxt "Rules/&ConditionAuraOfProtectionTitle"
@@ -600,10 +599,12 @@ msgctxt "Rules/&ConditionFormRemoveFormat"
 msgid "Removes: {0}"
 msgstr "제거: {0}"
 
+#, fuzzy
+#| msgid ""
+#| "Unable to approach the source of fear, disadvantage on attack rolls and "
+#| "ability checks."
 msgctxt "Rules/&ConditionFrightenedDescription"
-msgid ""
-"Unable to approach the source of fear, disadvantage on attack rolls and "
-"ability checks."
+msgid "Disadvantage on attack rolls and ability checks."
 msgstr "공포의 근원에 접근할 수 없고, 명중 굴림과 능력치 판정에 불리점을 받습니다."
 
 msgctxt "Rules/&ConditionFrightenedFearDescription"
@@ -695,10 +696,14 @@ msgctxt "Rules/&ConditionHealthyTitle"
 msgid "Healthy"
 msgstr "정상"
 
+#, fuzzy
+#| msgid ""
+#| "Speed is reduced by 4.\n"
+#| "Disadvantage to attack rolls."
 msgctxt "Rules/&ConditionHeavilyEncumberedDescription"
 msgid ""
 "Speed is reduced by 4.\n"
-"Disadvantage to attack rolls."
+" Disadvantage to attack rolls."
 msgstr ""
 "속도가 4 감소합니다.\n"
 "명중 굴림에 불리점을 받습니다."
@@ -739,18 +744,24 @@ msgctxt "Rules/&ConditionHinderedTitle"
 msgid "Hindered"
 msgstr "방해받음"
 
+#, fuzzy
+#| msgid "Unable to take actions or reactions."
 msgctxt "Rules/&ConditionIncapacitatedDescription"
-msgid "Unable to take actions or reactions."
+msgid "Unable to move, take actions, or reactions."
 msgstr "행동, 반응 행동을 취할 수 없습니다."
 
 msgctxt "Rules/&ConditionIncapacitatedTitle"
 msgid "Incapacitated"
 msgstr "무력화"
 
+#, fuzzy
+#| msgid ""
+#| "The creature has to make a successful CON saving to act on its turn.\n"
+#| "Vision is heavily obscured."
 msgctxt "Rules/&ConditionInStinkingCloudDescription"
 msgid ""
 "The creature has to make a successful CON saving to act on its turn.\n"
-"Vision is heavily obscured."
+" Vision is heavily obscured."
 msgstr ""
 "자기 차례에 행동하기 위해 건강 내성 굴림에 성공해야합니다.\n"
 "시야가 심하게 흐려집니다."
@@ -857,8 +868,10 @@ msgctxt "Rules/&ConditionMarkedByBrandingSmiteTitle"
 msgid "Branding Smite"
 msgstr "낙인의 강타"
 
+#, fuzzy
+#| msgid "Receives +1d6 damage when hit by the caster."
 msgctxt "Rules/&ConditionMarkedByHunterDescription"
-msgid "Receives +1d6 damage when hit by the caster."
+msgid "Receives +1d6 damage when hit by the caster with a weapon attack."
 msgstr "시전자에게 명중되면 1d6 추가 피해를 받습니다."
 
 msgctxt "Rules/&ConditionMarkedByHunterTitle"
@@ -1107,8 +1120,12 @@ msgctxt "Rules/&ConditionTypeNeutralFormat"
 msgid "Neutral Condition"
 msgstr "중립적 상태"
 
+#, fuzzy
+#| msgid "Unable to act until awoken."
 msgctxt "Rules/&ConditionUnconsciousDescription"
-msgid "Unable to act until awoken."
+msgid ""
+"Unable to act until restored to 1 hit point or above. A short rest can "
+"restore the character to 1 hit point."
 msgstr "깨어날 때까지 행동할 수 없습니다."
 
 msgctxt "Rules/&ConditionUnconsciousTitle"
@@ -1293,8 +1310,10 @@ msgctxt "Rules/&DamageThunderTitle"
 msgid "Thunder"
 msgstr "천둥"
 
+#, fuzzy
+#| msgid "Damage: "
 msgctxt "Rules/&DamageTitle"
-msgid "Damage: "
+msgid "Damage:"
 msgstr "피해: "
 
 msgctxt "Rules/&DcFormat"
@@ -1361,12 +1380,16 @@ msgctxt "Rules/&DurationDaySingleFormat"
 msgid "{0} day"
 msgstr "{0}일"
 
+#, fuzzy
+#| msgid "{0} hours "
 msgctxt "Rules/&DurationHourPluralFormat"
-msgid "{0} hours "
+msgid "{0} hours"
 msgstr "{0}시간 "
 
+#, fuzzy
+#| msgid "{0} hour "
 msgctxt "Rules/&DurationHourSingleFormat"
-msgid "{0} hour "
+msgid "{0} hour"
 msgstr "{0}시간 "
 
 msgctxt "Rules/&DurationInstantaneousFormat"
@@ -1381,28 +1404,38 @@ msgctxt "Rules/&DurationLongRestFormat"
 msgid "Until long rest"
 msgstr "다음 긴 휴식까지"
 
+#, fuzzy
+#| msgid "{0} minutes "
 msgctxt "Rules/&DurationMinutePluralFormat"
-msgid "{0} minutes "
+msgid "{0} minutes"
 msgstr "{0}분 "
 
+#, fuzzy
+#| msgid "{0} minute "
 msgctxt "Rules/&DurationMinuteSingleFormat"
-msgid "{0} minute "
+msgid "{0} minute"
 msgstr "{0}분 "
 
+#, fuzzy
+#| msgid "{0} round "
 msgctxt "Rules/&DurationNoneFormat"
-msgid "{0} round "
+msgid "{0} round"
 msgstr "{0}라운드 "
 
 msgctxt "Rules/&DurationPermanentFormat"
 msgid "Permanent"
 msgstr "영구적"
 
+#, fuzzy
+#| msgid "{0} rounds "
 msgctxt "Rules/&DurationRoundPluralFormat"
-msgid "{0} rounds "
+msgid "{0} rounds"
 msgstr "{0}라운드 "
 
+#, fuzzy
+#| msgid "{0} round "
 msgctxt "Rules/&DurationRoundSingleFormat"
-msgid "{0} round "
+msgid "{0} round"
 msgstr "{0}라운드 "
 
 msgctxt "Rules/&DurationShortRestFormat"
@@ -1521,16 +1554,22 @@ msgctxt "Rules/&HeightFormatFeetInches"
 msgid "{0}'{1}\";{0}' {1}'';{0}'{1}\""
 msgstr "{0}'{1}\";{0}' {1}'';{0}'{1}\""
 
+#, fuzzy
+#| msgid ""
+#| "On target item: \n"
+#| "{0}"
 msgctxt "Rules/&ItemPropertyFormFormat"
 msgid ""
 "On target item: \n"
-"{0}"
+" {0}"
 msgstr ""
 "대상 아이템:\n"
 "{0}"
 
+#, fuzzy
+#| msgid "light source: {0} bright + {1} dim "
 msgctxt "Rules/&LightSourceFormFormat"
-msgid "light source: {0} bright + {1} dim "
+msgid "light source: {0} bright + {1} dim"
 msgstr "광원: {0} 밝음 + {1} 약간 어두움 "
 
 msgctxt "Rules/&MaterialComponentTitle"
@@ -1702,8 +1741,10 @@ msgctxt "Rules/&SummonFormCreaturesSingleFormat"
 msgid "Summon {0}."
 msgstr "{0}을(를) 소환합니다."
 
+#, fuzzy
+#| msgid "Summon \"{0}\" for you to control "
 msgctxt "Rules/&SummonFormEffectProxyFormat"
-msgid "Summon \"{0}\" for you to control "
+msgid "Summon \"{0}\" for you to control"
 msgstr "조종 가능한 \"{0}\" 소환 "
 
 msgctxt "Rules/&SummonFormInventoryItemsMultipleFormat"
@@ -1742,16 +1783,20 @@ msgctxt "Rules/&VerboseComponentTitle"
 msgid "V"
 msgstr "V"
 
+#, fuzzy
+#| msgid ""
+#| "\n"
+#| "Versatile: {0}{1}{2}{3}"
 msgctxt "Rules/&VersatileDamageFormFormat"
-msgid ""
-"\n"
-"Versatile: {0}{1}{2}{3}"
+msgid "Versatile: {0}{1}{2}{3}"
 msgstr ""
 "\n"
 "양손 사용시: {0}{1}{2}{3}"
 
+#, fuzzy
+#| msgid "Two-handed: "
 msgctxt "Rules/&VersatileTwoHandedTitle"
-msgid "Two-handed: "
+msgid "Two-handed:"
 msgstr "양손: "
 
 msgctxt "Rules/&WeightFormat"
@@ -2194,10 +2239,14 @@ msgctxt "Rules/&ConditionFeatTakeAimTitle"
 msgid "Taking Aim"
 msgstr "정조준"
 
+#, fuzzy
+#| msgid ""
+#| "Your movement speed is increased by 3 cells and your AC is reduced by 2 "
+#| "until the start of your turn. "
 msgctxt "Rules/&ConditionFeatRushToBattleDescription"
 msgid ""
 "Your movement speed is increased by 3 cells and your AC is reduced by 2 "
-"until the start of your turn. "
+"until the start of your turn."
 msgstr "이동 거리가 3칸 증가하고 다음 턴 시작까지 AC가 2 감소합니다. "
 
 msgctxt "Rules/&ConditionFeatRushToBattleTitle"
@@ -2528,8 +2577,10 @@ msgctxt "Rules/&ConditionRagingTitle"
 msgid "Raging"
 msgstr "격노"
 
+#, fuzzy
+#| msgid "rage points"
 msgctxt "Rules/&RateRagePointsFormatTitle"
-msgid "rage points"
+msgid "Rage Points"
 msgstr "격노 포인트"
 
 msgctxt "Rules/&DurationHourHalfClassLevelFormat"
@@ -2719,8 +2770,10 @@ msgctxt "Rules/&ConditionCircleBalanceGiftOfLifeTitle"
 msgid "Gift of Life"
 msgstr "생명의 선물"
 
+#, fuzzy
+#| msgid "Regain hit points at the start of the caster's next turn."
 msgctxt "Rules/&ConditionCircleBalanceGiftOfLifeDescription"
-msgid "Regain hit points at the start of the caster's next turn."
+msgid "Regain hit points at the start of your next turn."
 msgstr "시전자의 다음 차례 시작에 HP를 회복합니다."
 
 msgctxt "Rules/&ConditionCircleBalanceEmbracedByColdTitle"
@@ -3009,8 +3062,10 @@ msgctxt "Rules/&ConditionOnFire_Osprey_Title"
 msgid "On Fire from Fire Osprey"
 msgstr "불 수리로부터 불 붙음"
 
+#, fuzzy
+#| msgid "Immune to Frightful Presence"
 msgctxt "Rules/&ConditionFrightenedByDragonImmunity_Title"
-msgid "Immune to Frightful Presence"
+msgid "Immune to a Dragon's Frightful Presence"
 msgstr "두려운 존재감 특성에 면역"
 
 msgctxt "Rules/&EffectTargetClosestWithinDistanceTitle"
@@ -3029,8 +3084,10 @@ msgctxt "Rules/&ConditionFlyingAdaptiveDescription"
 msgid "You gain a flying speed equal to your walking speed"
 msgstr "보행속도와 같은 값의 비행속도를 얻습니다"
 
+#, fuzzy
+#| msgid "On hit (melee) "
 msgctxt "Rules/&ActivationTypeOnAttackHitMeleeAuto"
-msgid "On hit (melee) "
+msgid "On hit (melee)"
 msgstr "명중 시 (근접) "
 
 msgctxt "Rules/&ConditionInsaneTitle"
@@ -3044,3 +3101,330 @@ msgstr "행동을 취할 수 없고 비정상적으로 이동합니다."
 msgctxt "Rules/&SituationalContextAttackingWithRangedWeaponOrEffectFormat"
 msgid "You ignore half cover when making a spell attack."
 msgstr "주문공격 시 절반 엄폐 상태를 무시합니다."
+
+msgctxt "Rules/&ConditionBlindedByPrismaticSprayDescription"
+msgid ""
+"Same as blinded, and the creature is banished to another plane if it fails "
+"its saving throw."
+msgstr ""
+
+msgctxt "Rules/&ConditionRegeneratingTitle"
+msgid "Regenerating"
+msgstr ""
+
+msgctxt "Rules/&ConditionRegeneratingDescription"
+msgid "Regain 1 HP every turn for up to an hour."
+msgstr ""
+
+msgctxt "Rules/&ConditionHopelessTitle"
+msgid "Hopeless"
+msgstr ""
+
+msgctxt "Rules/&ConditionHopelessDescription"
+msgid ""
+"Overwhelmed by despair, unable to attack or target any creature with harmful "
+"abilities, spells, or other magical effects."
+msgstr ""
+
+msgctxt "Rules/&ConditionPainfulTitle"
+msgid "Painful"
+msgstr ""
+
+msgctxt "Rules/&ConditionPainfulDescription"
+msgid "Incapacitated by excruciating pain, cannot take actions or reactions."
+msgstr ""
+
+msgctxt "Rules/&AlterationFormTriggerPower"
+msgid "Trigger the associated power"
+msgstr ""
+
+msgctxt "Rules/&ConditionHolyAuraTitle"
+msgid "Holy Aura"
+msgstr ""
+
+msgctxt "Rules/&ConditionHolyAuraDescription"
+msgid ""
+"You have advantage on all saving throws and other creatures have "
+"disadvantage on attack rolls against you until the spell ends. Fiends and "
+"undead hitting you with melee attacks must also make a successful "
+"Constitution saving throw or be blinded for 1 minute."
+msgstr ""
+
+msgctxt "Rules/&MotionFormPushRandomDirectionFormat"
+msgid "Push in a random direction {0}"
+msgstr ""
+
+msgctxt "Rules/&ConditionFeebleMindedTitle"
+msgid "Feeble Minded"
+msgstr ""
+
+msgctxt "Rules/&ConditionFeebleMindedDescription"
+msgid "Intelligence, Charisma and Wisdom scores become 1, cannot cast spells."
+msgstr ""
+
+msgctxt "Rules/&ConditionUnderDemonicInfluence_Title"
+msgid "Demonic Influence"
+msgstr ""
+
+msgctxt "Rules/&ConditionUnderDemonicInfluence_Description"
+msgid "You are controlled by the demon, and forced to attack your allies."
+msgstr ""
+
+msgctxt "Rules/&ConditionTempHPTitle"
+msgid "Temp HP Gain"
+msgstr ""
+
+msgctxt "Rules/&ConditionConcentrationDisadvantageTitle"
+msgid "Distracted"
+msgstr ""
+
+msgctxt "Rules/&ConditionReducedACTitle"
+msgid "Reduced Armor Class"
+msgstr ""
+
+msgctxt "Rules/&ConditionReducedACDescription"
+msgid "Your armor class is reduced by 3."
+msgstr ""
+
+msgctxt "Rules/&ConditionLeadByExampleMarkedTitle"
+msgid "Marked"
+msgstr ""
+
+msgctxt "Rules/&ConditionLeadByExampleMarkedDescription"
+msgid ""
+"Once per turn, when the creature is hit by one of the allies of the marker ("
+"Lead by Example), it receives an additional amount of the same damage "
+"corresponding to the proficiency bonus of the source of the mark."
+msgstr ""
+
+msgctxt "Rules/&ConditionSpiritTigerTitle"
+msgid "Bonded with Spirit Tiger"
+msgstr ""
+
+msgctxt "Rules/&ConditionSpiritTigerDescription"
+msgid "+1 to attack rolls"
+msgstr ""
+
+msgctxt "Rules/&PowerIncreasedRelianceTitle"
+msgid "Increased Reliance"
+msgstr ""
+
+msgctxt "Rules/&PowerIncreasedRelianceDescription"
+msgid ""
+"The Kutkartal can choose up to two creatures it can see. Until the end of "
+"the Kutkartal's next turn, each target can add 1d4 to its attack rolls and "
+"saving throws."
+msgstr ""
+
+msgctxt "Rules/&ConditionTraditionShockArcanistGreaterArcaneShockDescription"
+msgid ""
+"The next spell you cast this turn will have all the maximum possible damage "
+"dice roll values."
+msgstr ""
+
+msgctxt "Rules/&ConditionTraditionGreenmageWeakeningEntanglingShotDescription"
+msgid ""
+"Creature is restrained.\n"
+"  Creature has disadvantage on all saving throws."
+msgstr ""
+
+msgctxt "Rules/&ConditionStartingASongOfHopeTitle"
+msgid "Starting a Song of Hope"
+msgstr ""
+
+msgctxt "Rules/&ConditionStartingASongOfHopeDescription"
+msgid ""
+"As an action, you can sing a song of hope to allies within 6 cells, granting "
+"them resistance to all damage, and advantage on all their saving throws "
+"until the start of your next turn. If you take damage, you must make a CON "
+"saving throw (DC equal to half the damage with a minimum of 10) or Song of "
+"Hope will end."
+msgstr ""
+
+msgctxt "Rules/&ConditionListeningToSongOfHopeTitle"
+msgid "Listening to Song of Hope"
+msgstr ""
+
+msgctxt "Rules/&ConditionListeningToSongOfHopeDescription"
+msgid "Resistance to all damage and advantage on all your saving throws."
+msgstr ""
+
+msgctxt "Rules/&ConditionManacalonsPerfectionTitle"
+msgid "Manacalon's Perfection ({0})"
+msgstr ""
+
+msgctxt "Rules/&ConditionManacalonsPerfectionDescription"
+msgid ""
+"This creature has been granted a {0} inspiration die that will always be "
+"rolled at the max. value."
+msgstr ""
+
+msgctxt "Rules/&ConditionBanishedHurlThroughHellTitle"
+msgid "In Hell"
+msgstr ""
+
+msgctxt "Rules/&ConditionBanishedHurlThroughHellDescription"
+msgid "The creature suffers 10d10 psychic damage upon returning."
+msgstr ""
+
+msgctxt "Rules/&ConditionBalanceOfPowerTitle"
+msgid "Balance of Power"
+msgstr ""
+
+msgctxt "Rules/&ConditionBalanceOfPowerDescription"
+msgid "This creature has advantage on their attack rolls."
+msgstr ""
+
+msgctxt "Rules/&ConditionBalanceOfPowerVulnerabilityTitle"
+msgid "Balance of Power Vulnerability"
+msgstr ""
+
+msgctxt "Rules/&ConditionBalanceOfPowerVulnerabilityDescription"
+msgid "Attacks against this creature have advantage."
+msgstr ""
+
+msgctxt "Rules/&ConditionKindredSpiritRageDescription"
+msgid ""
+"This kindred spirit is enraged and has bonuses on its AC and damage rolls, "
+"and gets an extra attack."
+msgstr ""
+
+msgctxt "Rules/&ConditionDemonGreaseDamageTitle"
+msgid "Psychic Damage"
+msgstr ""
+
+msgctxt "Rules/&ConditionDemonGreaseDamageDescription"
+msgid "You take an additional 1d6 psychic damage when you are damaged."
+msgstr ""
+
+msgctxt "Rules/&ConditionHitByDirtyFightingTitle"
+msgid "Hit by Dirty Fighting"
+msgstr ""
+
+msgctxt "Rules/&ConditionHitByDirtyFightingDescription"
+msgid "Blinded and incapacitated."
+msgstr ""
+
+msgctxt "Rules/&ConditionFrightenedByDragonImmunity_Description"
+msgid ""
+"After resisting its effects, you are immune to the dragon's Frightful "
+"Presence for 24 hours."
+msgstr ""
+
+msgctxt "Rules/&ConditionShieldedByMarilithParryTitle"
+msgid "Parrying"
+msgstr ""
+
+msgctxt "Rules/&ConditionShieldedByMarilithParryDescription"
+msgid "Armor class increased by 5 against the next melee attack."
+msgstr ""
+
+msgctxt "Rules/&ConditionImmuneToDemonicInfluence_Title"
+msgid "Immune to Demonic Influence"
+msgstr ""
+
+msgctxt "Rules/&ConditionImmuneToDemonicInfluence_Description"
+msgid ""
+"After resisting its effects, you are immune to its Demonic Influence for 24h."
+msgstr ""
+
+msgctxt "Rules/&ConditionChilledWeatherDescription"
+msgid ""
+"Suffering from the effects of cold weather, you are slowed and suffer "
+"penalties on DEX and CON ability checks and saving throws."
+msgstr ""
+
+msgctxt "Rules/&ConditionFrozenTitle"
+msgid "Frozen"
+msgstr ""
+
+msgctxt "Rules/&ConditionFrozenDescription"
+msgid ""
+"Suffering from the effects of extremely cold weather, you are slowed and "
+"suffer penalties on ability checks and saving throws."
+msgstr ""
+
+msgctxt "Rules/&ConditionAffinityChilledImmunity"
+msgid "Immune to the effects of moderately cold weather."
+msgstr ""
+
+msgctxt "Rules/&DwarfSnow_WeatherResistance"
+msgid "Resistant to cold weather."
+msgstr ""
+
+msgctxt "Rules/&Warm_Title"
+msgid "Warm"
+msgstr ""
+
+msgctxt "Rules/&Warm_Description"
+msgid ""
+"You are protected from the effects of cold weather, even extreme, as long as "
+"you stay in a warm area or until the start of your next turn."
+msgstr ""
+
+msgctxt "Rules/&ConditionShieldedByKnightParryTitle"
+msgid "Parrying"
+msgstr ""
+
+msgctxt "Rules/&ConditionShieldedByKnightParryDescription"
+msgid "Armor class is increased by 2 against next melee attack."
+msgstr ""
+
+msgctxt "Rules/&ConditionLeadershipTitle"
+msgid "Guided"
+msgstr ""
+
+msgctxt "Rules/&ConditionLeadershipDescription"
+msgid "-1d4 to attacks, -1d4 to saving throws."
+msgstr ""
+
+msgctxt "Rules/&SituationalContextAttackingWithRangedWeaponFormat"
+msgid "You ignore half cover when making ranged weapon attacks."
+msgstr ""
+
+msgctxt "Rules/&ConditionTempHPStartTurnDescription"
+msgid "Gain temporary HP at the end of your turn."
+msgstr ""
+
+msgctxt "Rules/&SituationalContextWearingShieldEnemyNextToAbleEnemyFormat"
+msgid ""
+"If wielding a shield and targeting an enemy engaged with another creature "
+"that is not incapacitated."
+msgstr ""
+
+msgctxt "Rules/&ConditionVulnerableTitle"
+msgid "Vulnerable"
+msgstr ""
+
+msgctxt "Rules/&ConditionVulnerableDescription"
+msgid "Vulnerable to slashing, bludgeoning, and piercing damage."
+msgstr ""
+
+msgctxt "Rules/&CounterFormDissipateOneDetrimentalSpellFormat"
+msgid "End one spell on yourself or an ally."
+msgstr ""
+
+msgctxt "Rules/&MetamagicOptionSubtleSpellTitle"
+msgid "Subtle Spell"
+msgstr ""
+
+msgctxt "Rules/&MetamagicOptionSubtleSpellDescription"
+msgid ""
+"When you cast a spell, you can spend 1 sorcery point to cast it without any "
+"somatic or verbal components. This is useful to avoid a counterspell from a "
+"hostile spellcaster."
+msgstr ""
+
+msgctxt "Rules/&ConditionTrueStrikeTargetTitle"
+msgid "Targeted by True Strike"
+msgstr ""
+
+msgctxt "Rules/&ConditionTrueStrikeTargetDescription"
+msgid ""
+"The caster of the True Strike effect has advancement on the first attack on "
+"this creature."
+msgstr ""
+
+msgctxt "Rules/&ConditionCursedByMummyRotTitle"
+msgid "Cursed by Mummy Rot"
+msgstr ""

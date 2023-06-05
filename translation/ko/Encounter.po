@@ -2,17 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-01 18:44+0900\n"
-"PO-Revision-Date: 2022-11-18 18:56+0000\n"
-"Last-Translator: E잡불어 <rarkar@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/encounter/"
-"ko/>\n"
-"Language: ko\n"
+"POT-Creation-Date: 2023-06-05 18:53+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "Encounter/&Abjuration_Caravan_EncounterDescription"
 msgid "You came across a caravan, a rare thing in these desolate lands."
@@ -998,9 +995,13 @@ msgctxt "Encounter/&CR10_DragonDuo_Huge_Title"
 msgid "Dragon Duo"
 msgstr "두 마리 드래곤"
 
+#, fuzzy
+#| msgid ""
+#| "An old lady wanders around with her aide and two dogs... Or do your eyes "
+#| "deceive you?"
 msgctxt "Encounter/&CR4_WanderingHag_Description"
 msgid ""
-"An old lady wanders around with her aide and two dogs... Or do your eyes "
+"An old lady wanders around with her aide and two dogs… Or do your eyes "
 "deceive you?"
 msgstr "두 마리 개를 데리고 한 노파가 배회하고 있습니다… 아니면 당신의 눈이 삔 걸까요?"
 
@@ -1070,9 +1071,11 @@ msgid ""
 "Out of the woods and swamps come two large masses, moving right towards you!"
 msgstr "숲과 늪지로부터 거대한 덩어리 둘이 당신을 향해 똑바로 다가옵니다!"
 
+#, fuzzy
+#| msgid ""
+#| "Are... are those vines moving? It seems they are, get ready for a fight!"
 msgctxt "Encounter/&CR10_ShamblingTrio_Description"
-msgid ""
-"Are... are those vines moving? It seems they are, get ready for a fight!"
+msgid "Are… are those vines moving? It seems they are, get ready for a fight!"
 msgstr "이 덩쿨들… 움직인 거 맞죠? 틀림없다면, 전투 태세를 갖춥시다!"
 
 msgctxt "Encounter/&CR7_StalkerDuo_Description"
@@ -1904,3 +1907,293 @@ msgstr "전투와 영광을 찾아다니는 노련한 미노타우로스와 그 
 msgctxt "Encounter/&DLC_CR11_Minotaur Lord_Title"
 msgid "Minotaur Lord"
 msgstr "미노타우로스 영주"
+
+msgctxt "Encounter/&DLC3_Ambush_EventTitle"
+msgid "Stenvägg Bridge"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_Ambush_EventDescription"
+msgid ""
+"An old, fortified bridge that used to control access to the Snow Alliance."
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR9_TundraTigers_Title"
+msgid "Tundra Tigers"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR9_TigerDrakes_Wolves_Title"
+msgid "Ferocious Beasts"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR10_Undeads_Title"
+msgid "Undead"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR10_Skeletons_Title"
+msgid "Death Troop"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR10_SnowBulettes_GiantEagles_Title"
+msgid "Ferocious Beasts"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR11_Necromancer_Undeads_Title"
+msgid "Dark Procession"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR11_PolarBears_Title"
+msgid "Polar Bears"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR11_Goblins_Beasts_Title"
+msgid "Goblinoid Horde"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR11_FeralDragons_Title"
+msgid "Feral Dragons"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR11_Bandits_Archmages_Title"
+msgid "Pillagers"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR11_GallivanTroops_Title"
+msgid "Gallivan Troops"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR11_Goblins_Minotaurs_Title"
+msgid "Goblinoid Horde"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR11_Priests_Undeads_Title"
+msgid "Dark Procession"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR12_Druids_Beasts_Title"
+msgid "Mountain Druid"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR12_SnowBulettes_Title"
+msgid "Snow Bulette"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR12_Mages_Elementals_Title"
+msgid "Mage"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR12_Orcs_Beasts_Title"
+msgid "Orc Troop"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR12_Goblins_Minotaurs_Title"
+msgid "Goblinoid Horde"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR12_Spiders_Title"
+msgid "Spiders"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR13_Wolves_Title"
+msgid "Winter Wolves"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR13_TundraTigers_Peaks_Title"
+msgid "Peak Beasts"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR13_Orcs_Beasts_Title"
+msgid "Orc Troop"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR13_Remorhaz_Elementals_GiantEagles_Title"
+msgid "Roaming Beasts"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR13_GallivanTroops_Title"
+msgid "Gallivan Troops"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR13_AncientRemorhaz_Title"
+msgid "Ancient Remorhaz"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR14_YoungDragons_Title"
+msgid "Young Dragons"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR14_Necromancers_Spiders_Title"
+msgid "Dark Procession"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR15_Dragons_MageTitle"
+msgid "Feral Dragons"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR15_Remorhaz_Title"
+msgid "Roaming Beasts"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR15_FeralDragons_Title"
+msgid "Feral Dragons"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR15_Dragons_Elementals_Title"
+msgid "White Dragon"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR15_Necromancer_Undeads_Title"
+msgid "Dark Procession"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR15_FeralDragons_Mage_Title"
+msgid "Feral Dragons"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR15_GallivanTroops_Title"
+msgid "Gallivan Troops"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR15_Druids_Beasts_Title"
+msgid "Mountain Druid"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR16_PeaksTerrors_PeaksAbominations_Title"
+msgid "Peak Beasts"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR16_Druids_SnowBulettes_Title"
+msgid "Mountain Druid"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR17_AncientRemorhaz_TigerDrakes_Title"
+msgid "Roaming Beasts"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR17_IceGolem_Title"
+msgid "Ice Golem"
+msgstr ""
+
+msgctxt "Encounter/&DecisionPackage_PackMedium_Title"
+msgid "Medium Pack"
+msgstr ""
+
+msgctxt "Encounter/&DecisionPackage_PackMedium_Description"
+msgid "Monsters will tend to stack in large groups if they can."
+msgstr ""
+
+msgctxt "Encounter/&DecisionPackage_PackSmall_Title"
+msgid "Small Pack"
+msgstr ""
+
+msgctxt "Encounter/&DecisionPackage_PackSmall_Description"
+msgid "Monsters will tend to stack in small groups of 2-3 if they can."
+msgstr ""
+
+msgctxt "Encounter/&DecisionPackage_PenalizeAltitude_Title"
+msgid "Penalize Altitude"
+msgstr ""
+
+msgctxt "Encounter/&DecisionPackage_PenalizeAltitude_Description"
+msgid ""
+"Monsters will always try to spawn at ground level. Critical for monsters "
+"such as wolves or trolls, who cannot climb, fly, or teleport, otherwise "
+"they'll be stuck."
+msgstr ""
+
+msgctxt "Encounter/&DecisionPackage_Skirmisher_Title"
+msgid "Skirmisher"
+msgstr ""
+
+msgctxt "Encounter/&DecisionPackage_Skirmisher_Description"
+msgid ""
+"Monsters will try to spawn on higher ground, away from the players and with "
+"cover, if possible. Perfect for archers and offensive spellcasters."
+msgstr ""
+
+msgctxt "Encounter/&DecisionPackage_Spread_Title"
+msgid "Spread"
+msgstr ""
+
+msgctxt "Encounter/&DecisionPackage_Spread_Description"
+msgid ""
+"Monsters will try to spawn afar from allies, perfect for large monsters or "
+"boss-like creatures."
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR9_TigerDrakes_Wolves_Description"
+msgid "A bunch of predators on the hunt."
+msgstr ""
+
+msgctxt "Encounter/&DLC3_PolarPredators_Description"
+msgid ""
+"A group of monsters of the Snow Alliance, predators of the icy plains, "
+"adapted to blizzards."
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR13_Remorhaz_Title"
+msgid "Remorhaz"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR13_Remorhaz_Description"
+msgid "A typical monster of the icy lands of the Snow Alliance."
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR11_Bandits_Archmages_Description"
+msgid "A group of bandits with a spellcaster in their ranks!"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR11_FeralDragons_Description"
+msgid ""
+"Bestial dragons, beasts that lost their intelligence after the Cataclysm, or "
+"nested after, without parents."
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR11_GallivanTroops_Description"
+msgid "A band of mercenaries looking for their next victims."
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR12_Druids_Beasts_Description"
+msgid "A mountain druid and his pets looking for something to eat."
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR12_Goblins_Minotaurs_Description"
+msgid "An improbable alliance of goblins and minotaurs."
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR12_Mages_Elementals_Description"
+msgid "Wandering mages and their summoned elementals."
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR12_Spiders_Description"
+msgid "Some said there was only one of these… they were wrong."
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR15_Dragons_Elementals_Description"
+msgid "A white dragon and his elemental friends."
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR15_Dragons_MageDescription"
+msgid "Mages and dragons, smells of sulfur…"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR13_YRemorhazes_Title"
+msgid "Young Remorhazes"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR13_YRemorhazes_Description"
+msgid ""
+"Only in the Snow Alliance can you come across a host of baby remorhazes "
+"without their mom."
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR16_Dragons_Knights_Title"
+msgid "Dragon Knight"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR16_Dragons_Knights_Description"
+msgid "A knight and his dragon pets… Wonder if he can ride them?"
+msgstr ""
+
+msgctxt "Encounter/&DLC3_CR17_IceGolem_Description"
+msgid "A dreadful Ice Golem and his freezing allies."
+msgstr ""

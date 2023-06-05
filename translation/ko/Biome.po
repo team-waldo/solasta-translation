@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-05 18:53+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "Biome/&AridBadlandsTitle"
+msgid "Arid Badlands"
+msgstr ""
+
+msgctxt "Biome/&GreenBadlandsTitle"
+msgid "Green Badlands"
+msgstr ""
+
+msgctxt "Biome/&MarchesTitle"
+msgid "Marches"
+msgstr ""
+
+msgctxt "Biome/&PrincipalityForestTitle"
+msgid "Principality Forest"
+msgstr ""
+
+msgctxt "Biome/&PrincipalityGrasslandTitle"
+msgid "Principality Grasslands"
+msgstr ""
+
+msgctxt "Biome/&VolcanicBadlandsTitle"
+msgid "Volcanic Badlands"
+msgstr ""
+
+msgctxt "Biome/&DLC1_Valley_CityTitle"
+msgid "City Valley"
+msgstr ""
+
+msgctxt "Biome/&DLC1_Valley_MarchesTitle"
+msgid "Valley Marches"
+msgstr ""
+
+msgctxt "Biome/&DLC1_Valley_SwampTitle"
+msgid "Valley Swamp"
+msgstr ""
+
+msgctxt "Biome/&DLC1_Valley_ValleyTitle"
+msgid "Valley Core"
+msgstr ""
+
+msgctxt "Biome/&DLC3_FrontierTitle"
+msgid "Arctic Plains"
+msgstr ""
+
+msgctxt "Biome/&DLC3_SnowAllianceTitle"
+msgid "Snowy Mountains"
+msgstr ""
+
+msgctxt "Biome/&DLC3_SnowAllianceForestTitle"
+msgid "Northern Forest"
+msgstr ""
+
+msgctxt "Biome/&Biome_DLC3_Badlands_Title"
+msgid "Northern Badlands"
+msgstr ""
+
+msgctxt "Biome/&Biome_DLC3_Badlands_Description"
+msgid "A perilous place where powerful monsters roam the desolate Badlands."
+msgstr ""
+
+msgctxt "Biome/&Biome_DLC3_Gallivan_Title"
+msgid "Gallivan Border"
+msgstr ""
+
+msgctxt "Biome/&Biome_DLC3_Gallivan_Description"
+msgid ""
+"An area between the frozen lands of the Snow Alliance and the Kingdom of "
+"Gallivan."
+msgstr ""
+
+msgctxt "Biome/&Biome_DLC3_Principality_Title"
+msgid "Principality - North"
+msgstr ""
+
+msgctxt "Biome/&Biome_DLC3_Principality_Description"
+msgid ""
+"An area between the Principality of Masgarth and the southern regions of the "
+"Snow Alliance."
+msgstr ""
+
+msgctxt "Biome/&Biome_DLC1_Full_Title"
+msgid "Lost Valley - Full"
+msgstr ""
+
+msgctxt "Biome/&Biome_DLC1_Full_Description"
+msgid ""
+"A region of dangerous roads that pass through the jungles of the Lost "
+"Valley, full of mutant monsters."
+msgstr ""
+
+msgctxt "Biome/&Biome_DLC1_NoMutants_Title"
+msgid "Lost Valley - No Mutants"
+msgstr ""
+
+msgctxt "Biome/&Biome_DLC1_NoMutants_Description"
+msgid ""
+"An area of safe roads surrounding Caer Hyfryd, capital city of the Lost "
+"Valley."
+msgstr ""
+
+msgctxt "Biome/&Biome_AridBadlands_Title"
+msgid "Arid Badlands"
+msgstr ""
+
+msgctxt "Biome/&Biome_AridBadlands_Description"
+msgid "A barren waste typical of the Badlands."
+msgstr ""
+
+msgctxt "Biome/&Biome_GreenBadlands_Title"
+msgid "Green Badlands"
+msgstr ""
+
+msgctxt "Biome/&Biome_GreenBadlands_Description"
+msgid "An area of forest and marsh typical of the Badlands."
+msgstr ""
+
+msgctxt "Biome/&Biome_MarchesBadlands_Title"
+msgid "Marches"
+msgstr ""
+
+msgctxt "Biome/&Biome_MarchesBadlands_Description"
+msgid ""
+"The abandoned and wild roads that link the Eastern Kingdoms and the Badlands."
+msgstr ""
+
+msgctxt "Biome/&Biome_PrincipalityForest_Title"
+msgid "Principality Forest"
+msgstr ""
+
+msgctxt "Biome/&Biome_PrincipalityForest_Description"
+msgid "A green and supposedly safe area along the roads of the Principality."
+msgstr ""
+
+msgctxt "Biome/&Biome_VolcanicBadlands_Title"
+msgid "Volcanic Badlands"
+msgstr ""
+
+msgctxt "Biome/&Biome_VolcanicBadlands_Description"
+msgid "A grim area of the Badlands, full of volcanos and lava rivers."
+msgstr ""
+
+msgctxt "Biome/&Biome_NoAttack_Title"
+msgid "No Attack"
+msgstr ""
+
+msgctxt "Biome/&Biome_NoAttack_Description"
+msgid "A safe area where travelers are never attacked."
+msgstr ""
+
+msgctxt "Biome/&Biome_DLC3_Frontier_Description"
+msgid "An area far to the north, in the coldest region of the Snow Alliance."
+msgstr ""
+
+msgctxt "Biome/&DLC3_SnowAllianceDescription"
+msgid "A typical region of the Snow Alliance."
+msgstr ""
+
+msgctxt "Biome/&DLC3_SnowAllianceForestDescription"
+msgid "An area of cold dark woods, west of the Snow Alliance."
+msgstr ""
+
+msgctxt "Biome/&PrincipalityGrasslandDescription"
+msgid "An area of wide plains, near the Principality's capital of Caer Cyflen."
+msgstr ""

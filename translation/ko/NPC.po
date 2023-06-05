@@ -2,16 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-01 18:44+0900\n"
-"PO-Revision-Date: 2022-11-18 18:55+0000\n"
-"Last-Translator: E잡불어 <rarkar@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/npc/ko/>\n"
-"Language: ko\n"
+"POT-Creation-Date: 2023-06-05 18:53+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "NPC/&Kaseinax_Magister_Title"
 msgid "The Magister"
@@ -197,6 +195,20 @@ msgctxt "NPC/&NPC_IdrielFairbrowTitle"
 msgid "Idriel Fairbrow"
 msgstr "이드리엘 페어브로우"
 
+#, fuzzy
+#| msgid ""
+#| "Ilastar is a member of the noble house Airgetine, whose forefathers were "
+#| "wizards of the Arcaneum. As with many Imperial families of that time, his "
+#| "family was originally a minor branch of the clan and began to rise to "
+#| "prominence after the Cataclysm, as it backed the first Emperor (\"The "
+#| "Wailing Emperor\") who took the rough decisions ultimately leading to the "
+#| "survival of Civilization and to the rise of the New Empire. More than "
+#| "anybody else of his generation, Ilastar is aware of what was lost and was a "
+#| "major proponent of participating to the Council, in the hope of gathering "
+#| "magical materials and writings expanding his knowledge of magic and thus "
+#| "giving the empire an edge in future conflicts. His main worry is that "
+#| "historical documents come to the fore, revealing some truths better left "
+#| "alone. "
 msgctxt "NPC/&NPC_IlastarKeenmindAirgetineDescription"
 msgid ""
 "Ilastar is a member of the noble house Airgetine, whose forefathers were "
@@ -210,7 +222,7 @@ msgid ""
 "magical materials and writings expanding his knowledge of magic and thus "
 "giving the empire an edge in future conflicts. His main worry is that "
 "historical documents come to the fore, revealing some truths better left "
-"alone. "
+"alone."
 msgstr ""
 "일라스타는 귀족 가문 에어제틴의 일원으로, 아케니움의 위자드들을 조상으로 두고 있습니다. 그 시기의 많은 제국의 가문들이 그렇듯, 그의 "
 "가족들은 원래 부족의 작은 분파 중 하나였으나, 최종적으로 문명을 살아남게 하고 새로운 제국의 부흥을 이끄는 어려운 결정을 해낸 첫번째 "
@@ -243,6 +255,17 @@ msgctxt "NPC/&NPC_Kythaela_Title"
 msgid "Kythaela"
 msgstr "키타엘라"
 
+#, fuzzy
+#| msgid ""
+#| "Leira Kean was born and raised in Heart of Valor, the city built around the "
+#| "Einareum. She discovered Einar fairly early in her life and many thought she "
+#| "would make a fine priestess. Instead she chose the path of the paladin, "
+#| "pledging her life to protect Solasta from all Sorr-Akkath-related dangers. "
+#| "Leira is a dedicated paladin with seriousness etched in her face. She is "
+#| "well-versed in history and fluent in ancient Tirmarian. She is a good "
+#| "fighter but also a keen judge of character. She is just and she listens and "
+#| "decides based on facts, not on hearsay or rumor. Those traits led to her "
+#| "nomination on the Council as Oathkeeper. "
 msgctxt "NPC/&NPC_LeiraKeanDescription"
 msgid ""
 "Leira Kean was born and raised in Heart of Valor, the city built around the "
@@ -253,7 +276,7 @@ msgid ""
 "well-versed in history and fluent in ancient Tirmarian. She is a good "
 "fighter but also a keen judge of character. She is just and she listens and "
 "decides based on facts, not on hearsay or rumor. Those traits led to her "
-"nomination on the Council as Oathkeeper. "
+"nomination on the Council as Oathkeeper."
 msgstr ""
 "레이라 킨은 에이나리움 주변에 건설된 용맹의 심장이라는 도시에서 태어나고 자랐습니다. 그녀는 일찍이 에이나르를 알게 되었고 많은 사람들은 "
 "그녀가 훌륭한 여사제가 될 것이라고 생각했습니다. 그러나 그녀는 소라카스의 위험으로부터 솔라스타를 보호하기 위해 목숨을 걸고 팔라딘의 "
@@ -589,10 +612,6 @@ msgctxt "NPC/&NPC_Magister_Title"
 msgid "Kaseinax"
 msgstr "카세이낙스"
 
-msgctxt "NPC/&NPC_Adrasteia_Title"
-msgid "Adrasteia"
-msgstr "아드라스테이아"
-
 msgctxt "NPC/&NPC_DLC_Mask_Fighter_Title"
 msgid "Mask Fighter"
 msgstr "마스크 전사"
@@ -661,73 +680,15 @@ msgctxt "NPC/&NPC_Hendeolas_Title"
 msgid "Hendeolas Anfarel"
 msgstr "헨데올라스 안파렐"
 
+#, fuzzy
+#| msgid "The leader of the Rebellion is actually... a mummy lord!"
 msgctxt "NPC/&NPC_Hendeolas_Description"
-msgid "The leader of the Rebellion is actually... a mummy lord!"
+msgid "The leader of the Rebellion is actually… a mummy lord!"
 msgstr "반군 우두머리의 정체란 바로… 미이라 군주였습니다!"
 
 msgctxt "NPC/&NPC_Orenetis_RealName"
 msgid "Periphanos the Inquisitive Mind"
 msgstr "탐구심 깊은 페리파노스"
-
-msgctxt "NPC/&NPC_DLC3_Violet_Title"
-msgid "Master Violet Goodcheer"
-msgstr "마스터 바이올렛 굿치어"
-
-msgctxt "NPC/&NPC_DLC3_Violet_Description"
-msgid ""
-"Violet is a reknowned Shock Arcanist of the Circle of Danantar, famous for "
-"her discoveries in the ruins of Telema, in the Badlands."
-msgstr "바이올렛은 다난타르 서클의 저명한 쇼크 아르카니스트로, 황무지에 위치한 텔레마 유적에 대한 발견으로 유명합니다."
-
-msgctxt "NPC/&NPC_DLC3_Vigdis_Title"
-msgid "Vigdis Kaikonnen"
-msgstr "비그디스 카이코넨"
-
-msgctxt "NPC/&NPC_DLC3_Vigdis_Description"
-msgid ""
-"Daughter of the clan head of the Kaikonnen clan in the Snow Alliance, Vigdis "
-"is a renowned Battle Cleric of Einar."
-msgstr "설산 동맹의 일원인 카이코넨 가문의 가주의 딸로서, 비그디스는 에이나르의 전투사제로도 유명합니다."
-
-msgctxt "NPC/&NPC_DLC3_Garrad_Title"
-msgid "Garrad Miles"
-msgstr "가라드 마일즈"
-
-msgctxt "NPC/&NPC_DLC3_Garrad_Description"
-msgid ""
-"A former mercenary, Garrad Miles become a close friend to the Kaikonnen clan "
-"and enlisted as officer in the army of the Snow Alliance, where he formed a "
-"corps of ex-mercenaries looking for a cause greater than just gold."
-msgstr ""
-"전직 용병 가라드 마일즈는 카이코넨 가문과 가까운 친구가 되어 설산 동맹의 장교로 임용되었습니다. 가라드는 돈보다 가치 있는 것들을 "
-"찾아다니는 전직 용병들을 모아, 그곳에서 새로운 부대 하나를 창설했습니다."
-
-msgctxt "NPC/&NPC_DLC3_Rhuad_Title"
-msgid "Quartermaster Swifthand"
-msgstr "보급관 스위프트핸드"
-
-msgctxt "NPC/&NPC_DLC3_Rhuad_Description"
-msgid ""
-"A former adventurer and rapacious looter, Rhuad Swifthand found love during "
-"his raid on the ruins of Telema, and stayed with the Scavengers to become "
-"head of the local outpost."
-msgstr ""
-"전직 모험가이자 탐욕스러운 약탈자, 루아드 스위프트핸드는 텔레마 유적을 뒤지던 중 이곳에 애착을 느껴, 스캐빈저들과 이곳 기지의 "
-"우두머리가 되고자 머무르게 됐습니다."
-
-msgctxt "NPC/&NPC_DLC3_Lena_Title"
-msgid "Lena Swifthand"
-msgstr "레나 스위프트핸드"
-
-msgctxt "NPC/&NPC_DLC3_Lena_Description"
-msgid ""
-"Lena is a seasoned Scavenger who survived a bloody battle against orcs "
-"during her first mission, and fought Soraks during the battle of Telema. She "
-"later married Rhuad Swifthand and stayed at Telema to create a Scavenger "
-"outpost."
-msgstr ""
-"레나는 그녀의 첫 임무에서 오크들과의 혈전을 벌였음에도 살아남은 노련한 스캐빈저로, 텔레마 전투에서 소락들과 싸웠습니다. 레나는 그 후 "
-"루아드 스위프트핸드과 결혼해 스캐빈저 거점을 만들기 위해 텔레마에 남았습니다."
 
 msgctxt "NPC/&Guard_Captain_Title"
 msgid "Guard Captain"
@@ -901,8 +862,10 @@ msgctxt "NPC/&NPC_DLC_City_Guard_Description"
 msgid "A high elf guard bearing the arms of Orenetis."
 msgstr "오레네티스의 무기를 든 하이 엘프 경비병."
 
+#, fuzzy
+#| msgid "Elerien Anfarel"
 msgctxt "NPC/&NPC_DLC1_Anfarel_Noble"
-msgid "Elerien Anfarel"
+msgid "Eladien Anfarel"
 msgstr "엘레리엔 안파렐"
 
 msgctxt "NPC/&NPC_DLC1_ThePeople_Tortured"
@@ -1122,3 +1085,1235 @@ msgstr "포지 드루이드"
 msgctxt "NPC/&NPC_Forge_Guard_HumanDruid_Description"
 msgid "A typical member of the Forge, linking the faction with nature."
 msgstr "포지의 흔한 일원으로, 포지를 자연과 이어줍니다."
+
+msgctxt "NPC/&NPC_Adrasteia_Title"
+msgid "Adrasteia"
+msgstr "아드라스테이아"
+
+msgctxt "NPC/&NPC_DLC3_Violet_Title"
+msgid "Master Violet Goodcheer"
+msgstr "마스터 바이올렛 굿치어"
+
+#, fuzzy
+#| msgid ""
+#| "Violet is a reknowned Shock Arcanist of the Circle of Danantar, famous for "
+#| "her discoveries in the ruins of Telema, in the Badlands."
+msgctxt "NPC/&NPC_DLC3_Violet_Description"
+msgid ""
+"Violet is a renowned Shock Arcanist of the Circle of Danantar, famous for "
+"her discoveries at the ruins of Telema in the Badlands."
+msgstr "바이올렛은 다난타르 서클의 저명한 쇼크 아르카니스트로, 황무지에 위치한 텔레마 유적에 대한 발견으로 유명합니다."
+
+msgctxt "NPC/&NPC_DLC3_Vigdis_Title"
+msgid "Vigdis Kaikonnen"
+msgstr "비그디스 카이코넨"
+
+#, fuzzy
+#| msgid ""
+#| "Daughter of the clan head of the Kaikonnen clan in the Snow Alliance, Vigdis "
+#| "is a renowned Battle Cleric of Einar."
+msgctxt "NPC/&NPC_DLC3_Vigdis_Description"
+msgid ""
+"Daughter of the chief of the Kaikonnen clan in the Snow Alliance, Vigdis is "
+"a renowned Battle Cleric of Einar."
+msgstr "설산 동맹의 일원인 카이코넨 가문의 가주의 딸로서, 비그디스는 에이나르의 전투사제로도 유명합니다."
+
+msgctxt "NPC/&NPC_DLC3_Garrad_Title"
+msgid "Garrad Miles"
+msgstr "가라드 마일즈"
+
+#, fuzzy
+#| msgid ""
+#| "A former mercenary, Garrad Miles become a close friend to the Kaikonnen clan "
+#| "and enlisted as officer in the army of the Snow Alliance, where he formed a "
+#| "corps of ex-mercenaries looking for a cause greater than just gold."
+msgctxt "NPC/&NPC_DLC3_Garrad_Description"
+msgid ""
+"A former mercenary, Garrad Miles became a close friend to the Kaikonnen clan "
+"and enlisted as an officer in the army of the Snow Alliance, where he formed "
+"a corps of ex-mercenaries looking for a cause greater than gold."
+msgstr ""
+"전직 용병 가라드 마일즈는 카이코넨 가문과 가까운 친구가 되어 설산 동맹의 장교로 임용되었습니다. 가라드는 돈보다 가치 있는 것들을 "
+"찾아다니는 전직 용병들을 모아, 그곳에서 새로운 부대 하나를 창설했습니다."
+
+msgctxt "NPC/&NPC_DLC3_Rhuad_Title"
+msgid "Quartermaster Swifthand"
+msgstr "보급관 스위프트핸드"
+
+#, fuzzy
+#| msgid ""
+#| "A former adventurer and rapacious looter, Rhuad Swifthand found love during "
+#| "his raid on the ruins of Telema, and stayed with the Scavengers to become "
+#| "head of the local outpost."
+msgctxt "NPC/&NPC_DLC3_Rhuad_Description"
+msgid ""
+"A former adventurer and a rapacious looter, Rhuad Swifthand found love "
+"during his raid on the ruins of Telema, and stayed with the Scavengers to "
+"become head of the local outpost."
+msgstr ""
+"전직 모험가이자 탐욕스러운 약탈자, 루아드 스위프트핸드는 텔레마 유적을 뒤지던 중 이곳에 애착을 느껴, 스캐빈저들과 이곳 기지의 "
+"우두머리가 되고자 머무르게 됐습니다."
+
+msgctxt "NPC/&NPC_DLC3_Lena_Title"
+msgid "Lena Swifthand"
+msgstr "레나 스위프트핸드"
+
+#, fuzzy
+#| msgid ""
+#| "Lena is a seasoned Scavenger who survived a bloody battle against orcs "
+#| "during her first mission, and fought Soraks during the battle of Telema. She "
+#| "later married Rhuad Swifthand and stayed at Telema to create a Scavenger "
+#| "outpost."
+msgctxt "NPC/&NPC_DLC3_Lena_Description"
+msgid ""
+"Lena is a seasoned Scavenger who survived a bloody battle against orcs "
+"during her first mission, and fought Soraks at Telema. She married Rhuad "
+"Swifthand and stayed at Telema to create a Scavenger outpost."
+msgstr ""
+"레나는 그녀의 첫 임무에서 오크들과의 혈전을 벌였음에도 살아남은 노련한 스캐빈저로, 텔레마 전투에서 소락들과 싸웠습니다. 레나는 그 후 "
+"루아드 스위프트핸드과 결혼해 스캐빈저 거점을 만들기 위해 텔레마에 남았습니다."
+
+msgctxt "NPC/&NPC_DLC3_Grimhild_DarkHeadTitle"
+msgid "Grimhild Darkhead"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_Brodir_StealHeartTitle"
+msgid "Brodir Steelheart"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_Valdi_BoldHandTitle"
+msgid "Valdi Boldhand"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Einareum_Merchant_General_Title"
+msgid "Arda Bladefang"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Einareum_Merchant_General_Description"
+msgid "General Store Merchant"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Einareum_Merchant_Ingredients_Title"
+msgid "Dalon Fall"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Einareum_Merchant_Ingredients_Description"
+msgid "Ingredients Store Merchant"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Einareum_Merchant_Weapons_Title"
+msgid "Rhodanthe Asigon"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Einareum_Merchant_Weapons_Description"
+msgid "Weapon Store Merchant"
+msgstr ""
+
+msgctxt "NPC/&DLC3_Sessroth_Title"
+msgid "Sessroth the Archreaver"
+msgstr ""
+
+msgctxt "NPC/&DLC3_Sessroth_Description"
+msgid "A very powerful and evil demon."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_GallivanRoyals_King_Title"
+msgid "Jornalas IV Greenmount"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_GallivanRoyals_King_Description"
+msgid "The King of Gallivan himself."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_GallivanRoyals_Queen_Title"
+msgid "Lucilla Greenmount"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_GallivanRoyals_Queen_Description"
+msgid "The Queen of Gallivan."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_GallivanRoyals_Heir_Male_Title"
+msgid "Edwor Greenmount"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_GallivanRoyals_Heir_Male_Description"
+msgid "The heir to the Kingdom of Gallivan."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_GallivanRoyals_Cousin_Female_Title"
+msgid "Solun Towers"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_GallivanRoyals_Cousin_Female_Description"
+msgid "The King of Gallivan's cousin and sister-in-law."
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_GeneralBlunt_Title"
+msgid "General Blunt"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_GeneralBlunt_Description"
+msgid ""
+"Esma Blunt is the chief of the Eastern Clans, and a fierce warrior and "
+"general, also known as \"the Salamander.\""
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_Caporal_Title"
+msgid "Captain Ashdown"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_Caporal_Description"
+msgid ""
+"Rassel Ashdown is an aristocrat from an old family in the Snow Alliance. He "
+"is a proven combatant and an ambitious man."
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_Ragnhild_Title"
+msgid "Ragnhild Bittercloud"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_Ragnhild_Description"
+msgid "Cousin of Vigdis."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_UndermountainGuard_Title"
+msgid "Turvaamalinn Guard"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_UndermountainGuardF_Title"
+msgid "Turvaamalinn Guard"
+msgstr ""
+
+msgctxt "NPC/&DLC3_Misouk_Title"
+msgid "Misouk"
+msgstr ""
+
+msgctxt "NPC/&DLC3_Misouk_Description"
+msgid "Vigdis' trusted advisor and bodyguard."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_SouthernClans_Brother_Kaikonnen_Title"
+msgid "Harld Kaikonnen"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_SouthernClans_Brother_Kaikonnen_Description"
+msgid "Vigdis' younger brother."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_SouthernClans_Butler_Title"
+msgid "Thadeos Cobblestone"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_SouthernClans_Butler_Description"
+msgid "Butler of House Kaikonnen."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_SouthernClans_Caretaker_Title"
+msgid "Maja Stronghide"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_SouthernClans_Caretaker_Description"
+msgid "Caretaker of House Kaikonnen."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_SouthernClans_Guard_City_Title"
+msgid "City Guard"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_SouthernClans_Guard_City_Description"
+msgid "Ettilen Vartmerkint soldier."
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_SouthernClans_GuardCaptain_Title"
+msgid "Lokan Flatrock"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_SouthernClans_GuardCaptain_Description"
+msgid "Ettilen Vartmerkint guard captain."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_SouthernClans_Incubus_Butler_Title"
+msgid "Incubus"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_SouthernClans_Incubus_Butler_Description"
+msgid "A demon impersonating Vigdis' butler."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_SouthernClans_Innkeeper_Title"
+msgid "Ruby Strongfoot"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_SouthernClans_Innkeeper_Description"
+msgid "Kaupaapunki's innkeeper."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_SouthernClans_Merchant_Clan_Title"
+msgid "Bertold Svensson"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_SouthernClans_Merchant_Clan_Description"
+msgid "Kaikonnen clan trader."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_SouthernClans_Merchant_General_Title"
+msgid "Erwina Longstaff"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_SouthernClans_Merchant_General_Description"
+msgid "Kaupaapunki general goods merchant."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_SouthernClans_Merchant_Ingredients_Title"
+msgid "Leila Reed"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_SouthernClans_Merchant_Ingredients_Description"
+msgid "Kaupaapunki ingredients merchant."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_SouthernClans_Merchant_Scavenger_Title"
+msgid "Morganna Raven"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_SouthernClans_Merchant_Scavenger_Description"
+msgid "Scavengers' representative in Kaupaapunki."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_SouthernClans_Merchant_Weapons_Title"
+msgid "Angus Hightower"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_SouthernClans_Merchant_Weapons_Description"
+msgid "Kaupaapunki weapons merchant."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_SouthernClans_Uncle_Kaikonnen_Title"
+msgid "Lord Sander Kaikonnen"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_SouthernClans_Uncle_Kaikonnen_Description"
+msgid "Vigdis' uncle."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_EstorgathSharpmind_Title"
+msgid "Estorgath Sharpmind"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_EstorgathSharpmind_Description"
+msgid "The Elder of the settlement, clan chief of the Lantinen Vartmerkint."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Dyssalim_Title"
+msgid "Dyssalim Highbrow"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Dyssalim_Description"
+msgid "One of the Elder's advisors."
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_Greybear_Title"
+msgid "Greybear"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_Greybear_Description"
+msgid "The leader of a group of young and rebellious sylvan elves."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Kallista_Title"
+msgid "Kallista Prasigon"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Kallista_Description"
+msgid ""
+"A dragonborn who has a very close relationship with the feral dragons of the "
+"north."
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_PrincipalitySoldier_Title"
+msgid "Principality Soldier"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_PrincipalitySoldier_Description"
+msgid ""
+"A typical soldier of the principality of Masgarth, stationed in a fort or "
+"castle."
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_Berghild_StrongSpine"
+msgid "Berghild Strongspine"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_Kara_WiseHead"
+msgid "Kara Wisehead"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_GallivanArcher_Title"
+msgid "Gallivan Archer"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_GallivanArcher_Description"
+msgid ""
+"A typical archer from the armies of the Kingdom of Gallivan, heavily "
+"armored, wielding a longbow."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_GallivanArcherF_Title"
+msgid "Gallivan Archer"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_GallivanArcherF_Description"
+msgid ""
+"A typical archer from the armies of the Kingdom of Gallivan, heavily "
+"armored, wielding a longbow."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_GallivanCleric_Title"
+msgid "Gallivan Cleric"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_GallivanCleric_Description"
+msgid ""
+"A battle cleric leading shock troops of the Kingdom of Gallivan. This one "
+"worships Misaye, which is contrary to tradition."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_GallivanHoplite_Title"
+msgid "Gallivan Hoplite"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_GallivanHoplite_Description"
+msgid ""
+"A typical foot soldier of the Kingdom of Gallivan, heavily armored, bearing "
+"a shield and spear."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_GallivanHopliteF_Title"
+msgid "Gallivan Hoplite"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_GallivanHopliteF_Description"
+msgid ""
+"A typical foot soldier of the Kingdom of Gallivan, heavily armored, bearing "
+"a shield and spear."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_HumanClanSoldier_M_Title"
+msgid "Human Soldier"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_HumanClanSoldier_M_Description"
+msgid "A typical soldier of the Itainen Vartmerkint."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_HumanClanSoldier_F_Title"
+msgid "Human Soldier"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_HumanClanSoldier_F_Description"
+msgid "A typical soldier of the Itainen Vartmerkint."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_HumanClanArcher_M_Title"
+msgid "Human Archer of the Clans"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_HumanClanArcher_M_Description"
+msgid "A typical archer of the Itainen Vartmerkint."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_HumanClanArcher_F_Title"
+msgid "Human Archer of the Clans"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_HumanClanArcher_F_Description"
+msgid "A typical archer of the Itainen Vartmerkint."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_GallivanSmasher_Title"
+msgid "Gallivan Smasher"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_GallivanSmasher_Description"
+msgid ""
+"A member of an elite troop of the Kingdom of Gallivan, composed solely of "
+"women."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_GallivanMage_Title"
+msgid "Gallivan Archmage"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_GallivanMage_Description"
+msgid "A shock arcanist serving as support for Gallivan's troops."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_GallivanDruid_Title"
+msgid "Gallivan Druid"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_GallivanDruid_Description"
+msgid ""
+"A druid from the deep forests of Gallivan, serving the army of the Kingdom."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_GallivanShadowcaster_Title"
+msgid "Gallivan Shadowcaster"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_GallivanShadowcaster_Description"
+msgid ""
+"A specialist of Gallivan's army, able to infiltrate and cast spells as a "
+"support operative."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Cultist_Archer_Title"
+msgid "Cultist Archer"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Cultist_Archer_Description"
+msgid "This archer is a worshipper of Arivad."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Cultist_Brute_Title"
+msgid "Cultist Brute"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Cultist_Brute_Description"
+msgid "This melee specialist is a worshipper of Arivad trained as a fighter."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_SouthernClans_Miner_Title"
+msgid "Miner"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_SouthernClans_Miner_Description"
+msgid "A miner from Kaupaapunki."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Merchant_Warcamp_Title"
+msgid "Cuberdon Miller"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Merchant_Warcamp_Description"
+msgid ""
+"A merchant from the Snow Alliance providing goods to the combatants on the "
+"front."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_WhiteCity_Innkeeper_Title"
+msgid "Kergal Hammerfell"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_WhiteCity_Innkeeper_Description"
+msgid "Valkarokkopun's innkeeper."
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_GallivanGeneral_Title"
+msgid "Gallivan General"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_GallivanGeneral_Description"
+msgid ""
+"An officer of the Gallivan army, probably a Sorak pawn, infiltrator, or "
+"polymorphed Sorak."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_NorthernClans_Leader_Title"
+msgid "Marduk Strongheart"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_NorthernClans_Leader_Description"
+msgid "A great and renowned warrior, chief of the Pohjolen Vartmerkint."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_NorthernClans_Representative_Title"
+msgid "Hergrunn Wisetongue"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_NorthernClans_Representative_Description"
+msgid "The representative of the Pohjolen Vartmerkint in White Rock City."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_WhiteCity_Citizen_Title"
+msgid "Citizen"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_WhiteCity_Citizen_Description"
+msgid "Valkarokkopun Citizen"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_WhiteCity_Gorn_Title"
+msgid "Gorm the Wise"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_WhiteCity_Gorn_Description"
+msgid "A famous elder of the Snow Alliance, renowned for his knowledge."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_WhiteCity_Guard_City_Title"
+msgid "Valkarokkopun Guard"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_WhiteCity_Guard_City_Description"
+msgid "A typical dwarf soldier protecting the capital of the Snow Alliance."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_WhiteCity_Trapper_Family_01_Title"
+msgid "Helga Strongbow"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_WhiteCity_Trapper_Family_01_Description"
+msgid "A trapper of the northern clans, wife to Snorri Strongbow."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_WhiteCity_Trapper_Family_02_Title"
+msgid "Ketil Strongbow"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_WhiteCity_Trapper_Family_02_Description"
+msgid "Snorri and Helga's son."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_WhiteCity_Trapper_Family_03_Title"
+msgid "Snorri Strongbow"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_WhiteCity_Trapper_Family_03_Description"
+msgid "A well-known trapper, friend of Marduk Strongheart."
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_Gilmar_Title"
+msgid "Gilmar Goldentongue"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_Gilmar_Description"
+msgid "A renowned merchant from a renowned family."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_NorthernClans_Leader_Son_Title"
+msgid "Rolf Strongheart"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_NorthernClans_Leader_Son_Description"
+msgid "Marduk's son, a young and impetuous fighter."
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_ElfAdvisor2_Title"
+msgid "Ael Brightheart"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_ElfAdvisor2_Description"
+msgid "One of Estorgath Sharpmind's most trusted advisors."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_NorthernClans_Guard_City_Title"
+msgid "City Guard"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_NorthernClans_Guard_City_Description"
+msgid "Valkarokkopun Guard"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_Stig_Title"
+msgid "Stig Strongstone"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_Stig_Description"
+msgid "The representative of the Keskainen Vartmerkint in Valkarokkopun."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_NorthernClans_Merchant_General_Title"
+msgid "Togrem Caskstrong"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_NorthernClans_Merchant_General_Description"
+msgid "Valkarokkopun General Goods Merchant"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_NorthernClans_Merchant_Ingredients_Title"
+msgid "Katniss Strongmail"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_NorthernClans_Merchant_Ingredients_Description"
+msgid "Valkarokkopun Northern Clans Merchant"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_NorthernClans_Merchant_Scavenger_Title"
+msgid "Rogar Dostar"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_NorthernClans_Merchant_Scavenger_Description"
+msgid "Scavengers' Representative in Valkarokkopun"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_NorthernClans_Merchant_Weapons_Title"
+msgid "Engrem Toldus"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_NorthernClans_Merchant_Weapons_Description"
+msgid "Valkarokkopun Weapon Merchant"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Kaupaa_Merchant_Clan_Title"
+msgid "Clan House Store Merchant"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Kaupaa_Merchant_Scavenger_Title"
+msgid "Scavenger Store Merchant"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_NorthernClans_Refugee_Title"
+msgid "Refugee"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_NorthernClans_Refugee_Description"
+msgid "A refugee from the northern lands."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Leralyn_Title"
+msgid "Ghost of an Elven Woman"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Leralyn_Description"
+msgid "A spectral shape, the ghost of an elven woman."
+msgstr ""
+
+msgctxt "NPC/&NPC_DL3_GarradSoldier_01"
+msgid "Tea Horvan"
+msgstr ""
+
+msgctxt "NPC/&NPC_DL3_GarradSoldier_02"
+msgid "Wilyn Yates"
+msgstr ""
+
+msgctxt "NPC/&NPC_DL3_GarradSoldier_03"
+msgid "Jakelyn Colban"
+msgstr ""
+
+msgctxt "NPC/&NPC_DL3_GarradSoldier_04"
+msgid "Lorna Mighten"
+msgstr ""
+
+msgctxt "NPC/&NPC_DL3_GarradSoldier_05"
+msgid "Weyne Tayler"
+msgstr ""
+
+msgctxt "NPC/&NPC_DL3_GarradSoldier_06"
+msgid "Harryn Surridge"
+msgstr ""
+
+msgctxt "NPC/&NPC_DL3_GarradSoldier_07"
+msgid "Brennen Lingard"
+msgstr ""
+
+msgctxt "NPC/&NPC_DL3_GarradSoldier_08"
+msgid "Etheyn Cook"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_HumanClans_Representative_Title"
+msgid "Lord Kennard Rivers"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_HumanClans_Representative_Description"
+msgid "The representative of Itainen Vartmerkint in White Rock City."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Elven_GuardCaptain_Title"
+msgid "Elora Brightheart"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Elven_GuardCaptain_Description"
+msgid "Estorgath Sharpmind's guard captain."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Garrad_Stableboy_Title"
+msgid "Stableboy"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Garrad_Stableboy_Description"
+msgid "A young half-orc, apparently working at the castle's stables."
+msgstr ""
+
+msgctxt "NPC/&DLC3_Undermountain_PerlevinnGuard_Title"
+msgid "Perlevinn Guard"
+msgstr ""
+
+msgctxt "NPC/&DLC3_Undermountain_PerlevinnGuard_Description"
+msgid "A guard of House Perlevinn."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_WhiteCity_Civilian_01_Title"
+msgid "Thalia Strongarm"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_WhiteCity_Civilian_01_Description"
+msgid "A civilian living in White Rock City."
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_UndermountainSoldier_02"
+msgid "Eivar Grimcrest"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_UndermountainSoldier_03"
+msgid "Dana Vasco"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_UndermountainSoldier_04"
+msgid "Dren Ice-Eye"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_UndermountainSoldier_05"
+msgid "Alvig Chillhand"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_UndermountainSoldier_06"
+msgid "Priniwyn Wildshadow"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_UndermountainInformant"
+msgid "Bera Proudnose"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_WhiteCity_Engineer_Title"
+msgid "Engineer"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_WhiteCity_Engineer_Description"
+msgid ""
+"One of the numerous dwarves responsible for keeping Valkarokkopun running."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_WhiteCity_YoungDwarf_Title"
+msgid "Isrid Farsky"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_WhiteCity_YoungDwarf_Description"
+msgid "A young citizen of Valkarokkopun, hungry for adventure."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_WhiteCity_YoungDwarfMom_Title"
+msgid "Amber Farsky"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_WhiteCity_YoungDwarfMom_Description"
+msgid "Isrid's mother, proud but scared by her daughter's adventurous mindset."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Raider_Warrior_Title"
+msgid "Raider Warrior"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Raider_Warrior_Description"
+msgid "A strong melee warrior."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Raider_Arcanist_Title"
+msgid "Raider Arcanist"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Raider_Arcanist_Description"
+msgid "A damage-dealing spellcaster."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Raider_Archer_Title"
+msgid "Raider Archer"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Raider_Archer_Description"
+msgid "A plunderer who uses ranged weapons."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Raider_Shaman_Title"
+msgid "Raider Shaman"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Raider_Shaman_Description"
+msgid "An enemy support healer."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Raider_Sorcerer_Title"
+msgid "Raider Sorcerer"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Raider_Sorcerer_Description"
+msgid "An enemy damage-dealing caster."
+msgstr ""
+
+msgctxt "NPC/&DLC3_WhiteCity_Suspect_01"
+msgid "Agneta Surearm"
+msgstr ""
+
+msgctxt "NPC/&DLC3_WhiteCity_Suspect_02"
+msgid "Hugor Strongflint"
+msgstr ""
+
+msgctxt "NPC/&DLC3_WhiteCity_Suspect_03"
+msgid "Maylie Bluedream"
+msgstr ""
+
+msgctxt "NPC/&DLC3_WhiteCity_Suspect_04"
+msgid "Arwynn Thanatiel"
+msgstr ""
+
+msgctxt "NPC/&DLC3_WhiteCity_Suspect_05"
+msgid "Alcor Stormwise"
+msgstr ""
+
+msgctxt "NPC/&DLC3_WhiteCity_Suspect_06"
+msgid "Gorwong Strongstone"
+msgstr ""
+
+msgctxt "NPC/&DLC3_WhiteCity_Suspect_08"
+msgid "Rubert Flintstone"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_NorthernClans_Guard_Captain_Title"
+msgid "Cylia Ironmist"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_NorthernClans_Guard_Captain_Description"
+msgid "The Captain of White Rock City Guard Watch."
+msgstr ""
+
+msgctxt "NPC/&DLC3_WhiteCity_ElevatorEngineer_Title"
+msgid "Edwyn Ironmist"
+msgstr ""
+
+msgctxt "NPC/&DLC3_WhiteCity_ElevatorEngineer_Description"
+msgid "Lead engineer in White Rock City."
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_CultistMarsman_Title_F"
+msgid "Cultist Spellblade"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_CultistMarsman_Title_M"
+msgid "Cultist Spellblade"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_CultistMarsman_Description_F"
+msgid ""
+"A vicious spellblade who worships Arivad, and specializes in skirmishing "
+"with a crossbow firing flaming bolts."
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_CultistMarsman_Description_M"
+msgid ""
+"A vicious spellblade who worships Arivad, and specializes in skirmishing "
+"with a crossbow firing flaming bolts."
+msgstr ""
+
+msgctxt "NPC/&DLC3_Undermountain_PerlevinnGuard_Duelist_Title"
+msgid "Perlevinn Duelist"
+msgstr ""
+
+msgctxt "NPC/&DLC3_Undermountain_PerlevinnGuard_Duelist_Description"
+msgid "A duelist of House Perlevinn."
+msgstr ""
+
+msgctxt "NPC/&DLC3_Undermountain_PerlevinnGuard_Sharpshooter_Title"
+msgid "Perlevinn Sharpshooter"
+msgstr ""
+
+msgctxt "NPC/&DLC3_Undermountain_PerlevinnGuard_Sharpshooter_Description"
+msgid "An archer of House Perlevinn."
+msgstr ""
+
+msgctxt "NPC/&DLC3_Undermountain_PerlevinnGuard_Spellmaster_Title"
+msgid "Perlevinn Spellmaster"
+msgstr ""
+
+msgctxt "NPC/&DLC3_Undermountain_PerlevinnGuard_Spellmaster_Description"
+msgid "A sorcerer of House Perlevinn."
+msgstr ""
+
+msgctxt "NPC/&DLC3_Elven_Advisor_1_Title"
+msgid "Dyssalim Highbrow"
+msgstr ""
+
+msgctxt "NPC/&DLC3_Elven_Advisor_1_Description"
+msgid "One of Elder Sharpmind's most trusted advisors."
+msgstr ""
+
+msgctxt "NPC/&DLC3_Elven_Representative_Title"
+msgid "Kelariel Brightsong"
+msgstr ""
+
+msgctxt "NPC/&DLC3_Elven_Representative_Description"
+msgid "The representative of the Lantinen Vartmerkint in White Rock City."
+msgstr ""
+
+msgctxt "NPC/&DLC3_Elven_InnOwner_Title"
+msgid "Beladiel Featherbrow"
+msgstr ""
+
+msgctxt "NPC/&DLC3_Elven_InnOwner_Description"
+msgid "The settlement's innkeeper."
+msgstr ""
+
+msgctxt "NPC/&DLC3_Elven_ShopOwner_Title"
+msgid "Galfin Leafcutter"
+msgstr ""
+
+msgctxt "NPC/&DLC3_Elven_ShopOwner_Description"
+msgid "The settlement's shop owner."
+msgstr ""
+
+msgctxt "NPC/&DLC3_Elven_Civilian_2_Title"
+msgid "Elf Settler"
+msgstr ""
+
+msgctxt "NPC/&DLC3_Elven_Civilian_2_Description"
+msgid "An inhabitant of the settlement."
+msgstr ""
+
+msgctxt "NPC/&DLC3_Elven_Civilian_3_Title"
+msgid "Elf Settler"
+msgstr ""
+
+msgctxt "NPC/&DLC3_Elven_Civilian_3_Description"
+msgid "An inhabitant of the settlement."
+msgstr ""
+
+msgctxt "NPC/&DLC3_Elven_Civilian_Generic_Title"
+msgid "Elf Settler"
+msgstr ""
+
+msgctxt "NPC/&DLC3_Elven_Civilian_Generic_Description"
+msgid "An inhabitant of the settlement."
+msgstr ""
+
+msgctxt "NPC/&DLC3_Elven_Guard_1_Title"
+msgid "Lantinen Guard"
+msgstr ""
+
+msgctxt "NPC/&DLC3_Elven_Guard_1_Description"
+msgid "A soldier of the Lantinen Vartmerkint."
+msgstr ""
+
+msgctxt "NPC/&DLC3_ElvenClans_Civilian_01_Male_Suspect_Title"
+msgid "Finnolir Coldmoss"
+msgstr ""
+
+msgctxt "NPC/&DLC3_ElvenClans_Civilian_01_Male_Suspect_Description"
+msgid "Elven civilian."
+msgstr ""
+
+msgctxt "NPC/&DLC3_ElvenClans_Civilian_02_Female_Suspect_Title"
+msgid "Khainrra Elktree"
+msgstr ""
+
+msgctxt "NPC/&DLC3_ElvenClans_Civilian_02_Female_Suspect_Description"
+msgid "Elven civilian."
+msgstr ""
+
+msgctxt "NPC/&DLC3_ElvenClans_Civilian_03_Male_Suspect_Title"
+msgid "Adonril Goldensoul"
+msgstr ""
+
+msgctxt "NPC/&DLC3_ElvenClans_Civilian_03_Male_Suspect_Description"
+msgid "Elven civilian."
+msgstr ""
+
+msgctxt "NPC/&DLC3_ElvenClans_Guard_01_Male_Suspect_Title"
+msgid "Lotarien Silentoak"
+msgstr ""
+
+msgctxt "NPC/&DLC3_ElvenClans_Guard_01_Male_Suspect_Description"
+msgid "Elven patrol guard."
+msgstr ""
+
+msgctxt "NPC/&DLC3_ElvenClans_Guard_02_Male_Suspect_Traitor_Title"
+msgid "Lemreth Brighthand"
+msgstr ""
+
+msgctxt "NPC/&DLC3_ElvenClans_Guard_02_Male_Suspect_Traitor_Description"
+msgid "Elven patrol guard."
+msgstr ""
+
+msgctxt "NPC/&DLC3_ElvenClans_Civilian_04_Female_Informant_Title"
+msgid "Liliel Oakmoss"
+msgstr ""
+
+msgctxt "NPC/&DLC3_ElvenClans_Civilian_04_Female_Informant_Description"
+msgid "Elven civilian."
+msgstr ""
+
+msgctxt "NPC/&DLC3_MountainDruid_Title"
+msgid "Mountain Druid"
+msgstr ""
+
+msgctxt "NPC/&&DLC3_MountainDruid_Description"
+msgid ""
+"A druid from the snowy peaks of northern Ferendragh, an ardent defender of "
+"nature against the privations of civilization."
+msgstr ""
+
+msgctxt "NPC/&DLC3_Bandit_Archer_Title"
+msgid "Bandit Archer"
+msgstr ""
+
+msgctxt "NPC/&DLC3_Bandit_Archer_Description"
+msgid ""
+"An experienced elf bandit, as skilled with a shortsword as with a longbow."
+msgstr ""
+
+msgctxt "NPC/&DLC3_ElvenClanGuard_Title"
+msgid "Sylvan Elf Guard"
+msgstr ""
+
+msgctxt "NPC/&DLC3_ElvenClanGuard_Description"
+msgid ""
+"A citizen of the elven settlements who took up arms to protect the people."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Gallivan_Investigation_01_Title"
+msgid "Denila Highspirit"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Gallivan_Investigation_02_Title"
+msgid "Petra Hillsborough"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Gallivan_Investigation_03_Title"
+msgid "Karsen Synatir"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Gallivan_Investigation_04_Title"
+msgid "Jaden Greyhouse"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Gallivan_Investigation_05_Title"
+msgid "Zarmir Ortus"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Gallivan_Investigation_06_Title"
+msgid "Darol Granger"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Gallivan_Investigation_Description"
+msgid "Itainen Vartmerkint officer."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_Gallivan_InvestigationInformant_Description"
+msgid "Itainen Vartmerkint quartermaster."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_YoungDwarf_Title"
+msgid "Isrid Farsky"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_YoungDwarf_Description"
+msgid ""
+"A young dwarf full of spirit, ready to take on challenges despite her "
+"obvious lack of experience."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_YoungDwarfsMother_Title"
+msgid "Jardrid Farsky"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_Bjorni_Title"
+msgid "Björni Blackcloud"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_Bjorni_Description"
+msgid ""
+"A fire giant warlord who triggered a war against the Pohjolen Vartmerkint."
+msgstr ""
+
+msgctxt "NPC/&NPC_HeddlonSurespellDescription"
+msgid ""
+"An old acquaintance from the Legacy Council, Heddlon is a \"diplomat\" from "
+"the New Empire, but despite that fact, a trustworthy ally."
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_GreybearHunter_Title"
+msgid "Sylvan Hunter"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_GreybearHunter_Description"
+msgid "One of Greybear's companions."
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_Gatekeeper"
+msgid "Gatekeeper"
+msgstr ""
+
+msgctxt "NPC/&GallivanOfficer"
+msgid "Gallivan Officer"
+msgstr ""
+
+msgctxt "NPC/&Narrator"
+msgid "Narrator"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_NorthernClans_Merchant_EasternClans_Title"
+msgid "Berdel Ironfoot"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_NorthernClans_Merchant_EasternClans_Description"
+msgid "Valkarokkopun Eastern Clans merchant."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_NorthernClans_Merchant_CentralClans_Title"
+msgid "Signy Wisecat"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_NorthernClans_Merchant_CentralClans_Description"
+msgid "Valkarokkopun Central Clans merchant."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_NorthernClans_Merchant_WesternClans_Description"
+msgid "Valkarokkopun Western Clans merchant."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_NorthernClans_Merchant_SouthernClans_Description"
+msgid "Valkarokkopun Southern Clans merchant."
+msgstr ""
+
+msgctxt "NPC/&DLC3_MountainDruid_Description"
+msgid "A kind of hermit generally found in the Snow Alliance mountains."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_GallivanTrooper_Title"
+msgid "Gallivan Trooper"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_GallivanTrooper_Description"
+msgid "A standard foot soldier of the armies of Gallivan."
+msgstr ""
+
+msgctxt "NPC/&NPC_Prisoner_Title"
+msgid "Prisoner"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_GallivanCaporal_Title"
+msgid "Gallivan Corporal"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_GallivanCaporal_Description"
+msgid ""
+"A powerful soldier, champion of the Gallivan army, right-hand man of the "
+"highest ranking generals."
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_WhiteRockCity_Musician_Dwarf_01"
+msgid "Dwarf Musician"
+msgstr ""
+
+msgctxt "NPC/&DLC3_NPC_WhiteRockCity_Musician_Halfling_01"
+msgid "Halfling Musician"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_Newt_Title"
+msgid "Newt"
+msgstr ""
+
+msgctxt "NPC/&NPC_DLC3_Newt_Description"
+msgid ""
+"Some kind of pet wolf. It looks like a nice little doggy - but with big "
+"fangs."
+msgstr ""

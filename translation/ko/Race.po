@@ -2,16 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-19 04:14+0900\n"
-"PO-Revision-Date: 2022-11-19 02:54+0000\n"
-"Last-Translator: Sh K. <wjswn244@gmail.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/race/ko/>\n"
-"Language: ko\n"
+"POT-Creation-Date: 2023-06-05 18:53+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "Race/&DwarfDescription"
 msgid ""
@@ -1214,3 +1212,390 @@ msgstr "메갈로곤"
 msgctxt "Race/&DragonbornSurNameTitle"
 msgid "Clan"
 msgstr "클란"
+
+msgctxt "Race/&HumanSurName15Title"
+msgid "Brousse"
+msgstr ""
+
+msgctxt "Race/&HumanSurName16Title"
+msgid "Lys"
+msgstr ""
+
+msgctxt "Race/&TieflingTitle"
+msgid "Tiefling"
+msgstr ""
+
+msgctxt "Race/&TieflingDescription"
+msgid ""
+"One of their ancestors sold his soul to a fiend from the Outer Planes and "
+"now all his offspring carry the taint of fiendish blood. Their bodies "
+"reflect this inheritance, which leads many to distrust them at first sight. "
+"Because of these prejudices, most tieflings live reclusive lives in tightly "
+"knit communities."
+msgstr ""
+
+msgctxt "Race/&GnomeTitle"
+msgid "Gnome"
+msgstr ""
+
+msgctxt "Race/&GnomeDescription"
+msgid ""
+"Originating from the mountains bordering the Inner Sea, gnomes\n"
+"  are by preference underground-dwellers. Where dwarves have mastered "
+"dourness\n"
+"  and seriousness, life underground gave gnomes a zest for life shown in "
+"their\n"
+"  humor, and flexible approach to honor and morality. The only trait they "
+"share\n"
+"  with dwarves is a fascination for tinkering."
+msgstr ""
+
+msgctxt "Race/&GnomeMaleName1Title"
+msgid "Albo"
+msgstr ""
+
+msgctxt "Race/&GnomeMaleName2Title"
+msgid "Breeack"
+msgstr ""
+
+msgctxt "Race/&GnomeMaleName3Title"
+msgid "Dimgo"
+msgstr ""
+
+msgctxt "Race/&GnomeMaleName4Title"
+msgid "Dodnab"
+msgstr ""
+
+msgctxt "Race/&GnomeMaleName5Title"
+msgid "Gerkin"
+msgstr ""
+
+msgctxt "Race/&GnomeMaleName6Title"
+msgid "Higo"
+msgstr ""
+
+msgctxt "Race/&GnomeMaleName7Title"
+msgid "Jebyn"
+msgstr ""
+
+msgctxt "Race/&GnomeMaleName8Title"
+msgid "Kelro"
+msgstr ""
+
+msgctxt "Race/&GnomeMaleName9Title"
+msgid "Lipo"
+msgstr ""
+
+msgctxt "Race/&GnomeMaleName10Title"
+msgid "Namock"
+msgstr ""
+
+msgctxt "Race/&GnomeMaleName11Title"
+msgid "Nodkin"
+msgstr ""
+
+msgctxt "Race/&GnomeMaleName12Title"
+msgid "Orrdar"
+msgstr ""
+
+msgctxt "Race/&GnomeMaleName13Title"
+msgid "Seebo"
+msgstr ""
+
+msgctxt "Race/&GnomeMaleName14Title"
+msgid "Sinyn"
+msgstr ""
+
+msgctxt "Race/&GnomeMaleName15Title"
+msgid "Wiluck"
+msgstr ""
+
+msgctxt "Race/&GnomeFemaleName1Title"
+msgid "Almu"
+msgstr ""
+
+msgctxt "Race/&GnomeFemaleName2Title"
+msgid "Breebu"
+msgstr ""
+
+msgctxt "Race/&GnomeFemaleName3Title"
+msgid "Bodalla"
+msgstr ""
+
+msgctxt "Race/&GnomeFemaleName4Title"
+msgid "Dimella"
+msgstr ""
+
+msgctxt "Race/&GnomeFemaleName5Title"
+msgid "Ellfa"
+msgstr ""
+
+msgctxt "Race/&GnomeFemaleName6Title"
+msgid "Fongu"
+msgstr ""
+
+msgctxt "Race/&GnomeFemaleName7Title"
+msgid "Gerhu"
+msgstr ""
+
+msgctxt "Race/&GnomeFemaleName8Title"
+msgid "Hira"
+msgstr ""
+
+msgctxt "Race/&GnomeFemaleName9Title"
+msgid "Kelma"
+msgstr ""
+
+msgctxt "Race/&GnomeFemaleName10Title"
+msgid "Liell"
+msgstr ""
+
+msgctxt "Race/&GnomeFemaleName11Title"
+msgid "Nodulla"
+msgstr ""
+
+msgctxt "Race/&GnomeFemaleName12Title"
+msgid "Roonoll"
+msgstr ""
+
+msgctxt "Race/&GnomeFemaleName13Title"
+msgid "Seegu"
+msgstr ""
+
+msgctxt "Race/&GnomeFemaleName14Title"
+msgid "Sinalla"
+msgstr ""
+
+msgctxt "Race/&GnomeFemaleName15Title"
+msgid "Wilma"
+msgstr ""
+
+msgctxt "Race/&GnomeNickname1Title"
+msgid "Bobroch"
+msgstr ""
+
+msgctxt "Race/&GnomeNickname2Title"
+msgid "Morwain"
+msgstr ""
+
+msgctxt "Race/&GnomeNickname3Title"
+msgid "Garloch"
+msgstr ""
+
+msgctxt "Race/&GnomeNickname4Title"
+msgid "Eyot"
+msgstr ""
+
+msgctxt "Race/&GnomeNickname5Title"
+msgid "Nessel"
+msgstr ""
+
+msgctxt "Race/&GnomeNickname6Title"
+msgid "Vingral"
+msgstr ""
+
+msgctxt "Race/&GnomeNickname7Title"
+msgid "Maldro"
+msgstr ""
+
+msgctxt "Race/&GnomeNickname8Title"
+msgid "Browain"
+msgstr ""
+
+msgctxt "Race/&GnomeNickname9Title"
+msgid "Glimot"
+msgstr ""
+
+msgctxt "Race/&GnomeNickname10Title"
+msgid "Nodro"
+msgstr ""
+
+msgctxt "Race/&TieflingMaleName1Title"
+msgid "Adereph"
+msgstr ""
+
+msgctxt "Race/&TieflingMaleName2Title"
+msgid "Baphmedon"
+msgstr ""
+
+msgctxt "Race/&TieflingMaleName3Title"
+msgid "Dovachem"
+msgstr ""
+
+msgctxt "Race/&TieflingMaleName4Title"
+msgid "Elertor"
+msgstr ""
+
+msgctxt "Race/&TieflingMaleName5Title"
+msgid "Litamon"
+msgstr ""
+
+msgctxt "Race/&TieflingMaleName6Title"
+msgid "Maltaloch"
+msgstr ""
+
+msgctxt "Race/&TieflingMaleName7Title"
+msgid "Marlasath"
+msgstr ""
+
+msgctxt "Race/&TieflingMaleName8Title"
+msgid "Molcabas"
+msgstr ""
+
+msgctxt "Race/&TieflingMaleName9Title"
+msgid "Nabzutor"
+msgstr ""
+
+msgctxt "Race/&TieflingMaleName10Title"
+msgid "Ortaloch"
+msgstr ""
+
+msgctxt "Race/&TieflingMaleName11Title"
+msgid "Papholech"
+msgstr ""
+
+msgctxt "Race/&TieflingMaleName12Title"
+msgid "Picadai"
+msgstr ""
+
+msgctxt "Race/&TieflingMaleName13Title"
+msgid "Ratalech"
+msgstr ""
+
+msgctxt "Race/&TieflingMaleName14Title"
+msgid "Saberax"
+msgstr ""
+
+msgctxt "Race/&TieflingMaleName15Title"
+msgid "Valmedai"
+msgstr ""
+
+msgctxt "Race/&TieflingFemaleName1Title"
+msgid "Achcabat"
+msgstr ""
+
+msgctxt "Race/&TieflingFemaleName2Title"
+msgid "Ameriel"
+msgstr ""
+
+msgctxt "Race/&TieflingFemaleName3Title"
+msgid "Bamelith"
+msgstr ""
+
+msgctxt "Race/&TieflingFemaleName4Title"
+msgid "Dovyzu"
+msgstr ""
+
+msgctxt "Race/&TieflingFemaleName5Title"
+msgid "Forephiel"
+msgstr ""
+
+msgctxt "Race/&TieflingFemaleName6Title"
+msgid "Haphomat"
+msgstr ""
+
+msgctxt "Race/&TieflingFemaleName7Title"
+msgid "Liera"
+msgstr ""
+
+msgctxt "Race/&TieflingFemaleName8Title"
+msgid "Mantares"
+msgstr ""
+
+msgctxt "Race/&TieflingFemaleName9Title"
+msgid "Moltaeth"
+msgstr ""
+
+msgctxt "Race/&TieflingFemaleName10Title"
+msgid "Naberia"
+msgstr ""
+
+msgctxt "Race/&TieflingFemaleName11Title"
+msgid "Orphoias"
+msgstr ""
+
+msgctxt "Race/&TieflingFemaleName12Title"
+msgid "Paramzu"
+msgstr ""
+
+msgctxt "Race/&TieflingFemaleName13Title"
+msgid "Pimelith"
+msgstr ""
+
+msgctxt "Race/&TieflingFemaleName14Title"
+msgid "Raphoeth"
+msgstr ""
+
+msgctxt "Race/&TieflingFemaleName15Title"
+msgid "Zephyeth"
+msgstr ""
+
+msgctxt "Race/&TieflingNickname1Title"
+msgid "Silver"
+msgstr ""
+
+msgctxt "Race/&TieflingNickname2Title"
+msgid "Golden"
+msgstr ""
+
+msgctxt "Race/&TieflingNickname3Title"
+msgid "Red"
+msgstr ""
+
+msgctxt "Race/&TieflingNickname4Title"
+msgid "Scary"
+msgstr ""
+
+msgctxt "Race/&TieflingNickname5Title"
+msgid "Burned"
+msgstr ""
+
+msgctxt "Race/&TieflingNickname6Title"
+msgid "Sunny"
+msgstr ""
+
+msgctxt "Race/&TieflingNickname7Title"
+msgid "Brooding"
+msgstr ""
+
+msgctxt "Race/&TieflingNickname8Title"
+msgid "Broad-Shouldered"
+msgstr ""
+
+msgctxt "Race/&TieflingNickname9Title"
+msgid "Quicksilver"
+msgstr ""
+
+msgctxt "Race/&TieflingNickname10Title"
+msgid "Wicked"
+msgstr ""
+
+msgctxt "Race/&TieflingSurNameTitle"
+msgid "Nickname"
+msgstr ""
+
+msgctxt "Race/&GnomeSurNameTitle"
+msgid "Clan"
+msgstr ""
+
+msgctxt "Race/&GnomeRockDescription"
+msgid ""
+"Living inside mountains made of rock, gnomes are hardy and inventive. They\n"
+"  can live under the sky, but underground is home."
+msgstr ""
+
+msgctxt "Race/&GnomeShadowDescription"
+msgid ""
+"While rock gnomes chose to settle underground, shadow gnomes used a natural "
+"ability to hide in plain sight. As such, they weathered the Cataclysm in "
+"improbable places. Seemingly shy and aloof, their talent for stealth makes "
+"them feared practical jokers."
+msgstr ""
+
+msgctxt "Race/&GnomeShadowTitle"
+msgid "Shadow Gnome"
+msgstr ""
+
+msgctxt "Race/&GnomeRockTitle"
+msgid "Rock Gnome"
+msgstr ""

@@ -2,17 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-01 18:44+0900\n"
-"PO-Revision-Date: 2022-11-18 18:56+0000\n"
-"Last-Translator: E잡불어 <rarkar@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/functor/ko/"
-">\n"
-"Language: ko\n"
+"POT-Creation-Date: 2023-06-05 18:53+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "Functor/&GrantExperienceTitle"
 msgid "Grant Experience"
@@ -369,3 +366,235 @@ msgstr "보물"
 msgctxt "Functor/&ParameterInventoryOperationTreasuryDescription"
 msgid "The amount of treasury for this operation"
 msgstr "이 작업의 대상이 될 보물의 양"
+
+msgctxt "Functor/&LoreOperationTitle"
+msgid "Lore Operation"
+msgstr ""
+
+msgctxt "Functor/&LoreOperationDescription"
+msgid ""
+"Allows you to reveal information/knowledge to the players: crafting recipes, "
+"monster knowledge, or knowledge of a location node on the Campaign Map."
+msgstr ""
+
+msgctxt "Functor/&ParameterLoreOperationTypeTitle"
+msgid "Type"
+msgstr ""
+
+msgctxt "Functor/&ParameterLoreOperationTypeDescription"
+msgid "Defines the type of knowledge you want to reveal."
+msgstr ""
+
+msgctxt "Functor/&ParameterLoreOperationTypeNoneTitle"
+msgid "None"
+msgstr ""
+
+msgctxt "Functor/&ParameterLoreOperationTypeNoneDescription"
+msgid "Programming default, do not use."
+msgstr ""
+
+msgctxt "Functor/&ParameterLoreOperationTypeCraftingRecipeTitle"
+msgid "Crafting Option"
+msgstr ""
+
+msgctxt "Functor/&ParameterLoreOperationTypeCraftingRecipeDescription"
+msgid "Unlocks a crafting option for the party."
+msgstr ""
+
+msgctxt "Functor/&ParameterLoreOperationTypeRevealLocationTitle"
+msgid "Campaign Node Knowledge"
+msgstr ""
+
+msgctxt "Functor/&ParameterLoreOperationTypeRevealLocationDescription"
+msgid ""
+"Allows you to define the knowledge level of a location node on the Campaign "
+"Map."
+msgstr ""
+
+msgctxt "Functor/&ParameterLoreOperationTypeMonsterKnowledgeTitle"
+msgid "Monster Knowledge"
+msgstr ""
+
+msgctxt "Functor/&ParameterLoreOperationTypeMonsterKnowledgeDescription"
+msgid "Reveals bestiary information regarding a monster."
+msgstr ""
+
+msgctxt "Functor/&ParameterNodeKnowledgeLevelTitle"
+msgid "Knowledge Level"
+msgstr ""
+
+msgctxt "Functor/&ParameterNodeKnowledgeLevelDescription"
+msgid ""
+"Defines wanted knowledge level of the location node on the Campaign Map."
+msgstr ""
+
+msgctxt "Functor/&ParameterNodeKnowledgeLevelUnknownTitle"
+msgid "Unknown"
+msgstr ""
+
+msgctxt "Functor/&ParameterNodeKnowledgeLevelUnknownDescription"
+msgid "The node is unknown and invisible on the Campaign Map."
+msgstr ""
+
+msgctxt "Functor/&ParameterNodeKnowledgeLevelUnchartedTitle"
+msgid "Uncharted"
+msgstr ""
+
+msgctxt "Functor/&ParameterNodeKnowledgeLevelUnchartedDescription"
+msgid ""
+"The node is shown on the Campaign Map, but uses the \"Uncharted\" title and "
+"descriptions."
+msgstr ""
+
+msgctxt "Functor/&ParameterNodeKnowledgeLevelKnownTitle"
+msgid "Known"
+msgstr ""
+
+msgctxt "Functor/&ParameterNodeKnowledgeLevelKnownDescription"
+msgid ""
+"The node is visible on the Campaign Map with its regular title and "
+"description."
+msgstr ""
+
+msgctxt "Functor/&ParameterNodeKnowledgeLevelExploredTitle"
+msgid "Explored"
+msgstr ""
+
+msgctxt "Functor/&ParameterNodeKnowledgeLevelExploredDescription"
+msgid "Should not be used in the Dungeon Maker."
+msgstr ""
+
+msgctxt "Functor/&ParameterRecipeTitle"
+msgid "Crafting Option"
+msgstr ""
+
+msgctxt "Functor/&ParameterRecipeDescription"
+msgid "Specifies a crafting option."
+msgstr ""
+
+msgctxt "Functor/&ParameterMonsterTitle"
+msgid "Monster"
+msgstr ""
+
+msgctxt "Functor/&ParameterMonsterDescription"
+msgid "Allows the selection of a monster."
+msgstr ""
+
+msgctxt "Functor/&ParameterBestiaryKnowledgeLevelTitle"
+msgid "Bestiary Knowledge Level"
+msgstr ""
+
+msgctxt "Functor/&ParameterBestiaryKnowledgeLevelDescription"
+msgid ""
+"Selects the necessary level of knowledge for the monster in the bestiary."
+msgstr ""
+
+msgctxt "Functor/&ParameterBestiaryKnowledgeLevelUnknown0Title"
+msgid "Unknown 0"
+msgstr ""
+
+msgctxt "Functor/&ParameterBestiaryKnowledgeLevelUnknown0Description"
+msgid "No information on the creature."
+msgstr ""
+
+msgctxt "Functor/&ParameterBestiaryKnowledgeLevelObserved1Title"
+msgid "Observed 1"
+msgstr ""
+
+msgctxt "Functor/&ParameterBestiaryKnowledgeLevelObserved1Description"
+msgid "Basic Information"
+msgstr ""
+
+msgctxt "Functor/&ParameterBestiaryKnowledgeLevelStudied2Title"
+msgid "Studied 2"
+msgstr ""
+
+msgctxt "Functor/&ParameterBestiaryKnowledgeLevelStudied2Description"
+msgid "Advanced Information"
+msgstr ""
+
+msgctxt "Functor/&ParameterBestiaryKnowledgeLevelKnown3Title"
+msgid "Known 3"
+msgstr ""
+
+msgctxt "Functor/&ParameterBestiaryKnowledgeLevelKnown3Description"
+msgid "Detailed Information"
+msgstr ""
+
+msgctxt "Functor/&ParameterBestiaryKnowledgeLevelMastered4Title"
+msgid "Mastered 4"
+msgstr ""
+
+msgctxt "Functor/&ParameterBestiaryKnowledgeLevelMastered4Description"
+msgid "Full Information"
+msgstr ""
+
+msgctxt "Functor/&FactionSwitchTitle"
+msgid "FactionSwitch"
+msgstr ""
+
+msgctxt "Functor/&FactionSwitchDescription"
+msgid ""
+"Allows you to switch the faction of an NPC, turning them into a party "
+"\"Companion\" or an \"Enemy\"."
+msgstr ""
+
+msgctxt "Functor/&ParameterTargetFactionTitle"
+msgid "Target Faction"
+msgstr ""
+
+msgctxt "Functor/&ParameterTargetFactionDescription"
+msgid "The desired target faction for this group of creatures."
+msgstr ""
+
+msgctxt "Functor/&ParameterTargetFactionHostileMonstersTitle"
+msgid "Hostile"
+msgstr ""
+
+msgctxt "Functor/&ParameterTargetFactionHostileMonstersDescription"
+msgid "The target creature will attack."
+msgstr ""
+
+msgctxt "Functor/&ParameterTargetFactionNeutralMonstersTitle"
+msgid "Neutral"
+msgstr ""
+
+msgctxt "Functor/&ParameterTargetFactionNeutralMonstersDescription"
+msgid "The target creature will become idle."
+msgstr ""
+
+msgctxt "Functor/&ParameterTargetFactionPartyTitle"
+msgid "Party"
+msgstr ""
+
+msgctxt "Functor/&ParameterTargetFactionPartyDescription"
+msgid "The target creature will join the party."
+msgstr ""
+
+msgctxt "Functor/&ParameterEncounterGroupTitle"
+msgid "Encounter Group"
+msgstr ""
+
+msgctxt "Functor/&ParameterEncounterGroupDescription"
+msgid "The encounter group ID of the creatures targeted by this operation."
+msgstr ""
+
+msgctxt "Functor/&PurgeCompanionTitle"
+msgid "Purge Companion"
+msgstr ""
+
+msgctxt "Functor/&PurgeCompanionDescription"
+msgid ""
+"Removes the specified companion from the party and deletes them from the "
+"game. Another gadget can spawn them again as a dialog NPC, for example."
+msgstr ""
+
+msgctxt "Functor/&ParameterMonsterOrNpcTitle"
+msgid "Monster or NPC"
+msgstr ""
+
+msgctxt "Functor/&ParameterMonsterOrNpcDescription"
+msgid ""
+"Specifies a monster or NPC, either from the base game or from this user "
+"campaign."
+msgstr ""

@@ -40,6 +40,7 @@ for name, strings in list(category_dict.items()):
 os.makedirs(output_directory, exist_ok=True)
 
 for name, strings in category_dict.items():
+    print(name, len(strings))
     with open(os.path.join(output_directory, f"{name}.csv"), "w", encoding="utf-8", newline="") as of:
         w = csv.writer(of, quoting=csv.QUOTE_ALL)
         w.writerow(["context", "source", "target"])

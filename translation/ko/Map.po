@@ -2,16 +2,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-01 18:44+0900\n"
-"PO-Revision-Date: 2022-11-18 18:56+0000\n"
-"Last-Translator: E잡불어 <rarkar@naver.com>\n"
-"Language-Team: Korean <http://akintos.iptime.org/projects/solasta/map/ko/>\n"
-"Language: ko\n"
+"POT-Creation-Date: 2023-06-05 18:53+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
 
 msgctxt "Map/&Location_AbjurationRiverPass_Description"
 msgid ""
@@ -872,10 +870,14 @@ msgctxt "Map/&Location_Spy_SmallFort_Title"
 msgid "Spy Outpost"
 msgstr "스파이 전초 기지"
 
+#, fuzzy
+#| msgid ""
+#| "Daliat indicated that this place was a fortified hideout where Silent "
+#| "Whisper traitors were hiding. "
 msgctxt "Map/&Location_Spy_SmallFort_Description"
 msgid ""
 "Daliat indicated that this place was a fortified hideout where Silent "
-"Whisper traitors were hiding. "
+"Whisper traitors were hiding."
 msgstr "달리앗이 이 장소가 고요한 속삭임의 배신자들이 숨어있던 요새화된 은신처였다고 알려줬습니다. "
 
 msgctxt "Map/&Location_ScavengerCamp_Title"
@@ -1079,20 +1081,6 @@ msgstr "도시 중심에 위치한 민중의 비밀 은거지로 이어지는 �
 msgctxt "Map/&Waypoint_DLC1_Valley_Adventurers_Camp"
 msgid "Camp Fire"
 msgstr "야영지 모닥불"
-
-msgctxt "Map/&Location_Presentation_DLC3_Telema_Title"
-msgid "Ruins of Telema"
-msgstr "텔레마 유적"
-
-msgctxt "Map/&Location_Presentation_DLC3_Telema_Description"
-msgid ""
-"A famous archaeological site from the Manacalon era, Telema became a "
-"Scavenger outpost in the Badlands."
-msgstr "마나칼론 시대의 유명한 고고학 사적지 텔레마는, 황무지의 스캐빈저 전초기지가 되었습니다."
-
-msgctxt "Map/&Gadget_Feedback_MinorGateDisabled"
-msgid "Minor Gate not powered"
-msgstr "동력이 끊긴 보조 관문"
 
 msgctxt "Map/&Location_Uncharted_Title_Marches"
 msgid "Marches"
@@ -1864,3 +1852,735 @@ msgstr "동쪽 길"
 msgctxt "Map/&Waypoint_DLC1_Entrance_Swamp_03_Description"
 msgid "A shortcut to the orc camp."
 msgstr "오크 야영지로 이어지는 지름길."
+
+msgctxt "Map/&Location_Presentation_DLC3_Telema_Title"
+msgid "Ruins of Telema"
+msgstr "텔레마 유적"
+
+#, fuzzy
+#| msgid ""
+#| "A famous archaeological site from the Manacalon era, Telema became a "
+#| "Scavenger outpost in the Badlands."
+msgctxt "Map/&Location_Presentation_DLC3_Telema_Description"
+msgid ""
+"A famous archaeological site from the Manacalon era, Telema has become a "
+"Scavenger outpost in the Badlands."
+msgstr "마나칼론 시대의 유명한 고고학 사적지 텔레마는, 황무지의 스캐빈저 전초기지가 되었습니다."
+
+msgctxt "Map/&Gadget_Feedback_MinorGateDisabled"
+msgid "Minor Gate not powered"
+msgstr "동력이 끊긴 보조 관문"
+
+msgctxt "Map/&Location_Presentation_DLC3_VioletsHouse_Title"
+msgid "Violet's House"
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_VioletsHouse_Description"
+msgid ""
+"Violet is an old friend of Vigdis. She became a renowned scholar of the "
+"Circle of Danantar, and has extensive knowledge of Manacalon lore and magic."
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_GarradsCastle_Title"
+msgid "Highrock Outpost"
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_GarradsCastle_Description"
+msgid ""
+"Garrad is an old friend of Violet's. He commands a garrison in the Marches "
+"for the Principality of Masgarth."
+msgstr ""
+
+msgctxt "Map/&Location_DLC3_Telema_ScavengerCamp_Title"
+msgid "Scavenger Outpost"
+msgstr ""
+
+msgctxt "Map/&Location_DLC3_Telema_GhostRoom_Title"
+msgid "Rune Mechanism Room"
+msgstr ""
+
+msgctxt "Map/&Location_DLC3_Telema_SorakShrine_Title"
+msgid "Sorak Shrine"
+msgstr ""
+
+msgctxt "Map/&Location_DLC3_Telema_LowlabNormal_Title"
+msgid "Laboratory - Solastan"
+msgstr ""
+
+msgctxt "Map/&Location_DLC3_Telema_LowlabHell_Title"
+msgid "Laboratory - Outerplanar"
+msgstr ""
+
+msgctxt "Map/&Location_DLC3_Telema_TeasureRoom_Title"
+msgid "Treasure Room"
+msgstr ""
+
+msgctxt "Map/&Location_DLC3_Telema_MagicDoorRoom_Title"
+msgid "Magic Door Hall"
+msgstr ""
+
+msgctxt "Map/&Location_DLC3_Telema_SecretExit_Title"
+msgid "Secret Exit"
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_Einarium_Title"
+msgid "The Einareum"
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_Einarium_Description"
+msgid ""
+"An entire town dedicated to Einar, with a huge cathedral at its center from "
+"which the cult's authorities manage their flock."
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_PalaceOfIce_Title"
+msgid "The Palace of Ice"
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_PalaceOfIce_Description"
+msgid ""
+"A magical prison created by Exonaïka the Traveler to keep the Archdemon "
+"Sessroth under control."
+msgstr ""
+
+msgctxt "Map/&MapWaypoint_DLC3_VioletsHouseMajorGate_Title"
+msgid "Violet's Major Gate"
+msgstr ""
+
+msgctxt "Map/&MapWaypoint_DLC3_VioletsHouseMajorGate_Description"
+msgid "Teleport directly to Violet Goodcheer's private Major Gate."
+msgstr ""
+
+msgctxt "Map/&MapWaypoint_DLC3_TelemaMajorGate_Title"
+msgid "Exonaïka's Custom Gate"
+msgstr ""
+
+msgctxt "Map/&MapWaypoint_DLC3_TelemaMajorGate_Description"
+msgid "Teleport directly to the ruins of Telema using Exonaïka's Custom Gate."
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_WhiteCity_Title"
+msgid "White Rock City"
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_WhiteCity_Description"
+msgid ""
+"Valkarokkopun, \"White Rock City\" in dwarvish, is the capital of the Snow "
+"Alliance."
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_ElvenSettlements_Title"
+msgid "Elven Settlements"
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_ElvenSettlements_Description"
+msgid ""
+"Scattered villages and treehouses where sylvan elves of the Snow Alliance "
+"have settled."
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_GallivanBorder_Title"
+msgid "Gallivan Border"
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_GallivanBorder_Description"
+msgid ""
+"What used to be the border between the Kingdom of Gallivan, the Snow "
+"Alliance, and the Principality of Masgarth is now the front line of an all-"
+"out war."
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_Kaupaapunki_Title"
+msgid "Kaupaapunki"
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_Kaupaapunki_Description"
+msgid ""
+"This fortified city on the border between the Snow Alliance and the "
+"Principality of Masgarth is the home of Clan Kaikonnen."
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_IceHenge_Title"
+msgid "Icehenge"
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_IceHenge_Description"
+msgid ""
+"A natural ice formation in the middle of a frozen lake, often used as "
+"shelter by travelers."
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_KaupaapunkiUnderground_Title"
+msgid "Kaupaapunki - Underground"
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_KaupaapunkiUnderground_Description"
+msgid ""
+"This subterranean part of the city holds both the Kaikonnen Keep and the "
+"tunnels that the clan's miners have dug inside the mountain."
+msgstr ""
+
+msgctxt "Map/&MapWaypoint_PalaceOfIce_01"
+msgid "Broken Major Gate"
+msgstr ""
+
+msgctxt "Map/&MapWaypoint_PalaceOfIce_02"
+msgid "The Scar"
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_KaupaapunkiNecropolis_Title"
+msgid "Kaupaapunki - Necropolis"
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_KaupaapunkiNecropolis_Descriptio"
+msgid "An old necropolis set in the heart of the glacier."
+msgstr ""
+
+msgctxt "Map/&Gadget_DemonicPillar_Title"
+msgid "Demonic Pillar"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_Kaupaapunki_Clan_House"
+msgid "Kaikonnen Hall"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_Kaupaapunki_Eastern_Gate"
+msgid "Eastern Gate"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_Kaupaapunki_Entrance"
+msgid "Entrance"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_Kaupaapunki_Exit"
+msgid "Exit"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_Kaupaapunki_Inn"
+msgid "Inn"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_Kaupaapunki_Keep_Entrance"
+msgid "Keep Entrance"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_Kaupaapunki_Mausoleum_Entrance"
+msgid "Mausoleum Entrance"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_Kaupaapunki_Mines_Entrance"
+msgid "Mine Entrance"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_Kaupaapunki_Southern_Gate"
+msgid "Southern Gate"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_Kaupaapunki_Winter_Market"
+msgid "Winter Market"
+msgstr ""
+
+msgctxt "Map/&Location_DLC3_GallivanBorder_01"
+msgid "Eastern Front Line"
+msgstr ""
+
+msgctxt "Map/&Location_DLC3_GallivanBorder_02"
+msgid "Entrance"
+msgstr ""
+
+msgctxt "Map/&Location_DLC3_GallivanBorder_03"
+msgid "Southern Front Line"
+msgstr ""
+
+msgctxt "Map/&Location_DLC3_GallivanBorder_04"
+msgid "War Camp"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_Kaupaapunki_Necropolis"
+msgid "Necropolis"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_Kaupaapunki_Slab_Chamber"
+msgid "Slab Chamber"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_Kaupaapunki_Vault"
+msgid "Vault"
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_FrozenAqueduct_Title"
+msgid "Frozen Aqueduct"
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_FrozenAqueduct_Description"
+msgid "Ruins of the Manacalon era, stuck in ice."
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_SnowyHillock_Title"
+msgid "Bald Hill"
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_SnowyHillock_Description"
+msgid ""
+"A well-known location that crosses the border between the Snow Alliance and "
+"the Kingdom of Gallivan. Caravans often find shelter behind the hillock."
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_Castle_Title"
+msgid "Glendale Castle"
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_Castle_Description"
+msgid ""
+"An old castle from the Gallivan era that has been used as a vantage point "
+"and fortress during multiple wars. It's been disputed between the Snow "
+"Alliance and the Kingdom of Gallivan since the beginning of the war."
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_Hut_Title"
+msgid "Trapper's Hut"
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_Hut_Description"
+msgid "An old hut in the frozen lands of the Snow Alliance."
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_Lake_Title"
+msgid "Frozen Lake"
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_Lake_Description"
+msgid "A frozen lake in the lands of the Snow Alliance."
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_Kaupaapunki_Mines"
+msgid "Mines"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_Kaupaapunki_Keep"
+msgid "Mines"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_Kaupaapunki_Housing_Corridor"
+msgid "Housing Area"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_Kaupaapunki_Secret_Lair"
+msgid "Secret Lair"
+msgstr ""
+
+msgctxt "Map/&Location_DLC3_GallivanBorder_05"
+msgid "Outpost"
+msgstr ""
+
+msgctxt "Map/&MapWaypoint_DLC3_GallivanBorder_0_Title"
+msgid "War Camp"
+msgstr ""
+
+msgctxt "Map/&MapWaypoint_DLC3_GallivanBorder_0_Description"
+msgid "Enter from the west, on the Snow Alliance side of the border."
+msgstr ""
+
+msgctxt "Map/&MapWaypoint_DLC3_GallivanBorder_1_Title"
+msgid "Frontline"
+msgstr ""
+
+msgctxt "Map/&MapWaypoint_DLC3_GallivanBorder_1_Description"
+msgid "Enter from the east, on the Gallivan side of the border."
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_Undermountain_Exit"
+msgid "Exit"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_Undermountain_Gardens"
+msgid "Gardens"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_Undermountain_HeatGenerator"
+msgid "Heat Generator"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_Undermountain_HighCity"
+msgid "High City"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_Undermountain_LowCity"
+msgid "Low City"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_Undermountain_Quarry"
+msgid "Quarry"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_Undermountain_Temple"
+msgid "Temple"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_Undermountain_Well"
+msgid "Well"
+msgstr ""
+
+msgctxt "Map/&DLC3_WhiteCity_Elven_ClanHouse"
+msgid "Western Clans' Town House"
+msgstr ""
+
+msgctxt "Map/&DLC3_WhiteCity_Exit"
+msgid "Exit"
+msgstr ""
+
+msgctxt "Map/&DLC3_WhiteCity_Exit_02"
+msgid "Exit"
+msgstr ""
+
+msgctxt "Map/&DLC3_WhiteCity_Human_ClanHouse"
+msgid "Eastern Clans' Town House"
+msgstr ""
+
+msgctxt "Map/&DLC3_WhiteCity_Long_Rest"
+msgid "Long Rest"
+msgstr ""
+
+msgctxt "Map/&DLC3_WhiteCity_Major_Gate"
+msgid "Major Gate"
+msgstr ""
+
+msgctxt "Map/&DLC3_WhiteCity_Northern_ClanHouse"
+msgid "Northern Clans' Town House"
+msgstr ""
+
+msgctxt "Map/&DLC3_WhiteCity_Southern_ClanHouse"
+msgid "Southern Clans' Town House"
+msgstr ""
+
+msgctxt "Map/&MapWaypointDefinition_DLC3_WhiteCity_Trapper_Hut"
+msgid "Trapper's Hut"
+msgstr ""
+
+msgctxt "Map/&MapWaypointDefinition_DLC3_WhiteCity_Market_Place"
+msgid "Market Alley"
+msgstr ""
+
+msgctxt "Map/&MapWaypointDefinition_DLC3_WhiteCity_Human_ClanHouse"
+msgid "Eastern Clans' Town House"
+msgstr ""
+
+msgctxt "Map/&MapWaypointDefinition_DLC3_WhiteCity_Human_Quarters"
+msgid "Human District"
+msgstr ""
+
+msgctxt "Map/&DLC3_WhiteCity_Lift"
+msgid "Main Lift"
+msgstr ""
+
+msgctxt "Map/&MapWaypointDefinition_DLC3_WhiteCity_Undermountain_ClanHouse"
+msgid "Central Clans' Town House"
+msgstr ""
+
+msgctxt ""
+"Map/&MapWaypointDefinition_DLC3_WhiteCity_West_Battlementntain_ClanHouse"
+msgid "Western Battlement"
+msgstr ""
+
+msgctxt "Map/&MapWaypointDefinition_DLC3_WhiteCity_South_Battlement"
+msgid "Southern Battlement"
+msgstr ""
+
+msgctxt "Map/&MapWaypointDefinition_DLC3_WhiteCity_Inn"
+msgid "The Polar Bear Inn"
+msgstr ""
+
+msgctxt "Map/&Entrance_WhiteCity_MajorGate_Title"
+msgid "Major Gate Entrance"
+msgstr ""
+
+msgctxt "Map/&Entrance_WhiteCity_MajorGate_Description"
+msgid "You enter White Rock City directly from Gorm the Wise's Major Gate."
+msgstr ""
+
+msgctxt "Map/&MapWaypointDefinition_DLC3_WhiteCity_Central_Place"
+msgid "Central Place"
+msgstr ""
+
+msgctxt "Map/&MapWaypointDefinition_DLC3_WhiteCity_Dwarf_Quarters"
+msgid "Western District"
+msgstr ""
+
+msgctxt "Map/&MapWaypointDefinition_DLC3_WhiteCity_Elven_Quarters"
+msgid "Eastern District"
+msgstr ""
+
+msgctxt "Map/&MapWaypointDefinition_DLC3_WhiteCity_Lift"
+msgid "City Lift"
+msgstr ""
+
+msgctxt "Map/&MapWaypointDefinition_DLC3_WhiteCity_Council_Room"
+msgid "Council Room"
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_UndermountainCity_Title"
+msgid "Turvaamalinn"
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_UndermountainCity_Description"
+msgid "A huge dwarf city build under a mountain."
+msgstr ""
+
+msgctxt "Map/&DLC3_White_City_Underground_LocationDB_Uncharted_Title"
+msgid "White Rock City"
+msgstr ""
+
+msgctxt "Map/&DLC3_White_City_Underground_LocationDB_Uncharted_Description"
+msgid "One of the cities of the Snow Alliance."
+msgstr ""
+
+msgctxt "Map/&Map/&DLC3_White_City_Underground_LocationDB_Title"
+msgid "White Rock City"
+msgstr ""
+
+msgctxt "Map/&Map/&DLC3_White_City_Underground_LocationDB_Description"
+msgid ""
+"Valkarokkopun, \"White Rock City\" in dwarvish, is the capital of the Snow "
+"Alliance."
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_Uncharted_DLC3_Hut_Title"
+msgid "Snorri's Post House"
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_Uncharted_DLC3_Hut_Description"
+msgid "A post house hosted by Snorri and Helga, Marduk's friends."
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_Uncharted_DLC3_Lake_Title"
+msgid "Hunt Down the Giants"
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_Uncharted_DLC3_Lake_Description"
+msgid ""
+"A lake that you discovered after finding evidence of the giant attack at the "
+"frozen aqueduct."
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_Uncharted_DLC3_FrozenAqueduct_Title"
+msgid "Track Down the Giants"
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_Uncharted_DLC3_FrozenAqueduct_Description"
+msgid ""
+"Follow the tracks of the giants, hoping to find those who attacked and "
+"murdered Marduk's people."
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_Known_DLC3_FrozenAqueduct_Title"
+msgid "Follow the Smoke Trail"
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_Known_DLC3_FrozenAqueduct_Description"
+msgid "Follow the smoke trail you saw from the trapper's hut."
+msgstr ""
+
+msgctxt "Map/&Entrance_PalaceOfIce_MajorGate_Title"
+msgid "Major Gate Entrance"
+msgstr ""
+
+msgctxt "Map/&Entrance_PalaceOfIce_MajorGate_Description"
+msgid "You enter the Palace of Ice directly from Gorm the Wise's Major Gate."
+msgstr ""
+
+msgctxt "Map/&Location_DLC3_Telema_ArcheologicalSite_Title"
+msgid "Archeological Site"
+msgstr ""
+
+msgctxt "Map/&DLC3_Encounter_Hamlet_Title"
+msgid "Hamlet"
+msgstr ""
+
+msgctxt "Map/&DLC3_Encounter_Hamlet_Description"
+msgid "A small hamlet like many others in the region."
+msgstr ""
+
+msgctxt "Map/&DLC3_Encounter_Crossroads_Description"
+msgid "A seemingly peaceful place along the road."
+msgstr ""
+
+msgctxt "Map/&DLC3_Encounter_Bridge_Title"
+msgid "Bridge"
+msgstr ""
+
+msgctxt "Map/&DLC3_Encounter_Bridge_Description"
+msgid "A bridge over old Manacalon ruins."
+msgstr ""
+
+msgctxt "Map/&DLC3_Encounter_SnowyHillock_Title"
+msgid "Snowy hillock"
+msgstr ""
+
+msgctxt "Map/&DLC3_Encounter_SnowyHillock_Description"
+msgid ""
+"A peculiar hillock in the middle of the flat lands of the Snow Alliance."
+msgstr ""
+
+msgctxt "Map/&Location_DLC3_Telema_TunnelEntrance_Title"
+msgid "Tunnel Entrance"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_ElvenSettlements_CentralToDeepForest"
+msgid "Access to Deep Forest"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_ElvenSettlements_CentralToHigh"
+msgid "Elevator to High Elves District"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_ElvenSettlements_DeepForestToCentral"
+msgid "Access to Central District"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_ElvenSettlements_DeepForestToDragonLair"
+msgid "Cave"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_ElvenSettlements_Entrance"
+msgid "High Elves District"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_ElvenSettlements_HighToCentral"
+msgid "Elevator to Central District"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_ElvenSettlements_HouseToRuins"
+msgid "Access to the Ruins"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_ElvenSettlements_RuinsToHouse"
+msgid "Access to Central District"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_ElvenSettlements_Shop"
+msgid "Store District"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_ElvenSettlements_SylvanDistrict"
+msgid "Sylvan Elves District"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_ElvenSettlements_Council"
+msgid "Elder's Council"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_ElvenSettlements_Inn"
+msgid "Golden Perch Inn"
+msgstr ""
+
+msgctxt ""
+"Map/&Location_Presentation_DLC3_ElvenSettlementsDeepForest_UnchartedTitle"
+msgid "Deep Forest"
+msgstr ""
+
+msgctxt ""
+"Map/"
+"&Location_Presentation_DLC3_ElvenSettlementsDeepForest_UnchartedDescription"
+msgid "The forest under the sylvan elves houses."
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_ElvenSettlementsDeepForest_KnownTitle"
+msgid "Deep Forest and Cave"
+msgstr ""
+
+msgctxt ""
+"Map/&Location_Presentation_DLC3_ElvenSettlementsDeepForest_KnownDescription"
+msgid "The forest under the homes of the sylvan elves hosts a cave."
+msgstr ""
+
+msgctxt ""
+"Map/&Location_Presentation_DLC3_ElvenSettlementsDeepForest_ExploredTitle"
+msgid "Deep Forest and Dragon's Lair"
+msgstr ""
+
+msgctxt ""
+"Map/"
+"&Location_Presentation_DLC3_ElvenSettlementsDeepForest_ExploredDescription"
+msgid ""
+"The forest under the homes of the sylvan elves contains a dragon's lair."
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_ElvenSettlementsRuins_UnchartedTitle"
+msgid "Elven Ruins"
+msgstr ""
+
+msgctxt ""
+"Map/&Location_Presentation_DLC3_ElvenSettlementsRuins_UnchartedDescription"
+msgid ""
+"Not far from the elven settlement, the location seems to contain very old "
+"ruins. Possibly from the Manacalon era."
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_ElvenSettlementsRuins_KnownTitle"
+msgid "Elven Ruins"
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_ElvenSettlementsRuins_KnownDescription"
+msgid ""
+"Not far from the elven settlement, the location contains the tomb of "
+"Leralyn, the Elder's deceased wife."
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_ElvenSettlementsRuins_ExploredTitle"
+msgid "Elven Ruins"
+msgstr ""
+
+msgctxt ""
+"Map/&Location_Presentation_DLC3_ElvenSettlementsRuins_ExploredDescription"
+msgid ""
+"Not far from the elven settlement. A few centuries ago, before something "
+"terrible happened, it was the house of Leralyn and her husband, the Elder."
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_Lake_Quest_Title"
+msgid "Storm Giant Camp"
+msgstr ""
+
+msgctxt "Map/&Location_Presentation_DLC3_Lake_Quest_Description"
+msgid "This is where you found a bunch of giants fighting each other."
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_UndermountainLavaTunnel_NorthDuct"
+msgid "North Duct"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_UndermountainLavaTunnel_EastDuct"
+msgid "East Duct"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_UndermountainLavaTunnel_WestDuct"
+msgid "West Duct"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_UndermountainLavaTunnel_SouthDuct"
+msgid "South Duct"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_UndermountainLavaTunnel_CollapsedGallery"
+msgid "Collapsed Gallery"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_UndermountainLavaTunnel_Clandestine"
+msgid "Clandestine Heat Generator"
+msgstr ""
+
+msgctxt "Map/&Entrance_WhiteCity_Base_Title"
+msgid "Main City Entrance"
+msgstr ""
+
+msgctxt "Map/&Entrance_WhiteCity_Base_Description"
+msgid "The road through the mountains that leads to Valkarokkopun."
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_UndermountainLavaTunnel_Elevator"
+msgid "Elevator"
+msgstr ""
+
+msgctxt "Map/&Waypoint_DLC3_ElvenSettlements_Exit"
+msgid "Elven Settlement Exit"
+msgstr ""

@@ -65,6 +65,9 @@ class TranslationFile(List[TranslationEntry]):
 
     def export(self, path: str) -> None:
         po = pypo.pofile()
+        
+        po.init_headers()
+        po.header().fuzzy = False
 
         for entry in self:
             po.addunit(entry.to_pounit())

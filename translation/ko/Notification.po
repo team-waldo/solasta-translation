@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-05 18:53+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.4.1\n"
+
+msgctxt "Notification/&FactionRelationDecreaseDescription"
+msgid "Your relations with this faction have worsened."
+msgstr ""
+
+msgctxt "Notification/&FactionRelationDecreaseTitle"
+msgid "Relations Worsened ({0})"
+msgstr ""
+
+msgctxt "Notification/&FactionRelationIncreaseDescription"
+msgid "Your relations with this faction have improved."
+msgstr ""
+
+msgctxt "Notification/&FactionRelationIncreaseTitle"
+msgid "Relation Improved ({0})"
+msgstr ""
+
+msgctxt "Notification/&LocationRevealedDescription"
+msgid "A new destination is available."
+msgstr ""
+
+msgctxt "Notification/&LocationRevealedTitle"
+msgid "New Location Revealed"
+msgstr ""
+
+msgctxt "Notification/&MapWaypointRevealedDescription"
+msgid "Open the map."
+msgstr ""
+
+msgctxt "Notification/&MapWaypointRevealedTitle"
+msgid "New Waypoint Added"
+msgstr ""
+
+msgctxt "Notification/&MonsterInformationDescription"
+msgid "Your knowledge has increased."
+msgstr ""
+
+msgctxt "Notification/&MonsterInformationTitle"
+msgid "Bestiary Updated"
+msgstr ""
+
+msgctxt "Notification/&QuestStepAchievedDescription"
+msgid "You have successfully completed a quest objective."
+msgstr ""
+
+msgctxt "Notification/&QuestStepAchievedTitle"
+msgid "Objective Completed"
+msgstr ""
+
+msgctxt "Notification/&QuestStepFailedDescription"
+msgid "You have failed to complete a quest objective."
+msgstr ""
+
+msgctxt "Notification/&QuestStepFailedTitle"
+msgid "Objective Failed"
+msgstr ""
+
+msgctxt "Notification/&QuestStepStartedDescription"
+msgid "You have started a new objective for this quest."
+msgstr ""
+
+msgctxt "Notification/&QuestStepStartedTitle"
+msgid "New Objective"
+msgstr ""
+
+msgctxt "Notification/&RecipeLearnedDescription"
+msgid "Check your crafting options."
+msgstr ""
+
+msgctxt "Notification/&RecipeLearnedTitle"
+msgid "New Crafting Option"
+msgstr ""
+
+msgctxt "Notification/&InvestigationStartedTitle"
+msgid "Investigation Started"
+msgstr ""
+
+msgctxt "Notification/&InvestigationStartedDescription"
+msgid "You have started a new investigation."
+msgstr ""
+
+msgctxt "Notification/&InvestigationCompletedTitle"
+msgid "Investigation Completed"
+msgstr ""
+
+msgctxt "Notification/&InvestigationCompletedDescription"
+msgid "You solved the investigation."
+msgstr ""
+
+msgctxt "Notification/&InvestigationRegisteredClueTitle"
+msgid "Clue Discovered"
+msgstr ""
+
+msgctxt "Notification/&InvestigationRegisteredClueDescription"
+msgid "You found a new clue."
+msgstr ""
+
+msgctxt "Notification/&InvestigationTalkedToSuspectTitle"
+msgid "Suspect Interrogated"
+msgstr ""
+
+msgctxt "Notification/&InvestigationTalkedToSuspectDescription"
+msgid "You interrogated a suspect."
+msgstr ""
